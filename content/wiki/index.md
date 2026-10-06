@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？](sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc.md) — 伍被先判断诸侯、百姓均无反意，却提出伪造诏令制造恐慌的低胜算方案；刘安不断更换伪印、刺杀、纵火与假边警计划，最终在抓捕逼近时既无法动员也未能退出。
 - [《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？](sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt.md) — 伍被供述使淮南谋反案进入逮捕与清算阶段；刘安自尽、王族受诛、封国被废，而“王犹豫，计未决”被限定为时机诊断而非早反必胜的反事实。
 - [《资治通鉴·汉纪》304-1｜古代如何做双面间谍？](sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x.md) — 伍被在参与刘安谋划后才供出案件，雷被则因更早告发而脱身；节目以时机与张汤的威慑逻辑解释两种结局，同时保留“双面间谍”动机的推测边界。
 - [《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反](sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2.md) — 刘赐因属吏转投朝廷而违法报复，遭内史驳回并反揭劣迹；任官权被削使其对兄长刘安的防备升级为反朝廷意图。
@@ -3954,9 +3955,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
-- [伍被 / Wu Bei (Western Han)](entities/WuBeiWesternHan.md) — 参与淮南谋划后才向朝廷供述、却因张汤主张以惩罚维持威慑而未获宽免的刘安谋士。
+- [伍被 / Wu Bei (Western Han)](entities/WuBeiWesternHan.md) — 明知淮南缺乏反叛基础仍提出制造危机的低胜算方案，后向朝廷供述却因威慑逻辑未获宽免的刘安谋士。
 - [雷被 / Lei Bei (Western Han)](entities/LeiBeiWesternHan.md) — 较早告发刘安与刘迁并脱身，成为伍被后来试图效仿之时机对照的淮南门客。
-- [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 被告发并遭逮捕，其可能先行供述促使伍被转而自陈的淮南太子。
+- [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 朝廷抓捕目标；在淮南动员失败后提出代父担责并自刎未遂，其可能供述也促使伍被转而自陈。
 - [白盈 / Bai Ying (Hengshan Crown Prince's Associate)](entities/BaiYingHengshan.md) — 为刘爽提出勾引继母之策、又替被囚太子向朝廷传递谋反指控的衡山门客。
 - [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 受中央官员复核、任官权收束与储位审批约束，后因王室互告暴露谋反准备而被废的西汉封国。
 - [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 因违法报复与任官权被削而加深反朝廷意图，又让夺嫡和武器准备互相牵连、最终被两子揭发的西汉衡山王。
@@ -11509,8 +11510,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale expansion, fiscal extraction, talent-channel opening and shortage, Wugu violence, late remorse, and final succession design.
-- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王，其谋反案现包含与刘赐竞争及向其他宗室扩散调查的政治层。
-- [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
+- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王；其谋反案现呈现弱政治基础、方案膨胀、动员失败、供述清算与宗室扩散的完整链条。
+- [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used as a knowledge archive, a variant historical source, and an ironic capacity-and-self-knowledge frame for Liu An.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
 - [Jing Fang / 京房](entities/JingFang.md) — Han star-omen and reform figure whose kaogong proposal, lost court access, and private-speech leak turn political diagnosis into fatal exposure.

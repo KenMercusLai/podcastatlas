@@ -31106,3 +31106,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？
+
+Added source `zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc`; resynthesized [[LiuAn|淮南王刘安]], [[WuBeiWesternHan|伍被]], [[LiuQianHuainanCrownPrinceWesternHan|淮南太子刘迁]], [[Huainanzi|《淮南子》]], and [[PlanningWithoutDecisionTimingLoss|谋而不断式时机丧失]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 伍被 first diagnoses the absence of princely support and popular grievance, yet supplies a one-in-ten manufactured-crisis plan; 刘安 then multiplies forged-authority, assassination, fire, false-warning, and official-roundup schemes without a stable decision or exit rule, and the final failed summons reveals weak control over his own officials. No settled contradiction was adopted. The title's “逼死” outcome lies beyond this excerpt; dialogue, private motives, odds, plans, corruptibility judgments, and the attributed 《说林训》 wording remain source-scoped, while the joined evidence rejects the counterfactual that faster rebellion was therefore viable. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,889 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

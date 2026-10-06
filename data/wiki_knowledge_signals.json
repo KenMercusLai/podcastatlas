@@ -107638,6 +107638,50 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/huabei/"
     },
+    "Huainanzi": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段 [lmQKy6G3qi9NKlPdNYe4lK5rRBZ6].md",
+          "key": "zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何 [ljw0lLToWxd4qZ75V-wcNlKwQSkv].md",
+          "key": "zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》08丨一代名将吴起惨死（3） [ltcA_IKuZO9Ej7a0LFrGWV2_wulB].md",
+          "key": "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？ [ljTQn-NRXyF8Yqx-yOwsAiNKzMJc].md",
+          "key": "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/huainanzi/"
+    },
     "HualienTzuChiHospital": {
       "episode_count": 1,
       "show_count": 1,
@@ -135546,9 +135590,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -135584,6 +135628,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？ [ljTQn-NRXyF8Yqx-yOwsAiNKzMJc].md",
+          "key": "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
         }
       ],
       "updated": "2026-10-07",
@@ -137390,9 +137441,9 @@
       "url": "/wiki/entities/liuqilatehan/"
     },
     "LiuQianHuainanCrownPrinceWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -137407,6 +137458,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？ [ljTQn-NRXyF8Yqx-yOwsAiNKzMJc].md",
+          "key": "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
         }
       ],
       "updated": "2026-10-07",
@@ -176623,9 +176681,9 @@
       "url": "/wiki/concepts/plannedcommunitynewbuild/"
     },
     "PlanningWithoutDecisionTimingLoss": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？ [lp9u6Yu1lA2W6SFQWqfIKCVGQ9pT].md",
@@ -176633,6 +176691,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？ [ljTQn-NRXyF8Yqx-yOwsAiNKzMJc].md",
+          "key": "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
         }
       ],
       "updated": "2026-10-07",
@@ -240674,9 +240739,9 @@
       "url": "/wiki/concepts/writinginstrumentevolution/"
     },
     "WuBeiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -240691,6 +240756,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？ [ljTQn-NRXyF8Yqx-yOwsAiNKzMJc].md",
+          "key": "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
         }
       ],
       "updated": "2026-10-07",

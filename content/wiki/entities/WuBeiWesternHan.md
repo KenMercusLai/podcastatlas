@@ -6,55 +6,60 @@ tags: [person, western-han, huainan, adviser, rebellion, denunciation]
 sources:
   - zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x
   - zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt
+  - zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-伍被 / Wu Bei is a close adviser to [[LiuAn|淮南王刘安]] presented as both a participant in the Huainan conspiracy and the late confessor whose disclosure helps turn suspicion into arrests and a prosecutable political case, without saving him from execution.
+伍被 / Wu Bei is a close adviser to [[LiuAn|淮南王刘安]] presented as a pessimistic participant in the Huainan conspiracy and the late confessor whose disclosure turns an already exposed project into arrests and prosecution, without saving him from execution.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] starts from a genuine behavioral puzzle: Wu Bei allegedly expected rebellion to fail, still advised Liu An, and later disclosed the plan to a central envoy. The episode explains this through political opportunism, proposing that [[LeiBeiWesternHan|雷被]]'s earlier successful denunciation taught Wu Bei that changing sides could produce safety or advancement.
+[[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] gives Wu Bei's advice more operational detail. He reportedly tells Liu An that neither the princes nor the population have a motive to revolt, then proposes creating one through forged central orders, forced migration, elite arrests, and political fear. He rates even that plan at only one chance in ten and later participates in discussion of palace fire and false border warning. This makes him neither a confident strategist nor a simple dissenter: he diagnoses infeasibility while continuing to furnish methods.
 
-That explanation remains conjectural. The firmer profile is sequential: Wu Bei belonged to Liu An's intimate advisory circle, participated enough to face liability, confessed after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest made prior disclosure urgent, and was executed after [[ZhangTangWesternHan|张汤]] argued that mercy would weaken discipline. His case therefore shows that late cooperation in a political prosecution can supply evidence without restoring credibility or safety.
+[[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] then presents his change of position as a political puzzle. Wu Bei confesses after crown prince [[LiuQianHuainanCrownPrinceWesternHan|刘迁]] becomes vulnerable to arrest, possibly hoping to imitate [[LeiBeiWesternHan|雷被]]'s earlier successful denunciation. The episode explicitly labels the long-range double-agent interpretation as conjecture.
 
-The immediate consequence of that disclosure is a move against Liu Qian, the queen, royal guests, and the wider network after Wu Bei gives the alleged plan in detail to a central envoy. The two notes jointly support his evidentiary importance, while 304-1 supplies the later punishment outcome. [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]]
+The firmer sequence is narrower. Wu Bei participates enough to face liability, gives a detailed account to a central envoy after exposure rises, and supplies evidence that helps activate arrests and a broad inquiry. [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] supports that case-opening role; Hanji 304-1 says [[ZhangTangWesternHan|张汤]] nevertheless secures his execution on deterrence grounds despite [[HanWudi|汉武帝]]'s reported preference for mercy.
 
 ## Key Characteristics
 
 - Close Huainan adviser associated by the episode with the “淮南八公.”
-- Participant who allegedly recognized the rebellion's poor prospects but still supplied advice.
-- Late confessor who disclosed Liu An's plan after Liu Qian's arrest increased his exposure.
-- Insider whose detailed account is presented as the immediate bridge from conspiracy suspicion to arrests and wider inquiry.
-- Political actor interpreted by the host as imitating Lei Bei's earlier successful defection.
-- Executed despite Han Wudi's reported initial preference for mercy.
+- Analyst who reportedly recognizes the absence of princely support and popular grievance.
+- Participant who still proposes a manufactured-crisis plan despite assigning it very low odds.
+- Adviser involved in proliferating diversion and mobilization schemes that never become a settled operation.
+- Late confessor whose detailed account bridges conspiracy suspicion and wider arrests.
+- Political actor interpreted, but not proved, to have imitated Lei Bei's earlier defection.
+- Executed despite the information value of his cooperation and reported imperial reluctance.
 
 ## Evidence
 
-Participation and disclosure:
-- [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Wu Bei knew rebellion was likely fatal, advised Liu An, and later gave the central envoy a detailed confession.
+Negative assessment and continued advice:
+- [[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] attributes to Wu Bei the diagnosis of no princely dissent and no popular grievance, a one-in-ten estimate, and proposals to manufacture unrest through forged authority.
 
-Timing and punishment:
-- [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] links the timing of Wu Bei's confession to Liu Qian's arrest and says Zhang Tang's deterrence argument led to execution despite imperial reluctance.
+Disclosure and case activation:
+- [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Wu Bei knew the project was likely fatal, advised it, and later gave the central envoy a detailed confession after Liu Qian's arrest changed his incentives.
+- [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] places his surrender and account immediately before arrests and the wider investigation.
 
-Case activation:
-- [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] says Wu Bei surrenders to an envoy, discloses the full plan, and is followed by arrests and a broad investigation.
+Punishment:
+- [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Zhang Tang's institutional-deterrence argument defeats the emperor's reported preference to spare Wu Bei.
 
 ## Qualifications
 
-Hanji 304-1 explicitly marks its explanation of Wu Bei's motives as inference; Hanji 303-2 confirms the narrative importance of his confession but does not prove a long-range plan to provoke rebellion, defect, and gain office. His legal entitlement to reward, exact advice, confession wording and completeness, relationship to Wu Zixu, and classification among the 淮南八公 remain episode-attributed pending primary-text comparison.
+The sources do not resolve why Wu Bei continued advising a project he judged unlikely to succeed. Hanji 304-1 explicitly marks the proposed long-range plan to encourage revolt and profit from later defection as inference. Hanji 303-1's exact advice, numerical odds, private dialogue, forged-order plan, and role in later tactical ideas remain episode-attributed; pessimistic advice followed by participation and confession does not by itself prove either principled resistance or a preplanned double game.
 
 ## What Changed
 
-- The profile now distinguishes the confession's case-opening value from its failure to protect Wu Bei at sentencing.
-- The double-agent motive remains unproved despite the clearer disclosure-to-arrest sequence.
+- Wu Bei's role now begins with an explicit negative feasibility assessment rather than only a later statement that rebellion would fail.
+- His continued participation is grounded in a concrete manufactured-crisis proposal, sharpening but not resolving the motive puzzle.
+- The profile separates analytical pessimism, operational complicity, evidentiary cooperation, and sentencing outcome.
 
 ## Relationships
 
-- [[LiuAn|淮南王刘安]] - prince whom Wu Bei advised and later denounced.
+- [[LiuAn|淮南王刘安]] - prince whom Wu Bei advises and later denounces.
+- [[LiuQianHuainanCrownPrinceWesternHan|淮南太子刘迁]] - heir whose arrest exposure allegedly accelerates Wu Bei's confession.
 - [[LeiBeiWesternHan|雷被]] - earlier successful denouncer treated as Wu Bei's possible model.
-- [[LiuQianHuainanCrownPrinceWesternHan|淮南太子刘迁]] - arrested heir whose expected confession allegedly accelerated Wu Bei's disclosure.
 - [[ZhangTangWesternHan|张汤]] - official whose deterrence argument supports Wu Bei's execution.
 - [[HanWudi|汉武帝]] - ruler reported to have preferred mercy before accepting Zhang's position.
-- [[TimingDependentDefectionLeniency|倒戈宽免的时机依赖]] - concept explaining why cooperation did not produce equal protection at different case stages.
+- [[PlanningWithoutDecisionTimingLoss|谋而不断式时机丧失]] - planning failure to which Wu Bei contributes both warning and additional schemes.
+- [[TimingDependentDefectionLeniency|倒戈宽免的时机依赖]] - concept explaining why late cooperation does not reproduce early denunciation's protection.
