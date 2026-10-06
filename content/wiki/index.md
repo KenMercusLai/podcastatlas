@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
+- [《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？](sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc.md) — 赵信以两边军制知识建议匈奴北迁诱汉军深入，苏建由赎死为民到复任代郡太守；战争耗竭又促成卖爵、赎罪与武功爵入仕优先的财政应对。
 - [《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年](sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p.md) — 以祥瑞命名的追认叙事解释汉武帝年号制度，并把统一纪年、中央权威与济北王献泰山连接起来；“元朔”表述保留为转录或编年疑点。
 - [Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome](sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280.md) — All-In interview on five interacting historical forces, U.S. debt stabilization, gold and Bitcoin, tariffs, political-order risk, and the gap between AI technology and company returns.
 - [No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机](sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6.md) — 三五环 conversation with 梦阳 and 刘飞 on nonlinear careers, 腾讯微视, stand-up feedback, corporate ROI habits, repeated creative action, and freelance uncertainty.
@@ -3963,6 +3964,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
+- [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 战败后赎死为民、后来复任代郡太守并为苏武之父的西汉将领。
 - [济北王刘胡 / Liu Hu, King of Jibei (Western Han)](entities/LiuHuJibeiKingWesternHan.md) — 从祥瑞报告推测汉武帝将封禅、进献泰山及旁邑并获其他县补偿的西汉济北王。
 - [梦阳 / 孟阳](entities/MengYangStandup.md) — Stand-up comedian and short-video creator whose nonlinear path through audit and internet operations grounds the episode's creative-fit and uncertainty discussion.
 - [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
@@ -20788,7 +20791,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Term Private Ownership](concepts/LongTermPrivateOwnership.md) — Governance frame where patient private control can protect reinvestment, operating principles, and deep acquisition integration.
 - [Barrier-Removal Social Change](concepts/BarrierRemovalSocialChange.md) — Koch/Stand Together frame that social change should remove institutional barriers to agency, capability, contribution, and human flourishing.
 - [信陵君非正常死亡疑云 / Xinlingjun Death Suspicion](concepts/XinlingjunDeathSuspicion.md) — Source-scoped hypothesis that Xinlingjun's death before Wei Anxi Wang may reflect succession-security removal rather than only frustrated withdrawal.
-- [鬻爵赈灾融资 / Rank Sale Disaster Finance](concepts/RankSaleDisasterFinance.md) — Qin and late-Han mechanism of monetizing rank, status, or court-adjacent identity during disaster, epidemic, frontier, and fiscal pressure.
+- [鬻爵赈灾融资 / Rank Sale Disaster Finance](concepts/RankSaleDisasterFinance.md) — Qin, Western Han, and late-Han mechanism of monetizing rank, status, or appointment access during war, disaster, epidemic, frontier, and fiscal pressure.
 - [Emergency Warning Infrastructure](concepts/EmergencyWarningInfrastructure.md) — Sirens, alerts, dispatch, water readiness, fire assets, and resident communication layer Pratt says failed during the Palisades fire.
 - [Mandatory Treatment Homelessness Policy](concepts/MandatoryTreatmentHomelessnessPolicy.md) — Pratt's homelessness frame that emphasizes drugs, treatment compulsion, separated facilities, and public-order enforcement.
 - [Municipal Nonprofit Accountability](concepts/MunicipalNonprofitAccountability.md) — Demand that public money, emergency donations, and nonprofit contracts be auditable from funding source to recipient outcome.

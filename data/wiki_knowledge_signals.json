@@ -187895,9 +187895,9 @@
       "url": "/wiki/entities/ranavalonai/"
     },
     "RankSaleDisasterFinance": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡 [lsj3KD2Tb4tQtuvhWvSdwKh-h5EL].md",
@@ -187933,6 +187933,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓",
           "url": "/wiki/sources/zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
+          "key": "zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
         }
       ],
       "updated": "2026-10-07",
@@ -214632,6 +214639,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/sufeilatehan/"
+    },
+    "SuJianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
+          "key": "zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/sujianwesternhan/"
     },
     "SuJianxin": {
       "episode_count": 1,
@@ -253877,6 +253900,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhaoxieasternhan/"
+    },
+    "ZhaoXinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
+          "key": "zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/zhaoxinwesternhan/"
     },
     "ZhaoXinchenWesternHan": {
       "episode_count": 1,

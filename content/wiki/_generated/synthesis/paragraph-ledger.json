@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
       "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
       "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
       "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
@@ -799,11 +800,29 @@
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
     ],
-    "paragraph_count": 797
+    "paragraph_count": 798
   },
-  "overview_commit": "68512d36d010c56f4e4851148662a3377f780e7d",
-  "overview_digest": "8cb10406db9613357c14ce74c2f4a2ded66c4143cb80412c6271f48a079a47dc",
+  "overview_commit": "c92c17e50bba26d5e5de3ccc4f46b65546e9f8d3",
+  "overview_digest": "74ca548f456311ca6661f3b29036e8f76e448c6593a80e85650153daf116fb84",
   "paragraphs": [
+    {
+      "id": "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc|《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode connecting anti-[[Xiongnu|匈奴]] campaigning to strategic adaptation, command accountability, and emergency finance. It adds [[ZhaoXinWesternHan|赵信]] and [[SuJianWesternHan|苏建]], while sharpening [[RankSaleDisasterFinance|鬻爵赈灾融资]] with a reported 170,000-cash 武功爵 entry price and appointment priority at 千夫. Its core synthesis is that war cost includes rewards, casualties, horses, equipment, clothing, and grain transport; when these exhaust the treasury, rank and penal status can become fiscal assets, but monetization then approaches the personnel pipeline. No settled contradiction is recorded. Zhao Xin's title, marriage, and strategic influence; Su Jian's legal and restoration sequence; and the exact offense coverage, price, grade structure, revenue, and appointment effect remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "RankSaleDisasterFinance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuJianWesternHan",
+        "Xiongnu",
+        "ZhaoXinWesternHan",
+        "zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc"
+      ]
+    },
     {
       "id": "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
       "primary_topic": "governance-and-institutions",
