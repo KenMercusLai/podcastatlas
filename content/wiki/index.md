@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？](sources/zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke.md) — 李广反复请战获任漠北前将军，汉武帝却私下警告卫青其“命不好”；节目并补足两年备战、分兵与情报改道背景。
 - [《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜](sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv.md) — 漠北胜利使匈奴北迁却也耗尽汉军兵马与物资；战后霍去病声势上升、卫青门客转投，任安留守则构成权势依附的反例。
 - [《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？](sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq.md) — 卫青以两翼包抄和连夜追击击溃单于本部；单于逃脱引发军心与短暂继承震荡，但兵力、战果及心理因果仍保留来源边界。
 - [《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！](sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3.md) — 霍去病在漠北东路击溃左贤王、封狼居胥并远追北方；战果改变匈奴南部格局，但战马巨损也限制汉军继续大举进攻。

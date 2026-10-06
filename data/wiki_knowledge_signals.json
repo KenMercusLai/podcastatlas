@@ -130868,9 +130868,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -130906,6 +130906,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？ [lvJCnXGg4fubKSs4OsI2gWnMAHke].md",
+          "key": "zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke/"
         }
       ],
       "updated": "2026-10-06",
@@ -153374,9 +153381,9 @@
       "url": "/wiki/entities/moacirbarbosa/"
     },
     "MobeiBattleWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
@@ -153398,6 +153405,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？ [lvJCnXGg4fubKSs4OsI2gWnMAHke].md",
+          "key": "zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke/"
         }
       ],
       "updated": "2026-10-06",

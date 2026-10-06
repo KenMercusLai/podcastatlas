@@ -30696,3 +30696,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？
+
+Added source `zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke` and resynthesized [[LiGuangHanGeneral|李广]] and [[MobeiBattleWesternHan|漠北之战]] from their complete preserved evidence inventories. Core synthesis: the episode adds the campaign's two-year mobilization, divided command, and intelligence-driven route reversal, while showing Li Guang repeatedly request a final opportunity, receive appointment as front general, and enter the campaign under Wudi's private distrust. No settled contradiction was adopted. Preparation, force, horse, logistics, route, intelligence, dialogue, motive, and command-allocation details remain source-scoped, and Wudi's warning does not prove a deliberate plan to make Li Guang fail. Broad Han Wudi, Wei Qing, Huo Qubing, Xiongnu, supporting-general, and show pages were kept closed because the bounded addition is represented in the Li Guang and Mobei pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,838 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
