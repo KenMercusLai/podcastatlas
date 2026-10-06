@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq
   - zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke
   - zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-李广 / Li Guang is synthesized as the famous Western Han “Flying General” whose frontier reputation, troop care, and tragic final campaign become both a model and a burden for later family members. [[LiLingWesternHan|李陵]] is measured against his riding, archery, courage, soldier care, and ill fortune, while [[LiGanWesternHan|李敢]] turns grief over Li Guang's suicide into a later conflict with [[WeiQingHanGeneral|卫青]].
+李广 / Li Guang is synthesized as the famous Western Han “Flying General” whose frontier reputation rests on both battlefield resilience and shared-hardship command, but whose campaigns also end in severe loss, missed opportunity, and no marquisate. An earlier Youbeiping encirclement shows him steadying a badly outnumbered force through Li Gan's probe, circular defense, controlled archery, officer targeting, and personal composure; his final Mobei campaign instead ends in route failure, inquiry, and suicide. [[LiLingWesternHan|李陵]] is later measured against this martial model, while [[LiGanWesternHan|李敢]] turns grief over Li Guang's death into conflict with [[WeiQingHanGeneral|卫青]].
 
 ## Current Profile
 
-Hanji 380-1 and 377-1 present Li Guang mainly through Li Ling. His fame and martial model shape the grandson's frontier identity, but the sources do not justify a genetic or fixed-destiny explanation. [[zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke|Hanji 324-1]] adds the opening of Li Guang's own final campaign: he repeatedly petitions to join the Mobei expedition despite [[HanWudi|汉武帝]]'s concern about his age, wins appointment as front general under Wei Qing, and enters the campaign already burdened by Wudi's private warning that he has been unlucky and must not impede the objective. This establishes distrust before the later route failure without proving a plan to make him fail.
+Hanji 380-1 and 377-1 present Li Guang mainly through Li Ling. His fame and martial model shape the grandson's frontier identity, but the sources do not justify a genetic or fixed-destiny explanation. An earlier battlefield mechanism behind that reputation appears when Li Guang's four thousand cavalry becomes separated from [[ZhangQianWesternHan|张骞]]'s supporting force and a much larger Xiongnu army surrounds him. He sends Li Gan through the opposing formation to reduce fear, forms an outward-facing circular defense, conserves arrows for close range, personally shoots opposing officers, and maintains composure until relief arrives. Catastrophic losses and a court judgment of功过相当 prevent simple heroization: tactical survival and completed diversion do not become an unqualified operational success.
+
+Li Guang's own final campaign opens with repeated petitions to join the Mobei expedition despite [[HanWudi|汉武帝]]'s concern about his age. [[zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke|Hanji 324-1]] says he wins appointment as front general under Wei Qing and enters the campaign already burdened by Wudi's private warning that he has been unlucky and must not impede the objective. This establishes distrust before the later route failure without proving a plan to make him fail.
 
 Hanji 335 supplies a compressed ending: Li Guang misses a planned movement during a campaign under Wei Qing, refuses the humiliation of answering an inquiry conducted through junior officials after a long career, and kills himself; Li Gan then blames Wei Qing.
 
@@ -32,7 +35,7 @@ The same episode adds the command relationship behind Li Guang's reputation. He 
 
 ## Key Characteristics
 
-- Famous Western Han general remembered as the “Flying General” and as a martial reputation model for Li Ling.
+- Famous Western Han general remembered as the “Flying General,” with the Youbeiping encirclement supplying a tactical and morale-control basis for the reputation later inherited by Li Ling.
 - Father of Li Gan and source of the grievance that leads Li Gan to assault Wei Qing.
 - Long-serving but unenfeoffed commander whose final campaign ends in reassignment, guide failure, missed movement, inquiry, and suicide.
 - Aging commander who repeatedly seeks a final Mobei opportunity and receives the vanguard title despite Wudi's continuing distrust.
@@ -57,12 +60,16 @@ Shared-hardship command:
 - [[zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe|Hanji 325-2]] says Li Guang shares rewards and ordinary living conditions, drinks and eats only after soldiers, and leaves little surplus wealth.
 - [[zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe|Hanji 325-2]] reports broad military and public mourning after his death.
 
+Encirclement, morale, and bounded outcome:
+- [[zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb|Hanji 308]] says Li Guang uses Li Gan's probe, circular defense, close-range fire discipline, personal archery, and visible composure to hold a badly outnumbered force until relief arrives.
+- [[zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb|Hanji 308]] also reports severe losses and a功过相当 judgment, limiting claims that tactical courage alone warranted reward or amounted to clean victory.
+
 Intergenerational consequence:
 - [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] says Li Gan treats Wei Qing as responsible and assaults him.
 
 ## Qualifications
 
-These seven compact podcast sources do not reconstruct Li Guang's complete campaigns, the full Shiji and Hanshu traditions, the reasons he never received a marquisate, or his later literary reception. Hanji 324-1 establishes repeated petitioning, a front-general appointment, and Wudi's prior distrust, but its claim that the warning greatly determined Li Guang's end does not prove that Wudi or Wei Qing intended failure. Hanji 324-2 adds Li Guang's renewed vanguard request, angry departure, and the episode's dual-motive account of Wei's refusal, but does not establish the relative weight of imperial instruction, patronage, or military judgment. Hanji 325-1 repeats the reputation and suicide frame but does not add evidence for why Li Guang died. Hanji 325-2 strengthens the route-failure and shared-hardship portrait but does not prove that a guide was killed or removed, or that [[SimaQian|司马迁]] encoded a suppressed accusation through the “no guide” detail. The exact route, office language, ages, battle totals, archery description, legal exposure, dialogue, and scale of mourning remain source-scoped. Hanji 377-1's genetics-and-fate opening is a narrative device rather than evidence of inherited destiny.
+These eight compact podcast sources do not reconstruct Li Guang's complete campaigns, the full Shiji and Hanshu traditions, the reasons he never received a marquisate, or his later literary reception. Hanji 308's route, separation cause, force and casualty totals, bow type, opposing officers' ranks, enemy losses, dialogue, relief force, task definition, and reward standard remain episode-attributed. Its title's “路痴” does not establish that Li Guang became lost in this earlier battle; the missing-guide route failure belongs to his final Mobei campaign. Hanji 324-1 establishes repeated petitioning, a front-general appointment, and Wudi's prior distrust, but its claim that the warning greatly determined Li Guang's end does not prove that Wudi or Wei Qing intended failure. Hanji 324-2 adds Li Guang's renewed vanguard request, angry departure, and the episode's dual-motive account of Wei's refusal, but does not establish the relative weight of imperial instruction, patronage, or military judgment. Hanji 325-1 repeats the reputation and suicide frame but does not add evidence for why Li Guang died. Hanji 325-2 strengthens the route-failure and shared-hardship portrait but does not prove that a guide was killed or removed, or that [[SimaQian|司马迁]] encoded a suppressed accusation through the “no guide” detail. The exact route, office language, ages, battle totals, archery description, legal exposure, dialogue, and scale of mourning remain source-scoped. Hanji 377-1's genetics-and-fate opening is a narrative device rather than evidence of inherited destiny.
 
 ## What Changed
 
@@ -70,6 +77,7 @@ These seven compact podcast sources do not reconstruct Li Guang's complete campa
 - Established Wudi's private distrust as pre-battle context without converting it into proof of a deliberate failure plan.
 - Preserved Hanji 325-2 as the substantive evidence for the later reassignment, route failure, and death.
 - Added Li Guang's renewed vanguard request and open anger while keeping Wei Qing's intent unresolved.
+- Added the earlier Youbeiping encirclement as evidence for Li Guang's formation control, fire discipline, personal courage, and morale leadership while preserving its severe-loss and no-reward outcome.
 
 ## Relationships
 
@@ -80,3 +88,5 @@ These seven compact podcast sources do not reconstruct Li Guang's complete campa
 - [[Xiongnu|匈奴]] - frontier opponent around which Li Guang's reputation and final missed battle form.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - command mechanism expressed through Li Guang's sharing of rewards, water, food, and living conditions.
 - [[SimaQian|司马迁]] - historian whose transmitted portrait and supposed suppressed anger the episode invokes, with intent left unproved.
+- [[ZhangQianWesternHan|张骞]] - parallel commander whose delayed support leaves Li Guang isolated in Hanji 308.
+- [[TerrainFormationForceMultiplication|地形阵型战力放大]] - tactical mechanism joining circular defense, controlled archery, morale, depletion, and relief under numerical disadvantage.

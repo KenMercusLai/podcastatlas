@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv
   - zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo
   - zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-张骞 / Zhang Qian is presented as a Western Han envoy and senior court agent who converts an anti-Xiongnu alliance proposal into a divisible Western Regions mission. The current evidence treats him as a catalyst whose route knowledge and contacts help recurring exchange emerge, while his reputation later becomes a portable diplomatic asset and his 大行 office carries central investigative authority into a vassal kingdom.
+张骞 / Zhang Qian is presented as a Western Han envoy, commander, and senior court agent whose career includes both punished operational delay and unusually durable diplomatic achievement. The current evidence treats him as a catalyst whose route knowledge and contacts help recurring Western Regions exchange emerge, while his reputation later becomes a portable diplomatic asset and his 大行 office carries central investigative authority into a vassal kingdom.
 
 ## Current Profile
+
+A military setback precedes the later route-opening synthesis. Zhang leads a larger cavalry contingent on a route separate from [[LiGuangHanGeneral|李广]], but the forces become widely separated and he does not arrive until Li Guang's smaller force has survived an encirclement with severe losses. The current evidence says military law exposed Zhang to execution, which he avoided through payment before losing rank. This establishes delay and punishment without proving why the separation occurred or reducing his later diplomatic capacity to the battlefield failure.
 
 [[zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo|Hanji 341-1]] supplies the mission mechanism behind Zhang Qian's route-opening reputation. After Han pressure on Xiongnu opens western access, he proposes drawing [[Wusun|乌孙]] toward Han with gifts, relocation, brother-state language, and marriage, then leads a large mission with multiple credentialed deputy envoys. From Wusun he sends branches toward [[DayuanWesternHan|大宛]], [[Kangju|康居]], [[Yuezhi|月氏]], and [[DaxiaWesternHan|大夏]], turning one bilateral approach into a wider contact network.
 
@@ -33,7 +36,7 @@ His 大行 office also has a domestic central-authority function. Han Wudi sends
 
 ## Key Characteristics
 
-- Western Regions envoy who turns a Wusun alliance proposal into a distributed mission across several polities.
+- Commander punished for delayed support in the Li Guang encirclement and Western Regions envoy who later turns a Wusun alliance proposal into a distributed mission across several polities.
 - Route-opening catalyst whose missions are followed by recurring two-way contact and accumulated travel knowledge.
 - Negotiator who combines gifts, ritual-status demands, marriage offers, and observation of actual state capacity.
 - Trusted representative whose Bowang Hou title becomes a recognizable diplomatic credential.
@@ -63,15 +66,19 @@ Institutional limit:
 Central investigation:
 - [[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|Hanji 342-2]] says Han Wudi sends Zhang Qian to examine the Changshan accusations and obtain witnesses.
 
+Military delay and punishment:
+- [[zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb|Hanji 308]] says Zhang's force becomes separated from Li Guang, arrives too late to prevent the encirclement's severe losses, and Zhang loses rank after avoiding the prescribed death penalty through payment.
+
 ## Qualifications
 
-This page is bounded to four short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, office chronology, reports, dates, or wider Silk Road legacy. Hanji 341-1's force and gift totals, exact ritual exchange, office equivalences, route branches, return timing, and actors' private motives remain episode-attributed; it mentions rather than narrates the first mission. Hanji 341-2's mission frequency, route dimensions, travel durations, gift adjustment, commandery chronology, commodity directions, and “彻底打通” framing likewise remain source-scoped. Its tea, porcelain, and hairpin-to-Europe list is not treated as a Han-era chronology, and “带货第一人” does not establish sole authorship or personal carriage. Hanji 342-2 supplies no full case file or detailed account of his findings. Hanji 357-1's 114 BCE death date, reach-to-Iran-and-India framing, degree of Han Wudi's personal favor, and claim that later envoys routinely used Bowang Hou as a self-designation remain episode-attributed.
+This page is bounded to five short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, office chronology, reports, dates, or wider Silk Road legacy. Hanji 308 does not establish whether Zhang was slow, Li Guang was fast, or another route or command factor produced the separation; its force totals, timing, legal sentence, payment, and rank consequence remain episode-attributed. Hanji 341-1's force and gift totals, exact ritual exchange, office equivalences, route branches, return timing, and actors' private motives remain episode-attributed; it mentions rather than narrates the first mission. Hanji 341-2's mission frequency, route dimensions, travel durations, gift adjustment, commandery chronology, commodity directions, and “彻底打通” framing likewise remain source-scoped. Its tea, porcelain, and hairpin-to-Europe list is not treated as a Han-era chronology, and “带货第一人” does not establish sole authorship or personal carriage. Hanji 342-2 supplies no full case file or detailed account of his findings. Hanji 357-1's 114 BCE death date, reach-to-Iran-and-India framing, degree of Han Wudi's personal favor, and claim that later envoys routinely used Bowang Hou as a self-designation remain episode-attributed.
 
 ## What Changed
 
 - Added the transition from exploratory and delegated contact to recurrent two-way missions.
 - Added travel time, changing gift loads, frontier administration, and horse demand as limits on the “route opening” story.
 - Narrowed “古代带货第一人” to a catalytic metaphor rather than a claim of sole creation or personal commodity carriage.
+- Added the delayed-support campaign and demotion as a bounded military failure distinct from Zhang Qian's later diplomatic achievement.
 
 ## Relationships
 
@@ -86,3 +93,4 @@ This page is bounded to four short podcast sources and does not reconstruct Zhan
 - [[CheshiKingdomWesternHan|车师]] - northern-route polity appearing in the same deteriorating corridor field.
 - [[LiuBoChangshanKingWesternHan]] - vassal king whose alleged obstruction meets Zhang Qian's investigation.
 - [[MourningConductLegalization]] - ritual-law field in which the Changshan inquiry operates.
+- [[LiGuangHanGeneral|李广]] - parallel commander whose isolated force Zhang Qian reaches only after the encirclement has caused severe losses.

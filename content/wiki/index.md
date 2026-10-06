@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？](sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb.md) — 霍去病以沙漠迂回谋求切断退路；李广在与张骞脱节后以圆阵、近射和主将稳军撑到援军，却因损失惨重仅获功过相当。
 - [Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045.md) — All-In interview on Iran, drone warfare, defense AI control, the Anthropic dispute, and industrial modernization.
 - [《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？](sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic.md) — 浑邪王与休屠王因惧怕单于清算而共谋降汉，却因承诺与河西利益分化在受降前内斗；浮桥计划、私下动机、战斗细节及休屠王死法均保留来源边界。
 - [《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？](sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l.md) — 以明定陵同时出现大量出土与保存损失说明主动发掘的准备风险，并以刘宽从简葬反证刘寄墓未必富丽；责任链、损失清单与轶闻均保留来源边界。

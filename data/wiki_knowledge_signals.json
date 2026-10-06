@@ -109985,9 +109985,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110079,6 +110079,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
         }
       ],
       "updated": "2026-10-07",
@@ -132021,9 +132028,9 @@
       "url": "/wiki/entities/lifulatehan/"
     },
     "LiGanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
@@ -132038,9 +132045,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
           "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liganwesternhan/"
     },
     "LiGaoRunanLateHan": {
@@ -132181,9 +132195,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -132233,9 +132247,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》324-2｜李广与卫青，两位名将的爱恨情仇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
@@ -219603,9 +219624,9 @@
       "url": "/wiki/concepts/terrainconstrainedcombinedarms/"
     },
     "TerrainFormationForceMultiplication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
@@ -219613,9 +219634,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/terrainformationforcemultiplication/"
     },
     "TerritorialSlaveryExpansion": {
@@ -250690,9 +250718,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -250721,9 +250749,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/zhangqianwesternhan/"
     },
     "ZhangQiaoLateHan": {

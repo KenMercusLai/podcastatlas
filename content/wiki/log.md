@@ -30992,3 +30992,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？
+
+Added source `zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb`; resynthesized [[LiGuangHanGeneral|李广]], [[LiGanWesternHan|李敢]], [[HuoQubing|霍去病]], [[ZhangQianWesternHan|张骞]], and [[TerrainFormationForceMultiplication|地形阵型战力放大]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Huo's second-Hexi design seeks rear access through a high-risk desert maneuver, while Li Guang's isolated force converts circular defense, controlled fire, officer targeting, Li Gan's probe, and visible composure into survival until relief; severe loss still produces a功过相当, no-reward outcome, and Zhang Qian is punished for delay. No settled contradiction was adopted. The title's “路痴” is not applied to this battle because the supplied episode describes separation rather than Li Guang becoming lost; his missing-guide route failure belongs to the later Mobei campaign. Routes, distances, water and climate, force and casualty totals, tactical dialogue, bow type, relief force, task definition, legal sentence, payment, and reward judgment remain episode-attributed. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and corridor pages were kept closed because the bounded additions are represented in the focused profiles, concept, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,875 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
