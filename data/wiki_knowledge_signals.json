@@ -49766,6 +49766,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/crisisrumordeamplification/"
     },
+    "CrisisSurrenderStabilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王 [liJ9EECRq-IgxpvFtkEY5shu8395].md",
+          "key": "zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/crisissurrenderstabilization/"
+    },
     "CrisisValidatedConspiracyPolitics": {
       "episode_count": 6,
       "show_count": 1,
@@ -109469,9 +109485,9 @@
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HunyeKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
@@ -109479,6 +109495,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王 [liJ9EECRq-IgxpvFtkEY5shu8395].md",
+          "key": "zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395/"
         }
       ],
       "updated": "2026-10-07",
@@ -109731,9 +109754,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -109811,9 +109834,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王 [liJ9EECRq-IgxpvFtkEY5shu8395].md",
+          "key": "zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/huoqubing/"
     },
     "HuoShanSonOfHuoQubing": {

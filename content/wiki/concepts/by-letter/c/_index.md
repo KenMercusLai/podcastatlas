@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9776
+wiki_total_pages: 9777
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2633,6 +2633,9 @@ wiki_pages:
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"
+  - key: "CrisisSurrenderStabilization"
+    title: "Crisis Surrender Stabilization / 危机受降稳控"
+    url: "/wiki/concepts/crisissurrenderstabilization/"
   - key: "CrisisWithdrawalSelfProtection"
     title: "Crisis Withdrawal Self-Protection / 危局抽身自保"
     url: "/wiki/concepts/crisiswithdrawalselfprotection/"

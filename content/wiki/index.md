@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王](sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395.md) — 霍去病在联合归降破裂后，以威慑、封赏、借力执行、分离首领与迅速南迁稳住尚可反复的浑邪王部众。
 - [《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人](sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak.md) — 浑邪王归降后，迎接所需车马、赏赐与劳役把对外信誉转成民间负担；汲黯又以情境化法律批评五百余名商人的死刑判决。
 - [EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI](sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai.md) — Data Science With Sam on Anthropic's reported Pentagon exclusion, OpenAI's replacement deal, surveillance and autonomous-weapons red lines, litigation, public backlash, and the legitimacy gap in closed military-AI bargaining.
 - [《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了](sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89.md) — 以昆明池的练兵、水利、漕运、养鱼、祭祀和游乐功能说明汉武帝大型工程的复合用途，并把牵牛织女石像限定为早期景观实证而非完整传说的唯一发源证明。
@@ -3953,7 +3954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并以清名治理淮阳、预警张汤的西汉直臣。
-- [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 率众归汉后，其迎接、赏赐与随众交易引发对外交信誉、国内负担和法律适用争议的匈奴王。
+- [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降先经霍去病以威慑、奖赏、借力执行与迅速迁移稳控，随后又因迎接、赏赐和交易引发国内负担与法律争议的匈奴王。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
@@ -6000,7 +6001,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose source-scoped palace cultivation and command-balancing origin, Mobei victory, doctrine adaptation, welfare limits, protected killing, family afterlife, and unresolved early death require distinct evidentiary judgments.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose crisis surrender management, source-scoped palace cultivation, doctrine adaptation, Mobei victory, welfare limits, protected killing, family afterlife, and unresolved early death require distinct evidentiary judgments.
 - [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -16512,6 +16513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative lexicographical project and a test case in labor, fame, and disputed patronage.
 
 ## Concepts
+- [Crisis Surrender Stabilization / 危机受降稳控](concepts/CrisisSurrenderStabilization.md) — 通过威慑、选择性奖赏、借力执行、分离首领与迅速迁移，把尚可反复的武装归降转为可控移动。
 - [Georgian Literary Labor and Patronage](concepts/GeorgianLiteraryLaborAndPatronage.md) — Mixed authorship system joining commercial print, commissioned work, collaboration, sponsorship, debt, theatre, and public pension.
 - [Military Success, Political Failure](concepts/MilitarySuccessPoliticalFailure.md) — Strategic mismatch in which target destruction or regime defeat fails to produce a legitimate, governable, or sustainable political order.
 - [Great-Power Rivalry Escalation Dynamics](concepts/GreatPowerRivalryEscalationDynamics.md) — Non-deterministic account of how power shifts, incidents, geography, perceptions, and reactions can pull rising and established powers toward conflict.

@@ -30896,3 +30896,11 @@ Added source `zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王
+
+Added source `zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395`; created [[CrisisSurrenderStabilization|危机受降稳控]]; and resynthesized [[HuoQubing|霍去病]] and [[HunyeKingWesternHan|浑邪王]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: when a joint armed surrender fractures, Huo combines visible force, selective reward, Hunye King's local authority, leader separation, and rapid movement south of the Yellow River to reduce the chance of reversal. The supplied document's conflicting accounts of the Xiutu King's death are preserved rather than harmonized; dialogue, cultural psychology, place and group identifications, force and casualty totals, near-zero Han losses, later relocation scale, and reward figures remain episode-attributed. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and [[ZhaoPonuWesternHan|赵破奴]] pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,863 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

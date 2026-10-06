@@ -5,49 +5,59 @@ knowledge_schema: synthesis-v1
 tags: [western-han, xiongnu, ruler, surrender, frontier]
 sources:
   - zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak
+  - zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-浑邪王 / Hunye King is presented as a [[Xiongnu|匈奴]] ruler whose surrender to [[HanWudi|汉武帝]] creates both strategic value and a contested domestic reception burden. The current evidence concerns the surrender's arrival and Han response rather than his full biography, earlier campaigns, or later status.
+浑邪王 / Hunye King is presented as a [[Xiongnu|匈奴]] ruler whose submission to [[HanWudi|汉武帝]] has two distinct phases: an unstable armed transfer managed by [[HuoQubing|霍去病]], followed by a costly Han reception that generates disputes over transport, rewards, civilian burdens, and law. The current evidence does not reconstruct his full biography or independently settle the surrender's detailed chronology.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] says Hunye King leads a large surrendered population to Han. Wudi treats credible reception as a matter of state sincerity and imperial standing, seeks vehicles and borrowed horses for transport, and distributes substantial state resources to the newcomers.
+[[zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395|Hanji 313-1]] begins before submission is secure. Hunye King and the Xiutu King are said to have planned a joint surrender, but Xiutu resistance produces internal fighting and leaves armed groups free to flee. Huo Qubing therefore treats Hunye King's declaration as the start of stabilization rather than its completion: he imposes a public surrender-or-resistance boundary, requires Hunye King to guide the operation, and uses his authority and forces against departing Xiutu groups.
 
-The episode does not reduce this incorporation to a diplomatic success. [[JiAnWesternHan|汲黯]] argues that Han should not exhaust the treasury, compel civilians, or elevate a surrendered subordinate over the population that paid for the preceding war. When Han merchants trade with the surrendered Xiongnu in Chang'an, severe sentences turn reception into a dispute about whether external incorporation can be sustained by disproportionate internal harm.
+The same episode says Huo sends Hunye King toward Chang'an ahead of the larger body and moves the remaining cavalry south across the Yellow River. This makes Hunye King both a surrendering ruler and an intermediary whose local authority helps Han separate compliant from resisting groups. It does not prove his private motive, the voluntariness of every follower, or the episode's exact troop and casualty totals.
+
+[[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] follows the transfer into its domestic reception. Wudi treats vehicles, borrowed horses, and rewards as signals that surrender is credible, while [[JiAnWesternHan|汲黯]] argues that the court should not exhaust the treasury, compel civilians, or elevate a surrendered subordinate over the people who paid for the war. When Han merchants trade with the surrendered Xiongnu in Chang'an, severe sentences turn incorporation into a dispute over changed legal context and disproportionate internal harm.
 
 ## Key Characteristics
 
-- Xiongnu ruler presented as entering Han through formal surrender with a large following.
-- Receives a reception whose vehicles, horses, labor, and rewards carry substantial domestic costs.
-- Becomes the focal point of a dispute between diplomatic credibility and the burdens placed on Han civilians.
-- His followers' trade with Chang'an merchants triggers a contested application of frontier restrictions.
+- Xiongnu ruler whose planned joint surrender fractures before Han control is secure.
+- Intermediary required to guide Huo Qubing and direct affiliated forces against resisting Xiutu groups.
+- Leader separated from the larger armed population and sent toward Chang'an as part of rapid stabilization.
+- Focal point of a Han reception whose vehicles, horses, labor, and rewards carry substantial domestic costs.
+- His followers' Chang'an trade triggers a dispute over frontier restrictions, legal notice, and proportional punishment.
 
 ## Evidence
 
-Surrender and reception:
-- [[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] presents Hunye King and his followers as surrendering to Han and Wudi as seeking a large ceremonial-logistical reception.
+Fractured surrender and enforcement role:
+- [[zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395|Hanji 313-1]] says the planned joint surrender breaks down and Huo requires Hunye King to guide the operation and mobilize his own side against resisters.
 
-Domestic burden:
-- [[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] attributes to Ji An the objection that state property and civilian labor are being used too heavily for surrendered outsiders.
+Separation and armed transfer:
+- [[zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395|Hanji 313-1]] says Hunye King is sent ahead while more than forty thousand cavalry are moved south; the exact sequence and total remain episode-attributed.
+
+Reception and domestic burden:
+- [[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] presents Wudi's reception logistics and Ji An's objection to the resulting state and civilian burden.
 
 Trade and punishment:
-- [[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] says Chang'an merchants' trade with the surrendered Xiongnu leads to more than five hundred death sentences under a disputed frontier-law interpretation.
+- [[zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak|Hanji 314-1]] says trade between Chang'an merchants and the surrendered Xiongnu leads to more than five hundred death sentences under a disputed frontier-law interpretation.
 
 ## Qualifications
 
-The profile rests on one compact podcast summary and does not establish Hunye King's full identity, title history, motives, route, force size, negotiations, later fief, family, or relationship to [[JinMidiWesternHan|金日磾]]. It records the Han court's reception controversy rather than the surrender from Hunye King's perspective. Exact vehicle, population, reward, and sentence totals remain source-scoped, and the supplied note does not independently prove that all merchant death sentences were executed.
+The profile rests on two compact podcast summaries and does not independently establish Hunye King's full title history, motives, the Xiutu King's death, route, negotiations, force size, later fief, family, or relationship to [[JinMidiWesternHan|金日磾]]. Hanji 313-1 conflicts internally by saying in one place that Hunye King killed the Xiutu King and elsewhere that the Xiutu King killed himself. Its dialogue, cultural psychology, battle movements, casualty count, population totals, and minimal-Han-loss claim remain source-scoped. Hanji 314-1's vehicle, reward, merchant, and sentence figures likewise remain episode-attributed, and it does not prove that every death sentence was executed.
 
 ## What Changed
 
-- Created a bounded profile centered on surrender reception and its domestic political costs.
+- Extended the profile backward from costly reception to the still-reversible armed surrender managed by Huo Qubing.
+- Added Hunye King's intermediary role in guiding and enforcing the separation of compliant and resisting groups.
 
 ## Relationships
 
 - [[Xiongnu]] - polity and political world from which Hunye King surrenders.
-- [[HanWudi]] - Han ruler who organizes and rewards the reception.
-- [[JiAnWesternHan]] - remonstrant who contests the fiscal, labor, and legal treatment surrounding the surrender.
-- [[SurrenderReceptionDomesticBurden]] - governance conflict made visible by the reception and merchant cases.
-- [[JinMidiWesternHan]] - Xiongnu-born Han court figure whose existing source chain may involve Hunye King's wider historical context, though the present source does not establish the relationship.
+- [[HuoQubing]] - Han commander who forces a public choice, uses Hunye King's local authority, and rapidly relocates the armed population.
+- [[HanWudi]] - Han ruler who receives and rewards the surrendered population.
+- [[JiAnWesternHan]] - remonstrant who contests the fiscal, labor, and legal treatment surrounding the reception.
+- [[CrisisSurrenderStabilization]] - operational pattern in which Hunye King becomes both surrendering leader and enforcement intermediary.
+- [[SurrenderReceptionDomesticBurden]] - governance conflict made visible by the later reception and merchant cases.
+- [[JinMidiWesternHan]] - Xiongnu-born Han court figure whose wider historical context may intersect the Xiutu branch, though the present sources do not establish the relationship.
