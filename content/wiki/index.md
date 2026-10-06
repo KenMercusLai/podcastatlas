@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？](sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9.md) — 霍去病第一次河西进军被解释为高速机动、穿插分割、以战养战与有条件招降的结合；战损、路线、数字及战前咨询张骞均保留来源边界。
 - [《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！](sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z.md) — 张骞从大夏所见蜀地货物推断西南通身毒的可能路线；四路探查虽受阻，却抵达滇国并把失败的寻路转化为新的区域情报。
 - [《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？](sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb.md) — 霍去病以沙漠迂回谋求切断退路；李广在与张骞脱节后以圆阵、近射和主将稳军撑到援军，却因损失惨重仅获功过相当。
 - [《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一](sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik.md) — 公孙敖迷路失期后，霍去病仍继续深入并重创河西西部力量；战果推动战略转折，但路线、数字与“从此无匈奴”等绝对表述保留来源边界。
@@ -3951,6 +3952,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shervin Pishevar](entities/ShervinPishevar.md) — Iranian-American investor whose family history, Pahlavi support, and Iran Prosperity Project advocacy frame the episode's diaspora case for transition.
 - [Iran Prosperity Project](entities/IranProsperityProject.md) — Pahlavi-aligned transition project described through first-hundred-days stabilization, constitutional sequencing, and economic reconstruction.
 - [河西走廊 / Hexi Corridor (Western Han)](entities/HexiCorridorWesternHan.md) — 浑邪王归降后成为汉朝向西域推进的战略基地，四郡建置年代仍有史料与学术争议。
+- [第一次河西之战 / First Hexi Campaign (Western Han)](entities/FirstHexiCampaignWesternHan.md) — 高速骑兵、穿插分割与有条件招降构成河西战略的首轮军事破局，但战损和后勤机制仍属来源限定。
 - [第二次河西之战 / Second Hexi Campaign (Western Han)](entities/SecondHexiCampaignWesternHan.md) — 沙漠迂回、会师失败与孤军续进共同构成河西战略转折，但并未单独终结汉匈战争或完成全部走廊治理。
 - [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
 - [胶东康王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南案牵连与宗室保全并存；后世康王坟的富墓、寒墓假说各有类比，但墓址、待遇与藏品均未获考古确认。

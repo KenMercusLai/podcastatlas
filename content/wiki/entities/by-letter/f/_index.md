@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12543
+wiki_total_pages: 12544
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "FuRongLateHan"
     title: "符融 / Fu Rong (late Han)"
     url: "/wiki/entities/furonglatehan/"
+  - key: "FirstHexiCampaignWesternHan"
+    title: "第一次河西之战 / First Hexi Campaign (Western Han)"
+    url: "/wiki/entities/firsthexicampaignwesternhan/"
   - key: "FifthLunEasternHan"
     title: "第五伦 / Fifth Lun (Eastern Han)"
     url: "/wiki/entities/fifthluneasternhan/"

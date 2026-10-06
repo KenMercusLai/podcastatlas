@@ -80408,6 +80408,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/firstdraftthinking/"
     },
+    "FirstHexiCampaignWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？ [luS99k4VPhQAJ8xOFKm0RQI1nGa9].md",
+          "key": "zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/firsthexicampaignwesternhan/"
+    },
     "FirstIndochinaWar": {
       "episode_count": 1,
       "show_count": 1,
@@ -102954,9 +102970,9 @@
       "url": "/wiki/concepts/hetuluoshu/"
     },
     "HexiCorridorWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王 [llyk4I76IzMXE_El_eWpbBAyQQ5I].md",
@@ -102971,6 +102987,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
           "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？ [luS99k4VPhQAJ8xOFKm0RQI1nGa9].md",
+          "key": "zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
         }
       ],
       "updated": "2026-10-07",
@@ -110038,9 +110061,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110146,6 +110169,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
           "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？ [luS99k4VPhQAJ8xOFKm0RQI1nGa9].md",
+          "key": "zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
         }
       ],
       "updated": "2026-10-07",
@@ -153591,9 +153621,9 @@
       "url": "/wiki/concepts/militarydisastermemory/"
     },
     "MilitaryDoctrineEraFit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
@@ -153615,6 +153645,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？ [luS99k4VPhQAJ8xOFKm0RQI1nGa9].md",
+          "key": "zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
         }
       ],
       "updated": "2026-10-06",
