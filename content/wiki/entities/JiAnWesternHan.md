@@ -6,12 +6,13 @@ tags: [western-han, official, remonstrance, integrity]
 sources:
   - zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib
   - zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-汲黯 / Ji An is a Western Han official presented as upright, clean, willing to confront [[HanWudi|汉武帝]], and capable of governing through accumulated public reputation. His current evidence joins the social cost of dismissal to recall, unwanted outward assignment, direct warning about [[ZhangTangWesternHan|张汤]], successful Huaiyang service, and a death in office that preserves imperial regard.
+汲黯 / Ji An is a Western Han official presented as upright, clean, willing to confront [[HanWudi|汉武帝]], and capable of governing through accumulated public reputation. His current evidence joins public-purpose remonstrance about ritual and personnel, the social cost of dismissal, recall, unwanted outward assignment, a direct warning about [[ZhangTangWesternHan|张汤]], successful Huaiyang service, and a death in office that preserves imperial regard.
 
 ## Current Profile
 
@@ -21,9 +22,11 @@ last_updated: 2026-10-06
 
 Before departure, Ji warns [[LiXiWesternHan|李息]] that Zhang Tang blocks advice, decorates error, tracks imperial preferences, and expands punitive government. Li's fear keeps the warning private. The profile therefore joins frank speech to practical administration: Ji survives not because he stops criticizing, but because clean conduct, useful reputation, and local capacity preserve value even after direct advisory access is denied.
 
+[[zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga|Hanji 318]] clarifies what Ji's frankness protects. When Wudi proposes to celebrate a “divine horse” through court writing, music, and ancestral-temple performance, Ji argues that royal music should honor ancestors and educate the people rather than magnify one ruler's private delight. He then challenges a second contradiction: vigorous recruitment cannot sustain government if valued officials are readily executed after error and concealment, because the supply of capable people is finite. These are source-presented interventions, not proof that the music was ultimately performed or that every punished official was blameless.
+
 ## Key Characteristics
 
-- Western Han senior official presented as upright, clean, and willing to remonstrate directly.
+- Western Han senior official presented as upright, clean, and willing to remonstrate directly about both the public purpose of royal music and the finite talent cost of harsh punishment.
 - Draws visitors while powerful and loses them after dismissal and impoverishment.
 - Seeks to remain near Han Wudi so he can correct omissions and participate in court deliberation.
 - Is assigned to Huaiyang because the emperor believes his reputation can stabilize strained local governance.
@@ -50,19 +53,24 @@ Warning about Zhang Tang:
 Local service and final outcome:
 - [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Ji stabilizes Huaiyang, receives promotion, dies in office seven years later, and remains valued after death.
 
+Public-purpose remonstrance:
+- [[zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga|Hanji 318]] says Ji rejects using ancestral-temple music to celebrate one horse and warns Wudi that scarce talent cannot be killed without limit while the court seeks worthy people.
+
 ## Qualifications
 
-Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; the page normalizes the name to 汲黯. The two sources do not establish his full biography, exact office sequence, wealth, every exchange with Han Wudi, the scale of Huaiyang disorder, the mechanics of governance by reputation, the seven-year chronology, or the exact family appointments. Hanji 333-2's account supports Ji's warning before Zhang's later fall but does not prove access to Zhang's private intent. The claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
+Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; the page normalizes the name to 汲黯. The three sources do not establish his full biography, exact office sequence, wealth, every exchange with Han Wudi, the scale of Huaiyang disorder, the mechanics of governance by reputation, the seven-year chronology, or the exact family appointments. Hanji 333-2's account supports Ji's warning before Zhang's later fall but does not prove access to Zhang's private intent. Hanji 318 does not establish the horse's miraculous nature, the exact institutional history of 乐府, whether the composition entered ancestral-temple performance, the identities and merits of every executed official, or a complete causal link from punishment to later talent shortage. The claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
 
 ## What Changed
 
-- Added recall, attempted retention of court access, Huaiyang governance, the warning about Zhang Tang, and death in office.
-- Reframed Ji's survival as a combination of frankness, clean reputation, and useful governing capacity rather than tolerance of blunt speech alone.
+- Added Ji's public-purpose objections to private delight becoming ancestral music and punitive severity consuming scarce talent.
+- Reframed his frankness as protection of institutional purpose as well as personal willingness to confront the ruler.
 
 ## Relationships
 
 - [[ZhengDangshiWesternHan]] - paired worthy official whose visitors likewise disappear after loss of office.
 - [[HanWudi]] - ruler whom the episode says Ji An confronted directly.
+- [[ImperialPrivateDesireGovernanceRisk]] - Ji identifies a symbolic route by which personal pleasure can appropriate public-sacred ritual.
+- [[TalentSummonsRulerSelfExamination]] - Ji's finite-talent warning makes ruler conduct part of recruitment capacity.
 - [[SimaQian]] - historian to whom the episode attributes the joint evaluation of Ji An and Zheng Dangshi.
 - [[PowerContingentSocialTies]] - social mechanism illustrated by the contrast between Ji An's powerful and dismissed states.
 - [[ZhaiGongWesternHan]] - comparison case whose crowded and empty gate makes the same status reversal visible.

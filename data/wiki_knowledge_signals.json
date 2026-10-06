@@ -112232,9 +112232,9 @@
       "url": "/wiki/concepts/imperialprestigevindication/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
@@ -112284,9 +112284,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
           "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人 [ljw371ou_jCa8eSJwUQnGSdCcaga].md",
+          "key": "zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRestorationParadox": {
@@ -120246,9 +120253,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -120263,9 +120270,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人 [ljw371ou_jCa8eSJwUQnGSdCcaga].md",
+          "key": "zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/jianwesternhan/"
     },
     "JiRu": {
@@ -216978,9 +216992,9 @@
       "url": "/wiki/concepts/tajmahalparadisesymbolism/"
     },
     "TalentSummonsRulerSelfExamination": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
@@ -216995,9 +217009,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
           "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人 [ljw371ou_jCa8eSJwUQnGSdCcaga].md",
+          "key": "zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
     },
     "TalentVirtueDistinction": {

@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t
   - zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3
   - zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,11 +31,13 @@ Continued favorite protection can itself become a safety risk when affection con
 
 The same Aidi/Dong Xian pattern also has a succession-language side in [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]]. Xiao Xian avoids a Dong-family marriage after reading appointment language as Yao-Shun abdication-coded, and Wang Hong later interrupts Aidi's banquet remark about yielding to Dong Xian. Private attachment now threatens not only reward order but the boundary between dynastic succession and the ruler's personal will.
 
-The concept is useful because it links private conduct to public mechanisms without claiming every personal preference is politically decisive. [[ChenFanLateHan|陈蕃]] attacks the resource and institutional side: non-merit reward and thousands of palace women cost the state. [[YuanHongChenliuLateHan|袁闳]] attacks the companion-choice side: the ruler becomes better or worse according to who is near enough to shape daily thought. Wang Jia attacks the public-authority side: a favorite's mansion, land, household support, and extra households can make the state look like the ruler's private purse. Wang Hong attacks the succession and office side: a favorite without merit cannot become the object of abdication-coded speech, military authority, and family reward without damaging dynastic order. Huan's partial release of palace women shows correction can happen, but the continued Deng and Huang rewards show the deeper preference structure remains.
+Hanji 318 adds a symbolic and ritual pathway. [[HanWudi|汉武帝]]'s delight in a “divine horse” is converted into writing and music, and [[JiAnWesternHan|汲黯]] objects specifically to its proposed ancestral-temple use: royal music should honor predecessors and educate the people, not give one ruler's pleasure public-sacred authority. The risk therefore includes the appropriation of institutional meaning, even when the immediate mechanism is not a grant of money, land, office, or weapons.
+
+The concept is useful because it links private conduct to public mechanisms without claiming every personal preference is politically decisive. [[ChenFanLateHan|陈蕃]] attacks the resource and institutional side: non-merit reward and thousands of palace women cost the state. [[YuanHongChenliuLateHan|袁闳]] attacks the companion-choice side: the ruler becomes better or worse according to who is near enough to shape daily thought. Wang Jia attacks the public-authority side: a favorite's mansion, land, household support, and extra households can make the state look like the ruler's private purse. Wang Hong attacks the succession and office side: a favorite without merit cannot become the object of abdication-coded speech, military authority, and family reward without damaging dynastic order. Ji attacks the ritual-purpose side: personal celebration should not automatically become ancestral and public instruction. Huan's partial release of palace women shows correction can happen, but the continued Deng and Huang rewards show the deeper preference structure remains.
 
 ## Key Claims
 
-- Ruler desire becomes governance risk when it draws money, labor, food, land, status, or decision attention away from public repair, or when it requires public status engineering to make a favored person acceptable.
+- Ruler desire becomes governance risk when it draws money, labor, food, land, status, or decision attention away from public repair, requires public status engineering, or uses court art and sacred ritual to convert private delight into public memory, ancestral honor, or instruction without a public-purpose justification.
 - Harem scale is politically relevant when palace consumption is paid through public resources and service labor.
 - Private affection or old friendship can distort reward order and endanger the favorite by making title, food revenue, resources, and public resentment follow closeness rather than merit.
 - Favorite-centered construction, land, office, military resources, family, market access, and succession language can turn personal attachment into a public-authority crisis when rank, tax base, public resources, weapons, and dynastic transfer appear privatized.
@@ -60,20 +63,18 @@ The concept is useful because it links private conduct to public mechanisms with
 - Companion-choice risk: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan Hong criticizes Deng Wanshi's excessive intimacy and argues that worthy or flattering companions shape the ruler's daily moral direction.
 - Empress status conversion: [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Chengdi's wish to elevate Zhao Feiyan requires Chunyu Zhang's mediation and Zhao Lin's enfeoffment before Wang Zhengjun accepts the elevation.
 - Feedback punishment: [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Liu Fu is secretly imprisoned after criticizing Chengdi's indulgence and Zhao-sister favor, showing private desire damaging the correction channel.
+- Ritual-purpose boundary: [[zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga|Hanji 318]] says Ji An objects that music for Wudi's “divine horse” should not enter ancestral-temple use because royal music must honor ancestors and educate the people.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in six source notes for now. It does not prove that all Huan-era disorder came from personal desire, nor does it turn every palace relationship or favorite reward into a governance failure. Hanji 534 preserves the host's management reading of Chengdi and a modern anecdote, so the workplace analogy remains source-scoped. Hanji 587 preserves Wu Jianglong's remonstrance frame rather than a full armory law code; Hanji 593 and Hanji 597 preserve Wang Jia's remonstrance frame rather than independently proving every fiscal or popular-feeling claim; and Hanji 601-1 preserves Xiao Xian's and Wang Hong's interpretation of Aidi's Dong Xian danger rather than proving a completed transfer plan. Hanji 852 records partial responsiveness: Huan releases some palace women and promotes Yuan Hong after a blunt criticism. The remaining risk is that private favor and companion access survive those limited corrections.
+The current evidence does not prove that all Huan-era disorder came from personal desire, nor does it turn every palace relationship or favorite reward into a governance failure. Hanji 534 preserves the host's management reading of Chengdi and a modern anecdote, so the workplace analogy remains source-scoped. Hanji 587 preserves Wu Jianglong's remonstrance frame rather than a full armory law code; Hanji 593 and Hanji 597 preserve Wang Jia's remonstrance frame rather than independently proving every fiscal or popular-feeling claim; and Hanji 601-1 preserves Xiao Xian's and Wang Hong's interpretation of Aidi's Dong Xian danger rather than proving a completed transfer plan. Hanji 852 records partial responsiveness: Huan releases some palace women and promotes Yuan Hong after a blunt criticism. The remaining risk is that private favor and companion access survive those limited corrections.
 
-The seventh source note in this bounded synthesis supplies Bao Xuan's warning and the episode's reception claim, but not evidence that Dong Xian was actually dismissed or returned to his fief.
+The seventh source note in the prior bounded synthesis supplies Bao Xuan's warning and the episode's reception claim, but not evidence that Dong Xian was actually dismissed or returned to his fief. Hanji 318 adds an episode-attributed ritual objection, not proof that the horse was miraculous, that the composition was ultimately performed in the ancestral temple, or that every court celebration of a ruler's interest lacks public value.
 
 ## What Changed
 
-- Added Hanji 534 as the Chengdi-Zhao Feiyan branch where private preference becomes status engineering and feedback punishment.
-- Added Hanji 596's favorite-safety branch: excessive protection can make the favorite a public target, so withdrawal may be the protective act.
-- Preserved Hanji 601-1 as the succession-language branch where Dong Xian's favor turns private attachment into marriage, office, military, family-reward, and abdication-boundary risk.
-- Preserved Hanji 597 as the favorite-reward branch where Dong Xian's fief enlargement turns private affection into public rank, land, and finance risk.
-- Preserved Hanji 852's post-Liang Huan case as the harem-cost and companion-choice branch.
+- Added Hanji 318's symbolic branch: personal delight becomes politically relevant when it appropriates ancestral ritual and public instruction.
+- Broadened the mechanism beyond material extraction, favorite reward, and access capture while retaining the requirement for a demonstrated institutional pathway.
 
 ## Related Concepts
 
@@ -89,3 +90,4 @@ The seventh source note in this bounded synthesis supplies Bao Xuan's warning an
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - remonstrance strategy needed when correcting a ruler's private desire.
 - [[BaoXuanWesternHan|鲍宣]] - remonstrant who translates withdrawal of a favorite into protection of the favorite.
 - [[WorkplaceRoleClarityBoundary|职场角色清醒边界]] - modern management translation of private-desire boundary risk from Hanji 534.
+- [[JiAnWesternHan|汲黯]] - remonstrant who defends the public and ancestral purpose of royal music against a ruler's private celebration.

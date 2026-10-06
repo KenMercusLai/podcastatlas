@@ -30856,3 +30856,11 @@ Added source `zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huang
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人
+
+Added source `zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga`; resynthesized [[JiAnWesternHan|汲黯]], [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]], and [[TalentSummonsRulerSelfExamination|求贤中的君主自省]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ji An defends royal music's ancestral and public purpose against the ritual elevation of one ruler's delight, then treats talent as a finite governing resource that recruitment cannot indefinitely replace when punitive severity destroys experienced officials. No settled contradiction was adopted. The horse's miraculous status and origin, 乐府 institutional history, composition authorship and wording, proposed or completed ancestral-temple performance, identities and guilt of punished officials, and the host's Ferrari, sensory-appetite, and “破壁人” framings remain episode-attributed or source-scoped. Broad [[HanWudi|汉武帝]], [[SimaXiangru|司马相如]], and [[LiYannianWesternHan|李延年]] pages were kept closed because the durable additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,858 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
