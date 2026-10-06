@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9763
+wiki_total_pages: 9766
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "BiodegradableFoamPackaging"
     title: "Biodegradable Foam Packaging"
     url: "/wiki/concepts/biodegradablefoampackaging/"
+  - key: "BiodegradableIngestibleBatteries"
+    title: "Biodegradable Ingestible Batteries"
+    url: "/wiki/concepts/biodegradableingestiblebatteries/"
   - key: "Bioinformatics"
     title: "Bioinformatics"
     url: "/wiki/concepts/bioinformatics/"

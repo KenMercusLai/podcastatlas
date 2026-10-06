@@ -30769,3 +30769,11 @@ Added source `zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-re
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | House call: Spain’s snap election
+
+Added source `house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c`; created [[HousingScarcityElectoralAgendaSetting]], [[CattleCycleProcessorMarginSqueeze]], and [[BiodegradableIngestibleBatteries]]; and resynthesized [[PedroSanchez]] from its complete preserved two-source evidence inventory. Core synthesis: Sanchez's early-election gamble uses housing scarcity and tenant vulnerability to reset a campaign burdened by coalition weakness, migration, corruption allegations, and poor polling; the U.S. cattle cycle explains how consumer beef inflation can coexist with processor losses and plant overcapacity; and a degradable battery can power short-lived devices in pigs without yet establishing safe chemistry, tissue response, duration, or human use. No settled contradiction was adopted. Election polling and motives, Spanish housing and migration figures, processor losses and capacity, cattle-cycle timing, degradation behavior, and animal-test implications remain source-dated or source-scoped. Broad Spain, Trump, MIT, processor, and show pages were kept closed because the durable additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; rendered artifacts validate 3,847 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

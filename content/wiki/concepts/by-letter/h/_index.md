@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9763
+wiki_total_pages: 9766
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "HousingRestrictionBackfire"
     title: "Housing Restriction Backfire"
     url: "/wiki/concepts/housingrestrictionbackfire/"
+  - key: "HousingScarcityElectoralAgendaSetting"
+    title: "Housing Scarcity as Electoral Agenda Setting"
+    url: "/wiki/concepts/housingscarcityelectoralagendasetting/"
   - key: "HousingStigmaDiscount"
     title: "Housing Stigma Discount"
     url: "/wiki/concepts/housingstigmadiscount/"

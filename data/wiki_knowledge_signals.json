@@ -25144,6 +25144,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/biocomputingethics/"
     },
+    "BiodegradableIngestibleBatteries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24e23fedc70442e36d4ea43c405cbb9c [24e23fedc70442e36d4ea43c405cbb9c.mp3？aid=6ac4ce946c844f245fde3434&chid=d556eb54-6160-4.280].md",
+          "key": "house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c",
+          "show": "Economist Podcasts",
+          "title": "House call: Spain’s snap election",
+          "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/biodegradableingestiblebatteries/"
+    },
     "BiologicalAgeMeasurementBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -34300,6 +34316,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/catotheyounger/"
+    },
+    "CattleCycleProcessorMarginSqueeze": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24e23fedc70442e36d4ea43c405cbb9c [24e23fedc70442e36d4ea43c405cbb9c.mp3？aid=6ac4ce946c844f245fde3434&chid=d556eb54-6160-4.280].md",
+          "key": "house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c",
+          "show": "Economist Podcasts",
+          "title": "House call: Spain’s snap election",
+          "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/cattlecycleprocessormarginsqueeze/"
     },
     "CecilRhodes": {
       "episode_count": 1,
@@ -105918,6 +105950,22 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/housingrestrictionbackfire/"
     },
+    "HousingScarcityElectoralAgendaSetting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24e23fedc70442e36d4ea43c405cbb9c [24e23fedc70442e36d4ea43c405cbb9c.mp3？aid=6ac4ce946c844f245fde3434&chid=d556eb54-6160-4.280].md",
+          "key": "house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c",
+          "show": "Economist Podcasts",
+          "title": "House call: Spain’s snap election",
+          "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/housingscarcityelectoralagendasetting/"
+    },
     "HousingSupplyOverRentControl": {
       "episode_count": 1,
       "show_count": 1,
@@ -171085,6 +171133,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/pedrodeursua/"
+    },
+    "PedroSanchez": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "24e23fedc70442e36d4ea43c405cbb9c [24e23fedc70442e36d4ea43c405cbb9c.mp3？aid=6ac4ce946c844f245fde3434&chid=d556eb54-6160-4.280].md",
+          "key": "house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c",
+          "show": "Economist Podcasts",
+          "title": "House call: Spain’s snap election",
+          "url": "/wiki/sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/pedrosanchez/"
     },
     "PeerGroupExperienceSelling": {
       "episode_count": 1,

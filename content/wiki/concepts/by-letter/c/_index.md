@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9763
+wiki_total_pages: 9766
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "CatholicBurialLegitimacy"
     title: "Catholic Burial Legitimacy"
     url: "/wiki/concepts/catholicburiallegitimacy/"
+  - key: "CattleCycleProcessorMarginSqueeze"
+    title: "Cattle-Cycle Processor Margin Squeeze"
+    url: "/wiki/concepts/cattlecycleprocessormarginsqueeze/"
   - key: "CausalAI"
     title: "Causal AI"
     url: "/wiki/concepts/causalai/"

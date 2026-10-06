@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [House call: Spain’s snap election](sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c.md) — The Intelligence on Spain’s housing-centered snap election, the cattle cycle squeezing U.S. beef processors, and animal-stage biodegradable batteries for ingestible devices.
 - [《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才](sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g.md) — 汉武帝把人才定义为可供君主使用的“器”，节目由此批评工具化用人，并以董卓强迫征士与刘备争取诸葛亮对照不同人才吸附方式。
 - [《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代](sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k.md) — 司马懿受抓捕威胁后出仕、陈琳檄文以宦官家世攻击曹操，并由东方朔与公孙弘对照讨论权力中心如何定义“可用人才”。
 - [《资治通鉴·汉纪》322-1｜汉武帝如何割商人韭菜？](sources/zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz.md) — 从战争与工程造成的财政压力出发，串联算缗自报、隐产与资产转换、告缗奖励告发及没收惩罚，并保留税率、术语和物价因果的转录与史料边界。
@@ -16483,6 +16484,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
 
 ## Concepts
+- [Biodegradable Ingestible Batteries](concepts/BiodegradableIngestibleBatteries.md) — Temporary internal power sources whose animal-stage feasibility shifts risk from intact-device retention toward degradation chemistry and tissue safety.
+- [Cattle-Cycle Processor Margin Squeeze](concepts/CattleCycleProcessorMarginSqueeze.md) — Mechanism by which slow herd rebuilding raises cattle costs, beef prices, and processor overcapacity at the same time.
+- [Housing Scarcity as Electoral Agenda Setting](concepts/HousingScarcityElectoralAgendaSetting.md) — Use of an affordability and eviction crisis to reset an election around housing while policy and coalition tradeoffs remain visible.
 - [权力中心定义式人才评价 / Power-Defined Talent Utility](concepts/PowerDefinedTalentUtility.md) — 能力只有经集中权力按优先事项、信任与使用方式认可后才转化为政治机会，同时可能压低纠错性异议。
 - [Cross-Cultural Mental-Health Help-Seeking / 跨文化心理求助路径](concepts/CrossCulturalMentalHealthHelpSeeking.md) — symptom language, mother-tongue disclosure, healthcare routing, cost, and selection effects in cross-cultural psychiatric access.
 - [International Student Mental-Health Context / 留学生心理健康情境](concepts/InternationalStudentMentalHealthContext.md) — migration age, language, school belonging, family expectations, independence, and access as interacting student mental-health context.

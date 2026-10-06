@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3140
+topic_total_pages: 3141
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1930,6 +1930,9 @@ topic_concepts:
   - key: "HousingRestrictionBackfire"
     title: "Housing Restriction Backfire"
     url: "/wiki/concepts/housingrestrictionbackfire/"
+  - key: "HousingScarcityElectoralAgendaSetting"
+    title: "Housing Scarcity as Electoral Agenda Setting"
+    url: "/wiki/concepts/housingscarcityelectoralagendasetting/"
   - key: "HouthiMaritimeChokepointLeverage"
     title: "Houthi Maritime Chokepoint Leverage"
     url: "/wiki/concepts/houthimaritimechokepointleverage/"
