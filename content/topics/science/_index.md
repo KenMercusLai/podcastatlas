@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1462
+topic_total_pages: 1464
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1705,6 +1705,9 @@ topic_concepts:
   - key: "ProfessionalWearableMoat"
     title: "Professional Wearable Moat"
     url: "/wiki/concepts/professionalwearablemoat/"
+  - key: "ProgrammableImmuneCellEngineering"
+    title: "Programmable Immune-Cell Engineering"
+    url: "/wiki/concepts/programmableimmunecellengineering/"
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
@@ -2474,6 +2477,9 @@ topic_entities:
   - key: "AlessandroVolta"
     title: "Alessandro Volta / 亚历山德罗·伏打"
     url: "/wiki/entities/alessandrovolta/"
+  - key: "AlexMarson"
+    title: "Alex Marson"
+    url: "/wiki/entities/alexmarson/"
   - key: "AlexanderLuria"
     title: "Alexander Luria / 亚历山大·卢里亚"
     url: "/wiki/entities/alexanderluria/"

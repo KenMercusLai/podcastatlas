@@ -30824,3 +30824,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-gl
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson
+
+Added source `avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163`; created [[AlexMarson]] and [[ProgrammableImmuneCellEngineering]]; and resynthesized [[CARTCellTherapy]], [[ImmuneCheckpointInhibition]], [[TCellEngagers]], [[TCellEducationAndThymusAging]], and [[HumanGeneEditingEthics]] from their complete preserved evidence inventories. Core synthesis: modern immune therapy is a coupled design problem in which target recognition, activation, delivery, cellular state, persistence, tumor context, manufacturing, safety, evidence, and ethics must all work together; CRISPR perturbation maps can guide cell programs but do not themselves establish therapeutic benefit, and somatic immune-cell editing remains ethically distinct from heritable germline intervention. No settled contradiction was adopted. Trial status, historical cases, technical scale, company programs, consumer-risk questions, preventive immunotherapy, iPS-derived cells, embryo selection, and diet or cell-banking claims remain source-scoped, time-dated, aspirational, or medically bounded. Broad show, host, generic immunity, cancer, company, and institutional pages were kept closed because the durable additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,854 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

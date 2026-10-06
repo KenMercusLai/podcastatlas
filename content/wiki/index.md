@@ -3917,6 +3917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Benefits of Sauna & Deliberate Heat Exposure](sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357.md) — Condensed Huberman Lab episode on heat dose, thermoregulation, cardiovascular associations, acute hormone responses, mood, sleep, hydration, and hyperthermia safety.
 
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
+- [Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson](sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163.md) — Huberman Lab interview on immune self-tolerance, cancer evolution, checkpoint inhibition, CAR-T, CRISPR cell programming, delivery, and germline ethics.
 
 ## Entities
 - [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
@@ -16494,6 +16495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Paul Atkins](entities/PaulAtkins.md) — SEC chair presenting a market-modernization agenda spanning public-company burden, investor access, tokenization, and CFTC coordination.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
+- [Alex Marson](entities/AlexMarson.md) — Immunologist and physician-scientist connecting T-cell biology, CRISPR perturbation maps, immune-cell engineering, cancer therapy, and germline ethics.
 
 ## Concepts
 - [Military Success, Political Failure](concepts/MilitarySuccessPoliticalFailure.md) — Strategic mismatch in which target destruction or regime defeat fails to produce a legitimate, governable, or sustainable political order.
@@ -26332,5 +26334,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sophistication-Based Private-Market Access](concepts/SophisticationBasedPrivateMarketAccess.md) — Investor-eligibility proposal using demonstrated knowledge or credentials alongside wealth while preserving risk controls.
 - [Tokenized Market Structure](concepts/TokenizedMarketStructure.md) — Settlement, liquidity, trading-hours, leverage, and oversight architecture for ledger-based financial markets.
 - [Crypto-Asset Functional Classification](concepts/CryptoAssetFunctionalClassification.md) — Distinction between a token's function and the fundraising transaction or promises through which it is sold.
+- [Programmable Immune-Cell Engineering](concepts/ProgrammableImmuneCellEngineering.md) — Design-and-test loop joining CRISPR tool choice, delivery, high-throughput perturbation, single-cell measurement, and therapeutic immune-cell behavior.
 
 ## Syntheses

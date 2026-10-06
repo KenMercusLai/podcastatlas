@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9773
+wiki_total_pages: 9774
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2069,6 +2069,9 @@ wiki_pages:
   - key: "ProfitDrivenArmyLimits"
     title: "Profit-Driven Army Limits / 功利型军队局限"
     url: "/wiki/concepts/profitdrivenarmylimits/"
+  - key: "ProgrammableImmuneCellEngineering"
+    title: "Programmable Immune-Cell Engineering"
+    url: "/wiki/concepts/programmableimmunecellengineering/"
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
