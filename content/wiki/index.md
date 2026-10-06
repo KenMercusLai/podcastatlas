@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？](sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md) — 三五环 solo episode on OpenClaw's spread, architecture, workflow fit, token cost, permission and skill risk, delegated interaction, labor change, and retained human judgment.
 - [《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？](sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7.md) — 以霍去病拒绝受古兵法拘束及河西骑兵高速远程作战为例，说明旧规则须按兵种、后勤与作战环境检验，而非断言整部《孙子兵法》失效。
 - [《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长](sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c.md) — 义纵与王温舒以灭族、批量处决、胁迫网络和恐怖沉默制造可见“政绩”；节目据此把酷吏之恶从个人残暴推进到朝廷授权、配合与奖赏的制度链条。
 - [《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！](sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g.md) — 漠北战后屯田与匈奴求和引出和亲、臣服两路争论；任常出使被扣，狄山直攻张汤后被派守边并迅速遇袭身亡，政策判断与惩罚性能力测试须分开。
@@ -11984,13 +11985,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宇宙 E-Bike](entities/YuzhouEBike.md) — Chinese premium electric-assist bicycle brand used by the 三五环 interview to ground product integration, category education, service economics, and AI-native manufacturing ambition.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
-- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video and AI-filmmaking creator interviews, platform safety operations, marketing science, and hardware-founder interviews.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环 practitioner interviews, and solo analysis of agent workflow value, risk, and human agency.
 - [方言 / Fang Yan](entities/FangYanWealth.md) — Entrepreneur-author whose 三五环 interview frames money after success through re-poverty risk, value-investing life discipline, and time freedom.
 - [《第二天金钱进化论》 / Second-Day Money Evolution](entities/SecondDayMoneyEvolution.md) — Fang Yan book discussed on 三五环 about how people survive money after getting it.
 - [李晨 / Li Chen (粉墨)](entities/LiChenFenmo.md) — 粉墨 director whose No.227 三五环 account grounds storyboard-first AI short-film workflow, model choice, and final-polish labor.
 - [李鸿伟](entities/LiHongwei.md) — RayNeo CEO explaining AI glasses as real-world augmentation, first-person AI memory, low-power sensing, optical-display friction, and a source-scoped platform roadmap.
 - [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
-- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context represented through practitioner interviews on AI video, creator work, internet expression, platform safety, marketing science, and hardware entrepreneurship.
+- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context spanning practitioner interviews and solo analysis of AI products, workflow, platform operations, safety, business, and human agency.
 - [雷鸟创新 / RayNeo](entities/RayNeo.md) — Smart-glasses company represented through the No.221 三五环 interview on staged AI-glasses products, optical display, first-person capture, and platform strategy.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
@@ -15880,7 +15881,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used across valuation, infrastructure, embodied-world-model, and data-center cooling-pressure discussions.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, GPT-5.6 release governance, ChatGPT, commerce, infrastructure, and AI-for-math competition.
-- [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
+- [Open Claw](entities/OpenClaw.md) — Local-first personal-agent framework and category signal combining memory, skills, tools, messaging, delegated execution, and high-stakes permission and cost tradeoffs.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
@@ -16452,6 +16453,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
+- [Delegated Agent Interaction](concepts/DelegatedAgentInteraction.md) — Shift from question answering to outcome delegation, with model-directed execution bounded by workflow value, permissions, review, and human accountability.
 - [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
 - [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给与作战距离重新检验，不能把旧时代战术直接复制到新战场。
 - [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。

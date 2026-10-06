@@ -55318,6 +55318,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/delayedcanonicalrecognition/"
     },
+    "DelegatedAgentInteraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJENlItRA0CadgR9dAax [GKwRIJENlItRA0CadgR9dAax].md",
+          "key": "no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax",
+          "show": "三五环",
+          "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
+          "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/delegatedagentinteraction/"
+    },
     "DelegatedRegencyCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -134245,9 +134261,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -134332,9 +134348,16 @@
           "show": "三五环",
           "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
           "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        },
+        {
+          "episode_file": "GKwRIJENlItRA0CadgR9dAax [GKwRIJENlItRA0CadgR9dAax].md",
+          "key": "no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax",
+          "show": "三五环",
+          "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
+          "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/liufei/"
     },
     "LiuFeiJiangduKingWesternHan": {
@@ -164881,9 +164904,9 @@
       "url": "/wiki/concepts/openainonprofitconversiondispute/"
     },
     "OpenClaw": {
-      "episode_count": 18,
-      "show_count": 9,
-      "source_note_count": 18,
+      "episode_count": 19,
+      "show_count": 10,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -165010,9 +165033,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        },
+        {
+          "episode_file": "GKwRIJENlItRA0CadgR9dAax [GKwRIJENlItRA0CadgR9dAax].md",
+          "key": "no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax",
+          "show": "三五环",
+          "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
+          "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/openclaw/"
     },
     "OpenClosedAIMarketStructure": {
@@ -195162,9 +195192,9 @@
       "url": "/wiki/entities/sanjosecalifornia/"
     },
     "SanWuHuan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -195249,9 +195279,16 @@
           "show": "三五环",
           "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
           "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        },
+        {
+          "episode_file": "GKwRIJENlItRA0CadgR9dAax [GKwRIJENlItRA0CadgR9dAax].md",
+          "key": "no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax",
+          "show": "三五环",
+          "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
+          "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/sanwuhuan/"
     },
     "SandalsResorts": {

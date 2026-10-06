@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 9750
+- Concepts: 9751
 - Entities: 12509
-- Sources: 3827
-- Total wiki content pages: 26087
+- Sources: 3828
+- Total wiki content pages: 26089
 
 ## Links
-- Wiki link references: 618105
-- Unique wiki link targets: 26107
-- Missing targets: 26
+- Wiki link references: 618170
+- Unique wiki link targets: 26110
+- Missing targets: 27
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3827
-- Matched episodes: 3827
+- Source pages: 3828
+- Matched episodes: 3828
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -89,5 +89,7 @@ outputs: ["html"]
   - `content/wiki/concepts/MorningMarketUrbanism.md`
 - `[[TitleNine]]`
   - `content/wiki/concepts/SustainableGrowthPace.md`
+- `[[VerticalAIAgents]]`
+  - `content/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md`
 
 All wiki source pages resolve to episode pages.

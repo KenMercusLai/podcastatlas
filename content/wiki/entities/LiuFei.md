@@ -15,7 +15,8 @@ sources:
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
   - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
-last_updated: 2026-09-12
+  - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,11 +46,13 @@ The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [
 
 The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds Liu's wealth-and-life-design interview branch. With [[FangYanWealth|方言]], he frames "having money" as a second-stage problem involving luck, lifestyle inflation, business overreach, family strain, and whether assets can return time rather than become public identity.
 
+The No.219 solo episode adds Liu's own technology-analysis voice rather than an interviewer role. He decomposes [[OpenClaw]] into product mechanics, workflow fit, cost, security, labor effects, and long-term human agency, then uses [[DelegatedAgentInteraction]] to separate useful execution delegation from surrendering goals, judgment, or responsibility.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
 - He frames podcasts as relationship and trust media rather than only information delivery.
-- He uses product and workflow questions to make AI's effect on creators concrete.
+- He uses product and workflow questions to make AI's effect on creators concrete, and in solo analysis connects adoption to workflow value, cost, risk, and retained human decision authority.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
 - He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
 - He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, community history, and wealth-after-success risk into user-facing questions about trust, workflow, demand, responsibility, and life design.
@@ -69,12 +72,13 @@ The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds Liu'
 - Founder-operator interviewing - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] has Liu interview [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] about [[YuzhouEBike|宇宙 E-Bike]], investment-to-operations learning, premium e-bike strategy, and AI-native manufacturing.
 - Technology-community interviewing - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] has Liu interview [[LaoMaiSspai|老麦 / Michael]] about [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], [[NicheCommunityValue|小众社区价值]], product co-creation, and AI-era human experience.
 - Wealth-after-success interviewing - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] has Liu interview [[FangYanWealth|方言]] about [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], lifestyle inflation, family stability, and wealth as time freedom.
+- Agent-product solo analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu assess [[OpenClaw]] through adoption fit, delegated work, token economics, permissions, security, labor change, and human decision authority.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added the No.220 Fang Yan episode, extending Liu's profile from AI/product practitioner interviews into wealth-after-success, re-poverty risk, and life-design questioning.
+- Added No.219 as evidence of Liu's solo product-analysis voice on agents, workflow value, risk, and human agency.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -116,3 +120,5 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[ElectricAssistBicyclePremiumPositioning]] - premium e-bike positioning concept Liu helps unpack in the Cheng/Chen Hongning episode.
 - [[AINativeManufacturingTransformation]] - manufacturing AI transformation concept Liu helps unpack in the Cheng/Chen Hongning episode.
 - [[SuddenWealthRepovertyRisk]] - wealth-risk concept Liu helps unpack in the Fang Yan episode.
+- [[OpenClaw]] - personal-agent case Liu evaluates in the No.219 solo episode.
+- [[DelegatedAgentInteraction]] - question-to-delegation shift Liu frames while retaining human accountability.

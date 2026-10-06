@@ -15,7 +15,8 @@ sources:
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
   - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
-last_updated: 2026-09-12
+  - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,8 +46,10 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 
 The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds a wealth-after-success branch through [[FangYanWealth|方言]]. It keeps the show's practitioner-interview pattern but shifts from product and platform operations into [[SuddenWealthRepovertyRisk]], lifestyle inflation, wealth-circle pressure, family stability, and the idea that money should buy time rather than become identity.
 
+No.219 adds a solo technology-analysis branch. [[LiuFei|刘飞]] uses [[OpenClaw]] to connect a fast-moving product phenomenon with deployment mechanics, existing-workflow fit, token economics, local permission risk, job change, and [[DelegatedAgentInteraction|the shift from answers to delegated execution]], while resisting both immediate FOMO and simple dismissal.
+
 ## Key Characteristics
-- It is associated with [[LiuFei|刘飞]] as a host/creator context.
+- It is associated with [[LiuFei|刘飞]] as a host/creator context whose interview and solo formats connect technology to product mechanics and human consequences.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
 - Its Chouxiangzai episode treats AI video through internet expression, virality, sincerity, and commercialization rather than only tool novelty.
 - Its 易小星/粉墨 and Hanqing episodes treat AI-native creative work through actual short-film production, original IP, personality systems, music/video workflow, and interaction risk.
@@ -67,6 +70,7 @@ The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds a we
 - Founder-operator manufacturing interview - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] is a 三五环 episode with Liu interviewing [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] on [[YuzhouEBike|宇宙 E-Bike]], electric-assist bicycle strategy, investor-to-operator learning, and AI-native manufacturing.
 - Technology-community interview - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] is a 三五环 episode with Liu interviewing [[LaoMaiSspai|老麦 / Michael]] on [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], app recommendation, author incentives, product co-creation, and AI-era human experience.
 - Wealth-after-success interview - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] is a 三五环 episode with Liu interviewing [[FangYanWealth|方言]] on [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], value-investing life philosophy, lifestyle inflation, and time freedom.
+- Solo technology analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu examine [[OpenClaw]] through virality, architecture, workflow fit, cost, security, labor change, and human decision authority.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
 - Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, community history, and hardware operations.
 
@@ -74,7 +78,7 @@ The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds a we
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
-- Added the No.220 Fang Yan episode as a wealth-after-success and re-poverty-risk branch of the show's practitioner interview surface.
+- Added No.219 as a solo technology-analysis branch centered on OpenClaw, delegated interaction, and retained human agency.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -115,3 +119,5 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[ElectricAssistBicyclePremiumPositioning]] - premium hardware positioning branch surfaced by the Cheng/Chen Hongning episode.
 - [[AINativeManufacturingTransformation]] - manufacturing AI-organization branch surfaced by the Cheng/Chen Hongning episode.
 - [[SuddenWealthRepovertyRisk]] - wealth-after-success risk branch surfaced by the Fang Yan episode.
+- [[OpenClaw]] - agent-product case examined in the No.219 solo episode.
+- [[DelegatedAgentInteraction]] - interaction shift from answers toward task delegation surfaced by No.219.

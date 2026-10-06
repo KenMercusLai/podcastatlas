@@ -22,7 +22,8 @@ sources:
   - 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no
   - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
   - all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520
-last_updated: 2026-10-05
+  - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
+last_updated: 2026-10-06
 ---
 
 # Open Claw
@@ -31,7 +32,7 @@ last_updated: 2026-10-05
 OpenClaw is an open, local-first personal-agent product or framework used across the sources as a marker of the shift from chatbots to agents that remember context, use skills and tools, schedule work, interact through messaging surfaces, and act on local or external systems. Its importance in the wiki is less a unique model breakthrough than a packaging and interaction breakthrough that made persistent, permissioned agents legible to a wider audience.
 
 ## Current Profile
-OpenClaw demonstrates a personal AI computer pattern: model capability is wrapped in memory, skills, resources, scheduling, input/output channels, APIs, and an agent loop. That form can automate research, office work, reminders, content processing, and coding-adjacent tasks, and it can serve as a cheap probe for workflows that later become engineered products. The same access that makes it useful creates its central weakness—unstable memory, configuration, code quality, cost, prompt injection, uncontrolled actions, and unclear identity or permission boundaries.
+OpenClaw demonstrates a personal AI computer pattern: model capability is wrapped in memory, skills, resources, scheduling, input/output channels, APIs, and an agent loop. That form can automate research, office work, reminders, content processing, and coding-adjacent tasks, and it can serve as a probe for workflows that later become engineered products. Its present value is concentrated where a user already has a worthwhile workflow and can supervise it; without that demand, setup, token spend, and risk can dominate. The same access that makes it useful creates its central weakness—unstable memory, configuration, code quality, compounding execution cost, prompt injection, uncontrolled actions, and unclear identity or permission boundaries.
 
 ## Key Characteristics
 - Packages model reasoning with persistent memory, skills, tools, schedules, channels, and local execution.
@@ -57,6 +58,11 @@ OpenClaw demonstrates a personal AI computer pattern: model capability is wrappe
 - [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] reports costly model calls, routing, task failure, configuration mutation, prompt injection, and continued action as reasons to keep high-impact work bounded and reviewable.
 - [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] credits the personal-agent threshold while criticizing code quality, stability, setup, memory, and token efficiency.
 - [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] frames useful “raising” of an agent through feedback and quality gates while warning against an endless attention loop.
+- [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] argues that autonomous loops can compound an early mistake into large token waste and real-world harm, especially under broad local permissions or untrusted skills and web content.
+
+### Workflow fit and delegated interaction
+- [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] locates near-term value among users with existing development, content, investment, coordination, or small-business workflows and warns that tool-first side-business hopes rarely create their own demand.
+- [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] frames OpenClaw as evidence for [[DelegatedAgentInteraction]]: users hand over outcomes rather than request answers, while people retain goals, audit, creative judgment, and responsibility.
 
 ### Enterprise and ecosystem interpretations
 - [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] treats OpenClaw's attention as an industry signal without claiming the mature software form is settled.
@@ -73,12 +79,13 @@ OpenClaw demonstrates a personal AI computer pattern: model capability is wrappe
 - Persistent local access increases privacy and control for some users while also increasing blast radius if permissions, credentials, or prompts are mishandled.
 - Always-on usefulness can generate substantial token, hardware, setup, supervision, and maintenance costs.
 - Personal-agent memory and permissions do not transfer safely to team use without explicit enterprise identity, audit, and authority models.
+- The No.219 source's adoption, cost, security-incident, project-history, ranking, and corporate-action details are host-reported rather than independently documented in the transcript.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema while preserving its complete source inventory.
-- Added the “personal AI computer” interpretation from Huang's All-In interview.
-- Consolidated the product's category significance around packaging, interaction, and action rather than a unique base-model advance.
-- Kept identity ambiguity and permission, reliability, memory, security, and cost limitations explicit.
+- Narrowed current practical fit to users with valuable existing workflows and supervision capacity.
+- Added delegated interaction as the product's clearest interaction shift while keeping goals and responsibility human.
+- Made compounding token waste and error cost explicit alongside permissions, reliability, memory, and security limits.
+- Preserved the judgment that OpenClaw may be historically important without being the mature final form.
 
 ## Relationships
 - [[AgenticSoftware]] - broader software architecture that OpenClaw helped make visible.
@@ -88,3 +95,4 @@ OpenClaw demonstrates a personal AI computer pattern: model capability is wrappe
 - [[AgentPermissionBoundaries]] - safety requirement created by local and external action.
 - [[LocalAgentExecution]] - deployment pattern that improves control while increasing local responsibility.
 - [[OpenClawForTeams]] - enterprise extension requiring identity, memory, audit, and authority separation.
+- [[DelegatedAgentInteraction]] - outcome-oriented interaction pattern OpenClaw makes visible.
