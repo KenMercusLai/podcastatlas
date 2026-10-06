@@ -6,7 +6,8 @@ tags: [statecraft, legitimacy, historical-memory, western-han, remonstrance]
 sources:
   - zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi
   - zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29
+last_updated: 2026-10-07
 ---
 
 ## Definition
@@ -21,6 +22,8 @@ last_updated: 2026-09-14
 
 In these sources, cost accounting is also politically and methodologically disciplined. Hanji 412-2 shows the political danger of challenging official praise; Hanji 388-3 adds that the costs should be counted carefully, because household records cannot be read as direct mortality totals without [[HistoricalPopulationRegistrationCaution|户口数字解读谨慎]].
 
+The current synthesis also includes a contemporary policy ledger rather than only later memorial and cross-dynastic demographic views. The anti-Xiongnu and Hexi program receives credit for territorial, route, and frontier-security gains, but those gains sit beside treasury depletion, disaster relief, reported mass resettlement, palace and fangshi spending, person-based taxes, and military service. The concept therefore asks not only whether an achievement occurred, but which fiscal channels and households made it possible. [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]]
+
 ## Key Claims
 
 - Political achievement should be evaluated with its costs, especially war deaths, fiscal exhaustion, civilian displacement, famine, and social disorder.
@@ -28,6 +31,7 @@ In these sources, cost accounting is also politically and methodologically disci
 - Ritual honor and official memory can conceal cost if they are designed only to praise.
 - Cost accounting becomes remonstrance when it interrupts a ruler's attempt to convert dynastic memory into present legitimacy.
 - Demographic cost accounting needs methodological caution: population-register collapse may combine death, displacement, concealment, category exclusion, and state-capacity loss.
+- A complete ledger includes opportunity cost and burden distribution: war, relief, construction, belief-driven spending, taxes, service, and displacement can draw on the same finite state and household capacity.
 
 ## Evidence
 
@@ -44,14 +48,18 @@ Demographic cost layer:
 - [[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] uses Han Wudi and repeated dynastic population drops to argue that ordinary people's suffering must be counted behind imperial accomplishment.
 - [[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] also cautions that official population troughs require correction before being translated into death totals.
 
+Policy and household burden distribution:
+- [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]] credits Hexi and frontier gains while tracing the same reign's war, relief, resettlement, palace, fangshi, tax, and service costs through the treasury and ordinary households.
+
 ## Counterevidence & Qualifications
 
-This concept still should not be generalized into a complete evaluation of Han Wudi's reign or of every Chinese dynastic transition. Hanji 412-2 preserves Xiahou Sheng's critique and the host's reading of its political force; Hanji 388-3 supplies a compact population-history overview rather than a full demographic model. The concept also does not imply that conquest or unification has no value, only that achievement claims are incomplete without the costs that made them possible.
+This concept still should not be generalized into a complete evaluation of Han Wudi's reign or of every Chinese dynastic transition. Hanji 412-2 preserves Xiahou Sheng's critique and the host's reading of its political force; Hanji 388-3 supplies a compact population-history overview rather than a full demographic model; Hanji 316-2 is a short structured summary whose totals, tax terminology, chronology, and causal claims require direct historical verification. The concept also does not imply that conquest or unification has no value, only that achievement claims are incomplete without the costs and burden distribution that made them possible.
 
 ## What Changed
 
-- Added Hanji 388-3's demographic layer: population loss and registry caution now sit alongside fiscal, military, and ritual-memory costs.
-- Created this concept from Hanji 412-2 to capture Xiahou Sheng's cost-based challenge to Han Wudi's official praise.
+- Added a policy-and-household ledger joining war, relief, resettlement, construction, belief-driven spending, taxation, and service.
+- Made burden distribution part of the judgment: strategic gain and treasury strain are incomplete without asking which households paid.
+- Preserved the episode's figures and causal explanations as source-scoped rather than converting its moral frame into settled institutional history.
 
 ## Related Concepts
 
@@ -61,3 +69,5 @@ This concept still should not be generalized into a complete evaluation of Han W
 - [[CourtFeedbackCollapse]] - failure contrast because punishing cost-accounting speech can teach officials to preserve praise and suppress correction.
 - [[DynasticPopulationLoss|王朝更替人口损耗]] - demographic version of the cost-accounting frame.
 - [[HistoricalPopulationRegistrationCaution|户口数字解读谨慎]] - method constraint for counting population loss responsibly.
+- [[RankSaleDisasterFinance|鬻爵赈灾融资]] - one emergency route for converting status into resources when war and disaster strain ordinary revenue.
+- [[PollTax|人头税]] - household extraction channel that makes the distribution of imperial costs visible below the treasury level.

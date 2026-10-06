@@ -3147,7 +3147,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
-      "source_note_count": 1225,
+      "source_note_count": 1226,
       "topic_matched_source_note_count": 410,
       "topics": [
         {
@@ -3219,18 +3219,18 @@
           "episode_count": 35
         },
         {
+          "key": "HanWudi",
+          "title": "Emperor Wu of Han / 汉武帝",
+          "url": "/wiki/entities/hanwudi/",
+          "kind": "person",
+          "episode_count": 33
+        },
+        {
           "key": "LiuXiu",
           "title": "Liu Xiu / 刘秀",
           "url": "/wiki/entities/liuxiu/",
           "kind": "person",
           "episode_count": 33
-        },
-        {
-          "key": "HanWudi",
-          "title": "Emperor Wu of Han / 汉武帝",
-          "url": "/wiki/entities/hanwudi/",
-          "kind": "person",
-          "episode_count": 32
         }
       ],
       "start_here_episode_files": [

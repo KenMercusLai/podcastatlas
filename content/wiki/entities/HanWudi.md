@@ -36,13 +36,14 @@ sources:
   - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
   - zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g
   - zizhi-tongjian-hanji-320-yi-kuai-pi-mai-40-wan-hanwudi-zhuanqian-you-duo-sun-lhpgz2peskxn466cyxeqjwc-ym0z
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, commercial and fiscal extraction, court appointment and advice risk, calendar standardization, imperial grandeur, fangshu consumption and disillusionment, the Wugu panic, imperial ideology, severe law against close kin, and final succession design. Hanji 373-1 and 374-2 make the expansion layer operationally concrete: Wudi appoints a reluctant [[GongsunHeWesternHan|公孙贺]] amid requisition, disaster, ritual travel, and the distant [[DayuanWesternHan|大宛]] war, then commits troops, animals, grain, engineers, corridor garrisons, and horse specialists on a state scale, gaining a negotiated victory whose geopolitical value remains inseparable from coercion and uncounted cost. Hanji 381-2, Hanji 384-1, Hanji 385-1, Hanji 386-1, Hanji 388-2, Hanji 389-1, and Hanji 391-1/391-2 sharpen the late-life transition layer from succession signaling and fear-driven investigation through suppression, remorse, disillusionment, maternal-risk removal, and entrusted-minister design.
+Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, commercial and household fiscal extraction, disaster response, court appointment and advice risk, calendar standardization, imperial grandeur, fangshu consumption and disillusionment, the Wugu panic, imperial ideology, severe law against close kin, and final succession design. Hanji 316-2 joins these domains into one cost ledger: war, flood relief, resettlement, palace building, and immortality projects compete for the same fiscal capacity, while territorial and frontier gains remain inseparable from tax, service, displacement, and welfare burdens. Hanji 373-1 and 374-2 make the later expansion layer operationally concrete, and Hanji 381-2 through 391-2 sharpen the late-life transition from succession signaling and fear-driven investigation through suppression, remorse, disillusionment, maternal-risk removal, and entrusted-minister design.
 
 ## Current Profile
 
@@ -76,6 +77,8 @@ Hanji 396-3 adds the commercial damage branch. The episode treats Han Wudi as an
 
 Hanji 320 adds a distinct ritual-extraction branch. Rather than taxing open exchange directly, Wudi's court assigns a one-square-foot decorated white-deer skin a forty-wan price and requires kings, marquises, and imperial relatives to use it beneath gifts presented in specified court and sacrificial settings. The episode therefore makes [[WhiteDeerSkinCurrency|白鹿皮币]] a case in which control of ceremonial acceptance creates a compulsory purchase. Its own statement that the skin does not circulate limits the paper-money analogy to administered nominal value.
 
+Hanji 316-2 backfills the pressure field before those later fiscal measures. It treats prolonged war, flood relief, reported mass resettlement, palace construction, and fangshi expenditure as claims on one depleted treasury; then places light nominal land-tax rates beside person-based levies and military service to show how state scarcity reached ordinary households. The same source credits anti-Xiongnu war and the Hexi advance with strategic and territorial gains, so its contribution is not a simple negative verdict but an explicit [[ImperialAchievementCostAccounting|achievement-cost accounting]] in which expansion must be judged with who financed, moved, served, and suffered for it.
+
 Hanji 392-4 adds the ideological architecture branch. The episode argues that Han Wudi's "独尊儒术" is not a simple embrace of original Confucian teaching but the elevation of [[DongZhongshu|董仲舒]]'s remade official Confucianism. In that reading, Confucian moral language, Heaven-response politics, disasters, and "罪己诏" give imperial rule a civilized and admonitory surface, while [[HanFei|韩非]]-style hierarchy and Legalist operation remain inside the structure.
 
 Hanji 392-1 adds the kinship-law branch. [[LongluePrincessWesternHan|隆虑公主]]'s deathbed payment and plea give Wudi a private reason to exempt [[ZhaoPingjunWesternHan|赵平君]], but Zhao's killing of an attendant makes the case public. Wudi weeps over his sister's request yet says ancestral law cannot be broken for private affection; [[DongfangShuo|东方朔]] then praises the decision as punishment that does not distinguish bone-and-flesh kin.
@@ -88,8 +91,8 @@ Hanji 336-2 adds a much more uncertain early military-household branch. It says 
 
 ## Key Characteristics
 
-- Wealth-backed offensive ruler whose anti-Xiongnu and Western Regions-Hexi program includes choosing the distant Dayuan credibility-and-flank objective over ministers' proposed concentration on Xiongnu, followed by a state-scale second expedition costly enough to require later reassessment.
-- Fiscal-extraction ruler whose war-finance needs are linked to monopoly, merchant assessment, rewarded denunciation, and a white-deer-skin purchase requirement enforced through elite ritual access.
+- Wealth-backed offensive ruler whose anti-Xiongnu and Western Regions-Hexi program produces real strategic and territorial gains while war losses, treasury depletion, displacement, and reduced capacity require explicit cost accounting.
+- Fiscal-extraction ruler whose war, relief, construction, and fangshi expenses are linked to rank sale, household levies and service, monopoly, merchant assessment, rewarded denunciation, and a white-deer-skin purchase requirement enforced through elite ritual access.
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice and appointment risk, and whose treatment of royal kin ranges from severe law enforcement to costly tolerance when a violent relative appears politically nonthreatening.
 - Imperial consumer of ritual, spectacle, and intimate service whose adoption of dew-and-jade longevity claims, regional divination, fangshi-driven construction, mixed court performance, and a reportedly stratified harem turns sacred, entertainment, and favorite access into collection devices, personnel, buildings, registers, allowances, gifts, and public display, while later wugu fear becomes political and succession danger before disillusionment produces fangshi dismissal.
@@ -107,6 +110,8 @@ Hanji 336-2 adds a much more uncertain early military-household branch. It says 
 - Dayuan mobilization and negotiated victory: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Wudi commits troops, transport animals, grain, hydraulic expertise, corridor defense, and horse-selection officers before Li Guangli forces Dayuan's elite into regicide, horse-and-grain concessions, and acceptance of a Han-backed king.
 - Commercial extraction: [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] says Han Wudi's court used profitable-goods monopoly, 算缗 assessment, and 告缗 denunciation rewards to finance war and undermine merchant security.
 - Ritualized fiscal extraction: [[zizhi-tongjian-hanji-320-yi-kuai-pi-mai-40-wan-hanwudi-zhuanqian-you-duo-sun-lhpgz2peskxn466cyxeqjwc-ym0z|Hanji 320]] says Wudi's court priced decorated white-deer skin at forty wan and required royal and noble participants to place specified gifts on it, while also stating that the object did not circulate as ordinary money.
+- Integrated fiscal-and-welfare ledger: [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]] joins prolonged war, rank sale, flood relief, wealthy-household lending, reported mass resettlement, palace construction, fangshi patronage, household levies, and military service as demands on one political economy.
+- Achievement-cost balance: [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]] credits the Hexi advance and reduced frontier pressure while arguing that those gains do not cancel the fiscal and social burdens imposed on common households.
 - Advice-risk environment: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] uses Gongsun Hong's framing of Xiongnu and southwest priorities to show how a minister survives strong imperial preference without flat opposition.
 - Fangshu and Wugu danger: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] treats Han Wudi's immortality search and late-life curse panic as connected cases of hidden-cause authority becoming fiscal and political violence.
 - Auspicious-sign and succession signaling: [[zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t|Hanji 381-2]] links Wudi's 赤雁祥瑞 mood, Lady Gouyi's discovery legend, Liu Fuling's fourteen-month birth story, and the "尧母门" naming to a politically dangerous younger-son signal.
@@ -140,6 +145,8 @@ This page remains a bounded wiki profile rather than a complete biography of Han
 
 Hanji 320 does not establish the white-deer-skin measure's full legal basis, revenue, enforcement range, duration, or abolition. Because the source explicitly denies ordinary circulation and transfer, its paper-money-precursor claim is retained only as a limited analogy about state-assigned nominal value.
 
+Hanji 316-2 is a compact structured summary rather than a verbatim transcript or complete fiscal history. Its “three crimes” frame, fiscal turning point, rank-sale chronology, flood and resettlement totals, tax names, campaign count, Hexi area, troop reduction, elite behavior, and post-Mobei causal claim remain source-scoped; the page adopts the joined cost-accounting structure without treating every figure or exclusive cause as settled.
+
 Hanji 367-1 adds a contrasting kinship case but not a complete theory of Wudi's treatment of relatives. Its explanation that sibling feeling and low usurpation risk determined Liu Duan's survival remains source-scoped, and its claim that Liu Duan received a positive posthumous title is not adopted as settled fact.
 
 Hanji 364-1 is a compact structured summary, not a full ritual or architectural dossier. Its exact 109 BCE ceremony, live-spider reference, chicken-bone procedure, surviving-manual count, building names, sequence, and causal attribution to Gongsun Qing remain source-scoped; coexistence in one episode does not make chicken divination, imperial sacrifice, and immortality architecture one identical practice.
@@ -156,9 +163,10 @@ Hanji 319-1 is a short popular-history treatment whose central minister is unnam
 
 ## What Changed
 
-- Added white-deer-skin ritual purchase as a fiscal route distinct from merchant monopoly, assessment, and denunciation.
-- Clarified that ceremonial gatekeeping can enforce payment even when the required object does not circulate as money.
-- Kept the paper-money analogy narrow because transferability, general acceptance, and monetary continuity are absent from the supplied evidence.
+- Integrated war, disaster relief, resettlement, palace construction, and fangshi patronage into one fiscal-capacity judgment.
+- Added ordinary-household tax and service burdens to the profile instead of limiting extraction to merchants and elites.
+- Made the positive Hexi and frontier-security outcome explicit while preserving the human and fiscal cost ledger.
+- Kept the episode's totals, terminology, and single-cause explanations source-scoped.
 
 ## Relationships
 
@@ -175,6 +183,10 @@ Hanji 319-1 is a short popular-history treatment whose central minister is unnam
 - [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]] - commercial fiscal mechanism added through Hanji 396-3.
 - [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] - property-enforcement mechanism the source ties to merchant insecurity.
 - [[WhiteDeerSkinCurrency|白鹿皮币]] - ritualized fiscal device through which court acceptance requirements turn an assigned forty-wan value into compulsory elite purchase.
+- [[ImperialAchievementCostAccounting|帝王功业代价核算]] - evaluative frame for weighing expansion and security gains against death, extraction, displacement, and welfare loss.
+- [[RankSaleDisasterFinance|鬻爵赈灾融资]] - status-monetization mechanism that Hanji 316-2 places inside Western Han war-finance pressure.
+- [[PollTax|人头税]] - household-level extraction named beside nominally light land taxation.
+- [[MobeiBattleWesternHan|漠北之战]] - strategic victory after which fiscal depletion constrained the tempo of further large offensives in the episode's account.
 - [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - anti-merchant policy background made coercive under Hanji 396-3's reading.
 - [[GongsunHong|公孙弘]] - minister whose compromise example depends on Han Wudi's policy-priority pressure.
 - [[ImmortalityQuestPolitics|求仙政治]] - religious-political branch built around Han Wudi's pursuit of immortality.

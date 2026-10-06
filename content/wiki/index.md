@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓](sources/zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29.md) — 将汉武帝的战争、灾荒救济、迁徙、宫殿与求仙支出放入同一财政账本，并在承认河西与边防收益的同时追问普通家庭承担的税役和民生成本。
 - [650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)](sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958.md) — The Rest Is History on Samuel Johnson’s illness, poverty, marriage, London print labor, Dictionary, patronage conflict, and rise to conversational fame.
 - [Graham Allison on the Global Realignment: Iran, China, Israel, Greenland](sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425.md) — All-In interview on Iran war objectives and aftermath, China-Taiwan risk, permission-based Greenland access, nuclear order, and inequality-driven instability.
 - [EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI](sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai.md) — Accessible account of OpenClaw's agent capabilities, viral growth story, and the security boundary around persistent access and community skills.

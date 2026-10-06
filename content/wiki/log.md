@@ -30840,3 +30840,11 @@ Added source `650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt268712
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓
+
+Added source `zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29`; resynthesized [[HanWudi|汉武帝]], [[ImperialAchievementCostAccounting|帝王功业代价核算]], and [[RankSaleDisasterFinance|鬻爵赈灾融资]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: anti-Xiongnu and Hexi gains remain real, but war, relief, resettlement, palace construction, fangshi patronage, taxation, and military service draw on one finite state-and-household capacity and must be judged together. No settled contradiction was adopted. The “three crimes” frame, fiscal turning point, rank-sale mechanism, flood and migration totals, tax terminology, campaign count, Hexi area, troop reduction, elite behavior, and post-Mobei causal claim remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,856 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
