@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12571
+wiki_total_pages: 12573
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "PopulationAnomaly"
     title: "《人口异常》 / Population Anomaly"
     url: "/wiki/entities/populationanomaly/"
+  - key: "PeacockFeatherGuLong"
+    title: "《孔雀翎》 / The Peacock Feather"
+    url: "/wiki/entities/peacockfeathergulong/"
   - key: "PerfectDays"
     title: "《完美的日子》 / Perfect Days"
     url: "/wiki/entities/perfectdays/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9799
+wiki_total_pages: 9802
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "RecentHistoryPerspective"
     title: "Recent-History Perspective"
     url: "/wiki/concepts/recenthistoryperspective/"
+  - key: "ReciprocalCareAndDignity"
+    title: "Reciprocal Care and Dignity"
+    url: "/wiki/concepts/reciprocalcareanddignity/"
   - key: "ReciprocalTariffFormula"
     title: "Reciprocal Tariff Formula"
     url: "/wiki/concepts/reciprocaltariffformula/"

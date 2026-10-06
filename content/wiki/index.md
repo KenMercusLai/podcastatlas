@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言](sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4.md) — 纸醉金迷FM以《孔雀翎》区分有力的信心寓言与薄弱的借宝、遗失及友情结局因果，同时细读高立与双双的相互滋养。
 - [《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧](sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn.md) — 卫青在苏建失军后保留拘押与追责，却拒绝以阵斩偏将展示个人威严，并把终局裁决交回汉武帝。
 - [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
@@ -3966,6 +3967,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational literary podcast using retelling, disagreement, and causal scrutiny to discuss Gu Long's 《孔雀翎》.
+- [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
 - [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 失军后归、经卫青拘押并交帝裁决，继而赎死为民、复任代郡太守的西汉将领，也是苏武之父。
@@ -16589,6 +16592,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Confidence as a Weapon](concepts/ConfidenceAsWeapon.md) — Belief in a decisive resource can restore existing skill internally while its reputation deters opponents externally.
+- [Reciprocal Care and Dignity](concepts/ReciprocalCareAndDignity.md) — Care relation where visible assistance flows one way but emotional safety, recognition, purpose, and dignity flow both ways.
+- [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between a story's thematic force and whether its causes, motivations, and revelations adequately support that theme.
 - [知敌式备战 / Adversary-Knowledge Preparation](concepts/AdversaryKnowledgePreparation.md) — 把体能与武艺训练同敌方行动习惯、地形补给、内部人信息和地图推演结合，并把来源可信度与现代类比留作明确边界。
 - [Five-Forces Systemic Cycle](concepts/FiveForcesSystemicCycle.md) — Dalio framework for interacting debt, domestic conflict, great-power rivalry, technology, and natural shocks during changes in political and monetary order.
 - [Technology-Company Performance Gap](concepts/TechnologyCompanyPerformanceGap.md) — Distinction between economy-wide technological usefulness and the survival, profitability, or investor returns of companies building it.

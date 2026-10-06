@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9799
+wiki_total_pages: 9802
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "ThemeLedBeverageDesign"
     title: "Theme-Led Beverage Design / 主题驱动饮品设计"
     url: "/wiki/concepts/themeledbeveragedesign/"
+  - key: "ThemePlotCoherence"
+    title: "Theme-Plot Coherence"
+    url: "/wiki/concepts/themeplotcoherence/"
   - key: "TheoreticalOperatingStandard"
     title: "Theoretical Operating Standard / 理论上该有的样子"
     url: "/wiki/concepts/theoreticaloperatingstandard/"

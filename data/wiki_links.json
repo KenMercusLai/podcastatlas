@@ -315,6 +315,10 @@
     "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
     "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
   },
+  "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4": {
+    "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+    "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+  },
   "122-athelstan-englands-greatest-monarch-glt8211065813": {
     "title": "122. Athelstan: England's Greatest Monarch",
     "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
@@ -20050,6 +20054,10 @@
   "ConfessionalWarEscalation": {
     "title": "Confessional War Escalation",
     "url": "/wiki/concepts/confessionalwarescalation/"
+  },
+  "ConfidenceAsWeapon": {
+    "title": "Confidence as a Weapon",
+    "url": "/wiki/concepts/confidenceasweapon/"
   },
   "ConfidenceProfileTeamManagement": {
     "title": "Confidence Profile Team Management",
@@ -62095,6 +62103,10 @@
     "title": "Peacock Bass",
     "url": "/wiki/entities/peacockbass/"
   },
+  "PeacockFeatherGuLong": {
+    "title": "《孔雀翎》 / The Peacock Feather",
+    "url": "/wiki/entities/peacockfeathergulong/"
+  },
   "PeacockStreaming": {
     "title": "Peacock",
     "url": "/wiki/entities/peacockstreaming/"
@@ -67958,6 +67970,10 @@
   "ReceptiveRemonstranceGovernance": {
     "title": "纳谏转政策式治理 / Receptive Remonstrance Governance",
     "url": "/wiki/concepts/receptiveremonstrancegovernance/"
+  },
+  "ReciprocalCareAndDignity": {
+    "title": "Reciprocal Care and Dignity",
+    "url": "/wiki/concepts/reciprocalcareanddignity/"
   },
   "ReciprocalTariffFormula": {
     "title": "Reciprocal Tariff Formula",
@@ -80331,6 +80347,10 @@
     "title": "Theme Park Resort Economics",
     "url": "/wiki/concepts/themeparkresorteconomics/"
   },
+  "ThemePlotCoherence": {
+    "title": "Theme-Plot Coherence",
+    "url": "/wiki/concepts/themeplotcoherence/"
+  },
   "Themistocles": {
     "title": "Themistocles",
     "url": "/wiki/entities/themistocles/"
@@ -92370,6 +92390,10 @@
   "ZhiZaoLaoYe": {
     "title": "纸造 / 老爷",
     "url": "/wiki/entities/zhizaolaoye/"
+  },
+  "ZhiZuiJinMiFM": {
+    "title": "纸醉金迷FM / Zhi Zui Jin Mi FM",
+    "url": "/wiki/entities/zhizuijinmifm/"
   },
   "ZhiguaiArchiveValue": {
     "title": "Zhiguai Archive Value",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9799
+wiki_total_pages: 9802
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1916,6 +1916,9 @@ wiki_pages:
   - key: "ConfessionalWarEscalation"
     title: "Confessional War Escalation"
     url: "/wiki/concepts/confessionalwarescalation/"
+  - key: "ConfidenceAsWeapon"
+    title: "Confidence as a Weapon"
+    url: "/wiki/concepts/confidenceasweapon/"
   - key: "ConfidenceProfileTeamManagement"
     title: "Confidence Profile Team Management"
     url: "/wiki/concepts/confidenceprofileteammanagement/"

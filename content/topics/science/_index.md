@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1464
+topic_total_pages: 1465
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -478,6 +478,9 @@ topic_concepts:
   - key: "ConcussionActiveRecovery"
     title: "Concussion Active Recovery"
     url: "/wiki/concepts/concussionactiverecovery/"
+  - key: "ConfidenceAsWeapon"
+    title: "Confidence as a Weapon"
+    url: "/wiki/concepts/confidenceasweapon/"
   - key: "ConfidenceProfileTeamManagement"
     title: "Confidence Profile Team Management"
     url: "/wiki/concepts/confidenceprofileteammanagement/"

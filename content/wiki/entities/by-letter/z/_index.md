@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12571
+wiki_total_pages: 12573
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "ZhiZaoLaoYe"
     title: "纸造 / 老爷"
     url: "/wiki/entities/zhizaolaoye/"
+  - key: "ZhiZuiJinMiFM"
+    title: "纸醉金迷FM / Zhi Zui Jin Mi FM"
+    url: "/wiki/entities/zhizuijinmifm/"
   - key: "ZhongDaiXinDefector"
     title: "终带 / Zhong Dai (Xin defector)"
     url: "/wiki/entities/zhongdaixindefector/"

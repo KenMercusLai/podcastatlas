@@ -46225,6 +46225,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/confessionalwarescalation/"
     },
+    "ConfidenceAsWeapon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/confidenceasweapon/"
+    },
     "ConfidentialRemonstranceLeakage": {
       "episode_count": 2,
       "show_count": 1,
@@ -95177,6 +95193,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/gujiwesternhan/"
+    },
+    "GuLong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/gulong/"
     },
     "GuYongWesternHan": {
       "episode_count": 9,
@@ -173032,6 +173071,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
+    "PeacockFeatherGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/peacockfeathergulong/"
+    },
     "PeakEndTaskMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -188819,6 +188874,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/receptiveremonstrancegovernance/"
+    },
+    "ReciprocalCareAndDignity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/reciprocalcareanddignity/"
     },
     "RecklessCourageDecisionRisk": {
       "episode_count": 1,
@@ -222643,6 +222714,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
+    "ThemePlotCoherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/themeplotcoherence/"
+    },
     "Themistocles": {
       "episode_count": 2,
       "show_count": 1,
@@ -255161,6 +255248,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhiyunxinastrologer/"
+    },
+    "ZhiZuiJinMiFM": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhipuAI": {
       "episode_count": 8,

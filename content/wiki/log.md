@@ -31198,3 +31198,14 @@ Added source `zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weig
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言
+
+Added source `121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4`; created [[ZhiZuiJinMiFM|纸醉金迷FM]], [[PeacockFeatherGuLong|《孔雀翎》]], [[ConfidenceAsWeapon|Confidence as a Weapon]], [[ReciprocalCareAndDignity|Reciprocal Care and Dignity]], and [[ThemePlotCoherence|Theme-Plot Coherence]]; and migrated and resynthesized [[GuLong|古龙]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the counterfeit Peacock Feather restores 高立's existing agency while the lost real weapon survives as external deterrence; 高立 and 双双's love is reciprocal rather than charitable, although her extreme physical description remains contested; and the confidence allegory retains force even where borrowing, unnoticed loss, disclosure, and implied poisoning lack sufficient causal support. No settled contradiction was adopted. 高立's death remains strongly implied rather than explicit, and theories that 双双 stole the weapon or leads 青龙会 remain unsupported reader repair. Broad wuxia pages were kept closed because the focused work and concepts capture the bounded addition without rewriting tangential evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,901 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
