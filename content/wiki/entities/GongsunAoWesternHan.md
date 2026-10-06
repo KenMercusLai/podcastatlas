@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0
   - zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq
   - zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik
+last_updated: 2026-10-07
 ---
 
 ## Overview
@@ -25,11 +26,13 @@ last_updated: 2026-10-05
 
 [[zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd|Hanji 324-2]] supplies an earlier patronage opportunity at Mobei. It says Wei Qing wants Gongsun Ao, described as a friend and former rescuer who has lost rank, to lead the vanguard so battlefield merit can restore his marquisate. This helps explain the episode's account of Li Guang's reassignment but does not establish how much the preference affected the final order or prove a plan to harm Li Guang.
 
+The repeated-jeopardy profile begins earlier with a failed supporting role in the [[SecondHexiCampaignWesternHan|第二次河西之战]]. Gongsun Ao is supposed to reunite with [[HuoQubing|霍去病]] near Juyan but becomes lost in the desert and misses the operation. He then faces a capital military sentence, pays redemption, and becomes a commoner. The route, cause of navigation failure, legal mechanics, and counterfactual effect of his absence remain source-scoped. [[zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik|Hanji 309-1]]
+
 The same source compresses Gongsun Ao's career into repeated appointment and jeopardy: multiple generalships, three death sentences, another costly defeat, escape by feigned death, years as a fugitive, recapture, and eventual execution with his household after his wife is implicated in a Wugu case. The host interprets this pattern through [[DesireCapacityFit|欲望与能力匹配]], but inability is an episode-level moral reading rather than a complete military assessment.
 
 ## Key Characteristics
 
-- Western Han general repeatedly entrusted with anti-Xiongnu command and presented by Hanji 324-2 as Wei Qing's preferred Mobei vanguard candidate for merit-based restoration despite costly or unsuccessful outcomes elsewhere.
+- Western Han general repeatedly entrusted with anti-Xiongnu command, including a failed second-Hexi supporting movement and a source-scoped Mobei vanguard opportunity for merit-based restoration despite costly or unsuccessful outcomes elsewhere.
 - Defeated Yanmen-route commander in Hanji 380-1's large multi-route campaign.
 - Failed retrieval commander whose report about Li Ling triggers family punishment in Hanji 380-2.
 - Frontier commander assigned to build and garrison a reception point for a proposed Xiongnu defection.
@@ -45,10 +48,11 @@ The same source compresses Gongsun Ao's career into repeated appointment and jeo
 - Final destruction: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says his wife's Wugu involvement precedes his execution and the destruction of his family.
 - Defector-reception assignment: [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] says Wudi orders Gongsun Ao to build a city and station troops beyond the frontier to receive a Xiongnu official who promises to kill the chanyu and defect.
 - Mobei patronage: [[zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd|Hanji 324-2]] says Wei Qing hopes to place Gongsun Ao in the vanguard so he can win merit and recover rank.
+- Second-Hexi failure: [[zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik|Hanji 309-1]] says Gongsun Ao becomes lost, misses the planned reunion with Huo Qubing, redeems a capital sentence, and loses rank.
 
 ## Qualifications
 
-These sources give a compressed popular-history career rather than a complete chronology of Gongsun Ao's commands, titles, construction assignment, convictions, pardons, offices, escape, or Wugu case. Hanji 324-2 does not independently establish the rescue history, friendship, promised command, or relative weight of Wei Qing's patronage preference in Li Guang's reassignment. Hanji 371-2 ends before the reception mission's outcome and does not resolve the exact form or location of the surrender city. Hanji 380-2 presents his report as self-protective blame transfer, but does not reproduce the full testimony or legal process. The host's conclusion that insufficient ability, not divided loyalty, explains his fate is an interpretive lesson and should not replace fuller military and political evaluation.
+These sources give a compressed popular-history career rather than a complete chronology of Gongsun Ao's commands, titles, construction assignment, convictions, pardons, offices, escape, or Wugu case. Hanji 309-1 does not independently establish the precise route, reason for becoming lost, planned support effect, sentence, payment, or demotion procedure. Hanji 324-2 does not independently establish the rescue history, friendship, promised command, or relative weight of Wei Qing's patronage preference in Li Guang's reassignment. Hanji 371-2 ends before the reception mission's outcome and does not resolve the exact form or location of the surrender city. Hanji 380-2 presents his report as self-protective blame transfer, but does not reproduce the full testimony or legal process. The host's conclusion that insufficient ability, not divided loyalty, explains his fate is an interpretive lesson and should not replace fuller military and political evaluation.
 
 ## What Changed
 
@@ -56,6 +60,7 @@ These sources give a compressed popular-history career rather than a complete ch
 - Connected the proposal to Hanji 373-2's later exposure-and-failure sequence without treating every office or operational detail as settled.
 - Preserved the later failed-retrieval, repeated-jeopardy, and Wugu-linked household-destruction profile.
 - Added the source-scoped Mobei vanguard preference and merit-restoration motive attributed to Wei Qing.
+- Added the earlier second-Hexi missed rendezvous, capital jeopardy, redemption, and loss of rank.
 
 ## Relationships
 
@@ -65,3 +70,4 @@ These sources give a compressed popular-history career rather than a complete ch
 - [[LiLingWesternHan|李陵]] - target of the failed search and mistaken report whose family bears the consequence.
 - [[LiXuWesternHan|李绪]] - officer whom the episode identifies as the actual trainer behind the reported conduct.
 - [[DesireCapacityFit|欲望与能力匹配]] - source-scoped interpretive frame for Gongsun Ao's repeated return to dangerous command.
+- [[SecondHexiCampaignWesternHan|第二次河西之战]] - campaign in which his missed supporting movement leaves Huo Qubing to continue alone.

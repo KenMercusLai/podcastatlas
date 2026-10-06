@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12542
+wiki_total_pages: 12543
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2699,6 +2699,9 @@ wiki_pages:
   - key: "ShentinglingBattle"
     title: "神亭岭之战 / Shentingling Battle"
     url: "/wiki/entities/shentinglingbattle/"
+  - key: "SecondHexiCampaignWesternHan"
+    title: "第二次河西之战 / Second Hexi Campaign (Western Han)"
+    url: "/wiki/entities/secondhexicampaignwesternhan/"
   - key: "SeikoFootballClub"
     title: "精工足球队 / Seiko Football Club"
     url: "/wiki/entities/seikofootballclub/"

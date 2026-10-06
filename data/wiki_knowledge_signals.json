@@ -92317,9 +92317,9 @@
       "url": "/wiki/entities/gongfuxiong/"
     },
     "GongsunAoWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -92348,9 +92348,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》324-2｜李广与卫青，两位名将的爱恨情仇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一 [llcWKkdgJPx2ZjeOyVhdJln3NQiK].md",
+          "key": "zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
@@ -102947,9 +102954,9 @@
       "url": "/wiki/concepts/hetuluoshu/"
     },
     "HexiCorridorWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王 [llyk4I76IzMXE_El_eWpbBAyQQ5I].md",
@@ -102957,6 +102964,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王",
           "url": "/wiki/sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一 [llcWKkdgJPx2ZjeOyVhdJln3NQiK].md",
+          "key": "zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
         }
       ],
       "updated": "2026-10-07",
@@ -110024,9 +110038,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110125,6 +110139,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一 [llcWKkdgJPx2ZjeOyVhdJln3NQiK].md",
+          "key": "zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
         }
       ],
       "updated": "2026-10-07",
@@ -199489,6 +199510,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/secondfirstimpression/"
+    },
+    "SecondHexiCampaignWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？ [lsjtzqSil36lXEjIJ8gaZn58Qeeb].md",
+          "key": "zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一 [llcWKkdgJPx2ZjeOyVhdJln3NQiK].md",
+          "key": "zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/secondhexicampaignwesternhan/"
     },
     "SecondMexicanEmpire": {
       "episode_count": 1,

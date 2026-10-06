@@ -31008,3 +31008,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》309-1｜霍去病夺回河西走廊，中国必须统一
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,877 sources across 797 overview paragraphs and nine topics.
+
+Added source `zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik`; created [[SecondHexiCampaignWesternHan|第二次河西之战]]; and resynthesized [[HuoQubing|霍去病]], [[HexiCorridorWesternHan|西汉河西走廊]], and [[GongsunAoWesternHan|公孙敖]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the second-Hexi plan survives the loss of its supporting rendezvous when Huo continues into the opposing rear, producing a major western Xiongnu disruption and sharply different court judgments across commanders; the corridor's transfer is nevertheless a multi-stage process of battle, surrender, settlement, and administration rather than one-act “recovery.” No settled contradiction was adopted. Routes, Lesser Yuezhi identities, distances, casualty and captive totals, rewards, redemption mechanics, elite-force comparisons, luck, “fatal injury,” “northwest thereafter had no Xiongnu,” and first-opening or unification language remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
