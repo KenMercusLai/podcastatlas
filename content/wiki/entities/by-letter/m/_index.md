@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12536
+wiki_total_pages: 12538
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1913,6 +1913,9 @@ wiki_pages:
   - key: "MunchausenBaron"
     title: "敏锡豪森男爵 / Baron Munchausen"
     url: "/wiki/entities/munchausenbaron/"
+  - key: "MingDingling"
+    title: "明定陵 / Ming Dingling"
+    url: "/wiki/entities/mingdingling/"
   - key: "MingDynasty"
     title: "明朝 / Ming Dynasty"
     url: "/wiki/entities/mingdynasty/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9781
+wiki_total_pages: 9782
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2558,6 +2558,9 @@ wiki_pages:
   - key: "PersonalizedLocalAutonomySuccession"
     title: "个人化地方自治继承断裂 / Personalized Local Autonomy Succession"
     url: "/wiki/concepts/personalizedlocalautonomysuccession/"
+  - key: "PreventiveTombExcavationConservationRisk"
+    title: "主动陵墓发掘的保存风险 / Preventive Tomb Excavation Conservation Risk"
+    url: "/wiki/concepts/preventivetombexcavationconservationrisk/"
   - key: "PublicRecommendationPrivateFavorBoundary"
     title: "举贤不立私恩 / Public Recommendation Private Favor Boundary"
     url: "/wiki/concepts/publicrecommendationprivatefavorboundary/"

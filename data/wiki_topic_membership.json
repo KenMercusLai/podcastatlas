@@ -39898,6 +39898,11 @@
   ],
   "GuoMoruo": [
     {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
@@ -57312,6 +57317,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MingDingling": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "MingDynasty": [
     {
       "key": "history",
@@ -66710,6 +66722,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PreventiveTombExcavationConservationRisk": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Priam": [
@@ -103304,6 +103323,13 @@
     }
   ],
   "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l": [
     {
       "key": "history",
       "label": "History",

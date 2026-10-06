@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2585
+topic_total_pages: 2589
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1666,6 +1666,9 @@ topic_concepts:
   - key: "TraditionalChineseApprenticeship"
     title: "中国传统学徒制 / Traditional Chinese Apprenticeship"
     url: "/wiki/concepts/traditionalchineseapprenticeship/"
+  - key: "PreventiveTombExcavationConservationRisk"
+    title: "主动陵墓发掘的保存风险 / Preventive Tomb Excavation Conservation Risk"
+    url: "/wiki/concepts/preventivetombexcavationconservationrisk/"
   - key: "WudaiAdoptiveSonSystem"
     title: "五代义子假子制度 / Five Dynasties Adoptive-Son System"
     url: "/wiki/concepts/wudaiadoptivesonsystem/"
@@ -3620,6 +3623,9 @@ topic_entities:
   - key: "ChangpingJun"
     title: "昌平君 / Changping Jun"
     url: "/wiki/entities/changpingjun/"
+  - key: "MingDingling"
+    title: "明定陵 / Ming Dingling"
+    url: "/wiki/entities/mingdingling/"
   - key: "EmpressMaMingdeEasternHan"
     title: "明德马皇后 / Empress Ma (Mingde, Eastern Han)"
     url: "/wiki/entities/empressmamingdeeasternhan/"
@@ -4625,6 +4631,9 @@ topic_entities:
   - key: "GuoKai"
     title: "郭开 / Guo Kai"
     url: "/wiki/entities/guokai/"
+  - key: "GuoMoruo"
+    title: "郭沫若"
+    url: "/wiki/entities/guomoruo/"
   - key: "GuoQinXinOfficial"
     title: "郭钦 / Guo Qin (Xin-era official)"
     url: "/wiki/entities/guoqinxinofficial/"
@@ -7398,6 +7407,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq"
     title: "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生"
     url: "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
+  - key: "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l"
+    title: "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
   - key: "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk"
     title: "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？"
     url: "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"

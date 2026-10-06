@@ -95608,6 +95608,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/guoliangligustudent/"
     },
+    "GuoMoruo": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》97-4丨史上为事业送老婆第一人 [lo8omg01gkWloJkPIflaep99X-vz].md",
+          "key": "zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》97-4丨史上为事业送老婆第一人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz/"
+        },
+        {
+          "episode_file": "75.故事新编：骷髅被复活后会感激庄子吗？ [681010087].md",
+          "key": "75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087",
+          "show": "蜜獾吃书",
+          "title": "75.故事新编：骷髅被复活后会感激庄子吗？",
+          "url": "/wiki/sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/guomoruo/"
+    },
     "GuoMusicTherapyGuest": {
       "episode_count": 1,
       "show_count": 1,
@@ -136033,9 +136063,9 @@
       "url": "/wiki/entities/liuhongweistandup/"
     },
     "LiuJiJiaodongKingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷 [lu_tr4M36rMZ9sX38J4NvLMof5am].md",
@@ -136057,6 +136087,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
         }
       ],
       "updated": "2026-10-07",
@@ -136396,6 +136433,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/liukuaixinrebel/"
+    },
+    "LiuKuanJibeiKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liukuanjibeikingwesternhan/"
     },
     "LiuKuanLateHan": {
       "episode_count": 3,
@@ -153941,6 +153994,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/mindsetphysiologyeffects/"
+    },
+    "MingDingling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mingdingling/"
     },
     "MingDynasty": {
       "episode_count": 3,
@@ -180856,6 +180925,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
+    },
+    "PreventiveTombExcavationConservationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/preventivetombexcavationconservationrisk/"
     },
     "PreverbalRelationalAttunement": {
       "episode_count": 1,
@@ -223780,9 +223865,9 @@
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TombWealthLegendRobberyIncentive": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？ [lnAU07_cMW4u08tYOnm8tQJtfBWL].md",
@@ -223797,6 +223882,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？ [lpq9BoZHrdXQN7tIOtyx3J-EpM9l].md",
+          "key": "zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l/"
         }
       ],
       "updated": "2026-10-07",

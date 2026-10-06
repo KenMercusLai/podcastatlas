@@ -6,6 +6,7 @@ tags: [folklore, tombs, grave-robbing, incentives, archaeology]
 sources:
   - zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl
   - zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq
+  - zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l
 last_updated: 2026-10-07
 ---
 
@@ -15,42 +16,43 @@ last_updated: 2026-10-07
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl|Hanji 310-1]] supplies the current bounded case. The saying “打开康王坟，山东不受贫” converts general knowledge that elite graves can contain valuable goods into an extreme, memorable promise attached to a named royal title and a Shandong landscape.
+[[zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl|Hanji 310-1]] supplies the behavioral case. “打开康王坟，山东不受贫” converts general knowledge that elite graves can contain valuable goods into an extreme, memorable promise attached to a royal title and Shandong landscape. A group reportedly scouts and marks a tomb in the 六曲山 area, returns at night, and is arrested before excavation; the suspects then attribute their interest to the saying.
 
-The episode's attempted-robbery story gives the legend behavioral significance without proving its archaeology. A group reportedly scouts and marks a large tomb in the 六曲山 area, returns at night, and is arrested before excavation; the suspects then attribute their interest to the saying. The current synthesis therefore separates two propositions: the legend may influence target selection, while the tomb's identity, contents, and province-supporting value remain unverified.
+Other royal burials make the legend intelligible without verifying it. [[zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq|Hanji 310-2]] cites rich tombs associated with Liu Sheng, the Shizishan Chu king, and Liu He. These examples show category-level possibility, not that the Kang tomb belonged to [[LiuJiJiaodongKingWesternHan|胶东康王刘寄]] or held similar goods.
 
-An analogy layer makes the legend more intelligible without verifying it. Excavated burials associated with Liu Sheng, the Shizishan Chu king, and Liu He show that Western Han royal graves could contain conspicuous wealth. That background can make the proverb persuasive to would-be robbers, but analogy across tombs still cannot identify the Kang tomb or establish what it contains. [[zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq|Hanji 310-2]]
+[[zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l|Hanji 311]] further weakens any inference from legend to inventory. Jiaodong wealth, reported construction, and collected valuables support a rich-tomb hypothesis, but Liu Ji's political suspicion and [[LiuKuanJibeiKingWesternHan|刘宽]]'s reportedly reduced burial support a sparse-tomb analogy. A legend can guide behavior even when evidence points in competing directions and the target remains unopened or unidentified.
 
 ## Key Claims
 
 - A vivid treasure proverb can turn uncertain burial knowledge into a specific search target.
-- Repetition and geographic attachment can preserve a legend's behavioral force without verifying its material claim.
-- An interrupted robbery attempt can evidence the legend's influence while providing no evidence about the unopened tomb's contents.
-- Dense tomb landscapes can make a treasure story seem actionable even when the targeted grave has not been securely identified.
-- Archaeological examples from other royal tombs can increase a legend's plausibility without becoming direct evidence for its named target.
+- Repetition and geographic attachment can preserve behavioral force without verifying material content.
+- An interrupted robbery attempt can evidence influence while revealing nothing about an unopened tomb's inventory.
+- Rich burials elsewhere provide category-level plausibility, not direct confirmation of a named grave.
+- Competing punitive-burial evidence can leave the treasure claim unresolved without reducing the legend's motivational power.
 
 ## Evidence
 
-Proverb and royal target:
-- [[zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl|Hanji 310-1]] presents “打开康王坟，山东不受贫” as an explicitly exaggerated claim and provisionally connects the title to [[LiuJiJiaodongKingWesternHan|胶东康王刘寄]].
+Proverb and behavioral effect:
+- [[zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl|Hanji 310-1]] presents the proverb, provisionally links its Kang king to Liu Ji, and says it attracted suspects to the 六曲山 tomb area.
 
-Reported behavioral effect:
-- [[zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl|Hanji 310-1]] says suspects scout a tomb site, return to dig, and later identify the proverb as their attraction to the 六曲山 area.
+Category-level plausibility:
+- [[zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq|Hanji 310-2]] cites rich excavated Western Han royal burials but supplies no object, inscription, or excavation from Liu Ji's proposed tomb.
 
-Analogy rather than identification:
-- [[zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq|Hanji 310-2]] cites rich excavated royal burials but supplies no object, inscription, or excavation from Liu Ji's proposed tomb.
+Competing hypotheses:
+- [[zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l|Hanji 311]] sets wealth and construction claims against a reduced-burial analogy, leaving the tomb's contents unresolved.
 
 ## Counterevidence & Qualifications
 
-The current concept rests on two compact popular-history episodes rather than police files, archaeological reports, folklore fieldwork, or testimony records. They do not establish when the proverb arose, how widely it circulated, whether it was the suspects' principal motive, which tomb they targeted, whether that tomb belonged to Liu Ji, or what goods it contained. Finds from other royal graves support only category-level plausibility. A claim about behavioral influence or analogy must not be converted into confirmation of the treasure story.
+The concept rests on three compact popular-history episodes rather than police files, archaeological reports, folklore fieldwork, or testimony records. They do not establish when the proverb arose, how widely it circulated, whether it was the suspects' principal motive, which tomb they targeted, whether that tomb belonged to Liu Ji, or what it contained. Other royal graves and reported Jiaodong resources support only plausibility; Liu Kuan's treatment supports only an analogy in the opposite direction. Neither side confirms Liu Ji's burial inventory.
 
 ## What Changed
 
-- Added the distinction between category-level plausibility from other excavated royal tombs and direct evidence for the Kang tomb.
+- Added the sparse-burial counterhypothesis and made the legend's behavioral force independent of which burial hypothesis is true.
 
 ## Related Concepts
 
 - [[TombDesecrationPoliticalViolence]] - distinguishes treasure-motivated robbery from tomb attacks aimed at lineage, memory, punishment, revenge, or political order.
-- [[HistoricalDetectiveReasoning]] - supplies the broader need to separate a durable story from evidence for its factual referent.
-- [[LiuJiJiaodongKingWesternHan|胶东康王刘寄]] - proposed royal referent whose tomb identity remains unverified in the current source.
-- [[HanRoyalThickBurialAndJadeSuitBelief]] - broader material setting that helps explain why a treasure legend can seem credible.
+- [[HistoricalDetectiveReasoning]] - separates a durable story from evidence for its factual referent.
+- [[LiuJiJiaodongKingWesternHan|胶东康王刘寄]] - proposed royal referent whose tomb identity and inventory remain unverified.
+- [[HanRoyalThickBurialAndJadeSuitBelief|汉代王侯厚葬与玉衣不朽信仰]] - material setting that can make a treasure legend credible without confirming it.
+- [[PreventiveTombExcavationConservationRisk|主动陵墓发掘的保存风险]] - separate risk created when a burial is deliberately opened without adequate preservation readiness.
