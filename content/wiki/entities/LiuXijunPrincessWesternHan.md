@@ -6,7 +6,8 @@ tags: [person, western-han, princess, wusun, heqin, frontier]
 sources:
   - zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp
   - zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl
+last_updated: 2026-10-07
 ---
 
 ## Overview
@@ -19,17 +20,17 @@ Xijun's profile joins royal authenticity, political vulnerability, diplomatic fu
 
 Hanji 370-2 then describes her as isolated by language, custom, separate residence, and the age gap with Liejiaomi. A Xiongnu princess in the same court holds the left-wife position while Xijun holds the right-wife position, making marriage rank part of Wusun's balancing between Han and Xiongnu.
 
-The succession transition makes the asymmetry explicit. Liejiaomi asks Xijun to marry Junxumi, and Xijun objects in writing to Han. Wudi's reply tells her to follow local custom because Han wants Wusun help against Xiongnu. She complies, later has a daughter named Shaofu, and dies before Han sends [[XieyouPrincessWesternHan|解忧公主]] to continue the alliance.
+The succession transition makes the asymmetry explicit. Liejiaomi asks Xijun to marry Junxumi, and Xijun objects in writing to Han. Wudi's reply tells her to follow local custom because Han wants Wusun help against Xiongnu. She complies, later has a daughter named Shaofu, and dies before Han sends [[XieyouPrincessWesternHan|解忧公主]] to continue the alliance. Hanji 309-2 adds the attributed 《悲愁歌》 as an expression of displacement and longing for home, but its claim that unhappiness led into illness and early death is not treated as a demonstrated medical or causal account.
 
 ## Key Characteristics
 
 - Western Han princess used to bind Wusun to Han against Xiongnu.
 - Daughter of Liu Jian whose household protection collapses after his rebellion case and suicide.
 - Presented by Hanji 370-1 as its first named and first genuine imperial-line heqin princess.
-- Materially supported but socially isolated by distance, language, custom, and separate residence.
-- Positioned below a Xiongnu left wife in the episode's account of Wusun court rank.
+- Materially supported but socially isolated by distance, language, custom, separate residence, and a rank below the episode's Xiongnu left wife.
 - Explicitly objects to remarriage with Junxumi but receives no exit from the Han court.
 - Bears the succession cost of alliance continuity by marrying two generations of Wusun rulers.
+- Remembered through the attributed 《悲愁歌》 as a voice of displacement and homesickness.
 
 ## Evidence
 
@@ -40,13 +41,16 @@ The succession transition makes the asymmetry explicit. Liejiaomi asks Xijun to 
 - Protest and coercion: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Xijun rejects the planned remarriage, appeals to Wudi, and is ordered to follow Wusun custom.
 - Second marriage and child: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says she marries Junxumi and gives birth to Shaofu.
 - Alliance succession: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Han sends Xieyou after Xijun dies.
+- Lament and remembered emotion: [[zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl|Hanji 309-2]] attributes 《悲愁歌》 to Xijun and describes its themes as foreignness, sadness, and desire to return home.
 
 ## Qualifications
 
-The page is bounded to two compact podcast summaries, not a full biography. Hanji 370-1's historical-priority claims, Xijun's age at her father's death, her family's exact post-case status, and the inference that political weakness caused her selection remain source-scoped. Its title inaccurately points to Xiongnu although its narrative sends her to Wusun. Hanji 370-2's death date around 87 BCE and age forty-four do not fit its own placement of Xijun before Xieyou's mission and the 104 BCE material that follows, so neither is adopted as settled fact. Her cause of death, private feelings beyond the reported objection, the exact Wusun rank rule, and the degree of her independent effect on Han-Wusun military cooperation remain unsettled.
+The page is bounded to three compact podcast summaries, not a full biography. Hanji 370-1 and Hanji 309-2's historical-priority claims, Xijun's age at her father's death, her family's exact post-case status, and the inference that political weakness caused her selection remain source-scoped. Hanji 370-1's title inaccurately points to Xiongnu although its narrative sends her to Wusun; Hanji 309-2's headline age of eighty is not substantiated in its body. Hanji 370-2's death date around 87 BCE and age forty-four do not fit its own placement of Xijun before Xieyou's mission and the 104 BCE material that follows, so neither is adopted as settled fact. Her cause of death, private feelings beyond the reported objection and attributed lament, the poem's transmission history, the exact Wusun rank rule, and the degree of her independent effect on Han-Wusun military cooperation remain unsettled. The family-ethics claim that her father caused her unhappiness, illness, and death is commentary rather than a verified causal chain.
 
 ## What Changed
 
+- Added 《悲愁歌》 as an episode-attributed memory of displacement and homesickness while keeping its text, transmission, illness, and death claims bounded.
+- Qualified Hanji 309-2's father-to-daughter moral interpretation rather than treating it as complete historical causation.
 - Added Xijun's Liu Jian lineage, childhood household collapse, bridewealth, and alliance-selection setup from Hanji 370-1.
 - Established Xijun as the wiki's earliest completed Wusun succession-entrapment case.
 - Separated the episode's supported protest-and-remarriage sequence from its unstable death chronology.

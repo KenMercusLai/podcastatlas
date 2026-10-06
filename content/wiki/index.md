@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头](sources/zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl.md) — 刘建的残暴、伪造印信符节与谋反败亡牵连江都国和女儿刘细君；节目以《悲愁歌》和远嫁乌孙作代际伤害解释，但年龄、数量、优先性及完整因果均保留来源边界。
 - [Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom](sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340.md) — All-In interview on Pahlavi's four-part transition framework, temporary leadership claim, constitutional choice, selective state continuity, and reconstruction advocacy.
 - [《资治通鉴·汉纪》313-2｜他投降西汉，受封万户侯](sources/zizhi-tongjian-hanji-313-2-ta-touxiang-xihan-shoufeng-wanhuhou-lu7zpyyfemjcntnubgsfr7bu9_tg.md) — 浑邪王从武装归降进入长安受封阶段；北军、未央宫与分层封赏把投降转成可见的帝国秩序，同时保留仪式想象和名号数字的史料边界。
 - [《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？](sources/zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5.md) — 以铁器军用风险解释汉武帝严惩商人的安全逻辑，并把汲黯反复被外调、召回概括为君主对不适却有用的纠错声音的依赖。
@@ -4084,7 +4085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王乌 / Wang Wu (Western Han envoy)](entities/WangWuWesternHan.md) — 熟悉匈奴礼俗并以礼仪让步反复取得入见机会，但太子入质与单于赴长安承诺均未兑现，显示文化通达不等于承诺可信；“王巫”据传世姓名归一为王乌。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHan.md) — 向匈奴传达决战或称臣二选一要求、遭单于扣押，并成为王乌柔化礼仪路径之对照的西汉使者。
 - [毋寡 / Wugua (Dayuan)](entities/WuguaDayuan.md) — 大宛国王，其后勤判断部分准确，但阻止汉朝报复的威慑判断失败，并在围城议和时被贵族杀死。
-- [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Liu Jian's politically vulnerable royal daughter, sent to Wusun and later compelled to carry the alliance across a succession remarriage.
+- [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Liu Jian's politically vulnerable royal daughter, sent to Wusun, compelled to carry the alliance across a succession remarriage, and remembered through the attributed 《悲愁歌》.
 - [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Xiongnu-supported Wusun restorer who later seeks a Han bride, balances rival princesses, and carries the alliance into his grandson's succession.
 - [军须靡 / Junxumi](entities/JunxumiWusun.md) — Wusun successor who marries Liu Xijun and later Princess Xieyou, linking two Han marriage missions.
 - [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 汉武帝时期以严酷立威、最终因贪诈指控自杀并牵出多户族灭的酷吏。
@@ -5874,7 +5875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sacred Paws Soap Company](entities/SacredPawsSoapCompany.md) — Gemstone-soap self-care kit business used as the episode's offline-story-to-online-trust case.
 - [淖姬 / Nuo Ji (Western Han)](entities/NuoJiWesternHan.md) — Western Han consort whose movement across Liu Fei, Liu Jian, and Liu Pengzu shows princely-household dependency and succession exposure.
 - [江都王刘非 / Liu Fei, Jiangdu King (Western Han)](entities/LiuFeiJiangduKingWesternHan.md) — Western Han Jiangdu king whose heroic image, attachment to Nuo Ji, and early death frame her later vulnerability.
-- [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's coercive Jiangdu successor and Liu Xijun's father, whose rebellion case exposes both consort and descendant vulnerability.
+- [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's coercive and violent Jiangdu successor whose forged instruments and rebellion case end in suicide, kingdom abolition, and descendant vulnerability.
 - [刘淖子 / Liu Naozi (Western Han)](entities/LiuNaoziWesternHan.md) — Nuo Ji and Liu Pengzu's son whose "too many desires" reputation blocks his Zhao succession.
 - [武始侯刘昌 / Liu Chang, Wushi Marquis (Western Han)](entities/LiuChangWushiHouWesternHan.md) — low-risk Zhao successor chosen by Han Wudi after Liu Naozi is rejected.
 - [Karissa Bodnar](entities/KarissaBodnar.md) — Founder of Thrive Causemetics whose episode links personal loss, beauty product development, DTC feedback, lean operations, and founder control.

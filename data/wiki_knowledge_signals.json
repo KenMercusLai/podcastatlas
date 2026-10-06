@@ -136072,9 +136072,9 @@
       "url": "/wiki/entities/liujiashuailihou/"
     },
     "LiuJianJiangduKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生 [lt06-AS48q9QlPt_-dfDx_JSidJY].md",
@@ -136089,9 +136089,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主",
           "url": "/wiki/sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头 [lpya7PfXRSs9_Qwcbcx_3hNLiuyl].md",
+          "key": "zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liujianjiangdukingwesternhan/"
     },
     "LiuJingGuanglingKingEasternHan": {
@@ -137356,9 +137363,9 @@
       "url": "/wiki/entities/liuxiaoyang/"
     },
     "LiuXijunPrincessWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》370-2｜爷爷把娇妻嫁给亲孙子，奶奶一夜变媳妇儿？ [lopW_H3YzK6qtcPkSQDM9l2eGrVP].md",
@@ -137373,9 +137380,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主",
           "url": "/wiki/sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头 [lpya7PfXRSs9_Qwcbcx_3hNLiuyl].md",
+          "key": "zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liuxijunprincesswesternhan/"
     },
     "LiuXinWesternHan": {
