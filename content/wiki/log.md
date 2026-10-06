@@ -31138,3 +31138,11 @@ Added source `zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | VOL.197咖啡是高利贷，睡眠是储蓄卡：这届打工人的“春困”自救指南
+
+Added source `vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende-chunkun-zijiu-zhinan-lkcj1kymw09hwvfcbwcr-noydrad`; created [[DaytimeSleepinessTriageAndRecovery|日间困倦分流与恢复]]; and resynthesized [[DongRheumatologyDoctor|董飞]] and [[TCMSpringSelfCareBoundary|中医春季养生边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: severity, persistence, functional impairment, breathing clues, cold intolerance, swelling, and cognitive slowing matter more than the “spring fatigue” label; coffee, strong tea, energy drinks, sugar, short rest, and gentle movement may change state but do not replace sleep or cause-based assessment. The later source explicitly identifies the earlier lupus guest “董老师” as 董飞 of Xiyuan Hospital rheumatology; the stable canonical route is preserved. No settled contradiction was adopted. Seasonal blood-flow, organ-clock, liver, qi, yang, dampness, phlegm, tea, acupoint, lipid, urate, gout, stimulant-harm, and exact sleep-timing claims remain source-scoped public education rather than established mechanisms or individualized medical guidance. Broad [[Atang]], [[ZheBingShuoLaiHuaChang]], sleep, caffeine, weight-management, and medical-risk pages were kept closed because the focused source, guest, and concepts capture the bounded addition without rewriting their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,893 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

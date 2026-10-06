@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.197咖啡是高利贷，睡眠是储蓄卡：这届打工人的“春困”自救指南](sources/vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende-chunkun-zijiu-zhinan-lkcj1kymw09hwvfcbwcr-noydrad.md) — 这病说来话长 episode with 阿汤 and 董飞 on daytime-sleepiness triage, sleep, caffeine, short rest, gentle movement, spring TCM boundaries, and metabolic-health escalation.
 - [《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷](sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug.md) — 刘安奖赏符合帝王梦的情报并以家属胁迫反对者；劝谏一度阻止谋反，而对庶长子一支的排斥又把不满传到叔侄冲突。
 - [《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？](sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds.md) — 告发使淮南案进入正式调查后，伍被以刘濞败亡、人才被捕及秦汉政治环境不同，逐层否定刘安对起兵条件和陈胜吴广先例的判断。
 - [《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？](sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc.md) — 伍被先判断诸侯、百姓均无反意，却提出伪造诏令制造恐慌的低胜算方案；刘安不断更换伪印、刺杀、纵火与假边警计划，最终在抓捕逼近时既无法动员也未能退出。
@@ -5609,7 +5610,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claude Joseph Rouget de Lisle](entities/RougetDeLisle.md) — Army engineer and composer who wrote the future La Marseillaise in Strasbourg in April 1792.
 - [Sans-culottes](entities/SansCulottes.md) — Urban popular radicals whose dress, economic demands, section politics, and armed mobilization joined class identity to revolutionary power.
 - [Bill Eddy](entities/BillEddy.md) — Lawyer, mediator, therapist, and conflict educator using pattern-based recognition and structured de-escalation tools.
-- [董老师 / Dong Rheumatology Doctor](entities/DongRheumatologyDoctor.md) — Source-scoped rheumatology guest explaining lupus mechanism, recognition, remission, adherence, and long-term management.
+- [董飞 / Dong Fei](entities/DongRheumatologyDoctor.md) — Xiyuan Hospital rheumatology guest connecting lupus management with bounded public education on fatigue, sleep, stimulants, movement, and seasonal TCM claims.
 - [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
 - [Poor People's Campaign](entities/PoorPeoplesCampaign.md) — King's multiracial national campaign against poverty and economic inequality.
 - [Memphis Sanitation Strike](entities/MemphisSanitationStrike.md) — 1968 labor-and-dignity campaign that drew King back to Memphis.
@@ -16576,6 +16577,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Daytime Sleepiness Triage and Recovery / 日间困倦分流与恢复](concepts/DaytimeSleepinessTriageAndRecovery.md) — Separates mild transient tiredness from persistent or warning-sign sleepiness and distinguishes short-term stimulation from recovery or cause-based assessment.
 - [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。

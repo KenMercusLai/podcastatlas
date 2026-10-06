@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9794
+wiki_total_pages: 9795
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "DayZeroModelSupport"
     title: "Day-Zero Model Support"
     url: "/wiki/concepts/dayzeromodelsupport/"
+  - key: "DaytimeSleepinessTriageAndRecovery"
+    title: "Daytime Sleepiness Triage and Recovery / 日间困倦分流与恢复"
+    url: "/wiki/concepts/daytimesleepinesstriageandrecovery/"
   - key: "DCFValuationAsNarrative"
     title: "DCF Valuation as Narrative / DCF作为叙事"
     url: "/wiki/concepts/dcfvaluationasnarrative/"
