@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.355 推销员之死：那些杀不死我的，为什么一直在打我](sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya.md) — 文化有限从成功神话、自我商品化、家庭继承与心理时间舞台化解读《推销员之死》，并保留作者生平、人物动机和跨文化接受的证据边界。
 - [No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？](sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md) — 三五环 solo episode on OpenClaw's spread, architecture, workflow fit, token cost, permission and skill risk, delegated interaction, labor change, and retained human judgment.
 - [《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？](sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7.md) — 以霍去病拒绝受古兵法拘束及河西骑兵高速远程作战为例，说明旧规则须按兵种、后勤与作战环境检验，而非断言整部《孙子兵法》失效。
 - [《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长](sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c.md) — 义纵与王温舒以灭族、批量处决、胁迫网络和恐怖沉默制造可见“政绩”；节目据此把酷吏之恶从个人残暴推进到朝廷授权、配合与奖赏的制度链条。
@@ -3893,6 +3894,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [Arthur Miller / 阿瑟·米勒](entities/ArthurMiller.md) — American playwright represented through social drama, theatrical necessity, political refusal, and the 1983 Beijing production of *Death of a Salesman*.
+- [Death of a Salesman / 《推销员之死》](entities/DeathOfASalesman.md) — Two-act family tragedy joining success ideology, work-based self-worth, inherited aspiration, and permeable psychological time.
+- [Willy Loman / 威利·洛曼](entities/WillyLoman.md) — Salesman whose belief in popularity and usefulness makes career failure an identity collapse.
+- [Biff Loman / 彼夫·洛曼](entities/BiffLoman.md) — Willy's elder son, moving from paternal worship and self-sabotage toward ordinary self-knowledge.
+- [Linda Loman / 林达·洛曼](entities/LindaLoman.md) — Caregiver who recognizes Willy's danger while protecting his dignity and the family's unstable story.
 - [宁成 / Ning Cheng (Western Han)](entities/NingChengWesternHan.md) — 以关隘暴虐闻名、后被义纵调查并灭族的西汉酷吏。
 - [狄山 / Di Shan (Western Han)](entities/DiShanWesternHan.md) — 主张汉匈和亲、当廷攻击张汤，后在惩罚性能力测试中被派守边并迅速死于匈奴袭击的西汉博士。
 - [任常 / Ren Chang (Western Han)](entities/RenChangWesternHan.md) — 漠北战后主张要求匈奴臣服并奉命出使，却因朝觐要求触怒单于而被扣留的西汉官员。
@@ -16453,6 +16459,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
+- [Success Myth Identity Lock-In / 成功神话身份锁定](concepts/SuccessMythIdentityLockIn.md) — A success belief becomes so central to sacrifice, authority, and self-respect that revising it feels like erasing an entire life.
+- [Self-Commodification Through Work / 劳动中的自我商品化](concepts/SelfCommodificationThroughWork.md) — Market exchange expands from skill and time into personality, popularity, visibility, and the felt value of the person.
+- [Psychological Time Stagecraft / 心理时间舞台化](concepts/PsychologicalTimeStagecraft.md) — Scenery, movement, light, and sound make memory, fantasy, and present action coexist visibly on stage.
 - [Delegated Agent Interaction](concepts/DelegatedAgentInteraction.md) — Shift from question answering to outcome delegation, with model-directed execution bounded by workflow value, permissions, review, and human accountability.
 - [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
 - [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给与作战距离重新检验，不能把旧时代战术直接复制到新战场。

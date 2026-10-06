@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9751
+wiki_total_pages: 9754
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "SelfBuiltAgentWorkflow"
     title: "Self-Built Agent Workflow"
     url: "/wiki/concepts/selfbuiltagentworkflow/"
+  - key: "SelfCommodificationThroughWork"
+    title: "Self-Commodification Through Work / 劳动中的自我商品化"
+    url: "/wiki/concepts/selfcommodificationthroughwork/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
@@ -2231,6 +2234,9 @@ wiki_pages:
   - key: "SuburbanDeliveryStrategy"
     title: "Suburban Delivery Strategy"
     url: "/wiki/concepts/suburbandeliverystrategy/"
+  - key: "SuccessMythIdentityLockIn"
+    title: "Success Myth Identity Lock-In / 成功神话身份锁定"
+    url: "/wiki/concepts/successmythidentitylockin/"
   - key: "SuccessfulAging"
     title: "Successful Aging"
     url: "/wiki/concepts/successfulaging/"

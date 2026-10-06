@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2192
+topic_total_pages: 2193
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2680,6 +2680,9 @@ topic_concepts:
   - key: "Section122TariffAuthority"
     title: "Section 122 Tariff Authority"
     url: "/wiki/concepts/section122tariffauthority/"
+  - key: "SelfCommodificationThroughWork"
+    title: "Self-Commodification Through Work / 劳动中的自我商品化"
+    url: "/wiki/concepts/selfcommodificationthroughwork/"
   - key: "SelfDisruptionDiscipline"
     title: "Self-Disruption Discipline"
     url: "/wiki/concepts/selfdisruptiondiscipline/"

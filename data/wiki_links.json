@@ -9759,6 +9759,10 @@
     "title": "Arthur Grimes",
     "url": "/wiki/entities/arthurgrimes/"
   },
+  "ArthurMiller": {
+    "title": "Arthur Miller / 阿瑟·米勒",
+    "url": "/wiki/entities/arthurmiller/"
+  },
   "ArthurOrton": {
     "title": "Arthur Orton",
     "url": "/wiki/entities/arthurorton/"
@@ -12402,6 +12406,10 @@
   "BieRenshuHuiziBook": {
     "title": "《别认输，惠子》",
     "url": "/wiki/entities/bierenshuhuizibook/"
+  },
+  "BiffLoman": {
+    "title": "Biff Loman / 彼夫·洛曼",
+    "url": "/wiki/entities/biffloman/"
   },
   "BigCompanyHalo": {
     "title": "Big Company Halo",
@@ -23158,6 +23166,10 @@
   "DeathNormalizationPractice": {
     "title": "Death Normalization Practice / 死亡日常化练习",
     "url": "/wiki/concepts/deathnormalizationpractice/"
+  },
+  "DeathOfASalesman": {
+    "title": "Death of a Salesman / 《推销员之死》",
+    "url": "/wiki/entities/deathofasalesman/"
   },
   "DeathOfMaratPainting": {
     "title": "The Death of Marat / 《马拉之死》",
@@ -49135,6 +49147,10 @@
     "title": "林玉沁",
     "url": "/wiki/entities/linyuqin/"
   },
+  "LindaLoman": {
+    "title": "Linda Loman / 林达·洛曼",
+    "url": "/wiki/entities/lindaloman/"
+  },
   "LindaMcMahon": {
     "title": "Linda McMahon",
     "url": "/wiki/entities/lindamcmahon/"
@@ -65683,6 +65699,10 @@
     "title": "Psychological Surrender Trap / 心理迫降陷阱",
     "url": "/wiki/concepts/psychologicalsurrendertrap/"
   },
+  "PsychologicalTimeStagecraft": {
+    "title": "Psychological Time Stagecraft / 心理时间舞台化",
+    "url": "/wiki/concepts/psychologicaltimestagecraft/"
+  },
   "PsychologyConceptSelfPunishment": {
     "title": "Psychology Concept Self-Punishment / 心理学概念自我压榨",
     "url": "/wiki/concepts/psychologyconceptselfpunishment/"
@@ -72111,6 +72131,10 @@
     "title": "《自明本志令》 / Self-Clarification Edict",
     "url": "/wiki/entities/selfclarificationedict/"
   },
+  "SelfCommodificationThroughWork": {
+    "title": "Self-Commodification Through Work / 劳动中的自我商品化",
+    "url": "/wiki/concepts/selfcommodificationthroughwork/"
+  },
   "SelfConceptPlasticity": {
     "title": "Self-Concept Plasticity",
     "url": "/wiki/concepts/selfconceptplasticity/"
@@ -77134,6 +77158,10 @@
   "SuccessAcademies": {
     "title": "Success Academies",
     "url": "/wiki/entities/successacademies/"
+  },
+  "SuccessMythIdentityLockIn": {
+    "title": "Success Myth Identity Lock-In / 成功神话身份锁定",
+    "url": "/wiki/concepts/successmythidentitylockin/"
   },
   "SuccessfulAging": {
     "title": "Successful Aging",
@@ -86394,6 +86422,10 @@
   "WillyHeidinger": {
     "title": "Willy Heidinger / 海丁格尔",
     "url": "/wiki/entities/willyheidinger/"
+  },
+  "WillyLoman": {
+    "title": "Willy Loman / 威利·洛曼",
+    "url": "/wiki/entities/willyloman/"
   },
   "WilsonSonsini": {
     "title": "Wilson Sonsini",
@@ -98926,6 +98958,10 @@
   "vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h": {
     "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",
     "url": "/wiki/sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h/"
+  },
+  "vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya": {
+    "title": "Vol.355 推销员之死：那些杀不死我的，为什么一直在打我",
+    "url": "/wiki/sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya/"
   },
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",

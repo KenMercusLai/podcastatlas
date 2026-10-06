@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12509
+wiki_total_pages: 12514
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "DealeyPlaza"
     title: "Dealey Plaza"
     url: "/wiki/entities/dealeyplaza/"
+  - key: "DeathOfASalesman"
+    title: "Death of a Salesman / 《推销员之死》"
+    url: "/wiki/entities/deathofasalesman/"
   - key: "DeathWithDignity"
     title: "Death with Dignity"
     url: "/wiki/entities/deathwithdignity/"

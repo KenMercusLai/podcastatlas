@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12509
+wiki_total_pages: 12514
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "Bibigo"
     title: "Bibigo"
     url: "/wiki/entities/bibigo/"
+  - key: "BiffLoman"
+    title: "Biff Loman / 彼夫·洛曼"
+    url: "/wiki/entities/biffloman/"
   - key: "BilalErdogan"
     title: "Bilal Erdogan"
     url: "/wiki/entities/bilalerdogan/"

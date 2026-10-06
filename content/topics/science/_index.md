@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1461
+topic_total_pages: 1462
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2215,6 +2215,9 @@ topic_concepts:
   - key: "SubtlePlotPsychologicalAftertaste"
     title: "Subtle Plot Psychological Aftertaste"
     url: "/wiki/concepts/subtleplotpsychologicalaftertaste/"
+  - key: "SuccessMythIdentityLockIn"
+    title: "Success Myth Identity Lock-In / 成功神话身份锁定"
+    url: "/wiki/concepts/successmythidentitylockin/"
   - key: "SuccessfulAging"
     title: "Successful Aging"
     url: "/wiki/concepts/successfulaging/"

@@ -73977,6 +73977,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SelfCommodificationThroughWork": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SelfConceptPlasticity": [
     {
       "key": "science",
@@ -79268,6 +79275,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SuccessMythIdentityLockIn": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SuccessfulAging": [
@@ -102123,6 +102137,13 @@
     }
   ],
   "vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya": [
     {
       "key": "culture",
       "label": "Culture",
