@@ -16,6 +16,7 @@ sources:
   - zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
   - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
+  - zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is
 last_updated: 2026-10-08
 ---
 
@@ -27,7 +28,7 @@ Liu An / 刘安 is a Western Han prince whose current wiki profile joins an inte
 
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] presents Liu An's circle as a knowledge-compilation world spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy. Later storytelling converts the politically defeated prince into an immortal figure, so textual patronage, political catastrophe, and religious memory remain related but distinct layers.
 
-Before the later conspiracy arc, Liu An appears as a sophisticated frontier-policy critic. His memorial against a southern expedition combines harvest distress, household burden, distance, terrain, river transport, heat, disease, supply, occupation, and Qin precedent into one cost chain. He proposes envoy contact, rewards, restoration of a local ruling line, seals and titles, hostages, and tribute as an alternative to direct conquest. This does not erase his later rebellion planning; it shows that sound analysis of imperial overextension could coexist with self-defeating judgment in his own political crisis. [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]]
+Before the later conspiracy arc, Liu An appears as a sophisticated frontier-policy critic. [[zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is|Hanji 254]] opens his memorial by separating movement and battlefield success from governability: unfamiliar terrain, dispersed settlement, waterborne warfare, low fiscal return, and repeated coercive enforcement can turn a rescue expedition into an open-ended commitment. [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] continues the argument through harvest distress, household burden, distance, heat, disease, supply, occupation, and Qin precedent, then supplies envoy contact, rewards, restoration of a local ruling line, seals and titles, hostages, and tribute as an alternative to direct conquest. This does not erase his later rebellion planning; it shows that sound analysis of imperial overextension could coexist with self-defeating judgment in his own political crisis.
 
 [[zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql|Hanji 294-2]] supplies the earliest current preparation layer. It presents Liu An as a learned and reputation-conscious prince with a large retainer circle, then says repeated reminders of his father [[LiuChangHuainanKing|刘长]]'s death and a comet comparison with the Rebellion of the Seven States prompt him to manufacture weapons and store grain. When [[LeiBeiWesternHan|雷被]] seeks central military service after a sword-bout conflict with crown prince [[LiuQianHuainanCrownPrinceWesternHan|刘迁]], Liu An blocks the departure.
 
@@ -63,6 +64,7 @@ Knowledge compilation and later reception:
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] connects Liu An's circle to the Huainanzi's philosophical, technical, astronomical, and alchemical range and to later ascent legends.
 
 Southern-expedition remonstrance:
+- [[zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is|Hanji 254]] supplies the war trigger and the memorial's opening distinction among difficult entry, durable administration, usable revenue, and the recurrence risk created by force as the default enforcement response.
 - [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] supplies Liu An's linked accounting of civilian distress, environmental and logistical attrition, occupation risk, Qin precedent, and recognition-backed envoy diplomacy.
 
 Earlier centralization setting:
@@ -87,13 +89,13 @@ Household fracture:
 
 ## Qualifications
 
-The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 255's harvest conditions, environmental risks, troop estimates, Qin causal chain, exact memorial wording, and proposed settlement remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
+The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 254-255's terrain, governability, tribute, harvest, environmental, force, Qin-causation, exact-memorial, and settlement claims remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 254's description of Liu An as Jingdi's brother and Wudi's uncle conflicts with the preserved Liu Chang lineage and is not adopted. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
 ## What Changed
 
-- Liu An's political profile now includes a substantive anti-overextension memorial rather than beginning only with residual vassal risk and rebellion preparation.
-- His strongest new contribution is comparative instrument choice: guarded frontier plus envoy, recognition, hostages, and tribute versus invasion and occupation.
-- The current judgment now separates analytical ability from self-government: perceptive state-level cost reasoning coexists with later motivated bias and operational failure.
+- Added the memorial's opening governability test: battlefield entry, durable administration, fiscal value, and recurring enforcement are separate questions.
+- Joined Hanji 254's intervention warning to Hanji 255's fuller cost chain and diplomatic alternative.
+- Preserved the source's incorrect Jingdi/Wudi kinship statement as a contradiction rather than changing the canonical lineage.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？](sources/zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is.md) — 闽越攻南越并触发汉军救援后，刘安从地形、治理收益与无尽执法战争反对远征；窦太后去世后的田蚡荐人索地又显示外戚权势仍受皇权边界约束。
 - [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k.md) — 汉武帝早期儒黄路线冲突因赵绾试图切断东宫议政而变成权力边界危机；石奋则以日常礼仪、沉默纠错和子弟的谨慎侍君，把家风落实为可重复的行为规范。
 - [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr.md) — 标题称石奋家风，正文实际补出陈阿娇失宠、王太后劝武帝暂避长公主锋芒，以及刘嫖抓捕卫青、公孙敖营救、武帝反向提拔的连续链条；官职、金额、对话与茂陵、诸侯矛盾保留来源边界。
 - [《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？](sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap.md) — 刘胜以宗室受压争取改善待遇，严助主张救援东瓯并在无虎符下征兵，韩嫣引导武帝微服游猎；毁田后的民众围堵则暴露隐匿身份、财产损失与权威识别之间的治理风险。

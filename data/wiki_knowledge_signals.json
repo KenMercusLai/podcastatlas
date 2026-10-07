@@ -139244,9 +139244,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -139331,6 +139331,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策",
           "url": "/wiki/sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？ [lsR7lRAeOEx27ICZOgXjg-i7h_iS].md",
+          "key": "zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is/"
         }
       ],
       "updated": "2026-10-08",
@@ -229856,9 +229863,9 @@
       "url": "/wiki/entities/tiandoctortcm/"
     },
     "TianFenWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说 [ll1skJ3YGm2Fop-pz1ETKn3Qexw5].md",
@@ -229915,6 +229922,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？ [lsR7lRAeOEx27ICZOgXjg-i7h_iS].md",
+          "key": "zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is/"
         }
       ],
       "updated": "2026-10-08",
