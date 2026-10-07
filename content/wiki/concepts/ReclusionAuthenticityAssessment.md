@@ -2,69 +2,69 @@
 title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [reclusion, reputation, scholar-officials, late-han, public-duty, governance]
+tags: [reclusion, reputation, scholar-officials, public-duty, freedom, networks]
 sources:
   - zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
   - zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z
-last_updated: 2026-09-01
+  - 104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo
+last_updated: 2026-10-07
 ---
 
 ## Definition
 
-Reclusion Authenticity Assessment is the judgment frame for distinguishing principled withdrawal from office, honorable private virtue without high governing capacity, and false reclusion that uses refusal or eccentricity to harvest reputation while still seeking advantage.
+Reclusion authenticity assessment is the judgment frame for distinguishing principled withdrawal, honorable private virtue without high governing capacity, constrained or incomplete exit, and false reclusion that turns refusal or eccentricity into reputation while continuing to seek advantage.
 
 ## Current Synthesis
 
-Hanji 699 adds an earlier ruler-side comparison before the Fan Ying and Huang Qiong sequence. [[LiuXiu|Liu Xiu]] summons reclusive or morally reputed figures, [[ZhouDangEasternHan|Zhou Dang]] refuses full court compliance, [[YanGuangEasternHan|Yan Guang]] rejects appointed office despite old personal ties, and [[WangLiangEasternHan|Wang Liang]] withdraws after a friend's critique of his rank-to-merit mismatch. Fan Sheng's attack on empty fame supplies suspicion, while Liu Xiu's refusal to punish Zhou Dang keeps the assessment from becoming automatic anti-recluse coercion.
+The late-Han sources make reclusion conditional rather than automatically admirable. [[SimaGuang|司马光]] permits withdrawal when politics is violent, the Way cannot be practiced, or service would only entangle an upright person with destructive power. Yet hidden status is not itself the good: Fan Ying's uncertain public usefulness and Li Gu's warning to Huang Qiong show that reputation, virtue, governing ability, and duty can diverge. Hanji 699 adds a ruler-side boundary—Liu Xiu can question reclusive fame without coercively treating refusal as disloyalty.
 
-[[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] presents [[SimaGuang|司马光]]'s standard: a gentleman may withdraw when politics is violent, when the Way cannot be practiced, or when association with harmful courtiers would only damage upright conduct. Reclusion is therefore not inherently disloyal or anti-public.
-
-The same standard refuses to let reclusion become a prestige costume. [[FanYingLateHan|樊英]] has a major reputation, refuses summons, is forcibly brought to court, and receives extraordinary courtesy, but his answers disappoint observers. The episode leaves his final moral status qualified, yet it uses the case to ask whether a famous recluse has methods and public usefulness or only the sign value of hiddenness.
-
-[[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] sharpens the contrast through [[LiGuLateHan|李固]]'s advice to [[HuangQiongLateHan|黄琼]]. High reputation becomes dangerous when it is not converted into service under still-usable conditions. Huang Qiong's later Shangshu competence then supplies the positive counterexample: retreat is not the only way to preserve moral standing when a viable public-duty path exists.
+The Jin Yong episode broadens authenticity beyond office and reputation. Spatial remoteness can coexist with continuing influence, disciples, contests, and Jianghu visibility, while a person who retains some relationships may still have released formal role and compulsion. Authenticity therefore cannot be decided from mountains, obscurity, or total severance alone. It requires asking what was genuinely relinquished, whether the old system still governs conduct, whether refusal is materially sustainable, and whether withdrawal is being used mainly to harvest a purer public identity.
 
 ## Key Claims
 
-- Reclusion is conditionally legitimate when office cannot practice the Way or would only entangle upright people with destructive power.
-- Hidden status is not itself the good being sought; rulers should seek methods, wisdom, virtue, and public benefit.
+- Reclusion is conditionally legitimate when office cannot practice the Way or would entangle upright people with destructive power.
+- Hidden status and rural residence are not themselves proof of authenticity; actual relinquishment and reduced dependence matter.
 - A person may be morally admirable without possessing the governing capacity implied by a famous reclusive reputation.
-- Even under a legitimate ruler, reclusive refusal can be assessed without coercively converting nonconformity into disloyalty.
-- False reclusion appears when refusal, odd conduct, or anti-office performance becomes a strategy for reputation and profit.
-- Public duty and reclusion have to be judged by actual conditions: whether service is possible, useful, and morally survivable.
-- Fan Ying remains a boundary case rather than a settled fraud, while Huang Qiong becomes the positive example of reputation made useful.
+- Retaining selective relationships does not automatically falsify withdrawal, but continuing compulsion by role, reputation, or network qualifies it.
+- False reclusion appears when refusal, eccentricity, or anti-office performance becomes a strategy for reputation and profit.
+- Public duty and reclusion must be judged by real conditions: whether service is possible, useful, morally survivable, and voluntarily chosen.
+- Assessment should not become coercion; refusal under a legitimate ruler can still be tolerated without being declared treasonous.
 
 ## Evidence
 
-- Early noncoercive assessment: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Liu Xiu lets Zhou Dang return after refusal rather than punishing him.
-- Empty-fame suspicion: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Fan Sheng criticizes Zhou Dang, Wang Liang, and similar figures as reputationally inflated or insufficiently useful.
-- Positive recluse contrast: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Yan Guang refuses office and returns to farming and fishing despite Liu Xiu's old friendship and summons.
-- Legitimate withdrawal standard: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says Sima Guang permits withdrawal when political conditions make right service impossible.
-- Hidden identity versus useful method: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says wise rulers seek hidden people for their governing methods and public benefit, not for the prestige of possessing recluses.
-- Fan Ying as ambiguous case: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] records Fan Ying's repeated refusals, forced arrival, honors, and disappointing answers.
-- Reputation-only warning: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Li Gu warns Huang Qiong not to preserve a high name while avoiding still-possible service.
-- Positive comparison: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Huang Qiong's Shangshu competence lets him turn reputation into accepted memorials and concrete political discussion.
+### Principled withdrawal and noncoercion
+
+- [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] gives Sima Guang's legitimate-withdrawal standard and rejects recruitment for the prestige of possessing a recluse.
+- [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] has Liu Xiu tolerate Zhou Dang and Yan Guang after refusal rather than converting nonconformity into punishable disloyalty.
+
+### Reputation, capacity, and public duty
+
+- [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] presents Fan Ying's fame, coerced arrival, honors, and disappointing answers as an ambiguous name-reality test.
+- [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] contrasts reputation-only refusal with Huang Qiong's later conversion of learning into usable Shangshu service.
+
+### Spatial and network authenticity
+
+- [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] distinguishes Huang Yaoshi's remote residence but continued Jianghu participation from deeper withdrawal that reduces visibility and organizational dependence.
+- [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] leaves Linghu Chong's case contested because formal exit may coexist with continuing influence and broad relationships.
 
 ## Counterevidence & Qualifications
 
-This concept should not become a blanket anti-recluse rule. Hanji 699 shows the balance: Fan Sheng's critique makes empty fame visible, but Liu Xiu's tolerance of Zhou Dang and Yan Guang prevents reputation assessment from turning into forced service. The strongest claim in Hanji 808 is conditional: withdrawal can be wise and duty-compatible under bad political conditions. The concept also should not overread Fan Ying, because the same source allows partial sympathy for a worthy person facing a deeply sick court. The sharper target is name-reality mismatch: reputation, refusal, and odd conduct become suspect when they do not align with capacity, public benefit, or clean withdrawal.
+This concept should not become a blanket anti-recluse rule or demand total isolation. Hanji 699 balances empty-fame suspicion with tolerance, Hanji 808 makes withdrawal legitimate under bad conditions, and the Jin Yong source questions whether selective connection invalidates freedom at all. Fan Ying remains a boundary case rather than a settled fraud. Fictional Jianghu, historical officeholding, and modern withdrawal are comparable only at the level of role, reputation, dependence, and refusal; their institutional stakes are not identical.
 
 ## What Changed
 
-- Added Hanji 699 as an earlier Liu Xiu-court layer: reclusive nonconformity is questioned but not punished.
-- Preserved Hanji 808's explicit distinction among true withdrawal, limited virtue, and false reclusion.
-- Preserved Hanji 809 as the immediate comparison where Li Gu warns Huang Qiong away from reputation-only refusal.
-- Kept Fan Ying's status qualified rather than converting the episode title question into a settled verdict.
+- Added spatial-versus-network withdrawal to the earlier reputation-and-public-duty assessment.
+- Distinguished selective connection from continued compulsion by organization, role, or visibility.
+- Preserved the noncoercive boundary and Fan Ying's ambiguous status.
 
 ## Related Concepts
 
-- [[FanYingLateHan|樊英]] - boundary case used to test whether reclusive fame matches public contribution.
-- [[ScholarOfficialPublicDuty|士大夫公共责任]] - adjacent duty ethic that asks when learned reputation must become service.
-- [[TalentSummonsRulerSelfExamination|求贤中的君主自省]] - ruler-side counterpart because failed attraction of recluses should prompt self-examination before coercion.
-- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - broader attraction frame that this concept qualifies by warning against identity-based recruitment.
-- [[TalentVirtueDistinction|才德之分]] - evaluative split between moral reputation and usable administrative capacity.
-- [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - related assessment of whether visible behavior expresses public motive or private advantage.
-- [[CoercedTalentLegitimacy|胁迫征士合法性]] - downstream legitimacy problem when court pressure makes officeholding poor evidence of sincere service.
-- [[ZhouDangEasternHan|周党]] - early case where nonconforming refusal is criticized but tolerated.
-- [[YanGuangEasternHan|严光]] - positive recluse contrast because old friendship and appointment do not alter withdrawal.
-- [[WangLiangEasternHan|王梁]] - ambiguous case where prior office and merit criticism complicate reclusive reputation.
+- [[JinYongReclusionFreedom]] - extends authenticity toward role release, network dependence, and sustainable refusal in wuxia.
+- [[ScholarOfficialPublicDuty]] - asks when learning and reputation should become public service.
+- [[TalentSummonsRulerSelfExamination]] - requires rulers to examine court order before coercing reluctant talent.
+- [[TalentVirtueDistinction]] - separates moral reputation from usable administrative capacity.
+- [[CoercedTalentLegitimacy]] - explains why compelled officeholding is poor evidence of consent or authentic service.
+- [[PrincipledOfficeRefusal]] - neighboring positive form of morally grounded nonservice.
+- [[ExitFreedomMaterialConditions]] - supplies the practical capability test for whether withdrawal can endure.
+- [[RoleAttachmentPowerExit]] - identifies continuing psychological rule by a supposedly relinquished position.

@@ -31013,6 +31013,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-07] ingest | 104 金庸小说与隐士文化
+
+Added source `104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo`; created [[JinYongReclusionFreedom|金庸式归隐与退出能力]]; migrated and resynthesized [[XiaoAoJiangHu|《笑傲江湖》]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]], [[JinYong|金庸]], [[ExitFreedomMaterialConditions|出走自由的物质条件]], and [[ReclusionAuthenticityAssessment|真隐士与伪隐士辨别]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 归隐不只是迁居山林，而是摆脱职位、声望、组织约束和关系强制的退出能力；这种能力既需要较少依附外部评价，也受安全、收入、家庭安排、可迁移能力和组织是否允许离开所限制。令狐冲与刘正风分别显示弱角色依附和受阻退场，黄药师与杨过、小龙女则区分空间隐居与降低江湖可见度。 No settled contradiction was adopted. The source's shifting definitions of office exit, Jianghu exit, relationship severance, and inner freedom, its historical typology, philosophical synthesis, character judgments, and claims about authorial intent remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,919 sources across 798 overview paragraphs and nine topics.
+
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -31330,6 +31334,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] ingest | 106 六一特辑|《哈利波特与魔法石》：宁愿相信自己是个麻瓜，也不愿相信这世界没魔法
 
 Added source `106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw`; created [[InstitutionalizedFantasyWorldbuilding|制度化幻想世界构建]]; and resynthesized [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]], and [[ChildrensLiteratureMoralDialogue|儿童文学价值对话]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the story's first half moves Harry from neglect and isolation toward friendship, mentorship, and chosen belonging; inherited magical motifs become an inhabitable society through admissions, schooling, shopping, banking, currency, transport, and material routine; and apparently destined links gain moral direction through later choice. The film can intensify loneliness through an invented visual action while also compressing time and altering character first impressions. No settled contradiction was adopted. The Dursleys' possible motives do not excuse abuse, while sales, translation, dictionary, currency, ancestry, adaptation-intent, planning, and later-continuity claims remain conversational or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,916 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-07] lint | Wiki health check
 

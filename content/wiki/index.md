@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [104 金庸小说与隐士文化](sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo.md) — 纸醉金迷FM以金庸人物的主动、被迫、避祸与功成身退讨论归隐，并把空间退场推进为脱离角色、关系网络和物质依附的退出能力。
 - [105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城](sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we.md) — 纸醉金迷FM以蓝白水晶、狼王血与冰火鬼虫拆解铺垫回收，并把恶罗海城解释为鬼母记忆碎片构成的实体化城市。
 - [106 六一特辑|《哈利波特与魔法石》：宁愿相信自己是个麻瓜，也不愿相信这世界没魔法](sources/106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw.md) — 纸醉金迷FM从女贞路讲到霍格沃茨特快，以孤独与归属、制度化魔法世界、宿命与选择及小说电影差异重读《魔法石》上半部。
 - [107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建](sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba.md) — 纸醉金迷FM以霍格沃茨校园结构、三人组能力分工、斯内普误导及小说电影的信息显著性差异，讨论爱与勇气如何同时接受童年情感和成年批评的检验。
@@ -16630,6 +16631,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。
 - [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。
 - [Medium-Specific Adaptation Salience / 媒介特定的改编显著性](concepts/MediumSpecificAdaptationSalience.md) — 不同媒介通过文字密度、内心活动、镜头强调、时长和可见动作改变线索显著性及叙事功能。
 - [Children's Literature Moral Dialogue / 儿童文学价值对话](concepts/ChildrensLiteratureMoralDialogue.md) — 在保留爱、友谊与勇气的情感塑造力时，也讨论故事的便利、制度偏差和时代价值边界。

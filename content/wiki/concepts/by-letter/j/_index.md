@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 9827
+wiki_total_pages: 9828
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "JinYongPoliticalReading"
     title: "Jin Yong Political Reading"
     url: "/wiki/concepts/jinyongpoliticalreading/"
+  - key: "JinYongReclusionFreedom"
+    title: "Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力"
+    url: "/wiki/concepts/jinyongreclusionfreedom/"
   - key: "JingdezhenPorcelainProductionSystem"
     title: "Jingdezhen Porcelain Production System / 景德镇瓷业生产系统"
     url: "/wiki/concepts/jingdezhenporcelainproductionsystem/"

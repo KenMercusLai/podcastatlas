@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3155
+topic_total_pages: 3154
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4897,9 +4897,6 @@ topic_concepts:
   - key: "SincerePowerSharingDeescalation"
     title: "真诚共治式冲突降温 / Sincere Power-Sharing De-escalation"
     url: "/wiki/concepts/sincerepowersharingdeescalation/"
-  - key: "ReclusionAuthenticityAssessment"
-    title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
-    url: "/wiki/concepts/reclusionauthenticityassessment/"
   - key: "KnownMisconductNonPunishment"
     title: "知奸不除式威慑失效 / Known-Misconduct Non-Punishment"
     url: "/wiki/concepts/knownmisconductnonpunishment/"

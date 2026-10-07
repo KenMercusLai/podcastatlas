@@ -75003,9 +75003,9 @@
       "url": "/wiki/concepts/existentialism/"
     },
     "ExitFreedomMaterialConditions": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIasEt1ykABAAAADC008H [CKwRIasEt1ykABAAAADC008H].md",
@@ -75013,9 +75013,16 @@
           "show": "无时差研究所",
           "title": "EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的",
           "url": "/wiki/sources/ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h/"
+        },
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/exitfreedommaterialconditions/"
     },
     "ExpansionaryVsAnxietyMarketing": {
@@ -123199,9 +123206,9 @@
       "url": "/wiki/entities/jinxiaolin/"
     },
     "JinYong": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -123216,10 +123223,33 @@
           "show": "忽左忽右",
           "title": "504 林行止、《信报》与香港经济黄金年代",
           "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        },
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/jinyong/"
+    },
+    "JinYongReclusionFreedom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/jinyongreclusionfreedom/"
     },
     "JingDanEasternHan": {
       "episode_count": 1,
@@ -189703,9 +189733,9 @@
       "url": "/wiki/concepts/recklesscouragedecisionrisk/"
     },
     "ReclusionAuthenticityAssessment": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
@@ -189727,9 +189757,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/reclusionauthenticityassessment/"
     },
     "RecognitionBackedFrontierDiplomacy": {
@@ -244759,6 +244796,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/xiaoa/"
     },
+    "XiaoAoJiangHu": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/xiaoaojianghu/"
+    },
     "XiaoFanZheBing": {
       "episode_count": 1,
       "show_count": 1,
@@ -256411,9 +256471,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -256519,6 +256579,13 @@
           "show": "纸醉金迷FM",
           "title": "105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城",
           "url": "/wiki/sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we/"
+        },
+        {
+          "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
+          "key": "104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo",
+          "show": "纸醉金迷FM",
+          "title": "104 金庸小说与隐士文化",
+          "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
         }
       ],
       "updated": "2026-10-07",
