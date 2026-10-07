@@ -64551,9 +64551,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -64596,9 +64596,16 @@
           "show": "独树不成林",
           "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
           "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        },
+        {
+          "episode_file": "lgesbS0Sd76Ciib1V1Fw8sZvulRT [lgesbS0Sd76Ciib1V1Fw8sZvulRT].md",
+          "key": "308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt",
+          "show": "独树不成林",
+          "title": "308-女权是否意味着争取选择自由？",
+          "url": "/wiki/sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -79937,6 +79944,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/femaleurologicalhealthmisconceptions/"
+    },
+    "FeministChoiceFreedom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgesbS0Sd76Ciib1V1Fw8sZvulRT [lgesbS0Sd76Ciib1V1Fw8sZvulRT].md",
+          "key": "308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt",
+          "show": "独树不成林",
+          "title": "308-女权是否意味着争取选择自由？",
+          "url": "/wiki/sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/feministchoicefreedom/"
     },
     "FeministMediaInstitutionBuilding": {
       "episode_count": 1,
@@ -218245,6 +218268,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
+    },
+    "SubstantiveChoiceCapability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgesbS0Sd76Ciib1V1Fw8sZvulRT [lgesbS0Sd76Ciib1V1Fw8sZvulRT].md",
+          "key": "308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt",
+          "show": "独树不成林",
+          "title": "308-女权是否意味着争取选择自由？",
+          "url": "/wiki/sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/substantivechoicecapability/"
     },
     "Subutai": {
       "episode_count": 1,

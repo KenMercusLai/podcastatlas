@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9864
+wiki_total_pages: 9866
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2246,6 +2246,9 @@ wiki_pages:
   - key: "SubstanceSleepArchitectureBoundary"
     title: "Substance Sleep Architecture Boundary"
     url: "/wiki/concepts/substancesleeparchitectureboundary/"
+  - key: "SubstantiveChoiceCapability"
+    title: "Substantive Choice Capability / 实质选择能力"
+    url: "/wiki/concepts/substantivechoicecapability/"
   - key: "SubstitutionalEscapeSacrifice"
     title: "Substitutional Escape Sacrifice / 代身突围牺牲"
     url: "/wiki/concepts/substitutionalescapesacrifice/"

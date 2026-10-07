@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [308-女权是否意味着争取选择自由？](sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt.md) — 独树不成林追溯选择自由成为女性主义政治语言的历史，并以物质能力、照护、阶级种族差异、公共责任和选择负担限定形式自主。
 - [Gilets jeunes? France’s school protests](sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057.md) — The Intelligence on widening French school unrest, the procedural and oversight tensions of Title IX after the Cornell Seven case, and the weak evidence behind astrology in Indian finance.
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
@@ -16712,6 +16713,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [Feminist Choice Freedom / 女性主义的选择自由](concepts/FeministChoiceFreedom.md) — 将女性承认为决策主体的现代政治语言，尤其用于生殖自主，但不能把女性主义化约为偏好满足。
+- [Substantive Choice Capability / 实质选择能力](concepts/SubstantiveChoiceCapability.md) — 区分形式许可与可实际使用的选项，把收入、照护、医疗、安全、知识和认知负担纳入自由判断。
 - [社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion](concepts/SocialBaseCollapseVsEliteRebellion.md) — 以民生压力、普遍响应和政府反馈判断底层系统性崩塌，并与缺乏广泛支持的精英或区域叛乱相区别。
 - [历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance](concepts/HistoricalCostPrecedentRemonstrance.md) — 以既往战争的后勤、伤亡、财政、领土收益和民力后果检验当前政策的劝谏方法。
 - [Structural Paths to Imperial Reunification / 帝国再统一的结构路径](concepts/StructuralPathsToImperialReunification.md) — Qualified comparison of how inherited institutions, shared writing, geography, and frontier pressure shape post-collapse recombination without determining civilizational destiny.
