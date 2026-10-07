@@ -139138,9 +139138,9 @@
       "url": "/wiki/entities/liudanzhaoprincewesternhan/"
     },
     "LiuDeHejianKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2） [lsE66EaCIjdfcYjk76aso6Vzp6B_].md",
@@ -139148,6 +139148,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1） [lrrtbo38HNvCCZGz2ofq4o7vigiF].md",
+          "key": "zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif/"
         }
       ],
       "updated": "2026-10-08",
@@ -208904,6 +208911,50 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/shiftworkcircadianhealth/"
+    },
+    "Shijing": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！ [ljnhWcoUQu35RmvB-CNRZYzj2J6L].md",
+          "key": "zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（2） [lhNGST3xsnYJRMZH1CvheocVVSQm].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》09丨战国时代的世界大战 [losmuM91VjpqfyMYWelj60O7-VBL].md",
+          "key": "zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》09丨战国时代的世界大战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4） [lhjZ_M12PeDKfsZxYZGqTjnPsN3P].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1） [lrrtbo38HNvCCZGz2ofq4o7vigiF].md",
+          "key": "zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shijing/"
     },
     "ShilajitEvidenceBoundary": {
       "episode_count": 1,

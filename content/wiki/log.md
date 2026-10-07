@@ -31838,3 +31838,11 @@ Added source `zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jiey
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）
+
+Added source `zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif`; resynthesized [[LiuDeHejianKingWesternHan|河间献王刘德]] from both Hanji 268 installments; and migrated and resynthesized [[Shijing|《诗经》]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the episode uses 《关雎》 to connect literary inheritance with Liu De's protection of classical books, then adds ritual-music presentation, court questioning, formal praise without reported ceremonial adoption, favorable character testimony, and the “聪明睿智曰献” judgment. No settled contradiction was adopted. The specific manuscripts, acquisition or editorial work, transmitters, Shijing lineage, ritual-music practice, Three Yong gloss, precise chronology, 荇菜 medicinal claims, and true cause of death remain episode-attributed or source-scoped. Part 1 supplies the broad Shijing connection absent from part 2, while part 2's imperial-suspicion and withdrawal chain remains interpretive rather than established causation. Broad [[HanWudi|汉武帝]], [[HanJingdi|汉景帝]], [[BanGuEasternHan|班固]], [[PosthumousNamePolitics|谥号政治]], and show pages were read for context but kept closed because the bounded additions are represented in the focused figure, classic, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,984 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
