@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi
   - zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -24,7 +25,7 @@ The current source set spans ministerial, ruler, court-brokerage, and warlord va
 
 [[QinShiHuang|嬴政 / 秦始皇]] and [[CaoCao|曹操]] show how ruler or commander capacity magnifies the scale. Ying Zheng uses the capture of Handan to kill people tied to childhood grievance, with textual uncertainty over the punishment's exact severity. Cao Cao answers the real killing of [[CaoSong|曹嵩]] and [[CaoDeLateHan|曹德]] through a Xuzhou campaign whose violence falls on cities and an already displaced civilian population. Genuine injury can therefore explain retaliation without bounding its targets or moral cost.
 
-The inner-court case makes institutional recoding especially visible. [[WangFuLateHan|王甫]] turns [[LiuKuiBohaiKing|刘亏]]'s unpaid access-brokerage debt into a treason case supported by forged evidence; official interrogation, suicide, collateral punishment, and rewards transform private collection into state merit. Hanji 284 adds a Western Han ministerial version. After a rejected marriage connection, [[ZhuFuYan|主父偃]] combines [[QiLiwangWesternHan|齐厉王]]'s alleged incest with Linzi's wealth and distant royal kinship, then uses his appointment as Qi chancellor to conduct the coercive inquiry that precedes the king's suicide.
+The inner-court case makes institutional recoding especially visible. [[WangFuLateHan|王甫]] turns [[LiuKuiBohaiKing|刘亏]]'s unpaid access-brokerage debt into a treason case supported by forged evidence; official interrogation, suicide, collateral punishment, and rewards transform private collection into state merit. Hanji 284 adds a Western Han ministerial version. After a rejected marriage connection, [[ZhuFuYan|主父偃]] combines [[QiLiwangWesternHan|齐厉王]]'s alleged incest with Linzi's wealth and distant royal kinship, then uses his appointment as Qi chancellor to conduct the coercive inquiry that precedes the king's suicide. [[LiGuangHanGeneral|李广]] supplies a smaller-scale but unusually direct command variant: after a Baling commandant enforces the night ban against him as a commoner, restored office gives Li Guang the access, personnel control, transport, and lethal capacity to summon and kill the man. State-power revenge can therefore operate through ordinary command authority as well as law, diplomacy, investigation, or war.
 
 Across the sources, private revenge is most scalable when it overlaps a plausible public interest: frontier strategy, conquered-city discipline, royal-fief control, treason prevention, military deterrence, or criminal inquiry. That overlap does not make every allegation false or every public goal unreal. It makes motive, proportionality, evidence quality, target expansion, and collateral harm essential to judgment.
 
@@ -33,7 +34,7 @@ Across the sources, private revenge is most scalable when it overlaps a plausibl
 - Private revenge becomes especially dangerous when it can be routed through a real public policy, security concern, or legal process.
 - The public-private overlap does not require the official rationale to be invented; a genuine state interest can still be exploited for personal settlement.
 - State machinery expands both reach and collateral harm, spreading risk from the original target to hosts, families, officials, fiefs, cities, and civilians.
-- Accusation and investigation are revenge instruments when private grievance shapes case selection, evidence production, or coercive procedure.
+- Accusation, investigation, appointment, and command are revenge instruments when private grievance shapes case selection, coercive procedure, personnel movement, or punishment.
 - Real injury can explain retaliation without establishing proportionality, accurate attribution, or legitimate target scope.
 - Recognition and repayment ethics can make revenge intelligible while competing duties to office, law, asylum, and civilian protection remain active.
 
@@ -52,6 +53,9 @@ Accusation and official investigation:
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] shows Wang Fu converting an unpaid brokerage promise into a forged treason accusation, official inquiry, suicide, purge, and court reward.
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Zhufu Yan joins a rejected marriage proposal to royal-scandal and territorial arguments, then extracts testimony in Qi through torture.
 
+Recovered command and personnel control:
+- [[zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx|Hanji 276]] says Li Guang answers an earlier Baling detention by using restored frontier authority to summon and kill the commandant who had enforced the night ban.
+
 ## Counterevidence & Qualifications
 
 - The concept does not imply that every public rationale is fraudulent. Qin had a real strategy toward Wei and Zhao, the Qi king faced a serious allegation, Cao Song and Cao De were actually killed, and treason was a legitimate court concern even though Wang Fu's evidence was forged.
@@ -59,6 +63,7 @@ Accusation and official investigation:
 - Qinji 114-1 preserves a textual difference between killing and burying victims in Handan; Hanji 971 preserves competing attributions for Cao Song's murder. Neither uncertainty removes the revenge pattern, but both limit factual precision.
 - Zhouji 95 part 4 shows that revenge belongs to a broader repayment ethic also capable of producing loyalty and sacrifice. The concept identifies institutional danger, not a claim that every historical actor regarded revenge as illegitimate.
 - Hanji 284 does not independently verify the Qi sexual allegation or the torture-derived testimony, and the rejected-marriage explanation should remain distinct from the memorial's public arguments.
+- The Baling account does not establish every step between detention and killing. The commandant's intoxication, apology, apparent forgiveness, consent to travel, and execution procedure remain episode-attributed or inferred, although the sequence still supports a private-grievance/public-command overlap.
 
 ## What Changed
 
@@ -66,6 +71,7 @@ Accusation and official investigation:
 - Added Zhufu Yan's Qi investigation as a Western Han ministerial and prosecutorial variant.
 - Distinguished false public pretext from the more common overlap of real public interest and private grievance.
 - Centered evidence quality, proportionality, target expansion, and collateral harm as the main judgment tests.
+- Added Li Guang's Baling retaliation as a direct personnel-command variant in which restored office supplies the means of revenge.
 
 ## Related Concepts
 
@@ -75,3 +81,4 @@ Accusation and official investigation:
 - [[PrivatePunishmentWithoutProcedure]] - neighboring pattern where private coercion operates without the formal state route emphasized here.
 - [[AristocraticFriendshipStateConflict]] - competing guest-protection and honor duty exposed by Fan Ju's demand for Wei Qi.
 - [[TextualVariantPoliticalStakes]] - source-critical guardrail for the severity of Ying Zheng's Handan punishment.
+- [[LiGuangHanGeneral|李广]] - command variant showing that admired military character does not guarantee restraint in using restored office against a lower official.

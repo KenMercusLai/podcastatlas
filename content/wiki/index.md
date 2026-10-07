@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？](sources/zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc.md) — 卫青由骑奴和宫中近侍进入汉武帝新建骑兵体系，并在外戚任将争议中获得首次统兵机会；四路出击、草原搜索与龙城发现保留为战前层，战斗结果尚未进入本期。
 - [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo.md) — 标题指向卫青，正文核心却是韩安国误信俘虏、过早撤军、被调右北平并失势的过程；以文景式稳健与武帝朝进取的错位解释其退场，同时保留具体战事和时代因果的来源边界。
+- [《资治通鉴·汉纪》276｜“霸陵呵夜”，将军李广为何被小兵欺凌](sources/zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx.md) — 李广失势时因夜禁被霸陵尉拦留，复任右北平太守后却将其召至军中诛杀；节目据此以公报私仇限定英雄叙事，并补入卫青雁门出击、濊貊归附成本与削藩问题的过渡层。
 - [308-女权是否意味着争取选择自由？](sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt.md) — 独树不成林追溯选择自由成为女性主义政治语言的历史，并以物质能力、照护、阶级种族差异、公共责任和选择负担限定形式自主。
 - [Gilets jeunes? France’s school protests](sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057.md) — The Intelligence on widening French school unrest, the procedural and oversight tensions of Title IX after the Cornell Seven case, and the weak evidence behind astrology in Indian finance.
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
