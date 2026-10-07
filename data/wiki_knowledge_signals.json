@@ -59502,10 +59502,26 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
     },
-    "DictionaryOfTheEnglishLanguage": {
+    "DictionaryDescriptionAndPrescription": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/dictionarydescriptionandprescription/"
+    },
+    "DictionaryOfTheEnglishLanguage": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2687128958 [GLT2687128958].md",
@@ -59513,10 +59529,33 @@
           "show": "The Rest Is History",
           "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
           "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
+        },
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/dictionaryoftheenglishlanguage/"
+    },
+    "DictionaryPublicGoodGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/dictionarypublicgoodgovernance/"
     },
     "Didi": {
       "episode_count": 3,
@@ -64906,9 +64945,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -64965,6 +65004,13 @@
           "show": "独树不成林",
           "title": "307-为什么国内很多学术翻译质量这么差？",
           "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
+        },
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
         }
       ],
       "updated": "2026-10-08",
@@ -132835,6 +132881,36 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
     },
+    "LanguagePrecision": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场 [lsoyvSJ7cPpkk-eFBxUeMdLDtRBU].md",
+          "key": "ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu",
+          "show": "一劳永逸",
+          "title": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场",
+          "url": "/wiki/sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu/"
+        },
+        {
+          "episode_file": "E42 孟岩对话韦青：沉默的主角 [lip25o2Kub9DkNPjHfgC4lz_76W0].md",
+          "key": "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0",
+          "show": "无人知晓",
+          "title": "E42 孟岩对话韦青：沉默的主角",
+          "url": "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"
+        },
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/languageprecision/"
+    },
     "Languedoc": {
       "episode_count": 2,
       "show_count": 2,
@@ -155718,6 +155794,29 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/merlin/"
     },
+    "MerriamWebster": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/merriamwebster/"
+    },
     "MessageRelayPoliticalPower": {
       "episode_count": 4,
       "show_count": 1,
@@ -166914,6 +167013,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/notaxationwithoutrepresentation/"
+    },
+    "NoahWebster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/noahwebster/"
     },
     "NoamSobel": {
       "episode_count": 1,
@@ -182142,6 +182257,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/politicalroleadaptability/"
+    },
+    "PoliticalSemanticChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO [lj_xsJ_BvpmO0Imc3Qnv8NJlgZsO].md",
+          "key": "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso",
+          "show": "独树不成林",
+          "title": "306-词典有什么用？",
+          "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/politicalsemanticchange/"
     },
     "PoliticalTrialSovereigntyPerformance": {
       "episode_count": 2,

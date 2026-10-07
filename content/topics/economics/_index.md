@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2206
+topic_total_pages: 2207
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -928,6 +928,9 @@ topic_concepts:
   - key: "DevelopmentEconomics"
     title: "Development Economics"
     url: "/wiki/concepts/developmenteconomics/"
+  - key: "DictionaryPublicGoodGovernance"
+    title: "Dictionary Public-Good Governance / 词典公共品治理"
+    url: "/wiki/concepts/dictionarypublicgoodgovernance/"
   - key: "DigitalDetoxEconomy"
     title: "Digital Detox Economy"
     url: "/wiki/concepts/digitaldetoxeconomy/"

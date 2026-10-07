@@ -3480,6 +3480,13 @@
       "url": "/topics/history/"
     }
   ],
+  "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "306-columbus-the-adventure-begins-part-1-glt6089901915": [
     {
       "key": "history",
@@ -28516,6 +28523,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DictionaryPublicGoodGovernance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DiegoRivera": [
@@ -66179,6 +66198,13 @@
     }
   ],
   "PoliticalRoleAdaptability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalSemanticChange": [
     {
       "key": "politics",
       "label": "Politics",

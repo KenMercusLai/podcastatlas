@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3175
+topic_total_pages: 3178
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1156,6 +1156,9 @@ topic_concepts:
   - key: "DiasporaOfficialGeopoliticalExposure"
     title: "Diaspora Official Geopolitical Exposure"
     url: "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
+  - key: "DictionaryPublicGoodGovernance"
+    title: "Dictionary Public-Good Governance / 词典公共品治理"
+    url: "/wiki/concepts/dictionarypublicgoodgovernance/"
   - key: "DietarySupplementHealthAndEducationAct"
     title: "Dietary Supplement Health and Education Act"
     url: "/wiki/concepts/dietarysupplementhealthandeducationact/"
@@ -3079,6 +3082,9 @@ topic_concepts:
   - key: "PoliticalRoleAdaptability"
     title: "Political Role Adaptability"
     url: "/wiki/concepts/politicalroleadaptability/"
+  - key: "PoliticalSemanticChange"
+    title: "Political Semantic Change / 政治性语义变迁"
+    url: "/wiki/concepts/politicalsemanticchange/"
   - key: "PoliticalShowTrial"
     title: "Political Show Trial"
     url: "/wiki/concepts/politicalshowtrial/"
@@ -8415,6 +8421,9 @@ topic_sources:
   - key: "3-is-trump-caesar-or-nixon-glt4982990068"
     title: "3. Is Trump Caesar or Nixon?"
     url: "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+  - key: "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso"
+    title: "306-词典有什么用？"
+    url: "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
   - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
     title: "310: Ronald Reagan and the American Dream (Part 1)"
     url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"

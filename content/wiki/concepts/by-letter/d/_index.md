@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9883
+wiki_total_pages: 9886
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -665,6 +665,12 @@ wiki_pages:
   - key: "DiasporaOfficialGeopoliticalExposure"
     title: "Diaspora Official Geopolitical Exposure"
     url: "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
+  - key: "DictionaryDescriptionAndPrescription"
+    title: "Dictionary Description and Prescription / 词典的描述与规范"
+    url: "/wiki/concepts/dictionarydescriptionandprescription/"
+  - key: "DictionaryPublicGoodGovernance"
+    title: "Dictionary Public-Good Governance / 词典公共品治理"
+    url: "/wiki/concepts/dictionarypublicgoodgovernance/"
   - key: "DietTrialEquipoise"
     title: "Diet Trial Equipoise"
     url: "/wiki/concepts/diettrialequipoise/"

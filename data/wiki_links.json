@@ -2039,6 +2039,10 @@
     "title": "305: The Fall of the Roman Republic",
     "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
   },
+  "306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso": {
+    "title": "306-词典有什么用？",
+    "url": "/wiki/sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso/"
+  },
   "306-columbus-the-adventure-begins-part-1-glt6089901915": {
     "title": "306: Columbus: The Adventure Begins (Part 1)",
     "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
@@ -24459,9 +24463,17 @@
     "title": "Diaspora Official Geopolitical Exposure",
     "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
   },
+  "DictionaryDescriptionAndPrescription": {
+    "title": "Dictionary Description and Prescription / 词典的描述与规范",
+    "url": "/wiki/concepts/dictionarydescriptionandprescription/"
+  },
   "DictionaryOfTheEnglishLanguage": {
     "title": "A Dictionary of the English Language",
     "url": "/wiki/entities/dictionaryoftheenglishlanguage/"
+  },
+  "DictionaryPublicGoodGovernance": {
+    "title": "Dictionary Public-Good Governance / 词典公共品治理",
+    "url": "/wiki/concepts/dictionarypublicgoodgovernance/"
   },
   "Didi": {
     "title": "Didi",
@@ -59379,6 +59391,10 @@
     "title": "No Taxation Without Representation",
     "url": "/wiki/concepts/notaxationwithoutrepresentation/"
   },
+  "NoahWebster": {
+    "title": "Noah Webster",
+    "url": "/wiki/entities/noahwebster/"
+  },
   "NoamSobel": {
     "title": "Noam Sobel",
     "url": "/wiki/entities/noamsobel/"
@@ -64570,6 +64586,10 @@
   "PoliticalRoleAdaptability": {
     "title": "Political Role Adaptability",
     "url": "/wiki/concepts/politicalroleadaptability/"
+  },
+  "PoliticalSemanticChange": {
+    "title": "Political Semantic Change / 政治性语义变迁",
+    "url": "/wiki/concepts/politicalsemanticchange/"
   },
   "PoliticalShowTrial": {
     "title": "Political Show Trial",

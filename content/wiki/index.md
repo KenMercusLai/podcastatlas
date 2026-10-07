@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [306-词典有什么用？](sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso.md) — 独树不成林以词典史讨论描述与规范、语言政治、纸质编辑约束，以及国家意识形态和市场压力下的公共品治理。
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7.md) — 以田蚡封地受益解释瓠子决口长期未修，并把王太后亲缘、门客网络与外戚工具角色连成其政治画像；罗马—秦汉比较、治水因果与人格评价保留来源边界。
 - [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（1）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y.md) — 田蚡由窦婴府中不起眼的郎官以低姿态接近窦氏权力网络，又凭王太后亲缘与旧有人脉升任太尉、广招门客；任命因果、私人动机和三方权力强弱保留来源边界。
 - [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（2）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu.md) — 儒学路线风波与窦太后去世使窦婴、田蚡由共同失势走向王太后庇护下的权势逆转；失约宴饮、灌夫结盟和索地争议补齐汉纪264前的恩怨链，具体动机与对话保留来源边界。
@@ -4062,6 +4063,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
+- [Noah Webster](entities/NoahWebster.md) — American lexicographer who joined public education and post-independence national differentiation to a commercially fragile dictionary project.
 - [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
 - [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
@@ -11486,7 +11488,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Indigenous kingdom, plantation-labor and remittance node shaped by monarchy, foreign pressure, migration, and U.S. expansion.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
-- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, Machiavelli, communication, embodiment, AI translation, intellectual history, and cultural criticism.
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, language institutions, translation, communication, embodiment, autonomy, intellectual history, and cultural criticism.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -14928,7 +14930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain HBM/DRAM scarcity, AI data-center demand, consumer-memory pressure, and U.S. fab-governance constraints.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
-- [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
+- [Merriam-Webster](entities/MerriamWebster.md) — Private dictionary publisher balancing public reference value, trained lexicography, online transition, commercial survival, and contemporary language signaling.
 - [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on social-media verdicts, workplace AI, crypto confidence, privacy, cyber risk, AI chips, data centers, digital archiving, and AI slop.
 - [Satish Vangala](entities/SatishVangala.md) — AWS director of network product development explaining AI cluster networking, fiber connector deployment, optical transponders, and network resilience in a Marketplace Tech lab tour.
 - [Equinix](entities/Equinix.md) — Colocation data-center company used by Marketplace Tech to connect a historic Palo Alto telecom building to PAIX, AltaVista, cloud infrastructure, and AI traffic.
@@ -16749,7 +16751,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Marson](entities/AlexMarson.md) — Immunologist and physician-scientist connecting T-cell biology, CRISPR perturbation maps, immune-cell engineering, cancer therapy, and germline ethics.
 - [Elizabeth “Tetty” Porter](entities/ElizabethPorter.md) — Samuel Johnson’s wife, whose affection and resources supported his failed school and whose death deepened his loneliness.
 - [David Garrick](entities/DavidGarrick.md) — Johnson’s pupil and London traveling companion who became a celebrated actor and theatrical intermediary.
-- [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative lexicographical project and a test case in labor, fame, and disputed patronage.
+- [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative public-education dictionary and a test case in lexicographical labor, authority, and disputed patronage.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 - [Brendan Glavin](entities/BrendanGlavin.md) — OpenSecrets analyst explaining AI-linked outside spending, candidate intervention, and the cryptocurrency-style super-PAC playbook.
@@ -16768,6 +16770,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.
+- [Dictionary Public-Good Governance / 词典公共品治理](concepts/DictionaryPublicGoodGovernance.md) — Institutional problem of sustaining accessible, independent, professionally edited dictionaries under state and market pressure.
+- [Political Semantic Change / 政治性语义变迁](concepts/PoliticalSemanticChange.md) — Alteration of public meaning and emotional charge through ideology, movements, campaigns, and strategic rhetoric.
 - [策略性低姿态进身 / Strategic Personal Deference](concepts/StrategicPersonalDeference.md) — 低位者以刻意谦卑、服务和身份下沉换取权贵注意、网络接近与延迟兑现的升迁机会。
 - [门客信息基础设施 / Retainer Information Infrastructure](concepts/RetainerInformationInfrastructure.md) — 门客以生计和进身换取对主君的谋划、情报、联络与执行服务，同时形成私人权力风险。
 - [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 从窦王两系共同任官、网络重叠到礼仪逆转、廷议受压与一方独大，呈现外戚制衡的形成、运作和崩塌。
@@ -25886,7 +25891,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Social Signal Interpretation](concepts/SocialSignalInterpretation.md) — Reading indirect meaning from timing, relationship, setting, emotional state, and nonliteral prompts.
 - [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, likely interpretation, and whether disclosure creates leverage.
 - [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
-- [Language Precision](concepts/LanguagePrecision.md) — Practical need for clear pronunciation, terminology, and confirmation when misunderstanding would change action.
+- [Language Precision](concepts/LanguagePrecision.md) — Revisable discipline of preserving consequential distinctions across speech, technical naming, public language, and shared reference standards.
 - [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Cross-channel warning signs spanning impossible returns, staged proof, borrowed authority, opaque cash flow, unfamiliar platforms, software installation, remote access, and withdrawal fees.
 - [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that displayed balances, prices, trades, or withdrawals belong to a false or manipulated investment platform rather than a real venue.
 - [Stock Tip Group Risk](concepts/StockTipGroupRisk.md) — Risk from teacher-led stock groups, screenshots, VIP fees, insider claims, and gain-sharing guidance where advice incentives are asymmetric.

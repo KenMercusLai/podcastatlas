@@ -31926,3 +31926,11 @@ Added source `zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvw
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 306-词典有什么用？
+
+Added source `306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso`; created [[NoahWebster]], [[DictionaryDescriptionAndPrescription|词典的描述与规范]], [[DictionaryPublicGoodGovernance|词典公共品治理]], and [[PoliticalSemanticChange|政治性语义变迁]]; and resynthesized [[DushuBuchenglin|独树不成林]], [[MerriamWebster]], [[DictionaryOfTheEnglishLanguage|A Dictionary of the English Language]], and [[LanguagePrecision]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: dictionaries are necessary but non-absolute public standards whose modern descriptive posture still requires editorial judgment, precision, training, and durable funding; state sponsorship and commercial ownership create different risks, while political actors can reshape a term’s public charge before substantive argument begins. No settled contradiction was adopted. The episode’s Chinese lexicography examples, dates, revision cycles, entry counts, political etymologies, and account of Merriam-Webster’s editorial motives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,995 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
