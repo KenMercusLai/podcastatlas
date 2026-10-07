@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2205
+topic_total_pages: 2206
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4289,6 +4289,9 @@ topic_entities:
   - key: "JeffRalston"
     title: "Jeff Ralston"
     url: "/wiki/entities/jeffralston/"
+  - key: "JeffreyEpstein"
+    title: "Jeffrey Epstein"
+    url: "/wiki/entities/jeffreyepstein/"
   - key: "JeffreyWang"
     title: "Jeffrey Wang"
     url: "/wiki/entities/jeffreywang/"

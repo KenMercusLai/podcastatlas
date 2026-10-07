@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3361
+topic_total_pages: 3362
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6284,6 +6284,9 @@ topic_entities:
   - key: "KESA"
     title: "KESA"
     url: "/wiki/entities/kesa/"
+  - key: "KevinBass"
+    title: "Kevin Bass"
+    url: "/wiki/entities/kevinbass/"
   - key: "KevinDing"
     title: "Kevin Ding"
     url: "/wiki/entities/kevinding/"

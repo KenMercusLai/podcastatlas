@@ -31878,3 +31878,11 @@ Added source `zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jiedu
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730`; created [[SaagarEnjeti|Saagar Enjeti]], [[MichaelTracey|Michael Tracey]], [[KevinBass|Kevin Bass]], [[PrinceAndrew|Prince Andrew]], [[EpsteinEvidenceDispute]], and [[AssociationEvidenceBoundary]]; and resynthesized [[JeffreyEpstein|Jeffrey Epstein]] and [[ReidHoffman|Reid Hoffman]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: suspicious elite associations, institutional failures, misleading public accounts, knowing facilitation, and participation in specific crimes are distinct propositions requiring distinct evidence. No single blackmail, intelligence, or global-trafficking theory was adopted. The episode's legal chronology, victim counts, settlement incentives, intelligence links, Hoffman contact and travel counts, and Andrew allegations remain disputed or source-scoped because the supplied episode characterizes rather than reproduces most underlying records. Broad show, host, political-figure, and incidental-associate pages were kept closed because the bounded additions are represented in focused guest, subject, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,989 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3174
+topic_total_pages: 3175
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6260,9 +6260,6 @@ topic_entities:
   - key: "JeannieRhee"
     title: "Jeannie Rhee"
     url: "/wiki/entities/jeannierhee/"
-  - key: "JeffreyEpstein"
-    title: "Jeffrey Epstein"
-    url: "/wiki/entities/jeffreyepstein/"
   - key: "JensSpahn"
     title: "Jens Spahn"
     url: "/wiki/entities/jensspahn/"
@@ -7037,6 +7034,9 @@ topic_entities:
   - key: "Prevagen"
     title: "Prevagen"
     url: "/wiki/entities/prevagen/"
+  - key: "PrinceAndrew"
+    title: "Prince Andrew"
+    url: "/wiki/entities/princeandrew/"
   - key: "ProclamationLine1763"
     title: "Proclamation Line of 1763"
     url: "/wiki/entities/proclamationline1763/"
@@ -7184,6 +7184,9 @@ topic_entities:
   - key: "RyanAbbott"
     title: "Ryan Abbott"
     url: "/wiki/entities/ryanabbott/"
+  - key: "SaagarEnjeti"
+    title: "Saagar Enjeti"
+    url: "/wiki/entities/saagarenjeti/"
   - key: "SabinaNong"
     title: "Sabina Nong"
     url: "/wiki/entities/sabinanong/"

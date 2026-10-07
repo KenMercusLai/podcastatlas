@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12647
+wiki_total_pages: 12651
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "SanPellegrino"
     title: "S.Pellegrino / San Pellegrino / 圣培露"
     url: "/wiki/entities/sanpellegrino/"
+  - key: "SaagarEnjeti"
+    title: "Saagar Enjeti"
+    url: "/wiki/entities/saagarenjeti/"
   - key: "SabaFotovat"
     title: "Saba Fotovat"
     url: "/wiki/entities/sabafotovat/"

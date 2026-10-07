@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12647
+wiki_total_pages: 12651
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "KESA"
     title: "KESA"
     url: "/wiki/entities/kesa/"
+  - key: "KevinBass"
+    title: "Kevin Bass"
+    url: "/wiki/entities/kevinbass/"
   - key: "KevinDing"
     title: "Kevin Ding"
     url: "/wiki/entities/kevinding/"

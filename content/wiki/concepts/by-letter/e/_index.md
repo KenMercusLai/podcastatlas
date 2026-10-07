@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9879
+wiki_total_pages: 9881
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "EpistolaryFriendship"
     title: "Epistolary Friendship / 书信友谊"
     url: "/wiki/concepts/epistolaryfriendship/"
+  - key: "EpsteinEvidenceDispute"
+    title: "Epstein Evidence Dispute"
+    url: "/wiki/concepts/epsteinevidencedispute/"
   - key: "EqualityParadoxPublicSpace"
     title: "Equality Paradox Public Space / 平等悖论与公共空间"
     url: "/wiki/concepts/equalityparadoxpublicspace/"
