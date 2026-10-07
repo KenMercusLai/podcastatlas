@@ -139137,6 +139137,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/liudanzhaoprincewesternhan/"
     },
+    "LiuDeHejianKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2） [lsE66EaCIjdfcYjk76aso6Vzp6B_].md",
+          "key": "zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liudehejiankingwesternhan/"
+    },
     "LiuDingguoYanKingWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -183793,6 +183809,43 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/posthumousmeritvindication/"
+    },
+    "PosthumousNamePolitics": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念 [lnO-AEljKs2VT1k3wJRiZSAnirtq].md",
+          "key": "zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2） [lmfZo4SL9nD5Kz3mrxdl1dL9EFEI].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2） [lsE66EaCIjdfcYjk76aso6Vzp6B_].md",
+          "key": "zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/posthumousnamepolitics/"
     },
     "PosthumousPoliticalDestinyMyth": {
       "episode_count": 1,

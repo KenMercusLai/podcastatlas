@@ -31830,3 +31830,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）
+
+Added source `zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_`; created [[LiuDeHejianKingWesternHan|河间献王刘德]]; and resynthesized [[PosthumousNamePolitics|谥号政治]] from its complete preserved source inventory before appending the new source once. Core synthesis: 刘德的“献”谥把学问与聪慧压缩为身后评价，但谥号制度也会因当权子孙和官员压力滑向程式化赞美；节目又把汉武帝所引汤、文王典故解释为对同姓王文化影响力的警告，并把刘德停学、纵酒与郁郁而终串成后果链。No settled contradiction was adopted. 《资治通鉴》未明载真实死因，汉武帝语气与意图、刘德心理、死亡因果、河北文化中心判断、谥法起源与具体程序均保留来源边界；标题所示刘德与《诗经》的关系在本期正文中未展开。Broad [[HanWudi|汉武帝]], [[Shijing|《诗经》]], and show pages were kept closed because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,983 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
