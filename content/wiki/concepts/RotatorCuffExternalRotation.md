@@ -5,7 +5,8 @@ tags: [fitness, shoulder, strength-training, injury-prevention]
 sources:
   - build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319
   - optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076
-last_updated: 2026-10-01
+  - essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ Cavaliere does not treat internal rotation as bad in itself. The problem is chro
 
 The practical drill is simple: band external rotations with the elbow pinned to the torso, often with a towel under the arm to prevent cheating through deltoid movement. The source allows the work to be used before pressing as activation or separately as special programming.
 
-The earlier interview extends the frame from isolated cuff work to exercise selection. Cavaliere objects to the upright row because elevation combined with internal rotation can reproduce a provocative shoulder position, and he offers a high pull with the hands above the elbows as a way to train similar regions while preserving a more favorable orientation. This is a source-specific risk judgment, not proof that one exercise injures every shoulder.
+The earlier interview and its Essentials edit extend the frame from isolated cuff work to exercise selection. Cavaliere objects to the upright row because elevation combined with internal rotation can reproduce a provocative shoulder position, and he offers a high pull with the hands above the elbows as a way to train similar regions while preserving a more favorable orientation. The condensation adds provenance but no independent safety evidence. This remains a source-specific risk judgment, not proof that one exercise injures every shoulder.
 
 ## Key Claims
 - Internal rotation is necessary, but it needs enough external-rotation strength to control it.
@@ -37,13 +38,15 @@ The earlier interview extends the frame from isolated cuff work to exercise sele
 - Programming use: [[build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319]] places rotator cuff work either before pressing or in separate special programming.
 - Upright-row concern: [[optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076]] argues that elevation plus internal rotation can resemble an impingement-test position.
 - Exercise substitution: [[optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076]] recommends a high pull with the hands higher than the elbows as a less provocative alternative for similar training goals.
+- Condensed provenance: [[essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288]] repeats the upright-row concern and high-pull substitution without adding comparative injury data.
 
 ## Counterevidence & Qualifications
-This concept is not a diagnosis or treatment plan for shoulder impingement, tears, instability, frozen shoulder, nerve symptoms, or postoperative rehab. The sources do not establish that upright rows are universally injurious or that high pulls are safe for every anatomy, load, technique, or injury history. Shoulder pain, weakness, trauma, loss of range, or symptoms that persist should be assessed by a qualified clinician.
+This concept is not a diagnosis or treatment plan for shoulder impingement, tears, instability, frozen shoulder, nerve symptoms, or postoperative rehab. The Essentials edit derives from the earlier interview and is not independent confirmation. The sources do not establish that upright rows are universally injurious or that high pulls are safe for every anatomy, load, technique, or injury history. Shoulder pain, weakness, trauma, loss of range, or symptoms that persist should be assessed by a qualified clinician.
 
 ## What Changed
 - Extended the concept from cuff activation to rotation-aware exercise selection.
 - Bounded the upright-row warning as a source-specific risk judgment rather than a universal injury rule.
+- Added the Essentials retelling as overlapping provenance rather than stronger injury evidence.
 
 ## Related Concepts
 - [[CorrectiveWeakLinkTraining]] - programming method for this shoulder work.

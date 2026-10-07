@@ -31942,3 +31942,11 @@ Added source `096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-du
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere
+
+Added source `essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288`; resynthesized [[JeffCavaliere|Jeff Cavaliere]], [[FunctionalLongevityTraining]], [[MindMuscleConnection]], [[ExerciseRecoveryReadiness]], [[RotatorCuffExternalRotation]], and [[StaticStretchingDoseProtocol]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sustainable exercise programming fits strength, conditioning, mobility, recovery, and nutrition to adherence and current capacity; soreness, grip output, target-muscle sensation, and joint position are practical prompts rather than diagnoses or universal rules. No settled contradiction was adopted. The Essentials release condenses the 2022 full interview, so its agreement is overlapping provenance rather than independent confirmation; split, exercise-order, grip-threshold, stretching, shoulder, elbow-pain, plate-portion, and nutrient-timing claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,997 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed. The full-corpus broken-link scan still reports 30 pre-existing links outside this ingest's changed pages; none were introduced here.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

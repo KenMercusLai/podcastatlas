@@ -76028,9 +76028,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -76101,9 +76101,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
@@ -88545,9 +88552,9 @@
       "url": "/wiki/concepts/functionalhealthspanassessment/"
     },
     "FunctionalLongevityTraining": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4318497319 [SCIM4318497319].md",
@@ -88562,9 +88569,16 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
           "url": "/wiki/sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/functionallongevitytraining/"
     },
     "FunctionalMedicineSystemsModel": {
@@ -123133,9 +123147,9 @@
       "url": "/wiki/entities/jeannedelamotte/"
     },
     "JeffCavaliere": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4318497319 [SCIM4318497319].md",
@@ -123150,9 +123164,16 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
           "url": "/wiki/sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/jeffcavaliere/"
     },
     "JeffDean": {
@@ -158382,9 +158403,9 @@
       "url": "/wiki/concepts/mindbodyunion/"
     },
     "MindMuscleConnection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5122820076 [SCIM5122820076].md",
@@ -158406,9 +158427,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/mindmuscleconnection/"
     },
     "MindfulEatingCueControl": {
@@ -200430,9 +200458,9 @@
       "url": "/wiki/entities/rossandrewpaquette/"
     },
     "RotatorCuffExternalRotation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4318497319 [SCIM4318497319].md",
@@ -200447,9 +200475,16 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
           "url": "/wiki/sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/rotatorcuffexternalrotation/"
     },
     "RougetDeLisle": {
@@ -217260,9 +217295,9 @@
       "url": "/wiki/concepts/statecraftgenerationrelay/"
     },
     "StaticStretchingDoseProtocol": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2453607831 [SCIM2453607831].md",
@@ -217284,9 +217319,16 @@
           "show": "Huberman Lab",
           "title": "Improve Flexibility with Research-Supported Stretching Protocols",
           "url": "/wiki/sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438/"
+        },
+        {
+          "episode_file": "SCIM7631643288 [SCIM7631643288].md",
+          "key": "essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+          "url": "/wiki/sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
     },
     "StatueCommemorationPolitics": {

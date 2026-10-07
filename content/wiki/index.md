@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288.md) — Condensed Huberman Lab interview on adherence-centered strength and conditioning, target-muscle control, recovery signals, stretching timing, shoulder and grip mechanics, and sustainable nutrition.
 - [096 【锐评春节档】《镖人》电影与原著全方位对比](sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d.md) — 纸醉金迷FM比较《镖人》漫画与《镖人：风起大漠》，肯定传统武侠动作设计，同时区分有效重写与损害政治因果、群像厚度及情绪铺垫的压缩。
 - [306-词典有什么用？](sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso.md) — 独树不成林以词典史讨论描述与规范、语言政治、纸质编辑约束，以及国家意识形态和市场压力下的公共品治理。
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7.md) — 以田蚡封地受益解释瓠子决口长期未修，并把王太后亲缘、门客网络与外戚工具角色连成其政治画像；罗马—秦汉比较、治水因果与人格评价保留来源边界。

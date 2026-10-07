@@ -6,7 +6,8 @@ sources:
   - essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831
   - optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076
   - improve-flexibility-with-research-supported-stretching-protocols-scim4600343438
-last_updated: 2026-10-01
+  - essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ Static stretching dose protocol is the source-scoped practice frame that lasting
 
 The protocol is deliberately modest. Stretching should begin warm, use the day's actual range of motion, and often stay around 30-40% of the point of pain rather than treating stronger pain as better. This makes the concept a dose-and-intensity companion to [[StretchingMobilitySafety]], not a universal sport, rehabilitation, or pain-treatment prescription.
 
-The Cavaliere interview sharpens the immediate-performance distinction: it favors dynamic movement before training and generally places passive holds away from the session because a temporary change in force production or length-tension behavior may be undesirable. The later Essentials source is more conditional, allowing static work before training when restricted range blocks safe form. The combined judgment is therefore goal- and deficit-dependent, not a categorical ban.
+The Cavaliere interview and its Essentials edit sharpen the immediate-performance distinction: they favor dynamic movement before training and generally place passive holds away from the session because a temporary change in force production or length-tension behavior may be undesirable. The later flexibility Essentials source is more conditional, allowing static work before training when restricted range blocks safe form. The combined judgment is therefore goal- and deficit-dependent, not a categorical ban, and the Cavaliere condensation adds no independent evidence.
 
 ## Key Claims
 - Static stretching is favored for long-term range-of-motion improvement in the evidence discussed by the source.
@@ -38,14 +39,16 @@ The Cavaliere interview sharpens the immediate-performance distinction: it favor
 - Warmup claim: [[essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831]] and [[improve-flexibility-with-research-supported-stretching-protocols-scim4600343438]] advise stretching after another warm activity or after five to ten minutes of easy movement if not already warm.
 - Goal-dependent timing claim: [[essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831]] and [[improve-flexibility-with-research-supported-stretching-protocols-scim4600343438]] say static stretching before training can help when tightness blocks form, while dynamic or ballistic movement can serve warmup purposes.
 - Performance-timing claim: [[optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076]] generally places passive stretching away from workouts and uses leg swings, lunges, kicks, and rotation as dynamic preparation.
+- Condensed timing provenance: [[essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288]] repeats the dynamic-before-training and passive-away-from-performance distinction.
 
 ## Counterevidence & Qualifications
-The sources differ in emphasis rather than establishing a settled contradiction: Cavaliere generally separates passive holds from performance, while the flexibility episode allows targeted pre-training static work when mobility limits form. The full episode and its Essentials condensation are shared provenance, not independent replication. None of the source notes quantifies the size or duration of acute performance effects across activities. The dancer study is one specific source case, not proof that one dose fits every sport, injury, age, or mobility restriction. Pain, neurological symptoms, acute injury, swelling, or persistent functional limits should not be managed by self-directed stretching alone.
+The sources differ in emphasis rather than establishing a settled contradiction: Cavaliere generally separates passive holds from performance, while the flexibility episode allows targeted pre-training static work when mobility limits form. Both the flexibility pair and the Cavaliere full-interview/Essentials pair are shared provenance, not independent replication. None of the source notes quantifies the size or duration of acute performance effects across activities. The dancer study is one specific source case, not proof that one dose fits every sport, injury, age, or mobility restriction. Pain, neurological symptoms, acute injury, swelling, or persistent functional limits should not be managed by self-directed stretching alone.
 
 ## What Changed
 - Added dynamic warmup versus passive-stretch timing as an immediate-performance decision.
 - Reconciled the sources by making pre-training static work goal- and restriction-dependent rather than universally required or forbidden.
 - Kept the dose conclusion source-scoped after recognizing the full episode and Essentials version as shared rather than independent evidence.
+- Added the Cavaliere Essentials timing guidance as overlapping provenance without changing the goal-dependent judgment.
 
 ## Related Concepts
 - [[FlexibilityNeuralSafetyGating]] - mechanism branch explaining why stretching intensity and relaxation matter.
