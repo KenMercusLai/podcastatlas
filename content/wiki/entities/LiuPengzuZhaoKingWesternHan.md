@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
+  - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
 last_updated: 2026-10-07
 ---
 
@@ -17,7 +18,7 @@ last_updated: 2026-10-07
 
 ## Current Profile
 
-Hanji 284 now adds the earliest current layer. After [[LiuDingguoYanKingWesternHan|刘定国]] and [[QiLiwangWesternHan|齐厉王]] die following accusation or investigation by Zhufu Yan, Liu Pengzu fears that Zhao will be next. The episode says he attacks first by reporting that Zhufu Yan accepts large bribes and forced the Qi king's death. This establishes preemption under perceived princely threat, but it does not settle the truth of every charge or prove that fear was his only motive.
+Hanji 284 adds the earliest current layer. After [[LiuDingguoYanKingWesternHan|刘定国]] and [[QiLiwangWesternHan|齐厉王]] die following accusation or investigation by Zhufu Yan, Liu Pengzu fears that Zhao will be next. The episode says he attacks first by reporting that Zhufu Yan accepts large bribes and forced the Qi king's death. Hanji 285 completes the immediate result: Zhufu Yan admits bribery but denies causing the death, [[HanWudi|汉武帝]] first considers release, and [[GongsunHong|公孙弘]] supplies the argument preceding execution and clan punishment. This establishes a consequential preemptive report without settling every charge or proving fear was Liu Pengzu's only motive.
 
 Hanji 338-2 supplies a later accusation pattern. The episode says Zhang Tang's salt-and-iron-related policy pressure damages the revenue base Zhao had derived from smelting and casting. Liu Pengzu then uses Zhang's personal visit and foot massage for favored clerk [[LuYezhuWesternHan|鲁谒居]] to allege that the two share a hidden scheme. The evidence supports a politically consequential accusation and Liu Pengzu's ability to weaponize visible intimacy; it does not establish that the massage itself proves criminal collusion or that fiscal loss was his only motive.
 
@@ -39,6 +40,7 @@ Hanji 382-2 adds a later household and succession profile. Liu Pengzu is describ
 
 Preemptive report against Zhufu Yan:
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Liu Pengzu fears becoming the next target after the Yan and Qi cases and accuses Zhufu Yan of bribery and forcing Liu Cichang's death.
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] says Zhufu Yan admits bribery, denies responsibility for the death, and is executed only after additional court pressure.
 
 Zhang Tang accusation:
 - [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] links Liu Pengzu's hostility to Zhao's lost smelting-and-casting revenue and says he reports Zhang's foot massage for Lu Yezhu as a sign of hidden wrongdoing.
@@ -55,12 +57,12 @@ Succession endpoint:
 
 ## Qualifications
 
-This page is bounded to four compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 284's fear-and-preemption motive and Hanji 338-2's fiscal motive remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that every accusation was true.
+This page is bounded to five compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 284's fear-and-preemption motive and Hanji 338-2's fiscal motive remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that every accusation was true. Hanji 285 confirms the report's political consequence in the episode sequence but does not independently validate the wrongful-death charge or show that Liu Pengzu controlled the final decision.
 
 ## What Changed
 
-- Added Liu Pengzu's preemptive report against Zhufu Yan after the Yan and Qi royal deaths.
-- Distinguished the reported bribery and wrongful-death charges from the episode's reconstruction of Liu Pengzu's fear.
+- Completed the immediate aftermath of Liu Pengzu's report through Zhufu Yan's trial, renewed court pressure, and execution.
+- Kept the accusation's political effect distinct from proof of every charge or control over the final decision.
 
 ## Relationships
 
@@ -68,6 +70,7 @@ This page is bounded to four compact episodes. It does not reconstruct Liu Pengz
 - [[ZhuFuYan]] - official he reports after interpreting the Yan and Qi cases as an approaching threat to Zhao.
 - [[LiuDingguoYanKingWesternHan]] - Yan king whose death helps generate Liu Pengzu's fear of Zhufu Yan.
 - [[QiLiwangWesternHan]] - Qi king whose death becomes part of Liu Pengzu's accusation.
+- [[GongsunHong]] - chancellor whose later argument helps convert the accusation into Zhufu Yan's execution.
 - [[ZhangTangWesternHan]] - official accused after policy and patronage behavior create grievance and evidentiary opportunity.
 - [[LuYezhuWesternHan]] - favored clerk whose treatment by Zhang becomes the visible basis of Liu Pengzu's report.
 - [[LiuDanZhaoPrinceWesternHan]] - son and heir whose scandal Liu Pengzu tries to mitigate.

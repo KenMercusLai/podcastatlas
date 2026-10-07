@@ -31550,3 +31550,11 @@ Added source `zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？
+
+Added source `zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea`; created [[KongZangWesternHan|孔臧]]; and resynthesized [[ZhuFuYan|主父偃]], [[GongsunHong|公孙弘]], [[LiuPengzuZhaoKingWesternHan|赵敬肃王刘彭祖]], [[DongZhongshu|董仲舒]], and [[PowerContingentSocialTies|权势依附型交往]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Zhufu Yan's admitted bribery did not initially produce a death decision, but Gongsun Hong joined the Qi king's childless death, territorial absorption, court legitimacy, and accumulated hostility into a fatal argument; the collapse of Zhufu Yan's once-crowded guest network shows how fear- and access-based ties fail when incentives and danger reverse. No settled contradiction was adopted. 推恩令 authorship and effect, exact execution date and wording, clan-punishment scope, guest counts, the Dong Zhongshu memorial story, and reconstructed motives or psychology remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,946 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

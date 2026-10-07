@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12609
+wiki_total_pages: 12610
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"
+  - key: "KongZangWesternHan"
+    title: "孔臧 / Kong Zang (Western Han)"
+    url: "/wiki/entities/kongzangwesternhan/"
   - key: "KongRong"
     title: "孔融 / Kong Rong"
     url: "/wiki/entities/kongrong/"

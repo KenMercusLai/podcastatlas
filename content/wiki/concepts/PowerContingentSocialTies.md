@@ -6,6 +6,7 @@ tags: [relationships, power, status, patronage, friendship]
 sources:
   - zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib
   - zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv
+  - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
 last_updated: 2026-10-06
 ---
 
@@ -21,6 +22,8 @@ The source treats reversal as a relationship test. Death and survival, poverty a
 
 The Mobei aftermath adds a simultaneous patron-switching case rather than a dismissal-and-return sequence. After the campaign, [[WeiQingHanGeneral|卫青]] receives no new reward and his influence declines while [[HuoQubing|霍去病]] becomes more prominent; associates reportedly move toward Huo because his household offers better access to appointments and material benefit. [[RenAnWesternHan|任安]]'s continued visits to Wei form the contrast case: persistence after the advantage shifts is stronger evidence of a non-instrumental tie than attention during prosperity alone. [[zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv|Hanji 327-1]]
 
+Hanji 285 adds the terminal form of the test. [[ZhuFuYan|主父偃]] reportedly had thousands of guests and received gifts while officials and princely retainers feared his access to the emperor, yet almost no one appears when he faces execution and clan punishment. Unlike ordinary dismissal, the cost of association has become extreme, so absence cannot prove that every earlier relationship was insincere; it does show that a network produced by fear, favors, and access may provide little support once those incentives reverse.
+
 The concept is social rather than only political. Office provides access, favors, and prestige, but money and status can create the same selection effect. It is also narrower than [[PatronageLossSelfProtection|失去靠山后的低调自保]] or [[PostPowerSafetyCollapse|失势后的安全崩塌]]: those concepts ask how the displaced actor remains safe, while this one asks what changing visitor behavior reveals about the relationship itself.
 
 ## Key Claims
@@ -30,6 +33,7 @@ The concept is social rather than only political. Office provides access, favors
 - Returning visitors after reinstatement strengthen the inference that at least some earlier ties were status-contingent.
 - Movement from a declining patron to a rising one can reveal not just abandonment but active optimization for access, office, or reward.
 - A host's generosity can attract both genuine reciprocity and instrumental association; later abandonment does not retroactively prove every prior tie false.
+- Higher danger after a patron's fall can explain withdrawal without erasing the diagnostic contrast between prior crowds and later isolation.
 - The pattern describes behavior under changing incentives and should not be universalized into cynicism about all friendship or networking.
 
 ## Evidence
@@ -47,14 +51,17 @@ Patron switching and persistence:
 - [[zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv|Hanji 327-1]] says associates leave Wei Qing for the increasingly favored Huo Qubing, where appointments and benefits appear more available.
 - [[zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv|Hanji 327-1]] singles out Ren An as continuing the relationship after Wei's advantage declines.
 
+Terminal isolation:
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] contrasts Zhufu Yan's former crowds of guests and fearful gift-givers with near-total abandonment at execution.
+
 ## Counterevidence & Qualifications
 
-The current evidence comes from two short secondary podcast notes whose names, quotations, chronology, and textual provenance were not rigorously collated. Visitor counts and private motives are unavailable, and practical barriers after dismissal may sometimes reduce contact without proving opportunism. Hanji 327-1 does not establish that every departing associate acted only for money or office, that Ren An was literally the sole person who stayed, or that continued visiting proves every aspect of a relationship sincere. The cases support a change-sensitive diagnostic, not the universal claim that all high-status relationships are false.
+The current evidence comes from three short secondary podcast notes whose names, quotations, chronology, and textual provenance were not rigorously collated. Visitor counts and private motives are unavailable, and practical barriers after dismissal may reduce contact without proving opportunism. Hanji 327-1 does not establish that every departing associate acted only for money or office, that Ren An was literally the sole person who stayed, or that continued visiting proves every aspect of a relationship sincere. Hanji 285's execution setting creates genuine danger for associates, and its thousands-of-guests and lone-retainer details remain source-scoped. The cases support a change-sensitive diagnostic, not the universal claim that all high-status relationships are false.
 
 ## What Changed
 
-- Added simultaneous patron switching from Wei Qing to Huo Qubing as an active form of status-contingent association.
-- Added Ren An's continued contact as a contrast showing why behavior after advantage declines carries special evidentiary weight.
+- Added Zhufu Yan's execution-ground isolation as the terminal and highest-cost version of the relationship test.
+- Qualified absence under punishment risk so the concept diagnoses incentive reversal without claiming access to every associate's motive.
 
 ## Related Concepts
 
@@ -64,3 +71,4 @@ The current evidence comes from two short secondary podcast notes whose names, q
 - [[SincerityAsRelationshipTrust]] - moral contrast between durable sincerity and advantage-driven association.
 - [[FinanceRelationshipCapital]] - adjacent domain where networks may carry genuine relational value while also responding to economic incentives.
 - [[MobeiBattleWesternHan|漠北之战]] - event whose military outcome redistributes prestige and therefore changes the incentive field around two commanders.
+- [[ZhuFuYan|主父偃]] - terminal case in which a once-crowded fear-and-access network disappears after imperial protection collapses.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？](sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea.md) — 主父偃在刘彭祖告发后本可能获释，公孙弘却以齐王无后、封国改郡县和朝廷公信力推动处死；昔日宾客散尽又显出恐惧与权势维系关系的脆弱。
 - [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f.md) — 以《汉书》叙事对照“马前泼水”戏曲记忆，将崔氏离开朱买臣重释为贫困压力下对劳动、尊严与共同未来的分歧，而非简单嫌贫爱富。
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3.md) — 主父偃把诸侯隐私转化为朝廷指控，燕王与齐王相继自杀；齐案又显示官方调查、中央收权与私人怨恨如何纠缠，并触发刘彭祖先发告发。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq.md) — 大月氏因新领地安定富庶而拒绝联汉攻匈奴；张骞再度被俘后借匈奴内乱逃归，使原始联盟失败转化为地理报告、外交接触与丝路形成的前置条件。
@@ -4012,6 +4013,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
 
 ## Entities
+- [孔臧 / Kong Zang (Western Han)](entities/KongZangWesternHan.md) — 以经学与礼制专长辞御史大夫、求任太常的西汉学者官员，呈现专长与职位功能的匹配。
 - [燕王刘定国 / Liu Dingguo, Yan King (Western Han)](entities/LiuDingguoYanKingWesternHan.md) — 因乱伦与报复杀官指控被命自杀、封国撤除的西汉燕王。
 - [齐厉王 / King Li of Qi (Western Han)](entities/QiLiwangWesternHan.md) — 在主父偃的齐国调查及刑讯取证后服毒自杀的西汉齐王。
 - [堂邑父 / Tangyi Fu (Western Han)](entities/TangyiFuWesternHan.md) — 张骞首次西使中的匈奴出身向导与翻译，并以射猎在干粮耗尽后承担临时补给功能。

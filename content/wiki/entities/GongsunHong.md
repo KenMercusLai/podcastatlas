@@ -10,13 +10,14 @@ sources:
   - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
   - zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh
   - zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx
+  - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-公孙弘 / Gongsun Hong is a Western Han official whose current profile combines mobility from poor and nonelite origins, tactful policy influence, fallible governance judgment, political rivalry, conservative credibility screening, and an unusual natural death while serving as chancellor. He can preserve room to advise [[HanWudi|汉武帝]] by narrowing rather than directly rejecting imperial priorities, but his proposed bow ban loses a court debate and two appointment stories present personnel authority as a way to expose or displace critics.
+公孙弘 / Gongsun Hong is a Western Han official whose current profile combines mobility from poor and nonelite origins, tactful policy influence, fallible governance judgment, political rivalry, conservative credibility screening, and an unusual natural death while serving as chancellor. He can preserve room to advise [[HanWudi|汉武帝]] by narrowing rather than directly rejecting imperial priorities, while appointment and impeachment episodes show the same institutional skill operating against exposed rivals.
 
 ## Current Profile
 
@@ -34,12 +35,14 @@ Hanji 289-1 supplies the profile's beginning and endpoint without filling the mi
 
 Hanji 289-2 supplies the promised but source-attributed explanation. Gongsun Hong's proposed ban on commoners carrying bows is rejected after an opposing memorial argues from historical substitution, ritual meaning, criminal evasion, and lawful self-protection; the episode says he cannot answer when Wudi returns the critique. Its court-politics branch repeats the Jiaoxi placement and adds Ji An's appointment as Right Metropolitan Superintendent, interpreting both as [[AppointmentAsIndirectRetaliation|任命式间接报复]]. Its survival account joins timing, ruler-compatible learning, humility, attention to imperial preference, and willingness to yield rather than insist. This narrows the prior causal gap without proving hidden motives or reducing his whole career to flattery.
 
+Hanji 285 adds a fatal intervention against [[ZhuFuYan|主父偃]]. After Wudi initially considers releasing Zhufu Yan, Gongsun Hong ties the Qi king's childless death and the conversion of Qi into commanderies to the court's public credibility, arguing that Zhufu Yan must die if the outcome is to be answered. The episode presents the intervention as politically decisive. It extends the profile from indirect appointment pressure to an explicit prosecution argument, while the claim that he covertly warns Wudi against appearing greedy for Qi remains the host's inference.
+
 ## Key Characteristics
 
 - Tactful resource-priority adviser who narrows simultaneous strategic demands instead of opposing imperial desire head-on.
 - Survival-aware court actor who protects access and influence through calibrated speech.
 - Fallible policy advocate whose bow ban is challenged on enforcement, substitution, ritual, and self-defense grounds.
-- Politically ambivalent rival who can use appointment as an indirect exposure or displacement mechanism.
+- Politically ambivalent rival who can use appointment or public-legitimacy argument as an exposure, displacement, or punishment mechanism.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
 - Aligns learning and presentation with a ruler's preferred mode of use while retaining enough competence to remain useful.
 - Combines nonelite mobility and late advancement with a rare natural death in the Wudi-era chancellorship.
@@ -65,15 +68,17 @@ Mobility and terminal outcome:
 Policy failure and source-attributed survival mechanism:
 - [[zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx|Hanji 289-2]] presents the failed bow ban, repeats Dong Zhongshu's dangerous placement, adds Ji An's outward promotion away from court, and attributes Gongsun Hong's survival to timing, ruler fit, restraint, and willingness to yield.
 
+Fatal prosecution argument:
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] says Gongsun Hong invokes the Qi king's death, lack of an heir, and territorial absorption to argue against releasing Zhufu Yan.
+
 ## Qualifications
 
-All seven sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes, while Hanji 289-2's bow debate, character judgments, Ji An motive, and survival explanation remain source-scoped. Natural death is an outcome; the new explanation is plausible within the episode, not a demonstrated complete cause.
+All eight sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes, while Hanji 289-2's bow debate, character judgments, Ji An motive, and survival explanation remain source-scoped. Hanji 285 does not independently establish the exact wording, the full legal case against Zhufu Yan, whether Gongsun Hong's speech alone changed Wudi's decision, or the host's implied warning about imperial greed. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
 
 ## What Changed
 
-- Added the failed bow-ban debate as evidence that political adaptability coexisted with contestable policy judgment.
-- Added Ji An's outward promotion as a second source-attributed case of appointment used to displace a critic.
-- Narrowed the prior survival gap: the new source attributes his outcome to timing, ruler fit, restraint, and yielding, while the page keeps that explanation qualified.
+- Added the fatal argument against releasing Zhufu Yan as an explicit use of public legitimacy in court prosecution.
+- Extended the profile from indirect appointment pressure to punishment advocacy while preserving motive and causality limits.
 
 ## Relationships
 
@@ -90,3 +95,4 @@ All seven sources are popular-history interpretations. Hanji 925 does not recons
 - [[GoodDeathPoliticalSurvival|乱局善终]] - frames his natural death while still serving as chancellor as one route to a good political end.
 - [[ProhibitionComplianceAsymmetry|禁令遵从不对称]] - captures the principal enforcement objection to his proposed bow ban.
 - [[AppointmentAsIndirectRetaliation|任命式间接报复]] - describes the episode's reading of his Dong Zhongshu and Ji An recommendations.
+- [[ZhuFuYan|主父偃]] - exposed official against whom Gongsun Hong makes the fatal Qi-legitimacy argument.

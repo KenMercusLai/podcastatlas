@@ -6,12 +6,13 @@ tags: [person, official, western-han, court-politics, reception]
 sources:
   - zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
+  - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-主父偃 / Zhufu Yan is a Western Han official whom the current sources show in two different registers: as a powerful court actor using knowledge of princely scandals, and as a later literary example of long frustration followed by prominence.
+主父偃 / Zhufu Yan is a Western Han official whose current profile runs from long exclusion through rapid usefulness and coercive court power to political isolation, execution, and clan punishment. A later poem also turns his humiliation-before-prominence arc into consolation material, but that reception does not erase the destructive conduct or fatal coalition recorded in the Hanji sources.
 
 ## Current Profile
 
@@ -19,16 +20,20 @@ Hanji 284 supplies the first developed political profile in the wiki. Zhufu Yan 
 
 The Qi case makes the mixture of public and private motive explicit. After Empress Dowager Ji rejects his proposed marriage connection, he memorializes against [[QiLiwangWesternHan|齐厉王]], invokes Linzi's wealth and the king's distant imperial kinship, and adds the allegation of incest. As Qi chancellor he conducts a coercive inquiry that ends in the king's suicide. [[LiuPengzuZhaoKingWesternHan|赵王刘彭祖]] then moves first, accusing him of bribery and forcing the Qi king's death.
 
+Hanji 285 completes the reversal. Zhufu Yan admits bribery but denies responsibility for the king's death, and [[HanWudi|汉武帝]] initially considers release. [[GongsunHong|公孙弘]] then argues that because the childless king is dead and Qi has become commanderies, sparing the official blamed for the outcome would leave the court unable to answer the realm. The episode says Wudi orders Zhufu Yan and his clan killed. Former guests and fearful gift-givers provide no rescue coalition, making the same network that displayed his power evidence of [[PowerContingentSocialTies|权势依附型交往]] once imperial protection fails.
+
+The new source also adds an accumulated-enmity mechanism. Zhufu Yan's attacks on princely houses, powerful families, colleagues, relatives, and allegedly [[DongZhongshu|董仲舒]] make his political usefulness inseparable from isolation. Poverty and rejection may help explain the host's portrait of extremity, but they do not excuse his actions or establish a deterministic psychology.
+
 Zhouji 29 preserves a much later reception layer. [[SimaGuang|司马光]] pairs Zhufu Yan with [[SuQin|苏秦]] in a poem to [[WuZhicai|吾之才]], turning his early exclusion and later rise into consolation material for a frustrated scholar. That reception use should not erase the coercive political profile supplied by Hanji 284.
 
 ## Key Characteristics
 
-- Western Han official with detailed knowledge of Yan, Qi, and Zhao princely households.
-- Converts private information and accusations into access to imperial power.
-- Presented as shaped by decades of poverty, exclusion, and frustrated ambition.
+- Converts knowledge, accusation, and uncompromising enforcement into rapid usefulness near Han Wudi.
 - Uses royal scandal both for central discipline and, in the Qi case, alleged personal revenge.
-- Exercises coercive investigative authority as Qi chancellor.
-- Becomes feared enough that Liu Pengzu attacks first through a bribery and wrongful-death accusation.
+- Presented as shaped by poverty, exclusion, and frustrated ambition without those conditions fully explaining his conduct.
+- Accumulates enemies across princely, elite, collegial, scholarly, and kinship networks.
+- Loses imperial protection after bribery charges, the Qi king's death, and Gongsun Hong's public-legitimacy argument converge.
+- Dies isolated despite earlier crowds of guests, revealing the contingency of fear- and access-based ties.
 - Later remembered as an example of humiliation before prominence.
 
 ## Evidence
@@ -43,19 +48,23 @@ Urgency and exercise of power:
 Political reaction:
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Liu Pengzu interprets the Yan and Qi outcomes as a warning and reports Zhufu Yan first.
 
+Trial, execution, and isolation:
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] says Wudi initially considers release after Zhufu Yan admits bribery but denies causing the Qi king's death.
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] says Gongsun Hong's argument about the dead heirless king and absorbed territory precedes execution and clan punishment.
+- [[zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea|Hanji 285]] contrasts Zhufu Yan's former thousands of guests with near-total abandonment at the execution ground.
+
 Later reception:
 - [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv|Zhouji 29]] cites Sima Guang's poem pairing Zhufu Yan with Su Qin as consolation for Wu Zhicai.
 
 ## Qualifications
 
-The current evidence does not yet provide a complete biography, his major policy proposals, or his final trial and death. Hanji 284's account distinguishes reported acts from its interpretation of motive: Linzi's wealth, royal distance, and sexual scandal are public arguments, while rejected marriage access and resentment are presented as a private driver. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
+The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 284 distinguishes reported acts from its interpretation of motive: Linzi's wealth, royal distance, and sexual scandal are public arguments, while rejected marriage access and resentment are presented as a private driver. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 is recorded but does not provide a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
 
 ## What Changed
 
-- Added the first developed political profile for Zhufu Yan in the wiki.
-- Distinguished public royal-discipline arguments from the episode's private-revenge interpretation.
-- Reframed “倒行逆施” as a self-conscious urgency claim rather than a complete explanation of every act.
-- Preserved the later Su Qin comparison as reception rather than biography.
+- Completed the profile from Liu Pengzu's accusation through Gongsun Hong's intervention, execution, and clan punishment.
+- Added accumulated enmity and power-contingent guests as mechanisms of final isolation.
+- Preserved 推恩令 authorship, death details, and psychological explanations as source-scoped rather than settled.
 
 ## Relationships
 
@@ -63,6 +72,9 @@ The current evidence does not yet provide a complete biography, his major policy
 - [[LiuDingguoYanKingWesternHan]] - Yan king destroyed after Zhufu Yan forwards the accusation against him.
 - [[QiLiwangWesternHan]] - Qi king targeted by his memorial and coercive investigation.
 - [[LiuPengzuZhaoKingWesternHan]] - Zhao king who preempts a feared attack by reporting him.
+- [[GongsunHong]] - chancellor whose public-legitimacy argument turns possible release into a fatal decision in Hanji 285.
+- [[DongZhongshu]] - scholar whom Zhufu Yan allegedly exposes by submitting a private disaster memorial.
 - [[SuQin]] - paired figure in Sima Guang's later consolation poem.
 - [[PersonalRevengeThroughStatePower]] - concept describing the Qi case's mixture of official machinery and alleged private resentment.
 - [[RoyalKinshipScandalAdjudication]] - concept for the royal-house allegations he channels and investigates.
+- [[PowerContingentSocialTies]] - concept explaining why former guests and gift-givers do not become durable support after his fall.
