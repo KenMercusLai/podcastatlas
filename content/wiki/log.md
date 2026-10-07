@@ -31747,7 +31747,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-10-08] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran deterministic and graph-aware lint inline; semantic checks were unavailable because `LLM_MODEL` was not provider-qualified. No lint report was saved.
 
 ## [2026-10-08] ingest | 304-沙特阿拉伯过去十年在进行一场怎样的政治改革？
 
@@ -32059,6 +32059,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？
 
 Added source `zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap`; created [[DongouWesternHan|东瓯]] and [[IncognitoImperialHuntingRisk|微服游猎治理风险]]; and resynthesized [[LiuShengZhongshanKingWesternHan|中山王刘胜]], [[YanZhuWesternHan|严助]], [[HanYanWesternHan|韩嫣]], [[Minyue|闽越]], and [[TigerTallyCommandSystem|虎符调兵制度]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Sheng's complaint reportedly changes royal treatment; Yan Zhu's Dongou relief mission exposes the conflict between genuine imperial intent and missing command credentials; and Wudi's incognito hunt converts private recreation into crop loss, authority-recognition failure, and predictable local resistance. No settled contradiction was adopted. Dongou's ruler name, crowd and migration totals, dates, offices, dialogue, motives, military sequence, hunting geography, token recognition, and compensation remain source-scoped. The broad Han Wudi, talent-recruitment, and show profiles were kept closed because the bounded addition is represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,011 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）
+
+Added source `zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr`; resynthesized [[EmpressChenAjiaoWesternHan|陈阿娇]], [[LiuPiaoWesternHan|馆陶长公主刘嫖]], [[EmpressDowagerWangWesternHan|王太后]], [[EmpressWeiZifuWesternHan|卫子夫]], [[WeiQingHanGeneral|卫青]], and [[GongsunAoWesternHan|公孙敖]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the title promises Shi Fen family culture, but the supplied body instead joins Chen's accession-linked marriage and loss of favor to Wang's advice that a politically insecure Wudi preserve appearances, then adds a new sequence in which Liu Piao's attempted attack on Wei Qing is interrupted by Gongsun Ao and backfires into Wei Qing's palace appointment. No settled contradiction was adopted; the title-body mismatch is explicit. Marriage chronology, childlessness interval, medical spending, self-harm, presentation scene, parentage, offices, seizure and rescue mechanics, promotion causation, star omen, Maoling location, and princely-resentment explanation remain source-scoped. The broad [[HanWudi|汉武帝]] profile was kept closed because the bounded addition is represented in focused pages, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,012 sources across 799 overview paragraphs and nine topics.
 
 ## [2026-10-08] lint | Wiki health check
 

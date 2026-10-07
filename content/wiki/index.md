@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr.md) — 标题称石奋家风，正文实际补出陈阿娇失宠、王太后劝武帝暂避长公主锋芒，以及刘嫖抓捕卫青、公孙敖营救、武帝反向提拔的连续链条；官职、金额、对话与茂陵、诸侯矛盾保留来源边界。
 - [《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？](sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap.md) — 刘胜以宗室受压争取改善待遇，严助主张救援东瓯并在无虎符下征兵，韩嫣引导武帝微服游猎；毁田后的民众围堵则暴露隐匿身份、财产损失与权威识别之间的治理风险。
 - [304-沙特阿拉伯过去十年在进行一场怎样的政治改革？](sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t.md) — 独树不成林把沙特2030愿景解释为同时改造石油租金、性别秩序与宗教共治的威权现代化，并以经济绩效压力和走廊国家战略解释沙特—阿联酋竞争。
 - [Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命](sources/8228694742-944685.md) — 捕蛇者说对话金融技术管理者张肖文，讨论传统企业的成本中心逻辑、受监管部署、流程重构、初级岗位压力、领域知识与有状态职业资本。
