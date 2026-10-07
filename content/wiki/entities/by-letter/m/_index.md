@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12665
+wiki_total_pages: 12667
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2171,6 +2171,9 @@ wiki_pages:
   - key: "Minyue"
     title: "闽越 / Minyue"
     url: "/wiki/entities/minyue/"
+  - key: "MinyueKingYing"
+    title: "闽越王郢 / Ying (Minyue king)"
+    url: "/wiki/entities/minyuekingying/"
   - key: "Mianji"
     title: "面基"
     url: "/wiki/entities/mianji/"

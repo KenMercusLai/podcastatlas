@@ -32016,3 +32016,11 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣
+
+Added source `zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz`; created [[MinyueKingYing|闽越王郢]] and [[YaoKingChouMinyue|越繇王丑]]; and resynthesized [[YuShanDongyueKing|余善]], [[DongyueWesternHan|东越]], [[Minyue|闽越]], [[ZhaoHuNanyue|赵胡]], [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]], and [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Han military pressure induces internal removal of Ying, but the settlement separates Chou's inherited ritual legitimacy from Yu Shan's effective local authority; Nanyue then demonstrates that gratitude, heir service, and selective security reliance can coexist with refusal of personal court attendance. No settled contradiction was adopted. Names, titles, kinship, investiture boundaries, exact military sequence, Zhao Hu's court-service arrangement, and deliberate counterweight intent remain source-scoped. Broad profiles for Han Wudi, Liu An, Wang Hui, Han Anguo, Yan Zhu, Ji An, Nanyue, and Zhao Yingqi were kept closed because the bounded addition is represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,006 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12665
+wiki_total_pages: 12667
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "YueWangWujiang"
     title: "越王无疆 / Yue Wang Wujiang"
     url: "/wiki/entities/yuewangwujiang/"
+  - key: "YaoKingChouMinyue"
+    title: "越繇王丑 / Chou (Minyue royal)"
+    url: "/wiki/entities/yaokingchouminyue/"
   - key: "YunLei"
     title: "运雷"
     url: "/wiki/entities/yunlei/"

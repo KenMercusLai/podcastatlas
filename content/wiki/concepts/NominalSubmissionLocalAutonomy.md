@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
   - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
   - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16
+  - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
 last_updated: 2026-10-08
 ---
 
@@ -20,6 +21,8 @@ Hanji 349-2 illustrates the pattern through [[Nanyue|南越]]. [[ZhaoTuo|赵佗]
 
 The distinction is therefore not a binary between independence and submission. Titles, seals, succession recognition, court attendance, law, and local command can move separately. Symbolic retreat can lower conflict without transferring effective control, while accepting recognition for a queen and heir can deepen imperial leverage without guaranteeing incorporation.
 
+Hanji 256 makes the attendance boundary visible one generation earlier. After Han responds to Minyue's attack, Zhao Hu thanks the emperor, offers Zhao Yingqi for court service, and says he will visit. Nanyue ministers then warn that a personal audience could become detention and loss of the polity, so Zhao Hu stays away. Deference, heir service, and reliance on Han security can therefore coexist with refusal of the ruler's bodily entry into stronger imperial control.
+
 Hanji 351 shows an attempted move beyond that dual order. Zhao Xing and Queen Dowager Jiu request triennial court attendance, removal of border barriers, Han-issued seals for senior officers, Han law, and continued envoy presence, while Zhao Xing retains power to appoint remaining officials. The package targets ritual, movement, office, law, and supervision at once, but Lü Jia's embedded family power means central approval still does not equal settled local control.
 
 Hanji 269-1 adds a Ye Lang variant in which even the initial agreement is openly conditional. Tang Meng's gifts and offer of official appointment obtain acceptance from Duo Tong and the chiefs, yet the source says they comply partly because they expect distance and terrain to prevent full Han possession. Formal acceptance can therefore function as a local risk-management choice while effective authority remains uncertain.
@@ -32,24 +35,25 @@ Hanji 269-1 adds a Ye Lang variant in which even the initial agreement is openly
 - Central recognition of succession can open a later institutional-integration channel while leaving enforcement uncertain.
 - Hidden or retained regalia can preserve a displaced claim without openly asserting it.
 - Gift-backed or office-backed acceptance may be strategically provisional when local actors doubt the center can sustain access and enforcement.
+- A ruler may delegate court exposure to an heir while refusing personal attendance that could make nominal hierarchy materially binding.
 
 ## Evidence
 
 - Dual external and internal order: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] contrasts Zhao Tuo and Zhao Hu's outward royal status with reported internal imperial privileges.
 - Selective compliance: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] says Zhao Yingqi hides the seals and requests succession recognition but refuses Chang'an attendance.
 - Enforcement boundary: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] attributes the refusal to fear of interior-vassal legal constraints.
+- Delegated deference and personal refusal: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Zhao Hu offers Zhao Yingqi for court service but abandons his own visit after ministers warn that he may not return.
 - Attempted convergence: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] shows the next royal party requesting the very attendance, border, seal, and legal controls that Zhao Yingqi had avoided.
 - Conditional frontier agreement: [[zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16|Hanji 269-1]] says Duo Tong and Ye Lang chiefs accept Tang Meng's arrangement while expecting distance and difficult access to preserve effective autonomy.
 
 ## Counterevidence & Qualifications
 
-This is a source-bounded analytical pattern, not proof that Nanyue or Ye Lang and Han were equal sovereign states or that every symbolic act was insincere. The sources' reading of seals, motives, inside agents, gifts, and chiefs' private expectations needs primary textual and material comparison. Hanji 351 records approval of an integration package, not proof that every measure was fully or durably implemented before the coup. Hanji 269-1 records a bargain but not its duration, exact institutional form, or later enforcement. Formal hierarchy can shape succession and diplomacy even when day-to-day control remains local, while terrain and locally embedded power can block the conversion of approval into enforcement.
+This is a source-bounded analytical pattern, not proof that Nanyue or Ye Lang and Han were equal sovereign states or that every symbolic act was insincere. The sources' reading of seals, motives, inside agents, gifts, chiefs' private expectations, and attendance risk needs primary textual and material comparison. Hanji 256 does not settle the exact status of Zhao Yingqi's court service or whether Zhao Hu's proposed trip was sincere before the warning. Hanji 351 records approval of an integration package, not proof that every measure was fully or durably implemented before the coup. Hanji 269-1 records a bargain but not its duration, exact institutional form, or later enforcement. Formal hierarchy can shape succession and diplomacy even when day-to-day control remains local, while terrain and locally embedded power can block the conversion of approval into enforcement.
 
 ## What Changed
 
-- Added Ye Lang's provisional, gift-backed agreement as an early frontier variant.
-- Made distance, terrain, chief consultation, and enforcement expectations explicit components of local autonomy.
-- Distinguished acceptance of an arrangement from belief in the center's ability to sustain it.
+- Added Zhao Hu's delegated court deference and refusal of personal attendance as a Nanyue autonomy boundary.
+- Distinguished gratitude and selective security reliance from acceptance of direct imperial custody.
 
 ## Related Concepts
 
@@ -58,4 +62,5 @@ This is a source-bounded analytical pattern, not proof that Nanyue or Ye Lang an
 - [[YelangStateWesternHan|夜郎]] - supplies a case where rulers accept an arrangement while expecting access limits to preserve autonomy.
 - [[CommodityTraceRouteInference|商品踪迹式路线推断]] - related because route discovery creates an opportunity for intervention without itself creating effective control.
 - [[QueenDowagerJiuNanyue|樛太后]] - royal actor who attempts to convert succession leverage into institutional integration.
+- [[ZhaoHuNanyue|赵胡]] - ruler whose aid request and abandoned audience join dependence to retained autonomy.
 - [[TributeAccessGatekeeping|朝见通道垄断]] - differs by focusing on control over others' access to the imperial center rather than a ruler's own bounded submission.

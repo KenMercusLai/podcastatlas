@@ -62746,9 +62746,9 @@
       "url": "/wiki/entities/dongqianglatehan/"
     },
     "DongyueWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
@@ -62763,9 +62763,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/dongyuewesternhan/"
     },
     "DonnaHaraway": {
@@ -159041,9 +159048,9 @@
       "url": "/wiki/entities/minoxidil/"
     },
     "Minyue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2） [lqq8qhRamfziI5O5IcEsd_UaGWKC].md",
@@ -159058,10 +159065,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/minyue/"
+    },
+    "MinyueKingYing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/minyuekingying/"
     },
     "MiracleOfAmsterdam": {
       "episode_count": 1,
@@ -167660,9 +167690,9 @@
       "url": "/wiki/concepts/nominalofficepracticalpowermismatch/"
     },
     "NominalSubmissionLocalAutonomy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -167684,6 +167714,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
       "updated": "2026-10-08",
@@ -193406,9 +193443,9 @@
       "url": "/wiki/concepts/reclusionauthenticityassessment/"
     },
     "RecognitionBackedFrontierDiplomacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -193437,9 +193474,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
     },
     "RecognitionDrivenWorkplaceConformity": {
@@ -254013,6 +254057,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/yaoguanglatehan/"
     },
+    "YaoKingChouMinyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yaokingchouminyue/"
+    },
     "YaoQiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -255630,9 +255690,9 @@
       "url": "/wiki/entities/yuqiantombandtemple/"
     },
     "YuShanDongyueKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
@@ -255654,9 +255714,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/yushandongyueking/"
     },
     "YuWanrouFunctionalFoodGuest": {
@@ -259607,9 +259674,9 @@
       "url": "/wiki/entities/zhaohedewesternhan/"
     },
     "ZhaoHuNanyue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -259624,6 +259691,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣 [liYRk7LPAMF8GG8cZoglXQxHWPwz].md",
+          "key": "zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
         }
       ],
       "updated": "2026-10-08",

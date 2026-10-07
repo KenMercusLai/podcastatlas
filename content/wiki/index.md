@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣](sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz.md) — 余善在汉军压力下杀闽越王郢并献首止战，汉武帝随后分别承认丑的宗祀合法性与余善的地方实权；赵胡谢汉、送太子而拒绝亲自入朝，又显示臣服、依赖与自治可以并存。
 - [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv.md) — 李广以简化军制、近身观察和士卒拥护维持安全，程不识则用行军、营垒、刁斗与文书构成高负担的常规防备；两军均未遇袭，司马光的核心判断因此保留为“个人奇才可行而不可普遍效法”的制度评估。
 - [《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？](sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d.md) — 以秦汉、罗马、贵霜和安息的欧亚并置提出文明延续与帝国分流问题，并把边缘崛起和制度变革设为比较起点；完整因果被明确留待后续，罗马“消亡”等说法保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt.md) — 公孙卿借柏梁台火灾推动甘泉迁驻与建章宫营建，太液池仙岛和承露铜人把求仙变成工程支出；缪忌又以神阶和古制把太一推入国家祭祀，具体年代、规模与效验保留来源边界。
@@ -4275,7 +4276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [司马谈 / Sima Tan (Western Han)](entities/SimaTanWesternHan.md) — 司马迁之父与太史令，其名字影响《史记》避讳异文，并在本期被列为甘泉太一三年一祭建议者。
 - [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。
 - [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
-- [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 承接赵佗并据节目所述保留“南越武帝”印玺、另制“南越文帝”印玺的南越第二代国王。
+- [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 兼具内部帝号象征与对汉安全依赖、事后谢汉并送太子入侍，却因担忧失国而拒绝亲自朝见的南越第二代国王。
 - [赵兴 / Zhao Xing (Nanyue)](entities/ZhaoXingNanyue.md) — 倾向随母亲樛太后归附汉朝，却未能压制吕嘉并在政变中被杀、由赵建德取代的南越第四代国王。
 - [樛太后 / Queen Dowager Jiu (Nanyue)](entities/QueenDowagerJiuNanyue.md) — 支持南越归汉、试图推动宴席除去吕嘉，后被吕嘉以汉人出身和使者关系攻击并杀害的王太后。
 - [赵建德 / Zhao Jiande (Nanyue)](entities/ZhaoJiandeNanyue.md) — 吕嘉杀赵兴母子后拥立、番禺防守崩溃时与吕嘉逃海并被捕的南越末期国王。
@@ -4291,11 +4292,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matt Mahan](entities/MattMahan.md) — San Jose mayor and California gubernatorial candidate advocating outcome-based budgeting, housing supply, basic services, and pragmatic Democratic reform.
 - [San Jose, California](entities/SanJoseCalifornia.md) — Municipal proof point in Mahan's campaign for dashboards, lower-cost shelter, faster housing approvals, and performance accountability.
 - [IREN](entities/IREN.md) — Energy and data-center operator shifting part of its Bitcoin-mining infrastructure toward AI compute while emphasizing power, construction, labor, and latency.
-- [东越 / Dongyue (Western Han)](entities/DongyueWesternHan.md) — 余善统治下遭汉军进攻、内部倒戈、杀王投降与人口迁出的东南越系政权。
+- [东越 / Dongyue (Western Han)](entities/DongyueWesternHan.md) — 由余善在闽越继承危机中凭地方实权获汉承认，后因骑墙、叛乱、内部倒戈、杀王投降与人口迁出而覆亡的东南越系政权。
+- [闽越王郢 / Ying (Minyue king)](entities/MinyueKingYing.md) — 攻击南越而招致汉军南下，最终被弟余善杀死献首、以个人死亡替代全面入侵的闽越王。
+- [越繇王丑 / Chou (Minyue royal)](entities/YaoKingChouMinyue.md) — 郢死后以未涉罪的后裔身份获汉册认、承续宗祀，却无法排除余善地方实权的越繇王。
 - [吴阳 / Wu Yang (Yue marquis)](entities/WuYangYueMarquis.md) — 汉军压境时率七百人倒向汉方、预示东越内部瓦解的越系侯者。
 - [建成侯敖 / Ao, Marquis of Jiancheng](entities/JianchengHouAo.md) — 与繇王居股合谋杀余善、率众投降并获汉廷奖赏的东越内部行动者。
 - [繇王居股 / Jugu (Dongyue royal insider)](entities/JuguDongyueKing.md) — 与建成侯敖共同杀余善并投降、被纳入汉廷封赏的东越王族人物。
-- [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨，最终在外部压力与内部倒戈中被敖、居股杀死的东越王。
+- [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 先在汉军压力下杀兄止战并凭地方实权获封东越王，后因骑墙、杀汉官与自立帝号触发征讨，最终被内部倒戈者杀死。
 - [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — 兼具草原路线向导、地理报告、外交网络开拓、军事迟援受罚与中央调查角色的西汉使者。
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
 - [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
@@ -9643,7 +9646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [骊山 / Lishan](entities/Lishan.md) — Mountain reached by Qinji 121's Xianyang-area road-and-palace construction, linked to Qin Shi Huang's cosmic capital layout.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
-- [闽越 / Minyue](entities/Minyue.md) — 从刘邦册封无诸的建国承认，延伸到东越败亡后人口迁往江淮的东南越系政区。
+- [闽越 / Minyue](entities/Minyue.md) — 从刘邦册封无诸，经郢被杀及丑、余善分获承认，延伸到东越败亡后人口迁往江淮的东南越系政区。
 - [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery from Qin's southeastern expansion through Xiang takeover, Xu Sheng's Hanji 903 uprising, and Sun Ce's late-Han local base/title frame.
 - [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
@@ -16940,7 +16943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passive Radiative Cooling Coatings](concepts/PassiveRadiativeCoolingCoatings.md) — Highly reflective materials that reject solar energy and reduce surface heat without powered refrigeration.
 - [Colonial Atrocity Witnessing](concepts/ColonialAtrocityWitnessing.md) — Preservation and public transmission of evidence by witnesses rejecting abuses committed by their own side.
 - [贞节荣誉的性别化强制 / Gendered Chastity Honor Coercion](concepts/GenderedChastityHonorCoercion.md) — 将女性的守寡、自伤、毁容或死亡转化为贞节荣誉，因而可能遮蔽并正当化极端个人代价。
-- [名义臣服与地方实权并存 / Nominal Submission with Local Autonomy](concepts/NominalSubmissionLocalAutonomy.md) — 地方统治者接受名号、册认等象征性等级安排，却通过回避朝见与中央法令继续维持实际自主的政治结构。
+- [名义臣服与地方实权并存 / Nominal Submission with Local Autonomy](concepts/NominalSubmissionLocalAutonomy.md) — 地方统治者接受名号、册认、援助与子嗣入侍，却通过拒绝亲自朝见及回避中央法令继续维持实际自主的政治结构。
 - [酎金夺爵 / Zhoujin Title Forfeiture](concepts/ZhoujinForfeiture.md) — 以宗庙贡金重量和成色不合格为“不敬”依据削夺106名列侯爵位，并被节目解释为南越动员失败后的礼制化政治惩罚。
 - [楼船水师作战 / Tower-Ship Waterborne Warfare](concepts/TowerShipWaterborneWarfare.md) — 西汉南越战役中以大型楼船、专门水上兵力和多路会师构成的水陆协同作战分支，不等同于现代海军制度。
 - [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。
@@ -20860,7 +20863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies former enemy service as loyalty, while still judging dereliction, force, and usable merit.
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, repair, frontier recognition, ritual, and dynastic founding.
 - [边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff](concepts/FrontierRecognitionCredibilityTradeoff.md) — Eastern Han frontier pattern where rejecting, rewarding, wording, trading, visiting, ritualizing, or recognizing one frontier actor can protect or damage prior commitments, neighboring relations, hierarchy, and public finances.
-- [Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交](concepts/RecognitionBackedFrontierDiplomacy.md) — Pattern where formal title recognition and credible alternatives make submission or restored vassal rule safer than frontier resistance or outside alignment.
+- [Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交](concepts/RecognitionBackedFrontierDiplomacy.md) — Pattern where force-backed title recognition makes submission cheaper and can divide inherited ritual legitimacy from effective local authority when renewed conquest is too costly.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
 - [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Leadership that integrates distinct advisers, commanders, resources, and accountability rather than requiring one person to embody every specialty.
 - [敌意封国安置 / Hostile-Territory Royal Containment](concepts/HostileTerritoryRoyalContainment.md) — Han Xin's relocation from Qi to Chu as both royal reward and exposure to a politically hostile jurisdiction, with personal-security adaptation.

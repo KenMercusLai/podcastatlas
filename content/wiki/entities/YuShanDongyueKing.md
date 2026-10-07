@@ -7,16 +7,21 @@ sources:
   - zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm
   - zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k
   - zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-余善 / Yu Shan is the Dongyue ruler whose attempt to preserve options between Western Han and [[Nanyue|南越]] becomes visible nonperformance, open rebellion, and an imperial title claim before his rule ends through internal killing and surrender under Han pressure.
+余善 / Yu Shan is the Minyue royal who kills his brother [[MinyueKingYing|闽越王郢]] under Han invasion pressure, converts local following into a recognized Dongyue kingship beside [[YaoKingChouMinyue|越繇王丑]], and later loses that order after failed two-sided alignment, rebellion, and internal killing.
 
 ## Current Profile
 
-Hanji 355 supplies the missing origin of the break. Yu Shan volunteers eight thousand troops to join [[YangPuWesternHan|楼船将军杨仆]] against Nanyue, reaches [[Jieyang|揭阳]], then stops while secretly maintaining contact with Nanyue. When Panyu falls without his arrival, Yang Pu requests permission to attack him. [[HanWudi|汉武帝]] initially refuses because the army is tired, but Yu Shan later blocks routes, attacks Han positions, kills three colonels, and claims imperial status. His effort to keep both options open therefore creates the evidence and fear that eliminate the middle position.
+Hanji 256 supplies the origin of Yu Shan's rule. When Ying's attack on [[Nanyue|南越]] brings a Han expedition toward [[Minyue|闽越]], Yu Shan and other elites decide that removing the responsible ruler may preserve the polity. Yu Shan kills his elder brother and sends the head to [[WangHuiWesternHan|王恢]], after which Han troops withdraw.
+
+That act does not initially give him the whole succession. [[HanWudi|汉武帝]] first recognizes Ying's uninvolved descendant Chou to continue ancestral sacrifice. Yu Shan nevertheless attracts enough local support to rule in practice, and Wudi decides that another expedition would cost more than accommodating the existing balance. He therefore recognizes Yu Shan as Dongyue king alongside Chou. The settlement joins coercive pressure, internal regime change, inherited ritual legitimacy, and effective local power without fully merging them.
+
+Hanji 355 supplies the later break. Yu Shan volunteers eight thousand troops to join [[YangPuWesternHan|楼船将军杨仆]] against Nanyue, reaches [[Jieyang|揭阳]], then stops while secretly maintaining contact with Nanyue. When Panyu falls without his arrival, Yang Pu requests permission to attack him. Wudi initially refuses because the army is tired, but Yu Shan later blocks routes, attacks Han positions, kills three colonels, and claims imperial status. His effort to keep both options open therefore creates the evidence and fear that eliminate the middle position.
 
 Hanji 356-1 resumes with Yu Shan as the rebel target and a multi-route force that includes Yang Pu. That source ends at mobilization and does not establish his fate.
 
@@ -24,15 +29,17 @@ Hanji 356-2 supplies the outcome. Yu Shan is presented as cunning and already oc
 
 ## Key Characteristics
 
-- Dongyue ruler who first offers military support to Han while secretly retaining a Nanyue channel.
+- Minyue royal who kills his elder brother to end an approaching Han punitive campaign.
+- Locally powerful actor recognized as Dongyue king alongside an inherited ritual successor.
+- Later ruler who offers military support to Han while secretly retaining a Nanyue channel.
 - Two-sided strategist whose nonarrival after Panyu's fall makes his ambiguity legible as disloyalty.
 - Challenger who blocks Han routes, kills officials, and adopts an imperial title.
-- Campaign target of a multi-route Han mobilization that includes Yang Pu.
-- Ruler whose difficult terrain does not prevent internal defections under outside pressure.
 - Killed by Dongyue insiders who then surrender to Han.
 
 ## Evidence
 
+- Accession through internal killing: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Yu Shan kills Ying, offers the head to Han, and ends the immediate advance.
+- Dual recognition settlement: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Chou receives inherited ritual status first, but Yu Shan's following leads Han Wudi to recognize his effective power as Dongyue king.
 - Failed dual alignment: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says Yu Shan volunteers troops, stops at Jieyang, secretly contacts Nanyue, and never reaches the campaign before Panyu falls.
 - Rebellion and title claim: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says he blocks routes, kills Han officers, and claims imperial status; [[zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm|Hanji 356-1]] carries those acts into the campaign rationale.
 - Campaign response: [[zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm|Hanji 356-1]] places him against forces dispatched by Han Wudi from several routes.
@@ -42,16 +49,19 @@ Hanji 356-2 supplies the outcome. Yu Shan is presented as cunning and already oc
 
 ## Qualifications
 
-The supplied transcripts corrupt the name, using “于善” or “洛于善”; this page preserves the established 余善 identity. The sources do not provide a full accession, family, or administrative biography. Hanji 355's force total, covert-contact mechanics, exact title, and causal path from fear to rebellion remain source-scoped. Hanji 356-2's claim that he killed an elder brother and its descriptions of his cunning are likewise attributed.
+The supplied transcripts corrupt the name, using “于善” or “洛于善”; this page preserves the established 余善 identity. Hanji 256 makes the elder-brother killing and accession sequence more explicit than Hanji 356-2, but exact kinship, dialogue, weapon, investiture wording, boundaries between Minyue and Dongyue, and deliberate counterweight intent remain source-scoped. The sources do not provide a full family or administrative biography. Hanji 355's force total, covert-contact mechanics, exact title, and causal path from fear to rebellion likewise remain source-scoped.
 
 ## What Changed
 
-- Added the pre-rebellion sequence in which promised aid, nonarrival, and covert Nanyue contact turn ambiguity into exposure.
-- Connected Yang Pu's warning and Han Wudi's initial refusal to Yu Shan's later attacks and title claim.
+- Added Yu Shan's accession through the killing of Ying under Han pressure.
+- Distinguished Chou's inherited ritual legitimacy from Yu Shan's effective local power in the dual recognition settlement.
+- Extended Yu Shan's arc from coercively recognized ruler to failed fence-sitter, rebel, and victim of a later internal killing.
 
 ## Relationships
 
 - [[HanWudi|汉武帝]] - imperial opponent who orders the multi-route campaign.
+- [[MinyueKingYing|闽越王郢]] - elder brother whom Yu Shan kills to end the first Han advance.
+- [[YaoKingChouMinyue|越繇王丑]] - inherited ritual successor recognized alongside Yu Shan.
 - [[YangPuWesternHan|杨仆]] - commander redeployed against Yu Shan as a route to renewed merit.
 - [[Minyue|闽越]] - broader southeastern Yue political setting related to Dongyue.
 - [[WesternHanDynasty|西汉]] - imperial order Yu Shan challenges.

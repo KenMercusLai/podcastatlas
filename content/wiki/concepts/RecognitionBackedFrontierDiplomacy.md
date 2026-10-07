@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh
   - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
   - zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Hanji 185 completes that mission by showing Zhao Tuo submit without losing local
 
 Hanji 839 extends the concept from first incorporation to post-rebellion restoration. In [[CheshiHouKingdomLateHan|车师后王国]], [[AluoduoCheshiLateHan|阿罗多]] rebels, harms Han屯田 forces, flees to the [[Xiongnu|北匈奴]], returns, and still has local support. [[YanXiangCheshiLateHan|阎祥]] restores him after surrender because excluding him may invite Northern Xiongnu intervention. Recognition here does not reward rebellion as virtue; it contains a worse frontier cascade by converting Aluoduo's remaining local legitimacy into a Han-recognized settlement.
 
+Hanji 256 adds a divided-recognition variant after coercion has already changed the local regime. A Han expedition induces [[YuShanDongyueKing|余善]] and other Minyue elites to kill [[MinyueKingYing|闽越王郢]]. Han Wudi first recognizes [[YaoKingChouMinyue|越繇王丑]] for inherited ritual continuity, then recognizes Yu Shan as Dongyue king because Yu Shan's following makes Chou's sole rule impractical and renewed war would cost more. Recognition can therefore distribute legitimacy across lineage and effective power rather than insist on one fully controllable ruler.
+
 ## Key Claims
 
 - Formal recognition can function as pressure when backed by credible force, family leverage, or outside-threat management.
@@ -30,8 +33,8 @@ Hanji 839 extends the concept from first incorporation to post-rebellion restora
 - Envoy rhetoric matters because it turns identity, kinship, honor, fear, and advantage into reasons to accept recognition.
 - Recognition settlements preserve local dignity enough that submission can be chosen without total public humiliation.
 - Title-making can be more diplomatic than administrative when effective local control remains uncertain.
+- Recognition can divide inherited ritual legitimacy from effective local authority when neither can be ignored cheaply.
 - A rebel frontier king may be restored when replacement would push local support toward an outside power.
-- The concept is narrower than general concession because it requires a title-recognition package and a frontier or outside polity.
 
 ## Evidence
 
@@ -41,16 +44,16 @@ Hanji 839 extends the concept from first incorporation to post-rebellion restora
 - Nominal boundary condition: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] says a South Sea kingship note after Zhao Tuo may be more diplomatic or virtual than immediate administrative control.
 - Cheshi restoration variant: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Yan Xiang restores Aluoduo as Cheshi Hou king after surrender to avoid wider Northern Xiongnu involvement.
 - Local-support constraint: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo returns and still has support inside his kingdom, making simple replacement by the hostage prince Beijun less stabilizing.
+- Divided Minyue-Dongyue settlement: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Han first recognizes Chou's inherited ritual claim and then Yu Shan's effective local power rather than pay for another expedition.
 
 ## Counterevidence & Qualifications
 
-Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. The concept should not be used for any concession; it applies when formal recognition organizes a frontier ruler's status inside a hierarchy and makes submission preferable to resistance, exile, or outside alignment.
+Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. Hanji 256 likewise does not prove that Han designed a stable constitutional counterweight or controlled either recognized ruler's daily government. The concept should not be used for any concession; it applies when formal recognition organizes frontier status inside a hierarchy and makes settlement cheaper than resistance, exile, outside alignment, or renewed invasion.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1.
-- Added Hanji 839's Cheshi case as a post-rebellion restoration variant.
-- Broadened the concept from early Western Han Nanyue incorporation to frontier stabilization after a dependent ruler defects and returns.
+- Added a divided-recognition variant that separates Chou's inherited ritual legitimacy from Yu Shan's effective local power.
+- Extended the cost logic from first incorporation and restoration to settlement after coercion-induced regime change.
 
 ## Related Concepts
 
@@ -59,6 +62,7 @@ Recognition is not proof of moral approval or full control. Zhao Tuo remains loc
 - [[SmallStateBufferDiplomacy|小国缓冲外交]] - related frontier logic when a smaller polity's alignment shapes larger security.
 - [[HostageDiplomacyRupture|质子外交破裂]] - contrast and supplement because hostage prince Beijun is available but not chosen as the stabilizing solution.
 - [[FrontierVassalContainment|边境迁封式牵制]] - adjacent use of frontier status to manage risk through placement rather than direct removal.
+- [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]] - enforcement boundary because recognized hierarchy need not transfer effective local control.
 - [[CheshiHouKingdomLateHan|车师后王国]] - late-Han polity that extends the concept through restoration after rebellion.
 - [[AluoduoCheshiLateHan|阿罗多]] - rebel king whose remaining local support makes recognition useful.
 - [[YanXiangCheshiLateHan|阎祥]] - official who executes the restoration settlement.
