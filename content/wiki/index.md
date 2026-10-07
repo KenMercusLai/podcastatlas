@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞](sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n.md) — 纸醉金迷FM以百花羞的现世同意反驳前世情缘、婚姻与家庭名分，并把救援写成公开价值、制度护短和程序反制的共同检验。
 - [109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难](sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9.md) — 纸醉金迷FM以祭坛活人牺牲难题区分自我牺牲与替他人决定死亡，并把年龄、伤势、养育之恩和抽签公平置于必要性与同意的前提下审视。
 - [110 《武林外传》：小赌怡情？最好的戒赌宣传片](sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb.md) — 纸醉金迷FM借白展堂从小彩头到押上性命的升级过程，区分游戏计分与可兑现赌注，并把法律、动物实验和临床判断保留为未核实的节目观点。
 - [111 全方位解析《天龙八部》之少室山大战](sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t.md) — 纸醉金迷FM把少室山大战定位为《天龙八部》人物线、对手与结局线索的汇合点；所供文本仅为三分钟开场，尚不能支撑其预告的详细分析。
@@ -3979,6 +3980,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [《太白金星有点烦》](entities/TaibaiJinxingYouDianFan.md) — 马伯庸以天庭部门、排班、公文和关系网重写取经工程，并在宝象国篇检验同意、救援与制度责任。
 - [白展堂 / Bai Zhantang](entities/BaiZhantang.md) — 《武林外传》中以“小赌怡情”合理化参与、不断追损并最终押上性命的角色。
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
@@ -16619,6 +16621,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Coercive Relationship Legitimation / 强迫关系合法化](concepts/CoerciveRelationshipLegitimation.md) — 以爱情、婚姻、命定、家庭或利益叙事掩盖持续拒绝与强迫关系的机制。
+- [Public Values Under Cost / 有代价时的公开价值检验](concepts/PublicValuesUnderCost.md) — 公开道德身份只有在行动带来政治、身体、声誉或组织成本时仍能约束选择，才获得可信度。
+- [Bureaucratic Procedure as Leverage / 官僚程序作为杠杆](concepts/BureaucraticProcedureAsLeverage.md) — 借公文、排班、考勤、管辖和表彰让受保护行为变得可见且产生组织成本的策略。
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
 - [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部笑料，再使其以新的因果、压力、人物或包袱功能返回。
 - [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。

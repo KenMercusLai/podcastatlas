@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9819
+wiki_total_pages: 9822
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2468,6 +2468,9 @@ wiki_pages:
   - key: "PublicUtilityCommissions"
     title: "Public Utility Commissions"
     url: "/wiki/concepts/publicutilitycommissions/"
+  - key: "PublicValuesUnderCost"
+    title: "Public Values Under Cost / 有代价时的公开价值检验"
+    url: "/wiki/concepts/publicvaluesundercost/"
   - key: "PublicVotingElectoralCoercion"
     title: "Public Voting and Electoral Coercion"
     url: "/wiki/concepts/publicvotingelectoralcoercion/"

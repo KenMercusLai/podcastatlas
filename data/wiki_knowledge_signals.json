@@ -29771,6 +29771,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/bureaucraticimpeachmentreview/"
     },
+    "BureaucraticProcedureAsLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/bureaucraticprocedureasleverage/"
+    },
     "BurgundianCourtArt": {
       "episode_count": 2,
       "show_count": 1,
@@ -43565,6 +43581,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/coerciveimplicationcascade/"
+    },
+    "CoerciveRelationshipLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/coerciverelationshiplegitimation/"
     },
     "CoerciveReservationAssimilation": {
       "episode_count": 4,
@@ -145269,9 +145301,9 @@
       "url": "/wiki/entities/mabaoxing/"
     },
     "MaBoyong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -145286,6 +145318,13 @@
           "show": "纸醉金迷FM",
           "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
           "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
+        },
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
         }
       ],
       "updated": "2026-10-07",
@@ -185999,6 +186038,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/publicservicedigitalization/"
     },
+    "PublicValuesUnderCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/publicvaluesundercost/"
+    },
     "PublicVotingElectoralCoercion": {
       "episode_count": 1,
       "show_count": 1,
@@ -219253,6 +219308,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/taisuibelief/"
+    },
+    "TaibaiJinxingYouDianFan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/taibaijinxingyoudianfan/"
     },
     "TainoPeople": {
       "episode_count": 2,
@@ -256015,9 +256086,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -256095,6 +256166,13 @@
           "show": "纸醉金迷FM",
           "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
           "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
+        },
+        {
+          "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
+          "key": "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n",
+          "show": "纸醉金迷FM",
+          "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
+          "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
         }
       ],
       "updated": "2026-10-07",

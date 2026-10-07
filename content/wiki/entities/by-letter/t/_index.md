@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12588
+wiki_total_pages: 12589
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "Taipingjing"
     title: "《太平经》 / Taipingjing"
     url: "/wiki/entities/taipingjing/"
+  - key: "TaibaiJinxingYouDianFan"
+    title: "《太白金星有点烦》"
+    url: "/wiki/entities/taibaijinxingyoudianfan/"
   - key: "TwentyFourViewsOfMountFujiByHokusai"
     title: "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai"
     url: "/wiki/entities/twentyfourviewsofmountfujibyhokusai/"

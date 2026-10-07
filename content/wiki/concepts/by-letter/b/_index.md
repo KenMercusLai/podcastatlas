@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9819
+wiki_total_pages: 9822
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "BureaucraticAbsurdityEscalation"
     title: "Bureaucratic Absurdity Escalation"
     url: "/wiki/concepts/bureaucraticabsurdityescalation/"
+  - key: "BureaucraticProcedureAsLeverage"
+    title: "Bureaucratic Procedure as Leverage / 官僚程序作为杠杆"
+    url: "/wiki/concepts/bureaucraticprocedureasleverage/"
   - key: "BureaucraticRiskAvoidance"
     title: "Bureaucratic Risk Avoidance"
     url: "/wiki/concepts/bureaucraticriskavoidance/"

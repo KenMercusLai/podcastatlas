@@ -31302,3 +31302,11 @@ Added source `109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jita
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞
+
+Added source `108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n`; created [[TaibaiJinxingYouDianFan|《太白金星有点烦》]], [[CoerciveRelationshipLegitimation|强迫关系合法化]], [[PublicValuesUnderCost|有代价时的公开价值检验]], and [[BureaucraticProcedureAsLeverage|官僚程序作为杠杆]]; and resynthesized [[MaBoyong|马伯庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: present consent defeats past-life romance, marriage, family, motherhood, and promised benefit as justifications for confinement; “救苦救难” becomes credible when Guanyin, Xuanzang, and Li Changgeng accept real cost; and routine documents, duty rosters, attendance, and praise expose protected misconduct while also revealing a system more responsive to dereliction and hierarchy than harm to a low-status victim. No settled contradiction was adopted. Character motives, heavenly rules, punishment, child relocation, and the claim that this is the first genuine rescue remain fictional or source-scoped. Broad historical Xuanzang and classic-character pages were kept closed because the episode interprets a modern adaptation rather than supplying biography or a definitive reading of 《西游记》. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,914 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

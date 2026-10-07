@@ -229,6 +229,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "108-the-industrial-revolution-glt2130563458": [
     {
       "key": "history",
@@ -80777,6 +80784,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TaibaiJinxingYouDianFan": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TaigongBingfa": [

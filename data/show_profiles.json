@@ -3097,28 +3097,28 @@
       "earliest_episode_date": "2026-05-29",
       "latest_episode_date": "2026-09-29",
       "latest_episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
-      "source_note_count": 12,
-      "topic_matched_source_note_count": 10,
+      "source_note_count": 13,
+      "topic_matched_source_note_count": 11,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 10
+          "source_note_count": 11
         }
       ],
       "entities": [
         {
-          "key": "ZhangCang",
-          "title": "张苍 / Zhang Cang",
-          "url": "/wiki/entities/zhangcang/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
           "key": "MaBoyong",
           "title": "马伯庸 / Ma Boyong",
           "url": "/wiki/entities/maboyong/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "ZhangCang",
+          "title": "张苍 / Zhang Cang",
+          "url": "/wiki/entities/zhangcang/",
           "kind": "person",
           "episode_count": 2
         }
