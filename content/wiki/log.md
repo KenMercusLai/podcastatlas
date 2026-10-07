@@ -31741,6 +31741,10 @@ Added source `zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-go
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-08] ingest | 《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）
+
+Added source `zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16`; created [[TangMengWesternHan|唐蒙]] and the disambiguated [[YelangKingDuotongWesternHan|夜郎王多同]]; and resynthesized [[ZhaoHuNanyue|赵胡]], [[Nanyue|南越]], [[YelangStateWesternHan|夜郎]], [[CommodityTraceRouteInference|商品踪迹式路线推断]], and [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]] from their complete preserved source inventories before appending the new source once. Core synthesis: 唐蒙把南越所见蜀酱与商人证词转化为夜郎—牂柯水路假说，再用巴蜀资源、礼物、地方兵力和设官方案争取通道；多同与诸酋长的同意以距离和汉朝难以持续控制的判断为前提，因此商品流通、路线可用性、形式归附和有效统治必须分开。No settled contradiction was adopted. “张柯/藏科江”“皇巫左道”等转录、酱的直接路线、河宽、兵力、地域规模、礼物效果、诸酋长心理及和平扩张结论均保留来源边界。Broad [[HanWudi|汉武帝]], [[HanAnguoWesternHan|韩安国]], [[DongyueWesternHan|东越]], and show pages were kept closed because the bounded additions are represented in focused figure, polity, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,981 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -31808,6 +31812,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）
 
 Added source `zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp`; created the disambiguated [[EmpressChenAjiaoWesternHan|陈阿娇]] and [[ChangmenFu|《长门赋》]] profiles; and resynthesized [[LiuPiaoWesternHan|馆陶长公主刘嫖]] and [[PalaceFavorSelfRestraint|宫廷宠幸自持]] from their complete preserved source inventories before appending the new source once. Core synthesis: the episode treats Chen's deposition as an overlap of wugu punishment, a politically useful opportunity to change empress, weak coalition support, and loss of emotional proportion, while Liu Piao's direct access obtains reassurance but not reversal. No settled contradiction was adopted. The title's “独宠女官” topic is absent from the supplied body; Wudi's prior intent, the number implicated, “金屋藏娇,” Chen's culpability and psychology, Liu Piao's distraction, and the commission, attribution, payment, and effect of 《长门赋》 remain source-scoped. Broad [[HanWudi|汉武帝]], [[EmpressWeiZifuWesternHan|卫子夫]], [[ZhangTangWesternHan|张汤]], [[SimaXiangru|司马相如]], and wugu pages were kept closed because the bounded additions are represented in focused figure, work, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,979 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-08] lint | Wiki health check
 

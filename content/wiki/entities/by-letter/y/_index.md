@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12639
+wiki_total_pages: 12641
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "YelangKingXingWesternHan"
     title: "夜郎王兴 / Ye Lang King Xing"
     url: "/wiki/entities/yelangkingxingwesternhan/"
+  - key: "YelangKingDuotongWesternHan"
+    title: "夜郎王多同 / Ye Lang King Duo Tong"
+    url: "/wiki/entities/yelangkingduotongwesternhan/"
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"

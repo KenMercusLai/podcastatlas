@@ -46051,9 +46051,9 @@
       "url": "/wiki/entities/commodityfuturestradingcommission/"
     },
     "CommodityTraceRouteInference": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
@@ -46061,9 +46061,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/commoditytracerouteinference/"
     },
     "CommodityTrapEscape": {
@@ -162779,9 +162786,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "Nanyue": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -162852,9 +162859,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/nanyue/"
     },
     "NapoleonBonaparte": {
@@ -166772,9 +166786,9 @@
       "url": "/wiki/concepts/nominalofficepracticalpowermismatch/"
     },
     "NominalSubmissionLocalAutonomy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -166789,9 +166803,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/nominalsubmissionlocalautonomy/"
     },
     "NominalTitleInflation": {
@@ -223247,6 +223268,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/tangjing/"
     },
+    "TangMengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/tangmengwesternhan/"
+    },
     "TangPengQingThinker": {
       "episode_count": 1,
       "show_count": 1,
@@ -252757,6 +252794,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/yegorgaidar/"
     },
+    "YelangKingDuotongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yelangkingduotongwesternhan/"
+    },
     "YelangKingXingWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -252781,9 +252834,9 @@
       "url": "/wiki/entities/yelangkingxingwesternhan/"
     },
     "YelangStateWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
@@ -252805,9 +252858,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/yelangstatewesternhan/"
     },
     "YellowRiver": {
@@ -258144,9 +258204,9 @@
       "url": "/wiki/entities/zhaohedewesternhan/"
     },
     "ZhaoHuNanyue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -258154,9 +258214,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/zhaohunanyue/"
     },
     "ZhaoHuWesternHan": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）](sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16.md) — 唐蒙由南越所见蜀酱追查夜郎与牂柯水路，把商品流通转化为军事和行政路线方案；多同及诸酋长的归附带有礼物、距离与控制预期下的条件性。
 - [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（1）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf.md) — 补全陈阿娇失宠、依赖楚服、巫蛊调查与废后链条；“相爱若夫妇”与“对食”保留为分层证据，最早案例、术语原义及魅术因果不作定论。
 - [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp.md) — 陈阿娇的巫蛊废后被解释为法律理由、换后机会与联盟弱势的叠加；标题所称“独宠女官”未在正文展开，帝王动机、《长门赋》委托与情感因果保留来源边界。
 - [307-为什么国内很多学术翻译质量这么差？](sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r.md) — 独树不成林与赵雨飞区分文学文气和学术可靠性，并把术语一致、整体思想理解、译者克制与低稿酬、弱评价和有限市场联系起来。
@@ -4048,6 +4049,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [唐蒙 / Tang Meng (Western Han)](entities/TangMengWesternHan.md) — 从南越蜀酱追出夜郎水路，并把商品线索转化为军事通道、地方动员与设官方案的西汉使者。
+- [夜郎王多同 / Ye Lang King Duo Tong](entities/YelangKingDuotongWesternHan.md) — 与唐蒙达成礼物和设官支持下的条件性约定、同时受诸酋长意见与交通控制预期约束的早期夜郎王。
 - [楚服 / Chu Fu (Western Han)](entities/ChuFuWesternHan.md) — 进入陈阿娇信任、传授祭祀与诅咒并被记为“相爱若夫妇”，后在巫蛊调查中被处死的西汉女性方术者。
 - [陈阿娇 / Empress Chen (Western Han)](entities/EmpressChenAjiaoWesternHan.md) — 因巫蛊案被废、缺乏稳固联盟并在长门叙事中成为失宠与情感依附象征的汉武帝早期皇后。
 - [《长门赋》 / Changmen Fu](entities/ChangmenFu.md) — 与陈阿娇长门宫幽居和司马相如委托传统相连、但作者与委托细节仍需文献核验的赋作。

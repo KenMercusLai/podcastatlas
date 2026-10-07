@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12639
+wiki_total_pages: 12641
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1598,6 +1598,9 @@ wiki_pages:
   - key: "TangQiangLateHan"
     title: "唐羌 / Tang Qiang (late Han)"
     url: "/wiki/entities/tangqianglatehan/"
+  - key: "TangMengWesternHan"
+    title: "唐蒙 / Tang Meng (Western Han)"
+    url: "/wiki/entities/tangmengwesternhan/"
   - key: "TangHengLateHan"
     title: "唐衡 / Tang Heng (late Han)"
     url: "/wiki/entities/tanghenglatehan/"

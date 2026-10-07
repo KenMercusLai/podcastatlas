@@ -14,12 +14,13 @@ sources:
   - zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
   - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-南越 / Nanyue is the southern polity built by [[ZhaoTuo|赵佗]] from former Qin Lingnan commanderies. Its current profile runs from recognition-backed submission under [[LiuBang|刘邦]], through a multi-generational order combining formal Han hierarchy with substantial local autonomy, to divided royal and chancellor authority, resistance under [[LyuJiaNanyue|吕嘉]], and conquest by [[HanWudi|汉武帝]].
+南越 / Nanyue is the southern polity built by [[ZhaoTuo|赵佗]] from former Qin Lingnan commanderies. Its current profile runs from recognition-backed submission under [[LiuBang|刘邦]], through a multi-generational order combining formal Han hierarchy with substantial local autonomy and selective security reliance, to divided royal and chancellor authority, resistance under [[LyuJiaNanyue|吕嘉]], and conquest by [[HanWudi|汉武帝]].
 
 ## Current Profile
 
@@ -28,6 +29,8 @@ Hanji 170 first uses Nanyue as an outside destination that a pressured former en
 That settlement is incorporation without direct occupation. Zhao Tuo accepts Han hierarchy and external obligations while retaining a local base. Hanji 191 qualifies the arrangement with a South Sea king notice that may be a nominal carve-out rather than effective removal of Nanhai from his control.
 
 Hanji 349-2 makes the autonomy problem multi-generational. It says conflict under Empress Lü pushes Zhao Tuo to call himself “Nanyue Wudi,” while Emperor Wen later repairs relations and obtains an outward return to royal status. Zhao Tuo and [[ZhaoHuNanyue|赵胡]] nevertheless preserve imperial-style seals internally. [[ZhaoYingqiNanyue|赵婴齐]] hides those seals and commissions none for himself, but he refuses Chang'an attendance for fear of interior-vassal constraints. His petition to recognize [[QueenDowagerJiuNanyue|樛氏]] and [[ZhaoXingNanyue|赵兴]] makes succession another channel of Han influence without yet transferring effective rule.
+
+Hanji 269-1 adds a security and geographic-intelligence layer under Zhao Hu. When Dongyue attacks, Zhao Hu asks Han for aid. After Dongyue's internal collapse, Tang Meng's follow-up mission to Nanyue produces a separate strategic consequence: Shu sauce found there is traced toward Ye Lang and a navigable river corridor. Tang Meng then treats Nanyue's influence over Ye Lang as incomplete and proposes approaching Nanyue from the northwest. The episode thus shows Nanyue simultaneously relying on Han against one threat, exercising influence over a southwestern neighbor, and becoming the object of Han route planning.
 
 Hanji 351 supplies the attempted institutional transition after Zhao Xing succeeds. The king and queen dowager receive a mission including [[AnGuoShaoJiWesternHan|安国少季]] and ask for triennial court attendance, removal of border barriers, Han-issued seals for senior officers, adoption of Han law, and continued envoy presence. Wudi approves while leaving Zhao Xing authority over remaining appointments. The package would narrow autonomy across ritual, movement, office, law, and supervision, but [[LyuJiaNanyue|吕嘉]]'s family network and opposition mean approval is not the same as uncontested implementation.
 
@@ -41,9 +44,9 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 
 ## Key Characteristics
 
-- Southern polity formed from former Qin commandery territory and difficult Lingnan routes.
-- Frontier regime initially incorporated through recognition and deterrent diplomacy rather than direct occupation.
+- Southern polity formed from former Qin commandery territory and difficult Lingnan routes, then initially incorporated through recognition and deterrent diplomacy rather than direct occupation.
 - Multi-generational example of formal Han submission coexisting with local autonomy and internal imperial symbolism.
+- Polity that selectively seeks Han security assistance while maintaining internal imperial-style claims and regional influence.
 - Power-sharing field divided among Zhao royal authority, Lü-family local influence, and a Han-backed but contested institutional-integration program.
 - Polity whose final war begins with an internal coup over closer Han incorporation.
 - Resistance theater where a destroyed vanguard is followed by a much larger multi-route campaign.
@@ -54,6 +57,7 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 - Formation and early recognition: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] and [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] trace consolidation and recognition-backed coercive diplomacy; [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] supplies its earlier outside-option role.
 - Nominal-boundary qualification: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] presents the South Sea kingship as a possibly paper-only carve-out.
 - Dual order and succession leverage: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] traces internal imperial seals, Zhao Yingqi's selective compliance, and recognition of Lady Jiu and Zhao Xing.
+- Security reliance and alternate-route exposure: [[zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16|Hanji 269-1]] says Zhao Hu asks Han for aid against Dongyue and that Tang Meng turns a Shu commodity in Nanyue into a northwestern route hypothesis through Ye Lang.
 - Attempted institutional transition: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] joins court attendance, border access, seals, appointment, Han law, and resident envoys in the royal party's approved integration request.
 - Internal power and campaign routes: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes Zhao-Lü power sharing and a five-route convergence on Panyu.
 - Court rupture and replacement succession: [[zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex|Hanji 352-1]] traces the failed banquet move, Lü Jia's mobilization, the royal killings, and Zhao Jiande's enthronement.
@@ -62,18 +66,20 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 
 ## Qualifications
 
-The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while later resistance does not erase the early settlement's temporary reality. Hanji 349-2's seal interpretation, title chronology, Zhao Yingqi motives, twelve-year cultivation, and “inside agent” framing for Lady Jiu remain source-scoped. Hanji 351 adds an approved institutional package but does not establish its duration or full enforcement; its formal-spy framing, kin totals, and popularity comparison also remain source-scoped. Hanji 352-1's banquet counterfactual and allegations against the queen dowager are interpretive or partisan. Hanji 353-1's Zhao-Lü settlement and Hanji 354's conquest sequence are compact Han-centered retellings rather than a full Nanyue political history. Force totals, routes, battle details, surrender motives, commandery chronology, and local perspectives remain incomplete.
+The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while later resistance does not erase the early settlement's temporary reality. Hanji 269-1's aid request does not establish comprehensive dependence, and the sauce trail does not prove direct Shu-Nanyue trade or a usable military route; Nanyue's reported control over Ye Lang, the river, quantities, and motives remain source-scoped. Hanji 349-2's seal interpretation, title chronology, Zhao Yingqi motives, twelve-year cultivation, and “inside agent” framing for Lady Jiu remain source-scoped. Hanji 351 adds an approved institutional package but does not establish its duration or full enforcement; its formal-spy framing, kin totals, and popularity comparison also remain source-scoped. Hanji 352-1's banquet counterfactual and allegations against the queen dowager are interpretive or partisan. Hanji 353-1's Zhao-Lü settlement and Hanji 354's conquest sequence are compact Han-centered retellings rather than a full Nanyue political history. Force totals, routes, battle details, surrender motives, commandery chronology, and local perspectives remain incomplete.
 
 ## What Changed
 
-- Added the approved court-attendance, border, seal, appointment, law, and resident-envoy integration package.
-- Distinguished imperial approval from durable enforcement in a polity with divided internal authority.
-- Connected the succession opening to the later coup through an intermediate diplomatic and institutional stage.
+- Added Zhao Hu's request for Han aid against Dongyue and the Tang Meng route-intelligence episode.
+- Distinguished selective security reliance from comprehensive political control.
+- Added the asymmetry in which Nanyue influences Ye Lang yet is itself exposed by the trade corridor linking them.
 
 ## Relationships
 
 - [[ZhaoTuo|赵佗]] - founder whose early submission and later internal imperial symbolism define the first dual order.
 - [[ZhaoHuNanyue|赵胡]] - second ruler who reportedly continues the internal seal tradition.
+- [[TangMengWesternHan|唐蒙]] - envoy who converts a Shu commodity found in Nanyue into a proposed northwestern approach.
+- [[YelangStateWesternHan|夜郎]] - southwestern polity influenced by Nanyue but not fully controlled in Tang Meng's report.
 - [[ZhaoYingqiNanyue|赵婴齐]] - third ruler who hides the seals but resists direct court constraint.
 - [[QueenDowagerJiuNanyue|樛太后]] - Han-born queen and later advocate of closer incorporation.
 - [[AnGuoShaoJiWesternHan|安国少季]] - Han envoy whose prior intimate access accompanies the integration mission.
