@@ -34846,6 +34846,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FinancialAstrologyDecisionMaking": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FinancialCareerRisk": [
     {
       "key": "economics",
@@ -61732,6 +61739,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "OfficeForCivilRights": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "OfficeLinkedProfitAccounting": [
     {
       "key": "politics",
@@ -74319,6 +74333,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "SebastienLecornu": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SecondDayMoneyEvolution": [
     {
       "key": "culture",
@@ -84117,6 +84143,18 @@
     }
   ],
   "TitanicDisasterMemory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TitleIX": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -98336,6 +98374,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6": [

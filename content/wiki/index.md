@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Gilets jeunes? France’s school protests](sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057.md) — The Intelligence on widening French school unrest, the procedural and oversight tensions of Title IX after the Cornell Seven case, and the weak evidence behind astrology in Indian finance.
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
 - [《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？](sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh.md) — 推恩令用非嫡长子受封的即时利益推动封国反复分割，但其可执行性依赖文景削藩、七国之乱失败和诸侯行政权先被收回；“无解阳谋”及具体制度细节保留来源边界。
@@ -16705,6 +16706,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public First Action](entities/PublicFirstAction.md) — AI-linked political spending group described as connected to Anthropic and supportive of more regulation.
 - [Alex Bores](entities/AlexBores.md) — New York politician whose AI-regulation record became the focus of opposing AI-linked outside-spending campaigns.
 
+- [Cornell University](entities/CornellUniversity.md) — University case linking a disputed alleged assault to Title IX procedure, sanctions, civil litigation, survey evidence, and external oversight.
+- [Title IX](entities/TitleIX.md) — U.S. education law whose campus sexual-misconduct framework changes through administrative interpretation.
+- [Office for Civil Rights](entities/OfficeForCivilRights.md) — Department of Education unit overseeing federal school and university civil-rights complaints.
+- [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
+
 ## Concepts
 - [社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion](concepts/SocialBaseCollapseVsEliteRebellion.md) — 以民生压力、普遍响应和政府反馈判断底层系统性崩塌，并与缺乏广泛支持的精英或区域叛乱相区别。
 - [历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance](concepts/HistoricalCostPrecedentRemonstrance.md) — 以既往战争的后勤、伤亡、财政、领土收益和民力后果检验当前政策的劝谏方法。
@@ -26634,5 +26640,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Abuse-Detection Privacy Tradeoff](concepts/AIAbuseDetectionPrivacyTradeoff.md) — Tension between contextual misuse detection and limits on provider collection, linkage, retention, and review.
 
 - [AI Industry Super PAC Politics](concepts/AIIndustrySuperPACPolitics.md) — Industry-linked outside-spending networks supporting or opposing candidates according to AI, data-center, and regulatory positions.
+
+- [Campus Sexual-Misconduct Administrative Justice](concepts/CampusSexualMisconductAdministrativeJustice.md) — Framework joining due process, complainant access, institutional sanctions, oversight, and deterrence under Title IX.
+- [Financial Astrology Decision-Making](concepts/FinancialAstrologyDecisionMaking.md) — Use of astrological advice in investment and corporate choices despite weak evidence of predictive value.
 
 ## Syntheses

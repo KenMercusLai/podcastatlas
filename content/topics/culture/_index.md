@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3212
+topic_total_pages: 3215
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5285,6 +5285,9 @@ topic_entities:
   - key: "Odysseus"
     title: "Odysseus"
     url: "/wiki/entities/odysseus/"
+  - key: "OfficeForCivilRights"
+    title: "Office for Civil Rights"
+    url: "/wiki/entities/officeforcivilrights/"
   - key: "Ossian"
     title: "Oisin / Ossian / 鹅相"
     url: "/wiki/entities/ossian/"
@@ -5804,6 +5807,9 @@ topic_entities:
   - key: "Syncopy"
     title: "Syncopy"
     url: "/wiki/entities/syncopy/"
+  - key: "SebastienLecornu"
+    title: "Sébastien Lecornu"
+    url: "/wiki/entities/sebastienlecornu/"
   - key: "TSEliot"
     title: "T. S. Eliot"
     url: "/wiki/entities/tseliot/"
@@ -6071,6 +6077,9 @@ topic_entities:
   - key: "TimUrban"
     title: "Tim Urban"
     url: "/wiki/entities/timurban/"
+  - key: "TitleIX"
+    title: "Title IX"
+    url: "/wiki/entities/titleix/"
   - key: "ToddBoehly"
     title: "Todd Boehly"
     url: "/wiki/entities/toddboehly/"

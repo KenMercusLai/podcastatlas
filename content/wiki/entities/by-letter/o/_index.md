@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 12623
+wiki_total_pages: 12627
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "Oedipus"
     title: "Oedipus / 俄狄浦斯"
     url: "/wiki/entities/oedipus/"
+  - key: "OfficeForCivilRights"
+    title: "Office for Civil Rights"
+    url: "/wiki/entities/officeforcivilrights/"
   - key: "OfficeOfManagementAndBudget"
     title: "Office of Management and Budget / OMB"
     url: "/wiki/entities/officeofmanagementandbudget/"

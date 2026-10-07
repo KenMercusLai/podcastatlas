@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2202
+topic_total_pages: 2204
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1180,6 +1180,9 @@ topic_concepts:
   - key: "FinancialAIAgents"
     title: "Financial AI Agents"
     url: "/wiki/concepts/financialaiagents/"
+  - key: "FinancialAstrologyDecisionMaking"
+    title: "Financial Astrology Decision-Making"
+    url: "/wiki/concepts/financialastrologydecisionmaking/"
   - key: "FinancialCareerRisk"
     title: "Financial Career Risk"
     url: "/wiki/concepts/financialcareerrisk/"
@@ -6210,6 +6213,9 @@ topic_sources:
   - key: "socialradarspod-garrytan-final"
     title: "Garry Tan on Returning to Y Combinator"
     url: "/wiki/sources/socialradarspod-garrytan-final/"
+  - key: "gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057"
+    title: "Gilets jeunes? France’s school protests"
+    url: "/wiki/sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555"
     title: "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"

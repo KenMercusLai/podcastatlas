@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12623
+wiki_total_pages: 12627
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "CorgiAIInsurance"
     title: "Corgi (AI insurance)"
     url: "/wiki/entities/corgiaiinsurance/"
+  - key: "CornellUniversity"
+    title: "Cornell University"
+    url: "/wiki/entities/cornelluniversity/"
   - key: "ColonialMarines"
     title: "Corps of Colonial Marines"
     url: "/wiki/entities/colonialmarines/"

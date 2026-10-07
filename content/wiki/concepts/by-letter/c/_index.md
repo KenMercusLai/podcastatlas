@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9862
+wiki_total_pages: 9864
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "CampusPrankEthics"
     title: "Campus Prank Ethics"
     url: "/wiki/concepts/campusprankethics/"
+  - key: "CampusSexualMisconductAdministrativeJustice"
+    title: "Campus Sexual-Misconduct Administrative Justice"
+    url: "/wiki/concepts/campussexualmisconductadministrativejustice/"
   - key: "CampusSpeechRegulation"
     title: "Campus Speech Regulation"
     url: "/wiki/concepts/campusspeechregulation/"

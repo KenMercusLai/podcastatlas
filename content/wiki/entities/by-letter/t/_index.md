@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12623
+wiki_total_pages: 12627
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "Tiresias"
     title: "Tiresias"
     url: "/wiki/entities/tiresias/"
+  - key: "TitleIX"
+    title: "Title IX"
+    url: "/wiki/entities/titleix/"
   - key: "Titus"
     title: "Titus"
     url: "/wiki/entities/titus/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3170
+topic_total_pages: 3172
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7370,6 +7370,9 @@ topic_entities:
   - key: "Syria"
     title: "Syria"
     url: "/wiki/entities/syria/"
+  - key: "SebastienLecornu"
+    title: "Sébastien Lecornu"
+    url: "/wiki/entities/sebastienlecornu/"
   - key: "TairaNoKiyomori"
     title: "Taira no Kiyomori"
     url: "/wiki/entities/tairanokiyomori/"
@@ -7460,6 +7463,9 @@ topic_entities:
   - key: "TimWalz"
     title: "Tim Walz"
     url: "/wiki/entities/timwalz/"
+  - key: "TitleIX"
+    title: "Title IX"
+    url: "/wiki/entities/titleix/"
   - key: "TlatelolcoMassacre"
     title: "Tlatelolco Massacre / 三文化广场枪击"
     url: "/wiki/entities/tlatelolcomassacre/"

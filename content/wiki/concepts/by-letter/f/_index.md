@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9862
+wiki_total_pages: 9864
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "FinancialAIAgents"
     title: "Financial AI Agents"
     url: "/wiki/concepts/financialaiagents/"
+  - key: "FinancialAstrologyDecisionMaking"
+    title: "Financial Astrology Decision-Making"
+    url: "/wiki/concepts/financialastrologydecisionmaking/"
   - key: "FinancialCareerRisk"
     title: "Financial Career Risk"
     url: "/wiki/concepts/financialcareerrisk/"
