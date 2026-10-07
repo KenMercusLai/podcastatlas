@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬](sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x.md) — 公元前124年汉军以卫青主攻右贤王、右北平军牵制左贤王；现有文本止于敌营撤空与深入追击部署，未覆盖战果或大将军封授。
 - [098 金庸群侠MBTI盘点：侠客也分T、F？J人P人会碰撞出什么？](sources/098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy.md) — 纸醉金迷FM以金庸人物比较T/F与J/P，并把人格标签限定为可争论、依情境、非道德化的文学解释工具。
 - [《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？](sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir.md) — 汲黯以不向卫青折节却赢得请教、又使汉武帝注意冠服与接见礼仪，呈现道德威望如何在无强制权时约束更高权力；人物转录与“怕”的情绪解释保留来源边界。
 - [099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》](sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz.md) — 纸醉金迷FM以伪超自然身份谜案、刺客组织与高手对决分析古龙的气氛、心理战和人物反差，并保留神医配合、武功速成及女性退场的批评。
@@ -3996,6 +3997,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King](entities/GaoqueCampaignWesternHan.md) — 公元前124年卫青主力从高阙方向寻击右贤王、东路牵制左贤王，并在首个敌营撤空后转入补给与追击规划的未完战役前奏。
 - [西汉第一次定襄出击 / First Dingxiang Campaign](entities/FirstDingxiangCampaignWesternHan.md) — 卫青击溃匈奴殿后部队后因单于主力未现而撤回休整、重启侦察的首次元朔六年定襄行动。
 - [李沮 / Li Ju (Western Han)](entities/LiJuWesternHan.md) — 第一次定襄出击中统率强弩部队、为两翼包抄提供来源限定火力支援的西汉将领。
 - [西汉第二次定襄出击 / Second Dingxiang Campaign](entities/SecondDingxiangCampaignWesternHan.md) — 卫青三路搜索中由中军先行接敌并局部取胜、但两翼与单于均未出现的未完成战役环节。
@@ -16650,6 +16652,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [主攻与侧翼牵制 / Main Effort and Flank Containment](concepts/MainEffortFlankContainment.md) — 集中主力攻击选定目标，同时以独立兵力监视、迟滞或威慑可能增援之敌的非对称任务分工。
 - [道德威望约束权力 / Moral Authority Constrains Formal Power](concepts/MoralAuthorityConstrainsFormalPower.md) — 原则一致与可信声誉使正式权力更高者主动守礼、接受地位边界或寻求纠正，但不等于取得强制权或保证政策胜利。
 - [局部胜利与战役态势不确定性 / Local Victory and Campaign Uncertainty](concepts/LocalVictoryCampaignUncertainty.md) — 击败眼前敌军不等于找到主力、掌握友军位置或完成战役目标；胜果须与侦察、目标身份和剩余敌力共同判断。
 - [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲与代际媒介环境共同塑造某一改编版本成为“经典”或默认形象的过程。

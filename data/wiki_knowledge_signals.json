@@ -89001,6 +89001,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/gaode/"
     },
+    "GaoqueCampaignWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬 [lvYrqF_oHXnw2HxbsI8rzjxr3p9x].md",
+          "key": "zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/gaoquecampaignwesternhan/"
+    },
     "GaozhuangHanTomb": {
       "episode_count": 1,
       "show_count": 1,
@@ -147107,6 +147123,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/maifredadapirovano/"
+    },
+    "MainEffortFlankContainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬 [lvYrqF_oHXnw2HxbsI8rzjxr3p9x].md",
+          "key": "zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/maineffortflankcontainment/"
     },
     "MaintainYourBrainTrial": {
       "episode_count": 1,

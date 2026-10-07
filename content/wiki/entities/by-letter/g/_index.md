@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12602
+wiki_total_pages: 12603
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "GeYangPsychologicalAstrologer"
     title: "葛阳 / Ge Yang (psychological astrologer)"
     url: "/wiki/entities/geyangpsychologicalastrologer/"
+  - key: "GaoqueCampaignWesternHan"
+    title: "西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King"
+    url: "/wiki/entities/gaoquecampaignwesternhan/"
   - key: "Guanxia"
     title: "观夏 / Guanxia"
     url: "/wiki/entities/guanxia/"

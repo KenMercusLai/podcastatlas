@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9841
+wiki_total_pages: 9842
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "MedievalGuildApprenticeshipRights"
     title: "中世纪行会学徒权利 / Medieval Guild Apprenticeship Rights"
     url: "/wiki/concepts/medievalguildapprenticeshiprights/"
+  - key: "MainEffortFlankContainment"
+    title: "主攻与侧翼牵制 / Main Effort and Flank Containment"
+    url: "/wiki/concepts/maineffortflankcontainment/"
   - key: "MinisterialDignityProtection"
     title: "九卿体面保护 / Ministerial Dignity Protection"
     url: "/wiki/concepts/ministerialdignityprotection/"
