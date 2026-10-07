@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9851
+wiki_total_pages: 9852
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3245,6 +3245,9 @@ wiki_pages:
   - key: "CowardlySacrificeWitness"
     title: "胆小鬼的献祭 / Cowardly Sacrifice As Witness"
     url: "/wiki/concepts/cowardlysacrificewitness/"
+  - key: "CaptiveEnvoyMissionPersistence"
+    title: "被扣使者的使命延续 / Captive Envoy Mission Persistence"
+    url: "/wiki/concepts/captiveenvoymissionpersistence/"
   - key: "ChenweiEvidentiaryCritique"
     title: "谶纬证据批判 / Chenwei Evidentiary Critique"
     url: "/wiki/concepts/chenweievidentiarycritique/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb.md) — 张骞受命联络月氏，在堂邑父协助下穿越险地却被军臣单于扣留十年；节目以战争人口压力解释其草原成家，本期止于逃至大宛。
 - [《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？](sources/zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh.md) — 以公孙弘的贫寒起点、拜相封侯和任内善终对照汉武帝朝丞相的罢免、治罪与死亡风险，同时保留十三人统计、转录姓名和生存原因的来源边界。
 - [《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法](sources/zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx.md) — 公孙弘禁弓提议在执法不对称、自卫与工具替代质疑中落败；节目并以危险任命、调离中枢和顺应君意解释其政治手腕与善终，但动机和因果保持来源边界。
 - [“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔](sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot.md) — 现场对谈以创业失败、创作愿望、ADHD、搬家、播客视频化和片场劳动说明“折腾”不保证成功，却能在显明成本下保留行动与重启空间。
@@ -4007,6 +4008,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
 
 ## Entities
+- [堂邑父 / Tangyi Fu (Western Han)](entities/TangyiFuWesternHan.md) — 张骞首次西使中的匈奴出身向导与翻译，并以射猎在干粮耗尽后承担临时补给功能。
+- [军臣单于 / Junchan Chanyu](entities/JunchanChanyu.md) — 以敌国使者过境的对等安全逻辑阻止张骞前往月氏，并将使团长期扣留的匈奴统治者。
 - [刘仁诚 / Liu Rencheng](entities/LiuRenchengStandup.md) — 喜剧与表演参与者，以录制等待、古装化妆、幕后劳动、游戏转移和唱歌往事呈现创作的身体与注意成本。
 - [西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King](entities/GaoqueCampaignWesternHan.md) — 公元前124年卫青主力从高阙方向追击右贤王，在首营撤空后依靠向导抵近北方老营并完成夜袭前包围；现有文本仍未进入战斗。
 - [西汉第一次定襄出击 / First Dingxiang Campaign](entities/FirstDingxiangCampaignWesternHan.md) — 卫青击溃匈奴殿后部队后因单于主力未现而撤回休整、重启侦察的首次元朔六年定襄行动。
@@ -16663,6 +16666,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [被扣使者的使命延续 / Captive Envoy Mission Persistence](concepts/CaptiveEnvoyMissionPersistence.md) — 使者在长期强制扣押中通过适应维持生存，并等待可行退出机会而不把适应本身等同于放弃原外交目标。
 - [禁令遵从不对称 / Prohibition Compliance Asymmetry](concepts/ProhibitionComplianceAsymmetry.md) — 禁令可能先移除守法者的正当能力，而高风险行为者继续规避或替代；是否成立取决于执法、替代、合法用途与伤害变化。
 - [任命式间接报复 / Appointment as Indirect Retaliation](concepts/AppointmentAsIndirectRetaliation.md) — 以表面升迁或正当配置增加对手风险、拉远其决策接近度或削弱实权，同时用任命形式保留可否认性。
 - [Costly Life Experimentation / 有成本的持续折腾](concepts/CostlyLifeExperimentation.md) — 在不把努力等同成功的前提下持续尝试新项目、角色、技能或环境，同时保留失败及金钱、身体、注意与关系成本。

@@ -19839,6 +19839,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CaptiveEnvoyMissionPersistence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CapturedRulerLegitimacyContainment": [
     {
       "key": "history",
@@ -49087,6 +49094,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "JunchanChanyu": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JungianArchetypalReading": [
@@ -103752,6 +103766,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb": [
     {
       "key": "politics",
       "label": "Politics",

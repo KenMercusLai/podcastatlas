@@ -15443,6 +15443,10 @@
     "title": "Captive Animal Care Labor / 圈养动物照护劳动",
     "url": "/wiki/concepts/captiveanimalcarelabor/"
   },
+  "CaptiveEnvoyMissionPersistence": {
+    "title": "被扣使者的使命延续 / Captive Envoy Mission Persistence",
+    "url": "/wiki/concepts/captiveenvoymissionpersistence/"
+  },
   "CaptivePrimateSpectacle": {
     "title": "Captive Primate Spectacle",
     "url": "/wiki/concepts/captiveprimatespectacle/"
@@ -45826,6 +45830,10 @@
   "JunWangHou": {
     "title": "君王后 / Jun Wang Hou",
     "url": "/wiki/entities/junwanghou/"
+  },
+  "JunchanChanyu": {
+    "title": "军臣单于 / Junchan Chanyu",
+    "url": "/wiki/entities/junchanchanyu/"
   },
   "JungianArchetypalReading": {
     "title": "Jungian Archetypal Reading / 荣格式原型阅读",
@@ -79379,6 +79387,10 @@
     "title": "汤沐邑 / Tangmu Yi",
     "url": "/wiki/concepts/tangmuyi/"
   },
+  "TangyiFuWesternHan": {
+    "title": "堂邑父 / Tangyi Fu (Western Han)",
+    "url": "/wiki/entities/tangyifuwesternhan/"
+  },
   "TanizakiJunichiro": {
     "title": "谷崎润一郎 / Tanizaki Junichiro",
     "url": "/wiki/entities/tanizakijunichiro/"
@@ -101310,6 +101322,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb": {
+    "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
   },
   "zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh": {
     "title": "《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？",

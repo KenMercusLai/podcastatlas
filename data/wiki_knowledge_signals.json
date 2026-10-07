@@ -33691,6 +33691,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/capitalizedresearchprocess/"
     },
+    "CaptiveEnvoyMissionPersistence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
+          "key": "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/captiveenvoymissionpersistence/"
+    },
     "CaptivePrimateSpectacle": {
       "episode_count": 1,
       "show_count": 1,
@@ -126999,6 +127015,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/junbuyiwesternhan/"
+    },
+    "JunchanChanyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
+          "key": "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/junchanchanyu/"
     },
     "JungianSelfAndEgo": {
       "episode_count": 1,
@@ -221489,6 +221521,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/tanglongcoup/"
     },
+    "TangyiFuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
+          "key": "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/tangyifuwesternhan/"
+    },
     "TanshihuaiXianbei": {
       "episode_count": 5,
       "show_count": 1,
@@ -252569,9 +252617,9 @@
       "url": "/wiki/entities/yuexiayao/"
     },
     "Yuezhi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
@@ -252593,6 +252641,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
+          "key": "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
         }
       ],
       "updated": "2026-09-01",
@@ -254516,9 +254571,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -254568,6 +254623,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
           "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
+          "key": "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
         }
       ],
       "updated": "2026-10-07",

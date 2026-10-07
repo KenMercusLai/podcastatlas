@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12604
+wiki_total_pages: 12606
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "Tudou"
     title: "土豆网 / Tudou"
     url: "/wiki/entities/tudou/"
+  - key: "TangyiFuWesternHan"
+    title: "堂邑父 / Tangyi Fu (Western Han)"
+    url: "/wiki/entities/tangyifuwesternhan/"
   - key: "TataraKatsugoro"
     title: "多多良胜五郎 / Tatara Katsugoro"
     url: "/wiki/entities/tatarakatsugoro/"

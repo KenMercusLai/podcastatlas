@@ -11,14 +11,19 @@ sources:
   - zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb
   - zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z
   - zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you
+  - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-张骞 / Zhang Qian is presented as a Western Han envoy, commander, grassland guide, geographic reporter, and senior court agent whose career joins military route knowledge and punished operational delay to unusually durable diplomatic achievement. The current evidence treats him as a catalyst: captivity-derived terrain knowledge supports an anti-Xiongnu sortie, commodity observation and comparative risk generate a failed southwestern reconnaissance, and later Wusun diplomacy and delegated missions help recurring Western Regions exchange emerge.
+张骞 / Zhang Qian is presented as a Western Han envoy, captive mission survivor, commander, grassland guide, geographic reporter, and senior court agent whose career joins long-delay diplomatic persistence and military route knowledge to unusually durable diplomatic achievement. The current evidence treats him as a catalyst: his first mission survives environmental attrition and ten years of Xiongnu detention before continuing toward Dayuan; captivity-derived terrain knowledge later supports an anti-Xiongnu sortie; commodity observation generates a southwestern reconnaissance; and Wusun diplomacy plus delegated missions help recurring Western Regions exchange emerge.
 
 ## Current Profile
+
+The earliest current mission layer comes from [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]]. Han Wudi seeks an alliance with [[Yuezhi|月氏]] against Xiongnu, and Zhang accepts a journey whose route is unknown, environmentally dangerous, and controlled in part by the intended enemy. The Xiongnu-origin [[TangyiFuWesternHan|堂邑父]] serves as guide, interpreter, and emergency hunter, but the party still loses people and is captured.
+
+[[JunchanChanyu|军臣单于]] refuses transit and the episode attributes ten years of detention, local marriage, and two sons to Zhang before he escapes west and reaches Dayuan. This is evidence for [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]], not a claim that family formation cancels coercion or that arrival in Dayuan completes the Yuezhi objective. The installment ends before the mission outcome and return journey.
 
 The earliest current field-intelligence layer comes from [[zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you|Hanji 296-1]]. It places Zhang as guide in [[WeiQingHanGeneral|卫青]]'s [[FirstDingxiangCampaignWesternHan|first Dingxiang sortie]] and attributes his value to years of Xiongnu captivity, familiarity with grassland geography, and knowledge of water and pasture. The source establishes a route-and-sustainment role but does not show that Zhang located the chanyu or independently designed the operation.
 
@@ -37,14 +42,18 @@ His career also contains distinct military and domestic-authority layers. His ca
 ## Key Characteristics
 
 - Grassland guide and geographic reporter whose route knowledge spans military movement, water and pasture, polity forms, commodity traces, distances, and route danger.
+- Captive envoy who reportedly preserves his mission through ten years of detention, marriage, fatherhood, and delayed escape.
 - Western Regions envoy who turns a Wusun alliance approach into delegated contact across several polities.
 - Route-opening catalyst whose missions are followed by recurring two-way contact and accumulated travel knowledge.
 - Negotiator who combines gifts, ritual demands, marriage offers, and observation of actual state capacity.
 - Trusted representative whose Bowang Hou identity becomes a portable diplomatic credential after his death.
 - Commander punished for delayed support and senior court investigator used inside a vassal kingdom.
-- Predecessor whose achievement is not automatically reproduced when mission screening, supply, and accountability deteriorate.
 
 ## Evidence
+
+First mission and captivity:
+- [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says Zhang accepts the Yuezhi mission, crosses difficult terrain with Tangyi Fu and a large party, is captured by Xiongnu, and remains detained for ten years.
+- [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says Zhang marries, has children, waits until surveillance loosens, escapes, and reaches Dayuan while still pursuing the mission.
 
 Grassland guidance:
 - [[zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you|Hanji 296-1]] assigns Zhang a guide role under Wei Qing and attributes it to captivity-derived knowledge of grassland geography, pasture, and water.
@@ -67,16 +76,21 @@ Military delay and central investigation:
 
 ## Qualifications
 
-This page is bounded to seven short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, offices, reports, dates, or wider legacy. Hanji 296-1's guide appointment, exact route knowledge, water-and-pasture expertise, and operational effect remain episode-attributed. Hanji 306-2's title identifies 身毒 while its body says 渊都/运都; distances, polity descriptions, goods and provenance, route safety, named envoys, reconnaissance design, local motives, and Zhang's reasoning remain episode-attributed, and the presence of goods does not prove a direct road. Hanji 308 does not establish why Zhang and Li Guang became separated. Hanji 341-1's totals, ritual exchange, route branches, timing, motives, and Daxia identification remain source-scoped; Hanji 341-2's route dimensions, mission frequency, travel time, gifts, commandery purpose, and commodity directions do too. Tea, porcelain, and hairpins are not promoted as Han-era exports to Europe, while “凿空,” “彻底打通,” and “带货第一人” remain formation rhetoric. Hanji 342-2 supplies no full investigation file. Hanji 357-1's death date, reach, degree of favor, and routine use of Bowang Hou remain episode-attributed.
+This page is bounded to eight short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, offices, reports, dates, or wider legacy. Hanji 287's party size, route, environmental losses, character description, capture, quoted transit argument, ten-year duration, marriage, two sons, escape sequence, and arrival timing remain episode-attributed; it does not cover the final Yuezhi or return outcome. Hanji 296-1's guide appointment, exact route knowledge, water-and-pasture expertise, and operational effect remain episode-attributed. Hanji 306-2's title identifies 身毒 while its body says 渊都/运都; distances, polity descriptions, goods and provenance, route safety, named envoys, reconnaissance design, local motives, and Zhang's reasoning remain episode-attributed, and the presence of goods does not prove a direct road. Hanji 308 does not establish why Zhang and Li Guang became separated. Hanji 341-1's totals, ritual exchange, route branches, timing, motives, and Daxia identification remain source-scoped; Hanji 341-2's route dimensions, mission frequency, travel time, gifts, commandery purpose, and commodity directions do too. Tea, porcelain, and hairpins are not promoted as Han-era exports to Europe, while “凿空,” “彻底打通,” and “带货第一人” remain formation rhetoric. Hanji 342-2 supplies no full investigation file. Hanji 357-1's death date, reach, degree of favor, and routine use of Bowang Hou remain episode-attributed.
 
 ## What Changed
 
-- Added Zhang Qian's earlier military-guide role based on source-attributed grassland, pasture, and water knowledge.
-- Extended the profile's geographic intelligence from diplomatic reporting into campaign movement and sustainment without claiming he found the chanyu.
+- Added the first mission's environmental risk, Xiongnu capture, ten-year detention, family formation, escape opportunity, and arrival in Dayuan.
+- Distinguished survival and local adaptation under coercion from abandonment of the diplomatic mission.
+- Kept the Yuezhi outcome and return journey open because this installment ends before either is narrated.
 
 ## Relationships
 
 - [[HanWudi|汉武帝]] - ruler who sponsors reconnaissance, western missions, and Zhang's domestic investigation.
+- [[TangyiFuWesternHan|堂邑父]] - Xiongnu-origin guide, interpreter, and hunter on Zhang's first mission.
+- [[JunchanChanyu|军臣单于]] - ruler who blocks the mission's passage and detains its members.
+- [[Yuezhi|月氏]] - intended first-mission ally selected through shared hostility toward Xiongnu.
+- [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]] - pattern separating coerced adaptation from mission abandonment.
 - [[DaxiaWesternHan|大夏]] - polity where commodity observation triggers Zhang's southwestern route inference.
 - [[ShenduWesternHan|身毒]] - intended destination of the unsuccessful southwestern search.
 - [[DianKingdomWesternHan|滇国]] - unintended intelligence gain from that route search.

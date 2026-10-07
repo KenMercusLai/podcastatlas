@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3157
+topic_total_pages: 3160
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4975,6 +4975,9 @@ topic_concepts:
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"
+  - key: "CaptiveEnvoyMissionPersistence"
+    title: "被扣使者的使命延续 / Captive Envoy Mission Persistence"
+    url: "/wiki/concepts/captiveenvoymissionpersistence/"
   - key: "XihaiExileAdministrativeBurden"
     title: "西海郡流放和法令增殖 / Xihai Exile Administrative Burden"
     url: "/wiki/concepts/xihaiexileadministrativeburden/"
@@ -7844,6 +7847,9 @@ topic_entities:
   - key: "JizhouLateHan"
     title: "冀州 / Jizhou (late Han)"
     url: "/wiki/entities/jizhoulatehan/"
+  - key: "JunchanChanyu"
+    title: "军臣单于 / Junchan Chanyu"
+    url: "/wiki/entities/junchanchanyu/"
   - key: "FengLiaoWesternHan"
     title: "冯嫽 / Feng Liao (Western Han)"
     url: "/wiki/entities/fengliaowesternhan/"
@@ -9207,6 +9213,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb"
+    title: "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）"
+    url: "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
   - key: "zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx"
     title: "《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法"
     url: "/wiki/sources/zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx/"

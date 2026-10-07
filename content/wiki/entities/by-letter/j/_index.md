@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12604
+wiki_total_pages: 12606
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "JizhouLateHan"
     title: "冀州 / Jizhou (late Han)"
     url: "/wiki/entities/jizhoulatehan/"
+  - key: "JunchanChanyu"
+    title: "军臣单于 / Junchan Chanyu"
+    url: "/wiki/entities/junchanchanyu/"
   - key: "JunxumiWusun"
     title: "军须靡 / Junxumi"
     url: "/wiki/entities/junxumiwusun/"

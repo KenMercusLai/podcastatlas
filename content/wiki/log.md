@@ -31512,3 +31512,11 @@ Added source `zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingd
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）
+
+Added source `zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb`; created [[TangyiFuWesternHan|堂邑父]], [[JunchanChanyu|军臣单于]], and [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]]; and resynthesized [[ZhangQianWesternHan|张骞]] and [[Yuezhi|月氏]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Zhang's first mission turns shared hostility toward Xiongnu into an attempted Yuezhi alliance, but terrain, scarcity, enemy transit control, and ten years of detention delay rather than erase the mission; family formation under captivity is distinguished from free settlement or mission abandonment. No settled contradiction was adopted. Route details, party size, casualty and captive totals, ten-year family details, demographic explanations, levirate-marriage causality, and Junchan Chanyu's quoted reciprocity argument remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,941 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
