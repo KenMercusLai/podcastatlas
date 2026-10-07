@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr
   - zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y
+  - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu
 last_updated: 2026-10-08
 ---
 
@@ -21,13 +22,15 @@ The formation stage begins with overlapping sources of kin authority. [[EmpressD
 
 The same source shows that balance is informational as well as titular. Tian Fen knows Dou Ying's people and then gathers retainers of his own for advice, intelligence, and action. Competing kin groups are not only named blocs; they include household networks that determine who can see, advise, and execute around the throne.
 
+Patronage succession supplies the transition mechanism. A policy confrontation removes both Dou Ying and Tian Fen, but equal formal punishment does not create equal vulnerability: Tian Fen retains Wang-family access, while Dou Ying's relationship with the senior dowager is already broken. Once Dowager Dou dies, Tian Fen returns as chancellor and promotes retainers while Dou Ying remains outside office. The failed visit, Guan Fu alliance, and land request show the reversal becoming legible first through hospitality and property conflict, before the wedding makes it publicly ritualized. [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]]
+
 [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] shows the later reversal before formal debate. Guests express Tian Fen's rise and Dou Ying's decline through unequal wedding deference. [[GuanFuWesternHan|灌夫]]'s resentment and intoxication produce public abuse, after which Tian Fen invokes the dowager-backed gathering to frame grave disrespect and widen the investigation. Kin power now shapes ritual signals, coercive reach, and case construction.
 
 [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] carries the dispute into court-security accusation, ministerial silence, and direct Wang-family pressure. [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Part 2]] emphasizes unequal protection: Dou Ying has lost Dowager Dou, whereas Tian Fen still has Wang. Once Dou Ying and Guan Fu are destroyed, Tian Fen's apparent victory removes the peer constraint that made him useful to Wudi. Balance here is not a stable constitution but a changing technique whose collapse briefly strengthens one faction and ultimately the sovereign.
 
 ## Key Claims
 
-- Kin factions can cooperate in staffing a new reign before competition turns them into rivals.
+- Kin factions can cooperate in staffing a new reign before patronage succession and unequal recovery turn them into rivals.
 - Family power travels through both formal office and private networks of information, advice, and access.
 - Different sources of authority—seniority, governing experience, and maternal intimacy—can overlap without being equal.
 - Changing factional power becomes visible in ritual deference and practical control over arrest, accusation, and investigation.
@@ -39,6 +42,7 @@ The same source shows that balance is informational as well as titular. Tian Fen
 
 - Formation and joint staffing: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] distinguishes the two dowager channels and places Dou Ying and Tian Fen together in high office.
 - Network transfer: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] joins Tian Fen's knowledge of Dou Ying's circle with later retainer recruitment for advice and intelligence.
+- Patronage succession: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]] connects common removal, unequal continuing protection, post-dowager restoration, hospitality failure, alliance formation, and property conflict.
 - Pre-procedural reversal: [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] contrasts guest deference and shows Tian Fen controlling detention and charge expansion.
 - Deliberative constraint: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] reports security reframing, ministerial equivocation, and Wang's direct pressure.
 - Role-preserving alternative: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] has Han Anguo urge Tian Fen to return authority and rely on imperial restoration.
@@ -47,13 +51,14 @@ The same source shows that balance is informational as well as titular. Tian Fen
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in four connected interpretive podcast episodes. They do not establish that Wudi consciously designed the full sequence, that the Dou and Wang factions had symmetric power, that Dou Ying personally caused Tian Fen's appointment, or that joint office meant harmony. Nor do they prove every guest gesture, charge, ministerial silence, archival failure, or death resulted from factional balance alone. The exact authority of both dowagers, appointment procedure, legal record, household-network membership, and Tian Fen's death require separate historical evaluation. A plausible centralization motive is not evidence that Wudi killed Tian Fen.
+The concept is grounded in five connected interpretive podcast episodes. They do not establish that Wudi consciously designed the full sequence, that the Dou and Wang factions had symmetric power, that Dou Ying personally caused Tian Fen's appointment, that Wang alone restored him, or that joint office meant harmony. Nor do they prove every policy dispute, visit, land request, guest gesture, charge, ministerial silence, archival failure, or death resulted from factional balance alone. The exact authority of both dowagers, appointment procedure, legal record, household-network membership, and Tian Fen's death require separate historical evaluation. A plausible centralization motive is not evidence that Wudi killed Tian Fen.
 
 ## What Changed
 
 - Added the formation stage in which Dou- and Wang-family channels overlap and jointly staff the early Wudi court.
 - Added private network knowledge and retainer information capacity to the concept's institutional mechanics.
 - Reframed the 264-265 conflict as a reversal and collapse of an earlier cooperative arrangement.
+- Added shared punishment but unequal recovery, showing how patronage succession becomes visible through hospitality and property before formal legal escalation.
 
 ## Related Concepts
 

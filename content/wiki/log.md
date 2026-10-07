@@ -31918,3 +31918,11 @@ Added source `zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-y
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（2）
+
+Added source `zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu`; resynthesized [[TianFenWesternHan|田蚡]], [[DouYingWesternHan|窦婴]], [[GuanFuWesternHan|灌夫]], [[EmpressDowagerDouWesternHan|窦太后]], [[EmpressDowagerWangWesternHan|王太后]], and [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Confucian-policy purge and succession between senior dowagers turn Tian Fen and Dou Ying's shared loss of office into unequal political recovery; the failed visit, Dou-Guan alliance, and land request then convert changed patronage into the personal grievance carried into Hanji 264. No settled contradiction was adopted. Exact policy procedure, chronology, appointment causation, dialogue, motives, land terms, and prior rescue claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,994 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

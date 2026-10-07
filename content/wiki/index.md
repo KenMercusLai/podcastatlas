@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7.md) — 以田蚡封地受益解释瓠子决口长期未修，并把王太后亲缘、门客网络与外戚工具角色连成其政治画像；罗马—秦汉比较、治水因果与人格评价保留来源边界。
 - [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（1）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y.md) — 田蚡由窦婴府中不起眼的郎官以低姿态接近窦氏权力网络，又凭王太后亲缘与旧有人脉升任太尉、广招门客；任命因果、私人动机和三方权力强弱保留来源边界。
+- [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（2）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu.md) — 儒学路线风波与窦太后去世使窦婴、田蚡由共同失势走向王太后庇护下的权势逆转；失约宴饮、灌夫结盟和索地争议补齐汉纪264前的恩怨链，具体动机与对话保留来源边界。
 - [《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台](sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p.md) — 田蚡与窦婴的权势逆转在婚宴礼节中显形，灌夫借酒失控把旧怨升级为大不敬案件；窦婴因强邀赴宴而上书营救，直接衔接汉纪 265 的朝廷辩论。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr.md) — 窦婴为灌夫争取罪罚相称，田蚡把争议升级为宫廷安全指控；群臣沉默、王太后施压与韩安国劝丞相退让，显示正式廷议如何受外戚结构约束。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw.md) — 窦婴救灌夫、失效诏书与田蚡胜出被放回王太后支持和外戚制衡崩塌中解释；焚毁宫中副本、亡魂索命及汉武帝杀田蚡均保留来源边界。
