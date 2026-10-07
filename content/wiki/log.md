@@ -31428,3 +31428,11 @@ Added source `099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 098 金庸群侠MBTI盘点：侠客也分T、F？J人P人会碰撞出什么？
+
+Added source `098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy`; created [[FictionalCharacterTypingBoundary|虚构人物类型化边界]]; and resynthesized [[PersonalityTestIdentityBoundary|性格测试身份边界]], [[JinYong|金庸]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: T/F and J/P can organize comparison of recurring character choices, but office, context, changing habits, plot function, mixed motives, and reader disagreement prevent a definitive four-letter identity; planning, feeling, logic, and adaptability carry no intrinsic moral rank. No settled contradiction was adopted. Individual character assignments, the claim that wuxia structurally favors F-coded heroes, MBTI history and validity, and several cold/warm or controlled/impulsive mappings remain source-scoped or interpretive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,930 sources across 798 overview paragraphs and nine topics. Identity, knowledge schema, derived synthesis, whitespace, index coverage, wikilinks, health, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

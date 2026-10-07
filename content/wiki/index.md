@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [098 金庸群侠MBTI盘点：侠客也分T、F？J人P人会碰撞出什么？](sources/098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy.md) — 纸醉金迷FM以金庸人物比较T/F与J/P，并把人格标签限定为可争论、依情境、非道德化的文学解释工具。
 - [《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？](sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir.md) — 汲黯以不向卫青折节却赢得请教、又使汉武帝注意冠服与接见礼仪，呈现道德威望如何在无强制权时约束更高权力；人物转录与“怕”的情绪解释保留来源边界。
 - [099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》](sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz.md) — 纸醉金迷FM以伪超自然身份谜案、刺客组织与高手对决分析古龙的气氛、心理战和人物反差，并保留神医配合、武功速成及女性退场的批评。
 - [100期了！金庸《射雕英雄传》影视改编大盘点](sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk.md) — 纸醉金迷FM按年代梳理《射雕英雄传》影视与舞台改编，以情理逻辑、媒介表达、代际观看记忆和原著留白扩写区分不同版本的成败。
@@ -26552,5 +26553,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tokenized Market Structure](concepts/TokenizedMarketStructure.md) — Settlement, liquidity, trading-hours, leverage, and oversight architecture for ledger-based financial markets.
 - [Crypto-Asset Functional Classification](concepts/CryptoAssetFunctionalClassification.md) — Distinction between a token's function and the fundraising transaction or promises through which it is sold.
 - [Programmable Immune-Cell Engineering](concepts/ProgrammableImmuneCellEngineering.md) — Design-and-test loop joining CRISPR tool choice, delivery, high-throughput perturbation, single-cell measurement, and therapeutic immune-cell behavior.
+- [Fictional-Character Typing Boundary / 虚构人物类型化边界](concepts/FictionalCharacterTypingBoundary.md) — Uses personality typology to compare recurring fictional choices while preserving context, disagreement, moral neutrality, and a non-diagnostic boundary.
 
 ## Syntheses

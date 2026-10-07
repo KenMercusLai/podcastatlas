@@ -22,6 +22,7 @@ sources:
   - 102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4
   - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
+  - 098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -30,7 +31,7 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], an adaptation survey of [[LegendOfTheCondorHeroes|《射雕英雄传》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], an adaptation survey of [[LegendOfTheCondorHeroes|《射雕英雄传》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a Jin Yong MBTI comparison, and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -48,6 +49,8 @@ The two [[LegendOfTheCondorHeroes|《射雕英雄传》]] surveys extend adaptat
 
 The [[JinYong|金庸]] reclusion episode adds comparative typology and modern translation. Instead of treating withdrawal as a scenic ending, the hosts compare chosen and forced retreat, political failure, post-achievement restraint, strategic concealment, and blocked exit, then test each against role attachment, relationship networks, livelihood, and safety. The discussion moves from [[XiaoAoJiangHu|《笑傲江湖》]] and other novels through historical recluses and Confucian, Daoist, and Buddhist frames into workplace refusal. Its strongest synthesis is [[JinYongReclusionFreedom|reclusion as exit capacity]], while its breadth also makes several historical and philosophical claims less systematic than its character comparisons.
 
+The Jin Yong MBTI episode adds a second comparative typology but also demonstrates the show's self-correcting side. T/F and J/P give the hosts a shared vocabulary for contrasting decision priority, planning, and improvisation, while disputed readings of Kangxi and Huang Rong keep the exercise open. Its strongest result is [[FictionalCharacterTypingBoundary]]: patterns across choices can be illuminating, but moral alignment, one dramatic act, office, or emotional intensity cannot establish a definitive type.
+
 ## Key Characteristics
 
 - Uses detailed retelling so listeners can follow interpretation without a recent reading of the work.
@@ -56,7 +59,7 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, adaptation, historical-institutional, film, and television-comedy criticism with practical moral discussion, testing explicit lessons against prior action while keeping evidence limits visible.
+- Mixes literary, adaptation, historical-institutional, film, television-comedy, and popular personality-language criticism while testing explicit lessons and labels against prior action.
 
 ## Evidence
 
@@ -128,6 +131,11 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] compares multiple withdrawal motives, distinguishes spatial retreat from release of organizational and relational dependence, and translates the pattern into a modern capacity to refuse power.
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] uses Linghu Chong, Liu Zhengfeng, Huang Yaoshi, Yang Guo, and other characters to keep successful, incomplete, and blocked exit distinct.
 
+### Personality labels as comparative prompts
+
+- [[098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy]] compares recurring choices across Jin Yong characters while explicitly preserving mixed tendencies, role effects, and disagreement.
+- [[098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy]] separates T/F and J/P from virtue, then exposes its own interpretive risk when some examples drift toward cold/warm or controlled/impulsive stereotypes.
+
 ### Adaptation, misdirection, and children's values
 
 - [[106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw]] combines childhood reading memory, pre-Hogwarts plot reconstruction, institutional setting detail, and comparison of visual invention with temporal compression.
@@ -141,7 +149,7 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 
 ## Qualifications
 
-This profile rests on nineteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, MBTI validity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
@@ -149,6 +157,7 @@ This profile rests on nineteen episode notes and may not represent every format 
 - Made character logic, screen-legible motive, actor embodiment, format duration, and earned climax explicit adaptation criteria.
 - Preserved version and performer rankings as subjective reception rather than converting disagreement into a single verdict.
 - Added generational viewing context, adaptation chronology, and canon-gap expansion to the show's adaptation method.
+- Added personality typing as a comparative reading tool while retaining disagreement and an explicit anti-essentialist boundary.
 
 ## Relationships
 
@@ -199,3 +208,5 @@ This profile rests on nineteen episode notes and may not represent every format 
 - [[AdaptationReceptionMemory]] - framework for first-viewing age, rebroadcast access, songs, and nostalgia in version preference.
 - [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.
 - [[InstitutionalizedFantasyWorldbuilding]] - framework for organizing inherited fantasy motifs into everyday social systems.
+- [[FictionalCharacterTypingBoundary]] - method extracted from the show's qualified use of MBTI across Jin Yong characters.
+- [[PersonalityTestIdentityBoundary]] - neighboring real-person boundary against diagnostic or fixed-identity use of personality labels.

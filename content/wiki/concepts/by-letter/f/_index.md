@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9840
+wiki_total_pages: 9841
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "FictionalHistoriography"
     title: "Fictional Historiography"
     url: "/wiki/concepts/fictionalhistoriography/"
+  - key: "FictionalCharacterTypingBoundary"
+    title: "Fictional-Character Typing Boundary / 虚构人物类型化边界"
+    url: "/wiki/concepts/fictionalcharactertypingboundary/"
   - key: "FiefSecurityIllusion"
     title: "Fief Security Illusion / 封地筑城安全幻觉"
     url: "/wiki/concepts/fiefsecurityillusion/"
