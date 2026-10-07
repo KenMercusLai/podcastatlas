@@ -121937,9 +121937,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -121975,6 +121975,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？ [ljpQUL0y4EP-PYuFaOW-VSqWp9ir].md",
+          "key": "zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir/"
         }
       ],
       "updated": "2026-10-07",
@@ -158222,6 +158229,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/moralaspirationpractice/"
+    },
+    "MoralAuthorityConstrainsFormalPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？ [ljpQUL0y4EP-PYuFaOW-VSqWp9ir].md",
+          "key": "zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/moralauthorityconstrainsformalpower/"
     },
     "MoralBeautyAwe": {
       "episode_count": 1,

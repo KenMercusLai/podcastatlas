@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9835
+wiki_total_pages: 9836
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "MourningDiplomaticRestraint"
     title: "趁丧不伐 / Mourning Diplomatic Restraint"
     url: "/wiki/concepts/mourningdiplomaticrestraint/"
+  - key: "MoralAuthorityConstrainsFormalPower"
+    title: "道德威望约束权力 / Moral Authority Constrains Formal Power"
+    url: "/wiki/concepts/moralauthorityconstrainsformalpower/"
   - key: "MausoleumCountyEliteRelocation"
     title: "陵县式豪强迁徙 / Mausoleum-County Elite Relocation"
     url: "/wiki/concepts/mausoleumcountyeliterelocation/"

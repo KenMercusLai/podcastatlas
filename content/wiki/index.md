@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？](sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir.md) — 汲黯以不向卫青折节却赢得请教、又使汉武帝注意冠服与接见礼仪，呈现道德威望如何在无强制权时约束更高权力；人物转录与“怕”的情绪解释保留来源边界。
 - [100期了！金庸《射雕英雄传》影视改编大盘点](sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk.md) — 纸醉金迷FM按年代梳理《射雕英雄传》影视与舞台改编，以情理逻辑、媒介表达、代际观看记忆和原著留白扩写区分不同版本的成败。
 - [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
 - [《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案](sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql.md) — 刘安在彗星与父辈怨恨叙事下备械积粮；雷被因比剑误伤刘迁、参军受阻而夜逃长安，使私人冲突成为淮南案进入中央视野的前奏。
@@ -16641,6 +16642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [道德威望约束权力 / Moral Authority Constrains Formal Power](concepts/MoralAuthorityConstrainsFormalPower.md) — 原则一致与可信声誉使正式权力更高者主动守礼、接受地位边界或寻求纠正，但不等于取得强制权或保证政策胜利。
 - [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲与代际媒介环境共同塑造某一改编版本成为“经典”或默认形象的过程。
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
 - [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。
