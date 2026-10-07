@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？](sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl.md) — 以郭解调解纠纷、追随者暴力和迁徙后仍存的号召力，呈现游侠社会功能与法外强制的同源性，并对照《史记》与《汉书》的不同评价。
 - [Charles Ponzi's scheme (plus a new scam)](sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476.md) — Planet Money separates Ponzi's plausible postal-coupon spread from his nonexistent operating business and fraudulent payouts, then warns about podcast-journalist impersonators stealing cryptocurrency.
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va.md) — 以欲望递进和财富无常预示主父偃因贪自毁，并借荀悦与司马迁对游侠的不同评价呈现官方秩序和体制外救助的张力。
 - [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr.md) — 崔氏饭朱与严助引荐补全朱买臣入仕转折，朔方之辩和公孙弘承认汲黯批评则展示政策收缩与尊重式降温的两种低姿态。
@@ -4018,6 +4019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
 
 ## Entities
+- [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为汉武帝中央集权风险的西汉游侠与地方强人。
 - [孔臧 / Kong Zang (Western Han)](entities/KongZangWesternHan.md) — 以经学与礼制专长辞御史大夫、求任太常的西汉学者官员，呈现专长与职位功能的匹配。
 - [燕王刘定国 / Liu Dingguo, Yan King (Western Han)](entities/LiuDingguoYanKingWesternHan.md) — 因乱伦与报复杀官指控被命自杀、封国撤除的西汉燕王。
 - [齐厉王 / King Li of Qi (Western Han)](entities/QiLiwangWesternHan.md) — 在主父偃的齐国调查及刑讯取证后服毒自杀的西汉齐王。

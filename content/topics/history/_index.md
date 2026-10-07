@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2594
+topic_total_pages: 2595
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7416,6 +7416,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl"
+    title: "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl/"
   - key: "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va"
     title: "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）"
     url: "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va/"

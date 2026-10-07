@@ -40173,6 +40173,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GuoJieWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GuoJinglong": [
     {
       "key": "history",
@@ -103812,6 +103819,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va": [

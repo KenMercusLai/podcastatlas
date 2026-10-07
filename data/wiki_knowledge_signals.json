@@ -97144,6 +97144,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/guojia/"
     },
+    "GuoJieWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？ [lgvcBfgdmw5qClx5l3Lr2aFIxqgl].md",
+          "key": "zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/guojiewesternhan/"
+    },
     "GuoLanying": {
       "episode_count": 1,
       "show_count": 1,
@@ -99716,9 +99732,9 @@
       "url": "/wiki/entities/hanshaolatehan/"
     },
     "HanShu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧 [lqOmJfeJMgLM9HYlKOmktX6rTBtt].md",
@@ -99733,6 +99749,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
           "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？ [lgvcBfgdmw5qClx5l3Lr2aFIxqgl].md",
+          "key": "zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl/"
         }
       ],
       "updated": "2026-09-10",
@@ -252348,9 +252371,9 @@
       "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
     },
     "YouxiaSuppressionUnderUnification": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
@@ -252372,6 +252395,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？ [lgvcBfgdmw5qClx5l3Lr2aFIxqgl].md",
+          "key": "zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl/"
         }
       ],
       "updated": "2026-10-07",

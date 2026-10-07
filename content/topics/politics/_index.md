@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3161
+topic_total_pages: 3162
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8192,6 +8192,9 @@ topic_entities:
   - key: "GuoShunWesternHan"
     title: "郭舜 / Guo Shun"
     url: "/wiki/entities/guoshunwesternhan/"
+  - key: "GuoJieWesternHan"
+    title: "郭解 / Guo Jie (Western Han)"
+    url: "/wiki/entities/guojiewesternhan/"
   - key: "GenlyAi"
     title: "金利·艾 / Genly Ai"
     url: "/wiki/entities/genlyai/"

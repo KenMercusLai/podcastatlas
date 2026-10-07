@@ -31597,3 +31597,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？
+
+Added source `zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl`; created [[GuoJieWesternHan|郭解]]; and resynthesized [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] and [[HanShu|《汉书》]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Guo Jie's reputation can resolve disputes outside formal institutions, but followers, retaliation, and private coercion make that same capacity a rival source of enforceable order; the episode's Shiji/Han Shu contrast preserves competing judgments rather than resolving him into either hero or criminal archetype. No settled contradiction was adopted. The organized-crime analogy, Maoling mechanics, acts attributable to Guo Jie rather than followers, full primary-text contrast, imperial motive, legal process, Gongsun Hong argument, and clan-punishment scope remain episode-attributed or source-scoped. Broad [[HanWudi|汉武帝]], [[SimaQian|司马迁]], [[GongsunHong|公孙弘]], [[Shiji|《史记》]], and show pages were kept closed because the bounded additions are represented in the focused figure, concept, text, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,952 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
