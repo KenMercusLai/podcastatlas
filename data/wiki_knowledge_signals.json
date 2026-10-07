@@ -49794,9 +49794,9 @@
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
     "CourtIntimacyAsPoliticalResource": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -49825,9 +49825,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
+          "key": "zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/courtintimacyaspoliticalresource/"
     },
     "CourtLegitimacyOverPatronLoyalty": {
@@ -62040,6 +62047,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/dongxuaneasternhan/"
+    },
+    "DongYanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
+          "key": "zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/dongyanwesternhan/"
     },
     "DongYuanLateHan": {
       "episode_count": 1,
@@ -114274,6 +114297,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/imperialachievementcostaccounting/"
     },
+    "ImperialAcknowledgmentInformalStatus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
+          "key": "zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/imperialacknowledgmentinformalstatus/"
+    },
     "ImperialAdventureFiction": {
       "episode_count": 2,
       "show_count": 1,
@@ -139954,6 +139993,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liupirunanlatehan/"
+    },
+    "LiuPiaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
+          "key": "zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liupiaowesternhan/"
     },
     "LiuPingEasternHan": {
       "episode_count": 2,

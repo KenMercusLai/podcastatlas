@@ -25463,6 +25463,10 @@
     "title": "董宣 / Dong Xuan (Eastern Han)",
     "url": "/wiki/entities/dongxuaneasternhan/"
   },
+  "DongYanWesternHan": {
+    "title": "董偃 / Dong Yan (Western Han)",
+    "url": "/wiki/entities/dongyanwesternhan/"
+  },
   "DongYiQin": {
     "title": "董义 / 董翳 / Dong Yi (Qin)",
     "url": "/wiki/entities/dongyiqin/"
@@ -41151,6 +41155,10 @@
     "title": "帝王功业代价核算 / Imperial Achievement Cost Accounting",
     "url": "/wiki/concepts/imperialachievementcostaccounting/"
   },
+  "ImperialAcknowledgmentInformalStatus": {
+    "title": "帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status",
+    "url": "/wiki/concepts/imperialacknowledgmentinformalstatus/"
+  },
   "ImperialAdventureFiction": {
     "title": "Imperial Adventure Fiction",
     "url": "/wiki/concepts/imperialadventurefiction/"
@@ -50362,6 +50370,10 @@
   "LiuPiRunanLateHan": {
     "title": "刘辟 / Liu Pi (Runan late Han)",
     "url": "/wiki/entities/liupirunanlatehan/"
+  },
+  "LiuPiaoWesternHan": {
+    "title": "馆陶长公主刘嫖 / Liu Piao",
+    "url": "/wiki/entities/liupiaowesternhan/"
   },
   "LiuPingEasternHan": {
     "title": "刘平 / Liu Ping (Eastern Han official)",
@@ -101546,6 +101558,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf": {
+    "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf/"
   },
   "zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d": {
     "title": "《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）",

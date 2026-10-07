@@ -31752,3 +31752,11 @@ Added source `646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt813154373
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）
+
+Added source `zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf`; created [[LiuPiaoWesternHan|馆陶长公主刘嫖]], [[DongYanWesternHan|董偃]], and [[ImperialAcknowledgmentInformalStatus|帝王承认与非正式身份]]; and resynthesized [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Liu Piao's wealth, household authority, and imperial kinship first create Dong Yan's private position, while staged submission and Han Wudi's “主人翁” address, clothing grant, shared seating, and drinking privileges make that position publicly recognizable without establishing a regular office or clearly defined legal category. No settled contradiction was adopted. The episode's 刘飘／董衍 spellings are normalized to the transmitted 刘嫖／董偃; formal adoption, the sexual timeline, private motives, ages, inheritance and gift amounts, dialogue, green-headwear symbolism, and the “first princess” claim remain source-scoped. Broad [[HanWudi|汉武帝]], Chen empress, Empress Dou, and show pages were kept closed because the bounded addition is represented in focused figure, mechanism, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,973 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

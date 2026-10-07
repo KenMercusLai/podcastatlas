@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9871
+wiki_total_pages: 9872
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "ImperialTeacherHonorRitual"
     title: "帝王尊师礼制 / Imperial Teacher-Honor Ritual"
     url: "/wiki/concepts/imperialteacherhonorritual/"
+  - key: "ImperialAcknowledgmentInformalStatus"
+    title: "帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status"
+    url: "/wiki/concepts/imperialacknowledgmentinformalstatus/"
   - key: "ImperialHomeCountyTaxExemption"
     title: "帝王故乡免租徭役 / Imperial Home-County Tax Exemption"
     url: "/wiki/concepts/imperialhomecountytaxexemption/"

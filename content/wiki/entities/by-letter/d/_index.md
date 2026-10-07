@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12633
+wiki_total_pages: 12635
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1553,6 +1553,9 @@ wiki_pages:
   - key: "DongZuobin"
     title: "董作斌"
     url: "/wiki/entities/dongzuobin/"
+  - key: "DongYanWesternHan"
+    title: "董偃 / Dong Yan (Western Han)"
+    url: "/wiki/entities/dongyanwesternhan/"
   - key: "DongYuanLateHan"
     title: "董元 / Dong Yuan (late Han)"
     url: "/wiki/entities/dongyuanlatehan/"

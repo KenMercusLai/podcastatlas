@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf.md) — 馆陶长公主刘嫖以财富和宗室通道扶持董偃，汉武帝又以“主人翁”、赐衣冠与同席饮酒把私下伴侣转成公开可识别的身份；姓名、收养、性关系及“第一人”判断保留来源边界。
 - [Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray](sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341.md) — Huberman Lab interview on circulating aging factors, organ clocks, exercise-conditioned blood, cerebrospinal fluid, and human-translation limits.
 - [VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？](sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4.md) — 这病说来话长以宝姐乳腺异常就医、术后恢复和家庭照护为线索，呈现阿福在提问、报告解释和日常支持中的低门槛价值，同时保留医生、120与亲属陪伴的不可替代边界。
 - [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（1）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-1-lj6mkkcbwrfznzqpkwtkzigirotg.md) — 补齐274止于战前的龙城战果：卫青以纵深机动、弃辎加速和突袭成为四路中唯一获胜者；兵力斩获、春季窗口、平型关类比与攻守逆转均保留来源边界。
@@ -4040,6 +4041,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [馆陶长公主刘嫖 / Liu Piao](entities/LiuPiaoWesternHan.md) — Western Han princess who uses kinship, wealth, household patronage, and ritual submission to obtain public recognition for Dong Yan.
+- [董偃 / Dong Yan (Western Han)](entities/DongYanWesternHan.md) — Young household dependent and intimate companion whose status becomes court-visible through Han Wudi's acknowledgment.
 - [Tony Wyss-Coray](entities/TonyWyssCoray.md) — Neuroscientist studying circulating factors, proteomic clocks, and the translation boundary between animal rejuvenation and human healthspan.
 - [Vero Biosciences](entities/VeroBiosciences.md) — Company presented as combining organ-age signatures with clinical and wearable data in an iterative prevention workflow.
 - [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
@@ -16727,6 +16730,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status](concepts/ImperialAcknowledgmentInformalStatus.md) — A ruler's public naming, dress, seating, and hospitality make an ambiguous private relationship socially legible without creating a regular office.
 - [Circulating-Factor Aging Biology](concepts/CirculatingFactorAgingBiology.md) — Framework separating causal animal fluid-transfer evidence from human anti-aging treatment claims.
 - [Exercise-Conditioned Blood Signaling](concepts/ExerciseConditionedBloodSignaling.md) — Preclinical model in which exercise-altered circulating molecules transmit part of exercise's effects to recipient tissues.
 - [战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough](concepts/OperationalSurprisePsychologicalBreakthrough.md) — 区分制造局部突然性的行动机制、改变可胜预期的心理效应，以及不能由单次胜利直接推出的战略逆转。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12633
+wiki_total_pages: 12635
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2528,6 +2528,9 @@ wiki_pages:
   - key: "LinghangzheRecoveryShip"
     title: "领航者号 Recovery Ship"
     url: "/wiki/entities/linghangzherecoveryship/"
+  - key: "LiuPiaoWesternHan"
+    title: "馆陶长公主刘嫖 / Liu Piao"
+    url: "/wiki/entities/liupiaowesternhan/"
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"

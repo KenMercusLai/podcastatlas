@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr
   - zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt
   - zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -23,6 +24,8 @@ Intimacy matters politically through several distinct mechanisms. It can obstruc
 
 Hanji 365-2 adds the population-to-favorite funnel inside a large harem. Its reported administrative details distinguish palace residence from repeated access: supervision groups women at scale, while separate favor registers, increased allowances, pregnancy, childbirth, selection for travel, gifts, and titles identify narrower routes through which intimacy becomes status. [[LiJuanHanWudiCourt|丽娟]] then supplies a literary version of the same conversion, where beauty, performance, wit, and shared laughter become protection, luxury, gold, and remembered narrative. The counts and anecdotes remain source-scoped, but the distinction between inclusion and favor is durable.
 
+Hanji 271 adds a princess-household route. [[LiuPiaoWesternHan|馆陶长公主刘嫖]] first turns wealth and long residence into education and close service for [[DongYanWesternHan|董偃]], then uses kinship access, ritual submission, gifts, and an imperial audience to obtain visible tolerance from Han Wudi. Wudi's “主人翁” address, clothing grant, shared seating, and banquet participation show that court intimacy can require a second conversion after private favor: [[ImperialAcknowledgmentInformalStatus|public acknowledgment]] makes an ambiguous household relationship socially legible without necessarily creating a legal office.
+
 The resource is conditional and hazardous. Wealth can be confiscated after succession, a favorite can be killed by stronger palace-family authority, and an intermediary can be blamed for a ruler's decision. The concept therefore treats access as leverage and exposure at once, while refusing to translate favorite status, co-sleeping, or shared daily life automatically into a modern sexual identity.
 
 ## Key Claims
@@ -32,8 +35,8 @@ The resource is conditional and hazardous. Wealth can be confiscated after succe
 - Favorite mediation can alter punishment and appointments, but the intermediary remains exposed to blame from rival palace authorities.
 - Skill, beauty, performance, kinship, childhood companionship, or compliant attendance can intensify proximity, but palace inclusion and favorite access remain distinct; registers, selection, allowances, gifts, pregnancy, childbirth, or rank can mark narrower levels of intimacy and consequence.
 - Favorites can extend access to relatives and allies or spread the ruler's aesthetic preferences through status imitation.
+- Private patronage can require public acknowledgment before outsiders treat an intimate household figure as legitimate or protected; naming and ceremonial treatment can supply recognition without formal office.
 - Favorite-derived power remains fragile when affection shifts, succession occurs, or a stronger palace actor intervenes.
-- Historical sexuality claims require source criticism because favorite terminology and shared space do not map cleanly onto modern orientation categories.
 
 ## Evidence
 
@@ -54,6 +57,9 @@ Harem hierarchy and female favorite visibility:
 - [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] distinguishes mass palace residence from separate favor registration, higher allowances, reproductive rewards, titles, travel selection, and gifts.
 - [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] presents Li Juan's performance and verbal wit as routes to protection, luxury, gold, and literary memory.
 
+Princess household patronage and public recognition:
+- [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf|Hanji 271]] says Liu Piao turns household wealth and long-term service into Dong Yan's private position, then stages an imperial audience where “主人翁,” clothing, seating, and drinking privileges make that position publicly recognizable.
+
 Replacement and protection limits:
 - [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] links Xue Huaiyi's loss of favor to retaliation and violent death.
 - [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says Deng Tong loses wealth after succession and Han Yan is killed despite Wudi's protection.
@@ -61,13 +67,13 @@ Replacement and protection limits:
 
 ## Counterevidence & Qualifications
 
-All four sources are compressed popular history, and their most vivid private motives and sexual claims are not independently verified here. Favorite status does not prove that every reward or political act was sexually motivated, while access is not equivalent to control. Hanji 616 plus contains hostile or sensational traditions around elite women; Hanji 372-3 and 372-4 translate favorite relationships into “boyfriend” and “lover” language, contain transcription problems, and extend terse historical phrases into modern identity claims. Hanji 365-2 mixes reported administrative details with later marvel tales, so neither its large harem counts nor Li Juan's literary rewards can be treated as a contemporaneous personnel ledger. The synthesis therefore uses observable or source-attributed access, office, reward, kinship, mediation, imitation, selection, registration, replacement, and punishment while keeping sexual identity, private motive, medical claims, and scandal or miracle narratives source-scoped.
+All five sources are compressed popular history, and their most vivid private motives and sexual claims are not independently verified here. Favorite status does not prove that every reward or political act was sexually motivated, while access is not equivalent to control. Hanji 616 plus contains hostile or sensational traditions around elite women; Hanji 372-3 and 372-4 translate favorite relationships into “boyfriend” and “lover” language, contain transcription problems, and extend terse historical phrases into modern identity claims. Hanji 365-2 mixes reported administrative details with later marvel tales, so neither its large harem counts nor Li Juan's literary rewards can be treated as a contemporaneous personnel ledger. Hanji 271 likewise uses “不伦恋” and “养子” framing more strongly than its summary establishes formal adoption, and it calls performative recognition “合法身份” without defining a legal category. The synthesis therefore uses observable or source-attributed access, office, reward, kinship, mediation, imitation, selection, registration, recognition, replacement, and punishment while keeping sexual identity, adoption, private motive, medical claims, and scandal or miracle narratives source-scoped.
 
 ## What Changed
 
-- Added the distinction between mass palace inclusion and the narrower funnel of selection, registration, allowance, reward, and rank.
-- Added a female favorite case where performance and wit convert into gifts and literary visibility.
-- Kept harem counts and marvel tales source-scoped while preserving the underlying access-and-status mechanism.
+- Added a princess-household path in which wealth and long residence create private position before an imperial audience creates public recognition.
+- Distinguished ritual acknowledgment from formal office or a demonstrated legal status.
+- Kept adoption, sexual motive, dialogue, and “first princess” claims source-scoped while retaining the patronage mechanism.
 
 ## Related Concepts
 
@@ -75,5 +81,8 @@ All four sources are compressed popular history, and their most vivid private mo
 - [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - explains why access-based protection can vanish after succession, changed affection, or palace intervention.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - public-resource and access consequences when private closeness shapes state action.
 - [[PalacePerformerFavorMobility|宫廷艺伎宠幸跃迁]] - narrower performance-mediated route into imperial attention.
+- [[ImperialAcknowledgmentInformalStatus|帝王承认与非正式身份]] - narrower mechanism by which public naming and treatment authorize an ambiguous intimate status.
+- [[LiuPiaoWesternHan|馆陶长公主刘嫖]] - princess patron who converts kinship, wealth, and submission into recognition for a household favorite.
+- [[DongYanWesternHan|董偃]] - current case of private household favor becoming court-visible standing.
 - [[LiJuanHanWudiCourt|丽娟]] - later literary case of beauty, performance, wit, reward, and fragile historical visibility.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - shows how later memory can sexualize and individualize institutional disorder.
