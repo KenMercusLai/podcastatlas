@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9815
+wiki_total_pages: 9818
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "NarrativePluralism"
     title: "Narrative Pluralism / 叙事多样性"
     url: "/wiki/concepts/narrativepluralism/"
+  - key: "NarrativeSetupAndPayoff"
+    title: "Narrative Setup and Payoff / 叙事铺垫与回收"
+    url: "/wiki/concepts/narrativesetupandpayoff/"
   - key: "NASACareerPathways"
     title: "NASA Career Pathways"
     url: "/wiki/concepts/nasacareerpathways/"

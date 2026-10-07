@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12584
+wiki_total_pages: 12586
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "WelcomeToMileleVillage"
     title: "《欢迎来到麦乐村》 / Welcome to Milele Village"
     url: "/wiki/entities/welcometomilelevillage/"
+  - key: "WulinWaizhuan"
+    title: "《武林外传》 / My Own Swordsman"
+    url: "/wiki/entities/wulinwaizhuan/"
   - key: "WaterMargin"
     title: "《水浒传》 / Water Margin"
     url: "/wiki/entities/watermargin/"

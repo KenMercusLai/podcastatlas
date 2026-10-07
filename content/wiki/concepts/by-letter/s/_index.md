@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9815
+wiki_total_pages: 9818
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "SoundBasedStateRegulation"
     title: "Sound-Based State Regulation"
     url: "/wiki/concepts/soundbasedstateregulation/"
+  - key: "SoundLedComicDeception"
+    title: "Sound-Led Comic Deception / 声音主导的喜剧骗局"
+    url: "/wiki/concepts/soundledcomicdeception/"
   - key: "SouthAfricanWhiteMigrantLabor"
     title: "South African White Migrant Labor"
     url: "/wiki/concepts/southafricanwhitemigrantlabor/"

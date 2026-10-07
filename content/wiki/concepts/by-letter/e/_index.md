@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9815
+wiki_total_pages: 9818
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "ExpectationMatchedScientificFraud"
     title: "Expectation-Matched Scientific Fraud"
     url: "/wiki/concepts/expectationmatchedscientificfraud/"
+  - key: "ExpectationReversalComedy"
+    title: "Expectation-Reversal Comedy / 预期反转喜剧"
+    url: "/wiki/concepts/expectationreversalcomedy/"
   - key: "ExpectedGoalsProcessMetric"
     title: "Expected Goals as Process Metric"
     url: "/wiki/concepts/expectedgoalsprocessmetric/"

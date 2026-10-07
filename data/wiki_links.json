@@ -175,6 +175,10 @@
     "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
     "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
   },
+  "112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt": {
+    "title": "112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念",
+    "url": "/wiki/sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt/"
+  },
   "112-medieval-science-glt3839934134": {
     "title": "112. Medieval Science",
     "url": "/wiki/sources/112-medieval-science-glt3839934134/"
@@ -29019,6 +29023,10 @@
     "title": "Expectation-Matched Scientific Fraud",
     "url": "/wiki/concepts/expectationmatchedscientificfraud/"
   },
+  "ExpectationReversalComedy": {
+    "title": "Expectation-Reversal Comedy / 预期反转喜剧",
+    "url": "/wiki/concepts/expectationreversalcomedy/"
+  },
   "ExpectedBehaviorCulture": {
     "title": "Expected-Behavior Culture",
     "url": "/wiki/concepts/expectedbehaviorculture/"
@@ -48503,6 +48511,10 @@
     "title": "李旦 / Li Dan",
     "url": "/wiki/entities/lidantang/"
   },
+  "LiDazui": {
+    "title": "李大嘴 / Li Dazui",
+    "url": "/wiki/entities/lidazui/"
+  },
   "LiDeyu": {
     "title": "李德裕",
     "url": "/wiki/entities/lideyu/"
@@ -57610,6 +57622,10 @@
   "NarrativeReframingAsPoliticalAttack": {
     "title": "叙事改写式政治攻击 / Narrative Reframing as Political Attack",
     "url": "/wiki/concepts/narrativereframingaspoliticalattack/"
+  },
+  "NarrativeSetupAndPayoff": {
+    "title": "Narrative Setup and Payoff / 叙事铺垫与回收",
+    "url": "/wiki/concepts/narrativesetupandpayoff/"
   },
   "Narses": {
     "title": "Narses",
@@ -75595,6 +75611,10 @@
     "title": "Sound-Based State Regulation",
     "url": "/wiki/concepts/soundbasedstateregulation/"
   },
+  "SoundLedComicDeception": {
+    "title": "Sound-Led Comic Deception / 声音主导的喜剧骗局",
+    "url": "/wiki/concepts/soundledcomicdeception/"
+  },
   "SoundsLikeTitanicBook": {
     "title": "《宛如泰坦尼克》 / Sounds Like Titanic",
     "url": "/wiki/entities/soundsliketitanicbook/"
@@ -87774,6 +87794,10 @@
   "Wuliaozhai": {
     "title": "无聊斋 / Wuliaozhai",
     "url": "/wiki/entities/wuliaozhai/"
+  },
+  "WulinWaizhuan": {
+    "title": "《武林外传》 / My Own Swordsman",
+    "url": "/wiki/entities/wulinwaizhuan/"
   },
   "WulingManLateHan": {
     "title": "武陵蛮 / Wuling Man (late Han)",

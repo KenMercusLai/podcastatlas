@@ -10,6 +10,7 @@ sources:
   - 117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb
   - 116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
+  - 112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -18,13 +19,15 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical fiction, and [[GhostBlowsOutTheLight|《鬼吹灯》]], plus a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical fiction, and [[GhostBlowsOutTheLight|《鬼吹灯》]], a sitcom reading of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
 Across the bounded sources, the show operates as an informal group reading or viewing conversation rather than a formal lecture. The hosts reconstruct plots and character arcs, compare reactions, test motives, and distinguish textual fact, strong implication, and speculation. In the 《长生剑》 discussion, one host's first-listener position adds live prediction to this method: proposed explanations become visible and revisable as each new reversal arrives. Disagreement remains central—they can retain the force of an allegory while challenging its plot mechanics, or agree that Wang Xifeng is complex while differing over literacy, sincerity, culpability, and ending.
 
-The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale extends the same method to an adventure-series ending: the hosts value the protagonists' friendship, self-knowledge, and retirement while arguing that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]]. Humor and tangents keep the tone accessible, though they can interrupt sustained argument and make the discussion less systematic.
+The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale extends the same method to an adventure-series ending: the hosts value the protagonists' friendship, self-knowledge, and retirement while arguing that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
+
+The [[WulinWaizhuan|《武林外传》]] discussion extends close reading from narrated plot and theme into audiovisual comic construction. The hosts track how storytelling, bad cooking, acute hearing, and tattooing are planted and returned; distinguish the false city heard by Li Dazui's mother from the silent ensemble coordination visible to viewers; and treat “好汉饶命” as both an expectation reversal and a character-consistent expression of maternal protection. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 ## Key Characteristics
 
@@ -34,7 +37,7 @@ The method is most persuasive when sympathy and judgment stay together. The show
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, historical-institutional, and film criticism with humor and rereading across life stages while making comparison standards and disagreements visible.
+- Mixes literary, historical-institutional, film, and television-comedy criticism with humor while making comparison standards, performance layers, and disagreements visible.
 
 ## Evidence
 
@@ -74,14 +77,18 @@ The method is most persuasive when sympathy and judgment stay together. The show
 
 - [[113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw]] separates satisfying character closure from a conveniently reduced sacrificial cost and uses the Bremen story to interpret adventure as friendship, competence, and life direction rather than only failed treasure-seeking.
 
+### Comic construction and performance layers
+
+- [[112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt]] follows storytelling, cooking, hearing, and tattoo setups into later payoffs while separating the mother's audible false capital from the silent backstage coordination visible to viewers.
+
 ## Qualifications
 
-This profile rests on seven episode notes and may not represent every format produced by the show. The 《双瞳》 input is only a three-minute opening and cannot establish how the full film discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, and traditional-knowledge claims come through literary conversation rather than specialist verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, and canon claims therefore remain source-scoped rather than settled conclusions.
+This profile rests on eight episode notes and may not represent every format produced by the show. The 《双瞳》 input is only a three-minute opening and cannot establish how the full film discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, traditional-knowledge claims, actor technique, and authorial intent come through cultural conversation rather than specialist or production verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, canon claims, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Extended the profile to adventure-series endings, ritual problem solving, and occupational identity.
-- Added a case where the hosts preserve emotional closure while criticizing convenient cost reduction and post-climax pacing.
+- Extended the profile from literary and film discussion into close reading of television-comedy sound, gesture, and ensemble staging.
+- Added setup/payoff and expectation reversal as explicit parts of the show's interpretive method.
 
 ## Relationships
 
@@ -105,3 +112,8 @@ This profile rests on seven episode notes and may not represent every format pro
 - [[GhostBlowsOutTheLight|《鬼吹灯》]] - adventure series whose first four books receive a provisional closing discussion.
 - [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - ending used to test sacrifice rules, pacing, and character closure.
 - [[AdventureAsVocationalIdentity]] - framework extracted from 胡八一 and 胖子's reasons for entering and leaving tomb raiding.
+- [[WulinWaizhuan|《武林外传》]] - sitcom used to analyze setup, payoff, sound-led staging, and character-consistent reversal.
+- [[LiDazui|李大嘴]] - character whose filial lie and tattoo organize the bounded comic reading.
+- [[NarrativeSetupAndPayoff]] - framework extracted from the return of storytelling, cooking, hearing, and tattoo details.
+- [[ExpectationReversalComedy]] - account of moral formulas, cultural templates, and disproportionate failure becoming jokes.
+- [[SoundLedComicDeception]] - framework for the false capital heard by one character and visibly manufactured for viewers.

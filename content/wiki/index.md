@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念](sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt.md) — 纸醉金迷FM以说书、厨艺、听觉与刺字的铺垫回收，分析《武林外传》如何用声音骗局和预期反转同时塑造喜剧与护子母爱。
 - [113 摘符！《鬼吹灯》之昆仑神宫（大结局）](sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw.md) — 纸醉金迷FM以祭品替代、高潮代价和逃亡节奏评析《昆仑神宫》结局，并把摘下摸金符理解为胡八一与胖子从冒险职业身份转向新生活。
 - [114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》](sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl.md) — 纸醉金迷FM以人心、术势道、天象解释权和“呆若木鸡”讨论《秦二世必须死》，并保留历史约束究竟增强深度还是削弱悬疑的评分分歧。
 - [116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》](sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp.md) — 纸醉金迷FM以五德终始、郡县与分封及人物选择再评《秦二世必须死》，在制度能力与集权代价、历史约束与悬疑空间之间保留争论。
@@ -3975,6 +3976,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音、默剧协作、密集铺垫与人物一致的反转构造喜剧。
+- [李大嘴 / Li Dazui](entities/LiDazui.md) — 以孝心谎称武状元、把同伴卷入京城骗局，并在“好汉饶命”刺字中显露英雄身份与求生母爱的反差。
 - [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、同伴关系与职业身份为核心，并在前四册结尾以摘符形成可逆退休的小说系列。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以鬼母双眼替代祭品解除诅咒，并在高潮代价争议后完成角色关系与摘符收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
@@ -16611,6 +16614,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部笑料，再使其以新的因果、压力、人物或包袱功能返回。
+- [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。
+- [Sound-Led Comic Deception / 声音主导的喜剧骗局](concepts/SoundLedComicDeception.md) — 用声音让有限场景代表更大世界，同时让观众看见幻觉背后的表演劳动与穿帮风险。
 - [Adventure as Vocational Identity / 冒险作为职业身份](concepts/AdventureAsVocationalIdentity.md) — 危险或边缘工作把零散经验转化为能力、归属与方向，而退出并不要求否定旅程曾提供的意义。
 - [Technique–Situation–Way Action Framework / 术—势—道行动框架](concepts/TechniqueSituationWayFramework.md) — 区分具体执行、局势塑造与替代秩序，使刺杀成功不再等同于完成政治转型。
 - [Belief-Activated Political Signs / 信念激活的政治符号](concepts/BeliefActivatedPoliticalSigns.md) — 区分符号的事实来源、解释意义与行动后果，说明集体信念如何把天象或文字转化为政治力量。
