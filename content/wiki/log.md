@@ -32071,3 +32071,11 @@ Added source `zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）
+
+Added source `zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k`; created [[ShiFenWesternHan|石奋]], [[ShiJianWesternHan|石建]], [[ZhaoWanWesternHan|赵绾]], [[WangZangWesternHan|王臧]], [[EmbodiedHouseholdRitualDiscipline|身体力行式家礼教化]], and [[SeniorCourtVetoReformRetreat|资深宫廷否决下的改革退让]]; and resynthesized [[ShiQingWesternHan|石庆]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Zhao Wan's attempt to remove Eastern Palace review turns an ideological Confucian-Huang-Lao disagreement into a direct power-boundary conflict, and Wudi's retreat preserves his position while transferring the immediate cost to subordinate reformers; Shi Fen's repeated ritual conduct, indirect correction, and his sons' audience-sensitive or verification-heavy service show household discipline becoming durable public behavior. No settled contradiction was adopted. The title's four-reign label conflicts with the body's three-reign label; Zhao Wan's name is normalized from 赵婉; dates, offices, dialogue, authorization, motives, suicides, salary-rank arithmetic, household scenes, appointments, and horse-count narrative remain source-scoped. Broad Han Wudi, Dowager Dou, Liu An, Dou Ying, Tian Fen, Confucianism, and show pages were kept closed because the bounded addition is represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,013 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

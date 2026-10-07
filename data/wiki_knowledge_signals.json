@@ -68933,6 +68933,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodieddatapyramid/"
     },
+    "EmbodiedHouseholdRitualDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/embodiedhouseholdritualdiscipline/"
+    },
     "EmbodiedIntelligenceVehiclePath": {
       "episode_count": 1,
       "show_count": 1,
@@ -206939,6 +206955,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/senenmut/"
     },
+    "SeniorCourtVetoReformRetreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/seniorcourtvetoreformretreat/"
+    },
     "SensitivePersonnelRecommendationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -210056,6 +210088,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/shidifushuo/"
     },
+    "ShiFenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shifenwesternhan/"
+    },
     "ShiGaoWesternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -210132,6 +210180,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/shihui/"
     },
+    "ShiJianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shijianwesternhan/"
+    },
     "ShiLiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -210172,9 +210236,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiQingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
@@ -210189,9 +210253,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/shiqingwesternhan/"
     },
     "ShiXianWesternHan": {
@@ -242308,6 +242379,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
+    "WangZangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/wangzangwesternhan/"
+    },
     "WangZhangWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -260505,6 +260592,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhaotuo/"
+    },
+    "ZhaoWanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
+          "key": "zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhaowanwesternhan/"
     },
     "ZhaoWeiLateHan": {
       "episode_count": 3,

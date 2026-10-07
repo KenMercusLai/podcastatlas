@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k.md) — 汉武帝早期儒黄路线冲突因赵绾试图切断东宫议政而变成权力边界危机；石奋则以日常礼仪、沉默纠错和子弟的谨慎侍君，把家风落实为可重复的行为规范。
 - [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr.md) — 标题称石奋家风，正文实际补出陈阿娇失宠、王太后劝武帝暂避长公主锋芒，以及刘嫖抓捕卫青、公孙敖营救、武帝反向提拔的连续链条；官职、金额、对话与茂陵、诸侯矛盾保留来源边界。
 - [《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？](sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap.md) — 刘胜以宗室受压争取改善待遇，严助主张救援东瓯并在无虎符下征兵，韩嫣引导武帝微服游猎；毁田后的民众围堵则暴露隐匿身份、财产损失与权威识别之间的治理风险。
 - [304-沙特阿拉伯过去十年在进行一场怎样的政治改革？](sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t.md) — 独树不成林把沙特2030愿景解释为同时改造石油租金、性别秩序与宗教共治的威权现代化，并以经济绩效压力和走廊国家战略解释沙特—阿联酋竞争。
@@ -4081,6 +4082,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [石奋 / Shi Fen (Western Han)](entities/ShiFenWesternHan.md) — 以跨越朝廷与家庭的日常礼仪、间接纠错和持续示范塑造石氏谨慎家风的“万石君”。
+- [石建 / Shi Jian (Western Han)](entities/ShiJianWesternHan.md) — 以私下充分进言、公开场合收敛表达赢得汉景帝信任的石奋长子。
+- [赵绾 / Zhao Wan (Western Han)](entities/ZhaoWanWesternHan.md) — 建议重大政务不再奏报东宫、因直接触碰窦太后决策权而遭调查身亡的武帝初年儒臣。
+- [王臧 / Wang Zang (Western Han)](entities/WangZangWesternHan.md) — 与赵绾共同卷入东宫议政权冲突、在武帝退让后失去项目与保护的武帝初年儒臣。
 - [东瓯 / Dongou (Western Han)](entities/DongouWesternHan.md) — 遭闽越围攻后请求汉援、又因持续不安全而请求将君民迁往江淮的西汉越系政权。
 - [Mohammed bin Salman / 穆罕默德·本·萨勒曼](entities/MohammedBinSalman.md) — Saudi crown prince presented as the architect of Vision 2030 and its centralized authoritarian modernization.
 - [Mohammed bin Zayed / 穆罕默德·本·扎耶德](entities/MohammedBinZayed.md) — UAE president framed as MBS’s former mentor and the leader of an outward corridor-network strategy.
@@ -16811,6 +16816,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [身体力行式家礼教化 / Embodied Household Ritual Discipline](concepts/EmbodiedHouseholdRitualDiscipline.md) — 通过长辈在公私场景中的重复示范、环境一致性与间接纠错传递家庭规范，同时保留沉默和撤回认可所带来的压力面。
+- [资深宫廷否决下的改革退让 / Reform Retreat Under Senior Court Veto](concepts/SeniorCourtVetoReformRetreat.md) — 名义最高但根基未稳的统治者在资深权力中心否决后保全自身、停止改革并把即时风险转移给下属的政治模式。
 - [微服游猎治理风险 / Incognito Imperial Hunting Risk](concepts/IncognitoImperialHuntingRisk.md) — 帝王隐匿身份游猎时把毁田损失、权威识别失败与暴力升级风险转嫁给地方居民的机制。
 - [Rentier State / 租金国家](concepts/RentierState.md) — State structure funded substantially by external resource income, weakening tax accountability and increasing commodity-cycle exposure.
 - [Authoritarian Modernization / 威权现代化](concepts/AuthoritarianModernization.md) — Economic and social transformation pursued while concentrated political power is preserved or strengthened.
