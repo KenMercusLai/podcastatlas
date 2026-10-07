@@ -3185,8 +3185,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
-      "source_note_count": 1274,
-      "topic_matched_source_note_count": 415,
+      "source_note_count": 1275,
+      "topic_matched_source_note_count": 416,
       "topics": [
         {
           "key": "history",
@@ -3198,7 +3198,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 145
+          "source_note_count": 146
         },
         {
           "key": "culture",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq.md) — 大月氏因新领地安定富庶而拒绝联汉攻匈奴；张骞再度被俘后借匈奴内乱逃归，使原始联盟失败转化为地理报告、外交接触与丝路形成的前置条件。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb.md) — 张骞受命联络月氏，在堂邑父协助下穿越险地却被军臣单于扣留十年；节目以战争人口压力解释其草原成家，本期止于逃至大宛。
 - [《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？](sources/zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn.md) — 张汤童年“审鼠”故事被用作程序与惩罚意识的回溯性画像；其廷尉生涯则显示法条技术、儒学姿态、权贵网络与汉武帝意志如何结合，童年因果和具体制度细节保留来源边界。
 - [《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？](sources/zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh.md) — 以公孙弘的贫寒起点、拜相封侯和任内善终对照汉武帝朝丞相的罢免、治罪与死亡风险，同时保留十三人统计、转录姓名和生存原因的来源边界。

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3160
+topic_total_pages: 3161
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9216,6 +9216,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb"
     title: "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）"
     url: "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb/"
+  - key: "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq"
+    title: "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）"
+    url: "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq/"
   - key: "zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx"
     title: "《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法"
     url: "/wiki/sources/zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx/"

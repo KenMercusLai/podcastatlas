@@ -5,12 +5,13 @@ knowledge_schema: synthesis-v1
 tags: [person, ruler, xiongnu, western-han, diplomacy, captivity]
 sources:
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
+  - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-军臣单于 / Junchan Chanyu is the Xiongnu ruler who receives the captured [[ZhangQianWesternHan|张骞]] mission and refuses its passage toward [[Yuezhi|月氏]]. In the current evidence, he treats enemy transit as a security and reciprocity problem rather than presenting the detention as arbitrary border violence.
+军臣单于 / Junchan Chanyu is the Xiongnu ruler who receives the captured [[ZhangQianWesternHan|张骞]] mission and refuses its passage toward [[Yuezhi|月氏]]. In the current evidence, he treats enemy transit as a security and reciprocity problem; his later death triggers succession conflict that creates Zhang's escape opportunity after a second capture.
 
 ## Current Profile
 
@@ -18,12 +19,15 @@ last_updated: 2026-10-07
 
 The episode then attributes a ten-year captivity, local marriage, and children to Zhang's time under Xiongnu control. These facts create a coercion-integration tension: family formation may reflect an attempt to absorb useful detainees or address demographic pressure, but it does not turn involuntary confinement into free settlement.
 
+[[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] reports that Zhang is captured again on his return and that Junchan Chanyu continues the non-executionary detention pattern by restoring the captives' family and basic provisions. More than a year later, the chanyu dies; fighting between the Left Luli King and the heir supplies the disorder in which Zhang escapes. The page treats this as the episode's succession sequence, not a complete reconstruction of Xiongnu politics.
+
 ## Key Characteristics
 
 - Xiongnu ruler controlling transit through territory between Han and Yuezhi.
 - Captor of Zhang Qian's first western mission.
 - Uses a reciprocity analogy to justify denying enemy diplomatic passage.
 - Presides over a detention regime that reportedly combines surveillance with local family formation.
+- Ruler whose death is presented as the trigger for a succession conflict and captive escape opportunity.
 
 ## Evidence
 
@@ -32,14 +36,15 @@ Transit refusal:
 
 Prolonged detention:
 - [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] attributes Zhang's ten-year confinement, marriage, fatherhood, loosened surveillance, and eventual escape to this Xiongnu-controlled setting.
+- [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] reports Zhang's second detention and says Junchan Chanyu's death is followed by the succession disorder that enables escape.
 
 ## Qualifications
 
-This page is bounded to one podcast installment. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role across the decade, and demographic motive assigned to captive marriage remain episode-attributed. Reciprocity can explain a security logic without establishing legal equivalence or moral justification.
+This page is bounded to two podcast installments. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role, family-restoration policy, death timing, succession contestants, and demographic motive assigned to captive marriage remain episode-attributed. Reciprocity can explain a security logic without establishing legal equivalence or moral justification.
 
 ## What Changed
 
-- Created a source-bounded profile centered on diplomatic transit denial and prolonged detention.
+- Added the second detention and the source-attributed link from Junchan Chanyu's death to succession disorder and Zhang's escape.
 
 ## Relationships
 

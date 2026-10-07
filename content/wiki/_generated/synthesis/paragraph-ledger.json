@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
       "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
       "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
       "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
@@ -800,11 +801,31 @@
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
     ],
-    "paragraph_count": 798
+    "paragraph_count": 799
   },
-  "overview_commit": "a696eb4469fef593f27ce180d03b14e114bc818e",
-  "overview_digest": "74ca548f456311ca6661f3b29036e8f76e448c6593a80e85650153daf116fb84",
+  "overview_commit": "18c8101eb976d8e49fa287026c69fb0ef6d70e6e",
+  "overview_digest": "d649c652c8344448001f3a46c5030010fcbe74aff49108bd90f437b414000101",
   "paragraphs": [
+    {
+      "id": "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] sequel completing [[ZhangQianWesternHan|张骞]]'s first western mission. It resynthesizes Zhang, [[TangyiFuWesternHan|堂邑父]], [[JunchanChanyu|军臣单于]], [[Yuezhi|月氏]], [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]], and [[AncientSilkRoad|丝绸之路]] around an objective-versus-outcome distinction: secure and prosperous Yuezhi declines the anti-[[Xiongnu|匈奴]] alliance, yet Zhang survives renewed capture and returns with route and polity intelligence that can support later contact. No settled contradiction is adopted. Routes, durations, survivor and personal-loss details, Yuezhi motives, rewards, commodity chronology, retrospective investigation labels, and record-priority or sole-route-creation claims remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AncientSilkRoad",
+        "CaptiveEnvoyMissionPersistence",
+        "JunchanChanyu",
+        "RuiqiJiangtouZizhiTongjian",
+        "TangyiFuWesternHan",
+        "Xiongnu",
+        "Yuezhi",
+        "ZhangQianWesternHan",
+        "zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq"
+      ]
+    },
     {
       "id": "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
       "primary_topic": "history-and-geopolitics",

@@ -5,12 +5,13 @@ knowledge_schema: synthesis-v1
 tags: [diplomacy, captivity, resilience, mission, frontier]
 sources:
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
+  - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq
 last_updated: 2026-10-07
 ---
 
 ## Definition
 
-被扣使者的使命延续 / captive envoy mission persistence is the capacity to survive prolonged hostile detention, adapt to imposed local life, and wait for a viable exit without treating adaptation itself as abandonment of the original diplomatic purpose.
+被扣使者的使命延续 / captive envoy mission persistence is the capacity to survive prolonged or repeated hostile detention, adapt to imposed local life, and use contingent openings to continue or report a mission without treating adaptation or failure of the original objective as abandonment.
 
 ## Current Synthesis
 
@@ -18,13 +19,15 @@ last_updated: 2026-10-07
 
 The concept separates three things that heroic summaries often collapse: physical survival under coercion, accommodation to unavoidable daily conditions, and preservation of a longer mission. Marriage or family formation does not prove free consent to detention, while later escape does not mean the captive spent every day in open resistance. Persistence can be quiet, delayed, and compatible with local attachments.
 
+[[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] completes and qualifies the case. Zhang reaches Yuezhi but cannot secure the alliance, is captured again on the return, and escapes only when Junchan Chanyu's death produces succession conflict. Returning to Han with Tangyi Fu and geographic intelligence means mission persistence can produce reporting and later strategic value even when the original coalition objective fails. It does not mean every cost or family loss is redeemed by that later value.
+
 ## Key Claims
 
 - A mission can remain active as an intention even when immediate execution becomes impossible.
 - Survival adaptations under coercion do not by themselves establish loyalty transfer or mission abandonment.
 - Long detention changes the envoy's relationships, knowledge, and obligations, so persistence is not a return to an unchanged starting state.
 - Escape depends on a usable opportunity, not determination alone; reduced surveillance is part of the causal sequence.
-- Reaching the next polity demonstrates continuation, not completion, of the original diplomatic objective.
+- Persistence must be evaluated at several levels: reaching the intended court, achieving the requested agreement, returning, and preserving usable knowledge are different outcomes.
 
 ## Evidence
 
@@ -36,14 +39,19 @@ Adaptation without demonstrated abandonment:
 
 Opportunity and continuation:
 - [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says looser surveillance enables escape and westward travel to Dayuan, where the installment ends.
+- [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] says succession conflict after Junchan Chanyu's death enables escape from a second detention and return to Han.
+
+Objective failure and residual value:
+- [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] says Yuezhi rejects the alliance, while Zhang and Tangyi Fu still return with information that the episode treats as historically consequential.
 
 ## Counterevidence & Qualifications
 
-The concept is based on one short podcast source and should not become a general personality law. The source does not reconstruct Zhang's choices across every year, the agency of his wife and children, whether family life was arranged or voluntary, the status of his companions, or the exact escape mechanism. Persistence also does not prove that the Yuezhi alliance was eventually achieved; this installment stops before that outcome.
+The concept is based on two short podcast installments and should not become a general personality law. They do not reconstruct Zhang's choices across every year, the agency of his wife and children, whether family life was arranged or voluntary, the status and deaths of his companions, the two escape mechanisms, or the reported pursuit and family loss. Yuezhi's refusal confirms that persistence does not guarantee objective success, while later historical value cannot erase coercion, casualties, or loss.
 
 ## What Changed
 
-- Created the concept from Zhang Qian's reported captivity, adaptation, escape opportunity, and westward continuation.
+- Extended the concept from initial escape and continuation to repeated detention, contingent escape, failed negotiation, return, and residual knowledge value.
+- Distinguished mission persistence from both objective achievement and retrospective redemption of its human costs.
 
 ## Related Concepts
 

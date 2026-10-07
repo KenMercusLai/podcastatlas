@@ -31527,3 +31527,11 @@ Added source `zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-h
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）
+
+Added source `zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq`; and resynthesized [[ZhangQianWesternHan|张骞]], [[TangyiFuWesternHan|堂邑父]], [[JunchanChanyu|军臣单于]], [[Yuezhi|月氏]], [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]], and [[AncientSilkRoad|丝绸之路]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Yuezhi's secure and prosperous post-conquest position defeats Han's revenge-based alliance premise, but the original objective's failure does not erase Zhang's repeated-captivity survival, return, reporting, or catalytic role in later contact. No settled contradiction was adopted. Routes, durations, survivor and personal-loss details, Yuezhi motives, rewards, commodity chronology, investigation labels, and record-priority or sole-route-creation claims remain source-scoped. The automatic `wiki/overview.md` was updated through the normal ingest workflow; downstream generated synthesis was refreshed separately.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

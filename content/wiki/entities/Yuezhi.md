@@ -8,18 +8,19 @@ sources:
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
   - zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-月氏 / Yuezhi is currently a source-bounded Central Asian frontier people whose wiki profile runs from an early hostage and Xiongnu-expansion setting through forced westward movement, Han Wudi's proposed anti-Xiongnu alliance, and a much later Kushan-linked attack checked by [[BanChaoEasternHan|Ban Chao]]. Hanji 287 adds the key Western Han transition: reported Xiongnu violence and the death of the Yuezhi king make Yuezhi a presumed revenge partner for [[ZhangQianWesternHan|张骞]]'s first mission, though this installment does not show Yuezhi accepting contact or alliance.
+月氏 / Yuezhi is currently a source-bounded Central Asian frontier people whose wiki profile runs from an early hostage and Xiongnu-expansion setting through forced westward movement, rejection of Han Wudi's proposed anti-Xiongnu alliance, and a much later Kushan-linked attack checked by [[BanChaoEasternHan|Ban Chao]]. Hanji 287 supplies the key Western Han transition: reported Xiongnu violence makes Yuezhi a presumed revenge partner for [[ZhangQianWesternHan|张骞]]'s first mission, but security and prosperity after conquering Daxia territory remove the shared-interest basis assumed by Han.
 
 ## Current Profile
 
 Hanji 175 introduces Yuezhi through an earlier Xiongnu power struggle. Touman sends Modu as a hostage to Yuezhi, then attacks Yuezhi so the hostage will likely be killed. Modu escapes, turns the attempted removal into the prehistory for his command training and patricidal seizure of power, and later attacks Yuezhi after defeating [[Donghu|Donghu]]. The source says some Yuezhi move west toward the Amu Darya region as Da Yuezhi while remaining groups are called Xiao Yuezhi.
 
-Hanji 287 presents a later consequence of that conflict from the Han strategic viewpoint. A Xiongnu defector reportedly tells Han that Xiongnu defeated Yuezhi, killed its king, used his skull as a drinking vessel, and drove the population west. [[HanWudi|汉武帝]] treats the resulting hostility as a basis for joint pressure against Xiongnu and sends Zhang Qian to seek an alliance. The evidence establishes Han's alliance hypothesis and the danger of reaching Yuezhi, not Yuezhi's willingness to cooperate: Zhang is detained for ten years and the episode ends after he reaches Dayuan.
+Hanji 287 presents a later consequence of that conflict from the Han strategic viewpoint. A Xiongnu defector reportedly tells Han that Xiongnu defeated Yuezhi, killed its king, used his skull as a drinking vessel, and drove the population west. [[HanWudi|汉武帝]] treats the resulting hostility as a basis for joint pressure against Xiongnu and sends Zhang Qian to seek an alliance. Part 1 establishes Han's alliance hypothesis and the danger of reaching Yuezhi; [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|part 2]] supplies Yuezhi's answer. The polity has defeated Daxia, occupies fertile and comparatively secure territory, and will not exchange that position for a revenge war. The refusal shows that a shared enemy inferred from past injury is not equivalent to a present coalition interest.
 
 Hanji 763 gives a much later Eastern Han Western Regions layer. The Yuezhi king asks to marry a Han princess, but Ban Chao refuses. The Yuezhi side responds by sending deputy king Xie with a large army against Ban. The campaign fails because Ban reads the force as logistically vulnerable: he harvests the local grain, closes the city, waits for shortages, and ambushes the mission sent to [[QiuciKingdom|Qiuci]] to buy food. After the ambush, Xie asks forgiveness and withdraws; the source says Yuezhi thereafter sends annual tribute.
 
@@ -30,9 +31,9 @@ The current synthesis treats Yuezhi as an actor whose role changes by period. In
 ## Key Characteristics
 
 - Western frontier people first visible as the hostage setting in Touman's attempted removal of Modu.
-- Target of Modu's later expansion after Xiongnu consolidation against Donghu.
 - Migration-linked group in Hanji 175, with Da Yuezhi and Xiao Yuezhi labels kept source-scoped.
 - Intended Western Han alliance partner selected through a presumed shared-enemy logic after Xiongnu violence and westward displacement.
+- Polity whose changed territory, security, and material interests override Han's revenge-based coalition premise.
 - Later Eastern Han actor, identified by Hanji 705-4 with Kushan, that seeks marriage ties with Han and attacks Ban Chao after refusal.
 - Logistically vulnerable attacker defeated through grain denial and interception rather than direct numerical superiority.
 - Distant power with which Ban Chao chooses post-defeat accommodation instead of unlimited coercion.
@@ -43,7 +44,7 @@ The current synthesis treats Yuezhi as an actor whose role changes by period. In
 - Modu's later attack: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says Modu attacks Yuezhi after destroying Donghu and consolidating Xiongnu power.
 - Migration note: [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says some Yuezhi move west toward the Amu Darya region as Da Yuezhi while remaining groups are called Xiao Yuezhi.
 - Shared-enemy alliance hypothesis: [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says Han learns that Xiongnu killed the Yuezhi king and drove the people west, then sends Zhang Qian to seek joint pressure against Xiongnu.
-- Access failure: [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] ends after Zhang escapes Xiongnu detention and reaches Dayuan, without showing Yuezhi contact or alliance acceptance.
+- Alliance refusal: [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] says Zhang reaches Yuezhi but cannot persuade its ruler to attack Xiongnu because conquest of Daxia has produced a secure and prosperous position.
 - Marriage refusal: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says the Yuezhi king seeks a Han princess marriage and resents Ban Chao's refusal.
 - Failed attack on Ban Chao: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says deputy king Xie attacks with a large force, but Ban Chao denies grain, waits for supply exhaustion, ambushes the food mission to Qiuci, and forces withdrawal.
 - Tributary result: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Yuezhi thereafter sends annual tribute to Han.
@@ -52,13 +53,13 @@ The current synthesis treats Yuezhi as an actor whose role changes by period. In
 
 ## Qualifications
 
-This page remains bounded to four source notes and does not reconstruct full Yuezhi, Da Yuezhi, Kushan, or Central Asian history. Hanji 175's westward movement labels, Amu Darya placement, and Modu campaign details remain source-scoped. Hanji 287's defector report, king's skull detail, original homeland, direction of flight, shared-enemy reasoning, and Han intention remain episode-attributed; it does not establish Yuezhi's own position or an achieved alliance. Hanji 763's marriage request, deputy king Xie, force size, and tributary outcome are recorded as the episode's account, not as a complete diplomatic history. Hanji 705-4's Kushan identification, "four great powers" comparison, seventy-thousand figure, and hostage-exchange outcome are treated as source-scoped unless additional notes develop them.
+This page remains bounded to five source notes and does not reconstruct full Yuezhi, Da Yuezhi, Kushan, or Central Asian history. Hanji 175's westward movement labels, Amu Darya placement, and Modu campaign details remain source-scoped. Hanji 287 part 1's defector report, king's skull detail, original homeland, direction of flight, shared-enemy reasoning, and Han intention remain episode-attributed. Part 2's Daxia conquest, soil and product conditions, regional threat assessment, ruler identity, residence duration, emotional language about forgotten vengeance, and refusal motives remain episode-attributed; it establishes the program's account of Yuezhi's position, not a complete indigenous political record. Hanji 763's marriage request, deputy king Xie, force size, and tributary outcome are recorded as the episode's account, not as a complete diplomatic history. Hanji 705-4's Kushan identification, "four great powers" comparison, seventy-thousand figure, and hostage-exchange outcome remain source-scoped.
 
 ## What Changed
 
-- Added the Western Han shared-enemy hypothesis that makes Yuezhi the target of Zhang Qian's first mission.
-- Distinguished Han's intention to form an alliance from evidence that Yuezhi accepted one.
-- Linked the earlier westward-movement layer to the access barrier created by Xiongnu control of the route.
+- Added Yuezhi's refusal of the proposed anti-Xiongnu alliance after its conquest of fertile Daxia territory.
+- Replaced the previously open alliance outcome with a present-interest explanation bounded to the episode.
+- Sharpened the distinction between inherited grievance and current coalition incentives.
 
 ## Relationships
 
