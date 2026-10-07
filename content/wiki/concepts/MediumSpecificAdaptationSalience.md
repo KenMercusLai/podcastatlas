@@ -6,6 +6,7 @@ sources:
   - 107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba
   - 106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw
   - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
+  - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The bounded Harry Potter comparisons separate adaptation from simple deletion or
 The film therefore creates visual emotion, compresses Harry's return to the Dursleys after Diagon Alley, changes character impressions through appearance, externalizes the Sorting Hat's words, removes the potion puzzle, shifts more visible problem-solving into the Devil's Snare scene, and intensifies Harry's direct physical role against Quirrell. These choices preserve accessibility, pace, spectacle, and protagonist focus while changing duration, characterization, clue difficulty, competence distribution, and the apparent limit of a first-year student's power.
 
 The 《射雕英雄传》 survey extends the framework from one novel-film pair to films and serial television. It adds format duration, actor embodiment, voice, age, relationship accumulation, and the visualization of internal martial reasoning. A two-hour film and a long television series do not merely have different quantities of space: they support different forms of growth, ensemble balance, and climax. Screen adaptation must also make motives and recognition perceptible through dialogue, performance, and staging when prose narration previously carried them.
+
+The chronological adaptation survey adds camera movement, landscape, light, slow motion, songs, costume, and rebroadcast memory. These devices can create an autonomous cinematic object, as in the discussion of 《东邪西毒》, or make a television version culturally durable through recurring music and performance. The same medium features also enter reception: what viewers repeatedly hear and see can become their default image of a literary character.
 
 ## Key Claims
 
@@ -57,15 +60,21 @@ The 《射雕英雄传》 survey extends the framework from one novel-film pair 
 - [[101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq]] contrasts film compression with television's capacity for ensemble growth and uses acting, voice, bearing, dialogue, and staging to show how screen media externalize character.
 - [[101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq]] treats internal-force change, tactical thought, and 华山论剑 as cases where literal explanation, voice-over, and spectacle each create different losses.
 
+### Audiovisual form and cultural memory
+
+- [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] treats landscape, light, slow motion, action imagery, songs, costume, and camera language as central to how versions work and persist.
+- [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] shows that repeated broadcast and theme songs can make medium-specific choices part of generational memory.
+
 ## Counterevidence & Qualifications
 
-The concept comes from three podcast discussions covering two adaptation corpora and does not establish the filmmakers' documented intentions. Visual media can conceal clues through staging and editing, prose can also overemphasize information, and the hosts' judgments about casting, beauty, age, voice, or version quality are reception evidence rather than neutral measures. The framework describes recurring pressures, not rules that film must favor spectacle, television is inherently superior, or invention, compression, and omission are automatically justified.
+The concept comes from four podcast discussions covering two adaptation corpora and does not establish the filmmakers' documented intentions. Visual media can conceal clues through staging and editing, prose can also overemphasize information, and the hosts' judgments about casting, beauty, age, voice, or version quality are reception evidence rather than neutral measures. The framework describes recurring pressures, not rules that film must favor spectacle, television is inherently superior, or invention, compression, and omission are automatically justified.
 
 ## What Changed
 
 - Extended the concept from a novel-film pair to comparison among prose, compressed film, and serial television.
 - Added actor embodiment and the visualization of martial reasoning to clue, interiority, pacing, and competence transfer.
 - Distinguished television's additional duration from any guarantee of coherent growth or climax.
+- Added audiovisual style, songs, and rebroadcast memory as formal and reception-level adaptation effects.
 
 ## Related Concepts
 
@@ -76,3 +85,4 @@ The concept comes from three podcast discussions covering two adaptation corpora
 - [[HarryPotterAndThePhilosophersStone]] - bounded adaptation case grounding the concept.
 - [[FunctionalAdaptationFidelity]] - evaluates whether formal changes preserve character and narrative function.
 - [[LegendOfTheCondorHeroes]] - multi-version wuxia case extending the framework across film and television.
+- [[AdaptationReceptionMemory]] - tracks how medium-specific features become generational reference points.

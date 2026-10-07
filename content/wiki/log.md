@@ -31388,3 +31388,11 @@ Added source `101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pand
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 100期了！金庸《射雕英雄传》影视改编大盘点
+
+Added source `100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk`; created [[AdaptationReceptionMemory|改编接受中的代际记忆]]; and resynthesized [[LegendOfTheCondorHeroes|《射雕英雄传》]], [[FunctionalAdaptationFidelity|功能性改编忠实]], [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]], [[JinYong|金庸]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the adaptation history includes direct retellings, comedy, art cinema, prequels, web films and stage forms; coherent changes can preserve character logic better than event matching stripped of context; and first-viewing age, rebroadcast access, songs and nostalgia help different generations adopt different definitive versions. No settled contradiction was adopted. The source title says “100期” while its body says episode 170; version counts, dates, episode totals, credits, ratings, production anecdotes and performer rankings remain inconsistent, subjective or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,925 sources across 798 overview paragraphs and nine topics. Identity, knowledge schema, derived synthesis, whitespace, index coverage, wikilinks, health, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

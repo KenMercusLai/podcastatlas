@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [100期了！金庸《射雕英雄传》影视改编大盘点](sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk.md) — 纸醉金迷FM按年代梳理《射雕英雄传》影视与舞台改编，以情理逻辑、媒介表达、代际观看记忆和原著留白扩写区分不同版本的成败。
 - [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
 - [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
 - [《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹](sources/zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd.md) — 卫青三路搜索时由中军先行接敌并取得局部击溃；节目以兵器组合、阵形纵深和近战压迫解释汉军优势，但两翼未到、单于不在及武器技术细节均保留来源边界。
@@ -16639,6 +16640,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲与代际媒介环境共同塑造某一改编版本成为“经典”或默认形象的过程。
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
 - [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。
 - [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 类型惯例与共同观众知识成熟后，作品借互文、反转和日常化位移从传统内部完成戏仿与批判。
