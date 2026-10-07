@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）](sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj.md) — 唐蒙以强制劳役修筑西南道路引发死亡、逃亡与反抗；司马相如随后以檄文、访谈和出使缓和危机，并把交通、关隘与行政扩张重新结合。
 - [《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）](sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16.md) — 唐蒙由南越所见蜀酱追查夜郎与牂柯水路，把商品流通转化为军事和行政路线方案；多同及诸酋长的归附带有礼物、距离与控制预期下的条件性。
 - [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（1）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf.md) — 补全陈阿娇失宠、依赖楚服、巫蛊调查与废后链条；“相爱若夫妇”与“对食”保留为分层证据，最早案例、术语原义及魅术因果不作定论。
 - [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp.md) — 陈阿娇的巫蛊废后被解释为法律理由、换后机会与联盟弱势的叠加；标题所称“独宠女官”未在正文展开，帝王动机、《长门赋》委托与情感因果保留来源边界。
@@ -4049,7 +4050,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
-- [唐蒙 / Tang Meng (Western Han)](entities/TangMengWesternHan.md) — 从南越蜀酱追出夜郎水路，并把商品线索转化为军事通道、地方动员与设官方案的西汉使者。
+- [唐蒙 / Tang Meng (Western Han)](entities/TangMengWesternHan.md) — 从蜀酱追出夜郎水路、把商品线索转化为军事行政方案，却又因强制筑路和军法惩逃引发反抗的西汉使者。
 - [夜郎王多同 / Ye Lang King Duo Tong](entities/YelangKingDuotongWesternHan.md) — 与唐蒙达成礼物和设官支持下的条件性约定、同时受诸酋长意见与交通控制预期约束的早期夜郎王。
 - [楚服 / Chu Fu (Western Han)](entities/ChuFuWesternHan.md) — 进入陈阿娇信任、传授祭祀与诅咒并被记为“相爱若夫妇”，后在巫蛊调查中被处死的西汉女性方术者。
 - [陈阿娇 / Empress Chen (Western Han)](entities/EmpressChenAjiaoWesternHan.md) — 因巫蛊案被废、缺乏稳固联盟并在长门叙事中成为失宠与情感依附象征的汉武帝早期皇后。
@@ -6391,7 +6392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konrad Lorenz](entities/KonradLorenz.md) — Ethology reference in the Huberman Lab aggression episode for fixed action patterns, imprinting, and aggression pressure.
 - [Ventromedial Hypothalamus](entities/VentromedialHypothalamus.md) — Brain-region node foregrounded in the Huberman Lab aggression episode as central to VMH-linked aggression circuitry.
 - [Walter Hess](entities/WalterHess.md) — Neuroscientist cited in the Huberman Lab aggression episode for cat brain-stimulation experiments that evoked rage-like behavior.
-- [夜郎 / Ye Lang (Western Han)](entities/YelangStateWesternHan.md) — Southwestern polity whose Xing-led crisis is broken by Chen Li's targeted killing and follow-on suppression of residual resistance.
+- [夜郎 / Ye Lang (Western Han)](entities/YelangStateWesternHan.md) — 从多同治下的条件性开放、筑路劳役反抗与司马相如安抚，延伸到王兴危机及陈立镇压的西南政体。
 - [夜郎王兴 / Ye Lang King Xing](entities/YelangKingXingWesternHan.md) — Ye Lang ruler who rejects Han mediation, provokes Han authority, and is killed by Chen Li in the Zhangke crisis.
 - [牂柯郡 / Zhangke Commandery](entities/ZhangkeCommanderyWesternHan.md) — Western Han southwestern commandery where distance, supply, appointment fit, and delegated governor judgment shape the Ye Lang response.
 - [陈立 / Chen Li (Western Han)](entities/ChenLiWesternHan.md) — Zhangke governor who kills Ye Lang King Xing and suppresses the remaining revolt through timing, deterrence, and logistics.
@@ -6686,7 +6687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [费兴 / Fei Xing (Xin official)](entities/FeiXingXinOfficial.md) — Xin official removed after diagnosing Jing-Yang banditry through mountain-and-marsh taxation, drought, and livelihood collapse.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
-- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer whose profile joins literary lineage, mediated court access, staged courtship, shared tavern hardship, a source-scoped fidelity crisis, and the posthumous political argument of 《封禅文》.
+- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer and envoy whose profile joins literary lineage, mediated court access, southwestern crisis communication, intimate traditions, and the posthumous political argument of 《封禅文》.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor whose profile spans thrift, Zhuya retrenchment, frontier force-sizing, remonstrance reception, Shi Xian trust, and succession vulnerability.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
@@ -16744,6 +16745,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [强制边疆劳役反噬 / Coercive Frontier Labor Backfire](concepts/CoerciveFrontierLaborBackfire.md) — 以强制劳役和军法惩逃建设边疆基础设施，反而因死亡、逃亡与恐惧摧毁地方合作并催生抵抗的治理失败。
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。
 - [Academic Translation Reliability / 学术翻译可靠性](concepts/AcademicTranslationReliability.md) — Standard that places fidelity, conceptual consistency, preserved ambiguity, context, and accountable notes before stylistic elegance.
 - [Translation Labor Incentives / 翻译劳动激励](concepts/TranslationLaborIncentives.md) — Payment, recognition, demand, and editorial conditions that shape whether research-intensive translation can be sustained.
@@ -16887,7 +16889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。
 - [Outcome-Based Government Accountability](concepts/OutcomeBasedGovernmentAccountability.md) — Framework connecting public goals, dashboards, audits, zero-based budgeting, and funding consequences to measurable delivery.
 - [Visceral Adiposity and Metabolic Risk](concepts/VisceralAdiposityMetabolicRisk.md) — Weight-independent framework for visceral fat, portal liver exposure, insulin resistance, menopause-related redistribution, and contextual measurement.
-- [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界，把更多土地和人口重新定义为受直接监督的核心区。
+- [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界扩大直接监督范围，但有效控制仍取决于道路、官吏、供给与地方合作。
 - [Post-Conquest Population Removal / 征服后人口迁出](concepts/PostConquestPopulationRemoval.md) — 在奖励归降精英的同时，将更广泛的被征服人口移离原地以破坏其地形与组织基础的强制安置方式。
 - [Cultural Decline Anxiety / 文化衰亡焦虑](concepts/CulturalDeclineAnxiety.md) — Recurring move from a specific threatened practice or capacity to a total civilizational-collapse judgment, qualified by criticism's memory-preserving role.
 - [Knowledge Externalization Tradeoff / 知识外化权衡](concepts/KnowledgeExternalizationTradeoff.md) — Tension between expanded storage, access, and retrieval and retained human practice of memory, explanation, and judgment.

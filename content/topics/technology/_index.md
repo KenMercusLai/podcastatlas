@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3360
+topic_total_pages: 3361
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4648,6 +4648,9 @@ topic_concepts:
   - key: "CourtDemandDrivenPapermaking"
     title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
     url: "/wiki/concepts/courtdemanddrivenpapermaking/"
+  - key: "CoerciveFrontierLaborBackfire"
+    title: "强制边疆劳役反噬 / Coercive Frontier Labor Backfire"
+    url: "/wiki/concepts/coercivefrontierlaborbackfire/"
   - key: "ExpressNetworkInfrastructureCentralization"
     title: "快递网络基础设施收权"
     url: "/wiki/concepts/expressnetworkinfrastructurecentralization/"

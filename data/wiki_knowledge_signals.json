@@ -6848,9 +6848,9 @@
       "url": "/wiki/entities/adidassamba/"
     },
     "AdministrativeBoundaryRelocation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
@@ -6858,9 +6858,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2） [lk5lpTawERe6Mfwjm1Dr_bBynggJ].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/administrativeboundaryrelocation/"
     },
     "AdministrativeInformationConformity": {
@@ -44212,6 +44219,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/coercivefrontierdeterrence/"
+    },
+    "CoerciveFrontierLaborBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2） [lk5lpTawERe6Mfwjm1Dr_bBynggJ].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/coercivefrontierlaborbackfire/"
     },
     "CoerciveFrontierRelocationBackfire": {
       "episode_count": 2,
@@ -209856,9 +209879,9 @@
       "url": "/wiki/entities/simatanwesternhan/"
     },
     "SimaXiangru": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -209894,9 +209917,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》358-1｜深度拆解司马相如",
           "url": "/wiki/sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2） [lk5lpTawERe6Mfwjm1Dr_bBynggJ].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/simaxiangru/"
     },
     "SimaYi": {
@@ -223269,9 +223299,9 @@
       "url": "/wiki/entities/tangjing/"
     },
     "TangMengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1） [loe31qGNWv58LsDT_bB8-ZAfYW16].md",
@@ -223279,6 +223309,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2） [lk5lpTawERe6Mfwjm1Dr_bBynggJ].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
         }
       ],
       "updated": "2026-10-08",
@@ -252834,9 +252871,9 @@
       "url": "/wiki/entities/yelangkingxingwesternhan/"
     },
     "YelangStateWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
@@ -252865,6 +252902,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2） [lk5lpTawERe6Mfwjm1Dr_bBynggJ].md",
+          "key": "zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
         }
       ],
       "updated": "2026-10-08",

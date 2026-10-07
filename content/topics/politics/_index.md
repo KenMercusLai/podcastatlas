@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3172
+topic_total_pages: 3173
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4720,6 +4720,9 @@ topic_concepts:
   - key: "FlexibleFrontierMilitaryDiscretion"
     title: "弹性边防军法 / Flexible Frontier Military Discretion"
     url: "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
+  - key: "CoerciveFrontierLaborBackfire"
+    title: "强制边疆劳役反噬 / Coercive Frontier Labor Backfire"
+    url: "/wiki/concepts/coercivefrontierlaborbackfire/"
   - key: "CoerciveFrontierDeterrence"
     title: "强制边疆震慑 / Coercive Frontier Deterrence"
     url: "/wiki/concepts/coercivefrontierdeterrence/"

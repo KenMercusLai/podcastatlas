@@ -23308,6 +23308,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "CoerciveFrontierLaborBackfire": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CoerciveImplicationCascade": [
     {
       "key": "politics",

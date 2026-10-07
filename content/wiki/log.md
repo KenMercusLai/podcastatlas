@@ -31824,3 +31824,9 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

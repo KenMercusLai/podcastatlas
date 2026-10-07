@@ -9,12 +9,13 @@ sources:
   - zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq
   - zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn
   - zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-司马相如 / Sima Xiangru is a Western Han fu writer whose current profile joins reading and literary formation in a princely patronage circle, mediated court access, political praise, the “琴挑文君” tradition, shared hardship, a source-scoped fidelity crisis with [[ZhuoWenjun|卓文君]], and the posthumous imperial argument of [[FengshanWen|《封禅文》]].
+司马相如 / Sima Xiangru is a Western Han fu writer and envoy whose current profile joins literary formation, mediated court access, southwestern political communication, the “琴挑文君” tradition, shared hardship, a source-scoped fidelity crisis with [[ZhuoWenjun|卓文君]], and the posthumous imperial argument of [[FengshanWen|《封禅文》]].
 
 ## Current Profile
 
@@ -22,7 +23,7 @@ Hanji 358-1 supplies the earliest formation layer. It says Sima uses personal re
 
 The sources then show literary ability becoming consequential through different forms of mediation. Hanji 654 looks backward from Yang Xiong: Sima's fu supplies a prestigious form to imitate and a name with which later reception can pair Yang. Hanji 358-2 looks forward from imperial attention: [[YangDeyiWesternHan|杨得意]] identifies Sima to [[HanWudi|汉武帝]] and converts admiration into a summons and court role.
 
-That court success is ethically qualified. Hanji 358-2 uses [[SuShi|苏轼]]'s later criticism to ask whether grand descriptive fu can become exaggerated flattery of imperial desire. The source contrasts Sima's advancement with Su Shi's politically costly independence, but it does not make office trajectory a complete measure of either writer's worth.
+That court success is ethically qualified. Hanji 358-2 uses [[SuShi|苏轼]]'s later criticism to ask whether grand descriptive fu can become exaggerated flattery of imperial desire. Hanji 269-2 supplies a more administrative use of writing: after Tang Meng's labor regime reportedly triggers revolt, Wudi sends Sima to issue 《喻巴蜀檄》, meet elites, explain the mobilization, and restore enough cooperation for further western diplomacy. The episode then makes him a recommending official and envoy who uses gifts, frontier-gate relocation, roads, and administrative planning to extend Han access.
 
 The Linqiong branch joins talent to reputation staging. [[WangJiLinqiongWesternHan|王吉]]'s repeated public visits make Sima appear exceptional, [[ZhuoWangsunWesternHan|卓王孙]] invites him to a banquet, and [[FengQiuHuang|《凤求凰》]] becomes the indirect appeal to [[ZhuoWenjun|卓文君]]. The program narrates a maid-carried message and elopement to Chengdu, while its language of “布了一个局” remains an interpretation of intention rather than settled fact.
 
@@ -36,8 +37,8 @@ Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's desc
 - His work becomes a model for Yang Xiong and a court credential under Han Wudi.
 - Depends on access brokers and public reputation signals to convert talent into opportunity.
 - Represents both literary imagination and the risk that court literature can flatter power.
+- Uses proclamation, meetings, persuasion, policy advice, and an embassy to turn a southwestern frontier crisis toward renewed access.
 - Central male figure in the “琴挑文君” tradition and Zhuo Wenjun's elopement story.
-- Presented as sharing visibly humble tavern work before a later reported attempt to take a concubine complicates the romance.
 - Leaves a posthumous political-literary intervention that the episode places before Wudi's fengshan decision process.
 
 ## Evidence
@@ -45,6 +46,7 @@ Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's desc
 - Literary lineage: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong admired and imitated Sima's fu and was later paired with him.
 - Early formation: [[zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h|Hanji 358-1]] says Sima obtained an attendant post under Han Jingdi, favored reading, then encountered Mei Cheng, Zou Yang, and other fu writers in Liang Xiao Wang's Suiyang circle.
 - Court access and advancement: [[zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz|Hanji 358-2]] says Yang Deyi's intervention brings Sima before Han Wudi, after which writing leads to a close court-secretarial role.
+- Frontier communication and policy: [[zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj|Hanji 269-2]] credits 《喻巴蜀檄》 and follow-up meetings with calming the Ye Lang crisis, then makes Sima adviser and envoy for western incorporation, road opening, gifts, and gate relocation.
 - Ethical reception: [[zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz|Hanji 358-2]] cites Su Shi's criticism of Sima's grand fu as exaggerated accommodation to the emperor.
 - Reputation and courtship: [[zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz|Hanji 358-2]] links Wang Ji's public deference, Zhuo Wangsun's banquet, 《凤求凰》, a private message, and elopement.
 - Poverty and tavern labor: [[zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq|Hanji 359-1]] says Sima sells the carriage and performs humble work while the couple operates a tavern.
@@ -53,13 +55,12 @@ Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's desc
 
 ## Qualifications
 
-All five inputs are podcast summaries rather than complete literary or historical dossiers, and consecutive episodes from one series are not independent corroboration. Hanji 358-1 places both 《子虚赋》 and 《上林赋》 in the Liang circle, while Hanji 358-2 is internally ambiguous about those works and 《天子游猎赋》; the wiki records the chronology problem rather than resolving it. Sima's purchased-office mechanism, duties, youthful habits, route to Suiyang, literary-circle influence, birthplace, Yang Deyi's hometown claim, court motives, 《凤求凰》 authorship, courtship planning, tavern details, concubine plan, 《白头吟》 attribution, reconciliation, deathbed instructions, 《封禅文》 textual history, and its causal effect remain source-scoped. Su Shi's criticism, the “情圣／渣男” framing, and the host's emotional reading are reception judgments, not final verdicts on Sima's character or corpus.
+All six inputs are podcast summaries rather than complete literary or historical dossiers, and episodes from one series are not independent corroboration. Hanji 358-1 places both 《子虚赋》 and 《上林赋》 in the Liang circle, while Hanji 358-2 is internally ambiguous about those works and 《天子游猎赋》; the wiki records the chronology problem rather than resolving it. The wording, audience, effect, and attribution details of 《喻巴蜀檄》, the extent of the reported pacification, the identities of western groups, route and gate names, gifts, and administrative outcomes require primary-text and geographic comparison. Sima's purchased-office mechanism, early duties, courtship traditions, fidelity story, 《白头吟》 attribution, deathbed instructions, 《封禅文》 textual history, and its causal effect also remain source-scoped.
 
 ## What Changed
 
-- Added the early Han Jingdi post, reading preference, and Suiyang patronage circle as a formation layer before imperial literary success.
-- Reframed Sima's reputation as a continuing contest among literary achievement, political ambition, and intimate conduct rather than a choice between “情圣” and “渣男.”
-- Made the conflict in the reported composition sequence of 《子虚赋》, 《上林赋》, and 《天子游猎赋》 explicit.
+- Added Sima's southwestern envoy role, using writing and elite communication after a coercive road-building crisis.
+- Extended his political profile from court access and ritual advocacy to frontier de-escalation, policy advice, and corridor-building.
 
 ## Relationships
 
@@ -75,3 +76,5 @@ All five inputs are podcast summaries rather than complete literary or historica
 - [[FengshanWen|《封禅文》]] - posthumous work attributed to Sima and addressed to imperial ritual ambition.
 - [[FengshanRitualLegitimacy|封禅礼制合法性]] - ritual-political framework the posthumous work is said to advocate.
 - [[PrivateAccessTalentChannel|私人进身通道]] - mechanism linking ability to scarce imperial attention.
+- [[YelangStateWesternHan|夜郎]] - frontier polity where the episode locates Sima's proclamation, meetings, and de-escalation mission.
+- [[AdministrativeBoundaryRelocation|行政边界迁移式扩张]] - governance mechanism used when Sima's embassy reportedly removes old gates and installs new ones farther outward.
