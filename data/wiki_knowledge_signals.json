@@ -94201,9 +94201,9 @@
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHong": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94281,6 +94281,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1） [ltYeEdn6ElSV2EkUlfGX096MXHUg].md",
+          "key": "zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug/"
         }
       ],
       "updated": "2026-10-08",
@@ -132611,6 +132618,36 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/lateantiquefirstpersonevidence/"
+    },
+    "LateBloomingTalent": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你 [llSPjStkSuy5C-I9mXM53T2R55F7].md",
+          "key": "zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？ [lvEg-WsMgGRoAXJsnXopaEVExqod].md",
+          "key": "zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1） [ltYeEdn6ElSV2EkUlfGX096MXHUg].md",
+          "key": "zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/latebloomingtalent/"
     },
     "LateCivilRightsEconomicJustice": {
       "episode_count": 1,

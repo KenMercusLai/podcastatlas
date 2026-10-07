@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug.md) — 公孙弘由贫寒、失职、牧猪和四十余岁始学进入武帝求贤通道，以君上立信、量才任官、节制民力和仁义礼智获破格擢为博士；精确年代、措辞与天人感应因果保留来源边界。
 - [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf.md) — 馆陶长公主刘嫖以财富和宗室通道扶持董偃，汉武帝又以“主人翁”、赐衣冠与同席饮酒把私下伴侣转成公开可识别的身份；姓名、收养、性关系及“第一人”判断保留来源边界。
 - [Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray](sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341.md) — Huberman Lab interview on circulating aging factors, organ clocks, exercise-conditioned blood, cerebrospinal fluid, and human-translation limits.
 - [VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？](sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4.md) — 这病说来话长以宝姐乳腺异常就医、术后恢复和家庭照护为线索，呈现阿福在提问、报告解释和日常支持中的低门槛价值，同时保留医生、120与亲属陪伴的不可替代边界。
@@ -8319,7 +8320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
 - [张钧 / Zhang Jun (late Han)](entities/ZhangJunLateHan.md) — Zhongshan langzhong whose anti-Ten-Attendants memorial is shown to the eunuchs and recoded into a fatal Yellow Turban accusation.
-- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — 由贫寒晚起进入西汉高位，以折中和顺应保留影响；禁弓提议曾受驳，危险任命与资格筛选又使其政治适应带有明显道德歧义。
+- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — 由贫寒、晚学与求贤对策进入西汉高位，以折中和顺应保留影响；禁弓提议、危险任命与惩罚论证又使其政治适应带有明显道德歧义。
 - [公孙洪 / Gongsun Hong (Langya, Western Han)](entities/GongsunHongLangyaWesternHan.md) — Langya administrator killed in Hanji 625 after disaster talk and non-praise are recoded as hostility under Wang Mang's praise environment.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -21013,7 +21014,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
-- [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.
+- [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where preparation, access, timing, recognition, and a usable political stage must align before long-hidden capacity becomes consequential.
 - [Long-Term Achievement Discipline / 长期成事纪律](concepts/LongTermAchievementDiscipline.md) — Durable-achievement frame where patient accumulation, moral practice, governed desire, and delayed readiness meet external timing and opportunity.
 - [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
 - [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.

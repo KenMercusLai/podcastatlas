@@ -14,6 +14,7 @@ sources:
   - zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr
   - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
   - zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d
+  - zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ knowledge_schema: synthesis-v1
 公孙弘 / Gongsun Hong is a Western Han official whose current profile combines mobility from poor and nonelite origins, tactful policy influence, fallible governance judgment, political rivalry, conservative credibility screening, criticism absorption, and an unusual natural death while serving as chancellor. He can preserve room to advise [[HanWudi|汉武帝]] by narrowing rather than directly rejecting imperial priorities; appointment, prosecution, and public-response episodes show the same institutional skill operating in morally different directions.
 
 ## Current Profile
+
+Hanji 272 now supplies the profile's first court-entry mechanism. It presents Gongsun Hong as a poor former local clerk who loses office, tends pigs, begins sustained study in his forties, and waits roughly two decades before a 140 BCE recruitment edict creates an opening. His response argues that upright conduct above creates trust below and that rewards and punishments cannot compensate for rulers who lack credibility; it then joins ability-matched appointment, livelihood restraint, merit, punishment, and the virtues of benevolence, righteousness, ritual, and wisdom. The reviewing office reportedly finds the answer ordinary, but [[HanWudi|汉武帝]] ranks it first and appoints him as boshi. This makes late preparation plus ruler recognition the beginning of his mobility while also showing, before the later survival episodes, how classical language and bureaucratic practicality made him legible to concentrated power.
 
 Hanji 925 makes Gongsun Hong a positive case for [[StrategicCompromiseAsAgency|策略性妥协保全机会]]. When Han Wudi wants both pressure against the [[Xiongnu|匈奴]] and southwest development, Gongsun Hong avoids flat contradiction and instead narrows the priority problem. His compromise preserves access and future influence under a ruler with strong preferences.
 
@@ -54,9 +57,12 @@ The unsuccessful edge of that method appears after Ji An criticizes Wudi's horse
 - Politically ambivalent court actor who can use appointment, indirect consequence, imperial-institution language, or public-legitimacy argument as an exposure, displacement, or punishment mechanism, though not every proposal succeeds.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
 - Absorbs public criticism through concession and praise of the critic, while the sincerity of both austerity and humility remains unresolved.
-- Combines nonelite mobility and late advancement with a rare natural death in the Wudi-era chancellorship.
+- Combines nonelite origin, late study, a recruitment opening, and a ruler-credibility policy response with a rare natural death in the Wudi-era chancellorship.
 
 ## Evidence
+
+Late study, recruitment, and first appointment:
+- [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug|Hanji 272]] presents Gongsun Hong's dismissal, pig tending, study in his forties, imperial recruitment response, critique of punishment-first governance, Wudi's first-place selection, and appointment as boshi.
 
 Compromise that preserves influence:
 - [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]] uses Gongsun Hong's Xiongnu-versus-southwest advice to show how policy narrowing can preserve agency under strong imperial preference.
@@ -89,13 +95,15 @@ Delayed counteraction and an unsuccessful punishment proposal:
 
 ## Qualifications
 
-All eleven sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 273 adds a proposed punishment, not an imposed one; it does not establish the governing offense, legal possibility of clan punishment, Wudi's inner reaction, Gongsun's hidden motive, or whether Ji's Huaiyang appointment was retaliation rather than a mixed-purpose personnel decision. Its statement that Wudi first intended only to remove Zhufu Yan from office differs in detail from Hanji 285's contemplated release, though both preserve initial noncapital leniency. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
+Hanji 272 supports the broad sequence of poverty, delayed study, recruitment, response, and first appointment more securely than its exact birth year, birthplace, local title, dismissal cause, ages, teacher relationship, chronology, response wording, examination mechanics, or cosmological causal claims. It also does not show that merit consistently displaced status or that this first success explains Gongsun Hong's eventual survival.
+
+All twelve sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 273 adds a proposed punishment, not an imposed one; it does not establish the governing offense, legal possibility of clan punishment, Wudi's inner reaction, Gongsun's hidden motive, or whether Ji's Huaiyang appointment was retaliation rather than a mixed-purpose personnel decision. Its statement that Wudi first intended only to remove Zhufu Yan from office differs in detail from Hanji 285's contemplated release, though both preserve initial noncapital leniency. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
 
 ## What Changed
 
-- Added the episode-attributed attempt to convert Ji An's ritual criticism into an offense against imperial institutions, while preserving Wudi's rejection.
-- Joined public criticism absorption to possible delayed counteraction without treating concealed revenge as proved motive.
-- Added the Huaiyang appointment as a contested displacement case and retained genuine local-governance need as a live alternative.
+- Added the delayed-study and first-recruitment stage before the already documented chancellorship and survival arc.
+- Integrated Gongsun Hong's early claim that ruler credibility, ability-matched appointment, livelihood restraint, and moral order must work together rather than relying on reward and punishment alone.
+- Distinguished the supported entry sequence from source-scoped dates, wording, examination details, cosmology, and any complete causal explanation of his later success.
 
 ## Relationships
 
@@ -116,5 +124,6 @@ All eleven sources are popular-history interpretations. Hanji 925 and Hanji 286 
 - [[ZhuMaichenWesternHan|朱买臣]] - debate opponent whose defense of Shuofang prompts Gongsun to revise the retrenchment proposal.
 - [[JiAnWesternHan|汲黯]] - critic whose hypocrisy accusation Gongsun publicly accepts and reframes as loyal candor.
 - [[RespectBasedConflictDeescalation|尊重式冲突降温]] - captures the response pattern of lowering conflict by validating the critic rather than counterattacking.
+- [[LateBloomingTalent|大器晚成式人才显现]] - frames the conjunction of late study, extended preparation, recruitment timing, and imperial recognition in his first ascent.
 - [[GuoJieWesternHan|郭解]] - influential commoner whose follower violence Gongsun Hong converts into a fatal indirect-responsibility argument.
 - [[PrivateRetainerNetworkRisk|私人门客网络风险]] - risk frame for violence performed by loyalists outside a formal chain of command.

@@ -31760,3 +31760,11 @@ Added source `zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulun
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）
+
+Added source `zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug`; and resynthesized [[GongsunHong|公孙弘]] and [[LateBloomingTalent|大器晚成式人才显现]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 公孙弘的晚成不是年龄自动转化为才能，而是贫寒失职后的长期学习、求贤制度通道、对策表达与汉武帝破格识别共同作用；其早期主张把君上立信、量才任官、节制民力、赏罚与仁义礼智结合，成为后来政治适应能力的正面起点。No settled contradiction was adopted. 出生地与年代、早年官职、免职缘由、始学年龄、师承、二十一年间隔、对策原文、阅卷过程、形貌反应、官职细节、仕途顺利因果及天人感应均保留来源边界。Broad [[HanWudi|汉武帝]], [[ZhangTangWesternHan|张汤]], and Confucian-governance pages were kept closed because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,974 sources across 799 overview paragraphs and nine topics. Changed-content wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
