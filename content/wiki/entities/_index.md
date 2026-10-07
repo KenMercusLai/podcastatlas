@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12573
+wiki_total_pages: 12574
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "AlokJha"
     title: "Alok Jha"
     url: "/wiki/entities/alokjha/"
+  - key: "AlokKanojia"
+    title: "Alok Kanojia"
+    url: "/wiki/entities/alokkanojia/"
   - key: "AlphaSchool"
     title: "Alpha School"
     url: "/wiki/entities/alphaschool/"

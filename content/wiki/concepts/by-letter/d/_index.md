@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9802
+wiki_total_pages: 9805
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "DistantStateAppeasementTrap"
     title: "Distant-State Appeasement Trap / 远国安抚误读"
     url: "/wiki/concepts/distantstateappeasementtrap/"
+  - key: "DistressToleranceAndEmotionalChoice"
+    title: "Distress Tolerance and Emotional Choice"
+    url: "/wiki/concepts/distresstoleranceandemotionalchoice/"
   - key: "DistributedCeramicProduction"
     title: "Distributed Ceramic Production / 分布式瓷业生产"
     url: "/wiki/concepts/distributedceramicproduction/"

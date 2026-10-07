@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia](sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454.md) — Huberman Lab interview on identity-level pattern change, emotional tolerance, yoga nidra, digital comparison, pornography, and AI reality-testing risk.
 - [121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言](sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4.md) — 纸醉金迷FM以《孔雀翎》区分有力的信心寓言与薄弱的借宝、遗失及友情结局因果，同时细读高立与双双的相互滋养。
 - [《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧](sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn.md) — 卫青在苏建失军后保留拘押与追责，却拒绝以阵斩偏将展示个人威严，并把终局裁决交回汉武帝。
 - [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
@@ -3967,6 +3968,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
 - [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational literary podcast using retelling, disagreement, and causal scrutiny to discuss Gu Long's 《孔雀翎》.
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
@@ -16592,6 +16594,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Identity-Level Pattern Change](concepts/IdentityLevelPatternChange.md) — Durable-change framework targeting self-beliefs, conditioned wants, and tendencies beneath repeatedly forced behavior.
+- [Distress Tolerance and Emotional Choice](concepts/DistressToleranceAndEmotionalChoice.md) — Capacity to accept and name emotion or uncertainty without treating it as proof of danger or an automatic behavioral command.
+- [Yoga Nidra and Sankalpa Belief Change](concepts/YogaNidraSankalpaBeliefChange.md) — Evidence-bounded proposal separating immediate deep relaxation from stronger claims about learning, unconscious editing, and identity change.
 - [Confidence as a Weapon](concepts/ConfidenceAsWeapon.md) — Belief in a decisive resource can restore existing skill internally while its reputation deters opponents externally.
 - [Reciprocal Care and Dignity](concepts/ReciprocalCareAndDignity.md) — Care relation where visible assistance flows one way but emotional safety, recognition, purpose, and dignity flow both ways.
 - [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between a story's thematic force and whether its causes, motivations, and revelations adequately support that theme.

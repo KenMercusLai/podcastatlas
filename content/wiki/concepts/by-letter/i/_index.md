@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9802
+wiki_total_pages: 9805
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "IdentityResolutionError"
     title: "Identity Resolution Error"
     url: "/wiki/concepts/identityresolutionerror/"
+  - key: "IdentityLevelPatternChange"
+    title: "Identity-Level Pattern Change"
+    url: "/wiki/concepts/identitylevelpatternchange/"
   - key: "IdentityProxiedBorderEnforcement"
     title: "Identity-Proxied Border Enforcement"
     url: "/wiki/concepts/identityproxiedborderenforcement/"

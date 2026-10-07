@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 9802
+wiki_total_pages: 9805
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "YinYangFivePhasesPoliticalTheory"
     title: "Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论"
     url: "/wiki/concepts/yinyangfivephasespoliticaltheory/"
+  - key: "YogaNidraSankalpaBeliefChange"
+    title: "Yoga Nidra and Sankalpa Belief Change"
+    url: "/wiki/concepts/yoganidrasankalpabeliefchange/"
   - key: "YorubaTwinCosmology"
     title: "Yoruba Twin Cosmology"
     url: "/wiki/concepts/yorubatwincosmology/"

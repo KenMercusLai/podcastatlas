@@ -11155,6 +11155,22 @@
       "updated": "2026-08-19",
       "url": "/wiki/concepts/allusiveremonstrance/"
     },
+    "AlokKanojia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/alokkanojia/"
+    },
     "AlphaFold": {
       "episode_count": 4,
       "show_count": 4,
@@ -58866,9 +58882,9 @@
       "url": "/wiki/concepts/digitalpublicsphereepistemicauthority/"
     },
     "DigitalSexualSubstituteRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -58890,9 +58906,16 @@
           "show": "Huberman Lab",
           "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
           "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
+        },
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/digitalsexualsubstituterisk/"
     },
     "DigitalSovereignty": {
@@ -60009,6 +60032,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/dissociationcircuitinference/"
+    },
+    "DistressToleranceAndEmotionalChoice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/distresstoleranceandemotionalchoice/"
     },
     "DistributedComplicityUnderAuthoritarianism": {
       "episode_count": 4,
@@ -111813,6 +111852,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/idealtopracticeconversion/"
+    },
+    "IdentityLevelPatternChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/identitylevelpatternchange/"
     },
     "IdentityPoliticsAsPoliticalSorting": {
       "episode_count": 2,
@@ -217810,6 +217865,50 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/swisse/"
     },
+    "SycophanticAICompanionRisk": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+          "key": "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11",
+          "show": "硅谷101",
+          "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+        },
+        {
+          "episode_file": "tech_20251230_1230_MP_TECH_pod_128 [tech_20251230_1230_MP_TECH_pod_128].md",
+          "key": "tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered chatbots sent some users into a spiral",
+          "url": "/wiki/sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
+          "key": "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why state AGs are taking Meta to court",
+          "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251208_1208_MP_TECH_pod_128 [tech_20251208_1208_MP_TECH_pod_128].md",
+          "key": "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds",
+          "show": "Marketplace Tech",
+          "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
+          "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+        },
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/sycophanticaicompanionrisk/"
+    },
     "SylviaBeach": {
       "episode_count": 1,
       "show_count": 1,
@@ -249242,6 +249341,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/yizhoupacificationbyleniency/"
+    },
+    "YogaNidraSankalpaBeliefChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4778698454 [SCIM4778698454].md",
+          "key": "unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454",
+          "show": "Huberman Lab",
+          "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+          "url": "/wiki/sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/yoganidrasankalpabeliefchange/"
     },
     "YokkaichiPollutionIncident": {
       "episode_count": 1,

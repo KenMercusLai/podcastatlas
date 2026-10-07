@@ -28915,6 +28915,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DistressToleranceAndEmotionalChoice": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DistributedNeuralRepresentation": [
     {
       "key": "science",

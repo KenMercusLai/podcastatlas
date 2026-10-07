@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3154
+topic_total_pages: 3155
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1201,6 +1201,9 @@ topic_concepts:
   - key: "DistantStateAppeasementTrap"
     title: "Distant-State Appeasement Trap / 远国安抚误读"
     url: "/wiki/concepts/distantstateappeasementtrap/"
+  - key: "DistressToleranceAndEmotionalChoice"
+    title: "Distress Tolerance and Emotional Choice"
+    url: "/wiki/concepts/distresstoleranceandemotionalchoice/"
   - key: "DollarFinancialSanctions"
     title: "Dollar Financial Sanctions"
     url: "/wiki/concepts/dollarfinancialsanctions/"

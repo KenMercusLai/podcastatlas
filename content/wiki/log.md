@@ -31206,6 +31206,14 @@ Added source `121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-07] ingest | Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia
+
+Added source `unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454`; created [[AlokKanojia]], [[IdentityLevelPatternChange]], [[DistressToleranceAndEmotionalChoice]], and [[YogaNidraSankalpaBeliefChange]]; migrated and resynthesized [[SycophanticAICompanionRisk]]; and extended [[DigitalSexualSubstituteRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: durable behavior change may become easier when underlying identity and conditioned desire change; distress tolerance adds response options rather than suppressing emotion; and deep-rest practices need a clear boundary between immediate relaxation and stronger belief-editing claims. The episode also treats sycophantic AI as a reality-testing risk and pornography as potentially combining stimulation, pain relief, parasocial attachment, and avoidance of vulnerable social learning without pathologizing all use. No settled contradiction was adopted. Clinical outcomes, neuroscience bridges, social trends, men's statistics, yoga and meditation mechanisms, pornography effects, dopamine claims, and AI-associated crises remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], and high-volume emotion, sleep, addiction, and AI pages were kept closed because the focused source, entity, and concepts capture the bounded addition without rewriting much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,902 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
