@@ -31800,3 +31800,11 @@ Added source `307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmo
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）
+
+Added source `zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp`; created the disambiguated [[EmpressChenAjiaoWesternHan|陈阿娇]] and [[ChangmenFu|《长门赋》]] profiles; and resynthesized [[LiuPiaoWesternHan|馆陶长公主刘嫖]] and [[PalaceFavorSelfRestraint|宫廷宠幸自持]] from their complete preserved source inventories before appending the new source once. Core synthesis: the episode treats Chen's deposition as an overlap of wugu punishment, a politically useful opportunity to change empress, weak coalition support, and loss of emotional proportion, while Liu Piao's direct access obtains reassurance but not reversal. No settled contradiction was adopted. The title's “独宠女官” topic is absent from the supplied body; Wudi's prior intent, the number implicated, “金屋藏娇,” Chen's culpability and psychology, Liu Piao's distraction, and the commission, attribution, payment, and effect of 《长门赋》 remain source-scoped. Broad [[HanWudi|汉武帝]], [[EmpressWeiZifuWesternHan|卫子夫]], [[ZhangTangWesternHan|张汤]], [[SimaXiangru|司马相如]], and wugu pages were kept closed because the bounded additions are represented in focused figure, work, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,979 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

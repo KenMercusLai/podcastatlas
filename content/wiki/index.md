@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp.md) — 陈阿娇的巫蛊废后被解释为法律理由、换后机会与联盟弱势的叠加；标题所称“独宠女官”未在正文展开，帝王动机、《长门赋》委托与情感因果保留来源边界。
 - [307-为什么国内很多学术翻译质量这么差？](sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r.md) — 独树不成林与赵雨飞区分文学文气和学术可靠性，并把术语一致、整体思想理解、译者克制与低稿酬、弱评价和有限市场联系起来。
 - [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel.md) — 东方朔以三项重罪与乱政典故阻止董偃进入未央宫前殿，汉武帝把宴席移至北宫后宠爱转淡；医学生死因果、情感动机、典故转录与合葬细节保留来源边界。
 - [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（2）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm.md) — 袁固生以正学直言警戒曲学阿世，公孙弘则在两次失意后以陈事实、列选项而不廷争适应汉武帝并进入快速升迁；年代、心理转变、人格评价与升迁因果保留来源边界。
@@ -4046,6 +4047,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [陈阿娇 / Empress Chen (Western Han)](entities/EmpressChenAjiaoWesternHan.md) — 因巫蛊案被废、缺乏稳固联盟并在长门叙事中成为失宠与情感依附象征的汉武帝早期皇后。
+- [《长门赋》 / Changmen Fu](entities/ChangmenFu.md) — 与陈阿娇长门宫幽居和司马相如委托传统相连、但作者与委托细节仍需文献核验的赋作。
 - [Zhao Yufei / 赵雨飞](entities/ZhaoYufei.md) — Translator and political-philosophy guest advocating terminology consistency, whole-author research, annotation, and explicit justification in scholarly translation.
 - [馆陶长公主刘嫖 / Liu Piao](entities/LiuPiaoWesternHan.md) — Western Han princess whose kinship and wealth secure Dong Yan's public recognition but not immunity from ceremonial limits or changing imperial favor.
 - [董偃 / Dong Yan (Western Han)](entities/DongYanWesternHan.md) — Household dependent and intimate companion whose court-visible status remains venue-limited, reversible, and outside regular office.

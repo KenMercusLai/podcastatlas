@@ -36342,6 +36342,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/changguangcommanderylatehan/"
     },
+    "ChangmenFu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2） [llLZLb2KNJj0oVMuC8tIid34m0gp].md",
+          "key": "zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/changmenfu/"
+    },
     "ChangpengZhao": {
       "episode_count": 2,
       "show_count": 2,
@@ -70868,6 +70884,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/employeehealthbenefitsai/"
+    },
+    "EmpressChenAjiaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2） [llLZLb2KNJj0oVMuC8tIid34m0gp].md",
+          "key": "zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/empresschenajiaowesternhan/"
     },
     "EmpressDengHuanLateHan": {
       "episode_count": 4,
@@ -140141,9 +140173,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuPiaoWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
@@ -140158,6 +140190,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2） [llLZLb2KNJj0oVMuC8tIid34m0gp].md",
+          "key": "zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp/"
         }
       ],
       "updated": "2026-10-08",
@@ -173697,9 +173736,9 @@
       "url": "/wiki/concepts/palaceenvoylocalextraction/"
     },
     "PalaceFavorSelfRestraint": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！ [li_zockGVXTjooPWi0IzWknexugE].md",
@@ -173707,9 +173746,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2） [llLZLb2KNJj0oVMuC8tIid34m0gp].md",
+          "key": "zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/palacefavorselfrestraint/"
     },
     "PalaceFavoriteProtectionFragility": {

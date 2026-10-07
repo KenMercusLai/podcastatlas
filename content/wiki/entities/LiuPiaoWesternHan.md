@@ -5,13 +5,14 @@ tags: [person, princess, western-han, court-politics, patronage]
 sources:
   - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf
   - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel
+  - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-馆陶长公主刘嫖 / Liu Piao is presented as a Western Han imperial princess whose kinship, earlier political leverage, great household wealth, and direct access to [[HanWudi|汉武帝]] allow her to transform [[DongYanWesternHan|董偃]] from a young household dependent into a publicly recognized companion. The continuation shows that recognition meeting a ceremonial limit and closes with her reported burial request. The first supplied episode calls her “刘飘”; this page uses the transmitted name 刘嫖.
+馆陶长公主刘嫖 / Liu Piao is presented as a Western Han imperial princess whose kinship, earlier political leverage, great household wealth, and direct access to [[HanWudi|汉武帝]] allow her to transform [[DongYanWesternHan|董偃]] from a young household dependent into a publicly recognized companion. Hanji 270 adds the limit of that access before the Dong Yan sequence: she can obtain reassurance after her daughter [[EmpressChenAjiaoWesternHan|陈阿娇]] is deposed but cannot reverse the decision. The first supplied Hanji 271 episode calls her “刘飘”; this page uses the transmitted name 刘嫖.
 
 ## Current Profile
 
@@ -25,6 +26,8 @@ Hanji 271-2 adds the limit to that strategy. Dongfang Shuo challenges Dong Yan's
 
 The continuation reports that Dong Yan dies after losing favor, Liu Piao dies in 116 BCE, and her will requests burial with him at Baling. It turns these events into a love tragedy and contrasts Dong Yan with her husband and daughter, but grief causation, emotional ranking, family estrangement, date, will, and burial details remain source-scoped.
 
+Hanji 270 supplies the immediate daughter-deposition bridge. Liu Piao reportedly apologizes and seeks mercy after Chen's wugu-linked removal; Wudi answers that the offense requires deposition but promises continued treatment at Changmen Palace. The host then argues that Liu Piao's involvement with Dong Yan consumed her attention and weakened her moral leverage. Her access and inability to change the outcome are supported within the episode, while distraction and “lack of standing” remain interpretations.
+
 ## Key Characteristics
 
 - Imperial kinship gives her direct access to Han Wudi even after her political influence declines.
@@ -32,6 +35,7 @@ The continuation reports that Dong Yan dies after losing favor, Liu Piao dies in
 - She converts private intimacy into public status through a carefully staged imperial audience.
 - Her low ritual posture during the presentation manages the risk of asking the emperor to tolerate a norm-breaking relationship.
 - Her patronage can secure recognition but cannot eliminate ceremonial boundaries or dependence on changing imperial favor.
+- Her imperial access can obtain explanation and reassurance for her deposed daughter without restoring the daughter's office.
 - The episode links her later private life to grief and political loss, but that psychological explanation remains interpretive.
 
 ## Evidence
@@ -48,18 +52,23 @@ Recognition strategy:
 Limits and final wishes:
 - [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel|Hanji 271-2]] says Wudi relocates a main-hall banquet after Dongfang Shuo's objection, then reports Liu Piao's death and request for burial with Dong Yan.
 
+Daughter's deposition:
+- [[zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp|Hanji 270]] says Liu Piao apologizes after Chen's deposition, receives Wudi's promise of continued material treatment, and fails to reverse the decision.
+
 ## Qualifications
 
-The current profile rests on two short, story-driven summaries from one podcast series. Exact inheritance, family details, ages, dialogue, curriculum, and psychological accounts of grief are not independently established here. “养子” does not prove a formal adoption, and the claim that later princess favorite-keeping began with her is not a settled institutional first. Her 116 BCE death, fourteen-year separation from Chen Jiao, will, preference among family members, and burial at Baling also require primary-source checking.
+The current profile rests on three short, story-driven summaries from one podcast series. Exact inheritance, family details, ages, dialogue, curriculum, and psychological accounts of grief are not independently established here. “养子” does not prove a formal adoption, and the claim that later princess favorite-keeping began with her is not a settled institutional first. Hanji 270's claim that Dong Yan distracted her from defending Chen and deprived her of moral leverage is likewise interpretive. Her 116 BCE death, fourteen-year separation from her husband, will, preference among family members, and burial at Baling also require primary-source checking.
 
 ## What Changed
 
 - Qualified her successful presentation of Dong Yan with a later ceremonial-space limit.
 - Added the reported death and burial request without adopting the episode's grief causation or family-emotion narrative as fact.
+- Added the earlier Chen-deposition scene as a limit case: direct access secures reassurance but not reversal.
 
 ## Relationships
 
 - [[DongYanWesternHan|董偃]] - young household dependent and later intimate companion whose public standing she engineers.
+- [[EmpressChenAjiaoWesternHan|陈阿娇]] - daughter whose deposition Liu Piao cannot reverse despite direct access to Wudi.
 - [[HanWudi|汉武帝]] - nephew and son-in-law whose acknowledgment converts her private arrangement into protected social status.
 - [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - explains how her kinship, wealth, and intimacy become patronage resources.
 - [[ImperialAcknowledgmentInformalStatus|帝王承认与非正式身份]] - captures the ceremonial authorization strategy used in Dong Yan's presentation.

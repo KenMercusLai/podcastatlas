@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12636
+wiki_total_pages: 12638
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "EzhiWarringStates"
     title: "阏氏 / Ezhi (Warring States)"
     url: "/wiki/entities/ezhiwarringstates/"
+  - key: "EmpressChenAjiaoWesternHan"
+    title: "陈阿娇 / Empress Chen (Western Han)"
+    url: "/wiki/entities/empresschenajiaowesternhan/"
   - key: "EmpressWeiTang"
     title: "韦后 / Empress Wei"
     url: "/wiki/entities/empressweitang/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12636
+wiki_total_pages: 12638
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1808,6 +1808,9 @@ wiki_pages:
   - key: "ChangdehaokanNengDangFanChiMa"
     title: "《长得好看能当饭吃吗》"
     url: "/wiki/entities/changdehaokannengdangfanchima/"
+  - key: "ChangmenFu"
+    title: "《长门赋》 / Changmen Fu"
+    url: "/wiki/entities/changmenfu/"
   - key: "CITICPress"
     title: "中信出版社 / CITIC Press"
     url: "/wiki/entities/citicpress/"

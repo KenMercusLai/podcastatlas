@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [court-politics, gender, power, self-restraint, relationship-management]
 sources:
   - zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -20,6 +21,8 @@ The episode's second layer is non-jealous favor management. Ban Jieyu recommends
 
 The concept therefore sits between etiquette, counsel, and survival. Favor creates access, but access becomes safer when it is disciplined by restraint, broader usefulness, and attention to shared platform interest. The source's workplace extension keeps the same structure: competition exists, but a valuable subordinate or collaborator keeps rivalry bounded so the whole system is not damaged.
 
+Hanji 270 adds a negative comparison through [[EmpressChenAjiaoWesternHan|陈阿娇]]. The host argues that after [[EmpressWeiZifuWesternHan|卫子夫]] gains favor, Chen loses proportion, turns to harmful tactics and wugu, and lacks the political network that might have buffered a change in affection. This does not prove that better self-restraint would have preserved her office; it shows only how emotional escalation can compound the structural vulnerability created by childlessness, lost favor, and weak coalition support.
+
 ## Key Claims
 
 - Intimate access can become politically dangerous when it publicly marks a ruler as governed by private pleasure rather than counsel.
@@ -27,7 +30,8 @@ The concept therefore sits between etiquette, counsel, and survival. Favor creat
 - Recommending another favorite can function as relationship management and value differentiation, not merely self-effacement.
 - Self-restraint under favor is legible to senior observers; in Hanji 528, Wang Zhengjun's Fan Ji comparison turns Ban Jieyu's conduct into a benchmark.
 - The pattern is not anti-competition; it requires rivalry to remain bounded by institutional and multi-party interest.
-- The source's workplace extension should remain source-scoped, because the historical evidence is one short palace episode plus host interpretation.
+- Self-restraint can reduce avoidable exposure but cannot substitute for heirs, political backing, legal protection, or a ruler's continuing support.
+- The sources' workplace and relationship extensions should remain source-scoped because both historical cases arrive through short, interpretive podcast summaries.
 
 ## Evidence
 
@@ -35,14 +39,16 @@ The concept therefore sits between etiquette, counsel, and survival. Favor creat
 - Senior praise: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Wang Zhengjun compares Ban Jieyu to Fan Ji, making her restraint a court-recognized virtue.
 - Non-jealous recommendation: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu recommends Li Ping to Chengdi, after which Li Ping is favored and granted jieyu rank.
 - Workplace extension: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] translates the story into rule awareness, proportion under favor, bounded struggle, and multi-win interest.
+- Negative comparison: [[zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp|Hanji 270]] attributes Chen's collapse partly to jealousy, harmful tactics, and loss of proportion after Wei Zifu's rise, while also emphasizing her weaker coalition.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on one interpretive source. It should not be used to claim that all favored women were safe through self-restraint, that non-jealous recommendation was always voluntary, or that court hierarchy rewarded virtue consistently. The episode does not provide a full biography of Li Ping or a complete account of Ban Jieyu's later displacement by the Zhao sisters, so later accusation and retreat layers remain governed by [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] and Zhao-sister source pages.
+This concept rests on two interpretive sources. It should not be used to claim that favored women were safe through self-restraint, that non-jealous recommendation was always voluntary, or that court hierarchy rewarded virtue consistently. Hanji 270 does not establish a counterfactual in which Chen could have kept her position through better conduct; political coalition, fertility, imperial preference, and the wugu case remain independent forces. Hanji 528 does not provide a full biography of Li Ping or a complete account of Ban Jieyu's later displacement by the Zhao sisters, so later accusation and retreat layers remain governed by [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] and Zhao-sister source pages.
 
 ## What Changed
 
 - Created from Hanji 528 to capture Ban Jieyu's pre-accusation reputation layer: carriage refusal, Fan Ji comparison, and recommendation of Li Ping as restrained favor management.
+- Added Chen Ajiao as a qualified negative comparison while rejecting the claim that self-command alone could neutralize structural palace risk.
 
 ## Related Concepts
 
@@ -51,3 +57,4 @@ This concept currently rests on one interpretive source. It should not be used t
 - [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]] - broader gendered capacity frame for self-command and court judgment near power.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - ruler-side counterpart when correction from near the ruler is heard and converted into restraint.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - risk field that self-restraint tries to keep from becoming institutional damage.
+- [[EmpressChenAjiaoWesternHan|陈阿娇]] - negative comparison in which shifting favor, weak coalition support, and emotional escalation converge.
