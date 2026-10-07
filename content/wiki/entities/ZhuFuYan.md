@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va
+  - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
 last_updated: 2026-10-07
 ---
 
@@ -17,7 +18,9 @@ last_updated: 2026-10-07
 
 ## Current Profile
 
-Hanji 284 part 1 supplies the interpretive premise before the developed political profile: escalating desire does not stop when one want is satisfied, money can become destructive rather than protective, and Zhufu Yan's talent is endangered by greed rather than by lack of ability. This remains a framing thesis until part 2 supplies conduct and consequence. Part 2 then shows that Zhufu Yan knows internal affairs in Yan, Qi, and Zhao, forwards the accusation that destroys [[LiuDingguoYanKingWesternHan|燕王刘定国]], and becomes feared and courted by officials and princely retainers. When Kong Che urges restraint, he answers that decades of rejection have left him old, ambitious, and willing to proceed “倒行逆施.”
+Hanji 281 adds a statecraft branch before the developed fall narrative. Zhufu Yan proposes moving wealthy households, local magnates, and youxia-linked forces to Maoling both to populate the settlement and weaken regional power. The episode's [[GuoJieWesternHan|郭解]] case shows that this anti-elite instrument can reach a reportedly sub-threshold household when reputation and high-level access reveal influence beyond recorded wealth.
+
+Hanji 284 part 1 supplies the interpretive premise for the later political profile: escalating desire does not stop when one want is satisfied, money can become destructive rather than protective, and Zhufu Yan's talent is endangered by greed rather than by lack of ability. This remains a framing thesis until part 2 supplies conduct and consequence. Part 2 then shows that Zhufu Yan knows internal affairs in Yan, Qi, and Zhao, forwards the accusation that destroys [[LiuDingguoYanKingWesternHan|燕王刘定国]], and becomes feared and courted by officials and princely retainers. When Kong Che urges restraint, he answers that decades of rejection have left him old, ambitious, and willing to proceed “倒行逆施.”
 
 The Qi case makes the mixture of public and private motive explicit. After Empress Dowager Ji rejects his proposed marriage connection, he memorializes against [[QiLiwangWesternHan|齐厉王]], invokes Linzi's wealth and the king's distant imperial kinship, and adds the allegation of incest. As Qi chancellor he conducts a coercive inquiry that ends in the king's suicide. [[LiuPengzuZhaoKingWesternHan|赵王刘彭祖]] then moves first, accusing him of bribery and forcing the Qi king's death.
 
@@ -29,7 +32,7 @@ Zhouji 29 preserves a much later reception layer. [[SimaGuang|司马光]] pairs 
 
 ## Key Characteristics
 
-- Converts knowledge, accusation, and uncompromising enforcement into rapid usefulness near Han Wudi.
+- Converts centralizing policy, local knowledge, accusation, and uncompromising enforcement into rapid usefulness near Han Wudi.
 - Uses royal scandal both for central discipline and, in the Qi case, alleged personal revenge.
 - Presented as shaped by poverty, exclusion, frustrated ambition, and escalating material desire without those conditions fully explaining or excusing his conduct.
 - Accumulates enemies across princely, elite, collegial, scholarly, and kinship networks.
@@ -41,6 +44,9 @@ Zhouji 29 preserves a much later reception layer. [[SimaGuang|司马光]] pairs 
 
 Princely information and Yan accusation:
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Zhufu Yan knows secrets from Yan, Qi, and Zhao and forwards the accusation that ends Liu Dingguo's reign and fief.
+
+Elite relocation and local-power control:
+- [[zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x|Hanji 281]] credits Zhufu Yan with proposing the Maoling relocation of wealthy and influential households as population policy and regional-power removal.
 
 Urgency and exercise of power:
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va|Hanji 284 part 1]] frames greed as the danger that redirects Zhufu Yan's talent and advancement toward self-destruction, while leaving the concrete case to the continuation.
@@ -60,12 +66,13 @@ Later reception:
 
 ## Qualifications
 
-The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 284 part 1's claim that greed ruins Zhufu Yan is a thesis announced before the excerpt presents his conduct, and the desire-escalation song does not establish his individual psychology. Part 2 distinguishes reported acts from its interpretation of motive: Linzi's wealth, royal distance, and sexual scandal are public arguments, while rejected marriage access and resentment are presented as a private driver. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 is recorded but does not provide a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
+The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 281 does not independently establish the exact Maoling proposal, covered categories, three-million threshold, Guo Jie's wealth, or whether political influence was a formal selection criterion. Hanji 284 part 1's claim that greed ruins Zhufu Yan is a thesis announced before the excerpt presents his conduct, and the desire-escalation song does not establish his individual psychology. Part 2 distinguishes reported acts from its interpretation of motive. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 is recorded but does not provide a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
 
 ## What Changed
 
 - Added escalating desire and wealth-seeking as the episode's explicit framing of how talent becomes self-destructive.
 - Clarified that this psychological frame precedes the case evidence and therefore remains interpretive rather than independently demonstrated.
+- Added the Maoling proposal as a centralizing policy case that uses demographic relocation to weaken local power.
 
 ## Relationships
 
@@ -79,3 +86,5 @@ The current evidence remains a popular-history reconstruction rather than a comp
 - [[PersonalRevengeThroughStatePower]] - concept describing the Qi case's mixture of official machinery and alleged private resentment.
 - [[RoyalKinshipScandalAdjudication]] - concept for the royal-house allegations he channels and investigates.
 - [[PowerContingentSocialTies]] - concept explaining why former guests and gift-givers do not become durable support after his fall.
+- [[MausoleumCountyEliteRelocation]] - administrative mechanism Zhufu Yan is credited with applying to wealthy and influential Maoling households.
+- [[GuoJieWesternHan]] - reportedly sub-threshold local strongman whose inclusion reveals the proposal's political-control logic.

@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va
   - zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl
+  - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
 last_updated: 2026-10-07
 ---
 
@@ -25,6 +26,8 @@ Hanji 284 part 1 adds a historiographical and ethical dispute. [[XunYue|荀悦]]
 
 Hanji 282 turns that abstract dispute into the concrete case of [[GuoJieWesternHan|郭解]]. His reputation can help settle local disputes, but followers, retaliation, and private coercion make the same network a rival source of order. [[HanWudi|汉武帝]]'s relocation policy is therefore presented as more than policing: central rule cannot safely ignore a person whose authority remains effective outside office, while the episode's contrast between [[Shiji|《史记》]] and [[HanShu|《汉书》]] shows that suppression and moral classification remain contested.
 
+Hanji 281 supplies the deferred coercion and punishment sequence. Guo Jie's later restraint can attract followers just as effectively as open violence; a nephew and a follower then kill in conflicts connected to his name even when he is not shown issuing the order. [[GongsunHong|公孙弘]]'s prosecution argument treats that decentered capacity as the danger itself. This sharpens the concept without settling the law: suppression targets not only personally committed violence but also an informal authority structure able to inspire private enforcement beyond public procedure.
+
 ## Key Claims
 
 - Unification changes private armed loyalty from a usable retainer virtue into a security risk.
@@ -32,7 +35,7 @@ Hanji 282 turns that abstract dispute into the concrete case of [[GuoJieWesternH
 - Literary and historical memory preserve admiration for figures whose conduct the governing order cannot safely authorize.
 - The state-order case against youxia emphasizes law, office, hierarchy, and predictable public authority.
 - The sympathetic case emphasizes practical aid when morally credentialed officials or institutions fail people in crisis.
-- A private mediator's usefulness does not remove the political and legal risk created when reputation, followers, and violence make judgments enforceable outside public procedure.
+- A private mediator's usefulness does not remove the political and legal risk created when reputation prompts followers to enforce grievances outside public procedure, even without a demonstrated direct order.
 - Neither frame makes all private violence just or all official suppression legitimate; the conflict must be judged through conduct, consequence, and institutional context.
 
 ## Evidence
@@ -48,16 +51,19 @@ Normative and historiographical conflict:
 
 Concrete local-authority case:
 - [[zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl|Hanji 282]] presents Guo Jie's dispute mediation, persistent influence, follower violence, Maoling relocation, and divided Shiji/Han Shu reception as one collision between social function and public authority.
+- [[zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x|Hanji 281]] adds the nominal wealth threshold, Wei Qing's intercession, Guo Jie's restraint anecdotes, kin and follower killings, Gongsun Hong's indirect-violence argument, and clan punishment.
 
 ## Counterevidence & Qualifications
 
-The sources do not provide a complete legal history of Qin or Han policy toward youxia, a precise chronology of suppression, or a stable definition covering every侠士, retainer, assassin, local notable, or bandit. Qinji 115-2's claim about the post-unification climate is a broad closing interpretation, and its Qin Wuyang counterfactual does not establish an alternative outcome. Qinji 128-6 shows survival and conversion of youxia style but does not prove that every local loyalty network opposed Qin. Hanji 284 part 1 compresses Xun Yue and Sima Qian into contrasting positions without quoting their full texts; Sima Qian's punishment may illuminate the host's reading but does not prove the cause of his historiographical sympathy. Hanji 282 likewise does not fully collate the Guo Jie passages or reconstruct his prosecution, and “organized crime” is a modern analogy rather than a stable ancient legal category. Extra-institutional aid can resist abusive power, but it can also become coercion, faction, retaliation, or unaccountable violence.
+The sources do not provide a complete legal history of Qin or Han policy toward youxia, a precise chronology of suppression, or a stable definition covering every侠士, retainer, assassin, local notable, or bandit. Qinji 115-2's claim about the post-unification climate is a broad closing interpretation, and its Qin Wuyang counterfactual does not establish an alternative outcome. Qinji 128-6 shows survival and conversion of youxia style but does not prove that every local loyalty network opposed Qin. Hanji 284 part 1 compresses Xun Yue and Sima Qian into contrasting positions without quoting their full texts. Hanji 281 fills Hanji 282's narrative gap but does not independently establish Guo Jie's knowledge, command, legal culpability, the governing doctrine, or the proportionality of clan punishment. “Organized crime” is a modern analogy rather than a stable ancient legal category. Extra-institutional aid can resist abusive power, but it can also become coercion, faction, retaliation, or unaccountable violence; conversely, network risk does not by itself prove every act was authorized by the network's central figure.
 
 ## What Changed
 
 - Added Guo Jie as the concrete case in which dispute resolution and coercive private authority arise from the same local network.
 - Extended suppression from legitimacy language into relocation, persistent reputation, and the state's concern with rival enforcement capacity.
 - Added the Shiji/Han Shu contrast without flattening it into a settled verdict on Guo Jie.
+- Added the full Hanji 281 prosecution sequence and Gongsun Hong's argument about violence performed around, rather than directly by, an influential commoner.
+- Preserved the distinction between demonstrated network danger and unproven direct command.
 
 ## Related Concepts
 

@@ -31620,3 +31620,11 @@ Added source `jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓
+
+Added source `zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x`; and resynthesized [[GuoJieWesternHan|郭解]], [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]], [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]], [[GongsunHong|公孙弘]], and [[ZhuFuYan|主父偃]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Maoling relocation joins population building to local-power control; Guo Jie's reported inclusion below the wealth threshold shows political reach overriding a nominal asset screen; and killings by relatives or followers make his reputation network a public-order threat even without a demonstrated direct order. Gongsun Hong's indirect-violence argument is recorded as the episode's path to clan punishment, not adopted as a verified or proportionate legal doctrine. No settled contradiction with Hanji 282 was found. Thresholds, Guo Jie's wealth and early offenses, knowledge or command of follower violence, legal doctrine, exact wording, and clan-punishment scope remain source-scoped. Broad [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], [[XuFuPhysiognomist|许负]], and show pages were read for context but not reopened because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,955 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
