@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [military-strategy, intelligence, local-knowledge, reconnaissance, deep-strike]
 sources:
   - zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity
+  - zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu
 last_updated: 2026-10-07
 ---
 
@@ -16,7 +17,7 @@ last_updated: 2026-10-07
 
 [[GaoqueCampaignWesternHan|The reported 124 BCE Gaoque campaign]] supplies the current bounded example. The Xiongnu Right Wise King treats six to seven hundred li of grassland depth, difficult terrain, unstable weather, and the fatigue of pursuit as a protective barrier. [[WeiQingHanGeneral|卫青]]'s force reportedly changes that equation through a surrendered Xiongnu prince's subordinate who knows both the northern base and routes around scouts and warning zones.
 
-The guide does not eliminate operational risk or independently produce victory. Local knowledge must still be trusted, translated into movement, checked by reconnaissance, and followed by a workable deployment. In the episode, scouts verify the camp's relaxed condition and the Han force begins an encirclement, but the supplied text ends before combat. The evidence therefore supports approach and surprise-enabling effects, not the title's claimed destruction of the enemy force.
+The guide does not eliminate operational risk or independently produce victory. Local knowledge must still be trusted, translated into movement, checked by reconnaissance, and followed by a workable deployment. Hanji 291 now reports that the encirclement becomes a successful night attack: the Right Wise King escapes, but more than ten lesser kings, over fifteen thousand people, and nearly one million livestock are captured. The joined evidence therefore supports a route from reduced approach uncertainty to force neutralization, while the leader's escape shows why access is not equivalent to complete decapitation.
 
 ## Key Claims
 
@@ -24,7 +25,7 @@ The guide does not eliminate operational risk or independently produce victory. 
 - An insider guide can change the feasibility of a deep strike by joining target location with knowledge of scouts, guarded zones, and usable approaches.
 - Route intelligence and tactical reconnaissance are complementary: the guide enables approach, while fresh observation tests the target's current condition.
 - Surprise depends partly on an opponent's model of what the attacker can know and endure, not only on speed or concealment.
-- Guide-enabled access does not prove battlefield success; trust, supply, fatigue, deception risk, command, and combat remain separate constraints.
+- Guide-enabled access can enable battlefield success without guaranteeing leadership capture; trust, supply, fatigue, deception risk, command, and combat remain separate constraints.
 
 ## Evidence
 
@@ -36,15 +37,16 @@ Guide and reconnaissance functions:
 
 Bounded operational effect:
 - [[zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity|Hanji 290-2]] reaches a dispersed encirclement before nightfall but stops before the attack or result.
+- [[zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu|Hanji 291]] reports that the subsequent attack captures much of the target polity's people, subordinate rulers, and livestock while the Right Wise King escapes.
 
 ## Counterevidence & Qualifications
 
-The current evidence is one brief popular-history episode. It does not identify the surrendered prince or guide, independently verify the reported route, show how the guide's reliability was assessed, quantify supply and fatigue, or establish the exact reconnaissance and encirclement sequence. It also does not narrate combat. The concept therefore describes how local knowledge can reduce route and detection uncertainty, not a universal formula for successful deep operations or proof that the title's “袭杀” occurred within the supplied text.
+The current evidence is two brief popular-history episodes in one narrative sequence. They do not identify the surrendered prince or guide, independently verify the reported route, show how reliability was assessed, quantify supply and fatigue, or establish the exact reconnaissance, encirclement, attack, and capture sequence. Hanji 291 supplies an outcome, but its totals and strategic evaluation remain source-scoped. The concept therefore describes how local knowledge can reduce route and detection uncertainty and contribute to success, not a universal formula or proof that a guided strike must capture its named leader.
 
 ## What Changed
 
-- Established a bounded distinction between strategic depth as a presumed barrier and insider route knowledge as a means of crossing it.
-- Separated guide-enabled approach and surprise from the still-unreported battle result.
+- Added the reported battle result and linked guide-enabled access to severe force neutralization.
+- Preserved the distinction between operational success and complete decapitation because the Right Wise King escapes.
 
 ## Related Concepts
 

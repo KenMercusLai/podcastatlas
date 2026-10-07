@@ -6,12 +6,13 @@ tags: [event, western-han, xiongnu, warfare, shuofang, military-command]
 sources:
   - zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x
   - zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity
+  - zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King is the opening and approach phase of a reported 124 BCE operation in which [[HanWudi|汉武帝]] sends [[WeiQingHanGeneral|卫青]] from Gaoque toward the Xiongnu Right Wise King while an eastern force contains the Left Wise King. The current evidence follows the target from an abandoned first camp to a northern base and Wei Qing's force to a pre-nightfall encirclement, but stops before combat.
+西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King is a reported 124 BCE operation in which [[HanWudi|汉武帝]] sends [[WeiQingHanGeneral|卫青]] from Gaoque toward the Xiongnu Right Wise King while an eastern force contains the Left Wise King. Across three episodes, the campaign moves from an abandoned first camp through an insider-guided approach and night encirclement to a result in which the king escapes but much of his political, human, and livestock base is captured.
 
 ## Current Profile
 
@@ -21,17 +22,19 @@ The first objective is not a battle but an empty camp. Xiongnu scouts reportedly
 
 [[zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity|Hanji 290-2]] continues that pursuit. It says the Right Wise King withdraws six to seven hundred li to a northern base, assumes terrain and distance will exhaust or misdirect the Han force, posts no warning force, and holds a feast. A surrendered Xiongnu prince's subordinate reportedly supplies the base location and routes around scouts and guarded zones; Han reconnaissance then observes the relaxed camp, and Wei Qing spreads his force into an encirclement while waiting for darkness.
 
-Both episode titles promise a completed victory, yet the supplied texts still do not reach combat, captures, casualties, or Wei Qing's promotion. This page therefore represents campaign setup and approach, not a completed battle result, and remains distinct from the later [[FirstDingxiangCampaignWesternHan|first Dingxiang sortie]] of 123 BCE.
+[[zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu|Hanji 291]] completes that sequence. It reports a four-direction night attack, the intoxicated Right Wise King's escape north with several hundred guards, and the capture of more than ten lesser kings, over fifteen thousand people, and nearly one million livestock. The operational result is therefore substantial force and resource neutralization without leadership capture. Han Wudi then sends the grand-general seal to the army; Wei Qing is placed over the other generals, refuses marquisates for his unproven sons, and redirects recognition toward the commanders who fought.
+
+The three-part record now supports a completed victory while preserving two boundaries. The king's escape prevents a literal decapitation or total-annihilation reading, and the large reported totals remain episode-attributed rather than independently verified. The campaign remains distinct from the later [[FirstDingxiangCampaignWesternHan|first Dingxiang sortie]] of 123 BCE.
 
 ## Key Characteristics
 
-- Reported 124 BCE counteroffensive following repeated raids and the strengthening of Shuofang.
 - Main effort under Wei Qing aimed at the Right Wise King from Gaoque and Shuofang directions.
 - Separate Right Beiping force intended to contain the Left Wise King and limit reinforcement.
-- Centralized command joining multiple generals and a reported mobilization exceeding one hundred thousand troops.
+- Reported 124 BCE counteroffensive after repeated raids and Shuofang strengthening, with centralized command joining multiple generals and a reported mobilization exceeding one hundred thousand troops.
 - Mobile opponent who abandons the first camp and relies on six to seven hundred li of depth, terrain, weather, and expected pursuer fatigue for protection.
 - Insider-guided approach reportedly bypassing enemy reconnaissance and warning zones before fresh scouts confirm the camp's condition.
-- Incomplete current record that reaches a pre-nightfall encirclement but stops before battle outcome, promotion, or strategic evaluation.
+- Successful night attack that severely reduces the target's people, subordinate rulers, and livestock despite the Right Wise King's escape.
+- Field promotion of Wei Qing to grand general followed by his refusal of unearned hereditary rewards and wider credit distribution.
 
 ## Evidence
 
@@ -45,14 +48,19 @@ Withdrawal and pursuit transition:
 Guided approach and pre-battle deployment:
 - [[zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity|Hanji 290-2]] attributes the approach to an insider guide who knows the base and avoids guarded routes, then reports Han reconnaissance and encirclement before nightfall.
 
+Battle outcome and command reward:
+- [[zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu|Hanji 291]] says the Right Wise King escapes the night attack but more than ten lesser kings, over fifteen thousand people, and nearly one million livestock are captured.
+- [[zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu|Hanji 291]] reports Wei Qing's field appointment as grand general, his objection to rewarding sons without merit, and subsequent rewards for participating commanders.
+
 ## Qualifications
 
-The page rests on two brief popular-history summaries rather than a primary campaign reconstruction. Exact dating, raid totals, mobilization, cavalry count, routes, offices, subordinate-command relationships, intelligence flow, retreat distance and motives, Right Wise King force size and readiness, the guide's identity and reliability, scout-avoidance plan, encirclement geometry, and the relationship between the Gaoque and Shuofang columns remain episode-attributed. The supplied texts do not establish a battle result, captives, casualties, the Right Wise King's fate, Wei Qing's promotion, or the campaign's claimed turning-point status. “高阙出击右贤王” is a descriptive disambiguating label for the bounded event, not a claim that the episodes supply an official battle name.
+The page rests on three brief popular-history summaries rather than a primary campaign reconstruction. Exact dating, raid totals, mobilization, cavalry count, routes, offices, subordinate-command relationships, intelligence flow, retreat distance and motives, Right Wise King force size and readiness, the guide's identity and reliability, scout-avoidance plan, encirclement geometry, attack directions, escape party, captured rulers, population and livestock totals, reward amounts, appointment ceremony, and strategic turning-point claim remain episode-attributed. The Right Wise King's escape qualifies “斩首,” “横扫,” and total-destruction language even though the reported material result is large. “高阙出击右贤王” is a descriptive disambiguating label for the bounded event, not a claim that the episodes supply an official battle name.
 
 ## What Changed
 
-- Extended the event from the empty first camp through the reported insider-guided approach and pre-nightfall encirclement.
-- Moved the evidence boundary forward to deployment while continuing to withhold the title's unreported battle and victory claims.
+- Completed the event from approach and encirclement through the night attack, enemy-leader escape, large captures, and Wei Qing's field promotion.
+- Replaced the former no-outcome boundary with a narrower qualification: major force neutralization is reported, but literal decapitation and total annihilation are not.
+- Added Wei Qing's refusal of unearned rewards for his sons as part of the campaign's immediate command-political aftermath.
 
 ## Relationships
 

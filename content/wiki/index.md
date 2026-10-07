@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军](sources/zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu.md) — Completes the 124 BCE Gaoque campaign with the Right Wise King's escape, large captures, Wei Qing's field promotion, and his refusal of unearned hereditary rewards.
 - [《资治通鉴·汉纪》293｜为何中国军队自古与众不同？](sources/zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4.md) — 以军饷、赏金、税收与地方行政解释罗马军队政治化，并以秦汉军政财分离和兵农联系作对照；统计、班超例证与文明二分保留来源边界。
 - [《资治通鉴·汉纪》290-2｜长途奔袭六百里，卫青袭杀匈奴右贤王军](sources/zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity.md) — 右贤王退至六七百里外的北方老营并因纵深、地形与汉军疲劳预期而松懈；降附者部下充当向导，使卫青绕过警戒、抵近并完成夜袭前包围，但文本仍未进入战斗。
 - [《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬](sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x.md) — 公元前124年汉军以卫青主攻右贤王、右北平军牵制左贤王；现有文本止于敌营撤空与深入追击部署，未覆盖战果或大将军封授。

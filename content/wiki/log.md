@@ -31468,3 +31468,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军
+
+Added source `zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu`; completed [[GaoqueCampaignWesternHan|西汉高阙出击右贤王]] from pre-nightfall encirclement through the Right Wise King's escape, large captures, and Wei Qing's field promotion; and resynthesized [[GuideEnabledDeepStrike|向导赋能纵深突袭]] and [[WeiQingHanGeneral|卫青]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: insider route knowledge and reconnaissance enabled a successful deep attack that severely reduced the target polity without capturing its leader, while Wei Qing's refusal of marquisates for sons without merit gives direct support to his humility and credit-sharing profile. No settled contradiction was adopted. Attack geometry, captured totals, reward amounts, speeches, strategic superlatives, broad Western Regions chronology, Ban Chao totals, and Rome-Han comparison remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,935 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
