@@ -36689,6 +36689,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/charleslyell/"
     },
+    "CharlesPonzi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离 [ltPKaW9wXzPxLxO3Mhh_0rKimGcj].md",
+          "key": "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj",
+          "show": "一劳永逸",
+          "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",
+          "url": "/wiki/sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/charlesponzi/"
+    },
     "CharlesStewartParnell": {
       "episode_count": 1,
       "show_count": 1,
@@ -117341,6 +117364,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/internationalolympiccommittee/"
     },
+    "InternationalReplyCouponArbitrage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/internationalreplycouponarbitrage/"
+    },
     "InternationalStudentMentalHealthContext": {
       "episode_count": 1,
       "show_count": 1,
@@ -118228,6 +118267,50 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/investmentdecisionlogging/"
+    },
+    "InvestmentFraudRedFlags": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260212_0212_MP_TECH_pod_128 [tech_20260212_0212_MP_TECH_pod_128].md",
+          "key": "tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Crypto's big growth on the books and in the shadows",
+          "url": "/wiki/sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP64 投资路上踩坑无数，如今的我刀枪不入 [lub3Eh1mNDJ9OAJS8pS3XUVoirtm].md",
+          "key": "ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm",
+          "show": "一劳永逸",
+          "title": "EP64 投资路上踩坑无数，如今的我刀枪不入",
+          "url": "/wiki/sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm/"
+        },
+        {
+          "episode_file": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离 [ltPKaW9wXzPxLxO3Mhh_0rKimGcj].md",
+          "key": "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj",
+          "show": "一劳永逸",
+          "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",
+          "url": "/wiki/sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj/"
+        },
+        {
+          "episode_file": "EP24 房贷车贷消费贷，贷贷为奴，代代还 [lswnAA7X8BiKu9ouyV-_C1DKF439].md",
+          "key": "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439",
+          "show": "一劳永逸",
+          "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",
+          "url": "/wiki/sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/investmentfraudredflags/"
     },
     "InvestmentPitchPositionSizing": {
       "episode_count": 1,
@@ -157224,6 +157307,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/mistralai/"
     },
+    "MitchZuckoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mitchzuckoff/"
+    },
     "Mithras": {
       "episode_count": 3,
       "show_count": 1,
@@ -179557,6 +179656,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/podcastcommercializationfragmentation/"
     },
+    "PodcastInterviewImpersonationScam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/podcastinterviewimpersonationscam/"
+    },
     "PodcastIntimacy": {
       "episode_count": 4,
       "show_count": 3,
@@ -180593,6 +180708,36 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/ponyboyslings/"
+    },
+    "PonziScheme": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离 [ltPKaW9wXzPxLxO3Mhh_0rKimGcj].md",
+          "key": "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj",
+          "show": "一劳永逸",
+          "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",
+          "url": "/wiki/sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj/"
+        },
+        {
+          "episode_file": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？ [lr7Xt-2CGoru2gFDbaTvBIV78iXg].md",
+          "key": "vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg",
+          "show": "起朱楼宴宾客",
+          "title": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？",
+          "url": "/wiki/sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/ponzischeme/"
     },
     "Poolside": {
       "episode_count": 1,
@@ -202884,6 +203029,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/secularbuddhismappeal/"
+    },
+    "SecuritiesExchangeCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476 [default.mp3_ywr3ahjkcgo_b5a6e3798d93ba5a123766ba4019c696_28183476].md",
+          "key": "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476",
+          "show": "Planet Money",
+          "title": "Charles Ponzi's scheme (plus a new scam)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/securitiesexchangecompany/"
     },
     "SecurityCrisisAmplification": {
       "episode_count": 1,

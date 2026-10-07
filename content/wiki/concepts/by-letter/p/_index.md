@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9852
+wiki_total_pages: 9854
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "PodcastCommercializationFragmentation"
     title: "Podcast Commercialization Fragmentation / 播客商业化分散"
     url: "/wiki/concepts/podcastcommercializationfragmentation/"
+  - key: "PodcastInterviewImpersonationScam"
+    title: "Podcast Interview Impersonation Scam"
+    url: "/wiki/concepts/podcastinterviewimpersonationscam/"
   - key: "PodcastIntimacy"
     title: "Podcast Intimacy"
     url: "/wiki/concepts/podcastintimacy/"

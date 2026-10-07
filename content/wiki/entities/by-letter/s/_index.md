@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12610
+wiki_total_pages: 12612
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "Section32"
     title: "Section 32"
     url: "/wiki/entities/section32/"
+  - key: "SecuritiesExchangeCompany"
+    title: "Securities Exchange Company"
+    url: "/wiki/entities/securitiesexchangecompany/"
   - key: "SeesCandies"
     title: "See's Candies"
     url: "/wiki/entities/seescandies/"

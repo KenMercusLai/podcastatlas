@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3351
+topic_total_pages: 3353
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3550,6 +3550,9 @@ topic_concepts:
   - key: "PodcastAuthenticityBoundary"
     title: "Podcast Authenticity Boundary"
     url: "/wiki/concepts/podcastauthenticityboundary/"
+  - key: "PodcastInterviewImpersonationScam"
+    title: "Podcast Interview Impersonation Scam"
+    url: "/wiki/concepts/podcastinterviewimpersonationscam/"
   - key: "PoliceKillingRateDivergence"
     title: "Police Killing Rate Divergence"
     url: "/wiki/concepts/policekillingratedivergence/"
@@ -8913,6 +8916,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895"
     title: "Charles & Chase Koch on How They Quietly Built a $150B Empire"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+  - key: "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476"
+    title: "Charles Ponzi's scheme (plus a new scam)"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
   - key: "chef-vs-robot"
     title: "Chef vs. Robot"
     url: "/wiki/sources/chef-vs-robot/"

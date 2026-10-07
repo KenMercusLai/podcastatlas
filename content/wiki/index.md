@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Charles Ponzi's scheme (plus a new scam)](sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476.md) — Planet Money separates Ponzi's plausible postal-coupon spread from his nonexistent operating business and fraudulent payouts, then warns about podcast-journalist impersonators stealing cryptocurrency.
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va.md) — 以欲望递进和财富无常预示主父偃因贪自毁，并借荀悦与司马迁对游侠的不同评价呈现官方秩序和体制外救助的张力。
 - [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr.md) — 崔氏饭朱与严助引荐补全朱买臣入仕转折，朔方之辩和公孙弘承认汲黯批评则展示政策收缩与尊重式降温的两种低姿态。
 - [《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？](sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea.md) — 主父偃在刘彭祖告发后本可能获释，公孙弘却以齐王无后、封国改郡县和朝廷公信力推动处死；昔日宾客散尽又显出恐惧与权势维系关系的脆弱。
@@ -15786,7 +15787,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UGG](entities/UGG.md) — Sheepskin footwear brand built from surf-culture traction and later included in seasonal ballet-coded scene expansion.
 - [Brian Smith](entities/BrianSmith.md) — Australian founder who brought sheepskin boots to the U.S., built UGG, and sold the company to Deckers in 1995.
 - [Deckers](entities/Deckers.md) — Footwear company that acquired UGG and later scaled the brand through fashion, retail, and celebrity positioning.
-- [Charles Ponzi](entities/CharlesPonzi.md) — Historical figure used by EP28 to explain the classic new-investor-pays-old-investor fraud structure.
+- [Charles Ponzi](entities/CharlesPonzi.md) — Ponzi-scheme namesake whose plausible coupon-arbitrage observation, nonexistent scaled operation, persuasive fundraising, and new-investor-funded payouts are now distinguished.
+- [Mitch Zuckoff](entities/MitchZuckoff.md) — Journalist whose archival research supplies Planet Money's expanded biographical and operational account of Charles Ponzi.
+- [Securities Exchange Company](entities/SecuritiesExchangeCompany.md) — Charles Ponzi's investment company, which marketed postal-coupon arbitrage while using new deposits to pay earlier investors.
 - [Jordan Belfort](entities/JordanBelfort.md) — Wolf of Wall Street figure used by EP28 to explain sales scripts, high commissions, and penny-stock boiler room fraud.
 - [Stratton Oakmont](entities/StrattonOakmont.md) — Belfort-linked stock-sales firm used as EP28's case for scripted high-pressure securities selling.
 - [Bernie Madoff](entities/BernieMadoff.md) — Prestige-based investment-fraud case used by EP28 to show how reputation and exclusivity can become scam assets.
@@ -25762,7 +25765,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Credit Card Debt Mechanics](concepts/CreditCardDebtMechanics.md) — Interest, fee, repayment, installment, minimum-payment, cash-withdrawal, cash-out, and card-security rules behind credit-card debt.
 - [Subculture Led Marketing](concepts/SubcultureLedMarketing.md) — Consumer-brand pattern where authentic early users make a product credible before mass-market positioning works.
 - [Seasonal Inventory Financing](concepts/SeasonalInventoryFinancing.md) — Working-capital problem where seasonal physical-product demand must be financed before sales convert into cash.
-- [Ponzi Scheme](concepts/PonziScheme.md) — Fraud structure where earlier investors are paid with later investor money while payouts are presented as real investment returns.
+- [Ponzi Scheme](concepts/PonziScheme.md) — Fraud structure where later deposits fund earlier payouts presented as operating profit, regardless of whether the promotional story contains a plausible economic idea.
+- [International Reply Coupon Arbitrage](concepts/InternationalReplyCouponArbitrage.md) — Proposed cross-currency postal-coupon trade whose nominal spread did not solve sourcing, transport, redemption, capacity, or cash-conversion constraints.
+- [Podcast Interview Impersonation Scam](concepts/PodcastInterviewImpersonationScam.md) — Social-engineering attack that turns a fake guest invitation and production workflow into malicious installation, remote access, or asset theft.
 - [Advance-Fee Fraud](concepts/AdvanceFeeFraud.md) — Scam pattern where a promised windfall requires the victim to pay fees, transfer costs, taxes, or processing charges first.
 - [Penny Stock Boiler Room Fraud](concepts/PennyStockBoilerRoomFraud.md) — Sales-driven securities fraud using scripts, high commissions, low-priced stocks, and asymmetric seller incentives.
 - [Social Engineering Fraud](concepts/SocialEngineeringFraud.md) — Fraud that manipulates trust, identity, emotion, urgency, or social context more than technical systems.
@@ -25773,7 +25778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, likely interpretation, and whether disclosure creates leverage.
 - [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
 - [Language Precision](concepts/LanguagePrecision.md) — Practical need for clear pronunciation, terminology, and confirmation when misunderstanding would change action.
-- [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Warning signs such as high easy returns, small early payouts, staged social proof, authority packaging, opaque contracts, and unfamiliar fund routes.
+- [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Cross-channel warning signs spanning impossible returns, staged proof, borrowed authority, opaque cash flow, unfamiliar platforms, software installation, remote access, and withdrawal fees.
 - [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that displayed balances, prices, trades, or withdrawals belong to a false or manipulated investment platform rather than a real venue.
 - [Stock Tip Group Risk](concepts/StockTipGroupRisk.md) — Risk from teacher-led stock groups, screenshots, VIP fees, insider claims, and gain-sharing guidance where advice incentives are asymmetric.
 - [Elderly Care Financial Fraud](concepts/ElderlyCareFinancialFraud.md) — Exploitation of retirement anxiety, property documents, seminar trust, and "house-for-pension" or retirement-real-estate narratives.

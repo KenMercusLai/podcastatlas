@@ -31574,3 +31574,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Charles Ponzi's scheme (plus a new scam)
+
+Added source `default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476`; created [[MitchZuckoff]], [[SecuritiesExchangeCompany]], [[InternationalReplyCouponArbitrage]], and [[PodcastInterviewImpersonationScam]]; and resynthesized [[CharlesPonzi]], [[PonziScheme]], and [[InvestmentFraudRedFlags]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ponzi's postal-coupon observation may have contained a nominal arbitrage, but missing execution capacity and new-investor-funded payouts separate the plausible story from the fraud; the same verification gap now appears when fake podcast journalists turn attractive interview invitations into malicious software, remote access, or cryptocurrency theft. No settled contradiction was adopted. Biographical details, investor counts, peak inflows, balance-sheet figures, police participation, and the exact modern attack path remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; the planner counted 3,949 sources across nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

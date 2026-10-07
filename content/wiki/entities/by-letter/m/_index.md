@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12610
+wiki_total_pages: 12612
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1412,6 +1412,9 @@ wiki_pages:
   - key: "MitchMorando"
     title: "Mitch Morando"
     url: "/wiki/entities/mitchmorando/"
+  - key: "MitchZuckoff"
+    title: "Mitch Zuckoff"
+    url: "/wiki/entities/mitchzuckoff/"
   - key: "Mithras"
     title: "Mithras"
     url: "/wiki/entities/mithras/"

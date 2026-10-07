@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2199
+topic_total_pages: 2202
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1720,6 +1720,9 @@ topic_concepts:
   - key: "IntermediarySpeechPressure"
     title: "Intermediary Speech Pressure"
     url: "/wiki/concepts/intermediaryspeechpressure/"
+  - key: "InternationalReplyCouponArbitrage"
+    title: "International Reply Coupon Arbitrage"
+    url: "/wiki/concepts/internationalreplycouponarbitrage/"
   - key: "InternetSoftwareThesis"
     title: "Internet Software Thesis"
     url: "/wiki/concepts/internetsoftwarethesis/"
@@ -4958,6 +4961,9 @@ topic_entities:
   - key: "Section32"
     title: "Section 32"
     url: "/wiki/entities/section32/"
+  - key: "SecuritiesExchangeCompany"
+    title: "Securities Exchange Company"
+    url: "/wiki/entities/securitiesexchangecompany/"
   - key: "SeesCandies"
     title: "See's Candies"
     url: "/wiki/entities/seescandies/"
@@ -5967,6 +5973,9 @@ topic_sources:
   - key: "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b"
     title: "Chainsaw sputtering: Milei's experiment falters"
     url: "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+  - key: "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476"
+    title: "Charles Ponzi's scheme (plus a new scam)"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790"
     title: "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
