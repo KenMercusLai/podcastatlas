@@ -1,27 +1,60 @@
 ---
 title: "Temperate Drinking Self-Control / 节制饮酒与自我控制"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [alcohol, self-control, ethics, leadership, confucianism]
-sources: [zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei
+  - zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p
+last_updated: 2026-10-08
 ---
 
-# Temperate Drinking Self-Control / 节制饮酒与自我控制
+## Definition
 
-Temperate drinking self-control / 节制饮酒与自我控制 is [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]]'s answer to the risk opened by [[AlcoholAsPowerCatalyst|酒作为权力催化剂]]. The episode does not demand simple abstinence. It argues for enjoying drink without being trapped by drink: enough warmth to support feeling and conversation, not enough loss of control to harm oneself or others.
+Temperate drinking self-control / 节制饮酒与自我控制 is the capacity to enjoy or participate in drinking without letting intoxication displace judgment, responsibility, role awareness, or the ability to stop.
 
-The concept is grounded through two authority figures. [[GenghisKhan|成吉思汗]] is presented as a leader who saw drunken disorder in a drinking-heavy social world and made restraint part of command. [[Confucius|孔子]] is used through [[Analects|《论语》]] for "不为酒困," which the host reads as caution alongside loyalty, filial duty, and careful mourning practice.
+## Current Synthesis
 
-This concept also contains the episode's practical health and family warning. Heavy drinking is not only a private preference when it damages the body, household, work, or safety. The source's closing formula is to get the pleasure of drink without losing drinking virtue.
+The positive norm does not equate responsible drinking with abstinence. Drinking can support sociability, warmth, emotional expression, and poetic culture when the drinker remains clear enough not to be ruled by it. [[GenghisKhan|成吉思汗]] and [[Confucius|孔子]] provide authority examples, while “得酒趣，不失酒德” and “不为酒困” name the desired boundary. [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]]
+
+The negative court case shows why prior self-knowledge matters. [[GuanFuWesternHan|灌夫]] already knows that he has repeatedly offended [[TianFenWesternHan|田蚡]] while drunk and therefore initially avoids the wedding. Once he attends, intoxication helps turn prior grievance, loyalty to [[DouYingWesternHan|窦婴]], status comparison, and banquet ritual into barbed speech, public abuse, refusal to apologize, detention, and wider prosecution. [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]]
+
+The combined judgment is narrower than “alcohol caused the disaster.” Self-control is a protective boundary because lowered restraint can make existing anger actionable, but the consequence scale depends on the surrounding power structure. In this case, rank reversal, prior hostility, imperial-family authority, and Tian Fen's ability to widen the charge explain why drunken misconduct becomes a capital political case.
 
 ## Key Claims
-- Moderation is a form of self-command, not just a medical recommendation.
-- Drinking can support social feeling only when the drinker can still stop.
-- Leadership and ordinary family life both become fragile when intoxication overrides judgment.
-- The ethical target is not joyless refusal, but a boundary where pleasure does not defeat responsibility.
 
-## Connections
-- [[GenghisKhan|成吉思汗]] and [[Confucius|孔子]] - source examples of restraint.
-- [[Analects|《论语》]] and [[LijiText|《礼记》]] - classical textual supports in the episode.
-- [[PoeticWineCulture|诗酒文化]] - constructive alcohol branch that requires this restraint.
-- [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - adjacent warning frames for what happens when alcohol exposes or amplifies disorder.
+- Moderation is a form of self-command: the relevant test is whether pleasure remains compatible with judgment and responsibility.
+- Drinking can support social warmth and expression only while the drinker retains the practical ability to stop and observe role boundaries.
+- Prior knowledge of one's intoxicated behavior is a warning signal; entering a high-conflict drinking setting without an effective control plan increases foreseeable risk.
+- Alcohol can amplify existing anger, humiliation, or loyalty without being the sole cause of the resulting conduct.
+- Hierarchy changes consequence scale: the same loss of restraint becomes more dangerous when it occurs before officials who can arrest, reclassify, or expand a case.
+- The norm does not erase personal agency or excuse misconduct, and it does not prove that every punishment imposed after intoxication is proportionate.
+
+## Evidence
+
+Constructive restraint:
+- [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] presents drinking as potentially convivial and expressive while making continued self-command the condition for constructive use.
+- [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] uses Genghis Khan and Confucius to connect restraint with leadership, household responsibility, ritual caution, and not being trapped by drink.
+
+Foreseen loss of control:
+- [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] says Guan Fu initially declines Tian Fen's wedding because earlier drunken offenses and current hostility make another incident foreseeable.
+
+Conflict amplification under hierarchy:
+- [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] links drinking with resentment over unequal deference, escalating insults, refusal to apologize, detention, and a widened accusation, while also supplying the prior political conflict that prevents a single-cause reading.
+
+## Counterevidence & Qualifications
+
+The current evidence consists of two interpretive podcast notes rather than clinical alcohol research or a complete primary-source dossier. Qinji 131-3's claims about historical figures and practical harms remain episode-attributed. Hanji 264 does not establish Guan Fu's intoxication level, whether sobriety would have prevented conflict, the exact words and procedure, the legal merits of Tian Fen's response, or whether apology would have changed the outcome. The concept supports prudent self-command and attention to foreseeable settings; it does not make victims responsible for another actor's disproportionate punishment, reduce political conflict to individual lifestyle, or imply that all drinking is harmful.
+
+## What Changed
+
+- Added Guan Fu's wedding confrontation as a negative case in which a person recognizes his own alcohol-related risk but enters the setting without maintaining control.
+- Qualified the moral lesson by separating intoxication as an amplifier from the prior grievance and power structure that made the consequences lethal.
+- Migrated the page to the synthesis-v1 evidence contract without removing or reordering its prior source.
+
+## Related Concepts
+
+- [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - broader mechanism in which alcohol lowers restraint or exposes existing motives, while this concept focuses on the protective boundary of self-command.
+- [[PoeticWineCulture|诗酒文化]] - constructive cultural branch that depends on enjoyment remaining compatible with agency and responsibility.
+- [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]] - political structure that magnifies the consequences of Guan Fu's loss of restraint.
+- [[PowerContingentSocialTies|权势依附型交往]] - status-sensitive social behavior that helps create the banquet humiliation Guan Fu reacts to.

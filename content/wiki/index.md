@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台](sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p.md) — 田蚡与窦婴的权势逆转在婚宴礼节中显形，灌夫借酒失控把旧怨升级为大不敬案件；窦婴因强邀赴宴而上书营救，直接衔接汉纪 265 的朝廷辩论。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr.md) — 窦婴为灌夫争取罪罚相称，田蚡把争议升级为宫廷安全指控；群臣沉默、王太后施压与韩安国劝丞相退让，显示正式廷议如何受外戚结构约束。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw.md) — 窦婴救灌夫、失效诏书与田蚡胜出被放回王太后支持和外戚制衡崩塌中解释；焚毁宫中副本、亡魂索命及汉武帝杀田蚡均保留来源边界。
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw.md) — 以韩安国受辱引出“死灰复燃”，并用他替梁孝王转圜景帝怒意说明：危机沟通可以重述动机，却不能取消宗室的名分与法度边界；具体对话、年代和心理因果保留来源边界。

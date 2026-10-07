@@ -63249,9 +63249,9 @@
       "url": "/wiki/entities/douxianeasternhan/"
     },
     "DouYingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -63266,6 +63266,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台 [lux-kQKFSqPJLDtOcRk65J5PVl8P].md",
+          "key": "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
         }
       ],
       "updated": "2026-10-08",
@@ -97151,9 +97158,9 @@
       "url": "/wiki/entities/guanbalatehan/"
     },
     "GuanFuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -97168,6 +97175,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台 [lux-kQKFSqPJLDtOcRk65J5PVl8P].md",
+          "key": "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
         }
       ],
       "updated": "2026-10-08",
@@ -172918,9 +172932,9 @@
       "url": "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
     },
     "OuterRelativeBalanceUnderImperialPower": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -172935,6 +172949,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台 [lux-kQKFSqPJLDtOcRk65J5PVl8P].md",
+          "key": "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
         }
       ],
       "updated": "2026-10-08",
@@ -225034,6 +225055,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/televisionbroadcastslimited/"
     },
+    "TemperateDrinkingSelfControl": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思 [lnzXHRj2iULaHCcY2-Pkm-WPhDEi].md",
+          "key": "zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台 [lux-kQKFSqPJLDtOcRk65J5PVl8P].md",
+          "key": "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/temperatedrinkingselfcontrol/"
+    },
     "TemperatureMinimumClockShifting": {
       "episode_count": 4,
       "show_count": 1,
@@ -228514,9 +228558,9 @@
       "url": "/wiki/entities/tiandoctortcm/"
     },
     "TianFenWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说 [ll1skJ3YGm2Fop-pz1ETKn3Qexw5].md",
@@ -228538,6 +228582,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台 [lux-kQKFSqPJLDtOcRk65J5PVl8P].md",
+          "key": "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
         }
       ],
       "updated": "2026-10-08",
