@@ -31278,3 +31278,11 @@ Added source `112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 111 全方位解析《天龙八部》之少室山大战
+
+Added source `111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t`; and migrated and resynthesized [[TianLongBaBu|《天龙八部》]] and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the supplied opening positions chapters 41–43 and the Shaoshi Mountain battle as the point where 虚竹、萧峰、段誉 first converge, conflicts with 游坦之、丁春秋、慕容复 align, and 扫地神僧 enters as the novel moves toward climax and resolution. No settled contradiction was adopted. All detailed combat, character, and thematic analysis remains unavailable because the supplied note is only a three-minute preview. Broad [[JinYong|金庸]], individual-character, and new event or concept pages were kept closed because the focused source, novel, and show pages capture the bounded addition without creating thin profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,911 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

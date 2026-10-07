@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [111 全方位解析《天龙八部》之少室山大战](sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t.md) — 纸醉金迷FM把少室山大战定位为《天龙八部》人物线、对手与结局线索的汇合点；所供文本仅为三分钟开场，尚不能支撑其预告的详细分析。
 - [112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念](sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt.md) — 纸醉金迷FM以说书、厨艺、听觉与刺字的铺垫回收，分析《武林外传》如何用声音骗局和预期反转同时塑造喜剧与护子母爱。
 - [113 摘符！《鬼吹灯》之昆仑神宫（大结局）](sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw.md) — 纸醉金迷FM以祭品替代、高潮代价和逃亡节奏评析《昆仑神宫》结局，并把摘下摸金符理解为胡八一与胖子从冒险职业身份转向新生活。
 - [114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》](sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl.md) — 纸醉金迷FM以人心、术势道、天象解释权和“呆若木鸡”讨论《秦二世必须死》，并保留历史约束究竟增强深度还是削弱悬疑的评分分歧。
@@ -13094,7 +13095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
 - [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining martial-arts mystery with concealed identity, psychological inference, symbolic weapons, and concentrated reversal.
 - [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
-- [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel used to connect Song social mobility, Jianghu plausibility, and identity tragedy.
+- [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel connecting Song Jianghu plausibility and identity tragedy to the Shaoshi Mountain convergence of its late plot.
 - [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.
 - [Robert Smith](entities/RobertSmith.md) — Planet Money host framing the Summer School World Tour water-market and inflation-targeting lesson.
 - [Justin Wolfers](entities/JustinWolfers.md) — Economist guiding the episode's country-as-laboratory frame across Australia and New Zealand.

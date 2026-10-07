@@ -224738,6 +224738,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/tiankuangxinofficial/"
     },
+    "TianLongBaBu": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "FlvM96zdNlGjjM7f4TfPqwmiJU-T [FlvM96zdNlGjjM7f4TfPqwmiJU-T].md",
+          "key": "111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t",
+          "show": "纸醉金迷FM",
+          "title": "111 全方位解析《天龙八部》之少室山大战",
+          "url": "/wiki/sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/tianlongbabu/"
+    },
     "TianMingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -255879,9 +255902,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255938,6 +255961,13 @@
           "show": "纸醉金迷FM",
           "title": "112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念",
           "url": "/wiki/sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt/"
+        },
+        {
+          "episode_file": "FlvM96zdNlGjjM7f4TfPqwmiJU-T [FlvM96zdNlGjjM7f4TfPqwmiJU-T].md",
+          "key": "111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t",
+          "show": "纸醉金迷FM",
+          "title": "111 全方位解析《天龙八部》之少室山大战",
+          "url": "/wiki/sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t/"
         }
       ],
       "updated": "2026-10-07",
