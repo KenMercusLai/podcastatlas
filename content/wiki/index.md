@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓](sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x.md) — 以茂陵迁徙、资产门槛与卫青说情呈现豪强控制，再以郭解亲族门客杀人和公孙弘的间接暴力归责解释其灭族结局。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
 - [《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？](sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl.md) — 以郭解调解纠纷、追随者暴力和迁徙后仍存的号召力，呈现游侠社会功能与法外强制的同源性，并对照《史记》与《汉书》的不同评价。
+- [《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）](sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk.md) — 以班固的秩序立场追溯游侠与私交政治的形成，并借郭解说明个人美德不能自动赋予法外生杀权。
 - [Charles Ponzi's scheme (plus a new scam)](sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476.md) — Planet Money separates Ponzi's plausible postal-coupon spread from his nonexistent operating business and fraudulent payouts, then warns about podcast-journalist impersonators stealing cryptocurrency.
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va.md) — 以欲望递进和财富无常预示主父偃因贪自毁，并借荀悦与司马迁对游侠的不同评价呈现官方秩序和体制外救助的张力。
 - [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr.md) — 崔氏饭朱与严助引荐补全朱买臣入仕转折，朔方之辩和公孙弘承认汲黯批评则展示政策收缩与尊重式降温的两种低姿态。
@@ -4022,7 +4023,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [既是選手又是裁判：解讀Anthropic的AI濫用報告](sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541.md) — 端聞 episode on Anthropic misuse reporting, AI-assisted fraud and surveillance, disputed model distillation, third-party relay risks, and the safety–privacy tradeoff.
 
 ## Entities
-- [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为汉武帝中央集权风险的西汉游侠与地方强人。
+- [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
 - [孔臧 / Kong Zang (Western Han)](entities/KongZangWesternHan.md) — 以经学与礼制专长辞御史大夫、求任太常的西汉学者官员，呈现专长与职位功能的匹配。
 - [燕王刘定国 / Liu Dingguo, Yan King (Western Han)](entities/LiuDingguoYanKingWesternHan.md) — 因乱伦与报复杀官指控被命自杀、封国撤除的西汉燕王。
 - [齐厉王 / King Li of Qi (Western Han)](entities/QiLiwangWesternHan.md) — 在主父偃的齐国调查及刑讯取证后服毒自杀的西汉齐王。
@@ -7525,7 +7526,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
 - [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose profile runs from pre-`王命论` institutional argument and Wei Xiao/Dou Rong affiliation into Qiang diagnosis, Wuhuan institutions, and Northern Xiongnu diplomacy.
-- [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian-commentator whose profile now links early `Han Shu` accusation and Emperor Ming's review to Western Regions strategy commentary, later prison death, and Ban Zhao's continuation.
+- [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — 东汉史家，其档案连接《汉书》著述风险、边疆成本评议、游侠秩序批判、狱死与班昭续书。
 - [李郃 / Li He (Eastern Han)](entities/LiHeEasternHan.md) — Hanzhong official who uses a delayed gift mission to keep his administrator clear of Dou Xian's collapse.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
 - [邓训 / Deng Xun (Eastern Han)](entities/DengXunEasternHan.md) — Protector of the Qiang whose protection of threatened Hu families, Mi Tang defeat, and postwar settlement explain later cross-community mourning.

@@ -1,37 +1,72 @@
 ---
 title: "Death-Party Loyalty vs Official Duty / 死党之义与守职奉上"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [ethics, statecraft, office, aristocracy, pre-qin-history]
-sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
-last_updated: 2026-08-24
+sources:
+  - zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76
+  - zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
+  - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk
+last_updated: 2026-10-07
 ---
 
-# Death-Party Loyalty vs Official Duty / 死党之义与守职奉上
+## Definition
 
-Death-party loyalty vs official duty / 死党之义与守职奉上 is the critique [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] draws from [[XunYue|荀悦]]. The episode uses Xun Yue's objection to explain why the admiration of [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] was politically dangerous from the standpoint of a more office-centered order.
+Death-party loyalty vs official duty / 死党之义与守职奉上 is the institutional conflict that arises when friendship, patron recognition, an old superior, or a private group makes a stronger claim on action and sacrifice than current office, ruler, law, or public responsibility.
 
-The core problem is priority. In the aristocratic friendship code, a friend, guest, or person who entrusts life to you can make a claim stronger than office, ruler, or state interest. Xun Yue's criticism says that if this becomes a public model, private groups gain the right to demand death-level loyalty while the duties of office and service to superiors become secondary.
+## Current Synthesis
 
-The concept does not erase the moral attraction of the earlier code. It names the state-order response to [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]]: what looks like heroic refusal to betray a friend can also become a doctrine that justifies abandoning public responsibility.
+Zhouji 95 part 4 supplies the core criticism through [[XunYue|荀悦]]. [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] act within a world where protecting a friend or guest sustains public honor. The same conduct becomes dangerous from an office-centered perspective because a private relationship can demand death-level loyalty while state and family duties become secondary. [[LiBai|李白]]'s admiration preserves the attraction of the older code rather than resolving the conflict.
 
-[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] and [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] add a late-Han old-master versus current-office version through [[ZangHong|臧洪]]. Zang Hong's loyalty to [[ZhangChaoLateHan|张超]] is morally legible, but the sources say it becomes politically destructive because he is also serving [[YuanShao|袁绍]], and Yuan Shao's alliance with [[CaoCao|曹操]] makes direct rescue a broader strategic choice.
+Hanji 180 part 2 extends the distinction from friend protection to public crime. [[GuanGao|贯高]] can be truthful, courageous, and loyal to [[ZhangAo|张敖]], but the episode's Xun Yue judgment refuses to let those qualities erase a plot against [[LiuBang|刘邦]]. Loyal motive and legal responsibility therefore remain analytically separate.
 
-Hanji 996 sharpens the institutional critique before the final death scene. Zang Hong offers the people in [[DongCommandery|东郡]] a chance to leave, but their refusal to abandon him means his old-superior loyalty now consumes subordinates and civilians as well as himself. That makes the case overlap with [[LoyaltyCollateralDilemma|忠义牵连困境]]: the admired private bond generates public costs.
+Hanji 996 and 997 add an old-master/current-office conflict through [[ZangHong|臧洪]]. His commitment to [[ZhangChaoLateHan|张超]] is morally intelligible after [[YuanShao|袁绍]] refuses rescue, yet Zang Hong is also serving Yuan Shao, whose alliance with [[CaoCao|曹操]] makes intervention a wider strategic act. The siege makes the institutional cost concrete: followers and civilians choose to stay, starvation escalates, and private loyalty consumes lives beyond the loyal actor himself.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] adds an early-Han ruler-crime version through [[GuanGao|贯高]]. Xun Yue's point is not that Guan Gao lacked loyalty to [[ZhangAo|张敖]], but that loyalty to a lord cannot override the legal and public meaning of plotting against [[LiuBang|刘邦]]. The concept therefore extends from friendship protection into retainer loyalty that crosses into regicide conspiracy.
+Hanji 283 attributes a parallel formulation to [[BanGuEasternHan|班固]]. It treats Yu Qing's abandonment of ruler and state for a distressed friend and Xinlingjun's seizure of military command to rescue an associate as prestigious examples that helped normalize private loyalty above official duty. Its contrast with [[Zilu|仲由 / 子路]] and 仇牧 shows the decisive classification rule: sacrifice is praised when aligned with ruler-centered duty and condemned when a private network claims comparable authority. The episode also links this norm to youxia power, making duty priority a problem of institutions as well as personal ethics.
 
 ## Key Claims
-- Hanji 996 and Hanji 997 add that loyalty to an old superior can be admirable while still failing as political judgment when it overrides current office, alliance obligations, and the lives of followers drawn into the same stance.
-- Hanji 180 part 2 adds that loyal refusal to betray a lord can remain admirable as conduct while still failing as a legal or public justification for regicide conspiracy.
-- Death-level loyalty to a private group can become socially admired even when it damages official duty.
-- A state-order critique can acknowledge courage while rejecting the behavior as a public model.
-- The concept is adjacent to [[RetainerReciprocityEthic|士为知己者死]], but its center is the negative institutional consequence rather than the honor logic itself.
-- The episode preserves both sides: [[LiBai|李白]] can admire Yu Qing's spirit while Xun Yue warns that such spirit can erode governance.
 
-## Connections
-- [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]], [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[YuanShao|袁绍]], [[CaoCao|曹操]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - old-master loyalty, current-office conflict, and collateral siege cost.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[GuanGao|贯高]], [[ZhangAo|张敖]], and [[PoliticalAssassinationEthics|政治刺杀伦理]] - retainer loyalty judged insufficient to cancel public crime.
-- [[XunYue|荀悦]] - critic whose reception layer supplies the concept.
-- [[YuQing|虞卿]], [[Pingyuanjun|平原君]], [[Xinlingjun|信陵君]], and [[WeiQiWarringStates|魏齐]] - source figures around whom private loyalty is tested.
-- [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - neighboring honor and friendship frames.
-- [[ZhaoState|赵国]] and [[QinState|秦国]] - state-pressure setting in which private loyalty becomes politically costly.
+- Private loyalty can be morally serious and socially admired while still conflicting with current office, law, ruler, or public responsibility.
+- Courage, truthfulness, and sacrifice do not automatically erase the public meaning of conspiracy, command seizure, or unauthorized coercion.
+- A state-order critique can reject a conduct model without denying the actor's admirable qualities or the failures that made private rescue attractive.
+- Loyalty becomes a collateral problem when followers, soldiers, or civilians bear costs generated by one person's private obligation.
+- Warring States patronage and youxia memory can turn exceptional rescue into a reproducible prestige norm that competes with public institutions.
+- The classification of “righteous” sacrifice depends partly on which authority is treated as legitimate, so ruler-centered judgment is itself a normative position rather than a neutral fact.
+
+## Evidence
+
+Friendship and guest protection:
+- [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]] contrasts admiration for Yu Qing and other protectors with Xun Yue's warning that private-group loyalty can outrank office, ruler, parents, and public duty.
+
+Loyal conduct and public crime:
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] says Guan Gao's courage and loyalty do not cancel the legal and public meaning of plotting regicide.
+
+Old superior, current office, and collateral cost:
+- [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] presents Zang Hong's failed rescue effort, break with Yuan Shao, and starvation siege in which followers and civilians refuse to leave.
+- [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] makes the old-superior/current-lord conflict explicit and treats Zang Hong's final refusal as both principled and politically destructive.
+
+Patronage, command, and youxia:
+- [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk|Hanji 283]] attributes to Ban Gu a criticism of Yu Qing and Xinlingjun, contrasts private sacrifice with ruler-centered “杀身成仁,” and connects the prestige norm to expanding youxia authority.
+
+## Counterevidence & Qualifications
+
+The sources preserve later state-order judgments and podcast interpretations rather than a complete political theory or primary-text collation. “死党” can flatten distinct relations among friend, guest, patron, old superior, current lord, ruler, and state; those obligations should not be treated as interchangeable. Zhouji 95 also preserves why protection and recognition were honorable from inside the earlier code. Hanji 180 does not make every ruler command lawful, and Hanji 996-997 do not prove that strategic flexibility would have saved Zhang Chao or Zang Hong's followers. Hanji 283's hierarchy narrative and ruler-centered distinction are attributed to Ban Gu through a compact summary; they explain an institutional judgment but do not prove that public authority is always just, that private rescue is always wrong, or that clan punishment is proportionate.
+
+## What Changed
+
+- Migrated the page to the synthesis-v1 knowledge schema while preserving the complete evidence inventory.
+- Integrated friendship protection, regicide conspiracy, old-superior loyalty, and siege collateral cost into one duty-priority model.
+- Added Ban Gu's attributed link from private-loyalty prestige to patronage, command seizure, and youxia authority.
+- Made explicit that admirable character and institutional legitimacy are separate judgments.
+
+## Related Concepts
+
+- [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - ethical collision from the internal perspective of friendship and guest protection.
+- [[RetainerReciprocityEthic|士为知己者死]] - recognition-and-repayment logic that makes extreme private loyalty intelligible.
+- [[AristocraticHonorOverLife|贵族名誉高于生命]] - honor mechanism that raises the cost of refusing or abandoning a dependent.
+- [[LoyaltyCollateralDilemma|忠义牵连困境]] - extension from self-sacrifice to costs imposed on followers and civilians.
+- [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]] - judgment failure when attachment or resentment becomes the whole decision frame.
+- [[PoliticalAssassinationEthics|政治刺杀伦理]] - public-crime field in which loyal intent cannot alone settle responsibility.
+- [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - centralized-order response to private loyalty and coercive networks operating outside office.

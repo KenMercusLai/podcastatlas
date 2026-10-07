@@ -21809,9 +21809,9 @@
       "url": "/wiki/entities/banchaoeasternhan/"
     },
     "BanGuEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -21840,9 +21840,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1） [lv-EvyqWcPkXSMTuYRBq4eXvuFdk].md",
+          "key": "zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/bangueasternhan/"
     },
     "BanJieyuWesternHan": {
@@ -55748,6 +55755,50 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/deathofasalesman/"
+    },
+    "DeathPartyLoyalty": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？ [lgPA-m6h6BvHyinTNUj6zTOpUi76].md",
+          "key": "zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？ [lln2lIBlQ_kYjRSvITnBH7cspBAX].md",
+          "key": "zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2） [lutKaPDiJRGPwfRZ3sAAOwXTk_i2].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1） [lv-EvyqWcPkXSMTuYRBq4eXvuFdk].md",
+          "key": "zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/deathpartyloyalty/"
     },
     "DeathbedHeirReplacementResistance": {
       "episode_count": 3,
@@ -97237,9 +97288,9 @@
       "url": "/wiki/entities/guojia/"
     },
     "GuoJieWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？ [lgvcBfgdmw5qClx5l3Lr2aFIxqgl].md",
@@ -97254,6 +97305,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓",
           "url": "/wiki/sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1） [lv-EvyqWcPkXSMTuYRBq4eXvuFdk].md",
+          "key": "zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk/"
         }
       ],
       "updated": "2026-10-07",
@@ -252537,9 +252595,9 @@
       "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
     },
     "YouxiaSuppressionUnderUnification": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
@@ -252575,6 +252633,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓",
           "url": "/wiki/sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1） [lv-EvyqWcPkXSMTuYRBq4eXvuFdk].md",
+          "key": "zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk/"
         }
       ],
       "updated": "2026-10-07",

@@ -6,12 +6,13 @@ tags: [person, western-han, youxia, local-power, law]
 sources:
   - zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl
   - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
+  - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-郭解 / Guo Jie is a Western Han youxia and local strongman whose current wiki profile joins Hanji 281 and 282. His importance is institutional rather than merely legendary: he could restrain retaliation, mediate disputes, and attract loyalty outside office, but relatives and followers could also turn his reputation into violence without a demonstrated direct order, making the same capacity dangerous to law and centralized rule.
+郭解 / Guo Jie is a Western Han youxia and local strongman whose current wiki profile joins Hanji 281-283. His importance is institutional rather than merely legendary: he could restrain retaliation, mediate disputes, and attract loyalty outside office, but relatives and followers could also turn his reputation into violence without a demonstrated direct order. Hanji 283 sharpens the resulting judgment: admirable personal qualities do not by themselves authorize private life-and-death power.
 
 ## Current Profile
 
@@ -21,6 +22,8 @@ last_updated: 2026-10-07
 
 Both episodes place that authority inside [[HanWudi|汉武帝]]'s centralization. Guo Jie is sent to Maoling despite reportedly falling below the property threshold, and Wudi treats [[WeiQingHanGeneral|卫青]]'s plea as proof that Guo is no ordinary commoner. Killings by a nephew and a follower then show how violence can travel through kin and loyalty networks even when officials report that Guo did not know the immediate killer. [[GongsunHong|公孙弘]] converts that ambiguity into the fatal argument: influence that prompts others to kill over small grievances can be more politically dangerous than direct personal violence. The episodes preserve that prosecution logic without independently validating its evidence or making every follower's act Guo Jie's order.
 
+[[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk|Hanji 283]] supplies [[BanGuEasternHan|班固]]'s explicit normative frame. It says he can credit Guo with gentleness, filial devotion, generosity, humility, and aid to the distressed while still treating a commoner's private control over punishment as a categorical offense. That distinction prevents both hagiography and a character-only prosecution: the criticism rests on unauthorized authority, although the episode's approval of execution and clan destruction does not independently establish legal guilt or proportionality.
+
 ## Key Characteristics
 
 - Influential Western Han commoner whose authority rested on reputation, kin, personal ties, and followers rather than formal office.
@@ -28,6 +31,7 @@ Both episodes place that authority inside [[HanWudi|汉武帝]]'s centralization
 - Extra-institutional mediator able to settle disputes and supply order where ordinary institutions were perceived as insufficient.
 - Politically exposed local strongman because informal authority could survive relocation and generate action beyond direct command.
 - Historiographically divided boundary case whose restraint and social usefulness are weighed against coercion, follower violence, private punishment, and a modern organized-crime analogy.
+- Example of the difference between personal virtue and institutional legitimacy in Ban Gu's attributed judgment.
 
 ## Evidence
 
@@ -44,10 +48,11 @@ Networked violence and prosecution:
 
 Competing historical judgments:
 - [[zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl|Hanji 282]] contrasts Shiji's sympathy with Han Shu's emphasis on illegal association and private life-and-death power.
+- [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk|Hanji 283]] says Ban Gu recognizes Guo Jie's gentleness, filiality, aid, humility, and restraint but refuses to let those qualities legitimate private punitive power.
 
 ## Qualifications
 
-Both sources are compact podcast summaries rather than a complete biography or primary-text collation. Hanji 281 fills the narrative gap left by Hanji 282, but it still does not independently establish the early offenses, reform chronology, property threshold, kinship anecdotes, Guo Jie's knowledge of follower violence, governing offense, evidentiary standard, Gongsun Hong's exact wording, or scope of clan punishment. “Organized crime” is a modern analogy, and neither the favorable Shiji frame nor the critical Han Shu frame is a neutral or exhaustive verdict. Reported violence by relatives and followers shows network risk but should not be silently converted into proof that Guo ordered every act.
+All three sources are compact podcast summaries rather than a complete biography or primary-text collation. Hanji 281 fills the narrative gap left by Hanji 282, while Hanji 283 makes the Ban Gu judgment explicit; none independently establishes the early offenses, reform chronology, property threshold, kinship anecdotes, Guo Jie's knowledge of follower violence, governing offense, evidentiary standard, exact transmitted wording, or proportionality and scope of clan punishment. “Organized crime” is a modern analogy, and neither the favorable Shiji frame nor the critical Han Shu frame is a neutral or exhaustive verdict. Reported violence by relatives and followers shows network risk but should not be silently converted into proof that Guo ordered every act.
 
 ## What Changed
 
@@ -55,6 +60,7 @@ Both sources are compact podcast summaries rather than a complete biography or p
 - Preserved the Shiji/Han Shu disagreement instead of resolving Guo Jie into either hero or criminal archetype.
 - Added Hanji 281's early-life, restraint, relocation-threshold, follower-violence, prosecution, and clan-punishment sequence.
 - Reframed culpability as a bounded dispute over violence generated by reputation rather than assuming either direct command or complete innocence.
+- Added Ban Gu's explicit separation of personal virtue from institutional authorization.
 
 ## Relationships
 
@@ -64,5 +70,6 @@ Both sources are compact podcast summaries rather than a complete biography or p
 - [[HanShu|《汉书》]] - law-and-order-centered critical frame in the episode's textual contrast.
 - [[SimaQian|司马迁]] - historian associated with admiration for youxia aid and personal restraint.
 - [[GongsunHong|公孙弘]] - court figure whose closing legal intervention is said to precede Guo Jie's clan punishment.
+- [[BanGuEasternHan|班固]] - historian whose attributed appraisal praises personal qualities while condemning unauthorized punitive authority.
 - [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] - relocation mechanism that targets Guo Jie's influence even when reported wealth falls below the nominal threshold.
 - [[PrivateRetainerNetworkRisk|私人门客网络风险]] - adjacent risk pattern in which followers convert loyalty and grievance into violence beyond formal command.
