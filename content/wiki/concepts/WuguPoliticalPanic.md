@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc
   - zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs
   - zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi
+  - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf
 last_updated: 2026-09-15
 ---
 
@@ -19,7 +20,9 @@ Wugu Political Panic / 巫蛊政治恐慌 is the pattern in which alleged hidden
 
 ## Current Synthesis
 
-The Western Han background sources define wugu as curse practice using figures, needles, burial, incantation, and hidden ritual action, then show how court belief in invisible harm can expand through digging, accusation, torture, and denunciation. Hanji 383-1 adds the broader opening condition: late Han Wudi's death fear, power-loss anxiety, sensitivity to hidden threats, and harsh reaction to the 92 BCE Jianzhang Palace scare make the court especially receptive to panic. Hanji 385-1 adds the immediate late-Wudi trigger: fangshi and shamans gather in Chang'an, palace women accuse one another over buried wooden figures and rites, Han Wudi kills hundreds, and imperial illness plus dream fear gives Jiang Chong a chance to request investigative authority. The core danger is institutional: when rulers and investigators treat hidden ritual action as provable political attack, the search for evidence can produce the case it claims to uncover.
+The Western Han background sources define wugu as curse practice using figures, needles, burial, incantation, and hidden ritual action, then show how court belief in invisible harm can expand through digging, accusation, torture, and denunciation. Hanji 270-1 adds an early Wudi harem-deposition case: after [[EmpressChenAjiaoWesternHan|陈阿娇]] loses favor, [[ChuFuWesternHan|楚服]] allegedly teaches sacrifice, curses against [[EmpressWeiZifuWesternHan|卫子夫]], and “魅术”; [[ZhangTangWesternHan|张汤]] then investigates, Chu Fu is executed, and Chen is deposed. This earlier case shows that hidden ritual harm was politically actionable well before the late-reign succession catastrophe.
+
+Hanji 383-1 adds the broader opening condition for that later catastrophe: late Han Wudi's death fear, power-loss anxiety, sensitivity to hidden threats, and harsh reaction to the 92 BCE Jianzhang Palace scare make the court especially receptive to panic. Hanji 385-1 adds the immediate late-Wudi trigger: fangshi and shamans gather in Chang'an, palace women accuse one another over buried wooden figures and rites, Han Wudi kills hundreds, and imperial illness plus dream fear gives Jiang Chong a chance to request investigative authority. The core danger is institutional: when rulers and investigators treat hidden ritual action as provable political attack, the search for evidence can produce the case it claims to uncover.
 
 Hanji 616 adds an early Wang Mang branch that sits at the boundary between staged anomaly and wugu panic. [[WangYuXinPrince|王宇]], [[WuZhangWesternHan|吴章]], and [[LuKuanDogBloodCase|吕宽]] do not begin with a curse accusation; they want [[EmpressDowagerWeiPingdi|卫太后]] to reach [[HanPingdi|汉平帝]] after [[WangMang|王莽]] blocks Wei-clan access. But Wu Zhang's decision to frighten Wang Mang through a "变怪" and Lü Kuan's dog blood at the gate move the case into the same hidden-ritual danger field as厌胜 and wugu. Once discovered, the act is amplified into Wang Yu's forced death, Lu Yan's prison death order, Wu Zhang's execution, student禁锢, and Wei-clan destruction.
 
@@ -35,13 +38,14 @@ The current synthesis is therefore not a claim that every recorded wugu case is 
 - Palace rivalry and succession anxiety make wugu accusations useful even when the underlying truth is unclear.
 - Torture, mutual accusation, and denunciation can expand a case far beyond the original claim.
 - The strongest warning is that superstition becomes most dangerous when joined to state violence.
+- Hanji 270-1 adds an early-Wudi harem case in which lost favor, alleged curse practice, investigation, execution, and empress deposition form a complete political-punishment chain.
 - Staged anomaly can become wugu-adjacent when hidden ritual action is interpreted as political threat, as Hanji 616's Wang Mang-era dog-blood case shows.
-- Hanji 773 adds an Emperor-He-era harem-deposition branch before the later Ling-era Empress Song case.
-- Hanji 913 adds that wugu accusation can be used as a preemptive palace weapon by an actor who fears future resentment.
+- The Emperor-He and Emperor-Ling harem branches show wugu accusation producing deposition or imprisonment, family punishment, and preemptive removal of a feared rival.
 
 ## Evidence
 
 - Western Han mechanism: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] defines wugu through hidden curse practice and presents the political danger of invisible harm being pursued through digging, torture, accusation, and denunciation.
+- Early-Wudi harem deposition: [[zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf|Hanji 270-1]] says Chu Fu teaches Chen ritual and curse practices, Zhang Tang investigates, Chu Fu is executed, more than three hundred people are reportedly implicated, and Chen is deposed.
 - Late-Wudi opening condition: [[zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi|Hanji 383-1]] says death fear, power-loss anxiety, belief in hidden curse harm, opportunistic actors, and the Jianzhang Palace scare make the Wugu disaster more than a single accidental event.
 - Late-Wudi trigger: [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] says palace mutual accusations over wooden figures and rites already killed hundreds before Jiang Chong used Han Wudi's fear to gain investigative authority.
 - Wang Mang-era staged anomaly: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Wu Zhang proposes frightening Wang Mang through a "变怪," Lü Kuan spills dog blood at Wang Mang's gate, and the case destroys Wang Yu, Lu Yan, Wu Zhang, Wu Zhang's students, and much of the Wei clan.
@@ -50,7 +54,7 @@ The current synthesis is therefore not a claim that every recorded wugu case is 
 
 ## Counterevidence & Qualifications
 
-The concept should not flatten all ritual practice into fraud or assume every accusation was knowingly fabricated. The bounded evidence supports a political-mechanism claim, not a full religious history of wugu belief. Hanji 383-1 supplies a compact opening-condition interpretation and the Jianzhang Palace scare; it does not by itself prove the later Wugu accusations or reconstruct the full 92 BCE security case. Hanji 385-1 supplies a compact origin-condition account for the late-Wudi case, not the full primary record of every accusation or punishment. Hanji 616 does not prove that the dog-blood act was legally identical to wugu or that the participants intended a curse; it supports a boundary case where hidden ritualized action became politically lethal. Hanji 773 is especially useful for political consequence but does not independently prove whether Yin or Deng Zhu performed curse practices. Hanji 913 strongly frames Wang Fu's accusation as strategic, but that source also remains a podcast interpretation rather than a complete evidentiary dossier.
+The concept should not flatten all ritual practice into fraud or assume every accusation was knowingly fabricated. The bounded evidence supports a political-mechanism claim, not a full religious history of wugu belief. Hanji 270-1 does not independently verify the exact ritual conduct, punishment total, deposition wording, or historical status of its 《汉武故事》 material; its claims about magical efficacy and Chen's motives remain interpretive. Hanji 383-1 supplies a compact opening-condition interpretation and the Jianzhang Palace scare; it does not by itself prove the later Wugu accusations or reconstruct the full 92 BCE security case. Hanji 385-1 supplies a compact origin-condition account for the late-Wudi case, not the full primary record of every accusation or punishment. Hanji 616 does not prove that the dog-blood act was legally identical to wugu or that the participants intended a curse; it supports a boundary case where hidden ritualized action became politically lethal. Hanji 773 is especially useful for political consequence but does not independently prove whether Yin or Deng Zhu performed curse practices. Hanji 913 strongly frames Wang Fu's accusation as strategic, but that source also remains a podcast interpretation rather than a complete evidentiary dossier.
 
 ## What Changed
 
@@ -58,6 +62,7 @@ The concept should not flatten all ritual practice into fraud or assume every ac
 - Added Hanji 383-1's earlier late-Wudi permission background: death fear, power anxiety, extreme security response, and the source's fear-power-opportunism explanation.
 - Preserved Hanji 616 as a Wang Mang-era boundary case where dog blood, staged anomaly, and fear of hidden ritual danger become a purge trigger.
 - Preserved Hanji 773 and Hanji 913 as later palace branches where wugu accusation produces deposition, imprisonment, and family punishment.
+- Added Hanji 270-1 as an early-Wudi precedent joining harem rivalry, hidden ritual allegation, investigation, execution, and deposition.
 
 ## Related Concepts
 
@@ -70,3 +75,4 @@ The concept should not flatten all ritual practice into fraud or assume every ac
 - [[DogBloodCase|狗血案]] - Wang Mang-era boundary case where staged anomaly becomes politically lethal.
 - [[EmpressYinHeLateHan|殷皇后]] - Emperor-He-era harem case whose deposition is recorded through a wugu-linked accusation.
 - [[EmpressSongLateHan|宋皇后]] - Ling-era harem case destroyed by a wugu accusation under Wang Fu's palace politics.
+- [[EmpressChenAjiaoWesternHan|陈阿娇]] - early-Wudi empress whose alleged ritual response to lost favor becomes a deposition case.

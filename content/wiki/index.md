@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（1）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf.md) — 补全陈阿娇失宠、依赖楚服、巫蛊调查与废后链条；“相爱若夫妇”与“对食”保留为分层证据，最早案例、术语原义及魅术因果不作定论。
 - [《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2）](sources/zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp.md) — 陈阿娇的巫蛊废后被解释为法律理由、换后机会与联盟弱势的叠加；标题所称“独宠女官”未在正文展开，帝王动机、《长门赋》委托与情感因果保留来源边界。
 - [307-为什么国内很多学术翻译质量这么差？](sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r.md) — 独树不成林与赵雨飞区分文学文气和学术可靠性，并把术语一致、整体思想理解、译者克制与低稿酬、弱评价和有限市场联系起来。
 - [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel.md) — 东方朔以三项重罪与乱政典故阻止董偃进入未央宫前殿，汉武帝把宴席移至北宫后宠爱转淡；医学生死因果、情感动机、典故转录与合葬细节保留来源边界。
@@ -4047,6 +4048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [楚服 / Chu Fu (Western Han)](entities/ChuFuWesternHan.md) — 进入陈阿娇信任、传授祭祀与诅咒并被记为“相爱若夫妇”，后在巫蛊调查中被处死的西汉女性方术者。
 - [陈阿娇 / Empress Chen (Western Han)](entities/EmpressChenAjiaoWesternHan.md) — 因巫蛊案被废、缺乏稳固联盟并在长门叙事中成为失宠与情感依附象征的汉武帝早期皇后。
 - [《长门赋》 / Changmen Fu](entities/ChangmenFu.md) — 与陈阿娇长门宫幽居和司马相如委托传统相连、但作者与委托细节仍需文献核验的赋作。
 - [Zhao Yufei / 赵雨飞](entities/ZhaoYufei.md) — Translator and political-philosophy guest advocating terminology consistency, whole-author research, annotation, and explicit justification in scholarly translation.
@@ -16739,6 +16741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。
 - [Academic Translation Reliability / 学术翻译可靠性](concepts/AcademicTranslationReliability.md) — Standard that places fidelity, conceptual consistency, preserved ambiguity, context, and accountable notes before stylistic elegance.
 - [Translation Labor Incentives / 翻译劳动激励](concepts/TranslationLaborIncentives.md) — Payment, recognition, demand, and editorial conditions that shape whether research-intensive translation can be sustained.
 - [宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary](concepts/CourtCeremonialSpaceBoundary.md) — Venue, entry, and event type distinguish tolerated private recreation from the added legitimacy of a principal state ceremonial space.

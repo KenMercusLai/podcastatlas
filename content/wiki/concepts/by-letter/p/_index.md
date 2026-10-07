@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9875
+wiki_total_pages: 9876
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2630,6 +2630,9 @@ wiki_pages:
   - key: "PalaceInformationDiscipline"
     title: "宫廷信息纪律 / Palace Information Discipline"
     url: "/wiki/concepts/palaceinformationdiscipline/"
+  - key: "PalaceFemaleSameSexIntimacy"
+    title: "宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy"
+    url: "/wiki/concepts/palacefemalesamesexintimacy/"
   - key: "PalaceFavorSelfRestraint"
     title: "宫廷宠幸自持 / Palace Favor Self-Restraint"
     url: "/wiki/concepts/palacefavorselfrestraint/"

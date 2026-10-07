@@ -6,6 +6,7 @@ tags: [court-politics, gender, power, self-restraint, relationship-management]
 sources:
   - zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge
   - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp
+  - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf
 last_updated: 2026-10-08
 ---
 
@@ -21,7 +22,7 @@ The episode's second layer is non-jealous favor management. Ban Jieyu recommends
 
 The concept therefore sits between etiquette, counsel, and survival. Favor creates access, but access becomes safer when it is disciplined by restraint, broader usefulness, and attention to shared platform interest. The source's workplace extension keeps the same structure: competition exists, but a valuable subordinate or collaborator keeps rivalry bounded so the whole system is not damaged.
 
-Hanji 270 adds a negative comparison through [[EmpressChenAjiaoWesternHan|陈阿娇]]. The host argues that after [[EmpressWeiZifuWesternHan|卫子夫]] gains favor, Chen loses proportion, turns to harmful tactics and wugu, and lacks the political network that might have buffered a change in affection. This does not prove that better self-restraint would have preserved her office; it shows only how emotional escalation can compound the structural vulnerability created by childlessness, lost favor, and weak coalition support.
+Hanji 270 adds a negative comparison through [[EmpressChenAjiaoWesternHan|陈阿娇]]. Hanji 270-1 supplies the escalation sequence: after [[EmpressWeiZifuWesternHan|卫子夫]] gains favor, Chen allegedly tries to harm her, relies on [[ChuFuWesternHan|楚服]]'s promised sacrifice, curse, and “魅术” remedies, and enters the wugu case that ends in deposition. Hanji 270-2 adds the weak-coalition and political-opportunity interpretation. Together they show how emotional escalation can compound structural vulnerability created by childlessness, lost favor, and weak support, but they do not prove that better self-restraint would have preserved Chen's office.
 
 ## Key Claims
 
@@ -40,15 +41,16 @@ Hanji 270 adds a negative comparison through [[EmpressChenAjiaoWesternHan|陈阿
 - Non-jealous recommendation: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu recommends Li Ping to Chengdi, after which Li Ping is favored and granted jieyu rank.
 - Workplace extension: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] translates the story into rule awareness, proportion under favor, bounded struggle, and multi-win interest.
 - Negative comparison: [[zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp|Hanji 270]] attributes Chen's collapse partly to jealousy, harmful tactics, and loss of proportion after Wei Zifu's rise, while also emphasizing her weaker coalition.
+- Escalation mechanism: [[zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-1-lqyk8xtyqwmbmytg9pq17flesyyf|Hanji 270-1]] places alleged attempts against Wei Zifu, dependence on Chu Fu, curse practice, and wugu investigation between lost favor and deposition.
 
 ## Counterevidence & Qualifications
 
-This concept rests on two interpretive sources. It should not be used to claim that favored women were safe through self-restraint, that non-jealous recommendation was always voluntary, or that court hierarchy rewarded virtue consistently. Hanji 270 does not establish a counterfactual in which Chen could have kept her position through better conduct; political coalition, fertility, imperial preference, and the wugu case remain independent forces. Hanji 528 does not provide a full biography of Li Ping or a complete account of Ban Jieyu's later displacement by the Zhao sisters, so later accusation and retreat layers remain governed by [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] and Zhao-sister source pages.
+This concept rests on three interpretive sources. It should not be used to claim that favored women were safe through self-restraint, that non-jealous recommendation was always voluntary, or that court hierarchy rewarded virtue consistently. The Hanji 270 pair does not establish a counterfactual in which Chen could have kept her position through better conduct; political coalition, fertility, imperial preference, and the wugu case remain independent forces. Hanji 270-1 also does not independently verify Chen's inner motive, attempted harm, ritual efficacy, or complete legal record. Hanji 528 does not provide a full biography of Li Ping or a complete account of Ban Jieyu's later displacement by the Zhao sisters, so later accusation and retreat layers remain governed by [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] and Zhao-sister source pages.
 
 ## What Changed
 
 - Created from Hanji 528 to capture Ban Jieyu's pre-accusation reputation layer: carriage refusal, Fan Ji comparison, and recommendation of Li Ping as restrained favor management.
-- Added Chen Ajiao as a qualified negative comparison while rejecting the claim that self-command alone could neutralize structural palace risk.
+- Added Chen Ajiao as a qualified negative comparison, then supplied the missing escalation chain through Chu Fu and wugu while rejecting the claim that self-command alone could neutralize structural palace risk.
 
 ## Related Concepts
 
