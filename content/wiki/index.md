@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？](sources/zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm.md) — 以承认未知为认识起点，并把刘德求书、留本抄写、集体校理与献书串成“实事求是”的实践链；词语究竟是刘德自定原则还是班固追评仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif.md) — 以《关雎》把刘德的典籍保存与《诗经》连接起来，并补入献雅乐、答礼制问、获赞而未实际采用及“献”谥评价；具体传本、礼乐实践与死因仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_.md) — 以刘德之死说明谥号的追评功能与美化风险，并把汉武帝的经典暗示读作对诸侯王文化影响力的警告；真实死因、帝王意图与标题所示《诗经》关联均保留来源边界。
 - [《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）](sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj.md) — 唐蒙以强制劳役修筑西南道路引发死亡、逃亡与反抗；司马相如随后以檄文、访谈和出使缓和危机，并把交通、关隘与行政扩张重新结合。
@@ -4052,7 +4053,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
-- [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以典籍保存、经学、雅乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
+- [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
 - [唐蒙 / Tang Meng (Western Han)](entities/TangMengWesternHan.md) — 从蜀酱追出夜郎水路、把商品线索转化为军事行政方案，却又因强制筑路和军法惩逃引发反抗的西汉使者。
 - [夜郎王多同 / Ye Lang King Duo Tong](entities/YelangKingDuotongWesternHan.md) — 与唐蒙达成礼物和设官支持下的条件性约定、同时受诸酋长意见与交通控制预期约束的早期夜郎王。
 - [楚服 / Chu Fu (Western Han)](entities/ChuFuWesternHan.md) — 进入陈阿娇信任、传授祭祀与诅咒并被记为“相爱若夫妇”，后在巫蛊调查中被处死的西汉女性方术者。
@@ -10177,7 +10178,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [微子启 / Weizi Qi](entities/WeiziQi.md) — Shang royal-lineage figure through whom the episode explains Song's special status.
 - [孔父嘉 / Kongfu Jia](entities/KongfuJia.md) — Song noble ancestor used to connect Confucius's genealogy to Weizi Qi.
 - [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for source variants, Su Qin's text/version branch, and the detailed family-humiliation setup behind 前倨后恭.
-- [《诗经》 / Shijing](entities/Shijing.md) — 兼具天象问责、朝堂纠错、贵族暗语、知识控制对象与典籍保存意义的古代诗歌经典。
+- [《诗经》 / Shijing](entities/Shijing.md) — 兼具天象问责、朝堂纠错、贵族暗语与知识控制对象意义，并在刘德叙事中经私人存本、抄写、集体校理和朝廷献书进入典籍保存链的古代诗歌经典。
 - [鲁国 / Lu State](entities/LuState.md) — Old Zhou enfeoffed state whose late survival, record authority, former cultural prestige, and final destruction by Chu anchor several Ruiqi pre-Qin episodes.
 - [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
 - [扁鹊 / Bian Que](entities/BianQue.md) — Physician whose warning to Tian-family Qi Huan Gong is used by Zhouji 08 part 3 as a ruler-judgment caution about rejecting expertise.
@@ -16748,6 +16749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [实事求是 / Seeking Truth from Facts](concepts/ShishiQiushi.md) — 由承认未知、核实具体事实与可重复的求书抄写校理流程组成的求真方法；刘德实践者与班固表述者的归属仍待辨。
 - [强制边疆劳役反噬 / Coercive Frontier Labor Backfire](concepts/CoerciveFrontierLaborBackfire.md) — 以强制劳役和军法惩逃建设边疆基础设施，反而因死亡、逃亡与恐惧摧毁地方合作并催生抵抗的治理失败。
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。
 - [Academic Translation Reliability / 学术翻译可靠性](concepts/AcademicTranslationReliability.md) — Standard that places fidelity, conceptual consistency, preserved ambiguity, context, and accountable notes before stylistic elegance.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9877
+wiki_total_pages: 9878
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2612,6 +2612,9 @@ wiki_pages:
   - key: "StateCommercialMonopolyExtraction"
     title: "官营商业垄断式汲取 / State Commercial Monopoly Extraction"
     url: "/wiki/concepts/statecommercialmonopolyextraction/"
+  - key: "ShishiQiushi"
+    title: "实事求是 / Seeking Truth from Facts"
+    url: "/wiki/concepts/shishiqiushi/"
   - key: "SituationalStrictLenientGovernance"
     title: "宽严相济的因时治理 / Situational Strict-Lenient Governance"
     url: "/wiki/concepts/situationalstrictlenientgovernance/"

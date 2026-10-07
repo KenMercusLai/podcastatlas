@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl
   - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p
   - zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif
+  - zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm
 last_updated: 2026-10-08
 ---
 
@@ -20,7 +21,7 @@ last_updated: 2026-10-08
 
 The sources present the Shijing as usable political language. A solar-eclipse line makes celestial disturbance legible as a warning tied to ruler responsibility, while [[Zisi|子思]] uses another line to expose a court in which universal self-certainty destroys correction. In the succession story around [[WeiWuhou|魏武侯]], shared knowledge of poems lets [[ZhaoCangtang|赵苍唐]] communicate longing and grievance indirectly and lets a clothing gift operate as a summons. The classic therefore works not just as literature but as a common interpretive code among political elites.
 
-That political usefulness also creates preservation and control stakes. The Qin book-burning episode targets private Shijing possession and discussion because inherited texts can supply standards outside current rule, while the Liu De episode opens with 《关雎》 and credits [[LiuDeHejianKingWesternHan|河间献王刘德]] with protecting classical books for later readers. The latter source connects Liu De to Shijing preservation only at a high level; it does not identify manuscripts, transmitters, editorial acts, or a textual school.
+That political usefulness also creates preservation and control stakes. The Qin book-burning episode targets private Shijing possession and discussion because inherited texts can supply standards outside current rule. Hanji 267 then reports a recovery mechanism: [[LiuDeHejianKingWesternHan|河间献王刘德]] searched for privately held books, obtained or copied them without stripping owners of their exemplars, convened scholars to collate texts, and presented edited classics including the Shijing to court. Hanji 268 part 1 reinforces the preservation claim through 《关雎》. These sources still do not identify manuscripts or establish how the reported editorial work relates to a received Shijing school.
 
 ## Key Characteristics
 
@@ -28,28 +29,28 @@ That political usefulness also creates preservation and control stakes. The Qin 
 - Source for interpreting celestial events through ruler responsibility and for criticizing failed court feedback.
 - Medium of indirect elite communication in which poetic allusion can convey emotion, status, grievance, and command.
 - Alternative normative resource that can become a target of centralized knowledge control.
-- Preserved cultural inheritance whose continued availability depends on collectors and transmitters, although the Liu De mechanism remains unspecified.
+- Preserved cultural inheritance whose reported recovery depends on distributed private custody, copying, patronage, collective collation, and court deposit.
 
 ## Evidence
 
 - Omen and correction: [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm|Zhouji 07 part 2]] uses “日有蚀之” for eclipse politics, while [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl|Zhouji 09]] uses Zisi's quotation to diagnose court feedback collapse.
 - Elite coded speech: [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p|Zhouji 10 part 4]] makes poem recognition operational in a displaced heir's restoration.
 - Knowledge-control target: [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l|Qinji 124]] places private Shijing possession and discussion within Qin's book-burning policy.
-- Literary inheritance and preservation: [[zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif|Hanji 268 part 1]] reads 《关雎》 aesthetically and credits Liu De's protection of classical books for later access to works such as the Shijing.
+- Literary inheritance and preservation: [[zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm|Hanji 267]] names the Shijing among texts acquired, collated, and presented by Liu De, while [[zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif|Hanji 268 part 1]] reads 《关雎》 aesthetically and credits his protection of classical books for later access.
 
 ## Qualifications
 
-These podcast source notes illustrate selected uses of the Shijing; they do not establish the classic's authorship, compilation, received editions, full interpretive history, or textual transmission. The Wei succession story comes through the [[ZizhiTongjianBu|《资治通鉴补》]] rather than the base chronicle. Qinji 124 concerns a state restriction but does not imply that every Shijing use was oppositional. Hanji 268 part 1 supplies only a general preservation claim about Liu De and does not show which text, version, acquisition, editor, or transmitter connects him to the received Shijing.
+These podcast source notes illustrate selected uses of the Shijing; they do not establish the classic's authorship, compilation, received editions, full interpretive history, or textual transmission. The Wei succession story comes through the [[ZizhiTongjianBu|《资治通鉴补》]] rather than the base chronicle. Qinji 124 concerns a state restriction but does not imply that every Shijing use was oppositional. Hanji 267 adds a reported recovery and collation process, but the specific exemplar, version, editorial contribution, role of Mao Chang, and connection to the received Shijing remain unestablished; crediting modern access to Liu De should not erase other transmitters.
 
 ## What Changed
 
-- Migrated the page to the synthesis-first schema while preserving the complete source inventory.
-- Added 《关雎》 as a literary entry point and Liu De as a source-attributed classical-preservation figure.
-- Narrowed the Liu De relationship to a broad preservation claim rather than an established Shijing transmission lineage.
+- Added a concrete source-attributed preservation chain from private custody through copying and collective collation to court presentation.
+- Preserved the boundary between that recovery account and a demonstrated manuscript or received-school lineage.
 
 ## Relationships
 
 - [[LiuDeHejianKingWesternHan|河间献王刘德]] - learned vassal king broadly credited with preserving classical books associated with later Shijing access.
+- [[ShishiQiushi|实事求是]] - fact-seeking collation ideal through which the episode interprets Liu De's preservation work.
 - [[PoetryAsElitePoliticalLanguage|诗经作为贵族政治语言]] - shared poetic literacy turns quotation and allusion into political communication.
 - [[CelestialOmenPoliticalResponsibility|天象与政治责任]] - Shijing eclipse language helps connect signs to ruler accountability.
 - [[CourtFeedbackCollapse|朝堂反馈失灵]] - Zisi's quotation criticizes universal self-certainty and absent correction.

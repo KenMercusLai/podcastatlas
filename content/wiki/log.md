@@ -31846,3 +31846,11 @@ Added source `zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jiey
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？
+
+Added source `zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm`; created [[ShishiQiushi|实事求是]]; and resynthesized [[LiuDeHejianKingWesternHan|河间献王刘德]] and [[Shijing|《诗经》]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode turns epistemic humility into an institutional preservation workflow—regional search, negotiated access, owner-preserving copying, collective collation, and court presentation—while the surviving “修学好古，实事求是” wording more securely associates the ideal with Liu De than it proves that he coined or formally declared it. No settled contradiction was adopted. Personal travel, dates, Rihua Palace scale, named scholarly roles, the thousand-section total, specific manuscript lineages, ritual-music evaluation, Xian County's naming, modern access being owed to Liu De, and his cause of death remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,985 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
