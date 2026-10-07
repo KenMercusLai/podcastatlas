@@ -4,7 +4,8 @@ type: entity
 tags: [inca, peru, emperor, spanish-conquest]
 sources:
   - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
-last_updated: 2026-10-07
+  - 646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,35 +13,41 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Atahualpa was the victorious northern claimant in the Inca civil war whose execution by Francisco Pizarro left his commanders and heartland resisting Spanish-backed rulers from the Cusco faction.
+Atahualpa was the victorious northern claimant in the Inca civil war whose captivity financed and temporarily stabilized Francisco Pizarro's expedition before a broken ransom promise, coercive trial, and execution left a contested succession.
 
 ## Current Profile
 
-[[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] begins after Atahualpa's execution and reconstructs his political afterlife. Pizarro's first puppet ruler, Túpac Hualpa, is a younger brother of Atahualpa's defeated rival Huascar; after Túpac Hualpa dies, [[MancoInca]] offers another Cusco-faction claim that Spaniards can present as liberation from northern rule.
+[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] presents Atahualpa as physically captive but still sovereign in practice. He promises the [[AtahualpaRansomAndExecution|Cajamarca ransom]], orders armies not to resist, draws [[Chalcuchima]] into Spanish custody, and directs treasure collection toward Cusco and sacred centers. He also continues the civil war by ordering Huascar's death, showing that he initially treats the Spaniards as a dangerous but temporary force inside an unresolved Inca struggle.
 
-Atahualpa's death does not dissolve the northern military order. [[Quisquis]] retreats with a large, battle-hardened army, while [[Ruminawi|Rumiñawi]] eliminates Atahualpa's brother Quiliscacha and establishes an independent regime around Quito. Atahualpa therefore remains central less as an acting ruler than as the source of rival loyalties, claimants, commanders, and territorial division that structure the next phase of conquest.
+As gold and silver arrive, Atahualpa learns that more Spaniards are coming while the captors increasingly fear his capacity to organize rescue. Although the ransom is paid, a disputed trial, threatened burning, and baptism precede his garroting. The episode treats conversion as a desperate attempt to preserve his body and records both de Soto's anger and Spanish royal or chronicler condemnation of the killing.
+
+[[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] reconstructs the political afterlife. Pizarro installs Túpac Hualpa and then [[MancoInca]] from the defeated Huascar-aligned faction. [[Quisquis]] retreats with a battle-hardened army, while [[Ruminawi|Rumiñawi]] eliminates Atahualpa's brother Quiliscacha and establishes an independent regime around Quito. Atahualpa's death therefore removes a commanding center without dissolving northern armies, kinship claims, or territorial loyalties.
 
 ## Key Characteristics
 
 - Northern Inca claimant victorious over Huascar before Spanish intervention.
-- Executed captive whose death left a contested imperial succession.
-- Political center of a Quito faction that remained militarily active after his death.
-- Brother whose surviving relatives could serve as rival claimants or threats.
-- Ruler whose earlier violence helped drive some Cañari communities toward Spanish alliance.
+- Captive emperor whose commands continued to move treasure, restrain armies, and discipline commanders.
+- Civil-war victor who remained focused on eliminating Huascar and punishing rival centers.
+- Ransom payer executed after a disputed trial and coerced conversion despite a release promise.
+- Political center of a northern faction that remained militarily active after his death.
+- Ruler whose violence helped drive some Cañari communities toward Spanish alliance.
 
 ## Evidence
 
+- Captive authority and ransom: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] links Atahualpa's orders to treasure collection, army paralysis, Huascar's death, and Chalcuchima's surrender.
+- Trial and execution: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows the paid ransom, rescue rumors, disputed charges, baptism, garroting, and contemporary criticism.
 - Succession politics: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] shows Pizarro selecting Huascar-aligned rulers after Atahualpa's execution.
 - Northern continuity: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows Quisquis, Rumiñawi, Atahualpa's relatives, and Quito resistance.
 - Coalition consequences: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] connects remembered Atahualpa-era cruelty to Cañari support for Spanish forces.
 
 ## Qualifications
 
-The source covers Atahualpa mainly through the aftermath of his death and does not provide a full biography, independently adjudicate the civil war, or settle the motives and loyalties of every relative, commander, or allied community. The causal link between his conduct and later Cañari alignment is episode-attributed and should not turn diverse Indigenous choices into a single motive.
+The two episodes do not provide a full biography or independently adjudicate the civil war. Spanish chroniclers dominate the captivity narrative, so dialogue, ransom quantities, motives, trial procedure, conversion, body-recovery traditions, and the loyalties of commanders and communities remain source-scoped. The causal link between Atahualpa-era violence and later Cañari alignment should not turn diverse Indigenous choices into a single motive.
 
 ## What Changed
 
-- Created a profile centered on Atahualpa's posthumous role in succession, faction, and northern resistance.
+- Added Atahualpa's captive government, ransom bargain, continuing civil-war strategy, and execution.
+- Reframed his death as the destruction of an active command center rather than only a posthumous succession problem.
 
 ## Relationships
 
@@ -48,5 +55,7 @@ The source covers Atahualpa mainly through the aftermath of his death and does n
 - [[Ruminawi]] - northern commander who took power around Quito after Atahualpa's death.
 - [[Quisquis]] - senior commander who continued the northern army's retreat and resistance.
 - [[FranciscoPizarro]] - conquistador who killed Atahualpa and manipulated the resulting succession.
+- [[Chalcuchima]] - general whose obedience to Atahualpa helped bring him into Spanish captivity.
+- [[AtahualpaRansomAndExecution]] - bargain and execution sequence that ended Atahualpa's rule.
 - [[SpanishConquestOfPeru]] - conquest process accelerated by the civil war and succession crisis.
 - [[IndigenousAllianceInSpanishConquest]] - coalition mechanism shaped partly by grievances against Atahualpa's faction.

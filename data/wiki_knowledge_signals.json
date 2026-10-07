@@ -18455,9 +18455,9 @@
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atahualpa": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4740382633 [GLT4740382633].md",
@@ -18465,10 +18465,33 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/atahualpa/"
+    },
+    "AtahualpaRansomAndExecution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/atahualparansomandexecution/"
     },
     "Atang": {
       "episode_count": 21,
@@ -34134,6 +34157,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/capturedopponenttalentincorporation/"
     },
+    "CapturedRulerLegitimacyContainment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段 [lmQKy6G3qi9NKlPdNYe4lK5rRBZ6].md",
+          "key": "zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/capturedrulerlegitimacycontainment/"
+    },
     "CapuchinCrypt": {
       "episode_count": 2,
       "show_count": 1,
@@ -35968,6 +36014,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/chainexecutiveimport/"
+    },
+    "Chalcuchima": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/chalcuchima/"
     },
     "ChampDeMarsMassacre": {
       "episode_count": 1,
@@ -59397,9 +59466,9 @@
       "url": "/wiki/entities/diegobohorquez/"
     },
     "DiegoDeAlmagro": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -59421,9 +59490,16 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/diegodealmagro/"
     },
     "DiegoMaradona": {
@@ -85265,9 +85341,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FranciscoPizarro": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -85289,9 +85365,16 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/franciscopizarro/"
     },
     "FrancoAmericanAlliance1778": {
@@ -104687,9 +104770,9 @@
       "url": "/wiki/entities/hernancortes/"
     },
     "HernandoPizarro": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6392035011 [GLT6392035011].md",
@@ -104697,9 +104780,16 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/hernandopizarro/"
     },
     "HeroMemoryPoliticalCredibility": {
@@ -190244,9 +190334,9 @@
       "url": "/wiki/entities/quisoyupanqui/"
     },
     "Quisquis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4740382633 [GLT4740382633].md",
@@ -190254,9 +190344,16 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/quisquis/"
     },
     "QuliWesternRegions": {
@@ -200707,9 +200804,9 @@
       "url": "/wiki/entities/sacredpawssoapcompany/"
     },
     "SacredPrestigeUnderConquest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1570061216 [GLT1570061216].md",
@@ -200724,9 +200821,16 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/sacredprestigeunderconquest/"
     },
     "SacredSitePoliticalLegitimacy": {
@@ -214092,9 +214196,9 @@
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "SpanishConquestOfPeru": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -214116,9 +214220,16 @@
           "show": "The Rest Is History",
           "title": "647. The Fall of the Incas: The King in the North (Part 4)",
           "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        },
+        {
+          "episode_file": "GLT8131543734 [GLT8131543734].md",
+          "key": "646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734",
+          "show": "The Rest Is History",
+          "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
+          "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/spanishconquestofperu/"
     },
     "SparseRecordDeathCauseInference": {

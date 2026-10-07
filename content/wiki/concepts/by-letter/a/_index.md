@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9870
+wiki_total_pages: 9871
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2573,6 +2573,9 @@ wiki_pages:
   - key: "AtHomePreventiveHealth"
     title: "At-Home Preventive Health"
     url: "/wiki/concepts/athomepreventivehealth/"
+  - key: "AtahualpaRansomAndExecution"
+    title: "Atahualpa's Ransom and Execution"
+    url: "/wiki/concepts/atahualparansomandexecution/"
   - key: "Atenism"
     title: "Atenism"
     url: "/wiki/concepts/atenism/"

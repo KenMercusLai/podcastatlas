@@ -88,6 +88,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
+- [646. The Fall of the Incas: Death to the Emperor (Part 3)](sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734.md) — Atahualpa's ransom, captive authority, sacred plunder, disputed trial, execution, and the succession vacuum before the march on Cusco.
 - [647. The Fall of the Incas: The King in the North (Part 4)](sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633.md) — Puppet succession, Cusco's sacred plunder, northern resistance around Quito, and the transition from conquest to colonial settlement.
 - [648. The Fall of the Incas: Battle for the Sacred City (Part 5)](sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011.md) — Manco Inca's break with Spanish rule, the 1536–37 siege of Cusco, and the three-way struggle among Manco, Almagro, and the Pizarros.
 - [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
@@ -4101,15 +4102,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 从反太子盟友升为拟立储君和武器经手人，调查中又告发父王而未能自保的衡山王子。
 - [刘无采 / Liu Wucai (Hengshan Royal Daughter)](entities/LiuWucaiHengshanPrincess.md) — 因兄长干预私生活而决裂并被徐来吸纳进反太子阵营的衡山王女。
 - [厥姬 / Jue Ji (Hengshan Consort)](entities/JueJiHengshan.md) — 以未核实巫蛊指控激化太子刘爽与王后徐来冲突的衡山王宠妾。
-- [Atahualpa](entities/Atahualpa.md) — Victorious northern Inca claimant whose execution left a contested succession and continuing resistance around Quito.
+- [Atahualpa](entities/Atahualpa.md) — Captive Inca ruler whose continuing authority financed conquest before his disputed execution created a succession vacuum.
+- [Chalcuchima](entities/Chalcuchima.md) — Senior Atahualpa-aligned commander drawn into Spanish captivity despite commanding a much larger force.
 - [Rumiñawi](entities/Ruminawi.md) — Northern commander who seized power around Quito, resisted Spanish-led forces, and was executed in 1535.
-- [Quisquis](entities/Quisquis.md) — Atahualpa's senior commander, killed by his own officers after refusing peace during the retreat toward Quito.
+- [Quisquis](entities/Quisquis.md) — Atahualpa's senior commander who permitted Coricancha's ransom plunder before later resisting and dying during retreat.
 - [Manco Inca](entities/MancoInca.md) — Inca ruler who led resistance from Vilcabamba until his murder in 1544.
-- [Francisco Pizarro](entities/FranciscoPizarro.md) — Conquistador governor whose Lima-based faction defeated Almagro before Almagrist assassins killed him.
-- [Diego de Almagro](entities/DiegoDeAlmagro.md) — Conquistador rival defeated at Las Salinas and executed in 1538.
+- [Francisco Pizarro](entities/FranciscoPizarro.md) — Conquistador who turned captive authority and civil-war division into treasure, puppet rule, colonial government, and factional war.
+- [Diego de Almagro](entities/DiegoDeAlmagro.md) — Reinforcement leader and ransom claimant whose later rivalry with Pizarro ended in defeat and execution.
 - [Neo-Inca State of Vilcabamba](entities/NeoIncaState.md) — Independent Inca refuge that survived until the Spanish conquest of 1572.
 - [Túpac Amaru I](entities/TupacAmaruI.md) — Final independent Vilcabamba ruler, captured and executed in Cusco in 1572.
-- [Hernando Pizarro](entities/HernandoPizarro.md) — Pizarro-family commander who defended Cusco during Manco Inca's 1536 siege.
+- [Hernando Pizarro](entities/HernandoPizarro.md) — Ransom expedition leader and royal envoy who later defended Cusco during Manco Inca's siege.
 - [Gonzalo Pizarro](entities/GonzaloPizarro.md) — Conquistador whose abuse of Manco's household preceded his role in the defense of Cusco.
 - [Vilac Umu](entities/VilacUmu.md) — Inca high priest and organizer who helped prepare Manco's uprising.
 - [Quiso Yupanqui](entities/QuisoYupanqui.md) — Inca commander successful in mountain ambushes before his defeat near Lima.
@@ -16790,7 +16792,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
-- [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
+- [Atahualpa's Ransom and Execution](concepts/AtahualpaRansomAndExecution.md) — Failed ransom bargain in which captive authority financed conquest before trial and execution created a succession vacuum.
+- [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged process joining hostage leverage, Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
 - [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.
 - [Siege of Cusco (1536–1537)](concepts/SiegeOfCusco1536.md) — Manco Inca's mass uprising, near-capture of Cusco, and transition from military stalemate to Almagro's occupation.
 - [Indigenous Alliances in Spanish Conquest](concepts/IndigenousAllianceInSpanishConquest.md) — Strategic Indigenous coalition power essential to Spanish-led conquest armies.
@@ -17324,7 +17327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Hyperthermia and Adipose Browning](concepts/LocalHyperthermiaAdiposeBrowning.md) — Experimental UCP1-linked adipose-identity signal bounded from spot-reduction and established obesity-treatment claims.
 - [French Fifth Republic](concepts/FrenchFifthRepublic.md) — Constitutional order joining a powerful presidency to an expectation of above-party national embodiment.
 - [Border Surveillance Rescue Failure](concepts/BorderSurveillanceRescueFailure.md) — Multi-stage breakdown between tower coverage, detection, classification, monitoring, response, and humanitarian outcome.
-- [Sacred Prestige Under Conquest](concepts/SacredPrestigeUnderConquest.md) — Pattern in which conquerors attack, seize, restore, or appropriate sacred centers whose authority survives military defeat.
+- [Sacred Prestige Under Conquest](concepts/SacredPrestigeUnderConquest.md) — Pattern in which conquest turns sacred authority into trophies, bullion, imposed ceremony, or restoration claims.
 - [Intermittent Challenge Hormesis](concepts/IntermittentChallengeHormesis.md) — Dose-bounded adaptive-stress frame spanning exercise, fasting, heat, cold, and selected plant compounds.
 - [Micronutrient Status Measurement](concepts/MicronutrientStatusMeasurement.md) — Testing-led framework separating intake, formulation, metabolism, status, and individualized response.
 - [Omega-3 Status and Form Boundary](concepts/Omega3StatusAndFormBoundary.md) — Distinction among ALA, EPA, DHA, source, chemical form, quality, biomarker status, and outcome evidence.
@@ -20963,7 +20966,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yi Shui Farewell / 易水送别](concepts/YiShuiFarewell.md) — Ritualized farewell scene that turns Jing Ke's departure into enduring political and literary memory.
 - [Weak-State Assassination Strategy / 弱国刺杀式破局](concepts/WeakStateAssassinationStrategy.md) — Pattern where a weak state unable to resist directly turns the enemy ruler into the strategic target.
 - [Honor Binding By Self-Sacrifice / 以死绑定的侠义压力](concepts/HonorBindingBySelfSacrifice.md) — Mechanism where Tian Guang's suicide guarantees secrecy and morally binds Jing Ke to the death mission.
-- [Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制](concepts/CapturedRulerLegitimacyContainment.md) — Strategy pattern where keeping a defeated ruler alive constrains rival claimants and shapes remnant-state title choices.
+- [Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制](concepts/CapturedRulerLegitimacyContainment.md) — Strategy in which a captive sovereign's residual authority constrains succession, commands armies, or mobilizes resources.
 - [Remnant Resistance Base / 残余政权根据地](concepts/RemnantResistanceBase.md) — Pattern where a fallen state's surviving royal line gathers officials, territory, and alliance cover in a frontier base.
 - [Disaster-Exploiting Conquest Timing / 趁灾进攻时机](concepts/DisasterExploitingConquestTiming.md) — Strategy pattern where Qin compounds Zhao's earthquake, famine, and drought with rumor, bribery, and attack timing.
 - [Author Admiration Power Risk](concepts/AuthorAdmirationPowerRisk.md) — Pattern where a powerful reader's admiration for a text draws the author into unsafe court politics.

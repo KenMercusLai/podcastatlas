@@ -5,7 +5,8 @@ tags: [religion, conquest, legitimacy, cultural-memory, ancient-mesopotamia, inc
 sources:
   - 181-the-birth-of-babylon-glt1570061216
   - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
-last_updated: 2026-10-01
+  - 646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,9 @@ Sacred prestige under conquest is the pattern in which military victory attacks 
 
 The concept therefore differs from simple cultural survival. Babylonian prestige actively shaped conqueror behavior: Kassite rulers adopted local traditions, Assyrian rulers alternated between destruction and restoration, and Nebuchadnezzar I used recovery of Marduk to magnify royal authority. Military defeat could even provide another occasion for the sacred center's importance to be publicly reenacted.
 
-[[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] supplies a contrasting case in Cusco. The Spaniards admire the city's order and wealth but ignore the high priest's ritual conditions for entering Coricancha, seize temple objects, and melt exceptional gold and silver work into portable bullion. Manco's coronation preserves royal mummies and Inca ceremonial form while placing them beside the Spanish Requirement and tribute to the Spanish flag. Here sacred prestige attracts plunder and coerced political theater without requiring the conquerors to adopt the conquered religious order.
+[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] and [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] supply a contrasting Andean sequence. Captive [[Atahualpa]] directs Spaniards toward Pachacamac partly because its priests had issued unwelcome prophecies; Hernando Pizarro finds little treasure, destroys the shrine, and interprets the failure of a threatened flood as permission for further desecration. In Cusco, [[Quisquis]] allows Spaniards to strip Coricancha before the occupation force later ignores ritual conditions, seizes temple objects, and melts exceptional work into portable bullion.
+
+Manco's coronation then preserves royal mummies and Inca ceremonial form while placing them beside the Spanish Requirement and tribute to the Spanish flag. Sacred prestige can therefore attract plunder and coerced theater without requiring conquerors to adopt the conquered religious order; failed prophecy, internal religious rivalry, and an Indigenous ruler's tactical direction can also help expose a sacred center.
 
 ## Key Claims
 
@@ -30,6 +33,7 @@ The concept therefore differs from simple cultural survival. Babylonian prestige
 - Restoration can legitimate a ruler by presenting political repair as the repair of cosmic or ritual order.
 - Conquerors may adopt a prestigious culture without ending coercion, plunder, or rivalry.
 - Sacred prestige can attract destructive extraction even when conquerors do not seek to inherit the local cult.
+- A ruler within the conquered society may redirect foreign sacrilege toward rival sacred institutions for immediate political purposes.
 
 ## Evidence
 
@@ -37,17 +41,19 @@ The concept therefore differs from simple cultural survival. Babylonian prestige
 - Recovery and legitimation: [[181-the-birth-of-babylon-glt1570061216]] links Nebuchadnezzar I's campaign to the return of Marduk and the god's wider supremacy.
 - Destruction, appropriation, and repair: [[181-the-birth-of-babylon-glt1570061216]] contrasts Sennacherib's destruction and relocation claim with Esarhaddon's rebuilding and restoration.
 - Cultural adoption: [[181-the-birth-of-babylon-glt1570061216]] presents long Kassite rule as foreign conquest followed by substantial Babylonian cultural absorption.
+- Rival shrine destruction: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] connects Atahualpa's direction, Pachacamac's failed prophecies, Spanish disappointment, and destruction.
+- Ransom extraction: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows Coricancha's stripping and the melting of sacred and status objects into bullion.
 - Temple entry and plunder: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] connects disregard for Coricancha's ritual boundaries to seizure and melting of sacred metalwork.
 - Ceremonial appropriation: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] places Manco's Inca coronation rites beside Spanish legal-religious claims and tribute.
 
 ## Counterevidence & Qualifications
 
-The pattern does not prove that all conquerors revered what they seized or that religious motives can be separated cleanly from booty, coercion, diplomacy, and dynastic competition. The Babylon episode distinguishes an outsider taking a trophy from a ruler who shares enough of the religious world to fear abducting a god; the Cusco episode instead shows admiration coexisting with ritual disregard and material destruction. Neither case should flatten distinct actors or periods into one motive, and the lost Pun Chao's fate remains unknown.
+The pattern does not prove that all conquerors revered what they seized or that religious motives can be separated cleanly from booty, coercion, prophecy, diplomacy, and dynastic competition. The Babylon episode distinguishes an outsider taking a trophy from a ruler who shares enough of the religious world to fear abducting a god; the Andean episodes instead show admiration coexisting with Christian hostility, ritual disregard, internal rivalry, and material destruction. Neither case should flatten distinct actors or periods into one motive, and the fate of many destroyed objects is recoverable only through colonial accounts.
 
 ## What Changed
 
-- Added Cusco as a contrasting case where sacred prestige invited admiration, plunder, and imposed ceremony rather than cultic adoption.
-- Distinguished shared-sacred-world appropriation from external conversion of religious art into bullion.
+- Added Pachacamac and the first Coricancha expedition to the Andean sequence.
+- Identified failed prophecy and intra-Andean religious rivalry as possible openings for conquest-era desecration.
 
 ## Related Concepts
 
@@ -56,3 +62,4 @@ The pattern does not prove that all conquerors revered what they seized or that 
 - [[MandateOfHeavenLegitimacy]] - comparative framework for political authority grounded in a sacred order larger than the ruler.
 - [[PrestigeCapacityGap]] - distinguishes symbolic or cultural authority from practical governing and military capacity.
 - [[SpanishConquestOfPeru]] - conquest in which sacred plunder accompanied puppet succession and colonial formation.
+- [[AtahualpaRansomAndExecution]] - ransom process that converted sacred and status objects into conquest revenue.

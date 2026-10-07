@@ -31744,3 +31744,11 @@ Added source `restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 646. The Fall of the Incas: Death to the Emperor (Part 3)
+
+Added source `646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734`; created [[Chalcuchima]] and [[AtahualpaRansomAndExecution]]; and resynthesized [[Atahualpa]], [[FranciscoPizarro]], [[DiegoDeAlmagro]], [[HernandoPizarro]], [[Quisquis]], [[CapturedRulerLegitimacyContainment]], [[SacredPrestigeUnderConquest]], and [[SpanishConquestOfPeru]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Atahualpa's physical captivity did not immediately erase imperial authority; his orders mobilized ransom treasure, restrained major armies, and drew Chalcuchima into custody, but Spanish reinforcement, share conflict, rescue rumors, greed, and the desire to move on Cusco converted that useful leverage into a disputed trial and execution. The killing replaced captive government with succession fragmentation and exposed Pizarro to Spanish as well as Indigenous criticism. One internal chronology conflict is preserved: the supplied source dates the Cajamarca capture to November 1533 while also placing Atahualpa's execution in July 1533, so the capture date is not adopted. Ransom dimensions and weights, force totals, dialogue, rumors, trial form, interpreter conduct, baptismal intent, body-recovery traditions, and private motives remain source-scoped. Broad [[TheRestIsHistory]], [[CharlesV]], [[PoliticalShowTrial]], and [[Ruminawi]] pages were kept closed because the bounded additions are represented in focused figure, mechanism, event, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,972 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
