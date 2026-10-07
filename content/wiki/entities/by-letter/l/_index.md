@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12596
+wiki_total_pages: 12597
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "LushiChunqiu"
     title: "《吕氏春秋》 / Lushi Chunqiu"
     url: "/wiki/entities/lushichunqiu/"
+  - key: "LegendOfTheCondorHeroes"
+    title: "《射雕英雄传》 / The Legend of the Condor Heroes"
+    url: "/wiki/entities/legendofthecondorheroes/"
   - key: "LastChanceToSee"
     title: "《消逝世界漫游指南》 / Last Chance to See"
     url: "/wiki/entities/lastchancetosee/"

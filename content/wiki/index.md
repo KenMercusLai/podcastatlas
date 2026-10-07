@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
 - [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
 - [《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹](sources/zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd.md) — 卫青三路搜索时由中军先行接敌并取得局部击溃；节目以兵器组合、阵形纵深和近战压迫解释汉军优势，但两翼未到、单于不在及武器技术细节均保留来源边界。
 - [102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南](sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4.md) — 纸醉金迷FM以郭芙蓉从误伤百姓到留在同福客栈的开篇故事，讨论成熟武侠的解构、侠义的后果责任，以及情节如何为明确说理提供支撑。
@@ -4009,6 +4010,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
 - [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, causal clue testing, disagreement, evidence boundaries, moral gradation, and practical ethical argument.
+- [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
@@ -16645,6 +16647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。
 - [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。
 - [Medium-Specific Adaptation Salience / 媒介特定的改编显著性](concepts/MediumSpecificAdaptationSalience.md) — 不同媒介通过文字密度、内心活动、镜头强调、时长和可见动作改变线索显著性及叙事功能。
+- [Functional Adaptation Fidelity / 功能性改编忠实](concepts/FunctionalAdaptationFidelity.md) — 以人物逻辑、可感知动机、叙事效果与主题成长的保留衡量改编，而非要求情节、对白和形式逐项照搬。
 - [Children's Literature Moral Dialogue / 儿童文学价值对话](concepts/ChildrensLiteratureMoralDialogue.md) — 在保留爱、友谊与勇气的情感塑造力时，也讨论故事的便利、制度偏差和时代价值边界。
 - [Institutionalized Fantasy Worldbuilding / 制度化幻想世界构建](concepts/InstitutionalizedFantasyWorldbuilding.md) — 以学校、课程、购物、货币、交通和程序把继承的魔法母题组织成可日常生活的幻想社会。
 - [Coercive Relationship Legitimation / 强迫关系合法化](concepts/CoerciveRelationshipLegitimation.md) — 以爱情、婚姻、命定、家庭或利益叙事掩盖持续拒绝与强迫关系的机制。

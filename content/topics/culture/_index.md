@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3203
+topic_total_pages: 3206
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1378,6 +1378,9 @@ topic_concepts:
   - key: "FrenchNewWave"
     title: "French New Wave / 法国新浪潮"
     url: "/wiki/concepts/frenchnewwave/"
+  - key: "FunctionalAdaptationFidelity"
+    title: "Functional Adaptation Fidelity / 功能性改编忠实"
+    url: "/wiki/concepts/functionaladaptationfidelity/"
   - key: "GamePreservation"
     title: "Game Preservation"
     url: "/wiki/concepts/gamepreservation/"
@@ -6662,6 +6665,9 @@ topic_entities:
   - key: "FengshanWen"
     title: "《封禅文》 / Fengshan Wen"
     url: "/wiki/entities/fengshanwen/"
+  - key: "LegendOfTheCondorHeroes"
+    title: "《射雕英雄传》 / The Legend of the Condor Heroes"
+    url: "/wiki/entities/legendofthecondorheroes/"
   - key: "TheLittlePrince"
     title: "《小王子》 / The Little Prince"
     url: "/wiki/entities/thelittleprince/"
@@ -8436,6 +8442,9 @@ topic_sources:
   - key: "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195"
     title: "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使"
     url: "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+  - key: "101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq"
+    title: "101 好的改编什么样：金庸《射雕》影视改编盘点"
+    url: "/wiki/sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq/"
   - key: "101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876"
     title: "101.曹寅与康熙：红楼梦醒终有时"
     url: "/wiki/sources/101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876/"

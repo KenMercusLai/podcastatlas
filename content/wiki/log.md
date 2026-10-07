@@ -31381,3 +31381,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 101 好的改编什么样：金庸《射雕》影视改编盘点
+
+Added source `101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq`; created [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[FunctionalAdaptationFidelity|功能性改编忠实]]; and resynthesized [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: successful adaptation preserves character causality, growth, dramatic effect, and thematic culmination through screen-legible devices rather than literal copying; film and serial television impose different compression and ensemble pressures; and casting must perform tensions such as 郭靖's simplicity without stupidity rather than reproduce a surface label. No settled contradiction was adopted. Version rankings, performer judgments, dates, credits, character ages, production intent, and occasional name confusion remain subjective or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,924 sources across 798 overview paragraphs and nine topics. Identity, knowledge schema, derived synthesis, whitespace, index coverage, wikilinks, health, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

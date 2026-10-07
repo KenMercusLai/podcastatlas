@@ -20,6 +20,7 @@ sources:
   - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
   - 104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo
   - 102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4
+  - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -28,7 +29,7 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], an adaptation survey of [[LegendOfTheCondorHeroes|《射雕英雄传》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -41,6 +42,8 @@ The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading fr
 The earlier opening-story discussion adds cultural placement and character formation. It treats the sitcom's dense wuxia references as [[MatureGenreDeconstruction|mature-genre deconstruction]], then follows [[GuoFurong|郭芙蓉]] from mistaken vigilantism through debt, labor refusal, illness deception, and partial integration into the inn. The hosts distinguish inability at one chore from a refusal to learn, and they explain the show's explicit moral conclusions through [[StoryEarnedMoralInstruction|story-earned instruction]] rather than speaker authority alone.
 
 The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] discussions add systematic novel-film comparison, childhood reading memory, and explicit children's-literature disagreement. The first half connects isolation and the wish for belonging to [[InstitutionalizedFantasyWorldbuilding|institutional worldbuilding]], showing how letters, shopping, banking, currency, school supplies, and transport make inherited magical motifs feel ordinary and inhabitable. Across both halves, the hosts trace how prose accumulation, visual invention, interiority, buried textual clues, logic puzzles, camera emphasis, visible action, and runtime alter narrative functions across media. They also separate an effective Snape-to-Quirrell reversal from simple surprise by checking whether earlier evidence can be reread. Their debate over love as protective magic preserves both childhood emotional formation and adult concern about convenience, while the school-points discussion joins satisfying moral recognition to institutional bias. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
+
+The [[LegendOfTheCondorHeroes|《射雕英雄传》]] survey extends adaptation criticism across many films and television series. Version rankings remain subjective, but repeated comparison makes the show's criteria unusually explicit: character logic outranks surface resemblance, changed scenes can preserve narrative function, film and television impose different duration structures, and martial spectacle succeeds only when it carries growth, tactics, and thematic culmination. The hosts' disagreements over performers also expose nostalgia, voice, age, bearing, and chemistry as parts of reception rather than neutral facts.
 
 The [[JinYong|金庸]] reclusion episode adds comparative typology and modern translation. Instead of treating withdrawal as a scenic ending, the hosts compare chosen and forced retreat, political failure, post-achievement restraint, strategic concealment, and blocked exit, then test each against role attachment, relationship networks, livelihood, and safety. The discussion moves from [[XiaoAoJiangHu|《笑傲江湖》]] and other novels through historical recluses and Confucian, Daoist, and Buddhist frames into workplace refusal. Its strongest synthesis is [[JinYongReclusionFreedom|reclusion as exit capacity]], while its breadth also makes several historical and philosophical claims less systematic than its character comparisons.
 
@@ -130,15 +133,19 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 - [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] compares interior dialogue, clue visibility, logic, spectacle, and redistributed character competence across novel and film.
 - [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] tests the Snape misdirection through retrospective evidence and preserves disagreement over love, courage, school points, and moral education.
 
+### Multi-version adaptation and performance
+
+- [[101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq]] compares many 《射雕英雄传》 films and television series through compression, character logic, acting, voice, screen invention, martial visualization, and earned climax.
+
 ## Qualifications
 
-This profile rests on seventeen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on eighteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Extended the sitcom method from later plot mechanics to genre history, opening character formation, and explicit moral closure.
-- Added a distinction between inability at a task and refusal to learn or act.
-- Identified plot-supported instruction as a recurring critical test rather than treating direct lessons as automatically persuasive or intrusive.
+- Extended adaptation criticism from one novel-film pair to comparison across many films and television series.
+- Made character logic, screen-legible motive, actor embodiment, format duration, and earned climax explicit adaptation criteria.
+- Preserved version and performer rankings as subjective reception rather than converting disagreement into a single verdict.
 
 ## Relationships
 
@@ -184,5 +191,7 @@ This profile rests on seventeen episode notes and may not represent every format
 - [[PublicValuesUnderCost]] - account of how “救苦救难” is tested by risk and inconvenience.
 - [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] - school fantasy used to compare novel-film form, misdirection, friendship, and moral education.
 - [[MediumSpecificAdaptationSalience]] - framework extracted from the episode's comparison of textual and audiovisual emphasis.
+- [[LegendOfTheCondorHeroes]] - multi-version adaptation case centered on growth, character contrasts, and wuxia climax.
+- [[FunctionalAdaptationFidelity]] - framework distinguishing preservation of narrative function from literal copying.
 - [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.
 - [[InstitutionalizedFantasyWorldbuilding]] - framework for organizing inherited fantasy motifs into everyday social systems.

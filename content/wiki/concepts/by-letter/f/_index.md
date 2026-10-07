@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9833
+wiki_total_pages: 9834
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "FunctionPreservingColorectalSurgery"
     title: "Function-Preserving Colorectal Surgery"
     url: "/wiki/concepts/functionpreservingcolorectalsurgery/"
+  - key: "FunctionalAdaptationFidelity"
+    title: "Functional Adaptation Fidelity / 功能性改编忠实"
+    url: "/wiki/concepts/functionaladaptationfidelity/"
   - key: "FunctionalAlibi"
     title: "Functional Alibi"
     url: "/wiki/concepts/functionalalibi/"
