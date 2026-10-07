@@ -31862,3 +31862,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）
+
+Added source `zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm`; created [[XueZeWesternHan|薛泽]] and the collision-safe [[TianJiaJailerWesternHan|田甲（韩安国狱吏）]]; and resynthesized [[HanAnguoWesternHan|韩安国]] plus [[PoliticalMilitaryEraFit|政军能力的时代适配]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 韩安国复起后以威胁召回曾羞辱自己的田甲，却在取得优势后停止报复；他的公允、宽忍、务实与贪财并存，坠马失相体现任官偶然性，而反对伐匈奴却仍获统兵信任说明政军适配并非二元判断。No settled contradiction was adopted. Exact dialogue, family threat, appointment chronology, disability rule, Xue Ze's survival strategy, and the scope of Wudi's military trust remain source-scoped. The existing [[TianJia|田假]] identity was preserved through semantic disambiguation. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and show pages were kept closed because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,987 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

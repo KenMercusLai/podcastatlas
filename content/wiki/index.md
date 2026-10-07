@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw.md) — 以韩安国受辱引出“死灰复燃”，并用他替梁孝王转圜景帝怒意说明：危机沟通可以重述动机，却不能取消宗室的名分与法度边界；具体对话、年代和心理因果保留来源边界。
+- [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm.md) — 补全韩安国复起后召回田甲却克制报复、坠马失相及反对伐匈奴却仍获统兵信任的经历；薛泽的无过自保、任官因果与具体对话均保留来源边界。
 - [《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？](sources/zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm.md) — 以承认未知为认识起点，并把刘德求书、留本抄写、集体校理与献书串成“实事求是”的实践链；词语究竟是刘德自定原则还是班固追评仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif.md) — 以《关雎》把刘德的典籍保存与《诗经》连接起来，并补入献雅乐、答礼制问、获赞而未实际采用及“献”谥评价；具体传本、礼乐实践与死因仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_.md) — 以刘德之死说明谥号的追评功能与美化风险，并把汉武帝的经典暗示读作对诸侯王文化影响力的警告；真实死因、帝王意图与标题所示《诗经》关联均保留来源边界。
@@ -4054,6 +4055,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
+- [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
 - [唐蒙 / Tang Meng (Western Han)](entities/TangMengWesternHan.md) — 从蜀酱追出夜郎水路、把商品线索转化为军事行政方案，却又因强制筑路和军法惩逃引发反抗的西汉使者。
 - [夜郎王多同 / Ye Lang King Duo Tong](entities/YelangKingDuotongWesternHan.md) — 与唐蒙达成礼物和设官支持下的条件性约定、同时受诸酋长意见与交通控制预期约束的早期夜郎王。
@@ -4067,7 +4070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vero Biosciences](entities/VeroBiosciences.md) — Company presented as combining organ-age signatures with clinical and wearable data in an iterative prevention workflow.
 - [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
 - [龙城之战 / Longcheng Campaign (Western Han)](entities/LongchengCampaignWesternHan.md) — 卫青在129 BCE四路出击中以纵深机动与加速突袭取得的唯一胜果，局部战果与战略转折解释分开保存。
-- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 兼具稳健、权衡与趋附色彩的西汉旧臣；因误信匈奴俘虏、过早撤军而暴露边防，并在汉武帝重军功的环境中被进一步边缘化。
+- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 能调和宫廷冲突、复起后克制报复却又贪财的西汉旧臣；坠马失相、反战而仍获统兵信任，后因误信俘虏和过早撤军进一步失势。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
 - [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
@@ -16760,7 +16763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Circulating-Factor Aging Biology](concepts/CirculatingFactorAgingBiology.md) — Framework separating causal animal fluid-transfer evidence from human anti-aging treatment claims.
 - [Exercise-Conditioned Blood Signaling](concepts/ExerciseConditionedBloodSignaling.md) — Preclinical model in which exercise-altered circulating molecules transmit part of exercise's effects to recipient tissues.
 - [战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough](concepts/OperationalSurprisePsychologicalBreakthrough.md) — 区分制造局部突然性的行动机制、改变可胜预期的心理效应，以及不能由单次胜利直接推出的战略逆转。
-- [政军能力的时代适配 / Political-Military Era Fit](concepts/PoliticalMilitaryEraFit.md) — 官员既有能力须按当前目标、威胁、节奏、奖惩与风险重新评价；时代错位不能替代对具体判断和执行错误的分析。
+- [政军能力的时代适配 / Political-Military Era Fit](concepts/PoliticalMilitaryEraFit.md) — 官员能力与时代目标的适配并非二元判断；政策分歧可与信任并存，伤病和职位象征会改变任官路径，时代解释仍不能替代具体失误分析。
 - [Feminist Choice Freedom / 女性主义的选择自由](concepts/FeministChoiceFreedom.md) — 将女性承认为决策主体的现代政治语言，尤其用于生殖自主，但不能把女性主义化约为偏好满足。
 - [Substantive Choice Capability / 实质选择能力](concepts/SubstantiveChoiceCapability.md) — 区分形式许可与可实际使用的选项，把收入、照护、医疗、安全、知识和认知负担纳入自由判断。
 - [社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion](concepts/SocialBaseCollapseVsEliteRebellion.md) — 以民生压力、普遍响应和政府反馈判断底层系统性崩塌，并与缺乏广泛支持的精英或区域叛乱相区别。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12642
+wiki_total_pages: 12644
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1823,6 +1823,9 @@ wiki_pages:
   - key: "TianFazhang"
     title: "田法章 / Tian Fazhang"
     url: "/wiki/entities/tianfazhang/"
+  - key: "TianJiaJailerWesternHan"
+    title: "田甲 / Tian Jia (Han Anguo's Jailer)"
+    url: "/wiki/entities/tianjiajailerwesternhan/"
   - key: "TianChou"
     title: "田畴 / Tian Chou"
     url: "/wiki/entities/tianchou/"

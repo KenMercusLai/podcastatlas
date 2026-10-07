@@ -81503,6 +81503,10 @@
     "title": "田假 / Tian Jia",
     "url": "/wiki/entities/tianjia/"
   },
+  "TianJiaJailerWesternHan": {
+    "title": "田甲 / Tian Jia (Han Anguo's Jailer)",
+    "url": "/wiki/entities/tianjiajailerwesternhan/"
+  },
   "TianJianQiGeneral": {
     "title": "田间 / Tian Jian (Qi General)",
     "url": "/wiki/entities/tianjianqigeneral/"
@@ -89618,6 +89622,10 @@
   "XueYirenGuLong": {
     "title": "薛衣人 / Xue Yiren",
     "url": "/wiki/entities/xueyirengulong/"
+  },
+  "XueZeWesternHan": {
+    "title": "薛泽 / Xue Ze (Western Han)",
+    "url": "/wiki/entities/xuezewesternhan/"
   },
   "XueZhenzhuMyFirstHalfLife": {
     "title": "薛珍珠 / Xue Zhenzhu (《我的前半生》)",
@@ -101618,6 +101626,10 @@
   "zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw": {
     "title": "《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw/"
+  },
+  "zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm": {
+    "title": "《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm/"
   },
   "zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm": {
     "title": "《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？",
