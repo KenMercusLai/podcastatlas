@@ -31950,3 +31950,11 @@ Added source `essentials-optimize-your-exercise-program-with-science-based-tools
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 645. The Fall of the Incas: Massacre in the Andes (Part 2)
+
+Added source `645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438`; created [[CajamarcaMassacre|Cajamarca Massacre]]; and resynthesized [[Atahualpa]], [[FranciscoPizarro|Francisco Pizarro]], [[SpanishConquestOfPeru|Spanish Conquest of Peru]], and [[Requerimiento]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: epidemic disruption and Inca civil war created an opening, but Pizarro's vulnerable mountain advance and Atahualpa's calculations kept the outcome contingent; concealment, enclosure, guns, horses, steel, sensory shock, and blocked exits then produced a massacre, while preserving Atahualpa alive converted violence into hostage leverage. No settled contradiction was adopted. The gods claim, Valverde's exact declaration, the book incident, dialogue, motives, force composition, casualty totals, and reported execution of frightened soldiers remain source-scoped. Broad show and incidental-figure pages were kept closed because the bounded addition is represented in the focused source, ruler, commander, conquest, legal-form, and massacre pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,998 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed. The full-corpus broken-link scan still reports 30 pre-existing links outside this ingest's changed pages; none were introduced here.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

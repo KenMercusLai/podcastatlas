@@ -5,6 +5,7 @@ tags: [inca, peru, emperor, spanish-conquest]
 sources:
   - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
   - 646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734
+  - 645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Atahualpa was the victorious northern claimant in the Inca civil war whose captivity financed and temporarily stabilized Francisco Pizarro's expedition before a broken ransom promise, coercive trial, and execution left a contested succession.
+Atahualpa was the victorious northern claimant in the Inca civil war who underestimated Francisco Pizarro's small expedition at Cajamarca, then retained enough authority in captivity to finance and temporarily stabilize Spanish expansion before a broken ransom promise, coercive trial, and execution left a contested succession.
 
 ## Current Profile
 
-[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] presents Atahualpa as physically captive but still sovereign in practice. He promises the [[AtahualpaRansomAndExecution|Cajamarca ransom]], orders armies not to resist, draws [[Chalcuchima]] into Spanish custody, and directs treasure collection toward Cusco and sacred centers. He also continues the civil war by ordering Huascar's death, showing that he initially treats the Spaniards as a dangerous but temporary force inside an unresolved Inca struggle.
+[[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] begins after Atahualpa's victory over Huascar. He sends observers to investigate the Spaniards, receives conflicting advice, and allows them to cross terrain where they could have been destroyed. The episode reads this as political calculation and overconfidence rather than proof that he thought the strangers were gods: their numbers appeared small, his victorious army was nearby, and he may have expected to use, control, or eliminate them.
+
+At the hot springs, Atahualpa challenges Spanish theft and abuse but agrees to enter Cajamarca. His procession arrives without the preparation needed for Pizarro's concealed attack. The [[CajamarcaMassacre|massacre]] kills thousands by the episode's account, while Pizarro keeps Atahualpa alive and turns imperial personhood into a hostage asset.
+
+[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] presents him as physically captive but still sovereign in practice. He promises the [[AtahualpaRansomAndExecution|Cajamarca ransom]], orders armies not to resist, draws [[Chalcuchima]] into Spanish custody, and directs treasure collection toward Cusco and sacred centers. He also continues the civil war by ordering Huascar's death, showing that he treats the Spaniards as a dangerous but potentially temporary force inside an unresolved Inca struggle.
 
 As gold and silver arrive, Atahualpa learns that more Spaniards are coming while the captors increasingly fear his capacity to organize rescue. Although the ransom is paid, a disputed trial, threatened burning, and baptism precede his garroting. The episode treats conversion as a desperate attempt to preserve his body and records both de Soto's anger and Spanish royal or chronicler condemnation of the killing.
 
@@ -25,7 +30,8 @@ As gold and silver arrive, Atahualpa learns that more Spaniards are coming while
 
 ## Key Characteristics
 
-- Northern Inca claimant victorious over Huascar before Spanish intervention.
+- Northern Inca claimant victorious over Huascar who investigated but underestimated a small, unfamiliar expedition.
+- Captured ruler whose survival turned the Cajamarca massacre into hostage conquest.
 - Captive emperor whose commands continued to move treasure, restrain armies, and discipline commanders.
 - Civil-war victor who remained focused on eliminating Huascar and punishing rival centers.
 - Ransom payer executed after a disputed trial and coerced conversion despite a release promise.
@@ -38,16 +44,17 @@ As gold and silver arrive, Atahualpa learns that more Spaniards are coming while
 - Trial and execution: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows the paid ransom, rescue rumors, disputed charges, baptism, garroting, and contemporary criticism.
 - Succession politics: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] shows Pizarro selecting Huascar-aligned rulers after Atahualpa's execution.
 - Northern continuity: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows Quisquis, Rumiñawi, Atahualpa's relatives, and Quito resistance.
+- Approach and capture: [[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] connects intelligence gathering, confidence, the Cajamarca procession, planned ambush, and capture.
 - Coalition consequences: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] connects remembered Atahualpa-era cruelty to Cañari support for Spanish forces.
 
 ## Qualifications
 
-The two episodes do not provide a full biography or independently adjudicate the civil war. Spanish chroniclers dominate the captivity narrative, so dialogue, ransom quantities, motives, trial procedure, conversion, body-recovery traditions, and the loyalties of commanders and communities remain source-scoped. The causal link between Atahualpa-era violence and later Cañari alignment should not turn diverse Indigenous choices into a single motive.
+The three episodes do not provide a full biography or independently adjudicate the civil war. Spanish chroniclers dominate the encounter and captivity narratives, so dialogue, the gods claim, casualty totals, motives, ransom quantities, trial procedure, conversion, body-recovery traditions, and the loyalties of commanders and communities remain source-scoped. The causal link between Atahualpa-era violence and later Cañari alignment should not turn diverse Indigenous choices into a single motive.
 
 ## What Changed
 
-- Added Atahualpa's captive government, ransom bargain, continuing civil-war strategy, and execution.
-- Reframed his death as the destruction of an active command center rather than only a posthumous succession problem.
+- Extended the profile back to Atahualpa's intelligence gathering, political calculation, and capture at Cajamarca.
+- Reframed the gods story around strategic confidence, mutual misunderstanding, and source uncertainty.
 
 ## Relationships
 
@@ -57,5 +64,6 @@ The two episodes do not provide a full biography or independently adjudicate the
 - [[FranciscoPizarro]] - conquistador who killed Atahualpa and manipulated the resulting succession.
 - [[Chalcuchima]] - general whose obedience to Atahualpa helped bring him into Spanish captivity.
 - [[AtahualpaRansomAndExecution]] - bargain and execution sequence that ended Atahualpa's rule.
+- [[CajamarcaMassacre]] - ambush that killed his entourage and converted him into a captive source of authority.
 - [[SpanishConquestOfPeru]] - conquest process accelerated by the civil war and succession crisis.
 - [[IndigenousAllianceInSpanishConquest]] - coalition mechanism shaped partly by grievances against Atahualpa's faction.

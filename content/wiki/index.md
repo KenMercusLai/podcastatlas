@@ -112,6 +112,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
+- [645. The Fall of the Incas: Massacre in the Andes (Part 2)](sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438.md) — Pizarro's Andean advance, mutual political miscalculation, the planned Cajamarca ambush, mass killing, and Atahualpa's capture.
 - [646. The Fall of the Incas: Death to the Emperor (Part 3)](sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734.md) — Atahualpa's ransom, captive authority, sacred plunder, disputed trial, execution, and the succession vacuum before the march on Cusco.
 - [647. The Fall of the Incas: The King in the North (Part 4)](sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633.md) — Puppet succession, Cusco's sacred plunder, northern resistance around Quito, and the transition from conquest to colonial settlement.
 - [648. The Fall of the Incas: Battle for the Sacred City (Part 5)](sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011.md) — Manco Inca's break with Spanish rule, the 1536–37 siege of Cusco, and the three-way struggle among Manco, Almagro, and the Pizarros.
@@ -16855,7 +16856,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
 - [Atahualpa's Ransom and Execution](concepts/AtahualpaRansomAndExecution.md) — Failed ransom bargain in which captive authority financed conquest before trial and execution created a succession vacuum.
-- [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged process joining hostage leverage, Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
+- [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged process joining the Cajamarca massacre, hostage leverage, Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
+- [Cajamarca Massacre](concepts/CajamarcaMassacre.md) — Planned ambush that combined imperial fracture, enclosure, sensory shock, mass killing, and Atahualpa's capture.
 - [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.
 - [Siege of Cusco (1536–1537)](concepts/SiegeOfCusco1536.md) — Manco Inca's mass uprising, near-capture of Cusco, and transition from military stalemate to Almagro's occupation.
 - [Indigenous Alliances in Spanish Conquest](concepts/IndigenousAllianceInSpanishConquest.md) — Strategic Indigenous coalition power essential to Spanish-led conquest armies.

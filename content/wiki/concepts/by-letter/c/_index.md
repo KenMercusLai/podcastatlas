@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9887
+wiki_total_pages: 9888
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "CainMarkReinterpretation"
     title: "Cain Mark Reinterpretation / 该隐印记重释"
     url: "/wiki/concepts/cainmarkreinterpretation/"
+  - key: "CajamarcaMassacre"
+    title: "Cajamarca Massacre"
+    url: "/wiki/concepts/cajamarcamassacre/"
   - key: "CalculatedPublics"
     title: "Calculated Publics / 计算出的公众"
     url: "/wiki/concepts/calculatedpublics/"

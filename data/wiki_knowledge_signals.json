@@ -18501,9 +18501,9 @@
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atahualpa": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4740382633 [GLT4740382633].md",
@@ -18518,6 +18518,13 @@
           "show": "The Rest Is History",
           "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
           "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        },
+        {
+          "episode_file": "GLT2938007438 [GLT2938007438].md",
+          "key": "645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438",
+          "show": "The Rest Is History",
+          "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
+          "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
         }
       ],
       "updated": "2026-10-08",
@@ -31494,6 +31501,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/caixinmedia/"
+    },
+    "CajamarcaMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2938007438 [GLT2938007438].md",
+          "key": "645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438",
+          "show": "The Rest Is History",
+          "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
+          "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/cajamarcamassacre/"
     },
     "CalDOGE": {
       "episode_count": 1,
@@ -85765,9 +85788,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FranciscoPizarro": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -85796,6 +85819,13 @@
           "show": "The Rest Is History",
           "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
           "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        },
+        {
+          "episode_file": "GLT2938007438 [GLT2938007438].md",
+          "key": "645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438",
+          "show": "The Rest Is History",
+          "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
+          "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
         }
       ],
       "updated": "2026-10-08",
@@ -195508,9 +195538,9 @@
       "url": "/wiki/concepts/reputationlistpersecutiontarget/"
     },
     "Requerimiento": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5124604457 [GLT5124604457].md",
@@ -195518,9 +195548,16 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT2938007438 [GLT2938007438].md",
+          "key": "645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438",
+          "show": "The Rest Is History",
+          "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
+          "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/requerimiento/"
     },
     "RescueOfTheDanishJews": {
@@ -215313,9 +215350,9 @@
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "SpanishConquestOfPeru": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -215344,6 +215381,13 @@
           "show": "The Rest Is History",
           "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
           "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        },
+        {
+          "episode_file": "GLT2938007438 [GLT2938007438].md",
+          "key": "645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438",
+          "show": "The Rest Is History",
+          "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
+          "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
         }
       ],
       "updated": "2026-10-08",

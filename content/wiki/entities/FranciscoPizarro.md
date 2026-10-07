@@ -7,6 +7,7 @@ sources:
   - 648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011
   - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
   - 646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734
+  - 645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -15,11 +16,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Francisco Pizarro was a Spanish conquistador and governor who converted Atahualpa's captivity and Inca civil-war divisions into treasure, puppet succession, control of Cusco, and colonial rule before factional violence ended with his assassination in 1541.
+Francisco Pizarro was a Spanish conquistador and governor who converted Inca civil-war divisions, a planned massacre at Cajamarca, and Atahualpa's captivity into treasure, puppet succession, control of Cusco, and colonial rule before factional violence ended with his assassination in 1541.
 
 ## Current Profile
 
-[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] places Pizarro at the origin of hostage conquest. He records a promise to release [[Atahualpa]] after the ransom, sends expeditions toward Pachacamac and Cusco, uses Atahualpa's authority to immobilize armies and capture [[Chalcuchima]], and distributes bullion while reserving the crown fifth. As rescue rumors and pressure to march south grow, he presides with [[DiegoDeAlmagro|Almagro]] over a disputed proceeding that ends in Atahualpa's execution despite opposition within the expedition.
+[[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] places Pizarro's advance inside legal improvisation, intelligence gathering, material vulnerability, and calculated violence. He establishes San Miguel to formalize his governorship, leads fewer than two hundred men across terrain where ambush could have destroyed them, and accepts Atahualpa's invitation to Cajamarca while searching for an opening created by civil war.
+
+Once inside the deserted town, Pizarro hides artillery, cavalry, and infantry around the square and plans to seize [[Atahualpa]] amid panic. Valverde's [[Requerimiento|Christian-royal demand]] supplies a pretext, but concealment and attack preparation precede the book incident. Pizarro then fights toward the litter, prevents his men from killing Atahualpa, and converts the [[CajamarcaMassacre|massacre]] into hostage conquest.
+
+[[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows that hostage strategy. Pizarro records a promise to release Atahualpa after the ransom, sends expeditions toward Pachacamac and Cusco, uses the captive's authority to immobilize armies and capture [[Chalcuchima]], and distributes bullion while reserving the crown fifth. As rescue rumors and pressure to march south grow, he presides with [[DiegoDeAlmagro|Almagro]] over a disputed proceeding that ends in Atahualpa's execution despite opposition within the expedition.
 
 [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows the transition from hostage leverage to puppet succession and colonial rule. Pizarro installs Túpac Hualpa and then [[MancoInca]] as Huascar-aligned rulers, presents his advance as liberation from the northern faction, executes Chalcuchima, enters Cusco with Manco, and combines the latter's coronation with the Spanish Requirement and tribute to Charles V. He then orders Cusco's precious metal melted down, directs campaigns toward Quito, refounds Cusco under Spanish law, selects the site of Lima, and distributes land, villages, and labor despite warnings that Indigenous people are free royal subjects.
 
@@ -31,16 +36,17 @@ The episode presents his authority as inseparable from violence and betrayal. He
 
 ## Key Characteristics
 
+- Risk-taking expedition leader who crossed the Andes with a small, vulnerable company and planned the Cajamarca ambush.
 - Conquistador who used a captive sovereign to collect treasure, restrain armies, and open the road to Cusco.
 - Commander who broke Atahualpa's ransom-release bargain through a disputed execution.
 - Manipulator of Inca succession conflict through Spanish-backed rulers.
 - Governor who converted sacred plunder and military occupation into Cusco's refoundation, Lima's founding, and colonial grants.
-- Faction leader able to turn negotiation and delay into military preparation.
-- Beneficiary of royal recognition and colonial wealth after the initial conquest.
+- Faction leader who turned negotiation and delay into military preparation while benefiting from royal recognition and colonial wealth.
 - Commander associated with hostage-taking, legal-religious coercion, exemplary violence, and lethal factional rivalry.
 
 ## Evidence
 
+- Advance and ambush: [[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] follows legal foundation, the vulnerable mountain crossing, concealment at Cajamarca, massacre, and Atahualpa's capture.
 - Ransom and execution: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows the release promise, treasure collection, Spanish debate, disputed court martial, and killing that exposed Pizarro to criticism.
 - Puppet rule and plunder: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows Pizarro's succession choices, entry into Cusco, political theater, and melting of sacred wealth.
 - Colonial formation and revolt: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] and [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] link Lima, land distribution, Pizarro-family conduct, the siege of Cusco, and the threat to the coastal base.
@@ -51,18 +57,19 @@ The episode presents his authority as inseparable from violence and betrayal. He
 
 ## Qualifications
 
-This profile covers Pizarro from Atahualpa's captivity through his death rather than his full career. Personality judgments, dialogue, force totals, the ransom's terms, trial form, private hesitation, legal form of early grants, household details, and assassination reconstruction remain source-scoped. Explaining his advantage through captive authority, Inca faction, Indigenous allies, Lima, and royal access does not reduce the result to one mechanism or excuse violence by Spanish or Indigenous forces.
+This profile covers Pizarro from the 1532 inland advance through his death rather than his full career. Personality judgments, dialogue, force and casualty totals, private hesitation, the book incident, the ransom's terms, trial form, legal details, household details, and assassination reconstruction remain source-scoped. Explaining his advantage through shock, captive authority, Inca faction, Indigenous allies, Lima, and royal access does not reduce the result to one mechanism or excuse violence by Spanish or Indigenous forces.
 
 ## What Changed
 
-- Added the ransom bargain, captive-authority strategy, disputed execution, and resulting legitimacy exposure.
-- Moved the profile's starting point from post-execution puppet rule to the hostage conquest at Cajamarca.
+- Extended the profile back to the vulnerable Andean advance and planned Cajamarca ambush.
+- Identified selective ruler capture, not massacre alone, as the bridge into hostage conquest.
 
 ## Relationships
 
 - [[DiegoDeAlmagro]] - former partner and rival whose execution prolonged their factional feud.
 - [[MancoInca]] - Inca resistance ruler pursued and coerced by the Pizarro faction.
 - [[Atahualpa]] - captive emperor whose authority and ransom financed the opening conquest before Pizarro ordered his death.
+- [[CajamarcaMassacre]] - planned ambush through which Pizarro captured Atahualpa alive.
 - [[Chalcuchima]] - Inca commander captured through the leverage of Atahualpa's continuing authority.
 - [[AtahualpaRansomAndExecution]] - bargain whose breach turned hostage strategy into succession crisis.
 - [[QuisoYupanqui]] - Inca commander whose attack threatened Pizarro's Lima base.
