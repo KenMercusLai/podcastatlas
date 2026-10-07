@@ -91760,9 +91760,9 @@
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
     "GhostBlowsOutTheLight": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -91770,6 +91770,13 @@
           "show": "纸醉金迷FM",
           "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
           "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        },
+        {
+          "episode_file": "lpD-4M9KuH2GhOMoxLfPdckEfnb9 [lpD-4M9KuH2GhOMoxLfPdckEfnb9].md",
+          "key": "109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9",
+          "show": "纸醉金迷FM",
+          "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
+          "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
         }
       ],
       "updated": "2026-10-07",
@@ -129359,9 +129366,9 @@
       "url": "/wiki/entities/kumasi/"
     },
     "KunlunShrineGhostBlowsOutTheLight": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -129369,6 +129376,13 @@
           "show": "纸醉金迷FM",
           "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
           "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        },
+        {
+          "episode_file": "lpD-4M9KuH2GhOMoxLfPdckEfnb9 [lpD-4M9KuH2GhOMoxLfPdckEfnb9].md",
+          "key": "109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9",
+          "show": "纸醉金迷FM",
+          "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
+          "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
         }
       ],
       "updated": "2026-10-07",
@@ -198150,6 +198164,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/sacredsymbolicstateformation/"
     },
+    "SacrificingOthersEthics": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "42.安多：风起于青萍之末 [616391638].md",
+          "key": "42-anduo-fengqi-yu-qingping-zhi-mo-616391638",
+          "show": "蜜獾吃书",
+          "title": "42.安多：风起于青萍之末",
+          "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+        },
+        {
+          "episode_file": "lpD-4M9KuH2GhOMoxLfPdckEfnb9 [lpD-4M9KuH2GhOMoxLfPdckEfnb9].md",
+          "key": "109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9",
+          "show": "纸醉金迷FM",
+          "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
+          "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/sacrificingothersethics/"
+    },
     "SadeanNaturalism": {
       "episode_count": 1,
       "show_count": 1,
@@ -223291,9 +223335,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemePlotCoherence": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -223322,6 +223366,13 @@
           "show": "纸醉金迷FM",
           "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
           "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        },
+        {
+          "episode_file": "lpD-4M9KuH2GhOMoxLfPdckEfnb9 [lpD-4M9KuH2GhOMoxLfPdckEfnb9].md",
+          "key": "109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9",
+          "show": "纸醉金迷FM",
+          "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
+          "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
         }
       ],
       "updated": "2026-10-07",
@@ -255964,9 +256015,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -256037,6 +256088,13 @@
           "show": "纸醉金迷FM",
           "title": "110 《武林外传》：小赌怡情？最好的戒赌宣传片",
           "url": "/wiki/sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb/"
+        },
+        {
+          "episode_file": "lpD-4M9KuH2GhOMoxLfPdckEfnb9 [lpD-4M9KuH2GhOMoxLfPdckEfnb9].md",
+          "key": "109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9",
+          "show": "纸醉金迷FM",
+          "title": "109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难",
+          "url": "/wiki/sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9/"
         }
       ],
       "updated": "2026-10-07",

@@ -31294,3 +31294,11 @@ Added source `110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难
+
+Added source `109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9`; resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]], [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[ThemePlotCoherence]] from their complete preserved evidence inventories before appending the new source once; and migrated and resynthesized [[SacrificingOthersEthics]] on the same bounded-input basis. Core synthesis: the episode separates voluntary self-sacrifice from choosing another person's death, rejects age, injury, dependency, or claimed familial debt as automatic grounds for expendability, and treats a lottery as procedurally equal only if sacrifice is genuinely necessary and participants can meaningfully consent. It also preserves the possibility that the mural was misread, which aligns with the later finale's alternative ritual interpretation while qualifying how quickly the group accepts a lethal premise. No settled contradiction was adopted. The ritual mechanism, biological-electricity explanation, geomancy, historical name anecdotes, and evaluation of narrative “外插花” remain fictional, conversational, or source-scoped. Broad character pages were kept closed because the source, novel, series, show, and ethics pages capture the bounded addition without creating thin profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,913 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

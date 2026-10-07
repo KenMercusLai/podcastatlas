@@ -13,6 +13,7 @@ sources:
   - 112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt
   - 111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t
   - 110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb
+  - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -27,7 +28,7 @@ last_updated: 2026-10-07
 
 Across the bounded sources, the show operates as an informal group reading or viewing conversation rather than a formal lecture. The hosts reconstruct plots and character arcs, compare reactions, test motives, and distinguish textual fact, strong implication, and speculation. In the 《长生剑》 discussion, one host's first-listener position adds live prediction to this method: proposed explanations become visible and revisable as each new reversal arrives. Disagreement remains central—they can retain the force of an allegory while challenging its plot mechanics, or agree that Wang Xifeng is complex while differing over literacy, sincerity, culpability, and ending.
 
-The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale extends the same method to an adventure-series ending: the hosts value the protagonists' friendship, self-knowledge, and retirement while arguing that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
+The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The two [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes extend the same method across setup and resolution: the earlier discussion separates voluntary self-sacrifice from choosing another person's death and tests whether a lottery can be fair under coercion, while the finale values friendship, self-knowledge, and retirement but argues that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
 
 The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
@@ -77,6 +78,7 @@ The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading fr
 
 ### Ending, cost, and vocational identity
 
+- [[109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9]] distinguishes self-sacrifice from selecting another person, challenges age and injury as expendability criteria, and treats a lottery as conditionally fair only if sacrifice is genuinely necessary.
 - [[113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw]] separates satisfying character closure from a conveniently reduced sacrificial cost and uses the Bremen story to interpret adventure as friendship, competence, and life direction rather than only failed treasure-seeking.
 
 ### Comic construction and performance layers
@@ -93,13 +95,13 @@ The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading fr
 
 ## Qualifications
 
-This profile rests on ten episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, legal thresholds, addiction medicine, animal research, actor technique, and authorial intent come through cultural conversation rather than specialist, legal, clinical, or production verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on eleven episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, or production verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Added a second 《武林外传》 case connecting comic escalation to an explicit anti-gambling argument.
-- Distinguished useful game-versus-wager boundaries from unverified legal, animal-research, and clinical claims.
-- Extended the show's profile from close reading into practical moral discussion without treating podcast commentary as specialist evidence.
+- Added the pre-finale 《昆仑神宫》 case, where plot retelling becomes an explicit debate over autonomy, expendability, and procedure under time pressure.
+- Connected the show's criticism of a convenient ritual resolution to its earlier warning that the lethal mural may have been misread.
+- Extended the evidence boundary to fictional biology, ritual mechanisms, and ethical analogy.
 
 ## Relationships
 
@@ -123,6 +125,7 @@ This profile rests on ten episode notes and may not represent every format produ
 - [[GhostBlowsOutTheLight|《鬼吹灯》]] - adventure series whose first four books receive a provisional closing discussion.
 - [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - ending used to test sacrifice rules, pacing, and character closure.
 - [[AdventureAsVocationalIdentity]] - framework extracted from 胡八一 and 胖子's reasons for entering and leaving tomb raiding.
+- [[SacrificingOthersEthics]] - framework extended through the difference between self-sacrifice, choosing another victim, and lottery procedure.
 - [[WulinWaizhuan|《武林外传》]] - sitcom used to analyze setup, payoff, sound-led staging, and character-consistent reversal.
 - [[LiDazui|李大嘴]] - character whose filial lie and tattoo organize the bounded comic reading.
 - [[NarrativeSetupAndPayoff]] - framework extracted from the return of storytelling, cooking, hearing, and tattoo details.

@@ -7,6 +7,7 @@ sources:
   - 119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf
   - 118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
+  - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -27,7 +28,7 @@ The resulting concept avoids two flattenings: a plot gap or thematic mismatch ne
 
 The [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]] discussion adds a third split judgment. The hosts find a coherent desire-and-release structure in 傅红雪, 公子羽, and 燕南飞, while leaving martial ranking, 明月心's motives, and Peacock Manor's defeat unresolved or implausible. It also shows that explicit symbolic explanation can improve thematic legibility while weakening the ambiguity through which a theme might otherwise emerge.
 
-The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale adds cost consistency and climax placement. The hosts accept the protagonists' retirement and the idea that the journey yielded more than treasure, but argue that the ghost mother's eyes arrive as a convenient exception to the apparent human-sacrifice rule. Continued monster-and-escape action after the curse is broken then displaces the central climax rather than deepening it.
+The two [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes add interpretation under pressure, cost consistency, and climax placement. Before the resolution, the hosts argue that the characters accept the mural's lethal meaning too quickly despite earlier deceptive rules; the existence of a timer creates urgency but does not validate the reading. The finale then narrows the rule to transformed eyes and supplies the ghost mother's crystal eyes. This makes the alternative intelligible while still feeling convenient to the hosts. They accept the protagonists' retirement and the idea that the journey yielded more than treasure, but find that the substitute lowers the promised cost and that continued monster-and-escape action after the curse is broken displaces the central climax rather than deepening it.
 
 ## Key Claims
 
@@ -37,7 +38,7 @@ The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale adds cost co
 - Character decisions require motivation proportionate to the moral and practical stakes.
 - Reader repair should not be promoted to textual fact without prior setup or corroboration.
 - Thematic victory and literal plot victory can remain different judgments.
-- A story that foregrounds an absolute cost needs any exception to be established strongly enough that resolution does not feel like a late rule change.
+- A story that foregrounds an absolute cost should establish both the necessity of that cost and any exception strongly enough that resolution does not feel like a late rule change.
 
 ## Evidence
 
@@ -62,17 +63,18 @@ The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale adds cost co
 
 ### Cost consistency and climax placement
 
+- [[109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9]] questions whether the mural really requires a human death and shows time pressure pushing characters toward an under-tested interpretation.
 - [[113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw]] preserves the force of the 摸金符 retirement while questioning whether the crystal-eye substitute earns its escape from the promised sacrifice.
 - [[113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw]] treats the extended danger after the ritual as pacing dilution because the central curse problem has already been solved.
 
 ## Counterevidence & Qualifications
 
-Narrative plausibility and thematic fit depend partly on genre convention, pacing, edition, and reader tolerance for allegory. The sources are conversational responses to four works rather than a systematic narrative study. The claim that 高立 dies is based on converging implication rather than explicit narration; Bai Yujing and Yuan Zixia's identities, 傅红雪 and 公子羽's relative strength, and 明月心's motives remain unresolved or interpretive. In 《昆仑神宫》, the suggested link between pacing and serial-publication requirements lacks direct production evidence.
+Narrative plausibility and thematic fit depend partly on genre convention, pacing, edition, and reader tolerance for allegory. The sources are conversational responses to four works rather than a systematic narrative study. The claim that 高立 dies is based on converging implication rather than explicit narration; Bai Yujing and Yuan Zixia's identities, 傅红雪 and 公子羽's relative strength, and 明月心's motives remain unresolved or interpretive. In 《昆仑神宫》, the earlier note ends before the ritual is resolved, and the suggested link between pacing and serial-publication requirements lacks direct production evidence.
 
 ## What Changed
 
-- Added cost consistency: exceptions to an apparent absolute rule must be earned by prior setup.
-- Added climax placement as a coherence issue when extended danger follows resolution of the central problem.
+- Added interpretation under pressure: urgency can explain a choice without proving that the characters have read the governing rule correctly.
+- Refined cost consistency to test the setup for both apparent necessity and the later exception.
 
 ## Related Concepts
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [109 趣话《鬼吹灯》之昆仑神宫P3：牺牲者谁，祭坛两难](sources/109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9.md) — 纸醉金迷FM以祭坛活人牺牲难题区分自我牺牲与替他人决定死亡，并把年龄、伤势、养育之恩和抽签公平置于必要性与同意的前提下审视。
 - [110 《武林外传》：小赌怡情？最好的戒赌宣传片](sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb.md) — 纸醉金迷FM借白展堂从小彩头到押上性命的升级过程，区分游戏计分与可兑现赌注，并把法律、动物实验和临床判断保留为未核实的节目观点。
 - [111 全方位解析《天龙八部》之少室山大战](sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t.md) — 纸醉金迷FM把少室山大战定位为《天龙八部》人物线、对手与结局线索的汇合点；所供文本仅为三分钟开场，尚不能支撑其预告的详细分析。
 - [112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念](sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt.md) — 纸醉金迷FM以说书、厨艺、听觉与刺字的铺垫回收，分析《武林外传》如何用声音骗局和预期反转同时塑造喜剧与护子母爱。
@@ -3982,8 +3983,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
-- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、同伴关系与职业身份为核心，并在前四册结尾以摘符形成可逆退休的小说系列。
-- [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以鬼母双眼替代祭品解除诅咒，并在高潮代价争议后完成角色关系与摘符收束。
+- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、同伴关系与职业身份为核心，并以祭坛抉择区分自愿承担代价和把代价强加给同伴。
+- [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以活人祭坛困局检验自主与忠诚，再由鬼母双眼替代祭品解除诅咒并完成摘符收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
 - [张苍 / Zhang Cang](entities/ZhangCang.md) — 在小说讨论中连接旧贵族经验与秦中央任职经验、承载郡县与分封比较的人物。
@@ -3993,7 +3994,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, disagreement, evidence boundaries, moral gradation, and sitcom-based practical argument.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, disagreement, evidence boundaries, moral gradation, and practical ethical argument.
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
@@ -24363,7 +24364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manufactured Prisoner Dilemma](concepts/ManufacturedPrisonerDilemma.md) — Artificial competition structure that makes people under shared domination distrust and sacrifice one another.
 - [Carceral Labor Governance](concepts/CarceralLaborGovernance.md) — Use of imprisonment, routine, bodily control, and productivity systems to turn captives into reliable labor.
 - [Ordinary People Resistance](concepts/OrdinaryPeopleResistance.md) — Resistance emerging from non-heroic people whose daily life has been squeezed until action becomes necessary.
-- [Sacrificing Others Ethics](concepts/SacrificingOthersEthics.md) — Moral problem of deciding that someone else must bear the cost of a larger cause.
+- [Sacrificing Others Ethics](concepts/SacrificingOthersEthics.md) — Moral problem of assigning another person's severe cost, with autonomy, necessity, expendability, consent, and procedural fairness kept distinct.
 - [Anti-Heroic Resistance Narrative](concepts/AntiHeroicResistanceNarrative.md) — Story frame where resistance is distributed across ordinary people, communities, institutions, and compromised organizers rather than a chosen hero.
 - [Shi Jianqiao Revenge Case](concepts/ShiJianqiaoRevengeCase.md) — Event cluster around the 1935 assassination, trial, public sympathy, media remaking, and pardon.
 - [Sensational Media Public Sphere](concepts/SensationalMediaPublicSphere.md) — Popular crime news, theater, fiction, melodrama, and gossip as politically meaningful publicness beyond narrow rational debate.
