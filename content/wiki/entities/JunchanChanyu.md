@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq
   - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
+  - zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-军臣单于 / Junchan Chanyu is the Xiongnu ruler whom current evidence places in two forms of controlled access: he responds to [[NieWengyiWesternHan|聂翁壹]]'s apparent offer of insider access to [[Mayi|马邑]], and he later denies the captured [[ZhangQianWesternHan|张骞]] mission passage toward [[Yuezhi|月氏]]. The first episode presents him as accepting a profit-bearing defection story; the later pair presents him as enforcing territorial security through prolonged detention.
+军臣单于 / Junchan Chanyu is the Xiongnu ruler whom current evidence places in two forms of controlled access: he first responds to [[NieWengyiWesternHan|聂翁壹]]'s apparent offer of insider access to [[Mayi|马邑]] but withdraws after abnormal conditions and captive intelligence expose the trap, and he later denies the captured [[ZhangQianWesternHan|张骞]] mission passage toward [[Yuezhi|月氏]]. Together the sources present a ruler who can accept credible-seeming access, revise judgment under new evidence, and enforce territorial security through prolonged detention.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] supplies the earlier military-deception layer. Nie Wengyi claims that he can kill Mayi's officials and surrender the city, livestock, property, and women if Xiongnu cavalry supports him. Condemned prisoners' heads are reportedly displayed as proof. Junchan Chanyu accepts the account and commits ten thousand cavalry toward the city, although the source ends before the trap's result.
+[[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] supplies the earlier military-deception layer. Nie Wengyi claims that he can kill Mayi's officials and surrender the city, livestock, property, and women if Xiongnu cavalry supports him. Condemned prisoners' heads are reportedly displayed as proof. Junchan Chanyu accepts the account and commits ten thousand cavalry toward the city.
+
+[[zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk|Hanji 261]] completes that sequence without reducing him to a passive victim of greed. An implausibly empty approach and unattended livestock make him suspicious. He attacks a watch post, captures a visiting Han censor, learns the location and scale of the ambush, and orders withdrawal before the intended encirclement. The episode says he treats the capture as heavenly protection and rewards the informant with the title “天王”; the wording and title remain source-scoped.
 
 [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says Zhang identifies himself with his Han envoy's staff after Xiongnu cavalry captures the party. Junchan Chanyu responds that Han would not allow a Xiongnu envoy to cross its territory to contact Nanyue, and orders Zhang and his companions detained.
 
@@ -32,6 +35,7 @@ The episode then attributes a ten-year captivity, local marriage, and children t
 - Presides over a detention regime that reportedly combines surveillance with local family formation.
 - Ruler whose death is presented as the trigger for a succession conflict and captive escape opportunity.
 - Target of the Mayi false-defection operation who reportedly mobilizes after apparent insider proof and promised gain.
+- Field decision maker who treats excessive ease as warning evidence, tests the route, and reverses course after captive disclosure.
 
 ## Evidence
 
@@ -45,14 +49,19 @@ Prolonged detention:
 Mayi approach:
 - [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] says Junchan Chanyu believes Nie Wengyi's promised betrayal after seeing displayed heads and advances toward Mayi with ten thousand cavalry.
 
+Mayi detection and withdrawal:
+- [[zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk|Hanji 261]] says the empty route creates suspicion, a watch-post attack produces a captive who reveals the ambush, and Junchan Chanyu withdraws before entering the kill zone.
+
 ## Qualifications
 
-This page is bounded to three podcast installments. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role, family-restoration policy, death timing, succession contestants, and demographic motive assigned to captive marriage remain episode-attributed. Hanji 260 does not establish his private motive, the exact force total, the authenticity standard applied to the displayed heads, or the Mayi plot's outcome. Reciprocity can explain a security logic without establishing legal equivalence or moral justification, while accepting apparent insider access does not prove simple irrational greed.
+This page is bounded to four podcast installments. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role, family-restoration policy, death timing, succession contestants, and demographic motive assigned to captive marriage remain episode-attributed. Hanji 260 and 261 differ in apparent Xiongnu force scale—ten thousand cavalry on approach versus a ten-wan-person force in the collapse account—so the figures are not silently merged. The authenticity standard applied to the displayed heads, route conditions, watch-post sequence, censor's disclosure, “天王” title, and withdrawal timing also remain source-scoped. Reciprocity can explain a security logic without establishing legal equivalence or moral justification, while accepting apparent insider access does not prove simple irrational greed.
 
 ## What Changed
 
-- Added the earlier Mayi approach as a contrast between accepted insider access and later denied enemy transit.
-- Preserved the Mayi operation as an unfinished source arc rather than a completed defeat.
+- Completed the Mayi arc by adding suspicion, active verification, captive intelligence, and withdrawal.
+- Replaced the simple accepted-bait profile with a revise-under-new-evidence profile.
+- Preserved the differing force figures and the “天王” report as source-scoped details.
+- Retained the contrast between accepted insider access at Mayi and later denied enemy transit.
 
 ## Relationships
 

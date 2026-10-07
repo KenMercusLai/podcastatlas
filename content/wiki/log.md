@@ -31982,3 +31982,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》261｜四十万人的战争，为何打了场寂寞？
+
+Added source `zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk`; resynthesized [[MayiAmbushWesternHan|马邑之谋]], [[WangHuiWesternHan|王恢]], [[JunchanChanyu|军臣单于]], and [[PoliticalMilitaryEraFit|政军能力的时代适配]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the deliberately empty approach helps alert the chanyu, captive disclosure exposes the ambush, and withdrawal changes Wang Hui's assigned rear strike into a high-risk decision about attacking the main force without assured support; his death is preserved as the episode's claimed command-culture signal, not as proof that he caused the failure or that Wudi's punishment was tactically sound. No settled contradiction was adopted. The one-wan/ten-wan Xiongnu force figures, watch-post and censor sequence, “天王” title, deployments, support timing, bribe amount, legal procedure, imperial motive, later commander behavior, and continuing-market account remain source-scoped. Broad Han Wudi, Tian Fen, Wang Dowager, Xiongnu, and heqin pages were kept closed because the bounded addition is represented in the focused event, commander, chanyu, and role-fit pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,002 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed. The full-corpus broken-link scan still reports 30 pre-existing links outside this ingest's changed pages; none were introduced here.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

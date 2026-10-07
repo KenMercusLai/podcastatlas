@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, official, military, frontier, xiongnu]
 sources:
   - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
+  - zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk
 last_updated: 2026-10-08
 ---
 
@@ -18,7 +19,11 @@ last_updated: 2026-10-08
 
 When [[HanAnguoWesternHan|韩安国]] objects that a deep expedition will outrun supply, lose timing, and exhaust troops and horses, Wang narrows the plan. [[NieWengyiWesternHan|聂翁壹]] will feign defection and promise the city to [[JunchanChanyu|军臣单于]], while Han forces wait near the border. This answer makes Wang's proposal operationally distinct from open-ended pursuit into the steppe.
 
-The episode says [[HanWudi|汉武帝]] accepts Wang's proposal and makes him one of five participating generals, but places Han Anguo over the force. Because the episode ends before contact, it establishes advocacy, design, and appointment rather than Wang's battlefield execution or responsibility for the historical outcome.
+The episode says [[HanWudi|汉武帝]] accepts Wang's proposal and makes him one of five participating generals, but places Han Anguo over the force. It establishes advocacy, design, and appointment while leaving execution and responsibility open.
+
+[[zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk|Hanji 261]] places Wang at the forward edge of the operation with thirty thousand troops, tasked to strike the Xiongnu rear and baggage after the main force enters the encirclement. When Junchan Chanyu learns of the trap and withdraws, Wang faces the main force rather than an isolated rear element. He declines to attack because support may not arrive before his smaller force is destroyed.
+
+The source explicitly treats that choice as tactically intelligible and says Wang did not cause the disclosure, but it also presents Wudi's different accountability standard: after the court accepted Wang's plan and mobilized on a vast scale, doing nothing against the retreating enemy was politically unacceptable. A payment to [[TianFenWesternHan|田蚡]] and an appeal through [[EmpressDowagerWangWesternHan|王太后]] fail; Wang dies after receiving the capital judgment. The host interprets his death as exemplary punishment meant to make later generals prefer action over caution, an effect and motive that remain source-scoped.
 
 ## Key Characteristics
 
@@ -26,7 +31,9 @@ The episode says [[HanWudi|汉武帝]] accepts Wang's proposal and makes him one
 - Advocate for replacing accommodation with active deterrence under changed Han capacity.
 - Strategist who answers logistics objections by moving the intended battle toward the border.
 - Designer and court sponsor of an insider-supported lure and encirclement plan.
-- Participating general whose later operational conduct is outside the supplied episode.
+- Forward commander whose original rear-strike mission changes when the target discovers the trap and withdraws.
+- Risk-averse field decision maker who refuses an unsupported attack against a larger main force.
+- Punished planner whose death is interpreted as an imperial signal rather than proof that he caused the operational failure.
 
 ## Evidence
 
@@ -39,14 +46,22 @@ Operational narrowing:
 Court and command role:
 - [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] says Wudi accepts the proposal and appoints Wang among five generals under Han Anguo's senior command.
 
+Changed battlefield problem:
+- [[zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk|Hanji 261]] says Wang's thirty thousand troops are meant to attack the rear, but disclosure and withdrawal leave him considering an unsupported attack on the main force instead.
+
+Accountability and signaling:
+- [[zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk|Hanji 261]] says Wudi rejects Wang's force-preservation defense, mediation through Tian Fen and Wang fails, and Wang dies; the host interprets the result as a deterrent against later battlefield inaction.
+
 ## Qualifications
 
-This profile rests on one short podcast episode that stops before the operation's result. Wang's exact office, frontier tenure, speeches, strategic motives, role among the five generals, later decisions, and responsibility for success or failure require comparison with transmitted sources. The transcript says “王辉”; the page uses the standard historical form 王恢 and does not treat the variant as another person.
+This profile rests on two short podcast episodes. They distinguish Wang's non-pursuit from the censor's disclosure, but they do not settle whether support was truly unavailable, an attack was operationally feasible, or the legal sentence was proportionate. Exact offices, frontier tenure, speeches, force totals, bribe amount, judicial procedure, Wudi's private motive, and the claim that the death changed later command behavior require comparison with transmitted sources. The transcript says “王辉”; the page uses the standard historical form 王恢 and does not treat the variant as another person.
 
 ## What Changed
 
-- Created a focused profile separating Wang Hui's deterrence argument from the later outcome of the Mayi plot.
-- Identified his key operational move as replacing deep pursuit with enemy movement toward a prepared border position.
+- Completed Wang's profile from strategic advocacy through changed battlefield conditions, non-pursuit, sentence, and death.
+- Separated the direct disclosure failure from Wang's later responsibility for refusing an unsupported attack.
+- Added the tension between force preservation and Wudi's demand for visible action after large-scale mobilization.
+- Preserved exemplary-punishment effects and imperial motive as the host's interpretation.
 
 ## Relationships
 
@@ -56,3 +71,4 @@ This profile rests on one short podcast episode that stops before the operation'
 - [[JunchanChanyu|军臣单于]] - intended target of the false-defection plan.
 - [[MayiAmbushWesternHan|马邑之谋]] - operation Wang advocates and helps design.
 - [[LureEnemyOutOfPosition|诱敌离位]] - tactical family to which Wang's promised-city bait belongs.
+- [[PoliticalMilitaryEraFit|政军能力的时代适配]] - framework showing how punishment can reprice caution, initiative, and visible action.

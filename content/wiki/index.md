@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx.md) — 李少君以长寿人设、古事古器知识与安期生传说取得汉武帝信任，把祭灶、丹砂化金、金器延寿、蓬莱寻仙与封禅串成求仙方案；其死后又被解释为化龙升天，搜索因而继续。
 - [《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战](sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb.md) — 王恢以边境诱歼回应韩安国的远征后勤异议，聂翁壹用假投降与首级示信引军臣单于趋向马邑；本期止于入伏前，战果、失败原因与责任均未建立。
+- [《资治通鉴·汉纪》261｜四十万人的战争，为何打了场寂寞？](sources/zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk.md) — 军臣单于因异常空旷而起疑，并从被俘御史处获知伏击后撤退；王恢因拒绝孤军追击被处死，节目把此举解释为汉武帝塑造进攻型军纪的惩罚信号。
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq.md) — 瓠子决口后首次十万人堵口很快失败，田蚡的封地利益与方士“天意”说又推动长期搁置；十六郡、二十四年、罗马比较和完整治水因果保留来源边界。
 - [Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288.md) — Condensed Huberman Lab interview on adherence-centered strength and conditioning, target-muscle control, recovery signals, stretching timing, shoulder and grip mechanics, and sustainable nutrition.
 - [096 【锐评春节档】《镖人》电影与原著全方位对比](sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d.md) — 纸醉金迷FM比较《镖人》漫画与《镖人：风起大漠》，肯定传统武侠动作设计，同时区分有效重写与损害政治因果、群像厚度及情绪铺垫的压缩。
