@@ -31248,3 +31248,11 @@ Added source `117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-f
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》
+
+Added source `116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp`; created [[MaBoyong|马伯庸]], [[QinErshiMustDie|《秦二世必须死》]], [[ZhangCang|张苍]], [[DynasticFiveVirtuesLegitimation|五德终始式王朝正统]], and [[HistoricalPossibilityFiction|历史可能性小说]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the episode separates the death of Qin Er Shi from the survival of Qin institutions, joining commandery-county capacity for unity and mobilization to its power to scale sovereign coercion; it also treats fixed history as both the grounding and the limit of suspense. No settled contradiction was adopted. Water-versus-fire virtue, institutional comparisons, character motives, literary evaluations, and adaptation prospects remain disputed or source-scoped. Broad historical biographies were kept closed because the episode is literary criticism rather than independent historical evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,907 sources across 798 overview paragraphs and nine topics. Index, log coverage, identity, knowledge schema, whitespace, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

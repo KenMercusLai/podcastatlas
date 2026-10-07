@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2591
+topic_total_pages: 2592
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -391,6 +391,9 @@ topic_concepts:
   - key: "DynasticCyclePerception"
     title: "Dynastic Cycle Perception / 王朝周期感知"
     url: "/wiki/concepts/dynasticcycleperception/"
+  - key: "DynasticFiveVirtuesLegitimation"
+    title: "Dynastic Five-Virtues Legitimation / 五德终始式王朝正统"
+    url: "/wiki/concepts/dynasticfivevirtueslegitimation/"
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"

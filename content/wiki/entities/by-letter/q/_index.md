@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12579
+wiki_total_pages: 12582
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "QuanqiuShangyin"
     title: "《全球上瘾》"
     url: "/wiki/entities/quanqiushangyin/"
+  - key: "QinErshiMustDie"
+    title: "《秦二世必须死》 / Qin Er Shi Must Die"
+    url: "/wiki/entities/qinershimustdie/"
   - key: "QinMi"
     title: "《秦谜》 / Qin Mi"
     url: "/wiki/entities/qinmi/"

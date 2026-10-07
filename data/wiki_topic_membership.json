@@ -361,6 +361,13 @@
       "url": "/topics/science/"
     }
   ],
+  "116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "117-alexander-the-great-part-2-glt9707946822": [
     {
       "key": "history",
@@ -29980,6 +29987,13 @@
     }
   ],
   "DynasticCyclePerception": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "DynasticFiveVirtuesLegitimation": [
     {
       "key": "history",
       "label": "History",

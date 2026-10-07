@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9810
+wiki_total_pages: 9812
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "HistoricalNarrativeTerritorialLegitimation"
     title: "Historical Narrative as Territorial Legitimation"
     url: "/wiki/concepts/historicalnarrativeterritoriallegitimation/"
+  - key: "HistoricalPossibilityFiction"
+    title: "Historical Possibility Fiction / 历史可能性小说"
+    url: "/wiki/concepts/historicalpossibilityfiction/"
   - key: "HistoricalPrecedentWeaponization"
     title: "Historical Precedent Weaponization / 历史先例武器化"
     url: "/wiki/concepts/historicalprecedentweaponization/"

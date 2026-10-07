@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12579
+wiki_total_pages: 12582
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2168,6 +2168,9 @@ wiki_pages:
   - key: "MaDong"
     title: "马东 / Ma Dong"
     url: "/wiki/entities/madong/"
+  - key: "MaBoyong"
+    title: "马伯庸 / Ma Boyong"
+    url: "/wiki/entities/maboyong/"
   - key: "MaHeluoWesternHan"
     title: "马何罗 / Ma Heluo (Western Han)"
     url: "/wiki/entities/maheluowesternhan/"

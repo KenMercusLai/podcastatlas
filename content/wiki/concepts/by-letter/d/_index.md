@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9810
+wiki_total_pages: 9812
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "DynasticCyclePerception"
     title: "Dynastic Cycle Perception / 王朝周期感知"
     url: "/wiki/concepts/dynasticcycleperception/"
+  - key: "DynasticFiveVirtuesLegitimation"
+    title: "Dynastic Five-Virtues Legitimation / 五德终始式王朝正统"
+    url: "/wiki/concepts/dynasticfivevirtueslegitimation/"
   - key: "DynasticHeirLossShock"
     title: "Dynastic Heir Loss Shock"
     url: "/wiki/concepts/dynasticheirlossshock/"

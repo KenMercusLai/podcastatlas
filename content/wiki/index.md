@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》](sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp.md) — 纸醉金迷FM以五德终始、郡县与分封及人物选择再评《秦二世必须死》，在制度能力与集权代价、历史约束与悬疑空间之间保留争论。
 - [117 中元节特辑|趣话华语恐怖片巅峰《双瞳》](sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb.md) — 纸醉金迷FM以《双瞳》在华语恐怖片中的持久地位开场，并用跨类型评分体系区分作品质量与个人偏爱；因所供文本仅三分钟，后续电影分析保持未决。
 - [118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖](sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj.md) — 纸醉金迷FM以成年重读讨论古龙的诗化文风、名人榜与代理身份，并把傅红雪、公子羽和燕南飞置于欲望、恐惧和自由的共同轴线上。
 - [119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑](sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf.md) — 纸醉金迷FM以假孔雀图、连环背叛和身份谜局重讲《长生剑》，并质疑“笑”的寓意是否比贪欲、自负与心机更贴合实际情节。
@@ -3972,6 +3973,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
+- [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
+- [张苍 / Zhang Cang](entities/ZhangCang.md) — 在小说讨论中连接旧贵族经验与秦中央任职经验、承载郡县与分封比较的人物。
 - [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
 - [《天涯·明月·刀》 / The Horizon, the Moon, the Saber](entities/TianyaMingyueDaoGuLong.md) — 古龙小说，以名人榜、代理身份、孔雀翎和普通归宿讨论欲望、衰老、恐惧与放下。
 - [《长生剑》 / The Longevity Sword](entities/LongevitySwordGuLong.md) — 古龙《七种武器》开篇，以假孔雀图、动机性判断和连环反转把贪欲与心机置于正面武力之上。
@@ -16603,6 +16607,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Dynastic Five-Virtues Legitimation / 五德终始式王朝正统](concepts/DynasticFiveVirtuesLegitimation.md) — 以五行相克或相生给王朝配置德运，并把政治更替表述为天命有序转移的正统语言。
+- [Historical Possibility Fiction / 历史可能性小说](concepts/HistoricalPossibilityFiction.md) — 保持大事件和结局不变，在史料空隙中虚构人物、动机与机制，并让制度约束成为情节因果。
 - [Film Rating Calibration / 电影评分校准](concepts/FilmRatingCalibration.md) — 先说明比较范围、分数档位与个人偏爱如何进入评分，使数字评价具备可解释边界。
 - [Poetic-Style Narrative Friction / 诗化文风的叙事摩擦](concepts/PoeticStyleNarrativeFriction.md) — 诗化语言同时强化节奏与意象，也可能提高情节辨认成本、造成重复并压缩读者留白。
 - [Desire-Bound Identity / 欲望绑定的身份](concepts/DesireBoundIdentity.md) — 当名望、权力、占有或衰老恐惧把身份变成必须不断维护的负担时，拒绝竞争也可能成为行动与自由。

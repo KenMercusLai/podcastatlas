@@ -8,6 +8,7 @@ sources:
   - 119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf
   - 118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj
   - 117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb
+  - 116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -16,13 +17,13 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]] and [[HongLouMeng|《红楼梦》]], plus a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], and [[MaBoyong|马伯庸]]'s historical fiction, plus a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
 Across the bounded sources, the show operates as an informal group reading or viewing conversation rather than a formal lecture. The hosts reconstruct plots and character arcs, compare reactions, test motives, and distinguish textual fact, strong implication, and speculation. In the 《长生剑》 discussion, one host's first-listener position adds live prediction to this method: proposed explanations become visible and revisable as each new reversal arrives. Disagreement remains central—they can retain the force of an allegory while challenging its plot mechanics, or agree that Wang Xifeng is complex while differing over literacy, sincerity, culpability, and ending.
 
-The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]]: one host states the comparison set, defines the top score tiers, and separates perceived quality from personal preference before assigning an 8. Humor and tangents keep the tone accessible, though they can interrupt sustained argument and make the discussion less systematic.
+The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands that method into institutional and historical criticism: the hosts disagree over centralization, distinguish state capacity from approval of coercion, and ask whether fixed history strengthens or restricts suspense. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]]: one host states the comparison set, defines the top score tiers, and separates perceived quality from personal preference before assigning an 8. Humor and tangents keep the tone accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 ## Key Characteristics
 
@@ -32,7 +33,7 @@ The method is most persuasive when sympathy and judgment stay together. The show
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary and film reception, humor, and rereading across life stages while making at least one participant's comparison standard explicit.
+- Mixes literary, historical-institutional, and film criticism with humor and rereading across life stages while making comparison standards and disagreements visible.
 
 ## Evidence
 
@@ -63,15 +64,19 @@ The method is most persuasive when sympathy and judgment stay together. The show
 
 - [[117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb]] extends the bounded profile from literature into film and explains one host's cross-genre distinction among an 8, top-tier 9, and quality-plus-personal-preference 10.
 
+### Historical institutions and constrained fiction
+
+- [[116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp]] uses five-virtue legitimacy, commandery-county rule, enfeoffment, ordinary officials, and fixed historical outcomes to evaluate both the novel's political argument and its suspense craft.
+
 ## Qualifications
 
-This profile rests on five episode notes and may not represent every format produced by the show. The 《双瞳》 input is only a three-minute opening and cannot establish how the full film discussion proceeds. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; literary interpretation, reception hierarchy, score boundaries, and canon claims therefore remain source-scoped rather than settled conclusions.
+This profile rests on six episode notes and may not represent every format produced by the show. The 《双瞳》 input is only a three-minute opening and cannot establish how the full film discussion proceeds. The Qin historical claims come through literary conversation rather than specialist verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, and canon claims therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Expanded the bounded profile from literary rereading to film discussion.
-- Added explicit score calibration and separation of perceived quality from personal preference.
-- Qualified the film profile because the supplied 《双瞳》 note ends during the opening discussion.
+- Extended the profile into historical institutions, political tradeoffs, and evidence-constrained fiction.
+- Added a case where known outcomes redirect suspense toward motive, mechanism, and moral cost.
+- Added an explicit boundary between informal historical comparison and verified historical instruction.
 
 ## Relationships
 
@@ -88,3 +93,7 @@ This profile rests on five episode notes and may not represent every format prod
 - [[PoeticStyleNarrativeFriction]] - framework for the show's divided response to Gu Long's lyrical prose.
 - [[DoubleVision2002|《双瞳》]] - horror film used to extend the show's bounded profile beyond literature.
 - [[FilmRatingCalibration]] - explicit comparison method used by one host before scoring 《双瞳》.
+- [[MaBoyong|马伯庸]] - author assessed through research, suspense craft, institutional specificity, and character-writing limits.
+- [[QinErshiMustDie|《秦二世必须死》]] - historical novel used to debate institutional continuity and coercion.
+- [[HistoricalPossibilityFiction]] - constrained-fiction method extracted from the episode.
+- [[DynasticFiveVirtuesLegitimation]] - legitimacy framework brought into the literary discussion.
