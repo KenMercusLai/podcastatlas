@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw.md) — 窦婴救灌夫、失效诏书与田蚡胜出被放回王太后支持和外戚制衡崩塌中解释；焚毁宫中副本、亡魂索命及汉武帝杀田蚡均保留来源边界。
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw.md) — 以韩安国受辱引出“死灰复燃”，并用他替梁孝王转圜景帝怒意说明：危机沟通可以重述动机，却不能取消宗室的名分与法度边界；具体对话、年代和心理因果保留来源边界。
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm.md) — 补全韩安国复起后召回田甲却克制报复、坠马失相及反对伐匈奴却仍获统兵信任的经历；薛泽的无过自保、任官因果与具体对话均保留来源边界。
 - [《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？](sources/zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm.md) — 以承认未知为认识起点，并把刘德求书、留本抄写、集体校理与献书串成“实事求是”的实践链；词语究竟是刘德自定原则还是班固追评仍保留来源边界。
@@ -4055,6 +4056,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 失去窦太后庇护后因营救灌夫、诏书无法核验而被处死，并作为田蚡的外戚制衡者被移除。
+- [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 宴席斥骂田蚡后引发窦婴营救与朝廷斗争、最终遭族诛的西汉人物。
+- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 以母后权威支持田蚡、影响汉武帝早期政治选择，并在田蚡死后被节目称为退出政局。
 - [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
 - [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
@@ -16753,6 +16757,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 竞争性外戚为皇帝提供回旋空间，而一方清除对手后又因独大而直接暴露于皇权的动态机制。
 - [实事求是 / Seeking Truth from Facts](concepts/ShishiQiushi.md) — 由承认未知、核实具体事实与可重复的求书抄写校理流程组成的求真方法；刘德实践者与班固表述者的归属仍待辨。
 - [强制边疆劳役反噬 / Coercive Frontier Labor Backfire](concepts/CoerciveFrontierLaborBackfire.md) — 以强制劳役和军法惩逃建设边疆基础设施，反而因死亡、逃亡与恐惧摧毁地方合作并催生抵抗的治理失败。
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。

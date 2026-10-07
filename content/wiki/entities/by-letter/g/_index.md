@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12644
+wiki_total_pages: 12647
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "GuilingBattle"
     title: "桂陵之战 / Battle of Guiling"
     url: "/wiki/entities/guilingbattle/"
+  - key: "GuanFuWesternHan"
+    title: "灌夫 / Guan Fu (Western Han)"
+    url: "/wiki/entities/guanfuwesternhan/"
   - key: "GuanYing"
     title: "灌婴 / Guan Ying"
     url: "/wiki/entities/guanying/"

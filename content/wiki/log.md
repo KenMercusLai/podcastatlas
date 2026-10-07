@@ -31870,3 +31870,11 @@ Added source `zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltz
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）
+
+Added source `zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw`; created [[DouYingWesternHan|窦婴]], [[GuanFuWesternHan|灌夫]], [[EmpressDowagerWangWesternHan|王太后]], and [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]]; and resynthesized [[TianFenWesternHan|田蚡]] from both preserved sources before appending the new source once. Core synthesis: unequal dowager protection turns the stated offenses into a factional-power case; Dou Ying's removal ends an outer-relative counterweight, while Tian Fen's victory makes his own dominance more threatening to sovereign power. No settled contradiction was adopted. Destruction of the palace edict copy, exact punishments and chronology, ghostly revenge, complete maternal withdrawal, and imperial killing of Tian Fen remain episode-attributed or speculative. Homophonic transcript forms were normalized to 窦婴、灌夫、田蚡 and 卫绾. Broad [[HanWudi|汉武帝]] and show pages were kept closed because the bounded addition is represented in focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,988 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

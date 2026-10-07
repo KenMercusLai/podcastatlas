@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9878
+wiki_total_pages: 9879
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "OfficialHistoryContinuity"
     title: "正史连续性 / Official History Continuity"
     url: "/wiki/concepts/officialhistorycontinuity/"
+  - key: "OuterRelativeBalanceUnderImperialPower"
+    title: "皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power"
+    url: "/wiki/concepts/outerrelativebalanceunderimperialpower/"
   - key: "OmenSkepticismRemonstrance"
     title: "祥瑞怀疑式进谏 / Omen Skepticism Remonstrance"
     url: "/wiki/concepts/omenskepticismremonstrance/"

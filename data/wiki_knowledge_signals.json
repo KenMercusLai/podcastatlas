@@ -63232,6 +63232,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/douxianeasternhan/"
     },
+    "DouYingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
+          "key": "zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/douyingwesternhan/"
+    },
     "DoubaoWork": {
       "episode_count": 2,
       "show_count": 2,
@@ -71334,6 +71350,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
+    },
+    "EmpressDowagerWangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
+          "key": "zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/empressdowagerwangwesternhan/"
     },
     "EmpressDowagerWeiPingdi": {
       "episode_count": 2,
@@ -97071,6 +97103,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/guanbalatehan/"
+    },
+    "GuanFuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
+          "key": "zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/guanfuwesternhan/"
     },
     "GuanGanWesternHan": {
       "episode_count": 1,
@@ -172754,6 +172802,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
     },
+    "OuterRelativeBalanceUnderImperialPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
+          "key": "zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/outerrelativebalanceunderimperialpower/"
+    },
     "OuterRelativeCommandAppointmentRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -228273,9 +228337,9 @@
       "url": "/wiki/entities/tiandoctortcm/"
     },
     "TianFenWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说 [ll1skJ3YGm2Fop-pz1ETKn3Qexw5].md",
@@ -228283,9 +228347,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说",
           "url": "/wiki/sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
+          "key": "zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/tianfenwesternhan/"
     },
     "TianFengLateHan": {

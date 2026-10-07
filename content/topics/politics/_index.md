@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3173
+topic_total_pages: 3174
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4900,6 +4900,9 @@ topic_concepts:
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
+  - key: "OuterRelativeBalanceUnderImperialPower"
+    title: "皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power"
+    url: "/wiki/concepts/outerrelativebalanceunderimperialpower/"
   - key: "ScriptedCandorTrap"
     title: "直言作秀陷阱 / Scripted Candor Trap"
     url: "/wiki/concepts/scriptedcandortrap/"
