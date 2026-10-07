@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3163
+topic_total_pages: 3164
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4567,6 +4567,9 @@ topic_concepts:
   - key: "CrisisRumorDeamplification"
     title: "危机谣言降幅治理 / Crisis Rumor De-amplification"
     url: "/wiki/concepts/crisisrumordeamplification/"
+  - key: "HistoricalCostPrecedentRemonstrance"
+    title: "历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance"
+    url: "/wiki/concepts/historicalcostprecedentremonstrance/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"

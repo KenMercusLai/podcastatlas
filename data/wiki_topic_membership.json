@@ -42308,6 +42308,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HistoricalCostPrecedentRemonstrance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HistoricalCounterfactualReasoning": [
     {
       "key": "history",

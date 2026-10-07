@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓](sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x.md) — 以茂陵迁徙、资产门槛与卫青说情呈现豪强控制，再以郭解亲族门客杀人和公孙弘的间接暴力归责解释其灭族结局。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
 - [《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？](sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl.md) — 以郭解调解纠纷、追随者暴力和迁徙后仍存的号召力，呈现游侠社会功能与法外强制的同源性，并对照《史记》与《汉书》的不同评价。
@@ -9973,7 +9974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏代 / Su Dai](entities/SuDai.md) — Warring States persuader whose wiki branch now spans strategist-family context, Zi Zhi's rise in Yan, land-for-peace warning, and the post-Changping lobbying of Fan Ju.
 - [苏厉 / Su Li](entities/SuLi.md) — Su Qin's brother, named with Su Dai in the strategist-family and Yan-court persuasion branch.
 - [鹿毛寿 / Lu Maoshou](entities/LuMaoshou.md) — Persuader who uses ancient abdication stories to move Yan Wang Kuai from trust in Zi Zhi to real appointment-power transfer.
-- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — 西汉官员，以诸侯隐私、弹劾和齐相调查行使权力，后又与苏秦并列为受辱后显达的文学例证。
+- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — 西汉官员，从贫困失意和《谏伐匈奴》获宠走向中央集权工具、诸侯调查、政治孤立与族诛，后又成为受辱后显达的文学例证。
 - [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
 - [屈宜臼 / Qu Yijiu](entities/QuYijiu.md) — Chu critic of Han Zhaohou's high-gate project who defines timing as political circumstance.
 - [越国 / Yue State](entities/YueState.md) — State whose wiki branch spans Goujian's destruction of Wu and the later Warring States decline under Yue Wang Wujiang.
@@ -16692,6 +16693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance](concepts/HistoricalCostPrecedentRemonstrance.md) — 以既往战争的后勤、伤亡、财政、领土收益和民力后果检验当前政策的劝谏方法。
 - [Structural Paths to Imperial Reunification / 帝国再统一的结构路径](concepts/StructuralPathsToImperialReunification.md) — Qualified comparison of how inherited institutions, shared writing, geography, and frontier pressure shape post-collapse recombination without determining civilizational destiny.
 - [被扣使者的使命延续 / Captive Envoy Mission Persistence](concepts/CaptiveEnvoyMissionPersistence.md) — 使者在长期强制扣押中通过适应维持生存，并等待可行退出机会而不把适应本身等同于放弃原外交目标。
 - [禁令遵从不对称 / Prohibition Compliance Asymmetry](concepts/ProhibitionComplianceAsymmetry.md) — 禁令可能先移除守法者的正当能力，而高风险行为者继续规避或替代；是否成立取决于执法、替代、合法用途与伤害变化。

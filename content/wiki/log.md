@@ -31644,3 +31644,11 @@ Added source `zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？
+
+Added source `zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_`; created [[HistoricalCostPrecedentRemonstrance|历史成本先例式劝谏]]; and resynthesized [[ZhuFuYan|主父偃]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: long exclusion and adaptive study explain how a direct memorial became Zhufu Yan's access route, while 《谏伐匈奴》 uses Qin's northern burden and Liu Bang's Baideng failure to turn anger and prestige into a ledger of logistics, territorial value, deaths, fiscal cost, and civilian exhaustion. No settled contradiction with the later Zhufu Yan arc was adopted. The schooling chronology, memorial text and attribution, same-day audience, historical details, Wudi's inner response, and poverty-to-greed causal claim remain source-scoped or require primary-text comparison. Broad [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], [[QinShiHuang|秦始皇]], [[LiSi|李斯]], [[MengTian|蒙恬]], [[LiuBang|汉高祖]], [[Xiongnu|匈奴]], and show pages were read for context but not reopened because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,958 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -105559,6 +105559,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/historicalcompositeallegory/"
     },
+    "HistoricalCostPrecedentRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？ [lhWKDoBGygTWNsOHIRz60TW8-kM_].md",
+          "key": "zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/historicalcostprecedentremonstrance/"
+    },
     "HistoricalCounterfactualReasoning": {
       "episode_count": 3,
       "show_count": 1,
@@ -259780,9 +259796,9 @@
       "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuFuYan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
@@ -259818,6 +259834,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓",
           "url": "/wiki/sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？ [lhWKDoBGygTWNsOHIRz60TW8-kM_].md",
+          "key": "zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_/"
         }
       ],
       "updated": "2026-10-07",
