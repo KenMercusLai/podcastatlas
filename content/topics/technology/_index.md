@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3362
+topic_total_pages: 3364
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3751,6 +3751,9 @@ topic_concepts:
   - key: "RegionalNetworkTopologyRisk"
     title: "Regional Network Topology Risk"
     url: "/wiki/concepts/regionalnetworktopologyrisk/"
+  - key: "RegulatedEnterpriseAIDeployment"
+    title: "Regulated Enterprise AI Deployment / 受监管企业AI部署"
+    url: "/wiki/concepts/regulatedenterpriseaideployment/"
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
@@ -4159,6 +4162,9 @@ topic_concepts:
   - key: "StateCyberActorThreatModel"
     title: "State Cyber Actor Threat Model"
     url: "/wiki/concepts/statecyberactorthreatmodel/"
+  - key: "StatefulCareerCapital"
+    title: "Stateful Career Capital / 有状态职业资本"
+    url: "/wiki/concepts/statefulcareercapital/"
   - key: "StitchedAIArchitecture"
     title: "Stitched AI Architecture"
     url: "/wiki/concepts/stitchedaiarchitecture/"

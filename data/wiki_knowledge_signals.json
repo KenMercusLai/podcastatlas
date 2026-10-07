@@ -30405,9 +30405,9 @@
       "url": "/wiki/entities/burningglassinstitute/"
     },
     "BushezheShuo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "8218230840_466252 [8218230840_466252].md",
@@ -30422,9 +30422,16 @@
           "show": "捕蛇者说",
           "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
           "url": "/wiki/sources/8226494223-026583/"
+        },
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/bushezheshuo/"
     },
     "BushidoInventedTradition": {
@@ -61706,6 +61713,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/dompedroii/"
     },
+    "DomainKnowHowMoat": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "真正改变世界的技术，为什么一开始都不被看好？｜ S10E16 [8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1].md",
+          "key": "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1",
+          "show": "What's Next｜科技早知道",
+          "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",
+          "url": "/wiki/sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1/"
+        },
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/domainknowhowmoat/"
+    },
     "DomainSpecificSuperintelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -72931,6 +72961,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/enslavedselfemancipation/"
     },
+    "EnterpriseAICostCenterFraming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/enterpriseaicostcenterframing/"
+    },
     "EnterpriseAIPilotPurgatory": {
       "episode_count": 6,
       "show_count": 3,
@@ -72983,9 +73029,9 @@
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
-      "episode_count": 7,
-      "show_count": 2,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -73035,9 +73081,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        },
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAgentControlLayer": {
@@ -73475,9 +73528,9 @@
       "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
     },
     "EntryLevelAICareerLadderRisk": {
-      "episode_count": 7,
-      "show_count": 3,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 4,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
@@ -73527,9 +73580,16 @@
           "show": "Economist Podcasts",
           "title": "Brave New whirl: Turkey's opposition overhaul",
           "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
         }
       ],
-      "updated": "2026-08-18",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/entrylevelaicareerladderrisk/"
     },
     "EnvelopeExpansionDeployment": {
@@ -138137,9 +138197,9 @@
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "Light9M": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8218230840_466252 [8218230840_466252].md",
@@ -138147,9 +138207,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/light9m/"
     },
     "LightDuringSleepCardiometabolicRisk": {
@@ -194576,6 +194643,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
     },
+    "RegulatedEnterpriseAIDeployment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/regulatedenterpriseaideployment/"
+    },
     "RegulatedPeptideAccess": {
       "episode_count": 3,
       "show_count": 1,
@@ -217801,6 +217884,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/statecraftgenerationrelay/"
+    },
+    "StatefulCareerCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/statefulcareercapital/"
     },
     "StaticStretchingDoseProtocol": {
       "episode_count": 4,
@@ -258801,6 +258900,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhangxianzhong/"
+    },
+    "ZhangXiaowen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8228694742_944685 [8228694742_944685].md",
+          "key": "8228694742-944685",
+          "show": "捕蛇者说",
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "url": "/wiki/sources/8228694742-944685/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhangxiaowen/"
     },
     "ZhangXingyun": {
       "episode_count": 3,

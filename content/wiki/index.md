@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命](sources/8228694742-944685.md) — 捕蛇者说对话金融技术管理者张肖文，讨论传统企业的成本中心逻辑、受监管部署、流程重构、初级岗位压力、领域知识与有状态职业资本。
 - [《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣](sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz.md) — 余善在汉军压力下杀闽越王郢并献首止战，汉武帝随后分别承认丑的宗祀合法性与余善的地方实权；赵胡谢汉、送太子而拒绝亲自入朝，又显示臣服、依赖与自治可以并存。
 - [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw.md) — 汲黯以公开直谏、越程序救灾后主动请罪和东海授权治理显示其并非只会“抬杠”；王恢、韩安国的和战分歧及董仲舒举孝廉建议则补出汉武帝初期政策背景。
 - [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv.md) — 李广以简化军制、近身观察和士卒拥护维持安全，程不识则用行军、营垒、刁斗与文书构成高负担的常规防备；两军均未遇袭，司马光的核心判断因此保留为“个人奇才可行而不可普遍效法”的制度评估。
@@ -4077,6 +4078,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [张肖文 / Zhang Xiaowen](entities/ZhangXiaowen.md) — Foreign-financial-institution technology manager discussing regulated AI deployment, cost accountability, domain knowledge, and career resilience.
 - [程不识 / Cheng Bushi (Western Han)](entities/ChengBushiWesternHan.md) — 以严密行军、营垒、夜间警戒与军中文书换取常规防备，并与李广的个人能力型治军构成可复制性对照的西汉将领。
 - [缪忌 / Miu Ji (Western Han)](entities/MiuJiWesternHan.md) — 以太一高于五帝和古代天子祭祀先例推动其进入汉武帝礼制的方士。
 - [建章宫 / Jianzhang Palace (Western Han)](entities/JianzhangPalaceWesternHan.md) — 将求仙地理、太液池仙岛、承露装置与帝国宫苑规模结合的西汉宫殿群。
@@ -16798,6 +16800,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [Regulated Enterprise AI Deployment / 受监管企业AI部署](concepts/RegulatedEnterpriseAIDeployment.md) — AI adoption under data-residency, information-security, infrastructure, continuity, vendor-liability, and sector-regulation constraints.
+- [Enterprise AI Cost-Center Framing / 企业AI成本中心框架](concepts/EnterpriseAICostCenterFraming.md) — Organizational lens that evaluates AI mainly through removable support-function cost while risking confusion between savings, capacity, and newly feasible work.
+- [Stateful Career Capital / 有状态职业资本](concepts/StatefulCareerCapital.md) — Professional value accumulated through system history, organizational context, relationships, trust, exceptions, and continuing responsibility.
 - [救灾临机裁量 / Emergency Relief Discretion](concepts/EmergencyReliefDiscretion.md) — 在紧迫群体伤害下先行救助、随后公开越权并接受审查的有限行政裁量。
 - [把总授权式治理 / Direction-Setting Delegated Governance](concepts/DirectionSettingDelegatedGovernance.md) — 通过识别能吏、授予实权并把握总体方向来减少细节干预，同时保留最终责任。
 - [例外才能依赖式治军 / Exception-Dependent Military Command](concepts/ExceptionDependentMilitaryCommand.md) — 区分由罕见个人感知、判断与威望支撑的有效个案，和普通继任者能够安全学习、执行与传承的制度化治军底线。

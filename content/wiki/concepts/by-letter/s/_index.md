@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9891
+wiki_total_pages: 9894
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1874,6 +1874,9 @@ wiki_pages:
   - key: "StatedRevealedPreferenceGap"
     title: "Stated-Revealed Preference Gap"
     url: "/wiki/concepts/statedrevealedpreferencegap/"
+  - key: "StatefulCareerCapital"
+    title: "Stateful Career Capital / 有状态职业资本"
+    url: "/wiki/concepts/statefulcareercapital/"
   - key: "StatelessExile"
     title: "Stateless Exile / 无国籍流亡"
     url: "/wiki/concepts/statelessexile/"

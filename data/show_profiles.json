@@ -2271,21 +2271,41 @@
       "earliest_episode_date": "2026-02-17",
       "latest_episode_date": "2026-06-15",
       "latest_episode_file": "8218230840_466252 [8218230840_466252].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
           "source_note_count": 1
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
         }
       ],
-      "entities": [],
+      "entities": [
+        {
+          "key": "Light9M",
+          "title": "Light9M",
+          "url": "/wiki/entities/light9m/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
       "start_here_episode_files": [
         "8226494223_026583 [8226494223_026583].md",
-        "8218230840_466252 [8218230840_466252].md",
-        "8228694742_944685 [8228694742_944685].md"
+        "8228694742_944685 [8228694742_944685].md",
+        "8218230840_466252 [8218230840_466252].md"
       ]
     },
     "文化有限": {

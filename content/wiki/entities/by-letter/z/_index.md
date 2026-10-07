@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12667
+wiki_total_pages: 12668
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "ZhangEr"
     title: "张耳 / Zhang Er"
     url: "/wiki/entities/zhanger/"
+  - key: "ZhangXiaowen"
+    title: "张肖文 / Zhang Xiaowen"
+    url: "/wiki/entities/zhangxiaowen/"
   - key: "ZhangShengSuWuMissionWesternHan"
     title: "张胜 / Zhang Sheng (Su Wu mission)"
     url: "/wiki/entities/zhangshengsuwumissionwesternhan/"

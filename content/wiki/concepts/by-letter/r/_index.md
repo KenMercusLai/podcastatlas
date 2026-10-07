@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9891
+wiki_total_pages: 9894
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "RegulatedCryptoTrustStrategy"
     title: "Regulated Crypto Trust Strategy"
     url: "/wiki/concepts/regulatedcryptotruststrategy/"
+  - key: "RegulatedEnterpriseAIDeployment"
+    title: "Regulated Enterprise AI Deployment / 受监管企业AI部署"
+    url: "/wiki/concepts/regulatedenterpriseaideployment/"
   - key: "RegulatedFintechCapitalPressure"
     title: "Regulated Fintech Capital Pressure"
     url: "/wiki/concepts/regulatedfintechcapitalpressure/"

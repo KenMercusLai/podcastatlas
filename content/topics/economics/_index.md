@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2207
+topic_total_pages: 2211
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1063,6 +1063,9 @@ topic_concepts:
   - key: "EngineeringFounderAutomotiveTransition"
     title: "Engineering Founder Automotive Transition / 工程师创始人跨界造车"
     url: "/wiki/concepts/engineeringfounderautomotivetransition/"
+  - key: "EnterpriseAICostCenterFraming"
+    title: "Enterprise AI Cost-Center Framing / 企业AI成本中心框架"
+    url: "/wiki/concepts/enterpriseaicostcenterframing/"
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"
@@ -2563,6 +2566,9 @@ topic_concepts:
   - key: "RegionalLaborMarketScarring"
     title: "Regional Labor Market Scarring"
     url: "/wiki/concepts/regionallabormarketscarring/"
+  - key: "RegulatedEnterpriseAIDeployment"
+    title: "Regulated Enterprise AI Deployment / 受监管企业AI部署"
+    url: "/wiki/concepts/regulatedenterpriseaideployment/"
   - key: "RegulatedFintechCapitalPressure"
     title: "Regulated Fintech Capital Pressure"
     url: "/wiki/concepts/regulatedfintechcapitalpressure/"
@@ -5564,6 +5570,9 @@ topic_entities:
   - key: "ZhangLu"
     title: "张璐 / Zhang Lu"
     url: "/wiki/entities/zhanglu/"
+  - key: "ZhangXiaowen"
+    title: "张肖文 / Zhang Xiaowen"
+    url: "/wiki/entities/zhangxiaowen/"
   - key: "QianglieTan"
     title: "强烈谈 / Qianglie Tan"
     url: "/wiki/entities/qianglietan/"
@@ -6081,6 +6090,9 @@ topic_sources:
   - key: "socialradarspod-emmettshear-v2"
     title: "Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-emmettshear-v2/"
+  - key: "8228694742-944685"
+    title: "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命"
+    url: "/wiki/sources/8228694742-944685/"
   - key: "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx"
     title: "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白"
     url: "/wiki/sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx/"

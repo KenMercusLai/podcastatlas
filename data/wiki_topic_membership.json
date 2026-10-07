@@ -6820,6 +6820,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "8228694742-944685": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "83-the-berlin-wall-glt1824879961": [
     {
       "key": "history",
@@ -32215,6 +32227,13 @@
     }
   ],
   "EnricoMoretti": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "EnterpriseAICostCenterFraming": [
     {
       "key": "economics",
       "label": "Economics",
@@ -70765,6 +70784,23 @@
       "url": "/topics/politics/"
     }
   ],
+  "RegulatedEnterpriseAIDeployment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RegulatedFintechCapitalPressure": [
     {
       "key": "economics",
@@ -79043,6 +79079,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "StatefulCareerCapital": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "StatelessExile": [
@@ -93666,6 +93709,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ZhangXiaowen": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ZhangXiaoyu": [

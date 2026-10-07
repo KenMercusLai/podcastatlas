@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3180
+topic_total_pages: 3182
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3520,6 +3520,9 @@ topic_concepts:
   - key: "RegulatedCryptoTrustStrategy"
     title: "Regulated Crypto Trust Strategy"
     url: "/wiki/concepts/regulatedcryptotruststrategy/"
+  - key: "RegulatedEnterpriseAIDeployment"
+    title: "Regulated Enterprise AI Deployment / 受监管企业AI部署"
+    url: "/wiki/concepts/regulatedenterpriseaideployment/"
   - key: "RegulatedFintechCapitalPressure"
     title: "Regulated Fintech Capital Pressure"
     url: "/wiki/concepts/regulatedfintechcapitalpressure/"
@@ -8736,6 +8739,9 @@ topic_sources:
   - key: "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise"
     title: "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise"
     url: "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+  - key: "8228694742-944685"
+    title: "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命"
+    url: "/wiki/sources/8228694742-944685/"
   - key: "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd"
     title: "EP251 伊朗困局：四十年战略选择的代价与现实"
     url: "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"

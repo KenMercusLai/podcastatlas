@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9891
+wiki_total_pages: 9894
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "EnterpriseAgentStore"
     title: "Enterprise Agent Store"
     url: "/wiki/concepts/enterpriseagentstore/"
+  - key: "EnterpriseAICostCenterFraming"
+    title: "Enterprise AI Cost-Center Framing / 企业AI成本中心框架"
+    url: "/wiki/concepts/enterpriseaicostcenterframing/"
   - key: "EnterpriseAIFalsePositiveRisk"
     title: "Enterprise AI False Positive Risk"
     url: "/wiki/concepts/enterpriseaifalsepositiverisk/"
