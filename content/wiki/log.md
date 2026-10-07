@@ -32095,3 +32095,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple
+
+Added source `the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189`; created [[LaurenColensoSemple]] and [[SexSpecificExerciseProgrammingBoundary]]; and resynthesized [[MenstrualCycleTrainingIndividualization]] and [[MidlifeFemaleStrengthPowerTraining]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: baseline physiology, reproductive stage, contraception, and symptoms can matter without establishing fundamentally different repetition ranges, intensities, nutrient timing, or menstrual-phase programs for women; progressive resistance, challenging effort, recovery, and sustainable practice remain the common foundation. A live qualification is preserved against the stronger female-specific framing in the Stacy Sims source: both favor individual adjustment, but Colenso-Semple gives a broader null conclusion on cycle syncing, fed-versus-fasted adaptation, and menopause-specific programming. Exact protocols, mechanisms, contraception effects, hormone-therapy outcomes, supplement claims, and clinical applications remain source-scoped. Broad Huberman Lab, Andrew Huberman, strength-programming, creatine, protein, fasting, and recovery pages were kept closed because the bounded addition is represented in the focused source, entity, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,016 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

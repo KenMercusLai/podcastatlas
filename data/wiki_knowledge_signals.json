@@ -134044,6 +134044,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
     },
+    "LaurenColensoSemple": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6891280189 [SCIM6891280189].md",
+          "key": "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189",
+          "show": "Huberman Lab",
+          "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+          "url": "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/laurencolensosemple/"
+    },
     "LawAndOrderRacialSignaling": {
       "episode_count": 5,
       "show_count": 1,
@@ -155973,9 +155989,9 @@
       "url": "/wiki/concepts/menopauseinformationtriage/"
     },
     "MenstrualCycleTrainingIndividualization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3511503121 [SCIM3511503121].md",
@@ -155983,9 +155999,16 @@
           "show": "Huberman Lab",
           "title": "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims",
           "url": "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"
+        },
+        {
+          "episode_file": "SCIM6891280189 [SCIM6891280189].md",
+          "key": "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189",
+          "show": "Huberman Lab",
+          "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+          "url": "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/menstrualcycletrainingindividualization/"
     },
     "MenstrualStigma": {
@@ -158121,9 +158144,9 @@
       "url": "/wiki/concepts/midlifebodyalarmadjustment/"
     },
     "MidlifeFemaleStrengthPowerTraining": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3511503121 [SCIM3511503121].md",
@@ -158138,9 +158161,16 @@
           "show": "Huberman Lab",
           "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
           "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+        },
+        {
+          "episode_file": "SCIM6891280189 [SCIM6891280189].md",
+          "key": "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189",
+          "show": "Huberman Lab",
+          "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+          "url": "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/midlifefemalestrengthpowertraining/"
     },
     "MidtermBacklashForecasting": {
@@ -207453,6 +207483,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/sexpistols/"
+    },
+    "SexSpecificExerciseProgrammingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6891280189 [SCIM6891280189].md",
+          "key": "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189",
+          "show": "Huberman Lab",
+          "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+          "url": "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/sexspecificexerciseprogrammingboundary/"
     },
     "SexSteroidFeedbackRegulation": {
       "episode_count": 5,

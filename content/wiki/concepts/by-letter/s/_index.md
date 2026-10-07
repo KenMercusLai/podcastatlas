@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9902
+wiki_total_pages: 9903
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "SexWorkEconomicSpectrum"
     title: "Sex Work as an Economic Spectrum"
     url: "/wiki/concepts/sexworkeconomicspectrum/"
+  - key: "SexSpecificExerciseProgrammingBoundary"
+    title: "Sex-Specific Exercise Programming Evidence Boundary"
+    url: "/wiki/concepts/sexspecificexerciseprogrammingboundary/"
   - key: "SexSteroidFeedbackRegulation"
     title: "Sex-Steroid Feedback Regulation"
     url: "/wiki/concepts/sexsteroidfeedbackregulation/"

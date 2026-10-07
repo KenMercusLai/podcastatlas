@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1472
+topic_total_pages: 1473
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4233,6 +4233,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
+  - key: "the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189"
+    title: "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple"
+    url: "/wiki/sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189/"
   - key: "the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996"
     title: "The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis"
     url: "/wiki/sources/the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996/"
