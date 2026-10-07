@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr.md) — 窦婴为灌夫争取罪罚相称，田蚡把争议升级为宫廷安全指控；群臣沉默、王太后施压与韩安国劝丞相退让，显示正式廷议如何受外戚结构约束。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw.md) — 窦婴救灌夫、失效诏书与田蚡胜出被放回王太后支持和外戚制衡崩塌中解释；焚毁宫中副本、亡魂索命及汉武帝杀田蚡均保留来源边界。
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw.md) — 以韩安国受辱引出“死灰复燃”，并用他替梁孝王转圜景帝怒意说明：危机沟通可以重述动机，却不能取消宗室的名分与法度边界；具体对话、年代和心理因果保留来源边界。
 - [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm.md) — 补全韩安国复起后召回田甲却克制报复、坠马失相及反对伐匈奴却仍获统兵信任的经历；薛泽的无过自保、任官因果与具体对话均保留来源边界。
@@ -4057,9 +4058,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
-- [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 失去窦太后庇护后因营救灌夫、诏书无法核验而被处死，并作为田蚡的外戚制衡者被移除。
-- [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 宴席斥骂田蚡后引发窦婴营救与朝廷斗争、最终遭族诛的西汉人物。
-- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 以母后权威支持田蚡、影响汉武帝早期政治选择，并在田蚡死后被节目称为退出政局。
+- [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 为灌夫争取罪罚相称却卷入与田蚡的互揭和安全指控，失去窦太后庇护后又因诏书无法核验而被处死。
+- [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
+- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 监控廷议并直接以母后权威支持田蚡、影响汉武帝早期政治选择，田蚡死后被节目称为退出政局。
 - [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
 - [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
@@ -4075,7 +4076,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vero Biosciences](entities/VeroBiosciences.md) — Company presented as combining organ-age signatures with clinical and wearable data in an iterative prevention workflow.
 - [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
 - [龙城之战 / Longcheng Campaign (Western Han)](entities/LongchengCampaignWesternHan.md) — 卫青在129 BCE四路出击中以纵深机动与加速突袭取得的唯一胜果，局部战果与战略转折解释分开保存。
-- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 能调和宫廷冲突、复起后克制报复却又贪财的西汉旧臣；坠马失相、反战而仍获统兵信任，后因误信俘虏和过早撤军进一步失势。
+- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 能并置相反证据、调和宫廷冲突并以退让维护官职体面的西汉旧臣；复起后克制报复却又贪财，晚年因误信俘虏和过早撤军进一步失势。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
 - [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
@@ -4279,7 +4280,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《凤求凰》 / Feng Qiu Huang](entities/FengQiuHuang.md) — 在节目中由司马相如宴席演奏、向卓文君传递求偶意味的作品，其作者、曲辞与传播史保持来源限定。
 - [霍嬗 / 霍子侯 / Huo Shan (son of Huo Qubing)](entities/HuoShanSonOfHuoQubing.md) — 霍去病之子与爵位继承人，在来源中以侍中、奉车都尉身份成为唯一陪同汉武帝秘密登泰山过夜的随员，并与后世霍山明确消歧。
 - [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
-- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 在来源中因封地受益而劝阻及时修复瓠子决口、体现权臣私利影响公共治水优先级的西汉丞相。
+- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 获王太后支持、把窦婴灌夫争议升级为宫廷安全指控，并在来源中因封地受益而劝阻及时修复瓠子决口的西汉丞相。
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
 - [Imperial Veritable Records / 帝王实录宝训](entities/ImperialVeritableRecords.md) — Official dynastic memory whose monumental custody preserves valuable evidence while requiring criticism of political editing and genre.
 - [Nathan Bedford Forrest](entities/NathanBedfordForrest.md) — Former Confederate general linked to first-Klan leadership whose Tennessee disbandment order did not control decentralized groups elsewhere.
@@ -16762,7 +16763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
-- [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 竞争性外戚为皇帝提供回旋空间，而一方清除对手后又因独大而直接暴露于皇权的动态机制。
+- [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 外戚竞争既为皇帝提供回旋空间，也会通过安全指控、群臣沉默和家族施压约束廷议；一方清除对手后又因独大而暴露于皇权。
 - [实事求是 / Seeking Truth from Facts](concepts/ShishiQiushi.md) — 由承认未知、核实具体事实与可重复的求书抄写校理流程组成的求真方法；刘德实践者与班固表述者的归属仍待辨。
 - [强制边疆劳役反噬 / Coercive Frontier Labor Backfire](concepts/CoerciveFrontierLaborBackfire.md) — 以强制劳役和军法惩逃建设边疆基础设施，反而因死亡、逃亡与恐惧摧毁地方合作并催生抵抗的治理失败。
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。

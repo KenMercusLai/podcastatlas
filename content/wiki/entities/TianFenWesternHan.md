@@ -6,24 +6,31 @@ tags: [person, western-han, minister, flood-control, private-interest]
 sources:
   - zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5
   - zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw
+  - zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-田蚡 / Tian Fen is a Western Han chancellor and maternal uncle of [[HanWudi|汉武帝]] whose current bounded profile joins two risks of kin-backed office: alleged preference for his own fief over public flood repair and victory over rival outer relatives that leaves him exposed as a threat to sovereign power.
+田蚡 / Tian Fen is a Western Han chancellor and maternal uncle of [[HanWudi|汉武帝]] whose current bounded profile joins three risks of kin-backed office: turning personal conflict into a security accusation, receiving direct maternal-family protection during court judgment, and defeating rival outer relatives so completely that he becomes exposed as a threat to sovereign power.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] backfills the 132 BCE Huzi breach before the repair ordered under Han Wudi in 109 BCE. The episode says Tian Fen advised against timely intervention because eastward flooding benefited his fief, leaving the Liang-Chu region exposed until the later mass repair.
 
-[[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265]] supplies an earlier court-power branch. Backed by his sister [[EmpressDowagerWangWesternHan|王太后]], Tian Fen prevails against [[GuanFuWesternHan|灌夫]] and [[DouYingWesternHan|窦婴]]; the episode alleges that he has the palace copy of Dou Ying's exculpatory edict destroyed, then uses the missing copy to support a forgery accusation. Once both rivals are dead, the program interprets Tian Fen's concentrated power as a boundary Han Wudi cannot accept.
+[[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] supplies the public debate preceding that outcome. Tian Fen defends his own pleasures as politically harmless while alleging that [[GuanFuWesternHan|灌夫]] and [[DouYingWesternHan|窦婴]] gathered powerful guests, criticized court, watched the two palaces, and hoped for disorder. The episode thereby shows a dispute over punishment becoming a claim about regime security, but it does not prove Tian Fen's accusation.
+
+After the audience, [[HanAnguoWesternHan|韩安国]] reportedly advises Tian Fen to answer attack by resigning and returning his seal, allowing the emperor to restore him, rather than trading abuse in court. Tian Fen concedes that he acted in haste. The scene adds a role-based criticism: even if some accusations against Guan Fu were serious, the chancellor's manner of defending himself could still be politically improper.
+
+[[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265 part 2]] completes the court-power branch. Backed by his sister [[EmpressDowagerWangWesternHan|王太后]], Tian Fen prevails against Guan Fu and Dou Ying; the episode alleges that he has the palace copy of Dou Ying's exculpatory edict destroyed, then uses the missing copy to support a forgery accusation. Once both rivals are dead, the program interprets Tian Fen's concentrated power as a boundary Han Wudi cannot accept.
 
 His own death is not resolved. Hanji 265 reports a ghost-and-nightmare tradition and separately raises a later suspicion that Han Wudi had him killed. Neither account is proven in the supplied evidence. The profile therefore connects Tian Fen to [[OuterRelativeBalanceUnderImperialPower|outer-relative balance under imperial power]] without converting a centralization motive into a settled murder claim.
 
 ## Key Characteristics
 
 - Western Han chancellor and maternal uncle supported by Empress Dowager Wang.
+- Reframes the Dou Ying-Guan Fu dispute as a possible threat to court security.
+- Is criticized by Han Anguo for answering public attack through mutual abuse rather than chancellorial restraint.
 - Alleged to have opposed repair while the breach benefited his own fief.
 - Rival of Dou Ying whose elimination leaves Tian Fen without an outer-relative counterweight.
 - Alleged by the episode to have destroyed the palace copy of Dou Ying's edict.
@@ -35,17 +42,19 @@ His own death is not resolved. Hanji 265 reports a ghost-and-nightmare tradition
 - Private-interest interpretation: [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] attributes that advice to the benefit the eastward flood pattern gave Tian Fen's fief.
 - Later contrast: [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] places a large repair in 109 BCE under [[GuoChangWesternHan|郭昌]] and Ji Ren, followed by diversion works and [[XuanfangPalace|宣房宫]].
 - Kin-backed advantage: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265]] says support from Empress Dowager Wang makes Tian Fen politically stronger than the unprotected Dou Ying.
+- Security escalation: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] records Tian Fen's accusation that rival guest networks and palace monitoring anticipated political disorder.
+- Role criticism: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] says Han Anguo tells Tian Fen that resignation and restoration would better fit a chancellor than public mutual abuse.
 - Rival removal: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265]] connects Guan Fu's clan punishment and Dou Ying's execution to Tian Fen's apparent victory.
 - Winner's exposure: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265]] argues that Tian Fen's resulting monopoly of power brings him into direct tension with the emperor.
 
 ## Qualifications
 
-The current profile rests on two compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's full reasoning, the hydrology and feasibility of earlier flood repair, the underlying trial and archival record, the symmetry of the two outer-relative factions, or his cause of death. Private-interest obstruction, destruction of the edict copy, ghostly revenge, and imperial killing are all retained at their respective source-attributed or speculative levels.
+The current profile rests on three compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's full reasoning, the truth of his security accusation, the legal merits of the competing case, the hydrology and feasibility of earlier flood repair, the underlying trial and archival record, the symmetry of the two outer-relative factions, or his cause of death. Private-interest obstruction, destruction of the edict copy, ghostly revenge, and imperial killing are all retained at their respective source-attributed or speculative levels.
 
 ## What Changed
 
-- Expanded the profile from flood-repair private interest to kin-backed court conflict with Dou Ying and Guan Fu.
-- Added the counterweight-collapse interpretation while keeping Tian Fen's death unresolved.
+- Added Tian Fen's move from personal and legal dispute to court-security accusation.
+- Added Han Anguo's role-based criticism of Tian Fen's public conduct while leaving the underlying accusations unresolved.
 
 ## Relationships
 
