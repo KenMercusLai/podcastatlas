@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0
   - 494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj
   - zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-1-lj6mkkcbwrfznzqpkwtkzigirotg
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -25,13 +26,15 @@ At the Qin-Han scale, cavalry formation also has a technology-history dimension.
 
 Hanji 274 adds a Western Han state-capacity and first-use layer. [[HanWudi|汉武帝]] is said to spend heavily on horses and mounted training so an agrarian empire can challenge Xiongnu mobility, then distributes four cavalry commands across the frontier in 129 BCE. The episode treats the operation as both attack and reconnaissance under severe geographic and intelligence uncertainty. [[WeiQingHanGeneral|卫青]]'s appointment also shows that cavalry formation includes command selection: palace trust, riding experience, and perceived temperament can shape who receives a new mounted force, while outer-relative access makes the choice publicly contestable.
 
+Hanji 275 part 1 completes that first-use test and prevents a simple success story. [[LongchengCampaignWesternHan|龙城之战]] reportedly shows one column turning mobility, deep maneuver, discarded baggage, and acceleration into surprise, while the other three commands produce no contact or defeat. Cavalry capacity therefore creates the possibility of offensive reach without guaranteeing navigation, intelligence, command judgment, or uniform battlefield success.
+
 ## Key Claims
 
 - Cavalry weakness becomes actionable only when commanders convert it into organization, horses, riders, and a command arrangement troops will accept.
 - Mounted-force adaptation can be a post-defeat learning response, as in Liu Bang's answer to Pengcheng.
 - It can also be a frontier mobility-matching response, as in Yu Xu's answer to mounted Qiang raiding.
 - Technical cavalry expertise and visible command legitimacy may need to be separated across different people.
-- State-scale cavalry capability depends on sustained fiscal support, horse supply, training, and command selection before battlefield technique can matter.
+- State-scale cavalry capability depends on sustained fiscal support, horse supply, training, command selection, and operational judgment; one column can break through while parallel columns using the same force type fail.
 - Building or fielding cavalry changes strategic tempo: it can blunt enemy shock, make pursuit possible, and reduce the asymmetry of mounted opponents.
 - Interpreting cavalry formation at Qin-Han scale requires caution because tactical clues can suggest broader technology exchange without proving direct transmission.
 
@@ -45,15 +48,16 @@ Hanji 274 adds a Western Han state-capacity and first-use layer. [[HanWudi|汉�
 - Eurasian comparison: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]] argues that Chu-Han cavalry clues may belong to a wider Eurasian no-stirrup cavalry development field, while preserving uncertainty about direct influence.
 - Western Han state build: [[zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc|Hanji 274]] links Wudi's ability to field four reported ten-thousand-rider forces to costly horse raising, training, and state finance.
 - First-use uncertainty: [[zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc|Hanji 274]] presents the four-route advance as a broad operational test conducted with limited knowledge of Xiongnu terrain and movement.
+- Uneven first-use result: [[zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-1-lj6mkkcbwrfznzqpkwtkzigirotg|Hanji 275 part 1]] says Wei Qing's Longcheng column succeeds through surprise while Gongsun He returns without contact and Gongsun Ao and Li Guang suffer defeat.
 
 ## Counterevidence & Qualifications
 
-These sources do not make cavalry a universal solution. Liu Bang's case requires political trust, deputies, Guanzhong manpower, and a defensive line around Xingyang; Yu Xu's case solves a pursuit-speed problem but does not remove the need for deception and defensive tactics at Wudu. Hanji 274 supplies no audited fiscal account, direct canal-to-campaign chain, or battle outcome, and its force totals and “first active attack” framing remain episode-attributed. Zhang Shiping's Eurasian comparison is explicitly inferential, so it should guide comparative questioning rather than be treated as proof of a direct Hellenistic-to-Chu-Han transmission line. Cavalry formation should therefore be read as a fiscal, organizational, command, and operational adaptation, not as speed alone.
+These sources do not make cavalry a universal solution. Liu Bang's case requires political trust, deputies, Guanzhong manpower, and a defensive line around Xingyang; Yu Xu's case solves a pursuit-speed problem but does not remove the need for deception and defensive tactics at Wudu. Hanji 274 supplies no audited fiscal account or direct canal-to-campaign chain, while Hanji 275 part 1's completion shows that the same reported force type produces one breakthrough, one no-contact return, and two defeats. Its routes, forces, losses, surprise geometry, and wider turning-point claim remain episode-attributed. Zhang Shiping's Eurasian comparison is explicitly inferential, so it should guide comparative questioning rather than be treated as proof of a direct Hellenistic-to-Chu-Han transmission line. Cavalry formation should therefore be read as a fiscal, organizational, command, intelligence, and operational adaptation, not as speed alone.
 
 ## What Changed
 
 - Added Wudi-era fiscal, horse, training, and command-selection capacity to the earlier tactical and mobility-focused synthesis.
-- Added first-use reconnaissance uncertainty: fielding cavalry does not itself solve terrain and opponent-information gaps.
+- Completed the 129 BCE first-use test with its uneven four-column outcome: mobility enables breakthrough but does not solve intelligence, navigation, or command quality by itself.
 
 ## Related Concepts
 
@@ -66,3 +70,5 @@ These sources do not make cavalry a universal solution. Liu Bang's case requires
 - [[IncreasingStovesDeception|增灶示强]] - adjacent Yu Xu tactic that compensates for force inferiority after the mobility problem is partly addressed.
 - [[YuXuEasternHan|虞诩]] - Eastern Han adviser who gives the light-cavalry recommendation.
 - [[RenShangLateHan|任尚]] - commander who implements the light-cavalry answer in Hanji 788.
+- [[LongchengCampaignWesternHan|龙城之战]] - first-use case in which one cavalry column converts mobility and surprise into victory while the wider operation remains unsuccessful.
+- [[OperationalSurprisePsychologicalBreakthrough|战术突袭与心理破局]] - mechanism and bounded morale interpretation attached to the successful column.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（1）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-1-lj6mkkcbwrfznzqpkwtkzigirotg.md) — 补齐274止于战前的龙城战果：卫青以纵深机动、弃辎加速和突袭成为四路中唯一获胜者；兵力斩获、春季窗口、平型关类比与攻守逆转均保留来源边界。
 - [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d.md) — 汲黯以宗庙礼乐的公共目的批评汉武帝马歌，公孙弘则被描述为借帝王不悦推动入罪与外放；主父偃处死和公孙弘善终部分与后期节目重合，隐蔽报复及生存因果保留来源边界。
 - [《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？](sources/zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc.md) — 卫青由骑奴和宫中近侍进入汉武帝新建骑兵体系，并在外戚任将争议中获得首次统兵机会；四路出击、草原搜索与龙城发现保留为战前层，战斗结果尚未进入本期。
 - [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo.md) — 标题指向卫青，正文核心却是韩安国误信俘虏、过早撤军、被调右北平并失势的过程；以文景式稳健与武帝朝进取的错位解释其退场，同时保留具体战事和时代因果的来源边界。
@@ -4036,6 +4037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [龙城之战 / Longcheng Campaign (Western Han)](entities/LongchengCampaignWesternHan.md) — 卫青在129 BCE四路出击中以纵深机动与加速突袭取得的唯一胜果，局部战果与战略转折解释分开保存。
 - [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 兼具稳健、权衡与趋附色彩的西汉旧臣；因误信匈奴俘虏、过早撤军而暴露边防，并在汉武帝重军功的环境中被进一步边缘化。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
 - [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
@@ -16718,6 +16720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough](concepts/OperationalSurprisePsychologicalBreakthrough.md) — 区分制造局部突然性的行动机制、改变可胜预期的心理效应，以及不能由单次胜利直接推出的战略逆转。
 - [政军能力的时代适配 / Political-Military Era Fit](concepts/PoliticalMilitaryEraFit.md) — 官员既有能力须按当前目标、威胁、节奏、奖惩与风险重新评价；时代错位不能替代对具体判断和执行错误的分析。
 - [Feminist Choice Freedom / 女性主义的选择自由](concepts/FeministChoiceFreedom.md) — 将女性承认为决策主体的现代政治语言，尤其用于生殖自主，但不能把女性主义化约为偏好满足。
 - [Substantive Choice Capability / 实质选择能力](concepts/SubstantiveChoiceCapability.md) — 区分形式许可与可实际使用的选项，把收入、照护、医疗、安全、知识和认知负担纳入自由判断。

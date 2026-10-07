@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12628
+wiki_total_pages: 12629
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2615,6 +2615,9 @@ wiki_pages:
   - key: "LongBogaoEasternHan"
     title: "龙伯高 / Long Bogao (Eastern Han)"
     url: "/wiki/entities/longbogaoeasternhan/"
+  - key: "LongchengCampaignWesternHan"
+    title: "龙城之战 / Longcheng Campaign (Western Han)"
+    url: "/wiki/entities/longchengcampaignwesternhan/"
   - key: "LongJia"
     title: "龙甲 / Long Jia"
     url: "/wiki/entities/longjia/"

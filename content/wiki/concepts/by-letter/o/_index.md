@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9867
+wiki_total_pages: 9868
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "OfficeSequencePowerReallocation"
     title: "官职序列重组式权力再分配 / Office Sequence Power Reallocation"
     url: "/wiki/concepts/officesequencepowerreallocation/"
+  - key: "OperationalSurprisePsychologicalBreakthrough"
+    title: "战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough"
+    url: "/wiki/concepts/operationalsurprisepsychologicalbreakthrough/"
   - key: "OpportunisticCourtAlignment"
     title: "投机型朝堂站队 / Opportunistic Court Alignment"
     url: "/wiki/concepts/opportunisticcourtalignment/"
