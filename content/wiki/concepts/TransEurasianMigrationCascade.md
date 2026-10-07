@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
   - zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e
+  - zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen
 last_updated: 2026-10-07
 ---
 
@@ -20,7 +21,9 @@ Hanji 763 supplies the eastern-frontier prequel to the cascade. It presents [[Do
 
 Hanji 764 then expands that deferred western layer by associating Northern Xiongnu westward movement with later European Huns, Gothic displacement, and pressure on the [[RomanEmpire|Roman Empire]]. Taken together, the sources make the local Eastern Han frontier victory legible at a Eurasian scale while keeping the evidentiary caveat central.
 
-Hanji 280 broadens the frame from a single displacement chain to a third-to-sixth-century wave affecting China, Rome, India, and Persia. It adds a two-sided mechanism—weakening agrarian empires plus improved steppe mobility through mounted warfare—but it comes from the same show and does not independently verify the Northern-Xiongnu-to-European-Hun identity claim.
+Hanji 280 part 2 supplies an earlier macrohistorical version of the argument. It treats the Eurasian steppe as the connective corridor, places Warring States defense, Qin walls, early-Han accommodation, Han Wudi's military preparation, Eastern Han pressure, Northern Xiongnu westward movement, Gothic displacement, and Roman crisis into one long chain, and adds climate and mobile pastoral warfare as background conditions. Its Baideng setup conflicts with the wiki's more detailed bounded sequence, and its compression across centuries makes it evidence for the show's interpretation rather than for continuous ethnogenesis or direct causation.
+
+Hanji 280 part 3 broadens the frame from a single displacement chain to a third-to-sixth-century wave affecting China, Rome, India, and Persia. It adds a two-sided mechanism—weakening agrarian empires plus improved steppe mobility through mounted warfare—but it comes from the same show and does not independently verify the Northern-Xiongnu-to-European-Hun identity claim.
 
 The current judgment remains deliberately qualified. The source tradition treats the Northern-Xiongnu-to-Roman chain as a compelling historical association rather than settled proof. The concept should therefore be used to mark cascading-pressure arguments and their uncertainty, not to state that Dou Xian directly destroyed Rome.
 
@@ -29,9 +32,9 @@ The current judgment remains deliberately qualified. The source tradition treats
 - Steppe-frontier victories can be narrated as displacement events with consequences beyond the original theater.
 - Hanji 763 links Dou Xian's Jiluoshan-era campaign to Northern Xiongnu collapse, Xianbei expansion, inward Hu movement, and westward Northern Xiongnu movement.
 - Hanji 764 links that westward-movement frame to later Hunnic pressure in Europe.
-- The two-source sequence presents Hunnic attacks as pushing Gothic groups into Roman space and increasing pressure on Rome.
-- Hanji 280 generalizes the sequence into a Eurasian wave produced by interacting imperial weakness and mounted steppe capacity.
-- [[AttilaTheHun|Attila]] functions as the remembered late stage of this pressure sequence.
+- The two-source sequence presents Hunnic attacks, remembered especially through [[AttilaTheHun|Attila]], as pushing Gothic groups into Roman space and increasing pressure on Rome.
+- Hanji 280 part 2 extends the claimed chain backward through Qin and early Han pressure while adding the steppe corridor and climate as structural conditions.
+- Hanji 280 part 3 generalizes the sequence into a Eurasian wave produced by interacting imperial weakness and mounted steppe capacity.
 - The concept requires an evidentiary caveat because neither source proves a continuous identity chain from Northern Xiongnu to European Huns.
 
 ## Evidence
@@ -43,17 +46,19 @@ The current judgment remains deliberately qualified. The source tradition treats
 - European pressure chain: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] describes Huns defeating or driving Gothic groups, thereby adding pressure to the Roman world.
 - Attila memory: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] presents Attila as the most remembered Hunnic figure in the later European layer.
 - Qualification: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] warns that the Northern Xiongnu to Rome chain should be treated as source-scoped historical association rather than settled causal proof.
-- Macro-wave mechanism: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280]] places China, Rome, India, and Persia in a shared third-to-sixth-century invasion frame and links agrarian-state weakness to mounted steppe mobility.
+- Long eastern prehistory and corridor: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen|Hanji 280 part 2]] treats the Eurasian steppe as the bridge from Qin-Han frontier pressure through Northern Xiongnu movement to Gothic and Roman stress.
+- Climate and capacity qualification: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen|Hanji 280 part 2]] adds climate, horses, weapons, mobile warfare, and agrarian-state capacity but also exposes a Baideng chronology conflict and large evidentiary gaps across the claimed chain.
+- Macro-wave mechanism: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280 part 3]] places China, Rome, India, and Persia in a shared third-to-sixth-century invasion frame and links agrarian-state weakness to mounted steppe mobility.
 
 ## Counterevidence & Qualifications
 
-The current wiki has three bounded sources for this concept, but all come from the same show rather than providing independent corroboration. Hanji 763 explicitly previews the European layer instead of proving it, Hanji 764 qualifies the long-range chain, and Hanji 280 generalizes it without supplying specialist evidence. The concept should not be used as proof of direct ethnogenesis, a simple east-to-west migration line, or a monocausal explanation for Rome's fall.
+The current wiki has four bounded sources for this concept, but all come from the same show rather than providing independent corroboration. Hanji 763 explicitly previews the European layer instead of proving it, Hanji 764 qualifies the long-range chain, and the two Hanji 280 installments restate or generalize it without supplying specialist evidence. Part 2 also conflicts with the bounded Baideng chronology and compresses the Han Wudi and Eastern Han layers. The concept should not be used as proof of direct ethnogenesis, a simple east-to-west migration line, or a monocausal explanation for Rome's fall.
 
 ## What Changed
 
-- Added the broader third-to-sixth-century China-Rome-India-Persia wave proposed by Hanji 280.
-- Added the interaction between agrarian-imperial weakness and mounted steppe mobility.
-- Kept the caveat stronger than the causal claim because all three bounded sources come from one show and do not prove direct ethnogenesis.
+- Extended the source-framed chain backward through Qin defense, early-Han accommodation, and Han Wudi's military preparation.
+- Added the Eurasian steppe corridor and climate as proposed structural conditions without treating them as proof of the identity chain.
+- Strengthened the chronology and independence caveats because the new source conflicts on Baideng and repeats the same show's thesis.
 
 ## Related Concepts
 

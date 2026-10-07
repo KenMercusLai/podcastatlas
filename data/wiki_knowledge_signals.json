@@ -229683,9 +229683,9 @@
       "url": "/wiki/concepts/trainingstressrecoverycontinuum/"
     },
     "TransEurasianMigrationCascade": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？ [lpk0c6MUNEAbhk1oonZYjvawwF4_].md",
@@ -229707,6 +229707,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（2） [lukJ2eXyP2ViaPeCNcMiTK8Gjgen].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen/"
         }
       ],
       "updated": "2026-10-07",
