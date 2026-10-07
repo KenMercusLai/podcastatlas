@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12586
+wiki_total_pages: 12588
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1496,6 +1496,9 @@ wiki_pages:
   - key: "BaiGongShengRebellion"
     title: "白公胜之乱 / Bai Gong Sheng Rebellion"
     url: "/wiki/entities/baigongshengrebellion/"
+  - key: "BaiZhantang"
+    title: "白展堂 / Bai Zhantang"
+    url: "/wiki/entities/baizhantang/"
   - key: "BaiPeople"
     title: "白族 / Bai People"
     url: "/wiki/entities/baipeople/"

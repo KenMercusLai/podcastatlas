@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [110 《武林外传》：小赌怡情？最好的戒赌宣传片](sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb.md) — 纸醉金迷FM借白展堂从小彩头到押上性命的升级过程，区分游戏计分与可兑现赌注，并把法律、动物实验和临床判断保留为未核实的节目观点。
 - [111 全方位解析《天龙八部》之少室山大战](sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t.md) — 纸醉金迷FM把少室山大战定位为《天龙八部》人物线、对手与结局线索的汇合点；所供文本仅为三分钟开场，尚不能支撑其预告的详细分析。
 - [112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念](sources/112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt.md) — 纸醉金迷FM以说书、厨艺、听觉与刺字的铺垫回收，分析《武林外传》如何用声音骗局和预期反转同时塑造喜剧与护子母爱。
 - [113 摘符！《鬼吹灯》之昆仑神宫（大结局）](sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw.md) — 纸醉金迷FM以祭品替代、高潮代价和逃亡节奏评析《昆仑神宫》结局，并把摘下摸金符理解为胡八一与胖子从冒险职业身份转向新生活。
@@ -3977,8 +3978,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
-- [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音、默剧协作、密集铺垫与人物一致的反转构造喜剧。
-- [李大嘴 / Li Dazui](entities/LiDazui.md) — 以孝心谎称武状元、把同伴卷入京城骗局，并在“好汉饶命”刺字中显露英雄身份与求生母爱的反差。
+- [白展堂 / Bai Zhantang](entities/BaiZhantang.md) — 《武林外传》中以“小赌怡情”合理化参与、不断追损并最终押上性命的角色。
+- [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
+- [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
+- [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
 - [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、同伴关系与职业身份为核心，并在前四册结尾以摘符形成可逆退休的小说系列。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以鬼母双眼替代祭品解除诅咒，并在高潮代价争议后完成角色关系与摘符收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
@@ -3990,7 +3993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational literary podcast using retelling, live prediction, disagreement, evidence boundaries, and moral gradation across Gu Long and 《红楼梦》.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, disagreement, evidence boundaries, moral gradation, and sitcom-based practical argument.
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
@@ -16615,6 +16618,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
 - [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部笑料，再使其以新的因果、压力、人物或包袱功能返回。
 - [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。
 - [Sound-Led Comic Deception / 声音主导的喜剧骗局](concepts/SoundLedComicDeception.md) — 用声音让有限场景代表更大世界，同时让观众看见幻觉背后的表演劳动与穿帮风险。

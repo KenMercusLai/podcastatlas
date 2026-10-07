@@ -167,6 +167,10 @@
     "title": "110. History of India in 10 Buildings",
     "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
   },
+  "110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb": {
+    "title": "110 《武林外传》：小赌怡情？最好的戒赌宣传片",
+    "url": "/wiki/sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb/"
+  },
   "111-golden-ages-glt9885576415": {
     "title": "111. Golden Ages",
     "url": "/wiki/sources/111-golden-ages-glt9885576415/"
@@ -11046,6 +11050,10 @@
   "BaiYingHengshan": {
     "title": "白盈 / Bai Ying (Hengshan Crown Prince's Associate)",
     "url": "/wiki/entities/baiyinghengshan/"
+  },
+  "BaiZhantang": {
+    "title": "白展堂 / Bai Zhantang",
+    "url": "/wiki/entities/baizhantang/"
   },
   "BaiboArmy": {
     "title": "白波军 / Baibo Army",
@@ -25967,6 +25975,10 @@
     "title": "端闻 / 端传媒新闻播客",
     "url": "/wiki/entities/duanwennewspodcast/"
   },
+  "DuanzhiXuanyuan": {
+    "title": "断指轩辕 / Duanzhi Xuanyuan",
+    "url": "/wiki/entities/duanzhixuanyuan/"
+  },
   "Dubai": {
     "title": "Dubai / 迪拜",
     "url": "/wiki/entities/dubai/"
@@ -33394,6 +33406,10 @@
   "GamblingAdjacentCommerceDesign": {
     "title": "Gambling-Adjacent Commerce Design",
     "url": "/wiki/concepts/gamblingadjacentcommercedesign/"
+  },
+  "GamblingEscalationLoop": {
+    "title": "Gambling Escalation Loop / 赌博升级循环",
+    "url": "/wiki/concepts/gamblingescalationloop/"
   },
   "GamblingFrictionRegulation": {
     "title": "Gambling Friction Regulation",

@@ -12,6 +12,7 @@ sources:
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
   - 112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt
   - 111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t
+  - 110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -20,7 +21,7 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], and [[TianLongBaBu|《天龙八部》]], a sitcom reading of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], and [[TianLongBaBu|《天龙八部》]], two sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -28,7 +29,7 @@ Across the bounded sources, the show operates as an informal group reading or vi
 
 The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] finale extends the same method to an adventure-series ending: the hosts value the protagonists' friendship, self-knowledge, and retirement while arguing that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
 
-The [[WulinWaizhuan|《武林外传》]] discussion extends close reading from narrated plot and theme into audiovisual comic construction. The hosts track how storytelling, bad cooking, acute hearing, and tattooing are planted and returned; distinguish the false city heard by Li Dazui's mother from the silent ensemble coordination visible to viewers; and treat “好汉饶命” as both an expectation reversal and a character-consistent expression of maternal protection. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
+The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 ## Key Characteristics
 
@@ -38,7 +39,7 @@ The [[WulinWaizhuan|《武林外传》]] discussion extends close reading from n
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, historical-institutional, film, and television-comedy criticism with humor while making comparison standards, performance layers, and disagreements visible.
+- Mixes literary, historical-institutional, film, and television-comedy criticism with practical moral discussion while making evidence limits, performance layers, and disagreements visible.
 
 ## Evidence
 
@@ -82,19 +83,23 @@ The [[WulinWaizhuan|《武林外传》]] discussion extends close reading from n
 
 - [[112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt]] follows storytelling, cooking, hearing, and tattoo setups into later payoffs while separating the mother's audible false capital from the silent backstage coordination visible to viewers.
 
+### Comic escalation and practical argument
+
+- [[110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb]] uses rising noncash and cash-equivalent stakes, rejected exit points, and a final identity reveal to connect sitcom construction with an anti-gambling argument.
+
 ### Convergence framing and input limits
 
 - [[111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t]] maps chapters 41–43 of 《天龙八部》 as a convergence of three protagonists, three opposing figures, and the entrance of 扫地神僧, but the three-minute supplied opening contains no detailed analysis.
 
 ## Qualifications
 
-This profile rests on nine episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, traditional-knowledge claims, actor technique, and authorial intent come through cultural conversation rather than specialist or production verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, canon claims, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on ten episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, legal thresholds, addiction medicine, animal research, actor technique, and authorial intent come through cultural conversation rather than specialist, legal, clinical, or production verification. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Added a Shaoshi Mountain preview that maps late-novel convergence in 《天龙八部》.
-- Marked the three-minute input boundary explicitly because the promised detailed analysis is absent.
-- Preserved the earlier profile of literary, film, and television-comedy criticism.
+- Added a second 《武林外传》 case connecting comic escalation to an explicit anti-gambling argument.
+- Distinguished useful game-versus-wager boundaries from unverified legal, animal-research, and clinical claims.
+- Extended the show's profile from close reading into practical moral discussion without treating podcast commentary as specialist evidence.
 
 ## Relationships
 
@@ -123,4 +128,7 @@ This profile rests on nine episode notes and may not represent every format prod
 - [[NarrativeSetupAndPayoff]] - framework extracted from the return of storytelling, cooking, hearing, and tattoo details.
 - [[ExpectationReversalComedy]] - account of moral formulas, cultural templates, and disproportionate failure becoming jokes.
 - [[SoundLedComicDeception]] - framework for the false capital heard by one character and visibly manufactured for viewers.
+- [[BaiZhantang|白展堂]] - character whose escalating wagers expose the gap between playing for amusement and insisting on victory.
+- [[DuanzhiXuanyuan|断指轩辕]] - expert gambler whose staged lesson redirects skill toward abstinence.
+- [[GamblingEscalationLoop]] - framework extracted from wins, loss chasing, excuses, and increasing stakes.
 - [[TianLongBaBu|《天龙八部》]] - novel whose Shaoshi Mountain convergence is mapped in a short supplied opening.

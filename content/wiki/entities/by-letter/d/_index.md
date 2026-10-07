@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12586
+wiki_total_pages: 12588
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "DaiChangleWesternHan"
     title: "戴长乐 / Dai Changle (Western Han)"
     url: "/wiki/entities/daichanglewesternhan/"
+  - key: "DuanzhiXuanyuan"
+    title: "断指轩辕 / Duanzhi Xuanyuan"
+    url: "/wiki/entities/duanzhixuanyuan/"
   - key: "DuQiaoLateHan"
     title: "杜乔 / Du Qiao (late Han)"
     url: "/wiki/entities/duqiaolatehan/"

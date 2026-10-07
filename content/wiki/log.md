@@ -31286,3 +31286,11 @@ Added source `111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zd
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 110 《武林外传》：小赌怡情？最好的戒赌宣传片
+
+Added source `110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb`; created [[BaiZhantang|白展堂]], [[DuanzhiXuanyuan|断指轩辕]], and [[GamblingEscalationLoop|赌博升级循环]]; and resynthesized [[WulinWaizhuan|《武林外传》]], [[LiDazui|李大嘴]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: apparently trivial or noncash stakes can enter the same escalation sequence when wins encourage continuation, losses provoke recovery attempts, excuses reopen decisions to stop, and wagers acquire redeemable value. The episode distinguishes ordinary randomness and game scoring from money, property, labor, or other practical stakes, while using repeated exit points and 断指轩辕's debt cancellation to make abstinence—not superior technique—the dramatic lesson. No settled contradiction was adopted. The unidentified mouse experiment, legal thresholds, claim that gambling addiction cannot be cured, and theatrical dice mechanics remain unverified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,912 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
