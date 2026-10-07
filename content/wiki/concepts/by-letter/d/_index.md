@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9828
+wiki_total_pages: 9829
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "DignityProtectingDeduction"
     title: "体面保护式推理 / Dignity-Protecting Deduction"
     url: "/wiki/concepts/dignityprotectingdeduction/"
+  - key: "DeescalatoryEnvoySignaling"
+    title: "使者示弱式危机降温 / De-escalatory Envoy Signaling"
+    url: "/wiki/concepts/deescalatoryenvoysignaling/"
   - key: "DiplomaticRitualDignity"
     title: "使节礼节国威 / Diplomatic Ritual Dignity"
     url: "/wiki/concepts/diplomaticritualdignity/"

@@ -27648,6 +27648,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DeescalatoryEnvoySignaling": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DefaultDenySecurity": [
     {
       "key": "technology",

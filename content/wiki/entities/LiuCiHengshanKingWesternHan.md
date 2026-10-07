@@ -8,16 +8,17 @@ sources:
   - zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q
   - zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2
   - zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt
+  - zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-衡山王刘赐 / Liu Ci is the Western Han vassal king whose conflict with central authority and internal succession disorder converge in the destruction of his house. Hanji 304-2 traces how unlawful punishment, official review, and loss of appointment authority radicalize his resentment; Hanji 305-1 and 305-2 show household rivalry exposing his alleged preparations, while Hanji 303-2 gives a compressed, partly divergent account of his death during the Huainan crackdown.
+衡山王刘赐 / Liu Ci is the Western Han vassal king whose conflict with central authority, alliance with brother [[LiuAn|刘安]], and internal succession disorder converge in the destruction of his house. Hanji 295 adds recruitment, weapons preparation, and a secret fraternal pact; Hanji 304-2 traces how unlawful punishment, official review, and loss of appointment authority radicalize his resentment; Hanji 305-1 and 305-2 show household rivalry exposing the preparations, while Hanji 303-2 gives a compressed, partly divergent account of his death.
 
 ## Current Profile
 
-The three episodes present Liu Ci as impulsive, politically miscalibrated, and unable to distinguish personal status from lawful authority. He answers a subordinate's attempted move to central service with an unlawful death case, then accuses the 内史 who blocks it; the official's counter-report instead helps cost Liu Ci part of his senior appointment power. He also responds to [[LiuAn|刘安]]'s alleged plot by recruiting for himself rather than alerting the court. Inside the royal house, repeated allegations turn him against crown prince [[LiuShuangHengshanCrownPrince|刘爽]]; he confines the heir, favors [[LiuXiaoHengshanPrince|刘孝]], and entrusts Liu Xiao with bows, arrows, and chariots. Both sons ultimately expose him.
+The four episodes present Liu Ci as impulsive, politically miscalibrated, and unable to distinguish personal status from lawful authority. [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] says he first responds to Liu An's plot with defensive and expansionist preparation of his own, then reconciles with his formerly hostile brother and agrees to a joint rising. Hanji 304-2 adds that he answers a subordinate's attempted move to central service with an unlawful death case, then accuses the 内史 who blocks it; the official's counter-report instead helps cost Liu Ci part of his senior appointment power. Inside the royal house, repeated allegations turn him against crown prince [[LiuShuangHengshanCrownPrince|刘爽]]; he confines the heir, favors [[LiuXiaoHengshanPrince|刘孝]], and entrusts Liu Xiao with recruitment and matériel. Both sons ultimately expose him.
 
 The outcome is stable at the institutional level but not in its exact death wording. Hanji 305-2 says an imperial investigation orders Liu Ci and key family members to die before Hengshan is abolished. [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] compresses the sequence into discovery of his shared plotting with Liu An, fright, and suicide. Both support the destruction of the kingdom; the present notes do not decide whether “自尽” describes compliance with a death order or a different chronology.
 
@@ -25,6 +26,7 @@ The outcome is stable at the institutional level but not in its exact death word
 
 - Western Han vassal king moved from Lujiang to Hengshan after maintaining politically suspect southern contacts in the episode's account.
 - Royal ruler who treats subordinate mobility and central legal review as injuries to personal status.
+- Rival brother who moves from independent preparation to a secret joint-rising pact with Liu An.
 - Household head who allows rumor, sexual accusation, and succession rivalry to determine political trust.
 - Father who confines one son, arms another, and becomes exposed through both sons' denunciations.
 - Alleged conspirator whose military preparations become discoverable because family authority collapses.
@@ -38,6 +40,7 @@ Political and household misjudgment:
 - [[zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q|Hanji 305-2]] says accusations surrounding Xu Lai, Liu Shuang, Liu Xiao, and Liu Wucai repeatedly redirect his favor and punishment.
 
 External escalation:
+- [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] says Liu Ci recruits retainers, prepares weapons, gives Liu Xiao operational authority, reconciles with Liu An, agrees to rise jointly, and then avoids the required court visit by reporting illness.
 - [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] links rivalry with Liu An, parallel recruitment, misconduct exposure, and reduced appointment authority to the shift from defensive preparation toward direct anti-court ambition.
 
 Succession and weapons exposure:
@@ -49,11 +52,12 @@ Final disposition:
 
 ## Qualifications
 
-These are consecutive short episodes from one interpretive podcast series, not independent corroboration or a complete reign. Hanji 304-2 and 305-1 call him “恒山王刘次”; the canonical identity is normalized to 衡山王刘赐. The Lujiang transfer, Yue contacts, official jurisdiction, land and grave allegations, appointment threshold, precise dates, rebellion plan, recruitment, weapons program, legal procedure, confessions, and punishment are source-attributed pending primary-text comparison. Hanji 303-2's suicide and Hanji 305-2's ordered-death formulations remain unresolved rather than being flattened into one fact.
+These are consecutive short episodes from one interpretive podcast series, not independent corroboration or a complete reign. Hanji 295 calls him “刘刺,” while Hanji 304-2 and 305-1 call him “恒山王刘次”; the canonical identity is normalized to 衡山王刘赐. Hanji 295 compresses Xu Lai's succession preference toward Liu Xiao, whereas Hanji 305-1 and 305-2 say she ultimately wants her own son Liu Guang and supports Liu Xiao tactically. The Lujiang transfer, Yue contacts, official jurisdiction, land and grave allegations, appointment threshold, precise dates, rebellion plan, fraternal pact, recruitment, weapons program, court-visit illness, legal procedure, confessions, and punishment are source-attributed pending primary-text comparison. Hanji 303-2's suicide and Hanji 305-2's ordered-death formulations remain unresolved rather than being flattened into one fact.
 
 ## What Changed
 
-- The final judgment now records agreement on Hengshan's abolition while preserving the unresolved ordered-death versus suicide wording.
+- The profile now distinguishes hostile parallel preparation from the brothers' later reconciliation and secret joint-rising pact.
+- Liu Xiao's weapons role now begins before the later heir-replacement petition and household denunciations expose it.
 
 ## Relationships
 
@@ -63,6 +67,6 @@ These are consecutive short episodes from one interpretive podcast series, not i
 - [[LiuWucaiHengshanPrincess|刘无采]] - daughter whose private conduct becomes material in the household accusations.
 - [[JueJiHengshan|厥姬]] - favored consort whose earlier allegation helps ignite the conflict.
 - [[HengshanKingdomWesternHan|西汉衡山国]] - vassal kingdom whose abolition closes Liu Ci's rule.
-- [[LiuAn|淮南王刘安]] - elder brother and rival whose alleged plot prompts Liu Ci's own recruitment.
+- [[LiuAn|淮南王刘安]] - elder brother and rival whose alleged plot prompts independent recruitment before the brothers agree to rise together.
 - [[LiuChangHuainanKing|淮南王刘长]] - father whose rebellion forms the episode's family-political background.
 - [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - mechanism that destabilizes the established heir without producing a durable successor.

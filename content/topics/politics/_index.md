@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3154
+topic_total_pages: 3155
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4492,6 +4492,9 @@ topic_concepts:
   - key: "EnvoyGovernanceCredibilityCollapse"
     title: "使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse"
     url: "/wiki/concepts/envoygovernancecredibilitycollapse/"
+  - key: "DeescalatoryEnvoySignaling"
+    title: "使者示弱式危机降温 / De-escalatory Envoy Signaling"
+    url: "/wiki/concepts/deescalatoryenvoysignaling/"
   - key: "DiplomaticRitualDignity"
     title: "使节礼节国威 / Diplomatic Ritual Dignity"
     url: "/wiki/concepts/diplomaticritualdignity/"

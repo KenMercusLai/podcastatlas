@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc
   - zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug
   - zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds
+  - zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle to a political memory as a defeated royal conspirator. The rebellion case now has a continuous source-scoped chain: selective reception of intelligence and coercion of counsel, weak support and proliferating schemes, failed internal mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
+Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle to a political memory as a defeated royal conspirator. The rebellion case now has a continuous source-scoped chain: a retainer grievance and cautious imperial probe, limited punishment followed by renewed resentment, selective reception of intelligence and coercion of counsel, weak support and proliferating schemes, failed internal mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
 
 ## Current Profile
 
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] presents Liu An's circle as a knowledge-compilation world spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy. Later storytelling converts the politically defeated prince into an immortal figure, so textual patronage, political catastrophe, and religious memory remain related but distinct layers.
+
+[[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] supplies the first public-exposure stage. After Liu An and crown prince [[LiuQianHuainanCrownPrinceWesternHan|刘迁]] allegedly prevent [[LeiBeiWesternHan|雷被]] from seeking central military service, Lei Bei appeals to the court. Liu Qian proposes killing the investigating envoy if the mission proves punitive, but the envoy's deferential, narrow inquiry induces Liu An to withdraw the ambush and troops. The court removes two counties rather than prosecuting the unacted-upon rebellion allegation; Liu An interprets this limited punishment as humiliation and intensifies preparation. The episode therefore distinguishes immediate de-escalation from durable settlement.
 
 The political layer begins before those late plans. [[zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug|Hanji 302-1]] says Liu An rewards reports that the emperor lacks an heir or governs badly and becomes angry at contrary intelligence. When an adviser rendered as “吴皮” warns that rebellion will destroy the kingdom, Liu An allegedly imprisons the adviser's parents until he will discuss it. Comparison with Liu Bang's Qin-collapse opportunity and Liu Bi's later defeat temporarily stops Liu An, but not durably.
 
@@ -38,10 +41,10 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 ## Key Characteristics
 
 - Western Han prince and patron associated with a knowledge-compilation circle spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy.
+- Ruler who avoids an immediate clash when an envoy signals restraint but treats a limited territorial sanction as a reason for renewed preparation.
 - Ruler depicted as rewarding favorable political intelligence and coercing disconfirming counsel by imprisoning an adviser's parents.
 - Conspirator whose current source set depicts little princely or popular support before action.
 - Planner who overweights nominal manpower, passes, and analogies while underweighting leadership depletion, public incentives, and regime strength.
-- Planner who accumulates forged-authority, assassination, diversion, and mobilization schemes without a stable execution rule.
 - Royal leader unable to secure attendance from his own senior officials at the final mobilization attempt.
 - Prince whose inner circle produces early denunciation and late confession while unequal treatment of sons contributes to an internal rival-branch conflict.
 
@@ -51,6 +54,7 @@ Knowledge compilation and later reception:
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] connects Liu An's circle to the Huainanzi's philosophical, technical, astronomical, and alchemical range and to later ascent legends.
 
 Strategic base and operational failure:
+- [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] supplies Lei Bei's appeal, Liu Qian's proposed envoy ambush, the envoy-induced stand-down, removal of two counties, renewed resentment, and Liu An's later secret alliance with Liu Ci.
 - [[zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug|Hanji 302-1]] supplies selective acceptance of intelligence, coercion of an adviser, comparative warning from Qin collapse and the Seven States, and Liu An's temporary retreat.
 - [[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] supplies the formal-investigation trigger, Liu An's pass-and-force plan, his Chen Sheng–Wu Guang analogy, and Wu Bei's leadership, popular-support, and regime-capacity rebuttal.
 - [[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] supplies Wu Bei's negative support assessment, the one-in-ten estimate, Liu An's changing schemes, and the failed summons of senior kingdom officials.
@@ -67,12 +71,13 @@ Household fracture:
 
 ## Qualifications
 
-The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 302-1's reactions, coercion, troop comparison, temporary retreat, and household motives remain episode-attributed; its “吴皮” spelling is treated as a likely but unproved reference to Wu Bei, and the nephew's name is unresolved. Hanji 302-2's denunciation path, speeches, route plan, forces, arrest history, public-support judgment, and commander comparison also remain episode-attributed. Its “刘建” is not merged with the existing Jiangdu king of that name. Hanji 303-1's dialogue, schemes, corruptibility judgments, motives, and odds remain source-scoped. The joined evidence of weak support qualifies the later claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
+The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 295's ambush, envoy behavior, two-county penalty, renewed motive, and fraternal alliance remain episode-attributed; its title's tofu-invention claim is not treated as verified, and its 刘谦、刘刺、雷备 are normalized to the contextually identified Liu Qian, Liu Ci, and Lei Bei. Hanji 302-1's reactions, coercion, troop comparison, temporary retreat, and household motives remain episode-attributed; its “吴皮” spelling is treated as a likely but unproved reference to Wu Bei, and the nephew's name is unresolved. Hanji 302-2's denunciation path, speeches, route plan, forces, arrest history, public-support judgment, and commander comparison also remain episode-attributed. Its “刘建” is not merged with the existing Jiangdu king of that name. Hanji 303-1's dialogue, schemes, corruptibility judgments, motives, and odds remain source-scoped. The joined evidence of weak support qualifies the later claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
 ## What Changed
 
-- The profile now connects formal investigative exposure to Liu An's return from temporary retreat into armed-resistance planning.
-- His strategic error is sharpened from general plan proliferation to a specific overreliance on terrain, nominal manpower, and decontextualized rebellion precedents.
+- The case now begins with Lei Bei's grievance, a cautiously presented envoy mission, and an immediate stand-down rather than only with later formal exposure.
+- Limited punishment now appears as a failed off-ramp: it avoids immediate prosecution but deepens Liu An's resentment in the episode's account.
+- Liu An's relationship with Liu Ci now includes a later secret alliance after earlier hostility and parallel recruitment.
 
 ## Relationships
 
@@ -87,5 +92,6 @@ The current sources do not reconstruct Liu An's full biography, the Huainanzi's 
 - [[PlanningWithoutDecisionTimingLoss|谋而不断式时机丧失]] - operational pattern linking proliferating plans, exposure, and option decay.
 - [[MotivatedBias|动机偏差]] - selective weighting of political reports according to whether they support Liu An's imperial ambition.
 - [[LiuChangHuainanKing|淮南王刘长]] - father whose earlier royal rebellion supplies family-political background.
+- [[DeescalatoryEnvoySignaling|使者示弱式危机降温]] - immediate stand-down mechanism that protects the envoy without ending Liu An's preparation.
 - [[FangshuSystematization|方术系统化]] - broader organization of techniques and cosmological claims connected to Liu An's reception.
 - [[ChineseFolkReligionLayering|中国民间信仰层累]] - afterlife relationship through immortalization legend.

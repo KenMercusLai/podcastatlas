@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
 - [103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险](sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz.md) — 纸醉金迷FM从雮尘珠、明叔组队和山风蛊卦讲到轮回庙、食罪巴鲁与冰川入口，并以真实历史民俗和虚构知识的叠加解释《鬼吹灯》的可信感。
 - [104 金庸小说与隐士文化](sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo.md) — 纸醉金迷FM以金庸人物的主动、被迫、避祸与功成身退讨论归隐，并把空间退场推进为脱离角色、关系网络和物质依附的退出能力。
 - [105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城](sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we.md) — 纸醉金迷FM以蓝白水晶、狼王血与冰火鬼虫拆解铺垫回收，并把恶罗海城解释为鬼母记忆碎片构成的实体化城市。
@@ -16632,6 +16633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [De-escalatory Envoy Signaling / 使者示弱式危机降温](concepts/DeescalatoryEnvoySignaling.md) — 以尊重身份、窄化问讯和非惩罚性姿态避免调查对象把使者到来理解为即时攻击，同时区分眼前降温与长期解决。
 - [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。
 - [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。
 - [Medium-Specific Adaptation Salience / 媒介特定的改编显著性](concepts/MediumSpecificAdaptationSalience.md) — 不同媒介通过文字密度、内心活动、镜头强调、时长和可见动作改变线索显著性及叙事功能。

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [politics, defection, denunciation, leniency, deterrence]
 sources:
   - zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x
+  - zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw
 last_updated: 2026-10-07
 ---
 
@@ -14,7 +15,7 @@ last_updated: 2026-10-07
 
 ## Current Synthesis
 
-Hanji 304-1 contrasts [[LeiBeiWesternHan|雷被]] and [[WuBeiWesternHan|伍被]] inside the same Huainan crisis. Lei Bei's alleged early report arrives while the center still wants to avoid forcing [[LiuAn|刘安]] into open revolt during an external war. Wu Bei's later confession follows deeper participation and comes after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest, when disclosure is less scarce and self-protection more visible.
+Hanji 295 and 304-1 contrast [[LeiBeiWesternHan|雷被]] and [[WuBeiWesternHan|伍被]] inside the same Huainan crisis. Lei Bei's report begins as a concrete grievance over blocked military service and arrives while the center still wants to avoid forcing [[LiuAn|刘安]] into open revolt during an external war. The court can use his information, send a cautiously presented envoy, and impose a narrower territorial penalty. Wu Bei's later confession follows deeper participation and comes after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest, when disclosure is less scarce and self-protection more visible.
 
 The concept does not imply a stable legal rule that early defectors always survive. It identifies a political valuation problem: the same act of changing sides can be treated as useful intelligence at one stage and as insufficient mitigation at another, especially when [[ZhangTangWesternHan|张汤]]'s deterrence logic makes punishment itself part of governance.
 
@@ -29,6 +30,7 @@ The concept does not imply a stable legal rule that early defectors always survi
 ## Evidence
 
 Early intelligence and restraint:
+- [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] gives Lei Bei's appeal a specific origin, says it triggers investigation and observation, and shows the court separating a narrower provable offense from an unacted-upon rebellion allegation.
 - [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Lei Bei survived after early denunciation and attributes restraint toward Liu An to the court's wish to avoid a princely uprising during Xiongnu war.
 
 Late confession and deterrence:
@@ -36,11 +38,12 @@ Late confession and deterrence:
 
 ## Counterevidence & Qualifications
 
-The episode does not provide complete legal files for either man. Lei Bei's disclosure, the court's knowledge, the external-war rationale, Wu Bei's statutory mitigation claim, and Zhang Tang's precise argument remain source-scoped. The contrast therefore supports a timing-and-priority framework, not a settled rule or proof that Wu Bei consciously followed a long-planned double-agent strategy.
+The episodes do not provide complete legal files for either man. Hanji 295 narrates the grievance and investigation but not a full confession; Hanji 304-1 infers a broader disclosure partly from Lei Bei's survival. The court's knowledge, external-war rationale, legal basis for the two-county sanction, Wu Bei's statutory mitigation claim, and Zhang Tang's precise argument remain source-scoped. The contrast therefore supports a timing-and-priority framework, not a settled rule or proof that Wu Bei consciously followed a long-planned double-agent strategy.
 
 ## What Changed
 
-- Created the concept from the paired outcomes of Lei Bei's early denunciation and Wu Bei's late confession.
+- Lei Bei's early denunciation now has a concrete grievance, investigative sequence, and narrower sanction rather than being inferred only from his survival.
+- The distinction between useful early disclosure and late confession now includes the court's changing ability to observe, contain, and prosecute.
 
 ## Related Concepts
 
@@ -49,3 +52,4 @@ The episode does not provide complete legal files for either man. Lei Bei's disc
 - [[IrreversibleDefectionBinding|断路式策反绑定]] - contrast mechanism that makes realignment credible by closing the path back.
 - [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - evidentiary caution required before motive and liability are inferred from denunciation records.
 - [[KnownMisconductNonPunishment|知奸不除式威慑失效]] - related deterrence problem where tolerated misconduct changes future expectations.
+- [[DeescalatoryEnvoySignaling|使者示弱式危机降温]] - operational method used while early intelligence is valuable but immediate confrontation remains risky.
