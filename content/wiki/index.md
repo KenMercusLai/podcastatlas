@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb.md) — 张骞受命联络月氏，在堂邑父协助下穿越险地却被军臣单于扣留十年；节目以战争人口压力解释其草原成家，本期止于逃至大宛。
+- [《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？](sources/zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn.md) — 张汤童年“审鼠”故事被用作程序与惩罚意识的回溯性画像；其廷尉生涯则显示法条技术、儒学姿态、权贵网络与汉武帝意志如何结合，童年因果和具体制度细节保留来源边界。
 - [《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？](sources/zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh.md) — 以公孙弘的贫寒起点、拜相封侯和任内善终对照汉武帝朝丞相的罢免、治罪与死亡风险，同时保留十三人统计、转录姓名和生存原因的来源边界。
 - [《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法](sources/zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx.md) — 公孙弘禁弓提议在执法不对称、自卫与工具替代质疑中落败；节目并以危险任命、调离中枢和顺应君意解释其政治手腕与善终，但动机和因果保持来源边界。
 - [“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔](sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot.md) — 现场对谈以创业失败、创作愿望、ADHD、搬家、播客视频化和片场劳动说明“折腾”不保证成功，却能在显明成本下保留行动与重启空间。
@@ -4104,7 +4105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠、因牛腹帛书造假暴露，又因所谓关东现身与空棺被汉武帝重新解释为已成仙。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
-- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并以清名治理淮阳、预警张汤的西汉直臣。
+- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并在与张汤争辩时暴露道德原则难敌法条技术的西汉直臣。
 - [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降从霍去病的武装稳控进入长安仪式与分层受封，随后又因接纳成本和交易执法引发国内争议的匈奴王。
 - [休屠王 / Xiutu King (Western Han)](entities/XiutuKingWesternHan.md) — 与浑邪王共谋降汉后因承诺和河西利益分化而败亡、其子金日磾后来进入汉廷叙事的匈奴王。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
@@ -6179,7 +6180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
 - [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
-- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 从汲黯对其迎合君意、舞文弄法的预警，到颜异案、偏私疑云、持续树敌与死后反向清算，呈现实际权力、严酷执法和政治司法的缠绕。
+- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 从童年“审鼠”的回溯性画像与廷尉时期迎合君意、经营关系，到颜异案、偏私疑云、持续树敌与死后反向清算，呈现法条技术、实际权力和政治司法的缠绕。
 - [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose early anti-haoqiang success and later retaliatory abuse make him a power-boundary case.
 - [尹翁归 / 尹翁规 / Yin Wenggui (Western Han)](entities/YinWengguiWesternHan.md) — Western Han clean and strict official used as Zhao Guanghan's more orderly local-governance contrast.
 - [张延寿 / Zhang Yanshou (Western Han)](entities/ZhangYanshouWesternHan.md) — Zhang Anshi's son, sent outward to Beidi as part of Zhang-family visibility management in Hanji 431.
@@ -16756,7 +16757,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Commodification Through Work / 劳动中的自我商品化](concepts/SelfCommodificationThroughWork.md) — Market exchange expands from skill and time into personality, popularity, visibility, and the felt value of the person.
 - [Psychological Time Stagecraft / 心理时间舞台化](concepts/PsychologicalTimeStagecraft.md) — Scenery, movement, light, and sound make memory, fantasy, and present action coexist visibly on stage.
 - [Delegated Agent Interaction](concepts/DelegatedAgentInteraction.md) — Shift from question answering to outcome delegation, with model-directed execution bounded by workflow value, permissions, review, and human accountability.
-- [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
+- [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为治理绩效，并以法条、意识形态姿态和关系网络把君意翻译为程序化裁判的机制。
 - [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给、作战距离与替补能力重新检验；战术奏效也不等于战略能力可以无限重复。
 - [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
 - [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须承担战争、财政、战略与朝廷协调；共同风险环境仍可产生罢免、治罪、死亡与善终等不同机制和结果。
@@ -19066,7 +19067,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persona-Shielded Political Purge / 人设护盾式政治清除](concepts/PersonaShieldedPoliticalPurge.md) — Pattern where a dominant actor removes an obstacle through respected intermediaries, proxy accusation, public-order language, and staged restraint to preserve moral persona.
 - [帝王停灵防腐 / Imperial Funerary Preservation](concepts/ImperialFuneraryPreservation.md) — Ritual-and-material pattern where extended imperial停灵 requires washing, disinfection, fragrant bathing, aromatics, drying agents, grave goods, and coffin sealing before burial.
 - [强制边疆震慑 / Coercive Frontier Deterrence](concepts/CoerciveFrontierDeterrence.md) — Frontier-control pattern where envoy-party violence, targeted killing, public execution, and anti-harboring rules produce deterrence with trust costs.
-- [君意即法 / Ruler Will as Law](concepts/RulerWillAsLaw.md) — Legal-political pattern where an official treats the ruler's current intent as the operative law rather than an autonomous written standard.
+- [君意即法 / Ruler Will as Law](concepts/RulerWillAsLaw.md) — 君主当下意志成为实际裁判标准，且可由法律专家以技术语言包装为规则适用的政治—法律模式。
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
 - [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.

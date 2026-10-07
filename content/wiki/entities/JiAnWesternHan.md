@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak
   - zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5
   - zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir
+  - zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn
 last_updated: 2026-10-07
 ---
 
@@ -33,6 +34,8 @@ The same episode says more than five hundred Han merchants are condemned to deat
 
 Before departure, Ji warns [[LiXiWesternHan|李息]] that Zhang Tang blocks advice, decorates error, tracks imperial preferences, and expands punitive government. Li's fear keeps the warning private. The joined profile therefore treats Ji's frankness as a consistent test of public purpose across surrender, law, ritual, personnel, and administration. He survives not because he stops criticizing, but because clean conduct, useful reputation, and local capacity preserve value even after direct advisory access is denied.
 
+Hanji 288 supplies a more direct courtroom version of that conflict. Ji reportedly argues that Zhang cannot strengthen inherited institutions or settle the people, but instead disorders earlier law and traps debate in technical wording. Zhang's command of specialist terminology defeats Ji at the level of clause-by-clause argument without answering Ji's public-purpose objection. This adds a method boundary to Ji's profile: moral and political principle can expose what punitive legality is doing while still lacking the technical leverage to defeat it inside the legal forum.
+
 Hanji 314-2 makes that relationship explicit: Wudi is said to send Ji away because direct criticism is hard to bear, then recall him because he cannot dispense with its corrective value. It also supplies a source-attributed early career sketch and says Ji's recorded exchanges seek no private favor. The claim that Wudi became unrestrained after Ji's death is a useful warning about dependence on a single critic, but the current evidence cannot prove that counterfactual or reduce Wudi's later governance problems to one missing adviser.
 
 Ji's court etiquette supplies a mechanism behind that corrective standing. When other officials defer heavily to the newly powerful Wei Qing, Ji refuses to bow and argues that a great general benefits from keeping an equal-standing guest. Wei reportedly accepts the claim and repeatedly seeks Ji's advice. Wudi's informality before Wei Qing and [[GongsunHong|公孙弘]] is then contrasted with his unwillingness to receive Ji while bareheaded or sitting improperly; in the culminating anecdote, Wudi avoids the audience and approves Ji's request through an attendant rather than let Ji witness him without proper form. [[zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir|Hanji 294-1]] supplies both comparisons.
@@ -47,7 +50,7 @@ This does not show Ji holding more formal power than general or emperor. It adds
 - Draws visitors while powerful and loses them after dismissal and impoverishment.
 - Seeks to remain near Han Wudi so he can correct omissions and participate in court deliberation.
 - Is assigned to Huaiyang because the emperor believes his reputation can stabilize strained local governance.
-- Maintains equal-standing etiquette toward Wei Qing and, in the episode's account, makes both general and emperor respond to his reputation rather than his formal power.
+- Maintains equal-standing etiquette toward Wei Qing and challenges Zhang Tang's technical legality from public principle, making superiors and specialist officials confront a moral authority that lacks equivalent formal or technical power.
 
 ## Evidence
 
@@ -67,6 +70,7 @@ Court access and outward assignment:
 - [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Ji asks to stay near the emperor as a zhonglang, but Wudi sends him to Huaiyang because his reputation can settle official-popular conflict.
 
 Warning about Zhang Tang:
+- [[zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn|Hanji 288]] says Ji attacks Zhang for disordering inherited law and producing fear, but cannot match Zhang's clause-level technical argument.
 - [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Ji gives Li Xi a detailed warning about Zhang's rejection of advice, alignment with imperial desire, legal manipulation, and punitive authority.
 
 Corrective value despite ruler discomfort:
@@ -83,13 +87,13 @@ Local service and final outcome:
 
 ## Qualifications
 
-Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; Hanji 314-2 transcribes him as “几岸”; Hanji 294-1 repeatedly renders him “己案.” The page normalizes these forms to 汲黯 from the joined biographical chain. The six sources do not establish his full biography, ancestry, education, exact office sequence, wealth, every exchange with Wudi, the mechanics of governance by reputation, or the exact family appointments. Hanji 294-1 does not independently establish the exact etiquette, chronology, number of consultations, Wudi's dress or posture, the “武帐” setting, or whether imperial avoidance expresses fear, respect, embarrassment, or retrospective moralizing; “公孙洪” is normalized to 公孙弘, while likely “庄助” remains unlinked pending direct collation. Hanji 314-1 does not establish the exact frontier statute, whether all merchant death sentences were executed, or that Ji's later removal was retaliation; its legal, fiscal, and numerical details remain source-scoped. Hanji 314-2's ironware specification, public-affairs-only claim, removal-and-recall account, and posthumous causal link also remain episode-attributed. Hanji 333-2 supports Ji's warning before Zhang's later fall but not access to Zhang's private intent. Hanji 318 does not establish the horse's miraculous nature, completed ancestral-temple performance, the merits of every punished official, or a full severity-to-shortage causal chain. Claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
+Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; Hanji 314-2 transcribes him as “几岸”; Hanji 294-1 repeatedly renders him “己案.” The page normalizes these forms to 汲黯 from the joined biographical chain. The seven sources do not establish his full biography, ancestry, education, exact office sequence, wealth, every exchange with Wudi, the mechanics of governance by reputation, or the exact family appointments. Hanji 288 does not establish the full debate, precise laws at issue, verbatim dialogue, or whether Ji's inability to answer technical clauses means legal ignorance, genre contrast, or retrospective moral framing. Hanji 294-1 does not independently establish the exact etiquette, chronology, number of consultations, Wudi's dress or posture, the “武帐” setting, or whether imperial avoidance expresses fear, respect, embarrassment, or retrospective moralizing; “公孙洪” is normalized to 公孙弘, while likely “庄助” remains unlinked pending direct collation. Hanji 314-1 does not establish the exact frontier statute, whether all merchant death sentences were executed, or that Ji's later removal was retaliation; its legal, fiscal, and numerical details remain source-scoped. Hanji 314-2's ironware specification, public-affairs-only claim, removal-and-recall account, and posthumous causal link also remain episode-attributed. Hanji 333-2 supports Ji's warning before Zhang's later fall but not access to Zhang's private intent. Hanji 318 does not establish the horse's miraculous nature, completed ancestral-temple performance, the merits of every punished official, or a full severity-to-shortage causal chain. Claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
 
 ## What Changed
 
-- Added equal-standing etiquette toward Wei Qing as a nonflattery case that reportedly produces respect and advice-seeking rather than rupture.
-- Added the episode's ritual mechanism for Wudi's caution: cap, posture, and audience form become sites of self-regulation around Ji.
-- Distinguished moral constraint from formal power and qualified “fear” as an interpretation rather than a known private emotion.
+- Added the direct legal confrontation in which Ji attacks Zhang Tang's public effects but cannot defeat his specialist use of statutes.
+- Distinguished moral diagnosis from technical leverage: principle can identify fear-producing legality without controlling its forum.
+- Kept Ji's quotations, the laws at issue, and the reported debate outcome source-scoped.
 
 ## Relationships
 

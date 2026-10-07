@@ -31520,3 +31520,10 @@ Added source `zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-du
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？
+
+Added source `zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn`; and resynthesized [[ZhangTangWesternHan|张汤]], [[JiAnWesternHan|汲黯]], [[HarshOfficialInstrumentalRule|酷吏工具化统治]], and [[RulerWillAsLaw|君意即法]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the childhood mouse trial is retained as retrospective character framing rather than developmental proof, while the stronger institutional contribution is that Zhang's legal expertise, learned presentation, elite ties, and attention to imperial preference turn ruler-desired punishment or mercy into apparently procedural adjudication. No settled contradiction was adopted. The anecdote's details and causality, exact cases, offices, quotations, legal provisions, relationship network, and frontier-policy chronology remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,942 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
