@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12606
+wiki_total_pages: 12608
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "Qianzhong"
     title: "黔中 / Qianzhong"
     url: "/wiki/entities/qianzhong/"
+  - key: "QiLiwangWesternHan"
+    title: "齐厉王 / King Li of Qi (Western Han)"
+    url: "/wiki/entities/qiliwangwesternhan/"
   - key: "QiXiangdong"
     title: "齐向东 / Qi Xiangdong"
     url: "/wiki/entities/qixiangdong/"

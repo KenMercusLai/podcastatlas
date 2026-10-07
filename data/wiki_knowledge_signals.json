@@ -137851,6 +137851,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/liudanzhaoprincewesternhan/"
     },
+    "LiuDingguoYanKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liudingguoyankingwesternhan/"
+    },
     "LiuDuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -138827,9 +138843,9 @@
       "url": "/wiki/entities/liupenglijidongkingwesternhan/"
     },
     "LiuPengzuZhaoKingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
@@ -138851,9 +138867,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liupengzuzhaokingwesternhan/"
     },
     "LiuPenziEasternHan": {
@@ -176704,6 +176727,64 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/personalredemptionstructurallimit/"
     },
+    "PersonalRevengeThroughStatePower": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段 [lmQKy6G3qi9NKlPdNYe4lK5rRBZ6].md",
+          "key": "zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3） [lsrMq1_rJqnsJa8G07bHAQVHxHPI].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇 [liU7gBL-bfFKnKw6dX5UdqcQ4tCM].md",
+          "key": "zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/personalrevengethroughstatepower/"
+    },
     "PersonalRiskTrustSignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -187743,6 +187824,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/qatarismallstatesecuritystrategy/"
     },
+    "QiLiwangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/qiliwangwesternhan/"
+    },
     "QiXiangdong": {
       "episode_count": 1,
       "show_count": 1,
@@ -198374,9 +198471,9 @@
       "url": "/wiki/concepts/royalkinshippenaltymitigation/"
     },
     "RoyalKinshipScandalAdjudication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
@@ -198384,9 +198481,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/royalkinshipscandaladjudication/"
     },
     "RoyalMinorityCustodyPolitics": {
@@ -258932,6 +259036,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhufueasternhan/"
+    },
+    "ZhuFuYan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
+          "key": "zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2） [lgRSvV0SRpnKUFLnuMVNpgTaM5a3].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/zhufuyan/"
     },
     "ZhuGaiLateHan": {
       "episode_count": 2,

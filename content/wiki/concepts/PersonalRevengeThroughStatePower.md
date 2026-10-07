@@ -1,56 +1,77 @@
 ---
 title: "Personal Revenge Through State Power / 以国力行私仇"
 type: concept
-tags: [revenge, statecraft, diplomacy, court-politics, warring-states]
-sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
-last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
+tags: [revenge, statecraft, diplomacy, court-politics, coercion]
+sources:
+  - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
+  - zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku
+  - zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi
+  - zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm
+  - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
+last_updated: 2026-10-07
 ---
 
-# Personal Revenge Through State Power / 以国力行私仇
+## Definition
 
-[[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] adds an earlier late-Han palace-retaliation variant. [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]]'s old grievance against [[DouWuLateHan|窦武]] becomes actionable when [[DongMengLateHan|董萌]] speaks for [[EmpressDowagerDouMiao|窦皇太后]]; they recode that pro-Dou speech as slander against [[EmpressDowagerDongLateHan|董太后]], and Dong Meng is imprisoned and killed.
+Personal revenge through state power / 以国力行私仇 is the pattern in which private injury, resentment, debt, or humiliation is pursued through public office, diplomacy, investigation, military force, or criminal accusation, allowing personal punishment to travel inside an apparently legitimate state action.
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a late-Han court-brokerage variant. [[WangFuLateHan|王甫]]'s private grievance against [[LiuKuiBohaiKing|刘亏]] begins as an unpaid restoration fee, but Wang turns it into a state treason case by monitoring Liu's network, using [[LianZhongLateHan|廉中]]'s forged evidence, and getting [[EmperorLingOfHan|汉灵帝]] to send official interrogation into [[BohaiKingdomLateHan|Bohai]]. Unlike Fan Ju's interstate pressure, this branch uses inner-court access and criminal accusation as the public machinery of private revenge.
+## Current Synthesis
 
-Personal revenge through state power / 以国力行私仇 is the pattern [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] draws from [[FanJu|范雎]] after he becomes powerful in [[QinState|秦国]]. Fan Ju's targets, [[XuJia|须贾]] and [[WeiQiWarringStates|魏齐]], are personal enemies from his earlier ordeal in [[WeiState|魏国]], but his leverage comes from Qin's diplomatic and military pressure.
+The current source set spans ministerial, ruler, court-brokerage, and warlord variants. [[FanJu|范雎]] supplies the clearest diplomatic model: his revenge against [[XuJia|须贾]] and [[WeiQiWarringStates|魏齐]] travels along Qin's existing [[YuanjiaoJingongStrategy|远交近攻]] pressure on Wei. Humiliation, demands for a fugitive's head, detention of [[Pingyuanjun|平原君]], and threat of war become public strategy and private settlement at once.
 
-The pattern is not simple abuse of office in isolation. It works because Fan Ju's private agenda travels along a real state strategy: [[YuanjiaoJingongStrategy|远交近攻]] already makes Wei a nearby Qin target, so forcing Wei to negotiate, humiliating its envoy, and threatening [[Daliang|大梁]] can be described as Qin policy while also serving personal vengeance.
+[[QinShiHuang|嬴政 / 秦始皇]] and [[CaoCao|曹操]] show how ruler or commander capacity magnifies the scale. Ying Zheng uses the capture of Handan to kill people tied to childhood grievance, with textual uncertainty over the punishment's exact severity. Cao Cao answers the real killing of [[CaoSong|曹嵩]] and [[CaoDeLateHan|曹德]] through a Xuzhou campaign whose violence falls on cities and an already displaced civilian population. Genuine injury can therefore explain retaliation without bounding its targets or moral cost.
 
-The episode distinguishes two forms of revenge. Against Xu Jia, Fan Ju chooses recognition, fear, and public humiliation over killing; the robe gift lets him preserve a trace of mercy while still destroying Xu Jia's status. Against Wei Qi, he escalates from personal hatred to interstate demand, turning a fugitive minister into a problem for [[Pingyuanjun|平原君]] and [[ZhaoState|赵国]].
+The inner-court case makes institutional recoding especially visible. [[WangFuLateHan|王甫]] turns [[LiuKuiBohaiKing|刘亏]]'s unpaid access-brokerage debt into a treason case supported by forged evidence; official interrogation, suicide, collateral punishment, and rewards transform private collection into state merit. Hanji 284 adds a Western Han ministerial version. After a rejected marriage connection, [[ZhuFuYan|主父偃]] combines [[QiLiwangWesternHan|齐厉王]]'s alleged incest with Linzi's wealth and distant royal kinship, then uses his appointment as Qi chancellor to conduct the coercive inquiry that precedes the king's suicide.
 
-[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] completes the Wei Qi branch. [[QinZhaoxiangwang|秦昭襄王]] detains Pingyuanjun to force [[ZhaoDan|赵丹 / 赵孝成王]] to produce Wei Qi, so Fan Ju's personal revenge now uses hostage diplomacy and threat of war, not only Qin's pressure on Wei. The result is effective but morally unstable: the source also gives dignity to [[YuQing|虞卿]], [[Xinlingjun|信陵君]], and [[HouYing|侯嬴]], who try to preserve the friendship/asylum side against Fan Ju's demand.
-
-[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] explains why Fan Ju's revenge belongs to a broader Warring States value system rather than only to personal cruelty. Through [[SimaQian|司马迁]]'s formula about repaying kindness and resentment, the source reads Fan Ju as one version of a world where debts of honor and injury demand visible settlement.
-
-That source also adds a mobility layer. Fan Ju's low birth and earlier humiliation make the revenge historically striking: a disrupted age lets a blocked outsider acquire office and use a major state to confront former elites. The concept therefore touches [[WarringStatesCareeristMobility|乱世职业经理人式流动]] as well as revenge statecraft.
-
-[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] adds a ruler-level version through [[QinShiHuang|嬴政 / 秦始皇]]. After [[WangJianQin|王翦]] captures [[Handan|邯郸]], Ying Zheng personally goes there and kills people connected to old enmity from his youth in the Zhao capital. Unlike Fan Ju's ministerial revenge routed through Qin diplomacy, this case makes the conquering ruler's private memory part of what happens to a captured city.
-
-[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] adds a late-Han warlord version through [[CaoCao|曹操]]. Unlike Fan Ju's diplomatic revenge or Qin Shi Huang's conquered-city memory, Cao Cao's father [[CaoSong|曹嵩]] and brother [[CaoDeLateHan|曹德]] are killed first; the danger comes when that real family loss is answered with the armed capacity of a regional power. The resulting [[XuzhouMassacreLateHan|徐州屠杀]] shows private grief scaling into civilian catastrophe through command authority.
+Across the sources, private revenge is most scalable when it overlaps a plausible public interest: frontier strategy, conquered-city discipline, royal-fief control, treason prevention, military deterrence, or criminal inquiry. That overlap does not make every allegation false or every public goal unreal. It makes motive, proportionality, evidence quality, target expansion, and collateral harm essential to judgment.
 
 ## Key Claims
-- Hanji 898 adds that palace resentment can become fatal when old factional grievance is routed through accusation against a ruler's mother.
-- Hanji 903 adds that inner-court brokerage can let private debt enforcement become official treason punishment.
-- Personal vengeance becomes more dangerous when it can be routed through an already plausible state interest.
-- Diplomatic theater can punish a target more effectively than execution when reputation and status are the main objects.
-- Mercy can coexist with humiliation; sparing Xu Jia does not make the revenge non-punitive.
-- A demand aimed at one person can spread risk across states when the target finds aristocratic refuge.
-- The concept is adjacent to [[PrivatePunishmentWithoutProcedure|无程序私刑]] but reverses the power relation: the earlier victim later controls the state-facing machinery of punishment.
-- Hostage diplomacy can extend private revenge once the target's host is valuable enough for a stronger state to detain.
-- The revenge ethic can share roots with gratitude and recognition ethics; the problem is not only hatred, but a whole repayment culture.
-- Disorder can make revenge more scalable by letting low-status talent gain state power.
-- Ruler-level revenge can attach personal childhood grievance directly to a conquest endpoint, making a captured city the site of private settlement under public authority.
-- A real family killing can still become politically catastrophic when a commander answers it through regional military capacity rather than bounded punishment.
 
-## Connections
-- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]], [[DongMengLateHan|董萌]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[DouWuLateHan|窦武]], and [[EmpressDowagerDouMiao|窦皇太后]] - old anti-Dou grievance recoded as fatal palace accusation.
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[WangFuLateHan|王甫]], [[LiuKuiBohaiKing|刘亏]], [[LianZhongLateHan|廉中]], [[BohaiKingdomLateHan|渤海王国]], and [[TreasonAccusationTrap|谋反指控陷阱]] - unpaid access brokerage recast as state treason punishment.
-- [[FanJu|范雎]] - source case for private revenge embedded in Qin policy.
-- [[XuJia|须贾]] and [[WeiQiWarringStates|魏齐]] - targets of the two revenge stages.
-- [[QinState|秦国]], [[WeiState|魏国]], [[Daliang|大梁]], and [[YuanjiaoJingongStrategy|远交近攻]] - public strategic setting.
-- [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoState|赵国]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - asylum problem created by the demand for Wei Qi.
-- [[PrivatePunishmentWithoutProcedure|无程序私刑]] and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - neighboring patterns where private motive and public power become entangled.
-- [[YuQing|虞卿]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 figures and concept that complicate simple revenge judgment.
-- [[SimaQian|司马迁]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 repayment culture, mobility, and state-order limits.
-- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[Handan|邯郸]], and [[QinState|秦国]] - ruler-level revenge after the Zhao capital's capture.
-- [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]], [[CaoCao|曹操]], [[CaoSongMurder|曹嵩遇害]], [[XuzhouMassacreLateHan|徐州屠杀]], and [[Xuzhou|徐州]] - late-Han warlord revenge and civilian devastation branch.
+- Private revenge becomes especially dangerous when it can be routed through a real public policy, security concern, or legal process.
+- The public-private overlap does not require the official rationale to be invented; a genuine state interest can still be exploited for personal settlement.
+- State machinery expands both reach and collateral harm, spreading risk from the original target to hosts, families, officials, fiefs, cities, and civilians.
+- Accusation and investigation are revenge instruments when private grievance shapes case selection, evidence production, or coercive procedure.
+- Real injury can explain retaliation without establishing proportionality, accurate attribution, or legitimate target scope.
+- Recognition and repayment ethics can make revenge intelligible while competing duties to office, law, asylum, and civilian protection remain active.
+
+## Evidence
+
+Revenge embedded in diplomacy:
+- [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm|Zhouji 90]] shows Fan Ju using Qin's pressure on Wei to humiliate Xu Jia and demand Wei Qi's head.
+- [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi|Zhouji 95 part 3]] shows Qin Zhaoxiang Wang detaining Pingyuanjun to force Zhao to surrender Wei Qi.
+- [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]] places Fan Ju's revenge inside a wider gratitude-and-resentment ethic and preserves Xun Yue's public-duty critique.
+
+Ruler and commander escalation:
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]] says Ying Zheng returns to conquered Handan to punish people associated with childhood grievances.
+- [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] links the killing of Cao Cao's father and brother to the Xuzhou campaign and civilian massacre.
+
+Accusation and official investigation:
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] shows Wang Fu converting an unpaid brokerage promise into a forged treason accusation, official inquiry, suicide, purge, and court reward.
+- [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Zhufu Yan joins a rejected marriage proposal to royal-scandal and territorial arguments, then extracts testimony in Qi through torture.
+
+## Counterevidence & Qualifications
+
+- The concept does not imply that every public rationale is fraudulent. Qin had a real strategy toward Wei and Zhao, the Qi king faced a serious allegation, Cao Song and Cao De were actually killed, and treason was a legitimate court concern even though Wang Fu's evidence was forged.
+- Motives are source-attributed and often reconstructed. The pages do not provide direct access to Fan Ju's, Ying Zheng's, Cao Cao's, Wang Fu's, or Zhufu Yan's complete inner reasoning.
+- Qinji 114-1 preserves a textual difference between killing and burying victims in Handan; Hanji 971 preserves competing attributions for Cao Song's murder. Neither uncertainty removes the revenge pattern, but both limit factual precision.
+- Zhouji 95 part 4 shows that revenge belongs to a broader repayment ethic also capable of producing loyalty and sacrifice. The concept identifies institutional danger, not a claim that every historical actor regarded revenge as illegitimate.
+- Hanji 284 does not independently verify the Qi sexual allegation or the torture-derived testimony, and the rejected-marriage explanation should remain distinct from the memorial's public arguments.
+
+## What Changed
+
+- Migrated the concept to the synthesis-v1 schema using its complete preserved source inventory.
+- Added Zhufu Yan's Qi investigation as a Western Han ministerial and prosecutorial variant.
+- Distinguished false public pretext from the more common overlap of real public interest and private grievance.
+- Centered evidence quality, proportionality, target expansion, and collateral harm as the main judgment tests.
+
+## Related Concepts
+
+- [[PublicDutyOverPrivateGrievance]] - inverse discipline that refuses to let resentment decide official action.
+- [[RoyalKinshipScandalAdjudication]] - royal-house procedure problem activated in the Zhufu Yan and Qi king case.
+- [[TreasonAccusationTrap]] - accusation mechanism used to recode Wang Fu's private debt dispute as state security.
+- [[PrivatePunishmentWithoutProcedure]] - neighboring pattern where private coercion operates without the formal state route emphasized here.
+- [[AristocraticFriendshipStateConflict]] - competing guest-protection and honor duty exposed by Fan Ju's demand for Wei Qi.
+- [[TextualVariantPoliticalStakes]] - source-critical guardrail for the severity of Ying Zheng's Handan punishment.

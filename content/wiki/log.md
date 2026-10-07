@@ -31535,3 +31535,11 @@ Added source `zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-du
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）
+
+Added source `zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3`; created [[LiuDingguoYanKingWesternHan|燕王刘定国]] and [[QiLiwangWesternHan|齐厉王]]; and resynthesized [[ZhuFuYan|主父偃]], [[LiuPengzuZhaoKingWesternHan|赵敬肃王刘彭祖]], [[RoyalKinshipScandalAdjudication|宗室亲属丑闻审理]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: knowledge of princely-household scandal can become political leverage, but the Qi case makes official investigation inseparable from source-attributed private resentment, coercive testimony, territorial interest, and princely preemption. No settled contradiction was adopted. The sexual allegations, private motives, torture-derived testimony, bribery charge, exact legal process, and causal path to both kings' deaths remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,944 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

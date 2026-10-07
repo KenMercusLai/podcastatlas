@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2593
+topic_total_pages: 2592
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1054,9 +1054,6 @@ topic_concepts:
   - key: "PersonalArchiveAsHistory"
     title: "Personal Archive As History"
     url: "/wiki/concepts/personalarchiveashistory/"
-  - key: "PersonalRevengeThroughStatePower"
-    title: "Personal Revenge Through State Power / 以国力行私仇"
-    url: "/wiki/concepts/personalrevengethroughstatepower/"
   - key: "PhoenicianIdentityDebate"
     title: "Phoenician Identity Debate / 腓尼基认同之争"
     url: "/wiki/concepts/phoenicianidentitydebate/"

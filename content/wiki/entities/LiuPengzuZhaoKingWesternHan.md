@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto
   - zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-赵敬肃王刘彭祖 / Liu Pengzu, Zhao King is [[HanWudi|汉武帝]]'s elder half-brother, king of Zhao, father of [[LiuDanZhaoPrinceWesternHan|赵太子刘丹]], and a long-ruling prince portrayed as harsh and legally cunning. The current sources span his accusation against [[ZhangTangWesternHan|张汤]], his defense of Liu Dan, and the later [[NuoJiWesternHan|淖姬]] succession branch.
+赵敬肃王刘彭祖 / Liu Pengzu, Zhao King is [[HanWudi|汉武帝]]'s elder half-brother, king of Zhao, father of [[LiuDanZhaoPrinceWesternHan|赵太子刘丹]], and a long-ruling prince portrayed as harsh and legally cunning. The current sources span his preemptive accusation against [[ZhuFuYan|主父偃]], his later accusation against [[ZhangTangWesternHan|张汤]], his defense of Liu Dan, and the [[NuoJiWesternHan|淖姬]] succession branch.
 
 ## Current Profile
 
-Hanji 338-2 adds the earliest current layer. The episode says Zhang Tang's salt-and-iron-related policy pressure damages the revenue base Zhao had derived from smelting and casting. Liu Pengzu then uses Zhang's personal visit and foot massage for favored clerk [[LuYezhuWesternHan|鲁谒居]] to allege that the two share a hidden scheme. The evidence supports a politically consequential accusation and Liu Pengzu's ability to weaponize visible intimacy; it does not establish that the massage itself proves criminal collusion or that fiscal loss was his only motive.
+Hanji 284 now adds the earliest current layer. After [[LiuDingguoYanKingWesternHan|刘定国]] and [[QiLiwangWesternHan|齐厉王]] die following accusation or investigation by Zhufu Yan, Liu Pengzu fears that Zhao will be next. The episode says he attacks first by reporting that Zhufu Yan accepts large bribes and forced the Qi king's death. This establishes preemption under perceived princely threat, but it does not settle the truth of every charge or prove that fear was his only motive.
+
+Hanji 338-2 supplies a later accusation pattern. The episode says Zhang Tang's salt-and-iron-related policy pressure damages the revenue base Zhao had derived from smelting and casting. Liu Pengzu then uses Zhang's personal visit and foot massage for favored clerk [[LuYezhuWesternHan|鲁谒居]] to allege that the two share a hidden scheme. The evidence supports a politically consequential accusation and Liu Pengzu's ability to weaponize visible intimacy; it does not establish that the massage itself proves criminal collusion or that fiscal loss was his only motive.
 
 Hanji 382-1 presents Liu Pengzu as a royal father caught between a damaging heir and central authority. [[JiangChongWesternHan|江充]], then Jiang Qi, enters his circle because Jiang's sister marries Liu Dan. After Jiang accuses Liu Dan in Chang'an, Liu Pengzu calls him an unreliable fugitive and then offers to serve on the frontier to save his son. The episode says the plea changes the outcome from death to demotion.
 
@@ -25,14 +28,17 @@ Hanji 382-2 adds a later household and succession profile. Liu Pengzu is describ
 ## Key Characteristics
 
 - Western Han Zhao king and elder half-brother of Han Wudi in the episodes' family frame.
+- Reports Zhufu Yan after reading the Yan and Qi royal deaths as a warning that Zhao may be targeted next.
 - Reports Zhang Tang by treating unusually personal care for Lu Yezhu as evidence of concealed collusion.
 - Father of Liu Dan and early patron-context figure for Jiang Chong/Jiang Qi.
 - Offers frontier service as a plea to save Liu Dan from execution.
 - Described as harsh, legally cunning, and dangerous to officials serving in Zhao.
-- Later obtains Nuo Ji and fathers Liu Naozi.
-- Leaves an unsettled succession in which Liu Naozi is rejected and Liu Chang selected.
+- Later obtains Nuo Ji, fathers Liu Naozi, and leaves an unsettled succession in which Liu Naozi is rejected and Liu Chang selected.
 
 ## Evidence
+
+Preemptive report against Zhufu Yan:
+- [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Liu Pengzu fears becoming the next target after the Yan and Qi cases and accuses Zhufu Yan of bribery and forcing Liu Cichang's death.
 
 Zhang Tang accusation:
 - [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] links Liu Pengzu's hostility to Zhao's lost smelting-and-casting revenue and says he reports Zhang's foot massage for Lu Yezhu as a sign of hidden wrongdoing.
@@ -49,16 +55,19 @@ Succession endpoint:
 
 ## Qualifications
 
-This page is bounded to three compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 338-2's fiscal motive and inference from personal intimacy remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that Zhang and Lu's entire relationship was criminal.
+This page is bounded to four compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 284's fear-and-preemption motive and Hanji 338-2's fiscal motive remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that every accusation was true.
 
 ## What Changed
 
-- Added Liu Pengzu's accusation against Zhang Tang and the Zhao fiscal-interest context behind it.
-- Distinguished the observable foot massage from the stronger allegation of concealed conspiracy.
+- Added Liu Pengzu's preemptive report against Zhufu Yan after the Yan and Qi royal deaths.
+- Distinguished the reported bribery and wrongful-death charges from the episode's reconstruction of Liu Pengzu's fear.
 
 ## Relationships
 
 - [[HanWudi]] - younger half-brother and emperor who receives his accusations and pleas.
+- [[ZhuFuYan]] - official he reports after interpreting the Yan and Qi cases as an approaching threat to Zhao.
+- [[LiuDingguoYanKingWesternHan]] - Yan king whose death helps generate Liu Pengzu's fear of Zhufu Yan.
+- [[QiLiwangWesternHan]] - Qi king whose death becomes part of Liu Pengzu's accusation.
 - [[ZhangTangWesternHan]] - official accused after policy and patronage behavior create grievance and evidentiary opportunity.
 - [[LuYezhuWesternHan]] - favored clerk whose treatment by Zhang becomes the visible basis of Liu Pengzu's report.
 - [[LiuDanZhaoPrinceWesternHan]] - son and heir whose scandal Liu Pengzu tries to mitigate.

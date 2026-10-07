@@ -64608,11 +64608,6 @@
   ],
   "PersonalRevengeThroughStatePower": [
     {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
-    },
-    {
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"

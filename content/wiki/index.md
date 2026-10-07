@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3.md) — 主父偃把诸侯隐私转化为朝廷指控，燕王与齐王相继自杀；齐案又显示官方调查、中央收权与私人怨恨如何纠缠，并触发刘彭祖先发告发。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq.md) — 大月氏因新领地安定富庶而拒绝联汉攻匈奴；张骞再度被俘后借匈奴内乱逃归，使原始联盟失败转化为地理报告、外交接触与丝路形成的前置条件。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb.md) — 张骞受命联络月氏，在堂邑父协助下穿越险地却被军臣单于扣留十年；节目以战争人口压力解释其草原成家，本期止于逃至大宛。
 - [《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？](sources/zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn.md) — 张汤童年“审鼠”故事被用作程序与惩罚意识的回溯性画像；其廷尉生涯则显示法条技术、儒学姿态、权贵网络与汉武帝意志如何结合，童年因果和具体制度细节保留来源边界。
@@ -4010,6 +4011,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
 
 ## Entities
+- [燕王刘定国 / Liu Dingguo, Yan King (Western Han)](entities/LiuDingguoYanKingWesternHan.md) — 因乱伦与报复杀官指控被命自杀、封国撤除的西汉燕王。
+- [齐厉王 / King Li of Qi (Western Han)](entities/QiLiwangWesternHan.md) — 在主父偃的齐国调查及刑讯取证后服毒自杀的西汉齐王。
 - [堂邑父 / Tangyi Fu (Western Han)](entities/TangyiFuWesternHan.md) — 张骞首次西使中的匈奴出身向导与翻译，并以射猎在干粮耗尽后承担临时补给功能。
 - [军臣单于 / Junchan Chanyu](entities/JunchanChanyu.md) — 以敌国使者过境的对等安全逻辑阻止张骞前往月氏，并将使团长期扣留的匈奴统治者。
 - [刘仁诚 / Liu Rencheng](entities/LiuRenchengStandup.md) — 喜剧与表演参与者，以录制等待、古装化妆、幕后劳动、游戏转移和唱歌往事呈现创作的身体与注意成本。
@@ -6108,7 +6111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — 七岁获立、被视为稳定继承的汉武帝太子，后在巫蛊构陷与指挥权崩溃中败亡，其身份又成为昭帝朝冒认危机的政治资源。
 - [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whose palace-control and staged-evidence role ends with Liu Ju's forged-command arrest and execution of him.
 - [赵太子刘丹 / Liu Dan, Zhao Crown Prince (Western Han)](entities/LiuDanZhaoPrinceWesternHan.md) — Zhao heir whose scandal and attempted killing of Jiang Chong launch Jiang Chong's central-court accusation path.
-- [赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)](entities/LiuPengzuZhaoKingWesternHan.md) — Zhao king, Han Wudi's elder half-brother, and Liu Dan's father whose plea saves Liu Dan from execution.
+- [赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)](entities/LiuPengzuZhaoKingWesternHan.md) — 汉武帝异母兄与赵王，既为刘丹求情，也先后以政治威胁、财政利益和可疑亲密为线索告发主父偃与张汤。
 - [石德 / Shi De (Western Han)](entities/ShiDeWesternHan.md) — Crown-prince tutor whose Fusu-warning advice becomes Liu Ju's reluctant path after direct appeal to Han Wudi is blocked.
 - [苏文 / Su Wen (Western Han)](entities/SuWenWesternHan.md) — visible Wugu accusation actor whose early slander and later report help move Liu Ju from palace exposure into rebellion framing.
 - [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
@@ -9951,7 +9954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏代 / Su Dai](entities/SuDai.md) — Warring States persuader whose wiki branch now spans strategist-family context, Zi Zhi's rise in Yan, land-for-peace warning, and the post-Changping lobbying of Fan Ju.
 - [苏厉 / Su Li](entities/SuLi.md) — Su Qin's brother, named with Su Dai in the strategist-family and Yan-court persuasion branch.
 - [鹿毛寿 / Lu Maoshou](entities/LuMaoshou.md) — Persuader who uses ancient abdication stories to move Yan Wang Kuai from trust in Zi Zhi to real appointment-power transfer.
-- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — Figure paired with Su Qin in Sima Guang's consolation poem to Wu Zhicai.
+- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — 西汉官员，以诸侯隐私、弹劾和齐相调查行使权力，后又与苏秦并列为受辱后显达的文学例证。
 - [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
 - [屈宜臼 / Qu Yijiu](entities/QuYijiu.md) — Chu critic of Han Zhaohou's high-gate project who defines timing as political circumstance.
 - [越国 / Yue State](entities/YueState.md) — State whose wiki branch spans Goujian's destruction of Wu and the later Warring States decline under Yue Wang Wujiang.
@@ -19747,7 +19750,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诏令执行阻抗 / Imperial Edict Implementation Resistance](concepts/ImperialEdictImplementationResistance.md) — Governance pattern where formal imperial commands are answered procedurally while workload and incentive structures preserve the status quo.
 - [使节礼节国威 / Diplomatic Ritual Dignity](concepts/DiplomaticRitualDignity.md) — Frontier-diplomacy pattern where an envoy's bodily treatment, survival choice, or ritual posture becomes a state-level dignity and hierarchy signal.
 - [宗室谋逆法度边界 / Royal Kin Treason Law Boundary](concepts/RoyalKinTreasonLawBoundary.md) — Court-governance boundary where imperial kinship affects procedure, mercy, containment, and succession without privatizing mandate threat or treason suspicion.
-- [宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication](concepts/RoyalKinshipScandalAdjudication.md) — Court pattern for balancing royal-house dignity, kinship taboo, evidence reliability, and public law in politically explosive scandal cases.
+- [宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication](concepts/RoyalKinshipScandalAdjudication.md) — 宗室丑闻中法律、伦常禁忌、证据、皇族体面与中央政治利益相互冲突的审理模式。
 - [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.
 - [外戚重职任命制衡 / Outer-Relative Office Contest](concepts/OuterRelativeOfficeContest.md) — Succession-crisis appointment pattern where ministers try to block outer-relative monopoly through balancing candidates, but senior dowager authority can defeat the attempt.
 - [宴席座次名分政治 / Banquet Seating Status Politics](concepts/BanquetSeatingStatusPolitics.md) — Court-ritual mechanism where banquet seating makes contested rank visible and can trigger factional or personnel consequences.
@@ -21003,7 +21006,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where routes, passes, and food corridors are cut or threatened, from Warring States fragmentation to Chu-Han Aocang, Chenggao, and Peng Yue pressure.
 - [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Pattern spanning Fan Ju's anti-hezong inducements and Qin's later gold, bribery, assassination, and alienation tactics before conquest.
 - [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
-- [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where private injury or memory scales through public force, from Dong Meng's fatal palace accusation and Fan Ju's Qin leverage to Cao Cao's Xuzhou retaliation.
+- [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — 私人伤害、债务或怨恨借外交、调查、刑案与军事力量扩张为公共惩罚的模式。
 - [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.
 - [远交近攻 / Yuanjiao Jingong Strategy](concepts/YuanjiaoJingongStrategy.md) — Fan Ju's Qin strategy of diplomatically managing distant states while attacking nearby states whose territory Qin can retain.
 - [Protective Remonstrance Sequencing / 护身符式进言](concepts/ProtectiveRemonstranceSequencing.md) — High-risk persuasion sequence where an adviser shocks the ruler, secures repeated invitation and protection, and only then delivers dangerous critique.
