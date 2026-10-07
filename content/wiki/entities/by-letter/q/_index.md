@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12612
+wiki_total_pages: 12615
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "QuisoYupanqui"
     title: "Quiso Yupanqui"
     url: "/wiki/entities/quisoyupanqui/"
+  - key: "Quisquis"
+    title: "Quisquis"
+    url: "/wiki/entities/quisquis/"
   - key: "QuizParty"
     title: "QuizParty"
     url: "/wiki/entities/quizparty/"

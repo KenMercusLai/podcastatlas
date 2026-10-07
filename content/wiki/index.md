@@ -70,6 +70,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
+- [647. The Fall of the Incas: The King in the North (Part 4)](sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633.md) — Puppet succession, Cusco's sacred plunder, northern resistance around Quito, and the transition from conquest to colonial settlement.
 - [648. The Fall of the Incas: Battle for the Sacred City (Part 5)](sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011.md) — Manco Inca's break with Spanish rule, the 1536–37 siege of Cusco, and the three-way struggle among Manco, Almagro, and the Pizarros.
 - [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
 - [戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者](sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep.md) — 孟京辉回顾现代主义启蒙、排练场、长青剧目与戏剧节实践，并以现场共同在场、经济支点和注意力边界解释戏剧的持续生命力。
@@ -4071,6 +4072,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 从反太子盟友升为拟立储君和武器经手人，调查中又告发父王而未能自保的衡山王子。
 - [刘无采 / Liu Wucai (Hengshan Royal Daughter)](entities/LiuWucaiHengshanPrincess.md) — 因兄长干预私生活而决裂并被徐来吸纳进反太子阵营的衡山王女。
 - [厥姬 / Jue Ji (Hengshan Consort)](entities/JueJiHengshan.md) — 以未核实巫蛊指控激化太子刘爽与王后徐来冲突的衡山王宠妾。
+- [Atahualpa](entities/Atahualpa.md) — Victorious northern Inca claimant whose execution left a contested succession and continuing resistance around Quito.
+- [Rumiñawi](entities/Ruminawi.md) — Northern commander who seized power around Quito, resisted Spanish-led forces, and was executed in 1535.
+- [Quisquis](entities/Quisquis.md) — Atahualpa's senior commander, killed by his own officers after refusing peace during the retreat toward Quito.
 - [Manco Inca](entities/MancoInca.md) — Inca ruler who led resistance from Vilcabamba until his murder in 1544.
 - [Francisco Pizarro](entities/FranciscoPizarro.md) — Conquistador governor whose Lima-based faction defeated Almagro before Almagrist assassins killed him.
 - [Diego de Almagro](entities/DiegoDeAlmagro.md) — Conquistador rival defeated at Las Salinas and executed in 1538.

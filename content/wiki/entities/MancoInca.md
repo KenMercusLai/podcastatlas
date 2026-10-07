@@ -5,6 +5,7 @@ tags: [inca, peru, resistance, vilcabamba]
 sources:
   - 649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064
   - 648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011
+  - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Manco Inca was an Inca ruler who moved from Spanish-backed emperor to leader of the 1536 uprising, then sustained resistance from Vilcabamba until Spanish fugitives murdered him in 1544.
+Manco Inca was a Huascar-aligned Inca ruler who entered Cusco with Francisco Pizarro as a Spanish-backed emperor, later led the 1536 uprising, and sustained resistance from Vilcabamba until Spanish fugitives murdered him in 1544.
 
 ## Current Profile
 
-[[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] supplies the rupture behind Manco's resistance. Initially installed by the Spaniards and apparently willing to treat them as useful allies, he loses authority as encomienda, plunder, sexual coercion, factional rivalry, and the Pizarro brothers' abuse of him and his household turn collaboration into humiliation. With [[VilacUmu]], he deceives [[HernandoPizarro]], escapes Cusco, mobilizes a reported force of about 100,000, and launches [[SiegeOfCusco1536|the siege of Cusco]].
+[[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] supplies Manco's entry into Spanish-backed rule. After Túpac Hualpa dies, Manco presents himself as Huascar's younger brother, accepts Pizarro's claim to be liberating Cusco from [[Atahualpa|Atahualpa's]] northern faction, and enters the capital alongside the Spaniards. His coronation combines Inca royal ritual, the presence of ancestral mummies, the Spanish Requirement, tribute to the Spanish flag, and a public performance of gratitude whose sincerity a Spanish witness doubts.
+
+[[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] supplies the rupture behind Manco's resistance. Encomienda, plunder, sexual coercion, factional rivalry, and the Pizarro brothers' abuse of him and his household turn constrained collaboration into humiliation. With [[VilacUmu]], he deceives [[HernandoPizarro]], escapes Cusco, mobilizes a reported force of about 100,000, and launches [[SiegeOfCusco1536|the siege of Cusco]].
 
 The failure to eliminate the Spanish enclave and [[DiegoDeAlmagro|Almagro's]] return narrow Manco's choices. He rejects Almagro after a failed loyalty test and withdraws through the Sacred Valley. [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] then presents him as the most durable Indigenous opponent in the conquest's final phase: he survives expeditions, uses mountain and jungle geography to preserve freedom of action, punishes Spanish-aligned communities, and turns [[NeoIncaState|Vilcabamba]] into an independent refuge.
 
@@ -25,17 +28,18 @@ His accommodation of escaped Almagristas combines strategy and vulnerability. He
 
 ## Key Characteristics
 
-- Spanish-backed ruler whose treatment by the conquerors helped turn accommodation into revolt.
+- Huascar-aligned claimant whose Spanish-backed coronation joined Inca ritual to imposed imperial submission.
+- Puppet ruler whose treatment by the conquerors helped turn accommodation into revolt.
 - Organizer of the mass 1536 mobilization and siege of Cusco.
 - Mobile commander who repeatedly escaped Spanish pursuit and used difficult terrain defensively.
 - Leader of a wide guerrilla campaign that also targeted Indigenous communities allied with Spaniards.
 - Pragmatic adopter of enemy military knowledge, including horses and Spanish weapons.
 - Victim of Almagrist refugees whom he had protected and treated as allies.
-- Figure remembered even by hostile Spanish sources as an admirable opponent.
 
 ## Evidence
 
-- Rupture and revolt: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] connects Manco's imprisonment, household abuse, and political humiliation to his escape and uprising.
+- Installation and coronation: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows Manco's approach to Pizarro, entry into Cusco, coronation, and growing recognition that Spanish rule was consuming his empire.
+- Rupture and revolt: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] and [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] connect colonial allocation, imprisonment, household abuse, and political humiliation to his escape and uprising.
 - Mobilization and siege: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] follows the Lares army, the assault on Cusco, stalemate, failed Almagro negotiation, and withdrawal toward Vilcabamba.
 - Resistance and refuge: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] follows Manco's escapes from Vitcos and Chuquilusca and his withdrawal deeper into Vilcabamba.
 - Coalition war: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] places his attacks on Spanish-aligned groups beside Spanish dependence on Paullu Inca and thousands of Indigenous auxiliaries.
@@ -44,12 +48,12 @@ His accommodation of escaped Almagristas combines strategy and vulnerability. He
 
 ## Qualifications
 
-The profile depends on two consecutive narrative episodes and does not independently settle force totals, routes, speeches, motives, Manco's claimed Spanish casualties, the scale of his territorial reach, or the exact point at which wider resistance became impossible. His idealized indictment of Spanish rule should not erase earlier Inca coercion; later admiration should not erase his violence against Indigenous rivals and Spanish-aligned communities. Tito Cusi's childhood memory is indispensable but retrospective.
+The profile depends on three consecutive narrative episodes and does not independently settle force totals, routes, speeches, motives, the sincerity of Manco's early alliance, his claimed Spanish casualties, the scale of his territorial reach, or the exact point at which wider resistance became impossible. His idealized indictment of Spanish rule should not erase earlier Inca coercion; later admiration should not erase his violence against Indigenous rivals and Spanish-aligned communities. Tito Cusi's childhood memory is indispensable but retrospective.
 
 ## What Changed
 
-- Added the shift from constrained collaboration through personal and political abuse to organized revolt.
-- Added the siege of Cusco and failed negotiation with Almagro as the bridge to Vilcabamba.
+- Added Manco's self-presentation, coronation, and entry into Cusco as the political foundation of his puppet rule.
+- Clarified that colonial settlement and extraction were already exposing the limits of accommodation before the personal abuses that precipitated revolt.
 
 ## Relationships
 

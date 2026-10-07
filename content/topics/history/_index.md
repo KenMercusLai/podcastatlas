@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2593
+topic_total_pages: 2594
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6504,6 +6504,9 @@ topic_sources:
   - key: "64-hitler-with-ian-kershaw-part-2-glt5766781968"
     title: "64. Hitler, with Ian Kershaw - part 2"
     url: "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+  - key: "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633"
+    title: "647. The Fall of the Incas: The King in the North (Part 4)"
+    url: "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
   - key: "648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011"
     title: "648. The Fall of the Incas: Battle for the Sacred City (Part 5)"
     url: "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"

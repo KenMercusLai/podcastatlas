@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12612
+wiki_total_pages: 12615
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "ATT"
     title: "AT&T"
     url: "/wiki/entities/att/"
+  - key: "Atahualpa"
+    title: "Atahualpa"
+    url: "/wiki/entities/atahualpa/"
   - key: "Athelstan"
     title: "Athelstan"
     url: "/wiki/entities/athelstan/"

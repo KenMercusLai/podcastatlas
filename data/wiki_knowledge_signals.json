@@ -18225,6 +18225,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
+    "Atahualpa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/atahualpa/"
+    },
     "Atang": {
       "episode_count": 21,
       "show_count": 1,
@@ -58984,9 +59000,9 @@
       "url": "/wiki/entities/diegobohorquez/"
     },
     "DiegoDeAlmagro": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -59001,6 +59017,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",
@@ -71186,9 +71209,9 @@
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "EncomiendaColonialLaborSystem": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -71217,6 +71240,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",
@@ -84783,9 +84813,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FranciscoPizarro": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -84800,6 +84830,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",
@@ -115160,9 +115197,9 @@
       "url": "/wiki/entities/indianmuslims/"
     },
     "IndigenousAllianceInSpanishConquest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -115177,6 +115214,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",
@@ -148279,9 +148323,9 @@
       "url": "/wiki/entities/manchestercity/"
     },
     "MancoInca": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -148296,6 +148340,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",
@@ -175151,9 +175202,9 @@
       "url": "/wiki/entities/pedroara/"
     },
     "PedroDeAlvarado": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8784071073 [GLT8784071073].md",
@@ -175161,6 +175212,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-09-27",
@@ -189311,6 +189369,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/quisoyupanqui/"
     },
+    "Quisquis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/quisquis/"
+    },
     "QuliWesternRegions": {
       "episode_count": 1,
       "show_count": 1,
@@ -199115,6 +199189,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/rulerwillaslaw/"
     },
+    "Ruminawi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/ruminawi/"
+    },
     "RumorDrivenFrontierIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -199736,9 +199826,9 @@
       "url": "/wiki/entities/sacredpawssoapcompany/"
     },
     "SacredPrestigeUnderConquest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570061216 [GLT1570061216].md",
@@ -199746,6 +199836,13 @@
           "show": "The Rest Is History",
           "title": "181. The Birth of Babylon",
           "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-01",
@@ -213075,9 +213172,9 @@
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "SpanishConquestOfPeru": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -213092,6 +213189,13 @@
           "show": "The Rest Is History",
           "title": "648. The Fall of the Incas: Battle for the Sacred City (Part 5)",
           "url": "/wiki/sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011/"
+        },
+        {
+          "episode_file": "GLT4740382633 [GLT4740382633].md",
+          "key": "647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633",
+          "show": "The Rest Is History",
+          "title": "647. The Fall of the Incas: The King in the North (Part 4)",
+          "url": "/wiki/sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633/"
         }
       ],
       "updated": "2026-10-07",

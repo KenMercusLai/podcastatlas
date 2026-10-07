@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12612
+wiki_total_pages: 12615
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "RuhollahKhomeini"
     title: "Ruhollah Khomeini"
     url: "/wiki/entities/ruhollahkhomeini/"
+  - key: "Ruminawi"
+    title: "Rumiñawi"
+    url: "/wiki/entities/ruminawi/"
   - key: "Runta"
     title: "Runta"
     url: "/wiki/entities/runta/"

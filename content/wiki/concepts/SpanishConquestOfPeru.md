@@ -5,6 +5,7 @@ tags: [conquest, colonialism, peru, incas]
 sources:
   - 649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064
   - 648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011
+  - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ The Spanish conquest of Peru was a prolonged military, coalition, political, and
 
 ## Current Synthesis
 
-[[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] reject a single decisive-victory model. Spanish-backed rule under [[MancoInca]] breaks down through plunder, encomienda, sexual coercion, sacrilege, and factional abuse; the resulting [[SiegeOfCusco1536|siege of Cusco]] nearly destroys the conquerors' position. Spanish survival depends on cavalry, steel, armor, Indigenous allies, African labor, access to seaborne reinforcements, and an agrarian siege army's difficulty sustaining pressure.
+[[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] shows conquest advancing through an existing Inca civil war. After [[Atahualpa|Atahualpa's]] execution, [[FranciscoPizarro]] installs Huascar-aligned claimants, receives support along the road to Cusco, and enters the capital with [[MancoInca]]. The seizure and melting of sacred wealth run alongside continued northern resistance by [[Quisquis]] and [[Ruminawi|Rumiñawi]], while Cañari and other Indigenous allies make the campaigns coalition wars rather than a contest between two unified peoples.
+
+[[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] follow the failure of that Spanish-backed order. Plunder, encomienda, sexual coercion, sacrilege, and factional abuse drive Manco toward [[SiegeOfCusco1536|the siege of Cusco]], which nearly destroys the conquerors' position. Spanish survival depends on cavalry, steel, armor, Indigenous allies, African labor, access to seaborne reinforcements, and an agrarian siege army's difficulty sustaining pressure.
 
 By 1537, Manco remains active while [[FranciscoPizarro]] and [[DiegoDeAlmagro]] command rival centers. Control emerges through Lima's supply connection, factional war, royal legitimacy, negotiated Indigenous collaboration, punitive expeditions, and the gradual isolation of resistance rather than through Spanish weapons alone.
 
@@ -25,17 +28,19 @@ The conquest also becomes a colonial system before resistance fully ends. Encomi
 
 ## Key Claims
 
-- Atahualpa's death and Cusco's occupation did not end conquest; colonial abuse converted Manco's initially collaborative rule into a near-successful mass uprising.
+- Inca civil-war factions and succession claimants gave Pizarro political access that Spanish numbers alone could not provide.
+- Atahualpa's death, Cusco's occupation, and Quito's fall did not end conquest; colonial abuse converted Manco's initially collaborative rule into a near-successful mass uprising.
 - Spanish access to coastal supply and royal recognition was as consequential as battlefield technology.
 - Indigenous allies were indispensable political and military actors rather than incidental auxiliaries.
 - Spanish civil war created both openings for resistance and additional violence across Peru.
 - Vilcabamba's survival to 1572 makes conquest a multi-decade process rather than a short campaign.
 - Colonial land, labor, mining, religious, and urban systems developed alongside unfinished military control.
-- Dynastic defeat did not mean the disappearance of Indigenous people, agency, or historical memory.
 
 ## Evidence
 
-- Revolt and siege: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] connects colonial abuses to Manco's escape, mass mobilization, assault on Cusco, and withdrawal.
+- Civil war and puppet succession: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] connects Huascar-aligned support, Spanish-backed rulers, Cusco's entry, and northern resistance.
+- Sacred plunder and northern conquest: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] links the destruction of Cusco's wealth to campaigns for Quito and the collapse of Quisquis's and Rumiñawi's forces.
+- Revolt and siege: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] and [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] connect colonial settlement and abuse to Manco's escape, mass mobilization, assault on Cusco, and withdrawal.
 - Fragmented power: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] identify Manco, Almagro, and Pizarro as rival centers in 1537.
 - Coalition and logistics: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] connect coastal access and royal communication to armies containing Indigenous allies and arriving reinforcements.
 - Resistance duration: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] follows Manco's escapes and Vilcabamba's rulers through Túpac Amaru's 1572 capture.
@@ -43,12 +48,12 @@ The conquest also becomes a colonial system before resistance fully ends. Encomi
 
 ## Counterevidence & Qualifications
 
-The current evidence covers the sequence's final two installments, so it cannot by itself reconstruct the conquest's opening, Atahualpa's capture, the earlier Inca civil war, or every Indigenous polity's strategy. Numbers, speeches, motives, and causal ranking remain source-scoped. Extending the conquest to 1572 is analytically useful but should not imply uniform warfare across the whole period or one uncontested end date.
+The current evidence covers the sequence from Atahualpa's execution onward, so it cannot by itself reconstruct the conquest's opening, Atahualpa's capture, the full earlier civil war, or every Indigenous polity's strategy. Numbers, speeches, motives, atrocity details, and causal ranking remain source-scoped. Extending the conquest to 1572 is analytically useful but should not imply uniform warfare across the whole period or one uncontested end date.
 
 ## What Changed
 
-- Added the 1536 uprising as the point at which colonial abuse nearly reversed Spanish control.
-- Added terrain, seasonal mobilization, African labor, and reinforcement to the coalition-logistics explanation.
+- Added puppet succession, Cusco's sacred plunder, northern resistance, and the race for Quito.
+- Moved the start of colonial formation earlier by connecting military conquest to Lima, land allocation, and labor claims before the 1536 uprising.
 
 ## Related Concepts
 
