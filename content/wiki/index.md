@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [307-为什么国内很多学术翻译质量这么差？](sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r.md) — 独树不成林与赵雨飞区分文学文气和学术可靠性，并把术语一致、整体思想理解、译者克制与低稿酬、弱评价和有限市场联系起来。
 - [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel.md) — 东方朔以三项重罪与乱政典故阻止董偃进入未央宫前殿，汉武帝把宴席移至北宫后宠爱转淡；医学生死因果、情感动机、典故转录与合葬细节保留来源边界。
 - [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（2）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm.md) — 袁固生以正学直言警戒曲学阿世，公孙弘则在两次失意后以陈事实、列选项而不廷争适应汉武帝并进入快速升迁；年代、心理转变、人格评价与升迁因果保留来源边界。
 - [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv.md) — 汲黯以背离会前共识和节俭作秀两度质疑公孙弘，公孙弘则以忠诚解释、能力与生活方式分离、承认及反夸批评者化解；原指控、动机与升迁因果均保留来源边界。
@@ -4045,6 +4046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [Zhao Yufei / 赵雨飞](entities/ZhaoYufei.md) — Translator and political-philosophy guest advocating terminology consistency, whole-author research, annotation, and explicit justification in scholarly translation.
 - [馆陶长公主刘嫖 / Liu Piao](entities/LiuPiaoWesternHan.md) — Western Han princess whose kinship and wealth secure Dong Yan's public recognition but not immunity from ceremonial limits or changing imperial favor.
 - [董偃 / Dong Yan (Western Han)](entities/DongYanWesternHan.md) — Household dependent and intimate companion whose court-visible status remains venue-limited, reversible, and outside regular office.
 - [Tony Wyss-Coray](entities/TonyWyssCoray.md) — Neuroscientist studying circulating factors, proteomic clocks, and the translation boundary between animal rejuvenation and human healthspan.
@@ -16734,6 +16736,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [Academic Translation Reliability / 学术翻译可靠性](concepts/AcademicTranslationReliability.md) — Standard that places fidelity, conceptual consistency, preserved ambiguity, context, and accountable notes before stylistic elegance.
+- [Translation Labor Incentives / 翻译劳动激励](concepts/TranslationLaborIncentives.md) — Payment, recognition, demand, and editorial conditions that shape whether research-intensive translation can be sustained.
 - [宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary](concepts/CourtCeremonialSpaceBoundary.md) — Venue, entry, and event type distinguish tolerated private recreation from the added legitimacy of a principal state ceremonial space.
 - [帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status](concepts/ImperialAcknowledgmentInformalStatus.md) — Public naming and treatment make an informal relationship legible, but recognition remains contextual, reversible, and short of regular office or unrestricted access.
 - [Circulating-Factor Aging Biology](concepts/CirculatingFactorAgingBiology.md) — Framework separating causal animal fluid-transfer evidence from human anti-aging treatment claims.

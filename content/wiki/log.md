@@ -31792,3 +31792,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 307-为什么国内很多学术翻译质量这么差？
+
+Added source `307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r`; created [[ZhaoYufei|赵雨飞]], [[AcademicTranslationReliability|学术翻译可靠性]], and [[TranslationLaborIncentives|翻译劳动激励]]; and resynthesized [[DushuBuchenglin|独树不成林]], [[YanFu|严复]], and [[ConceptualTranslationJudgment|概念翻译判断]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: reliable intellectual translation places fidelity, conceptual consistency, preserved ambiguity, whole-author research, annotation, and critical distance before stylistic elegance, but low fees, weak academic recognition, limited demand, and cumulative editorial requirements make that standard difficult to reproduce institutionally. No settled contradiction was adopted. Regional quality comparisons, fee and sales figures, particular edition judgments, Yan Fu's intentions, and the best renderings of virtue, amour-propre, and amour de soi remain source-scoped. Broad thinker pages and [[TranslationPublishingWorkflow]] were kept closed because the bounded additions are represented in focused guest, reliability, judgment, labor, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,978 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

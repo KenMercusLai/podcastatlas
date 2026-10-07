@@ -5742,6 +5742,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/abyssinianexpedition1868/"
     },
+    "AcademicTranslationReliability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/academictranslationreliability/"
+    },
     "Accenture": {
       "episode_count": 1,
       "show_count": 1,
@@ -46737,9 +46753,9 @@
       "url": "/wiki/concepts/concealedpresidentialillness/"
     },
     "ConceptualTranslationJudgment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
@@ -46747,9 +46763,16 @@
           "show": "独树不成林",
           "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
           "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        },
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/conceptualtranslationjudgment/"
     },
     "ConcernInfluenceSorting": {
@@ -64761,9 +64784,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -64813,9 +64836,16 @@
           "show": "独树不成林",
           "title": "308-女权是否意味着争取选择自由？",
           "url": "/wiki/sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt/"
+        },
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -230705,6 +230735,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/transitionalaihardware/"
     },
+    "TranslationLaborIncentives": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/translationlaborincentives/"
+    },
     "TranslationPathDependence": {
       "episode_count": 1,
       "show_count": 1,
@@ -251048,9 +251094,9 @@
       "url": "/wiki/entities/yandulatehan/"
     },
     "YanFu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
@@ -251058,9 +251104,16 @@
           "show": "独树不成林",
           "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
           "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        },
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/yanfu/"
     },
     "YanGuangEasternHan": {
@@ -258572,6 +258625,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhaoyuwesternhan/"
+    },
+    "ZhaoYufei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkbjMOjUQCOkbEe64H9HqvRzAF4r [lkbjMOjUQCOkbEe64H9HqvRzAF4r].md",
+          "key": "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r",
+          "show": "独树不成林",
+          "title": "307-为什么国内很多学术翻译质量这么差？",
+          "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhaoyufei/"
     },
     "ZhaoYun": {
       "episode_count": 2,

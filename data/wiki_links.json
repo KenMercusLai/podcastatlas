@@ -2047,6 +2047,10 @@
     "title": "307: Columbus: A New World? (Part 2)",
     "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
   },
+  "307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r": {
+    "title": "307-为什么国内很多学术翻译质量这么差？",
+    "url": "/wiki/sources/307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r/"
+  },
   "308-columbus-death-in-the-caribbean-part-3-glt3250512968": {
     "title": "308: Columbus: Death in the Caribbean (Part 3)",
     "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
@@ -5934,6 +5938,10 @@
   "AcademicPredictionMarketSandbox": {
     "title": "Academic Prediction Market Sandbox",
     "url": "/wiki/concepts/academicpredictionmarketsandbox/"
+  },
+  "AcademicTranslationReliability": {
+    "title": "Academic Translation Reliability / 学术翻译可靠性",
+    "url": "/wiki/concepts/academictranslationreliability/"
   },
   "Accel": {
     "title": "Accel",
@@ -82491,6 +82499,10 @@
     "title": "Transitional AI Hardware",
     "url": "/wiki/concepts/transitionalaihardware/"
   },
+  "TranslationLaborIncentives": {
+    "title": "Translation Labor Incentives / 翻译劳动激励",
+    "url": "/wiki/concepts/translationlaborincentives/"
+  },
   "TranslationPathDependence": {
     "title": "Translation Path Dependence / 翻译路径依赖",
     "url": "/wiki/concepts/translationpathdependence/"
@@ -92742,6 +92754,10 @@
   "ZhaoYuanren": {
     "title": "赵元任",
     "url": "/wiki/entities/zhaoyuanren/"
+  },
+  "ZhaoYufei": {
+    "title": "Zhao Yufei / 赵雨飞",
+    "url": "/wiki/entities/zhaoyufei/"
   },
   "ZhaoYun": {
     "title": "赵云 / Zhao Yun",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9873
+wiki_total_pages: 9875
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "AcademicPredictionMarketSandbox"
     title: "Academic Prediction Market Sandbox"
     url: "/wiki/concepts/academicpredictionmarketsandbox/"
+  - key: "AcademicTranslationReliability"
+    title: "Academic Translation Reliability / 学术翻译可靠性"
+    url: "/wiki/concepts/academictranslationreliability/"
   - key: "AcceleratedBankRuns"
     title: "Accelerated Bank Runs"
     url: "/wiki/concepts/acceleratedbankruns/"

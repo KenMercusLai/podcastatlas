@@ -84929,6 +84929,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TranslationLaborIncentives": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TranslationPublishingWorkflow": [
     {
       "key": "culture",

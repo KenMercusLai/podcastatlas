@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2204
+topic_total_pages: 2205
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3091,6 +3091,9 @@ topic_concepts:
   - key: "TragedyOfTheCommons"
     title: "Tragedy of the Commons"
     url: "/wiki/concepts/tragedyofthecommons/"
+  - key: "TranslationLaborIncentives"
+    title: "Translation Labor Incentives / 翻译劳动激励"
+    url: "/wiki/concepts/translationlaborincentives/"
   - key: "TreasuryBondSpeculation"
     title: "Treasury Bond Speculation"
     url: "/wiki/concepts/treasurybondspeculation/"

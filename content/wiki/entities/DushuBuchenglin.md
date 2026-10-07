@@ -11,7 +11,8 @@ sources:
   - 323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf
   - 368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe
   - 308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt
-last_updated: 2026-10-07
+  - 307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r
+last_updated: 2026-10-08
 ---
 
 # 独树不成林 / Dushu Buchenglin
@@ -24,7 +25,7 @@ The show uses philosophical traditions as working instruments for contemporary p
 
 The communication and gender episodes carry this method into ordinary relationships and embodied conflict. They distinguish power-backed preaching from failed connection, and equal-rights commitments from total social-construction explanations while keeping speculative psychological claims qualified.
 
-The translation and intellectual-history branch treats AI as capable of extensive routine translation while arguing that inherited terminology, conceptual alternatives, and judgments about liberty, rights, wealth, progress, and revolution remain open to human argument. The cultural-decline episode broadens that method across Plato, Roman moralists, Rousseau, Marx, Tocqueville, Burke, Swift, and nineteenth-century critics. It neither accepts progress automatically nor treats every loss as civilizational collapse: the recurring task is to specify the tradeoff and its mechanism.
+The translation and intellectual-history branch treats AI as capable of extensive routine translation while arguing that inherited terminology, conceptual alternatives, and judgments about liberty, rights, wealth, progress, and revolution remain open to human argument. The new academic-translation discussion turns that judgment into a practice: terminology consistency, whole-author research, annotation, preserved ambiguity, and critical distance constrain style, while low pay, weak recognition, and limited demand constrain whether such work can be sustained. The cultural-decline episode broadens the show's method across Plato, Roman moralists, Rousseau, Marx, Tocqueville, Burke, Swift, and nineteenth-century critics. It neither accepts progress automatically nor treats every loss as civilizational collapse: the recurring task is to specify the tradeoff and its mechanism.
 
 The choice-freedom episode uses the same boundary-making method for feminism and liberal individualism. It reconstructs why reproductive politics made choice a powerful claim to women's decision-making status, then separates formal permission from material capability, and autonomy from manipulated desire, collective responsibility, and option overload. The result neither abandons choice nor treats it as a complete theory of emancipation.
 
@@ -35,7 +36,7 @@ The choice-freedom episode uses the same boundary-making method for feminism and
 - Preserves distinctions that simple binaries flatten: filtering versus lying, analysis versus endorsement, rights versus explanation, and fluency versus conceptual adequacy.
 - Treats intellectual traditions as revisable resources and uses cross-period comparison to test whether contemporary crises are historically distinctive or recurring forms of anxiety.
 - Treats politically portable ideas such as choice as both enabling languages and incomplete accounts whose material and moral boundaries must be specified.
-- Works mainly through interpretive framing, so historical, linguistic, psychological, and media-effect claims require source-bounded qualification.
+- Connects normative standards to institutional feasibility, while keeping its interpretive historical, linguistic, psychological, media-effect, and publishing claims source-bounded.
 
 ## Evidence
 - Algorithmic mediation: [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] connects political philosophy to platform selection, judgment, knowledge, and appearance.
@@ -45,14 +46,15 @@ The choice-freedom episode uses the same boundary-making method for feminism and
 - Translation and conceptual history: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] distinguishes AI-enabled mechanical accuracy from conceptual judgment and path-dependent terminology.
 - Cultural criticism and progress: [[368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe]] compares recurring decline narratives while preserving specific losses, institutional mechanisms, and criticism's memory function.
 - Feminism, autonomy, and capacity: [[308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt]] reconstructs choice as a modern feminist language while testing it against inequality, care infrastructure, responsibility, desire formation, and cognitive burden.
+- Scholarly translation: [[307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r]] prioritizes fidelity and terminology over elegance while linking research-intensive quality to training, annotation, publishing incentives, and generational accumulation.
 
 ## Qualifications
-The profile remains limited to seven ingested source notes and does not establish the show's full host roster, history, or catalog. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication claims, Paglia-derived psychoanalytic claims, linguistic or etymological claims, and the episodes' long-run media, cultural, feminist, and political-history comparisons should not be generalized as settled empirical findings.
+The profile remains limited to eight ingested source notes and does not establish the show's full host roster, history, or catalog. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and reading claims, Paglia-derived psychoanalytic claims, linguistic or etymological claims, translation-industry figures, and the episodes' long-run media, cultural, feminist, and political-history comparisons should not be generalized as settled empirical findings.
 
 ## What Changed
-- Extended the profile from cultural criticism into feminist intellectual history and the politics of choice.
-- Added formal permission versus substantive capability as another recurring boundary in the show's method.
-- Added caution around broad histories of feminism, liberalism, reproductive politics, and modern selfhood.
+- Extended conceptual translation from a judgment problem into a research, annotation, and professional-practice standard.
+- Added publishing incentives and cumulative scholarship as constraints on whether normative quality can be reproduced.
+- Clarified the show's recurring preference for explicit boundaries: fidelity before elegance, interpretation without imposed certainty, and admiration without advocacy.
 
 ## Relationships
 - [[QizhulouYanBinke]] - crossover partner in the algorithm episode.
@@ -69,3 +71,6 @@ The profile remains limited to seven ingested source notes and does not establis
 - [[InstitutionShapedCharacter]] - account of institutions rewarding and selecting public habits.
 - [[FeministChoiceFreedom]] - account of choice as an enabling but incomplete feminist political language.
 - [[SubstantiveChoiceCapability]] - test for whether formal options are materially, socially, and cognitively usable.
+- [[ZhaoYufei]] - guest who develops the show's account of scholarly translation practice.
+- [[AcademicTranslationReliability]] - fidelity, terminology, context, and restraint standard added by the new episode.
+- [[TranslationLaborIncentives]] - institutional explanation for uneven supply of research-intensive translations.

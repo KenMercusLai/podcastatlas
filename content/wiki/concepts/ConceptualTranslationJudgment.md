@@ -5,7 +5,8 @@ tags: [translation, concepts, judgment, intellectual-history, ai]
 knowledge_schema: synthesis-v1
 sources:
   - 323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf
-last_updated: 2026-10-05
+  - 307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r
+last_updated: 2026-10-08
 ---
 
 # Conceptual Translation Judgment / 概念翻译判断
@@ -16,7 +17,9 @@ Conceptual translation judgment is the interpretive work of choosing among targe
 ## Current Synthesis
 [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] distinguishes this work from mechanical accuracy. Grammar, lexical recall, consistency, and proofreading can be substantially automated, but a fluent rendering does not decide whether Geist should emphasize spirit or mind, whether liberty is heard as bounded freedom or license, or whether evolution implies progress.
 
-The durable judgment is comparative rather than absolutist. Competing translations reveal different conceptual relationships, and reopening a standard term can improve understanding even when ordinary usage will not change.
+A choice should also be tested across an author's wider conceptual system and usage, justified when it departs from an established rendering, and kept open when the source itself is ambiguous. Judgment therefore includes restraint: translators should not use elegance, political purpose, admiration, or discomfort to decide what the author left unresolved. This scholarly discipline is developed in [[307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r]].
+
+The durable judgment is comparative and accountable rather than absolutist. Competing translations reveal different conceptual relationships, and reopening a standard term can improve understanding even when ordinary usage will not change; notes and reasons let readers and other scholars inspect the choice.
 
 ## Key Claims
 - Mechanical accuracy and conceptual adequacy are related but distinct translation standards.
@@ -24,19 +27,24 @@ The durable judgment is comparative rather than absolutist. Competing translatio
 - No corpus majority can by itself determine the best rendering of a contested concept.
 - AI can assist comparison, drafting, and error detection while leaving responsibility for interpretation and justification with people.
 - Alternative translations can be useful diagnostic instruments even when they are too awkward to become standard.
+- Whole-author usage and preserved ambiguity constrain local translation choices.
+- Departures from established terms should be explained rather than silently substituted.
 
 ## Evidence
 - Mechanical-versus-judgment distinction: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] accepts extensive AI replacement of routine work but reserves concept selection for argument and judgment.
 - Association and ontology: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] uses Geist and eidos to show that alternatives foreground different intellectual relations.
 - Normative distinctions: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] uses power/right and liberty/license to show how wording can blur political categories.
 - Directionality: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] contrasts “进化” with “演/演化” to expose an embedded progress assumption.
+- Corpus-level consistency: [[307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r]] uses virtue, morality, amour-propre, and amour de soi to show why a translator must compare usage across a thinker's system.
+- Restraint and justification: [[307-weishenme-guonei-henduo-xueshu-fanyi-zhiliang-zheme-cha-lkbjmojuqcokbee64h9hqvrzaf4r]] argues that ambiguity should not be closed by translator preference and that revisions to conventional terms need reasons and evidence.
 
 ## Counterevidence & Qualifications
-The source offers an interpretive framework, not a validated scoring method for translation quality. Standard renderings also provide coordination and readability, and etymology alone does not control later meaning. The historical origin and social effects of each example require evidence beyond the episode.
+The sources offer an interpretive framework, not a validated scoring method for translation quality. Standard renderings also provide coordination and readability, etymology alone does not control later meaning, and strict one-to-one consistency can mislead when context genuinely shifts. The historical origin, best rendering, and social effects of each example require evidence beyond the episodes.
 
 ## What Changed
-- Established a distinction between automatable linguistic accuracy and contested conceptual adequacy.
-- Added comparative translation as a way to expose hidden assumptions without demanding wholesale lexical replacement.
+- Added whole-author usage and source ambiguity as constraints on conceptual choice.
+- Added annotation and explicit justification as mechanisms for scholarly accountability.
+- Clarified that human judgment includes restraint as well as choosing among alternatives.
 
 ## Related Concepts
 - [[AITranslation]] - supplies drafting, comparison, and checking capabilities but does not eliminate interpretive responsibility.
@@ -44,3 +52,5 @@ The source offers an interpretive framework, not a validated scoring method for 
 - [[HumanJudgmentUnderAI]] - broader judgment framework of which conceptual translation is a domain-specific case.
 - [[TranslationPublishingWorkflow]] - adjacent editorial process where conceptual judgment enters review and accountability.
 - [[NamingPowerSocialChange]] - shows how lexical choices can organize later perception and action.
+- [[AcademicTranslationReliability]] - broader quality standard that turns conceptual judgment into a reviewable scholarly practice.
+- [[TranslationLaborIncentives]] - institutional conditions that can support or underfund this interpretive work.
