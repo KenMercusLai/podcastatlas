@@ -31990,3 +31990,11 @@ Added source `zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chan
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）
+
+Added source `zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt`; created [[MiuJiWesternHan|缪忌]] and [[JianzhangPalaceWesternHan|建章宫]]; and resynthesized [[GongsunQingFangshi|公孙卿]], [[GanquanPalace|甘泉宫]], [[Taiyi|太一]], [[ImmortalityQuestPolitics|求仙政治]], and [[ImperialConstructionOverload|帝国工程过载]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Gongsun Qing uses the 柏梁台 fire to redirect court activity toward Ganquan, while Jianzhang Palace, Taiye Pool's modeled immortal islands, and the dew-catching figure turn distant sacred access into durable court geography and costly construction; Miu Ji's hierarchy-and-antiquity argument then shows a separate route by which specialist advice becomes delegated and eventually emperor-led state ritual. No settled contradiction was adopted. Fire meaning, causation, palace dimensions and layout, labor and fiscal scale, apotropaic and longevity efficacy, garden-history priority, Miu Ji's precedent, altar chronology, ritual continuity, maternal influence, and the “lost daughter” remark remain source-scoped. The broad [[HanWudi|汉武帝]] profile and automatic `wiki/overview.md` were kept closed because the bounded addition is represented in focused figures, places, and concepts and the downstream synthesis workflow forbids manual overview edits. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,003 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

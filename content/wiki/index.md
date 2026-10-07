@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt.md) — 公孙卿借柏梁台火灾推动甘泉迁驻与建章宫营建，太液池仙岛和承露铜人把求仙变成工程支出；缪忌又以神阶和古制把太一推入国家祭祀，具体年代、规模与效验保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx.md) — 李少君以长寿人设、古事古器知识与安期生传说取得汉武帝信任，把祭灶、丹砂化金、金器延寿、蓬莱寻仙与封禅串成求仙方案；其死后又被解释为化龙升天，搜索因而继续。
 - [《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战](sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb.md) — 王恢以边境诱歼回应韩安国的远征后勤异议，聂翁壹用假投降与首级示信引军臣单于趋向马邑；本期止于入伏前，战果、失败原因与责任均未建立。
 - [《资治通鉴·汉纪》261｜四十万人的战争，为何打了场寂寞？](sources/zizhi-tongjian-hanji-261-sishiwanren-de-zhanzheng-weihe-da-le-chang-jimo-lkd8xg1rwv3f5wpmnzu1ygw-7hk.md) — 军臣单于因异常空旷而起疑，并从被俘御史处获知伏击后撤退；王恢因拒绝孤军追击被处死，节目把此举解释为汉武帝塑造进攻型军纪的惩罚信号。
@@ -4070,6 +4071,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
+- [缪忌 / Miu Ji (Western Han)](entities/MiuJiWesternHan.md) — 以太一高于五帝和古代天子祭祀先例推动其进入汉武帝礼制的方士。
+- [建章宫 / Jianzhang Palace (Western Han)](entities/JianzhangPalaceWesternHan.md) — 将求仙地理、太液池仙岛、承露装置与帝国宫苑规模结合的西汉宫殿群。
 - [Li Shaojun / 李少君](entities/LiShaojunWesternHan.md) — Western Han fangshi whose credibility signals and staged immortality program turn court belief into ritual, material work, and maritime search.
 - [An Qisheng / 安期生](entities/AnQisheng.md) — Legendary Penglai immortal invoked as Li Shaojun's selectively accessible authority and pursued by Han Wudi's court.
 - [Kuan Shu / 宽舒](entities/KuanShuWesternHan.md) — Coastal official assigned to continue Li Shaojun's Penglai and An Qisheng search after the claimant's death.
@@ -9545,7 +9548,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
-- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose overlapping Donglai encounter reports, tower advice, drought interpretation, and calendar participation turn unverifiable specialist claims into court action.
+- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose post-fire Ganquan advice, divine reports, tower program, drought interpretation, and calendar participation turn specialist claims into court action.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
@@ -9633,7 +9636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁父山 / Liangfu Mountain](entities/LiangfuMountain.md) — Lower sacred site paired with Taishan in Qin Shi Huang's “禅” route and Han Wudi's 帝主 and cattle-shooting rite.
 - [驰道 / Qin Chidao Road System](entities/QinChidao.md) — Qin imperial road network described by Qinji 121 as wide tamped routes with restricted central imperial lanes, side lanes, trees, and controlled crossings.
 - [极庙 / Qin Ji Miao](entities/QinJimiao.md) — Qin Shi Huang's renamed ritual building south of the Wei River, read in Qinji 121 as an earthly counterpart to the heavenly pole and Taiyi worship.
-- [太一 / Taiyi](entities/Taiyi.md) — 从秦极庙的推定祭祀对象延伸到汉武帝甘泉祭坛、冬至礼仪与三年一祭的最高天神。
+- [太一 / Taiyi](entities/Taiyi.md) — 从秦极庙的推定对象延伸到缪忌的神阶论证、汉武帝甘泉祭坛、冬至礼仪与三年一祭的最高天神。
 - [骊山 / Lishan](entities/Lishan.md) — Mountain reached by Qinji 121's Xianyang-area road-and-palace construction, linked to Qin Shi Huang's cosmic capital layout.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
@@ -9931,7 +9934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [昭雎 / Zhao Ju](entities/ZhaoJu.md) — Chu minister who warns Chu Huaiwang not to trust Qin and later argues against bypassing the trapped king and absent crown prince.
 - [临晋 / Linjin (Warring States)](entities/LinjinWarringStates.md) — Qin-Han-Wei meeting site where Qin repairs relations after the Mi Heng hostage incident breaks the Qin-Chu alignment.
 - [黄棘 / Huangji](entities/Huangji.md) — Qin-Chu meeting site where Qin Zhaoxiang Wang and Chu Huaiwang renew alliance and Qin returns Shangyong.
-- [甘泉宫 / Ganquan Palace](entities/GanquanPalace.md) — Palace setting where Xuan Taihou kills the Yiqu king before Qin absorbs Yiqu.
+- [甘泉宫 / Ganquan Palace](entities/GanquanPalace.md) — 跨秦汉的宫苑地点，并在汉武帝时成为灾后朝政、方士建筑、太一祭祀与皇帝出行的重要中心。
 - [封陵 / Fengling (Warring States)](entities/FenglingWarringStates.md) — Wei crossing point taken by Qin during the 303 BCE pressure on Han and Wei.
 - [阳晋 / Yangjin (Warring States)](entities/YangjinWarringStates.md) — Wei crossing point captured by Qin alongside Puban and Fengling in Zhouji 60.
 - [蒲阪 / Puban (Warring States)](entities/PubanWarringStates.md) — Wei crossing point captured by Qin in 303 BCE and returned in 302 BCE as a repair signal.
@@ -20995,7 +20998,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Death Concealment / 秘不发丧式过渡控制](concepts/ImperialDeathConcealment.md) — Succession-control pattern where a ruler's death is hidden through routines, travel timing, or palace security until announcement and successor choice can be managed.
 - [Omen Countermeasure Mobility / 游徙避命](concepts/OmenCountermeasureMobility.md) — Qinji 126 part 2 pattern where a death omen and divination turn movement, migration, and the final tour into fate-avoidance responses.
 - [秦代坑儒事件 / Qin Kengru Incident](concepts/QinKengruIncident.md) — Qinji 125-2 frame for the 212 BCE punishment case following fangshi flight and criticism, kept separate from Qin's book-burning policy.
-- [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — Qinji 125-1 pattern where overlapping imperial mega-projects show state capacity while straining labor, succession timing, and social stability.
+- [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — 秦汉大型工程在展示动员能力的同时挤压劳力、财政、运输与政治承载力的模式。
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.
 - [Fangshi Accountability Trap / 方士问责陷阱](concepts/FangshiAccountabilityTrap.md) — Court-fangshi delivery risk in which nondelivery can trigger punishment, while later ambiguous evidence may turn that punishment into patron regret and bargaining precedent.
 - [Renewed Mandate Ritual Reversal / 再受命改制合法性反噬](concepts/RenewedMandateRitualReversal.md) — Pattern where a ruler tries to repair sacred legitimacy through a public renewed-mandate reset, then weakens authority when the ritual promise fails and is revoked.
@@ -22828,7 +22831,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Chicken-Bone Divination / 鸡骨占卜](concepts/ChickenBoneDivination.md) — Ritual system joining sacrifice, prepared bone-and-bamboo patterns, specialist interpretation, and textual transmission.
-- [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial mortality anxiety and unverifiable sacred access turn into maritime search, architecture, patronage, secrecy, and coercion.
+- [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — 帝王死亡焦虑与不可核验神圣通道转化为海上搜索、迁驻、宫苑景观、赞助、保密与强制的模式。
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, illness attribution, and failure reinterpretation can sustain or reopen influence.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.

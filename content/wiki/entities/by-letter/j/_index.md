@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12662
+wiki_total_pages: 12664
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1574,6 +1574,9 @@ wiki_pages:
   - key: "JianchengHouAo"
     title: "建成侯敖 / Ao, Marquis of Jiancheng"
     url: "/wiki/entities/jianchenghouao/"
+  - key: "JianzhangPalaceWesternHan"
+    title: "建章宫 / Jianzhang Palace (Western Han)"
+    url: "/wiki/entities/jianzhangpalacewesternhan/"
   - key: "JieliChangjiang"
     title: "接力长江 / Jieli Changjiang"
     url: "/wiki/entities/jielichangjiang/"

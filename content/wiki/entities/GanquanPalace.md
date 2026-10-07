@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5
   - zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w
   - zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-甘泉宫 / Ganquan Palace is a recurrent palace-place whose meaning changes across the supplied episodes. It appears as a Qin frontier-decapitation site, part of a post-unification capital-and-road landscape, and a Western Han divine-reception, ritual, and recovery destination whose construction claims and neglected access route carry political risk.
+甘泉宫 / Ganquan Palace is a recurrent palace-place whose meaning changes across the supplied episodes. It appears as a Qin frontier-decapitation site, part of a post-unification capital-and-road landscape, and a Western Han court, divine-reception, Taiyi-ritual, and recovery destination whose construction claims and neglected access route carry political risk.
 
 ## Current Profile
 
@@ -23,6 +24,8 @@ last_updated: 2026-10-06
 
 The Western Han sacred-construction layer makes Ganquan a designed reception space for divine visitors. [[zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha|Hanji 331-1]] says [[ShaowengWesternHan|少翁]] urges a Ganquan residence with platforms, divine images, and ritual equipment and later stages the ox-belly “heavenly text” there. Because the other sources already place Ganquan in earlier periods, the current profile treats this as construction or reconfiguration within a wider palace complex, not secure evidence that Shaoweng founded the site.
 
+[[zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt|Hanji 259 part 2]] strengthens Ganquan's Western Han centrality in two stages. [[GongsunQingFangshi|公孙卿]] uses the 柏梁台 fire to recommend that Wudi go there, after which the emperor receives regional officials and conducts court affairs at the site. The same episode credits [[MiuJiWesternHan|缪忌]]'s earlier advocacy with helping place [[Taiyi|太一]] in the ritual hierarchy and says Wudi later builds the Ganquan altar and personally worships at winter solstice.
+
 ## Key Characteristics
 
 - Palace setting used in the source account of Xuan Taihou's killing of the Yiqu king.
@@ -30,6 +33,8 @@ The Western Han sacred-construction layer makes Ganquan a designed reception spa
 - Western Han destination connected to Han Wudi's recovery, amnesty, and spirit-medium patronage.
 - Infrastructure-dependent court site whose access-road condition acquires symbolic political meaning.
 - Western Han sacred-construction and staged-sign setting in the Shaoweng episode.
+- Post-fire court destination where imperial audiences and administration are conducted.
+- High-ranking Taiyi altar and winter-solstice worship setting.
 
 ## Evidence
 
@@ -45,15 +50,18 @@ Western Han ritual destination and political signal:
 Divine-reception construction and staged evidence:
 - [[zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha|Hanji 331-1]] says Shaoweng prompts construction of a divine residence at Ganquan and later uses the palace as the setting for the ox-belly silk-text claim.
 
+Post-fire court center and Taiyi altar:
+- [[zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt|Hanji 259 part 2]] says Gongsun Qing recommends Ganquan after the 柏梁台 fire, Wudi conducts court business there, and a later altar makes it the setting for personal Taiyi worship.
+
 ## Qualifications
 
-The four episodes do not establish that every reference denotes the same building rather than a wider Ganquan palace complex or area across periods. Qinji 121's detailed cosmological interpretation and Zhouji 85's motive analysis remain source-scoped. Hanji 334-1 does not prove the spirit-medium's supernatural claims, the exact road jurisdiction, Yi Zong's intent, or an enemy conspiracy. Hanji 331-1's wording that Shaoweng advised “building Ganquan Palace” conflicts with the earlier-place chronology if read as first foundation; without a more precise architectural identifier, it is retained as an episode-attributed construction or renovation claim.
+The five episodes do not establish that every reference denotes the same building rather than a wider Ganquan palace complex or area across periods. Qinji 121's detailed cosmological interpretation and Zhouji 85's motive analysis remain source-scoped. Hanji 334-1 does not prove the spirit-medium's supernatural claims, the exact road jurisdiction, Yi Zong's intent, or an enemy conspiracy. Hanji 331-1's wording that Shaoweng advised “building Ganquan Palace” conflicts with the earlier-place chronology if read as first foundation; without a more precise architectural identifier, it is retained as an episode-attributed construction or renovation claim. Hanji 259 part 2 does not settle which buildings hosted the reported audiences, how permanent the administrative shift was, or the exact date and institutional continuity of the Taiyi altar.
 
 ## What Changed
 
-- Added Shaoweng's divine-reception construction and ox-belly sign as a distinct Western Han use of Ganquan.
-- Qualified “building Ganquan Palace” as possible construction or reconfiguration within a pre-existing palace area.
-- Extended the site's ritual profile from spirit-medium residence and recovery travel to fangshi-directed sacred architecture.
+- Added the post-fire shift of audiences and court business toward Ganquan.
+- Added the Ganquan Taiyi altar and Wudi's winter-solstice worship.
+- Preserved uncertainty over exact buildings, duration, date, and institutional continuity.
 
 ## Relationships
 
@@ -65,3 +73,5 @@ The four episodes do not establish that every reference denotes the same buildin
 - [[ExecutionDetailAttitudeAttribution|执行细节的态度归因]] - mechanism by which infrastructure condition becomes evidence about an official's attitude.
 - [[ShaowengWesternHan|少翁]] - fangshi associated by Hanji 331-1 with divine-reception construction and the staged ox-belly sign at Ganquan.
 - [[ImmortalityQuestPolitics|求仙政治]] - political mechanism turning promised divine access into palace space, equipment, and repeated imperial commitment.
+- [[MiuJiWesternHan|缪忌]] and [[Taiyi|太一]] - advocate and deity in Ganquan's high-ranking state-ritual branch.
+- [[JianzhangPalaceWesternHan|建章宫]] - larger palace project arising beside Ganquan's strengthened court role.

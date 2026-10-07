@@ -1,37 +1,61 @@
 ---
 title: "Imperial Construction Overload / 帝国工程过载"
 type: concept
-tags: [empire, qin, construction, labor, state-capacity]
-sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
-last_updated: 2026-08-22
+tags: [empire, qin, western-han, construction, labor, state-capacity]
+sources:
+  - zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25
+  - zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi
+  - zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4
+  - zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt
+last_updated: 2026-10-08
+knowledge_schema: synthesis-v1
 ---
 
-# Imperial Construction Overload / 帝国工程过载
+## Definition
 
-Imperial construction overload / 帝国工程过载 is the pattern [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] draws from late [[QinState|秦国]] building programs. The source does not treat [[AfangPalace|阿房宫]] as an isolated palace whim; it places it beside [[QinZhidao|秦直道]], [[QinShiHuangMausoleum|秦始皇陵]], palace networks, material transport, and forced population movement.
+Imperial construction overload / 帝国工程过载 is the condition in which monumental projects that demonstrate state capacity simultaneously compete for labor, transport, money, supplies, and political attention, allowing visible achievement to deepen social and regime strain.
 
-The concept links capacity and burden. Qin can mobilize huge numbers of punished laborers, move stone and timber across regions, connect palaces, relocate households, and expand [[Xianyang|咸阳]]. But the same capacity turns into overload when multiple monumental projects compete for people, timing, and political attention while social resentment is already deep.
+## Current Synthesis
 
-The source's Afang Palace story makes the overload visible through interruption. Qin Shi Huang dies, burial priority pulls labor toward the Lishan mausoleum, Qin Er Shi restarts palace construction, and rebellion pressure quickly halts the project again. A state can be strong enough to begin enormous projects and still too politically brittle to finish them.
+The Qin sources supply the strongest overload case. [[AfangPalace|阿房宫]], [[QinShiHuangMausoleum|秦始皇陵]], [[QinZhidao|秦直道]], palace networks, capital expansion, frontier works, and forced relocation make coercive mobilization visible. Priority shifts between palace and tomb, succession interrupts work, Qin Er Shi restarts extraction, and rebellion stops it again. The unfinished palace is therefore evidence not that Qin lacked mobilizing power, but that simultaneous projects and political brittleness exceeded what that power could sustain.
 
-[[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] adds the moral afterlife of the same overload through [[MengTian|蒙恬]]. [[YangXiong|扬雄]], [[SimaGuang|司马光]], and [[SimaQian|司马迁]] do not let Meng Tian's loyal death erase his part in labor-heavy Qin projects such as [[QinZhidao|秦直道]], long-wall construction, and frontier barriers. Construction overload therefore becomes not only a state-capacity problem but also [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] for the officials who execute it.
-
-[[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] makes overload part of the rebellion climate. After the mausoleum work, [[QinErshi|胡亥 / 秦二世]] increases labor and money to accelerate Afang Palace, while also requisitioning guards, animal feed, transport, and self-supplied grain from the commanderies. The source presents this not as a single project failure but as one layer in the pressure that precedes the [[DazexiangUprising|大泽乡起义]].
+[[zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt|Hanji 259 part 2]] extends the concept beyond the late-Qin collapse pattern. [[JianzhangPalaceWesternHan|建章宫]] turns post-fire, apotropaic, and immortality advice into monumental gates, Taiye Pool, artificial sacred islands, platforms, and a dew-catching figure. The episode explicitly criticizes the human and fiscal expenditure and contrasts the former complex with its ruins and the failure to obtain immortality. This supports cost accounting for sacred construction without claiming that Jianzhang alone destabilized Western Han or that all palace functions were religious.
 
 ## Key Claims
-- State capacity should be read with labor cost, not only with visible infrastructure output.
-- Overlapping imperial projects can compete with one another even when all are ordered by the same regime.
-- Forced labor and population relocation make construction a social-control issue as well as an engineering issue.
-- Unfinished projects can reveal succession stress and regime fragility, not merely technical failure.
-- In this source, Afang Palace becomes a political warning because construction burden and corrupt power damage the people whose support keeps a regime standing.
-- Qinji 127-4 adds that officials who loyally serve coercive infrastructure projects can still bear moral responsibility for labor suffering.
-- Qinji 128-2 adds that construction overload can become a rebellion background when it combines with harsher law and transport obligations.
 
-## Connections
-- [[AfangPalace|阿房宫]], [[QinShiHuangMausoleum|秦始皇陵]], and [[QinZhidao|秦直道]] - main late Qin projects in the source.
-- [[QinShiHuang|嬴政 / 秦始皇]], [[QinErshi|胡亥 / 秦二世]], and [[QinState|秦国]] - ruler, successor, and regime carrying the project load.
-- [[Xianyang|咸阳]], [[Lishan|骊山]], and [[EliteRelocationControl|豪杰迁徙控制]] - capital concentration and burial landscape behind the labor demand.
-- [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - symbolic built-space logic that can intensify construction ambition.
-- [[PostUnificationWarInertia|统一后战争惯性]] and [[MarginalStatusConscription|边缘身份征发]] - adjacent patterns where post-unification Qin keeps finding external and internal outlets for organized coercion.
-- [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] and [[MausoleumSecrecyKilling|陵墓保密杀戮]] - moral-liability and burial-secrecy extensions from Qinji 127-4.
-- [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], [[FatalDeadlineRebellionTrigger|误期死局式起义触发]], [[ChenSheng|陈胜]], and [[WuGuang|吴广]] - social-pressure and rebellion extension.
+- State capacity should be evaluated with labor, transport, fiscal, and opportunity costs, not only completed structures.
+- Multiple ruler-directed projects can compete with one another even inside a highly centralized state.
+- Forced labor, relocation, guarding, and self-supplied transport make construction a social-governance issue as well as an engineering task.
+- Interrupted or unfinished projects can reveal succession stress and political fragility rather than technical incapacity alone.
+- Officials who competently execute coercive infrastructure can retain moral responsibility for the burdens they impose.
+- Sacred or cosmic meaning can enlarge project ambition by making architecture a proposed solution to mortality, disaster, or legitimacy anxiety.
+
+## Evidence
+
+- **Late-Qin project competition:** [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] places Afang Palace beside the mausoleum, Straight Road, palace network, capital growth, relocation, convict labor, and symbolic landscape; work shifts after Qin Shi Huang's death and later stops amid rebellion.
+- **Executor liability:** [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] uses Meng Tian to show that loyal death does not erase responsibility for labor-heavy roads, walls, and frontier barriers.
+- **Rebellion pressure:** [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]] joins renewed Afang work to guards, animal feed, transport, self-supplied grain, harsher law, and the wider pressure preceding Dazexiang.
+- **Western Han sacred construction:** [[zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt|Hanji 259 part 2]] presents Jianzhang Palace and Taiye Pool as materialized immortality ambition whose buildings, waterworks, sacred islands, and bronze figure consume resources without delivering long life.
+
+## Counterevidence & Qualifications
+
+The sources are podcast summaries rather than engineering, fiscal, labor, or archaeological datasets. Qin labor totals, dimensions, transport routes, legal categories, and causal weight in the uprising remain source-scoped. Construction burden was one component of Qin's crisis, not a demonstrated single cause of collapse. Meng Tian's exact authority and responsibility across all works are not fully reconstructed.
+
+Hanji 259 part 2 establishes an explicit cost judgment but does not quantify Jianzhang's budget, workforce, opportunity cost, or share of Western Han fiscal pressure. It does not show that the palace was unfinished, caused regime instability, or served only immortality seeking. The source's dimensions, garden-history priority, ruin account, apotropaic logic, and medical purpose for collected dew require independent verification.
+
+## What Changed
+
+- Extended the concept from a late-Qin collapse pattern to a bounded Western Han sacred-construction case.
+- Added mortality and disaster anxiety as forces that can enlarge monumental project scope.
+- Kept Jianzhang's burden separate from any unsupported claim that it destabilized the dynasty.
+
+## Related Concepts
+
+- [[AfangPalace|阿房宫]] - late-Qin palace whose interrupted work makes project competition visible.
+- [[QinShiHuangMausoleum|秦始皇陵]] - burial project competing for labor and carrying secrecy violence.
+- [[QinZhidao|秦直道]] - infrastructure case joining achievement to coercive labor responsibility.
+- [[JianzhangPalaceWesternHan|建章宫]] - Western Han palace landscape that materializes sacred ambition and expenditure.
+- [[ImmortalityQuestPolitics|求仙政治]] - demand mechanism converting death anxiety and unverifiable access into buildings and equipment.
+- [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - symbolic spatial logic that can intensify construction ambition.
+- [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] - framework for judging officials who execute harmful projects competently.
+- [[DazexiangUprising|大泽乡起义]] - rebellion context in which construction and transport burdens appear beside harsher law.
