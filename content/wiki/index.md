@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（1）](sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw.md) — 以韩安国受辱引出“死灰复燃”，并用他替梁孝王转圜景帝怒意说明：危机沟通可以重述动机，却不能取消宗室的名分与法度边界；具体对话、年代和心理因果保留来源边界。
 - [《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？](sources/zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm.md) — 以承认未知为认识起点，并把刘德求书、留本抄写、集体校理与献书串成“实事求是”的实践链；词语究竟是刘德自定原则还是班固追评仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（1）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-1-lrrtbo38hnvcczgz2ofq4o7vigif.md) — 以《关雎》把刘德的典籍保存与《诗经》连接起来，并补入献雅乐、答礼制问、获赞而未实际采用及“献”谥评价；具体传本、礼乐实践与死因仍保留来源边界。
 - [《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2）](sources/zizhi-tongjian-hanji-268-hejianxianwang-liude-ruhe-yu-shijing-jieyuan-2-lse66eacijdfcyjk76aso6vzp6b_.md) — 以刘德之死说明谥号的追评功能与美化风险，并把汉武帝的经典暗示读作对诸侯王文化影响力的警告；真实死因、帝王意图与标题所示《诗经》关联均保留来源边界。
