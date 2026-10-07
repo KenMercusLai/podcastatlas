@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12577
+wiki_total_pages: 12578
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1385,6 +1385,9 @@ wiki_pages:
   - key: "TianZhuDing"
     title: "《天注定》 / A Touch of Sin"
     url: "/wiki/entities/tianzhuding/"
+  - key: "TianyaMingyueDaoGuLong"
+    title: "《天涯·明月·刀》 / The Horizon, the Moon, the Saber"
+    url: "/wiki/entities/tianyamingyuedaogulong/"
   - key: "TheInnocentAnthropologist"
     title: "《天真的人类学家》 / The Innocent Anthropologist"
     url: "/wiki/entities/theinnocentanthropologist/"

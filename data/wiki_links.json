@@ -227,6 +227,10 @@
     "title": "118. End of the First World War & Remembrance",
     "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
   },
+  "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj": {
+    "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+    "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+  },
   "118-shi-dachen-xinla-fengci-yongbuguoshi-768665425": {
     "title": "118.是，大臣：辛辣讽刺永不过时",
     "url": "/wiki/sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425/"
@@ -23986,6 +23990,10 @@
   "DesirableDifficulty": {
     "title": "Desirable Difficulty",
     "url": "/wiki/concepts/desirabledifficulty/"
+  },
+  "DesireBoundIdentity": {
+    "title": "Desire-Bound Identity / 欲望绑定的身份",
+    "url": "/wiki/concepts/desireboundidentity/"
   },
   "DesireCapacityFit": {
     "title": "Desire-Capacity Fit / 欲望与能力匹配",
@@ -63783,6 +63791,10 @@
     "title": "诗性语言对抗人言喧嚣 / Poetic Language Against Public Noise",
     "url": "/wiki/concepts/poeticlanguageagainstpublicnoise/"
   },
+  "PoeticStyleNarrativeFriction": {
+    "title": "Poetic-Style Narrative Friction / 诗化文风的叙事摩擦",
+    "url": "/wiki/concepts/poeticstylenarrativefriction/"
+  },
   "PoeticWineCulture": {
     "title": "Poetic Wine Culture / 诗酒文化",
     "url": "/wiki/concepts/poeticwineculture/"
@@ -81050,6 +81062,10 @@
   "TianxianBaobaoLynx": {
     "title": "天线宝宝猞猁 / Tianxian Baobao Lynx",
     "url": "/wiki/entities/tianxianbaobaolynx/"
+  },
+  "TianyaMingyueDaoGuLong": {
+    "title": "《天涯·明月·刀》 / The Horizon, the Moon, the Saber",
+    "url": "/wiki/entities/tianyamingyuedaogulong/"
   },
   "TianzhenButianzhen": {
     "title": "天真不天真",

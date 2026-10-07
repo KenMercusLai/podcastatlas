@@ -46249,9 +46249,9 @@
       "url": "/wiki/concepts/confessionalwarescalation/"
     },
     "ConfidenceAsWeapon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -46259,6 +46259,13 @@
           "show": "纸醉金迷FM",
           "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
           "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        },
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
         }
       ],
       "updated": "2026-10-07",
@@ -57866,6 +57873,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/desirabledifficulty/"
+    },
+    "DesireBoundIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/desireboundidentity/"
     },
     "DesireCapacityFit": {
       "episode_count": 4,
@@ -95273,9 +95296,9 @@
       "url": "/wiki/entities/gujiwesternhan/"
     },
     "GuLong": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -95297,6 +95320,13 @@
           "show": "纸醉金迷FM",
           "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
           "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        },
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
         }
       ],
       "updated": "2026-10-07",
@@ -178059,6 +178089,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/poeticlanguageagainstpublicnoise/"
     },
+    "PoeticStyleNarrativeFriction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/poeticstylenarrativefriction/"
+    },
     "PoetryAsSpiritualAwakening": {
       "episode_count": 1,
       "show_count": 1,
@@ -222899,9 +222945,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemePlotCoherence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -222916,6 +222962,13 @@
           "show": "纸醉金迷FM",
           "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
           "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        },
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
         }
       ],
       "updated": "2026-10-07",
@@ -224678,6 +224731,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/tianxiachina/"
+    },
+    "TianyaMingyueDaoGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/tianyamingyuedaogulong/"
     },
     "TianzhenButianzhen": {
       "episode_count": 3,
@@ -255473,9 +255542,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255497,6 +255566,13 @@
           "show": "纸醉金迷FM",
           "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
           "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        },
+        {
+          "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
+          "key": "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj",
+          "show": "纸醉金迷FM",
+          "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
+          "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
         }
       ],
       "updated": "2026-10-07",

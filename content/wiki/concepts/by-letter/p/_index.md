@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9807
+wiki_total_pages: 9809
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "PoeticWineCulture"
     title: "Poetic Wine Culture / 诗酒文化"
     url: "/wiki/concepts/poeticwineculture/"
+  - key: "PoeticStyleNarrativeFriction"
+    title: "Poetic-Style Narrative Friction / 诗化文风的叙事摩擦"
+    url: "/wiki/concepts/poeticstylenarrativefriction/"
   - key: "PoetryAsElitePoliticalLanguage"
     title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
     url: "/wiki/concepts/poetryaselitepoliticallanguage/"

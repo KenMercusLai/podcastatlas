@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖](sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj.md) — 纸醉金迷FM以成年重读讨论古龙的诗化文风、名人榜与代理身份，并把傅红雪、公子羽和燕南飞置于欲望、恐惧和自由的共同轴线上。
 - [119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑](sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf.md) — 纸醉金迷FM以假孔雀图、连环背叛和身份谜局重讲《长生剑》，并质疑“笑”的寓意是否比贪欲、自负与心机更贴合实际情节。
 - [120 红楼金粉 | 金陵十二钗之王熙凤](sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3.md) — 纸醉金迷FM从管理、人情、婚姻、权力与人命争议细读王熙凤，在结构性约束与个人责任之间保留其善意、才干、狠辣和悲剧性。
 - [Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia](sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454.md) — Huberman Lab interview on identity-level pattern change, emotional tolerance, yoga nidra, digital comparison, pornography, and AI reality-testing risk.
@@ -3970,6 +3971,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [《天涯·明月·刀》 / The Horizon, the Moon, the Saber](entities/TianyaMingyueDaoGuLong.md) — 古龙小说，以名人榜、代理身份、孔雀翎和普通归宿讨论欲望、衰老、恐惧与放下。
 - [《长生剑》 / The Longevity Sword](entities/LongevitySwordGuLong.md) — 古龙《七种武器》开篇，以假孔雀图、动机性判断和连环反转把贪欲与心机置于正面武力之上。
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
@@ -16599,6 +16601,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Poetic-Style Narrative Friction / 诗化文风的叙事摩擦](concepts/PoeticStyleNarrativeFriction.md) — 诗化语言同时强化节奏与意象，也可能提高情节辨认成本、造成重复并压缩读者留白。
+- [Desire-Bound Identity / 欲望绑定的身份](concepts/DesireBoundIdentity.md) — 当名望、权力、占有或衰老恐惧把身份变成必须不断维护的负担时，拒绝竞争也可能成为行动与自由。
 - [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for a prize and confidence in superior cunning make participants authenticate the bait and help create their own defeat.
 - [Domestic Authority Without Security / 有权理家而无保障](concepts/DomesticAuthorityWithoutSecurity.md) — 区分家庭内部的实际管理权与婚姻、身份、财产及制度存续上的可靠保障。
 - [Identity-Level Pattern Change](concepts/IdentityLevelPatternChange.md) — Durable-change framework targeting self-beliefs, conditioned wants, and tendencies beneath repeatedly forced behavior.

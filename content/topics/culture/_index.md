@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3184
+topic_total_pages: 3187
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -994,6 +994,9 @@ topic_concepts:
   - key: "DelayedCanonicalRecognition"
     title: "Delayed Canonical Recognition / 延迟经典化"
     url: "/wiki/concepts/delayedcanonicalrecognition/"
+  - key: "DesireBoundIdentity"
+    title: "Desire-Bound Identity / 欲望绑定的身份"
+    url: "/wiki/concepts/desireboundidentity/"
   - key: "DetectiveFictionMoralOrder"
     title: "Detective Fiction Moral Order"
     url: "/wiki/concepts/detectivefictionmoralorder/"
@@ -2341,6 +2344,9 @@ topic_concepts:
   - key: "PoeticCausality"
     title: "Poetic Causality / 诗性因果"
     url: "/wiki/concepts/poeticcausality/"
+  - key: "PoeticStyleNarrativeFriction"
+    title: "Poetic-Style Narrative Friction / 诗化文风的叙事摩擦"
+    url: "/wiki/concepts/poeticstylenarrativefriction/"
   - key: "PoetryAsPoliticalEvidence"
     title: "Poetry As Political Evidence / 诗文作为政治证据"
     url: "/wiki/concepts/poetryaspoliticalevidence/"
@@ -8454,6 +8460,9 @@ topic_sources:
   - key: "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341"
     title: "117.诅咒兔：怪谈文学也要上桌吃饭"
     url: "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
+  - key: "118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj"
+    title: "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖"
+    url: "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
   - key: "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf"
     title: "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑"
     url: "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"

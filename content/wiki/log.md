@@ -31232,3 +31232,11 @@ Added source `119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖
+
+Added source `118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj`; created [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], [[DesireBoundIdentity|欲望绑定的身份]], and [[PoeticStyleNarrativeFriction|诗化文风的叙事摩擦]]; and resynthesized [[GuLong|古龙]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[ConfidenceAsWeapon]], and [[ThemePlotCoherence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 公子羽把名字变成可替换代理人继承的权力品牌，燕南飞在受控、获益与共谋之间难以切开，而傅红雪的主题性胜利来自拒绝名望接班并转向周婷所代表的普通联结；这不等于小说已判定其武力胜过公子羽。诗化短句和“天涯、明月、刀”意象同时形成强烈氛围与情节辨认摩擦，孔雀翎的信心寓意也不能消除孔雀山庄覆灭等因果疑问。No settled contradiction was adopted. 明月心的感情与动机、傅红雪与公子羽的武力高下、身体疾病的实际限制、孔雀山庄战力及性别书写评价 remain disputed or source-scoped. Broad trauma, disability, ranking, and gender pages were kept closed because the focused work and literary concepts capture the bounded addition without rewriting larger or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,905 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the optional full-corpus link scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
