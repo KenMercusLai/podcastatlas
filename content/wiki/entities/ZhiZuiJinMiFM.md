@@ -16,6 +16,7 @@ sources:
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n
   - 107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba
+  - 106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -34,7 +35,7 @@ The method is most persuasive when sympathy and judgment stay together. The show
 
 The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped.
 
-The [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] discussion adds systematic novel-film comparison and an explicit children's-literature disagreement. The hosts trace how prose interiority, buried textual clues, logic puzzles, camera emphasis, visible action, and runtime alter the same narrative functions across media. They also separate an effective Snape-to-Quirrell reversal from simple surprise by checking whether earlier evidence can be reread. Their debate over love as protective magic preserves both childhood emotional formation and adult concern about convenience, while the school-points discussion joins satisfying moral recognition to institutional bias. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
+The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] discussions add systematic novel-film comparison, childhood reading memory, and explicit children's-literature disagreement. The first half connects isolation and the wish for belonging to [[InstitutionalizedFantasyWorldbuilding|institutional worldbuilding]], showing how letters, shopping, banking, currency, school supplies, and transport make inherited magical motifs feel ordinary and inhabitable. Across both halves, the hosts trace how prose accumulation, visual invention, interiority, buried textual clues, logic puzzles, camera emphasis, visible action, and runtime alter narrative functions across media. They also separate an effective Snape-to-Quirrell reversal from simple surprise by checking whether earlier evidence can be reread. Their debate over love as protective magic preserves both childhood emotional formation and adult concern about convenience, while the school-points discussion joins satisfying moral recognition to institutional bias. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 ## Key Characteristics
 
@@ -104,17 +105,19 @@ The [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] disc
 
 ### Adaptation, misdirection, and children's values
 
+- [[106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw]] combines childhood reading memory, pre-Hogwarts plot reconstruction, institutional setting detail, and comparison of visual invention with temporal compression.
 - [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] compares interior dialogue, clue visibility, logic, spectacle, and redistributed character competence across novel and film.
 - [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] tests the Snape misdirection through retrospective evidence and preserves disagreement over love, courage, school points, and moral education.
 
 ## Qualifications
 
-This profile rests on thirteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, Harry Potter adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on fourteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Added medium-specific comparison of interiority, clue salience, logic, spectacle, and competence distribution.
-- Added a children's-literature case where formative emotion and adult criticism remain in explicit dialogue.
+- Extended the Harry Potter case backward to isolation, invitation, Diagon Alley, and the first train friendships.
+- Added institutional fantasy worldbuilding through school procedure, commerce, currency, transport, and material preparation.
+- Extended adaptation comparison to invented visual emotion, temporal compression, and altered character first impressions.
 
 ## Relationships
 
@@ -154,3 +157,4 @@ This profile rests on thirteen episode notes and may not represent every format 
 - [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] - school fantasy used to compare novel-film form, misdirection, friendship, and moral education.
 - [[MediumSpecificAdaptationSalience]] - framework extracted from the episode's comparison of textual and audiovisual emphasis.
 - [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.
+- [[InstitutionalizedFantasyWorldbuilding]] - framework for organizing inherited fantasy motifs into everyday social systems.

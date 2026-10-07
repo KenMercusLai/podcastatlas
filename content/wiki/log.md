@@ -31318,3 +31318,11 @@ Added source `107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-gouji
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 106 六一特辑|《哈利波特与魔法石》：宁愿相信自己是个麻瓜，也不愿相信这世界没魔法
+
+Added source `106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw`; created [[InstitutionalizedFantasyWorldbuilding|制度化幻想世界构建]]; and resynthesized [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]], and [[ChildrensLiteratureMoralDialogue|儿童文学价值对话]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the story's first half moves Harry from neglect and isolation toward friendship, mentorship, and chosen belonging; inherited magical motifs become an inhabitable society through admissions, schooling, shopping, banking, currency, transport, and material routine; and apparently destined links gain moral direction through later choice. The film can intensify loneliness through an invented visual action while also compressing time and altering character first impressions. No settled contradiction was adopted. The Dursleys' possible motives do not excuse abuse, while sales, translation, dictionary, currency, ancestry, adaptation-intent, planning, and later-continuity claims remain conversational or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,916 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
