@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
   - zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va
+  - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq
 last_updated: 2026-10-07
 ---
 
@@ -24,6 +25,8 @@ Xun Yue's current profile is built from judgments rather than a full biography. 
 
 [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] applies the same boundary to [[GuanGao|贯高]]. Guan Gao may protect [[ZhangAo|张敖]] from false implication with exceptional courage and truthfulness, but private loyalty cannot erase the public crime of plotting to kill [[LiuBang|刘邦]].
 
+[[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq|Hanji 283 part 2]] makes the institutional mechanism explicit. Its “three wanderers” passage treats youxia, itinerant persuaders, and favor-seeking careerists as products of an order vacuum. When officials and communities let praise, affection, or anger decide reputation, recommendation, reward, and punishment, private relationship becomes a substitute for factual inquiry and public law. The remedy tests words by conduct and names by reality while blocking private requests and bribery.
+
 [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159 part 2]] supplies Xun Yue's strategic method through “行、势、情”: broad gains and losses, temporary situation, and the firmness of people's commitments. The method explains why restoring six kingdoms or fighting with water at one's back can change meaning when timing, territory, morale, and command conditions change.
 
 Xun Yue's *Shenjian* principle “名必有实，事必有功” demands factual substance behind reputation and results behind action. His practical reach remains limited: as an attendant reader to Emperor Xian, he can formulate political principles but cannot overcome a world in which effective command issues from Cao's camp.
@@ -32,7 +35,7 @@ Xun Yue's *Shenjian* principle “名必有实，事必有功” demands factual
 
 - Eastern Han historian and political thinker represented through later judgments and *Shenjian*.
 - Critic of private loyalty when it overrides office, ruler, law, or public duty.
-- Treats independent youxia action as a symptom of weakened order, in contrast to Sima Qian's sympathy for extra-institutional aid.
+- Treats independent youxia action as a symptom of weakened order and explains how praise, affection, anger, private requests, and relationship-based recommendation can displace facts, law, and public business.
 - Separates admirable courage and truthfulness from legal innocence.
 - Judges strategy by conduct, situation, and actual commitments rather than copied precedent.
 - Insists that names and reputations be matched by reality and that actions be tested by results.
@@ -42,18 +45,20 @@ Xun Yue's *Shenjian* principle “名必有实，事必有功” demands factual
 
 - State-order critique: [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]] uses Xun Yue against aristocratic friend protection and factional loyalty above public office.
 - Youxia critique: [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va|Hanji 284 part 1]] places his orthodox condemnation beside Sima Qian's admiration, exposing a conflict between public order and aid outside official hierarchy.
+- Institutional mechanism: [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq|Hanji 283 part 2]] attributes the rise of the “three wanderers” to transitional weakness and shows private evaluation, recommendation, requests, and business displacing impersonal standards.
 - Legal-moral boundary: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] cites him to argue that Guan Gao's loyal exoneration of Zhang Ao does not cancel regicide conspiracy.
 - Context-sensitive strategy: [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159 part 2]] presents “行、势、情” as a framework for comparing superficially similar strategies under different conditions.
 - Name, reality, and results: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] attributes “名必有实，事必有功” to *Shenjian* and uses Xun Yue's court position to discuss counsel without military power.
 
 ## Qualifications
 
-These sources use Xun Yue selectively as a reception and judgment authority; they do not provide a complete biography, bibliography, or independent textual edition. Hanji 284 part 1 compresses his position into an orthodox condemnation of youxia and does not identify the exact passage, textual setting, or full range of his view. Hanji 1072's “话语权与军权分离” and “政出曹门” framing is the host's political interpretation. The exact quotation, Xun Yue's attendant-reader role, the influence of *Shenjian*, and the episode's family relationship claims involving [[XunYu|荀彧]] and [[XunYou|荀攸]] require textual verification before being generalized.
+These sources use Xun Yue selectively as a reception and judgment authority; they do not provide a complete biography, bibliography, or independent textual edition. Hanji 284 part 1 compresses his position into an orthodox condemnation of youxia. Hanji 283 part 2 supplies more detail but remains a structured summary whose exact wording and division among Xun Yue, Ban Gu, and the host require primary-text comparison; its four-occupation ideal and “奸民” category are not adopted as current norms. Hanji 1072's “话语权与军权分离” and “政出曹门” framing is the host's political interpretation. The exact quotation, Xun Yue's attendant-reader role, the influence of *Shenjian*, and the episode's family relationship claims involving [[XunYu|荀彧]] and [[XunYou|荀攸]] require textual verification before being generalized.
 
 ## What Changed
 
 - Broadened the public-order critique from private factional loyalty and regicide cases to youxia acting outside established rules.
 - Added Sima Qian's sympathy for extra-institutional aid as the explicit counter-position rather than flattening the dispute.
+- Added the “three wanderers” diagnosis and the mechanism by which subjective reputation and private ties displace evidence, law, and official business.
 
 ## Relationships
 

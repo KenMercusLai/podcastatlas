@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb
   - zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox
   - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk
+  - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq
 last_updated: 2026-10-07
 ---
 
@@ -24,7 +25,7 @@ Hanji 723 presents Ban Gu as a policy commentator. His comparison makes [[HanWud
 
 Hanji 366-2 adds Ban Gu's moral ethnographic voice. The episode attributes to him a contrast between Jizi's ritual, agricultural, textile, and legal teaching and later theft introduced by Han officials and merchants, followed by legal proliferation. The durable insight is narrow: administrators and commercial entrants can alter local incentives and trust. The broader claims about pristine customs, gender, theft, and “East Yi” character remain products of elite historiography rather than neutral population description.
 
-Hanji 283 adds a domestic political-order register. It attributes to Ban Gu a genealogy in which weakening hierarchy and Warring States patronage normalize private loyalty above ruler and office. [[GuoJieWesternHan|郭解]] then becomes the decisive distinction: Ban Gu can recognize gentleness, filiality, aid, humility, and restraint while still condemning unauthorized life-and-death power. The episode therefore presents his historiography as able to separate personal character from institutional legitimacy, although its reconstruction remains source-scoped.
+Hanji 283 part 1 adds a domestic political-order register. It attributes to Ban Gu a genealogy in which weakening hierarchy and Warring States patronage normalize private loyalty above ruler and office. [[GuoJieWesternHan|郭解]] then becomes the decisive distinction: Ban Gu can recognize gentleness, filiality, aid, humility, and restraint while still condemning unauthorized life-and-death power. Hanji 283 part 2 preserves that favorable character portrait while developing [[XunYue|荀悦]]'s broader institutional critique; because the episode moves between the two historians, the wiki keeps Ban Gu's specific appraisal distinct from Xun Yue's “three wanderers” program.
 
 Hanji 767 closes the career. A servant's earlier insult gives a Luoyang magistrate a private grievance, and the wider Dou-family cleanup supplies the opportunity to imprison Ban Gu. He dies before the `Han Shu` is finished, after which Emperor He orders Ban Zhao to continue it.
 
@@ -45,12 +46,13 @@ Hanji 767 closes the career. A servant's earlier insult gives a Luoyang magistra
 - Frontier strategy and cost: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] attributes to Ban Gu both the anti-Xiongnu logic of Western Regions expansion and its fiscal and social burden.
 - Jizi and custom narrative: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] attributes to Ban Gu a passage connecting education and simple law to local order, then blaming later officials and merchants for theft and legal growth.
 - Youxia and public order: [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk|Hanji 283]] attributes to Ban Gu a critique of private loyalty displacing official duty and a judgment that Guo Jie's virtues do not authorize private life-and-death power.
+- Youxia character qualification: [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq|Hanji 283 part 2]] repeats the gentleness, filiality, aid, humility, and courtesy that make侠义之士 attractive while preserving the public-authority objection.
 - Private grievance and prison death: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says an old servant-magistrate grievance is activated during the Dou-family purge and Ban Gu dies in prison.
 - Continuation order: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue the unfinished work.
 
 ## Qualifications
 
-This remains a source-bounded profile, not a complete Ban Gu biography or textual study of the `Han Shu`. Hanji 366-2 and 283 paraphrase attributed evaluative passages rather than supplying a critical edition. The Jizi, custom, sexuality, ethnic-character, merchant, and legal-count claims require source criticism and are not adopted as timeless population facts. Hanji 283's hierarchy-to-youxia genealogy, quotations, character portrait, and approval of Guo Jie's punishment likewise require primary-text comparison and do not independently prove legal guilt or proportionality. The exact charges in Ban Gu's arrests, full authorship history, and wider offices remain outside this evidence set.
+This remains a source-bounded profile, not a complete Ban Gu biography or textual study of the `Han Shu`. Hanji 366-2 and both Hanji 283 parts paraphrase evaluative passages rather than supplying a critical edition. Part 2 attributes most of its systematic “three wanderers” critique to Xun Yue despite its Ban Gu title, so that material is not silently reassigned here. The Jizi, custom, sexuality, ethnic-character, merchant, and legal-count claims require source criticism and are not adopted as timeless population facts. Hanji 283's hierarchy-to-youxia genealogy, quotations, character portrait, and approval of Guo Jie's punishment likewise require primary-text comparison and do not independently prove legal guilt or proportionality. The exact charges in Ban Gu's arrests, full authorship history, and wider offices remain outside this evidence set.
 
 ## What Changed
 
@@ -58,6 +60,7 @@ This remains a source-bounded profile, not a complete Ban Gu biography or textua
 - Narrowed its reusable claim to institutional example, commercial conduct, social trust, and legal response.
 - Marked broad ethnic and gender generalizations as transmitted historiography rather than current judgment.
 - Added the youxia appraisal as a second moral-political register separating personal virtue from legitimate public authority.
+- Preserved part 2's renewed praise of侠义 character while separating Ban Gu's appraisal from Xun Yue's wider programmatic critique.
 
 ## Relationships
 

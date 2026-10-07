@@ -31636,3 +31636,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（2）
+
+Added source `zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq`; and resynthesized [[XunYue|荀悦]], [[BanGuEasternHan|班固]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode attributes to Xun Yue a “three wanderers” account in which institutional weakness lets praise, affection, anger, private requests, and relationship-based recommendation displace evidence, law, and public business, while Ban Gu's favorable侠义 character portrait remains distinct from authorization of private power. No settled contradiction was adopted. The occupational ideal, “奸民” category, quotations, division of attribution, causal history, and Zhufu Yan preview remain episode-attributed or require primary-text comparison. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,957 sources across 799 overview paragraphs and nine topics. The four changed canonical/source pages introduce no broken wikilinks; the corpus-wide scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
