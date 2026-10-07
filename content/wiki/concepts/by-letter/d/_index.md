@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9894
+wiki_total_pages: 9898
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "DevelopmentResearchEthics"
     title: "Development Research Ethics"
     url: "/wiki/concepts/developmentresearchethics/"
+  - key: "DevelopmentalAuthoritarianLegitimacy"
+    title: "Developmental Authoritarian Legitimacy / 发展型威权合法性"
+    url: "/wiki/concepts/developmentalauthoritarianlegitimacy/"
   - key: "DevelopmentalIndividuality"
     title: "Developmental Individuality"
     url: "/wiki/concepts/developmentalindividuality/"

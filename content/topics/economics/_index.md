@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2211
+topic_total_pages: 2212
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -757,6 +757,9 @@ topic_concepts:
   - key: "CorporateSpeakingPoliticalApprenticeship"
     title: "Corporate Speaking as Political Apprenticeship"
     url: "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
+  - key: "CorridorStateStrategy"
+    title: "Corridor State Strategy / 走廊国家战略"
+    url: "/wiki/concepts/corridorstatestrategy/"
   - key: "CostCapEconomics"
     title: "Cost Cap Economics"
     url: "/wiki/concepts/costcapeconomics/"

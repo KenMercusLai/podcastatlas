@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12668
+wiki_total_pages: 12675
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "JamaicanWomensNationalTeam"
     title: "Jamaican Women's National Team"
     url: "/wiki/entities/jamaicanwomensnationalteam/"
+  - key: "JamalKhashoggi"
+    title: "Jamal Khashoggi / 贾迈勒·卡舒吉"
+    url: "/wiki/entities/jamalkhashoggi/"
   - key: "JamesAngleton"
     title: "James Angleton"
     url: "/wiki/entities/jamesangleton/"

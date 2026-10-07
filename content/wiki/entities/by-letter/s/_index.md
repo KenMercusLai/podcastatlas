@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12668
+wiki_total_pages: 12675
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "SaudiPublicInvestmentFund"
     title: "Saudi Public Investment Fund"
     url: "/wiki/entities/saudipublicinvestmentfund/"
+  - key: "SaudiVision2030"
+    title: "Saudi Vision 2030 / 沙特2030愿景"
+    url: "/wiki/entities/saudivision2030/"
   - key: "SavannahPollock"
     title: "Savannah Pollock"
     url: "/wiki/entities/savannahpollock/"
@@ -1250,6 +1253,9 @@ wiki_pages:
   - key: "SouthernPovertyLawCenter"
     title: "Southern Poverty Law Center"
     url: "/wiki/entities/southernpovertylawcenter/"
+  - key: "SouthernTransitionalCouncil"
+    title: "Southern Transitional Council / 南方过渡委员会"
+    url: "/wiki/entities/southerntransitionalcouncil/"
   - key: "SovietUnion"
     title: "Soviet Union"
     url: "/wiki/entities/sovietunion/"

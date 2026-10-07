@@ -2035,6 +2035,10 @@
     "title": "303: The Bloodiest Crusade",
     "url": "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
   },
+  "304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t": {
+    "title": "304-沙特阿拉伯过去十年在进行一场怎样的政治改革？",
+    "url": "/wiki/sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t/"
+  },
   "304-the-murder-of-julius-caesar-glt3561951089": {
     "title": "304: The Murder of Julius Caesar",
     "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
@@ -10630,6 +10634,10 @@
   "AuthoritarianFascismBoundary": {
     "title": "Authoritarian-Fascism Boundary",
     "url": "/wiki/concepts/authoritarianfascismboundary/"
+  },
+  "AuthoritarianModernization": {
+    "title": "Authoritarian Modernization / 威权现代化",
+    "url": "/wiki/concepts/authoritarianmodernization/"
   },
   "AuthoritarianSportsPropaganda": {
     "title": "Authoritarian Sports Propaganda",
@@ -21091,6 +21099,10 @@
     "title": "Corrective Weak-Link Training",
     "url": "/wiki/concepts/correctiveweaklinktraining/"
   },
+  "CorridorStateStrategy": {
+    "title": "Corridor State Strategy / 走廊国家战略",
+    "url": "/wiki/concepts/corridorstatestrategy/"
+  },
   "CorrineReynolds": {
     "title": "Corrine Reynolds",
     "url": "/wiki/entities/corrinereynolds/"
@@ -24366,6 +24378,10 @@
   "DevelopmentResearchEthics": {
     "title": "Development Research Ethics",
     "url": "/wiki/concepts/developmentresearchethics/"
+  },
+  "DevelopmentalAuthoritarianLegitimacy": {
+    "title": "Developmental Authoritarian Legitimacy / 发展型威权合法性",
+    "url": "/wiki/concepts/developmentalauthoritarianlegitimacy/"
   },
   "DevelopmentalIndividuality": {
     "title": "Developmental Individuality",
@@ -43479,6 +43495,10 @@
     "title": "Jamaican Women's National Team",
     "url": "/wiki/entities/jamaicanwomensnationalteam/"
   },
+  "JamalKhashoggi": {
+    "title": "Jamal Khashoggi / 贾迈勒·卡舒吉",
+    "url": "/wiki/entities/jamalkhashoggi/"
+  },
   "JamesAngleton": {
     "title": "James Angleton",
     "url": "/wiki/entities/jamesangleton/"
@@ -56887,6 +56907,14 @@
     "title": "Mohammed Abdel Krim",
     "url": "/wiki/entities/mohammedabdelkrim/"
   },
+  "MohammedBinSalman": {
+    "title": "Mohammed bin Salman / 穆罕默德·本·萨勒曼",
+    "url": "/wiki/entities/mohammedbinsalman/"
+  },
+  "MohammedBinZayed": {
+    "title": "Mohammed bin Zayed / 穆罕默德·本·扎耶德",
+    "url": "/wiki/entities/mohammedbinzayed/"
+  },
   "MohenjoDaro": {
     "title": "Mohenjo-daro",
     "url": "/wiki/entities/mohenjodaro/"
@@ -57882,6 +57910,10 @@
   "NCR": {
     "title": "NCR",
     "url": "/wiki/entities/ncr/"
+  },
+  "NEOM": {
+    "title": "NEOM",
+    "url": "/wiki/entities/neom/"
   },
   "NFLFilms": {
     "title": "NFL Films",
@@ -69399,6 +69431,10 @@
     "title": "Renqing Order",
     "url": "/wiki/concepts/renqingorder/"
   },
+  "RentierState": {
+    "title": "Rentier State / 租金国家",
+    "url": "/wiki/concepts/rentierstate/"
+  },
   "RenyiBenefitOrdering": {
     "title": "Renyi-Benefit Ordering / 仁义优先的利益秩序",
     "url": "/wiki/concepts/renyibenefitordering/"
@@ -72438,6 +72474,10 @@
   "SaudiPublicInvestmentFund": {
     "title": "Saudi Public Investment Fund",
     "url": "/wiki/entities/saudipublicinvestmentfund/"
+  },
+  "SaudiVision2030": {
+    "title": "Saudi Vision 2030 / 沙特2030愿景",
+    "url": "/wiki/entities/saudivision2030/"
   },
   "SavannahPollock": {
     "title": "Savannah Pollock",
@@ -76310,6 +76350,10 @@
   "SouthernTourPoliticalTheater": {
     "title": "南巡政治剧场 / Southern Tour Political Theater",
     "url": "/wiki/concepts/southerntourpoliticaltheater/"
+  },
+  "SouthernTransitionalCouncil": {
+    "title": "Southern Transitional Council / 南方过渡委员会",
+    "url": "/wiki/entities/southerntransitionalcouncil/"
   },
   "SouthernXiongnu": {
     "title": "南匈奴 / Southern Xiongnu",
@@ -85346,6 +85390,10 @@
   "WahahaPureWater": {
     "title": "娃哈哈纯净水 / Wahaha Pure Water",
     "url": "/wiki/entities/wahahapurewater/"
+  },
+  "Wahhabism": {
+    "title": "Wahhabism / 瓦哈比主义",
+    "url": "/wiki/entities/wahhabism/"
   },
   "WaitlistInvitationGrowth": {
     "title": "Waitlist Invitation Growth",

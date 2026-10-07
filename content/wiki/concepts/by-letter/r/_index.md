@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9894
+wiki_total_pages: 9898
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "RenqingOrder"
     title: "Renqing Order"
     url: "/wiki/concepts/renqingorder/"
+  - key: "RentierState"
+    title: "Rentier State / 租金国家"
+    url: "/wiki/concepts/rentierstate/"
   - key: "RenyiBenefitOrdering"
     title: "Renyi-Benefit Ordering / 仁义优先的利益秩序"
     url: "/wiki/concepts/renyibenefitordering/"

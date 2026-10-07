@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12668
+wiki_total_pages: 12675
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Wagyu"
     title: "Wagyu / 和牛"
     url: "/wiki/entities/wagyu/"
+  - key: "Wahhabism"
+    title: "Wahhabism / 瓦哈比主义"
+    url: "/wiki/entities/wahhabism/"
   - key: "WAIC"
     title: "WAIC"
     url: "/wiki/entities/waic/"

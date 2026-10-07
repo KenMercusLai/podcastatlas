@@ -15496,6 +15496,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AuthoritarianModernization": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AuthoritarianSportsPropaganda": [
     {
       "key": "politics",
@@ -25113,6 +25120,23 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CorridorStateStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     },
     {
       "key": "politics",
@@ -58499,6 +58523,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "MohammedBinSalman": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MohammedBinZayed": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MohenjoDaro": [
     {
       "key": "history",
@@ -77779,6 +77817,13 @@
     }
   ],
   "SouthernTourPoliticalTheater": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SouthernTransitionalCouncil": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [304-沙特阿拉伯过去十年在进行一场怎样的政治改革？](sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t.md) — 独树不成林把沙特2030愿景解释为同时改造石油租金、性别秩序与宗教共治的威权现代化，并以经济绩效压力和走廊国家战略解释沙特—阿联酋竞争。
 - [Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命](sources/8228694742-944685.md) — 捕蛇者说对话金融技术管理者张肖文，讨论传统企业的成本中心逻辑、受监管部署、流程重构、初级岗位压力、领域知识与有状态职业资本。
 - [《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣](sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz.md) — 余善在汉军压力下杀闽越王郢并献首止战，汉武帝随后分别承认丑的宗祀合法性与余善的地方实权；赵胡谢汉、送太子而拒绝亲自入朝，又显示臣服、依赖与自治可以并存。
 - [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw.md) — 汲黯以公开直谏、越程序救灾后主动请罪和东海授权治理显示其并非只会“抬杠”；王恢、韩安国的和战分歧及董仲舒举孝廉建议则补出汉武帝初期政策背景。
@@ -4078,6 +4079,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [Mohammed bin Salman / 穆罕默德·本·萨勒曼](entities/MohammedBinSalman.md) — Saudi crown prince presented as the architect of Vision 2030 and its centralized authoritarian modernization.
+- [Mohammed bin Zayed / 穆罕默德·本·扎耶德](entities/MohammedBinZayed.md) — UAE president framed as MBS’s former mentor and the leader of an outward corridor-network strategy.
+- [Saudi Vision 2030 / 沙特2030愿景](entities/SaudiVision2030.md) — Saudi whole-state reform program spanning oil diversification, women’s participation, religious authority, and centralized rule.
+- [Wahhabism / 瓦哈比主义](entities/Wahhabism.md) — Conservative Sunni reform movement historically allied with the Saudi monarchy and constrained under MBS.
+- [Jamal Khashoggi / 贾迈勒·卡舒吉](entities/JamalKhashoggi.md) — Saudi journalist whose 2018 killing marks the coercive boundary of MBS’s reform image.
+- [Southern Transitional Council / 南方过渡委员会](entities/SouthernTransitionalCouncil.md) — UAE-backed southern Yemeni separatist movement central to the Saudi-UAE security dispute.
+- [NEOM](entities/NEOM.md) — Saudi megaproject serving as both a Vision 2030 diversification instrument and a delivery-risk signal.
 - [张肖文 / Zhang Xiaowen](entities/ZhangXiaowen.md) — Foreign-financial-institution technology manager discussing regulated AI deployment, cost accountability, domain knowledge, and career resilience.
 - [程不识 / Cheng Bushi (Western Han)](entities/ChengBushiWesternHan.md) — 以严密行军、营垒、夜间警戒与军中文书换取常规防备，并与李广的个人能力型治军构成可复制性对照的西汉将领。
 - [缪忌 / Miu Ji (Western Han)](entities/MiuJiWesternHan.md) — 以太一高于五帝和古代天子祭祀先例推动其进入汉武帝礼制的方士。
@@ -11518,7 +11526,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Indigenous kingdom, plantation-labor and remittance node shaped by monarchy, foreign pressure, migration, and U.S. expansion.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
-- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, language institutions, translation, communication, embodiment, autonomy, intellectual history, and cultural criticism.
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, language, translation, embodiment, intellectual history, and Gulf political economy through bounded comparison.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -13534,7 +13542,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Federation of Labor](entities/AmericanFederationOfLabor.md) — Union federation invoked as part of the U.S. private-bargaining path for vacation and other benefits.
 - [OPEC](entities/OPEC.md) — Oil-producing-state organization tied to Perez Alfonso's Venezuela-centered coordination push, producer quotas, Saudi swing production, and UAE exit pressure.
 - [Seven Sisters Oil Majors](entities/SevenSistersOilMajors.md) — Major Western oil-company group whose late-1950s pricing and concession power triggered producer-country coordination in the OPEC episode.
-- [Saudi Arabia](entities/SaudiArabia.md) — Oil-producing country framed by the OPEC episode as founder, swing producer, quota enforcer, and UAE quota-dispute counterpart.
+- [Saudi Arabia](entities/SaudiArabia.md) — Oil producer and sacred-custodianship monarchy whose Vision 2030 reform joins diversification, social change, religious centralization, and political coercion.
 - [Wanda Jablonski](entities/WandaJablonski.md) — Oil journalist whose reporting and relationships helped producer countries understand Seven Sisters power before OPEC formed.
 - [Ibrahim Almohanna](entities/IbrahimAlmohanna.md) — Former Saudi oil adviser used by the OPEC episode to frame OPEC as supply manager rather than simple high-price seeker.
 - [Kate Durian](entities/KateDurian.md) — OPEC watcher explaining UAE exit pressure through quotas, the Green Paradox, Saudi tension, and Strait of Hormuz disruption.
@@ -15296,7 +15304,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
 - [Greg Carlstrom](entities/GregCarlstrom.md) — The Intelligence analyst explaining Gulf stability risk, uneven Gulf readiness, and possible strategic-investment shifts after the Iran war.
 - [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
-- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to business-hub resilience, oil coordination, Sudan and Syria diplomacy, and Iran sanctions compliance channels.
+- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf business and logistics state connected to corridor strategy, Saudi rivalry, oil coordination, regional diplomacy, and sanctions channels.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
 - [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
 - [Shire folk](entities/ShireFolk.md) — Economist audio investigation on Tommy Robinson's Luton origins, media exclusion, EDL formation, and American right-wing warning narratives about Britain.
@@ -16800,6 +16808,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [Rentier State / 租金国家](concepts/RentierState.md) — State structure funded substantially by external resource income, weakening tax accountability and increasing commodity-cycle exposure.
+- [Authoritarian Modernization / 威权现代化](concepts/AuthoritarianModernization.md) — Economic and social transformation pursued while concentrated political power is preserved or strengthened.
+- [Developmental Authoritarian Legitimacy / 发展型威权合法性](concepts/DevelopmentalAuthoritarianLegitimacy.md) — Growth-and-delivery legitimacy that can shift toward nationalism and security when performance disappoints.
+- [Corridor State Strategy / 走廊国家战略](concepts/CorridorStateStrategy.md) — Influence built through ports, logistics, finance, sovereign capital, shipping routes, intelligence, and elite networks.
 - [Regulated Enterprise AI Deployment / 受监管企业AI部署](concepts/RegulatedEnterpriseAIDeployment.md) — AI adoption under data-residency, information-security, infrastructure, continuity, vendor-liability, and sector-regulation constraints.
 - [Enterprise AI Cost-Center Framing / 企业AI成本中心框架](concepts/EnterpriseAICostCenterFraming.md) — Organizational lens that evaluates AI mainly through removable support-function cost while risking confusion between savings, capacity, and newly feasible work.
 - [Stateful Career Capital / 有状态职业资本](concepts/StatefulCareerCapital.md) — Professional value accumulated through system history, organizational context, relationships, trust, exceptions, and continuing responsibility.

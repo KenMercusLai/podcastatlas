@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3182
+topic_total_pages: 3187
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -391,6 +391,9 @@ topic_concepts:
   - key: "AuthorAsPoliticalSymbol"
     title: "Author As Political Symbol / 作者作为政治符号"
     url: "/wiki/concepts/authoraspoliticalsymbol/"
+  - key: "AuthoritarianModernization"
+    title: "Authoritarian Modernization / 威权现代化"
+    url: "/wiki/concepts/authoritarianmodernization/"
   - key: "AuthoritarianSportsPropaganda"
     title: "Authoritarian Sports Propaganda"
     url: "/wiki/concepts/authoritariansportspropaganda/"
@@ -940,6 +943,9 @@ topic_concepts:
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
+  - key: "CorridorStateStrategy"
+    title: "Corridor State Strategy / 走廊国家战略"
+    url: "/wiki/concepts/corridorstatestrategy/"
   - key: "CostCapEconomics"
     title: "Cost Cap Economics"
     url: "/wiki/concepts/costcapeconomics/"
@@ -6791,6 +6797,12 @@ topic_entities:
   - key: "MohammadRezaPahlavi"
     title: "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维"
     url: "/wiki/entities/mohammadrezapahlavi/"
+  - key: "MohammedBinSalman"
+    title: "Mohammed bin Salman / 穆罕默德·本·萨勒曼"
+    url: "/wiki/entities/mohammedbinsalman/"
+  - key: "MohammedBinZayed"
+    title: "Mohammed bin Zayed / 穆罕默德·本·扎耶德"
+    url: "/wiki/entities/mohammedbinzayed/"
   - key: "MonMothma"
     title: "Mon Mothma"
     url: "/wiki/entities/monmothma/"
@@ -7334,6 +7346,9 @@ topic_entities:
   - key: "SouthAfrica"
     title: "South Africa"
     url: "/wiki/entities/southafrica/"
+  - key: "SouthernTransitionalCouncil"
+    title: "Southern Transitional Council / 南方过渡委员会"
+    url: "/wiki/entities/southerntransitionalcouncil/"
   - key: "Spain"
     title: "Spain"
     url: "/wiki/entities/spain/"

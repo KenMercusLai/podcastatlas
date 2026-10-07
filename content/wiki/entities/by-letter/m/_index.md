@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12668
+wiki_total_pages: 12675
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1511,6 +1511,12 @@ wiki_pages:
   - key: "MohammedAbdelKrim"
     title: "Mohammed Abdel Krim"
     url: "/wiki/entities/mohammedabdelkrim/"
+  - key: "MohammedBinSalman"
+    title: "Mohammed bin Salman / 穆罕默德·本·萨勒曼"
+    url: "/wiki/entities/mohammedbinsalman/"
+  - key: "MohammedBinZayed"
+    title: "Mohammed bin Zayed / 穆罕默德·本·扎耶德"
+    url: "/wiki/entities/mohammedbinzayed/"
   - key: "MohenjoDaro"
     title: "Mohenjo-daro"
     url: "/wiki/entities/mohenjodaro/"

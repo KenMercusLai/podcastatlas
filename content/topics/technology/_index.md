@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3364
+topic_total_pages: 3365
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1633,6 +1633,9 @@ topic_concepts:
   - key: "CorporateMemphis"
     title: "Corporate Memphis"
     url: "/wiki/concepts/corporatememphis/"
+  - key: "CorridorStateStrategy"
+    title: "Corridor State Strategy / 走廊国家战略"
+    url: "/wiki/concepts/corridorstatestrategy/"
   - key: "CraftLaborBottleneck"
     title: "Craft Labor Bottleneck"
     url: "/wiki/concepts/craftlaborbottleneck/"

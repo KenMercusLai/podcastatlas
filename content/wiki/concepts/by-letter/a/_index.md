@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9894
+wiki_total_pages: 9898
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2768,6 +2768,9 @@ wiki_pages:
   - key: "AuthorCharacterSeparation"
     title: "Author-Character Separation"
     url: "/wiki/concepts/authorcharacterseparation/"
+  - key: "AuthoritarianModernization"
+    title: "Authoritarian Modernization / 威权现代化"
+    url: "/wiki/concepts/authoritarianmodernization/"
   - key: "AuthoritarianSportsPropaganda"
     title: "Authoritarian Sports Propaganda"
     url: "/wiki/concepts/authoritariansportspropaganda/"

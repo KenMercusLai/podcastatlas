@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9894
+wiki_total_pages: 9898
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2393,6 +2393,9 @@ wiki_pages:
   - key: "CorrectiveWeakLinkTraining"
     title: "Corrective Weak-Link Training"
     url: "/wiki/concepts/correctiveweaklinktraining/"
+  - key: "CorridorStateStrategy"
+    title: "Corridor State Strategy / 走廊国家战略"
+    url: "/wiki/concepts/corridorstatestrategy/"
   - key: "CorruptingPowerRenunciation"
     title: "Corrupting Power and Renunciation"
     url: "/wiki/concepts/corruptingpowerrenunciation/"
