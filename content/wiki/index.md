@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f.md) — 以《汉书》叙事对照“马前泼水”戏曲记忆，将崔氏离开朱买臣重释为贫困压力下对劳动、尊严与共同未来的分歧，而非简单嫌贫爱富。
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3.md) — 主父偃把诸侯隐私转化为朝廷指控，燕王与齐王相继自杀；齐案又显示官方调查、中央收权与私人怨恨如何纠缠，并触发刘彭祖先发告发。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq.md) — 大月氏因新领地安定富庶而拒绝联汉攻匈奴；张骞再度被俘后借匈奴内乱逃归，使原始联盟失败转化为地理报告、外交接触与丝路形成的前置条件。
 - [《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1）](sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb.md) — 张骞受命联络月氏，在堂邑父协助下穿越险地却被军臣单于扣留十年；节目以战争人口压力解释其草原成家，本期止于逃至大宛。
@@ -4130,6 +4131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严助 / Yan Zhu (Western Han)](entities/YanZhuWesternHan.md) — 朱买臣的早期举荐者；其在淮南案后的处死成为朱买臣仇视张汤的重要来源。
 - [田信 / Tian Xin (Western Han)](entities/TianXinWesternHan.md) — 被朱买臣选作指控张汤泄露政策与官商勾结之桥梁的西汉商人。
 - [朱买臣 / Zhu Maichen (Western Han)](entities/ZhuMaichenWesternHan.md) — 因严助之死、张汤羞辱与共同威胁组织三长史反击，并以田信关系设计指控，后被反向清算。
+- [崔氏 / Cui Shi (Zhu Maichen's Wife)](entities/CuiShiZhuMaichenWife.md) — 在长期贫困与生活方向冲突中离开朱买臣、后被“马前泼水”戏曲塑成嫌贫爱富者的妻子。
 - [王朝 / Wang Chao (Western Han)](entities/WangChaoWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后被张汤遗书指控并处死的三长史之一。
 - [边通 / Bian Tong (Western Han)](entities/BianTongWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后与朱买臣、王朝一同进入死后反向清算。
 - [张汤母亲 / Mother of Zhang Tang (Western Han)](entities/ZhangTangMotherWesternHan.md) — 以拒绝厚葬和牛车薄葬表达儿子受谗而死，并影响汉武帝重审判断的张汤之母。

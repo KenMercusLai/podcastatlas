@@ -31543,3 +31543,10 @@ Added source `zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）
+
+Added source `zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f`; created [[CuiShiZhuMaichenWife|崔氏]]; and resynthesized [[ZhuMaichenWesternHan|朱买臣]], [[CharacterBasedRomanticCompatibility]], and [[HistoricalReputationConstruction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode distinguishes prolonged poverty and incompatible judgments about work, dignity, and a credible future from the later “马前泼水” stereotype of a status-seeking wife. No settled contradiction was adopted. Cui's name, motives, household contribution, legal separation, later fate, Zhu's predicted age of advancement, and the opera's transmission remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,945 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

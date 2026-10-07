@@ -7,7 +7,8 @@ sources:
   - 56-nero-glt7241559003
   - 36-our-greatest-prime-minister-glt9826873277
   - 35-the-prime-ministers-world-cup-glt6124252189
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,11 +28,13 @@ Reputation construction is therefore neither a single fabrication nor the passiv
 
 Popular voting is another active reputation mechanism. Vague criteria let voters rank achievement, moral character, political temperament, current controversy, familiarity, and emotional allegiance at once. The first round shows vivid persona defeating administrative substance, recent controversy overwhelming electoral success, and concise schoolbook associations outperforming diffuse constitutional importance. [[35-the-prime-ministers-world-cup-glt6124252189]] The later rounds add living political constituencies: [[ClementAttlee|Attlee]] benefits from the symbolic force of the [[NHS]] and Labour memory; Gladstone survives without an equivalent Liberal constituency through reform and moral seriousness; Lloyd George's achievements are discounted by misconduct; and Churchill's heroic international status becomes inseparable from culture-war dispute. [[36-our-greatest-prime-minister-glt9826873277]]
 
+Popular theatre supplies a more intimate route to the same effect. [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f|Hanji 286 part 1]] contrasts its reading of [[CuiShiZhuMaichenWife|崔氏]] as a spouse exhausted by hardship and incompatible expectations with the “马前泼水” plot, where she becomes a status-seeking abandoner who returns after [[ZhuMaichenWesternHan|朱买臣]] gains office. The poured-water test, rejected reunion, and shame death compress disputed relationship history into a memorable moral verdict. The source does not trace that transmission fully, but it shows how dramatic causality can displace a thinner historical record in public memory.
+
 ## Key Claims
 
 - Successor regimes can turn defeated predecessors into illegitimate interruptions or moral opposites.
 - Sparse or one-sided evidence gives later narrative forms more room to organize motive and identity.
-- Literature, biography, religion, monuments, and performance make reputations portable through scene, object, phrase, and ritual.
+- Literature, biography, religion, monuments, and performance make reputations portable through scene, object, phrase, ritual, and repeatable moral judgment.
 - Political and religious communities retain details that serve current legitimacy, persecution memory, or moral explanation.
 - Material remains can both challenge a legend and keep it physically present.
 - Parties, institutions, current events, name recognition, vivid persona, and participatory media give some historical reputations stronger living constituencies than others.
@@ -47,15 +50,16 @@ Popular voting is another active reputation mechanism. Vague criteria let voters
 - Vividness and accessibility: [[35-the-prime-ministers-world-cup-glt6124252189]] contrasts Disraeli with Salisbury and Peel with Walpole to show memorable character and concise associations outperforming administrative or constitutional substance.
 - Platform and present controversy: [[35-the-prime-ministers-world-cup-glt6124252189]] makes Twitter audience skew explicit and uses Blair and Thatcher to show recent controversy reorganizing retrospective judgment.
 - Participatory ranking and living constituencies: [[36-our-greatest-prime-minister-glt9826873277]] links tournament outcomes to moral reputation, political archetype, party memory, current controversy, and the NHS as a durable symbol.
+- Dramatic moral compression: [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f|Hanji 286 part 1]] contrasts an incompatibility reading of Cui's departure with the later water-pouring reunion test and punitive ending.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, party, institution, current event, platform, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity, familiarity, or vividness does not establish benevolence or comparative greatness.
+The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. The Cui revision is itself an episode interpretation based on an unfinished summary, not direct proof of every household fact or private motive. Nor can the causal weight of any single dynasty, author, monument, performance, party, institution, current event, platform, or audience be established from these episodes alone. Material or earlier textual evidence does not automatically defeat later texts, and popularity, familiarity, or vividness does not establish benevolence, guilt, or comparative greatness.
 
 ## What Changed
 
-- Added vivid personality, name recognition, and concise schoolbook associations as mechanisms of public reputation.
-- Added platform composition as a boundary on interpreting audience-ranked historical figures.
+- Added popular performance and repeatable judgment scenes as mechanisms that can moralize ambiguous private history.
+- Added the need to treat revisionist retellings as interpretations rather than automatic exoneration.
 
 ## Related Concepts
 
@@ -65,3 +69,5 @@ The concept does not imply that every negative reputation is false or that later
 - [[ImperialPerformancePolitics]] - rulerly self-fashioning that can supply later hostile memory with durable scenes.
 - [[MonumentalDynasticLegitimation]] - use of a predecessor's physical landscape to stage successor legitimacy.
 - [[HistoricalEntertainment]] - participatory form that can expose and reinforce public reputation at the same time.
+- [[CharacterBasedRomanticCompatibility]] - alternative frame used to reinterpret the Zhu-Cui separation without accepting the opera's moral verdict.
+- [[AdaptationOriginalTextConfusion]] - adjacent mechanism in which a dominant adaptation is remembered as the underlying source.
