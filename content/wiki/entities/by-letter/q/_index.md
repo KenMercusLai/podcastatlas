@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12590
+wiki_total_pages: 12594
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "QuintusLutatiusCatulus"
     title: "Quintus Lutatius Catulus / 昆图斯·卢塔提乌斯·卡图卢斯"
     url: "/wiki/entities/quintuslutatiuscatulus/"
+  - key: "QuisoYupanqui"
+    title: "Quiso Yupanqui"
+    url: "/wiki/entities/quisoyupanqui/"
   - key: "QuizParty"
     title: "QuizParty"
     url: "/wiki/entities/quizparty/"

@@ -39,6 +39,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
+- [648. The Fall of the Incas: Battle for the Sacred City (Part 5)](sources/648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011.md) — Manco Inca's break with Spanish rule, the 1536–37 siege of Cusco, and the three-way struggle among Manco, Almagro, and the Pizarros.
 - [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
 - [戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者](sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep.md) — 孟京辉回顾现代主义启蒙、排练场、长青剧目与戏剧节实践，并以现场共同在场、经济支点和注意力边界解释戏剧的持续生命力。
 - [《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？](sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02.md) — 霍去病追击浑邪王、休屠王至高兰山附近并取得节目所称大捷；路线、战损、人物名号、祭天金人、封赏与金城堡垒均保留来源边界。
@@ -4026,6 +4027,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego de Almagro](entities/DiegoDeAlmagro.md) — Conquistador rival defeated at Las Salinas and executed in 1538.
 - [Neo-Inca State of Vilcabamba](entities/NeoIncaState.md) — Independent Inca refuge that survived until the Spanish conquest of 1572.
 - [Túpac Amaru I](entities/TupacAmaruI.md) — Final independent Vilcabamba ruler, captured and executed in Cusco in 1572.
+- [Hernando Pizarro](entities/HernandoPizarro.md) — Pizarro-family commander who defended Cusco during Manco Inca's 1536 siege.
+- [Gonzalo Pizarro](entities/GonzaloPizarro.md) — Conquistador whose abuse of Manco's household preceded his role in the defense of Cusco.
+- [Vilac Umu](entities/VilacUmu.md) — Inca high priest and organizer who helped prepare Manco's uprising.
+- [Quiso Yupanqui](entities/QuisoYupanqui.md) — Inca commander successful in mountain ambushes before his defeat near Lima.
 - [孟京辉 / Meng Jinghui](entities/MengJinghui.md) — 以现代主义实验、排练场协作、长青剧目和戏剧节生态连接创作自由与现场艺术的中国戏剧导演。
 - [乌镇戏剧节 / Wuzhen Theatre Festival](entities/WuzhenTheatreFestival.md) — 通过特邀剧目、青年竞演、公共活动、多剧场与小镇社交形成高密度戏剧生态的平台。
 - [滇国 / Dian Kingdom (Western Han-era)](entities/DianKingdomWesternHan.md) — 以滇池区域为中心的西南政体；汉使接待与助探使其进入汉廷战略视野，但不等于已经归附。
@@ -16660,6 +16665,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
 - [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
 - [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.
+- [Siege of Cusco (1536–1537)](concepts/SiegeOfCusco1536.md) — Manco Inca's mass uprising, near-capture of Cusco, and transition from military stalemate to Almagro's occupation.
 - [Indigenous Alliances in Spanish Conquest](concepts/IndigenousAllianceInSpanishConquest.md) — Strategic Indigenous coalition power essential to Spanish-led conquest armies.
 - [Colonial Demographic Collapse in the Andes](concepts/ColonialDemographicCollapseAndes.md) — Multi-causal catastrophe involving disease, war, subsistence damage, coercion, and social despair.
 - [Andean Colonial Forced Labor](concepts/AndeanColonialForcedLabor.md) — Estate, compulsory-service, and mining labor linking Andean extraction to global silver flows.

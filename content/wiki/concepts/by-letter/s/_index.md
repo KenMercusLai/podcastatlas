@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9825
+wiki_total_pages: 9826
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "SiegeEconomyStrategy"
     title: "Siege Economy Strategy"
     url: "/wiki/concepts/siegeeconomystrategy/"
+  - key: "SiegeOfCusco1536"
+    title: "Siege of Cusco (1536–1537)"
+    url: "/wiki/concepts/siegeofcusco1536/"
   - key: "SiegeOfTenochtitlan"
     title: "Siege of Tenochtitlan"
     url: "/wiki/concepts/siegeoftenochtitlan/"

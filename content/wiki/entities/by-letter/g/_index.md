@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12590
+wiki_total_pages: 12594
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "GongsunZan"
     title: "Gongsun Zan"
     url: "/wiki/entities/gongsunzan/"
+  - key: "GonzaloPizarro"
+    title: "Gonzalo Pizarro"
+    url: "/wiki/entities/gonzalopizarro/"
   - key: "GoodFriendsFilm"
     title: "Good Friends / 好朋友们"
     url: "/wiki/entities/goodfriendsfilm/"

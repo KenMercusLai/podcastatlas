@@ -4,6 +4,7 @@ type: concept
 tags: [conquest, colonialism, peru, incas]
 sources:
   - 649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064
+  - 648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -16,13 +17,15 @@ The Spanish conquest of Peru was a prolonged military, coalition, political, and
 
 ## Current Synthesis
 
-[[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] rejects a single decisive-victory model. By 1537, [[MancoInca]] remains active, [[FranciscoPizarro]] and [[DiegoDeAlmagro]] command rival centers, and Spanish armies depend on thousands of Indigenous auxiliaries. Control emerges through Lima's supply connection, factional war, royal legitimacy, negotiated Indigenous collaboration, punitive expeditions, and the gradual isolation of resistance rather than through Spanish weapons alone.
+[[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] reject a single decisive-victory model. Spanish-backed rule under [[MancoInca]] breaks down through plunder, encomienda, sexual coercion, sacrilege, and factional abuse; the resulting [[SiegeOfCusco1536|siege of Cusco]] nearly destroys the conquerors' position. Spanish survival depends on cavalry, steel, armor, Indigenous allies, African labor, access to seaborne reinforcements, and an agrarian siege army's difficulty sustaining pressure.
+
+By 1537, Manco remains active while [[FranciscoPizarro]] and [[DiegoDeAlmagro]] command rival centers. Control emerges through Lima's supply connection, factional war, royal legitimacy, negotiated Indigenous collaboration, punitive expeditions, and the gradual isolation of resistance rather than through Spanish weapons alone.
 
 The conquest also becomes a colonial system before resistance fully ends. Encomienda estates, land seizure, forced labor, mining, Christian missions, new urban architecture, and imported settlers reshape society while the [[NeoIncaState|Neo-Inca state]] persists. Túpac Amaru I's 1572 execution closes independent dynastic rule, not the longer histories of Indigenous survival, colonial coercion, or Inca memory.
 
 ## Key Claims
 
-- Atahualpa's death and Cusco's occupation did not end conquest or establish unified Spanish authority.
+- Atahualpa's death and Cusco's occupation did not end conquest; colonial abuse converted Manco's initially collaborative rule into a near-successful mass uprising.
 - Spanish access to coastal supply and royal recognition was as consequential as battlefield technology.
 - Indigenous allies were indispensable political and military actors rather than incidental auxiliaries.
 - Spanish civil war created both openings for resistance and additional violence across Peru.
@@ -32,24 +35,25 @@ The conquest also becomes a colonial system before resistance fully ends. Encomi
 
 ## Evidence
 
-- Fragmented power: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] identifies Manco, Almagro, and Pizarro as rival centers in 1537.
-- Coalition and logistics: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] links Pizarro's coastal access and royal communication to armies containing thousands of Indigenous allies.
+- Revolt and siege: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] connects colonial abuses to Manco's escape, mass mobilization, assault on Cusco, and withdrawal.
+- Fragmented power: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] identify Manco, Almagro, and Pizarro as rival centers in 1537.
+- Coalition and logistics: [[648-the-fall-of-the-incas-battle-for-the-sacred-city-part-5-glt6392035011]] and [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] connect coastal access and royal communication to armies containing Indigenous allies and arriving reinforcements.
 - Resistance duration: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] follows Manco's escapes and Vilcabamba's rulers through Túpac Amaru's 1572 capture.
 - Colonial formation: [[649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064]] connects land grants, encomienda, forced labor, mining, settlement, missions, and the New Laws to the post-conquest order.
 
 ## Counterevidence & Qualifications
 
-The current evidence covers the sequence's final installment, so it cannot by itself reconstruct the conquest's opening, Atahualpa's capture, the earlier Inca civil war, or every Indigenous polity's strategy. The episode's numbers, speeches, motives, and causal ranking remain source-scoped. Extending the conquest to 1572 is analytically useful but should not imply uniform warfare across the whole period or one uncontested end date.
+The current evidence covers the sequence's final two installments, so it cannot by itself reconstruct the conquest's opening, Atahualpa's capture, the earlier Inca civil war, or every Indigenous polity's strategy. Numbers, speeches, motives, and causal ranking remain source-scoped. Extending the conquest to 1572 is analytically useful but should not imply uniform warfare across the whole period or one uncontested end date.
 
 ## What Changed
 
-- Established conquest as a prolonged process continuing through civil war and Vilcabamba.
-- Made Indigenous coalition power and coastal logistics central to causal explanation.
-- Distinguished the end of independent kingship from Indigenous disappearance.
+- Added the 1536 uprising as the point at which colonial abuse nearly reversed Spanish control.
+- Added terrain, seasonal mobilization, African labor, and reinforcement to the coalition-logistics explanation.
 
 ## Related Concepts
 
 - [[IndigenousAllianceInSpanishConquest]] - coalition mechanism essential to Spanish military success.
+- [[SiegeOfCusco1536]] - large-scale Inca attempt to reverse the conquest.
 - [[ConquistadorCivilWarPeru]] - intra-Spanish conflict embedded within the conquest.
 - [[NeoIncaState]] - independent polity that extended the conquest's duration to 1572.
 - [[EncomiendaColonialLaborSystem]] - labor institution through which conquest became colonial extraction.

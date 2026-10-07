@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12590
+wiki_total_pages: 12594
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "HernanCortes"
     title: "Hernan Cortes"
     url: "/wiki/entities/hernancortes/"
+  - key: "HernandoPizarro"
+    title: "Hernando Pizarro"
+    url: "/wiki/entities/hernandopizarro/"
   - key: "HerodTheGreat"
     title: "Herod the Great"
     url: "/wiki/entities/herodthegreat/"
