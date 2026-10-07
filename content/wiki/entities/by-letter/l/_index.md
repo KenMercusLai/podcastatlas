@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12603
+wiki_total_pages: 12604
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "LiuJiao"
     title: "刘交 / Liu Jiao"
     url: "/wiki/entities/liujiao/"
+  - key: "LiuRenchengStandup"
+    title: "刘仁诚 / Liu Rencheng"
+    url: "/wiki/entities/liurenchengstandup/"
   - key: "LiuYiSanlian"
     title: "刘仪 / Liu Yi"
     url: "/wiki/entities/liuyisanlian/"

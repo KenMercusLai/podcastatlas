@@ -17,7 +17,8 @@ sources:
   - wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs
   - cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii
   - yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo
-last_updated: 2026-10-05
+  - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,8 @@ The one-to-one interviews follow creators and operators through concrete choices
 
 The Cui Jian interview adds an artist-audience negotiation mode: Luo speaks as a longtime fan while [[CuiJian|崔健]] answers from present artistic judgment. The [[YangLiStandup|杨笠]] interview adds a biographical recovery mode for a person flattened by controversy. Tour mechanics, cold rooms, family distance, career precarity, bereavement, privacy, and future work do not erase the public dispute; they restore the craft and life contexts needed to distinguish heterogeneous reception from total-person projection.
 
+The 《不开玩笑》 crossover adds a self-reflexive format discussion. [[SongFangjin|宋方金]] defines podcasting through [[LongFormConversationEmergence|long-information collision and emergence]], while the panel itself moves from failed ventures and creative ambition through ADHD, moving, production labor, film, AI, and retirement. Its discussion of video reach also separates distribution opportunity from studio polish and content quality.
+
 ## Key Characteristics
 - Long-form interview venue centered on biography, work methods, public judgment, and the logic behind choices.
 - Host-led framing that turns personal stories into explicit product, cultural, ethical, or artistic problems.
@@ -38,6 +41,7 @@ The Cui Jian interview adds an artist-audience negotiation mode: Luo speaks as a
 - Live-panel mode that uses comedy and counterfactuals to make sensitive social subjects speakable.
 - Self-disclosure mode that lets the host's own failures, fears, relationships, and preferences become contestable evidence.
 - Cross-domain range that now includes creator craft, EVs, social theory, film history, mortality, AI, music, and stand-up under public controversy.
+- Self-reflexive interest in how long-form conversation, video distribution, production cost, and audience transition shape the show itself.
 
 ## Evidence
 - Creator and founder operating logic: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] and [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] examine craft, commercialization, product mistakes, capital, manufacturing, and globalization.
@@ -45,13 +49,14 @@ The Cui Jian interview adds an artist-audience negotiation mode: Luo speaks as a
 - Film, aging, and AI: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]], and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] extend the format into industrial memory, authorship, grief, verification, labor anxiety, and companionship.
 - Artist-audience disagreement: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] uses old arrangements, concert participation, live-release access, AI music, albums, and studio economics to test who governs a living work.
 - Controversy and biographical context: [[yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo]] uses touring, stage anxiety, family history, grief, harassment, and future plans to distinguish comic reception from a complete judgment of the performer.
+- Format reflection and experimentation: [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] connects long-form emergence, video reach, simple production, failed ventures, ADHD, moving, and creative labor.
 
 ## Qualifications
-Fourteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, and technological claims retain the qualifications of their individual source notes.
+Fifteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, and technological claims retain the qualifications of their individual source notes.
 
 ## What Changed
-- Added the Yang Li interview as evidence for a controversy-aware biographical mode centered on craft, grief, privacy, and vocational continuity.
-- Extended artist-audience negotiation from musical nostalgia into the distinction among comic intent, live response, public amplification, and projection.
+- Added a self-reflexive podcast-form branch centered on long-form emergence, video reach, and production constraint.
+- Extended the panel mode from value dilemmas into lived experimentation, failure, attention, moving, and invisible creative labor.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer across the bounded source set.
@@ -67,3 +72,5 @@ Fourteen sources do not establish the show's complete catalog, editorial mission
 - [[RelationshipTechnologyEthics]] - example of the show's counterfactual value-testing mode.
 - [[PublicExpressionAgainstTrolls]] - example of the show's public-persona and conflict mode.
 - [[ComedyPublicReceptionBoundary]] - reception framework developed through the Yang Li interview.
+- [[LongFormConversationEmergence]] - format theory articulated inside the crossover conversation.
+- [[CostlyLifeExperimentation]] - theme joining failed ventures, creative ambition, and continued action without success guarantees.

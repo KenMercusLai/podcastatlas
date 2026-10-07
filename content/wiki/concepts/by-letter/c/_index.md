@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9845
+wiki_total_pages: 9848
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2414,6 +2414,9 @@ wiki_pages:
   - key: "CostaRicanCivilWar1948"
     title: "Costa Rican Civil War of 1948"
     url: "/wiki/concepts/costaricancivilwar1948/"
+  - key: "CostlyLifeExperimentation"
+    title: "Costly Life Experimentation / 有成本的持续折腾"
+    url: "/wiki/concepts/costlylifeexperimentation/"
   - key: "CounterDroneLayeredDefense"
     title: "Counter-Drone Layered Defense"
     url: "/wiki/concepts/counterdronelayereddefense/"

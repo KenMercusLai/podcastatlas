@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2198
+topic_total_pages: 2199
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -766,6 +766,9 @@ topic_concepts:
   - key: "CostBenefitThinking"
     title: "Cost-Benefit Thinking"
     url: "/wiki/concepts/costbenefitthinking/"
+  - key: "CostlyLifeExperimentation"
+    title: "Costly Life Experimentation / 有成本的持续折腾"
+    url: "/wiki/concepts/costlylifeexperimentation/"
   - key: "CountercyclicalPublicWorks"
     title: "Countercyclical Public Works / 逆周期公共工程"
     url: "/wiki/concepts/countercyclicalpublicworks/"

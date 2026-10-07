@@ -338,9 +338,9 @@
       "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -383,9 +383,16 @@
           "show": "Huberman Lab",
           "title": "ADHD & How Anyone Can Improve Their Focus",
           "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        },
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
@@ -48964,6 +48971,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/costellodog/"
+    },
+    "CostlyLifeExperimentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/costlylifeexperimentation/"
     },
     "CounselExitAfterNonresponse": {
       "episode_count": 1,
@@ -139015,6 +139038,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/liuquliwesternhan/"
     },
+    "LiuRenchengStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liurenchengstandup/"
+    },
     "LiuShangEasternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -141848,6 +141887,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/longdurationendurancestandard/"
+    },
+    "LongFormConversationEmergence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/longformconversationemergence/"
     },
     "LongHorizonKnowledgeStewardship": {
       "episode_count": 1,
@@ -144911,9 +144966,9 @@
       "url": "/wiki/entities/luotong/"
     },
     "LuoYonghao": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -145005,9 +145060,16 @@
           "show": "罗永浩的十字路口",
           "title": "杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”",
           "url": "/wiki/sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo/"
+        },
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/luoyonghao/"
     },
     "LuoYoumei": {
@@ -145059,9 +145121,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LuoyonghaosCrossroads": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
@@ -145160,9 +145222,16 @@
           "show": "罗永浩的十字路口",
           "title": "杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”",
           "url": "/wiki/sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo/"
+        },
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/luoyonghaoscrossroads/"
     },
     "LureEnemyOutOfPosition": {
@@ -159445,6 +159514,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/movementthermogenesis/"
+    },
+    "MovingAsLifeReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/movingaslifereset/"
     },
     "MozhenjiangWusun": {
       "episode_count": 1,
@@ -211021,6 +211106,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/songelatehan/"
     },
+    "SongFangjin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/songfangjin/"
+    },
     "SongGuirenZhangHeLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -218038,9 +218146,9 @@
       "url": "/wiki/entities/sunshoulatehan/"
     },
     "SunShuhengStandup": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ln6Gnhmsx1xo3p2N8z2pOWcIqnur [ln6Gnhmsx1xo3p2N8z2pOWcIqnur].md",
@@ -218055,9 +218163,16 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        },
+        {
+          "episode_file": "lga0l5q48bHT8MS9aOtmBz-Wh7oT [lga0l5q48bHT8MS9aOtmBz-Wh7oT].md",
+          "key": "bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot",
+          "show": "罗永浩的十字路口",
+          "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
+          "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/sunshuhengstandup/"
     },
     "SunSongLateHan": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔](sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot.md) — 现场对谈以创业失败、创作愿望、ADHD、搬家、播客视频化和片场劳动说明“折腾”不保证成功，却能在显明成本下保留行动与重启空间。
 - [097 金庸小说人物MBTI大盘点](sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6.md) — 纸醉金迷FM以金庸人物比较I/E与N/S，并用争议案例、自认偏见和善恶分离把人格标签限定为非诊断、非等级化的文学讨论工具。
 - [《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军](sources/zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu.md) — Completes the 124 BCE Gaoque campaign with the Right Wise King's escape, large captures, Wei Qing's field promotion, and his refusal of unearned hereditary rewards.
 - [《资治通鉴·汉纪》293｜为何中国军队自古与众不同？](sources/zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4.md) — 以军饷、赏金、税收与地方行政解释罗马军队政治化，并以秦汉军政财分离和兵农联系作对照；统计、班超例证与文明二分保留来源边界。
@@ -4002,6 +4003,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [刘仁诚 / Liu Rencheng](entities/LiuRenchengStandup.md) — 喜剧与表演参与者，以录制等待、古装化妆、幕后劳动、游戏转移和唱歌往事呈现创作的身体与注意成本。
 - [西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King](entities/GaoqueCampaignWesternHan.md) — 公元前124年卫青主力从高阙方向追击右贤王，在首营撤空后依靠向导抵近北方老营并完成夜袭前包围；现有文本仍未进入战斗。
 - [西汉第一次定襄出击 / First Dingxiang Campaign](entities/FirstDingxiangCampaignWesternHan.md) — 卫青击溃匈奴殿后部队后因单于主力未现而撤回休整、重启侦察的首次元朔六年定襄行动。
 - [李沮 / Li Ju (Western Han)](entities/LiJuWesternHan.md) — 第一次定襄出击中统率强弩部队、为两翼包抄提供来源限定火力支援的西汉将领。
@@ -6640,7 +6642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhua Tewu / 抓特务](entities/ZhuaTewu.md) — Film adaptation criticized for replacing Wuhui Zhuizong's ambiguity with clearer guilt, reconciliation, and national-progress closure.
 - [邓晨 / Deng Chen (Eastern Han)](entities/DengChenEasternHan.md) — Liu Xiu's brother-in-law and prophecy-scene witness in the 22 CE pre-uprising layer.
 - [刘宏伟 / Liu Hongwei](entities/LiuHongweiStandup.md) — Comedian and relationship-technology panelist whose answers stress marital loyalty, self-generated happiness, memory deletion, and skepticism toward perfect matching.
-- [孙舒恒 / Sun Shuheng](entities/SunShuhengStandup.md) — Comedian and relationship-technology panelist resisting technological certainty, known-AI romance, pain transfer, memory erasure, and compatibility scoring.
+- [孙舒恒 / Sun Shuheng](entities/SunShuhengStandup.md) — Comedian whose panel profile joins resistance to technologically overdefined intimacy with small-business failure, awkward creative attempts, and moving as repeatable life reset.
 - [孙承昊 / Sun Chenghao](entities/SunChenghao.md) — 声东击西 guest explaining NATO's 2026 summit, European autonomy limits, transatlantic burden shifting, and issue-specific China-facing policy implications.
 - [曹国 / Cao Guo](entities/CaoGuoStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding hair-loss, appearance-management, and creator-review examples.
 - [林简欣 / Lin Jianxin](entities/LinJianxinStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding ADHD, one-liner structure, and domestic-order counterpoint examples.
@@ -6910,7 +6912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
 - [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
-- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview and panel show spanning creator craft, founders, social ethics, film, AI, mortality, and music.
+- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview and panel show spanning creator craft, founders, social ethics, film, AI, mortality, music, and self-reflexive discussion of conversational emergence.
 - [无聊斋 / Wuliaozhai](entities/Wuliaozhai.md) — comedy-podcast context represented by a fear-themed live crossover with 罗永浩的十字路口.
 - [郑执 / Zheng Zhi](entities/ZhengZhiWriter.md) — writer, screenwriter, and director whose interview links Northeast literature, screenwriting survival, family memory, and a first feature film.
 - [《身中有林》 / Shen Zhong You Lin](entities/ShenzhongYoulinFilm.md) — Zheng Zhi's director debut discussed through adaptation, family-crime premise, casting, editing, and theatrical release constraints.
@@ -8994,7 +8996,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何森堡 / He Senbao](entities/HeSenbao.md) — Science writer and debunker who anchors episode 271's evidence-chain critique of 伪史论.
 - [猛哥 / Mengge](entities/MenggeTiancaiBushou.md) — 天才捕手 host who joins episode 271's discussion of pseudohistory, nationalist reversal, and conspiracy spread.
 - [天才捕手 / Tiancai Bushou](entities/TiancaiBushou.md) — Mengge's show identity named in Luanfanshu episode 271.
-- [宋方金 / Song Fangjin](entities/SongFangjin.md) — Screenwriter in episode 271 who frames 伪史论 through simple-causality craving, professional-community trust, and editor/search/algorithm worlds.
+- [宋方金 / Song Fangjin](entities/SongFangjin.md) — Screenwriter connecting multi-causal reasoning and media trust to long-form conversational emergence and the coordination costs of film production.
 - [何新 / He Xin](entities/HeXin.md) — Figure named in episode 271 as an early Chinese pseudohistory source around Greek-history skepticism.
 - [Anatoly Fomenko / 福缅科](entities/AnatolyFomenko.md) — Russian pseudohistory figure named in episode 271 as an influence on later 伪史论.
 - [唐朝 / Tang Dynasty](entities/TangDynasty.md) — Dynasty used in episode 271 as the shocking target of "唐朝不存在" pseudohistory claims.
@@ -13556,7 +13558,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huang Zhang](entities/HuangZhang.md) — Meizu founder whose enthusiast product culture shaped early Chinese smartphone community and design.
 - [Lei Jun](entities/LeiJun.md) — Xiaomi founder whose MIUI-first path, 1999-yuan Xiaomi 1, and Redmi line anchor the internet-phone model.
 - [Lens Technology](entities/LensTechnology.md) — Zhou Qunfei's cover-glass supplier used by episode 210 to show the hidden component side of the smartphone era.
-- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder and 罗永浩的十字路口 host whose current profile links founder taste, hardware execution limits, cultural framing, and debt-repayment explanation.
+- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder and 罗永浩的十字路口 host whose profile links founder execution limits, public explanation, diagnosed ADHD, and costly continued experimentation.
 - [Luxshare Precision](entities/LuxsharePrecision.md) — Wang Laichun's consumer-electronics supplier, moving from connectors into major Apple-era assembly and component work.
 - [Meizu](entities/Meizu.md) — Early Chinese enthusiast smartphone company moving from MP3 players to the M8, Flyme, and community-led product culture.
 - [MIUI](entities/MIUI.md) — Xiaomi's Android-based software system that created users and community before Xiaomi launched its own phones.
@@ -16657,6 +16659,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Costly Life Experimentation / 有成本的持续折腾](concepts/CostlyLifeExperimentation.md) — 在不把努力等同成功的前提下持续尝试新项目、角色、技能或环境，同时保留失败及金钱、身体、注意与关系成本。
+- [Moving as Life Reset / 搬家作为人生重启](concepts/MovingAsLifeReset.md) — 以迁居、筛选物品和重设空间形成有限的环境断点，使习惯与身份暂时重新可编辑而不许诺自动转变。
+- [Long-Form Conversation Emergence / 长对谈的信息涌现](concepts/LongFormConversationEmergence.md) — 持续对话通过追问、分歧、例子与偏航生成未预先规划的联系，同时保留冗余、误差与后续核验边界。
 - [向导赋能纵深突袭 / Guide-Enabled Deep Strike](concepts/GuideEnabledDeepStrike.md) — 以本地或敌方内部路线知识降低纵深机动中的寻敌与暴露不确定性，同时区分抵近、奇袭条件与最终战果。
 - [主攻与侧翼牵制 / Main Effort and Flank Containment](concepts/MainEffortFlankContainment.md) — 集中主力攻击选定目标，同时以独立兵力监视、迟滞或威慑可能增援之敌的非对称任务分工。
 - [道德威望约束权力 / Moral Authority Constrains Formal Power](concepts/MoralAuthorityConstrainsFormalPower.md) — 原则一致与可信声誉使正式权力更高者主动守礼、接受地位边界或寻求纠正，但不等于取得强制权或保证政策胜利。
@@ -20030,7 +20035,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science Communication Trust Repair](concepts/ScienceCommunicationTrustRepair.md) — Public-science frame for rebuilding trust by explaining uncertainty, failure, evidence, harm, and incentives in accessible human terms.
 - [Prefrontal Cortex Overattribution / 前额叶过度归因](concepts/PrefrontalCortexOverattribution.md) — Medical-literacy boundary against turning phone scrolling, impulse, emotion, procrastination, or attention problems into a single prefrontal-cortex diagnosis.
 - [State-Dependent Self-Control / 状态依赖的自控](concepts/StateDependentSelfControl.md) — Self-regulation frame where tiredness, hunger, pain, alcohol, stress, circadian disruption, and context can temporarily shift judgment and impulse control.
-- [ADHD Self-Diagnosis Boundary / ADHD 自诊边界](concepts/ADHDSelfDiagnosisBoundary.md) — Diagnostic caution separating adult distraction or impulse from ADHD assessment that needs developmental history, impairment context, and qualified evaluation.
+- [ADHD Self-Diagnosis Boundary / ADHD 自诊边界](concepts/ADHDSelfDiagnosisBoundary.md) — Diagnostic caution separating distraction or impulse from ADHD assessment requiring developmental history, cross-setting impairment, alternatives, and qualified evaluation before blame or treatment inference.
 - [Clinical Behavior-Change Red Flags / 行为突变就医信号](concepts/ClinicalBehaviorChangeRedFlags.md) — Medical-escalation frame for persistent, worsening, or baseline-breaking behavior and cognition changes.
 - [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight and metabolic habits through energy balance, body composition, food structure, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
 - [Practical Balanced Eating / 可执行均衡饮食](concepts/PracticalBalancedEating.md) — Breakfast-first nutrition routine for turning dietary guidelines into repeatable meals, food order, takeout repair, social eating boundaries, and small behavior changes.

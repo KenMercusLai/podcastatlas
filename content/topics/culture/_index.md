@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3210
+topic_total_pages: 3212
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1882,6 +1882,9 @@ topic_concepts:
   - key: "LongFormConversation"
     title: "Long-Form Conversation"
     url: "/wiki/concepts/longformconversation/"
+  - key: "LongFormConversationEmergence"
+    title: "Long-Form Conversation Emergence / 长对谈的信息涌现"
+    url: "/wiki/concepts/longformconversationemergence/"
   - key: "LongwaveRadio"
     title: "Longwave Radio"
     url: "/wiki/concepts/longwaveradio/"
@@ -7445,6 +7448,9 @@ topic_entities:
   - key: "LengJianguo"
     title: "冷建国 / Leng Jianguo"
     url: "/wiki/entities/lengjianguo/"
+  - key: "LiuRenchengStandup"
+    title: "刘仁诚 / Liu Rencheng"
+    url: "/wiki/entities/liurenchengstandup/"
   - key: "LiuHongweiStandup"
     title: "刘宏伟 / Liu Hongwei"
     url: "/wiki/entities/liuhongweistandup/"

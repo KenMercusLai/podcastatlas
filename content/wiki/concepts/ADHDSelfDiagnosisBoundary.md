@@ -9,7 +9,8 @@ sources:
   - improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463
   - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
   - scim5444804832-scim5444804832
-last_updated: 2026-10-03
+  - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,6 +34,8 @@ VOL.108 extends the same boundary to children and to the “ADHD means smart” 
 
 The 2021 solo episode provides earlier explicit caution against diagnosing oneself or other people and emphasizes that attention and impulse control fluctuate with sleep, stress, and life events. It also states that ADHD is not a measure of intelligence. These points strengthen the boundary but do not turn the episode's prevalence, genetics, or neurotransmitter account into diagnostic criteria.
 
+The “折腾” conversation adds another first-person account from Luo without changing the rule. He describes hospital assessment in Beijing, later prescription access in Shanghai, strong but diminishing benefit from long-term medication, cardiovascular concern at higher dosing, and severe avoidance before major presentations. His advice to families is to replace blame with qualified evaluation when persistent inattention and rapid abandonment impair a child's functioning; neither his symptoms nor medication history become a listener checklist.
+
 ## Key Claims
 - ADHD is presented as a psychiatric neurodevelopmental disorder, not merely a synonym for adult distraction.
 - Childhood onset or long developmental history matters in the source's explanation.
@@ -53,13 +56,14 @@ The 2021 solo episode provides earlier explicit caution against diagnosing onese
 - Adult assessment - [[improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463]] describes nine inattentive and nine hyperactive-impulsive symptom items, an adult threshold of at least five, and the need for excessive, impairing symptoms across life domains.
 - Pediatric and adult boundary - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] separates ordinary child activity and isolated high performance from age-incongruent, functionally impairing patterns, while requiring childhood history and alternative explanations for adult assessment.
 - Early explicit caution - [[scim5444804832-scim5444804832]] warns against self- or lay diagnosis, separates ADHD from intelligence, and notes that attention varies with sleep, stress, and life circumstances.
+- Hospital assessment, treatment limits, and family response - [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] has Luo describe diagnosis, long-term medication response, dosing concern, functionally impairing avoidance, and professional evaluation before parental blame.
 
 ## Counterevidence & Qualifications
-The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, stereotype, and professional assessment separate. Exact symptom thresholds, intelligence-score claims, low-dopamine explanations, and the episodes' heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening rules.
+The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, stereotype, and professional assessment separate. Exact symptom thresholds, intelligence-score claims, low-dopamine explanations, genetic-test interpretations, medication effects and dosing, and the episodes' heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening or treatment rules.
 
 ## What Changed
-- Added earlier explicit caution against diagnosing oneself or others from fluctuating attention.
-- Strengthened the separation of ADHD from intelligence and neurotransmitter self-testing.
+- Added a second Luo Yonghao first-person account linking formal diagnosis to functional impairment and treatment limits.
+- Strengthened the family-response boundary: persistent impairment warrants assessment before blame, not lay diagnosis from anecdotes.
 
 ## Related Concepts
 - [[PrefrontalCortexOverattribution]] - adjacent boundary against turning attention problems into one-region brain diagnosis.

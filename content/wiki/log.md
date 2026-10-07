@@ -31484,3 +31484,11 @@ Added source `097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv9
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | “不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔
+
+Added source `bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot`; created [[LiuRenchengStandup|刘仁诚]], [[CostlyLifeExperimentation|有成本的持续折腾]], [[MovingAsLifeReset|搬家作为人生重启]], and [[LongFormConversationEmergence|长对谈的信息涌现]]; and resynthesized [[LuoYonghao|罗永浩]], [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[SongFangjin|宋方金]], [[SunShuhengStandup|孙舒恒]], and [[ADHDSelfDiagnosisBoundary|ADHD 自诊边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: continued experimentation does not guarantee commercial, artistic, or personal success, but can preserve agency and revisability when financial, bodily, attention, and relationship costs remain visible; moving can create a bounded reset window without automatic transformation; and long-form dialogue can generate unplanned connections without making every digression true or valuable. No settled contradiction was adopted. Genetic-test interpretations, medication response and dosing, ADHD symptoms, business losses, industry income, audience scale, AI timelines, retirement beliefs, and personal anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,937 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

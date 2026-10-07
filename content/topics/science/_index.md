@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1466
+topic_total_pages: 1467
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1444,6 +1444,9 @@ topic_concepts:
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
+  - key: "MovingAsLifeReset"
+    title: "Moving as Life Reset / 搬家作为人生重启"
+    url: "/wiki/concepts/movingaslifereset/"
   - key: "MultimodalAdultNeuroplasticity"
     title: "Multimodal Adult Neuroplasticity"
     url: "/wiki/concepts/multimodaladultneuroplasticity/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9845
+wiki_total_pages: 9848
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "LongFormConversation"
     title: "Long-Form Conversation"
     url: "/wiki/concepts/longformconversation/"
+  - key: "LongFormConversationEmergence"
+    title: "Long-Form Conversation Emergence / 长对谈的信息涌现"
+    url: "/wiki/concepts/longformconversationemergence/"
   - key: "LongHorizonAI"
     title: "Long-Horizon AI"
     url: "/wiki/concepts/longhorizonai/"

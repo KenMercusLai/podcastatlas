@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9845
+wiki_total_pages: 9848
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "MovementThermogenesis"
     title: "Movement Thermogenesis"
     url: "/wiki/concepts/movementthermogenesis/"
+  - key: "MovingAsLifeReset"
+    title: "Moving as Life Reset / 搬家作为人生重启"
+    url: "/wiki/concepts/movingaslifereset/"
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"
