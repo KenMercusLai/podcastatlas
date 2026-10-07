@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12629
+wiki_total_pages: 12630
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "BaoerGynecologist"
     title: "宝儿学姐 / Bao'er (Gynecologist)"
     url: "/wiki/entities/baoergynecologist/"
+  - key: "BaoJieZheBing"
+    title: "宝姐 / Baojie (Zhe Bing guest)"
+    url: "/wiki/entities/baojiezhebing/"
   - key: "BabyTree"
     title: "宝宝树 / BabyTree"
     url: "/wiki/entities/babytree/"

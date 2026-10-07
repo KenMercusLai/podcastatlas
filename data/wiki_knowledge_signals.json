@@ -790,9 +790,9 @@
       "url": "/wiki/concepts/aiamplifiesprofessionals/"
     },
     "AIAndRoboticElderCareLimits": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
@@ -814,9 +814,16 @@
           "show": "Data Science With Sam",
           "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
           "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/aiandroboticeldercarelimits/"
     },
     "AIAnswerSourceAttribution": {
@@ -2879,9 +2886,9 @@
       "url": "/wiki/concepts/aihardwareprivacyexchange/"
     },
     "AIHealthAgent": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -2889,9 +2896,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/aihealthagent/"
     },
     "AIHealthBenefitPlanOptimization": {
@@ -15166,9 +15180,9 @@
       "url": "/wiki/entities/antabao/"
     },
     "AntAfu": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -15176,9 +15190,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/antafu/"
     },
     "AntGroup": {
@@ -22300,6 +22321,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/banza/"
     },
+    "BaoJieZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/baojiezhebing/"
+    },
     "BaoJunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -28645,9 +28682,9 @@
       "url": "/wiki/concepts/breastcancerriskcontext/"
     },
     "BreastFindingRecognitionAndTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgInwLCqMjiaxozGTOgN7SqlGQlt [lgInwLCqMjiaxozGTOgN7SqlGQlt].md",
@@ -28655,9 +28692,16 @@
           "show": "这病说来话长",
           "title": "VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南",
           "url": "/wiki/sources/vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/breastfindingrecognitionandtriage/"
     },
     "BreastReconstructionDecision": {
@@ -169429,9 +169473,9 @@
       "url": "/wiki/entities/oldsarum/"
     },
     "OlderAdultFallPrevention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
@@ -169439,9 +169483,16 @@
           "show": "这病说来话长",
           "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
           "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/olderadultfallprevention/"
     },
     "OlderAdultHealthcareAvoidance": {
@@ -175040,6 +175091,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/paternallocalofficeethic/"
+    },
+    "PatientAIUse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251222_1222_MP_TECH_pod_128 [tech_20251222_1222_MP_TECH_pod_128].md",
+          "key": "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Dr. AI will see you now",
+          "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lqwFbTBVcy2xJ2YDeeneGmHaARn4 [lqwFbTBVcy2xJ2YDeeneGmHaARn4].md",
+          "key": "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4",
+          "show": "这病说来话长",
+          "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
+          "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/patientaiuse/"
     },
     "PatientLedRareDiseaseInfrastructure": {
       "episode_count": 1,

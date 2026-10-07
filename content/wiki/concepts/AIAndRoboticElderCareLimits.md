@@ -6,7 +6,8 @@ sources:
   - 147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp
   - ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig
   - ep-42-when-ai-meets-robotics-building-machines-that-care
-last_updated: 2026-09-02
+  - vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The earlier care sources make the boundary concrete: elder care involves transfe
 
 [[RyanSocialRobot|Ryan]], described in [[ep-42-when-ai-meets-robotics-building-machines-that-care]], is the positive robot case inside this boundary. Ryan shows that a social robot can create companionship, cognitive engagement, and meaningful interaction with older adults. That does not erase the boundary; it raises the bar for dignity, consent, privacy, honesty, withdrawal planning, LLM reliability, and measurable benefit.
 
+A non-robotic household case extends the same boundary. A health assistant can absorb repeated explanation, symptom-description, and report-reading work for an older user, reducing some information demands on an adult child. Yet the family still assigns companionship, emotional reassurance, emergency help, and attendance at care to people. This separates informational availability from relational presence.
+
 The current judgment is therefore augmentation rather than replacement. AI and robots may help caregivers, families, and care institutions when they are designed around older adults' agency and vulnerability, but they cannot by themselves solve [[CareSocialization]], workforce shortages, relational dignity, or accountability.
 
 ## Key Claims
@@ -29,7 +32,7 @@ The current judgment is therefore augmentation rather than replacement. AI and r
 - Ryan adds evidence that social robots can create meaningful companionship and engagement for older adults.
 - Emotional attachment to a care robot is a design responsibility because removal, misunderstanding, or deception can harm vulnerable users.
 - Elder-care robotics should be judged by wellness, staff support, family support, affordability, reliability, safety, privacy, and trust.
-- The strongest care-system claim is augmentation: robots should empower caregivers and family members rather than replace human care.
+- The strongest care-system claim is augmentation: robots and patient-facing AI may reduce physical or repetitive information work while leaving accompaniment, emotional support, and escalation responsibility with people.
 
 ## Evidence
 - Bodily-care boundary: [[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] describes transfers, bathing, feeding, swallowing, walking, comfort, and refusal as ordinary care tasks that cannot be reduced to generic automation.
@@ -38,14 +41,14 @@ The current judgment is therefore augmentation rather than replacement. AI and r
 - Social-robot case: [[ep-42-when-ai-meets-robotics-building-machines-that-care]] describes Ryan as a social companion robot for older adults with depression, cognitive impairment, and dementia that can converse, read expressions, and play cognitive games.
 - Attachment and dignity evidence: [[ep-42-when-ai-meets-robotics-building-machines-that-care]] reports resident bonds with Ryan and emphasizes consent, guardian consent for some residents, coercion checks, privacy, transparency, and trust.
 - Adoption requirements: [[ep-42-when-ai-meets-robotics-building-machines-that-care]] says mainstream adoption depends on measurable engagement, wellness, staff support, family support, affordability, reliability, safety, and security.
+- Household role separation: [[vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4]] describes AI handling some repeated questions while family members retain companionship, emotional support, and help with professional care.
 
 ## Counterevidence & Qualifications
-The Ryan source qualifies an overly restrictive reading of this concept: care robots can be meaningful, not merely a technocratic evasion of human responsibility. At the same time, the available sources do not establish that robots can scale clinical outcomes, reduce staffing burdens, or safely handle the full range of bodily and emotional care. The synthesis should remain open to assistive success while resisting replacement rhetoric.
+The Ryan source qualifies an overly restrictive reading of this concept: care robots can be meaningful, not merely a technocratic evasion of human responsibility. Baojie's case likewise shows genuine informational benefit from a non-robotic assistant. At the same time, the available sources do not establish that these tools improve clinical outcomes, reduce staffing or family burdens overall, or safely handle the full range of bodily and emotional care. The synthesis should remain open to assistive success while resisting replacement rhetoric.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` while preserving the existing source order.
-- Added Ryan as a positive social-robot case that sharpens, rather than weakens, the elder-care boundary.
-- Reframed the current judgment around augmentation, dignity, trust, and measurable care-system benefit.
+- Added a household case separating AI information support from family companionship and emergency help.
+- Extended the augmentation judgment from robots and institutional care into patient-facing conversational AI.
 
 ## Related Concepts
 - [[CareSocialization]] - social system that technology can support but cannot replace.
@@ -55,3 +58,5 @@ The Ryan source qualifies an overly restrictive reading of this concept: care ro
 - [[CompanionRobots]] - robot category that Ryan extends into elder-care settings.
 - [[SocialRoboticsElderCare]] - domain-specific version of the care-robot question.
 - [[ArtificialEmotionalIntelligence]] - sensing and response layer that can support respectful interaction but also needs honesty.
+- [[AIHealthAgent]] - patient-facing service layer that illustrates the same augmentation boundary.
+- [[PatientAIUse]] - everyday use pattern through which informational support reaches older adults.

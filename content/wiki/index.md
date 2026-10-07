@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？](sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4.md) — 这病说来话长以宝姐乳腺异常就医、术后恢复和家庭照护为线索，呈现阿福在提问、报告解释和日常支持中的低门槛价值，同时保留医生、120与亲属陪伴的不可替代边界。
 - [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（1）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-1-lj6mkkcbwrfznzqpkwtkzigirotg.md) — 补齐274止于战前的龙城战果：卫青以纵深机动、弃辎加速和突袭成为四路中唯一获胜者；兵力斩获、春季窗口、平型关类比与攻守逆转均保留来源边界。
 - [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d.md) — 汲黯以宗庙礼乐的公共目的批评汉武帝马歌，公孙弘则被描述为借帝王不悦推动入罪与外放；主父偃处死和公孙弘善终部分与后期节目重合，隐蔽报复及生存因果保留来源边界。
 - [《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？](sources/zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc.md) — 卫青由骑奴和宫中近侍进入汉武帝新建骑兵体系，并在外戚任将争议中获得首次统兵机会；四路出击、草原搜索与龙城发现保留为战前层，战斗结果尚未进入本期。
@@ -4037,6 +4038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
 - [龙城之战 / Longcheng Campaign (Western Han)](entities/LongchengCampaignWesternHan.md) — 卫青在129 BCE四路出击中以纵深机动与加速突袭取得的唯一胜果，局部战果与战略转折解释分开保存。
 - [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 兼具稳健、权衡与趋附色彩的西汉旧臣；因误信匈奴俘虏、过早撤军而暴露边防，并在汉武帝重军功的环境中被进一步边缘化。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
