@@ -4002,6 +4002,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
+- [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
+
 ## Entities
 - [刘仁诚 / Liu Rencheng](entities/LiuRenchengStandup.md) — 喜剧与表演参与者，以录制等待、古装化妆、幕后劳动、游戏转移和唱歌往事呈现创作的身体与注意成本。
 - [西汉高阙出击右贤王 / Western Han Gaoque Campaign against the Right Wise King](entities/GaoqueCampaignWesternHan.md) — 公元前124年卫青主力从高阙方向追击右贤王，在首营撤空后依靠向导抵近北方老营并完成夜袭前包围；现有文本仍未进入战斗。
@@ -26571,5 +26573,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Civilian Control of the Military / 文官控军](concepts/CivilianControlOfMilitary.md) — 军事指挥通过任官、财政、补给、军政财分离、基层行政与合法性被置于更广泛政治秩序之内的来源限定机制。
 - [Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合](concepts/GrassrootsBureaucraticCulturalIntegration.md) — 基层行政、人才吸纳、学校与共同文化形成跨地域整合，并避免军队替代日常民政的来源限定机制。
+
+- [SaaS Cash Flow Survival Risk](concepts/SaaSCashFlowSurvivalRisk.md) — Valuation shift from modeling SaaS growth to questioning whether AI agents and customer-built tools can remove recurring cash flows.
 
 ## Syntheses

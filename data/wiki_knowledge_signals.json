@@ -35061,6 +35061,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/cellularmetabolismmosaic/"
     },
+    "CellularReprogrammingControlProblem": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/cellularreprogrammingcontrolproblem/"
+    },
     "CellularSatelliteComplementarity": {
       "episode_count": 1,
       "show_count": 1,
@@ -53871,9 +53894,9 @@
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterCostShifting": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 5,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -53958,9 +53981,16 @@
           "show": "Marketplace Tech",
           "title": "Can data centers ever be good neighbors?",
           "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/datacentercostshifting/"
     },
     "DataCenterOnsitePower": {
@@ -54926,9 +54956,9 @@
       "url": "/wiki/entities/davidsilver/"
     },
     "DavidSinclair": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1831113627 [SCIM1831113627].md",
@@ -54936,9 +54966,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/davidsinclair/"
     },
     "DavidSpiegel": {
@@ -122111,9 +122148,9 @@
       "url": "/wiki/entities/jev/"
     },
     "JevonsParadoxInAI": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 5,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -122170,9 +122207,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
@@ -199045,6 +199089,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/stpmarketingframework/"
     },
+    "SaaSCashFlowSurvivalRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/saascashflowsurvivalrisk/"
+    },
     "SaborAMexicoSalsas": {
       "episode_count": 1,
       "show_count": 1,
@@ -221506,6 +221566,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/tariffdrivenoverseaslocalproduction/"
+    },
+    "TariffRefundUncertainty": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548 [default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548].md",
+          "key": "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what",
+          "show": "Planet Money",
+          "title": "The Supreme Court struck down a bunch of Trump's tariffs. Now what?",
+          "url": "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot [40260645].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/tariffrefunduncertainty/"
     },
     "TartariaTablets": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3349
+topic_total_pages: 3351
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3901,6 +3901,9 @@ topic_concepts:
   - key: "RussianHybridPressure"
     title: "Russian Hybrid Pressure"
     url: "/wiki/concepts/russianhybridpressure/"
+  - key: "SaaSCashFlowSurvivalRisk"
+    title: "SaaS Cash Flow Survival Risk"
+    url: "/wiki/concepts/saascashflowsurvivalrisk/"
   - key: "SaaSReliabilityUnderPolicyRisk"
     title: "SaaS Reliability Under Policy Risk"
     url: "/wiki/concepts/saasreliabilityunderpolicyrisk/"
@@ -9543,6 +9546,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
     title: "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645"
+    title: "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150"
     title: "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150/"

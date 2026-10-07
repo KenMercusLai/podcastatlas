@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9848
+wiki_total_pages: 9849
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "SaaSCapitalStructureReset"
     title: "SaaS Capital Structure Reset"
     url: "/wiki/concepts/saascapitalstructurereset/"
+  - key: "SaaSCashFlowSurvivalRisk"
+    title: "SaaS Cash Flow Survival Risk"
+    url: "/wiki/concepts/saascashflowsurvivalrisk/"
   - key: "SaaSHoldingCompany"
     title: "SaaS Holding Company"
     url: "/wiki/concepts/saasholdingcompany/"
