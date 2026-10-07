@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9889
+wiki_total_pages: 9891
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "DutianAccountabilityEasternHan"
     title: "度田问责 / Dutian Accountability (Eastern Han)"
     url: "/wiki/concepts/dutianaccountabilityeasternhan/"
+  - key: "DirectionSettingDelegatedGovernance"
+    title: "把总授权式治理 / Direction-Setting Delegated Governance"
+    url: "/wiki/concepts/directionsettingdelegatedgovernance/"
   - key: "DemandSideTraffickingLiability"
     title: "拐卖需求端责任 / Demand-Side Trafficking Liability"
     url: "/wiki/concepts/demandsidetraffickingliability/"

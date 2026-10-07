@@ -60803,6 +60803,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
+    "DirectionSettingDelegatedGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1） [lp-POhNS6YMvFYPTkih9XKhWcoAW].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/directionsettingdelegatedgovernance/"
+    },
     "DiretasJa": {
       "episode_count": 1,
       "show_count": 1,
@@ -69077,6 +69093,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
+    },
+    "EmergencyReliefDiscretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1） [lp-POhNS6YMvFYPTkih9XKhWcoAW].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/emergencyreliefdiscretion/"
     },
     "EmergencyRescueLegalProtection": {
       "episode_count": 1,
@@ -123954,9 +123986,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -124027,6 +124059,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1） [lp-POhNS6YMvFYPTkih9XKhWcoAW].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw/"
         }
       ],
       "updated": "2026-10-08",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3178
+topic_total_pages: 3180
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4762,6 +4762,9 @@ topic_concepts:
   - key: "ConfiscationAndFemaleFate"
     title: "抄家籍没与女性命运 / Confiscation And Female Fate"
     url: "/wiki/concepts/confiscationandfemalefate/"
+  - key: "DirectionSettingDelegatedGovernance"
+    title: "把总授权式治理 / Direction-Setting Delegated Governance"
+    url: "/wiki/concepts/directionsettingdelegatedgovernance/"
   - key: "RiskBearingReliefGovernance"
     title: "担责开仓式救民 / Risk-Bearing Relief Governance"
     url: "/wiki/concepts/riskbearingreliefgovernance/"
@@ -4786,6 +4789,9 @@ topic_concepts:
   - key: "AdministrativePerformanceFraud"
     title: "政绩述职造假 / Administrative Performance Fraud"
     url: "/wiki/concepts/administrativeperformancefraud/"
+  - key: "EmergencyReliefDiscretion"
+    title: "救灾临机裁量 / Emergency Relief Discretion"
+    url: "/wiki/concepts/emergencyreliefdiscretion/"
   - key: "DisasterReliefCorruption"
     title: "救灾物资贪腐 / Disaster Relief Corruption"
     url: "/wiki/concepts/disasterreliefcorruption/"

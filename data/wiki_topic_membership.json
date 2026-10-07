@@ -28955,6 +28955,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DirectionSettingDelegatedGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DirectorMythDeflation": [
     {
       "key": "culture",
@@ -31628,6 +31635,13 @@
     }
   ],
   "EmergencyInstitutionsToTerror": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "EmergencyReliefDiscretion": [
     {
       "key": "politics",
       "label": "Politics",

@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣](sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz.md) — 余善在汉军压力下杀闽越王郢并献首止战，汉武帝随后分别承认丑的宗祀合法性与余善的地方实权；赵胡谢汉、送太子而拒绝亲自入朝，又显示臣服、依赖与自治可以并存。
+- [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw.md) — 汲黯以公开直谏、越程序救灾后主动请罪和东海授权治理显示其并非只会“抬杠”；王恢、韩安国的和战分歧及董仲舒举孝廉建议则补出汉武帝初期政策背景。
 - [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv.md) — 李广以简化军制、近身观察和士卒拥护维持安全，程不识则用行军、营垒、刁斗与文书构成高负担的常规防备；两军均未遇袭，司马光的核心判断因此保留为“个人奇才可行而不可普遍效法”的制度评估。
 - [《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？](sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d.md) — 以秦汉、罗马、贵霜和安息的欧亚并置提出文明延续与帝国分流问题，并把边缘崛起和制度变革设为比较起点；完整因果被明确留待后续，罗马“消亡”等说法保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt.md) — 公孙卿借柏梁台火灾推动甘泉迁驻与建章宫营建，太液池仙岛和承露铜人把求仙变成工程支出；缪忌又以神阶和古制把太一推入国家祭祀，具体年代、规模与效验保留来源边界。
@@ -16797,6 +16798,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [救灾临机裁量 / Emergency Relief Discretion](concepts/EmergencyReliefDiscretion.md) — 在紧迫群体伤害下先行救助、随后公开越权并接受审查的有限行政裁量。
+- [把总授权式治理 / Direction-Setting Delegated Governance](concepts/DirectionSettingDelegatedGovernance.md) — 通过识别能吏、授予实权并把握总体方向来减少细节干预，同时保留最终责任。
 - [例外才能依赖式治军 / Exception-Dependent Military Command](concepts/ExceptionDependentMilitaryCommand.md) — 区分由罕见个人感知、判断与威望支撑的有效个案，和普通继任者能够安全学习、执行与传承的制度化治军底线。
 - [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, and consequence.
 - [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.

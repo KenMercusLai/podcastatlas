@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9889
+wiki_total_pages: 9891
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "ExileLoyaltyThroughRitualToken"
     title: "持节守节式流亡忠诚 / Exile Loyalty Through Ritual Token"
     url: "/wiki/concepts/exileloyaltythroughritualtoken/"
+  - key: "EmergencyReliefDiscretion"
+    title: "救灾临机裁量 / Emergency Relief Discretion"
+    url: "/wiki/concepts/emergencyreliefdiscretion/"
   - key: "EstablishedHeirReplacementRisk"
     title: "既定太子改立风险 / Established Heir Replacement Risk"
     url: "/wiki/concepts/establishedheirreplacementrisk/"
