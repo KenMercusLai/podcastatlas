@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9842
+wiki_total_pages: 9843
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "GushiBian"
     title: "古史辨 / Doubting Antiquity"
     url: "/wiki/concepts/gushibian/"
+  - key: "GuideEnabledDeepStrike"
+    title: "向导赋能纵深突袭 / Guide-Enabled Deep Strike"
+    url: "/wiki/concepts/guideenableddeepstrike/"
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
