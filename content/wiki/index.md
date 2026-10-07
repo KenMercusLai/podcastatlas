@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？](sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap.md) — 刘胜以宗室受压争取改善待遇，严助主张救援东瓯并在无虎符下征兵，韩嫣引导武帝微服游猎；毁田后的民众围堵则暴露隐匿身份、财产损失与权威识别之间的治理风险。
 - [304-沙特阿拉伯过去十年在进行一场怎样的政治改革？](sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t.md) — 独树不成林把沙特2030愿景解释为同时改造石油租金、性别秩序与宗教共治的威权现代化，并以经济绩效压力和走廊国家战略解释沙特—阿联酋竞争。
 - [Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命](sources/8228694742-944685.md) — 捕蛇者说对话金融技术管理者张肖文，讨论传统企业的成本中心逻辑、受监管部署、流程重构、初级岗位压力、领域知识与有状态职业资本。
 - [《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣](sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz.md) — 余善在汉军压力下杀闽越王郢并献首止战，汉武帝随后分别承认丑的宗祀合法性与余善的地方实权；赵胡谢汉、送太子而拒绝亲自入朝，又显示臣服、依赖与自治可以并存。
@@ -4079,6 +4080,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [东瓯 / Dongou (Western Han)](entities/DongouWesternHan.md) — 遭闽越围攻后请求汉援、又因持续不安全而请求将君民迁往江淮的西汉越系政权。
 - [Mohammed bin Salman / 穆罕默德·本·萨勒曼](entities/MohammedBinSalman.md) — Saudi crown prince presented as the architect of Vision 2030 and its centralized authoritarian modernization.
 - [Mohammed bin Zayed / 穆罕默德·本·扎耶德](entities/MohammedBinZayed.md) — UAE president framed as MBS’s former mentor and the leader of an outward corridor-network strategy.
 - [Saudi Vision 2030 / 沙特2030愿景](entities/SaudiVision2030.md) — Saudi whole-state reform program spanning oil diversification, women’s participation, religious authority, and centralized rule.
@@ -16808,6 +16810,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [微服游猎治理风险 / Incognito Imperial Hunting Risk](concepts/IncognitoImperialHuntingRisk.md) — 帝王隐匿身份游猎时把毁田损失、权威识别失败与暴力升级风险转嫁给地方居民的机制。
 - [Rentier State / 租金国家](concepts/RentierState.md) — State structure funded substantially by external resource income, weakening tax accountability and increasing commodity-cycle exposure.
 - [Authoritarian Modernization / 威权现代化](concepts/AuthoritarianModernization.md) — Economic and social transformation pursued while concentrated political power is preserved or strengthened.
 - [Developmental Authoritarian Legitimacy / 发展型威权合法性](concepts/DevelopmentalAuthoritarianLegitimacy.md) — Growth-and-delivery legitimacy that can shift toward nationalism and security when performance disappoints.

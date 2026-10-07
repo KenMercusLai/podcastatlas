@@ -32055,3 +32055,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？
+
+Added source `zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap`; created [[DongouWesternHan|东瓯]] and [[IncognitoImperialHuntingRisk|微服游猎治理风险]]; and resynthesized [[LiuShengZhongshanKingWesternHan|中山王刘胜]], [[YanZhuWesternHan|严助]], [[HanYanWesternHan|韩嫣]], [[Minyue|闽越]], and [[TigerTallyCommandSystem|虎符调兵制度]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Sheng's complaint reportedly changes royal treatment; Yan Zhu's Dongou relief mission exposes the conflict between genuine imperial intent and missing command credentials; and Wudi's incognito hunt converts private recreation into crop loss, authority-recognition failure, and predictable local resistance. No settled contradiction was adopted. Dongou's ruler name, crowd and migration totals, dates, offices, dialogue, motives, military sequence, hunting geography, token recognition, and compensation remain source-scoped. The broad Han Wudi, talent-recruitment, and show profiles were kept closed because the bounded addition is represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,011 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

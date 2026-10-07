@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3187
+topic_total_pages: 3188
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4753,6 +4753,9 @@ topic_concepts:
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"
+  - key: "IncognitoImperialHuntingRisk"
+    title: "微服游猎治理风险 / Incognito Imperial Hunting Risk"
+    url: "/wiki/concepts/incognitoimperialhuntingrisk/"
   - key: "ExpressAntiInvolutionPriceFloor"
     title: "快递反内卷与区域成本底线"
     url: "/wiki/concepts/expressantiinvolutionpricefloor/"
