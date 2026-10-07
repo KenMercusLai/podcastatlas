@@ -62697,9 +62697,9 @@
       "url": "/wiki/entities/dongzhuo/"
     },
     "DongfangShuo": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人 [lnHc_LSJ53gY-YqMWqobNw5Y37g9].md",
@@ -62735,9 +62735,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听 [lhVSfCPPigVFd0J2XDhqOrXqvWB_].md",
+          "key": "zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/dongfangshuo/"
     },
     "DongguanHanji": {
@@ -116557,9 +116564,9 @@
       "url": "/wiki/concepts/inclusivesexualhealthdignity/"
     },
     "IncognitoImperialHuntingRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？ [lndYhnPI9YGvvrh-h1VnxoCs3OAP].md",
@@ -116567,6 +116574,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听 [lhVSfCPPigVFd0J2XDhqOrXqvWB_].md",
+          "key": "zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_/"
         }
       ],
       "updated": "2026-10-08",
@@ -198078,6 +198092,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
     },
+    "RewardedUnadoptedRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听 [lhVSfCPPigVFd0J2XDhqOrXqvWB_].md",
+          "key": "zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/rewardedunadoptedremonstrance/"
+    },
     "RexHunt": {
       "episode_count": 2,
       "show_count": 1,
@@ -208429,6 +208459,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/shanghaishenhua/"
     },
+    "ShanglinParkWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听 [lhVSfCPPigVFd0J2XDhqOrXqvWB_].md",
+          "key": "zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shanglinparkwesternhan/"
+    },
     "ShangqiuChengWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -211539,9 +211585,9 @@
       "url": "/wiki/entities/simatanwesternhan/"
     },
     "SimaXiangru": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -211584,6 +211630,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》269｜一瓶酱引发的“南丝路”开疆传奇（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听 [lhVSfCPPigVFd0J2XDhqOrXqvWB_].md",
+          "key": "zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_/"
         }
       ],
       "updated": "2026-10-08",

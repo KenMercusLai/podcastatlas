@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3189
+topic_total_pages: 3190
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5047,6 +5047,9 @@ topic_concepts:
   - key: "SeniorCourtVetoReformRetreat"
     title: "资深宫廷否决下的改革退让 / Reform Retreat Under Senior Court Veto"
     url: "/wiki/concepts/seniorcourtvetoreformretreat/"
+  - key: "RewardedUnadoptedRemonstrance"
+    title: "赏谏不纳 / Rewarded but Unadopted Remonstrance"
+    url: "/wiki/concepts/rewardedunadoptedremonstrance/"
   - key: "AmnestyCannotSubstituteGovernance"
     title: "赦令不能替代治理 / Amnesty Cannot Substitute for Governance"
     url: "/wiki/concepts/amnestycannotsubstitutegovernance/"

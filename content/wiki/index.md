@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听](sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_.md) — 客栈误认延续微服游猎的身份风险；东方朔反对扩建上林苑、司马相如反对亲射猛兽，均获赏却未改变武帝决策，形成“赏谏不纳”的反馈边界。
 - [《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？](sources/zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is.md) — 闽越攻南越并触发汉军救援后，刘安从地形、治理收益与无尽执法战争反对远征；窦太后去世后的田蚡荐人索地又显示外戚权势仍受皇权边界约束。
 - [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k.md) — 汉武帝早期儒黄路线冲突因赵绾试图切断东宫议政而变成权力边界危机；石奋则以日常礼仪、沉默纠错和子弟的谨慎侍君，把家风落实为可重复的行为规范。
 - [《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）](sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr.md) — 标题称石奋家风，正文实际补出陈阿娇失宠、王太后劝武帝暂避长公主锋芒，以及刘嫖抓捕卫青、公孙敖营救、武帝反向提拔的连续链条；官职、金额、对话与茂陵、诸侯矛盾保留来源边界。
@@ -4083,6 +4084,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [上林苑 / Shanglin Park (Western Han)](entities/ShanglinParkWesternHan.md) — 汉武帝计划扩建的帝王苑囿，其土地测量与补偿方案因肥田、资源、税收、迁徙和游猎安全成本受到东方朔反对。
 - [石奋 / Shi Fen (Western Han)](entities/ShiFenWesternHan.md) — 以跨越朝廷与家庭的日常礼仪、间接纠错和持续示范塑造石氏谨慎家风的“万石君”。
 - [石建 / Shi Jian (Western Han)](entities/ShiJianWesternHan.md) — 以私下充分进言、公开场合收敛表达赢得汉景帝信任的石奋长子。
 - [赵绾 / Zhao Wan (Western Han)](entities/ZhaoWanWesternHan.md) — 建议重大政务不再奏报东宫、因直接触碰窦太后决策权而遭调查身亡的武帝初年儒臣。
@@ -16817,6 +16819,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [赏谏不纳 / Rewarded but Unadopted Remonstrance](concepts/RewardedUnadoptedRemonstrance.md) — 统治者赞许、升迁或奖赏批评者，却不实质改变被批评政策或行为的反馈模式。
 - [身体力行式家礼教化 / Embodied Household Ritual Discipline](concepts/EmbodiedHouseholdRitualDiscipline.md) — 通过长辈在公私场景中的重复示范、环境一致性与间接纠错传递家庭规范，同时保留沉默和撤回认可所带来的压力面。
 - [资深宫廷否决下的改革退让 / Reform Retreat Under Senior Court Veto](concepts/SeniorCourtVetoReformRetreat.md) — 名义最高但根基未稳的统治者在资深权力中心否决后保全自身、停止改革并把即时风险转移给下属的政治模式。
 - [微服游猎治理风险 / Incognito Imperial Hunting Risk](concepts/IncognitoImperialHuntingRisk.md) — 帝王隐匿身份游猎时把毁田损失、权威识别失败与暴力升级风险转嫁给地方居民的机制。

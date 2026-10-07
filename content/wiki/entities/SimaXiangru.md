@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn
   - zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h
   - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-2-lk5lptawere6mfwjm1dr_bbynggj
+  - zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_
 last_updated: 2026-10-08
 ---
 
@@ -31,6 +32,8 @@ Hanji 359-1 continues that relationship through poverty and work. It says Sima s
 
 Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's description, Sima uses legendary precedent, auspicious signs, and praise of Wudi to advocate Taishan fengshan. The work extends his political literature beyond access and flattery debates into posthumous policy influence, but the source does not quote the full text or establish that it alone caused Wudi's ritual decision.
 
+Hanji 253 adds an earlier, direct safety-remonstrance role. While attending [[HanWudi|汉武帝]] on a hunt, Sima argues that neither guards nor expert archers can guarantee rescue from an unexpectedly dangerous animal, terrain, speed, or equipment failure. His “家累千金，坐不垂堂” reasoning makes high office a reason for greater caution rather than greater license. Wudi reportedly praises and rewards him but continues dangerous hunting, so the case adds [[RewardedUnadoptedRemonstrance|赏谏不纳]] to Sima's political-writing and court-access profile.
+
 ## Key Characteristics
 
 - Western Han fu writer whose reading and participation in a Liang princely literary circle precede his later court reputation.
@@ -38,8 +41,8 @@ Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's desc
 - Depends on access brokers and public reputation signals to convert talent into opportunity.
 - Represents both literary imagination and the risk that court literature can flatter power.
 - Uses proclamation, meetings, persuasion, policy advice, and an embassy to turn a southwestern frontier crisis toward renewed access.
-- Central male figure in the “琴挑文君” tradition and Zhuo Wenjun's elopement story.
 - Leaves a posthumous political-literary intervention that the episode places before Wudi's fengshan decision process.
+- Uses irreversible-risk reasoning to challenge the emperor's personal hunting conduct, although the warning is rewarded rather than adopted.
 
 ## Evidence
 
@@ -52,15 +55,18 @@ Hanji 359-2 identifies that manuscript as 《封禅文》. In the episode's desc
 - Poverty and tavern labor: [[zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq|Hanji 359-1]] says Sima sells the carriage and performs humble work while the couple operates a tavern.
 - Fidelity crisis and late memory: [[zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq|Hanji 359-1]] links a reported concubine plan, 《白头吟》, eventual return, and two deathbed writings.
 - Posthumous imperial argument: [[zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn|Hanji 359-2]] says Zhuo Wenjun transmits 《封禅文》 after Sima's death and describes it as praise, auspicious-sign interpretation, and advocacy for Taishan fengshan.
+- Hunting-risk remonstrance: [[zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_|Hanji 253]] says Sima warns Wudi that dangerous animals and ordinary riding failures can outrun even close protection.
+- Reward without behavior change: [[zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_|Hanji 253]] says Wudi approves and rewards the warning but continues hunting.
 
 ## Qualifications
 
-All six inputs are podcast summaries rather than complete literary or historical dossiers, and episodes from one series are not independent corroboration. Hanji 358-1 places both 《子虚赋》 and 《上林赋》 in the Liang circle, while Hanji 358-2 is internally ambiguous about those works and 《天子游猎赋》; the wiki records the chronology problem rather than resolving it. The wording, audience, effect, and attribution details of 《喻巴蜀檄》, the extent of the reported pacification, the identities of western groups, route and gate names, gifts, and administrative outcomes require primary-text and geographic comparison. Sima's purchased-office mechanism, early duties, courtship traditions, fidelity story, 《白头吟》 attribution, deathbed instructions, 《封禅文》 textual history, and its causal effect also remain source-scoped.
+All seven inputs are podcast summaries rather than complete literary or historical dossiers, and episodes from one series are not independent corroboration. Hanji 358-1 places both 《子虚赋》 and 《上林赋》 in the Liang circle, while Hanji 358-2 is internally ambiguous about those works and 《天子游猎赋》; the wiki records the chronology problem rather than resolving it. The wording, audience, effect, and attribution details of 《喻巴蜀檄》, the extent of the reported pacification, the identities of western groups, route and gate names, gifts, and administrative outcomes require primary-text and geographic comparison. Sima's purchased-office mechanism, early duties, courtship traditions, fidelity story, 《白头吟》 attribution, deathbed instructions, 《封禅文》 textual history, and its causal effect also remain source-scoped. Hanji 253 does not establish the hunt's exact setting, species, speech, reward, or later effect; it supports a bounded adviser role and the reported non-adoption outcome.
 
 ## What Changed
 
 - Added Sima's southwestern envoy role, using writing and elite communication after a coercive road-building crisis.
 - Extended his political profile from court access and ritual advocacy to frontier de-escalation, policy advice, and corridor-building.
+- Added direct imperial-safety remonstrance and distinguished personal reward from behavior change.
 
 ## Relationships
 
@@ -78,3 +84,5 @@ All six inputs are podcast summaries rather than complete literary or historical
 - [[PrivateAccessTalentChannel|私人进身通道]] - mechanism linking ability to scarce imperial attention.
 - [[YelangStateWesternHan|夜郎]] - frontier polity where the episode locates Sima's proclamation, meetings, and de-escalation mission.
 - [[AdministrativeBoundaryRelocation|行政边界迁移式扩张]] - governance mechanism used when Sima's embassy reportedly removes old gates and installs new ones farther outward.
+- [[RewardedUnadoptedRemonstrance|赏谏不纳]] - outcome pattern for his praised but unimplemented warning against dangerous imperial hunting.
+- [[IncognitoImperialHuntingRisk|微服游猎治理风险]] - related safety field in which imperial recreation can create preventable recognition and bodily danger.

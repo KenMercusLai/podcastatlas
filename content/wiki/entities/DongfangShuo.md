@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x
   - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
   - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,15 +31,17 @@ Hanji 319-2 adds a literary self-positioning rather than another successful inte
 
 Hanji 271-2 adds a more confrontational success. Dongfang Shuo calls [[DongYanWesternHan|董偃]]'s conduct three capital offenses and invokes cautionary stories about destructive favorites, yet his implementable demand is narrower than that rhetoric: Weiyang Palace's main hall serves state affairs and should not admit Dong Yan for private amusement. Wudi moves the banquet to the North Palace and rewards Dongfang Shuo. The intervention therefore protects a [[CourtCeremonialSpaceBoundary|ceremonial-space boundary]] without fully ending the entertainment or proving a formal criminal case.
 
+Hanji 253 supplies a direct policy remonstrance whose outcome is less successful. Dongfang Shuo opposes enlargement of [[ShanglinParkWesternHan|上林苑]] by joining the area's fertile soil, forest and water resources, tax value, household displacement, ancestral graves, historical construction warnings, and hunting danger into one public-cost argument. Wudi reportedly promotes and rewards him but proceeds with the enlargement. The episode therefore separates Dongfang Shuo's access and recognized skill from policy conversion: even a well-framed, multi-domain warning can become [[RewardedUnadoptedRemonstrance|赏谏不纳]].
+
 ## Key Characteristics
 
-- Western Han court figure remembered here through wit, eccentricity, and comic proximity to power.
 - Uses absurd extrapolation to expose a fangshi's flattering physiognomy claim.
 - Protects himself by turning apparent laughter at the emperor into laughter at the logical consequence of the claim.
 - Moves between humorous indirection and direct accusation according to the decision and setting.
 - Uses praise after a painful decision to affirm the ruler's public-law self-image and convert legal severity into moral legitimacy.
 - Reduces an immediate travel risk by accepting the emperor's supernatural premise while denying that personal sea pursuit can improve the outcome.
 - Frames an expansive moral warning as a narrower, implementable restriction on entry to a state ceremonial venue.
+- Connects imperial recreation to livelihood, fiscal, displacement, historical-precedent, and personal-safety costs even when the resulting advice is rewarded but not adopted.
 
 ## Evidence
 
@@ -50,15 +53,18 @@ Hanji 271-2 adds a more confrontational success. Dongfang Shuo calls [[DongYanWe
 - Premise-preserving risk reduction: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] says Dongfang Shuo frames divine encounter as governed by destiny, persuading Wudi to wait rather than sail for Penglai.
 - Literary self-positioning: [[zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k|Hanji 319-2]] presents *Da Ke Nan* as an explanation of why comparable ability can produce different office outcomes under different political orders.
 - Ceremonial-space defense: [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel|Hanji 271-2]] says Dongfang Shuo prevents Dong Yan's entry to the main hall, prompts relocation of the banquet, and receives a gold reward.
+- Shanglin public-cost remonstrance: [[zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_|Hanji 253]] says Dongfang Shuo opposes park enlargement through livelihood, revenue, displacement, precedent, and safety arguments.
+- Recognition without adoption: [[zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_|Hanji 253]] says Wudi promotes and rewards Dongfang Shuo but proceeds with the project.
 
 ## Qualifications
 
-This profile remains based on five short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or later xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. Hanji 319-2 cannot determine his actual ability or the fairness of his office path. In Hanji 271-2, the three capital offenses, compressed historical exempla, exact speech, reward weight, and causal link to Dong Yan's decline remain source-scoped; banquet relocation demonstrates a narrower success than prosecution or complete exclusion from imperial company.
+This profile remains based on six short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or later xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. Hanji 319-2 cannot determine his actual ability or the fairness of his office path. In Hanji 271-2, the three capital offenses, compressed historical exempla, exact speech, reward weight, and causal link to Dong Yan's decline remain source-scoped; banquet relocation demonstrates a narrower success than prosecution or complete exclusion from imperial company. Hanji 253 does not establish exact park boundaries, land value, affected households, compensation, speech, reward weight, or Wudi's private agreement; it supports the narrower contrast between favorable treatment of the speaker and reported continuation of the expansion.
 
 ## What Changed
 
 - Expanded the profile beyond comic and premise-preserving speech to direct ceremonial-boundary enforcement.
 - Distinguished the successful relocation of a banquet from the episode's broader capital-crime and regime-collapse rhetoric.
+- Added the Shanglin enlargement warning as a multi-domain remonstrance that wins reward but not policy adoption.
 
 ## Relationships
 
@@ -73,3 +79,5 @@ This profile remains based on five short source notes. It does not reconstruct D
 - [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - frames the gap between perceived ability and opportunity controlled by the ruler.
 - [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] - venue-based limit that Dongfang Shuo successfully defends in the Dong Yan episode.
 - [[DongYanWesternHan|董偃]] - court favorite whose main-hall admission Dongfang Shuo opposes.
+- [[ShanglinParkWesternHan|上林苑]] - imperial park whose enlargement gives Dongfang Shuo a land, livelihood, fiscal, and safety case.
+- [[RewardedUnadoptedRemonstrance|赏谏不纳]] - outcome pattern distinguishing recognition of Dongfang Shuo from acceptance of his policy advice.

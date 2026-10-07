@@ -71629,6 +71629,13 @@
       "url": "/topics/science/"
     }
   ],
+  "RewardedUnadoptedRemonstrance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RewindAI": [
     {
       "key": "technology",

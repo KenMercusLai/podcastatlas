@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9901
+wiki_total_pages: 9902
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "ResponsibilityBoundRiskAvoidance"
     title: "责任绑定风险回避 / Responsibility-Bound Risk Avoidance"
     url: "/wiki/concepts/responsibilityboundriskavoidance/"
+  - key: "RewardedUnadoptedRemonstrance"
+    title: "赏谏不纳 / Rewarded but Unadopted Remonstrance"
+    url: "/wiki/concepts/rewardedunadoptedremonstrance/"
   - key: "RebelCoalitionSpoilsCrisis"
     title: "起义联军战利品危机 / Rebel Coalition Spoils Crisis"
     url: "/wiki/concepts/rebelcoalitionspoilscrisis/"
