@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [patronage, information, advice, court-politics, retainers]
 sources:
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y
+  - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7
 last_updated: 2026-10-08
 ---
 
@@ -14,7 +15,7 @@ last_updated: 2026-10-08
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] explains why [[TianFenWesternHan|田蚡]] recruits retainers immediately after becoming grand commandant. For retainers, the household offers subsistence, reward, access, and possible office. For Tian Fen, it supplies judgment and information that can compensate for limited personal ability and help stabilize a sudden rise.
+[[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] explains why [[TianFenWesternHan|田蚡]] recruits retainers immediately after becoming grand commandant. For retainers, the household offers subsistence, reward, access, and possible office. For Tian Fen, it supplies judgment and information that can compensate for limited personal ability and help stabilize a sudden rise. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] independently reinforces the operating role, claiming that retainer plans helped Tian Fen and [[EmpressDowagerWangWesternHan|王太后]] exercise influence in early Wudi politics.
 
 The network also connects household and state power. The episode says Tian Fen can use retainers to advise [[EmpressDowagerWangWesternHan|王太后]], handle matters she cannot conveniently perform herself, and bring information to [[HanWudi|汉武帝]]. Private patronage is therefore not merely hospitality: it can become an operating layer between court actors and formal office.
 
@@ -33,16 +34,18 @@ This capacity carries a latent qualification. The same advisory and intelligence
 - Reciprocal exchange: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] says retainers obtain livelihood, rewards, and possible office while the patron obtains wisdom, eyes, ears, and information.
 - Capacity compensation: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] presents retainers as especially important to a suddenly elevated Tian Fen whose own ability is described as limited.
 - Cross-court use: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] says Tian Fen uses the network in service of himself, Wang, and Wudi.
+- Political mediation: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] portrays Tian Fen's retainer advice as an input into Wang's exercise of power and Wudi's early policy environment.
 - Political execution: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] includes matters the empress dowager cannot conveniently undertake herself among the network's uses.
 
 ## Counterevidence & Qualifications
 
-The source does not name the retainers, specify the information they supplied, document the decisions they changed, or distinguish legitimate advice from private influence. It also does not prove that Tian Fen lacked all independent ability. The reciprocal model may understate coercion, dependency, favoritism, and selection bias. A private network can improve awareness, but it can also filter information toward the patron's interests or expose the court to factional risk.
+Neither source names the retainers, specifies the information they supplied, documents the decisions they changed, or distinguishes legitimate advice from private influence. They also do not prove that Tian Fen lacked all independent ability or that early Wudi orders were authored by his guests. The reciprocal model may understate coercion, dependency, favoritism, and selection bias. A private network can improve awareness, but it can also filter information toward the patron's interests or expose the court to factional risk.
 
 ## What Changed
 
 - Created a functional account of retainers as information and advisory infrastructure rather than a mere guest list.
 - Made the dual-use boundary explicit: the same network can support decisions and create private-power risk.
+- Added Hanji 262's reinforcement of retainers as a mediation layer for Wang-family political action.
 
 ## Related Concepts
 

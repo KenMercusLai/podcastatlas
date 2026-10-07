@@ -31910,3 +31910,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）
+
+Added source `zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7`; resynthesized [[TianFenWesternHan|田蚡]], [[EmpressDowagerWangWesternHan|王太后]], [[PrivateInterestDisasterNeglect|私利优先的灾害搁置]], and [[RetainerInformationInfrastructure|门客信息基础设施]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode reinforces the claim that Tian Fen's fief interest distorted Huzi repair and connects his Wang-family access to retainer-mediated political action; its Rome-Qin-Han comparison, complete flood-control causation, character judgments, Tian Sheng contrast, policy authorship, and supernatural death story remain source-scoped. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,993 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
