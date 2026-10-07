@@ -51290,9 +51290,9 @@
       "url": "/wiki/entities/cuishilatehan/"
     },
     "CuiShiZhuMaichenWife": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1） [lpvzVzomh6u6Zbr1IspaIyCEnL3F].md",
@@ -51300,6 +51300,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
       "updated": "2026-10-07",
@@ -93562,9 +93569,9 @@
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHong": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -93621,6 +93628,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
       "updated": "2026-10-07",
@@ -122338,9 +122352,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -122390,6 +122404,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
       "updated": "2026-10-07",
@@ -193479,9 +193500,9 @@
       "url": "/wiki/concepts/resourceasymmetryattrition/"
     },
     "RespectBasedConflictDeescalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
@@ -193489,9 +193510,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
     "RespiratoryGasBalanceAndBreathworkSafety": {
@@ -249587,9 +249615,9 @@
       "url": "/wiki/entities/yanyouxingeneral/"
     },
     "YanZhuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
@@ -249597,9 +249625,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/yanzhuwesternhan/"
     },
     "YangAPrincessWesternHan": {
@@ -259291,9 +259326,9 @@
       "url": "/wiki/entities/zhulinglatehan/"
     },
     "ZhuMaichenWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
@@ -259315,6 +259350,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2） [lrGdPIR3ez-hK_eptcQ8Q3-pZOZr].md",
+          "key": "zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr/"
         }
       ],
       "updated": "2026-10-07",

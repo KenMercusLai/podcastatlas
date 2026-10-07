@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5
   - zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir
   - zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn
+  - zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr
 last_updated: 2026-10-07
 ---
 
@@ -42,6 +43,8 @@ Ji's court etiquette supplies a mechanism behind that corrective standing. When 
 
 This does not show Ji holding more formal power than general or emperor. It adds a narrower claim: consistent public principle can make powerful observers regulate their own behavior because the critic's judgment is credible. The episode's language of imperial “fear” remains an interpretation of ritual caution, not direct access to Wudi's private emotion.
 
+Ji's candor also survives when the target controls the rhetorical outcome. He publicly accuses [[GongsunHong|公孙弘]] of using coarse bedding and one-dish meals to perform virtue despite holding high office. Gongsun does not rebut him; he accepts the charge, calls Ji a close friend, and tells Wudi that only such loyalty makes criticism audible. The exchange supports Ji's role as a credible truth-teller, while showing that candor can be absorbed into the criticized official's own humility performance without resolving the underlying accusation. [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr|Hanji 286 part 2]]
+
 ## Key Characteristics
 
 - Western Han senior official presented as upright, clean, and willing to confront the ruler on public matters rather than seek private favors when prestige, ceremony, or punishment harms public purpose.
@@ -50,7 +53,7 @@ This does not show Ji holding more formal power than general or emperor. It adds
 - Draws visitors while powerful and loses them after dismissal and impoverishment.
 - Seeks to remain near Han Wudi so he can correct omissions and participate in court deliberation.
 - Is assigned to Huaiyang because the emperor believes his reputation can stabilize strained local governance.
-- Maintains equal-standing etiquette toward Wei Qing and challenges Zhang Tang's technical legality from public principle, making superiors and specialist officials confront a moral authority that lacks equivalent formal or technical power.
+- Maintains equal-standing etiquette toward Wei Qing and challenges both Zhang Tang's technical legality and Gongsun Hong's austere image from public principle, even when specialists or political tacticians control the immediate response.
 
 ## Evidence
 
@@ -79,6 +82,9 @@ Corrective value despite ruler discomfort:
 Etiquette and moral constraint:
 - [[zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir|Hanji 294-1]] says Ji refuses a bow to Wei Qing yet wins his respect and advice-seeking, while Wudi observes unusual dress and audience caution around Ji.
 
+Criticism retained through rhetorical absorption:
+- [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr|Hanji 286 part 2]] says Ji attacks Gongsun Hong's austerity as performance; Gongsun concedes and praises Ji's candor rather than disproving the charge.
+
 Public rather than private purpose:
 - [[zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5|Hanji 314-2]] claims that Ji's recorded exchanges with Wudi all concern public affairs rather than requests for himself.
 
@@ -87,13 +93,13 @@ Local service and final outcome:
 
 ## Qualifications
 
-Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; Hanji 314-2 transcribes him as “几岸”; Hanji 294-1 repeatedly renders him “己案.” The page normalizes these forms to 汲黯 from the joined biographical chain. The seven sources do not establish his full biography, ancestry, education, exact office sequence, wealth, every exchange with Wudi, the mechanics of governance by reputation, or the exact family appointments. Hanji 288 does not establish the full debate, precise laws at issue, verbatim dialogue, or whether Ji's inability to answer technical clauses means legal ignorance, genre contrast, or retrospective moral framing. Hanji 294-1 does not independently establish the exact etiquette, chronology, number of consultations, Wudi's dress or posture, the “武帐” setting, or whether imperial avoidance expresses fear, respect, embarrassment, or retrospective moralizing; “公孙洪” is normalized to 公孙弘, while likely “庄助” remains unlinked pending direct collation. Hanji 314-1 does not establish the exact frontier statute, whether all merchant death sentences were executed, or that Ji's later removal was retaliation; its legal, fiscal, and numerical details remain source-scoped. Hanji 314-2's ironware specification, public-affairs-only claim, removal-and-recall account, and posthumous causal link also remain episode-attributed. Hanji 333-2 supports Ji's warning before Zhang's later fall but not access to Zhang's private intent. Hanji 318 does not establish the horse's miraculous nature, completed ancestral-temple performance, the merits of every punished official, or a full severity-to-shortage causal chain. Claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
+Hanji 333-1 explicitly warns that names and details were not textually collated and transcribes Ji An as “济暗/齐暗”; Hanji 314-2 transcribes him as “几岸”; Hanji 294-1 repeatedly renders him “己案.” The page normalizes these forms to 汲黯 from the joined biographical chain. The eight sources do not establish his full biography, ancestry, education, exact office sequence, wealth, every exchange with Wudi, the mechanics of governance by reputation, or the exact family appointments. Hanji 288 does not establish the full debate, precise laws at issue, verbatim dialogue, or whether Ji's inability to answer technical clauses means legal ignorance, genre contrast, or retrospective moral framing. Hanji 294-1 does not independently establish the exact etiquette, chronology, number of consultations, Wudi's dress or posture, the “武帐” setting, or whether imperial avoidance expresses fear, respect, embarrassment, or retrospective moralizing; “公孙洪” is normalized to 公孙弘, while likely “庄助” remains unlinked pending direct collation. Hanji 286 part 2 does not establish the material details of Gongsun's lifestyle, Ji's exact words, whether austerity was deceptive, or whether Gongsun's response was sincere rather than tactical. Hanji 314-1 does not establish the exact frontier statute, whether all merchant death sentences were executed, or that Ji's later removal was retaliation; its legal, fiscal, and numerical details remain source-scoped. Hanji 314-2's ironware specification, public-affairs-only claim, removal-and-recall account, and posthumous causal link also remain episode-attributed. Hanji 333-2 supports Ji's warning before Zhang's later fall but not access to Zhang's private intent. Hanji 318 does not establish the horse's miraculous nature, completed ancestral-temple performance, the merits of every punished official, or a full severity-to-shortage causal chain. Claims that clean officials are structurally excluded or that virtue automatically protects descendants remain host interpretations.
 
 ## What Changed
 
-- Added the direct legal confrontation in which Ji attacks Zhang Tang's public effects but cannot defeat his specialist use of statutes.
-- Distinguished moral diagnosis from technical leverage: principle can identify fear-producing legality without controlling its forum.
-- Kept Ji's quotations, the laws at issue, and the reported debate outcome source-scoped.
+- Added the public austerity challenge to Gongsun Hong as another form of principle-driven candor.
+- Distinguished a criticism's survival from its rhetorical effect: Gongsun validates Ji while absorbing the attack.
+- Kept the lifestyle facts, accusation, reply, sincerity, and effect on Wudi source-scoped.
 
 ## Relationships
 
@@ -112,6 +118,8 @@ Hanji 333-1 explicitly warns that names and details were not textually collated 
 - [[ZhaiGongWesternHan]] - comparison case whose crowded and empty gate makes the same status reversal visible.
 - [[LiXiWesternHan]] - official who hears but does not transmit Ji's warning about Zhang Tang.
 - [[ZhangTangWesternHan]] - powerful official whom Ji identifies as a threat before the later downfall sequence.
+- [[GongsunHong]] - high official whose austerity Ji attacks as performative and who answers by praising Ji's candor.
+- [[RespectBasedConflictDeescalation]] - explains how Gongsun reduces conflict without retracting or disproving Ji's criticism.
 - [[PowerCenterProximityAdvantage]] - Ji's requested zhonglang role makes advisory proximity distinct from outward governing office.
 - [[GoodDeathPoliticalSurvival]] - Ji adds clean service and retained usefulness as a route to a good political end.
 - [[CourtFeedbackCollapse]] - failure contrast because the episode links Ji's absence to a weakening of corrective constraint without proving sole causation.

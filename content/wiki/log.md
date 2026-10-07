@@ -31558,3 +31558,11 @@ Added source `zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-be
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）
+
+Added source `zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr`; and resynthesized [[ZhuMaichenWesternHan|朱买臣]], [[CuiShiZhuMaichenWife|崔氏]], [[YanZhuWesternHan|严助]], [[GongsunHong|公孙弘]], [[JiAnWesternHan|汲黯]], and [[RespectBasedConflictDeescalation|尊重式冲突降温]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Cui's reported meal complicates a total-betrayal narrative; Yan Zhu's access and Zhu's displayed learning bridge hardship to appointment; Zhu's Shuofang argument prompts Gongsun Hong to redirect retrenchment toward Canghai and the southwest; and Gongsun's concession and praise absorb Ji An's hypocrisy charge without resolving whether either the austerity or response was sincere. No settled contradiction was adopted. The meal, remarriage, waiting conditions, appointment, learning, ten-point debate, frontier chronology, austerity, accusation, reply, and motives remain source-scoped. Broad [[HanWudi|汉武帝]], [[ZhangQianWesternHan|张骞]], and show pages were read for context but not reopened because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,947 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

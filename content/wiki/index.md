@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（2）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr.md) — 崔氏饭朱与严助引荐补全朱买臣入仕转折，朔方之辩和公孙弘承认汲黯批评则展示政策收缩与尊重式降温的两种低姿态。
 - [《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？](sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea.md) — 主父偃在刘彭祖告发后本可能获释，公孙弘却以齐王无后、封国改郡县和朝廷公信力推动处死；昔日宾客散尽又显出恐惧与权势维系关系的脆弱。
 - [《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）](sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f.md) — 以《汉书》叙事对照“马前泼水”戏曲记忆，将崔氏离开朱买臣重释为贫困压力下对劳动、尊严与共同未来的分歧，而非简单嫌贫爱富。
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（2）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3.md) — 主父偃把诸侯隐私转化为朝廷指控，燕王与齐王相继自杀；齐案又显示官方调查、中央收权与私人怨恨如何纠缠，并触发刘彭祖先发告发。
