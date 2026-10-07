@@ -31476,3 +31476,11 @@ Added source `zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongb
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 097 金庸小说人物MBTI大盘点
+
+Added source `097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6`; and resynthesized [[FictionalCharacterTypingBoundary|虚构人物类型化边界]], [[PersonalityTestIdentityBoundary|性格测试身份边界]], [[JinYong|金庸]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: I/E and N/S can organize comparisons of energy orientation and information use, but physical solitude, social ability, trauma, idealism, literalness, morality, competence, and analyst preference cannot establish a definitive type; disputed cases and acknowledged selection bias are evidence boundaries rather than defects to hide. No settled contradiction was adopted. Individual assignments and several isolation/initiative or creativity/literalness mappings remain source-scoped interpretations. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,936 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

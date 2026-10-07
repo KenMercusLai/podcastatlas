@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [097 金庸小说人物MBTI大盘点](sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6.md) — 纸醉金迷FM以金庸人物比较I/E与N/S，并用争议案例、自认偏见和善恶分离把人格标签限定为非诊断、非等级化的文学讨论工具。
 - [《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军](sources/zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu.md) — Completes the 124 BCE Gaoque campaign with the Right Wise King's escape, large captures, Wei Qing's field promotion, and his refusal of unearned hereditary rewards.
 - [《资治通鉴·汉纪》293｜为何中国军队自古与众不同？](sources/zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4.md) — 以军饷、赏金、税收与地方行政解释罗马军队政治化，并以秦汉军政财分离和兵农联系作对照；统计、班超例证与文明二分保留来源边界。
 - [《资治通鉴·汉纪》290-2｜长途奔袭六百里，卫青袭杀匈奴右贤王军](sources/zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity.md) — 右贤王退至六七百里外的北方老营并因纵深、地形与汉军疲劳预期而松懈；降附者部下充当向导，使卫青绕过警戒、抵近并完成夜袭前包围，但文本仍未进入战斗。
