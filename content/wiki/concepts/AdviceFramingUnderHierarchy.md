@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
   - zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka
+  - zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-04
 ---
@@ -22,6 +23,8 @@ last_updated: 2026-10-04
 
 ## Current Synthesis
 The 129 CE [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] layer adds a negative signal case before the later remonstrance examples. [[EmperorShunOfHan|汉顺帝]] publicly responds to disasters by lowering imperial food and banning precious-object tribute, but [[WenLongLateHan|文龙]] presents a large pearl from [[GuiyangCommanderyLateHan|桂阳郡]]. Shun returns it as flattery. The lesson is not that subordinates should avoid all deference; it is that status-directed signals fail when they ignore the superior's declared political frame.
+
+An earlier Western Han case in [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm|Hanji 272 part 2]] makes decision ownership explicit. [[GongsunHong|公孙弘]] reportedly lays out facts, reasons, and options without confronting [[HanWudi|汉武帝]] publicly, allowing correction to enter the decision while the ruler still visibly chooses. [[YuanGusheng|袁固生]] supplies the boundary condition: preserving face and choice is advice design; bending learning or professed conviction to obtain favor is a different practice.
 
 A late Western Han ruler-facing version appears through [[WangJiaWesternHan|王嘉]] in [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]]. Wang Jia needs to tell [[HanAidi|汉哀帝]] that [[DongXian|董贤]]'s favor has become a public burden, but he does not begin with accusation. He praises Aidi, invokes chancellor duty, lists concrete public-resource abuses, uses disaster and rumor pressure, and then reframes the remedy as protecting Dong Xian because wrong love will harm him. The advice remains hard, but its form gives the ruler a face-saving route to accept it.
 
@@ -38,7 +41,7 @@ The 163 CE court layer in [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-ya
 [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] shows the harsher failure mode through [[TianFengLateHan|田丰]]. Tian Feng's defensive, agricultural, and harassment plan is more concrete than a vague objection, but he presses it just when Yuan Shao wants to move against [[CaoCao|曹操]]. Yuan Shao interprets the persistence as shaking military morale and imprisons him, so the case extends advice framing from "not accepted" to "treated as a threat."
 
 ## Key Claims
-- Advice quality includes strategic content, acknowledgment of prior effort, acceptance path, danger management, audience motive, and a concrete next step the hierarchy can execute.
+- Advice quality includes strategic content, acknowledgment of prior effort, acceptance path, preserved decision ownership, danger management, audience motive, and a concrete next step the hierarchy can execute.
 - A public-minded warning can fail when it directly indicts the superior's pleasure without giving a face-saving or operational route.
 - Institutional framing can outperform moral rebuke when it names rules, target classes, responsible offices, and review procedure.
 - Blunt correctness can fail in hierarchy when it publicly lowers the decision-maker's legitimacy, competence, or immediate desire.
@@ -48,6 +51,8 @@ The 163 CE court layer in [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-ya
 
 ## Evidence
 - Praise-to-protection sequence: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Wang Jia praises Aidi before criticizing Dong Xian's privileges and finally argues that restraint protects Dong Xian from harm.
+- Facts, options, and decision ownership: [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm|Hanji 272 part 2]] says Gongsun Hong avoids public confrontation, presents the considerations, and leaves Wudi to select the outcome.
+- Integrity boundary: [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm|Hanji 272 part 2]] pairs that method with Yuan Gusheng's warning against distorting learning for worldly approval.
 - Acknowledgment-to-protection sequence: [[zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka|Hanji 596]] says Bao Xuan credits Aidi's initial correction, diagnoses unresolved Dong Xian privilege, and frames withdrawal as protection.
 - Reception boundary: [[zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka|Hanji 596]] records personnel changes after the memorial but not implementation of Dong Xian's dismissal.
 - Misread tribute signal: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Wen Long presents a large pearl after Shun has issued a frugality edict and banned precious-object offerings.
@@ -63,16 +68,16 @@ The 163 CE court layer in [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-ya
 - Punitive recoding: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] says Tian Feng keeps pressing a hold-and-harass strategy before Yuan Shao's campaign, after which Yuan Shao shackles and imprisons him as a danger to morale.
 
 ## Counterevidence & Qualifications
-The concept should not be used to blame advisers for every ignored warning. Hanji 593 itself shows the limit: Wang Jia's careful sequencing still leaves Aidi displeased. Hanji 809 shows that a public frame can make flattery visible, but it does not prove Wen Long's private motive or that Shun's wider fiscal practice was consistently frugal. Hanji 816 shows a skillful answer to a dangerous naming request, but it does not prove that every omission of names is wise or that Shun implemented the full reform program. Hanji 858 also shows the ruler-side variable: Chen Fan's warning can be accurate and publicly responsible while Huan simply refuses to engage. Hanji 1033, Hanji 1034, and Hanji 1042 also identify Yuan Shao's preferences, visible force advantage, factional infighting, Cao-side organization, and pre-battle morale anxiety as causes. It also does not recommend false praise; the useful boundary is preserving truth while designing a viable route for the truth to be heard and acted on.
+The concept should not be used to blame advisers for every ignored warning. Hanji 593 itself shows the limit: Wang Jia's careful sequencing still leaves Aidi displeased. Hanji 809 shows that a public frame can make flattery visible, but it does not prove Wen Long's private motive or that Shun's wider fiscal practice was consistently frugal. Hanji 816 shows a skillful answer to a dangerous naming request, but it does not prove that every omission of names is wise or that Shun implemented the full reform program. Hanji 858 also shows the ruler-side variable: Chen Fan's warning can be accurate and publicly responsible while Huan simply refuses to engage. Hanji 1033, Hanji 1034, and Hanji 1042 also identify Yuan Shao's preferences, visible force advantage, factional infighting, Cao-side organization, and pre-battle morale anxiety as causes. Hanji 272 part 2 does not prove that Gongsun Hong always preserved his true position, that this method caused promotion, or that avoiding public confrontation is always desirable. The concept does not recommend false praise; the useful boundary is preserving truth while designing a viable route for the truth to be heard and acted on.
 
 Hanji 596 adds a useful boundary: better framing can improve reception without securing full implementation. The concrete follow-up does not establish that Dong Xian was dismissed.
 
 ## What Changed
-- Added Bao Xuan's acknowledgment-to-protection sequence alongside Wang Jia's praise-to-protection case; reception improves, but durable implementation remains incomplete.
+- Added Gongsun Hong's facts-and-options method as a case where preserving the ruler's decision ownership becomes part of advice design.
+- Made Yuan Gusheng's warning the explicit boundary between hierarchy-aware delivery and distortion for favor.
 - Hanji 809 remains a negative signal case where Wen Long's pearl fails because it contradicts Shun's public frugality frame.
 - Hanji 816 adds a danger-management case where Zhou Ju converts a request for names into a usable loyalty criterion.
 - Hanji 858 continues to broaden the concept from wording and face management to executable institutional procedure.
-- Tian Feng's imprisonment remains the punitive endpoint of failed hierarchy-aware framing in the Yuan Shao branch.
 
 ## Related Concepts
 - [[WenLongLateHan|文龙]] - local-official case showing failed deference when the signal contradicts the ruler's stated standard.
@@ -89,3 +94,5 @@ Hanji 596 adds a useful boundary: better framing can improve reception without s
 - [[TianFengLateHan|田丰]] - adviser case showing how direct persistence can make coherent strategy personally dangerous.
 - [[AdviserStateArchitecture|谋士政权架构]] - adviser-rich systems still need channels that convert advice into ruler decisions.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - hierarchy-aware framing protects the transmission of situational analysis into action.
+- [[GongsunHong|公孙弘]] - Western Han adviser whose facts-and-options method preserves imperial choice while raising an integrity question.
+- [[OpportunisticCourtAlignment|权势导向的机会主义站队]] - failure boundary where audience awareness changes professed conviction rather than improving truthful delivery.

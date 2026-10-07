@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（2）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm.md) — 袁固生以正学直言警戒曲学阿世，公孙弘则在两次失意后以陈事实、列选项而不廷争适应汉武帝并进入快速升迁；年代、心理转变、人格评价与升迁因果保留来源边界。
 - [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv.md) — 汲黯以背离会前共识和节俭作秀两度质疑公孙弘，公孙弘则以忠诚解释、能力与生活方式分离、承认及反夸批评者化解；原指控、动机与升迁因果均保留来源边界。
 - [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug.md) — 公孙弘由贫寒、失职、牧猪和四十余岁始学进入武帝求贤通道，以君上立信、量才任官、节制民力和仁义礼智获破格擢为博士；精确年代、措辞与天人感应因果保留来源边界。
 - [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf.md) — 馆陶长公主刘嫖以财富和宗室通道扶持董偃，汉武帝又以“主人翁”、赐衣冠与同席饮酒把私下伴侣转成公开可识别的身份；姓名、收养、性关系及“第一人”判断保留来源边界。
@@ -6139,7 +6140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈蟜 / 陈娇](entities/ChenJiaoWesternHan.md) — Western Han royal-affinal figure used as family background for Zhao Pingjun's upbringing and legal case.
 - [夷安公主 / Yian Princess](entities/YianPrincessWesternHan.md) — Han Wudi's daughter whose marriage to Zhao Pingjun intensifies the kinship pressure around his execution.
 - [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han wit whose fangshi story grounds humorous remonstrance through absurd extrapolation.
-- [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian disputant whose defense of Tang-Wu revolution exposes the self-reference problem in Han founding legitimacy.
+- [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian who joins Tang-Wu legitimacy criticism to a warning against bending scholarship and outward conduct toward court approval.
 - [黄生 / Huang Sheng (Western Han)](entities/HuangShengWesternHan.md) — Huang-Lao-side disputant who defends fixed ruler-minister hierarchy against Yuan Gusheng's people-based mandate argument.
 - [Abyssinian Expedition of 1868](entities/AbyssinianExpedition1868.md) — British hostage-rescue campaign opened through Teodros II, Magdala, failed diplomacy, and Victorian imperial calculation.
 - [Teodros II](entities/TeodrosII.md) — Abyssinian emperor whose modernizing ambitions and hostage-taking lead toward the 1868 British expedition.

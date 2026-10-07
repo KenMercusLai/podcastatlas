@@ -16,6 +16,7 @@ sources:
   - zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d
   - zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug
   - zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv
+  - zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 
 Hanji 272 now supplies the profile's first court-entry mechanism. It presents Gongsun Hong as a poor former local clerk who loses office, tends pigs, begins sustained study in his forties, and waits roughly two decades before a 140 BCE recruitment edict creates an opening. His response argues that upright conduct above creates trust below and that rewards and punishments cannot compensate for rulers who lack credibility; it then joins ability-matched appointment, livelihood restraint, merit, punishment, and the virtues of benevolence, righteousness, ritual, and wisdom. The reviewing office reportedly finds the answer ordinary, but [[HanWudi|汉武帝]] ranks it first and appoints him as boshi. This makes late preparation plus ruler recognition the beginning of his mobility while also showing, before the later survival episodes, how classical language and bureaucratic practicality made him legible to concentrated power.
+
+Hanji 272 part 2 adds the return after rejection. It says Wudi had previously dismissed Gongsun's report against southwest expansion, leaving him reluctant and doubtful when a new recruitment call arrived around 130 BCE. After being recommended again, he reportedly returns as boshi and adopts a ruler-facing method: set out facts, reasons, and choices, avoid direct public confrontation, and leave the final decision visibly to Wudi. [[YuanGusheng|袁固生]] warns him against bending learning toward worldly approval, so the same episode places effective [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] beside the unresolved danger of [[OpportunisticCourtAlignment|权势导向的机会主义站队]]. The distinction depends on whether only delivery changes or conviction changes with the audience; the source cannot observe that boundary directly.
 
 Hanji 273 part 1 adds the first direct conflict with [[JiAnWesternHan|汲黯]]. Ji says Gongsun abandons a position agreed privately with other ministers after reading Wudi's reaction. Gongsun answers that people who understand him call him loyal and those who do not call him disloyal, moving the dispute from the alleged broken agreement to the audience's interpretation of loyalty. The source therefore adds a coordination cost to his adaptability: responsiveness to the ruler can preserve influence while making peers experience the same act as opportunism or betrayal.
 
@@ -55,7 +58,7 @@ The unsuccessful edge of that method appears after Ji An criticizes Wudi's horse
 ## Key Characteristics
 
 - Tactful resource-priority adviser who can revise a defeated position and preserve one frontier priority by dropping others.
-- Survival-aware court actor who protects access and influence through calibrated speech, including adapting a privately discussed position after reading the ruler's response, at the cost of peer trust.
+- Survival-aware, hierarchy-aware adviser who presents facts and choices, preserves imperial decision ownership, and adapts after reading the ruler's response; the same calibration can carry honest counsel or conceal audience-driven alignment at the cost of peer trust.
 - Fallible policy advocate whose bow ban is challenged on enforcement, substitution, ritual, and self-defense grounds.
 - Politically ambivalent court actor who can use appointment, indirect consequence, imperial-institution language, or public-legitimacy argument as an exposure, displacement, or punishment mechanism, though not every proposal succeeds.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
@@ -66,6 +69,9 @@ The unsuccessful edge of that method appears after Ji An criticizes Wudi's horse
 
 Late study, recruitment, and first appointment:
 - [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug|Hanji 272]] presents Gongsun Hong's dismissal, pig tending, study in his forties, imperial recruitment response, critique of punishment-first governance, Wudi's first-place selection, and appointment as boshi.
+
+Return after rejection and advice form:
+- [[zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm|Hanji 272 part 2]] presents the rejected southwest report, reluctant second recruitment, evidence-and-options method, avoidance of public confrontation, and promotion sequence, while Yuan Gusheng supplies the moral warning against court-facing distortion.
 
 Compromise that preserves influence:
 - [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]] uses Gongsun Hong's Xiongnu-versus-southwest advice to show how policy narrowing can preserve agency under strong imperial preference.
@@ -99,15 +105,16 @@ Delayed counteraction and an unsuccessful punishment proposal:
 
 ## Qualifications
 
-Hanji 272 supports the broad sequence of poverty, delayed study, recruitment, response, and first appointment more securely than its exact birth year, birthplace, local title, dismissal cause, ages, teacher relationship, chronology, response wording, examination mechanics, or cosmological causal claims. It also does not show that merit consistently displaced status or that this first success explains Gongsun Hong's eventual survival.
+Hanji 272 part 1 supports the broad sequence of poverty, delayed study, recruitment, response, and first appointment more securely than its exact birth year, birthplace, local title, dismissal cause, ages, teacher relationship, chronology, response wording, examination mechanics, or cosmological causal claims. Part 2 supports a later return, nonconfrontational advice style, and ascent more securely than the 130 BCE date, age, ten-year interval, exact office sequence, reasons for Yuan Gusheng's withdrawal, or a psychological chain from setbacks to character change. Neither source shows that merit consistently displaced status or that speaking style alone explains Gongsun Hong's eventual survival.
 
-All thirteen sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 273 part 1 adds two audience-facing defenses but does not reconstruct the private agreement, prove how often Gongsun changed positions, decide whether adaptation was loyalty or opportunism, or establish that rhetoric caused promotion; its Guan Zhong–Yan Ying analogy also does not settle his own motive. Hanji 273 part 2 adds a proposed punishment, not an imposed one; it does not establish the governing offense, legal possibility of clan punishment, Wudi's inner reaction, Gongsun's hidden motive, or whether Ji's Huaiyang appointment was retaliation rather than a mixed-purpose personnel decision. Its statement that Wudi first intended only to remove Zhufu Yan from office differs in detail from Hanji 285's contemplated release, though both preserve initial noncapital leniency. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
+All fourteen sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 273 part 1 adds two audience-facing defenses but does not reconstruct the private agreement, prove how often Gongsun changed positions, decide whether adaptation was loyalty or opportunism, or establish that rhetoric caused promotion; its Guan Zhong–Yan Ying analogy also does not settle his own motive. Hanji 273 part 2 adds a proposed punishment, not an imposed one; it does not establish the governing offense, legal possibility of clan punishment, Wudi's inner reaction, Gongsun's hidden motive, or whether Ji's Huaiyang appointment was retaliation rather than a mixed-purpose personnel decision. Its statement that Wudi first intended only to remove Zhufu Yan from office differs in detail from Hanji 285's contemplated release, though both preserve initial noncapital leniency. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
 
 ## What Changed
 
-- Added the private-coordination dispute: adapting to Wudi's reaction preserved ruler fit but created a concrete peer-trust cost.
-- Expanded the austerity defense from concession and praise to include admitted reputation seeking and an ability-versus-lifestyle analogy.
-- Kept loyalty, sincerity, frequency, exact dialogue, promotion causation, and the complete political-survival mechanism unresolved.
+- Added the rejected southwest report and reluctant second recruitment as the setback-and-return bridge between first appointment and later high office.
+- Distinguished evidence-and-options framing from conviction-changing opportunism; the observable advice form does not settle the adviser's inner boundary.
+- Added Yuan Gusheng's warning as a contemporary moral counterpoint to Gongsun Hong's court adaptation.
+- Extended the career sequence through the episode's Left Metropolitan Superintendent, Yushi Dafu, chancellor, and Marquis of Pingjin arc while keeping its chronology source-scoped.
 
 ## Relationships
 
@@ -131,3 +138,6 @@ All thirteen sources are popular-history interpretations. Hanji 925 and Hanji 28
 - [[LateBloomingTalent|大器晚成式人才显现]] - frames the conjunction of late study, extended preparation, recruitment timing, and imperial recognition in his first ascent.
 - [[GuoJieWesternHan|郭解]] - influential commoner whose follower violence Gongsun Hong converts into a fatal indirect-responsibility argument.
 - [[PrivateRetainerNetworkRisk|私人门客网络风险]] - risk frame for violence performed by loyalists outside a formal chain of command.
+- [[YuanGusheng|袁固生]] - fellow recruit whose warning makes integrity versus court adaptation explicit.
+- [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - describes Gongsun Hong's evidence-and-options method while preserving a moral boundary against flattery.
+- [[OpportunisticCourtAlignment|权势导向的机会主义站队]] - adjacent failure mode when audience awareness changes conviction rather than only delivery.
