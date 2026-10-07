@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
+- [《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？](sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh.md) — 推恩令用非嫡长子受封的即时利益推动封国反复分割，但其可执行性依赖文景削藩、七国之乱失败和诸侯行政权先被收回；“无解阳谋”及具体制度细节保留来源边界。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（2）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen.md) — 标题虽指向卫青河朔战事，正文实以欧亚草原串联秦汉对匈奴压力、北匈奴西迁、哥特迁徙与罗马危机；白登年代与人物、族群连续性及单线因果均保留来源边界。
 - [《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓](sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x.md) — 以茂陵迁徙、资产门槛与卫青说情呈现豪强控制，再以郭解亲族门客杀人和公孙弘的间接暴力归责解释其灭族结局。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
@@ -20741,6 +20742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
 - [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — 以刘氏封国替代异姓区域权力的汉初控制策略，同时面临诸侯自主、中央收权激化与后期宗室失能的生命周期权衡。
+- [推恩令 / Favor Extension Order](concepts/TuiEnLing.md) — 以非嫡长子受封激励推动诸侯国持续分割，并以文景时期已经形成的中央优势作为执行条件。
 - [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Early Han pattern where a capable non-Liu king is moved to a frontier defense role that can also fail under siege and imperial suspicion.
 - [Public Disavowal Self-Protection / 公开切割式自保](concepts/PublicDisavowalSelfProtection.md) — Survival pattern where an exposed actor publicly disparages or distances from a powerful possible ally so observers do not read the relationship as factional alliance.
 - [Ritual-Tour Summons Entrapment / 巡游会侯式诱捕](concepts/RitualTourSummonsEntrapment.md) — Chen Ping's Hanji 172 tactic of using an imperial tour and vassal gathering as the low-force arrest mechanism against Han Xin.

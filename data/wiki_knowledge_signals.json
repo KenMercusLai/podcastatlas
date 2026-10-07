@@ -99862,9 +99862,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -99879,9 +99879,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
+          "key": "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/hanjingdi/"
     },
     "HanLengEasternHan": {
@@ -137671,9 +137678,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -137744,6 +137751,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
+          "key": "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
         }
       ],
       "updated": "2026-10-07",
@@ -201144,9 +201158,9 @@
       "url": "/wiki/entities/samsachs/"
     },
     "SameSurnameKingEnfeoffment": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -201210,6 +201224,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
           "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
+          "key": "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
         }
       ],
       "updated": "2026-10-07",
@@ -230959,6 +230980,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
+    "TuiEnLing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
+          "key": "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/tuienling/"
+    },
     "TuileriesInsurrection": {
       "episode_count": 1,
       "show_count": 1,
@@ -260077,9 +260114,9 @@
       "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuFuYan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
@@ -260129,6 +260166,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
           "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
+          "key": "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
         }
       ],
       "updated": "2026-10-07",

@@ -6,7 +6,8 @@ tags: [person, emperor, western-han]
 sources:
   - zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s
   - zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
+last_updated: 2026-10-07
 ---
 
 ## Overview
@@ -19,11 +20,14 @@ Han Jingdi appears first as the successor whose reign turns two [[XuFuPhysiognom
 
 His more direct political-theory role is as the ruler before whom [[YuanGusheng|袁固生]] and [[HuangShengWesternHan|黄生]] debate whether [[ShangTang|商汤]]'s overthrow of Jie was legitimate revolution or ministerial rebellion. When Yuan asks whether [[LiuBang|刘邦]]'s replacement of Qin would also be illegitimate, Jing defuses the issue and marks Tang-Wu mandate transfer as an unnecessary topic for learning.
 
+Hanji 279 adds Jing's centralization role through the Seven States rebellion. The episode says his direct territorial reductions trigger the uprising, but victory lets the court abolish most rebel kingdoms, remove territory from others, and retract princely appointment, taxation, and governing powers. That coercive and administrative shift becomes a necessary precondition for [[HanWudi|汉武帝]] to implement the [[TuiEnLing|推恩令]] with lower rebellion risk.
+
 ## Key Characteristics
 
 - Successor-ruler whose reign reverses earlier Emperor Wen patronage and fulfills source-scoped physiognomy predictions.
 - Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu.
 - Court arbiter who handles a dangerous legitimacy debate by closing rather than resolving the doctrine.
+- Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
 
 ## Evidence
 
@@ -33,14 +37,17 @@ Succession-payoff reversal:
 Legitimacy-debate containment:
 - [[zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0|Hanji 392-3]] says Han Jingdi stops the Yuan Gusheng-Huang Sheng debate after the logic reaches Liu Bang's anti-Qin founding.
 
+Princely rollback:
+- [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] says Jing's削藩 helps trigger the Seven States rebellion and that victory permits wider territorial and administrative rollback before the 推恩令.
+
 ## Qualifications
 
-This remains a narrow wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome.
+This remains a narrow wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence, territorial disposition, and claimed removal of appointment, taxation, and governing powers are episode-attributed and require institutional comparison.
 
 ## What Changed
 
-- Added Hanji 392-3's legitimacy-debate containment role.
-- Converted the page to the synthesis-v1 schema.
+- Added the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
+- Connected Jing's direct削藩 to both immediate rebellion risk and later lower-conflict centralization.
 
 ## Relationships
 
@@ -51,3 +58,5 @@ This remains a narrow wiki profile, not a full biography of Han Jingdi. The Xu F
 - [[YuanGusheng|袁固生]] - Confucian disputant whose Liu Bang question makes the court debate dangerous.
 - [[HuangShengWesternHan|黄生]] - disputant whose hierarchy argument triggers the self-reference problem.
 - [[TangWuRevolutionLegitimacyTaboo]] - concept produced by Jing's containment of the debate.
+- [[SameSurnameKingEnfeoffment]] - royal-territorial order whose autonomy Jing reduces after the Seven States rebellion.
+- [[TuiEnLing]] - Wudi-era policy made safer by Jing's prior military and administrative rollback.

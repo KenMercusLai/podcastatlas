@@ -31668,3 +31668,11 @@ Added source `zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？
+
+Added source `zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh`; created [[TuiEnLing|推恩令]]; and resynthesized [[ZhuFuYan|主父偃]], [[LiuAn|淮南王刘安]], [[HanJingdi|汉景帝]], and [[SameSurnameKingEnfeoffment|同姓王分封]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the 推恩令 converts non-heir sons into beneficiaries of repeated territorial division, but its success depends on Wen-era gradual partition, Jing's defeat of the Seven States, prior removal of princely governing powers, and credible central coercion rather than benevolent wording or strategic cleverness alone. No settled contradiction was adopted. The supplied Hanji 279 summary names only “a minister,” so Zhufu Yan's authorship remains an adjacent Hanji 285 attribution; “千古第一阳谋,” universal princely welcome, date and edict wording, kingdom-by-kingdom implementation, Liu An's contacts and motives, and detailed Wen-Jing administrative changes remain source-scoped. Broad [[HanWudi|汉武帝]], [[LiuHeng|汉文帝]], and show pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,962 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

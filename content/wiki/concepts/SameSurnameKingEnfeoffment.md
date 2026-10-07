@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u
   - zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc
   - zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2
+  - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
 last_updated: 2026-10-07
 ---
 
@@ -32,6 +33,8 @@ The same tool creates new risks. [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-
 
 [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] supplies a mid-course mechanism between founding grants and final political weakness. [[LiuChangHuainanKing|刘长]] begins as the Liu-family replacement for Ying Bu but is remembered here as a failed rebel; his son [[LiuCiHengshanKingWesternHan|刘赐]] rules a kingdom in which a centrally appointed 内史 can block royal punishment, and the emperor can remove part of the king's appointment authority. The result is not automatic stability: kinship-based territorial rule remains subordinate to central law, while partial rollback can itself become a grievance around which an ambitious king escalates.
 
+[[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] now fills the main mechanism between autonomy and late weakness. Emperor Wen's gradual partitioning reduces kingdom scale, Emperor Jing's direct削藩 triggers but then defeats the Seven States, and the [[TuiEnLing|推恩令]] recruits non-heir sons to divide royal territory under Wudi. The result is not clever wording alone: beneficiary incentives work because previous military victory and administrative rollback make refusal costly.
+
 The synthesis is therefore double-edged. Same-surname kingship can help a new dynasty replace risky non-kin powerholders and guard strategic regions, but kinship is not a permanent substitute for military capacity, administrative design, or political incentives. When royal kin become powerful, they threaten the center; when they are fully defanged, they cannot protect the dynasty in crisis.
 
 ## Key Claims
@@ -41,7 +44,7 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 - Kinship does not remove performance discipline: a Liu king can be demoted or rotated when frontier defense fails.
 - Same-surname kings can become succession-risk platforms when a royal title intersects with heir politics.
 - Replacing non-Liu kings with Liu-family kings can reassure the center while still generating later autonomy, legal-jurisdiction, and appointment-control conflicts.
-- Long-term削藩 and 推恩令 solve the autonomy problem by weakening royal houses, but that also removes their capacity to defend the dynasty.
+- Long-term削藩 and [[TuiEnLing|推恩令]] solve the autonomy problem through prior coercion plus beneficiary-driven fragmentation, but that also removes royal houses' capacity to defend the dynasty.
 - Hanji 638 changes the concept from an early-founding settlement into a full lifecycle pattern: useful protective kinship, dangerous regional autonomy, central rollback, and late-stage powerless submission.
 
 ## Evidence
@@ -58,16 +61,18 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 - Late-stage submission: [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] says Liu royal houses by Wang Mang's usurpation are politically weak and many submit seals or praise the new regime.
 - Mid-course central restraint: [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] says a central official blocks Liu Ci's unlawful death case and the emperor later narrows his power to appoint senior local officials.
 - Kinship does not end rebellion risk: [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] remembers Liu Chang as a failed rebel and presents Liu An and Liu Ci as later conspirators in the same royal branch.
+- Fragmentation mechanism: [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] says repeated grants to additional sons divide royal territory while giving those sons a direct benefit.
+- Enforcement precondition: [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] places successful implementation after Wen-era partition and Jing's defeat and administrative rollback of the Seven States.
 
 ## Counterevidence & Qualifications
 
-The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, succession exposure, and disputed jurisdiction. Hanji 304-2 supplies one dramatized Hengshan case rather than a general administrative survey, so its official titles, appointment threshold, motives, and family-pattern framing remain source-scoped. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain outside the bounded evidence.
+The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, succession exposure, and disputed jurisdiction. Hanji 279's “无解” and universal-welcome language is rhetorical; exact edict wording, kingdom-by-kingdom implementation, and territorial effects remain outside its compact summary. Hanji 304-2 supplies one dramatized Hengshan case rather than a general administrative survey, so its official titles, appointment threshold, motives, and family-pattern framing remain source-scoped. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain outside the bounded evidence.
 
 ## What Changed
 
-- Added the Hengshan mid-course mechanism: central legal review and removal of appointment power constrain a same-surname king before abolition.
-- Qualified family trust by showing that Liu Chang's replacement branch is later remembered through repeated royal rebellion.
-- Sharpened the lifecycle tradeoff to include not only autonomy and eventual weakness, but conflict during partial central rollback.
+- Added the 推恩令's beneficiary-driven fragmentation mechanism.
+- Made Wen-era partition and Jing's victory over the Seven States explicit enforcement preconditions.
+- Preserved the lifecycle tradeoff: the same rollback that limits rebellion also weakens later royal defense of the dynasty.
 
 ## Related Concepts
 
@@ -77,3 +82,4 @@ The concept should not be read as proof that enfeoffment is always better than c
 - [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - risk exposed when a same-surname king becomes an underprotected heir alternative.
 - [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - late-Western-Han legitimacy transfer field in which weakened Liu royal kin matter.
 - [[RoyalKinTreasonLawBoundary|宗室谋逆法度边界]] - later royal-kin governance boundary that inherits the problem of kinship, threat, and procedure.
+- [[TuiEnLing|推恩令]] - inheritance-and-enfeoffment mechanism that fragments the large kingdoms described here.

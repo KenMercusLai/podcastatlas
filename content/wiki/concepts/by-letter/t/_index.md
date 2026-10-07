@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9861
+wiki_total_pages: 9862
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "TonsilSurgeryDecision"
     title: "扁桃体手术决策 / Tonsil Surgery Decision"
     url: "/wiki/concepts/tonsilsurgerydecision/"
+  - key: "TuiEnLing"
+    title: "推恩令 / Favor Extension Order"
+    url: "/wiki/concepts/tuienling/"
   - key: "TributeSystemEconomicIncentive"
     title: "朝贡体系经济激励 / Tribute System Economic Incentive"
     url: "/wiki/concepts/tributesystemeconomicincentive/"
