@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
+  - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va
 last_updated: 2026-10-07
 ---
 
@@ -16,7 +17,7 @@ last_updated: 2026-10-07
 
 ## Current Profile
 
-Hanji 284 supplies the first developed political profile in the wiki. Zhufu Yan knows internal affairs in Yan, Qi, and Zhao, forwards the accusation that destroys [[LiuDingguoYanKingWesternHan|燕王刘定国]], and becomes feared and courted by officials and princely retainers. When Kong Che urges restraint, he answers that decades of rejection have left him old, ambitious, and willing to proceed “倒行逆施.”
+Hanji 284 part 1 supplies the interpretive premise before the developed political profile: escalating desire does not stop when one want is satisfied, money can become destructive rather than protective, and Zhufu Yan's talent is endangered by greed rather than by lack of ability. This remains a framing thesis until part 2 supplies conduct and consequence. Part 2 then shows that Zhufu Yan knows internal affairs in Yan, Qi, and Zhao, forwards the accusation that destroys [[LiuDingguoYanKingWesternHan|燕王刘定国]], and becomes feared and courted by officials and princely retainers. When Kong Che urges restraint, he answers that decades of rejection have left him old, ambitious, and willing to proceed “倒行逆施.”
 
 The Qi case makes the mixture of public and private motive explicit. After Empress Dowager Ji rejects his proposed marriage connection, he memorializes against [[QiLiwangWesternHan|齐厉王]], invokes Linzi's wealth and the king's distant imperial kinship, and adds the allegation of incest. As Qi chancellor he conducts a coercive inquiry that ends in the king's suicide. [[LiuPengzuZhaoKingWesternHan|赵王刘彭祖]] then moves first, accusing him of bribery and forcing the Qi king's death.
 
@@ -30,7 +31,7 @@ Zhouji 29 preserves a much later reception layer. [[SimaGuang|司马光]] pairs 
 
 - Converts knowledge, accusation, and uncompromising enforcement into rapid usefulness near Han Wudi.
 - Uses royal scandal both for central discipline and, in the Qi case, alleged personal revenge.
-- Presented as shaped by poverty, exclusion, and frustrated ambition without those conditions fully explaining his conduct.
+- Presented as shaped by poverty, exclusion, frustrated ambition, and escalating material desire without those conditions fully explaining or excusing his conduct.
 - Accumulates enemies across princely, elite, collegial, scholarly, and kinship networks.
 - Loses imperial protection after bribery charges, the Qi king's death, and Gongsun Hong's public-legitimacy argument converge.
 - Dies isolated despite earlier crowds of guests, revealing the contingency of fear- and access-based ties.
@@ -42,6 +43,7 @@ Princely information and Yan accusation:
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says Zhufu Yan knows secrets from Yan, Qi, and Zhao and forwards the accusation that ends Liu Dingguo's reign and fief.
 
 Urgency and exercise of power:
+- [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va|Hanji 284 part 1]] frames greed as the danger that redirects Zhufu Yan's talent and advancement toward self-destruction, while leaving the concrete case to the continuation.
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] records his rejection of Kong Che's warning and his “倒行逆施” explanation after decades of frustration.
 - [[zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3|Hanji 284]] says he memorializes against the Qi king, becomes Qi chancellor, and extracts testimony through torture before the king's suicide.
 
@@ -58,13 +60,12 @@ Later reception:
 
 ## Qualifications
 
-The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 284 distinguishes reported acts from its interpretation of motive: Linzi's wealth, royal distance, and sexual scandal are public arguments, while rejected marriage access and resentment are presented as a private driver. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 is recorded but does not provide a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
+The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 284 part 1's claim that greed ruins Zhufu Yan is a thesis announced before the excerpt presents his conduct, and the desire-escalation song does not establish his individual psychology. Part 2 distinguishes reported acts from its interpretation of motive: Linzi's wealth, royal distance, and sexual scandal are public arguments, while rejected marriage access and resentment are presented as a private driver. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 is recorded but does not provide a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
 
 ## What Changed
 
-- Completed the profile from Liu Pengzu's accusation through Gongsun Hong's intervention, execution, and clan punishment.
-- Added accumulated enmity and power-contingent guests as mechanisms of final isolation.
-- Preserved 推恩令 authorship, death details, and psychological explanations as source-scoped rather than settled.
+- Added escalating desire and wealth-seeking as the episode's explicit framing of how talent becomes self-destructive.
+- Clarified that this psychological frame precedes the case evidence and therefore remains interpretive rather than independently demonstrated.
 
 ## Relationships
 

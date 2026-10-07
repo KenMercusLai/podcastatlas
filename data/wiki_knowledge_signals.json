@@ -248987,9 +248987,9 @@
       "url": "/wiki/entities/xunyou/"
     },
     "XunYue": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2） [lutKaPDiJRGPwfRZ3sAAOwXTk_i2].md",
@@ -249018,9 +249018,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1） [loeYZfhhDR9wdjHmDPfhMkvSM5vA].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/xunyue/"
     },
     "XunZhiWesternHan": {
@@ -252032,6 +252039,36 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
+    },
+    "YouxiaSuppressionUnderUnification": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
+          "key": "zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？ [liDfjb6_NGgubw8VPz5fVNFacRqU].md",
+          "key": "zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1） [loeYZfhhDR9wdjHmDPfhMkvSM5vA].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/youxiasuppressionunderunification/"
     },
     "YuChangWesternHan": {
       "episode_count": 1,
@@ -259147,9 +259184,9 @@
       "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuFuYan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
@@ -259171,6 +259208,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1） [loeYZfhhDR9wdjHmDPfhMkvSM5vA].md",
+          "key": "zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va/"
         }
       ],
       "updated": "2026-10-07",
