@@ -8,6 +8,7 @@ sources:
   - 647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633
   - 646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734
   - 645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438
+  - 644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -16,9 +17,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Francisco Pizarro was a Spanish conquistador and governor who converted Inca civil-war divisions, a planned massacre at Cajamarca, and Atahualpa's captivity into treasure, puppet succession, control of Cusco, and colonial rule before factional violence ended with his assassination in 1541.
+Francisco Pizarro was an illiterate Spanish conquistador and governor whose long, repeatedly unsuccessful search for Peru culminated in a campaign that converted Inca civil-war divisions, the Cajamarca massacre, and Atahualpa's captivity into treasure, puppet succession, colonial rule, and lethal factional rivalry.
 
 ## Current Profile
+
+[[644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558]] supplies Pizarro's formation before 1532. Born around 1478 in Trujillo as the illegitimate son of a minor noble and a servant, he reached Hispaniola in 1502, participated in violent Caribbean conquest, joined Balboa's Pacific expedition, and later arrested Balboa for execution. By the early 1520s he held an encomienda in Panama but continued pursuing reports of a wealthy southern land.
+
+Partnership with [[DiegoDeAlmagro|Diego de Almagro]] and Hernando de Luque financed unsuccessful 1524 and 1526 expeditions. Maritime reconnaissance, captured trade goods, uncertain interpreters, the Isla de Gallo holdouts, and Tumbes gradually turned rumor into a plausible conquest project. The 1529 royal grant then made Pizarro governor and captain-general while giving Almagro a markedly lesser office, embedding future factional conflict in the venture's authorization. Pizarro returned with brothers, recruits, horses, and legal authority and moved south through disease, fighting, and incomplete information until ruined Tumbes revealed both [[Tawantinsuyu]]'s scale and its [[IncaCivilWar|civil war]].
 
 [[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] places Pizarro's advance inside legal improvisation, intelligence gathering, material vulnerability, and calculated violence. He establishes San Miguel to formalize his governorship, leads fewer than two hundred men across terrain where ambush could have destroyed them, and accepts Atahualpa's invitation to Cajamarca while searching for an opening created by civil war.
 
@@ -36,16 +41,17 @@ The episode presents his authority as inseparable from violence and betrayal. He
 
 ## Key Characteristics
 
-- Risk-taking expedition leader who crossed the Andes with a small, vulnerable company and planned the Cajamarca ambush.
+- Persistent expedition leader whose repeated failures, reconnaissance, royal lobbying, and unequal partnership preceded the Andean advance.
+- Risk-taking commander who crossed the Andes with a small, vulnerable company and planned the Cajamarca ambush.
 - Conquistador who used a captive sovereign to collect treasure, restrain armies, and open the road to Cusco.
 - Commander who broke Atahualpa's ransom-release bargain through a disputed execution.
 - Manipulator of Inca succession conflict through Spanish-backed rulers.
 - Governor who converted sacred plunder and military occupation into Cusco's refoundation, Lima's founding, and colonial grants.
 - Faction leader who turned negotiation and delay into military preparation while benefiting from royal recognition and colonial wealth.
-- Commander associated with hostage-taking, legal-religious coercion, exemplary violence, and lethal factional rivalry.
 
 ## Evidence
 
+- Formation and authorization: [[644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558]] follows Pizarro from Hispaniola and Panama through failed expeditions, Tumbes, the 1529 grant, family recruitment, and the discovery of Inca civil war.
 - Advance and ambush: [[645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438]] follows legal foundation, the vulnerable mountain crossing, concealment at Cajamarca, massacre, and Atahualpa's capture.
 - Ransom and execution: [[646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734]] follows the release promise, treasure collection, Spanish debate, disputed court martial, and killing that exposed Pizarro to criticism.
 - Puppet rule and plunder: [[647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633]] follows Pizarro's succession choices, entry into Cusco, political theater, and melting of sacred wealth.
@@ -57,16 +63,19 @@ The episode presents his authority as inseparable from violence and betrayal. He
 
 ## Qualifications
 
-This profile covers Pizarro from the 1532 inland advance through his death rather than his full career. Personality judgments, dialogue, force and casualty totals, private hesitation, the book incident, the ransom's terms, trial form, legal details, household details, and assassination reconstruction remain source-scoped. Explaining his advantage through shock, captive authority, Inca faction, Indigenous allies, Lima, and royal access does not reduce the result to one mechanism or excuse violence by Spanish or Indigenous forces.
+This profile covers Pizarro's conquest career in six narrative podcast episodes rather than providing an independent full biography. Birth date, pig-herder tradition, personality judgments, dialogue, force and casualty totals, interpreter performance, private hesitation, legal details, and assassination reconstruction remain source-scoped. Explaining his advantage through persistence, authorization, epidemic shock, civil war, captured authority, Indigenous allies, Lima, and royal access does not reduce the result to one mechanism or excuse violence by Spanish or Indigenous forces.
 
 ## What Changed
 
-- Extended the profile back to the vulnerable Andean advance and planned Cajamarca ambush.
-- Identified selective ruler capture, not massacre alone, as the bridge into hostage conquest.
+- Extended the profile from the Andean advance back to Pizarro's Caribbean formation, failed expeditions, reconnaissance, and royal lobbying.
+- Located the later Almagro rivalry partly in the unequal offices secured by Pizarro in 1529.
+- Connected Pizarro's decision to advance to epidemic and civil-war damage learned at Tumbes.
 
 ## Relationships
 
 - [[DiegoDeAlmagro]] - former partner and rival whose execution prolonged their factional feud.
+- [[Tawantinsuyu]] - empire whose scale, wealth, and internal fractures became the object of Pizarro's expedition.
+- [[IncaCivilWar]] - recent succession conflict Pizarro recognized as a strategic opening.
 - [[MancoInca]] - Inca resistance ruler pursued and coerced by the Pizarro faction.
 - [[Atahualpa]] - captive emperor whose authority and ransom financed the opening conquest before Pizarro ordered his death.
 - [[CajamarcaMassacre]] - planned ambush through which Pizarro captured Atahualpa alive.

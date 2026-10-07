@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12682
+wiki_total_pages: 12683
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "TavneetSuri"
     title: "Tavneet Suri"
     url: "/wiki/entities/tavneetsuri/"
+  - key: "Tawantinsuyu"
+    title: "Tawantinsuyu"
+    url: "/wiki/entities/tawantinsuyu/"
   - key: "TaxFoundation"
     title: "Tax Foundation"
     url: "/wiki/entities/taxfoundation/"

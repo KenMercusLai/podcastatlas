@@ -18517,9 +18517,9 @@
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atahualpa": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4740382633 [GLT4740382633].md",
@@ -18541,6 +18541,13 @@
           "show": "The Rest Is History",
           "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
           "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
+        },
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
         }
       ],
       "updated": "2026-10-08",
@@ -59815,9 +59822,9 @@
       "url": "/wiki/entities/diegobohorquez/"
     },
     "DiegoDeAlmagro": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -59846,6 +59853,13 @@
           "show": "The Rest Is History",
           "title": "646. The Fall of the Incas: Death to the Emperor (Part 3)",
           "url": "/wiki/sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734/"
+        },
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
         }
       ],
       "updated": "2026-10-08",
@@ -86087,9 +86101,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FranciscoPizarro": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -86125,6 +86139,13 @@
           "show": "The Rest Is History",
           "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
           "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
+        },
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
         }
       ],
       "updated": "2026-10-08",
@@ -116530,6 +116551,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/impostorsyndrome/"
+    },
+    "IncaCivilWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/incacivilwar/"
     },
     "IncentiveCompatibleAISafety": {
       "episode_count": 1,
@@ -216336,9 +216373,9 @@
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "SpanishConquestOfPeru": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4505534064 [GLT4505534064].md",
@@ -216374,6 +216411,13 @@
           "show": "The Rest Is History",
           "title": "645. The Fall of the Incas: Massacre in the Andes (Part 2)",
           "url": "/wiki/sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438/"
+        },
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
         }
       ],
       "updated": "2026-10-08",
@@ -225729,6 +225773,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/tatewalker/"
+    },
+    "Tawantinsuyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4676536558 [GLT4676536558].md",
+          "key": "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558",
+          "show": "The Rest Is History",
+          "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
+          "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/tawantinsuyu/"
     },
     "TaxEnforcementCapacity": {
       "episode_count": 3,

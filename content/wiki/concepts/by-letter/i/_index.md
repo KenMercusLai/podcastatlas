@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9903
+wiki_total_pages: 9904
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "InboundTourismBrandDiscovery"
     title: "Inbound Tourism Brand Discovery"
     url: "/wiki/concepts/inboundtourismbranddiscovery/"
+  - key: "IncaCivilWar"
+    title: "Inca Civil War"
+    url: "/wiki/concepts/incacivilwar/"
   - key: "IncenseFormulaReconstruction"
     title: "Incense Formula Reconstruction / 古方香复刻"
     url: "/wiki/concepts/incenseformulareconstruction/"

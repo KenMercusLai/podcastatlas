@@ -32103,3 +32103,11 @@ Added source `the-most-effective-weight-training-cardio-nutrition-for-women-dr-l
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 644. The Fall of the Incas: Empire of Gold (Part 1)
+
+Added source `644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558`; created [[Tawantinsuyu]] and [[IncaCivilWar]]; and resynthesized [[FranciscoPizarro]], [[Atahualpa]], [[DiegoDeAlmagro]], and [[SpanishConquestOfPeru]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Pizarro's opportunity arose from a long chain of Caribbean and Panamanian conquest experience, failed Pacific expeditions, reconnaissance, uncertain interpretation, and unequal royal authorization, while Tawantinsuyu remained administratively formidable but was damaged by epidemic succession shock and the unresolved Huascar–Atahualpa civil war. No settled contradiction was adopted; Spanish-mediated atrocity accounts, Pizarro biography and dialogue, dates and totals, Tawantinsuyu's population, market and property arrangements, quipu capabilities, and modern authoritarian comparisons remain source-scoped. Broad show, host, Columbian Exchange, Requerimiento, and encomienda pages were kept closed because the bounded addition is represented in focused pages, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,017 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

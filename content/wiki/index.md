@@ -129,6 +129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
+- [644. The Fall of the Incas: Empire of Gold (Part 1)](sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558.md) — Pizarro's long expeditionary formation and royal authorization set against Tawantinsuyu's capacity, coercion, epidemic losses, and civil-war fracture.
 - [645. The Fall of the Incas: Massacre in the Andes (Part 2)](sources/645-the-fall-of-the-incas-massacre-in-the-andes-part-2-glt2938007438.md) — Pizarro's Andean advance, mutual political miscalculation, the planned Cajamarca ambush, mass killing, and Atahualpa's capture.
 - [646. The Fall of the Incas: Death to the Emperor (Part 3)](sources/646-the-fall-of-the-incas-death-to-the-emperor-part-3-glt8131543734.md) — Atahualpa's ransom, captive authority, sacred plunder, disputed trial, execution, and the succession vacuum before the march on Cusco.
 - [647. The Fall of the Incas: The King in the North (Part 4)](sources/647-the-fall-of-the-incas-the-king-in-the-north-part-4-glt4740382633.md) — Puppet succession, Cusco's sacred plunder, northern resistance around Quito, and the transition from conquest to colonial settlement.
@@ -4190,6 +4191,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 从反太子盟友升为拟立储君和武器经手人，调查中又告发父王而未能自保的衡山王子。
 - [刘无采 / Liu Wucai (Hengshan Royal Daughter)](entities/LiuWucaiHengshanPrincess.md) — 因兄长干预私生活而决裂并被徐来吸纳进反太子阵营的衡山王女。
 - [厥姬 / Jue Ji (Hengshan Consort)](entities/JueJiHengshan.md) — 以未核实巫蛊指控激化太子刘爽与王后徐来冲突的衡山王宠妾。
+- [Tawantinsuyu](entities/Tawantinsuyu.md) — Vast and capable but coercive, diverse, epidemic-damaged, and succession-divided Inca-ruled Andean empire.
 - [Atahualpa](entities/Atahualpa.md) — Captive Inca ruler whose continuing authority financed conquest before his disputed execution created a succession vacuum.
 - [Chalcuchima](entities/Chalcuchima.md) — Senior Atahualpa-aligned commander drawn into Spanish captivity despite commanding a much larger force.
 - [Rumiñawi](entities/Ruminawi.md) — Northern commander who seized power around Quito, resisted Spanish-led forces, and was executed in 1535.
@@ -16915,6 +16917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
+- [Inca Civil War](concepts/IncaCivilWar.md) — Huascar–Atahualpa succession conflict whose unresolved regional and dynastic fractures shaped the Spanish opening.
 - [Atahualpa's Ransom and Execution](concepts/AtahualpaRansomAndExecution.md) — Failed ransom bargain in which captive authority financed conquest before trial and execution created a succession vacuum.
 - [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged process joining the Cajamarca massacre, hostage leverage, Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
 - [Cajamarca Massacre](concepts/CajamarcaMassacre.md) — Planned ambush that combined imperial fracture, enclosure, sensory shock, mass killing, and Atahualpa's capture.
