@@ -6,7 +6,8 @@ tags: [governance, remonstrance, historical-analogy, warfare, logistics, western
 sources:
   - zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_
   - zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -15,7 +16,7 @@ last_updated: 2026-10-07
 
 ## Current Synthesis
 
-The current evidence comes from two reported memorials to [[HanWudi|汉武帝]]. [[ZhuFuYan|主父偃]] compares two failed or costly coercive paths against the [[Xiongnu|匈奴]]: Qin's northern advance creates remote supply and defense burdens disproportionate to the usable land gained, while [[LiuBang|汉高祖]]'s pursuit ends in [[BaidengEncirclement|白登之围]] and a turn toward accommodation. [[YanAnWesternHan|严安]] broadens the ledger by joining Qin's northern and southern campaigns to environmental mismatch, supply failure, mass military and transport labor, civilian suffering, and dynastic exhaustion.
+The current evidence comes from three reported memorials to [[HanWudi|汉武帝]]. [[ZhuFuYan|主父偃]] compares two failed or costly coercive paths against the [[Xiongnu|匈奴]]: Qin's northern advance creates remote supply and defense burdens disproportionate to the usable land gained, while [[LiuBang|汉高祖]]'s pursuit ends in [[BaidengEncirclement|白登之围]] and a turn toward accommodation. [[YanAnWesternHan|严安]] broadens the ledger by joining Qin's northern and southern campaigns to environmental mismatch, supply failure, mass military and transport labor, civilian suffering, and dynastic exhaustion. [[LiuAn|刘安]] applies the same method to a proposed Yue expedition, adding disease before battle, bereaved households, occupation dilemmas, and an envoy-and-recognition alternative.
 
 The mechanism is therefore a decision ledger. A ruler is asked to look beyond anger, battlefield prestige, or nominal expansion and count what must be transported, defended, replaced, taxed, and endured. Historical precedent becomes useful when the adviser identifies a recurring constraint and explains why the current decision shares it; it becomes weak when analogy substitutes for checking present capabilities, objectives, enemy conditions, and alternatives.
 
@@ -27,6 +28,7 @@ The mechanism is therefore a decision ledger. A ruler is asked to look beyond an
 - The method converts ruler emotion and prestige pressure into questions that can be tested against state capacity.
 - Analogy remains conditional: similarities in mobility, distance, and logistics do not erase changes in force, finance, technology, objectives, or political context.
 - Multiple precedents can reveal a repeated cost structure without proving that every campaign sharing one feature will produce the same outcome.
+- A strong warning pairs the negative precedent with an alternative instrument whose own costs and enforcement conditions can be compared.
 
 ## Evidence
 
@@ -42,15 +44,18 @@ Ruler-facing reframing:
 Cross-theater burden:
 - [[zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8|Hanji 278]] says Yan An uses Qin's northern and southern campaigns to connect distant objectives, failed logistics, mass mobilization, civilian suffering, and collapse risk.
 
+Environmental attrition and alternative instrument:
+- [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] says Liu An joins poor harvests, household strain, waterways, heat, disease, supply, long occupation, and Qin's Yue precedent, then proposes envoy contact, recognition, hostages, and tribute instead.
+
 ## Counterevidence & Qualifications
 
-The page currently rests on two popular-history episodes summarizing classical memorials, not on an independent collation of 《史记》, 《汉书》, and 《资治通鉴》 wording or chronology. The Qin and Baideng examples may select the costs most useful to each adviser while omitting benefits, changed conditions, or alternative causal explanations. Hanji 278's host separately distinguishes aggressive war from border defense, but that commentary does not settle whether particular Han-Xiongnu campaigns were necessary or proportionate. A successful warning against one expedition would not prove permanent nonwar policy, and a later military success would not erase the earlier need for cost accounting. The concept describes a persuasive method, not a verdict that every historical analogy or every accommodation policy is correct.
+The page currently rests on three popular-history episodes summarizing classical memorials, not on an independent collation of 《史记》, 《汉书》, and 《资治通鉴》 wording or chronology. The Qin, Baideng, and southern-expedition examples may select the costs most useful to each adviser while omitting benefits, changed conditions, or alternative causal explanations. Hanji 255's disease rates, force estimates, Qin causal chain, and diplomatic feasibility remain source-scoped; Hanji 256 shows that military mobilization can itself alter local incentives. Hanji 278's host separately distinguishes aggressive war from border defense, but that does not settle whether particular campaigns were necessary or proportionate. The concept describes a persuasive method, not a verdict that every historical analogy or accommodation policy is correct.
 
 ## What Changed
 
-- Added Yan An's north-south Qin comparison, extending the method from frontier mobility and defense to cross-theater logistics and civilian mobilization.
-- Preserved the distinction between cost warning and a blanket rejection of defensive war.
-- Strengthened the guardrail that repeated cost structures do not make historical outcomes deterministic.
+- Extended the method to environmental and noncombat attrition before battle.
+- Added the requirement to compare a warned-against campaign with a concrete alternative instrument, not merely with inaction.
+- Qualified Liu An's alternative with the sequel's evidence that coercive mobilization can help create bargaining leverage.
 
 ## Related Concepts
 

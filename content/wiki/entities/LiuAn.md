@@ -15,16 +15,19 @@ sources:
   - zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw
   - zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle to a political memory as a defeated royal conspirator. The rebellion case now has a continuous source-scoped chain: omen-framed preparation and a sword-bout grievance, blocked retainer exit and cautious imperial probe, limited punishment followed by renewed resentment, selective reception of intelligence and coercion of counsel, weak support and proliferating schemes, failed internal mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
+Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle, an earlier role as a sophisticated critic of costly southern expansion, and a political memory as a defeated royal conspirator. The rebellion case has a continuous source-scoped chain from omen-framed preparation through failed mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
 
 ## Current Profile
 
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] presents Liu An's circle as a knowledge-compilation world spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy. Later storytelling converts the politically defeated prince into an immortal figure, so textual patronage, political catastrophe, and religious memory remain related but distinct layers.
+
+Before the later conspiracy arc, Liu An appears as a sophisticated frontier-policy critic. His memorial against a southern expedition combines harvest distress, household burden, distance, terrain, river transport, heat, disease, supply, occupation, and Qin precedent into one cost chain. He proposes envoy contact, rewards, restoration of a local ruling line, seals and titles, hostages, and tribute as an alternative to direct conquest. This does not erase his later rebellion planning; it shows that sound analysis of imperial overextension could coexist with self-defeating judgment in his own political crisis. [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]]
 
 [[zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql|Hanji 294-2]] supplies the earliest current preparation layer. It presents Liu An as a learned and reputation-conscious prince with a large retainer circle, then says repeated reminders of his father [[LiuChangHuainanKing|刘长]]'s death and a comet comparison with the Rebellion of the Seven States prompt him to manufacture weapons and store grain. When [[LeiBeiWesternHan|雷被]] seeks central military service after a sword-bout conflict with crown prince [[LiuQianHuainanCrownPrinceWesternHan|刘迁]], Liu An blocks the departure.
 
@@ -46,7 +49,7 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 
 ## Key Characteristics
 
-- Western Han prince and knowledge patron whose political profile begins as residual vassal risk, then moves through paternal grievance, comet interpretation, weapons manufacture, and grain storage.
+- Western Han prince and knowledge patron who can construct a sophisticated anti-overextension case yet later misjudge the feasibility of his own rebellion.
 - Ruler who avoids an immediate clash when an envoy signals restraint but treats a limited territorial sanction as a reason for renewed preparation.
 - Ruler depicted as rewarding favorable political intelligence and coercing disconfirming counsel by imprisoning an adviser's parents.
 - Conspirator whose current source set depicts little princely or popular support before action.
@@ -58,6 +61,9 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 
 Knowledge compilation and later reception:
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] connects Liu An's circle to the Huainanzi's philosophical, technical, astronomical, and alchemical range and to later ascent legends.
+
+Southern-expedition remonstrance:
+- [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] supplies Liu An's linked accounting of civilian distress, environmental and logistical attrition, occupation risk, Qin precedent, and recognition-backed envoy diplomacy.
 
 Earlier centralization setting:
 - [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] uses Liu An's elite contacts and Chang'an activity to illustrate continuing vassal risk during adoption of the 推恩令.
@@ -81,13 +87,13 @@ Household fracture:
 
 ## Qualifications
 
-The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 279's gifts, official contacts, daughter's Chang'an role, imperial cane signal, and motive framing remain episode-attributed and do not establish that every contact formed part of a conspiracy. Hanji 294-2's retainer count, paternal-grievance mechanism, comet interpretation, material preparations, and private motives remain episode-attributed. Hanji 295's ambush, envoy behavior, two-county penalty, renewed motive, and fraternal alliance remain episode-attributed; its title's tofu-invention claim is not treated as verified, and its 刘谦、刘刺、雷备 are normalized to the contextually identified Liu Qian, Liu Ci, and Lei Bei. Hanji 302-1's reactions, coercion, troop comparison, temporary retreat, and household motives remain episode-attributed; its “吴皮” spelling is treated as a likely but unproved reference to Wu Bei, and the nephew's name is unresolved. Hanji 302-2's denunciation path, speeches, route plan, forces, arrest history, public-support judgment, and commander comparison also remain episode-attributed. Its “刘建” is not merged with the existing Jiangdu king of that name. Hanji 303-1's dialogue, schemes, corruptibility judgments, motives, and odds remain source-scoped. The joined evidence of weak support qualifies the later claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
+The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 255's harvest conditions, environmental risks, troop estimates, Qin causal chain, exact memorial wording, and proposed settlement remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
 ## What Changed
 
-- Added Liu An's earlier role as a residual-vassal-risk example in the 推恩令 setting.
-- Separated elite contact and influence from proof of participation in the later conspiracy.
-- Linked the personal rebellion arc to the broader Wudi-era fragmentation of princely power.
+- Liu An's political profile now includes a substantive anti-overextension memorial rather than beginning only with residual vassal risk and rebellion preparation.
+- His strongest new contribution is comparative instrument choice: guarded frontier plus envoy, recognition, hostages, and tribute versus invasion and occupation.
+- The current judgment now separates analytical ability from self-government: perceptive state-level cost reasoning coexists with later motivated bias and operational failure.
 
 ## Relationships
 
@@ -106,3 +112,5 @@ The current sources do not reconstruct Liu An's full biography, the Huainanzi's 
 - [[DeescalatoryEnvoySignaling|使者示弱式危机降温]] - immediate stand-down mechanism that protects the envoy without ending Liu An's preparation.
 - [[FangshuSystematization|方术系统化]] - broader organization of techniques and cosmological claims connected to Liu An's reception.
 - [[ChineseFolkReligionLayering|中国民间信仰层累]] - afterlife relationship through immortalization legend.
+- [[HistoricalCostPrecedentRemonstrance|历史成本先例式劝谏]] - method Liu An uses to connect southern-war precedent with current fiscal, human, and political risk.
+- [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - lower-cost frontier alternative proposed through envoy contact, titles, hostages, and tribute.

@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
   - zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua
   - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
+  - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Hanji 185 completes that mission by showing Zhao Tuo submit without losing local
 
 Hanji 839 extends the concept from first incorporation to post-rebellion restoration. In [[CheshiHouKingdomLateHan|车师后王国]], [[AluoduoCheshiLateHan|阿罗多]] rebels, harms Han屯田 forces, flees to the [[Xiongnu|北匈奴]], returns, and still has local support. [[YanXiangCheshiLateHan|阎祥]] restores him after surrender because excluding him may invite Northern Xiongnu intervention. Recognition here does not reward rebellion as virtue; it contains a worse frontier cascade by converting Aluoduo's remaining local legitimacy into a Han-recognized settlement.
 
+Hanji 255 supplies the explicit lower-cost theory before the Minyue settlement. [[LiuAn|刘安]] argues that an envoy carrying comfort, rewards, seals, and titles can restore a local succession, obtain hostages and tribute, and produce submission without the disease, supply, occupation, and resistance costs of a southern invasion. Recognition here is proposed as an institutional substitute for conquest, though the following episode shows that mobilized force also changes the local bargaining environment.
+
 Hanji 256 adds a divided-recognition variant after coercion has already changed the local regime. A Han expedition induces [[YuShanDongyueKing|余善]] and other Minyue elites to kill [[MinyueKingYing|闽越王郢]]. Han Wudi first recognizes [[YaoKingChouMinyue|越繇王丑]] for inherited ritual continuity, then recognizes Yu Shan as Dongyue king because Yu Shan's following makes Chou's sole rule impractical and renewed war would cost more. Recognition can therefore distribute legitimacy across lineage and effective power rather than insist on one fully controllable ruler.
 
 ## Key Claims
@@ -31,7 +34,7 @@ Hanji 256 adds a divided-recognition variant after coercion has already changed 
 - Formal recognition can function as pressure when backed by credible force, family leverage, or outside-threat management.
 - The recognized ruler is not necessarily absorbed administratively; the goal is submitted hierarchy without immediate costly occupation.
 - Envoy rhetoric matters because it turns identity, kinship, honor, fear, and advantage into reasons to accept recognition.
-- Recognition settlements preserve local dignity enough that submission can be chosen without total public humiliation.
+- Recognition settlements can preserve local dignity enough that submission is cheaper than resistance while exchanging titles and continuity for hostages, tribute, or acknowledged hierarchy.
 - Title-making can be more diplomatic than administrative when effective local control remains uncertain.
 - Recognition can divide inherited ritual legitimacy from effective local authority when neither can be ignored cheaply.
 - A rebel frontier king may be restored when replacement would push local support toward an outside power.
@@ -45,15 +48,17 @@ Hanji 256 adds a divided-recognition variant after coercion has already changed 
 - Cheshi restoration variant: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Yan Xiang restores Aluoduo as Cheshi Hou king after surrender to avoid wider Northern Xiongnu involvement.
 - Local-support constraint: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo returns and still has support inside his kingdom, making simple replacement by the hostage prince Beijun less stabilizing.
 - Divided Minyue-Dongyue settlement: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Han first recognizes Chou's inherited ritual claim and then Yu Shan's effective local power rather than pay for another expedition.
+- Proposed conquest substitute: [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] says Liu An pairs envoy contact and rewards with restored succession, seals, titles, hostages, and tribute to avoid invasion and occupation costs.
 
 ## Counterevidence & Qualifications
 
-Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. Hanji 256 likewise does not prove that Han designed a stable constitutional counterweight or controlled either recognized ruler's daily government. The concept should not be used for any concession; it applies when formal recognition organizes frontier status inside a hierarchy and makes settlement cheaper than resistance, exile, outside alignment, or renewed invasion.
+Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. Hanji 255 supplies a proposed policy, not proof that it could have settled this crisis without mobilization; Hanji 256 instead shows coercive pressure inducing local regime change before recognition completes the settlement. The latter also does not prove that Han designed a stable constitutional counterweight or controlled either recognized ruler's daily government. The concept applies when formal recognition organizes frontier status inside a hierarchy and makes settlement cheaper than resistance, exile, outside alignment, or renewed invasion.
 
 ## What Changed
 
-- Added a divided-recognition variant that separates Chou's inherited ritual legitimacy from Yu Shan's effective local power.
-- Extended the cost logic from first incorporation and restoration to settlement after coercion-induced regime change.
+- Added Liu An's explicit theory of recognition as a lower-cost substitute for invasion and occupation.
+- Qualified the substitution claim: Hanji 256 shows that credible mobilization may still be part of the bargaining mechanism.
+- Joined proposed settlement design to its sequel's divided recognition of lineage and effective local power.
 
 ## Related Concepts
 

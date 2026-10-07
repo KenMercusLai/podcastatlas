@@ -32024,3 +32024,10 @@ Added source `zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zu
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策
+
+Added source `zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8`; resynthesized [[LiuAn|刘安]], [[HistoricalCostPrecedentRemonstrance|历史成本先例式劝谏]], and [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu An joins domestic distress, terrain, disease, logistics, occupation, and Qin precedent into an anti-expedition cost chain, then proposes envoy contact, restored succession, recognition, hostages, and tribute as a concrete alternative. Hanji 256 qualifies the substitution claim because military mobilization helps induce local regime change before recognition completes the settlement. No settled contradiction was adopted. Exact memorial wording, geography, disease and force estimates, Qin causation, diplomatic feasibility, and private motive remain episode-attributed. Broad Han Wudi, Baiyue, Minyue, Nanyue, war-cost, show, and overview pages were kept closed because the bounded addition is represented in the focused source, entity, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,007 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
