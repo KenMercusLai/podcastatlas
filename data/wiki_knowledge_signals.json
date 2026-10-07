@@ -45687,9 +45687,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -45697,9 +45697,16 @@
           "show": "展开讲讲",
           "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
           "url": "/wiki/sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf/"
+        },
+        {
+          "episode_file": "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md",
+          "key": "120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3",
+          "show": "纸醉金迷FM",
+          "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
+          "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/compassionatecharacterinterpretation/"
     },
     "CompassionateCuriosity": {
@@ -60513,6 +60520,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/domesticaichipcatchup/"
+    },
+    "DomesticAuthorityWithoutSecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md",
+          "key": "120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3",
+          "show": "纸醉金迷FM",
+          "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
+          "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/domesticauthoritywithoutsecurity/"
     },
     "DomesticBagSupplyChainUpgrade": {
       "episode_count": 1,
@@ -236023,6 +236046,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/wangxiaowei/"
     },
+    "WangXifeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md",
+          "key": "120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3",
+          "show": "纸醉金迷FM",
+          "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
+          "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/wangxifeng/"
+    },
     "WangXingDoctor": {
       "episode_count": 4,
       "show_count": 2,
@@ -255365,9 +255404,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255375,6 +255414,13 @@
           "show": "纸醉金迷FM",
           "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
           "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        },
+        {
+          "episode_file": "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md",
+          "key": "120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3",
+          "show": "纸醉金迷FM",
+          "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
+          "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
         }
       ],
       "updated": "2026-10-07",

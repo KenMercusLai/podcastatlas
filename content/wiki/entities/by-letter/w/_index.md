@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12574
+wiki_total_pages: 12575
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "WangWenshuWesternHan"
     title: "王温舒 / Wang Wenshu (Western Han)"
     url: "/wiki/entities/wangwenshuwesternhan/"
+  - key: "WangXifeng"
+    title: "王熙凤 / Wang Xifeng"
+    url: "/wiki/entities/wangxifeng/"
   - key: "WangYuSouthernDynasties"
     title: "王玉 / Wang Yu (Southern Dynasties)"
     url: "/wiki/entities/wangyusoutherndynasties/"

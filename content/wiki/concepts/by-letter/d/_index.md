@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9805
+wiki_total_pages: 9806
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "DomesticAIRelations"
     title: "Domestic AI Relations"
     url: "/wiki/concepts/domesticairelations/"
+  - key: "DomesticAuthorityWithoutSecurity"
+    title: "Domestic Authority Without Security / 有权理家而无保障"
+    url: "/wiki/concepts/domesticauthoritywithoutsecurity/"
   - key: "DomesticBagSupplyChainUpgrade"
     title: "Domestic Bag Supply Chain Upgrade"
     url: "/wiki/concepts/domesticbagsupplychainupgrade/"

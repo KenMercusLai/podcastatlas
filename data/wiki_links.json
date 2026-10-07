@@ -299,6 +299,10 @@
     "title": "12.慢：当米兰·昆德拉一句正经没有",
     "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
   },
+  "120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3": {
+    "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
+    "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
+  },
   "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218": {
     "title": "120.蓝狐岛：伟大事业中的雄心与现实",
     "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
@@ -25018,6 +25022,10 @@
   "DomesticAIRelations": {
     "title": "Domestic AI Relations",
     "url": "/wiki/concepts/domesticairelations/"
+  },
+  "DomesticAuthorityWithoutSecurity": {
+    "title": "Domestic Authority Without Security / 有权理家而无保障",
+    "url": "/wiki/concepts/domesticauthoritywithoutsecurity/"
   },
   "DomesticBagSupplyChainUpgrade": {
     "title": "Domestic Bag Supply Chain Upgrade",
@@ -85190,6 +85198,10 @@
   "WangXiaowei": {
     "title": "王小伟 / Wang Xiaowei",
     "url": "/wiki/entities/wangxiaowei/"
+  },
+  "WangXifeng": {
+    "title": "王熙凤 / Wang Xifeng",
+    "url": "/wiki/entities/wangxifeng/"
   },
   "WangXing": {
     "title": "王兴 / Wang Xing",

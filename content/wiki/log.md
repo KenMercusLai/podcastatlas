@@ -31217,3 +31217,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 120 红楼金粉 | 金陵十二钗之王熙凤
+
+Added source `120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3`; created [[WangXifeng|王熙凤]] and [[DomesticAuthorityWithoutSecurity|有权理家而无保障]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wang Xifeng's administrative precision, social intelligence, affection, greed, jealousy, and coercion must be held together; her delegated power inside the Jia household does not provide reciprocal marital or institutional security, yet structural constraint does not erase responsibility for 铁槛寺 or 尤二姐. No settled contradiction was adopted. Literacy, motives toward 刘姥姥, responsibility for 贾瑞 and 鲍二家的 deaths, the pregnancy episode, anniversary memory, 判词, and final fate remain contested or source-scoped. Broad [[HongLouMeng|《红楼梦》]], [[CaoXueqin|曹雪芹]], [[JiaLian|贾琏]], [[JiaMu|贾母]], and [[JiaFamilyHousehold|贾府]] pages were kept closed because the focused source, character, show, and concepts capture the bounded addition without rewriting larger or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,903 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the optional full-corpus link scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
