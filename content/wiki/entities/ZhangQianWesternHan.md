@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe
   - zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb
   - zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z
+  - zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-张骞 / Zhang Qian is presented as a Western Han envoy, commander, geographic reporter, and senior court agent whose career joins punished operational delay to unusually durable diplomatic achievement. The current evidence treats him as a catalyst: commodity observation and comparative route risk generate a failed southwestern reconnaissance, while later Wusun diplomacy, delegated missions, and route knowledge help recurring Western Regions exchange emerge.
+张骞 / Zhang Qian is presented as a Western Han envoy, commander, grassland guide, geographic reporter, and senior court agent whose career joins military route knowledge and punished operational delay to unusually durable diplomatic achievement. The current evidence treats him as a catalyst: captivity-derived terrain knowledge supports an anti-Xiongnu sortie, commodity observation and comparative risk generate a failed southwestern reconnaissance, and later Wusun diplomacy and delegated missions help recurring Western Regions exchange emerge.
 
 ## Current Profile
 
-The intelligence-to-strategy layer begins after Zhang's return. He reports differentiated political and economic forms across Dayuan, Daxia, Wusun, Kangju, Yancai, and Yuezhi, then uses Shu bamboo staffs and fine cloth seen in [[DaxiaWesternHan|大夏]] to infer a possible southeastern trade connection. Comparing Qiang- and Xiongnu-exposed routes with departure from Shu, he proposes reconnaissance toward [[ShenduWesternHan|身毒]]. [[zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z|Hanji 306-2]]
+The earliest current field-intelligence layer comes from [[zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you|Hanji 296-1]]. It places Zhang as guide in [[WeiQingHanGeneral|卫青]]'s [[FirstDingxiangCampaignWesternHan|first Dingxiang sortie]] and attributes his value to years of Xiongnu captivity, familiarity with grassland geography, and knowledge of water and pasture. The source establishes a route-and-sustainment role but does not show that Zhang located the chanyu or independently designed the operation.
+
+The broader intelligence-to-strategy layer begins after Zhang's return. He reports differentiated political and economic forms across Dayuan, Daxia, Wusun, Kangju, Yancai, and Yuezhi, then uses Shu bamboo staffs and fine cloth seen in [[DaxiaWesternHan|大夏]] to infer a possible southeastern trade connection. Comparing Qiang- and Xiongnu-exposed routes with departure from Shu, he proposes reconnaissance toward [[ShenduWesternHan|身毒]]. [[zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z|Hanji 306-2]]
 
 The hypothesis produces information but not a completed road. Separate Han parties reach [[DianKingdomWesternHan|滇国]] but encounter closures, fragmented authority, robbery, and Kunming resistance before the intended destination. Zhang's importance here is analytical rather than heroic travel: he turns objects, market testimony, distance, and risk into a testable route proposal, while the test shows that indirect commodity circulation does not guarantee state access.
 
@@ -33,7 +36,7 @@ His career also contains distinct military and domestic-authority layers. His ca
 
 ## Key Characteristics
 
-- Geographic reporter who compares polity forms, commodity traces, distances, and route danger to produce a southwestern reconnaissance proposal.
+- Grassland guide and geographic reporter whose route knowledge spans military movement, water and pasture, polity forms, commodity traces, distances, and route danger.
 - Western Regions envoy who turns a Wusun alliance approach into delegated contact across several polities.
 - Route-opening catalyst whose missions are followed by recurring two-way contact and accumulated travel knowledge.
 - Negotiator who combines gifts, ritual demands, marriage offers, and observation of actual state capacity.
@@ -42,6 +45,9 @@ His career also contains distinct military and domestic-authority layers. His ca
 - Predecessor whose achievement is not automatically reproduced when mission screening, supply, and accountability deteriorate.
 
 ## Evidence
+
+Grassland guidance:
+- [[zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you|Hanji 296-1]] assigns Zhang a guide role under Wei Qing and attributes it to captivity-derived knowledge of grassland geography, pasture, and water.
 
 Geographic intelligence and route hypothesis:
 - [[zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z|Hanji 306-2]] says Zhang reports western polities, uses Shu-associated goods in Daxia to infer a southeastern connection, and compares the risks of several approaches.
@@ -61,14 +67,12 @@ Military delay and central investigation:
 
 ## Qualifications
 
-This page is bounded to six short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, offices, reports, dates, or wider legacy. Hanji 306-2's title identifies 身毒 while its body says 渊都/运都; distances, polity descriptions, goods and provenance, route safety, named envoys, reconnaissance design, local motives, and Zhang's reasoning remain episode-attributed, and the presence of goods does not prove a direct road. Hanji 308 does not establish why Zhang and Li Guang became separated. Hanji 341-1's totals, ritual exchange, route branches, timing, motives, and Daxia identification remain source-scoped; Hanji 341-2's route dimensions, mission frequency, travel time, gifts, commandery purpose, and commodity directions do too. Tea, porcelain, and hairpins are not promoted as Han-era exports to Europe, while “凿空,” “彻底打通,” and “带货第一人” remain formation rhetoric. Hanji 342-2 supplies no full investigation file. Hanji 357-1's death date, reach, degree of favor, and routine use of Bowang Hou remain episode-attributed.
+This page is bounded to seven short podcast sources and does not reconstruct Zhang Qian's complete missions, captivity, itineraries, offices, reports, dates, or wider legacy. Hanji 296-1's guide appointment, exact route knowledge, water-and-pasture expertise, and operational effect remain episode-attributed. Hanji 306-2's title identifies 身毒 while its body says 渊都/运都; distances, polity descriptions, goods and provenance, route safety, named envoys, reconnaissance design, local motives, and Zhang's reasoning remain episode-attributed, and the presence of goods does not prove a direct road. Hanji 308 does not establish why Zhang and Li Guang became separated. Hanji 341-1's totals, ritual exchange, route branches, timing, motives, and Daxia identification remain source-scoped; Hanji 341-2's route dimensions, mission frequency, travel time, gifts, commandery purpose, and commodity directions do too. Tea, porcelain, and hairpins are not promoted as Han-era exports to Europe, while “凿空,” “彻底打通,” and “带货第一人” remain formation rhetoric. Hanji 342-2 supplies no full investigation file. Hanji 357-1's death date, reach, degree of favor, and routine use of Bowang Hou remain episode-attributed.
 
 ## What Changed
 
-- Added commodity observation and comparative route risk as an earlier form of Zhang Qian's geographic intelligence work.
-- Added the failed Shendu search and Dian intelligence as a distinction between inferred circulation and state-accessible roads.
-- Integrated the reconnaissance with later delegated diplomacy, recurring exchange, and the posthumous governance qualification.
-- Preserved military delay and domestic investigation as separate roles rather than flattening the profile into route opening alone.
+- Added Zhang Qian's earlier military-guide role based on source-attributed grassland, pasture, and water knowledge.
+- Extended the profile's geographic intelligence from diplomatic reporting into campaign movement and sustainment without claiming he found the chanyu.
 
 ## Relationships
 
@@ -82,5 +86,6 @@ This page is bounded to six short podcast sources and does not reconstruct Zhang
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - explains why gifts and ritual require credible, observable capacity.
 - [[EnvoyGovernanceCredibilityCollapse|使团治理失控与外交信用崩塌]] - later failure pattern showing why reputation cannot replace mission governance.
 - [[LiGuangHanGeneral|李广]] - parallel commander whom Zhang reaches only after severe losses in the encirclement episode.
+- [[FirstDingxiangCampaignWesternHan|西汉第一次定襄出击]] - earlier campaign in which Zhang serves as guide under Wei Qing.
 - [[LiuBoChangshanKingWesternHan|刘勃]] - vassal king whose alleged obstruction meets Zhang's investigation.
 - [[MourningConductLegalization|居丧行为法律化]] - ritual-law field in which the Changshan inquiry operates.

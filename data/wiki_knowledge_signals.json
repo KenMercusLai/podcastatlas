@@ -81068,6 +81068,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/firstcontactnoninterference/"
     },
+    "FirstDingxiangCampaignWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/firstdingxiangcampaignwesternhan/"
+    },
     "FirstDraftThinking": {
       "episode_count": 4,
       "show_count": 1,
@@ -93219,9 +93235,9 @@
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
@@ -93257,9 +93273,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
           "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHong": {
@@ -133912,6 +133935,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/lijingnan/"
     },
+    "LiJuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/lijuwesternhan/"
+    },
     "LiJuanHanWudiCourt": {
       "episode_count": 1,
       "show_count": 1,
@@ -141198,6 +141237,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/localserviceso2o/"
+    },
+    "LocalVictoryCampaignUncertainty": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹 [ls7kMMLyerEvt55DVlc8SULcHAhD].md",
+          "key": "zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/localvictorycampaignuncertainty/"
     },
     "LocalizedProductDefinition": {
       "episode_count": 1,
@@ -216033,9 +216095,9 @@
       "url": "/wiki/entities/sufeilatehan/"
     },
     "SuJianWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
@@ -216050,6 +216112,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
         }
       ],
       "updated": "2026-10-07",
@@ -239156,9 +239225,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -239257,6 +239326,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
         }
       ],
       "updated": "2026-10-07",
@@ -253878,9 +253954,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -253923,6 +253999,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
         }
       ],
       "updated": "2026-10-07",
@@ -255619,9 +255702,9 @@
       "url": "/wiki/entities/zhaoxieasternhan/"
     },
     "ZhaoXinWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
@@ -255629,6 +255712,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴 [lkR5LCoGiP_NX5UOYCLeuQzp9YOu].md",
+          "key": "zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you/"
         }
       ],
       "updated": "2026-10-07",

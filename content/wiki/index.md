@@ -11,6 +11,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
 - [《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案](sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql.md) — 刘安在彗星与父辈怨恨叙事下备械积粮；雷被因比剑误伤刘迁、参军受阻而夜逃长安，使私人冲突成为淮南案进入中央视野的前奏。
 - [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
+- [《资治通鉴·汉纪》296-1｜卫青挂帅出征，为汉朝吊打匈奴](sources/zizhi-tongjian-hanji-296-1-weiqing-guashuai-chuzheng-wei-hanchao-diaoda-xiongnu-lkr5lcogip_nx5uoycleuqzp9you.md) — 卫青在第一次定襄出击中击溃匈奴殿后部队，却因单于主力未现而撤回休整并重启侦察；阵容、路线、战果与敌方意图均保留来源边界。
 - [《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹](sources/zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd.md) — 卫青三路搜索时由中军先行接敌并取得局部击溃；节目以兵器组合、阵形纵深和近战压迫解释汉军优势，但两翼未到、单于不在及武器技术细节均保留来源边界。
 - [102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南](sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4.md) — 纸醉金迷FM以郭芙蓉从误伤百姓到留在同福客栈的开篇故事，讨论成熟武侠的解构、侠义的后果责任，以及情节如何为明确说理提供支撑。
 - [103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险](sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz.md) — 纸醉金迷FM从雮尘珠、明叔组队和山风蛊卦讲到轮回庙、食罪巴鲁与冰川入口，并以真实历史民俗和虚构知识的叠加解释《鬼吹灯》的可信感。
@@ -3993,6 +3994,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [西汉第一次定襄出击 / First Dingxiang Campaign](entities/FirstDingxiangCampaignWesternHan.md) — 卫青击溃匈奴殿后部队后因单于主力未现而撤回休整、重启侦察的首次元朔六年定襄行动。
+- [李沮 / Li Ju (Western Han)](entities/LiJuWesternHan.md) — 第一次定襄出击中统率强弩部队、为两翼包抄提供来源限定火力支援的西汉将领。
 - [西汉第二次定襄出击 / Second Dingxiang Campaign](entities/SecondDingxiangCampaignWesternHan.md) — 卫青三路搜索中由中军先行接敌并局部取胜、但两翼与单于均未出现的未完成战役环节。
 - [郭芙蓉 / Guo Furong](entities/GuoFurong.md) — 《武林外传》开篇中以侠客幻想误判现实，并在债务、劳动、照护与克制中开始融入同福客栈的角色。
 - [《哈利·波特与魔法石》 / Harry Potter and the Philosopher's Stone](entities/HarryPotterAndThePhilosophersStone.md) — 以孤独到归属、制度化魔法世界、选择、三人组能力、悬疑误导和爱之保护构成系列道德基础的首部小说及电影。
@@ -4016,8 +4019,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
-- [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
-- [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 失军后归、经卫青拘押并交帝裁决，继而赎死为民、复任代郡太守的西汉将领，也是苏武之父。
+- [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、先以知敌经验参与汉军前锋搜索，后复归匈奴并建议北迁诱汉军深入的跨阵营战略中介。
+- [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 从首次定襄包抄胜利到后续失军受审、赎死为民并复任代郡太守的西汉将领，也是苏武之父。
 - [济北王刘胡 / Liu Hu, King of Jibei (Western Han)](entities/LiuHuJibeiKingWesternHan.md) — 从祥瑞报告推测汉武帝将封禅、进献泰山及旁邑并获其他县补偿的西汉济北王。
 - [梦阳 / 孟阳](entities/MengYangStandup.md) — Stand-up comedian and short-video creator whose nonlinear path through audit and internet operations grounds the episode's creative-fit and uncertainty discussion.
 - [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
@@ -4163,7 +4166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [建成侯敖 / Ao, Marquis of Jiancheng](entities/JianchengHouAo.md) — 与繇王居股合谋杀余善、率众投降并获汉廷奖赏的东越内部行动者。
 - [繇王居股 / Jugu (Dongyue royal insider)](entities/JuguDongyueKing.md) — 与建成侯敖共同杀余善并投降、被纳入汉廷封赏的东越王族人物。
 - [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨，最终在外部压力与内部倒戈中被敖、居股杀死的东越王。
-- [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — Western Han envoy whose Bowang Hou reputation became a diplomatic trust asset that later mission systems could borrow but not automatically reproduce.
+- [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — 兼具草原路线向导、地理报告、外交网络开拓、军事迟援受罚与中央调查角色的西汉使者。
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
 - [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHanEnvoy.md) — 汉武帝北巡时向匈奴单于传达战或降最后通牒、随后被扣押迁往北海方向的西汉使者。
@@ -6018,7 +6021,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘天昭 / Liu Tianzhao](entities/LiuTianzhao.md) — Author of Unwatched, discussed by Culture Limited as a writer of contemporary urban interiority.
 - [《无人观看》 / Unwatched](entities/UnwatchedNovel.md) — Liu Tianzhao novel read by Culture Limited through AI-era selfhood, middle-aged fatigue, and social visibility.
 - [公孙敬声 / Gongsun Jingsheng (Western Han)](entities/GongsunJingshengWesternHan.md) — Gongsun He's son whose North Army fund embezzlement and later wugu accusation trigger the Gongsun family disaster.
-- [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han cavalry commander and chancellor whose route-security service precedes reluctant promotion, cautious tenure, and Wugu-case destruction.
+- [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — 从定襄包抄与西域路线安保走向泣辞丞相、谨慎任职并在巫蛊案前奏中覆灭的西汉将领与丞相。
 - [朱安世 / Zhu Anshi (Western Han)](entities/ZhuAnshiWesternHan.md) — Wanted outlaw whose retaliatory accusation turns Gongsun He's rescue bargain into a lethal wugu case.
 - [卫伉 / Wei Kang (Western Han)](entities/WeiKangWesternHan.md) — Wei Qing's son and Changping marquis, treated by Hanji 384-1 as a military-capable support casualty in the Wugu prelude.
 - [Ghost of Tsushima](entities/GhostOfTsushima.md) — Video game used by The Rest Is History as a modern gateway into samurai image, honor, and myth-history tension.
@@ -6979,7 +6982,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
-- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins battlefield success, restrained punishment and higher review, humility, credit-sharing, soldier empathy, posthumous family risk, and the senior-command vacancy marked by his death.
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — 兼具局部胜利后的态势复核、战场指挥、惩罚克制、功劳分享、士卒关怀与低威胁权力姿态的西汉统帅。
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -16643,6 +16646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [道德威望约束权力 / Moral Authority Constrains Formal Power](concepts/MoralAuthorityConstrainsFormalPower.md) — 原则一致与可信声誉使正式权力更高者主动守礼、接受地位边界或寻求纠正，但不等于取得强制权或保证政策胜利。
+- [局部胜利与战役态势不确定性 / Local Victory and Campaign Uncertainty](concepts/LocalVictoryCampaignUncertainty.md) — 击败眼前敌军不等于找到主力、掌握友军位置或完成战役目标；胜果须与侦察、目标身份和剩余敌力共同判断。
 - [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲与代际媒介环境共同塑造某一改编版本成为“经典”或默认形象的过程。
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
 - [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。

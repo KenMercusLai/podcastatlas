@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12597
+wiki_total_pages: 12599
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "FuyouTiandi"
     title: "蜉蝣天地 / Fuyou Tiandi"
     url: "/wiki/entities/fuyoutiandi/"
+  - key: "FirstDingxiangCampaignWesternHan"
+    title: "西汉第一次定襄出击 / First Dingxiang Campaign (Western Han)"
+    url: "/wiki/entities/firstdingxiangcampaignwesternhan/"
   - key: "FushuCity"
     title: "负黍 / Fushu"
     url: "/wiki/entities/fushucity/"

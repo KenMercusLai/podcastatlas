@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9836
+wiki_total_pages: 9837
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "LoveCompassionIntegration"
     title: "小爱与大爱整合 / Love-Compassion Integration"
     url: "/wiki/concepts/lovecompassionintegration/"
+  - key: "LocalVictoryCampaignUncertainty"
+    title: "局部胜利与战役态势不确定性 / Local Victory and Campaign Uncertainty"
+    url: "/wiki/concepts/localvictorycampaignuncertainty/"
   - key: "LocalFaultAttributionPacification"
     title: "归咎安抚式平叛 / Local Fault Attribution Pacification"
     url: "/wiki/concepts/localfaultattributionpacification/"
