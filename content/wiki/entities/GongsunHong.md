@@ -8,13 +8,14 @@ sources:
   - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
   - zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd
   - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-公孙弘 / Gongsun Hong is a Western Han official whose current profile combines tactful policy influence, political rivalry, and conservative credibility screening. He can preserve room to advise [[HanWudi|汉武帝]] by narrowing rather than directly rejecting imperial priorities, but the Jiaoxi appointment episode presents him as willing to route a scholarly rival into a dangerous office, while Hanji 323-2 presents him as distrusting [[BuShiWesternHan|卜式]]'s unconventional donation proposal.
+公孙弘 / Gongsun Hong is a Western Han official whose current profile combines mobility from poor and nonelite origins, tactful policy influence, political rivalry, conservative credibility screening, and an unusual natural death while serving as chancellor. He can preserve room to advise [[HanWudi|汉武帝]] by narrowing rather than directly rejecting imperial priorities, but the Jiaoxi appointment episode presents him as willing to route a scholarly rival into a dangerous office, while Hanji 323-2 presents him as distrusting [[BuShiWesternHan|卜式]]'s unconventional donation proposal.
 
 ## Current Profile
 
@@ -28,6 +29,8 @@ Together, the sources make Gongsun Hong politically adaptive but morally ambival
 
 Hanji 319-2 compresses that adaptive capacity into the host's phrase “懂帝王心,” presenting Gongsun Hong as someone whose ability becomes usable because he understands Wudi's priorities. This supports the coordination side of the profile but adds no new event-level case; the more concrete evidence remains his calibrated policy narrowing in Hanji 925.
 
+Hanji 289-1 supplies the profile's beginning and endpoint without filling the middle. It presents Gongsun Hong as poor, committed to study despite limited materials, late to political ascent, appointed chancellor and Marquis of Pingjin in 124 BCE, and one of the rare Wudi-era chancellors to die naturally in office. This adds a concrete [[GoodDeathPoliticalSurvival|乱局善终]] outcome, but the episode cuts off before explaining the criticism surrounding his success or which combination of adaptation, usefulness, timing, and imperial favor preserved him.
+
 ## Key Characteristics
 
 - Tactful adviser who reframes conflicts instead of opposing imperial desire head-on.
@@ -36,6 +39,7 @@ Hanji 319-2 compresses that adaptive capacity into the host's phrase “懂帝�
 - Politically ambivalent rival who can use appointment as an indirect exposure mechanism.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
 - Serves in Hanji 319-2 as the host's shorthand for talent aligned with a ruler's preferred mode of use.
+- Combines nonelite mobility and late advancement with a rare natural death in the Wudi-era chancellorship.
 
 ## Evidence
 
@@ -52,14 +56,17 @@ Status-filtered credibility and precedent judgment:
 Ruler-fit interpretation:
 - [[zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k|Hanji 319-2]] describes Gongsun Hong as both capable and able to understand imperial intention, without supplying a new specific decision episode.
 
+Mobility and terminal outcome:
+- [[zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh|Hanji 289-1]] presents poverty, improvised study, commoner status, the 124 BCE chancellor-and-marquis appointment, and natural death in office as the endpoints of Gongsun Hong's unusual career.
+
 ## Qualifications
 
-All five sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 does not independently establish every motive behind Gongsun Hong's recommendation. The rivalry and attempted-removal reading is strongly tied to the episode and transmitted biographical tradition, but the page does not infer a failed murder plan from the appointment alone. Hanji 323-1 and 323-2 preserve the rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success and should not replace event-level evidence.
+All six sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 does not independently establish every motive behind Gongsun Hong's recommendation. The rivalry and attempted-removal reading is strongly tied to the episode and transmitted biographical tradition, but the page does not infer a failed murder plan from the appointment alone. Hanji 323-1 and 323-2 preserve the rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success and should not replace event-level evidence. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its ages, copying anecdote, exact appointment day, precedent claim, or unexplained “政坛长青树” label; survival outcome alone does not establish survival mechanism.
 
 ## What Changed
 
-- Added the host's “懂帝王心” comparison as a ruler-fit interpretation.
-- Kept that shorthand subordinate to concrete evidence of calibrated policy advice and qualified its possible meanings.
+- Added Gongsun Hong's poor-origin and late-advancement arc without treating the episode's exact ages or anecdotes as settled biography.
+- Added his natural death in office as a good-end outcome while leaving its causal mechanism unresolved.
 
 ## Relationships
 
@@ -72,3 +79,5 @@ All five sources are popular-history interpretations. Hanji 925 does not reconst
 - [[BuShiWesternHan|卜式]] - outsider donor whose proposal Gongsun Hong initially treats as abnormal and unfit for public example.
 - [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - adjacent framework for the host's reading of Gongsun Hong's credibility filter.
 - [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - describes why ability becomes politically valuable only when the ruler recognizes it as usable.
+- [[StrongRulerChancellorshipDoubleBind|强势君主下的丞相双重约束]] - institutional risk environment in which Gongsun Hong becomes an exceptional survivor rather than proof that the danger disappears.
+- [[GoodDeathPoliticalSurvival|乱局善终]] - frames his natural death while still serving as chancellor as one route to a good political end.

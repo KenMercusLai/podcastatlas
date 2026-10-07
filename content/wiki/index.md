@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？](sources/zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh.md) — 以公孙弘的贫寒起点、拜相封侯和任内善终对照汉武帝朝丞相的罢免、治罪与死亡风险，同时保留十三人统计、转录姓名和生存原因的来源边界。
 - [“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔](sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot.md) — 现场对谈以创业失败、创作愿望、ADHD、搬家、播客视频化和片场劳动说明“折腾”不保证成功，却能在显明成本下保留行动与重启空间。
 - [097 金庸小说人物MBTI大盘点](sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6.md) — 纸醉金迷FM以金庸人物比较I/E与N/S，并用争议案例、自认偏见和善恶分离把人格标签限定为非诊断、非等级化的文学讨论工具。
 - [《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军](sources/zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu.md) — Completes the 124 BCE Gaoque campaign with the Right Wise King's escape, large captures, Wei Qing's field promotion, and his refusal of unearned hereditary rewards.
@@ -8263,7 +8264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
 - [张钧 / Zhang Jun (late Han)](entities/ZhangJunLateHan.md) — Zhongshan langzhong whose anti-Ten-Attendants memorial is shown to the eunuchs and recoded into a fatal Yellow Turban accusation.
-- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — Western Han official used in Hanji 925 as a case of compromise without losing agency.
+- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — 由贫寒与晚起进入西汉高位、以折中保留影响，却也参与危险任命与保守资格筛选，并罕见地在丞相任内自然去世的政治适应者。
 - [公孙洪 / Gongsun Hong (Langya, Western Han)](entities/GongsunHongLangyaWesternHan.md) — Langya administrator killed in Hanji 625 after disaster talk and non-praise are recoded as hostility under Wang Mang's praise environment.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -16751,7 +16752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
 - [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给、作战距离与替补能力重新检验；战术奏效也不等于战略能力可以无限重复。
 - [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
-- [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须实际承担战争、财政、战略与朝廷协调的角色冲突。
+- [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须承担战争、财政、战略与朝廷协调；共同风险环境仍可产生罢免、治罪、死亡与善终等不同机制和结果。
 - [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。
 - [执行细节的态度归因 / Attitude Attribution from Execution Details](concepts/ExecutionDetailAttitudeAttribution.md) — 将具体行动、遗漏或准备不足解释为尊重、忠诚、关心或能力信号，并区分可观察缺陷与隐藏态度推断。
 - [权势依附型交往 / Power-Contingent Social Ties](concepts/PowerContingentSocialTies.md) — Relationships whose visible intensity rises and falls with office, wealth, rank, or usefulness.
@@ -19741,7 +19742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.
 - [外戚重职任命制衡 / Outer-Relative Office Contest](concepts/OuterRelativeOfficeContest.md) — Succession-crisis appointment pattern where ministers try to block outer-relative monopoly through balancing candidates, but senior dowager authority can defeat the attempt.
 - [宴席座次名分政治 / Banquet Seating Status Politics](concepts/BanquetSeatingStatusPolitics.md) — Court-ritual mechanism where banquet seating makes contested rank visible and can trigger factional or personnel consequences.
-- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — 以不依附、择时入仕、清廉有用、节制名位或及时退避共同保存生命、名誉与后代的政治生存模式。
+- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — 以不依附、择时入仕、清廉有用、适应高位、节制名位或及时退避共同保存生命、名誉与后代的政治生存模式。
 - [Modular AI Data Centers](concepts/ModularAIDataCenters.md) — Prefabricated AI compute infrastructure deployed near available power, cooling, gas, or industrial sites for faster distributed inference capacity.
 - [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.
