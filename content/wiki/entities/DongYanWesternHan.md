@@ -4,13 +4,14 @@ type: entity
 tags: [person, western-han, court-favorite, patronage, household]
 sources:
   - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf
+  - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-董偃 / Dong Yan is presented as a young Western Han household dependent who becomes [[LiuPiaoWesternHan|馆陶长公主刘嫖]]'s intimate companion and then gains public standing through [[HanWudi|汉武帝]]'s acknowledgment. The supplied episode repeatedly writes his name “董衍”; this page normalizes it to the transmitted 董偃.
+董偃 / Dong Yan is presented as a young Western Han household dependent who becomes [[LiuPiaoWesternHan|馆陶长公主刘嫖]]'s intimate companion, gains public standing through [[HanWudi|汉武帝]]'s acknowledgment, and then encounters a ritual boundary enforced by [[DongfangShuo|东方朔]]. Both supplied episodes repeatedly write his name “董衍”; this page normalizes it to the transmitted 董偃.
 
 ## Current Profile
 
@@ -20,6 +21,10 @@ At about eighteen, Dong Yan is described as attentive, gentle, and socially rest
 
 His status changes in the imperial audience. Dong Yan appears in plain servant clothing, bows and apologizes, accepts clothing from Wudi, sits with the princess at the emperor's permission, and flatters him successfully. Wudi's “主人翁” address and public treatment make a household position legible to the wider court without granting Dong Yan an ordinary bureaucratic office.
 
+[[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel|Hanji 271-2]] makes that recognition conditional. Dong Yan joins Wudi's recreation and is invited to a banquet, but Dongfang Shuo argues that a private favorite should not enter Weiyang Palace's main hall, a state ceremonial setting. Wudi moves the banquet to the North Palace, and the episode says his favor then declines. Recognition therefore increases access without producing unrestricted admission or durable protection.
+
+The episode closes with Dong Yan's early death and Liu Piao's reported request to be buried with him. Its diagnosis of severe depression and direct causal path from lost favor to death are narrative inferences, not independently supported medical or biographical findings.
+
 ## Key Characteristics
 
 - Household incorporation and elite training precede favorite status.
@@ -27,6 +32,7 @@ His status changes in the imperial audience. Dong Yan appears in plain servant c
 - Gentle demeanor and lack of overt arrogance support acceptance beyond the princess's residence in the episode's account.
 - Deliberate humility during the imperial audience helps convert private patronage into public favor.
 - His standing depends on Liu Piao's resources and Han Wudi's acknowledgment rather than a normal official appointment.
+- Public favor expands his recreational access but remains limited by ceremonial venue and vulnerable to remonstrance.
 
 ## Evidence
 
@@ -39,14 +45,17 @@ Service and intimacy:
 Imperial recognition:
 - [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf|Hanji 271]] says submissive presentation, imperial clothing, shared seating, drinking, and flattery accompany Wudi's “主人翁” recognition.
 
+Restriction and reported end:
+- [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel|Hanji 271-2]] says Dongfang Shuo prevents Dong Yan from entering a main-hall banquet, Wudi moves it to the North Palace, favor later wanes, and Liu Piao eventually requests burial with Dong Yan.
+
 ## Qualifications
 
-The current profile depends on one structured podcast summary. Age, appearance, curriculum, household duties, dialogue, emotional dependence, clothing symbolism, and the sexual timeline remain episode-attributed. The supplied source stops at his rise and cannot support a complete life or an account of how his favor later ended. Neither dependent upbringing nor the episode title proves a formal adoptive status.
+The current profile depends on two structured podcast summaries from one series. Age, appearance, curriculum, household duties, dialogue, emotional dependence, clothing symbolism, sexual timeline, entertainment role, and the causal account of lost favor remain episode-attributed. Neither dependent upbringing nor the title proves formal adoption. “Three capital offenses” describes Dongfang Shuo's attributed rhetoric, not a completed prosecution. Depression, cause of death, exact age, and burial arrangements require stronger evidence.
 
 ## What Changed
 
-- Created a canonical Dong Yan profile and normalized the episode's “董衍” spelling to 董偃.
-- Distinguished household service, social skill, and ceremonial recognition from unverified private motive and formal adoption.
+- Qualified imperial acknowledgment as contextual access rather than unrestricted or durable status.
+- Added Dongfang Shuo's venue-based restriction and kept the reported depression, death causation, and burial details source-scoped.
 
 ## Relationships
 
@@ -54,3 +63,4 @@ The current profile depends on one structured podcast summary. Age, appearance, 
 - [[HanWudi|汉武帝]] - ruler whose address and privileges publicly elevate him.
 - [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - broader pattern through which closeness becomes wealth, access, and visibility.
 - [[ImperialAcknowledgmentInformalStatus|帝王承认与非正式身份]] - mechanism that turns his private household place into court-recognized standing.
+- [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] - explains why recognition does not entitle him to every ceremonial venue.

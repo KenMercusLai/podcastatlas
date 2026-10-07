@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）](sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel.md) — 东方朔以三项重罪与乱政典故阻止董偃进入未央宫前殿，汉武帝把宴席移至北宫后宠爱转淡；医学生死因果、情感动机、典故转录与合葬细节保留来源边界。
 - [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（2）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm.md) — 袁固生以正学直言警戒曲学阿世，公孙弘则在两次失意后以陈事实、列选项而不廷争适应汉武帝并进入快速升迁；年代、心理转变、人格评价与升迁因果保留来源边界。
 - [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv.md) — 汲黯以背离会前共识和节俭作秀两度质疑公孙弘，公孙弘则以忠诚解释、能力与生活方式分离、承认及反夸批评者化解；原指控、动机与升迁因果均保留来源边界。
 - [《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（1）](sources/zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-1-ltyeedn6elsv2ekulfgx096mxhug.md) — 公孙弘由贫寒、失职、牧猪和四十余岁始学进入武帝求贤通道，以君上立信、量才任官、节制民力和仁义礼智获破格擢为博士；精确年代、措辞与天人感应因果保留来源边界。
@@ -4044,8 +4045,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
-- [馆陶长公主刘嫖 / Liu Piao](entities/LiuPiaoWesternHan.md) — Western Han princess who uses kinship, wealth, household patronage, and ritual submission to obtain public recognition for Dong Yan.
-- [董偃 / Dong Yan (Western Han)](entities/DongYanWesternHan.md) — Young household dependent and intimate companion whose status becomes court-visible through Han Wudi's acknowledgment.
+- [馆陶长公主刘嫖 / Liu Piao](entities/LiuPiaoWesternHan.md) — Western Han princess whose kinship and wealth secure Dong Yan's public recognition but not immunity from ceremonial limits or changing imperial favor.
+- [董偃 / Dong Yan (Western Han)](entities/DongYanWesternHan.md) — Household dependent and intimate companion whose court-visible status remains venue-limited, reversible, and outside regular office.
 - [Tony Wyss-Coray](entities/TonyWyssCoray.md) — Neuroscientist studying circulating factors, proteomic clocks, and the translation boundary between animal rejuvenation and human healthspan.
 - [Vero Biosciences](entities/VeroBiosciences.md) — Company presented as combining organ-age signatures with clinical and wearable data in an iterative prevention workflow.
 - [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
@@ -6139,7 +6140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [隆虑公主 / Longlü Princess](entities/LongluePrincessWesternHan.md) — Han Wudi's sister whose protective payment for Zhao Pingjun frames the episode's law-versus-affection dilemma.
 - [陈蟜 / 陈娇](entities/ChenJiaoWesternHan.md) — Western Han royal-affinal figure used as family background for Zhao Pingjun's upbringing and legal case.
 - [夷安公主 / Yian Princess](entities/YianPrincessWesternHan.md) — Han Wudi's daughter whose marriage to Zhao Pingjun intensifies the kinship pressure around his execution.
-- [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han wit whose fangshi story grounds humorous remonstrance through absurd extrapolation.
+- [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han court speaker using humor, premise-preserving redirection, praise, and direct venue-boundary enforcement near imperial power.
 - [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian who joins Tang-Wu legitimacy criticism to a warning against bending scholarship and outward conduct toward court approval.
 - [黄生 / Huang Sheng (Western Han)](entities/HuangShengWesternHan.md) — Huang-Lao-side disputant who defends fixed ruler-minister hierarchy against Yuan Gusheng's people-based mandate argument.
 - [Abyssinian Expedition of 1868](entities/AbyssinianExpedition1868.md) — British hostage-rescue campaign opened through Teodros II, Magdala, failed diplomacy, and Victorian imperial calculation.
@@ -16733,7 +16734,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
-- [帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status](concepts/ImperialAcknowledgmentInformalStatus.md) — A ruler's public naming, dress, seating, and hospitality make an ambiguous private relationship socially legible without creating a regular office.
+- [宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary](concepts/CourtCeremonialSpaceBoundary.md) — Venue, entry, and event type distinguish tolerated private recreation from the added legitimacy of a principal state ceremonial space.
+- [帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status](concepts/ImperialAcknowledgmentInformalStatus.md) — Public naming and treatment make an informal relationship legible, but recognition remains contextual, reversible, and short of regular office or unrestricted access.
 - [Circulating-Factor Aging Biology](concepts/CirculatingFactorAgingBiology.md) — Framework separating causal animal fluid-transfer evidence from human anti-aging treatment claims.
 - [Exercise-Conditioned Blood Signaling](concepts/ExerciseConditionedBloodSignaling.md) — Preclinical model in which exercise-altered circulating molecules transmit part of exercise's effects to recipient tissues.
 - [战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough](concepts/OperationalSurprisePsychologicalBreakthrough.md) — 区分制造局部突然性的行动机制、改变可胜预期的心理效应，以及不能由单次胜利直接推出的战略逆转。
@@ -26643,7 +26645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compensatory Personality Integration / 补偿性人格整合](concepts/CompensatoryPersonalityIntegration.md) — Development and coordination of capacities that a restrictive upbringing gave too little room to practice.
 - [Longitudinal Relationship Trust / 关系过程性信任](concepts/LongitudinalRelationshipTrust.md) — Trust built, weakened, and repaired through repeated interaction rather than one disclosure, promise, or verdict.
 - [女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods](concepts/FemaleMarriageAgencyHistoricalVariation.md) — Historically variable remarriage, divorce, and intimate choice shaped by period norms, status, resources, and unequal exit costs.
-- [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — 宠幸与亲密接触转化为赏赐、官位、信息、接近阻隔、请托调停、审美模仿及政治暴露的机制。
+- [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — 宠幸与亲密接触可转化为赏赐、官位、信息和可见性，也会受换宠、强势宫廷角色、劝谏与礼制空间边界限制。
 
 - [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
 

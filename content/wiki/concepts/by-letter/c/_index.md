@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9872
+wiki_total_pages: 9873
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3152,6 +3152,9 @@ wiki_pages:
   - key: "CourtFactionalSurvival"
     title: "宫廷派系生存 / Court Factional Survival"
     url: "/wiki/concepts/courtfactionalsurvival/"
+  - key: "CourtCeremonialSpaceBoundary"
+    title: "宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary"
+    url: "/wiki/concepts/courtceremonialspaceboundary/"
   - key: "CourtDemandDrivenPapermaking"
     title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
     url: "/wiki/concepts/courtdemanddrivenpapermaking/"

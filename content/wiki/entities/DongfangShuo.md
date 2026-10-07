@@ -7,13 +7,14 @@ sources:
   - zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa
   - zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x
   - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
+  - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-东方朔 / Dongfang Shuo appears in the current sources as a Western Han court speaker who works inside [[HanWudi|汉武帝]]'s premises rather than confronting him abstractly. Hanji 392 presents comic extrapolation and ruler-praising legal language; [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] adds a risk-reduction case in which he accepts the possibility of immortals but argues against a forced voyage to [[Penglai|蓬莱]].
+东方朔 / Dongfang Shuo appears in the current sources as a Western Han court speaker who works inside [[HanWudi|汉武帝]]'s premises rather than confronting him abstractly. The evidence now spans comic extrapolation, ruler-praising legal language, premise-preserving risk reduction, literary self-positioning, and direct defense of a state ceremonial venue against private entertainment.
 
 ## Current Profile
 
@@ -27,15 +28,17 @@ Hanji 361-2 adds a third technique. When Wudi wants to seek immortals at sea, Do
 
 Hanji 319-2 adds a literary self-positioning rather than another successful intervention. It presents *Da Ke Nan* as Dongfang Shuo's response to underuse: earlier persuaders such as Su Qin and Zhang Yi rose in a divided age, while comparable ability under a unified emperor might receive only minor office. This expands the profile from tactical speech to the gap between self-perceived ability and ruler-defined opportunity, but it does not independently prove that Wudi misjudged him.
 
+Hanji 271-2 adds a more confrontational success. Dongfang Shuo calls [[DongYanWesternHan|董偃]]'s conduct three capital offenses and invokes cautionary stories about destructive favorites, yet his implementable demand is narrower than that rhetoric: Weiyang Palace's main hall serves state affairs and should not admit Dong Yan for private amusement. Wudi moves the banquet to the North Palace and rewards Dongfang Shuo. The intervention therefore protects a [[CourtCeremonialSpaceBoundary|ceremonial-space boundary]] without fully ending the entertainment or proving a formal criminal case.
+
 ## Key Characteristics
 
 - Western Han court figure remembered here through wit, eccentricity, and comic proximity to power.
 - Uses absurd extrapolation to expose a fangshi's flattering physiognomy claim.
 - Protects himself by turning apparent laughter at the emperor into laughter at the logical consequence of the claim.
-- Represents humor as a possible remonstrance channel when direct correction would be socially or politically risky.
+- Moves between humorous indirection and direct accusation according to the decision and setting.
 - Uses praise after a painful decision to affirm the ruler's public-law self-image and convert legal severity into moral legitimacy.
 - Reduces an immediate travel risk by accepting the emperor's supernatural premise while denying that personal sea pursuit can improve the outcome.
-- Remains a source-scoped profile, with *Da Ke Nan* used to explain underuse through the political opportunity structure of different eras.
+- Frames an expansive moral warning as a narrower, implementable restriction on entry to a state ceremonial venue.
 
 ## Evidence
 
@@ -46,15 +49,16 @@ Hanji 319-2 adds a literary self-positioning rather than another successful inte
 - Career reward: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] says Han Wudi is pleased by the speech and appoints Dongfang Shuo as zhonglang.
 - Premise-preserving risk reduction: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] says Dongfang Shuo frames divine encounter as governed by destiny, persuading Wudi to wait rather than sail for Penglai.
 - Literary self-positioning: [[zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k|Hanji 319-2]] presents *Da Ke Nan* as an explanation of why comparable ability can produce different office outcomes under different political orders.
+- Ceremonial-space defense: [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel|Hanji 271-2]] says Dongfang Shuo prevents Dong Yan's entry to the main hall, prompts relocation of the banquet, and receives a gold reward.
 
 ## Qualifications
 
-This profile remains based on four short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or the history of his later status in xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. Hanji 319-2's account of *Da Ke Nan* is a compressed interpretation of literary self-defense and cannot by itself determine Dongfang Shuo's actual ability, Wudi's private judgment, or the fairness of his office path.
+This profile remains based on five short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or later xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. Hanji 319-2 cannot determine his actual ability or the fairness of his office path. In Hanji 271-2, the three capital offenses, compressed historical exempla, exact speech, reward weight, and causal link to Dong Yan's decline remain source-scoped; banquet relocation demonstrates a narrower success than prosecution or complete exclusion from imperial company.
 
 ## What Changed
 
-- Added *Da Ke Nan* as a source-scoped explanation of underuse under a unified ruler.
-- Distinguished literary self-positioning from demonstrated court interventions.
+- Expanded the profile beyond comic and premise-preserving speech to direct ceremonial-boundary enforcement.
+- Distinguished the successful relocation of a banquet from the episode's broader capital-crime and regime-collapse rhetoric.
 
 ## Relationships
 
@@ -67,3 +71,5 @@ This profile remains based on four short source notes. It does not reconstruct D
 - [[ImmortalityQuestPolitics|求仙政治]] - policy field in which indirect counsel interrupts immediate resource and safety escalation.
 - [[RuleOverKinshipPower|法度压过亲缘特权]] - principle praised in the Zhao Pingjun execution speech.
 - [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - frames the gap between perceived ability and opportunity controlled by the ruler.
+- [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] - venue-based limit that Dongfang Shuo successfully defends in the Dong Yan episode.
+- [[DongYanWesternHan|董偃]] - court favorite whose main-hall admission Dongfang Shuo opposes.
