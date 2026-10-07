@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc
   - zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb
   - zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql
+last_updated: 2026-10-07
 ---
 
 ## Definition
@@ -22,7 +23,9 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-The current pre-imperial Guangwu layer comes before the late-Han institutional sequence. [[LiuXiu|刘秀 / 光武帝]], fallen from royal privilege under [[WangMang|王莽]], goes to Chang'an at about twenty, studies the Shangshu at Taixue, and that training is treated as political formation: learning broadens his view of current affairs and later supports founding and civil rule. This does not make Taixue only an emperor school; it adds a ruler-formation use beside later exam, repair, text, ritual, and public-opinion roles.
+Hanji 294-2 supplies the earliest current Western Han institutional layer. It says the court proposes placing fifty exempted students under the classical doctors and using demonstrated learning to move students toward office. The episode does not itself call this institution Taixue, so the page treats it as an early related formation layer rather than silently replacing the source's 博士弟子 wording.
+
+The next current layer is pre-imperial Guangwu. [[LiuXiu|刘秀 / 光武帝]], fallen from royal privilege under [[WangMang|王莽]], goes to Chang'an at about twenty, studies the Shangshu at Taixue, and that training is treated as political formation: learning broadens his view of current affairs and later supports founding and civil rule. This does not make Taixue only an emperor school; it adds a ruler-formation use beside later exam, repair, text, ritual, and public-opinion roles.
 
 Hanji 776 supplies the earliest current late-Han Taixue layer. In 102 CE, [[XuFangLateHan|Xu Fang]] criticizes examinations of doctoral disciples for drifting into personal opinion, mutual tolerance, and unsourced argument instead of recognized classical lineages. His proposed reform uses fixed interpretive points and explicit textual grounding, making [[ClassicalExaminationOrthodoxy|classical examination orthodoxy]] an early Taixue governance problem.
 
@@ -36,7 +39,7 @@ The current synthesis is mixed. Taixue can form political judgment before office
 
 ## Key Claims
 
-- Taixue can form political judgment before office when classical study becomes practical ruler education.
+- Its formation and ruler-education layers link state-supported classical study to exemption, assessment, recruitment into office, and political judgment before office.
 - Taixue can require examination standardization when classical testing drifts into unsourced personal interpretation.
 - Taixue can physically and intellectually decay when imperial attention collapses, making buildings, lectures, and student presence preconditions for later education-to-office use.
 - Taixue can be expanded as an official-selection pipeline linking local recommendation, classical study, examination, and office.
@@ -46,6 +49,7 @@ The current synthesis is mixed. Taixue can form political judgment before office
 
 ## Evidence
 
+- Early Western Han formation: [[zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql|Hanji 294-2]] says the court creates a fifty-student cohort under the doctors, exempts them from taxes and corvée, and evaluates learning for official selection, though the supplied note does not name Taixue directly.
 - Pre-imperial ruler formation: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu studies the Shangshu at Chang'an Taixue and later benefits from the widened political vision that study gives him.
 - Examination standardization: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Xu Fang criticizes Taixue testing for personal opinion and weak source grounding, then proposes fixed classical points and clearer textual citation.
 - Institutional decay and repair: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Emperor An's neglect leads to stopped lectures, departing students, decayed buildings, and non-educational use of the grounds before Shun approves rebuilding.
@@ -57,13 +61,12 @@ The current synthesis is mixed. Taixue can form political judgment before office
 
 ## Counterevidence & Qualifications
 
-Taixue should not be flattened into one political function. Hanji 699 PLUS is a retrospective evaluation of Liu Xiu and does not reconstruct the whole curriculum, admissions field, or teacher network behind his Taixue study; Xu Ziwei remains source-scoped until more bounded evidence is added. Hanji 776 presents examination orthodoxy as a repair for arbitrary interpretation, but the same repair can narrow intellectual openness. Hanji 810 presents an institution that can be neglected and physically decay; Hanji 827 presents a state-managed education and appointment pipeline; Hanji 839's student petition defends law and a punished official; and Hanji 910-911's Hongdu conflict also involves status and appointment scarcity. A successful pardon in Hanji 839 does not prove that Taixue can force systemic reform, and later qingyi and Party Prohibition material shows that scholar-student reputation pressure can itself become politically targetable.
+Taixue should not be flattened into one political function. Hanji 294-2 gives a compact proposal for fifty doctoral students but does not name Taixue, identify the proposer, or reconstruct implementation, curriculum, admissions, and later institutional continuity. Hanji 699 PLUS is a retrospective evaluation of Liu Xiu and does not reconstruct the whole curriculum, admissions field, or teacher network behind his Taixue study; Xu Ziwei remains source-scoped until more bounded evidence is added. Hanji 776 presents examination orthodoxy as a repair for arbitrary interpretation, but the same repair can narrow intellectual openness. Hanji 810 presents an institution that can be neglected and physically decay; Hanji 827 presents a state-managed education and appointment pipeline; Hanji 839's student petition defends law and a punished official; and Hanji 910-911's Hongdu conflict also involves status and appointment scarcity. A successful pardon in Hanji 839 does not prove that Taixue can force systemic reform, and later qingyi and Party Prohibition material shows that scholar-student reputation pressure can itself become politically targetable.
 
 ## What Changed
 
-- Added Hanji 699 PLUS as a pre-imperial Guangwu layer where Taixue study becomes ruler formation.
-- Preserved Hanji 776 as the earliest current late-Han institutional Taixue layer: Xu Fang's 102 CE examination standardization.
-- Preserved Hanji 810, Hanji 827, Hanji 839, and the later Xiping Stone Classics, Taixue ritual, and Hongdu conflict layers as distinct functions.
+- Added Hanji 294-2's fifty-student doctoral cohort as the earliest current Western Han formation layer, with an explicit boundary that the source does not itself name Taixue.
+- Preserved the Guangwu ruler-formation and later Eastern Han examination, repair, petition, text, ritual, and channel-competition functions as distinct layers.
 
 ## Related Concepts
 

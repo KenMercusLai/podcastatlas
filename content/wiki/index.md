@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [100期了！金庸《射雕英雄传》影视改编大盘点](sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk.md) — 纸醉金迷FM按年代梳理《射雕英雄传》影视与舞台改编，以情理逻辑、媒介表达、代际观看记忆和原著留白扩写区分不同版本的成败。
 - [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
+- [《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案](sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql.md) — 刘安在彗星与父辈怨恨叙事下备械积粮；雷被因比剑误伤刘迁、参军受阻而夜逃长安，使私人冲突成为淮南案进入中央视野的前奏。
 - [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
 - [《资治通鉴·汉纪》296-2｜西汉VS匈奴兵器盘点，谁更胜一筹](sources/zizhi-tongjian-hanji-296-2-xihan-vs-xiongnu-bingqi-pandian-shui-geng-sheng-yichou-ls7kmmlyerevt55dvlc8sulchahd.md) — 卫青三路搜索时由中军先行接敌并取得局部击溃；节目以兵器组合、阵形纵深和近战压迫解释汉军优势，但两翼未到、单于不在及武器技术细节均保留来源边界。
 - [102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南](sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4.md) — 纸醉金迷FM以郭芙蓉从误伤百姓到留在同福客栈的开篇故事，讨论成熟武侠的解构、侠义的后果责任，以及情节如何为明确说理提供支撑。
@@ -4023,8 +4024,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孟昶 / Meng Chang (Later Shu)](entities/MengChangLaterShu.md) — 后蜀末代统治者，在来源中连接宋朝征服、花蕊夫人入宋宫与乾德铜镜叙事。
 - [花蕊夫人 / Lady Huarui (Later Shu)](entities/LadyHuaruiLaterShu.md) — 与其他同号女性消歧的后蜀宫廷人物，作为乾德铜镜、宫廷转移与诗歌花卉记忆的来源限定载体。
 - [伍被 / Wu Bei (Western Han)](entities/WuBeiWesternHan.md) — 明知淮南缺乏反叛基础仍提出制造危机的低胜算方案，后向朝廷供述却因威慑逻辑未获宽免的刘安谋士。
-- [雷被 / Lei Bei (Western Han)](entities/LeiBeiWesternHan.md) — 较早告发刘安与刘迁并脱身，成为伍被后来试图效仿之时机对照的淮南门客。
-- [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 朝廷抓捕目标；在淮南动员失败后提出代父担责并自刎未遂，其可能供述也促使伍被转而自陈。
+- [雷被 / Lei Bei (Western Han)](entities/LeiBeiWesternHan.md) — 比剑误伤刘迁后遭猜忌，参军受阻遂夜逃长安并较早告发，成为伍被后来试图效仿之时机对照。
+- [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 将比剑误伤视为蓄意并阻挠雷被离境，后成为朝廷抓捕目标，在动员失败后提出代父担责并自刎未遂。
 - [白盈 / Bai Ying (Hengshan Crown Prince's Associate)](entities/BaiYingHengshan.md) — 为刘爽提出勾引继母之策、又替被囚太子向朝廷传递谋反指控的衡山门客。
 - [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 受中央官员复核、任官权收束与储位审批约束，后因王室互告暴露谋反准备而被废的西汉封国。
 - [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 因违法报复与任官权被削而加深反朝廷意图，又让夺嫡和武器准备互相牵连、最终被两子揭发的西汉衡山王。
@@ -9173,7 +9174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
-- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — 英布败后受封淮南的同姓替代王，后被简述为谋反失败者，并成为刘安、刘赐兄弟政治冲突的家族背景。
+- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — 英布败后受封淮南的同姓替代王，后被简述为自立法令的失败谋反者，其死亡记忆成为刘安、刘赐政治冲突的家族背景。
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
 - [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
 - [平原君朱建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — 先劝英布不要起兵，后借闳孺的近身渠道与自保动机劝阻惠帝杀审食其的风险调停者。
@@ -11581,7 +11582,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale expansion, fiscal extraction, talent-channel opening and shortage, Wugu violence, late remorse, and final succession design.
-- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王；其谋反案现呈现弱政治基础、方案膨胀、动员失败、供述清算与宗室扩散的完整链条。
+- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王；其谋反案现从彗星备战、雷被出逃延伸至方案膨胀、动员失败、供述清算与宗室扩散。
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used as a knowledge archive, a variant historical source, and an ironic capacity-and-self-knowledge frame for Liu An.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
@@ -20287,7 +20288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
 - [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, including Hongdu Menxue as Emperor Ling's counterchannel against Taixue and great-clan selection control.
 - [修养型帝王能力 / Cultivated Imperial Capacity](concepts/CultivatedImperialCapacity.md) — Hanji 699 PLUS frame for joining learning, battlefield judgment, personnel trust, and moral self-command into durable rulership.
-- [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans pre-imperial Liu Xiu formation, Shun-era decay and repair, Mingjing selection pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.
+- [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans a bounded Western Han doctoral-student formation layer, Liu Xiu's formation, later repair and selection, student petition, text-standard, ritual, and appointment-channel roles.
 - [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and great-clan/士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Frontier-AI slowdown proposal tested against self-restraint, international participation, accountability, and incumbent-moat risk.

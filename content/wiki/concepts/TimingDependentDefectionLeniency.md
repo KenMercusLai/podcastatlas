@@ -6,6 +6,7 @@ tags: [politics, defection, denunciation, leniency, deterrence]
 sources:
   - zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x
   - zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw
+  - zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql
 last_updated: 2026-10-07
 ---
 
@@ -15,7 +16,7 @@ last_updated: 2026-10-07
 
 ## Current Synthesis
 
-Hanji 295 and 304-1 contrast [[LeiBeiWesternHan|雷被]] and [[WuBeiWesternHan|伍被]] inside the same Huainan crisis. Lei Bei's report begins as a concrete grievance over blocked military service and arrives while the center still wants to avoid forcing [[LiuAn|刘安]] into open revolt during an external war. The court can use his information, send a cautiously presented envoy, and impose a narrower territorial penalty. Wu Bei's later confession follows deeper participation and comes after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest, when disclosure is less scarce and self-protection more visible.
+Hanji 294-2, 295, and 304-1 contrast [[LeiBeiWesternHan|雷被]] and [[WuBeiWesternHan|伍被]] inside the same Huainan crisis. Lei Bei's route begins with a sword-bout grievance, a blocked attempt to answer central military recruitment, and nighttime flight before it becomes a court petition. His information arrives while the center still wants to avoid forcing [[LiuAn|刘安]] into open revolt during an external war. The court can use his information, send a cautiously presented envoy, and impose a narrower territorial penalty. Wu Bei's later confession follows deeper participation and comes after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest, when disclosure is less scarce and self-protection more visible.
 
 The concept does not imply a stable legal rule that early defectors always survive. It identifies a political valuation problem: the same act of changing sides can be treated as useful intelligence at one stage and as insufficient mitigation at another, especially when [[ZhangTangWesternHan|张汤]]'s deterrence logic makes punishment itself part of governance.
 
@@ -30,6 +31,7 @@ The concept does not imply a stable legal rule that early defectors always survi
 ## Evidence
 
 Early intelligence and restraint:
+- [[zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql|Hanji 294-2]] shows early disclosure beginning as exit under threat: personal hostility and blocked central enlistment push Lei Bei to flee toward the court before the Huainan case is public.
 - [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] gives Lei Bei's appeal a specific origin, says it triggers investigation and observation, and shows the court separating a narrower provable offense from an unacted-upon rebellion allegation.
 - [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Lei Bei survived after early denunciation and attributes restraint toward Liu An to the court's wish to avoid a princely uprising during Xiongnu war.
 
@@ -38,12 +40,12 @@ Late confession and deterrence:
 
 ## Counterevidence & Qualifications
 
-The episodes do not provide complete legal files for either man. Hanji 295 narrates the grievance and investigation but not a full confession; Hanji 304-1 infers a broader disclosure partly from Lei Bei's survival. The court's knowledge, external-war rationale, legal basis for the two-county sanction, Wu Bei's statutory mitigation claim, and Zhang Tang's precise argument remain source-scoped. The contrast therefore supports a timing-and-priority framework, not a settled rule or proof that Wu Bei consciously followed a long-planned double-agent strategy.
+The episodes do not provide complete legal files for either man. Hanji 294-2 narrates Lei Bei's intended appeal but stops before the court's response; Hanji 295 narrates the grievance and investigation but not a full confession; Hanji 304-1 infers a broader disclosure partly from Lei Bei's survival. The court's knowledge, external-war rationale, legal basis for the two-county sanction, Wu Bei's statutory mitigation claim, and Zhang Tang's precise argument remain source-scoped. The contrast therefore supports a timing-and-priority framework, not a settled rule or proof that Wu Bei consciously followed a long-planned double-agent strategy.
 
 ## What Changed
 
-- Lei Bei's early denunciation now has a concrete grievance, investigative sequence, and narrower sanction rather than being inferred only from his survival.
-- The distinction between useful early disclosure and late confession now includes the court's changing ability to observe, contain, and prosecute.
+- Extended Lei Bei's sequence backward from petition to threatened exit, blocked enlistment, and flight toward central protection.
+- Preserved the distinction between intended disclosure, documented petition, and the later inference of a complete denunciation.
 
 ## Related Concepts
 
