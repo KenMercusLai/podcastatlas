@@ -517,6 +517,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aiapirevenuemodel/"
     },
+    "AIAbuseDetectionPrivacyTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/aiabusedetectionprivacytradeoff/"
+    },
     "AIAccessToJustice": {
       "episode_count": 3,
       "show_count": 3,
@@ -2412,6 +2428,36 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aienabledloandocumentanalysis/"
     },
+    "AIEnabledScamIndustrialization": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260223_0223_MP_TECH_pod_128 [tech_20260223_0223_MP_TECH_pod_128].md",
+          "key": "tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI makes it easier to code websites — including ones that scam consumers",
+          "url": "/wiki/sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260212_0212_MP_TECH_pod_128 [tech_20260212_0212_MP_TECH_pod_128].md",
+          "key": "tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Crypto's big growth on the books and in the shadows",
+          "url": "/wiki/sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/aienabledscamindustrialization/"
+    },
     "AIEnabledSelfEmployment": {
       "episode_count": 2,
       "show_count": 2,
@@ -4077,6 +4123,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aipublicownershipproposal/"
+    },
+    "AIQueryPrivacyRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
+          "key": "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",
+          "url": "/wiki/sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype/"
+        },
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/aiqueryprivacyrisk/"
     },
     "AIQuotaTrustErosion": {
       "episode_count": 1,
@@ -48723,6 +48792,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/coronationmassmediatransformation/"
+    },
+    "CorporateAIMisuseReporting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/corporateaimisusereporting/"
     },
     "CorporateComplicityWithAuthoritarianism": {
       "episode_count": 2,
@@ -157939,9 +158024,9 @@
       "url": "/wiki/concepts/modelcontextprotocol/"
     },
     "ModelDistillation": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
@@ -157984,9 +158069,16 @@
           "show": "42章经",
           "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
           "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        },
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/modeldistillation/"
     },
     "ModelDistillationEvidence": {
@@ -225871,6 +225963,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/thirdcenturycrisis/"
+    },
+    "ThirdPartyAIRelayRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad6165053b02b8a07e3dfda43af0d541 [ad6165053b02b8a07e3dfda43af0d541.mp3？aid=6ac5fe2d9fea6e0a64afe643&chid=66b07190af99592.280].md",
+          "key": "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+          "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/thirdpartyairelayrisk/"
     },
     "ThirdPartyAIVendorOversight": {
       "episode_count": 1,

@@ -10,7 +10,8 @@ sources:
   - xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1
   - e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41
   - yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt
-last_updated: 2026-08-30
+  - jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541
+last_updated: 2026-10-07
 ---
 
 # Model Distillation / 模型蒸馏
@@ -21,10 +22,12 @@ Model distillation is the transfer of behavior, reasoning patterns, outputs, or 
 ## Current Synthesis
 The wiki's current view is that distillation is a standard technical family, not a misconduct label by itself. The bounded sources distinguish classic logits-style compression, generated-output fine-tuning, multi-teacher capability transfer, agent-trajectory imitation, and public accusations that a model copied a closed provider. Those are different claims with different evidence, legal, and strategic requirements.
 
-The newest source sharpens the small-model side of the concept. For [[LuYuxin|逯雨鑫 / 逯雨昕]], teacher-generated or teacher-shaped data can help a narrow student model through [[SupervisedFineTuning|SFT]], but only when it moves the model distribution toward the intended task. The result can be a good distillation even if unrelated benchmarks fall, while capacity gap means a smaller model may not absorb the teacher's full behavior.
+The small-model sources sharpen the target-specific side of the concept. For [[LuYuxin|逯雨鑫 / 逯雨昕]], teacher-generated or teacher-shaped data can help a narrow student model through [[SupervisedFineTuning|SFT]], but only when it moves the model distribution toward the intended task. The result can be a good distillation even if unrelated benchmarks fall, while capacity gap means a smaller model may not absorb the teacher's full behavior.
+
+The latest episode sharpens the legal-language boundary. It reports that Anthropic calls secret industrial-scale extraction “illicit distillation” and attributes at least 151 million suspicious exchanges to [[Alibaba]], but notes that “illicit” is not the same as a demonstrated violation of a specified law. Technical classification, contract breach, copyright, unauthorized access, competitive harm, and public-policy objection therefore remain separate questions.
 
 ## Key Claims
-- Distillation is a legitimate model-training technique, but it becomes contentious when source provenance, terms of service, or competitive model improvement are disputed.
+- Distillation is a legitimate model-training technique, but it becomes contentious when source provenance, terms of service, access methods, or competitive model improvement are disputed.
 - Closed APIs usually do not expose the full probability distributions associated with classic distillation, so many public disputes concern generated text or behavior traces instead.
 - Good distillation is target-aligned behavior transfer, not merely collecting fluent teacher answers.
 - Agent-era distillation can include full task trajectories, tools, environments, and feedback rather than static question-answer pairs.
@@ -40,6 +43,7 @@ The newest source sharpens the small-model side of the concept. For [[LuYuxin|�
 ### Governance and organization
 - [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] records the governance-first case where [[ZhangYiming|张一鸣]] reportedly opposed distillation because U.S.-model provenance disputes could harm [[TikTok]] and weaken team development.
 - [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds that terms-of-service, legal, and organizational-learning risks can dominate pure technical speed.
+- [[jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541]] distinguishes Anthropic's “illicit” label from a specified finding of illegality and keeps the reported Alibaba traffic total source-scoped.
 
 ### Model-factory and agent data
 - [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] describes [[OnPolicyDistillation]] and [[MOPDPostTraining|MOPD]] as post-training mechanisms for combining domain expert models, reasoning effort levels, and teacher scoring.
@@ -51,13 +55,14 @@ The newest source sharpens the small-model side of the concept. For [[LuYuxin|�
 ## Counterevidence & Qualifications
 - The sources repeatedly reject distillation as a single explanation for Chinese model progress; architecture, data, efficiency, RL, inference, and organization remain part of the causal picture.
 - A public accusation of improper distillation is not proven by timing, similarity, or a model claiming to be another model.
+- The reported 151 million exchanges do not by themselves establish which outputs entered training, who directed the traffic, or which legal rule was violated.
 - Distillation can import teacher mistakes, refusal patterns, or style artifacts if the data pipeline is weak.
 - For narrow application use, a benchmark drop outside the target may be acceptable; for general-purpose releases, the same tradeoff may be unacceptable.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` and compressed prior source-led material into claim groups.
-- Added the small-model practitioner view: good distillation is target alignment under capacity constraints, not universal improvement.
-- Tightened the evidence distinction between technical distillation, ToS risk, and public accusation.
+- Separated the “illicit” policy label from a demonstrated statutory finding of illegality.
+- Added industrial-scale traffic volume as an investigation signal that still does not prove training provenance.
+- Clarified that contract, copyright, access, competition, and public-policy objections require distinct analysis.
 
 ## Related Concepts
 - [[SupervisedFineTuning]] - method that can carry teacher behavior into a student model.

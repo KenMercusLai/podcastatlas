@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3353
+topic_total_pages: 3357
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -130,6 +130,9 @@ topic_concepts:
   - key: "AIAbundanceNarrative"
     title: "AI Abundance Narrative"
     url: "/wiki/concepts/aiabundancenarrative/"
+  - key: "AIAbuseDetectionPrivacyTradeoff"
+    title: "AI Abuse-Detection Privacy Tradeoff"
+    url: "/wiki/concepts/aiabusedetectionprivacytradeoff/"
   - key: "AIAcademicIntegrity"
     title: "AI Academic Integrity"
     url: "/wiki/concepts/aiacademicintegrity/"
@@ -1621,6 +1624,9 @@ topic_concepts:
   - key: "CopperSupplyBottleneck"
     title: "Copper Supply Bottleneck"
     url: "/wiki/concepts/coppersupplybottleneck/"
+  - key: "CorporateAIMisuseReporting"
+    title: "Corporate AI Misuse Reporting"
+    url: "/wiki/concepts/corporateaimisusereporting/"
   - key: "CorporateMemphis"
     title: "Corporate Memphis"
     url: "/wiki/concepts/corporatememphis/"
@@ -4348,6 +4354,9 @@ topic_concepts:
   - key: "ThirdFrontConstruction"
     title: "Third Front Construction / 三线建设"
     url: "/wiki/concepts/thirdfrontconstruction/"
+  - key: "ThirdPartyAIRelayRisk"
+    title: "Third-Party AI Relay Risk"
+    url: "/wiki/concepts/thirdpartyairelayrisk/"
   - key: "ThirdPartyAIVendorOversight"
     title: "Third-Party AI Vendor Oversight"
     url: "/wiki/concepts/thirdpartyaivendoroversight/"
@@ -9990,6 +9999,9 @@ topic_sources:
   - key: "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp"
     title: "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”"
     url: "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+  - key: "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541"
+    title: "既是選手又是裁判：解讀Anthropic的AI濫用報告"
+    url: "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
   - key: "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205"
     title: "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？"
     url: "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"

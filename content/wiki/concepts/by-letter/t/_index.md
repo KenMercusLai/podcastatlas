@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9855
+wiki_total_pages: 9858
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "ThirdCenturyCrisis"
     title: "Third-Century Crisis"
     url: "/wiki/concepts/thirdcenturycrisis/"
+  - key: "ThirdPartyAIRelayRisk"
+    title: "Third-Party AI Relay Risk"
+    url: "/wiki/concepts/thirdpartyairelayrisk/"
   - key: "ThirdPartyAIVendorOversight"
     title: "Third-Party AI Vendor Oversight"
     url: "/wiki/concepts/thirdpartyaivendoroversight/"

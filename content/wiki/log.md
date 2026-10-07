@@ -31612,3 +31612,11 @@ Added source `zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 既是選手又是裁判：解讀Anthropic的AI濫用報告
+
+Added source `jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541`; created [[CorporateAIMisuseReporting]], [[ThirdPartyAIRelayRisk]], and [[AIAbuseDetectionPrivacyTradeoff]]; and resynthesized [[ModelDistillation]], [[AIEnabledScamIndustrialization]], and [[AIQueryPrivacyRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: provider misuse reports can expose valuable operational detail without establishing representative prevalence; distillation technique, contract restrictions, the “illicit” label, and demonstrated illegality remain separate; and opaque AI relays multiply credential, routing, model-identity, retention, and conversation-resale risks. No settled contradiction was adopted. Country counts, persona and labor ratios, the reported 151 million exchanges, state affiliations, surveillance examples, relay-market practices, corporate motives, and undisclosed routing remain source-scoped or inferential. Broad [[Anthropic]], [[DarioAmodei|Dario Amodei]], [[Alibaba]], [[Palantir]], and [[OpenAI]] pages were read for context but not reopened because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,954 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

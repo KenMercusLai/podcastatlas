@@ -7199,6 +7199,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIAbuseDetectionPrivacyTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAcademicIntegrity": [
     {
       "key": "technology",
@@ -24962,6 +24969,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CorporateAIMisuseReporting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CorporateComplicityWithAuthoritarianism": [
@@ -83427,6 +83446,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ThirdPartyAIRelayRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ThirdPartyAIVendorOversight": [
     {
       "key": "technology",
@@ -98920,6 +98946,13 @@
     }
   ],
   "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541": [
     {
       "key": "technology",
       "label": "Technology",

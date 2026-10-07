@@ -4018,6 +4018,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
+- [既是選手又是裁判：解讀Anthropic的AI濫用報告](sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541.md) — 端聞 episode on Anthropic misuse reporting, AI-assisted fraud and surveillance, disputed model distillation, third-party relay risks, and the safety–privacy tradeoff.
 
 ## Entities
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为汉武帝中央集权风险的西汉游侠与地方强人。
@@ -26608,5 +26609,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合](concepts/GrassrootsBureaucraticCulturalIntegration.md) — 基层行政、人才吸纳、学校与共同文化形成跨地域整合，并避免军队替代日常民政的来源限定机制。
 
 - [SaaS Cash Flow Survival Risk](concepts/SaaSCashFlowSurvivalRisk.md) — Valuation shift from modeling SaaS growth to questioning whether AI agents and customer-built tools can remove recurring cash flows.
+- [Corporate AI Misuse Reporting](concepts/CorporateAIMisuseReporting.md) — Framework for reading provider incident reports through method, denominator, attribution, scope, and institutional incentives.
+- [Third-Party AI Relay Risk](concepts/ThirdPartyAIRelayRisk.md) — Credential, routing, model-substitution, retention, and conversation-resale exposure in unofficial AI intermediaries.
+- [AI Abuse-Detection Privacy Tradeoff](concepts/AIAbuseDetectionPrivacyTradeoff.md) — Tension between contextual misuse detection and limits on provider collection, linkage, retention, and review.
 
 ## Syntheses

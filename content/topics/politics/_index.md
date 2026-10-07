@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3162
+topic_total_pages: 3163
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -922,6 +922,9 @@ topic_concepts:
   - key: "COPPA"
     title: "COPPA"
     url: "/wiki/concepts/coppa/"
+  - key: "CorporateAIMisuseReporting"
+    title: "Corporate AI Misuse Reporting"
+    url: "/wiki/concepts/corporateaimisusereporting/"
   - key: "CorporateComplicityWithAuthoritarianism"
     title: "Corporate Complicity With Authoritarianism / 企业对威权的共谋"
     url: "/wiki/concepts/corporatecomplicitywithauthoritarianism/"

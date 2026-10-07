@@ -4123,6 +4123,10 @@
     "title": "AI Abundance Narrative",
     "url": "/wiki/concepts/aiabundancenarrative/"
   },
+  "AIAbuseDetectionPrivacyTradeoff": {
+    "title": "AI Abuse-Detection Privacy Tradeoff",
+    "url": "/wiki/concepts/aiabusedetectionprivacytradeoff/"
+  },
   "AIAcademicIntegrity": {
     "title": "AI Academic Integrity",
     "url": "/wiki/concepts/aiacademicintegrity/"
@@ -20930,6 +20934,10 @@
   "CoronationMassMediaTransformation": {
     "title": "Coronation Mass-Media Transformation",
     "url": "/wiki/concepts/coronationmassmediatransformation/"
+  },
+  "CorporateAIMisuseReporting": {
+    "title": "Corporate AI Misuse Reporting",
+    "url": "/wiki/concepts/corporateaimisusereporting/"
   },
   "CorporateComplicityWithAuthoritarianism": {
     "title": "Corporate Complicity With Authoritarianism / 企业对威权的共谋",
@@ -80939,6 +80947,10 @@
     "title": "Third Front Construction / 三线建设",
     "url": "/wiki/concepts/thirdfrontconstruction/"
   },
+  "ThirdPartyAIRelayRisk": {
+    "title": "Third-Party AI Relay Risk",
+    "url": "/wiki/concepts/thirdpartyairelayrisk/"
+  },
   "ThirdPartyAIVendorOversight": {
     "title": "Third-Party AI Vendor Oversight",
     "url": "/wiki/concepts/thirdpartyaivendoroversight/"
@@ -96782,6 +96794,10 @@
   "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449": {
     "title": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权",
     "url": "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
+  },
+  "jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541": {
+    "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+    "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
   },
   "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652": {
     "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9855
+wiki_total_pages: 9858
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "AIAbundanceNarrative"
     title: "AI Abundance Narrative"
     url: "/wiki/concepts/aiabundancenarrative/"
+  - key: "AIAbuseDetectionPrivacyTradeoff"
+    title: "AI Abuse-Detection Privacy Tradeoff"
+    url: "/wiki/concepts/aiabusedetectionprivacytradeoff/"
   - key: "AIAcademicIntegrity"
     title: "AI Academic Integrity"
     url: "/wiki/concepts/aiacademicintegrity/"
