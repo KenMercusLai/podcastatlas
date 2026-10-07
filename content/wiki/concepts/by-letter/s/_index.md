@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9860
+wiki_total_pages: 9861
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2699,6 +2699,9 @@ wiki_pages:
   - key: "SincerePowerSharingDeescalation"
     title: "真诚共治式冲突降温 / Sincere Power-Sharing De-escalation"
     url: "/wiki/concepts/sincerepowersharingdeescalation/"
+  - key: "SocialBaseCollapseVsEliteRebellion"
+    title: "社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion"
+    url: "/wiki/concepts/socialbasecollapsevseliterebellion/"
   - key: "ShenGuPhysiognomy"
     title: "神骨相法 / Spirit-Bone Physiognomy"
     url: "/wiki/concepts/shenguphysiognomy/"

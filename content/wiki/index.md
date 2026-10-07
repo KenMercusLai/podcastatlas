@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
+- [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
 - [《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓](sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x.md) — 以茂陵迁徙、资产门槛与卫青说情呈现豪强控制，再以郭解亲族门客杀人和公孙弘的间接暴力归责解释其灭族结局。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
 - [《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？](sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl.md) — 以郭解调解纠纷、追随者暴力和迁徙后仍存的号召力，呈现游侠社会功能与法外强制的同源性，并对照《史记》与《汉书》的不同评价。
@@ -4027,6 +4028,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
+- [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
 - [孔臧 / Kong Zang (Western Han)](entities/KongZangWesternHan.md) — 以经学与礼制专长辞御史大夫、求任太常的西汉学者官员，呈现专长与职位功能的匹配。
 - [燕王刘定国 / Liu Dingguo, Yan King (Western Han)](entities/LiuDingguoYanKingWesternHan.md) — 因乱伦与报复杀官指控被命自杀、封国撤除的西汉燕王。
@@ -16701,6 +16704,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Bores](entities/AlexBores.md) — New York politician whose AI-regulation record became the focus of opposing AI-linked outside-spending campaigns.
 
 ## Concepts
+- [社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion](concepts/SocialBaseCollapseVsEliteRebellion.md) — 以民生压力、普遍响应和政府反馈判断底层系统性崩塌，并与缺乏广泛支持的精英或区域叛乱相区别。
 - [历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance](concepts/HistoricalCostPrecedentRemonstrance.md) — 以既往战争的后勤、伤亡、财政、领土收益和民力后果检验当前政策的劝谏方法。
 - [Structural Paths to Imperial Reunification / 帝国再统一的结构路径](concepts/StructuralPathsToImperialReunification.md) — Qualified comparison of how inherited institutions, shared writing, geography, and frontier pressure shape post-collapse recombination without determining civilizational destiny.
 - [被扣使者的使命延续 / Captive Envoy Mission Persistence](concepts/CaptiveEnvoyMissionPersistence.md) — 使者在长期强制扣押中通过适应维持生存，并等待可行退出机会而不把适应本身等同于放弃原外交目标。

@@ -105731,9 +105731,9 @@
       "url": "/wiki/concepts/historicalcompositeallegory/"
     },
     "HistoricalCostPrecedentRemonstrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？ [lhWKDoBGygTWNsOHIRz60TW8-kM_].md",
@@ -105741,6 +105741,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激 [lg0glfL2_gX-fB6uySvh74KPBTs8].md",
+          "key": "zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
         }
       ],
       "updated": "2026-10-07",
@@ -211117,6 +211124,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/snyderslance/"
     },
+    "SocialBaseCollapseVsEliteRebellion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激 [lg0glfL2_gX-fB6uySvh74KPBTs8].md",
+          "key": "zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/socialbasecollapsevseliterebellion/"
+    },
     "SocialContactSynchrony": {
       "episode_count": 1,
       "show_count": 1,
@@ -248820,6 +248843,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/xulaihengshanqueen/"
     },
+    "XuLeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激 [lg0glfL2_gX-fB6uySvh74KPBTs8].md",
+          "key": "zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/xulewesternhan/"
+    },
     "XuMeirenWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -250018,6 +250057,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/yalecenterforemotionalintelligence/"
+    },
+    "YanAnWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激 [lg0glfL2_gX-fB6uySvh74KPBTs8].md",
+          "key": "zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/yananwesternhan/"
     },
     "YanBaihu": {
       "episode_count": 3,
@@ -260015,9 +260070,9 @@
       "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuFuYan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
@@ -260060,6 +260115,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激 [lg0glfL2_gX-fB6uySvh74KPBTs8].md",
+          "key": "zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8/"
         }
       ],
       "updated": "2026-10-07",
