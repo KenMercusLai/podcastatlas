@@ -41861,6 +41861,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/civilwarthreatrhetoric/"
     },
+    "CivilianControlOfMilitary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？ [lpmJOa1NxMsLyZnY7fkvb3aacitV].md",
+          "key": "zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/civiliancontrolofmilitary/"
+    },
     "CivilianFollowershipPoliticalCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -94748,6 +94764,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/graphneuralnetworks/"
+    },
+    "GrassrootsBureaucraticCulturalIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？ [lpmJOa1NxMsLyZnY7fkvb3aacitV].md",
+          "key": "zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/grassrootsbureaucraticculturalintegration/"
     },
     "GratitudeNarrativePractice": {
       "episode_count": 1,
@@ -155871,9 +155903,9 @@
       "url": "/wiki/concepts/militarymoralethroughsharedhardship/"
     },
     "MilitaryPersonalization": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
@@ -155944,9 +155976,16 @@
           "show": "The Rest Is History",
           "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
           "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？ [lpmJOa1NxMsLyZnY7fkvb3aacitV].md",
+          "key": "zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/militarypersonalization/"
     },
     "MilitaryRewardEunuchGatekeeping": {

@@ -13,7 +13,8 @@ sources:
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
   - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
   - 134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977
-last_updated: 2026-10-02
+  - zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,9 +32,11 @@ In the Qin branch, [[WangJianQin|王翦]] performs harmlessness because command 
 
 The shared pattern is not that every strong general immediately rebels. It is that military scale changes political meaning. Commanders must manage suspicion, soldiers expect reward, battlefield proof can override formal legitimacy, and institutions that cannot absorb commander prestige become vulnerable to coup, civil war, or overcentralized reaction. The Roman case now makes the key threshold explicit: command reassignment becomes open civil danger when the displaced commander still has an army that recognizes him and the campaign's rewards rather than the procedure that removed him.
 
+Hanji 292 adds the material-dependence mechanism beneath that loyalty. Its compressed Roman comparison argues that long deployment, failed central supply, weak pay and retirement provision, local resource discretion, and financial backing from wealthy interests make commanders the practical brokers of soldiers' survival and future reward. This does not replace the command, prestige, law, citizenship, and civil-war mechanisms in the other Roman sources; it specifies how administrative failure can make personal loyalty materially rational.
+
 ## Key Claims
 
-- Armies become politically destabilizing when loyalty, reward, and identity attach to commanders more strongly than to offices or laws.
+- Armies become politically destabilizing when loyalty, material provision, reward, and identity attach to commanders more strongly than to offices or laws.
 - Foreign war and provincial command can turn military success into domestic political capital.
 - Command transfer becomes explosive when formal reassignment collides with soldiers' attachment to the current commander.
 - Officer-class norms may resist a coup even when rank-and-file soldiers follow the commander.
@@ -50,18 +53,20 @@ The shared pattern is not that every strong general immediately rebels. It is th
 - Roman victory-to-office escalation: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows Sulla using military victory to obtain open-ended dictatorship and redesign republican offices.
 - Caesar's army-backed threshold: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] links Gallic wealth, recruitment, and personal legionary attachment to the 13th Legion's participation in the [[CrossingOfTheRubicon]].
 - Professionalization interpretation: [[134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977]] connects long-distance war, Marius's changes, and the decline of a temporary citizen levy to the legions' more durable military identity.
+- Supply-and-welfare interpretation: [[zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv|Hanji 292]] links distant deployment, unreliable supply, poor treatment, uncertain veteran provision, local resource control, and elite financing to soldiers' dependence on commanders.
 - Qin suspicion-management case: [[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] frames [[WangJianQin|王翦]]'s estate requests as a harmlessness performance before leading nearly all of Qin's military capacity against Chu.
 - Julu battlefield-legitimation case: [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw]] shows [[XiangYu|项羽]]'s victory over [[WangLiQin|王离]] turning a prior command seizure into broad coalition submission.
 - Song founding case: [[169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]] treats [[ChenQiaoMutiny|陈桥兵变]] as a禁军, gate-control, soldier-expectation, and succession-crisis event, followed by [[SongMilitaryCentralization|宋初军事集权]] as a preventative redesign.
 
 ## Counterevidence & Qualifications
 
-The concept does not mean every military merit network is already private rebellion. Wang Jian avoids turning command scale into usurpation, Xiang Yu's authority remains coalition and battlefield-centered rather than institutionalized, and Zhao Kuangyin's later centralization partly repairs the danger that made his accession possible. The Roman sources also show unevenness: episode 702 contests a single Marius-led “military revolution”; Sulla's soldiers follow him while most senior officers desert in episode 703; and Sulla still wants constitutional form even after episode 704 shows him using military victory to dominate the state. Episode 135 treats Caesar's legionary support as highly reliable but does not make that loyalty alone sufficient to explain civil war; immunity, rival commands, senatorial action, and failed bargaining also matter.
+The concept does not mean every military merit network is already private rebellion. Wang Jian avoids turning command scale into usurpation, Xiang Yu's authority remains coalition and battlefield-centered rather than institutionalized, and Zhao Kuangyin's later centralization partly repairs the danger that made his accession possible. The Roman sources also show unevenness: episode 702 contests a single Marius-led “military revolution”; Sulla's soldiers follow him while most senior officers desert in episode 703; and Sulla still wants constitutional form even after episode 704 shows him using military victory to dominate the state. Episode 135 treats Caesar's legionary support as highly reliable but does not make that loyalty alone sufficient to explain civil war; immunity, rival commands, senatorial action, and failed bargaining also matter. Hanji 292 is a short China-Rome comparison, so its claims that the Senate never improved soldiers' conditions, that armies rapidly became private through one reform sequence, and that financiers converted party struggle into civil war remain source-scoped mechanisms rather than a complete Roman chronology.
 
 ## What Changed
 
-- Added the citizen-levy-to-professional-legion interpretation as an upstream mechanism.
-- Preserved the contested status of a single coherent Marian military revolution.
+- Added material dependence on commanders through supply, pay, benefits, veteran provision, and local resource control.
+- Added elite financing as a source-scoped accelerator of commander-centered armed politics.
+- Preserved the contested status of a single coherent Marian military revolution against the new episode's compressed causal sequence.
 
 ## Related Concepts
 
@@ -77,3 +82,5 @@ The concept does not mean every military merit network is already private rebell
 - [[AntiQinCoalitionFragmentation]] - coalition condition that Xiang Yu temporarily overcomes through personal battlefield authority.
 - [[PersonalRuleLegitimacyCrisis]] - late-stage problem when command success becomes one-person rule without accepted legitimacy.
 - [[CrossingOfTheRubicon]] - Caesar-era threshold where a provincial army enters domestic civil conflict.
+- [[CivilianControlOfMilitary|文官控军]] - inverse institutional condition in which administration, legitimacy, and material provision keep command subordinate to a wider political order.
+- [[GrassrootsBureaucraticCulturalIntegration|基层官僚与文化整合]] - social-depth mechanism the new source contrasts with commander-centered dependence.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9843
+wiki_total_pages: 9845
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "GRASSelfCertification"
     title: "GRAS Self-Certification"
     url: "/wiki/concepts/grasselfcertification/"
+  - key: "GrassrootsBureaucraticCulturalIntegration"
+    title: "Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合"
+    url: "/wiki/concepts/grassrootsbureaucraticculturalintegration/"
   - key: "GrassrootsPrivateEntrepreneurship"
     title: "Grassroots Private Entrepreneurship"
     url: "/wiki/concepts/grassrootsprivateentrepreneurship/"

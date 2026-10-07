@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》290-2｜长途奔袭六百里，卫青袭杀匈奴右贤王军](sources/zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity.md) — 右贤王退至六七百里外的北方老营并因纵深、地形与汉军疲劳预期而松懈；降附者部下充当向导，使卫青绕过警戒、抵近并完成夜袭前包围，但文本仍未进入战斗。
 - [《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬](sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x.md) — 公元前124年汉军以卫青主攻右贤王、右北平军牵制左贤王；现有文本止于敌营撤空与深入追击部署，未覆盖战果或大将军封授。
+- [《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？](sources/zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv.md) — 以班超和秦汉—罗马比较说明文官控军的行政、供给与合法性基础，并将罗马军队私人化连到补给、待遇、退役保障、将领依赖与精英融资；宏大文明排名保留来源边界。
 - [098 金庸群侠MBTI盘点：侠客也分T、F？J人P人会碰撞出什么？](sources/098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy.md) — 纸醉金迷FM以金庸人物比较T/F与J/P，并把人格标签限定为可争论、依情境、非道德化的文学解释工具。
 - [《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？](sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir.md) — 汲黯以不向卫青折节却赢得请教、又使汉武帝注意冠服与接见礼仪，呈现道德威望如何在无强制权时约束更高权力；人物转录与“怕”的情绪解释保留来源边界。
 - [099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》](sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz.md) — 纸醉金迷FM以伪超自然身份谜案、刺客组织与高手对决分析古龙的气氛、心理战和人物反差，并保留神医配合、武功速成及女性退场的批评。
@@ -26559,5 +26560,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crypto-Asset Functional Classification](concepts/CryptoAssetFunctionalClassification.md) — Distinction between a token's function and the fundraising transaction or promises through which it is sold.
 - [Programmable Immune-Cell Engineering](concepts/ProgrammableImmuneCellEngineering.md) — Design-and-test loop joining CRISPR tool choice, delivery, high-throughput perturbation, single-cell measurement, and therapeutic immune-cell behavior.
 - [Fictional-Character Typing Boundary / 虚构人物类型化边界](concepts/FictionalCharacterTypingBoundary.md) — Uses personality typology to compare recurring fictional choices while preserving context, disagreement, moral neutrality, and a non-diagnostic boundary.
+
+- [Civilian Control of the Military / 文官控军](concepts/CivilianControlOfMilitary.md) — 军事指挥通过任官、财政、补给、法律、基层行政与合法性被置于更广泛政治秩序之内的来源限定机制。
+- [Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合](concepts/GrassrootsBureaucraticCulturalIntegration.md) — 基层行政、人才吸纳、学校、共同文字与经典教育共同形成跨地域整合和政权重建能力的来源限定机制。
 
 ## Syntheses

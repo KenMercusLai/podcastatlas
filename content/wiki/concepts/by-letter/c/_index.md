@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9843
+wiki_total_pages: 9845
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "CivilWarThreatRhetoric"
     title: "Civil-War Threat Rhetoric"
     url: "/wiki/concepts/civilwarthreatrhetoric/"
+  - key: "CivilianControlOfMilitary"
+    title: "Civilian Control of the Military / 文官控军"
+    url: "/wiki/concepts/civiliancontrolofmilitary/"
   - key: "CivilianFollowershipPoliticalCapital"
     title: "Civilian Followership as Political Capital / 百姓追随型政治资本"
     url: "/wiki/concepts/civilianfollowershippoliticalcapital/"

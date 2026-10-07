@@ -31452,3 +31452,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？
+
+Added source `zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv`; created [[CivilianControlOfMilitary|文官控军]] and [[GrassrootsBureaucraticCulturalIntegration|基层官僚与文化整合]]; and resynthesized [[MilitaryPersonalization|军队私人化]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: civilian supremacy depends on administrative reach, legitimate appointment, supply, pay and veteran provision rather than ceremonial文/武 rank alone; Roman commander-centered loyalty becomes materially rational when central provisioning fails; and local office, recruitment, schooling, shared writing and classical instruction may preserve a reconstructable political-cultural field after central collapse. No settled contradiction was adopted. The episode's single-Marius causal sequence, financier-to-civil-war compression, Qin-Han-as-first-modern-state claim, commoner-dynasty label, Roman elite-only incorporation, provincial Latin claim and broad civilization ranking remain source-scoped. Existing Roman civic-military incorporation evidence was retained as explicit counterweight. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,933 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, derived synthesis, whitespace, health, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
