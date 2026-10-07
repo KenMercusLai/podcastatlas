@@ -17,6 +17,7 @@ sources:
   - 108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n
   - 107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba
   - 106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw
+  - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -31,7 +32,7 @@ last_updated: 2026-10-07
 
 Across the bounded sources, the show operates as an informal group reading or viewing conversation rather than a formal lecture. The hosts reconstruct plots and character arcs, compare reactions, test motives, and distinguish textual fact, strong implication, and speculation. In the 《长生剑》 discussion, one host's first-listener position adds live prediction to this method: proposed explanations become visible and revisable as each new reversal arrives. Disagreement remains central—they can retain the force of an allegory while challenging its plot mechanics, or agree that Wang Xifeng is complex while differing over literacy, sincerity, culpability, and ending.
 
-The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The two [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes extend the same method across setup and resolution: the earlier discussion separates voluntary self-sacrifice from choosing another person's death and tests whether a lottery can be fair under coercion, while the finale values friendship, self-knowledge, and retirement but argues that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] episode connects consent and victim autonomy to departmental protection, costly moral commitment, and procedural leverage. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
+The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The three [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes extend the same method across setup and resolution: P2 praises crystals, wolf blood, monster-state rules, and conflicting city clues that become legible only later while preserving disagreement over materialized memory; P3 separates voluntary self-sacrifice from choosing another person's death and tests whether a lottery can be fair under coercion; and the finale values friendship, self-knowledge, and retirement but argues that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The sequence lets the show compare a fantastic solution that feels prepared with one it judges under-earned. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] episode connects consent and victim autonomy to departmental protection, costly moral commitment, and procedural leverage. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
 
 The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped.
 
@@ -55,6 +56,11 @@ The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] follows 《孔雀翎》 from the attack on 百里长青 through the counterfeit weapon and implied poisoning.
 - [[120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3]] moves through Wang Xifeng's family background, education, management, marriage, disputed deaths, 判词, and 《聪明累》.
 - [[113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw]] reconstructs the sacrifice puzzle, curse-breaking ritual, escape, and removal of the 摸金符 at the end of 《昆仑神宫》.
+
+### Planted clues and speculative rules
+
+- [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] traces crystals, wolf blood, heat, and ghost-insect forms into a survival solution, then tests time-freeze and materialized-memory explanations against details in 恶罗海城.
+- [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] preserves the hosts' disagreement over whether physically accessible memory is an inventive explanation or an unacceptable ontological leap.
 
 ### Argument through disagreement
 
@@ -111,13 +117,13 @@ The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》
 
 ## Qualifications
 
-This profile rests on fourteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on fifteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Extended the Harry Potter case backward to isolation, invitation, Diagon Alley, and the first train friendships.
-- Added institutional fantasy worldbuilding through school procedure, commerce, currency, transport, and material preparation.
-- Extended adaptation comparison to invented visual emotion, temporal compression, and altered character first impressions.
+- Extended the 《昆仑神宫》 sequence backward through the demon tower and memory city.
+- Added rule discovery from planted objects and environmental contradictions to the show's bounded critical method.
+- Preserved the hosts' split judgment on materialized memory while contrasting strong setup with the later convenient ritual substitute.
 
 ## Relationships
 
@@ -129,7 +135,7 @@ This profile rests on fourteen episode notes and may not represent every format 
 - [[HongLouMeng|《红楼梦》]] - classic receiving the show's new character-centered series.
 - [[WangXifeng|王熙凤]] - first “红楼金粉” character case.
 - [[ThemePlotCoherence]] - distinction between thematic force and credible causal construction.
-- [[GreedDrivenNarrativeTrap]] - mechanism extracted from the show's reading of 《长生剑》.
+- [[GreedDrivenNarrativeTrap]] - mechanism applied to both 《长生剑》's false value and 《昆仑神宫》's theft-sensitive defense.
 - [[CompassionateCharacterInterpretation]] - adjacent method for understanding difficult characters without suspending responsibility.
 - [[PoeticStyleNarrativeFriction]] - framework for the show's divided response to Gu Long's lyrical prose.
 - [[DoubleVision2002|《双瞳》]] - horror film used to extend the show's bounded profile beyond literature.
@@ -139,12 +145,13 @@ This profile rests on fourteen episode notes and may not represent every format 
 - [[HistoricalPossibilityFiction]] - constrained-fiction method extracted from the episode.
 - [[DynasticFiveVirtuesLegitimation]] - legitimacy framework brought into the literary discussion.
 - [[GhostBlowsOutTheLight|《鬼吹灯》]] - adventure series whose first four books receive a provisional closing discussion.
-- [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - ending used to test sacrifice rules, pacing, and character closure.
+- [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - sequence used to test planted puzzle rules, speculative explanations, sacrifice, pacing, and character closure.
 - [[AdventureAsVocationalIdentity]] - framework extracted from 胡八一 and 胖子's reasons for entering and leaving tomb raiding.
 - [[SacrificingOthersEthics]] - framework extended through the difference between self-sacrifice, choosing another victim, and lottery procedure.
 - [[WulinWaizhuan|《武林外传》]] - sitcom used to analyze setup, payoff, sound-led staging, and character-consistent reversal.
 - [[LiDazui|李大嘴]] - character whose filial lie and tattoo organize the bounded comic reading.
-- [[NarrativeSetupAndPayoff]] - framework extracted from the return of storytelling, cooking, hearing, and tattoo details.
+- [[NarrativeSetupAndPayoff]] - framework spanning comic recurrence, survival-rule discovery, and setting revelation.
+- [[MaterializedMemoryWorldbuilding]] - contested explanation for physically accessible but nonhistorical 恶罗海城.
 - [[ExpectationReversalComedy]] - account of moral formulas, cultural templates, and disproportionate failure becoming jokes.
 - [[SoundLedComicDeception]] - framework for the false capital heard by one character and visibly manufactured for viewers.
 - [[BaiZhantang|白展堂]] - character whose escalating wagers expose the gap between playing for amusement and insisting on victory.

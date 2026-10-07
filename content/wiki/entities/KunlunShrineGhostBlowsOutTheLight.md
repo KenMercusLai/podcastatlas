@@ -5,6 +5,7 @@ tags: [novel, adventure, ghost-blows-out-the-light, narrative-ending]
 sources:
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
+  - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -13,9 +14,13 @@ last_updated: 2026-10-07
 
 ## Overview
 
-《昆仑神宫》 is the fourth book in the first phase of [[GhostBlowsOutTheLight|《鬼吹灯》]]. Two [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes now cover the approach to its sacrificial chamber, the apparent choice of a human victim, the later ritual substitution, the escape, and the protagonists' decision to leave tomb raiding.
+《昆仑神宫》 is the fourth book in the first phase of [[GhostBlowsOutTheLight|《鬼吹灯》]]. Three [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes now cover its nine-story demon tower, memory city, sacrificial chamber, apparent choice of a human victim, later ritual substitution, escape, and the protagonists' decision to leave tomb raiding.
 
 ## Current Profile
+
+The demon-tower sequence first establishes a rule-discovery form. Moving the water-crystal corpse turns apparent treasure into a theft-sensitive avalanche trap; heat changes silver ghost insects into blue fire insects; wolf-king blood conceals the explorers from the creatures; and blue-white crystals govern which form can appear. Because the controlling objects arrive before their function is known, the hosts read the solution as retrospective recognition rather than an unprepared escape.
+
+恶罗海城 then changes the scale of the mystery. Lamps, boiling beef, fresh slaughter, normal watches, and changing outside light do not fit either ordinary ruins or a totally stopped timeline. The mural explanation makes the city an embodied composite of the ghost mother's salient memories through fictional “行境幻化,” while identifying the 雮尘珠 as the snake god's eye and the key to reversing the curse at the real ruins.
 
 Before the resolution, the novel confines the group inside an apparent zero-sum choice. A mural, body-shaped recess, and crystal timer seem to require a living companion's death; 王胖子 names the older, injured 明叔, Shirley 杨 prepares to volunteer herself, and 明叔 steals the 雮尘珠 before proposing 阿香 as repayment for his care. 胡八一 rejects that ownership claim and proposes a lottery, which the hosts read as formal equality under pressure but not independent proof that killing is justified.
 
@@ -26,12 +31,18 @@ The novel then prolongs danger through collapse, corpses, snakes, 阿香's disso
 ## Key Characteristics
 
 - Resolves the first four books' curse through a ritual substitution involving the ghost mother's eyes and the 雮尘珠.
+- Uses planted objects, monster-state rules, folk devices, and environmental contradictions as cumulative puzzle evidence.
 - Tests loyalty and autonomy through competing proposals to sacrifice 明叔, Shirley 杨, or 阿香 before a false death lottery lets 胡八一 delay and control 明叔.
 - Combines a central sacrificial dilemma with an extended physical escape sequence after the ritual is complete.
 - Uses the Bremen Town Musicians story to value what is gained during a journey over arrival at the nominal destination.
 - Ends with romance, restitution to fallen comrades' families, plans for migration, and removal of the 摸金符.
 
 ## Evidence
+
+### Demon-tower rules and memory city
+
+- [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] links the water-crystal corpse, avalanche, ghost insects, wolf blood, and blue-white crystals into a sequence of observed and solved rules.
+- [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] uses hot food, active slaughter, changing light, and normal watches to prepare the reveal that 恶罗海城 is an embodied composite of memory fragments.
 
 ### Sacrifice puzzle and substitution
 
@@ -49,12 +60,13 @@ The novel then prolongs danger through collapse, corpses, snakes, 阿香's disso
 
 ## Qualifications
 
-The profile covers two adjacent podcast reconstructions rather than the complete novel. The earlier note stops before the lottery and treats the mural's meaning as uncertain; the later note supplies the reinterpretation and outcome. Whether the crystal-eye substitution is elegant rule fulfillment or a reduction of stakes is a critical judgment. The ritual system, snake perception, and geomancy belong to fiction or host speculation, and the suggested relationship between pacing and online serialization or publishing length lacks direct production evidence.
+The profile covers three adjacent podcast reconstructions rather than the complete novel. P2 establishes the demon tower and memory-city explanation, P3 stops before the lottery is resolved and treats the sacrificial mural's meaning as uncertain, and the finale supplies the reinterpretation and outcome. Whether the crystal-eye substitution is elegant rule fulfillment or a reduction of stakes is a critical judgment. The ritual system, snake perception, virtual space, materialized memory, and geomancy belong to fiction or host speculation, and the suggested relationship between pacing and online serialization or publishing length lacks direct production evidence.
 
 ## What Changed
 
-- Added the pre-resolution conflict over consent, age, injury, kinship, and lottery fairness.
-- Qualified the later substitution by preserving the earlier warning that the mural may have been misread.
+- Extended the profile backward through the demon tower and arrival in 恶罗海城.
+- Added rule-based ghost-insect resolution and theft-sensitive tomb defense.
+- Added the embodied composite-memory explanation and its direct connection to the 雮尘珠.
 
 ## Relationships
 
@@ -63,4 +75,7 @@ The profile covers two adjacent podcast reconstructions rather than the complete
 - [[SacrificingOthersEthics]] - distinguishes voluntary self-sacrifice from selecting another person to bear the ritual's cost.
 - [[AdventureAsVocationalIdentity]] - character framework for what tomb raiding gives 胡八一 and 胖子 before retirement.
 - [[HetuLuoshu|河图洛书]] - source of the “天一生水” directional clue used during escape.
+- [[NarrativeSetupAndPayoff]] - explains how conspicuous objects become controls, protections, and later revelations.
+- [[MaterializedMemoryWorldbuilding]] - framework for the physically accessible but nonhistorical 恶罗海城.
+- [[GreedDrivenNarrativeTrap]] - describes the defense that activates when intruders actually remove the water-crystal corpse.
 - [[ZhiZuiJinMiFM|纸醉金迷FM]] - show providing the bounded retelling and debate.

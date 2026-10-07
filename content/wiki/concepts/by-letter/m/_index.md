@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9826
+wiki_total_pages: 9827
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "MaterialHistoryNarrative"
     title: "Material History Narrative"
     url: "/wiki/concepts/materialhistorynarrative/"
+  - key: "MaterializedMemoryWorldbuilding"
+    title: "Materialized Memory Worldbuilding / 记忆实体化世界构建"
+    url: "/wiki/concepts/materializedmemoryworldbuilding/"
   - key: "MaterialsPipelineCompany"
     title: "Materials Pipeline Company"
     url: "/wiki/concepts/materialspipelinecompany/"

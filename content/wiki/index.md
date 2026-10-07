@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城](sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we.md) — 纸醉金迷FM以蓝白水晶、狼王血与冰火鬼虫拆解铺垫回收，并把恶罗海城解释为鬼母记忆碎片构成的实体化城市。
 - [106 六一特辑|《哈利波特与魔法石》：宁愿相信自己是个麻瓜，也不愿相信这世界没魔法](sources/106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw.md) — 纸醉金迷FM从女贞路讲到霍格沃茨特快，以孤独与归属、制度化魔法世界、宿命与选择及小说电影差异重读《魔法石》上半部。
 - [107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建](sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba.md) — 纸醉金迷FM以霍格沃茨校园结构、三人组能力分工、斯内普误导及小说电影的信息显著性差异，讨论爱与勇气如何同时接受童年情感和成年批评的检验。
 - [108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞](sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n.md) — 纸醉金迷FM以百花羞的现世同意反驳前世情缘、婚姻与家庭名分，并把救援写成公开价值、制度护短和程序反制的共同检验。
@@ -3989,8 +3990,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
-- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、同伴关系与职业身份为核心，并以祭坛抉择区分自愿承担代价和把代价强加给同伴。
-- [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以活人祭坛困局检验自主与忠诚，再由鬼母双眼替代祭品解除诅咒并完成摘符收束。
+- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
+- [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
 - [张苍 / Zhang Cang](entities/ZhangCang.md) — 在小说讨论中连接旧贵族经验与秦中央任职经验、承载郡县与分封比较的人物。
@@ -4000,7 +4001,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, disagreement, evidence boundaries, moral gradation, and practical ethical argument.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, causal clue testing, disagreement, evidence boundaries, moral gradation, and practical ethical argument.
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
@@ -16629,6 +16630,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。
 - [Medium-Specific Adaptation Salience / 媒介特定的改编显著性](concepts/MediumSpecificAdaptationSalience.md) — 不同媒介通过文字密度、内心活动、镜头强调、时长和可见动作改变线索显著性及叙事功能。
 - [Children's Literature Moral Dialogue / 儿童文学价值对话](concepts/ChildrensLiteratureMoralDialogue.md) — 在保留爱、友谊与勇气的情感塑造力时，也讨论故事的便利、制度偏差和时代价值边界。
 - [Institutionalized Fantasy Worldbuilding / 制度化幻想世界构建](concepts/InstitutionalizedFantasyWorldbuilding.md) — 以学校、课程、购物、货币、交通和程序把继承的魔法母题组织成可日常生活的幻想社会。
@@ -16636,7 +16638,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Values Under Cost / 有代价时的公开价值检验](concepts/PublicValuesUnderCost.md) — 公开道德身份只有在行动带来政治、身体、声誉或组织成本时仍能约束选择，才获得可信度。
 - [Bureaucratic Procedure as Leverage / 官僚程序作为杠杆](concepts/BureaucraticProcedureAsLeverage.md) — 借公文、排班、考勤、管辖和表彰让受保护行为变得可见且产生组织成本的策略。
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
-- [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部笑料，再使其以新的因果、压力、人物或包袱功能返回。
+- [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部功能，再使其以新的因果、规则、人物、环境解释或包袱功能返回。
 - [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。
 - [Sound-Led Comic Deception / 声音主导的喜剧骗局](concepts/SoundLedComicDeception.md) — 用声音让有限场景代表更大世界，同时让观众看见幻觉背后的表演劳动与穿帮风险。
 - [Adventure as Vocational Identity / 冒险作为职业身份](concepts/AdventureAsVocationalIdentity.md) — 危险或边缘工作把零散经验转化为能力、归属与方向，而退出并不要求否定旅程曾提供的意义。
@@ -16647,14 +16649,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Film Rating Calibration / 电影评分校准](concepts/FilmRatingCalibration.md) — 先说明比较范围、分数档位与个人偏爱如何进入评分，使数字评价具备可解释边界。
 - [Poetic-Style Narrative Friction / 诗化文风的叙事摩擦](concepts/PoeticStyleNarrativeFriction.md) — 诗化语言同时强化节奏与意象，也可能提高情节辨认成本、造成重复并压缩读者留白。
 - [Desire-Bound Identity / 欲望绑定的身份](concepts/DesireBoundIdentity.md) — 当名望、权力、占有或衰老恐惧把身份变成必须不断维护的负担时，拒绝竞争也可能成为行动与自由。
-- [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for a prize and confidence in superior cunning make participants authenticate the bait and help create their own defeat.
+- [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for possession, confidence, or completed removal makes participants authenticate bait or trigger their own defeat.
 - [Domestic Authority Without Security / 有权理家而无保障](concepts/DomesticAuthorityWithoutSecurity.md) — 区分家庭内部的实际管理权与婚姻、身份、财产及制度存续上的可靠保障。
 - [Identity-Level Pattern Change](concepts/IdentityLevelPatternChange.md) — Durable-change framework targeting self-beliefs, conditioned wants, and tendencies beneath repeatedly forced behavior.
 - [Distress Tolerance and Emotional Choice](concepts/DistressToleranceAndEmotionalChoice.md) — Capacity to accept and name emotion or uncertainty without treating it as proof of danger or an automatic behavioral command.
 - [Yoga Nidra and Sankalpa Belief Change](concepts/YogaNidraSankalpaBeliefChange.md) — Evidence-bounded proposal separating immediate deep relaxation from stronger claims about learning, unconscious editing, and identity change.
 - [Confidence as a Weapon](concepts/ConfidenceAsWeapon.md) — Belief in a decisive resource can restore existing skill internally while its reputation deters opponents externally.
 - [Reciprocal Care and Dignity](concepts/ReciprocalCareAndDignity.md) — Care relation where visible assistance flows one way but emotional safety, recognition, purpose, and dignity flow both ways.
-- [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between a story's thematic force and whether its recurring action, causes, motivations, and revelations support the declared theme.
+- [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between thematic force and whether planted rules, recurring action, motivations, costs, and revelations support the meaning claimed by a story.
 - [知敌式备战 / Adversary-Knowledge Preparation](concepts/AdversaryKnowledgePreparation.md) — 把体能与武艺训练同敌方行动习惯、地形补给、内部人信息和地图推演结合，并把来源可信度与现代类比留作明确边界。
 - [Five-Forces Systemic Cycle](concepts/FiveForcesSystemicCycle.md) — Dalio framework for interacting debt, domestic conflict, great-power rivalry, technology, and natural shocks during changes in political and monetary order.
 - [Technology-Company Performance Gap](concepts/TechnologyCompanyPerformanceGap.md) — Distinction between economy-wide technological usefulness and the survival, profitability, or investor returns of companies building it.

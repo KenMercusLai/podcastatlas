@@ -4,6 +4,7 @@ type: concept
 tags: [narrative, deception, greed, overconfidence, suspense]
 sources:
   - 119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf
+  - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -20,6 +21,8 @@ In [[LongevitySwordGuLong|《长生剑》]], as discussed by [[119-gulong-qizhon
 
 The trap is stronger than simple greed because it recruits self-image. Each participant expects to be the final observer who lets others fight and then collects the prize. That expectation discourages withdrawal and makes warning signs look like further evidence of hidden value. The plot's recurring “cicada and oriole” reversal follows when supposed manipulators discover that their cleverness was predictable and therefore exploitable.
 
+A materially different version appears in [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]]: the trap does not need to fabricate the prize or deceive rivals about its value. The water-crystal corpse can be examined in place, but lifting it away triggers vibration and avalanche. Defense is therefore keyed to completed extractive intent rather than mere entry or discovery. The intruders' effort to possess the object supplies the final condition for their own disaster, while the delay between discovery and activation makes the rule feel legible rather than indiscriminate.
+
 ## Key Claims
 
 - Perceived difficulty and danger can be used inside a story to manufacture belief in a prize's authenticity and value.
@@ -27,6 +30,7 @@ The trap is stronger than simple greed because it recruits self-image. Each part
 - Overconfidence turns suspicion into a vulnerability when each person assumes deception applies only to others.
 - A trap can work without one victim believing every detail; shared desire can coordinate mutually destructive action.
 - The mechanism explains action more directly than the literal properties of the contested object.
+- A physical defense can distinguish observation from attempted removal, making possession rather than curiosity the triggering act.
 
 ## Evidence
 
@@ -42,13 +46,18 @@ The trap is stronger than simple greed because it recruits self-image. Each part
 
 - [[119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf]] shows Fang Longxiang trusting the sword-hilt hiding place because Bai Yujing lets him experience it as his own deduction, turning confidence in his perceptiveness into the delivery mechanism for the trap.
 
+### Removal completing the defense
+
+- [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] presents a tomb mechanism that remains dormant through discovery but triggers vibration and avalanche when the group lifts the water-crystal corpse away.
+
 ## Counterevidence & Qualifications
 
-This is a literary mechanism derived from one fictional work, not a general empirical law about greed or decision-making. Characters also act under threat, organizational obligation, friendship, love, and incomplete information. Yuan Zixia's final choice may resist a purely self-interested reading, while the episode itself leaves open whether affection and calculation coexist.
+This is a literary mechanism derived from two fictional works, not a general empirical law about greed or decision-making. Characters also act under threat, organizational obligation, friendship, love, incomplete information, and survival pressure. Yuan Zixia's final choice may resist a purely self-interested reading, while the demon-tower group does not reduce to greed: its members also seek the route and curse solution, and the trap interpretation applies specifically to removing the crystal object.
 
 ## What Changed
 
-- Created the concept from the false-blueprint competition and repeated “cicada and oriole” reversals in 《长生剑》.
+- Extended the concept from fabricated-value rivalry to a theft-sensitive physical defense.
+- Distinguished curiosity or inspection from possession as the act that completes the trap.
 
 ## Related Concepts
 
@@ -58,3 +67,5 @@ This is a literary mechanism derived from one fictional work, not a general empi
 - [[MacGuffin]] - describes the contested object's action-driving role without requiring it to be the final meaning.
 - [[MotivatedBias]] - neighboring pattern in which desire and self-interest distort judgment.
 - [[ConfidenceAsWeapon]] - contrasting case where confidence releases existing capacity rather than producing self-entrapment.
+- [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - case where removing an artifact activates the catastrophe.
+- [[NarrativeSetupAndPayoff]] - explains why delayed activation makes the defense retrospectively intelligible.
