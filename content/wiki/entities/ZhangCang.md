@@ -4,6 +4,7 @@ type: entity
 tags: [person, qin-dynasty, han-dynasty, historical-fiction]
 sources:
   - 116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp
+  - 114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -12,27 +13,35 @@ last_updated: 2026-10-07
 
 ## Overview
 
-张苍 / Zhang Cang appears in the bounded source primarily as a character in [[MaBoyong|马伯庸]]'s [[QinErshiMustDie|《秦二世必须死》]], where his background bridges old aristocratic society and Qin central administration.
+张苍 / Zhang Cang appears in the bounded sources primarily as a character in [[MaBoyong|马伯庸]]'s [[QinErshiMustDie|《秦二世必须死》]], where his background bridges old aristocratic society and Qin central administration.
 
 ## Current Profile
 
-The podcast interprets Zhang Cang as the novel's strongest carrier of the commandery-county/enfeoffment comparison. His aristocratic origin lets him understand the appeal and social structure of hereditary rule, while central-government experience lets him see the organizational power of direct administration. He therefore supports institutional continuity without becoming an uncomplicated defender of Qin cruelty.
+The earlier episode begins with Zhang Cang investigating accounts and the “二世死而地分” meteor inscription before Zhao Cheng's purge drives him into Xu Fu's conspiracy. It maps him primarily to “术”: the operational layer of inquiry, escape, survival, and task execution. That label is a narrative emphasis rather than a claim that he lacks political thought.
+
+The follow-up interprets Zhang Cang as the novel's strongest carrier of the commandery-county/enfeoffment comparison. His aristocratic origin lets him understand the appeal and social structure of hereditary rule, while central-government experience lets him see the organizational power of direct administration. He therefore supports institutional continuity without becoming an uncomplicated defender of Qin cruelty.
 
 His reflections on the unattainable are read as restraint toward desire and timing, and the hosts connect that disposition retrospectively to his later survival and long life. His relationship with 易水 receives a less favorable judgment: some hosts see progress in the author's romantic writing, while others find the bond abrupt and mechanically attached.
 
 ## Key Characteristics
 
 - Bridges old-aristocratic and Qin central-government experience.
+- Enters the conspiracy through investigation, threatened silencing, and operational survival.
+- Carries the “术” layer without being reduced to mere technique.
 - Carries the novel's most explicit comparison of enfeoffment and commandery-county rule.
 - Distinguishes institutional capacity from endorsement of a cruel ruler.
 - Is associated with restraint toward desire and adaptation to historical circumstances.
-- Participates in a romance whose credibility the hosts dispute.
 
 ## Evidence
 
 ### Institutional bridge
 
 - [[116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp]] contrasts Zhang Cang's dual experience with Zhang Liang's initial restoration preference.
+
+### Plot and operational role
+
+- [[114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl]] follows his movement from audit work and meteor investigation into an anti-Qin group after he is marked for elimination.
+- [[114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl]] uses him as the “术” emphasis within the novel's technique, momentum, and governing-purpose triad.
 
 ### Character judgment
 
@@ -44,11 +53,12 @@ His reflections on the unattainable are read as restraint toward desire and timi
 
 ## Qualifications
 
-This page is deliberately source-scoped to a podcast's reading of a historical novel. It does not yet provide an independently sourced biography of the historical Zhang Cang, and fictional characterization must not be treated as documentary evidence about his private thoughts or relationships.
+This page is deliberately source-scoped to two podcast discussions of a historical novel. It does not yet provide an independently sourced biography of the historical Zhang Cang, and fictional events, characterization, thoughts, or relationships must not be treated as documentary evidence.
 
 ## What Changed
 
-- Established a bounded literary profile centered on institutional comparison, restraint, and disputed romance.
+- Added the earlier episode's audit, meteor-investigation, threatened-silencing, and “术” layer.
+- Preserved the later institutional comparison, restraint, and disputed-romance judgment.
 
 ## Relationships
 
@@ -56,4 +66,5 @@ This page is deliberately source-scoped to a podcast's reading of a historical n
 - [[MaBoyong|马伯庸]] - author of that characterization.
 - [[ZhangLiang|张良]] - contrasting character initially drawn toward restoring the six states.
 - [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]] - institutional choice Zhang Cang is used to interpret.
+- [[TechniqueSituationWayFramework|术—势—道行动框架]] - layered scheme in which Zhang Cang carries the operational emphasis.
 - [[ZhiZuiJinMiFM|纸醉金迷FM]] - podcast preserving the interpretive disagreement.

@@ -24139,6 +24139,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/belgium/"
     },
+    "BeliefActivatedPoliticalSigns": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/beliefactivatedpoliticalsigns/"
+    },
     "Belisarius": {
       "episode_count": 2,
       "show_count": 1,
@@ -105010,9 +105026,9 @@
       "url": "/wiki/concepts/historicalpopulationregistrationcaution/"
     },
     "HistoricalPossibilityFiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -105020,6 +105036,13 @@
           "show": "纸醉金迷FM",
           "title": "116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》",
           "url": "/wiki/sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp/"
+        },
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
         }
       ],
       "updated": "2026-10-07",
@@ -145090,9 +145113,9 @@
       "url": "/wiki/entities/mabaoxing/"
     },
     "MaBoyong": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -145100,6 +145123,13 @@
           "show": "纸醉金迷FM",
           "title": "116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》",
           "url": "/wiki/sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp/"
+        },
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
         }
       ],
       "updated": "2026-10-07",
@@ -186683,9 +186713,9 @@
       "url": "/wiki/concepts/qincollapseoverextension/"
     },
     "QinErshiMustDie": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -186693,6 +186723,13 @@
           "show": "纸醉金迷FM",
           "title": "116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》",
           "url": "/wiki/sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp/"
+        },
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
         }
       ],
       "updated": "2026-10-07",
@@ -220623,6 +220660,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/technicalproductlifestyletranslation/"
     },
+    "TechniqueSituationWayFramework": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/techniquesituationwayframework/"
+    },
     "TechnologicalDisasterAsInstitutionalFailure": {
       "episode_count": 3,
       "show_count": 3,
@@ -251702,9 +251755,9 @@
       "url": "/wiki/entities/zhangbueasternhan/"
     },
     "ZhangCang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -251712,6 +251765,13 @@
           "show": "纸醉金迷FM",
           "title": "116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》",
           "url": "/wiki/sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp/"
+        },
+        {
+          "episode_file": "lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL [lkGaH7Ss4Dd7-VS6o5TdeuIQ_FJL].md",
+          "key": "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl",
+          "show": "纸醉金迷FM",
+          "title": "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》",
+          "url": "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"
         }
       ],
       "updated": "2026-10-07",

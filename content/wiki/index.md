@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》](sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl.md) — 纸醉金迷FM以人心、术势道、天象解释权和“呆若木鸡”讨论《秦二世必须死》，并保留历史约束究竟增强深度还是削弱悬疑的评分分歧。
 - [116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》](sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp.md) — 纸醉金迷FM以五德终始、郡县与分封及人物选择再评《秦二世必须死》，在制度能力与集权代价、历史约束与悬疑空间之间保留争论。
 - [117 中元节特辑|趣话华语恐怖片巅峰《双瞳》](sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb.md) — 纸醉金迷FM以《双瞳》在华语恐怖片中的持久地位开场，并用跨类型评分体系区分作品质量与个人偏爱；因所供文本仅三分钟，后续电影分析保持未决。
 - [118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖](sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj.md) — 纸醉金迷FM以成年重读讨论古龙的诗化文风、名人榜与代理身份，并把傅红雪、公子羽和燕南飞置于欲望、恐惧和自由的共同轴线上。
@@ -16607,6 +16608,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Technique–Situation–Way Action Framework / 术—势—道行动框架](concepts/TechniqueSituationWayFramework.md) — 区分具体执行、局势塑造与替代秩序，使刺杀成功不再等同于完成政治转型。
+- [Belief-Activated Political Signs / 信念激活的政治符号](concepts/BeliefActivatedPoliticalSigns.md) — 区分符号的事实来源、解释意义与行动后果，说明集体信念如何把天象或文字转化为政治力量。
 - [Dynastic Five-Virtues Legitimation / 五德终始式王朝正统](concepts/DynasticFiveVirtuesLegitimation.md) — 以五行相克或相生给王朝配置德运，并把政治更替表述为天命有序转移的正统语言。
 - [Historical Possibility Fiction / 历史可能性小说](concepts/HistoricalPossibilityFiction.md) — 保持大事件和结局不变，在史料空隙中虚构人物、动机与机制，并让制度约束成为情节因果。
 - [Film Rating Calibration / 电影评分校准](concepts/FilmRatingCalibration.md) — 先说明比较范围、分数档位与个人偏爱如何进入评分，使数字评价具备可解释边界。

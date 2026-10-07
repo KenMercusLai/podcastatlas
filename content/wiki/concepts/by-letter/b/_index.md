@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9812
+wiki_total_pages: 9814
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "BeliefAsLastResortSupport"
     title: "Belief As Last-Resort Support / 信仰作为最后退路"
     url: "/wiki/concepts/beliefaslastresortsupport/"
+  - key: "BeliefActivatedPoliticalSigns"
+    title: "Belief-Activated Political Signs / 信念激活的政治符号"
+    url: "/wiki/concepts/beliefactivatedpoliticalsigns/"
   - key: "BelleEpoque"
     title: "Belle Epoque / 美好年代"
     url: "/wiki/concepts/belleepoque/"

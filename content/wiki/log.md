@@ -31256,3 +31256,10 @@ Added source `116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-b
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》
+
+Added source `114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl`; created [[TechniqueSituationWayFramework|术—势—道行动框架]] and [[BeliefActivatedPoliticalSigns|信念激活的政治符号]]; and resynthesized [[QinErshiMustDie|《秦二世必须死》]], [[MaBoyong|马伯庸]], [[ZhangCang|张苍]], and [[HistoricalPossibilityFiction|历史可能性小说]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: assassination technique, political momentum, and replacement purpose are distinct layers; a meteor inscription or celestial event gains political force when shared interpretation coordinates action; and fixed history can deepen institutional meaning while reducing suspense for informed readers. No settled contradiction was adopted. Ratings, revolt-planning sequence, celestial and calendrical history, “木鸡” as emotional suppression versus regulation, and all fictional motives remain disputed or source-scoped. Broad historical biographies and the show page were kept closed because the focused literary pages capture the bounded addition without treating fiction as independent biography. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,908 sources across 798 overview paragraphs and nine topics. Authored-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
