@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9829
+wiki_total_pages: 9832
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "MatsutakeCommonsManagement"
     title: "Matsutake Commons Management / 松茸山公共资源治理"
     url: "/wiki/concepts/matsutakecommonsmanagement/"
+  - key: "MatureGenreDeconstruction"
+    title: "Mature-Genre Deconstruction / 成熟类型的解构"
+    url: "/wiki/concepts/maturegenredeconstruction/"
   - key: "MausoleumFrugalityRemonstrance"
     title: "Mausoleum Frugality Remonstrance / 陵墓节俭式进谏"
     url: "/wiki/concepts/mausoleumfrugalityremonstrance/"

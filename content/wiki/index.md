@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》295｜豆腐的发明者，竟是造反的藩王？](sources/zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw.md) — 雷被申诉使淮南阴谋进入朝廷视野；使者以尊重和窄化问讯化解眼前伏击，但削地处分又加深刘安怨恨，并把危机扩展到刘赐的备兵与兄弟结盟。
+- [102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南](sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4.md) — 纸醉金迷FM以郭芙蓉从误伤百姓到留在同福客栈的开篇故事，讨论成熟武侠的解构、侠义的后果责任，以及情节如何为明确说理提供支撑。
 - [103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险](sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz.md) — 纸醉金迷FM从雮尘珠、明叔组队和山风蛊卦讲到轮回庙、食罪巴鲁与冰川入口，并以真实历史民俗和虚构知识的叠加解释《鬼吹灯》的可信感。
 - [104 金庸小说与隐士文化](sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo.md) — 纸醉金迷FM以金庸人物的主动、被迫、避祸与功成身退讨论归隐，并把空间退场推进为脱离角色、关系网络和物质依附的退出能力。
 - [105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城](sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we.md) — 纸醉金迷FM以蓝白水晶、狼王血与冰火鬼虫拆解铺垫回收，并把恶罗海城解释为鬼母记忆碎片构成的实体化城市。
@@ -3987,6 +3988,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [郭芙蓉 / Guo Furong](entities/GuoFurong.md) — 《武林外传》开篇中以侠客幻想误判现实，并在债务、劳动、照护与克制中开始融入同福客栈的角色。
 - [《哈利·波特与魔法石》 / Harry Potter and the Philosopher's Stone](entities/HarryPotterAndThePhilosophersStone.md) — 以孤独到归属、制度化魔法世界、选择、三人组能力、悬疑误导和爱之保护构成系列道德基础的首部小说及电影。
 - [《太白金星有点烦》](entities/TaibaiJinxingYouDianFan.md) — 马伯庸以天庭部门、排班、公文和关系网重写取经工程，并在宝象国篇检验同意、救援与制度责任。
 - [白展堂 / Bai Zhantang](entities/BaiZhantang.md) — 《武林外传》中以“小赌怡情”合理化参与、不断追损并最终押上性命的角色。
@@ -16633,6 +16635,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。
+- [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 类型惯例与共同观众知识成熟后，作品借互文、反转和日常化位移从传统内部完成戏仿与批判。
+- [Story-Earned Moral Instruction / 情节赢得的道德说理](concepts/StoryEarnedMoralInstruction.md) — 明确伦理结论由先前人物选择、冲突、后果和转变支撑，而非依靠说话者权威替代叙事。
 - [De-escalatory Envoy Signaling / 使者示弱式危机降温](concepts/DeescalatoryEnvoySignaling.md) — 以尊重身份、窄化问讯和非惩罚性姿态避免调查对象把使者到来理解为即时攻击，同时区分眼前降温与长期解决。
 - [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。
 - [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。

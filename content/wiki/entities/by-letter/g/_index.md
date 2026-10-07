@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12594
+wiki_total_pages: 12595
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1607,6 +1607,9 @@ wiki_pages:
   - key: "GuoShunWesternHan"
     title: "郭舜 / Guo Shun"
     url: "/wiki/entities/guoshunwesternhan/"
+  - key: "GuoFurong"
+    title: "郭芙蓉 / Guo Furong"
+    url: "/wiki/entities/guofurong/"
   - key: "GuoMeng"
     title: "郭蒙 / Guo Meng"
     url: "/wiki/entities/guomeng/"

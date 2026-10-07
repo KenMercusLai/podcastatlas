@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9829
+wiki_total_pages: 9832
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2018,6 +2018,9 @@ wiki_pages:
   - key: "ConsentlessFacialSearch"
     title: "Consentless Facial Search"
     url: "/wiki/concepts/consentlessfacialsearch/"
+  - key: "ConsequenceSensitiveChivalry"
+    title: "Consequence-Sensitive Chivalry / 后果敏感的侠义"
+    url: "/wiki/concepts/consequencesensitivechivalry/"
   - key: "ConservationIntervention"
     title: "Conservation Intervention"
     url: "/wiki/concepts/conservationintervention/"

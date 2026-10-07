@@ -21145,9 +21145,9 @@
       "url": "/wiki/entities/baiyinghengshan/"
     },
     "BaiZhantang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "loR4W6cIMesyf4DLwgR5yWfGwgxb [loR4W6cIMesyf4DLwgR5yWfGwgxb].md",
@@ -21155,6 +21155,13 @@
           "show": "纸醉金迷FM",
           "title": "110 《武林外传》：小赌怡情？最好的戒赌宣传片",
           "url": "/wiki/sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb/"
+        },
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
         }
       ],
       "updated": "2026-10-07",
@@ -46893,6 +46900,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/consentlessfacialsearch/"
+    },
+    "ConsequenceSensitiveChivalry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/consequencesensitivechivalry/"
     },
     "ConservativeLeadershipElection1975": {
       "episode_count": 2,
@@ -96346,6 +96369,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/guochangwesternhan/"
+    },
+    "GuoFurong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/guofurong/"
     },
     "GuoGongEasternHanJurist": {
       "episode_count": 1,
@@ -150626,6 +150665,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/matthewwalker/"
+    },
+    "MatureGenreDeconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/maturegenredeconstruction/"
     },
     "MauricePaleologue": {
       "episode_count": 1,
@@ -214574,6 +214629,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/storydrivenportraitphotography/"
     },
+    "StoryEarnedMoralInstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/storyearnedmoralinstruction/"
+    },
     "StraightRedressWithoutRevenge": {
       "episode_count": 1,
       "show_count": 1,
@@ -243607,9 +243678,9 @@
       "url": "/wiki/entities/wuliaozhai/"
     },
     "WulinWaizhuan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrtg0wQayWenpzgpWzCCKEKKQLT- [lrtg0wQayWenpzgpWzCCKEKKQLT-].md",
@@ -243624,6 +243695,13 @@
           "show": "纸醉金迷FM",
           "title": "110 《武林外传》：小赌怡情？最好的戒赌宣传片",
           "url": "/wiki/sources/110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb/"
+        },
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
         }
       ],
       "updated": "2026-10-07",
@@ -256550,9 +256628,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -256665,6 +256743,13 @@
           "show": "纸醉金迷FM",
           "title": "104 金庸小说与隐士文化",
           "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
+        },
+        {
+          "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
+          "key": "102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4",
+          "show": "纸醉金迷FM",
+          "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
+          "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
         }
       ],
       "updated": "2026-10-07",

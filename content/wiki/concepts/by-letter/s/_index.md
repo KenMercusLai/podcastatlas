@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9829
+wiki_total_pages: 9832
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1976,6 +1976,9 @@ wiki_pages:
   - key: "StoryDrivenPortraitPhotography"
     title: "Story-Driven Portrait Photography / 故事型人像摄影"
     url: "/wiki/concepts/storydrivenportraitphotography/"
+  - key: "StoryEarnedMoralInstruction"
+    title: "Story-Earned Moral Instruction / 情节赢得的道德说理"
+    url: "/wiki/concepts/storyearnedmoralinstruction/"
   - key: "StoryWithinStoryNarration"
     title: "Story-Within-Story Narration"
     url: "/wiki/concepts/storywithinstorynarration/"
