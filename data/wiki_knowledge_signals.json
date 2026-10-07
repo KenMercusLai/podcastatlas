@@ -186821,9 +186821,9 @@
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
     },
     "PrivateInterestDisasterNeglect": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
@@ -186845,6 +186845,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1） [lqNjM8OyzbYMkOaDTWCM5QJmXyQq].md",
+          "key": "zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq/"
         }
       ],
       "updated": "2026-10-08",
@@ -228946,9 +228953,9 @@
       "url": "/wiki/entities/tiandoctortcm/"
     },
     "TianFenWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说 [ll1skJ3YGm2Fop-pz1ETKn3Qexw5].md",
@@ -228998,6 +229005,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1） [lqNjM8OyzbYMkOaDTWCM5QJmXyQq].md",
+          "key": "zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq/"
         }
       ],
       "updated": "2026-10-08",
@@ -253847,9 +253861,9 @@
       "url": "/wiki/entities/yelangstatewesternhan/"
     },
     "YellowRiver": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？ [lsqTDJxamRPM2Zit0t3fFgqPbItk].md",
@@ -253885,9 +253899,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说",
           "url": "/wiki/sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1） [lqNjM8OyzbYMkOaDTWCM5QJmXyQq].md",
+          "key": "zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/yellowriver/"
     },
     "YellowRiverFlood1938": {

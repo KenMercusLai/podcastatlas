@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z
   - zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu
   - zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq
+last_updated: 2026-10-08
 ---
 
 ## Overview
@@ -28,7 +29,7 @@ Hanji 567 frames the Yellow River through a dual identity: it nurtures Chinese c
 
 The episode uses [[JiaRangWesternHan|Jia Rang]] to turn the river into a governance test. If states build levees for local protection, risk can be pushed onto neighbors; if people return to fertile floodplain land whenever disaster pauses, later floods become more socially devastating. The upper strategy is therefore to stop fighting for every piece of floodplain and restore room for water.
 
-Hanji 363 adds an earlier Wudi-era repair case. The episode traces a Huzi breach from 132 BCE through an alleged delay shaped by [[TianFenWesternHan|田蚡]]'s fief interest, then describes a 109 BCE state mobilization under [[GuoChangWesternHan|郭昌]] and Ji Ren. Breach closure, court attendants carrying brushwood, two diversion channels, and [[XuanfangPalace|宣房宫]] make the river a test of both emergency labor capacity and the political symbolism attached to successful repair.
+Hanji 262 part 1 and Hanji 363 together add an earlier Wudi-era failure-and-repair sequence. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Part 1]] says the 132 BCE Huzi breach follows an earlier Dunqiu breach, floods sixteen commanderies, and defeats an initial one-hundred-thousand-person closure attempt before [[TianFenWesternHan|田蚡]]'s alleged fief interest and a heaven's-will rationale help suspend renewed action. [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] then describes the 109 BCE mobilization under [[GuoChangWesternHan|郭昌]] and Ji Ren. Breach closure, court attendants carrying brushwood, two diversion channels, and [[XuanfangPalace|宣房宫]] make the river a test of both emergency labor capacity and the politics that determine whether capacity is sustained.
 
 ## Key Characteristics
 
@@ -38,7 +39,7 @@ Hanji 363 adds an earlier Wudi-era repair case. The episode traces a Huzi breach
 - Earlier still, Heping-period repair shows flood control as a labor-mobilization and reward-allocation problem: named managers are rewarded while ordinary workers receive obligation offsets.
 - Floods leave productive silt, which encourages settlement near water and deepens later exposure.
 - Levees can narrow the river's space and intensify danger when states or communities compete for land.
-- The river's governance problem connects engineering, agriculture, migration, fiscal burden, long-term judgment, mass emergency mobilization, and commemorative construction.
+- The river's governance problem connects engineering, agriculture, migration, fiscal burden, belief, political feedback, long-term judgment, mass emergency mobilization, and commemorative construction.
 
 ## Evidence
 
@@ -51,14 +52,16 @@ Hanji 363 adds an earlier Wudi-era repair case. The episode traces a Huzi breach
 - Levee competition: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Qi, Zhao, and Wei built levees at distances from the river, creating reciprocal flood pressure.
 - Narrowing river space: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says old and new levees increasingly crowded the river channel.
 - Huzi repair and mobilization: [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] says the court mobilizes tens of thousands, requires accompanying officials to carry brushwood, closes the breach, cuts channels, and builds Xuanfang Palace.
+- Huzi initial failure and delay: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Hanji 262 part 1]] says an initial mass closure fails, after which fief interest, heaven's-will advice, and weak upward feedback coexist with prolonged regional exposure.
 
 ## Qualifications
 
-This page reflects five historical-podcast sources, not a complete hydrological or environmental history of the Yellow River. Hanji 363 supports a Wudi-era Huzi repair and political-mobilization case; Hanji 514 supports a repair-and-labor-offset case under Chengdi; Hanji 532 supports an observation-first non-repair case under Chengdi; Hanji 566 supports the technical-talent and lost-channel problem; and Hanji 567 supports the land-use and long-horizon policy synthesis. Specific geography, flood-return timing, old-channel identification, humanitarian cost, labor accounting, diversion-channel effects, and later policy history remain source-scoped.
+This page reflects six historical-podcast sources, not a complete hydrological or environmental history of the Yellow River. Hanji 262 part 1 supports a Wudi-era breach, failed initial closure, political-delay, and feedback case; Hanji 363 supports the later Huzi repair and mobilization; Hanji 514 supports repair and labor-offset accounting under Chengdi; Hanji 532 supports observation-first non-repair under Chengdi; Hanji 566 supports the technical-talent and lost-channel problem; and Hanji 567 supports the land-use and long-horizon synthesis. Specific geography, flood-return timing, old-channel identification, humanitarian cost, labor totals, political causation, diversion effects, and later policy history remain source-scoped.
 
 ## What Changed
 
 - Added Hanji 363's Huzi breach closure, mass labor, diversion channels, and Xuanfang Palace as an earlier Wudi-era repair layer.
+- Added Hanji 262 part 1's initial closure failure and the political, belief, and feedback conditions behind prolonged non-repair.
 
 ## Relationships
 

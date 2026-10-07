@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq.md) — 瓠子决口后首次十万人堵口很快失败，田蚡的封地利益与方士“天意”说又推动长期搁置；十六郡、二十四年、罗马比较和完整治水因果保留来源边界。
 - [Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288.md) — Condensed Huberman Lab interview on adherence-centered strength and conditioning, target-muscle control, recovery signals, stretching timing, shoulder and grip mechanics, and sustainable nutrition.
 - [096 【锐评春节档】《镖人》电影与原著全方位对比](sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d.md) — 纸醉金迷FM比较《镖人》漫画与《镖人：风起大漠》，肯定传统武侠动作设计，同时区分有效重写与损害政治因果、群像厚度及情绪铺垫的压缩。
 - [306-词典有什么用？](sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso.md) — 独树不成林以词典史讨论描述与规范、语言政治、纸质编辑约束，以及国家意识形态和市场压力下的公共品治理。

@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy
   - zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5
   - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7
+  - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq
 last_updated: 2026-10-08
 ---
 
@@ -20,7 +21,7 @@ last_updated: 2026-10-08
 
 The episode's durable claim is not that every delayed repair is corrupt. The narrower pattern is priority inversion: a public disaster is tolerated because the distribution of harm protects the ruler's private sacred interest. Disaster governance then becomes a legitimacy problem, not only an engineering problem.
 
-[[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] supply an earlier Western Han variant. They say [[TianFenWesternHan|田蚡]] opposed timely repair of the Huzi breach because southward flooding protected or benefited his fief north of the Yellow River. Hanji 262 interprets the appeal to heaven's will as political cover; the later 109 BCE mobilization under [[HanWudi|汉武帝]] then makes the cost of earlier non-repair visible, although neither source reconstructs the full technical and fiscal debate behind the delay.
+Both Hanji 262 installments and Hanji 363 supply an earlier Western Han variant. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Part 1]] says an initial mass closure attempt fails before [[TianFenWesternHan|田蚡]] argues against renewed repair because southward flooding protects or benefits his fief north of the Yellow River; fangshi reinforce his appeal to heaven's will, and prolonged popular harm does not reach the ruler through an effective corrective channel. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Part 2]] sharpens the private-interest interpretation, while [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] supplies the later 109 BCE mobilization under [[HanWudi|汉武帝]]. Together they distinguish an initial engineering failure from the political choice not to persist, without reconstructing the full technical and fiscal debate.
 
 ## Key Claims
 
@@ -36,16 +37,17 @@ The episode's durable claim is not that every delayed repair is corrupt. The nar
 - Flood setting: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says locust disaster and Yellow River breach affect commanderies around Wei and east of Qinghe.
 - Private-interest calculation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang first worries the breach might flood Wang-family ancestral graves at Yuancheng.
 - Non-repair decision: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang relaxes once the water goes east and decides not to plug the breach because repair might send water west.
-- Earlier ministerial variant: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] attribute delayed Huzi repair partly to Tian Fen's concern that closing the breach would remove protection or benefit from his fief.
+- Earlier ministerial variant: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Hanji 262 part 1]], [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|part 2]], and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] attribute delayed Huzi repair partly to Tian Fen's concern that closing the breach would remove protection or benefit from his fief; part 1 separates the failed first closure from the later refusal to persist.
 
 ## Counterevidence & Qualifications
 
-None of the three source notes quantifies repair feasibility, engineering constraints, or the full hydrology of its breach. Hanji 262 and Hanji 363 also compress the earlier Tian Fen debate into a causal judgment without presenting competing advice. The concept therefore preserves the shared political pattern while leaving exact flood-control counterfactuals source-scoped.
+None of the four source notes establishes repair feasibility, engineering constraints, or the full hydrology of its breach. Hanji 262 part 1 records an initial closure failure, so private-interest neglect should describe the later refusal to persist rather than imply that political will guaranteed immediate technical success. The three Huzi notes also compress Tian Fen's role, fangshi advice, imperial belief, and weak feedback into a causal judgment without presenting the whole court debate. The concept therefore preserves the shared political pattern while leaving exact flood-control counterfactuals source-scoped.
 
 ## What Changed
 
 - Added Tian Fen's alleged fief-driven opposition to Huzi repair as an earlier ministerial variant.
 - Added a second episode's reinforcement of the Tian Fen pattern and qualified its “heaven's will” interpretation.
+- Distinguished the initial engineering failure from the later political choice not to persist, and added fangshi reinforcement plus weak upward feedback as enabling conditions.
 
 ## Related Concepts
 

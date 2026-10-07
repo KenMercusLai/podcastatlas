@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y
   - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu
+  - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq
 last_updated: 2026-10-08
 ---
 
@@ -30,7 +31,7 @@ After Wudi's accession, Tian Fen combines his sister [[EmpressDowagerWangWestern
 
 [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] has Tian Fen escalate again, portraying the Dou Ying-Guan Fu guest network and palace commentary as a regime-security problem. [[HanAnguoWesternHan|韩安国]] later criticizes his manner, arguing that a chancellor should resign and rely on imperial restoration rather than trade abuse in court. [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Part 2]] says Wang's backing helps Tian Fen prevail and alleges that he destroys the palace copy of Dou Ying's exculpatory edict. Once both rivals are dead, the program interprets Tian Fen's concentrated power as a boundary Wudi cannot accept.
 
-The public-interest branch reinforces the risk of concentrated private advantage. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] say Tian Fen advised against timely repair of the 132 BCE Huzi breach because southward flooding protected or benefited his fief north of the Yellow River, leaving the Liang-Chu region exposed until the 109 BCE mass repair. Hanji 262 also calls him an ambitious but replaceable political operator for Wang whose retainer network supplied ideas; this sharpens the household-power critique but remains a source judgment rather than a complete measure of ability.
+The public-interest branch reinforces the risk of concentrated private advantage. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Hanji 262 part 1]], [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|part 2]], and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] say Tian Fen advised against renewed repair of the 132 BCE Huzi breach because southward flooding protected or benefited his fief north of the Yellow River. Part 1 adds the failed initial mass repair, Tian Fen's heaven's-will rationale, fangshi reinforcement, and prolonged exposure of downstream commanderies; Part 2 calls him an ambitious but replaceable political operator for Wang whose retainer network supplied ideas. Together they sharpen the household-power critique without establishing the full hydraulic debate, Tian Fen's sole responsibility, or a complete measure of his ability.
 
 ## Key Characteristics
 
@@ -50,19 +51,19 @@ The public-interest branch reinforces the risk of concentrated private advantage
 - Ritual and legal power: [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] contrasts wedding deference, then records detention, grave-disrespect framing, and a wider investigation.
 - Security escalation and role criticism: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] records Tian Fen's security accusation and Han Anguo's advice to return authority rather than continue mutual abuse.
 - Kin-backed victory and exposure: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265 part 2]] links Wang's support, Dou Ying's destruction, the alleged edict-copy removal, and Tian Fen's post-victory danger.
-- Private-interest non-repair: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] and [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] attribute delayed Huzi intervention partly to the benefit the flood pattern gave Tian Fen's fief.
+- Private-interest non-repair: both [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq|Hanji 262 part 1]] and [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|part 2]], together with [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]], attribute delayed Huzi intervention partly to the benefit the flood pattern gave Tian Fen's fief; part 1 adds his heaven's-will rationale and fangshi support.
 - Wang-family operating role: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] portrays Tian Fen's ambition and retainer-backed advice as the reason he, rather than the less politically interested Tian Sheng, served Wang's court interests.
 
 ## Qualifications
 
-The profile rests on seven compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's private motive, actual competence, complete appointment process, retainer membership or outputs, the precise Confucian-policy dispute, the legal merits of the Guan Fu case, the truth of the security accusation, the symmetry of the kin factions, the feasibility of earlier flood repair, or Tian Fen's cause of death. Extreme deference and later benefit do not independently prove insincerity; kinship, learned network knowledge, and political skill may be complementary explanations. “Replaceable tool,” lack of achievement, the land request, guest conduct, archival destruction, ghostly revenge, and imperial killing remain source-attributed or speculative.
+The profile rests on eight compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's private motive, actual competence, complete appointment process, retainer membership or outputs, the precise Confucian-policy dispute, the legal merits of the Guan Fu case, the truth of the security accusation, the symmetry of the kin factions, the feasibility of renewed flood repair after the initial failure, or Tian Fen's cause of death. Extreme deference and later benefit do not independently prove insincerity; kinship, learned network knowledge, and political skill may be complementary explanations. “Replaceable tool,” lack of achievement, the land request, guest conduct, archival destruction, heaven's-will opportunism, ghostly revenge, and imperial killing remain source-attributed or speculative.
 
 ## What Changed
 
 - Added Tian Fen's early dependence on Dou Ying and indirect access to Dowager Dou, converting the later rivalry into a documented power reversal.
 - Added kinship plus network familiarity as a joint appointment explanation.
 - Added retainer recruitment as information, advisory, and execution capacity after sudden promotion.
-- Added Hanji 262's independent reinforcement of the fief-interest account and its qualified Wang-family operator interpretation.
+- Added both Hanji 262 installments' reinforcement of the fief-interest account, including the failed initial repair, heaven's-will rationale, fangshi support, and qualified Wang-family operator interpretation.
 - Added the policy purge, unequal protection, Wang-backed recovery, failed visit, and land dispute that bridge early dependence to later coercive rivalry.
 
 ## Relationships
