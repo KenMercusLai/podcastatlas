@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）](sources/zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d.md) — 汲黯以宗庙礼乐的公共目的批评汉武帝马歌，公孙弘则被描述为借帝王不悦推动入罪与外放；主父偃处死和公孙弘善终部分与后期节目重合，隐蔽报复及生存因果保留来源边界。
 - [《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？](sources/zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc.md) — 卫青由骑奴和宫中近侍进入汉武帝新建骑兵体系，并在外戚任将争议中获得首次统兵机会；四路出击、草原搜索与龙城发现保留为战前层，战斗结果尚未进入本期。
 - [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo.md) — 标题指向卫青，正文核心却是韩安国误信俘虏、过早撤军、被调右北平并失势的过程；以文景式稳健与武帝朝进取的错位解释其退场，同时保留具体战事和时代因果的来源边界。
 - [《资治通鉴·汉纪》276｜“霸陵呵夜”，将军李广为何被小兵欺凌](sources/zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx.md) — 李广失势时因夜禁被霸陵尉拦留，复任右北平太守后却将其召至军中诛杀；节目据此以公报私仇限定英雄叙事，并补入卫青雁门出击、濊貊归附成本与削藩问题的过渡层。

@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi
   - zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl
   - zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -26,7 +27,7 @@ The long-career route appears through [[ChangLinLateHan|常林]]. He rejects Yua
 
 The useful-frankness route appears through [[JiAnWesternHan|汲黯]] in [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]]. Ji does not survive by becoming silent: he asks to remain close enough to correct [[HanWudi|汉武帝]], warns [[LiXiWesternHan|李息]] about [[ZhangTangWesternHan|张汤]], and then governs Huaiyang through a reputation for cleanliness and competence. The episode's “善终” rests on dying in office without political destruction, retaining imperial regard, and leaving family standing intact.
 
-The adaptive-high-office route appears through [[GongsunHong|公孙弘]] in [[zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh|Hanji 289-1]]. The episode emphasizes his poor origin, late ascent, chancellor-and-marquis appointment, and natural death in office against the adverse outcomes assigned to most Wudi-era chancellors. Unlike the other routes, it supplies the endpoint more clearly than the mechanism. Gongsun Hong's tactful policy narrowing in Hanji 925 makes adaptation plausible, but the wiki does not infer that one skill fully caused his survival. Across the five routes, a good political end concerns affiliation, service, restraint, usefulness, adaptation, and withdrawal—not longevity or low visibility alone.
+The adaptive-high-office route appears through [[GongsunHong|公孙弘]] in [[zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh|Hanji 289-1]]. That episode emphasizes his poor origin, late ascent, chancellor-and-marquis appointment, and natural death in office against the adverse outcomes assigned to most Wudi-era chancellors. [[zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d|Hanji 273]] supplies a retrospective mechanism claim: he yields when Wudi's preference is clear, reads moments of displeasure, and acts through timing rather than continual frontal conflict. This makes adaptation more concrete but also morally ambivalent because the same source ties it to proposed punishment and rival displacement. Across the five routes, a good political end concerns affiliation, service, restraint, usefulness, adaptation, and withdrawal—not longevity, harmlessness, or low visibility alone.
 
 ## Key Claims
 
@@ -36,7 +37,7 @@ The adaptive-high-office route appears through [[GongsunHong|公孙弘]] in [[zi
 - Restored rank and final honors are ambiguous when they increase danger or exceed bodily and political capacity.
 - Clean administration and continuing public usefulness can preserve reputation, but the sources do not prove that virtue alone guarantees safety.
 - Timely withdrawal or nonparticipation reduces exposure when court or regime conflict becomes existential.
-- Remaining in dangerous high office can still end well, but a favorable endpoint does not by itself identify the survival mechanism.
+- Remaining in dangerous high office can still end well, but a favorable endpoint neither proves one survival mechanism nor turns politically effective adaptation into ethical merit.
 
 ## Evidence
 
@@ -47,15 +48,17 @@ The adaptive-high-office route appears through [[GongsunHong|公孙弘]] in [[zi
 - Clean service and later nonparticipation: [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]] connects Chang Lin's administrative reputation and distance from the 249 CE struggle to longevity and a good end.
 - Frank service and retained usefulness: [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Ji An remains direct, stabilizes Huaiyang through reputation, dies in office, and is remembered favorably by Wudi.
 - Adaptive high office: [[zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh|Hanji 289-1]] contrasts Gongsun Hong's natural death as chancellor with multiple adverse Wudi-era outcomes but stops before explaining his complete survival method.
+- Timing and ruler-fit interpretation: [[zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d|Hanji 273]] attributes Gongsun Hong's survival to yielding, timing, and sensitivity to imperial preference while also presenting punitive action against rivals.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in five podcast episodes and their host interpretations, not a complete ancient Chinese ethics theory of death. Fu Xi and Ping Dang support specific patterns of nonalignment and refusal. Chang Lin adds delayed entry and clean service, but many of that episode's biographical details lack direct citations, and the title's Sima Yi kneeling claim is not narrated. Ji An adds frank service and retained usefulness, but the exact office sequence, seven-year interval, family promotions, and causal claim that virtue protects descendants remain source-scoped. Gongsun Hong adds rare natural death in the chancellorship, but Hanji 289-1 does not establish that tact, competence, compliance, timing, or luck was decisive; its broader count and outcome list are also not independently reconstructed. These cases do not show that caution, integrity, usefulness, adaptation, or ruler regard always prevents political violence, nor that all survival choices are morally admirable.
+The concept is grounded in six podcast episodes and their host interpretations, not a complete ancient Chinese ethics theory of death. Fu Xi and Ping Dang support specific patterns of nonalignment and refusal. Chang Lin adds delayed entry and clean service, but many of that episode's biographical details lack direct citations, and the title's Sima Yi kneeling claim is not narrated. Ji An adds frank service and retained usefulness, but the exact office sequence, seven-year interval, family promotions, and causal claim that virtue protects descendants remain source-scoped. Gongsun Hong adds rare natural death in the chancellorship; Hanji 273 makes tact, compliance, and timing more explicit than Hanji 289-1, but it still cannot separate those factors from competence, imperial favor, historical circumstance, or luck, and its age, chronology, motive, and punishment accounts remain source-scoped. These cases do not show that caution, integrity, usefulness, adaptation, or ruler regard always prevents political violence, nor that all survival choices are morally admirable.
 
 ## What Changed
 
-- Added Gongsun Hong's adaptive-high-office route as a rare natural death within the Wudi-era chancellorship.
-- Separated the favorable endpoint from its uncertain cause instead of treating survival as proof of one technique.
+- Added Hanji 273's more explicit account of yielding, timing, and ruler sensitivity to Gongsun Hong's adaptive-high-office route.
+- Separated political effectiveness from ethical merit because the same adaptive method is linked to punitive action against rivals.
+- Kept the complete survival mechanism uncertain despite the new source's causal framing.
 
 ## Related Concepts
 

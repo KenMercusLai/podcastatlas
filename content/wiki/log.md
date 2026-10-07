@@ -31716,3 +31716,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（2）
+
+Added source `zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d`; and resynthesized [[JiAnWesternHan|汲黯]], [[GongsunHong|公孙弘]], [[AppointmentAsIndirectRetaliation|任命式间接报复]], and [[GoodDeathPoliticalSurvival|乱局善终]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 汲黯把宗庙礼乐重新约束于承祖与教化，公孙弘则被本期描述为借汉武帝不悦把直谏转译为“诽谤圣制”、在惩罚建议失败后继续等待外放机会；这使公开承认批评、延迟反击、任命排挤与适应型善终成为同一政治手腕的不同面向。No settled contradiction was adopted. 汲黯的淮阳任命同时存在排挤解释与地方声望治理解释；主父偃案中汉武帝原拟免官还是释放的细节不同但都保留最初非死刑处理；两次马歌、罪名、灭族建议、隐蔽动机、任命目的、年龄、年代与完整善终因果均保留来源边界。Broad [[HanWudi|汉武帝]], [[ZhuFuYan|主父偃]], [[WeiQingHanGeneral|卫青]], and ritual/fiscal context pages were read for context but not reopened because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
   - zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr
   - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -43,12 +44,14 @@ Hanji 285 adds a fatal intervention against [[ZhuFuYan|主父偃]]. After Wudi i
 
 Hanji 281 adds a second fatal prosecution argument, this time against [[GuoJieWesternHan|郭解]]. Officials reportedly find that Guo did not know which follower killed a student who criticized him, but Gongsun Hong argues that a commoner's prestige causing followers to kill over small grievances is worse than direct violence. The episode makes that reasoning decisive for clan punishment. Together with the Zhufu Yan case, it shows Gongsun converting indirect political consequence and public-order legitimacy into punishment arguments, while leaving the exact legal doctrine, evidence, and proportionality source-scoped.
 
+The unsuccessful edge of that method appears after Ji An criticizes Wudi's horse song as an improper use of ancestral ritual. The episode says Gongsun reads the emperor's displeasure, calls the speech “诽谤圣制,” and recommends clan punishment; Wudi rejects the proposal. It also attributes Ji's later Huaiyang appointment partly to Gongsun and repeats the fatal Zhufu Yan intervention. This supports a pattern of converting personal or policy conflict into institutional action, but it does not prove that every placement or prosecution was privately motivated revenge. [[zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d|Hanji 273]]
+
 ## Key Characteristics
 
 - Tactful resource-priority adviser who can revise a defeated position and preserve one frontier priority by dropping others.
 - Survival-aware court actor who protects access and influence through calibrated speech.
 - Fallible policy advocate whose bow ban is challenged on enforcement, substitution, ritual, and self-defense grounds.
-- Politically ambivalent court actor who can use appointment, indirect consequence, or public-legitimacy argument as an exposure, displacement, or punishment mechanism.
+- Politically ambivalent court actor who can use appointment, indirect consequence, imperial-institution language, or public-legitimacy argument as an exposure, displacement, or punishment mechanism, though not every proposal succeeds.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
 - Absorbs public criticism through concession and praise of the critic, while the sincerity of both austerity and humility remains unresolved.
 - Combines nonelite mobility and late advancement with a rare natural death in the Wudi-era chancellorship.
@@ -81,15 +84,18 @@ Fatal prosecution argument:
 Policy revision and criticism absorption:
 - [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-2-lrgdpir3ez-hk_eptcq8q3-pzozr|Hanji 286 part 2]] says Gongsun yields after Zhu's Shuofang argument, redirects retrenchment toward Canghai and the southwest, then answers Ji An's hypocrisy charge by conceding and praising Ji's candor.
 
+Delayed counteraction and an unsuccessful punishment proposal:
+- [[zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-2-lg5ktrwoi1xsx9xqlucin_dvv35d|Hanji 273]] says Gongsun waits for imperial displeasure before calling Ji's ritual criticism “诽谤圣制,” proposes clan punishment that Wudi rejects, and later uses a Huaiyang opening to reduce Ji's central presence.
+
 ## Qualifications
 
-All ten sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
+All eleven sources are popular-history interpretations. Hanji 925 and Hanji 286 part 2 do not reconstruct the full debate over Xiongnu, Shuofang, Canghai, or southwest development, while Hanji 367-1 and Hanji 289-2 do not independently establish every motive behind Gongsun Hong's recommendations. Rivalry and attempted removal are episode-level readings; the page does not infer a failed murder plan from appointment alone. Hanji 323-1 and 323-2 preserve rejection of Bu Shi's proposal more securely than any single explanation for it. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success. Hanji 289-1 supports the broad poor-origin, appointment, and death-in-office arc more securely than its precise anecdotes. Hanji 286 part 2 does not resolve whether his austerity or humility was sincere. Hanji 273 adds a proposed punishment, not an imposed one; it does not establish the governing offense, legal possibility of clan punishment, Wudi's inner reaction, Gongsun's hidden motive, or whether Ji's Huaiyang appointment was retaliation rather than a mixed-purpose personnel decision. Its statement that Wudi first intended only to remove Zhufu Yan from office differs in detail from Hanji 285's contemplated release, though both preserve initial noncapital leniency. Hanji 285 and 281 preserve two fatal arguments but do not independently establish their exact wording, complete legal cases, evidentiary standards, proportionality, or sole causal effect on Wudi's decisions. Natural death is an outcome; the survival explanation remains plausible within the sources rather than a demonstrated complete cause.
 
 ## What Changed
 
-- Added policy revision after the Shuofang debate: concede the lost point, then concentrate retrenchment elsewhere.
-- Added the Ji An exchange as criticism absorption through concession and praise without resolving sincerity.
-- Added the Guo Jie argument, extending Gongsun Hong's punishment logic from territorial-political consequence to follower violence generated by private prestige.
+- Added the episode-attributed attempt to convert Ji An's ritual criticism into an offense against imperial institutions, while preserving Wudi's rejection.
+- Joined public criticism absorption to possible delayed counteraction without treating concealed revenge as proved motive.
+- Added the Huaiyang appointment as a contested displacement case and retained genuine local-governance need as a live alternative.
 
 ## Relationships
 
