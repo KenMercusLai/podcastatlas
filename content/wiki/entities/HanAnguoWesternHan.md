@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm
   - zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr
+  - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-韩安国 / Han Anguo is presented as a Western Han official whose career joins qualified court judgment, high-skill mediation, restraint after a famous reversal of fortune, a missed chancellorship, and a late frontier intelligence failure. His durable profile is morally and operationally mixed: he can hold competing evidence together, interpret family, legal, and sovereign interests, and distinguish official dignity from personal retaliation, yet he is also described as money-seeking, opposed to [[HanWudi|汉武帝]]'s war policy, and unable to transfer all political strengths into frontier readiness.
+韩安国 / Han Anguo is presented as a Western Han official whose career joins qualified court judgment, high-skill mediation, restraint after a famous reversal of fortune, a missed chancellorship, serious logistics reasoning, and a late frontier intelligence failure. His durable profile is morally and operationally mixed: he can hold competing evidence together, interpret family, legal, sovereign, and military constraints, and distinguish dissent from refusal to serve, yet he is also described as money-seeking and unable to transfer all political strengths into frontier readiness.
 
 ## Current Profile
 
@@ -29,6 +30,10 @@ The same episode separates adjudication from ministerial conduct. After [[TianFe
 
 Hanji 266 part 2 further sharpens Han's mixed character. It calls him broad-minded, practical, and able to recommend people more upright than himself, while retaining the charge that he seeks money. After Tian Fen's death, Han reportedly becomes acting chancellor but breaks a leg in a riding fall before the permanent appointment; [[XueZeWesternHan|薛泽]] is selected instead. This is contingency rather than a simple verdict on merit.
 
+[[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] supplies the substance of the earlier anti-war position only summarized in part 2. Han argues that sound military action waits for enemy hunger, disorder, or fatigue and warns that a deep advance can move too quickly for supply or too slowly for opportunity, leaving soldiers and horses exhausted. [[WangHuiWesternHan|王恢]] answers by proposing the [[MayiAmbushWesternHan|马邑之谋]], a border lure intended to avoid long pursuit.
+
+Wudi chooses Wang's plan but reportedly places Han Anguo over the mobilized force. The appointment makes strategic disagreement compatible with senior command and gives the cautious argument an operational role after the policy decision. The episode interprets this as a check on aggressive commanders and reassurance to the peace faction, though that motive remains source-scoped.
+
 [[zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo|Hanji 275]] preserves the later and less successful side. It characterizes Han as calm, shrewd, politically flexible, and able to balance competing forces, while also describing him as money-seeking and willing to cultivate powerful people. A captured Xiongnu soldier reportedly tells him that the opposing force has withdrawn; Han accepts the report, releases soldiers for agricultural work, and is left with a small remnant when the [[Xiongnu|匈奴]] return.
 
 Part 2 says Han opposes offensive war against the Xiongnu even though Wudi continues to give him military responsibility, separating policy agreement from perceived ability. Wudi's later transfer of Han to [[YoubeipingCommandery|右北平]], alongside [[WeiQingHanGeneral|卫青]]'s rise, makes the subsequent operational failure political. Hanji 275 treats his final illness and death as the joint result of error, marginalization, and [[PoliticalMilitaryEraFit|political-military era mismatch]]. Across the sources, the cautious conclusion is that mediation talent, restraint, and past service are real but domain-specific: they do not erase personal flaws, contingency, the need for intelligence checks, or adaptation to a changed strategic order.
@@ -41,7 +46,7 @@ Part 2 says Han opposes offensive war against the Xiongnu even though Wudi conti
 - Morally mixed political actor portrayed as fair, broad-minded, practical, and able to recognize upright talent, but also money-seeking and willing to cultivate powerful patrons.
 - Politically restrained actor who recommends role-preserving resignation to Tian Fen and later declines personal revenge against Tian Jia.
 - Frontier commander whose acceptance of a captive's report leads to premature demobilization and renewed Xiongnu exposure.
-- Opponent of Wudi's anti-Xiongnu policy who nevertheless retains military trust before later failure and displacement.
+- Strategic dissenter whose supply and fatigue objections remain operationally relevant when Wudi places him over the Mayi force, before later failure and displacement.
 
 ## Evidence
 
@@ -63,18 +68,21 @@ Political ability and mixed character:
 Missed chancellorship and continuing trust:
 - [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] says a riding injury blocks Han's permanent appointment, Xue Ze replaces him, and Wudi later entrusts Han with command despite disagreement over Xiongnu war.
 
+Frontier policy reasoning and dissenting command:
+- [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] grounds Han's objection in timing, supply, distance, and force exhaustion, then says Wudi appoints him senior commander after accepting Wang Hui's border-ambush proposal.
+
 Frontier intelligence failure and displacement:
 - [[zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo|Hanji 275]] says he accepts a Xiongnu captive's report, disperses troops for farming, cannot prevent the renewed raid, and is transferred to Youbeiping while Wei Qing rises.
 
 ## Qualifications
 
-These four short podcast summaries do not form a complete biography. Hanji 265 part 1 does not establish the truth of the allegations against Guan Fu, the precise legal standard, whether Han's balanced answer reflected principle, caution, or both, or the exact private exchange with Tian Fen. Hanji 266's exact prison dialogue, first-use attribution for the idiom, restoration process, threat to Tian Jia's family, pardon motive, audience sequence, speeches, rewards, character judgments, injury, office sequence, and policy disagreement require comparison with the transmitted records. The claim that Liu Wu lacked dangerous ambition is persuasive reframing inside the story, not independently established intent; the claim that disability disqualified Han from the chancellorship is the host's explanation rather than a verified appointment rule. Hanji 275's deception, demobilization mechanics, roughly seven-hundred-man remnant, losses, emotions, reassignment purpose, illness, death timing, and Sima Qian characterization remain episode-attributed. “Being discarded by the era” is an interpretive frame, not proof that cautious administration or political balancing became useless throughout Wudi's reign.
+These five short podcast summaries do not form a complete biography. Hanji 265 part 1 does not establish the truth of the allegations against Guan Fu, the precise legal standard, whether Han's balanced answer reflected principle, caution, or both, or the exact private exchange with Tian Fen. Hanji 266's exact prison dialogue, first-use attribution for the idiom, restoration process, threat to Tian Jia's family, pardon motive, audience sequence, speeches, rewards, character judgments, injury, office sequence, and policy disagreement require comparison with transmitted records. The claim that Liu Wu lacked dangerous ambition is persuasive reframing inside the story, not independently established intent; the claim that disability disqualified Han from the chancellorship is the host's explanation rather than a verified appointment rule. Hanji 260 does not establish exact speeches, force totals, command rank, faction-balancing motive, or the Mayi operation's outcome. Hanji 275's deception, demobilization mechanics, roughly seven-hundred-man remnant, losses, emotions, reassignment purpose, illness, death timing, and Sima Qian characterization remain episode-attributed. “Being discarded by the era” is an interpretive frame, not proof that cautious administration or political balancing became useless throughout Wudi's reign.
 
 ## What Changed
 
-- Grounded Han's reputation for fairness in a specific judgment that preserves both Guan Fu's merit and the adverse allegations against him.
-- Added his advice that Tian Fen protect chancellorial dignity through resignation and restoration rather than mutual public abuse.
-- Extended the profile's recurring method: reduce escalation and preserve institutional roles without declaring every disputed fact resolved.
+- Grounded Han's opposition to the Mayi operation in logistics, timing, distance, and force-condition analysis rather than temperament alone.
+- Added Wudi's reported decision to place a strategic dissenter over the force after choosing the opposing policy.
+- Qualified the later era-mismatch story by showing that caution remained institutionally useful inside the aggressive turn.
 
 ## Relationships
 
@@ -85,5 +93,7 @@ These four short podcast summaries do not form a complete biography. Hanji 265 p
 - [[HanWudi]] - ruler whose frontier priorities and reassignment decision define Han's final political environment.
 - [[WeiQingHanGeneral]] - rising commander used as the military-merit contrast to Han's decline.
 - [[PoliticalMilitaryEraFit]] - framework separating durable capability from fit with current objectives and risk tolerance.
+- [[WangHuiWesternHan|王恢]] - war advocate whose border-ambush answer responds directly to Han's logistics objections.
+- [[MayiAmbushWesternHan|马邑之谋]] - operation in which Han's dissent and senior command coexist.
 - [[TianJiaJailerWesternHan|田甲]] - jailer whose earlier abuse and later fear complete Han's reversal-of-fortune anecdote.
 - [[XueZeWesternHan|薛泽]] - official appointed chancellor after Han's riding injury.

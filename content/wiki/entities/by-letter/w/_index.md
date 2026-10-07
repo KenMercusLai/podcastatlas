@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12656
+wiki_total_pages: 12659
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "WangZhongShuleKing"
     title: "王忠 / Wang Zhong (Shule king)"
     url: "/wiki/entities/wangzhongshuleking/"
+  - key: "WangHuiWesternHan"
+    title: "王恢 / Wang Hui (Western Han)"
+    url: "/wiki/entities/wanghuiwesternhan/"
   - key: "WangKaiTeaWriter"
     title: "王恺 / Wang Kai (tea writer)"
     url: "/wiki/entities/wangkaiteawriter/"

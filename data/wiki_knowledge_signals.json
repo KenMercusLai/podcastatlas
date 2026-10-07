@@ -100265,9 +100265,9 @@
       "url": "/wiki/entities/hanaidi/"
     },
     "HanAnguoWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2） [lpN6t8p8d0IuMsD7gabohtevXxQO].md",
@@ -100296,6 +100296,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
         }
       ],
       "updated": "2026-10-08",
@@ -128555,9 +128562,9 @@
       "url": "/wiki/entities/junbuyiwesternhan/"
     },
     "JunchanChanyu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（1） [lqVmfMtDhGtPriGWRI3IvPSf3hYb].md",
@@ -128572,9 +128579,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》287｜张骞出使西域，回国之路有多艰险？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/junchanchanyu/"
     },
     "JungianSelfAndEgo": {
@@ -153535,6 +153549,66 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/mayerlingincident/"
     },
+    "Mayi": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2） [lqk_JIFuPM9lBGHfzAF09IGfufGB].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1） [lnZzVPIeQtgaTMVGogZ3MSyHS60u].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/mayi/"
+    },
+    "MayiAmbushWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/mayiambushwesternhan/"
+    },
     "MayoClinic": {
       "episode_count": 2,
       "show_count": 1,
@@ -166343,6 +166417,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/nietengfei/"
+    },
+    "NieWengyiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/niewengyiwesternhan/"
     },
     "NielsBohr": {
       "episode_count": 2,
@@ -182177,9 +182267,9 @@
       "url": "/wiki/concepts/politicalmartyremulation/"
     },
     "PoliticalMilitaryEraFit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2） [lpN6t8p8d0IuMsD7gabohtevXxQO].md",
@@ -182194,6 +182284,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》266｜“死灰复燃”与一泡尿的故事（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
         }
       ],
       "updated": "2026-10-08",
@@ -239715,6 +239812,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/wanghuanlatehan/"
+    },
+    "WangHuiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战 [luji7saRjbC2y4l8LjSniLld8xjb].md",
+          "key": "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/wanghuiwesternhan/"
     },
     "WangHuiyingAllergyDoctor": {
       "episode_count": 1,

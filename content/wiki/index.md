@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战](sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb.md) — 王恢以边境诱歼回应韩安国的远征后勤异议，聂翁壹用假投降与首级示信引军臣单于趋向马邑；本期止于入伏前，战果、失败原因与责任均未建立。
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（1）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq.md) — 瓠子决口后首次十万人堵口很快失败，田蚡的封地利益与方士“天意”说又推动长期搁置；十六郡、二十四年、罗马比较和完整治水因果保留来源边界。
 - [Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim7631643288.md) — Condensed Huberman Lab interview on adherence-centered strength and conditioning, target-muscle control, recovery signals, stretching timing, shoulder and grip mechanics, and sustainable nutrition.
 - [096 【锐评春节档】《镖人》电影与原著全方位对比](sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d.md) — 纸醉金迷FM比较《镖人》漫画与《镖人：风起大漠》，肯定传统武侠动作设计，同时区分有效重写与损害政治因果、群像厚度及情绪铺垫的压缩。
@@ -4067,6 +4068,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
+- [王恢 / Wang Hui (Western Han)](entities/WangHuiWesternHan.md) — 以恢复边境威慑为目标、用诱敌至马邑的有限伏击回应深入远征风险的西汉主战官员。
+- [聂翁壹 / Nie Wengyi (Western Han)](entities/NieWengyiWesternHan.md) — 以本地身份、假投降和首级示信为马邑诱敌计划提供可信内应通道的马邑富人。
+- [马邑之谋 / Mayi Ambush (Western Han)](entities/MayiAmbushWesternHan.md) — 试图把军臣单于诱至马邑边境伏击圈的西汉行动；当前来源只覆盖政策争论、欺敌设计、动员与趋近。
 - [《镖人》 / Biao Ren](entities/BiaoRenComic.md) — Comic joining desert wuxia adventure to Sui politics, ensemble motives, freedom, dignity, and collective agency.
 - [《镖人：风起大漠》 / Blades of the Guardians](entities/BiaoRenFilm2026.md) — Wuxia film whose readable action transfers more successfully than the comic's political and ensemble density.
 - [袁和平 / Yuen Woo-ping](entities/YuenWooPing.md) — Director bounded here through the action craft of 《镖人：风起大漠》.

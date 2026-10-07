@@ -6,6 +6,7 @@ tags: [statecraft, military, leadership, role-fit, institutional-change]
 sources:
   - zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm
+  - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
 last_updated: 2026-10-08
 ---
 
@@ -15,7 +16,9 @@ last_updated: 2026-10-08
 
 ## Current Synthesis
 
-The [[HanAnguoWesternHan|韩安国]] material makes fit partial, contested, and role-specific rather than binary. He reportedly opposes offensive war against the [[Xiongnu|匈奴]] while still receiving military responsibility from [[HanWudi|汉武帝]], so strategic disagreement does not automatically mean that a ruler sees no domain ability. His movement from acting chancellor toward permanent appointment then ends after a riding injury, with [[XueZeWesternHan|薛泽]] selected instead. The host's disability explanation remains source-scoped, but the case shows how bodily condition, representation norms, timing, and available alternatives can affect an appointment without becoming a clean ranking of merit. [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] supplies both layers.
+The [[HanAnguoWesternHan|韩安国]] material makes fit partial, contested, and role-specific rather than binary. [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] grounds his opposition to offensive war against the [[Xiongnu|匈奴]] in supply, timing, distance, and force fatigue rather than mere generational caution. After [[HanWudi|汉武帝]] accepts [[WangHuiWesternHan|王恢]]'s [[MayiAmbushWesternHan|Mayi border-ambush]] answer, he reportedly places Han over the force. Strategic disagreement therefore does not automatically erase trust, and the losing argument can remain useful as an execution constraint inside the chosen policy.
+
+[[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] supplies the summarized disagreement and a separate appointment contingency. Han's movement from acting chancellor toward permanent appointment ends after a riding injury, with [[XueZeWesternHan|薛泽]] selected instead. The host's disability explanation remains source-scoped, but the case shows how bodily condition, representation norms, timing, and available alternatives can affect an appointment without becoming a clean ranking of merit.
 
 The later decline adds a changing incentive environment and a concrete failure. Han's steadiness, calculation, flexibility, and interest balancing are associated with the conservative and restorative style of the Wen-Jing period, then contrasted with Wudi's higher valuation of frontier initiative, sustained readiness, and visible military results. [[WeiQingHanGeneral|卫青]] represents the rising merit profile in [[zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo|Hanji 275]].
 
@@ -27,7 +30,7 @@ The concept does not turn generational change into destiny. Han Anguo's decline 
 - A change in ruler or strategy can reprice traits such as caution, balance, aggression, readiness, and visible military merit.
 - Era mismatch should not become a total explanation when a concrete judgment or execution failure better explains the immediate loss.
 - New political demand can favor a different talent profile without proving that the older profile was always incompetent or is now useless everywhere.
-- Policy disagreement can coexist with continued trust when a ruler still values the official's domain capability.
+- Policy disagreement can coexist with continued trust, and the losing argument can still shape command design when its risk analysis remains operationally relevant.
 - Appointment and advancement can turn on contingency, bodily condition, role symbolism, and available alternatives as well as merit.
 - Adaptation still requires basic safeguards such as intelligence verification and force readiness.
 
@@ -38,6 +41,7 @@ Changing value of strengths:
 
 Disagreement without complete loss of trust:
 - [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] says Han opposes war against the Xiongnu but Wudi still gives him military responsibility.
+- [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] details the operational objection and says Han receives senior command after Wudi accepts Wang Hui's competing proposal.
 
 Contingent appointment outcome:
 - [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] says Han's riding injury blocks his permanent elevation and makes Xue Ze the chancellor.
@@ -50,13 +54,13 @@ Institutional consequence:
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on two short episodes about one official rather than a representative comparison of Wen-Jing and Wudi officeholders. The sources do not prove that caution was generally maladaptive or separate every effect of age, faction, kinship, bodily condition, military experience, prior reputation, imperial preference, and role symbolism. The claim that a broken leg disqualified Han from the chancellorship is the host's interpretation, while continuing command despite policy disagreement does not establish the scope of Wudi's trust. Han's intelligence and demobilization failure is sufficient to explain immediate punishment without assuming a complete historical rupture. The framework should therefore be used to ask how conditions and pathways changed, not to declare that people have fixed generational essences or that newness automatically equals fitness.
+This concept currently rests on three short episodes about one official rather than a representative comparison of Wen-Jing and Wudi officeholders. The sources do not prove that caution was generally maladaptive or separate every effect of age, faction, kinship, bodily condition, military experience, prior reputation, imperial preference, and role symbolism. The claim that a broken leg disqualified Han from the chancellorship is the host's interpretation, while continuing command despite policy disagreement does not establish the scope of Wudi's trust. Hanji 260's senior-command and faction-balancing account, exact force structure, and operational outcome remain source-scoped. Han's later intelligence and demobilization failure is sufficient to explain immediate punishment without assuming a complete historical rupture. The framework should therefore be used to ask how conditions and pathways changed, not to declare that people have fixed generational essences or that newness automatically equals fitness.
 
 ## What Changed
 
-- Added policy disagreement with continued military trust, making fit partial rather than binary.
-- Added injury and lost appointment as a contingent pathway distinct from a pure merit ranking.
-- Preserved intelligence verification and readiness failure as the concrete limit on broad era explanations.
+- Grounded Han Anguo's dissent in logistics and force-condition analysis.
+- Added the losing argument's continued value through his reported senior command at Mayi.
+- Qualified binary era mismatch by separating strategic choice, execution constraint, and later personal failure.
 
 ## Related Concepts
 
@@ -66,3 +70,4 @@ This concept currently rests on two short episodes about one official rather tha
 - [[TalentVirtueDistinction|才德之分]] - separates ability, character, and role fitness instead of treating them as one judgment.
 - [[HanAnguoWesternHan]] - principal case showing a capable but morally mixed official facing both concrete failure and changing institutional demand.
 - [[XueZeWesternHan]] - alternative appointee showing how contingency and available personnel redirect an office path.
+- [[MayiAmbushWesternHan|马邑之谋]] - case in which aggressive policy adoption still incorporates cautious command.

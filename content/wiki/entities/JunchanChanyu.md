@@ -6,14 +6,17 @@ tags: [person, ruler, xiongnu, western-han, diplomacy, captivity]
 sources:
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb
   - zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-军臣单于 / Junchan Chanyu is the Xiongnu ruler who receives the captured [[ZhangQianWesternHan|张骞]] mission and refuses its passage toward [[Yuezhi|月氏]]. In the current evidence, he treats enemy transit as a security and reciprocity problem; his later death triggers succession conflict that creates Zhang's escape opportunity after a second capture.
+军臣单于 / Junchan Chanyu is the Xiongnu ruler whom current evidence places in two forms of controlled access: he responds to [[NieWengyiWesternHan|聂翁壹]]'s apparent offer of insider access to [[Mayi|马邑]], and he later denies the captured [[ZhangQianWesternHan|张骞]] mission passage toward [[Yuezhi|月氏]]. The first episode presents him as accepting a profit-bearing defection story; the later pair presents him as enforcing territorial security through prolonged detention.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] supplies the earlier military-deception layer. Nie Wengyi claims that he can kill Mayi's officials and surrender the city, livestock, property, and women if Xiongnu cavalry supports him. Condemned prisoners' heads are reportedly displayed as proof. Junchan Chanyu accepts the account and commits ten thousand cavalry toward the city, although the source ends before the trap's result.
 
 [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] says Zhang identifies himself with his Han envoy's staff after Xiongnu cavalry captures the party. Junchan Chanyu responds that Han would not allow a Xiongnu envoy to cross its territory to contact Nanyue, and orders Zhang and his companions detained.
 
@@ -28,6 +31,7 @@ The episode then attributes a ten-year captivity, local marriage, and children t
 - Uses a reciprocity analogy to justify denying enemy diplomatic passage.
 - Presides over a detention regime that reportedly combines surveillance with local family formation.
 - Ruler whose death is presented as the trigger for a succession conflict and captive escape opportunity.
+- Target of the Mayi false-defection operation who reportedly mobilizes after apparent insider proof and promised gain.
 
 ## Evidence
 
@@ -38,13 +42,17 @@ Prolonged detention:
 - [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-1-lqvmfmtdhgtprigwri3ivpsf3hyb|Hanji 287]] attributes Zhang's ten-year confinement, marriage, fatherhood, loosened surveillance, and eventual escape to this Xiongnu-controlled setting.
 - [[zizhi-tongjian-hanji-287-zhangqian-chushi-xiyu-huiguo-zhilu-you-duo-jianxian-2-ll6_f8bzf3uoxglvgsetsenyuvnq|Hanji 287 part 2]] reports Zhang's second detention and says Junchan Chanyu's death is followed by the succession disorder that enables escape.
 
+Mayi approach:
+- [[zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb|Hanji 260]] says Junchan Chanyu believes Nie Wengyi's promised betrayal after seeing displayed heads and advances toward Mayi with ten thousand cavalry.
+
 ## Qualifications
 
-This page is bounded to two podcast installments. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role, family-restoration policy, death timing, succession contestants, and demographic motive assigned to captive marriage remain episode-attributed. Reciprocity can explain a security logic without establishing legal equivalence or moral justification.
+This page is bounded to three podcast installments. The precise capture order, quoted speech, legal or customary basis for transit control, duration and conditions of detention, Junchan Chanyu's personal role, family-restoration policy, death timing, succession contestants, and demographic motive assigned to captive marriage remain episode-attributed. Hanji 260 does not establish his private motive, the exact force total, the authenticity standard applied to the displayed heads, or the Mayi plot's outcome. Reciprocity can explain a security logic without establishing legal equivalence or moral justification, while accepting apparent insider access does not prove simple irrational greed.
 
 ## What Changed
 
-- Added the second detention and the source-attributed link from Junchan Chanyu's death to succession disorder and Zhang's escape.
+- Added the earlier Mayi approach as a contrast between accepted insider access and later denied enemy transit.
+- Preserved the Mayi operation as an unfinished source arc rather than a completed defeat.
 
 ## Relationships
 
@@ -53,3 +61,5 @@ This page is bounded to two podcast installments. The precise capture order, quo
 - [[Xiongnu|匈奴]] - polity ruled by Junchan Chanyu in this source.
 - [[HanWudi|汉武帝]] - ruler who sponsors the blocked mission.
 - [[CaptiveEnvoyMissionPersistence|被扣使者的使命延续]] - pattern revealed by Zhang's adaptation without mission abandonment.
+- [[MayiAmbushWesternHan|马邑之谋]] - false-defection operation that reportedly draws Junchan Chanyu toward Mayi.
+- [[NieWengyiWesternHan|聂翁壹]] - apparent defector whose promised access and evidence persuade him to move.

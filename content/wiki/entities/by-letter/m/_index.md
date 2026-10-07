@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12656
+wiki_total_pages: 12659
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2249,6 +2249,9 @@ wiki_pages:
   - key: "Mayi"
     title: "马邑 / Mayi"
     url: "/wiki/entities/mayi/"
+  - key: "MayiAmbushWesternHan"
+    title: "马邑之谋 / Mayi Ambush (Western Han)"
+    url: "/wiki/entities/mayiambushwesternhan/"
   - key: "MaFangEasternHan"
     title: "马防 / Ma Fang (Eastern Han)"
     url: "/wiki/entities/mafangeasternhan/"
