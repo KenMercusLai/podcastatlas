@@ -38591,6 +38591,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chendaitown/"
     },
+    "ChengBushiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2） [lnQd8G2sH79S1UYwCbyn56n_Vmmv].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/chengbushiwesternhan/"
+    },
     "ChengFangsuiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -75659,6 +75675,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/examinationsystems/"
+    },
+    "ExceptionDependentMilitaryCommand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2） [lnQd8G2sH79S1UYwCbyn56n_Vmmv].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/exceptiondependentmilitarycommand/"
     },
     "ExchangeTradedFund": {
       "episode_count": 3,
@@ -135919,9 +135951,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -135985,6 +136017,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》276｜“霸陵呵夜”，将军李广为何被小兵欺凌",
           "url": "/wiki/sources/zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2） [lnQd8G2sH79S1UYwCbyn56n_Vmmv].md",
+          "key": "zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv/"
         }
       ],
       "updated": "2026-10-08",

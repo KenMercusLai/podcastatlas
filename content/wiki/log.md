@@ -32006,3 +32006,13 @@ Added source `zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingy
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）
+
+Added source `zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv`; created [[ChengBushiWesternHan|程不识]] and [[ExceptionDependentMilitaryCommand|例外才能依赖式治军]]; and resynthesized [[LiGuangHanGeneral|李广]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Li Guang's simplified camp administration, close observation, and troop loyalty can work as an exceptional personal system, while Cheng Bushi's formations, watches, camps, and documents impose greater burden but create a more transferable readiness floor. No settled contradiction was adopted. Because neither force is attacked, surprise resilience, guaranteed non-defeat, exact routines, soldier preferences, enemy fear, quotations, appointments, routes, and the causal effects of each style remain source-scoped or counterfactual. Broad Han Wudi and Sima Guang pages were kept closed because the bounded addition is represented in the focused commander and command-design pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,005 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

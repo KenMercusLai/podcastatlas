@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）](sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv.md) — 李广以简化军制、近身观察和士卒拥护维持安全，程不识则用行军、营垒、刁斗与文书构成高负担的常规防备；两军均未遇袭，司马光的核心判断因此保留为“个人奇才可行而不可普遍效法”的制度评估。
 - [《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？](sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d.md) — 以秦汉、罗马、贵霜和安息的欧亚并置提出文明延续与帝国分流问题，并把边缘崛起和制度变革设为比较起点；完整因果被明确留待后续，罗马“消亡”等说法保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt.md) — 公孙卿借柏梁台火灾推动甘泉迁驻与建章宫营建，太液池仙岛和承露铜人把求仙变成工程支出；缪忌又以神阶和古制把太一推入国家祭祀，具体年代、规模与效验保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx.md) — 李少君以长寿人设、古事古器知识与安期生传说取得汉武帝信任，把祭灶、丹砂化金、金器延寿、蓬莱寻仙与封禅串成求仙方案；其死后又被解释为化龙升天，搜索因而继续。
@@ -4072,6 +4073,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
+- [程不识 / Cheng Bushi (Western Han)](entities/ChengBushiWesternHan.md) — 以严密行军、营垒、夜间警戒与军中文书换取常规防备，并与李广的个人能力型治军构成可复制性对照的西汉将领。
 - [缪忌 / Miu Ji (Western Han)](entities/MiuJiWesternHan.md) — 以太一高于五帝和古代天子祭祀先例推动其进入汉武帝礼制的方士。
 - [建章宫 / Jianzhang Palace (Western Han)](entities/JianzhangPalaceWesternHan.md) — 将求仙地理、太液池仙岛、承露装置与帝国宫苑规模结合的西汉宫殿群。
 - [Li Shaojun / 李少君](entities/LiShaojunWesternHan.md) — Western Han fangshi whose credibility signals and staged immortality program turn court belief into ritual, material work, and maritime search.
@@ -16790,6 +16792,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [例外才能依赖式治军 / Exception-Dependent Military Command](concepts/ExceptionDependentMilitaryCommand.md) — 区分由罕见个人感知、判断与威望支撑的有效个案，和普通继任者能够安全学习、执行与传承的制度化治军底线。
 - [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, and consequence.
 - [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.
 - [Dictionary Public-Good Governance / 词典公共品治理](concepts/DictionaryPublicGoodGovernance.md) — Institutional problem of sustaining accessible, independent, professionally edited dictionaries under state and market pressure.

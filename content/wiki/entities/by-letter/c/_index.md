@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12664
+wiki_total_pages: 12665
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2186,6 +2186,9 @@ wiki_pages:
   - key: "ChuFuchu"
     title: "熊负刍 / 楚王负刍 / Xiong Fuchu"
     url: "/wiki/entities/chufuchu/"
+  - key: "ChengBushiWesternHan"
+    title: "程不识 / Cheng Bushi (Western Han)"
+    url: "/wiki/entities/chengbushiwesternhan/"
   - key: "ChengFuren"
     title: "程夫人 / Madam Cheng"
     url: "/wiki/entities/chengfuren/"
