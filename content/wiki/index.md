@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》293｜为何中国军队自古与众不同？](sources/zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4.md) — 以军饷、赏金、税收与地方行政解释罗马军队政治化，并以秦汉军政财分离和兵农联系作对照；统计、班超例证与文明二分保留来源边界。
 - [《资治通鉴·汉纪》290-2｜长途奔袭六百里，卫青袭杀匈奴右贤王军](sources/zizhi-tongjian-hanji-290-2-changtu-benxi-liubaili-weiqing-xisha-xiongnu-youxianwangjun-fpvpvzftbohaf9caprlu4lvqdity.md) — 右贤王退至六七百里外的北方老营并因纵深、地形与汉军疲劳预期而松懈；降附者部下充当向导，使卫青绕过警戒、抵近并完成夜袭前包围，但文本仍未进入战斗。
 - [《资治通鉴·汉纪》290-1｜豪赌江山，汉武帝派卫青与匈奴硬碰硬](sources/zizhi-tongjian-hanji-290-1-haodu-jiangshan-hanwudi-pai-weiqing-yu-xiongnu-yingpengying-lvyrqf_ohxnw2hxbsi8rzjxr3p9x.md) — 公元前124年汉军以卫青主攻右贤王、右北平军牵制左贤王；现有文本止于敌营撤空与深入追击部署，未覆盖战果或大将军封授。
 - [《资治通鉴·汉纪》292｜古代的武将，为何斗不过文官？](sources/zizhi-tongjian-hanji-292-gudai-de-wujiang-weihe-doubuguo-wenguan-lpmjoa1nxmslyzny7fkvb3aacitv.md) — 以班超和秦汉—罗马比较说明文官控军的行政、供给与合法性基础，并将罗马军队私人化连到补给、待遇、退役保障、将领依赖与精英融资；宏大文明排名保留来源边界。
@@ -12921,7 +12922,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Assassination organizer and eastern commander whose premature suicide at Philippi fractures the republican coalition.
 - [Decimus Junius Brutus / 德奇姆斯](entities/DecimusJuniusBrutus.md) — Caesar confidant and conspirator whose trusted access brought Caesar to the fatal Senate meeting before Decimus's own post-assassination defeat.
 - [Mark Antony / 马克·安东尼](entities/MarkAntony.md) — Caesar ally who converts funeral politics and military recovery into triumviral power before his later defeat by Octavian.
-- [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's teenage heir who converts name, money, troops, consulship, and civil-war victory into the Augustan settlement.
+- [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's teenage heir who converts name, money, troops, consulship, civil-war victory, and exceptional Egyptian control into the Augustan settlement.
 - [Cleopatra VII / 克娄巴特拉七世](entities/CleopatraVII.md) — Egyptian queen whose relation to Caesar and Antony intensifies Roman fears around monarchy, divinity, and succession.
 - [Pompey / 庞培](entities/Pompey.md) — Sullan civil-war prodigy with a private army before becoming Caesar ally, rival, and symbolic memory at Pompey's Curia.
 - [Marcus Licinius Crassus / 克拉苏](entities/MarcusLiciniusCrassus.md) — Sullan ally, Colline Gate commander, and proscription profiteer whose later death removes a balancing force between Caesar and Pompey.
@@ -23608,7 +23609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science Under Revolutionary Suspicion / 革命怀疑下的科学](concepts/ScienceUnderRevolutionarySuspicion.md) — Episode 125's Lavoisier thread on how expert institutions become vulnerable when knowledge is read as privilege or conspiracy.
 - [Revolutionary Virtue Politics / 革命美德政治](concepts/RevolutionaryVirtuePolitics.md) — Moralized revolutionary language where sincerity, virtue, public emotion, and suspicion of hidden interests can feed terror.
 - [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for breakdown through expansion, inequality, citizenship exclusion, commander-centered power, civil-war precedent, Caesar's lifetime dictatorship, and the failed post-assassination settlement.
-- [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Comparative mechanism where armies attach to commanders, rewards, battlefield proof, personal ambition, private forces, confiscation, and constitutional redesign.
+- [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Comparative mechanism where armies attach to commanders or rulers through rewards, battlefield proof, private forces, revenue, administration, and constitutional redesign.
 - [Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑](concepts/RomanExpansionMoralAnxiety.md) — Frame for how Mediterranean success, Campanian wealth, Asian extraction, luxury, publicani, anti-Roman propaganda, and Greek revolt fed republican crisis.
 - [Republican Emergency Violence Precedent / 共和紧急暴力先例](concepts/RepublicanEmergencyViolencePrecedent.md) — Pattern where republican protections are overridden by crisis violence, from the Gracchi aftermath to Sulpicius's street coercion, public-enemy outlawry, Sullan massacre, and proscriptions.
 - [Roman Allied Citizenship Crisis / 罗马同盟者公民权危机](concepts/RomanAlliedCitizenshipCrisis.md) — Mechanism where Italian military obligations without full citizenship turn loyalty and reform failure into the Social War.
@@ -26561,7 +26562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Programmable Immune-Cell Engineering](concepts/ProgrammableImmuneCellEngineering.md) — Design-and-test loop joining CRISPR tool choice, delivery, high-throughput perturbation, single-cell measurement, and therapeutic immune-cell behavior.
 - [Fictional-Character Typing Boundary / 虚构人物类型化边界](concepts/FictionalCharacterTypingBoundary.md) — Uses personality typology to compare recurring fictional choices while preserving context, disagreement, moral neutrality, and a non-diagnostic boundary.
 
-- [Civilian Control of the Military / 文官控军](concepts/CivilianControlOfMilitary.md) — 军事指挥通过任官、财政、补给、法律、基层行政与合法性被置于更广泛政治秩序之内的来源限定机制。
-- [Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合](concepts/GrassrootsBureaucraticCulturalIntegration.md) — 基层行政、人才吸纳、学校、共同文字与经典教育共同形成跨地域整合和政权重建能力的来源限定机制。
+- [Civilian Control of the Military / 文官控军](concepts/CivilianControlOfMilitary.md) — 军事指挥通过任官、财政、补给、军政财分离、基层行政与合法性被置于更广泛政治秩序之内的来源限定机制。
+- [Grassroots Bureaucratic Cultural Integration / 基层官僚与文化整合](concepts/GrassrootsBureaucraticCulturalIntegration.md) — 基层行政、人才吸纳、学校与共同文化形成跨地域整合，并避免军队替代日常民政的来源限定机制。
 
 ## Syntheses

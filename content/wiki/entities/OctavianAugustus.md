@@ -8,7 +8,8 @@ sources:
   - 198-cleopatras-downfall-part-4-glt1186341405
   - 197-antony-cleopatra-part-3-glt1953107818
   - 58-the-world-cup-of-gods-part-1-glt8884399326
-last_updated: 2026-10-03
+  - zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The earlier Caesar source identifies Octavian as the unexpected heir who gives C
 
 [[198-cleopatras-downfall-part-4-glt1186341405]] explains how he completes that strategy. Octavian uses Cleopatra's foreign queenship to externalize civil war, seizes and publicizes Antony's alleged will, declares war on Cleopatra, and organizes loyalty oaths. [[MarcusVipsaniusAgrippa|Agrippa]] supplies the naval pressure at the [[BattleOfActium]]. After Alexandria falls, Octavian absorbs Egypt under unusually personal control, removes Caesarion, and converts victory into the Augustan settlement and its literary memory.
 
+[[zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4|Hanji 293]] supplies a narrow fiscal-military interpretation of that Egyptian control. It says Augustus placed Egypt's wealth in a personal treasury and used those resources to pay and reward troops, redirecting dependence from competing generals toward the ruler without making the army impersonal. This is useful as an episode-attributed mechanism linking territorial control to military loyalty, not a complete account of Augustan finance or the later empire's succession crises.
+
 Augustus's divine and cultic profile extends rather than replaces that political settlement. Worship outside Rome during his lifetime, posthumous deification after AD 14, funeral spectacle, and testimony that his spirit rose to heaven place imperial legitimacy across the mortal-divine boundary. The episode connects that cult to gratitude for peace after civil war, Hellenistic and pharaonic ruler precedents, and politically charged “good news” and son-of-god language later familiar from Christianity [[58-the-world-cup-of-gods-part-1-glt8884399326]].
 
 ## Key Characteristics
@@ -38,7 +41,7 @@ Augustus's divine and cultic profile extends rather than replaces that political
 - Accepts proscription and the sacrifice of Cicero as part of triumviral consolidation.
 - Appears less active than Antony at Philippi but converts western consolidation into the stronger long-term position.
 - Uses Antony's Alexandrian ceremony and Caesarion's elevation before later adding documentary theater, prejudice, oath-taking, and formal enemy designation.
-- Learns from Caesar's fate to clothe durable one-person rule in restrained republican presentation while retaining exceptional control of Egypt.
+- Learns from Caesar's fate to clothe durable one-person rule in restrained republican presentation while retaining exceptional control of Egypt and, in Hanji 293's interpretation, using its resources to reinforce ruler-centered military loyalty.
 
 ## Evidence
 
@@ -50,18 +53,18 @@ Augustus's divine and cultic profile extends rather than replaces that political
 - Prewar legitimacy material: [[197-antony-cleopatra-part-3-glt1953107818]] makes Caesarion's presentation, the Alexandrian triumph, and the Donations central gifts to Octavian's Roman counter-frame.
 - Foreign-enemy construction: [[198-cleopatras-downfall-part-4-glt1186341405]] follows the Senate attacks, will performance, declaration against Cleopatra, and western loyalty oaths.
 - Military and territorial consolidation: [[198-cleopatras-downfall-part-4-glt1186341405]] connects Agrippa's Actium campaign to Alexandria, Caesarion's death, and exceptional control of Egypt and its grain.
+- Fiscal-military interpretation: [[zizhi-tongjian-hanji-293-weihe-zhongguo-jundui-zigu-yu-zhongbutong-lknixmsjwlm5-0hof_8nzqjdlah4|Hanji 293]] says Augustus directed Egypt's wealth into a personal treasury used for troop pay and rewards.
 - Imperial cult and deification: [[58-the-world-cup-of-gods-part-1-glt8884399326]] links lifetime provincial worship, the AD 14 apotheosis, funeral spectacle, peace, and Hellenistic ruler precedent.
 
 ## Qualifications
 
-The current sources emphasize political sequence more than full administration. The precise size and legal character of Octavian's early force, responsibility for individual deaths, conduct at Philippi, direct response to each Alexandrian measure, authenticity of Antony's will, private motives, and exact legal status of Egypt remain source-scoped. His propaganda success does not make every allegation false, but neither can victory authenticate the narrative it preserved. The relationship among provincial worship, official Roman practice, posthumous cult, personal belief, and early Christian vocabulary requires more specific evidence than the tournament episode supplies.
+The current sources emphasize political sequence more than full administration. The precise size and legal character of Octavian's early force, responsibility for individual deaths, conduct at Philippi, direct response to each Alexandrian measure, authenticity of Antony's will, private motives, and exact legal and fiscal status of Egypt remain source-scoped. Hanji 293's personal-treasury and troop-payment account is a compressed comparative claim and does not by itself establish the structure, scale, or later effects of Augustan finance. His propaganda success does not make every allegation false, but neither can victory authenticate the narrative it preserved. The relationship among provincial worship, official Roman practice, posthumous cult, personal belief, and early Christian vocabulary requires more specific evidence than the tournament episode supplies.
 
 ## What Changed
 
-- Added the prewar contrast between western consolidation and Antony's eastern military and dynastic gamble.
-- Connected Caesarion, the Alexandrian triumph, and the Donations to the later externalization of civil war.
-- Retained Agrippa's operational role, Egypt's conquest, and the literary archive as distinct from propaganda alone.
-- Added lifetime ruler worship and posthumous deification as extensions of Augustan political settlement.
+- Added the source-attributed link from Augustus's exceptional Egyptian control to troop pay, rewards, and ruler-centered military loyalty.
+- Distinguished that fiscal-military mechanism from a complete account of Augustan finance or later imperial succession.
+- Preserved Agrippa's operational role and the political, territorial, propagandistic, and cultic layers of the existing profile.
 
 ## Relationships
 
