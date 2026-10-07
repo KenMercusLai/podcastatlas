@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3191
+topic_total_pages: 3192
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8454,6 +8454,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw"
+    title: "113 摘符！《鬼吹灯》之昆仑神宫（大结局）"
+    url: "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
   - key: "114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl"
     title: "114 在史料中挖掘密辛：马伯庸最新作品《秦二世必须死》"
     url: "/wiki/sources/114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl/"

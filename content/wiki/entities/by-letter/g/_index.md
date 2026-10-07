@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12582
+wiki_total_pages: 12584
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "GuoQinLun"
     title: "《过秦论》 / Guo Qin Lun"
     url: "/wiki/entities/guoqinlun/"
+  - key: "GhostBlowsOutTheLight"
+    title: "《鬼吹灯》 / Ghost Blows Out the Light"
+    url: "/wiki/entities/ghostblowsoutthelight/"
   - key: "GuanglunIntelligence"
     title: "光轮智能"
     url: "/wiki/entities/guanglunintelligence/"

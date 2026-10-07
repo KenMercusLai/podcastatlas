@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12582
+wiki_total_pages: 12584
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "KeikoGazeFilm"
     title: "《惠子凝视》"
     url: "/wiki/entities/keikogazefilm/"
+  - key: "KunlunShrineGhostBlowsOutTheLight"
+    title: "《昆仑神宫》 / Kunlun Shrine"
+    url: "/wiki/entities/kunlunshrineghostblowsoutthelight/"
   - key: "KappaAkutagawa"
     title: "《河童》 / Kappa"
     url: "/wiki/entities/kappaakutagawa/"

@@ -7227,6 +7227,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/adventinternational/"
     },
+    "AdventureAsVocationalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/adventureasvocationalidentity/"
+    },
     "AdventureUncertaintyReframing": {
       "episode_count": 1,
       "show_count": 1,
@@ -91679,6 +91695,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
+    "GhostBlowsOutTheLight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/ghostblowsoutthelight/"
+    },
     "GhostDance": {
       "episode_count": 3,
       "show_count": 1,
@@ -103578,9 +103610,9 @@
       "url": "/wiki/entities/hettonrailway/"
     },
     "HetuLuoshu": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
@@ -103588,6 +103620,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
+        },
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
         }
       ],
       "updated": "2026-09-09",
@@ -129254,6 +129293,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/kumasi/"
+    },
+    "KunlunShrineGhostBlowsOutTheLight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/kunlunshrineghostblowsoutthelight/"
     },
     "KunmingPoolWesternHan": {
       "episode_count": 1,
@@ -179568,6 +179623,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/portwine/"
     },
+    "PortableDivinationSystems": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/portabledivinationsystems/"
+    },
     "PortablePoliticalCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -223094,9 +223172,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemePlotCoherence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -223118,6 +223196,13 @@
           "show": "纸醉金迷FM",
           "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
           "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        },
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
         }
       ],
       "updated": "2026-10-07",
@@ -255714,9 +255799,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255759,6 +255844,13 @@
           "show": "纸醉金迷FM",
           "title": "116 底牌全亮，马伯庸如何写好悬疑？再谈《秦二世必须死》",
           "url": "/wiki/sources/116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp/"
+        },
+        {
+          "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
+          "key": "113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw",
+          "show": "纸醉金迷FM",
+          "title": "113 摘符！《鬼吹灯》之昆仑神宫（大结局）",
+          "url": "/wiki/sources/113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw/"
         }
       ],
       "updated": "2026-10-07",
