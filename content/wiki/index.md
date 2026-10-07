@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（1）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y.md) — 田蚡由窦婴府中不起眼的郎官以低姿态接近窦氏权力网络，又凭王太后亲缘与旧有人脉升任太尉、广招门客；任命因果、私人动机和三方权力强弱保留来源边界。
 - [《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台](sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p.md) — 田蚡与窦婴的权势逆转在婚宴礼节中显形，灌夫借酒失控把旧怨升级为大不敬案件；窦婴因强邀赴宴而上书营救，直接衔接汉纪 265 的朝廷辩论。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（1）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr.md) — 窦婴为灌夫争取罪罚相称，田蚡把争议升级为宫廷安全指控；群臣沉默、王太后施压与韩安国劝丞相退让，显示正式廷议如何受外戚结构约束。
 - [《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2）](sources/zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw.md) — 窦婴救灌夫、失效诏书与田蚡胜出被放回王太后支持和外戚制衡崩塌中解释；焚毁宫中副本、亡魂索命及汉武帝杀田蚡均保留来源边界。
@@ -4059,9 +4060,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
-- [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 为灌夫争取罪罚相称却卷入与田蚡的互揭和安全指控，失去窦太后庇护后又因诏书无法核验而被处死。
+- [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
+- [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
 - [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
-- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 监控廷议并直接以母后权威支持田蚡、影响汉武帝早期政治选择，田蚡死后被节目称为退出政局。
+- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 以母子亲近为田蚡提供进身通道，后又监控廷议并直接以母后权威支持弟弟、影响汉武帝早期政治选择。
 - [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
 - [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
@@ -4281,7 +4283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《凤求凰》 / Feng Qiu Huang](entities/FengQiuHuang.md) — 在节目中由司马相如宴席演奏、向卓文君传递求偶意味的作品，其作者、曲辞与传播史保持来源限定。
 - [霍嬗 / 霍子侯 / Huo Shan (son of Huo Qubing)](entities/HuoShanSonOfHuoQubing.md) — 霍去病之子与爵位继承人，在来源中以侍中、奉车都尉身份成为唯一陪同汉武帝秘密登泰山过夜的随员，并与后世霍山明确消歧。
 - [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
-- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 获王太后支持、把窦婴灌夫争议升级为宫廷安全指控，并在来源中因封地受益而劝阻及时修复瓠子决口的西汉丞相。
+- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 由窦婴门下以低姿态和人脉熟悉进身，结合王太后亲缘与门客网络掌权，后把窦婴灌夫争议升级为宫廷安全案件。
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
 - [Imperial Veritable Records / 帝王实录宝训](entities/ImperialVeritableRecords.md) — Official dynastic memory whose monumental custody preserves valuable evidence while requiring criticism of political editing and genre.
 - [Nathan Bedford Forrest](entities/NathanBedfordForrest.md) — Former Confederate general linked to first-Klan leadership whose Tennessee disbandment order did not control decentralized groups elsewhere.
@@ -16764,7 +16766,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
-- [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 外戚竞争既为皇帝提供回旋空间，也会通过安全指控、群臣沉默和家族施压约束廷议；一方清除对手后又因独大而暴露于皇权。
+- [策略性低姿态进身 / Strategic Personal Deference](concepts/StrategicPersonalDeference.md) — 低位者以刻意谦卑、服务和身份下沉换取权贵注意、网络接近与延迟兑现的升迁机会。
+- [门客信息基础设施 / Retainer Information Infrastructure](concepts/RetainerInformationInfrastructure.md) — 门客以生计和进身换取对主君的谋划、情报、联络与执行服务，同时形成私人权力风险。
+- [皇权下的外戚制衡 / Outer-Relative Balance Under Imperial Power](concepts/OuterRelativeBalanceUnderImperialPower.md) — 从窦王两系共同任官、网络重叠到礼仪逆转、廷议受压与一方独大，呈现外戚制衡的形成、运作和崩塌。
 - [实事求是 / Seeking Truth from Facts](concepts/ShishiQiushi.md) — 由承认未知、核实具体事实与可重复的求书抄写校理流程组成的求真方法；刘德实践者与班固表述者的归属仍待辨。
 - [强制边疆劳役反噬 / Coercive Frontier Labor Backfire](concepts/CoerciveFrontierLaborBackfire.md) — 以强制劳役和军法惩逃建设边疆基础设施，反而因死亡、逃亡与恐惧摧毁地方合作并催生抵抗的治理失败。
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。

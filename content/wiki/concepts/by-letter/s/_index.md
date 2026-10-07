@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9881
+wiki_total_pages: 9883
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2720,6 +2720,9 @@ wiki_pages:
   - key: "SecretImperialInfantSuppression"
     title: "秘密皇子压制 / Secret Imperial Infant Suppression"
     url: "/wiki/concepts/secretimperialinfantsuppression/"
+  - key: "StrategicPersonalDeference"
+    title: "策略性低姿态进身 / Strategic Personal Deference"
+    url: "/wiki/concepts/strategicpersonaldeference/"
   - key: "StrategicAngerDeterrence"
     title: "策略性发怒威慑 / Strategic Anger Deterrence"
     url: "/wiki/concepts/strategicangerdeterrence/"

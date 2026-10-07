@@ -28023,6 +28023,10 @@
     "title": "窦妙 / Empress Dowager Dou Miao",
     "url": "/wiki/entities/empressdowagerdoumiao/"
   },
+  "EmpressDowagerDouWesternHan": {
+    "title": "窦太后 / Empress Dowager Dou (Western Han)",
+    "url": "/wiki/entities/empressdowagerdouwesternhan/"
+  },
   "EmpressDowagerHe": {
     "title": "何太后 / Empress Dowager He",
     "url": "/wiki/entities/empressdowagerhe/"
@@ -69695,6 +69699,10 @@
     "title": "Retailer-Responsive Manufacturing",
     "url": "/wiki/concepts/retailerresponsivemanufacturing/"
   },
+  "RetainerInformationInfrastructure": {
+    "title": "门客信息基础设施 / Retainer Information Infrastructure",
+    "url": "/wiki/concepts/retainerinformationinfrastructure/"
+  },
   "RetainerReciprocityEthic": {
     "title": "Retainer Reciprocity Ethic / 士为知己者死",
     "url": "/wiki/concepts/retainerreciprocityethic/"
@@ -77718,6 +77726,10 @@
   "StrategicPatronExitJudgment": {
     "title": "Strategic Patron Exit Judgment / 主公前途与安全退出判断",
     "url": "/wiki/concepts/strategicpatronexitjudgment/"
+  },
+  "StrategicPersonalDeference": {
+    "title": "策略性低姿态进身 / Strategic Personal Deference",
+    "url": "/wiki/concepts/strategicpersonaldeference/"
   },
   "StrategicRecognitionAlignment": {
     "title": "Strategic Recognition Alignment / 谋略知己式归附",
@@ -101666,6 +101678,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y": {
+    "title": "《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y/"
   },
   "zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p": {
     "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",

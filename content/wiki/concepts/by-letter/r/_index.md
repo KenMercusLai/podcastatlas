@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9881
+wiki_total_pages: 9883
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "RoadArchaeology"
     title: "道路考古 / Road Archaeology"
     url: "/wiki/concepts/roadarchaeology/"
+  - key: "RetainerInformationInfrastructure"
+    title: "门客信息基础设施 / Retainer Information Infrastructure"
+    url: "/wiki/concepts/retainerinformationinfrastructure/"
   - key: "RankSaleDisasterFinance"
     title: "鬻爵赈灾融资 / Rank Sale Disaster Finance"
     url: "/wiki/concepts/ranksaledisasterfinance/"
