@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》289-1｜汉武帝的13位丞相，最终下场如何？](sources/zizhi-tongjian-hanji-289-1-hanwudi-de-13wei-chengxiang-zuizhong-xiachang-ruhe-fht37b6aaih3donczzlbsutbnjgh.md) — 以公孙弘的贫寒起点、拜相封侯和任内善终对照汉武帝朝丞相的罢免、治罪与死亡风险，同时保留十三人统计、转录姓名和生存原因的来源边界。
+- [《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法](sources/zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx.md) — 公孙弘禁弓提议在执法不对称、自卫与工具替代质疑中落败；节目并以危险任命、调离中枢和顺应君意解释其政治手腕与善终，但动机和因果保持来源边界。
 - [“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔](sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot.md) — 现场对谈以创业失败、创作愿望、ADHD、搬家、播客视频化和片场劳动说明“折腾”不保证成功，却能在显明成本下保留行动与重启空间。
 - [097 金庸小说人物MBTI大盘点](sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6.md) — 纸醉金迷FM以金庸人物比较I/E与N/S，并用争议案例、自认偏见和善恶分离把人格标签限定为非诊断、非等级化的文学讨论工具。
 - [《资治通鉴·汉纪》291｜横扫匈奴右贤王，卫青功拜大将军](sources/zizhi-tongjian-hanji-291-hengsao-xiongnu-youxianwang-weiqing-gongbai-dajiangjun-lm1nilz4omifoepxdcg5rj5ynrxu.md) — Completes the 124 BCE Gaoque campaign with the Right Wise King's escape, large captures, Wei Qing's field promotion, and his refusal of unearned hereditary rewards.
@@ -8264,7 +8265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
 - [张钧 / Zhang Jun (late Han)](entities/ZhangJunLateHan.md) — Zhongshan langzhong whose anti-Ten-Attendants memorial is shown to the eunuchs and recoded into a fatal Yellow Turban accusation.
-- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — 由贫寒与晚起进入西汉高位、以折中保留影响，却也参与危险任命与保守资格筛选，并罕见地在丞相任内自然去世的政治适应者。
+- [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — 由贫寒晚起进入西汉高位，以折中和顺应保留影响；禁弓提议曾受驳，危险任命与资格筛选又使其政治适应带有明显道德歧义。
 - [公孙洪 / Gongsun Hong (Langya, Western Han)](entities/GongsunHongLangyaWesternHan.md) — Langya administrator killed in Hanji 625 after disaster talk and non-praise are recoded as hostility under Wang Mang's praise environment.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -16662,6 +16663,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [禁令遵从不对称 / Prohibition Compliance Asymmetry](concepts/ProhibitionComplianceAsymmetry.md) — 禁令可能先移除守法者的正当能力，而高风险行为者继续规避或替代；是否成立取决于执法、替代、合法用途与伤害变化。
+- [任命式间接报复 / Appointment as Indirect Retaliation](concepts/AppointmentAsIndirectRetaliation.md) — 以表面升迁或正当配置增加对手风险、拉远其决策接近度或削弱实权，同时用任命形式保留可否认性。
 - [Costly Life Experimentation / 有成本的持续折腾](concepts/CostlyLifeExperimentation.md) — 在不把努力等同成功的前提下持续尝试新项目、角色、技能或环境，同时保留失败及金钱、身体、注意与关系成本。
 - [Moving as Life Reset / 搬家作为人生重启](concepts/MovingAsLifeReset.md) — 以迁居、筛选物品和重设空间形成有限的环境断点，使习惯与身份暂时重新可编辑而不许诺自动转变。
 - [Long-Form Conversation Emergence / 长对谈的信息涌现](concepts/LongFormConversationEmergence.md) — 持续对话通过追问、分歧、例子与偏航生成未预先规划的联系，同时保留冗余、误差与后续核验边界。

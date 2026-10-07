@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9849
+wiki_total_pages: 9851
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2732,6 +2732,9 @@ wiki_pages:
   - key: "ProtocolConcessionCoreDemandBargaining"
     title: "礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining"
     url: "/wiki/concepts/protocolconcessioncoredemandbargaining/"
+  - key: "ProhibitionComplianceAsymmetry"
+    title: "禁令遵从不对称 / Prohibition Compliance Asymmetry"
+    url: "/wiki/concepts/prohibitioncomplianceasymmetry/"
   - key: "PrivateLetterPoliticalWeaponization"
     title: "私人书信政治武器化 / Private Letter Political Weaponization"
     url: "/wiki/concepts/privateletterpoliticalweaponization/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9849
+wiki_total_pages: 9851
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2939,6 +2939,9 @@ wiki_pages:
   - key: "AncientChineseEroticImagery"
     title: "中国古代春宫图的社会功能 / Social Functions of Ancient Chinese Erotic Imagery"
     url: "/wiki/concepts/ancientchineseeroticimagery/"
+  - key: "AppointmentAsIndirectRetaliation"
+    title: "任命式间接报复 / Appointment as Indirect Retaliation"
+    url: "/wiki/concepts/appointmentasindirectretaliation/"
   - key: "AppointmentQualityAsStateCapacity"
     title: "任官适任性国家能力 / Appointment Quality as State Capacity"
     url: "/wiki/concepts/appointmentqualityasstatecapacity/"

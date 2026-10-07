@@ -31504,3 +31504,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》289-2｜布衣丞相公孙弘，演绎经典职场生存法
+
+Added source `zizhi-tongjian-hanji-289-2-buyi-chengxiang-gongsunhong-yanyi-jingdian-zhichang-shengcunfa-lndfcv7sgoiz_xshfimuqkf6t_bx`; created [[ProhibitionComplianceAsymmetry|禁令遵从不对称]] and [[AppointmentAsIndirectRetaliation|任命式间接报复]]; and resynthesized [[GongsunHong|公孙弘]] and [[StrongRulerChancellorshipDoubleBind|强势君主下的丞相双重约束]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the bow-ban debate distinguishes formal prohibition from practical compliance and lawful self-protection, while Gongsun Hong's personnel tactics and willingness to yield supply a source-attributed explanation for political survival without proving hidden motives or policy quality. No settled contradiction was adopted. Character judgments, retaliatory intent, office effects, exact chronology, and the complete cause of Gongsun Hong's natural death remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,940 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
