@@ -31692,3 +31692,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）
+
+Added source `zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo`; created [[HanAnguoWesternHan|韩安国]] and [[PoliticalMilitaryEraFit|政军能力的时代适配]]. Core synthesis: the episode's body is primarily about Han Anguo rather than the Wei Qing battle analysis promised by its title. It preserves Han Anguo's steadiness, calculation, and balancing ability while separating a concrete intelligence and demobilization failure from the broader host interpretation that Wen-Jing-style caution no longer fit Han Wudi's frontier priorities. No settled contradiction was adopted. Captive deception, troop totals, chronology, emotions, office details, reassignment purpose, death sequence, and the totalizing “discarded by the era” explanation remain source-scoped. Broad [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], [[Xiongnu|匈奴]], [[EmpressWeiZifuWesternHan|卫子夫]], [[LiuJuCrownPrinceWesternHan|刘据]], [[YoubeipingCommandery|右北平]], and show pages were read for context but not reopened because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,965 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

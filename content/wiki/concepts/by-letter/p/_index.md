@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9866
+wiki_total_pages: 9867
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2678,6 +2678,9 @@ wiki_pages:
   - key: "PressureReleaseInfightingStrategy"
     title: "撤压诱发内斗 / Pressure-Release Infighting Strategy"
     url: "/wiki/concepts/pressurereleaseinfightingstrategy/"
+  - key: "PoliticalMilitaryEraFit"
+    title: "政军能力的时代适配 / Political-Military Era Fit"
+    url: "/wiki/concepts/politicalmilitaryerafit/"
   - key: "PoliticalCaseEvidenceSkepticism"
     title: "政治案件证据怀疑 / Political Case Evidence Skepticism"
     url: "/wiki/concepts/politicalcaseevidenceskepticism/"

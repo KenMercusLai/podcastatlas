@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）](sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo.md) — 标题指向卫青，正文核心却是韩安国误信俘虏、过早撤军、被调右北平并失势的过程；以文景式稳健与武帝朝进取的错位解释其退场，同时保留具体战事和时代因果的来源边界。
 - [308-女权是否意味着争取选择自由？](sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt.md) — 独树不成林追溯选择自由成为女性主义政治语言的历史，并以物质能力、照护、阶级种族差异、公共责任和选择负担限定形式自主。
 - [Gilets jeunes? France’s school protests](sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057.md) — The Intelligence on widening French school unrest, the procedural and oversight tensions of Title IX after the Cornell Seven case, and the weak evidence behind astrology in Indian finance.
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
@@ -4032,6 +4033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 
 ## Entities
+- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 兼具稳健、权衡与趋附色彩的西汉旧臣；因误信匈奴俘虏、过早撤军而暴露边防，并在汉武帝重军功的环境中被进一步边缘化。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
 - [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
@@ -16713,6 +16715,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
 
 ## Concepts
+- [政军能力的时代适配 / Political-Military Era Fit](concepts/PoliticalMilitaryEraFit.md) — 官员既有能力须按当前目标、威胁、节奏、奖惩与风险重新评价；时代错位不能替代对具体判断和执行错误的分析。
 - [Feminist Choice Freedom / 女性主义的选择自由](concepts/FeministChoiceFreedom.md) — 将女性承认为决策主体的现代政治语言，尤其用于生殖自主，但不能把女性主义化约为偏好满足。
 - [Substantive Choice Capability / 实质选择能力](concepts/SubstantiveChoiceCapability.md) — 区分形式许可与可实际使用的选项，把收入、照护、医疗、安全、知识和认知负担纳入自由判断。
 - [社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion](concepts/SocialBaseCollapseVsEliteRebellion.md) — 以民生压力、普遍响应和政府反馈判断底层系统性崩塌，并与缺乏广泛支持的精英或区域叛乱相区别。

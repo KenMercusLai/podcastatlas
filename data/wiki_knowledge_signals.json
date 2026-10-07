@@ -99558,6 +99558,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/hanaidi/"
     },
+    "HanAnguoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2） [lpN6t8p8d0IuMsD7gabohtevXxQO].md",
+          "key": "zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/hananguowesternhan/"
+    },
     "HanBoXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -180931,6 +180947,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/politicalmartyremulation/"
+    },
+    "PoliticalMilitaryEraFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2） [lpN6t8p8d0IuMsD7gabohtevXxQO].md",
+          "key": "zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-zuodao-de-2-lpn6t8p8d0iumsd7gabohtevxxqo/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/politicalmilitaryerafit/"
     },
     "PoliticalOccultAccusation": {
       "episode_count": 1,
