@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1467
+topic_total_pages: 1468
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3924,6 +3924,9 @@ topic_sources:
   - key: "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982"
     title: "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
     url: "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+  - key: "essentials-using-light-to-optimize-health-scim8775078173"
+    title: "Essentials: Using Light to Optimize Health"
+    url: "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

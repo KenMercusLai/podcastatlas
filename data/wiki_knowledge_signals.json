@@ -55216,9 +55216,9 @@
       "url": "/wiki/entities/daxiaodianbo/"
     },
     "DayNightLightImmuneSupport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -55226,15 +55226,22 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Your Immune System | Dr. Roger Seheult",
           "url": "/wiki/sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/daynightlightimmunesupport/"
     },
     "DayNightLightMentalHealth": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9183043757 [SCIM9183043757].md",
@@ -55256,9 +55263,16 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/daynightlightmentalhealth/"
     },
     "DayOfTheDead": {
@@ -136371,9 +136385,9 @@
       "url": "/wiki/concepts/lightfoodcategoryreframing/"
     },
     "LightTherapyParameterMatching": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9179977381 [SCIM9179977381].md",
@@ -136381,9 +136395,16 @@
           "show": "Huberman Lab",
           "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
           "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/lighttherapyparametermatching/"
     },
     "LightTouchFrontierGovernance": {
@@ -152903,9 +152924,9 @@
       "url": "/wiki/concepts/melanocortinpeptidevitality/"
     },
     "MelanopsinCircadianPhotoreception": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -152927,9 +152948,16 @@
           "show": "Economist Podcasts",
           "title": "Centre punch: Germany’s state-election shocker",
           "url": "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/melanopsincircadianphotoreception/"
     },
     "MelissaIlardo": {
@@ -191441,9 +191469,9 @@
       "url": "/wiki/entities/redguards/"
     },
     "RedNearInfraredPhotobiomodulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9179977381 [SCIM9179977381].md",
@@ -191451,9 +191479,16 @@
           "show": "Huberman Lab",
           "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
           "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/rednearinfraredphotobiomodulation/"
     },
     "Reddit": {
@@ -231194,9 +231229,9 @@
       "url": "/wiki/concepts/uswelfarefragmentation/"
     },
     "UVBSystemicLightSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9179977381 [SCIM9179977381].md",
@@ -231204,9 +231239,16 @@
           "show": "Huberman Lab",
           "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
           "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        },
+        {
+          "episode_file": "SCIM8775078173 [SCIM8775078173].md",
+          "key": "essentials-using-light-to-optimize-health-scim8775078173",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Light to Optimize Health",
+          "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/uvbsystemiclightsignaling/"
     },
     "UVExposureSkinProtection": {

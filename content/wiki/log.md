@@ -31582,3 +31582,10 @@ Added source `default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | Essentials: Using Light to Optimize Health
+
+Added source `essentials-using-light-to-optimize-health-scim8775078173`; and resynthesized [[MelanopsinCircadianPhotoreception]], [[UVBSystemicLightSignaling]], [[RedNearInfraredPhotobiomodulation]], [[DayNightLightMentalHealth]], [[DayNightLightImmuneSupport]], and [[LightTherapyParameterMatching]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: light effects depend on wavelength, intensity, timing, target tissue, and device purpose; the episode's melanopsin, systemic UVB, red/near-infrared, mood, immune, and tissue-repair claims remain qualified, and dim red nighttime task lighting is not photobiomodulation. No settled contradiction was adopted. The release condenses the previously ingested full episode, so overlap strengthens provenance rather than independent confirmation; exposure schedules, melatonin-supplement concerns, hormone and pain effects, retinal-spleen signaling, wound healing, dopamine effects, and red-light vision findings remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], and [[MorningLightCircadianAnchoring]] pages were read for context but not reopened because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,950 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
