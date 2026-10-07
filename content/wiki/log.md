@@ -31350,3 +31350,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险
+
+Added source `103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz`; resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]], [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]], and [[HistoricalFantasySourceLayering]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: an unusable 雮尘珠, overlapping textual and geomantic clues, 明叔's bargain and a westward divination assemble a complementary nine-person expedition whose early deaths, poisoning, wolves and glacier hazards create attrition before the demon tower; real mummy history, archaeology, Tibetan geography, religion and folklore make invented artifacts, trades, lineages and monsters feel plausible without verifying them. No settled contradiction was adopted. 背尸 and porcelain-cat lore, preserved-body commerce, feng-shui and divination systems, 天授唱诗人, 中阴身, Himalayan wild-men, ginger de-icing and authorial-development claims remain fictional, conversational or source-scoped. Broad character, author, show and divination pages were kept closed because the focused source, series, novel and worldbuilding pages capture the bounded addition without creating thin profiles or treating literary discussion as independent cultural verification. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,920 sources across 798 overview paragraphs and nine topics. Identity, knowledge schema, derived synthesis and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

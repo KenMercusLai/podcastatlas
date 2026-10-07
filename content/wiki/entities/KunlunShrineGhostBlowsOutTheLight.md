@@ -6,6 +6,7 @@ sources:
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
+  - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -14,11 +15,15 @@ last_updated: 2026-10-07
 
 ## Overview
 
-《昆仑神宫》 is the fourth book in the first phase of [[GhostBlowsOutTheLight|《鬼吹灯》]]. Three [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes now cover its nine-story demon tower, memory city, sacrificial chamber, apparent choice of a human victim, later ritual substitution, escape, and the protagonists' decision to leave tomb raiding.
+《昆仑神宫》 is the fourth book in the first phase of [[GhostBlowsOutTheLight|《鬼吹灯》]]. Four [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes now cover its expedition setup, nine-story demon tower, memory city, sacrificial chamber, apparent choice of a human victim, later ritual substitution, escape, and the protagonists' decision to leave tomb raiding.
 
 ## Current Profile
 
-The demon-tower sequence first establishes a rule-discovery form. Moving the water-crystal corpse turns apparent treasure into a theft-sensitive avalanche trap; heat changes silver ghost insects into blue fire insects; wolf-king blood conceals the explorers from the creatures; and blue-white crystals govern which form can appear. Because the controlling objects arrive before their function is known, the hosts read the solution as retrospective recognition rather than an unprepared escape.
+The opening turns an acquired object into an unsolved problem. 胡八一、Shirley 杨 and 王胖子 possess the 雮尘珠 but cannot use it, so they combine the 龙骨天书, geomantic inheritance, 明叔's scripture and location clues, and a westward divination to seek the 魔国 site. 明叔's party expands the expedition to nine people with combat, antiquarian, cultural and supernatural-perception roles. 阿东's death after stealing a Buddha image, 铁棒喇嘛's poisoning, the wolf pursuit and 韩淑娜's disappearance begin stripping that team down before the tower is entered.
+
+This approach also establishes the novel's layered plausibility. Preserved corpses, Tibetan places, religious terms, archaeology and folklore lend texture to invented artifacts, occupations, monster lore and secret lineages. The hosts do not treat that texture as authentication; their likely-invented thirteen-whiskered porcelain cat and 背尸 trade are the clearest warning that a real cultural neighbor can make fabrication feel traditional.
+
+The demon-tower sequence then establishes a rule-discovery form. Moving the water-crystal corpse turns apparent treasure into a theft-sensitive avalanche trap; heat changes silver ghost insects into blue fire insects; wolf-king blood conceals the explorers from the creatures; and blue-white crystals govern which form can appear. Because the controlling objects arrive before their function is known, the hosts read the solution as retrospective recognition rather than an unprepared escape.
 
 恶罗海城 then changes the scale of the mystery. Lamps, boiling beef, fresh slaughter, normal watches, and changing outside light do not fit either ordinary ruins or a totally stopped timeline. The mural explanation makes the city an embodied composite of the ghost mother's salient memories through fictional “行境幻化,” while identifying the 雮尘珠 as the snake god's eye and the key to reversing the curse at the real ruins.
 
@@ -31,6 +36,7 @@ The novel then prolongs danger through collapse, corpses, snakes, 阿香's disso
 ## Key Characteristics
 
 - Resolves the first four books' curse through a ritual substitution involving the ghost mother's eyes and the 雮尘珠.
+- Builds the expedition from an unusable cure, overlapping textual clues, divinatory confirmation and a complementary but attrition-prone party.
 - Uses planted objects, monster-state rules, folk devices, and environmental contradictions as cumulative puzzle evidence.
 - Tests loyalty and autonomy through competing proposals to sacrifice 明叔, Shirley 杨, or 阿香 before a false death lottery lets 胡八一 delay and control 明叔.
 - Combines a central sacrificial dilemma with an extended physical escape sequence after the ritual is complete.
@@ -38,6 +44,15 @@ The novel then prolongs danger through collapse, corpses, snakes, 阿香's disso
 - Ends with romance, restitution to fallen comrades' families, plans for migration, and removal of the 摸金符.
 
 ## Evidence
+
+### Quest formation and early attrition
+
+- [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] connects the unusable 雮尘珠, 明叔's crystal-corpse bargain, the westward hexagram and 古格银眼 into the route toward the demon tower.
+- [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] follows 阿东's death, 铁棒喇嘛's poisoning, wolves and 韩淑娜's disappearance as successive reductions of the original nine-person team.
+
+### Layered cultural plausibility
+
+- [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] shows real mummy history, geography, religion and folklore lending texture to invented lore while explicitly questioning the historicity of the porcelain cat and 背尸 trade.
 
 ### Demon-tower rules and memory city
 
@@ -60,13 +75,13 @@ The novel then prolongs danger through collapse, corpses, snakes, 阿香's disso
 
 ## Qualifications
 
-The profile covers three adjacent podcast reconstructions rather than the complete novel. P2 establishes the demon tower and memory-city explanation, P3 stops before the lottery is resolved and treats the sacrificial mural's meaning as uncertain, and the finale supplies the reinterpretation and outcome. Whether the crystal-eye substitution is elegant rule fulfillment or a reduction of stakes is a critical judgment. The ritual system, snake perception, virtual space, materialized memory, and geomancy belong to fiction or host speculation, and the suggested relationship between pacing and online serialization or publishing length lacks direct production evidence.
+The profile covers four adjacent podcast reconstructions rather than the complete novel. Episode 103 supplies the journey and stops at 韩淑娜's disappearance, P2 establishes the demon tower and memory-city explanation, P3 stops before the lottery is resolved and treats the sacrificial mural's meaning as uncertain, and the finale supplies the reinterpretation and outcome. Whether the crystal-eye substitution is elegant rule fulfillment or a reduction of stakes is a critical judgment. 背尸 customs, the ritual system, snake perception, virtual space, materialized memory, monsters, divination, and geomancy belong to fiction or host speculation, and the suggested relationship between pacing and online serialization or publishing length lacks direct production evidence.
 
 ## What Changed
 
-- Extended the profile backward through the demon tower and arrival in 恶罗海城.
-- Added rule-based ghost-insect resolution and theft-sensitive tomb defense.
-- Added the embodied composite-memory explanation and its direct connection to the 雮尘珠.
+- Extended the profile backward through quest formation, the 古格 route and arrival at the glacier.
+- Added the nine-person capability mix and early attrition before entry into the demon tower.
+- Added the boundary between real cultural material and invented lore as a central worldbuilding feature.
 
 ## Relationships
 
@@ -78,4 +93,5 @@ The profile covers three adjacent podcast reconstructions rather than the comple
 - [[NarrativeSetupAndPayoff]] - explains how conspicuous objects become controls, protections, and later revelations.
 - [[MaterializedMemoryWorldbuilding]] - framework for the physically accessible but nonhistorical 恶罗海城.
 - [[GreedDrivenNarrativeTrap]] - describes the defense that activates when intruders actually remove the water-crystal corpse.
+- [[HistoricalFantasySourceLayering]] - explains how history, archaeology, religion and folklore are recombined into the novel's fictional texture.
 - [[ZhiZuiJinMiFM|纸醉金迷FM]] - show providing the bounded retelling and debate.

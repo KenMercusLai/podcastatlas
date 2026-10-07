@@ -6,6 +6,7 @@ sources:
   - 113-zhai-fu-gui-chuideng-zhi-kunlun-shengong-dajieju-lgfedg0shv4w7ugzbdqfhzdxnrqw
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
+  - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -14,11 +15,15 @@ last_updated: 2026-10-07
 
 ## Overview
 
-《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to three [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes moving from the nine-story demon tower and memory city through the first four books' final ritual and retirement gesture.
+《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to four [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes moving from the decision to seek the nine-story demon tower through the memory city, final ritual and retirement gesture.
 
 ## Current Profile
 
-Across the supplied discussions, the first four books form a phase in which the protagonists' search for wealth becomes a test of observation, loyalty, practical interpretation, sacrifice, and life direction. The nine-story demon-tower sequence makes this puzzle method explicit: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
+Across the supplied discussions, the first four books form a phase in which the protagonists' search for wealth becomes a test of observation, loyalty, practical interpretation, sacrifice, and life direction. The opening of 《昆仑神宫》 makes knowledge itself the route into danger: possession of the 雮尘珠 does not reveal how to lift the curse, so 龙骨天书, the 《十六字阴阳风水秘术》, 明叔's textual clues, Tibetan geography and a divinatory prompt must be combined before the party can even locate the demon tower.
+
+The series' world feels culturally dense because real places, preserved-body history, archaeological material, geomancy, religious vocabulary and folklore sit beside invented trades, artifacts, lineages and monsters. The hosts repeatedly police that boundary: thirteen-whiskered porcelain cats and the described 背尸 profession may sound plausible beside 赶尸 stories, but their texture does not establish their historical existence. Once the expedition begins, complementary knowledge is distributed across a large party, and early deaths, poisoning, wolves and glacier terrain convert worldbuilding into attrition.
+
+The nine-story demon-tower sequence then makes the puzzle method explicit: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
 
 The move into 恶罗海城 expands the same interpretive demand from traps to ontology. Hot food, active slaughter, changing external light, and normal watch movement first conflict, then become compatible when the city is explained as physically accessible fragments of remembered moments rather than the original ruin or a completely frozen timeline. The approach to [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]]'s ritual chamber then turns uncertain rules and a timer into moral pressure, exposing differences among 胡八一、胖子、Shirley 杨、明叔、阿香 over autonomy, kinship, and whether collective survival can justify selecting a victim.
 
@@ -28,7 +33,7 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ## Key Characteristics
 
-- Joins tomb-adventure plotting to Chinese folklore, geomancy, cosmology, and invented ritual systems.
+- Joins tomb-adventure plotting to Chinese folklore, geomancy, archaeology, religious vocabulary, and invented ritual systems while keeping historical texture distinct from verification.
 - Builds puzzle causality by converting conspicuous objects and folk devices into later survival rules.
 - Treats survival puzzles as tests of loyalty, interpretation, practical skill, and the distinction between bearing a cost oneself and imposing it on someone else.
 - Gives 胡八一 and 胖子 a field in which disrupted education, military experience, and specialist knowledge become useful.
@@ -36,6 +41,11 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 - Uses removal of the 摸金符 as a visible transition from occupational identity toward another possible life.
 
 ## Evidence
+
+### Layered lore and expedition formation
+
+- [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] follows the unresolved 雮尘珠, 明叔's crystal-corpse proposal, the 摸金 lineages, the westward divination and the nine-person party into the glacier.
+- [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] distinguishes real mummies, geography and circulating traditions from likely invented 背尸 and porcelain-cat lore.
 
 ### Planted mechanisms and speculative explanation
 
@@ -61,13 +71,13 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ## Qualifications
 
-This profile comes from three conversational episodes about one section of the first four books, not a complete reading of the series. Plot evaluations, ritual interpretation, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat fictional geomancy, biological electricity, virtual space, memory materialization, or curse rules as historical or scientific evidence.
+This profile comes from four conversational episodes about one section of the first four books, not a complete reading of the series. Plot evaluations, ritual interpretation, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat 背尸 lore, fictional geomancy, divination outcomes, biological electricity, virtual space, memory materialization, monsters, or curse rules as historical or scientific evidence.
 
 ## What Changed
 
-- Extended the bounded sequence backward to the nine-story demon tower and 恶罗海城.
-- Added planted object-to-rule conversion as a defining puzzle mechanism.
-- Added materialized memory as the episode's fictional explanation for the apparently inhabited city.
+- Extended the bounded sequence backward to the decision, recruitment and route that lead to the nine-story demon tower.
+- Added reality-fiction source layering as a defining worldbuilding method with an explicit verification boundary.
+- Added complementary party formation and early expedition attrition before the tower sequence.
 
 ## Relationships
 
@@ -78,4 +88,5 @@ This profile comes from three conversational episodes about one section of the f
 - [[HetuLuoshu|河图洛书]] - traditional sign system adapted into the novel's directional reasoning.
 - [[NarrativeSetupAndPayoff]] - explains why crystals, blood, artifacts, and state changes become satisfying later clues.
 - [[MaterializedMemoryWorldbuilding]] - describes 恶罗海城 as a physically accessible composite of remembered fragments.
+- [[HistoricalFantasySourceLayering]] - explains how real places, history and folklore lend texture to recombined fictional lore without verifying it.
 - [[ZhiZuiJinMiFM|纸醉金迷FM]] - podcast supplying the current bounded interpretation.

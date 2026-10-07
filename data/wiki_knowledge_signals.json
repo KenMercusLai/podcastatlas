@@ -91850,9 +91850,9 @@
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
     "GhostBlowsOutTheLight": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -91874,6 +91874,13 @@
           "show": "纸醉金迷FM",
           "title": "105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城",
           "url": "/wiki/sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we/"
+        },
+        {
+          "episode_file": "lodVvup1WJp1WtNfzWIGN6a-xytz [lodVvup1WJp1WtNfzWIGN6a-xytz].md",
+          "key": "103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz",
+          "show": "纸醉金迷FM",
+          "title": "103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险",
+          "url": "/wiki/sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz/"
         }
       ],
       "updated": "2026-10-07",
@@ -104880,9 +104887,9 @@
       "url": "/wiki/concepts/historicalentertainmentethics/"
     },
     "HistoricalFantasySourceLayering": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -104897,9 +104904,16 @@
           "show": "The Rest Is History",
           "title": "53. Game of Thrones",
           "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
+        },
+        {
+          "episode_file": "lodVvup1WJp1WtNfzWIGN6a-xytz [lodVvup1WJp1WtNfzWIGN6a-xytz].md",
+          "key": "103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz",
+          "show": "纸醉金迷FM",
+          "title": "103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险",
+          "url": "/wiki/sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/historicalfantasysourcelayering/"
     },
     "HistoricalFemaleRoleModelCaution": {
@@ -129571,9 +129585,9 @@
       "url": "/wiki/entities/kumasi/"
     },
     "KunlunShrineGhostBlowsOutTheLight": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -129595,6 +129609,13 @@
           "show": "纸醉金迷FM",
           "title": "105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城",
           "url": "/wiki/sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we/"
+        },
+        {
+          "episode_file": "lodVvup1WJp1WtNfzWIGN6a-xytz [lodVvup1WJp1WtNfzWIGN6a-xytz].md",
+          "key": "103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz",
+          "show": "纸醉金迷FM",
+          "title": "103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险",
+          "url": "/wiki/sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz/"
         }
       ],
       "updated": "2026-10-07",
