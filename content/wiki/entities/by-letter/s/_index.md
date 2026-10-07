@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12575
+wiki_total_pages: 12577
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "SevenGeases"
     title: "《七咒赋》 / The Seven Geases"
     url: "/wiki/entities/sevengeases/"
+  - key: "SevenWeaponsGuLong"
+    title: "《七种武器》 / Seven Weapons"
+    url: "/wiki/entities/sevenweaponsgulong/"
   - key: "Sanguozhi"
     title: "《三国志》 / Sanguozhi"
     url: "/wiki/entities/sanguozhi/"

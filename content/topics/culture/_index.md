@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3183
+topic_total_pages: 3184
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8454,6 +8454,9 @@ topic_sources:
   - key: "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341"
     title: "117.诅咒兔：怪谈文学也要上桌吃饭"
     url: "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
+  - key: "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf"
+    title: "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑"
+    url: "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
   - key: "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013"
     title: "12 Days: Martin Luther and J.R.R. Tolkien"
     url: "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"

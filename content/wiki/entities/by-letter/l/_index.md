@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12575
+wiki_total_pages: 12577
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "LiaozhaiZhiyi"
     title: "《聊斋志异》"
     url: "/wiki/entities/liaozhaizhiyi/"
+  - key: "LongevitySwordGuLong"
+    title: "《长生剑》 / The Longevity Sword"
+    url: "/wiki/entities/longevityswordgulong/"
   - key: "LordArthurSavilesCrime"
     title: "《阿瑟·萨维尔勋爵的罪行》 / Lord Arthur Savile's Crime"
     url: "/wiki/entities/lordarthursavilescrime/"

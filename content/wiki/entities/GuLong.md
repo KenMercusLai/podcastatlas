@@ -5,6 +5,7 @@ tags: [writer, wuxia, mystery, literature]
 sources:
   - 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095
   - 121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4
+  - 119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -13,13 +14,13 @@ last_updated: 2026-10-07
 
 ## Overview
 
-古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to a close reading of [[PeacockFeatherGuLong|《孔雀翎》]].
+古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[LongevitySwordGuLong|《长生剑》]] and [[PeacockFeatherGuLong|《孔雀翎》]] within [[SevenWeaponsGuLong|《七种武器》]].
 
 ## Current Profile
 
-Across the two sources, Gu Long's distinctiveness lies in recombining wuxia with suspense, deduction, atmosphere, compressed revelation, and psychological allegory. The earlier source describes figures such as Lu Xiaofeng and Chu Liuxiang as part of a “武侠推理” route. The later source shows that route at story level: concealed identities, betrayal, counterfeit objects, reputation, friendship, and an implied death convert a spectacular weapon into a claim about confidence.
+Across the three sources, Gu Long's distinctiveness lies in recombining wuxia with suspense, deduction, atmosphere, compressed revelation, and psychological allegory. The broad comparison describes figures such as Lu Xiaofeng and Chu Liuxiang as part of a “武侠推理” route. The two story discussions show that route at close range: concealed identities, betrayal, counterfeit objects, manipulated inference, reputation, friendship, and romantic ambiguity make belief about a weapon as important as the weapon itself.
 
-The later discussion also sharpens the qualification. A strong reversal or aphoristic theme does not ensure that every causal bridge is persuasive. The hosts admire the reciprocal emotional structure of 高立 and 双双's love while debating the extremity of 双双's description, and they accept the confidence allegory while challenging the weapon's loss and 秋凤梧's final choice.
+The [[SevenWeaponsGuLong|《七种武器》]] cases sharpen the same qualification from different directions. The hosts accept 《孔雀翎》's confidence allegory while challenging the weapon's loss and 秋凤梧's final choice. In 《长生剑》, they find desire, vanity, and scheming more continuous with the action than the explicit claim that “笑” is the true weapon. A strong reversal or aphoristic ending can therefore reorganize a story without making every causal bridge persuasive.
 
 ## Key Characteristics
 
@@ -27,7 +28,8 @@ The later discussion also sharpens the qualification. A strong reversal or aphor
 - Uses hidden identities and delayed revelation to reorganize the reader's understanding of earlier action.
 - Turns martial objects into carriers of psychology and moral argument.
 - Places love, friendship, betrayal, and personal dignity inside violent Jianghu structures.
-- Favors concentrated thematic reversals whose force can exceed the plausibility of their plot setup.
+- Uses characters' confidence in their own deductions as both a source of agency and a route into deception.
+- Favors concentrated thematic reversals whose force can exceed the plausibility or consistency of their plot setup.
 
 ## Evidence
 
@@ -38,29 +40,33 @@ The later discussion also sharpens the qualification. A strong reversal or aphor
 ### Psychological weapon and revelation
 
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] reads the counterfeit Peacock Feather as a device that restores 高立's confidence and preserves the manor's deterrent reputation.
+- [[119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf]] reads the false blueprint, staged theft, and sword-hilt trap as devices that exploit greed and confidence in self-authored inference.
 
 ### Emotional and causal tension
 
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] values 高立 and 双双's mutual need while disputing whether her physical description serves characterization or an overdesigned reversal.
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] questions whether the borrowing, loss, disclosure, and implied poisoning adequately support the story's friendship and confidence themes.
+- [[119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf]] questions the Green Dragon Society's blueprint-sale logic, the accumulation of reversals, and the fit between “smile” and the plot's more visible psychological schemes.
 
 ## Qualifications
 
-Both sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. The first offers a broad comparison with Jin Yong and Liang Yusheng; the second focuses on one story and records disagreement among its hosts. The motives attributed to characters, 高立's death, and the quality of particular plot devices remain interpretations, while theories about 双双's hidden identity are explicitly ungrounded in the discussed text.
+The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; two focus on individual stories and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, and the quality of particular plot devices remain source-scoped or interpretive. Theories about 双双's hidden identity and Bai Yujing's possible leadership of the Green Dragon Society are not treated as textual facts.
 
 ## What Changed
 
-- Added a close case showing how suspense and reversal become psychological allegory in 《孔雀翎》.
-- Qualified stylistic admiration with the distinction between thematic power and causal credibility.
-- Added the disputed representation of 双双 and the reciprocal-care reading of her relationship with 高立.
-- Migrated the page to the synthesis-first entity schema without removing prior evidence.
+- Added 《长生剑》 as a second close case in Gu Long's psychological suspense method.
+- Generalized the 《七种武器》 pattern from confidence alone to symbolic substitution across the cycle.
+- Sharpened the qualification that a memorable final aphorism may fit the plot less well than its recurring mechanisms.
 
 ## Relationships
 
 - [[JinYong|金庸]] - comparison figure associated with historically and classically dense wuxia craft.
 - [[LiangYusheng|梁羽生]] - comparison figure in the new-school wuxia discussion.
+- [[SevenWeaponsGuLong|《七种武器》]] - cycle turning physical weapons into psychological or moral claims.
+- [[LongevitySwordGuLong|《长生剑》]] - case of false treasure, motivated inference, and a disputed smile allegory.
 - [[PeacockFeatherGuLong|《孔雀翎》]] - focused work showing Gu Long's psychological and revelatory method.
 - [[WuxiaIntertextualCraft]] - broader craft concept sharpened by Gu Long's divergent route.
 - [[ConfidenceAsWeapon]] - central allegory extracted from the later source.
+- [[GreedDrivenNarrativeTrap]] - pattern where desire and self-confidence make schemers exploitable.
 - [[ThemePlotCoherence]] - qualification separating thematic achievement from causal execution.
 - [[InterpretationAndOverinterpretation]] - boundary relevant to unsupported reader theories about the story.

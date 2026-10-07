@@ -3097,14 +3097,14 @@
       "earliest_episode_date": "2026-08-27",
       "latest_episode_date": "2026-09-29",
       "latest_episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [],

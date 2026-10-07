@@ -94593,6 +94593,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
+    "GreedDrivenNarrativeTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/greeddrivennarrativetrap/"
+    },
     "GreekMythology": {
       "episode_count": 8,
       "show_count": 3,
@@ -95257,9 +95273,9 @@
       "url": "/wiki/entities/gujiwesternhan/"
     },
     "GuLong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -95274,6 +95290,13 @@
           "show": "纸醉金迷FM",
           "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
           "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        },
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
         }
       ],
       "updated": "2026-10-07",
@@ -141124,6 +141147,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/longtermprivateownership/"
+    },
+    "LongevitySwordGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/longevityswordgulong/"
     },
     "LonghuaAirport": {
       "episode_count": 1,
@@ -202152,6 +202191,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/sevensistersoilmajors/"
     },
+    "SevenWeaponsGuLong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
+          "key": "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4",
+          "show": "纸醉金迷FM",
+          "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
+          "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        },
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/sevenweaponsgulong/"
+    },
     "SevenYearsWar": {
       "episode_count": 3,
       "show_count": 1,
@@ -222837,9 +222899,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemePlotCoherence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -222847,6 +222909,13 @@
           "show": "纸醉金迷FM",
           "title": "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言",
           "url": "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+        },
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
         }
       ],
       "updated": "2026-10-07",
@@ -255404,9 +255473,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255421,6 +255490,13 @@
           "show": "纸醉金迷FM",
           "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
           "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
+        },
+        {
+          "episode_file": "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md",
+          "key": "119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf",
+          "show": "纸醉金迷FM",
+          "title": "119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑",
+          "url": "/wiki/sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf/"
         }
       ],
       "updated": "2026-10-07",

@@ -31224,3 +31224,11 @@ Added source `120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0f
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑
+
+Added source `119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf`; created [[SevenWeaponsGuLong|《七种武器》]], [[LongevitySwordGuLong|《长生剑》]], and [[GreedDrivenNarrativeTrap|贪欲驱动的自陷局]]; and resynthesized [[GuLong|古龙]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[ThemePlotCoherence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the fake Peacock Feather blueprint works because secrecy, difficulty, greed, and rival commitment authenticate it; repeated would-be “orioles” become victims of their own confidence; and “smile” remains a possible symbol for charm and emotional influence even though calculation and motivated belief do more consistent causal work in the plot. No settled contradiction was adopted. Bai Yujing and Yuan Zixia's identities, her motive for changing sides, the accepted membership of the story cycle, and Green Dragon Society leadership theories remain source-scoped or explicitly speculative. Broad suspense and misdirection pages were kept closed because the focused work and concept capture the bounded addition without rewriting their larger legacy evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,904 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑](sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf.md) — 纸醉金迷FM以假孔雀图、连环背叛和身份谜局重讲《长生剑》，并质疑“笑”的寓意是否比贪欲、自负与心机更贴合实际情节。
 - [120 红楼金粉 | 金陵十二钗之王熙凤](sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3.md) — 纸醉金迷FM从管理、人情、婚姻、权力与人命争议细读王熙凤，在结构性约束与个人责任之间保留其善意、才干、狠辣和悲剧性。
 - [Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia](sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454.md) — Huberman Lab interview on identity-level pattern change, emotional tolerance, yoga nidra, digital comparison, pornography, and AI reality-testing risk.
 - [121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言](sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4.md) — 纸醉金迷FM以《孔雀翎》区分有力的信心寓言与薄弱的借宝、遗失及友情结局因果，同时细读高立与双双的相互滋养。
@@ -3969,9 +3970,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [《长生剑》 / The Longevity Sword](entities/LongevitySwordGuLong.md) — 古龙《七种武器》开篇，以假孔雀图、动机性判断和连环反转把贪欲与心机置于正面武力之上。
+- [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational literary podcast using retelling, disagreement, evidence boundaries, and moral gradation across 《孔雀翎》 and its “红楼金粉” series.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational literary podcast using retelling, live prediction, disagreement, evidence boundaries, and moral gradation across Gu Long and 《红楼梦》.
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
@@ -13074,7 +13077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Richard Jewell / 理查德·朱维尔](entities/RichardJewell.md) — Atlanta Olympics security guard used as an example of suspicion, media pressure, and investigative overreach before exoneration.
 - [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer and newspaper editor read through cultural craft, political critique, and his mentorship and disputes with Lin Xingzhi.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
-- [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer framed as diverging from Jin Yong and Liang Yusheng through suspense and martial-arts mystery.
+- [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining martial-arts mystery with concealed identity, psychological inference, symbolic weapons, and concentrated reversal.
 - [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
 - [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel used to connect Song social mobility, Jianghu plausibility, and identity tragedy.
 - [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.
@@ -16596,13 +16599,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for a prize and confidence in superior cunning make participants authenticate the bait and help create their own defeat.
 - [Domestic Authority Without Security / 有权理家而无保障](concepts/DomesticAuthorityWithoutSecurity.md) — 区分家庭内部的实际管理权与婚姻、身份、财产及制度存续上的可靠保障。
 - [Identity-Level Pattern Change](concepts/IdentityLevelPatternChange.md) — Durable-change framework targeting self-beliefs, conditioned wants, and tendencies beneath repeatedly forced behavior.
 - [Distress Tolerance and Emotional Choice](concepts/DistressToleranceAndEmotionalChoice.md) — Capacity to accept and name emotion or uncertainty without treating it as proof of danger or an automatic behavioral command.
 - [Yoga Nidra and Sankalpa Belief Change](concepts/YogaNidraSankalpaBeliefChange.md) — Evidence-bounded proposal separating immediate deep relaxation from stronger claims about learning, unconscious editing, and identity change.
 - [Confidence as a Weapon](concepts/ConfidenceAsWeapon.md) — Belief in a decisive resource can restore existing skill internally while its reputation deters opponents externally.
 - [Reciprocal Care and Dignity](concepts/ReciprocalCareAndDignity.md) — Care relation where visible assistance flows one way but emotional safety, recognition, purpose, and dignity flow both ways.
-- [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between a story's thematic force and whether its causes, motivations, and revelations adequately support that theme.
+- [Theme-Plot Coherence](concepts/ThemePlotCoherence.md) — Critical distinction between a story's thematic force and whether its recurring action, causes, motivations, and revelations support the declared theme.
 - [知敌式备战 / Adversary-Knowledge Preparation](concepts/AdversaryKnowledgePreparation.md) — 把体能与武艺训练同敌方行动习惯、地形补给、内部人信息和地图推演结合，并把来源可信度与现代类比留作明确边界。
 - [Five-Forces Systemic Cycle](concepts/FiveForcesSystemicCycle.md) — Dalio framework for interacting debt, domestic conflict, great-power rivalry, technology, and natural shocks during changes in political and monetary order.
 - [Technology-Company Performance Gap](concepts/TechnologyCompanyPerformanceGap.md) — Distinction between economy-wide technological usefulness and the survival, profitability, or investor returns of companies building it.
