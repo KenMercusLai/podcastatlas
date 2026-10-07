@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9854
+wiki_total_pages: 9855
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2630,6 +2630,9 @@ wiki_pages:
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"
+  - key: "StructuralPathsToImperialReunification"
+    title: "帝国再统一的结构路径 / Structural Paths to Imperial Reunification"
+    url: "/wiki/concepts/structuralpathstoimperialreunification/"
   - key: "StrongRulerChancellorshipDoubleBind"
     title: "强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind"
     url: "/wiki/concepts/strongrulerchancellorshipdoublebind/"

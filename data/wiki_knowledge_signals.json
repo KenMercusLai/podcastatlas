@@ -114061,9 +114061,9 @@
       "url": "/wiki/concepts/imperialfunerarypreservation/"
     },
     "ImperialHomogenization": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！ [ljnhWcoUQu35RmvB-CNRZYzj2J6L].md",
@@ -114099,9 +114099,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·秦纪》120-4｜并六国后 秦始皇教你如何守江山",
           "url": "/wiki/sources/zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3） [li8XXFWeQgkS9IaDx-vYnSUAK52e].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
         }
       ],
-      "updated": "2026-08-22",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/imperialhomogenization/"
     },
     "ImperialLogisticalSpectacle": {
@@ -197784,9 +197791,9 @@
       "url": "/wiki/concepts/romaneliteleisure/"
     },
     "RomanEmpire": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -197843,9 +197850,16 @@
           "show": "The Rest Is History",
           "title": "156. When Did the Roman Empire Fall?",
           "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3） [li8XXFWeQgkS9IaDx-vYnSUAK52e].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
@@ -216974,6 +216988,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
     },
+    "StructuralPathsToImperialReunification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3） [li8XXFWeQgkS9IaDx-vYnSUAK52e].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/structuralpathstoimperialreunification/"
+    },
     "StructuralPowerImbalance": {
       "episode_count": 2,
       "show_count": 2,
@@ -229201,9 +229231,9 @@
       "url": "/wiki/concepts/trainingstressrecoverycontinuum/"
     },
     "TransEurasianMigrationCascade": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？ [lpk0c6MUNEAbhk1oonZYjvawwF4_].md",
@@ -229218,9 +229248,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3） [li8XXFWeQgkS9IaDx-vYnSUAK52e].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/transeurasianmigrationcascade/"
     },
     "TransMountainExpansion": {

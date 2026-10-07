@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
 - [《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？](sources/zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jidan-lgvcbfgdmw5qclx5l3lr2afixqgl.md) — 以郭解调解纠纷、追随者暴力和迁徙后仍存的号召力，呈现游侠社会功能与法外强制的同源性，并对照《史记》与《汉书》的不同评价。
 - [Charles Ponzi's scheme (plus a new scam)](sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476.md) — Planet Money separates Ponzi's plausible postal-coupon spread from his nonexistent operating business and fraudulent payouts, then warns about podcast-journalist impersonators stealing cryptocurrency.
 - [《资治通鉴·汉纪》284｜倒行逆施的主父偃，揭晓贪财的真相（1）](sources/zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-1-loeyzfhhdr9wdjhmdpfhmkvsm5va.md) — 以欲望递进和财富无常预示主父偃因贪自毁，并借荀悦与司马迁对游侠的不同评价呈现官方秩序和体制外救助的张力。
@@ -16687,6 +16688,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Structural Paths to Imperial Reunification / 帝国再统一的结构路径](concepts/StructuralPathsToImperialReunification.md) — Qualified comparison of how inherited institutions, shared writing, geography, and frontier pressure shape post-collapse recombination without determining civilizational destiny.
 - [被扣使者的使命延续 / Captive Envoy Mission Persistence](concepts/CaptiveEnvoyMissionPersistence.md) — 使者在长期强制扣押中通过适应维持生存，并等待可行退出机会而不把适应本身等同于放弃原外交目标。
 - [禁令遵从不对称 / Prohibition Compliance Asymmetry](concepts/ProhibitionComplianceAsymmetry.md) — 禁令可能先移除守法者的正当能力，而高风险行为者继续规避或替代；是否成立取决于执法、替代、合法用途与伤害变化。
 - [任命式间接报复 / Appointment as Indirect Retaliation](concepts/AppointmentAsIndirectRetaliation.md) — 以表面升迁或正当配置增加对手风险、拉远其决策接近度或削弱实权，同时用任命形式保留可否认性。

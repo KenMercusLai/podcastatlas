@@ -6,7 +6,8 @@ tags: [history, migration, frontier, xiongnu, rome, geopolitics]
 sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e
+last_updated: 2026-10-07
 ---
 
 ## Definition
@@ -19,6 +20,8 @@ Hanji 763 supplies the eastern-frontier prequel to the cascade. It presents [[Do
 
 Hanji 764 then expands that deferred western layer by associating Northern Xiongnu westward movement with later European Huns, Gothic displacement, and pressure on the [[RomanEmpire|Roman Empire]]. Taken together, the sources make the local Eastern Han frontier victory legible at a Eurasian scale while keeping the evidentiary caveat central.
 
+Hanji 280 broadens the frame from a single displacement chain to a third-to-sixth-century wave affecting China, Rome, India, and Persia. It adds a two-sided mechanism—weakening agrarian empires plus improved steppe mobility through mounted warfare—but it comes from the same show and does not independently verify the Northern-Xiongnu-to-European-Hun identity claim.
+
 The current judgment remains deliberately qualified. The source tradition treats the Northern-Xiongnu-to-Roman chain as a compelling historical association rather than settled proof. The concept should therefore be used to mark cascading-pressure arguments and their uncertainty, not to state that Dou Xian directly destroyed Rome.
 
 ## Key Claims
@@ -27,6 +30,7 @@ The current judgment remains deliberately qualified. The source tradition treats
 - Hanji 763 links Dou Xian's Jiluoshan-era campaign to Northern Xiongnu collapse, Xianbei expansion, inward Hu movement, and westward Northern Xiongnu movement.
 - Hanji 764 links that westward-movement frame to later Hunnic pressure in Europe.
 - The two-source sequence presents Hunnic attacks as pushing Gothic groups into Roman space and increasing pressure on Rome.
+- Hanji 280 generalizes the sequence into a Eurasian wave produced by interacting imperial weakness and mounted steppe capacity.
 - [[AttilaTheHun|Attila]] functions as the remembered late stage of this pressure sequence.
 - The concept requires an evidentiary caveat because neither source proves a continuous identity chain from Northern Xiongnu to European Huns.
 
@@ -39,16 +43,17 @@ The current judgment remains deliberately qualified. The source tradition treats
 - European pressure chain: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] describes Huns defeating or driving Gothic groups, thereby adding pressure to the Roman world.
 - Attila memory: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] presents Attila as the most remembered Hunnic figure in the later European layer.
 - Qualification: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] warns that the Northern Xiongnu to Rome chain should be treated as source-scoped historical association rather than settled causal proof.
+- Macro-wave mechanism: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280]] places China, Rome, India, and Persia in a shared third-to-sixth-century invasion frame and links agrarian-state weakness to mounted steppe mobility.
 
 ## Counterevidence & Qualifications
 
-The current wiki has two bounded sources for this concept, but they are adjacent episodes from the same show rather than independent corroboration. Hanji 763 explicitly previews the European layer instead of proving it, and Hanji 764 frames the long-range chain as a source-scoped historical association. The concept should not be used as proof of direct ethnogenesis, a simple east-to-west migration line, or a monocausal explanation for Rome's fall.
+The current wiki has three bounded sources for this concept, but all come from the same show rather than providing independent corroboration. Hanji 763 explicitly previews the European layer instead of proving it, Hanji 764 qualifies the long-range chain, and Hanji 280 generalizes it without supplying specialist evidence. The concept should not be used as proof of direct ethnogenesis, a simple east-to-west migration line, or a monocausal explanation for Rome's fall.
 
 ## What Changed
 
-- Added Hanji 763 as the eastern-frontier prequel behind the migration-cascade frame.
-- Added Jiluoshan, Yanran, Xianbei expansion, and inward Hu movement as near-field consequences before the European comparison.
-- Kept the caveat stronger than the causal claim because Hanji 763 defers and Hanji 764 qualifies the European evidence.
+- Added the broader third-to-sixth-century China-Rome-India-Persia wave proposed by Hanji 280.
+- Added the interaction between agrarian-imperial weakness and mounted steppe mobility.
+- Kept the caveat stronger than the causal claim because all three bounded sources come from one show and do not prove direct ethnogenesis.
 
 ## Related Concepts
 
@@ -59,3 +64,4 @@ The current wiki has two bounded sources for this concept, but they are adjacent
 - [[AttilaTheHun]] - marks the late Hunnic memory layer inside the cascade.
 - [[Xianbei]] - represents the near-field power-vacuum beneficiary after Northern Xiongnu collapse.
 - [[HistoricalRhymePoliticalReading]] - related interpretive habit of using historical parallels while preserving qualification.
+- [[StructuralPathsToImperialReunification]] - compares why polities under related frontier pressure can follow different post-collapse paths.

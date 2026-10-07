@@ -31604,3 +31604,11 @@ Added source `zizhi-tongjian-hanji-282-jianghu-daxia-guojie-weihe-rang-wudi-jida
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）
+
+Added source `zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e`; created [[StructuralPathsToImperialReunification|帝国再统一的结构路径]]; and resynthesized [[RomanEmpire|罗马帝国]], [[TransEurasianMigrationCascade|欧亚迁徙连锁]], and [[ImperialHomogenization|帝国整齐划一]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: inherited institutions, shared writing, geography, internal state capacity, and mounted frontier pressure can shape divergent post-collapse paths, but they do not establish a timeless Chinese “unity gene,” Roman non-unity, or a direct Xiongnu-to-Roman-collapse chain. The episode's title-body mismatch is explicit: the supplied body contains no substantial Wei Qing campaign narrative, so [[WeiQingHanGeneral|卫青]] was not reopened. Existing Roman integration and eastern-continuity evidence qualifies the episode's strongest contrast; no settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,953 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
