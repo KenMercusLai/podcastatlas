@@ -31998,3 +31998,11 @@ Added source `zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？
+
+Added source `zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d`; resynthesized [[ChineseCivilizationalContinuity|Chinese civilizational continuity]] and [[StructuralPathsToImperialReunification|structural paths to imperial reunification]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode places Qin-Han China, Rome, Kushan, and Parthia in a connected Eurasian frame and uses peripheral rise, institutional change, continuity, and resilience to open a comparative question, but explicitly postpones the detailed explanation of divergence. No settled contradiction was adopted. Roman disappearance, synchronized rise, edge-civilization causation, ancient troop figures, four-empire grouping, distance, and commodity-route claims remain source-scoped. Broad Han Wudi, Roman Empire, Parthian Empire, ancient Silk Road, Qin, Roman Republic, and Shang Yang reform pages were kept closed because the bounded addition is represented in the focused source and two comparative concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,004 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

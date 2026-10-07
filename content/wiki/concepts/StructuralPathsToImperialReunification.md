@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [comparative-history, empire, reunification, institutions, writing, geography]
 sources:
   - zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -15,6 +16,8 @@ last_updated: 2026-10-07
 ## Current Synthesis
 
 Hanji 280 argues that Qin-Han institutional standardization, a shared written tradition, and the connected Yellow-Yangtze population core made later Chinese reunification more achievable, while the [[RomanEmpire|Roman Empire]]'s western fragmentation followed a different path. Its strongest usable insight is path dependence: collapse does not erase administrative templates, communication systems, legitimacy expectations, or spatial networks, and successor regimes inherit different materials from which to rebuild.
+
+Hanji 258 adds the agenda-setting prehistory rather than a second causal solution. It places Qin-Han China and Rome among several roughly contemporary Eurasian empires, describes both as rising from older civilizational margins, and identifies institutional change as a shared starting point. The episode explicitly postpones the detailed answer, so “peripheral rise” broadens the comparison but does not replace the later source's institutional, written, and geographic mechanisms.
 
 The comparison is not a deterministic law. The episode's “unity gene” formulation turns contingent institutions and historical expectations into a civilizational essence, understates Roman integration and eastern Roman continuity, and simplifies both Chinese diversity and European geography. The concept therefore records a bundle of enabling or constraining conditions, not a claim that either civilization had a fixed destiny.
 
@@ -26,6 +29,7 @@ The comparison is not a deterministic law. The episode's “unity gene” formul
 - Nomadic military change and agrarian-state weakness can interact, so external pressure and internal capacity should be analyzed together.
 - Chinese reunification and western Roman fragmentation are better treated as historically produced paths than as proof of immutable civilizational traits.
 - Roman comparison must distinguish the end of western emperorship from continuing Roman institutions and the eastern Roman state.
+- Similar timing and peripheral origin can motivate comparison without proving shared institutions, synchronized development, or predetermined outcomes.
 
 ## Evidence
 
@@ -34,16 +38,18 @@ The comparison is not a deterministic law. The episode's “unity gene” formul
 - Spatial structure: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280]] contrasts connected Chinese river plains with Europe's mountains, divergent rivers, long coastline, and multiple centers.
 - External-internal interaction: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280]] joins agrarian-imperial stagnation or corruption to the increased mobility of mounted steppe warfare.
 - Divergent aftermath: [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e|Hanji 280]] contrasts later Chinese reunification with western Rome's successor kingdoms while acknowledging that a new European civilization emerged from the latter path.
+- Comparative setup: [[zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d|Hanji 258]] places Qin-Han China and Rome within a wider Eurasian imperial field and treats their edge-position and institutional reforms as questions for later explanation.
+- Deferred mechanism: [[zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d|Hanji 258]] closes by promising the causal account in later episodes, so it supports the comparison's scope rather than a settled explanation of divergence.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one short, popular-history summary and has no independent comparative source in its bounded evidence inventory. “Unity gene,” perpetual linguistic unity, and Roman non-unity are interpretive overstatements. China experienced long divisions and strong regional diversity; Rome created durable institutions and continued in the east; geography supplies constraints and opportunities rather than automatic outcomes. The source's migration chain and military-technology chronology also require specialist and primary-source verification.
+The concept rests on two short, related popular-history summaries rather than independent specialist comparison. Hanji 258 is an introductory promise of explanation, while Hanji 280 supplies the more developed institutional-geographic claim; their agreement is therefore neither independent corroboration nor a complete causal case. “Unity gene,” perpetual linguistic unity, vanished Rome, and Roman non-unity are interpretive overstatements. China experienced long divisions and strong regional diversity; Rome created durable institutions and continued in the east; geography and peripheral position supply constraints and opportunities rather than automatic outcomes. The migration chain, military-technology chronology, troop figures, synchronized-rise framing, and edge-civilization hypothesis require specialist and primary-source verification.
 
 ## What Changed
 
-- Created the concept to retain the episode's institutional, written, geographic, and military comparison without adopting its essentialist language.
-- Separated enabling conditions for reunification from deterministic claims about civilizational destiny.
-- Added Roman periodization and evidentiary limits as core qualifications.
+- Added Hanji 258 as the agenda-setting layer for the Qin-Han/Rome comparison.
+- Distinguished its peripheral-rise hypothesis from Hanji 280's later institutional, written, and geographic mechanisms.
+- Made the deferred explanation and non-independent provenance explicit evidence limits.
 
 ## Related Concepts
 

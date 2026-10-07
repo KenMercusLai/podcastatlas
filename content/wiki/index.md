@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？](sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d.md) — 以秦汉、罗马、贵霜和安息的欧亚并置提出文明延续与帝国分流问题，并把边缘崛起和制度变革设为比较起点；完整因果被明确留待后续，罗马“消亡”等说法保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（2）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-2-lo4brmkuzpoozgszshrqz4hbgrgt.md) — 公孙卿借柏梁台火灾推动甘泉迁驻与建章宫营建，太液池仙岛和承露铜人把求仙变成工程支出；缪忌又以神阶和古制把太一推入国家祭祀，具体年代、规模与效验保留来源边界。
 - [《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）](sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx.md) — 李少君以长寿人设、古事古器知识与安期生传说取得汉武帝信任，把祭灶、丹砂化金、金器延寿、蓬莱寻仙与封禅串成求仙方案；其死后又被解释为化龙升天，搜索因而继续。
 - [《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战](sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb.md) — 王恢以边境诱歼回应韩安国的远征后勤异议，聂翁壹用假投降与首级示信引军臣单于趋向马邑；本期止于入伏前，战果、失败原因与责任均未建立。

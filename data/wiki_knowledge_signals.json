@@ -40280,9 +40280,9 @@
       "url": "/wiki/entities/chinesechampionsleague/"
     },
     "ChineseCivilizationalContinuity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4329327216 [GLT4329327216].md",
@@ -40290,9 +40290,16 @@
           "show": "The Rest Is History",
           "title": "20. China",
           "url": "/wiki/sources/20-china-glt4329327216/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？ [lru1OnwnPN7keVfe8-wMcnfW429d].md",
+          "key": "zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/chinesecivilizationalcontinuity/"
     },
     "ChineseClassicalInterpretationContinuity": {
@@ -219481,9 +219488,9 @@
       "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
     },
     "StructuralPathsToImperialReunification": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3） [li8XXFWeQgkS9IaDx-vYnSUAK52e].md",
@@ -219491,9 +219498,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？ [lru1OnwnPN7keVfe8-wMcnfW429d].md",
+          "key": "zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》258｜颠覆认知，秦汉与罗马为何命运迥异？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-258-dianfu-renzhi-qinhan-yu-luoma-weihe-mingyun-jiongyi-lru1onwnpn7kevfe8-wmcnfw429d/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/structuralpathstoimperialreunification/"
     },
     "StructuralPowerImbalance": {
