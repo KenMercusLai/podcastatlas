@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [096 【锐评春节档】《镖人》电影与原著全方位对比](sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d.md) — 纸醉金迷FM比较《镖人》漫画与《镖人：风起大漠》，肯定传统武侠动作设计，同时区分有效重写与损害政治因果、群像厚度及情绪铺垫的压缩。
 - [306-词典有什么用？](sources/306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso.md) — 独树不成林以词典史讨论描述与规范、语言政治、纸质编辑约束，以及国家意识形态和市场压力下的公共品治理。
 - [《资治通鉴·汉纪》262｜武帝治水，揭露刘彻最愚蠢的一面（2）](sources/zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7.md) — 以田蚡封地受益解释瓠子决口长期未修，并把王太后亲缘、门客网络与外戚工具角色连成其政治画像；罗马—秦汉比较、治水因果与人格评价保留来源边界。
 - [《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（1）](sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y.md) — 田蚡由窦婴府中不起眼的郎官以低姿态接近窦氏权力网络，又凭王太后亲缘与旧有人脉升任太尉、广招门客；任命因果、私人动机和三方权力强弱保留来源边界。
@@ -4063,6 +4064,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 ## Entities
+- [《镖人》 / Biao Ren](entities/BiaoRenComic.md) — Comic joining desert wuxia adventure to Sui politics, ensemble motives, freedom, dignity, and collective agency.
+- [《镖人：风起大漠》 / Blades of the Guardians](entities/BiaoRenFilm2026.md) — Wuxia film whose readable action transfers more successfully than the comic's political and ensemble density.
+- [袁和平 / Yuen Woo-ping](entities/YuenWooPing.md) — Director bounded here through the action craft of 《镖人：风起大漠》.
 - [Noah Webster](entities/NoahWebster.md) — American lexicographer who joined public education and post-independence national differentiation to a commercially fragile dictionary project.
 - [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
@@ -16770,6 +16774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, and consequence.
 - [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.
 - [Dictionary Public-Good Governance / 词典公共品治理](concepts/DictionaryPublicGoodGovernance.md) — Institutional problem of sustaining accessible, independent, professionally edited dictionaries under state and market pressure.
 - [Political Semantic Change / 政治性语义变迁](concepts/PoliticalSemanticChange.md) — Alteration of public meaning and emotional charge through ideology, movements, campaigns, and strategic rhetoric.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9886
+wiki_total_pages: 9887
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "TradingProbabilityCalibration"
     title: "Trading Probability Calibration / 交易概率校准"
     url: "/wiki/concepts/tradingprobabilitycalibration/"
+  - key: "TraditionalWuxiaActionCraft"
+    title: "Traditional Wuxia Action Craft / 传统武侠动作设计"
+    url: "/wiki/concepts/traditionalwuxiaactioncraft/"
   - key: "TrafficArbitrageToBrandBuilding"
     title: "Traffic Arbitrage to Brand Building"
     url: "/wiki/concepts/trafficarbitragetobrandbuilding/"

@@ -5,7 +5,8 @@ tags: [adaptation, literature, film, television, narrative, character]
 sources:
   - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
-last_updated: 2026-10-07
+  - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,11 +22,13 @@ This standard does not license arbitrary rewriting. Changes still have to produc
 
 The chronological survey sharpens the distinction by comparing the 1983 and 2017 television versions. A visibly altered sequence can remain faithful when its new causal chain is coherent, while a production can reproduce the same event but remove the context that explains why it occurs. It also separates direct fidelity from artistic value: a work such as 《东邪西毒》 can achieve powerful cinema through transformation without serving as a close retelling.
 
+The [[BiaoRenComic|《镖人》]] comparison adds a single film in which different functions transfer unevenly. [[BiaoRenFilm2026|《镖人：风起大漠》]] rebuilds 地听's motive and final-opponent role coherently and preserves martial pleasure through [[TraditionalWuxiaActionCraft|readable action]], yet cuts much of the imperial pressure, rebel philosophy, religious background, and ensemble history that explain why other characters follow, refuse, or sacrifice. It also shows that event retention is not enough: 老莫's death remains in the plot but loses force when prior relationship development, framing, pacing, and reactions are weakened.
+
 ## Key Claims
 
 - Literal similarity and functional fidelity are separate judgments.
 - A successful change preserves or rebuilds character causality in a form viewers can perceive.
-- Compression requires selection, but selection should retain the relationships and turning points that make growth intelligible.
+- Compression requires selection, but selection should preserve the causal and relational support that makes motives, political stakes, growth, and emotional turns intelligible.
 - Casting resemblance cannot substitute for performance of a character's internal contrasts.
 - Screen conflict must be set up and resolved as drama rather than relying on the novel's explanatory authority.
 - Thematic fidelity must be earned through the adapted plot rather than asserted as a slogan.
@@ -50,9 +53,14 @@ The chronological survey sharpens the distinction by comparing the 1983 and 2017
 - [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] contrasts coherent deviation with a scene that retains an original event after removing the context that made it reasonable.
 - [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] distinguishes the artistic achievement of a transformative work from the separate question of fidelity to the novel.
 
+### Uneven transfer across action, politics, and emotion
+
+- [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] treats 地听's brotherhood rewrite as internally coherent while arguing that cuts to 隋炀帝, 裴世矩, 知世郎, and the five-family conflict weaken the causes and values behind the escort plot.
+- [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] uses 老莫's death to show that a retained event can lose its function through reduced setup, distant staging, and premature emotional release.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from two informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, and personal taste. “Character core” can itself become a vague defense of preferred adaptations unless tied to observable setup, motive, choice, and consequence. Functional success also does not erase the value of language, pacing, structure, or cultural texture that may be lost even when plot purpose survives. Artistic autonomy and fidelity remain separate axes rather than a single score.
+The concept is derived from three informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can itself become a vague defense of preferred adaptations unless tied to observable setup, motive, choice, consequence, staging, and reaction. Functional success in action or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes rather than a single score, and production-motive claims in the 《镖人》 discussion remain speculative.
 
 ## What Changed
 
@@ -60,6 +68,7 @@ The concept is derived from two informal, multi-host comparisons whose judgments
 - Made character causality, perceivable motive, and earned thematic development the main fidelity tests.
 - Added a boundary against treating any formally inventive rewrite as automatically faithful.
 - Added event-without-context as a failure mode and separated artistic achievement from direct fidelity.
+- Added uneven transfer across action, political causality, ensemble structure, and emotional staging.
 
 ## Related Concepts
 
@@ -69,3 +78,4 @@ The concept is derived from two informal, multi-host comparisons whose judgments
 - [[NarrativeSetupAndPayoff]] - describes the prior preparation needed for changed scenes and climaxes to remain persuasive.
 - [[LegendOfTheCondorHeroes]] - bounded work whose many screen versions ground the framework.
 - [[AdaptationReceptionMemory]] - separates function-based evaluation from familiarity and generational attachment.
+- [[TraditionalWuxiaActionCraft]] - shows how one craft function can transfer successfully while other source functions weaken.

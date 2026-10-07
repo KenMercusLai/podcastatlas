@@ -25445,6 +25445,38 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/bianquhydraulicgovernance/"
     },
+    "BiaoRenComic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/biaorencomic/"
+    },
+    "BiaoRenFilm2026": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/biaorenfilm2026/"
+    },
     "BiasBlindSpot": {
       "episode_count": 1,
       "show_count": 1,
@@ -88336,9 +88368,9 @@
       "url": "/wiki/concepts/functionpreservingcolorectalsurgery/"
     },
     "FunctionalAdaptationFidelity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq [li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq].md",
@@ -88353,9 +88385,16 @@
           "show": "纸醉金迷FM",
           "title": "100期了！金庸《射雕英雄传》影视改编大盘点",
           "url": "/wiki/sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk/"
+        },
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/functionaladaptationfidelity/"
     },
     "FunctionalArticulationDisorder": {
@@ -231295,6 +231334,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/traditionalchineseapprenticeship/"
     },
+    "TraditionalWuxiaActionCraft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/traditionalwuxiaactioncraft/"
+    },
     "Trae": {
       "episode_count": 2,
       "show_count": 1,
@@ -255713,6 +255768,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/yuexiayao/"
     },
+    "YuenWooPing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yuenwooping/"
+    },
     "Yuezhi": {
       "episode_count": 5,
       "show_count": 1,
@@ -260670,9 +260741,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -260820,9 +260891,16 @@
           "show": "纸醉金迷FM",
           "title": "097 金庸小说人物MBTI大盘点",
           "url": "/wiki/sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6/"
+        },
+        {
+          "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
+          "key": "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d",
+          "show": "纸醉金迷FM",
+          "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
+          "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhipuAI": {

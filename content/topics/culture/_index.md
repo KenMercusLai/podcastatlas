@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3219
+topic_total_pages: 3223
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3115,6 +3115,9 @@ topic_concepts:
   - key: "TrademarkBasedEventProtection"
     title: "Trademark-Based Event Protection"
     url: "/wiki/concepts/trademarkbasedeventprotection/"
+  - key: "TraditionalWuxiaActionCraft"
+    title: "Traditional Wuxia Action Craft / 传统武侠动作设计"
+    url: "/wiki/concepts/traditionalwuxiaactioncraft/"
   - key: "TragicModernity"
     title: "Tragic Modernity"
     url: "/wiki/concepts/tragicmodernity/"
@@ -7295,6 +7298,9 @@ topic_entities:
   - key: "TrueEducationKDrama"
     title: "《铁拳教育》 / True Education"
     url: "/wiki/entities/trueeducationkdrama/"
+  - key: "BiaoRenFilm2026"
+    title: "《镖人：风起大漠》 / Blades of the Guardians"
+    url: "/wiki/entities/biaorenfilm2026/"
   - key: "ChangdehaokanNengDangFanChiMa"
     title: "《长得好看能当饭吃吗》"
     url: "/wiki/entities/changdehaokannengdangfanchima/"
@@ -8204,6 +8210,9 @@ topic_entities:
   - key: "MihuanChishu"
     title: "蜜獾吃书"
     url: "/wiki/entities/mihuanchishu/"
+  - key: "YuenWooPing"
+    title: "袁和平 / Yuen Woo-ping"
+    url: "/wiki/entities/yuenwooping/"
   - key: "YuanFangHYROX"
     title: "袁放 / Yuan Fang (HYROX)"
     url: "/wiki/entities/yuanfanghyrox/"
@@ -8466,6 +8475,9 @@ topic_sources:
   - key: "09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898"
     title: "09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？"
     url: "/wiki/sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898/"
+  - key: "096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d"
+    title: "096 【锐评春节档】《镖人》电影与原著全方位对比"
+    url: "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
   - key: "099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz"
     title: "099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》"
     url: "/wiki/sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz/"

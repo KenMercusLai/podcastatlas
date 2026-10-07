@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12653
+wiki_total_pages: 12656
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1319,6 +1319,12 @@ wiki_pages:
   - key: "BlindMountainFilm"
     title: "《盲山》 / Blind Mountain"
     url: "/wiki/entities/blindmountainfilm/"
+  - key: "BiaoRenComic"
+    title: "《镖人》 / Biao Ren"
+    url: "/wiki/entities/biaorencomic/"
+  - key: "BiaoRenFilm2026"
+    title: "《镖人：风起大漠》 / Blades of the Guardians"
+    url: "/wiki/entities/biaorenfilm2026/"
   - key: "BijingJi"
     title: "《闭经记》"
     url: "/wiki/entities/bijingji/"

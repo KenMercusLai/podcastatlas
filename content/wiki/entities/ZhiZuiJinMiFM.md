@@ -24,15 +24,16 @@ sources:
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy
   - 097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6
+  - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-07
+last_updated: 2026-10-08
 ---
 
 # 纸醉金迷FM / Zhi Zui Jin Mi FM
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], an adaptation survey of [[LegendOfTheCondorHeroes|《射雕英雄传》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -47,6 +48,8 @@ The earlier opening-story discussion adds cultural placement and character forma
 The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] discussions add systematic novel-film comparison, childhood reading memory, and explicit children's-literature disagreement. The first half connects isolation and the wish for belonging to [[InstitutionalizedFantasyWorldbuilding|institutional worldbuilding]], showing how letters, shopping, banking, currency, school supplies, and transport make inherited magical motifs feel ordinary and inhabitable. Across both halves, the hosts trace how prose accumulation, visual invention, interiority, buried textual clues, logic puzzles, camera emphasis, visible action, and runtime alter narrative functions across media. They also separate an effective Snape-to-Quirrell reversal from simple surprise by checking whether earlier evidence can be reread. Their debate over love as protective magic preserves both childhood emotional formation and adult concern about convenience, while the school-points discussion joins satisfying moral recognition to institutional bias. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 The two [[LegendOfTheCondorHeroes|《射雕英雄传》]] surveys extend adaptation criticism across many films, television series, prequels, and stage forms. Version rankings remain subjective, but repeated comparison makes the show's criteria unusually explicit: character logic outranks surface resemblance, changed scenes can preserve narrative function, film and television impose different duration structures, and martial spectacle succeeds only when it carries growth, tactics, and thematic culmination. The chronological episode adds [[AdaptationReceptionMemory]]: disagreements over performers and versions expose nostalgia, first-viewing age, rebroadcast access, voice, bearing, songs, and chemistry as parts of reception rather than neutral facts. It also separates direct fidelity from artistic achievement and suggests that inventions in canonical blank spaces can face less resistance than changes to familiar main-line scenes.
+
+The [[BiaoRenComic|《镖人》]] comparison applies those criteria to one new theatrical adaptation. The hosts' scores diverge sharply, but they agree that [[YuenWooPing|袁和平]]'s [[TraditionalWuxiaActionCraft|readable martial action]] makes [[BiaoRenFilm2026|《镖人：风起大漠》]] watchable and that adaptation should be judged by reconstructed function rather than deletion count. Their comparison separates the workable rewrite of 地听 from losses in 知世郎's political thought, imperial causality, group formation, character history, and the staging of 老莫's death. It also strengthens the show's evidence boundary because claims about censorship, deleted footage, and production motives are explicitly treated as conjecture.
 
 The [[JinYong|金庸]] reclusion episode adds comparative typology and modern translation. Instead of treating withdrawal as a scenic ending, the hosts compare chosen and forced retreat, political failure, post-achievement restraint, strategic concealment, and blocked exit, then test each against role attachment, relationship networks, livelihood, and safety. The discussion moves from [[XiaoAoJiangHu|《笑傲江湖》]] and other novels through historical recluses and Confucian, Daoist, and Buddhist frames into workplace refusal. Its strongest synthesis is [[JinYongReclusionFreedom|reclusion as exit capacity]], while its breadth also makes several historical and philosophical claims less systematic than its character comparisons.
 
@@ -150,16 +153,21 @@ The paired Jin Yong MBTI episodes add a second comparative typology but also dem
 - [[101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq]] compares many 《射雕英雄传》 films and television series through compression, character logic, acting, voice, screen invention, martial visualization, and earned climax.
 - [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] supplies chronological breadth and connects version preference to formative viewing, rebroadcast conditions, songs, coherent deviation, and expansion into source-text gaps.
 
+### Comic-film adaptation and action criticism
+
+- [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] compares 《镖人》 scene by scene through action readability, political compression, character motive, performance, camera distance, editing, and emotional preparation.
+- [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] preserves scores of 4, 7, and 8 while identifying action quality as the strongest shared positive judgment.
+
 ## Qualifications
 
-This profile rests on twenty-one episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, MBTI validity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty-two episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin and Sui history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
-- Completed the show's four-axis Jin Yong MBTI exercise by adding I/E and N/S to the existing T/F and J/P comparison.
-- Distinguished outward solitude, social ability, trauma, abstraction, and concrete attention from fixed type identity.
-- Added self-identified analyst bias and uneven axis knowledge to the show's evidence-boundary method.
-- Preserved the existing literary, adaptation, institutional, ethical, and audiovisual criticism layers.
+- Extended the adaptation method from multi-version surveys to a scene-level comic-film comparison.
+- Added action readability, camera distance, editing, and emotional preparation to the show's audiovisual criteria.
+- Distinguished coherent motive reconstruction from political, ensemble, and character compression.
+- Added explicit speculation boundaries around censorship, deleted footage, and production intent.
 
 ## Relationships
 
@@ -208,6 +216,10 @@ This profile rests on twenty-one episode notes and may not represent every forma
 - [[LegendOfTheCondorHeroes]] - multi-version adaptation case centered on growth, character contrasts, and wuxia climax.
 - [[FunctionalAdaptationFidelity]] - framework distinguishing preservation of narrative function from literal copying.
 - [[AdaptationReceptionMemory]] - framework for first-viewing age, rebroadcast access, songs, and nostalgia in version preference.
+- [[BiaoRenComic|《镖人》]] - comic whose political, ensemble, and moral structures anchor the latest adaptation comparison.
+- [[BiaoRenFilm2026|《镖人：风起大漠》]] - film judged as action-successful but uneven in political and character transfer.
+- [[TraditionalWuxiaActionCraft]] - framework extracted from the episode's praise of readable martial exchanges and bounded power.
+- [[YuenWooPing|袁和平]] - director credited with the film's strongest craft achievement.
 - [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.
 - [[InstitutionalizedFantasyWorldbuilding]] - framework for organizing inherited fantasy motifs into everyday social systems.
 - [[FictionalCharacterTypingBoundary]] - method extracted from the show's qualified use of MBTI across Jin Yong characters.

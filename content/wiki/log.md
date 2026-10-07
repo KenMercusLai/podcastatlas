@@ -31934,3 +31934,11 @@ Added source `306-cidian-you-shenme-yong-lj-xsj-bvpmo0imc3qnv8njlgzso`; created 
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 096 【锐评春节档】《镖人》电影与原著全方位对比
+
+Added source `096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d`; created [[BiaoRenComic|《镖人》]], [[BiaoRenFilm2026|《镖人：风起大漠》]], [[YuenWooPing|袁和平]], and [[TraditionalWuxiaActionCraft|传统武侠动作设计]]; and resynthesized [[FunctionalAdaptationFidelity|功能性改编忠实]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the film succeeds most clearly when martial combat remains readable, tactical, and physically bounded, and 地听's rewritten brotherhood motive shows that departure can preserve function; it loses more when compression removes imperial pressure, rebel philosophy, ensemble history, or the audiovisual preparation that gave retained events emotional force. No settled contradiction was adopted. Scores, performance judgments, comic superiority, Sui background, censorship, deleted footage, creator intent, and ideal runtime remain disputed, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,996 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed. The full-corpus broken-link scan still reports 30 pre-existing links outside this ingest's changed pages; none were introduced here.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
