@@ -31768,3 +31768,11 @@ Added source `zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》273｜汲黯敢怼汉武帝，为啥怼不赢公孙弘（1）
+
+Added source `zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-gongsunhong-1-lisjfpgbgiuqjv27w8tucc1js1jv`; and resynthesized [[GongsunHong|公孙弘]], [[JiAnWesternHan|汲黯]], and [[RespectBasedConflictDeescalation|尊重式冲突降温]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 汲黯从会前共识和高官节俭形象两面提出忠诚与操守质疑，公孙弘则以“被理解的忠诚”、能力与生活方式分离、部分承认和反夸批评者重构听众判断；这能解释朝堂表达效果，却不能证明原指控为假。No settled contradiction was adopted. 公孙弘的临场变通可被理解为对君意的策略适应，也会被同僚体验为破坏协调；节俭可以真实、表演或二者兼有；具体对话、频率、动机、官职年代、封侯先例与升迁/善终因果均保留来源边界。Broad [[HanWudi|汉武帝]], [[GoodDeathPoliticalSurvival|乱局善终]], and [[StrategicCompromiseAsAgency|策略性妥协保全机会]] pages were read for context but not reopened because the bounded additions are represented in the focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,975 sources across 799 overview paragraphs and nine topics. Changed-content wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
