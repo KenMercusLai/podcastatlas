@@ -31700,3 +31700,11 @@ Added source `zizhi-tongjian-hanji-275-dapo-xiongnu-bubai-shenhua-weiqing-ruhe-z
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？
+
+Added source `zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc`; and resynthesized [[WeiQingHanGeneral|卫青]], [[HanCavalryFormation|汉军骑兵建设]], and [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wei Zifu's palace rise creates Wei Qing's opportunity, while the episode also attributes Wudi's trust to riding experience, composure, judgment, and persistence; the first command therefore shows kin-enabled access and plausible capability together rather than proving either pure nepotism or pure meritocracy. No settled contradiction was adopted. The source stops before Longcheng combat, so the battle result, private speeches, personality judgments, force totals, routes, guide situation, distance, pledge, and discovery mechanics remain source-scoped. Broad Han Wudi, Wei Zifu, Xiongnu, Gongsun Ao, Gongsun He, Li Guang, and show pages were read for context but not reopened because the bounded additions are represented in the focused canonical pages and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,966 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
