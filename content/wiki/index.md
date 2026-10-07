@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》294-1｜武帝不怕权臣不怕匈奴，为何独独怕他？](sources/zizhi-tongjian-hanji-294-1-wudi-bu-pa-quanchen-bu-pa-xiongnu-weihe-dudu-pa-ta-ljpqul0y4ep-pyufaow-vsqwp9ir.md) — 汲黯以不向卫青折节却赢得请教、又使汉武帝注意冠服与接见礼仪，呈现道德威望如何在无强制权时约束更高权力；人物转录与“怕”的情绪解释保留来源边界。
+- [099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》](sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz.md) — 纸醉金迷FM以伪超自然身份谜案、刺客组织与高手对决分析古龙的气氛、心理战和人物反差，并保留神医配合、武功速成及女性退场的批评。
 - [100期了！金庸《射雕英雄传》影视改编大盘点](sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk.md) — 纸醉金迷FM按年代梳理《射雕英雄传》影视与舞台改编，以情理逻辑、媒介表达、代际观看记忆和原著留白扩写区分不同版本的成败。
 - [101 好的改编什么样：金庸《射雕》影视改编盘点](sources/101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq.md) — 纸醉金迷FM比较《射雕英雄传》影视版本，以人物逻辑、媒介转换、表演分寸和成长高潮区分功能性忠实与逐项照搬。
 - [《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案](sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql.md) — 刘安在彗星与父辈怨恨叙事下备械积粮；雷被因比剑误伤刘迁、参军受阻而夜逃长安，使私人冲突成为淮南案进入中央视野的前奏。
@@ -4011,6 +4012,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张苍 / Zhang Cang](entities/ZhangCang.md) — 在小说讨论中连接旧贵族经验与秦中央任职经验、承载郡县与分封比较的人物。
 - [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
 - [《天涯·明月·刀》 / The Horizon, the Moon, the Saber](entities/TianyaMingyueDaoGuLong.md) — 古龙小说，以名人榜、代理身份、孔雀翎和普通归宿讨论欲望、衰老、恐惧与放下。
+- [《借尸还魂》 / Borrowed Corpse Returns the Soul](entities/BorrowedCorpseReturnsSoulGuLong.md) — 古龙楚留香小说，以伪超自然身份谜案、婚约逃离、刺客组织与不败即胜的决斗连接悬疑和心理战。
+- [楚留香 / Chu Liuxiang](entities/ChuLiuxiang.md) — 以线索重构、克制揭露、行为诈问和改变胜负条件解决《借尸还魂》双重谜案的武侠侦探。
+- [薛衣人 / Xue Yiren](entities/XueYirenGuLong.md) — 《借尸还魂》中兼具剑术、克制、危险、家族责任与道德不确定性的宗师人物。
 - [《长生剑》 / The Longevity Sword](entities/LongevitySwordGuLong.md) — 古龙《七种武器》开篇，以假孔雀图、动机性判断和连环反转把贪欲与心机置于正面武力之上。
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
@@ -16674,6 +16678,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Film Rating Calibration / 电影评分校准](concepts/FilmRatingCalibration.md) — 先说明比较范围、分数档位与个人偏爱如何进入评分，使数字评价具备可解释边界。
 - [Poetic-Style Narrative Friction / 诗化文风的叙事摩擦](concepts/PoeticStyleNarrativeFriction.md) — 诗化语言同时强化节奏与意象，也可能提高情节辨认成本、造成重复并压缩读者留白。
 - [Desire-Bound Identity / 欲望绑定的身份](concepts/DesireBoundIdentity.md) — 当名望、权力、占有或衰老恐惧把身份变成必须不断维护的负担时，拒绝竞争也可能成为行动与自由。
+- [Apparent Supernatural Mystery / 伪超自然谜案](concepts/ApparentSupernaturalMystery.md) — 以多类独立证据使超自然解释暂时可信，再把不可思议事件拆解为协作的人类行动，同时检验每项解答的因果可信度。
+- [Non-Defeat as Victory / 不败即胜](concepts/NonDefeatAsVictory.md) — 弱势一方以生存、拒止、拖延或自主保存替代不可达的常规胜利，并把决定性成功的压力转移给强势方。
+- [Female-Initiated Romantic Exit / 女性主动情感退场](concepts/FemaleInitiatedRomanticExit.md) — 女性抢先定义并结束亲密关系的反转，既可能体现自我持有，也可能替男性主角消除责任与后果。
 - [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for possession, confidence, or completed removal makes participants authenticate bait or trigger their own defeat.
 - [Domestic Authority Without Security / 有权理家而无保障](concepts/DomesticAuthorityWithoutSecurity.md) — 区分家庭内部的实际管理权与婚姻、身份、财产及制度存续上的可靠保障。
 - [Identity-Level Pattern Change](concepts/IdentityLevelPatternChange.md) — Durable-change framework targeting self-beliefs, conditioned wants, and tendencies beneath repeatedly forced behavior.

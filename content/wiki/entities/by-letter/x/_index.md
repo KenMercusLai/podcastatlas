@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12599
+wiki_total_pages: 12602
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "XuePan"
     title: "薛蟠 / Xue Pan"
     url: "/wiki/entities/xuepan/"
+  - key: "XueYirenGuLong"
+    title: "薛衣人 / Xue Yiren"
+    url: "/wiki/entities/xueyirengulong/"
   - key: "XuePeng"
     title: "薛鹏 / Xue Peng"
     url: "/wiki/entities/xuepeng/"

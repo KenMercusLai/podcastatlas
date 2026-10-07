@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9837
+wiki_total_pages: 9840
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "FemaleFriendlyBistro"
     title: "Female-Friendly Bistro / 女性友好小酒馆"
     url: "/wiki/concepts/femalefriendlybistro/"
+  - key: "FemaleInitiatedRomanticExit"
+    title: "Female-Initiated Romantic Exit / 女性主动情感退场"
+    url: "/wiki/concepts/femaleinitiatedromanticexit/"
   - key: "FemaleSupportDrivenGrowthNarrative"
     title: "Female-Support-Driven Growth Narrative / 女性支持驱动的成长叙事"
     url: "/wiki/concepts/femalesupportdrivengrowthnarrative/"

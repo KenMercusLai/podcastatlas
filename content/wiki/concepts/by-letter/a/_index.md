@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9837
+wiki_total_pages: 9840
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2297,6 +2297,9 @@ wiki_pages:
   - key: "ApparelOEMVerticalIntegration"
     title: "Apparel OEM Vertical Integration / 服装代工纵向一体化"
     url: "/wiki/concepts/appareloemverticalintegration/"
+  - key: "ApparentSupernaturalMystery"
+    title: "Apparent Supernatural Mystery / 伪超自然谜案"
+    url: "/wiki/concepts/apparentsupernaturalmystery/"
   - key: "AppealToIgnorance"
     title: "Appeal To Ignorance"
     url: "/wiki/concepts/appealtoignorance/"

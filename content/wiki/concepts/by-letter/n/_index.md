@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9837
+wiki_total_pages: 9840
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "NonConsensusInnovation"
     title: "Non-Consensus Innovation"
     url: "/wiki/concepts/nonconsensusinnovation/"
+  - key: "NonDefeatAsVictory"
+    title: "Non-Defeat as Victory / 不败即胜"
+    url: "/wiki/concepts/nondefeatasvictory/"
   - key: "NonDualMindfulness"
     title: "Non-Dual Mindfulness"
     url: "/wiki/concepts/nondualmindfulness/"

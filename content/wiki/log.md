@@ -31420,3 +31420,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》
+
+Added source `099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz`; created [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[ChuLiuxiang|楚留香]], [[XueYirenGuLong|薛衣人]], [[ApparentSupernaturalMystery|伪超自然谜案]], [[NonDefeatAsVictory|不败即胜]], and [[FemaleInitiatedRomanticExit|女性主动情感退场]]; and resynthesized [[GuLong|古龙]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the title mystery makes possession credible through several independent-looking proofs before decomposing them into coordinated false death, exchanged knowledge, learned technique, and medical collusion; the assassin plot gives 薛衣人 greater character depth, while 楚留香's “不败便是胜” changes an unequal duel's success condition without proving force parity. No settled contradiction was adopted. Publication rights, alternative titles, chronology, Jin Yong influence, 薛衣人的 organizational knowledge, the physician's collusion, rapid martial learning, functional female characterization, and the male-fantasy dimension of 石绣云's exit remain source-scoped, unresolved, or interpretive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,929 sources across 798 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

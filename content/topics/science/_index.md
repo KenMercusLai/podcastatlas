@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1465
+topic_total_pages: 1466
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1519,6 +1519,9 @@ topic_concepts:
   - key: "NonAlcoholicBeerGrowth"
     title: "Non-Alcoholic Beer Growth / 无醇啤酒增长"
     url: "/wiki/concepts/nonalcoholicbeergrowth/"
+  - key: "NonDefeatAsVictory"
+    title: "Non-Defeat as Victory / 不败即胜"
+    url: "/wiki/concepts/nondefeatasvictory/"
   - key: "NonMarketEnvironmentalValuation"
     title: "Non-Market Environmental Valuation"
     url: "/wiki/concepts/nonmarketenvironmentalvaluation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12599
+wiki_total_pages: 12602
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"
+  - key: "BorrowedCorpseReturnsSoulGuLong"
+    title: "《借尸还魂》 / Borrowed Corpse Returns the Soul"
+    url: "/wiki/entities/borrowedcorpsereturnssoulgulong/"
   - key: "Bingjian"
     title: "《冰鉴》 / Bingjian"
     url: "/wiki/entities/bingjian/"

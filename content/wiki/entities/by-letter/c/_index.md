@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12599
+wiki_total_pages: 12602
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2129,6 +2129,9 @@ wiki_pages:
   - key: "ChuHuiwang"
     title: "楚惠王 / King Hui of Chu"
     url: "/wiki/entities/chuhuiwang/"
+  - key: "ChuLiuxiang"
+    title: "楚留香 / Chu Liuxiang"
+    url: "/wiki/entities/chuliuxiang/"
   - key: "ChuSuwang"
     title: "楚肃王 / King Su of Chu"
     url: "/wiki/entities/chusuwang/"
