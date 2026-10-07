@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12595
+wiki_total_pages: 12596
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2819,6 +2819,9 @@ wiki_pages:
   - key: "SouthwestAssociatedUniversity"
     title: "西南联大"
     url: "/wiki/entities/southwestassociateduniversity/"
+  - key: "SecondDingxiangCampaignWesternHan"
+    title: "西汉第二次定襄出击 / Second Dingxiang Campaign (Western Han)"
+    url: "/wiki/entities/seconddingxiangcampaignwesternhan/"
   - key: "ShuoDeHaoTing"
     title: "说得好听 / Shuo De Hao Ting"
     url: "/wiki/entities/shuodehaoting/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9832
+wiki_total_pages: 9833
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3107,6 +3107,9 @@ wiki_pages:
   - key: "ChronicleBiographicalHistoryForms"
     title: "史书体例意识 / Chronicle and Biographical History Forms"
     url: "/wiki/concepts/chroniclebiographicalhistoryforms/"
+  - key: "CombinedArmsAntiCavalrySystem"
+    title: "合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System"
+    url: "/wiki/concepts/combinedarmsanticavalrysystem/"
   - key: "ConsortOmenBlameTransfer"
     title: "后宫灾异归咎转移 / Consort Omen Blame Transfer"
     url: "/wiki/concepts/consortomenblametransfer/"
