@@ -31736,3 +31736,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray
+
+Added source `restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341`; created [[TonyWyssCoray]], [[VeroBiosciences]], [[CirculatingFactorAgingBiology]], and [[ExerciseConditionedBloodSignaling]]; and resynthesized [[OrganSpecificAgingClock]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: young-circulation, plasma, exercise-plasma, candidate-protein, and cerebrospinal-fluid transfers support causal fluid-borne signaling in animal models, while organ-age gaps may localize risk; neither branch yet establishes a general human rejuvenation therapy, lifespan extension, diagnosis, or a clinically validated intervention target. No settled contradiction was adopted. Trial effects, predictive performance, candidate molecules, fasting, NAD precursors, sunlight, exosomes, breathwork, and company utility remain source-scoped. Recurring host and show pages were kept closed because the bounded addition is represented in focused guest, company, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,971 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

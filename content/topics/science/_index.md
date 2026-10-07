@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1468
+topic_total_pages: 1472
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -382,6 +382,9 @@ topic_concepts:
   - key: "CircuitBasedPsychiatry"
     title: "Circuit-Based Psychiatry"
     url: "/wiki/concepts/circuitbasedpsychiatry/"
+  - key: "CirculatingFactorAgingBiology"
+    title: "Circulating-Factor Aging Biology"
+    url: "/wiki/concepts/circulatingfactoragingbiology/"
   - key: "CitizenScience"
     title: "Citizen Science"
     url: "/wiki/concepts/citizenscience/"
@@ -3290,6 +3293,9 @@ topic_entities:
   - key: "TommyWood"
     title: "Tommy Wood"
     url: "/wiki/entities/tommywood/"
+  - key: "TonyWyssCoray"
+    title: "Tony Wyss-Coray"
+    url: "/wiki/entities/tonywysscoray/"
   - key: "TrofimLysenko"
     title: "Trofim Lysenko / 李森科"
     url: "/wiki/entities/trofimlysenko/"
@@ -3329,6 +3335,9 @@ topic_entities:
   - key: "VentromedialHypothalamus"
     title: "Ventromedial Hypothalamus"
     url: "/wiki/entities/ventromedialhypothalamus/"
+  - key: "VeroBiosciences"
+    title: "Vero Biosciences"
+    url: "/wiki/entities/verobiosciences/"
   - key: "VerticalGroup"
     title: "Vertical Group"
     url: "/wiki/entities/verticalgroup/"
@@ -4161,6 +4170,9 @@ topic_sources:
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+  - key: "restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341"
+    title: "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray"
+    url: "/wiki/sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341/"
   - key: "rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd"
     title: "Rise and shine: Warsh's Fed rate test"
     url: "/wiki/sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd/"

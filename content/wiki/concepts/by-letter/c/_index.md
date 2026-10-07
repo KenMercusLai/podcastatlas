@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9868
+wiki_total_pages: 9870
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "CircularProductTakeback"
     title: "Circular Product Takeback"
     url: "/wiki/concepts/circularproducttakeback/"
+  - key: "CirculatingFactorAgingBiology"
+    title: "Circulating-Factor Aging Biology"
+    url: "/wiki/concepts/circulatingfactoragingbiology/"
   - key: "CitizenJournalismAccountability"
     title: "Citizen Journalism Accountability"
     url: "/wiki/concepts/citizenjournalismaccountability/"

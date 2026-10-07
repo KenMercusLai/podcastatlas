@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9868
+wiki_total_pages: 9870
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "ExerciseVariationProgressionBalance"
     title: "Exercise Variation and Progression Balance"
     url: "/wiki/concepts/exercisevariationprogressionbalance/"
+  - key: "ExerciseConditionedBloodSignaling"
+    title: "Exercise-Conditioned Blood Signaling"
+    url: "/wiki/concepts/exerciseconditionedbloodsignaling/"
   - key: "ExerciseLinkedCognitiveResilience"
     title: "Exercise-Linked Cognitive Resilience"
     url: "/wiki/concepts/exerciselinkedcognitiveresilience/"

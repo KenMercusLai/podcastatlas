@@ -22466,6 +22466,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CirculatingFactorAgingBiology": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Cisco": [
     {
       "key": "technology",
@@ -84538,6 +84545,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TonyWyssCoray": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TonyXu": [
     {
       "key": "economics",
@@ -87035,6 +87049,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "VeroBiosciences": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "VerticalAIDataProcurement": [
@@ -99752,6 +99773,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "riding-with-the-repo-man-update": [
