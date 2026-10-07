@@ -8423,6 +8423,10 @@
     "title": "安琪",
     "url": "/wiki/entities/anqi/"
   },
+  "AnQisheng": {
+    "title": "An Qisheng / 安期生",
+    "url": "/wiki/entities/anqisheng/"
+  },
   "AnaLankas": {
     "title": "Ana Lankas",
     "url": "/wiki/entities/analankas/"
@@ -47335,6 +47339,10 @@
     "title": "Kuaishou Lite",
     "url": "/wiki/entities/kuaishoulite/"
   },
+  "KuanShuWesternHan": {
+    "title": "Kuan Shu / 宽舒",
+    "url": "/wiki/entities/kuanshuwesternhan/"
+  },
   "KuangHengWesternHan": {
     "title": "匡衡 / Kuang Heng (Western Han)",
     "url": "/wiki/entities/kuanghengwesternhan/"
@@ -49134,6 +49142,10 @@
   "LiShangyin": {
     "title": "李商隐 / Li Shangyin",
     "url": "/wiki/entities/lishangyin/"
+  },
+  "LiShaojunWesternHan": {
+    "title": "Li Shaojun / 李少君",
+    "url": "/wiki/entities/lishaojunwesternhan/"
   },
   "LiShimin": {
     "title": "李世民 / Li Shimin",
@@ -101742,6 +101754,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx": {
+    "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
   },
   "zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb": {
     "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",

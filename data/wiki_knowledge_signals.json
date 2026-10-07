@@ -12624,6 +12624,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/anguosouthernxiongnu/"
     },
+    "AnQisheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/anqisheng/"
+    },
     "AnacreonticSong": {
       "episode_count": 1,
       "show_count": 1,
@@ -54158,6 +54174,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/daodejing/"
     },
+    "DaoistAlchemy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/daoistalchemy/"
+    },
     "DaoistNaturalWuwei": {
       "episode_count": 2,
       "show_count": 1,
@@ -78883,9 +78922,9 @@
       "url": "/wiki/concepts/fangshiaccountabilitytrap/"
     },
     "FangshiFraudAndAuthority": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -78949,9 +78988,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面",
           "url": "/wiki/sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/fangshifraudandauthority/"
     },
     "FangshiPowerRedistribution": {
@@ -114591,9 +114637,9 @@
       "url": "/wiki/concepts/immigrationdnadatabaseexpansion/"
     },
     "ImmortalityQuestPolitics": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 2,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
@@ -114692,9 +114738,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方",
           "url": "/wiki/sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/immortalityquestpolitics/"
     },
     "ImmuneAgingMosaic": {
@@ -131580,6 +131633,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/kuaishou/"
     },
+    "KuanShuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/kuanshuwesternhan/"
+    },
     "KuangHengWesternHan": {
       "episode_count": 9,
       "show_count": 1,
@@ -136230,6 +136299,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lirunlatehan/"
+    },
+    "LiShaojunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/lishaojunwesternhan/"
     },
     "LiShuLateHan": {
       "episode_count": 1,
@@ -177480,9 +177565,9 @@
       "url": "/wiki/entities/pengxuanwesternhan/"
     },
     "Penglai": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？ [lhgBbhG3ZW8rlX1JJb7LPB5IhiHH].md",
@@ -177497,9 +177582,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1） [lqCZBEzELhDJRTXDrgSFCnmPoklX].md",
+          "key": "zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/penglai/"
     },
     "PenicillinBand": {

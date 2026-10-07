@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12659
+wiki_total_pages: 12662
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "KuaishouLite"
     title: "Kuaishou Lite"
     url: "/wiki/entities/kuaishoulite/"
+  - key: "KuanShuWesternHan"
+    title: "Kuan Shu / 宽舒"
+    url: "/wiki/entities/kuanshuwesternhan/"
   - key: "Kufa"
     title: "Kufa"
     url: "/wiki/entities/kufa/"

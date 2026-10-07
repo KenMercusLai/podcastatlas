@@ -17,8 +17,9 @@ sources:
   - zizhi-tongjian-hanji-360-2-hanwudi-de-fengkuang-qiuxian-shoupian-lu-fu4ht-tl4fyr8dsx9sakdcmm-orc
   - zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu
   - zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m
+  - zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-06
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -31,11 +32,11 @@ The current evidence shows a recurring conversion chain. Public sacred ritual op
 
 The Qin sequence begins with [[FengshanRitualLegitimacy|fengshan]] and Yan-Qi fangshi, moves through [[XuFu|徐福]]'s [[Penglai|蓬莱]] expedition, and then follows [[LuSheng|卢生]] from failed immortal brokerage into “亡秦者胡,” hidden residence, and coercive secrecy. When miracle promises remain unmet, practitioner flight and imperial anger feed the [[QinKengruIncident|坑儒 incident]]. The late omen branch adds a further shift: divination and the last tour become possible attempts to counter foretold death, although motive remains an evidence-bound reconstruction.
 
-The Han material shows the same mechanism without simply repeating the Qin outcome. Hanji 340-1 supplies an early material conversion: an unnamed fangshi treats dew that has not touched the ground as heavenly medicine material, combines it with powdered jade in an immortality promise, and prompts [[HanWudi|汉武帝]] to commission an仙人承露盘 at 柏梁台. Hanji 350-1 supplies a later entry conversion: [[GongsunQingFangshi|公孙卿]] reaches Wudi with a purported bamboo text, turns a cauldron's winter-solstice timing and [[Huangdi|黄帝]]'s dragon ascent into a personalized promise, and receives office plus a divine-search mission. Hanji 360-2 later supplies a premise-preserving explanation: when Wudi asks why the ascended Huangdi has a tomb, Gongsun Qing calls it a burial of clothing, letting Wudi imagine his own future ascent instead of treating the grave as disproof. Hanji 361-1 then presents thousands of maritime claimants, extra ships, a giant-footprint report, a vanished-elder story, and further dispatches. Hanji 361-2 supplies a partial brake: fangshi confidence renews Wudi's desire to sail for [[Penglai|蓬莱]], but [[DongfangShuo|东方朔]] argues from inside the belief that destiny, not haste, governs divine encounter, and the emperor abandons the voyage. Hanji 364-1 shows Gongsun Qing converting a claim about immortals preferring height into towers, platforms, equipment, and organized waiting. The wider fangshu survey adds spirit-summoning, expense, later disillusionment, and the distinct but adjacent [[WuguPoliticalPanic|巫蛊]] catastrophe.
+The Han material shows the same mechanism without simply repeating the Qin outcome. Hanji 259 part 1 supplies an early conversion chain through [[LiShaojunWesternHan|李少君]]: apparently accurate knowledge of an old hunt and vessel supports an extraordinary-age persona; stove sacrifice is said to enable spirits, cinnabar-to-gold transformation and longevity-giving vessels; [[AnQisheng|安期生]], [[Penglai|蓬莱]], and fengshan then complete the route. After Li dies, Wudi interprets death as dragon transformation and continues the search, making posthumous reinterpretation a premise-preserving mechanism. Hanji 340-1 adds another material conversion: an unnamed fangshi treats dew that has not touched the ground as heavenly medicine material, combines it with powdered jade in an immortality promise, and prompts [[HanWudi|汉武帝]] to commission an仙人承露盘 at 柏梁台. Hanji 350-1 supplies a later entry conversion: [[GongsunQingFangshi|公孙卿]] reaches Wudi with a purported bamboo text, turns a cauldron's winter-solstice timing and [[Huangdi|黄帝]]'s dragon ascent into a personalized promise, and receives office plus a divine-search mission. Hanji 360-2 later supplies a premise-preserving explanation: when Wudi asks why the ascended Huangdi has a tomb, Gongsun Qing calls it a burial of clothing, letting Wudi imagine his own future ascent instead of treating the grave as disproof. Hanji 361-1 then presents thousands of maritime claimants, extra ships, a giant-footprint report, a vanished-elder story, and further dispatches. Hanji 361-2 supplies a partial brake: fangshi confidence renews Wudi's desire to sail for Penglai, but [[DongfangShuo|东方朔]] argues from inside the belief that destiny, not haste, governs divine encounter, and the emperor abandons the voyage. Hanji 364-1 shows Gongsun Qing converting a claim about immortals preferring height into towers, platforms, equipment, and organized waiting. The wider fangshu survey adds spirit-summoning, expense, later disillusionment, and the distinct but adjacent [[WuguPoliticalPanic|巫蛊]] catastrophe.
 
 ## Key Claims
 
-- Court sponsorship converts unverifiable sacred promises into collection devices, ships, personnel, supplies, architecture, and repeated funding, especially when privileged materials or mythic precedent are linked to the ruler's body and survival.
+- Court sponsorship converts unverifiable sacred promises into sacrifice, material-transformation work, collection devices, ships, personnel, supplies, architecture, and repeated funding, especially when privileged materials or mythic precedent are linked to the ruler's body and survival.
 - Distance, ambiguity, and premise-preserving explanations create a weak verification environment in which nonarrival or visible counterevidence can produce renewed search and stronger personal identification rather than rejection.
 - Prophecy can frame military, migratory, or travel decisions without being their sole demonstrated cause.
 - Secrecy prescribed for divine access can magnify coercion and collapse feedback about failure.
@@ -56,6 +57,7 @@ The Han material shows the same mechanism without simply repeating the Qin outco
 - Internal brake on escalation: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] says Dongfang Shuo preserves the possibility of immortals but denies that a personal voyage can force destiny, after which Wudi gives up sailing.
 - Architecture as awaited access: [[zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg|Hanji 364-1]] says Gongsun Qing's tower advice produces elevated halls, platforms, ritual equipment, and organized waiting. The episode's [[ChickenBoneDivination|鸡骨占卜]] branch is adjacent ritual context, not the same technique.
 - Sacred material and collection architecture: [[zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m|Hanji 340-1]] says an unnamed fangshi combines heaven-derived dew and powdered jade in an immortality claim, after which Wudi commissions an仙人承露盘 at 柏梁台. The construction response is evidence of patronage, not of medical efficacy or supernatural access.
+- Early Han credibility and posthumous reinterpretation: [[zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx|Hanji 259 part 1]] says Li Shaojun's old-event and vessel knowledge wins trust, his stove-to-gold-to-Penglai sequence produces ritual and search, and his death is reclassified as ascent rather than failure.
 
 ## Counterevidence & Qualifications
 
@@ -63,11 +65,14 @@ The sequence is reconstructed from one podcast series and a comparative fangshu 
 
 Hanji 340-1 mixes an architectural anecdote, later literary water customs, and unsupported wellness advice. It does not establish the unnamed fangshi's identity or intent, the recipe's efficacy, safe consumption of collected precipitation, or the apparatus's exact date, dimensions, and material.
 
+Hanji 259 part 1 does not independently verify Li Shaojun's age, information sources, intent, bronze-vessel identification process, recipe, dream, transformation, or encounter with An Qisheng. Its observable contribution is the patronage and search sequence; the episode's title and commentary do not by themselves prove conscious fraud in every claim.
+
 ## What Changed
 
-- Added a sacred-material mechanism: “heaven-bestowed” dew and jade powder turn a longevity promise into a specialized collection apparatus.
-- Extended the architecture branch backward from elevated halls for awaiting immortals to a device for harvesting an alleged immortality ingredient.
-- Preserved the distinction between observable patronage and unverified medicine, supernatural access, specialist intent, and measurements.
+- Added Li Shaojun's multi-stage dependency chain from sacrifice and material transformation to Penglai and fengshan.
+- Added posthumous reinterpretation as a mechanism that prevents a claimant's death from falsifying the search.
+- Distinguished apparently checkable credibility signals from the inaccessible supernatural conclusion they are used to support.
+- Preserved the distinction between observable patronage and unverified medicine, transformation, encounter, and specialist intent.
 
 ## Related Concepts
 
@@ -80,4 +85,6 @@ Hanji 340-1 mixes an architectural anecdote, later literary water customs, and u
 - [[FangshuSystematization|方术体系化]] - later organization of techniques first sold or offered to imperial patrons.
 - [[ChickenBoneDivination|鸡骨占卜]] - adjacent ritual system in Hanji 364-1 that remains analytically distinct from immortality seeking.
 - [[DongfangShuo|东方朔]] - adviser who makes waiting safer than pursuit while leaving the ruler's supernatural premise intact.
+- [[LiShaojunWesternHan|李少君]] - early Han specialist who packages credibility, ritual, alchemy, maritime access, and fengshan into one program.
+- [[AnQisheng|安期生]] - named immortal whose selective accessibility supports Li Shaojun's claim.
 - [[MythicAncestorHistoricalLegitimation|神话祖先的历史化正统建构]] - adjacent framework showing how the same Huangdi can support human virtue and divine-ascent legitimacy narratives.
