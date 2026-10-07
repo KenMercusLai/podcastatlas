@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9822
+wiki_total_pages: 9824
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "ChildrensLiteratureComplexity"
     title: "Children's Literature Complexity"
     url: "/wiki/concepts/childrensliteraturecomplexity/"
+  - key: "ChildrensLiteratureMoralDialogue"
+    title: "Children's Literature Moral Dialogue / 儿童文学价值对话"
+    url: "/wiki/concepts/childrensliteraturemoraldialogue/"
   - key: "ChildrensMediaValuesDebate"
     title: "Children's Media Values Debate"
     url: "/wiki/concepts/childrensmediavaluesdebate/"

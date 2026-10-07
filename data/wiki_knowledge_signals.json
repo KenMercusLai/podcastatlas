@@ -38854,6 +38854,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/childrenshistorynarrative/"
     },
+    "ChildrensLiteratureMoralDialogue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/childrensliteraturemoraldialogue/"
+    },
     "Chile": {
       "episode_count": 4,
       "show_count": 3,
@@ -100792,6 +100808,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/haroldwilson/"
     },
+    "HarryPotterAndThePhilosophersStone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/harrypotterandthephilosophersstone/"
+    },
     "HarryPrice": {
       "episode_count": 1,
       "show_count": 1,
@@ -151561,6 +151593,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/mediterraneandietmodernconstruction/"
     },
+    "MediumSpecificAdaptationSalience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/mediumspecificadaptationsalience/"
+    },
     "MegHirschberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -160645,6 +160693,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/narrativemedicine/"
+    },
+    "NarrativeMisdirection": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "27.希区柯克已在您桌下安置炸弹 [582370829].md",
+          "key": "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829",
+          "show": "蜜獾吃书",
+          "title": "27.希区柯克已在您桌下安置炸弹",
+          "url": "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
+        },
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/narrativemisdirection/"
     },
     "NarrativePluralism": {
       "episode_count": 1,
@@ -200465,9 +200536,9 @@
       "url": "/wiki/concepts/schoolparentalrightsconflict/"
     },
     "SchoolStoryTradition": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6783238013 [GLT6783238013].md",
@@ -200482,9 +200553,16 @@
           "show": "The Rest Is History",
           "title": "367. The Real Harry Potter: Magic, Empire and Beastly Bullies",
           "url": "/wiki/sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657/"
+        },
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/schoolstorytradition/"
     },
     "ScienceBasedToolTaxonomy": {
@@ -202741,6 +202819,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/seventymillimeterfilmprojection/"
+    },
+    "SeverusSnape": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/severussnape/"
     },
     "SexCounselingNonjudgmentalBoundary": {
       "episode_count": 1,
@@ -256086,9 +256187,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -256173,6 +256274,13 @@
           "show": "纸醉金迷FM",
           "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
           "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        },
+        {
+          "episode_file": "lpH6DNjRBYZKJJt_Vq8-4ovHv3ba [lpH6DNjRBYZKJJt_Vq8-4ovHv3ba].md",
+          "key": "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba",
+          "show": "纸醉金迷FM",
+          "title": "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建",
+          "url": "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
         }
       ],
       "updated": "2026-10-07",

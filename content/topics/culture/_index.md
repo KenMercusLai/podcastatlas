@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3196
+topic_total_pages: 3199
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1963,6 +1963,9 @@ topic_concepts:
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"
+  - key: "MediumSpecificAdaptationSalience"
+    title: "Medium-Specific Adaptation Salience / 媒介特定的改编显著性"
+    url: "/wiki/concepts/mediumspecificadaptationsalience/"
   - key: "MeijiIntellectualPrecarity"
     title: "Meiji Intellectual Precarity"
     url: "/wiki/concepts/meijiintellectualprecarity/"
@@ -6527,6 +6530,9 @@ topic_entities:
   - key: "HarvardClassicNegotiation"
     title: "《哈佛经典谈判术》"
     url: "/wiki/entities/harvardclassicnegotiation/"
+  - key: "HarryPotterAndThePhilosophersStone"
+    title: "《哈利·波特与魔法石》 / Harry Potter and the Philosopher's Stone"
+    url: "/wiki/entities/harrypotterandthephilosophersstone/"
   - key: "HalAndRogerAdventures"
     title: "《哈尔罗杰历险记》"
     url: "/wiki/entities/halandrogeradventures/"
@@ -8442,6 +8448,9 @@ topic_sources:
   - key: "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645"
     title: "105.苏东坡：一腔豪迈之气，一肚皮不合时宜"
     url: "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+  - key: "107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba"
+    title: "107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建"
+    url: "/wiki/sources/107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba/"
   - key: "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818"
     title: "107.闲聊伟大导演们的八卦（第一弹）"
     url: "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"

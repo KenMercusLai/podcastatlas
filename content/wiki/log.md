@@ -31310,3 +31310,11 @@ Added source `108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-ba
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 107 《哈利波特与魔法石》：梦开始的地方，魔法体系初构建
+
+Added source `107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba`; created [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]], and [[ChildrensLiteratureMoralDialogue|儿童文学价值对话]]; resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]], [[SeverusSnape|西弗勒斯·斯内普]], [[SchoolStoryTradition]], and [[NarrativeMisdirection]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hogwarts makes fantasy legible through houses, classes, sport, friendship, rivalry, and moral tests; the obstacle sequence distributes competence across the trio; Snape's real hostility supports a retrospectively verifiable false accusation; and novel-film differences in interiority, clue visibility, logic, spectacle, and runtime redistribute narrative function. The hosts preserve disagreement over love as protective magic and over discretionary house points, allowing childhood emotional formation and adult criticism to coexist. No settled contradiction was adopted. Later-series continuity, adaptation intent, real-world Quidditch, school governance, and authorial planning remain conversational or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,915 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

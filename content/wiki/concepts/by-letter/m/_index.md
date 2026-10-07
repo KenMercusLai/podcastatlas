@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9822
+wiki_total_pages: 9824
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "MeditativeStabilityPractice"
     title: "Meditative Stability Practice / 定力修行框架"
     url: "/wiki/concepts/meditativestabilitypractice/"
+  - key: "MediumSpecificAdaptationSalience"
+    title: "Medium-Specific Adaptation Salience / 媒介特定的改编显著性"
+    url: "/wiki/concepts/mediumspecificadaptationsalience/"
   - key: "MegaCapConcentrationRisk"
     title: "Mega-Cap Concentration Risk"
     url: "/wiki/concepts/megacapconcentrationrisk/"

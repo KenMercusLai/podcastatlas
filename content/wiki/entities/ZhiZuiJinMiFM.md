@@ -15,6 +15,7 @@ sources:
   - 110-wulin-waizhuan-xiaodu-yiqing-zuihaode-jiedu-xuanchuanpian-lor4w6cimesyf4dlwgr5ywfgwgxb
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n
+  - 107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -23,7 +24,7 @@ last_updated: 2026-10-07
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], and [[TianLongBaBu|《天龙八部》]], two sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], two sitcom readings of [[WulinWaizhuan|《武林外传》]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -31,7 +32,9 @@ Across the bounded sources, the show operates as an informal group reading or vi
 
 The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The two [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes extend the same method across setup and resolution: the earlier discussion separates voluntary self-sacrifice from choosing another person's death and tests whether a lottery can be fair under coercion, while the finale values friendship, self-knowledge, and retirement but argues that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] episode connects consent and victim autonomy to departmental protection, costly moral commitment, and procedural leverage. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
 
-The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
+The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped.
+
+The [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] discussion adds systematic novel-film comparison and an explicit children's-literature disagreement. The hosts trace how prose interiority, buried textual clues, logic puzzles, camera emphasis, visible action, and runtime alter the same narrative functions across media. They also separate an effective Snape-to-Quirrell reversal from simple surprise by checking whether earlier evidence can be reread. Their debate over love as protective magic preserves both childhood emotional formation and adult concern about convenience, while the school-points discussion joins satisfying moral recognition to institutional bias. The short [[TianLongBaBu|《天龙八部》]] opening adds another scale of literary mapping by identifying the Shaoshi Mountain battle as the point where several protagonist, antagonist, and resolution threads converge, although the supplied text ends before the promised analysis begins. Humor and tangents keep the show accessible, though they can interrupt sustained argument and make the discussion less systematic.
 
 ## Key Characteristics
 
@@ -41,7 +44,7 @@ The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading fr
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, historical-institutional, film, and television-comedy criticism with practical moral discussion, testing romantic, familial, and institutional narratives against the affected person's stated will while making evidence limits and disagreements visible.
+- Mixes literary, adaptation, historical-institutional, film, and television-comedy criticism with practical moral discussion while making evidence limits and disagreements visible.
 
 ## Evidence
 
@@ -99,14 +102,19 @@ The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading fr
 
 - [[111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t]] maps chapters 41–43 of 《天龙八部》 as a convergence of three protagonists, three opposing figures, and the entrance of 扫地神僧, but the three-minute supplied opening contains no detailed analysis.
 
+### Adaptation, misdirection, and children's values
+
+- [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] compares interior dialogue, clue visibility, logic, spectacle, and redistributed character competence across novel and film.
+- [[107-hali-bote-yu-mofashi-meng-kaishi-de-difang-mofa-tixi-chu-goujian-lph6dnjrbyzkjjt-vq8-4ovhv3ba]] tests the Snape misdirection through retrospective evidence and preserves disagreement over love, courage, school points, and moral education.
+
 ## Qualifications
 
-This profile rests on twelve episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
+This profile rests on thirteen episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin history, 《鬼吹灯》 publishing and rights history, geomancy, ritual and biological explanations, legal thresholds, addiction medicine, animal research, actor technique, Harry Potter adaptation intent and continuity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, and personal experience sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, reception hierarchy, score boundaries, canon claims, behavioral generalizations, and inferred setup therefore remain source-scoped rather than settled conclusions.
 
 ## What Changed
 
-- Extended the show's moral criticism from sacrificial autonomy to coerced intimate relationships and victim-directed family separation.
-- Added a case where public values are judged by costly action and bureaucracy functions as both protection network and accountability lever.
+- Added medium-specific comparison of interiority, clue salience, logic, spectacle, and competence distribution.
+- Added a children's-literature case where formative emotion and adult criticism remain in explicit dialogue.
 
 ## Relationships
 
@@ -143,3 +151,6 @@ This profile rests on twelve episode notes and may not represent every format pr
 - [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] - mythic institutional novel used to discuss consent, rescue, and bureaucratic leverage.
 - [[CoerciveRelationshipLegitimation]] - framework extracted from the show's rejection of romance and family labels as substitutes for consent.
 - [[PublicValuesUnderCost]] - account of how “救苦救难” is tested by risk and inconvenience.
+- [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]] - school fantasy used to compare novel-film form, misdirection, friendship, and moral education.
+- [[MediumSpecificAdaptationSalience]] - framework extracted from the episode's comparison of textual and audiovisual emphasis.
+- [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.

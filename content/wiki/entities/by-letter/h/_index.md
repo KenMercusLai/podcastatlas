@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12589
+wiki_total_pages: 12590
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "HarvardClassicNegotiation"
     title: "《哈佛经典谈判术》"
     url: "/wiki/entities/harvardclassicnegotiation/"
+  - key: "HarryPotterAndThePhilosophersStone"
+    title: "《哈利·波特与魔法石》 / Harry Potter and the Philosopher's Stone"
+    url: "/wiki/entities/harrypotterandthephilosophersstone/"
   - key: "HalAndRogerAdventures"
     title: "《哈尔罗杰历险记》"
     url: "/wiki/entities/halandrogeradventures/"
