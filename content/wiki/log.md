@@ -31240,3 +31240,11 @@ Added source `118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 117 中元节特辑|趣话华语恐怖片巅峰《双瞳》
+
+Added source `117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb`; created [[DoubleVision2002|《双瞳》]] and [[FilmRatingCalibration|Film Rating Calibration]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the hosts frame the 2002 film as a durable Chinese-language horror landmark, while one participant's cross-genre scale treats 9 as top-tier quality and 10 as comparable quality plus personal preference, making the film's 8/10 a strong but bounded judgment. No settled contradiction was adopted. Canon status, critical and commercial success, and all deeper analysis remain source-scoped because the supplied note is only a three-minute opening. Broad actor and director pages were kept closed because the excerpt supplies credits but no substantive profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,906 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

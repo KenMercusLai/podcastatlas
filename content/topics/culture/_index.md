@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3187
+topic_total_pages: 3189
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6491,6 +6491,9 @@ topic_entities:
   - key: "LishiBoke"
     title: "《历史播客》"
     url: "/wiki/entities/lishiboke/"
+  - key: "DoubleVision2002"
+    title: "《双瞳》 / Double Vision (2002 film)"
+    url: "/wiki/entities/doublevision2002/"
   - key: "GuwenDeLiliang"
     title: "《古文的力量》"
     url: "/wiki/entities/guwendeliliang/"
@@ -8457,6 +8460,9 @@ topic_sources:
   - key: "115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309"
     title: "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？"
     url: "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
+  - key: "117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb"
+    title: "117 中元节特辑|趣话华语恐怖片巅峰《双瞳》"
+    url: "/wiki/sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb/"
   - key: "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341"
     title: "117.诅咒兔：怪谈文学也要上桌吃饭"
     url: "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"

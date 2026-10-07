@@ -62184,6 +62184,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/doubaoworkpartner/"
     },
+    "DoubleVision2002": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvCVFGlDly7YjDCQh09EwMiQwSyb [FvCVFGlDly7YjDCQh09EwMiQwSyb].md",
+          "key": "117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb",
+          "show": "纸醉金迷FM",
+          "title": "117 中元节特辑|趣话华语恐怖片巅峰《双瞳》",
+          "url": "/wiki/sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/doublevision2002/"
+    },
     "DouglasHaig": {
       "episode_count": 2,
       "show_count": 1,
@@ -80433,6 +80449,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/filmgossipascontext/"
+    },
+    "FilmRatingCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvCVFGlDly7YjDCQh09EwMiQwSyb [FvCVFGlDly7YjDCQh09EwMiQwSyb].md",
+          "key": "117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb",
+          "show": "纸醉金迷FM",
+          "title": "117 中元节特辑|趣话华语恐怖片巅峰《双瞳》",
+          "url": "/wiki/sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/filmratingcalibration/"
     },
     "FilmToFestivalFeedback": {
       "episode_count": 1,
@@ -255542,9 +255574,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -255573,6 +255605,13 @@
           "show": "纸醉金迷FM",
           "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
           "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        },
+        {
+          "episode_file": "FvCVFGlDly7YjDCQh09EwMiQwSyb [FvCVFGlDly7YjDCQh09EwMiQwSyb].md",
+          "key": "117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb",
+          "show": "纸醉金迷FM",
+          "title": "117 中元节特辑|趣话华语恐怖片巅峰《双瞳》",
+          "url": "/wiki/sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb/"
         }
       ],
       "updated": "2026-10-07",

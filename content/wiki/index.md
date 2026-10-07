@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [117 中元节特辑|趣话华语恐怖片巅峰《双瞳》](sources/117-zhongyuanjie-teji-quhua-huayu-kongbupian-dianfeng-shuangtong-fvcvfgldly7yjdcqh09ewmiqwsyb.md) — 纸醉金迷FM以《双瞳》在华语恐怖片中的持久地位开场，并用跨类型评分体系区分作品质量与个人偏爱；因所供文本仅三分钟，后续电影分析保持未决。
 - [118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖](sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj.md) — 纸醉金迷FM以成年重读讨论古龙的诗化文风、名人榜与代理身份，并把傅红雪、公子羽和燕南飞置于欲望、恐惧和自由的共同轴线上。
 - [119 古龙《七种武器》之长生剑：再锋利的剑，也比不上笑](sources/119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf.md) — 纸醉金迷FM以假孔雀图、连环背叛和身份谜局重讲《长生剑》，并质疑“笑”的寓意是否比贪欲、自负与心机更贴合实际情节。
 - [120 红楼金粉 | 金陵十二钗之王熙凤](sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3.md) — 纸醉金迷FM从管理、人情、婚姻、权力与人命争议细读王熙凤，在结构性约束与个人责任之间保留其善意、才干、狠辣和悲剧性。
@@ -3971,6 +3972,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
 - [《天涯·明月·刀》 / The Horizon, the Moon, the Saber](entities/TianyaMingyueDaoGuLong.md) — 古龙小说，以名人榜、代理身份、孔雀翎和普通归宿讨论欲望、衰老、恐惧与放下。
 - [《长生剑》 / The Longevity Sword](entities/LongevitySwordGuLong.md) — 古龙《七种武器》开篇，以假孔雀图、动机性判断和连环反转把贪欲与心机置于正面武力之上。
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
@@ -16601,6 +16603,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Film Rating Calibration / 电影评分校准](concepts/FilmRatingCalibration.md) — 先说明比较范围、分数档位与个人偏爱如何进入评分，使数字评价具备可解释边界。
 - [Poetic-Style Narrative Friction / 诗化文风的叙事摩擦](concepts/PoeticStyleNarrativeFriction.md) — 诗化语言同时强化节奏与意象，也可能提高情节辨认成本、造成重复并压缩读者留白。
 - [Desire-Bound Identity / 欲望绑定的身份](concepts/DesireBoundIdentity.md) — 当名望、权力、占有或衰老恐惧把身份变成必须不断维护的负担时，拒绝竞争也可能成为行动与自由。
 - [Greed-Driven Narrative Trap / 贪欲驱动的自陷局](concepts/GreedDrivenNarrativeTrap.md) — Story mechanism where desire for a prize and confidence in superior cunning make participants authenticate the bait and help create their own defeat.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9809
+wiki_total_pages: 9810
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "FilmGossipAsContext"
     title: "Film Gossip As Context"
     url: "/wiki/concepts/filmgossipascontext/"
+  - key: "FilmRatingCalibration"
+    title: "Film Rating Calibration / 电影评分校准"
+    url: "/wiki/concepts/filmratingcalibration/"
   - key: "FilmRealityBeyondRealism"
     title: "Film Reality Beyond Realism"
     url: "/wiki/concepts/filmrealitybeyondrealism/"

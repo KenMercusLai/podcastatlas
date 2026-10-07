@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12578
+wiki_total_pages: 12579
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "DongguanHanji"
     title: "《东观汉记》 / Dongguan Hanji"
     url: "/wiki/entities/dongguanhanji/"
+  - key: "DoubleVision2002"
+    title: "《双瞳》 / Double Vision (2002 film)"
+    url: "/wiki/entities/doublevision2002/"
   - key: "DaiYiJueMiLu"
     title: "《大义觉迷录》"
     url: "/wiki/entities/daiyijuemilu/"
