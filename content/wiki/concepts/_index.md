@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9859
+wiki_total_pages: 9860
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"
+  - key: "AIIndustrySuperPACPolitics"
+    title: "AI Industry Super PAC Politics"
+    url: "/wiki/concepts/aiindustrysuperpacpolitics/"
   - key: "AIInevitabilityResponsibilityEvasion"
     title: "AI Inevitability Responsibility Evasion"
     url: "/wiki/concepts/aiinevitabilityresponsibilityevasion/"

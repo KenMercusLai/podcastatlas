@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3357
+topic_total_pages: 3359
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -586,6 +586,9 @@ topic_concepts:
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"
+  - key: "AIIndustrySuperPACPolitics"
+    title: "AI Industry Super PAC Politics"
+    url: "/wiki/concepts/aiindustrysuperpacpolitics/"
   - key: "AIInevitabilityResponsibilityEvasion"
     title: "AI Inevitability Responsibility Evasion"
     url: "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
@@ -8745,6 +8748,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
     title: "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+  - key: "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128"
+    title: "AI spending takes center stage ahead of midterms"
+    url: "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
   - key: "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128"
     title: "AI subscriptions are rapidly taking over baby nurseries"
     url: "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"

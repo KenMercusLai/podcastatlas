@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3164
+topic_total_pages: 3169
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -160,6 +160,9 @@ topic_concepts:
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"
+  - key: "AIIndustrySuperPACPolitics"
+    title: "AI Industry Super PAC Politics"
+    url: "/wiki/concepts/aiindustrysuperpacpolitics/"
   - key: "AIInevitabilityResponsibilityEvasion"
     title: "AI Inevitability Responsibility Evasion"
     url: "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
@@ -5432,6 +5435,9 @@ topic_entities:
   - key: "BrahimGhali"
     title: "Brahim Ghali"
     url: "/wiki/entities/brahimghali/"
+  - key: "BrendanGlavin"
+    title: "Brendan Glavin"
+    url: "/wiki/entities/brendanglavin/"
   - key: "BrianFaulkner"
     title: "Brian Faulkner"
     url: "/wiki/entities/brianfaulkner/"
@@ -6500,6 +6506,9 @@ topic_entities:
   - key: "LazaroCardenas"
     title: "Lazaro Cardenas"
     url: "/wiki/entities/lazarocardenas/"
+  - key: "LeadingTheFuture"
+    title: "Leading the Future"
+    url: "/wiki/entities/leadingthefuture/"
   - key: "Lebanon"
     title: "Lebanon"
     url: "/wiki/entities/lebanon/"
@@ -7025,6 +7034,9 @@ topic_entities:
   - key: "Project2025"
     title: "Project 2025"
     url: "/wiki/entities/project2025/"
+  - key: "PublicFirstAction"
+    title: "Public First Action"
+    url: "/wiki/entities/publicfirstaction/"
   - key: "PubliusSulpiciusRufus"
     title: "Publius Sulpicius Rufus / 普布利乌斯·苏尔皮基乌斯·鲁弗斯"
     url: "/wiki/entities/publiussulpiciusrufus/"
@@ -8550,6 +8562,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
     title: "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+  - key: "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128"
+    title: "AI spending takes center stage ahead of midterms"
+    url: "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"

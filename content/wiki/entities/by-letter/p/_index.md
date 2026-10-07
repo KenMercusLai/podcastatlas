@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12616
+wiki_total_pages: 12621
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1052,6 +1052,9 @@ wiki_pages:
   - key: "PuShougeng"
     title: "Pu Shougeng / 蒲寿庚"
     url: "/wiki/entities/pushougeng/"
+  - key: "PublicFirstAction"
+    title: "Public First Action"
+    url: "/wiki/entities/publicfirstaction/"
   - key: "PubliusSulpiciusRufus"
     title: "Publius Sulpicius Rufus / 普布利乌斯·苏尔皮基乌斯·鲁弗斯"
     url: "/wiki/entities/publiussulpiciusrufus/"

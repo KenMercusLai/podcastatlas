@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 12616
+wiki_total_pages: 12621
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "OpenRouter"
     title: "OpenRouter"
     url: "/wiki/entities/openrouter/"
+  - key: "OpenSecrets"
+    title: "OpenSecrets"
+    url: "/wiki/entities/opensecrets/"
   - key: "OpenTelemetry"
     title: "OpenTelemetry"
     url: "/wiki/entities/opentelemetry/"

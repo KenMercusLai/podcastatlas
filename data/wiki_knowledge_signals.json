@@ -1191,6 +1191,99 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
+    "AIBacklashPolitics": {
+      "episode_count": 12,
+      "show_count": 5,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "tech_20260423_MP_TECH_pod_128 [tech_20260423_MP_TECH_pod_128].md",
+          "key": "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Anti-AI data center sentiment is becoming a political issue",
+          "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010 [default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010].md",
+          "key": "live-anthropic-co-founder-on-ai-and-jobs",
+          "show": "Planet Money",
+          "title": "Live: Anthropic co-founder on AI and jobs",
+          "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+        },
+        {
+          "episode_file": "A hawk who flew on political winds： Lindsey Graham [6a54b56575790d5f01515d55].md",
+          "key": "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55",
+          "show": "Economist Podcasts",
+          "title": "A hawk who flew on political winds: Lindsey Graham",
+          "url": "/wiki/sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55/"
+        },
+        {
+          "episode_file": "tech_20260105_0105_MP_TECH_pod_128 [tech_20260105_0105_MP_TECH_pod_128].md",
+          "key": "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How U.S. political campaigns have used generative AI",
+          "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/aibacklashpolitics/"
+    },
     "AIBenchmarkGaming": {
       "episode_count": 2,
       "show_count": 1,
@@ -3075,6 +3168,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/aiindustryselfregulation/"
+    },
+    "AIIndustrySuperPACPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/aiindustrysuperpacpolitics/"
     },
     "AIInevitabilityResponsibilityEvasion": {
       "episode_count": 1,
@@ -9808,6 +9917,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/alcoholsystemicdoserisk/"
+    },
+    "AlexBores": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/alexbores/"
     },
     "AlexDomash": {
       "episode_count": 1,
@@ -28607,6 +28732,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/breathinggearsco2tolerance/"
+    },
+    "BrendanGlavin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/brendanglavin/"
     },
     "Brexit": {
       "episode_count": 5,
@@ -53950,9 +54091,9 @@
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
     "DataCenterBacklash": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 5,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -54051,9 +54192,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
+        },
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
@@ -95712,6 +95860,29 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/greenlandstrategicaccess/"
     },
+    "GregBrockman": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-SamAltman-v4 [TSR-S4-SamAltman-v4].md",
+          "key": "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4",
+          "show": "The Social Radars",
+          "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+          "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+        },
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/gregbrockman/"
+    },
     "GregorStrasser": {
       "episode_count": 3,
       "show_count": 1,
@@ -132821,6 +132992,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
+    },
+    "LeadingTheFuture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/leadingthefuture/"
     },
     "LeahCrum": {
       "episode_count": 1,
@@ -170199,6 +170386,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/openscientificcriticism/"
     },
+    "OpenSecrets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/opensecrets/"
+    },
     "OpenSourceAIBanRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -187485,6 +187688,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/publicexpressionagainsttrolls/"
+    },
+    "PublicFirstAction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
+          "key": "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI spending takes center stage ahead of midterms",
+          "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/publicfirstaction/"
     },
     "PublicGriefDeescalation": {
       "episode_count": 1,

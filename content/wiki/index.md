@@ -4024,6 +4024,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot](sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645.md) — All-In debate on AI-driven software repricing, Jevons-style demand, internal agents, data-center costs, retinal reprogramming, and tariff refunds.
 - [既是選手又是裁判：解讀Anthropic的AI濫用報告](sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541.md) — 端聞 episode on Anthropic misuse reporting, AI-assisted fraud and surveillance, disputed model distillation, third-party relay risks, and the safety–privacy tradeoff.
 
+- [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
+
 ## Entities
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
 - [孔臧 / Kong Zang (Western Han)](entities/KongZangWesternHan.md) — 以经学与礼制专长辞御史大夫、求任太常的西汉学者官员，呈现专长与职位功能的匹配。
@@ -16692,6 +16694,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative lexicographical project and a test case in labor, fame, and disputed patronage.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
+- [Brendan Glavin](entities/BrendanGlavin.md) — OpenSecrets analyst explaining AI-linked outside spending, candidate intervention, and the cryptocurrency-style super-PAC playbook.
+- [OpenSecrets](entities/OpenSecrets.md) — Campaign-finance research organization providing context for AI-linked PAC networks and outside-spending comparisons.
+- [Leading the Future](entities/LeadingTheFuture.md) — AI-linked political spending group described as connected to OpenAI and oriented toward less regulation.
+- [Public First Action](entities/PublicFirstAction.md) — AI-linked political spending group described as connected to Anthropic and supportive of more regulation.
+- [Alex Bores](entities/AlexBores.md) — New York politician whose AI-regulation record became the focus of opposing AI-linked outside-spending campaigns.
+
 ## Concepts
 - [历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance](concepts/HistoricalCostPrecedentRemonstrance.md) — 以既往战争的后勤、伤亡、财政、领土收益和民力后果检验当前政策的劝谏方法。
 - [Structural Paths to Imperial Reunification / 帝国再统一的结构路径](concepts/StructuralPathsToImperialReunification.md) — Qualified comparison of how inherited institutions, shared writing, geography, and frontier pressure shape post-collapse recombination without determining civilizational destiny.
@@ -26617,5 +26625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Corporate AI Misuse Reporting](concepts/CorporateAIMisuseReporting.md) — Framework for reading provider incident reports through method, denominator, attribution, scope, and institutional incentives.
 - [Third-Party AI Relay Risk](concepts/ThirdPartyAIRelayRisk.md) — Credential, routing, model-substitution, retention, and conversation-resale exposure in unofficial AI intermediaries.
 - [AI Abuse-Detection Privacy Tradeoff](concepts/AIAbuseDetectionPrivacyTradeoff.md) — Tension between contextual misuse detection and limits on provider collection, linkage, retention, and review.
+
+- [AI Industry Super PAC Politics](concepts/AIIndustrySuperPACPolitics.md) — Industry-linked outside-spending networks supporting or opposing candidates according to AI, data-center, and regulatory positions.
 
 ## Syntheses
