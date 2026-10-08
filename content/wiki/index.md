@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人](sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr.md) — 怪东西以富格尔、沈万三和胡雪岩比较巨商如何把财富转成政治影响，又如何被权力依赖、危机与后世叙事重塑。
 - [095 春节档上映？深入解析《镖人》原著：最好的武侠漫](sources/095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy.md) — 纸醉金迷FM从隋末大漠、赏金猎人结构、刀马的行为侠义、漫画叙事节奏及动画和电影的媒介差异解析《镖人》。
 - [《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外](sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9.md) — 匈奴逼近京畿时，周亚夫以细柳营的入营、驰行与军礼规则维护战备指挥权，文帝接受约束并识别其为真将军；后续旱蝗救济则以减贡、开放资源、减宫用和发仓赈民降低危机负担。
 - [37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽](sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm.md) — 怪东西以麦伊斯基与冯嫽对照本地知识、人际网络、国家支持与外交中介的个人风险。
@@ -4141,6 +4142,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [雅各布·富格尔 / Jacob Fugger](entities/JacobFugger.md) — 以矿业、银行、教会融资和哈布斯堡信贷把商业资本转成帝国政治影响的奥格斯堡巨商。
+- [沈万三 / Shen Wansan](entities/ShenWansan.md) — 史实稀薄而传说庞大的富商符号，集中体现财富、皇权与历史记忆的张力。
+- [胡雪岩 / Hu Xueyan](entities/HuXueyan.md) — 依托晚清官办军需与金融崛起、又在丝业投机和挤兑中覆灭的“红顶商人”。
 - [许先哲 / Xu Xianzhe](entities/XuXianzhe.md) — 《镖人》漫画作者，当前资料聚焦其历史研究、类型融合、叙事压缩与视觉风格。
 - [伊万·麦伊斯基 / Ivan Maisky](entities/IvanMaisky.md) — 1932至1943年任苏联驻英大使，以英国政治网络推动集体安全和战时结盟，后遭苏联国内清洗。
 - [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。
@@ -16951,6 +16955,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
 
 ## Concepts
+- [Merchant Political-Power Conversion / 巨商的财富—权力转换](concepts/MerchantPoliticalPowerConversion.md) — 私人财富经由信贷、军需、职位、特权和精英关系转成政治影响，同时增加对权力的依赖与风险暴露。
 - [Wartime Camp Command Authority / 战备营垒指挥权](concepts/WartimeCampCommandAuthority.md) — 战备营垒通过正式入营、行动与军礼规则维持即时指挥可信度，而最高文官权力以接受程序而非索取个人豁免强化授权。
 - [Embedded Diplomatic Intermediation / 嵌入式外交中介](concepts/EmbeddedDiplomaticIntermediation.md) — 长期居留、本地知识、人际信任与正式凭证把国家能力转化为可协商影响的外交机制。
 - [马戛尔尼使团 / Macartney Embassy](concepts/MacartneyEmbassy.md) — 英清双方借多语转译、礼物与改写公文接触，并在表面礼仪共识下保留制度冲突的1793年外交事件。

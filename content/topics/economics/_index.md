@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2214
+topic_total_pages: 2215
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2068,6 +2068,9 @@ topic_concepts:
   - key: "MerchantExchangeInfrastructure"
     title: "Merchant Exchange Infrastructure / 商人交换基础设施"
     url: "/wiki/concepts/merchantexchangeinfrastructure/"
+  - key: "MerchantPoliticalPowerConversion"
+    title: "Merchant Political-Power Conversion / 巨商的财富—权力转换"
+    url: "/wiki/concepts/merchantpoliticalpowerconversion/"
   - key: "MeritExcellenceIntelligence"
     title: "Merit, Excellence, and Intelligence"
     url: "/wiki/concepts/meritexcellenceintelligence/"

@@ -37699,9 +37699,9 @@
       "url": "/wiki/entities/charlesthebold/"
     },
     "CharlesV": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -37709,9 +37709,16 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/charlesv/"
     },
     "CharlesVIIOfFrance": {
@@ -100818,9 +100825,9 @@
       "url": "/wiki/concepts/habitualurineretentionrisk/"
     },
     "HabsburgDynasty": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -100849,9 +100856,16 @@
           "show": "The Rest Is History",
           "title": "163. The Last Emperor of Mexico",
           "url": "/wiki/sources/163-the-last-emperor-of-mexico-glt3817272823/"
+        },
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/habsburgdynasty/"
     },
     "HabsburgFederalReform": {
@@ -111630,6 +111644,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/huwutaiyuanlatehan/"
+    },
+    "HuXueyan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/huxueyan/"
     },
     "HuYatingScreenwriter": {
       "episode_count": 1,
@@ -123555,6 +123585,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/jacobcoxon/"
+    },
+    "JacobFugger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/jacobfugger/"
     },
     "JacobinClub": {
       "episode_count": 4,
@@ -158684,6 +158730,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/merchantexchangeinfrastructure/"
+    },
+    "MerchantPoliticalPowerConversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/merchantpoliticalpowerconversion/"
     },
     "Merck": {
       "episode_count": 6,
@@ -212350,6 +212412,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/shenronglatehan/"
+    },
+    "ShenWansan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
+          "key": "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr",
+          "show": "怪东西Weird History",
+          "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
+          "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shenwansan/"
     },
     "ShenYiji": {
       "episode_count": 3,

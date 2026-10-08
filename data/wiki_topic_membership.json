@@ -3996,6 +3996,13 @@
       "url": "/topics/history/"
     }
   ],
+  "36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "360-fear-city-new-york-in-the-1970s-glt7107047696": [
     {
       "key": "history",
@@ -57301,6 +57308,13 @@
     }
   ],
   "MerchantExchangeInfrastructure": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "MerchantPoliticalPowerConversion": [
     {
       "key": "economics",
       "label": "Economics",

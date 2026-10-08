@@ -32536,3 +32536,10 @@ Added source `095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-w
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人
+
+Added source `36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr`; created [[JacobFugger|雅各布·富格尔]], [[ShenWansan|沈万三]], [[HuXueyan|胡雪岩]], and [[MerchantPoliticalPowerConversion|巨商的财富—权力转换]]; and resynthesized [[CharlesV]] and the [[HabsburgDynasty]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: merchant fortunes become politically consequential by supplying rulers with credit, logistics, office finance, war capacity, and public works, but political access also makes merchants dependent on protection and vulnerable to crisis or coercion. No settled contradiction was adopted. The familiar chronology of Shen Wansan's Ming-court legend is challenged; competing explanations for Hu Xueyan's collapse are preserved; and election totals, financial shares, motives, and later success-literature anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,072 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

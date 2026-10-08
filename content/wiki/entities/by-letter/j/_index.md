@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12756
+wiki_total_pages: 12759
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1901,6 +1901,9 @@ wiki_pages:
   - key: "JunBuyiWesternHan"
     title: "隽不疑 / Jun Buyi (Western Han)"
     url: "/wiki/entities/junbuyiwesternhan/"
+  - key: "JacobFugger"
+    title: "雅各布·富格尔 / Jacob Fugger"
+    url: "/wiki/entities/jacobfugger/"
   - key: "JuvenileMacularDegenerationCareCenter"
     title: "青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center"
     url: "/wiki/entities/juvenilemaculardegenerationcarecenter/"

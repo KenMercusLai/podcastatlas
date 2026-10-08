@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9945
+wiki_total_pages: 9946
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "MerchantExchangeInfrastructure"
     title: "Merchant Exchange Infrastructure / 商人交换基础设施"
     url: "/wiki/concepts/merchantexchangeinfrastructure/"
+  - key: "MerchantPoliticalPowerConversion"
+    title: "Merchant Political-Power Conversion / 巨商的财富—权力转换"
+    url: "/wiki/concepts/merchantpoliticalpowerconversion/"
   - key: "MerchantToIndustrialCityUpgrade"
     title: "Merchant To Industrial City Upgrade"
     url: "/wiki/concepts/merchanttoindustrialcityupgrade/"

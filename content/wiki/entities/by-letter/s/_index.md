@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12756
+wiki_total_pages: 12759
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2591,6 +2591,9 @@ wiki_pages:
   - key: "SishuiChuHan"
     title: "汜水 / Si River (Chu-Han)"
     url: "/wiki/entities/sishuichuhan/"
+  - key: "ShenWansan"
+    title: "沈万三 / Shen Wansan"
+    url: "/wiki/entities/shenwansan/"
   - key: "ShenYujun"
     title: "沈宇军 / Shen Yujun"
     url: "/wiki/entities/shenyujun/"
