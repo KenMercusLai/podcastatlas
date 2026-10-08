@@ -225,9 +225,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "AChristmasCarol": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9074696790 [GLT9074696790].md",
@@ -242,6 +242,13 @@
           "show": "The Rest Is History",
           "title": "10. Christmas",
           "url": "/wiki/sources/10-christmas-glt9855064623/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-02",
@@ -32134,9 +32141,9 @@
       "url": "/wiki/entities/calais/"
     },
     "CalendarReformLegitimacy": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023 [FjHgTQaC9R_1RPjh6oubMSpqYwUe].md",
@@ -32158,6 +32165,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-05",
@@ -37626,9 +37640,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -37671,6 +37685,13 @@
           "show": "The Rest Is History",
           "title": "10. Christmas",
           "url": "/wiki/sources/10-christmas-glt9855064623/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-02",
@@ -83791,6 +83812,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/fertilizersupplychainshock/"
+    },
+    "FestivalGiftCustomEvolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/festivalgiftcustomevolution/"
     },
     "FettermanFight": {
       "episode_count": 1,
@@ -149970,9 +150007,9 @@
       "url": "/wiki/entities/lucuilatehan/"
     },
     "LuDapeng": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -150022,6 +150059,13 @@
           "show": "怪东西Weird History",
           "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
           "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-09",
@@ -150828,6 +150872,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/luciuscorneliussulla/"
+    },
+    "LuckyMoneyFilm1937": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/luckymoneyfilm1937/"
     },
     "LucyHughesHallett": {
       "episode_count": 1,
@@ -164669,9 +164729,9 @@
       "url": "/wiki/concepts/modernboundaryhardening/"
     },
     "ModernChristmasReinvention": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9855064623 [GLT9855064623].md",
@@ -164679,6 +164739,13 @@
           "show": "The Rest Is History",
           "title": "10. Christmas",
           "url": "/wiki/sources/10-christmas-glt9855064623/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-04",
@@ -209390,9 +209457,9 @@
       "url": "/wiki/entities/sansculottes/"
     },
     "SantaClaus": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9855064623 [GLT9855064623].md",
@@ -209400,6 +209467,13 @@
           "show": "The Rest Is History",
           "title": "10. Christmas",
           "url": "/wiki/sources/10-christmas-glt9855064623/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-04",
@@ -250839,9 +250913,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -250996,6 +251070,13 @@
           "show": "怪东西Weird History",
           "title": "13 东西方的女作家：皮桑与蔡文姬",
           "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-09",
@@ -263344,6 +263425,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuanchanglatehan/"
     },
+    "YuanDanFestivalLayering": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023 [FjHgTQaC9R_1RPjh6oubMSpqYwUe].md",
+          "key": "zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/yuandanfestivallayering/"
+    },
     "YuanGusheng": {
       "episode_count": 2,
       "show_count": 1,
@@ -264839,9 +264943,9 @@
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
     },
     "ZhangDabai": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -264877,6 +264981,13 @@
           "show": "怪东西Weird History",
           "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
           "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
+        },
+        {
+          "episode_file": "luF0CJJ9QquzTmUHMzrghB-9dNeq [luF0CJJ9QquzTmUHMzrghB-9dNeq].md",
+          "key": "11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq",
+          "show": "怪东西Weird History",
+          "title": "11 压岁钱与圣诞礼物的起源",
+          "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
         }
       ],
       "updated": "2026-10-08",

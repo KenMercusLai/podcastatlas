@@ -9,6 +9,7 @@ sources:
   - 133-christmas-churches-glt8843719433
   - 132-a-christmas-carol-glt9074696790
   - 10-christmas-glt9855064623
+  - 11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -37,6 +38,8 @@ The episode also clarifies Dickens's moral politics. His story rejects the reduc
 
 The earlier Christmas survey scales that judgment up from one book to a festival. [[10-christmas-glt9855064623]] places *A Christmas Carol* and the first Christmas card together in 1843 and treats Dickens as a major—though not solitary—agent of [[ModernChristmasReinvention]]. The Cratchit household joins domestic warmth, food, poverty, ghosts, charity, and temporary relief from industrial work, while Scrooge's spending makes commerce both the problem and the vehicle of generosity.
 
+A further social-ethical reading links Dickens's exposure of poverty, child labor, and capitalist harm to Scrooge's recovery of sympathy and to expectations that employers and fortunate households act generously at Christmas. The novel's closing turkey is also associated, more tentatively, with a shift away from goose. [[11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq|怪东西 episode 11]]
+
 ## Key Characteristics
 
 - British literary celebrity whose American reception, copyright campaign, and later backlash joined culture to national rivalry.
@@ -60,16 +63,18 @@ The earlier Christmas survey scales that judgment up from one book to a festival
 - City and genre: [[132-a-christmas-carol-glt9074696790]] uses Cornhill, churches, courts, markets, financial language, bodily horror, and a graveyard to join London texture to ghost-story and fairy-tale form.
 - Political limit: [[132-a-christmas-carol-glt9074696790]] contrasts Dickens's rejection of economic dehumanization with a remedy centered on personal philanthropy and self-improvement.
 - Modern Christmas template: [[10-christmas-glt9855064623]] connects the 1843 story to family warmth, poverty, food, charity, moral transformation, spending, and relief from industrial labor.
+- Ethical and culinary reception: [[11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq]] links the story to compassion for workers and people in difficulty and source-scopedly to turkey's Christmas prominence.
 
 ## Qualifications
 
-This profile is limited to six episodes' use of the 1842 American tour, Italian travel writing, execution culture, selected London settings, and *A Christmas Carol*. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, composition and earnings claims, topographical identifications, psychological self-portrait readings, political classification, festival influence, reactions, private motives, anecdotes, and national generalizations remain source-scoped. Calling Dickens crucial to modern Christmas does not make him its sole inventor.
+This profile is limited to seven episodes' use of the 1842 American tour, Italian travel writing, execution culture, selected London settings, and *A Christmas Carol*. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, composition and earnings claims, topographical identifications, psychological self-portrait readings, political classification, festival and culinary influence, reactions, private motives, anecdotes, and national generalizations remain source-scoped. Calling Dickens crucial to modern Christmas does not make him its sole inventor.
 
 ## What Changed
 
 - Deepened *A Christmas Carol* from material afterlife into moral psychology, adult horror, urban geography, and adaptable fable.
 - Added the qualified judgment that its humane personal redemption leaves structural inequality dependent on individual virtue.
 - Added Dickens's bounded role in the 1843 domestic and commercial Christmas template.
+- Added the episode's employer-responsibility reading and qualified turkey-influence claim.
 
 ## Relationships
 
@@ -87,3 +92,4 @@ This profile is limited to six episodes' use of the 1842 American tour, Italian 
 - [[AChristmasCarol]] - major work through which trauma, money, loneliness, horror, generosity, and adaptation converge.
 - [[PersonalRedemptionStructuralLimit]] - tension between Dickens's humanizing moral appeal and the institutional limits of philanthropy.
 - [[ModernChristmasReinvention]] - broader process in which his fiction joined domestic warmth, charity, commerce, and seasonal escape.
+- [[FestivalGiftCustomEvolution]] - tracks how Dickensian gifts and generosity become expectations of festival conduct.

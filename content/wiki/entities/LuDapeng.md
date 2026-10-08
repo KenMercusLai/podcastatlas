@@ -10,6 +10,7 @@ sources:
   - 24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp
   - 23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq
   - 19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs
+  - 11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ knowledge_schema: synthesis-v1
 Across the bounded sources, Lu works as a historical explainer with strong contextual range. The Ceuta episode moves from border news into Mediterranean and Atlantic history; the Shakespeare episode joins literary ambiguity, stage practice, dynastic history, and political memory. In the earthquake episode, personal experience opens a comparison of [[HuaxianEarthquake1556|Huaxian]] and [[LisbonEarthquake1755|Lisbon]] through buildings, public health, communications, relief, legitimacy, archives, and philosophy. The major-choice episode adds autobiography: Lu distinguishes English study from translation alone, criticizes over-theorized literary training from his own perspective, and defends language competence, broad reading, and non-instrumental interests under AI pressure. Episode 24 adds religious-literary comparison through the [[LastSupper]] and [[LantingGathering|Lanting Gathering]]. Episode 23 turns his English and German experience into [[ContextualLanguageLearning|a contextual learning method]] based on situated vocabulary, extensive reading, familiar stories, film, podcasts, audiobooks, cross-media repetition, and interest-led selection.
 
 Episode 19 extends that learning history into [[ReadingToWritingPractice|professional craft]]. Lu describes mythology, epic, fantasy, and history as long-run interests; dictionary-assisted translation as early exercise; historical translation as a career path; and difficult German historical concepts as prompts for the original book *德意志贵族*. His recurring posture is comparative and evidentiary, while the educational, language, literary, translation, and writing sources make his personal standpoint explicit.
+
+Episode 11 returns that method to festival history. Lu and [[ZhangDabai|张大白]] separate old year-turning practice from the modern 春节 name, connect the Taichu calendar to state authority and household time, and compare the uncertain path from 厌胜钱 to monetary 压岁钱 with the layered formation of Christmas gifts, Dickensian generosity, and Santa Claus. The episode's own explicit distinction between fact, inference, and “脑洞” strengthens his evidence-boundary profile.
 
 ## Key Characteristics
 - Uses a single geographic site to organize long-span world history.
@@ -44,13 +47,16 @@ Episode 19 extends that learning history into [[ReadingToWritingPractice|profess
 - Religious-literary comparison: [[24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp]] has Lu read the Passion narrative through political context and human fallibility, then compare its ritual afterlife with Lanting's literary and calligraphic reception.
 - Language-learning practice: [[23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq]] has Lu connect English and German learning to situated vocabulary, extensive reading, familiar narratives, film, games, podcasts, audiobooks, and cross-language transfer.
 - Translation and writing practice: [[19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs]] connects Lu's early reading to dictionary-assisted translation, historical-book translation, difficult German concepts, and the long completion of an original history book.
+- Festival-history evidence: [[11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq]] compares Spring Festival money and Christmas gifts through calendar, ritual, economic, literary, and domestic change while preserving speculative boundaries.
 
 ## Qualifications
-This page is bounded to seven podcast appearances and does not establish Lu Dapeng's complete bibliography, translation record, or media career. The source notes disagree on Chinese surname spelling: the Ceuta source uses 路大鹏, while the other six use 陆大鹏; the wiki keeps one `LuDapeng` entity and records the variant here. Quantitative earthquake claims, educational and language-learning generalizations, resource recommendations, Gospel interpretation, denominational summaries, Lanting political purpose, textual authenticity, book and publication history, AI forecasts, skill estimates, and priority claims remain source-scoped.
+This page is bounded to eight podcast appearances and does not establish Lu Dapeng's complete bibliography, translation record, or media career. The source notes disagree on Chinese surname spelling: the Ceuta source uses 路大鹏, while the other seven use 陆大鹏; the wiki keeps one `LuDapeng` entity and records the variant here. Quantitative earthquake claims, educational and language-learning generalizations, resource recommendations, Gospel interpretation, denominational summaries, Lanting political purpose, textual authenticity, book and publication history, AI forecasts, festival etymologies and chronologies, literary influence, skill estimates, and priority claims remain source-scoped.
 
 ## What Changed
 - Added Lu's pathway from childhood mythology, epic, fantasy, and history reading into translation and original writing.
 - Distinguished translation as close writing practice from the episode's more uncertain forecast about AI and functional translation.
+- Added festival comparison as a method joining institutional time, ritual, money, literature, and domestic practice.
+- Made the source's fact/inference/speculation boundary explicit in Lu's profile.
 
 ## Relationships
 - [[HuzuoHuyou]] - podcast context for Lu's appearance.
@@ -70,3 +76,5 @@ This page is bounded to seven podcast appearances and does not establish Lu Dape
 - [[ReadingToWritingPractice]] - pathway connecting Lu's reading, translation exercises, historical translation, and original book writing.
 - [[LastSupper]] - Christian meal and Passion narrative in Lu's new comparison.
 - [[LantingGathering|兰亭雅集]] - Eastern Jin gathering paired with the Last Supper around mortality and cultural afterlife.
+- [[FestivalGiftCustomEvolution]] - comparative mechanism developed through Spring Festival money and Christmas gifts.
+- [[CalendarReformLegitimacy]] - state-time framework used to explain the year beginning and festival naming.

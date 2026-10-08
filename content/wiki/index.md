@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [11 压岁钱与圣诞礼物的起源](sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq.md) — 怪东西比较压岁钱与圣诞礼物，将节庆赠礼放进历法、祭祀、货币、家庭教育、文学、慈善与商业的长期流变中。
 - [12 东西方取名的艺术](sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm.md) — 怪东西比较中国姓氏、名、字、号、避讳与罗马、俄语、冰岛、阿拉伯和西班牙语姓名体系，将姓名解释为亲属关系、等级、宗教、国家治理与自我呈现的社会制度。
 - [《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？](sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd.md) — 冯唐以李牧和魏尚说明边将需要实权、资源与可信赏罚；文帝由愤怒转向追问，认错后赦免魏尚并任用冯唐。
 - [15 亚历山大大帝的糟糕原生家庭：《天堂之火》](sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq.md) — 怪东西以《天堂之火》讨论亚历山大的王室家庭、君主教育、边缘身份与文化融合，并限定历史小说的现代心理投射。
@@ -4174,6 +4175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [13 东西方的女作家：皮桑与蔡文姬](sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent.md) — 怪东西以克里斯蒂娜·德·皮桑与蔡文姬比较女性公共写作、教育、战争经验、关系命名与文学正典中的可见性，并保留蔡文姬生平及作品归属的证据边界。
 
 ## Entities
+- [《压岁钱》 (1937 film)](entities/LuckyMoneyFilm1937.md) — 以一枚压岁银元的流转连接上海阶层生活、国家危机与货币变化的社会电影。
 - [冯唐 / Feng Tang (Western Han)](entities/FengTangWesternHan.md) — 以李牧和魏尚之事批评边将授权与赏罚失衡，并促成文帝纠错的西汉直谏官员。
 - [魏尚 / Wei Shang (Western Han)](entities/WeiShangWesternHan.md) — 因云中养兵与六级首误报争议成为边功、审计和比例惩罚测试的西汉郡守。
 - [Mary Renault / 玛丽·瑞瑙特](entities/MaryRenault.md) — Historical novelist whose ancient atmosphere and invented interiority make her a case in both historical distance and psychological projection.
@@ -17028,6 +17030,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christine de Pizan / 克里斯蒂娜·德·皮桑](entities/ChristineDePizan.md) — 中世纪法国职业女作家，以宫廷写作讨论女性教育、文学偏见、君主伦理、和平与战争约束。
 
 ## Concepts
+- [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
 - [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。
 - [State Surname Standardization / 国家推动的固定姓氏标准化](concepts/StateSurnameStandardization.md) — 国家以法律和登记稳定姓氏、提高人口可识别性，同时可能推动现代化、同化、去殖民化或民族身份重塑。
 - [Kinship Encoding in Personal Names / 姓名中的亲属关系编码](concepts/KinshipEncodingInPersonalNames.md) — 比较父名、母名、双姓、复姓、字辈和联名如何记录父母、祖先、婚姻、支系或世代，而不预设固定家族姓。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12799
+wiki_total_pages: 12800
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "LishiBoke"
     title: "《历史播客》"
     url: "/wiki/entities/lishiboke/"
+  - key: "LuckyMoneyFilm1937"
+    title: "《压岁钱》 (1937 film)"
+    url: "/wiki/entities/luckymoneyfilm1937/"
   - key: "LushiChunqiu"
     title: "《吕氏春秋》 / Lushi Chunqiu"
     url: "/wiki/entities/lushichunqiu/"

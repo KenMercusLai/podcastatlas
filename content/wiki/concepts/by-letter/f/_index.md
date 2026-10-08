@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9991
+wiki_total_pages: 9992
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "FestivalFoodMaterialHistory"
     title: "Festival Food Material History"
     url: "/wiki/concepts/festivalfoodmaterialhistory/"
+  - key: "FestivalGiftCustomEvolution"
+    title: "Festival Gift-Custom Evolution / 节庆赠礼习俗流变"
+    url: "/wiki/concepts/festivalgiftcustomevolution/"
   - key: "FeudalHomageSovereigntyConflict"
     title: "Feudal Homage Sovereignty Conflict"
     url: "/wiki/concepts/feudalhomagesovereigntyconflict/"

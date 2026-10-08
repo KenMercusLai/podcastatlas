@@ -32789,3 +32789,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 11 压岁钱与圣诞礼物的起源
+
+Added source `11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq`; created [[FestivalGiftCustomEvolution|节庆赠礼习俗流变]] and [[LuckyMoneyFilm1937|《压岁钱》]]; and resynthesized [[YuanDanFestivalLayering|元旦节日层累]], [[CalendarReformLegitimacy|历法改革与政治合法性]], [[ModernChristmasReinvention]], [[SantaClaus]], [[AChristmasCarol|《圣诞颂歌》]], [[CharlesDickens]], [[LuDapeng|陆大鹏]], [[ZhangDabai|张大白]], and [[WeirdHistoryPodcast|怪东西 Weird History]] from each page's complete preserved source inventory before appending the new source once. Core synthesis: festival gifts change objects, recipients, and meanings as calendar authority, ritual protection, monetization, family education, literature, charity, and commerce change; continuity of social function does not prove an unchanged custom or shared origin. No settled contradiction was adopted. The 厌胜钱 etymology, diffusion dates, 1914 naming, film credits and interpretation, Reformation chronology, Santa transmission, and literary effects on Christmas food remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,105 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
