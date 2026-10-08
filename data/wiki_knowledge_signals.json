@@ -51386,9 +51386,9 @@
       "url": "/wiki/concepts/courtallyprotectionnetwork/"
     },
     "CourtCeremonialSpaceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2） [loAjCtyv6NO5ZFho92kceS8pBieL].md",
@@ -51396,9 +51396,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1） [ln6BbLs0sKOqrhuTd3RM-kZnfpjM].md",
+          "key": "zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/courtceremonialspaceboundary/"
     },
     "CourtCoreRectification": {
@@ -203438,9 +203445,9 @@
       "url": "/wiki/concepts/respiratorysymptomtriage/"
     },
     "ResponsibilityBoundRiskAvoidance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
@@ -203448,9 +203455,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1） [ln6BbLs0sKOqrhuTd3RM-kZnfpjM].md",
+          "key": "zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/responsibilityboundriskavoidance/"
     },
     "ResponsiveDeepBrainStimulation": {
@@ -216363,6 +216377,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/shenbao/"
+    },
+    "ShenFurenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1） [ln6BbLs0sKOqrhuTd3RM-kZnfpjM].md",
+          "key": "zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shenfurenwesternhan/"
     },
     "ShenGongWesternHan": {
       "episode_count": 1,
@@ -265423,9 +265453,9 @@
       "url": "/wiki/entities/yuananeasternhan/"
     },
     "YuanAngWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -265461,6 +265491,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1） [ln6BbLs0sKOqrhuTd3RM-kZnfpjM].md",
+          "key": "zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
         }
       ],
       "updated": "2026-10-09",

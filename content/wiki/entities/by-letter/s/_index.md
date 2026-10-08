@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12840
+wiki_total_pages: 12841
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2558,6 +2558,9 @@ wiki_pages:
   - key: "ShiYiguanLateHan"
     title: "师宜官 / Shi Yiguan"
     url: "/wiki/entities/shiyiguanlatehan/"
+  - key: "ShenFurenWesternHan"
+    title: "慎夫人 / Shen Furen (Western Han)"
+    url: "/wiki/entities/shenfurenwesternhan/"
   - key: "ShougongGeng"
     title: "手工耿 / Shougong Geng"
     url: "/wiki/entities/shougonggeng/"

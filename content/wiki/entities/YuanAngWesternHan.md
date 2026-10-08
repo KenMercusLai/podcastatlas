@@ -9,14 +9,19 @@ sources:
   - zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr
   - zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq
   - zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx
+  - zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-袁盎 / Yuan Ang is a Western Han official whose current profile joins an early warning about [[LiuChangHuainanKing|刘长]]'s potentially fatal exile, a lethal court rivalry and proposal to sacrifice [[ChaoCuoWesternHan|晁错]], a dangerous embassy and favor-enabled escape during the [[RebellionOfTheSevenStatesWesternHan|Rebellion of the Seven States]], a successful succession remonstrance to [[EmpressDowagerDouWesternHan|窦太后]], and later assassination by attackers attributed to the circle of [[LiuWuLiangKingWesternHan|梁孝王刘武]].
+袁盎 / Yuan Ang is a Western Han official whose current profile joins early safety and consort-rank corrections under [[LiuHeng|汉文帝刘恒]], a warning about [[LiuChangHuainanKing|刘长]]'s potentially fatal exile, a lethal court rivalry and proposal to sacrifice [[ChaoCuoWesternHan|晁错]], a dangerous embassy and favor-enabled escape during the [[RebellionOfTheSevenStatesWesternHan|Rebellion of the Seven States]], a successful succession remonstrance to [[EmpressDowagerDouWesternHan|窦太后]], and later assassination by attackers attributed to the circle of [[LiuWuLiangKingWesternHan|梁孝王刘武]].
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm|Hanji 212 part 1]] now supplies Yuan Ang's earliest current interventions. He reportedly restrains Liu Heng from riding quickly down a steep slope near Baling, converting the emperor's bodily safety from private appetite into [[ResponsibilityBoundRiskAvoidance|an obligation to dynasty and court]]. The ruler accepts the warning and abandons the risk.
+
+The same source shows Yuan enforcing rank through placement rather than seeking to end private favor. At a Shanglin banquet he moves [[ShenFurenWesternHan|慎夫人]] below Empress Dou, then invokes [[QiJi|戚夫人]]'s fate to argue that visible elevation above consort rank can expose a favorite to later retaliation. Liu Heng and Shen reportedly accept the explanation. The intervention extends Yuan's remonstrance profile into [[CourtCeremonialSpaceBoundary|ceremonial boundary work]], while the episode's claim that this secured Shen's lifelong safety remains interpretive.
 
 [[zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx|Hanji 217 part 1]] supplies Yuan Ang's earliest current role. After the court commutes Liu Chang's proposed execution to exile, Yuan tells [[LiuHeng|汉文帝刘恒]] that prior indulgence and the absence of strict senior supervision helped produce the crisis. He then predicts that the proud prince may die after sudden humiliation and that Liu Heng will acquire a fratricide reputation. Liu Chang's subsequent refusal of food makes the warning operationally acute, although the episode does not prove that the emperor intended the outcome or establish every detail of Yuan's access and wording.
 
@@ -36,15 +41,18 @@ The subsequent investigation traces the attackers to Liang and reaches the two a
 
 ## Key Characteristics
 
+- Early remonstrant who links the ruler's physical safety to public responsibility and uses banquet seating to keep private favor below empress rank.
 - Western Han envoy who refuses recruitment by a rebel king and escapes through help attributed to an earlier beneficiary.
 - Remonstrant who connects prior indulgence and weak supervision to Liu Chang's crisis and predicts that exile may become fatal.
 - Court survivor who answers Chao Cuo's threatened prosecution by obtaining private access and proposing Chao's execution as part of a peace package.
-- Official presented as an opponent of collateral succession in favor of the emperor's established line.
-- Remonstrant who uses a historical analogy rather than a direct personal accusation against the dowager or Liang king.
-- Court actor whose warning reportedly helps send Liu Wu back to his fief.
+- Official who uses historical analogy to oppose collateral succession and reportedly helps send Liu Wu back to his fief.
 - Later assassination victim in a Liang-linked case whose precise royal command remains unresolved.
 
 ## Evidence
+
+Ruler safety and consort rank:
+- [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm|Hanji 212 part 1]] says Yuan restrains Liu Heng's horse, invokes the ruler's obligations beyond himself, and obtains a change in conduct.
+- [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm|Hanji 212 part 1]] says Yuan lowers Shen Furen's banquet seat, explains empress-concubine rank through Qi Ji's fate, and is later rewarded by Shen.
 
 Liu Chang warning:
 - [[zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx|Hanji 217 part 1]] attributes to Yuan Ang both a causal criticism of earlier indulgence and a specific warning that exile could kill Liu Chang and burden Liu Heng with a fratricide charge.
@@ -67,12 +75,13 @@ Assassination boundary:
 
 ## Qualifications
 
-This profile is based on five short source notes rather than a full biography. Hanji 217 part 1 does not independently establish Yuan's precise words, access, the supervision counterfactual, or whether Liu Chang's death followed exactly the predicted psychological path; accurate forecasting does not prove shared intent with the ruler. Hanji 233's allegations of payment, Chao's proposed prosecution, Dou Ying's access, assessment of Liu Bi's following, private audience, peace package, and Yuan's personal motive require broader comparison; the proposal can be both a crisis strategy and a life-preserving counterattack. Hanji 234's mission authority, Liu Bi's offer and killing order, the guard leader's identity, earlier favor, escape, and report are likewise bounded. The exact succession proposal, road design and effects, Song precedent, speeches, audience procedure, dowager's reasoning, intended victims, attackers, warning episode, death location, investigative evidence, Liu Wu's instructions, and final adjudication also remain bounded. Hanji 241 establishes a much fuller alleged Liang mechanism, but its own claim that records were burned prevents treating the reconstructed case as a complete surviving judgment.
+This profile is based on six short source notes rather than a full biography. Hanji 212 part 1 does not independently establish the slope danger, exact speeches, banquet procedure, authority to move the seat, reward, or the causal claim that rank correction secured Shen Furen's later safety; unlike Qi Ji's case, it supplies no attempted heir replacement. Hanji 217 part 1 does not independently establish Yuan's precise words, access, the supervision counterfactual, or whether Liu Chang's death followed exactly the predicted psychological path; accurate forecasting does not prove shared intent with the ruler. Hanji 233's allegations of payment, Chao's proposed prosecution, Dou Ying's access, assessment of Liu Bi's following, private audience, peace package, and Yuan's personal motive require broader comparison; the proposal can be both a crisis strategy and a life-preserving counterattack. Hanji 234's mission authority, Liu Bi's offer and killing order, the guard leader's identity, earlier favor, escape, and report are likewise bounded. The exact succession proposal, road design and effects, Song precedent, speeches, audience procedure, dowager's reasoning, intended victims, attackers, warning episode, death location, investigative evidence, Liu Wu's instructions, and final adjudication also remain bounded. Hanji 241 establishes a much fuller alleged Liang mechanism, but its own claim that records were burned prevents treating the reconstructed case as a complete surviving judgment.
 
 ## What Changed
 
-- Added Yuan's earlier criticism of imperial indulgence and weak supervision in the Liu Chang crisis.
-- Added his specific, subsequently realized warning that exile could become fatal and create a fratricide reputation.
+- Added Yuan's earliest current safety intervention and distinguished public-duty risk calibration from generic caution.
+- Added banquet seating as an early example of using ceremonial placement to constrain the public meaning of private favor.
+- Qualified the Qi Ji analogy because the Shen Furen account contains no attempted heir replacement.
 
 ## Relationships
 
@@ -87,3 +96,6 @@ This profile is based on five short source notes rather than a full biography. H
 - [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]] - historical-risk model made concrete through the Song Xuangong analogy.
 - [[KinshipProtocolBoundary|亲情名分边界]] - adjacent principle separating family affection from succession authority.
 - [[EvidenceSuppressionDynasticCompromise|证据切断式宗室妥协]] - settlement that prevents the completed case from producing a final judgment against Yuan's royal opponent.
+- [[ShenFurenWesternHan|慎夫人]] - favored consort who reportedly accepts Yuan's correction after initially resisting the changed seat.
+- [[ResponsibilityBoundRiskAvoidance|责任绑定风险回避]] - risk principle expressed through Yuan's warning against the emperor's slope descent.
+- [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] - rank boundary expressed through Yuan's banquet-seat intervention.

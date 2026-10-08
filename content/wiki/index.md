@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm.md) — 标题虽指向贾谊与重农，正文实际讲袁盎劝文帝避险、以慎夫人座次维护嫡妾礼序，并以戚夫人结局警示宠爱越礼的政治风险。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq.md) — 标题虽指向赵佗《报文帝书》，正文实际讲贾谊经吴公举荐入朝、快速升迁及改正朔服色礼乐等主张，并以文帝初年的功臣诸侯格局质疑全面改制时机。
 - [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（2）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1.md) — 贾谊把粮食积贮连接到灾荒救济、军需、社会秩序与政权安全；文帝籍田、减租和废除言论罪的因果归属保留来源边界。
 - [9 历史小说内外的曾国藩](sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza.md) — 怪东西借唐浩明《曾国藩》讨论历史小说的公众入口、史实与虚构边界，并把曾国藩的湘军组织、儒学资源和成功学接受放回具体历史条件。
@@ -4207,6 +4208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [慎夫人 / Shen Furen (Western Han)](entities/ShenFurenWesternHan.md) — 文帝宠妃；当前来源以避让皇后座次、接受袁盎劝谏和克制物质展示解释其宫廷自保。
 - [吴公 / Wu Gong (Henan commandery governor)](entities/WuGongHenanWesternHan.md) — 河南郡守与廷尉，节目称其赏识并举荐青年贾谊，为地方才名进入文帝朝廷提供关键通道。
 - [《论积贮疏》 / Memorial on Accumulation and Storage](entities/LunJiZhuShu.md) — 贾谊把衣食、农业生产与粮食储备连接到救荒、军需和政权韧性的西汉奏疏。
 - [Hasdrubal Barca / 哈斯德鲁巴·巴卡](entities/HasdrubalBarca.md) — Hannibal's brother whose Spanish command and attempted reinforcement of Italy end in defeat and death at the Metaurus.
