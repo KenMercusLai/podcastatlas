@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2604
+topic_total_pages: 2605
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5985,6 +5985,9 @@ topic_sources:
   - key: "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929"
     title: "383. Young Napoleon: The Shadow of the Guillotine (Part 2)"
     url: "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+  - key: "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk"
+    title: "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题"
+    url: "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
   - key: "39-elizabeth-i-glt7302124935"
     title: "39. Elizabeth I"
     url: "/wiki/sources/39-elizabeth-i-glt7302124935/"

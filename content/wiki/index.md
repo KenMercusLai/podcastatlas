@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题](sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk.md) — 怪东西以马林切与马戛尔尼使团对照殖民和外交翻译，说明多层转译既能建立联盟与维持礼仪，也会重写臣服、朝贡、礼物和主权。
 - [40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）](sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m.md) — 怪东西以李斯与赫德对照外来人才、国家能力、政治信任与主权边界，并保留《史记》与《赵正书》的继位叙事冲突。
 - [41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝](sources/41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3.md) — 怪东西对照叶明琛与巴哈杜尔·沙二世，连接第二次鸦片战争、1857年印度大起义、殖民强权误判与象征权威的政治流放。
 - [42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）](sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd.md) — 怪东西以子产与克里斯提尼对照土地、人口、军赋、成文法、地域部落、抽签、议事会与陶片放逐，解释变法如何削弱血缘贵族并重分配国家或公民权力。
@@ -4135,6 +4136,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。
+- [李自标 / Li Zibiao](entities/LiZibiao.md) — 以拉丁文、意大利文和中文参与马戛尔尼使团，却受官场语用、技术词汇与政治身份约束的译员。
 - [赫德 / Robert Hart](entities/RobertHart.md) — 长期主持中国海关总税务司署、连接行政建设与主权争议的英国籍清朝官员。
 - [中国海关总税务司署 / Chinese Imperial Maritime Customs Service](entities/ImperialMaritimeCustoms.md) — 以外籍人员、规则与口岸网络增强晚清财政行政能力、同时引出控制权问题的机构。
 - [阿思本舰队事件 / Lay-Osborn Flotilla](entities/LayOsbornFlotilla.md) — 清廷出资购舰却无法接受其指挥安排的晚清军购与主权冲突。
@@ -16939,6 +16942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [马戛尔尼使团 / Macartney Embassy](concepts/MacartneyEmbassy.md) — 英清双方借多语转译、礼物与改写公文接触，并在表面礼仪共识下保留制度冲突的1793年外交事件。
+- [翻译作为政治中介 / Translation as Political Mediation](concepts/TranslationAsPoliticalMediation.md) — 译者和译文通过身份、体裁、暗示与风险改变政治信息，而非仅替换词语。
 - [客卿式外来精英治理 / Guest-Official Governance](concepts/GuestOfficialGovernance.md) — 比较政权如何借助外来专才提升能力，并承受信任、代理与主权风险。
 - [象征权威的政治流放 / Political Exile of Symbolic Authority](concepts/SymbolicAuthorityExile.md) — 将失去实权但仍可被名号、礼仪与记忆动员的人物移离本土政治网络的统治策略。
 - [Institutional Reform as Power Reallocation / 制度变法即权力重分配](concepts/InstitutionalReformAsPowerReallocation.md) — Comparative framework in which changes to land, population, law, civic identity, and office selection redistribute practical power rather than merely announce policy.

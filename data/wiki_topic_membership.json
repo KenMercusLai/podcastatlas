@@ -4251,6 +4251,18 @@
       "url": "/topics/history/"
     }
   ],
+  "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "39-elizabeth-i-glt7302124935": [
     {
       "key": "history",
@@ -52347,6 +52359,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LiZibiao": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LiZuoChe": [
     {
       "key": "history",
@@ -54929,6 +54948,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MacartneyEmbassy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MachineCreativityThreat": [
@@ -85360,6 +85386,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TranslationAsPoliticalMediation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TranslationLaborIncentives": [

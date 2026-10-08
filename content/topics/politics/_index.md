@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3202
+topic_total_pages: 3206
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5026,6 +5026,9 @@ topic_concepts:
   - key: "QiangOfficialAbuseRebellionTrigger"
     title: "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger"
     url: "/wiki/concepts/qiangofficialabuserebelliontrigger/"
+  - key: "TranslationAsPoliticalMediation"
+    title: "翻译作为政治中介 / Translation as Political Mediation"
+    url: "/wiki/concepts/translationaspoliticalmediation/"
   - key: "KaogongfaReformBacklash"
     title: "考功法改革反噬 / Kaogongfa Reform Backlash"
     url: "/wiki/concepts/kaogongfareformbacklash/"
@@ -5146,6 +5149,9 @@ topic_concepts:
   - key: "HongKongFootballProfessionalization"
     title: "香港足球职业化 / Hong Kong Football Professionalization"
     url: "/wiki/concepts/hongkongfootballprofessionalization/"
+  - key: "MacartneyEmbassy"
+    title: "马戛尔尼使团 / Macartney Embassy"
+    url: "/wiki/concepts/macartneyembassy/"
   - key: "PerishableTributeLaborBurden"
     title: "鲜贡劳役负担 / Perishable Tribute Labor Burden"
     url: "/wiki/concepts/perishabletributelaborburden/"
@@ -8069,6 +8075,9 @@ topic_entities:
   - key: "ZhuFuEasternHan"
     title: "朱浮 / Zhu Fu (Eastern Han)"
     url: "/wiki/entities/zhufueasternhan/"
+  - key: "LiZibiao"
+    title: "李自标 / Li Zibiao"
+    url: "/wiki/entities/lizibiao/"
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"
@@ -8517,6 +8526,9 @@ topic_sources:
   - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
     title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
     url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
+  - key: "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk"
+    title: "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题"
+    url: "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
   - key: "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114"
     title: "406. The Nazis in Power: Hitler’s Road to War (Part 3)"
     url: "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9940
+wiki_total_pages: 9942
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "TruthfulTemperamentInRedChamber"
     title: "红楼之真 / Truthful Temperament In Red Chamber"
     url: "/wiki/concepts/truthfultemperamentinredchamber/"
+  - key: "TranslationAsPoliticalMediation"
+    title: "翻译作为政治中介 / Translation as Political Mediation"
+    url: "/wiki/concepts/translationaspoliticalmediation/"
   - key: "TangFrontierPoetryFieldExperience"
     title: "边塞诗的实地经验 / Tang Frontier Poetry Field Experience"
     url: "/wiki/concepts/tangfrontierpoetryfieldexperience/"

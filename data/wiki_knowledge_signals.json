@@ -93641,6 +93641,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/georgelucas/"
     },
+    "GeorgeMacartney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/georgemacartney/"
+    },
     "GeorgeMcClellan": {
       "episode_count": 1,
       "show_count": 1,
@@ -138923,6 +138939,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
     },
+    "LiZibiao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/lizibiao/"
+    },
     "LianDanXinGeneral": {
       "episode_count": 2,
       "show_count": 1,
@@ -151597,6 +151629,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/macstudio/"
     },
+    "MacartneyEmbassy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/macartneyembassy/"
+    },
     "MacbethHistoricalKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -152369,9 +152417,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 8,
-      "show_count": 1,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 2,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -152428,9 +152476,16 @@
           "show": "The Rest Is History",
           "title": "97. Top Ten Mistresses",
           "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        },
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/malinche/"
     },
     "Malta": {
@@ -193550,6 +193605,36 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/qianlingmountainmacaques/"
     },
+    "QianlongEmperor": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
+          "key": "zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws/"
+        },
+        {
+          "episode_file": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案 [547265513].md",
+          "key": "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513",
+          "show": "蜜獾吃书",
+          "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+          "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+        },
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/qianlongemperor/"
+    },
     "QiaoNini": {
       "episode_count": 1,
       "show_count": 1,
@@ -219096,9 +219181,9 @@
       "url": "/wiki/concepts/spanishcivilwar/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 9,
-      "show_count": 1,
-      "source_note_count": 9,
+      "episode_count": 10,
+      "show_count": 2,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -219162,9 +219247,16 @@
           "show": "The Rest Is History",
           "title": "51. Aztecs",
           "url": "/wiki/sources/51-aztecs-glt9590586130/"
+        },
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "SpanishConquestOfPeru": {
@@ -235953,6 +236045,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/transitionalaihardware/"
     },
+    "TranslationAsPoliticalMediation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/translationaspoliticalmediation/"
+    },
     "TranslationLaborIncentives": {
       "episode_count": 1,
       "show_count": 1,
@@ -247850,9 +247958,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -247881,6 +247989,13 @@
           "show": "怪东西Weird History",
           "title": "40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）",
           "url": "/wiki/sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m/"
+        },
+        {
+          "episode_file": "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+          "key": "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk",
+          "show": "怪东西Weird History",
+          "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
+          "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
         }
       ],
       "updated": "2026-10-08",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12750
+wiki_total_pages: 12752
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "GuJiegang"
     title: "顾颉刚"
     url: "/wiki/entities/gujiegang/"
+  - key: "GeorgeMacartney"
+    title: "马戛尔尼 / George Macartney"
+    url: "/wiki/entities/georgemacartney/"
   - key: "GaoYiding"
     title: "高一丁 / Gao Yiding"
     url: "/wiki/entities/gaoyiding/"
