@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子](sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77.md) — 董仲舒把君主正心、礼乐教化、太学育才、反复策问与地方官德行连成教育先于刑罚的治理链；标题所称“养儿子”及最后的柔性进谏答案因转录中断保留来源边界。
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z.md) — 汉武帝以贤良方正、直言极谏与策问打开求贤通道，董仲舒由经学进入国家政策场域；“首届公务员考试”、名次、人数及独尊儒术因果保留来源边界。
+- [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（2）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-2-lrjy7ozds7peyu6x3iwufety2zvt.md) — 董仲舒把举荐问责、能力考试、德行定职、制度纠偏、官吏不与民争生计和“大一统”连成治国方案；消费类比与两千年因果保留来源边界。
 - [《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！](sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail.md) — 董仲舒、魏绾与汉武帝初年儒学上升被区分为政策论述、人员筛选和混合治理；赵绾、王臧迎申公又把尊师礼仪、明堂计划与“重实行”之谏连在一起。
 - [《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？](sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs.md) — 宁成从打击豪强、受罚逃亡到被重新起用并反成南阳豪强，呈现酷吏因皇权需求而被反复利用、失去保护又被同类替代的循环；官职、动机、道德排名与灭族程序保留来源边界。
 - [The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple](sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189.md) — Huberman Lab interview arguing that progressive resistance, sufficient effort, recovery, and adherence generally transfer across sexes while cycle, menopause, fasting, cortisol, creatine, and hormone claims require outcome-level evidence and individual context.
@@ -16830,6 +16831,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让高级官员发现并推荐人才，再以被荐者表现反向奖惩举荐人，并与能力考试、德行考察和职位配置结合的选才机制。
+- [官吏不与民争生计 / Official Noncompetition with Popular Livelihoods](concepts/OfficialLivelihoodNoncompetition.md) — 以公共俸禄和职位义务约束官吏利用权势参与生产经营、挤压普通家庭生计的角色伦理。
 - [教化先于刑法 / Moral Education Before Punishment](concepts/MoralEducationBeforePunishment.md) — 以君主和官吏示范、学校育才、礼乐风俗与地方落实在上游塑造行为，同时保留刑法的威慑和问责角色。
 - [策问式选才 / Imperial Policy-Questioning Talent Selection](concepts/ImperialPolicyQuestioningTalentSelection.md) — 推荐打开候选池、帝王策问检验治国论述，并把学术声望接入国家政策场域的选才机制。
 - [Sex-Specific Exercise Programming Evidence Boundary](concepts/SexSpecificExerciseProgrammingBoundary.md) — Separates baseline physiology and individual symptoms from outcome evidence strong enough to justify universal female-specific programs.

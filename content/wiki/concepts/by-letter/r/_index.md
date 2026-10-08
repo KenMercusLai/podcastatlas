@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9906
+wiki_total_pages: 9908
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "RVTravelLogistics"
     title: "RV Travel Logistics"
     url: "/wiki/concepts/rvtravellogistics/"
+  - key: "RecommendationAccountabilityTalentSelection"
+    title: "举荐问责式选才 / Recommendation-Accountability Talent Selection"
+    url: "/wiki/concepts/recommendationaccountabilitytalentselection/"
   - key: "RenDanHeYi"
     title: "人单合一 / RenDanHeYi"
     url: "/wiki/concepts/rendanheyi/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9906
+wiki_total_pages: 9908
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "OfficialArmyPredationBackfire"
     title: "官军扰民反噬 / Official Army Predation Backfire"
     url: "/wiki/concepts/officialarmypredationbackfire/"
+  - key: "OfficialLivelihoodNoncompetition"
+    title: "官吏不与民争生计 / Official Noncompetition with Popular Livelihoods"
+    url: "/wiki/concepts/officiallivelihoodnoncompetition/"
   - key: "OfficialSalaryExtractionRisk"
     title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
     url: "/wiki/concepts/officialsalaryextractionrisk/"

@@ -70519,6 +70519,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RecommendationAccountabilityTalentSelection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ReconstructionElectoralTerror": [
     {
       "key": "politics",
