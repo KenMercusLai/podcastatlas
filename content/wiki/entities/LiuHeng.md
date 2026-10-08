@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
   - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
+  - zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc
 last_updated: 2026-10-08
 ---
 
@@ -26,6 +27,8 @@ Liu Heng first enters the wiki as the unexpected fulfillment of [[XuFuPhysiognom
 The post-Lu sources supply his political entry. [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] says [[ChenPing|陈平]], [[ZhouBo|周勃]], and Liu-family forces remove Lu-family power and install the king of Dai. [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|part 4]] then treats Liu Heng's reign as the setting in which Chen Ping's earlier survival preserves later official usefulness.
 
 Liu Heng is not presented as uniformly detached from personal favor. [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says he honors Xu Fu and tries to defeat her poverty prediction for [[DengTong|邓通]] by granting copper-mountain and minting wealth. Jingdi's later confiscation supplies the episode's prophecy payoff, while Liu Heng's intervention remains a patronage counterweight to a simple austerity portrait.
+
+[[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] now fills in the patronage mechanism and its institutional limit. Liu Heng selects Deng Tong after a dream resemblance and name pun, visits his home, promotes and enriches him, and reportedly accepts intimate bodily care from him. Yet Chancellor [[ShentuJiaWesternHan|申屠嘉]] can still summon and humiliate the favorite for disrespectful court conduct. Liu Heng waits until punishment has been imposed before sending an emissary to retrieve Deng Tong, combining personal rescue with temporary tolerance of chancellorial discipline.
 
 Two different channels of political receptiveness now qualify Liu Heng's profile. In the omen channel, he accepts a reported yellow dragon as confirmation of [[GongsunChenWesternHan|公孙臣]]'s earth-virtue prediction, recalls and promotes him, allows discussion of institutional and color reform, and sacrifices to the Five Colored Emperors. In the remonstrance channel, he solicits blunt counsel by examination, prefers [[ChaoCuoWesternHan|晁错]]'s answer, promotes him, and values later policy memorials without fully adopting them. [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] therefore shows openness producing both corrective-policy access and susceptibility to claimed signs.
 
@@ -45,7 +48,7 @@ The same source links those instructions to refusal of a costly terrace, plain c
 - Narrative fulfillment figure in Xu Fu's Bao Ji prophecy and active patron in the Deng Tong prediction branch.
 - Ruler whose reported death instructions, terrace refusal, and restricted personal display turn mourning, burial, mobilization, and consumption into burden-limiting policy.
 - Agrarian and light-burden ruler credited by the episode with helping create Wen-Jing recovery.
-- Receptive and lenient ruler in the source's anecdotes, qualified by selective personal patronage and a willingness to let omen claims shape ritual and chronology before external correction.
+- Receptive and lenient ruler in the source's anecdotes, qualified by selective personal patronage that can rescue a favorite without wholly preventing formal discipline and by a willingness to let omen claims shape ritual and chronology before external correction.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
 - Crisis ruler who publicly solicits relief proposals and treats perceived kin favoritism as an appointment constraint.
 
@@ -58,6 +61,7 @@ Accession and restoration:
 Prophecy and patronage:
 - [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc|Qinji 117-1]] makes Liu Heng, rather than a Wei heir, the future emperor born to Bao Ji.
 - [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says Liu Heng honors Xu Fu and gives Deng Tong extraordinary resources in an attempt to prevent predicted poverty.
+- [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] adds the dream recognition, household visits, gifts, promotion, minting privilege, intimate care, and delayed rescue from Shentu Jia's discipline.
 
 Omen capture, exposure, and correction:
 - [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the yellow-dragon report to Gongsun Chen's appointment, earth-virtue planning, Zhang Cang's loss of influence, Five Colored Emperor sacrifice, and the first Xinyuan Ping temple order.
@@ -77,14 +81,13 @@ Death, burial, and public burden:
 
 ## Qualifications
 
-This is a bounded profile assembled from eight popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
+This is a bounded profile assembled from nine popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. Hanji 228's dream, wordplay, offices, reward scale, private visits, abscess care, court procedure, minting scope, and motives require comparison; it more securely shows the podcast's patronage model than a complete legal or psychological account. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
 
 ## What Changed
 
-- Added disaster self-questioning and open solicitation of relief proposals.
-- Added renewed heqin as a bounded response to damaging frontier raids.
-- Added the decision to pass over Dou Guangguo on perceived-favoritism grounds and appoint Shentu Jia.
-- Extended the restraint synthesis from consumption and burial to feedback, frontier risk, and appointment legitimacy.
+- Replaced the compact Deng Tong exception with the dream-selection, household-access, enrichment, and intimate-care mechanism.
+- Added the contrast between Shentu Jia's permitted discipline and Liu Heng's eventual rescue of the favorite.
+- Sharpened the profile's central qualification: public frugality can coexist with extraordinary selective patronage.
 
 ## Relationships
 
@@ -93,6 +96,7 @@ This is a bounded profile assembled from eight popular-history podcast notes, no
 - [[WeiBao|魏豹]] - ruler who misattributes Bao Ji's predicted imperial child to his own future.
 - [[XuFuPhysiognomist|许负]] - physiognomist honored by Liu Heng in the podcast's prophecy branch.
 - [[DengTong|邓通]] - favorite whose exceptional patronage qualifies the frugality synthesis.
+- [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - explains why Liu Heng's protection is powerful during his life but not durable across succession.
 - [[XinyuanPingWesternHan|新垣平]] - fangshi whose staged and unverifiable signs gained Liu Heng's trust before accusation and investigation exposed the scheme.
 - [[GongsunChenWesternHan|公孙臣]] - earth-virtue advocate whose yellow-dragon prediction Liu Heng treats as confirmed.
 - [[ZhangCang|张苍]] - water-virtue minister whose influence declines after Liu Heng accepts the rival sign.

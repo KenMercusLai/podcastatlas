@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？](sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc.md) — 邓通由文帝梦兆与近身宠爱获得官位、铜山和铸钱权，受申屠嘉礼法约束却由文帝救回；景帝继位后查办越界铸钱、没产追债，馆陶长公主救济亦未能阻止其贫饿而死。
 - [43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震](sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps.md) — 怪东西以华县与里斯本地震对照建筑暴露、复合死亡、信息网络、救灾秩序、城市重建与启蒙思想，并保留著名数字及“首次科学研究”等来源边界。
 - [《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？](sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj.md) — 文帝在灾荒粮缺中自责问策、以和亲应对边患；张苍因荐人牟利指控离相，其学术、报恩与长寿轶事得到补全，申屠嘉则在避嫌外戚的考量下接任。
 - [《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？](sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3.md) — 公孙臣以土德和黄龙预言取得文帝任用并使张苍失势，晁错凭对策获擢，新垣平则以望气开启后续骗局；标题未提供新垣结衣本人族谱证据。
@@ -4137,7 +4138,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
 - [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
-- [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 文帝为避外戚任相观感而选中的廉直老臣，后因晁错提前请罪并获景帝背书而失去弹劾先机。
+- [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 文帝为避外戚任相观感而选中的廉直老臣，曾以礼法压制邓通，后因晁错提前请罪并获景帝背书而失去弹劾先机。
 - [窦广国 / Dou Guangguo (Western Han)](entities/DouGuangguoWesternHan.md) — 被汉文帝认为有德有才却因外戚任相的偏私观感而未获任命的候选人。
 - [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
 - [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
@@ -9616,7 +9617,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose arc now runs from Chenliu access and strategy to Qi persuasion at Linzi and the danger created by Han Xin's unsynchronized attack.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
-- [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
+- [邓通 / Deng Tong](entities/DengTong.md) — 由文帝梦兆、近身照料和个人宠爱获得官位、铜山及铸钱权，却在景帝继位后被免官、查办、没产并贫饿而死的西汉宠臣。
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 以绕伏、断粮、坚守和识破佯攻建立七国之乱军功，后因连续政策冲突失去帝王信任并在随葬甲盾案中绝食而死的西汉将相。
 - [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、普遍宽刑、对周亚夫的个案严厉与临终重农并置，承接文景繁荣及内部集中问题。
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
@@ -20519,7 +20520,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels or superior preferences turn rumor, joke, ordinary anomaly, or surface achievement into auspicious evidence for upward political value.
 - [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where direct contradiction, silence, skepticism, or distress reporting becomes politically actionable inside rewarded praise and auspicious-reporting environments.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Late-Han succession pattern where Yan, Liang, and Dou powerholders prefer young legitimate rulers because age makes behind-the-throne control easier.
-- [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
+- [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — 个人宠爱可生成财富、官位与救援，却可能容许礼法惩戒，并在换宠、继位、靠山死亡或更强宫廷权威介入时迅速失效。
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
 - [Budgeted Frontier Suppression / 预算化边疆清剿](concepts/BudgetedFrontierSuppression.md) — Duan Jiong's Eastern Qiang strategy frame turning hard suppression into a court-legible plan with troops, terrain, duration, cost, and qualifications.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.

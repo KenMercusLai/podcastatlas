@@ -58807,6 +58807,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/dengprofessorcardiology/"
     },
+    "DengTong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？ [lkmzg6gcONP5mFPq72JSDM_yw-Fc].md",
+          "key": "zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/dengtong/"
+    },
     "DengWanshiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -142003,9 +142026,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -142062,6 +142085,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？ [lkmzg6gcONP5mFPq72JSDM_yw-Fc].md",
+          "key": "zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
         }
       ],
       "updated": "2026-10-08",
@@ -177098,9 +177128,9 @@
       "url": "/wiki/concepts/palacefavorselfrestraint/"
     },
     "PalaceFavoriteProtectionFragility": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -177122,9 +177152,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？ [lkmzg6gcONP5mFPq72JSDM_yw-Fc].md",
+          "key": "zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceFemaleSameSexIntimacy": {
@@ -212063,9 +212100,9 @@
       "url": "/wiki/entities/shentugangeasternhan/"
     },
     "ShentuJiaWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
@@ -212080,6 +212117,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？ [lkmzg6gcONP5mFPq72JSDM_yw-Fc].md",
+          "key": "zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
         }
       ],
       "updated": "2026-10-08",

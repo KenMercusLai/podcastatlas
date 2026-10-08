@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
   - zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -22,6 +23,8 @@ The late-Han harem cases isolate the split among affection, title, and post-patr
 
 The Western Han male-favorite cases separate succession reversal from intervention during the patron's life. [[DengTong|邓通]]'s emperor-created wealth is reversible when [[HanJingdi|汉景帝]] succeeds his father, while [[HanYanWesternHan|韩嫣]]'s closeness to [[HanWudi|汉武帝]] does not protect him when the empress dowager orders his death. The protection problem therefore does not require the patron to die. [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] supports both contrasts.
 
+Deng Tong's expanded case adds an intermediate state between complete immunity and collapse. Chancellor [[ShentuJiaWesternHan|申屠嘉]] can summon, threaten, and humiliate him for violating court decorum, but [[LiuHeng|汉文帝刘恒]] can retrieve him before punishment becomes final. Favorite protection can therefore be both powerful and porous: it preserves life while allowing institutional correction, and it remains nontransferable to the successor. [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]]
+
 Formal office and wealth reduce neither mechanism to simple low status. Han Yan and Deng Tong have resources, but those resources remain dependent because they do not outweigh succession power or senior palace-family authority. Durable protection requires more than affection and can remain incomplete even when a favorite has title, office, lineage, or money.
 
 ## Key Claims
@@ -29,6 +32,7 @@ Formal office and wealth reduce neither mechanism to simple low status. Han Yan 
 - Personal favor can create rapid access, office, wealth, or visibility without creating durable protection.
 - Succession can reverse patron-created fortunes because the new ruler is not bound by the prior ruler's attachment.
 - A stronger palace-family actor can defeat the reigning patron's protection even before succession.
+- Formal office can temporarily discipline a favorite even when the patron retains final protective power.
 - Formal title, office, lineage, and wealth can improve position but do not guarantee safety when authority is divided.
 - Palace rivalry becomes especially dangerous when affection, title, family backing, and post-patron authority belong to different people.
 - The concept should be used for protection collapse, not for every case of intimacy or favorite influence.
@@ -43,19 +47,23 @@ Post-patron execution:
 
 Succession reversal:
 - [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says Jingdi confiscates Deng Tong's emperor-backed wealth and the favorite later dies in poverty.
+- [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] adds removal from office, a border-minting investigation, confiscation, debt, and relief insufficient to restore the former position.
+
+Bounded discipline during the patron's life:
+- [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] says Shentu Jia forces Deng Tong into submission before Liu Heng sends an emissary to retrieve him.
 
 Protection defeated during the patron's life:
 - [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says the empress dowager has Han Yan killed despite Han Wudi's plea.
 
 ## Counterevidence & Qualifications
 
-The evidence comes from three popular-history source notes and should not be generalized to every favorite. Han Yan has royal descent and office, while Deng Tong has extraordinary wealth, so neither case proves that formal resources never matter; they show only that such resources can remain subordinate to succession and palace authority. Hanji 868 also shows that formal title without affection is not identical to favorite vulnerability, because Dou Miao's title later becomes politically effective. Private motives, the precise legal process, and the sexual character of favorite relationships remain source-scoped.
+The evidence comes from four popular-history source notes and should not be generalized to every favorite. Han Yan has royal descent and office, while Deng Tong has extraordinary wealth, so neither case proves that formal resources never matter; they show only that such resources can remain subordinate to succession and palace authority. Hanji 228 is also counterevidence to a simple immunity model: Shentu Jia imposes a real cost before Liu Heng intervenes. Hanji 868 shows that formal title without affection is not identical to favorite vulnerability, because Dou Miao's title later becomes politically effective. Private motives, the precise legal process, and the sexual character of favorite relationships remain source-scoped.
 
 ## What Changed
 
-- Expanded the concept from late-Han harem competition to male favorites and cross-dynastic protection failure.
-- Added succession reversal and senior palace-family intervention as distinct collapse mechanisms.
-- Qualified the earlier status account: office, lineage, and wealth can coexist with dependence rather than eliminating it.
+- Added bounded chancellorial discipline as an intermediate state between favorite immunity and protection collapse.
+- Expanded the Deng Tong mechanism from simple confiscation to dismissal, investigation, debt, and ineffective relief.
+- Clarified that a patron can preserve a favorite's life without shielding the favorite from every institutional sanction.
 
 ## Related Concepts
 
@@ -64,3 +72,5 @@ The evidence comes from three popular-history source notes and should not be gen
 - [[PalaceProximityPower|宫廷近身权力]] - access mechanism that creates influence without guaranteeing security.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - public-order consequences when private attachment directs reward and resources.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - neighboring pattern where personal affection reshapes succession expectations.
+- [[DengTong|邓通]] - current case combining patron rescue, formal discipline, succession reversal, and destitution.
+- [[ShentuJiaWesternHan|申屠嘉]] - formal-office actor who tests the limits of favorite protection during the patron's life.
