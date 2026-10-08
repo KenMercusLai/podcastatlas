@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [094 回归文学！《红楼梦》不是悼明之作](sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv.md) — 纸醉金迷FM以可证伪性、整体语境和反向套用检验悼明读法，并分析秘密知识、民族情绪与短视频碎片化如何推动单一答案传播。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx.md) — 刘长从封国内越权走向谋反、流放与绝食死亡；节目以“宠杀”解释文帝宽纵，但直接意图证据不足，薄昭亲属关系也存在明确误述。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye.md) — 汉匈以书信复和并继续威慑，新单于继位后文帝遣翁主和亲；被迫随行的中行说投匈，把汉朝物资、行政与外交知识转化为匈奴能力。
 - [《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？](sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4.md) — 贾谊以犯罪激励、币重分裂、弃农采铜和禁令利润说明惩罚不足，贾山从主权反对私铸；文帝却授邓通铜山铸钱，吴王刘濞也以铜盐形成财政自主。

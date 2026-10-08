@@ -167268,6 +167268,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/mourningdiplomaticrestraint/"
     },
+    "MourningMingReading": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "167.命若朝霜：为什么红楼梦不需要悼明？ [949917324].md",
+          "key": "167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324",
+          "show": "蜜獾吃书",
+          "title": "167.命若朝霜：为什么红楼梦不需要悼明？",
+          "url": "/wiki/sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324/"
+        },
+        {
+          "episode_file": "lhl0ZQJYuDd0ipoV27oTKK0LI8qv [lhl0ZQJYuDd0ipoV27oTKK0LI8qv].md",
+          "key": "094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv",
+          "show": "纸醉金迷FM",
+          "title": "094 回归文学！《红楼梦》不是悼明之作",
+          "url": "/wiki/sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/mourningmingreading/"
+    },
     "MovementPracticeAsAwareness": {
       "episode_count": 4,
       "show_count": 2,
@@ -217312,9 +217335,9 @@
       "url": "/wiki/concepts/shortvideoolddramarediscovery/"
     },
     "ShortVideoTrafficLogic": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvMwWqnWmEW2_S22X_4oTJy2GNlw [lvMwWqnWmEW2_S22X_4oTJy2GNlw].md",
@@ -217322,9 +217345,16 @@
           "show": "天真不天真",
           "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
           "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+        },
+        {
+          "episode_file": "lhl0ZQJYuDd0ipoV27oTKK0LI8qv [lhl0ZQJYuDd0ipoV27oTKK0LI8qv].md",
+          "key": "094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv",
+          "show": "纸醉金迷FM",
+          "title": "094 回归文学！《红楼梦》不是悼明之作",
+          "url": "/wiki/sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/shortvideotrafficlogic/"
     },
     "ShougongGeng": {
@@ -270277,9 +270307,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -270434,9 +270464,16 @@
           "show": "纸醉金迷FM",
           "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
           "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        },
+        {
+          "episode_file": "lhl0ZQJYuDd0ipoV27oTKK0LI8qv [lhl0ZQJYuDd0ipoV27oTKK0LI8qv].md",
+          "key": "094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv",
+          "show": "纸醉金迷FM",
+          "title": "094 回归文学！《红楼梦》不是悼明之作",
+          "url": "/wiki/sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhianCe": {

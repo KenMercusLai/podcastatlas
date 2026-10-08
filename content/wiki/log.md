@@ -32946,3 +32946,11 @@ Added source `zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuc
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 094 回归文学！《红楼梦》不是悼明之作
+
+Added source `094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv`; migrated and resynthesized [[MourningMingReading|悼明读法]] from its complete preserved evidence inventory before appending the new source once; and resynthesized [[ShortVideoTrafficLogic|短视频流量逻辑]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] from their complete preserved source inventories before appending the new source once. Core synthesis: political implication remains possible, but a total dynastic code loses explanatory force when the same procedure can fit unrelated works, cannot identify disconfirming evidence, and replaces whole-text context with detached puns or fragments; secret-history reward, low participation cost, emotional identity, and short-video evidence asymmetry help explain contemporary spread. No settled contradiction was adopted. Claims about Cai Yuanpei, versions, early circulation, censorship, Cao-family loyalty, audience composition, academic absence, and adaptation or publishing effects remain source-scoped. Broad [[HongLouMeng|《红楼梦》]] and [[CaoXueqin|曹雪芹]] pages were kept closed because the focused source, show, and concepts capture the bounded addition without rewriting larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,124 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

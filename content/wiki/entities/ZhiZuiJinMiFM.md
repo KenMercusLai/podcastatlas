@@ -25,15 +25,16 @@ sources:
   - 098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy
   - 097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
+  - 094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-08
+last_updated: 2026-10-09
 ---
 
 # 纸醉金迷FM / Zhi Zui Jin Mi FM
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, a critique of viral [[MourningMingReading|悼明读法]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -55,6 +56,8 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 
 The paired Jin Yong MBTI episodes add a second comparative typology but also demonstrate the show's self-correcting side. I/E and N/S let the hosts compare solitude, sociability, abstraction, and concrete attention, while T/F and J/P add decision priority, planning, and improvisation. Disputed readings of Ren Yingying, Kangxi, and Huang Rong keep the exercise open, and the hosts explicitly notice their own weak grasp of N/S and negatively skewed S examples. The strongest result is [[FictionalCharacterTypingBoundary]]: patterns across choices can be illuminating, but physical isolation, social competence, trauma, moral alignment, one dramatic act, office, imagination, or emotional intensity cannot establish a definitive type.
 
+The earlier 悼明 discussion supplies the show's clearest meta-interpretive case. Instead of only disputing particular puns, the hosts reverse the method onto unrelated television works to ask whether it can discriminate among texts at all. They preserve the possibility of political implication while rejecting a self-sealing master code, then connect its spread to secret-knowledge reward, ethnic emotion, low entry cost, and [[ShortVideoTrafficLogic|short-video fragmentation]]. This strengthens the show's recurring distinction between an interpretation that opens a work and a label that replaces close reading.
+
 ## Key Characteristics
 
 - Uses detailed retelling so listeners can follow interpretation without a recent reading of the work.
@@ -63,7 +66,7 @@ The paired Jin Yong MBTI episodes add a second comparative typology but also dem
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, adaptation, historical-institutional, film, television-comedy, and popular personality-language criticism while testing explicit lessons and labels against prior action.
+- Mixes literary, adaptation, historical-institutional, film, television-comedy, and popular personality-language criticism while testing explicit lessons, labels, and hidden-code methods against prior action and unrelated counterexamples.
 
 ## Evidence
 
@@ -84,6 +87,7 @@ The paired Jin Yong MBTI episodes add a second comparative typology but also dem
 - [[119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf]] preserves disagreement over reversal density, character identity, strategic logic, and whether “smile” actually governs the plot.
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] records opposing judgments about whether 双双's appearance strengthens the love story or turns disability into an exaggerated reversal.
 - [[120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3]] preserves disagreements over literacy, kindness, moral responsibility, 尤二姐, and the missing ending.
+- [[094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv]] allows political implication while disputing the claim that one anti-Qing restoration code exhausts the novel.
 
 ### Evidence boundaries
 
@@ -91,6 +95,7 @@ The paired Jin Yong MBTI episodes add a second comparative typology but also dem
 - [[121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4]] distinguishes the strong implication that 高立 dies from the unsupported theory that 双双 stole the weapon.
 - [[120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3]] distinguishes surviving textual evidence from competing extrapolations about Wang Xifeng's final fate.
 - [[118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj]] separates thematic victory from unresolved martial ranking and treats 明月心's motives as mixed rather than settled.
+- [[094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv]] tests a hidden-code method by applying it to unrelated works and asks what counterevidence, whole-text context, and prior documents would be required to support stronger revisionist claims.
 
 ### Rereading and aesthetic change
 
@@ -160,14 +165,13 @@ The paired Jin Yong MBTI episodes add a second comparative typology but also dem
 
 ## Qualifications
 
-This profile rests on twenty-two episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin and Sui history, Chinese reclusion history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty-three episode notes and may not represent every format produced by the show. The 《双瞳》 and 《天龙八部》 inputs are only three-minute openings and cannot establish how either full discussion proceeds. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
-- Extended the adaptation method from multi-version surveys to a scene-level comic-film comparison.
-- Added action readability, camera distance, editing, and emotional preparation to the show's audiovisual criteria.
-- Distinguished coherent motive reconstruction from political, ensemble, and character compression.
-- Added explicit speculation boundaries around censorship, deleted footage, and production intent.
+- Added method reversal and cross-work counterexamples as tests of interpretive discrimination.
+- Added the boundary between possible political implication and a self-sealing master code.
+- Added secret-knowledge reward, low entry cost, and short-video fragmentation to the show's media criticism.
 
 ## Relationships
 
@@ -181,6 +185,9 @@ This profile rests on twenty-two episode notes and may not represent every forma
 - [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]] - case of adult rereading, poetic friction, desire, and identity.
 - [[HongLouMeng|《红楼梦》]] - classic receiving the show's new character-centered series.
 - [[WangXifeng|王熙凤]] - first “红楼金粉” character case.
+- [[MourningMingReading]] - viral Red Chamber reading used to test hidden-code method, interpretive monopoly, and platform spread.
+- [[ShortVideoTrafficLogic]] - media logic used to explain why detached clues and emotional revelation can outrun contextual analysis.
+- [[InterpretationAndOverinterpretation]] - broader boundary between suggestive pattern and explanatory proof.
 - [[ThemePlotCoherence]] - distinction between thematic force and credible causal construction.
 - [[GreedDrivenNarrativeTrap]] - mechanism applied to both 《长生剑》's false value and 《昆仑神宫》's theft-sensitive defense.
 - [[CompassionateCharacterInterpretation]] - adjacent method for understanding difficult characters without suspending responsibility.
