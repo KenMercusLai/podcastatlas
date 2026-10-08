@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？](sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3.md) — 公孙臣以土德和黄龙预言取得文帝任用并使张苍失势，晁错凭对策获擢，新垣平则以望气开启后续骗局；标题未提供新垣结衣本人族谱证据。
 - [《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？](sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j.md) — 新垣平以望气、玉杯和祥瑞叙事获得文帝赏赐并影响祭祀、改元与建庙，最终由外部检举触发审讯败露；太阳异象机制和廷尉姓名保留来源边界。
 - [CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder](sources/all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770.md) — All-In interview with CZ on his immigrant and trading-systems background, Binance and BNB's launch, U.S. enforcement and prison, Giggle Academy, crypto privacy, and agent payments.
 - [《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？](sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj.md) — 晁错凭提前请罪与景帝背书化解申屠嘉的宗庙墙案；景帝首轮减笞与梁王刘武的财富、宾客和特殊礼遇又补出后续削藩及继承冲突的前奏。
@@ -4127,6 +4128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.

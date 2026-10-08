@@ -19,6 +19,7 @@ sources:
   - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
   - zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78
   - zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi
+  - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
 last_updated: 2026-10-04
 ---
 
@@ -30,6 +31,8 @@ Auspicious omen politics / 祥瑞政治 is the political use of favorable signs,
 
 The current evidence shows a spectrum from opportunistic career claims to dynastic replacement. In routine court life, omens could decorate appointment or survival stories, as in Zhang Hao's gold-seal dream. Under coercive rule, a ruler could turn a prediction into a death script, as Dong Zhuo does with Zhang Wen. At the dynastic scale, Qin and Wang Mang cases show signs entering the logic of imperial color, virtue, sacred legitimacy, and transfer of rule.
 
+An early Western Han forecast-confirmation case joins omen politics to career competition and policy agenda-setting. [[GongsunChenWesternHan|公孙臣]] predicts that an earth-virtue Han will be confirmed by a yellow dragon; after a dragon is reported at Chengji and [[LiuHeng|汉文帝]] accepts it, Gongsun Chen gains office, [[ZhangCang|张苍]] loses influence, and earth-virtue ritual, color, and institutional planning advances. [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] also begins [[XinyuanPingWesternHan|新垣平]]'s access through a five-colored-qi claim that produces a temple before Hanji 226's stronger staged-proof cycle.
+
 Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|Hanji 607]] adds an earlier staged-tribute variant under [[WangMang|王莽]]: a Yuechang white-pheasant report borrows the [[ZhouGong|Duke of Zhou]] precedent so ministers can read distant submission as proof of a present sage-regent and propose Anhan Gong status. [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] adds a submission-report variant under [[WangMang|王莽]]: a Qiang land-offering report credits Wang Mang and [[WangZhengjun|王政君]]'s virtue through abundant harvest,甘露, springs, phoenixes, and divine birds, then helps legitimate [[XihaiExileAdministrativeBurden|Xihai Commandery]] as the missing western counterpart to other directional commanderies. [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] adds a court-flattery variant under Wang Mang: officials read a riverbank collapse and watercourse change through [[HetuLuoshu|河图洛书]] as "earth suppressing water," then convert that sign into confidence that Xiongnu will be defeated. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] adds a monopoly-backfire variant: fuming reports help Wang Mang's accession, then become dangerous once many actors keep using fabricated signs for rank. These cases do not replace military, ecological, or institutional explanation; they show how auspicious formulas could travel across media, landscape, court speech, diplomatic reports, and bureaucratic reward systems into frontier policy, memory, and purge.
 
 Across the page, omen politics works best as a language of compression. A sign can condense uncertainty into confidence, transform ambition into Heaven-backed legitimacy, make an attack look prewritten, or memorialize a victory as cosmically timed. The same logic is unstable: when the claimant lacks virtue, competence, or durable capacity, omen rhetoric can backfire into skepticism, overreach, or retrospective blame.
@@ -38,7 +41,7 @@ Across the page, omen politics works best as a language of compression. A sign c
 
 ## Key Claims
 
-- Auspicious signs are politically useful because they turn contingent choices into apparently Heaven-aligned action.
+- Auspicious signs are politically useful because they turn contingent choices, appointments, and symbolic-policy agendas into apparently Heaven-aligned action.
 - Omen politics can operate at many scales: personal advancement, purge cover, imperial travel, frontier war, diplomatic messaging, and dynastic replacement.
 - The interpreter has power; vague or flexible signs become consequential when a ruler, adviser, text, or artifact narrows their meaning.
 - Material media can carry omen politics, not just speeches and memorials.
@@ -60,8 +63,11 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Rewarded-sign backfire: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] shows fuming reports becoming dangerous after Wang Mang's accession because rewards encourage others to fabricate signs and seek office.
 - Cumulative accession proof: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] joins prophecy, new-well, stone-animal, copper-sign, casket, temple, and ritual evidence into Wang Mang's formal accession narrative.
 - Self-appointment through signs: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] says Ai Zhang fabricates a Heaven-backed personnel list and includes himself with an office and title.
+- Forecast-confirmation and court displacement: [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the reported yellow dragon to Gongsun Chen's appointment, Zhang Cang's loss of influence, earth-virtue planning, and Five Colored Emperor ritual; it also links Xinyuan Ping's first qi claim to temple construction.
 
 ## Counterevidence & Qualifications
+
+Hanji 225-2 supports a forecast-report-patronage sequence but does not verify the yellow dragon, demonstrate supernatural confirmation, or substantiate the host's speculation that Gongsun Chen arranged the event. Its Xinyuan Ping material overlaps with the adjacent Hanji 226 narrative rather than independently confirming it.
 
 Hanji 632 reports sign interpretations and objects as political claims and does not establish supernatural truth; its strongest evidence concerns accumulation, reception, reward, and institutional use.
 
@@ -69,10 +75,10 @@ The sources are evidence for political reasoning, not evidence that omens caused
 
 ## What Changed
 
-- Added Hanji 607 as a staged distant-tribute case where a white-pheasant report turns Zhougong precedent into Wang Mang status legitimacy.
-- Added Hanji 632 as a cumulative accession and self-appointment case where Ai Zhang's fabricated sign authorizes both ruler and personnel.
-- Preserved Hanji 642 as a rewarded-sign backfire case under Wang Mang.
-- Preserved Hanji 651 as a landscape-to-policy omen case centered on Hetu-Luoshu interpretation under Wang Mang.
+- Added a Western Han forecast-confirmation case that reallocates office and symbolic-policy authority.
+- Added Xinyuan Ping's first qi-based temple order as the entry stage before the staged-proof sequel.
+- Distinguished supported political uptake from unverified supernatural truth and speculative fabrication.
+- Preserved cumulative accession and rewarded-sign backfire as later, larger-scale variants.
 - Preserved the distinction between omen rhetoric as political evidence and omen rhetoric as sole cause.
 
 ## Related Concepts
@@ -86,3 +92,5 @@ The sources are evidence for political reasoning, not evidence that omens caused
 - [[OmenCountermeasureMobility]] - fate-management subtype where movement becomes the response to a sign.
 - [[FiveStarsOutOfTheEastBrocade]] - material artifact showing omen language carried by textile and frontier memory.
 - [[HetuLuoshu]] - mythic-cosmological sign complex used in Hanji 651's river-change omen.
+- [[DynasticFiveVirtuesLegitimation|五德终始式王朝正统]] - supplies the phase-and-color framework made actionable by the yellow-dragon report.
+- [[BeliefActivatedPoliticalSigns|信念激活的政治符号]] - explains how acceptance produces real institutional consequences without proving the sign's attributed meaning.

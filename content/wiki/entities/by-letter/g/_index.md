@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12732
+wiki_total_pages: 12733
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "GongsunLuXinOfficial"
     title: "公孙禄 / Gongsun Lu (Xin official)"
     url: "/wiki/entities/gongsunluxinofficial/"
+  - key: "GongsunChenWesternHan"
+    title: "公孙臣 / Gongsun Chen (Western Han)"
+    url: "/wiki/entities/gongsunchenwesternhan/"
   - key: "GongsunFanLateHan"
     title: "公孙范 / Gongsun Fan (late Han)"
     url: "/wiki/entities/gongsunfanlatehan/"

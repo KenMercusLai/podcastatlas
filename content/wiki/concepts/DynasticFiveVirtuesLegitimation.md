@@ -4,6 +4,7 @@ type: concept
 tags: [legitimacy, cosmology, five-phases, dynastic-succession, chinese-history]
 sources:
   - 116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp
+  - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -20,6 +21,8 @@ The bounded source treats five-virtue theory as political grammar rather than ne
 
 The framework does not cause transfer by itself. It makes violent replacement narratable as cosmic order and can give later abdication or禅让 forms a peaceful genealogy even where force has already decided the outcome. [[QinErshiMustDie|《秦二世必须死》]] uses that instability as suspense material, while the podcast extends the logic to Cao Wei, Western Jin, and Ming royal naming.
 
+[[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] shows the same grammar operating inside an established dynasty rather than only at succession. [[ZhangCang|张苍]]'s water-virtue assignment and [[GongsunChenWesternHan|公孙臣]]'s earth-virtue assignment compete for court authority. Once a yellow dragon is reported and [[LiuHeng|汉文帝]] accepts it as confirmation, the dispute changes office, influence, ritual, proposed institutions, and official colors. Phase assignment therefore governs not just how a dynasty explains its origin, but who may redesign its present symbolic order.
+
 ## Key Claims
 
 - Five-phase correspondence can turn dynastic replacement into an apparently ordered transfer of Heaven's mandate.
@@ -27,6 +30,7 @@ The framework does not cause transfer by itself. It makes violent replacement na
 - Colors, river names, ritual choices, and personal names make abstract legitimacy visible.
 - Formal abdication can use generative continuity to soften the public meaning of violent transfer.
 - Competing calculations create interpretive flexibility rather than one mechanically settled chronology.
+- A reported phase-colored omen can decide between rival assignments and redistribute court authority even without a dynastic change.
 
 ## Evidence
 
@@ -42,13 +46,18 @@ The framework does not cause transfer by itself. It makes violent replacement na
 
 - [[116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp]] cites five-phase radicals in Ming imperial naming as evidence that the scheme entered dynastic family practice beyond succession claims.
 
+### Western Han reassignment dispute
+
+- [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the reported Chengji yellow dragon to Gongsun Chen's appointment, Zhang Cang's loss of influence, earth-virtue planning, and Five Colored Emperor ritual.
+
 ## Counterevidence & Qualifications
 
-The episode is an informal literary discussion rather than a systematic history of five-virtue theory. It records competing conquest and generation models without independently establishing when each formulation emerged, how consistently courts followed it, or whether symbolism caused political acceptance. Cosmological language can rationalize a transfer after military and institutional power have already determined it.
+The bounded sources are an informal literary discussion and a popular-history episode rather than a systematic history of five-virtue theory. They record competing conquest, generation, water, and earth models without independently establishing when each formulation emerged, how consistently courts followed it, or whether symbolism caused political acceptance. Hanji 225-2 does not verify the reported dragon or the host's staging hypothesis. Cosmological language can rationalize a transfer or institutional choice after power and patronage have already shaped the available outcome.
 
 ## What Changed
 
-- Established five-virtue theory as a flexible legitimacy grammar whose competing sequences can support different dynastic claims.
+- Added an intra-dynastic water-versus-earth dispute in which omen uptake reallocates office and symbolic-policy authority.
+- Extended the framework from succession narratives to current ritual, colors, and institutional design.
 
 ## Related Concepts
 
@@ -57,3 +66,5 @@ The episode is an informal literary discussion rather than a systematic history 
 - [[AuspiciousOmenPolitics]] - translates signs and anomalies into claims about rule.
 - [[HistoricalPossibilityFiction]] - literary method that turns an unsettled legitimacy system into constrained plot material.
 - [[QinErshiMustDie|《秦二世必须死》]] - novel using water-versus-fire assignment in its conspiracy.
+- [[GongsunChenWesternHan|公孙臣]] - earth-virtue advocate whose yellow-dragon prediction gains court acceptance.
+- [[ZhangCang|张苍]] - water-virtue advocate displaced in the Hanji 225-2 account.
