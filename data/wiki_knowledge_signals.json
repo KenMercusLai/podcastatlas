@@ -41420,6 +41420,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/chitingdefenselatehan/"
     },
+    "ChivalricArchetypeComparison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/chivalricarchetypecomparison/"
+    },
     "ChivalricRomanceWarMemory": {
       "episode_count": 4,
       "show_count": 1,
@@ -99697,9 +99713,9 @@
       "url": "/wiki/entities/guojia/"
     },
     "GuoJieWesternHan": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》282｜江湖大侠郭解，为何让武帝忌惮？ [lgvcBfgdmw5qClx5l3Lr2aFIxqgl].md",
@@ -99721,9 +99737,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk/"
+        },
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/guojiewesternhan/"
     },
     "GuoLanying": {
@@ -108985,6 +109008,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalworldviewreconstruction/"
+    },
+    "HistoricalYouxiaToLiteraryWuxia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/historicalyouxiatoliterarywuxia/"
     },
     "HistoryAsLifeResource": {
       "episode_count": 2,
@@ -248485,9 +248524,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248551,6 +248590,13 @@
           "show": "怪东西Weird History",
           "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
           "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
+        },
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
         }
       ],
       "updated": "2026-10-08",
@@ -260193,9 +260239,9 @@
       "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
     },
     "YouxiaSuppressionUnderUnification": {
-      "episode_count": 7,
-      "show_count": 1,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
@@ -260245,9 +260291,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》283｜史学家班固为什么把游侠当祸害？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq/"
+        },
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/youxiasuppressionunderunification/"
     },
     "YuChangWesternHan": {
@@ -262286,9 +262339,9 @@
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
     },
     "ZhangDabai": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -262303,6 +262356,13 @@
           "show": "怪东西Weird History",
           "title": "40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）",
           "url": "/wiki/sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m/"
+        },
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
         }
       ],
       "updated": "2026-10-08",
@@ -267918,6 +267978,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhuhuizhangeraeasternhan/"
+    },
+    "ZhuJiaLu": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1） [lpiOQ8iZiTbA7uHBdYbP7i03DjDy].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy/"
+        },
+        {
+          "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
+          "key": "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl",
+          "show": "怪东西Weird History",
+          "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
+          "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhujialu/"
     },
     "ZhuJiangming": {
       "episode_count": 1,

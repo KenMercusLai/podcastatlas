@@ -3708,6 +3708,13 @@
       "url": "/topics/history/"
     }
   ],
+  "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624": [
     {
       "key": "culture",
@@ -42899,6 +42906,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HistoricalYouxiaToLiteraryWuxia": [
     {
       "key": "culture",
       "label": "Culture",

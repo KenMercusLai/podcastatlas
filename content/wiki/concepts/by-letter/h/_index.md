@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9951
+wiki_total_pages: 9953
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"
+  - key: "HistoricalYouxiaToLiteraryWuxia"
+    title: "历史游侠到文学武侠 / Historical Youxia to Literary Wuxia"
+    url: "/wiki/concepts/historicalyouxiatoliterarywuxia/"
   - key: "HistoricalQuestionConsciousness"
     title: "历史问题意识 / Historical Question Consciousness"
     url: "/wiki/concepts/historicalquestionconsciousness/"

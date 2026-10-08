@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x
   - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk
   - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq
-last_updated: 2026-10-07
+  - 33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -34,11 +35,13 @@ Hanji 283 adds [[BanGuEasternHan|班固]]'s genealogy and judgment rule. The epi
 
 Hanji 283 part 2 deepens that vacuum into a governance mechanism through [[XunYue|荀悦]]'s “three wanderers” critique. Transitional weakness lets reputation, persuasion, and personal access become substitutes for stable allocation of status and authority. Once praise, affection, anger, friendship, and kinship decide recommendation, benefit, reward, punishment, and public business, the youxia problem is no longer only private violence: it is the replacement of impersonal fact and law by relationship-governed order. The same source qualifies the condemnation by treating youxia as a predictable product of institutional failure and by preserving their capacity for aid and admirable conduct.
 
+Weird History episode 33 consolidates this conflict across the Spring and Autumn, Warring States, and Han transition. It joins [[HanFei|韩非]]'s law-centered formula, [[SimaQian|司马迁]]'s praise of reliable aid, and [[BanGuEasternHan|班固]]'s legitimacy objection, then distinguishes suppression of the independent role from the survival of侠义 through scholar-official conduct and [[HistoricalYouxiaToLiteraryWuxia|literary wuxia]]. This broadens the concept's endpoint: centralization can eliminate or absorb rival authority without eliminating the moral vocabulary later used to criticize institutions or imagine action beyond them.
+
 ## Key Claims
 
 - Unification changes private armed loyalty from a usable retainer virtue into a security risk.
 - Political suppression can narrow legitimacy without eliminating youxia habits, local trust, or their later mobilization value.
-- Literary and historical memory preserve admiration for figures whose conduct the governing order cannot safely authorize.
+- Literary and historical memory preserve admiration for figures whose conduct the governing order cannot safely authorize, allowing selected侠义 values to survive after the independent role is suppressed or absorbed.
 - The state-order case against youxia emphasizes law, office, hierarchy, and predictable public authority.
 - The sympathetic case emphasizes practical aid when morally credentialed officials or institutions fail people in crisis.
 - A private mediator's usefulness does not remove the political and legal risk created when institutional weakness turns reputation, affection, and private access into shadow rules for recommendation, reward, punishment, public business, or follower enforcement outside public procedure.
@@ -63,17 +66,17 @@ Genealogy and judgment rule:
 - [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk|Hanji 283]] attributes to Ban Gu a line from weakened hierarchy and retainer patronage to private loyalty overriding public duty, then applies the personal-virtue/institutional-authority distinction to Guo Jie.
 - [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq|Hanji 283 part 2]] attributes to Xun Yue an account of transitional weakness in which subjective reputation and private ties displace evidence, official recommendation, public law, and administrative work.
 
+Long-run decline and cultural survival:
+- [[33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl|Weird History episode 33]] compares Han Fei, Sima Qian, and Ban Gu; uses Zhu Jia and Guo Jie as contrasting cases; and argues that centralization suppresses the independent role while侠义 survives through officials and literature.
+
 ## Counterevidence & Qualifications
 
-The sources do not provide a complete legal history of Qin or Han policy toward youxia, a precise chronology of suppression, or a stable definition covering every侠士, retainer, assassin, local notable, or bandit. Qinji 115-2's post-unification claim is a broad closing interpretation, and Qinji 128-6 shows social survival without proving that every local loyalty network opposed Qin. Hanji 284 part 1 compresses Xun Yue and Sima Qian; the two Hanji 283 parts likewise do not provide critical texts, and part 2's four-occupation ideal and “奸民” category remain transmitted normative language rather than present judgment. Hanji 281 fills Hanji 282's narrative gap but does not independently establish Guo Jie's knowledge, command, legal culpability, governing doctrine, or proportionality of clan punishment. “Organized crime” is a modern analogy. Extra-institutional aid can resist abusive power, but it can also become coercion, faction, retaliation, or unaccountable violence; conversely, network risk does not prove every act was authorized by a central figure, and state monopoly does not prove just state conduct.
+The sources do not provide a complete legal history of Qin or Han policy toward youxia, a precise chronology of suppression, or a stable definition covering every侠士, retainer, assassin, local notable, or bandit. Qinji 115-2's post-unification claim is a broad closing interpretation, and Qinji 128-6 shows social survival without proving that every local loyalty network opposed Qin. Hanji 284 part 1 compresses Xun Yue and Sima Qian; the two Hanji 283 parts likewise do not provide critical texts, and part 2's four-occupation ideal and “奸民” category remain transmitted normative language rather than present judgment. Hanji 281 fills Hanji 282's narrative gap but does not independently establish Guo Jie's knowledge, command, legal culpability, governing doctrine, or proportionality of clan punishment. Episode 33's absorption-and-literary-survival model is a long-range interpretation rather than a continuous institutional history. “Organized crime” is a modern analogy. Extra-institutional aid can resist abusive power, but it can also become coercion, faction, retaliation, or unaccountable violence; conversely, network risk does not prove every act was authorized by a central figure, and state monopoly does not prove just state conduct.
 
 ## What Changed
 
-- Extended the current judgment from legitimacy language into relocation, persistent reputation, and rival enforcement capacity.
-- Preserved the Shiji/Han Shu disagreement and the distinction between demonstrated network danger and unproven direct command.
-- Incorporated Gongsun Hong's argument about violence performed around, rather than directly by, an influential commoner.
-- Added Ban Gu's hierarchy-and-patronage genealogy and the distinction between admirable character and legitimate authority.
-- Added Xun Yue's institutional mechanism: subjective reputation and private ties can become shadow governance when public standards fail.
+- Extended the concept beyond suppression of people and networks to the absorption and literary survival of selected侠义 values.
+- Preserved the distinction between a historical social role and later fictional archetypes rather than treating modern wuxia as direct evidence for Han youxia.
 
 ## Related Concepts
 
@@ -85,3 +88,5 @@ The sources do not provide a complete legal history of Qin or Han policy toward 
 - [[ConsequenceSensitiveChivalry|后果敏感的侠义]] - qualification requiring good intent to be tested against facts, method, foreseeable effects, and repair.
 - [[GuoJieWesternHan|郭解]] - Western Han boundary case between admired youxia mediation and coercive private authority.
 - [[DeathPartyLoyalty|死党之义与守职奉上]] - duty-priority critique explaining why private loyalty becomes an institutional threat.
+- [[HistoricalYouxiaToLiteraryWuxia|历史游侠到文学武侠]] - cultural afterlife that follows the political narrowing of the independent role.
+- [[ChivalricArchetypeComparison|侠客—骑士原型比较]] - cross-cultural frame clarifying why extra-official status matters to the Chinese archetype.

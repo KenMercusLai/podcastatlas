@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2609
+topic_total_pages: 2610
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5811,6 +5811,9 @@ topic_sources:
   - key: "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279"
     title: "329: Coronations: Chaos, Ceremony and Empire (Part 3)"
     url: "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+  - key: "33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl"
+    title: "33 东西方的侠客：从春秋战国到中世纪欧洲"
+    url: "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
   - key: "33-the-beautiful-game-glt5860295083"
     title: "33. The Beautiful Game"
     url: "/wiki/sources/33-the-beautiful-game-glt5860295083/"

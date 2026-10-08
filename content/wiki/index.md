@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [33 东西方的侠客：从春秋战国到中世纪欧洲](sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl.md) — 怪东西从汉代游侠、中央集权与私人权威的冲突出发，区分历史游侠和文学武侠，并比较侠客、骑士、浪人、博加特耶尔及现代英雄原型。
 - [34 从匈牙利战神到大清末代接盘侠：东西方的摄政王](sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g.md) — 怪东西以周公传统、匈雅提和载沣说明摄政头衔只有与军权、资源、联盟、制度适配和合法性结合，才能转化为有效统治。
 - [35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王](sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7.md) — 以欧根亲王与汉武帝时代将领群像说明军事成就同时受能力、信任、资源、组织、联盟、派系保护与史家书写影响。
 - [How a Meta AI prompt changed one mom’s approach to online privacy](sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128.md) — Marketplace Tech interview on networked family privacy, machine-speed aggregation of scattered personal data, child-identification limits, app permissions, and restricted family sharing.
@@ -16965,6 +16966,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [侠客—骑士原型比较 / Chivalric Archetype Comparison](concepts/ChivalricArchetypeComparison.md) — 以共同的勇武和扶弱价值为起点，同时用身份、效忠、宗教、法律与生计区分侠客、骑士、浪人和相关英雄传统。
+- [历史游侠到文学武侠 / Historical Youxia to Literary Wuxia](concepts/HistoricalYouxiaToLiteraryWuxia.md) — 游侠作为体制外社会角色衰落后，其侠义价值被士大夫、文学与大众媒介选择性吸收和重塑。
 - [Regency Authority Conversion / 摄政权威的能力转化](concepts/RegencyAuthorityConversion.md) — 区分摄政的名义授权与由军权、资源、联盟、制度适配和合法性构成的实际治理能力。
 - [Political Conditions of Military Achievement / 军事成就的政治条件](concepts/MilitaryAchievementPoliticalConditions.md) — 将统帅能力与政治分配的信任、资源、容错、保护、联盟和历史声誉联系起来的框架。
 - [Networked Family Privacy](concepts/NetworkedFamilyPrivacy.md) — Family-privacy framework in which exposure is jointly produced across relatives, friends, groups, archives, and platforms.
