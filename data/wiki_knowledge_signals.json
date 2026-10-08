@@ -52292,9 +52292,9 @@
       "url": "/wiki/concepts/crimeanwar/"
     },
     "CriminalLawAfterLivelihoodCollapse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
@@ -52309,9 +52309,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》379-1｜汉武帝执法严苛，为何反而使盗贼越来越多",
           "url": "/wiki/sources/zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2） [lgeEcNyC_WQGiG49FtCsNztsnWAg].md",
+          "key": "zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/criminallawafterlivelihoodcollapse/"
     },
     "CriminalRomanticization": {
@@ -54079,6 +54086,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/curtislemay/"
+    },
+    "CustomGovernanceBeyondPaperAdministration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2） [lgeEcNyC_WQGiG49FtCsNztsnWAg].md",
+          "key": "zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/customgovernancebeyondpaperadministration/"
     },
     "CustomerSignalDrivenPivot": {
       "episode_count": 1,
@@ -127977,9 +128000,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -128022,6 +128045,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2） [lgeEcNyC_WQGiG49FtCsNztsnWAg].md",
+          "key": "zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag/"
         }
       ],
       "updated": "2026-10-09",
@@ -270264,9 +270294,9 @@
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhianCe": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
@@ -270281,6 +270311,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2） [lgeEcNyC_WQGiG49FtCsNztsnWAg].md",
+          "key": "zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag/"
         }
       ],
       "updated": "2026-10-09",

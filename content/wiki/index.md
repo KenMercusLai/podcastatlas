@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag.md) — 贾谊从汉匈“倒悬”、武备松弛和奢靡失衡诊断太平表象下的危机，并以风俗治理、角色秩序和预先建制回应文书行政与事后刑罚的边界。
 - [AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者](sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u.md) — KK 与山音以《蒙古斯》和《阿明的一天》说明 AI 如何压缩影像执行、重组剪辑中心工作流，同时把创作瓶颈推向生活经验、审美判断与最终责任。
 - [301-阿伦特如何痛骂茨威格？](sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf.md) — 独树不成林重构阿伦特对《昨日的世界》的批评，将茨威格的黄金时代记忆解释为由名望、阶层和国际精英网络保护、却无法替代政治判断与国家成员资格的文化世界。
 - [《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？](sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei.md) — 梁怀王刘揖死后，贾谊主张保留并强化梁、淮阳作为牵制强藩的地理缓冲；节目又把刘揖之死、太傅自责与理想破灭作为贾谊早逝的直接解释。
@@ -17063,6 +17064,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [风俗治理与文书行政 / Custom Governance Beyond Paper Administration](concepts/CustomGovernanceBeyondPaperAdministration.md) — 区分事后处理文书案件与事前塑造角色责任、社会风俗和日常行为的治理能力，并保留礼制层级可能压制纠错的边界。
 - [Creative Experience Bottleneck / 创作经验瓶颈](concepts/CreativeExperienceBottleneck.md) — 生成速度可以近乎无限提升，但可供创作转化的生活观察、情感压力与个人经验只能按人的时间积累。
 - [Fame as Social Passport / 名望作为社会通行证](concepts/FameAsSocialPassport.md) — Public recognition can grant minority intellectuals social and international admission without supplying equal or durable political protection.
 - [宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer](concepts/StrategicRoyalKingdomBuffer.md) — 以较可信宗室封国的地理和军事实力牵制更强诸侯，同时保留缓冲者自身坐大的长期风险。

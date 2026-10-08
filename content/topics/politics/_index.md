@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3222
+topic_total_pages: 3223
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5170,6 +5170,9 @@ topic_concepts:
   - key: "PreventiveFloodGovernance"
     title: "预防性水患治理 / Preventive Flood Governance"
     url: "/wiki/concepts/preventivefloodgovernance/"
+  - key: "CustomGovernanceBeyondPaperAdministration"
+    title: "风俗治理与文书行政 / Custom Governance Beyond Paper Administration"
+    url: "/wiki/concepts/customgovernancebeyondpaperadministration/"
   - key: "FoodClassificationRegulatoryConflict"
     title: "食品分类监管冲突 / Food Classification Regulatory Conflict"
     url: "/wiki/concepts/foodclassificationregulatoryconflict/"

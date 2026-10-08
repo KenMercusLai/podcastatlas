@@ -10,12 +10,13 @@ sources:
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
   - zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei
+  - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-贾谊 / Jia Yi is an early Western Han writer whose current wiki profile spans [[GuoQinLun|《过秦论》]] as a reusable diagnosis of Qin's collapse and [[ZhianCe|《治安策》]] as a program for heir formation, preventive ritual education, official dignity, and gradual reduction of concentrated royal power. The sources present him as both a historical critic and an institutional thinker, while preserving coercive and causal limits inside the program attributed to him.
+贾谊 / Jia Yi is an early Western Han writer whose current wiki profile spans [[GuoQinLun|《过秦论》]] as a reusable diagnosis of Qin's collapse and [[ZhianCe|《治安策》]] as a program for diagnosing latent crisis, forming heirs and custom, preserving official dignity, and reducing concentrated royal power. The sources present him as both a historical critic and an institutional thinker, while preserving coercive, evidentiary, and causal limits inside the program attributed to him.
 
 ## Current Profile
 
@@ -35,9 +36,11 @@ A more immediate application of Jia Yi's princely-risk reasoning appears after p
 
 Hanji 221 adds a complementary rather than identical response to princely risk. After [[LiuYiLiangKingWesternHan|梁怀王刘揖]] dies childless, Jia Yi argues against simply abolishing [[LiangKingdomWesternHan|Liang]] and instead treats selected royal domains as geographic instruments: Liang should check Qi and Zhao, while Huaiyang should check Wu and Chu. [[LiuHeng|刘恒]] is said to accept the direction by moving [[LiuWuLiangKingWesternHan|刘武]] to Liang. The episode then joins policy to biography by attributing Jia Yi's death at thirty-three to guilt over his pupil's accident, collapse of the four-year tutorship project, and prolonged grief; this remains a source-scoped causal account rather than a clinical conclusion. [[zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei|Hanji 221]]
 
+Hanji 218 part 2 adds the upstream crisis diagnosis behind that institutional program. Jia Yi calls the Han-Xiongnu relationship “倒悬,” contrasts military readiness with elite hunting, and links luxury and weak production to hunger and crime. He then criticizes officials who reduce government to document processing and uses Qin under [[ShangYang|商鞅]] as the negative comparison for material incentives without durable family and social duties. The positive program is not ceremony alone: role distinctions among ruler, official, superior, subordinate, and kin are meant to make custom and responsibility reproducible before a crisis tests them. [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]]
+
 ## Key Characteristics
 
-- Early Western Han writer whose 《过秦论》 and 《治安策》 are presented as linked diagnoses of Qin failure and Han risk.
+- Early Western Han writer whose 《过秦论》 and 《治安策》 diagnose Qin failure, apparent peace, latent Han risk, and the limits of document-only government.
 - Positive evaluator of the Four Lords whose judgment contrasts with later centralization-minded critics and illustrates historical standpoint.
 - Diagnostician of rejected advice as a mechanism that silences loyal and capable officials.
 - Advocate, in the supplied reading, of forming the heir through curated tutors, companions, ritual, and repeated conduct.
@@ -74,15 +77,19 @@ Heir formation and preventive governance:
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] attributes to Jia Yi a system of early ritual, upright tutors, worthy companions, and continuous environmental formation for the crown prince.
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] contrasts preventive ritual teaching with law's reactive judgment while still crediting fair and predictable rewards and punishments.
 
+Latent crisis, livelihood, and custom:
+- [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]] joins Xiongnu pressure, weak military purpose, luxury, production imbalance, hunger, and crime into a diagnosis of danger beneath apparent peace.
+- [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]] says routine document administration cannot substitute for transforming custom and institutionalizing political and kinship duties.
+
 ## Qualifications
 
-The six sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense.
+The seven sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped; a structured episode summary cannot establish precise economic measurement or a single explanation of Qin's fall.
 
 ## What Changed
 
-- Added Jia Yi's paired Liang-Huaiyang buffer design as a distinct response to princely risk.
-- Added Liu Yi's death, failed tutorship, and prolonged grief as the episode's bounded account of Jia Yi's final decline.
-- Kept the Seven States comparison as retrospective support rather than deterministic proof.
+- Added latent-crisis diagnosis across frontier pressure, military readiness, luxury, production, hunger, and crime.
+- Added the distinction between routine paperwork and state responsibility for custom and role formation.
+- Preserved economic ratios and the Qin causal comparison as source-scoped rhetoric rather than measurement or single-cause proof.
 
 ## Relationships
 
@@ -104,3 +111,5 @@ The six sources do not provide a full biography, textual history, or systematic 
 - [[LiuYiLiangKingWesternHan|梁怀王刘揖]] - royal pupil whose death joins Jia Yi's public strategy to his private tragedy.
 - [[LiangKingdomWesternHan|西汉梁国]] - kingdom Jia Yi seeks to preserve as a strategic barrier.
 - [[StrategicRoyalKingdomBuffer|宗室封国战略缓冲]] - geographic containment logic added by Hanji 221.
+- [[CustomGovernanceBeyondPaperAdministration|风俗治理与文书行政]] - concept distilled from Jia Yi's criticism of officials who process documents without repairing custom.
+- [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]] - downstream legal limit anticipated by the episode's production-hunger-crime chain.

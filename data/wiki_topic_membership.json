@@ -26689,6 +26689,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CustomGovernanceBeyondPaperAdministration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CustomMoviePopcornBuckets": [
     {
       "key": "culture",
