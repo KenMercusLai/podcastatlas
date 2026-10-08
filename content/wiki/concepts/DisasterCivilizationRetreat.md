@@ -2,30 +2,56 @@
 title: "Disaster Civilization Retreat / 灾变中的文明退场"
 type: concept
 tags: [disaster, ethics, civilization, human-nature, risk]
-sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh
+  - zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt
+  - 18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp
+last_updated: 2026-10-09
+knowledge_schema: synthesis-v1
 ---
 
 # Disaster Civilization Retreat / 灾变中的文明退场
 
-Disaster civilization retreat / 灾变中的文明退场 is [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]]'s modern example for [[HumanNaturePlasticity|人性可变性]]. In a fire-safety training story, the instructor tells learners to buckle a smoke mask tightly not only so it seals, but so another desperate person cannot remove it and take it.
+## Definition
 
-The source uses this anecdote to argue that disaster can suspend the normal force of civilization. Ordinary social trust works when institutions, routines, and mutual expectations remain intact; under life-threatening pressure, survival instinct can become stronger than manners, law, or moral self-image.
+Disaster civilization retreat is the weakening of ordinary trust, restraint, and mutual obligation when war, fire, famine, shipwreck, or another emergency destroys the institutional and material conditions that normally support them.
 
-The concept is adjacent to [[NaturalHazardSocialDisaster]] and [[DisasterResponseStateCapacity]], but its emphasis is ethical rather than infrastructural. It asks what happens to interpersonal conduct when the civil order around a hazard thins out, and why preventing disaster also means preserving the conditions under which people can remain civilized.
+## Current Synthesis
 
-[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] gives the concept a historical famine example. The source's "人相食" record for [[GuanzhongRegion|关中]] marks a point where war-driven scarcity overwhelms ordinary social and moral constraints, linking the ethical retreat of civilization to [[WarDisasterCompounding|war-disaster compounding]] and [[FamineEntitlementFailure|famine entitlement failure]].
+The concept joins an interpersonal warning to a material and political account. Emergency design should not assume everyday restraint: a desperate person may interfere with another's survival equipment. At larger scale, wartime mobilization can empty fields, destroy food access, raise prices, force migration, and push civil order toward “人相食.” Prevention therefore protects both material life and the institutions that make trust possible.
+
+Crisis nevertheless does not place everyone into an equal state of nature. Command, status, race, gender, age, strength, and control of procedure can survive institutional breakdown and determine who is exposed first. Civilization may retreat while hierarchy persists or becomes more direct; any account based only on universal survival instinct misses who controls resources and defines necessary sacrifice.
 
 ## Key Claims
-- Disaster can make everyday judgments about human goodness too optimistic.
-- Safety design should assume panic, scarcity, and self-preservation, not only orderly cooperation.
-- Protecting oneself in crisis is not treated as selfishness; it is a prerequisite for later help.
-- Preventing disaster protects lives and property, but also protects the civil order that restrains destructive instinct.
-- The source connects this crisis frame back to [[XingETheory|性恶论]] without reducing all human nature to evil.
-- Hanji 155-1 adds that war famine can push civil order past the point where ordinary kinship and community norms still restrain survival behavior.
 
-## Connections
-- [[HumanNaturePlasticity|人性可变性]], [[XingETheory|性恶论]], and [[FixedHumanNaturePolitics]] - human-nature frames used by the source.
-- [[NaturalHazardSocialDisaster]] and [[DisasterResponseStateCapacity]] - adjacent disaster concepts.
-- [[VirtuePracticeInternalization|修养内化]] and [[ActionDefinesIdentity]] - formation and conduct-evidence frames.
-- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[GuanzhongRegion|关中]], [[WarDisasterCompounding|战争与灾害叠加]], and [[FamineEntitlementFailure|饥荒获取权失败]] - cannibalism record as an extreme famine-social-order collapse case.
+- Emergency planning should account for panic, scarcity, and self-preservation rather than assume stable everyday cooperation.
+- War and disaster can destroy food production and access as well as moral restraint, making social collapse materially produced rather than merely psychological.
+- Self-protection can be a precondition for helping others and need not be treated as selfishness.
+- Preventing catastrophe protects the institutional conditions under which trust and restraint remain possible.
+- Crisis does not erase hierarchy; unequal power can determine who controls scarce resources, rules, rescue, and sacrifice.
+- The concept supports [[HumanNaturePlasticity|human-nature plasticity]] rather than a claim that people are uniformly or immutably evil.
+
+## Evidence
+
+- Interpersonal emergency design: [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] uses the secured smoke mask to argue that safety practice should anticipate desperate interference.
+- Material social collapse: [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh]] links Guanzhong famine, extreme prices, migration, and cannibalism to wartime loss of agricultural labor and provisioning.
+- Persistent hierarchy: [[18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp]] uses siege and shipwreck cases to show that women, enslaved people, racialized minorities, the young, the sick, and lower-status people can bear disproportionate survival risk.
+- Governance judgment: [[18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp]] reads historical “人相食” records partly as criticism of failed relief, war, and rule rather than as proof of a population's inherent nature.
+
+## Counterevidence & Qualifications
+
+The smoke-mask story is an illustrative training anecdote rather than systematic evidence of disaster behavior. “人相食” records establish extreme reported conditions but do not by themselves identify prevalence, victim selection, or exact conduct. Cooperation, mutual aid, sacrifice, and institutional adaptation also occur during disasters. The concept therefore describes a risk and a possible collapse mechanism, not an inevitable return to universal selfishness.
+
+## What Changed
+
+- Added the qualification that civil restraint can weaken while hierarchy and unequal control persist.
+- Shifted the concept from a human-nature anecdote toward a combined account of material scarcity, governance failure, and power allocation.
+
+## Related Concepts
+
+- [[HumanNaturePlasticity|人性可变性]] - explains why conduct changes with institutions, need, environment, and habituation.
+- [[DisasterResponseStateCapacity]] - preserves the institutions and resources that make orderly survival possible.
+- [[NaturalHazardSocialDisaster]] - shows how hazards become disasters through social exposure and capacity.
+- [[WarDisasterCompounding|战争与灾害叠加]] - connects warfare to production, transport, displacement, and relief failure.
+- [[FamineEntitlementFailure|饥荒获取权失败]] - distinguishes food availability from people's effective access to it.
+- [[SurvivalCannibalismPowerInequality]] - specifies how crisis sacrifice can reproduce rank and exclusion.

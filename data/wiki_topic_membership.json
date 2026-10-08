@@ -2104,6 +2104,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000": [
     {
       "key": "science",
@@ -81291,6 +81303,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SurvivalCannibalismPowerInequality": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [18 东西方的人相食](sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp.md) — 怪东西区分生存、战争、丧葬、复仇、医疗、孝道、殖民标签与文学隐喻中的食人，并揭示绝境牺牲如何受等级、种族、性别和程序权力塑造。
 - [19 张向荣、陆大鹏：两位80后作家年少时读过的好书](sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs.md) — 怪东西从图书馆、报刊、漫画、科普和旧书收藏追踪80后童年阅读生态，并连接翻译、投稿、评论、原创写作与先行动再拆解问题的实践路径。
 - [20 东西方的强力皇后：吕后与狄奥多拉](sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf.md) — 怪东西以吕后与狄奥多拉比较女性统治、危机领导、宫廷暴力、公共治理与性别化历史书写，并保留史料立场和跨制度类比的边界。
 - [21 东西方的死刑：从十字架到炮决](sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso.md) — 怪东西比较中西死刑方法，将处决区分为剥夺生命、身份羞辱、身体毁坏、公开震慑与政治展示，并保留史料、文学和殖民凝视的证据边界。
@@ -17012,6 +17013,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Contextual Meaning of Cannibalism / 食人行为的语境意义](concepts/CannibalismContextualMeaning.md) — Separates survival, ritual, aggression, medicine, devotion, pathology, colonial labeling, and metaphor before cross-cultural judgment.
+- [Survival Cannibalism and Power Inequality / 生存性食人的权力不平等](concepts/SurvivalCannibalismPowerInequality.md) — Shows how necessity, victim selection, and apparently fair lotteries remain structured by rank, race, gender, age, strength, and command.
 - [Reading-to-Writing Practice](concepts/ReadingToWritingPractice.md) — Pathway through which reading becomes demonstrated craft via imitation, translation, submission, editorial feedback, and progressively longer completed work.
 - [Capital Punishment as Political Spectacle / 死刑作为政治景观](concepts/CapitalPunishmentAsPoliticalSpectacle.md) — Uses execution place, audience, duration, bodily treatment, and aftermath to communicate authority and terror beyond the condemned person's death.
 - [Execution Status and Body Integrity / 处刑身份与身体完整性](concepts/ExecutionStatusAndBodyIntegrity.md) — Compares how execution methods encode rank, honor, disgrace, bodily wholeness, and burial dignity across legal cultures.

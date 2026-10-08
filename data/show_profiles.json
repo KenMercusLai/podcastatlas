@@ -2271,26 +2271,26 @@
       "earliest_episode_date": "2026-03-12",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 25,
-      "topic_matched_source_note_count": 22,
+      "source_note_count": 26,
+      "topic_matched_source_note_count": 23,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 19
+          "source_note_count": 20
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 3
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 3
-        },
-        {
-          "key": "politics",
-          "label": "Politics",
-          "url": "/topics/politics/",
-          "source_note_count": 2
         },
         {
           "key": "technology",
@@ -2310,8 +2310,8 @@
       ],
       "start_here_episode_files": [
         "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-        "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
         "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
+        "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
         "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md"
       ]
     },

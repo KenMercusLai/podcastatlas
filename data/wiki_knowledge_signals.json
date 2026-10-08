@@ -33330,9 +33330,9 @@
       "url": "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
     },
     "CannibalismColonialJustification": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -33347,10 +33347,33 @@
           "show": "The Rest Is History",
           "title": "307: Columbus: A New World? (Part 2)",
           "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
+        },
+        {
+          "episode_file": "lt7SAup5pMF5u5fcO0Mb4DohlDmp [lt7SAup5pMF5u5fcO0Mb4DohlDmp].md",
+          "key": "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp",
+          "show": "怪东西Weird History",
+          "title": "18 东西方的人相食",
+          "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/cannibalismcolonialjustification/"
+    },
+    "CannibalismContextualMeaning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt7SAup5pMF5u5fcO0Mb4DohlDmp [lt7SAup5pMF5u5fcO0Mb4DohlDmp].md",
+          "key": "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp",
+          "show": "怪东西Weird History",
+          "title": "18 东西方的人相食",
+          "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/cannibalismcontextualmeaning/"
     },
     "CaoAng": {
       "episode_count": 4,
@@ -61988,6 +62011,36 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/dirtyworkdelegationstatecraft/"
+    },
+    "DisasterCivilizationRetreat": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧 [lrWz_prnXD8HZchagYRBYwKuX7lH].md",
+          "key": "zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？ [lmawsqkTtJmITWkCZHYfS7F7_Mqt].md",
+          "key": "zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt/"
+        },
+        {
+          "episode_file": "lt7SAup5pMF5u5fcO0Mb4DohlDmp [lt7SAup5pMF5u5fcO0Mb4DohlDmp].md",
+          "key": "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp",
+          "show": "怪东西Weird History",
+          "title": "18 东西方的人相食",
+          "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/disastercivilizationretreat/"
     },
     "DisasterKnowledgeInfrastructure": {
       "episode_count": 1,
@@ -228211,6 +228264,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/surrenderedlocalmessengerpacification/"
     },
+    "SurvivalCannibalismPowerInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt7SAup5pMF5u5fcO0Mb4DohlDmp [lt7SAup5pMF5u5fcO0Mb4DohlDmp].md",
+          "key": "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp",
+          "show": "怪东西Weird History",
+          "title": "18 东西方的人相食",
+          "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/survivalcannibalismpowerinequality/"
+    },
     "SurvivalPressureRebellion": {
       "episode_count": 2,
       "show_count": 1,
@@ -250312,9 +250381,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -250441,6 +250510,13 @@
           "show": "怪东西Weird History",
           "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
           "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
+        },
+        {
+          "episode_file": "lt7SAup5pMF5u5fcO0Mb4DohlDmp [lt7SAup5pMF5u5fcO0Mb4DohlDmp].md",
+          "key": "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp",
+          "show": "怪东西Weird History",
+          "title": "18 东西方的人相食",
+          "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
         }
       ],
       "updated": "2026-10-09",

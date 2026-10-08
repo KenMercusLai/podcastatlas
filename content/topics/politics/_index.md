@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3214
+topic_total_pages: 3216
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4021,6 +4021,9 @@ topic_concepts:
   - key: "SurveillanceBasedRulerControl"
     title: "Surveillance-Based Ruler Control / 窥察制衡式君术"
     url: "/wiki/concepts/surveillancebasedrulercontrol/"
+  - key: "SurvivalCannibalismPowerInequality"
+    title: "Survival Cannibalism and Power Inequality / 生存性食人的权力不平等"
+    url: "/wiki/concepts/survivalcannibalismpowerinequality/"
   - key: "SymbolicHumanInTheLoop"
     title: "Symbolic Human In The Loop"
     url: "/wiki/concepts/symbolichumanintheloop/"
@@ -8475,6 +8478,9 @@ topic_sources:
   - key: "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1"
     title: "179: 蒸馏风暴：一场无人公开谈论的技术竞赛"
     url: "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+  - key: "18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp"
+    title: "18 东西方的人相食"
+    url: "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
   - key: "180-england-englishness-glt7388885434"
     title: "180. England & Englishness"
     url: "/wiki/sources/180-england-englishness-glt7388885434/"
