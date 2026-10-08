@@ -127639,6 +127639,36 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/jianwesternhan/"
     },
+    "JiBu": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2） [lpQTexVXjrBRPjGbw5HrGmHl9ApK].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1） [lpiOQ8iZiTbA7uHBdYbP7i03DjDy].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2） [lkwoQ2Iiy2qKc3aLfdYht_cXl5N3].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/jibu/"
+    },
     "JiRu": {
       "episode_count": 1,
       "show_count": 1,
@@ -128060,9 +128090,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -128126,6 +128156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2） [lkwoQ2Iiy2qKc3aLfdYht_cXl5N3].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
         }
       ],
       "updated": "2026-10-09",
@@ -240238,6 +240275,78 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/traviskalanick/"
     },
+    "TreasonAccusationTrap": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗 [lrBUCdIbtO5Zezrhl7UE0Y9vHB-L].md",
+          "key": "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2） [lqk_JIFuPM9lBGHfzAF09IGfufGB].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信 [lrPKye8y6iBQdqs9pZ7aRTK_6chV].md",
+          "key": "zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一 [luymqPColsvYZ5MIOdit3Wdlx0oB].md",
+          "key": "zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判 [ljXxLOK4uh_aJJIRmoLYBOdlSpV9].md",
+          "key": "zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》81丨历史早期PUA记实录（1） [ljxBN4GZNUOHEGzYEe0-tUDi9z-y].md",
+          "key": "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难 [lkVmjoXOlgFgw-Ig7Ir-NgVJIFIJ].md",
+          "key": "zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2） [lkwoQ2Iiy2qKc3aLfdYht_cXl5N3].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/treasonaccusationtrap/"
+    },
     "TreasonAct1351": {
       "episode_count": 1,
       "show_count": 1,
@@ -270945,6 +271054,78 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/zhongliyieasternhan/"
+    },
+    "ZhouBo": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2） [lqk_JIFuPM9lBGHfzAF09IGfufGB].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》167｜见证项羽最终之战（2） [li14pizmFRzHPg8M5BmxDX8IbW7p].md",
+          "key": "zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》167｜见证项羽最终之战（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
+          "key": "zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2） [ll_RvX07PyW_qG1JofkJro_qfLLU].md",
+          "key": "zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1） [lr0fT8-juPxgvuTN6c89MfS8r4WB].md",
+          "key": "zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2） [lkwoQ2Iiy2qKc3aLfdYht_cXl5N3].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhoubo/"
     },
     "ZhouDangEasternHan": {
       "episode_count": 1,

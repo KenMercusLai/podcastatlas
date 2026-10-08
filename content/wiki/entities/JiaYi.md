@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag
   - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
   - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm
+  - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
 last_updated: 2026-10-09
 ---
 
@@ -44,6 +45,8 @@ Hanji 218 part 2 adds the upstream crisis diagnosis behind that institutional pr
 
 The monetary-policy branch adds another version of the same preventive method. Jia Yi argues that permission to mint while punishing adulteration creates the offense it condemns, that inconsistent coin weights weaken official authority, and that copper extraction and charcoal production can pull labor away from farming. Yet he also says a bare prohibition can raise illicit profit when coin becomes scarce. His answer is therefore not punishment alone but upstream control of copper, joining incentive design, material control, livelihood protection, and state authority. [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]]
 
+Hanji 215 adds a conduct case that anticipates the later “可杀不可辱” argument. The episode says Jia Yi asked [[LiuHeng|汉文帝刘恒]] to treat imprisoned [[ZhouBo|周勃]] respectfully even though Zhou Bo had earlier opposed him. This supports a profile of principle overriding personal retaliation, but the precise petition and its effect on Zhou Bo's release remain source-scoped. [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]]
+
 ## Key Characteristics
 
 - Early Western Han writer whose 《过秦论》 and 《治安策》 diagnose Qin failure, apparent peace, latent Han risk, and the limits of document-only government.
@@ -52,7 +55,7 @@ The monetary-policy branch adds another version of the same preventive method. J
 - Advocate, in the supplied reading, of forming the heir through curated tutors, companions, ritual, and repeated conduct.
 - Thinker who gives ritual a preventive priority while retaining a role for predictable and impartial law.
 - Advocate of protecting high office from degrading punishment while retaining accountability.
-- Designer of royal and monetary risk arguments that join territorial fragmentation, strategic buffers, grievance, incentives, livelihood, and control of concentrated resources.
+- Designer of royal and monetary risk arguments who is also presented as applying official-dignity principles to a former political opponent.
 
 ## Evidence
 
@@ -92,15 +95,17 @@ Minting incentives and material control:
 - [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] attributes to Jia Yi the claim that private-mint permission plus adulteration penalties induces crime, while a simple ban can increase illicit returns.
 - [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] links weight fragmentation and copper work to market disorder and agricultural diversion, then proposes state control of copper as the upstream lever.
 
+Principle across personal conflict:
+- [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]] says Jia Yi sought respectful treatment for Zhou Bo despite Zhou's earlier opposition.
+
 ## Qualifications
 
 The nine sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 218 part 1 deepens the partition argument but does not prove that kingdom scale alone determines rebellion, that its counterfactual lives would have changed, or that reserved future kingdoms could be administered without new disputes. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison; the source supports a policy argument, not precise economic measurement or proof of outcome.
 
 ## What Changed
 
-- Reframed strong-prince danger as a product of kingdom scale and institutional capacity rather than surname or personal virtue alone.
-- Added repeated partition, temporary central administration of vacant kingdoms, and weak-ruler resilience to the territorial program.
-- Preserved personal-fate counterfactuals and guaranteed-stability language as source-scoped rather than demonstrated outcomes.
+- Added Jia Yi's reported defense of respectful treatment for Zhou Bo despite prior political conflict.
+- Connected that conduct to the later official-dignity principle without claiming direct textual dependence.
 
 ## Relationships
 
@@ -115,6 +120,7 @@ The nine sources do not provide a full biography, textual history, or systematic
 - [[TuiEnLing|推恩令]] - later systematic fragmentation policy whose logic resembles, but is not identical to, Jia Yi's proposal.
 - [[SameSurnameKingEnfeoffment|同姓王分封]] - royal-territorial system whose trust advantage Jia Yi treats as insufficient when kingdoms remain too large.
 - [[LiuHeng|汉文帝刘恒]] - ruler whom the episode credits with valuing Jia Yi but not promptly implementing the partition proposal.
+- [[ZhouBo|周勃]] - former opponent whose imprisonment supplies a conduct-level test of Jia Yi's principles.
 - [[CrownPrinceTutorPublicInterest|太子师傅公器化]] - later cases that share Jia Yi's public-responsibility model of heir education.
 - [[RitualPreventionAndLegalResponse|礼教预防与法令处置]] - governance distinction attributed to Jia Yi between forming conduct and judging completed conduct.
 - [[LiuChangHuainanKing|淮南王刘长]] - dead prince whose punishment and public memory trigger Jia Yi's new warning.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3.md) — 周勃退居封国后因武装戒备被控谋反、下狱受辱并获释；薄太后反驳其谋反逻辑，贾谊为旧日政敌求情，而季布受命暗杀说仅属节目推演。
 - [094 回归文学！《红楼梦》不是悼明之作](sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv.md) — 纸醉金迷FM以可证伪性、整体语境和反向套用检验悼明读法，并分析秘密知识、民族情绪与短视频碎片化如何推动单一答案传播。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx.md) — 刘长从封国内越权走向谋反、流放与绝食死亡；节目以“宠杀”解释文帝宽纵，但直接意图证据不足，薄昭亲属关系也存在明确误述。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye.md) — 汉匈以书信复和并继续威慑，新单于继位后文帝遣翁主和亲；被迫随行的中行说投匈，把汉朝物资、行政与外交知识转化为匈奴能力。

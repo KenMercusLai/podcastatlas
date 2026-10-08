@@ -1,58 +1,71 @@
 ---
 title: "Treason Accusation Trap / 谋反指控陷阱"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [court-politics, governance, political-intrigue, pre-qin-history]
-sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
+  - zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv
+  - zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob
+  - zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9
+  - zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y
+  - zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij
+  - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
+last_updated: 2026-10-09
 ---
 
-# Treason Accusation Trap / 谋反指控陷阱
+## Definition
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a late-Han debt-and-network version. [[WangFuLateHan|王甫]] first brokers [[LiuKuiBohaiKing|刘亏]]'s restoration as king of [[BohaiKingdomLateHan|Bohai]], then turns against him after Liu refuses the promised payment. Liu's resentment and his ties to [[ZhengSaLateHan|郑萨]] and [[DongTengLateHan|董腾]] become accusation material once [[LianZhongLateHan|廉中]] forges evidence that the circle planned to install Liu as emperor.
+Treason accusation trap / 谋反指控陷阱 is the conversion of ambiguous conduct, identity, association, reputation, or manufactured evidence into a ruler-security threat powerful enough to trigger investigation, removal, arrest, or execution before the underlying rebellion claim is established.
 
-Treason accusation trap / 谋反指控陷阱 is the pattern [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] draws from [[ZouJi|成侯邹忌]]'s attack on [[TianJi|田忌]]. After Tian Ji's [[MalingBattle|马陵之战]] victory raises his prestige, Zou Ji arranges a staged market divination in which a supposed Tian Ji agent asks whether the general can "do great things," making military success look like a possible rebellion signal.
+## Current Synthesis
 
-The episode treats the trap as effective despite its weak practical logic. A powerful general would not normally ask a random market diviner about rebellion, but treason suspicion changes the trust environment: [[QiWeiwang|齐威王]] may feel forced to investigate, while Tian Ji may interpret any investigation as proof that the ruler no longer trusts him.
+The sources show several mechanisms. [[ZouJi|成侯邹忌]] uses staged divination against [[TianJi|田忌]]; court rivals reinterpret [[TianDan|田单]]'s diplomatic prestige; [[LiSi|李斯]] turns [[HanFei|韩非]]'s home-state identity into unavoidable divided loyalty; and bribed accusation removes [[LiMu|李牧]] during an external war. The accusation succeeds not because it is logically complete but because ignoring it appears dangerous to the ruler.
 
-This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher. A parable weaponizes speech by wrapping factional attack in a plausible lesson; a treason accusation trap manufactures a suspicious event that looks evidentiary enough to trigger ruler fear. It also touches [[CourtFeedbackCollapse]] because the court's information channel becomes contaminated by planted signals rather than merely blocked or flattering.
+The Han Xin sequence adds evidentiary conflict. Hanji 172 uses an accusation to create the frame for protocol-based capture; Hanji 182 presents a concrete informer report and capital plot; Hanji 183 argues that the late rebellion story may itself be a frame-up. The concept therefore records the operational effect of an accusation without deciding disputed guilt merely from that effect.
 
-[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] adds a softer but similar court-reading through [[TianDan|田单]] and [[DiaoBo|刁伯]]. The nine favored ministers do not stage a divination; they take a real diplomatic outcome, [[MiHeng|楚顷襄王]]'s warm reception of Diao Bo, and argue that it proves Tian Dan's excessive influence. The trap lies in turning ordinary political service, care for people, and talent recommendation into signs that Tian Dan wants to "do great things."
-
-[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds an identity-based version through [[HanFei|韩非]]. [[LiSi|李斯]] does not need to stage a false event; he uses Han Fei's real [[HanState|韩国]] royal identity to argue that Han Fei will always favor Han if Qin employs him and will endanger Qin if released. The accusation trap is that home-state obligation becomes enough to make imprisonment and elimination appear prudent.
-
-[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds a battlefield version against [[LiMu|李牧]] and [[SimaShang|司马尚]]. [[GuoKai|郭开]], bribed by Qin, tells [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] that the two commanders are plotting rebellion. The trap is operationally decisive because it converts Zhao's best remaining military asset into a ruler-security threat while Qin's armies are already in the field.
-
-[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds an early Han version around [[HanXin|韩信]]. The source begins with someone reporting that Han Xin is rebelling; [[LiuBang|刘邦]] does not treat the report as enough for direct war, but it makes action necessary. [[ChenPing|陈平]] then supplies the operational mechanism through [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], showing that a treason accusation can set the political frame while a separate protocol trap provides the arrest opportunity.
-
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a border case rather than a simple planted accusation. The report against Han Xin comes through the younger brother of a retainer whom Han Xin has imprisoned, and the source presents Han Xin as having prepared a concrete capital plan. Once the report reaches [[LuZhi|吕雉]], however, the political structure is familiar: a treason report creates urgent ruler-family security pressure, while [[XiaoHe|萧何]] and false victory protocol provide the arrest opportunity.
-
-[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] turns that border case into an explicit historiographical problem. The host argues that Han Xin's late rebellion report was likely framed, not proven, because he had refused betrayal when he had real command leverage and would have had fewer tools after demotion. The concept therefore must preserve both possibilities: a transmitted informer report that operates like a treason trigger, and a later interpretive layer treating the same report as political construction.
+Hanji 903 shows private debt and monitored association becoming forged throne-security evidence. Hanji 215 adds a retired-founding-minister version: [[ZhouBo|周勃]]'s armor and armed household can look suspicious, yet the episode and [[BaoJi|薄太后]] stress the weak strategic logic of rebellion after he had surrendered the far better opportunity created by military command and imperial seals.
 
 ## Key Claims
-- Hanji 903 adds a late-Han court-brokerage branch: unpaid palace access, monitored association, and forged paperwork turn a restored imperial kinsman into a throne-security threat.
-- Hanji 183 adds a source-critical branch: the accusation may be the political trap itself rather than evidence of an underlying plot.
-- Hanji 182 part 2 adds that even a seemingly grounded informer report can produce the same operational pattern as a trap: security pressure first, protocol capture second.
-- Hanji 172 adds a two-step version: accusation creates ruler-security pressure, while ritual summons supplies the low-force capture method.
-- Treason accusations do not have to be airtight to be politically powerful; they only have to make distrust operational.
-- A staged third-party act can be more useful than direct accusation because it gives the ruler something to investigate.
-- In ruler-centered politics, investigation can itself become damaging evidence in the mind of the accused.
-- Military merit can become politically dangerous when it creates independent reputation, troops, allies, or public credit.
-- Ritual or divination language can be turned from uncertainty management into a frame for criminal intent.
-- Real events can work like planted events if court interpreters attach them to a ruler's existing fear.
-- A real identity marker can also become accusation material when rivals translate divided loyalty into an unavoidable security risk.
-- A treason accusation can remove a commander even when the external enemy is the obvious immediate threat; ruler fear can outrank battlefield necessity.
 
-## Connections
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]], [[WangFuLateHan|王甫]], [[ZhengSaLateHan|郑萨]], [[DongTengLateHan|董腾]], [[LianZhongLateHan|廉中]], and [[EmperorLingOfHan|汉灵帝]] - restored-title debt recoded into forged treason evidence.
-- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[HanXin|韩信]], [[SimaGuang|司马光]], [[LuZhi|吕雉]], and [[PowerExitTrap|权力退场困境]] - frame-up reading and challenge to moralized blame.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HanXin|韩信]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - informer report followed by palace-protocol capture.
-- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[ChenPing|陈平]], and [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] - early Han accusation followed by protocol-based arrest.
-- [[ZouJi|成侯邹忌]] - actor who creates the accusation trap in the source.
-- [[TianJi|田忌]] and [[SunBin|孙膑]] - target and adviser affected by the accusation.
-- [[QiWeiwang|齐威王]] and [[QiState|齐国]] - ruler and court setting.
-- [[MalingBattle|马陵之战]] - victory whose prestige creates the political vulnerability.
-- [[Shiji|《史记》]], [[Zhanguoce|《战国策》]], and [[ZizhiTongjian|《资治通鉴》]] - source-wording branch around "doing great things."
-- [[PoliticalParableWeaponization]], [[CourtFeedbackCollapse]], and [[PortableDivinationSystems]] - adjacent speech, information, and divination concepts.
-- [[TianDan|田单]], [[DiaoBo|刁伯]], [[QiXiangWang|齐襄王]], [[MiHeng|楚顷襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 diplomatic reception reframed as evidence of overmighty-minister ambition.
-- [[HanFei|韩非]], [[LiSi|李斯]], [[QinShiHuang|嬴政 / 秦始皇]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - identity-based loyalty accusation and imprisonment branch.
-- [[LiMu|李牧]], [[SimaShang|司马尚]], [[GuoKai|郭开]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - bribed rebellion accusation that triggers command removal.
+- Treason claims can become politically decisive before they become evidentially complete.
+- Real conduct, identity, networks, or prestige can be reframed as suspicious without being invented wholesale.
+- Manufactured third-party acts and forged documents create apparently investigable evidence while hiding the sponsor.
+- Military or restoration merit increases vulnerability when it leaves independent reputation, followers, or remembered leverage.
+- Investigation and defensive behavior can recursively deepen suspicion even when they do not prove the initial claim.
+- The same operational pattern can contain a real plot, a fabricated plot, or an unresolved mixture; outcomes alone do not settle guilt.
+
+## Evidence
+
+Staged or reframed signals:
+- [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij|Zhouji 21]] supplies the staged market divination against Tian Ji.
+- [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y|Zhouji 81 part 1]] turns Tian Dan's real diplomatic outcome into ambition evidence.
+- [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] show identity-based suspicion and bribed battlefield accusation.
+
+Early Han accusation and capture:
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], and [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] preserve competing readings of Han Xin's accusation while agreeing that it enables protocol capture.
+- [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]] adds Zhou Bo's armed fear, arrest, and the counterargument that he had already passed the strongest opportunity to rebel.
+
+Forged court-brokerage evidence:
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] presents unpaid access debt, association, and forged evidence as a late-Han route to a treason case.
+
+## Counterevidence & Qualifications
+
+Not every treason report is fabricated, and the concept must not turn a target's prior merit into proof of innocence. Hanji 182 presents concrete allegations against Han Xin even though Hanji 183 disputes them. Zhou Bo's defensive display could reasonably trigger inquiry even if it did not prove a plot. The source notes are popular-history summaries, and accusation wording, evidence, procedure, ruler knowledge, and final guilt require comparison with transmitted records.
+
+## What Changed
+
+- Added a retired-founding-minister variant through Zhou Bo.
+- Distinguished suspicious defensive conduct from proof of rebellion.
+- Migrated the page to the synthesis-first concept schema.
+
+## Related Concepts
+
+- [[PowerExitTrap|权力退场困境]] - leaving office may remove protection without removing suspicion.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - contaminated information makes accusation difficult to test safely.
+- [[PoliticalParableWeaponization]] - adjacent use of interpretive framing against a rival.
+- [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] - capture mechanism activated after an accusation.
+- [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - palace-protocol variant of accusation-driven capture.
+- [[PostRestorationMeritThreat|复国功臣威胁化]] - prestige-to-security-threat conversion affecting high-merit actors.
