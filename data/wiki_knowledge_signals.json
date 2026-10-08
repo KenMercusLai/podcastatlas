@@ -42780,6 +42780,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chunyuqiong/"
     },
+    "ChunyuTiying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
+          "key": "zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/chunyutiying/"
+    },
     "ChunyuYanWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -42795,6 +42811,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/chunyuyanwesternhan/"
+    },
+    "ChunyuYi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
+          "key": "zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/chunyuyi/"
     },
     "ChunyuZhangWesternHan": {
       "episode_count": 4,
@@ -50417,9 +50449,9 @@
       "url": "/wiki/concepts/coronationmassmediatransformation/"
     },
     "CorporalPunishmentHarmReduction": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
@@ -50441,6 +50473,13 @@
           "show": "怪东西Weird History",
           "title": "21 东西方的死刑：从十字架到炮决",
           "url": "/wiki/sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
+          "key": "zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
         }
       ],
       "updated": "2026-10-09",
@@ -144197,9 +144236,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144284,6 +144323,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
+          "key": "zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
         }
       ],
       "updated": "2026-10-09",
@@ -167727,6 +167773,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/mustafakemalataturk/"
+    },
+    "MutilatingPunishmentAbolition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
+          "key": "zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/mutilatingpunishmentabolition/"
     },
     "MutualExhaustionThirdPartyGain": {
       "episode_count": 2,

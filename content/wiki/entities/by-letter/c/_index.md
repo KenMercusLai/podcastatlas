@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12807
+wiki_total_pages: 12809
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2177,9 +2177,15 @@ wiki_pages:
   - key: "CanghaiJun"
     title: "沧海君 / Canghai Jun"
     url: "/wiki/entities/canghaijun/"
+  - key: "ChunyuYi"
+    title: "淳于意 / Chunyu Yi"
+    url: "/wiki/entities/chunyuyi/"
   - key: "ChunyuQiong"
     title: "淳于琼 / Chunyu Qiong"
     url: "/wiki/entities/chunyuqiong/"
+  - key: "ChunyuTiying"
+    title: "淳于缇萦 / Chunyu Tiying"
+    url: "/wiki/entities/chunyutiying/"
   - key: "ChunyuYanWesternHan"
     title: "淳于衍 / Chunyu Yan (Western Han)"
     url: "/wiki/entities/chunyuyanwesternhan/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？](sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy.md) — 缇萦以肉刑不可逆、使人无从改过为父请命，文帝由个案赦免转向废除黥劓刖等刑，但高额笞刑替代又留下致死风险。
 - [《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？](sources/zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td.md) — 晁错以农商激励倒置解释粮食不足，主张用爵位与赎罪换取边塞、郡县储粮，再以充足仓储支持减免田赋。
 - [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（1）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib.md) — 晁错以地形、训练、兵器、军种协同与选将责任比较汉匈所长，并借秦朝扩张、强征和民怨说明边防不能脱离国家承受力。
 - [10 被阉割的爱人 & 牛郎织女：情人节特辑](sources/10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p.md) — 怪东西以圣瓦伦丁、阿伯拉尔与埃洛伊斯、七夕和牛郎织女说明爱情节日与爱情故事如何通过传说、文学、劳动礼俗、商业和时代伦理逐层形成。
@@ -4180,6 +4181,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [淳于缇萦 / Chunyu Tiying](entities/ChunyuTiying.md) — 以身体不可复原、受刑者无从改过为父请命，并在节目叙事中触发文帝刑制改革的西汉少女。
+- [淳于意 / Chunyu Yi](entities/ChunyuYi.md) — 被押赴长安受肉刑、因女儿缇萦上书而获赦，并成为一般刑制改革触发个案的齐国故吏。
 - [Heloise / Héloïse](entities/Heloise.md) — Medieval intellectual, abbess, and correspondent whose thinking on intention, marriage, vocation, and devotion complicates her familiar role in Abelard's tragic romance.
 - [《压岁钱》 (1937 film)](entities/LuckyMoneyFilm1937.md) — 以一枚压岁银元的流转连接上海阶层生活、国家危机与货币变化的社会电影。
 - [冯唐 / Feng Tang (Western Han)](entities/FengTangWesternHan.md) — 以李牧和魏尚之事批评边将授权与赏罚失衡，并促成文帝纠错的西汉直谏官员。
@@ -17043,6 +17046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为由废除黥劓刖等刑，同时检验替代刑是否仍造成同等永久伤害。
 - [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
 - [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。
 - [State Surname Standardization / 国家推动的固定姓氏标准化](concepts/StateSurnameStandardization.md) — 国家以法律和登记稳定姓氏、提高人口可识别性，同时可能推动现代化、同化、去殖民化或民族身份重塑。

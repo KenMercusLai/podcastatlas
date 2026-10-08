@@ -16,12 +16,13 @@ sources:
   - zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9
   - zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd
   - zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td
+  - zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-刘恒 / Emperor Wen of Han is a Western Han ruler whose current wiki profile runs from the post-[[LuZhi|吕雉]] restoration and prophecy-reception stories through selective personal and ritual patronage, exposure of [[XinyuanPingWesternHan|新垣平]]'s court fraud, restrained government, thin burial, short mourning, and an orderly succession to [[HanJingdi|汉景帝]].
+刘恒 / Emperor Wen of Han is a Western Han ruler whose current wiki profile runs from the post-[[LuZhi|吕雉]] restoration and prophecy-reception stories through selective personal and ritual patronage, reform of mutilating punishment, restrained government, thin burial, short mourning, and an orderly succession to [[HanJingdi|汉景帝]].
 
 ## Current Profile
 
@@ -51,13 +52,15 @@ An earlier frontier case now makes the corrective mechanism more explicit. After
 
 [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] now gives the agrarian policy chain behind a grain-for-rank measure otherwise visible only as a late-reign relief action. Liu Heng reportedly accepts Chao Cuo's proposal to send contributed grain first to frontier stores according to rank, then approves a further sequence toward local granaries and reduced farm taxation; the episode ends with a half-tax remission for the year. This strengthens the evidence for policy receptiveness and burden reduction, but it does not prove that storage targets were reached, that farmers captured the gain, or that the mechanism caused later prosperity.
 
+The penal-reform evidence adds an individual-to-institutional conversion case to that receptive and responsibility-taking profile. [[ChunyuTiying|淳于缇萦]] argues that death and mutilation are irreversible and leave no effective path to reform; Liu Heng reportedly pardons [[ChunyuYi|淳于意]] and generalizes the appeal into abolition of specified mutilating punishments. The case strengthens the link between petition, clemency, and institutional change, but its replacement schedule of labor, three hundred or five hundred strokes, and execution also limits the humanitarian judgment. Later Jing-era [[CorporalPunishmentHarmReduction|flogging reductions]] show that categorical abolition created a new implementation problem rather than completing penal reform. [[zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy|Hanji 224]]
+
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
 - Narrative fulfillment figure in Xu Fu's Bao Ji prophecy and active patron in the Deng Tong prediction branch.
 - Ruler whose reported death instructions, terrace refusal, and restricted personal display turn mourning, burial, mobilization, and consumption into burden-limiting policy.
 - Agrarian and light-burden ruler who reportedly accepts a staged grain-reserve plan linking frontier supply and local stores to eventual farm-tax relief.
-- Receptive and lenient ruler who can reopen inquiry after anger and reverse a personnel error, qualified by selective personal patronage and by a willingness to let omen claims shape ritual and chronology before external correction.
+- Receptive and lenient ruler who can turn remonstrance or an individual petition into pardon and institutional change, qualified by selective patronage, omen capture, and punitive substitutes that remain dangerously severe.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
 - Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and pairs disaster response with reduced extraction and court use.
 
@@ -99,16 +102,20 @@ Remonstrance converted into frontier personnel correction:
 Agrarian incentive adoption:
 - [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] says Liu Heng accepts grain delivery to the frontier in exchange for rank, approves the frontier-to-local reserve sequence, and remits half the year's agricultural tax.
 
+Penal abolition and substitution:
+- [[zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy|Hanji 224]] says Liu Heng pardons Chunyu Yi after Tiying's petition and condemns permanently destructive mutilating punishment in a general decree.
+- [[zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy|Hanji 224]] also reports labor, high-count flogging, and execution as replacements, preventing the reform from being treated as abolition of all bodily coercion.
+
 ## Qualifications
 
-This is a bounded profile assembled from twelve popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 223's memorial, farmer and merchant conditions, delivery rule, rank schedule, redemption mechanism, granary targets, tax decisions, and effects require textual and quantitative comparison; rank exchange is not evidence of governing-office sale. Hanji 225-1's invasion sequence, command theory, Wei Shang case, dialogue, appointments, and sacrificial edict require textual comparison; its title also compresses real initial anger into the later corrective outcome. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. The two Hanji 228 notes require separate handling: the Deng Tong episode's dream, wordplay, offices, rewards, intimate care, court procedure, minting scope, and motives remain source-scoped, while the Xiliu episode's camp comparison, dialogue, ritual, appointment sequence, disaster measures, and effects require textual and quantitative comparison. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
+This is a bounded profile assembled from thirteen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 223's memorial, farmer and merchant conditions, delivery rule, rank schedule, redemption mechanism, granary targets, tax decisions, and effects require textual and quantitative comparison; rank exchange is not evidence of governing-office sale. Hanji 224's Tiying narrative, Chunyu Yi case, petition, pardon, decree, terminology, replacement schedule, and social effects require comparison with transmitted legal and historical texts; it supports abolition of specified mutilations, not the end of flogging, execution, or all bodily coercion. Hanji 225-1's invasion sequence, command theory, Wei Shang case, dialogue, appointments, and sacrificial edict require textual comparison; its title also compresses real initial anger into the later corrective outcome. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. The two Hanji 228 notes require separate handling: the Deng Tong episode's dream, wordplay, offices, rewards, intimate care, court procedure, minting scope, and motives remain source-scoped, while the Xiliu episode's camp comparison, dialogue, ritual, appointment sequence, disaster measures, and effects require textual and quantitative comparison. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage, while the penal-reform portrait remains qualified by lethal substitutes.
 
 ## What Changed
 
-- Added Chao Cuo's staged grain-reserve proposal as a concrete case of counsel becoming fiscal and frontier policy.
-- Distinguished purchasable rank and penal redemption from sale of active governing office.
-- Connected frontier storage, local granaries, and farm-tax relief while keeping implementation and prosperity effects unmeasured.
-- Preserved the qualification that policy receptiveness coexists with selective patronage and earlier omen capture.
+- Added Tiying's petition as a case where individual clemency becomes general penal reform.
+- Distinguished abolition of specified mutilations from abolition of all bodily punishment.
+- Connected the Wen-era replacement schedule to the Jing-era need for flogging harm reduction.
+- Preserved lethal substitutes as a qualification on the humane-ruler synthesis.
 
 ## Relationships
 
@@ -139,4 +146,8 @@ This is a bounded profile assembled from twelve popular-history podcast notes, n
 - [[WeiShangWesternHan|魏尚]] - frontier governor whose punishment and restoration test Liu Heng's reward, audit, and command judgment.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - pattern strengthened by the move from uncomfortable speech to admitted error and concrete reversal.
 - [[CommandAuthorityBottleneck|将权掣肘]] - frontier failure mode Feng Tang uses to explain why famous generals alone cannot solve institutional command weakness.
+- [[ChunyuTiying|淳于缇萦]] - petitioner whose irreversibility argument Liu Heng reportedly converts into pardon and general reform.
+- [[ChunyuYi|淳于意]] - condemned former official pardoned in the case that triggers the reform narrative.
+- [[MutilatingPunishmentAbolition|肉刑废除与可改过性]] - penal principle joining bodily integrity to a continuing capacity for reform.
+- [[CorporalPunishmentHarmReduction|肉刑执行减害]] - later reform sequence exposing the severity of Liu Heng's replacement penalties.
 - [[WesternHanDynasty|Western Han]] - dynasty ruled by Liu Heng from the post-Lu settlement to the Jingdi succession.

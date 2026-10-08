@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9993
+wiki_total_pages: 9994
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1796,6 +1796,9 @@ wiki_pages:
   - key: "MythicBiographySourceCaution"
     title: "神话化身世的史料边界 / Mythic Biography Source Caution"
     url: "/wiki/concepts/mythicbiographysourcecaution/"
+  - key: "MutilatingPunishmentAbolition"
+    title: "肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability"
+    url: "/wiki/concepts/mutilatingpunishmentabolition/"
   - key: "MourningDiplomaticRestraint"
     title: "趁丧不伐 / Mourning Diplomatic Restraint"
     url: "/wiki/concepts/mourningdiplomaticrestraint/"
