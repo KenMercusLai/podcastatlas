@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？](sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r.md) — 景帝以减笞数和规范刑具、部位、执行人降低肉刑伤害；李广则令百余骑兵近敌下马，以反常镇定制造伏兵疑象，迫使数千匈奴骑兵夜退，并补入宁成接掌长安治安的酷吏支线。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a.md) — 无箸赐肉、随葬甲盾、工人检举与“地下谋反”式审讯补完周亚夫死亡链；节目的人格归因、景帝预谋、法律细节与相面应验均保留来源边界。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5.md) — 景帝宽刑与疑案上报构成制度背景，直不疑以赔付误拿和不辩不存在的嫂嫂诬告展示回应克制；不辩的适用边界、黄老动机、地震数据与周亚夫筷子故事均保留来源边界。
 - [《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝](sources/zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k.md) — 景帝临终重申农业与民力边界，刘彻即位使王娡母族进入新朝；班固的文景回顾又把仓廪府库充盈与土地兼并、豪强及奢侈并置，具体年代、数字和人物心理保留来源边界。
@@ -16840,6 +16841,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DFI Retail Group](entities/DFIRetailGroup.md) — Asian retail operator reported to take control of Starbucks franchise operations across seven markets and more than 1,100 stores.
 
 ## Concepts
+- [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
+- [肉刑执行减害 / Corporal Punishment Harm Reduction](concepts/CorporalPunishmentHarmReduction.md) — 在保留肉刑的前提下，同时降低刑量并规范刑具、施打部位与执行程序，以减少死亡和残疾风险。
 - [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
 - [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让高级官员发现并推荐人才，再以被荐者表现反向奖惩举荐人，并与能力考试、德行考察和职位配置结合的选才机制。
 - [官吏不与民争生计 / Official Noncompetition with Popular Livelihoods](concepts/OfficialLivelihoodNoncompetition.md) — 以公共俸禄和职位义务约束官吏利用权势参与生产经营、挤压普通家庭生计的角色伦理。

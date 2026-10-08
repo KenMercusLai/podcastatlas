@@ -32181,3 +32181,11 @@ Added source `zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubian
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？
+
+Added source `zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r`; created [[AmbiguityBasedDeterrentBluff|疑兵式心理威慑]] and [[CorporalPunishmentHarmReduction|肉刑执行减害]]; and resynthesized [[LiGuangHanGeneral|李广]], [[HanJingdi|汉景帝]], and [[NingChengWesternHan|宁成]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Li Guang's small-force survival depends on disciplined, anomalous exposure that makes flight-prone weakness look like bait for hidden support; Jingdi's reform reduces both flogging quantity and execution variance without abolishing corporal punishment; and Ning Cheng's feared capital appointment supplies short-term order without proving lawful or proportionate enforcement. No settled contradiction was adopted. Force totals, distances, enemy beliefs, punishment details and compliance, deterrence effects, office chronology, mourning scale, and modern moral comparisons remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,027 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
   - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a
+  - zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], containment of a dangerous legitimacy debate, and a late-reign contrast between general judicial leniency and personalized severity toward [[ZhouYafu|周亚夫]].
+汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], harm reduction within corporal punishment, containment of a dangerous legitimacy debate, and a late-reign contrast between general judicial leniency and personalized severity toward [[ZhouYafu|周亚夫]].
 
 ## Current Profile
+
+An earlier penal-policy layer comes from [[zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r|Hanji 243]]. The episode says Jing again reduces flogging counts, converting three hundred strokes to two hundred and two hundred to one hundred, while regulating the bamboo implement, smoothing its joints, confining blows to the buttocks, and forbidding a change of executioner mid-punishment. The joined measure is [[CorporalPunishmentHarmReduction|harm reduction within an intact corporal-punishment system]]: it targets both sentence quantity and execution variance without abolishing state-inflicted bodily injury. The host's concern that lower severity may weaken deterrence remains unproved because the source supplies no crime or recidivism comparison.
 
 Han Jingdi appears first as the successor whose reign turns two [[XuFuPhysiognomist|许负]] predictions from improbable warnings into narrative payoffs. In the [[DengTong|邓通]] branch, Jing reverses Emperor Wen's patronage by confiscating Deng Tong's wealth under the private-minting issue. In the [[ZhouYafu|周亚夫]] branch, Zhou Yafu's suspicion, imprisonment, and self-starvation occur under the Han Jingdi-era political field after his military rise.
 
@@ -37,10 +40,14 @@ Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or
 - Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu, with motive and procedure kept source-scoped.
 - Court arbiter who handles a dangerous legitimacy debate by closing rather than resolving the doctrine.
 - Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
+- Penal reformer who reduces flogging counts and constrains implementation while leaving corporal punishment in force.
 - Late-reign ruler whose general leniency instruction is placed beside a hostile, expansive prosecution of Zhou Yafu.
 - Dying ruler whose final order reasserts agrarian production and official accountability while the Wen-Jing retrospective pairs abundance with concentration.
 
 ## Evidence
+
+Corporal-punishment harm reduction:
+- [[zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r|Hanji 243]] reports lower stroke counts plus specifications for the implement, bodily target, and continuity of the executioner; reduced deterrence is the host's qualification rather than a demonstrated outcome.
 
 Succession-payoff reversal:
 - [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says Han Jingdi confiscates Deng Tong's wealth and later imprisons Zhou Yafu, fulfilling the episode's Xu Fu prediction frame.
@@ -62,15 +69,15 @@ Agrarian closing policy and Wen-Jing outcome:
 
 ## Qualifications
 
-This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
 
 ## What Changed
 
+- Added Jingdi's earlier reduction and procedural standardization of flogging as harm reduction within, not abolition of, corporal punishment.
 - Completed the Zhou Yafu branch and sharpened the contrast between general leniency policy and personalized severity without asserting premeditated killing.
 - Added banquet ritual, ambiguous burial goods, and expansive prosecution as distinct stages rather than one undifferentiated personality story.
 - Added Jingdi's final agrarian order and the bounded Wen-Jing outcome of public abundance alongside land concentration and local strongman power.
 - Added the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
-- Connected Jing's direct削藩 to both immediate rebellion risk and later lower-conflict centralization.
 
 ## Relationships
 
@@ -86,3 +93,4 @@ This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu 
 - [[TuiEnLing]] - Wudi-era policy made safer by Jing's prior military and administrative rollback.
 - [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - agrarian statecraft sharpened by Jing's final limits on extractive labor diversion.
 - [[WenJingProsperityTradeoff|文景之治的繁荣代价]] - outcome frame separating aggregate recovery from equal distribution.
+- [[CorporalPunishmentHarmReduction|肉刑执行减害]] - reform pattern joining fewer blows to tighter execution constraints while preserving the punishment itself.

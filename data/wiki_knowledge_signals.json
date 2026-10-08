@@ -11912,6 +11912,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
+    "AmbiguityBasedDeterrentBluff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
+          "key": "zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/ambiguitybaseddeterrentbluff/"
+    },
     "AmbroseOfMilan": {
       "episode_count": 1,
       "show_count": 1,
@@ -49416,6 +49432,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/coronationmassmediatransformation/"
+    },
+    "CorporalPunishmentHarmReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
+          "key": "zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/corporalpunishmentharmreduction/"
     },
     "CorporateAIMisuseReporting": {
       "episode_count": 1,
@@ -101188,9 +101220,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101233,6 +101265,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
+          "key": "zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
         }
       ],
       "updated": "2026-10-08",
@@ -136509,9 +136548,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -136582,6 +136621,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-2-lnqd8g2sh79s1uywcbyn56n_vmmv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
+          "key": "zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
         }
       ],
       "updated": "2026-10-08",
@@ -167847,9 +167893,9 @@
       "url": "/wiki/entities/nineteeneightyfour/"
     },
     "NingChengWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
@@ -167864,6 +167910,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
+          "key": "zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
         }
       ],
       "updated": "2026-10-08",
