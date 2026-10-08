@@ -93551,6 +93551,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/georgedukeofclarence/"
     },
+    "GeorgeEliot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+          "key": "38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt",
+          "show": "怪东西Weird History",
+          "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
+          "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/georgeeliot/"
+    },
     "GeorgeIII": {
       "episode_count": 4,
       "show_count": 1,
@@ -140935,9 +140951,9 @@
       "url": "/wiki/concepts/literarymodernismpostwarfragmentation/"
     },
     "LiteratureAsSocialHistory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1956280616 [GLT1956280616].md",
@@ -140945,9 +140961,16 @@
           "show": "The Rest Is History",
           "title": "416. The Canterbury Tales (Part 4)",
           "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        },
+        {
+          "episode_file": "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+          "key": "38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt",
+          "show": "怪东西Weird History",
+          "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
+          "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/literatureassocialhistory/"
     },
     "LithiumBipolarTreatment": {
@@ -154684,6 +154707,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/marriagedefaultcontract/"
     },
+    "MarriageIdealizationMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+          "key": "38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt",
+          "show": "怪东西Weird History",
+          "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
+          "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/marriageidealizationmismatch/"
+    },
     "MarriageRitualOrthodoxy": {
       "episode_count": 3,
       "show_count": 1,
@@ -160314,6 +160353,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/middleeardiseasetriage/"
+    },
+    "Middlemarch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+          "key": "38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt",
+          "show": "怪东西Weird History",
+          "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
+          "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/middlemarch/"
     },
     "Mideer": {
       "episode_count": 1,
@@ -248000,9 +248055,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248038,6 +248093,13 @@
           "show": "怪东西Weird History",
           "title": "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题",
           "url": "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"
+        },
+        {
+          "episode_file": "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+          "key": "38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt",
+          "show": "怪东西Weird History",
+          "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
+          "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
         }
       ],
       "updated": "2026-10-08",

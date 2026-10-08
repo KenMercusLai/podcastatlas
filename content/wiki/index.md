@@ -4135,6 +4135,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [302-国家应该立法禁止青少年使用社交媒体吗？](sources/302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d.md) — 独树不成林 episode on Jonathan Haidt, Australia's under-16 social-media law, coordinated age norms, phone-free schools, childhood restoration, and unequal access to offline alternatives.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 - [Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268.md) — Condensed Huberman Lab interview on stress recovery, threat-versus-challenge appraisal, purposeful difficulty, biological-aging evidence, radical acceptance, uncertainty tolerance, and narrative meaning.
+- [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
 - [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。
@@ -16941,6 +16942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Polybius / 波利比乌斯](entities/Polybius.md) — Greek hostage and historian whose Scipionic access frames Rome's rise and Carthage's fall through imperial impermanence.
 - [Cato the Elder / 老加图](entities/CatoTheElder.md) — Roman senator who converted Carthaginian recovery and remembered threat into a campaign for destruction.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
+- [George Eliot / 乔治·艾略特](entities/GeorgeEliot.md) — 以《米德尔马契》把外省婚姻、女性志向与政治、医疗、宗教和经济变迁连接起来的作家、翻译家与评论家。
+- [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
 
 ## Concepts
 - [马戛尔尼使团 / Macartney Embassy](concepts/MacartneyEmbassy.md) — 英清双方借多语转译、礼物与改写公文接触，并在表面礼仪共识下保留制度冲突的1793年外交事件。
@@ -26952,5 +26955,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Urban Field Interviewing / 城市田野访谈](concepts/UrbanFieldInterviewing.md) — Choice-centered resident interviewing that connects work, housing, children, and mobility decisions to urban structure without treating anecdotes as population estimates.
 - [Third Punic War / 第三次布匿战争](concepts/ThirdPunicWar.md) — Escalation from constrained self-defense and treaty breach through coerced disarmament to siege, enslavement, and annihilation.
 - [Roman Enemy Memory / 罗马敌人记忆](concepts/RomanEnemyMemory.md) — Political afterlife through which Hannibalic devastation made a weakened but recovering Carthage appear existentially dangerous.
+- [Marriage Idealization and Mismatch / 婚姻理想化与错配](concepts/MarriageIdealizationMismatch.md) — 伴侣被投射为学术、精神、阶层或职业理想的工具，直到金钱、劳动、责任与日常生活暴露不相容期待的关系机制。
 
 ## Syntheses

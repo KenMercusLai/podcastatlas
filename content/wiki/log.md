@@ -32505,3 +32505,11 @@ Added source `essentials-manage-stress-build-resilience-dr-elissa-epel-scim54666
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活
+
+Added source `38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt`; created [[GeorgeEliot|乔治·艾略特]], [[Middlemarch|《米德尔马契》]], and [[MarriageIdealizationMismatch|婚姻理想化与错配]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]] and [[LiteratureAsSocialHistory]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel turns marriage, vocation, debt, class, medicine, religion, and political reform into pressures acting through ordinary relationships; idealization fails when partners treat one another as supports for incompatible projects, while demonstrated work and responsibility provide a stronger basis for shared life. No settled contradiction was adopted. The novel ranking, poll design, historical details, authorial biography, character motives, feminism readings, and comparisons with *Dream of the Red Chamber* remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,068 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

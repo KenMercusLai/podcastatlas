@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12752
+wiki_total_pages: 12754
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "MicrosoftResearchAsia"
     title: "Microsoft Research Asia"
     url: "/wiki/entities/microsoftresearchasia/"
+  - key: "Middlemarch"
+    title: "Middlemarch / 《米德尔马契》"
+    url: "/wiki/entities/middlemarch/"
   - key: "MideaGroup"
     title: "Midea Group"
     url: "/wiki/entities/mideagroup/"

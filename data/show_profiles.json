@@ -2271,8 +2271,8 @@
       "earliest_episode_date": "2026-08-20",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "history",
@@ -2285,14 +2285,20 @@
           "label": "Politics",
           "url": "/topics/politics/",
           "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
         }
       ],
       "entities": [],
       "start_here_episode_files": [
         "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
         "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
-        "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
-        "lt2Jwc0WbCE-shs0Q2zdZvyGQXu3 [lt2Jwc0WbCE-shs0Q2zdZvyGQXu3].md"
+        "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+        "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md"
       ]
     },
     "捕蛇者说": {

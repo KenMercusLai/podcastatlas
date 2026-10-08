@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9942
+wiki_total_pages: 9943
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "MarriageExitFriction"
     title: "Marriage Exit Friction"
     url: "/wiki/concepts/marriageexitfriction/"
+  - key: "MarriageIdealizationMismatch"
+    title: "Marriage Idealization and Mismatch / 婚姻理想化与错配"
+    url: "/wiki/concepts/marriageidealizationmismatch/"
   - key: "MarriageRitualOrthodoxy"
     title: "Marriage Ritual Orthodoxy / 婚姻礼法正当性"
     url: "/wiki/concepts/marriageritualorthodoxy/"
