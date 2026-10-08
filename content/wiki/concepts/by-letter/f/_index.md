@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9997
+wiki_total_pages: 9998
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "FalsifiableProductHypothesis"
     title: "Falsifiable Product Hypothesis / 可证伪产品假设"
     url: "/wiki/concepts/falsifiableproducthypothesis/"
+  - key: "FameAsSocialPassport"
+    title: "Fame as Social Passport / 名望作为社会通行证"
+    url: "/wiki/concepts/fameassocialpassport/"
   - key: "FamilialCancerRiskInterpretation"
     title: "Familial Cancer Risk Interpretation / 家族性肿瘤风险解读"
     url: "/wiki/concepts/familialcancerriskinterpretation/"

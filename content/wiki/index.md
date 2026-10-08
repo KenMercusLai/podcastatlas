@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [301-阿伦特如何痛骂茨威格？](sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf.md) — 独树不成林重构阿伦特对《昨日的世界》的批评，将茨威格的黄金时代记忆解释为由名望、阶层和国际精英网络保护、却无法替代政治判断与国家成员资格的文化世界。
 - [《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？](sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei.md) — 梁怀王刘揖死后，贾谊主张保留并强化梁、淮阳作为牵制强藩的地理缓冲；节目又把刘揖之死、太傅自责与理想破灭作为贾谊早逝的直接解释。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt.md) — 贾谊把储君教育视为国家风险预防，以环境和习惯解释人格形成，并区分礼教的事前塑造与法令的事后处置，同时保留法令的可预期与公正价值。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw.md) — 贾谊以“可杀不可辱”维护高官所代表的政治体面，又暴露逼迫自杀与压制申辩的风险，并以分封诸子削弱强大封国。
@@ -11845,8 +11846,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mandarin Oriental](entities/MandarinOriental.md) — Luxury hotel example in episode 140's concept-led hospitality discussion.
 - [Six Senses Hotels Resorts Spas](entities/SixSensesHotels.md) — Luxury and wellness-oriented hotel example in episode 140.
 - [费 / Fei (Qizhulou)](entities/FeiQizhulou.md) — 起朱楼宴宾客 guest grounding the Europe episode in UK residence, continental travel, visas, Ukraine-war daily life, and digital-nomad observations.
-- [Stefan Zweig / 茨威格](entities/StefanZweig.md) — Austrian Jewish writer whose The World of Yesterday frames the episode's Belle Epoque, world-citizen, exile, and witness themes.
-- [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir used by the source as a bridge from prewar Europe to contemporary fragmentation.
+- [Stefan Zweig / 茨威格](entities/StefanZweig.md) — Austrian Jewish writer read as both witness to cosmopolitan Europe's collapse and an Arendtian case of fame-based, politically fragile belonging.
+- [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir read as valuable witness testimony and a class-filtered account of a protected cultural world.
 - [Romain Rolland / 罗曼·罗兰](entities/RomainRolland.md) — antiwar writer used in the source's cross-border friendship and world-citizen argument.
 - [Austria](entities/Austria.md) — Former Habsburg cultural center and interwar state whose 1938 coercion, annexation, participation, and persecution complicate a unitary victim story.
 - [Vienna / 维也纳](entities/Vienna.md) — city appearing as totemic siege case, Zweig-era cultural setting, social-housing policy example, and late-Habsburg court-crisis frame.
@@ -13464,7 +13465,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《巴比伦之塔》 / Tower of Babylon](entities/TowerOfBabylon.md) — Ted Chiang story turning biblical cosmology into a finite-but-unbounded spatial thought experiment.
 - [《商人和炼金术之门》 / The Merchant and the Alchemist's Gate](entities/MerchantAndAlchemistsGate.md) — Ted Chiang fixed-time story where time travel produces understanding and repentance rather than rewritten history.
 - [《领悟》 / Understand](entities/UnderstandTedChiang.md) — Ted Chiang superintelligence story used to connect self-understanding, consciousness, and AI-era interpretability anxiety.
-- [Hannah Arendt / 汉娜·阿伦特](entities/HannahArendt.md) — Political theorist read by 蜜獾吃书 through philosophy, love, exile, action, Eichmann, truth-telling, and responsibility.
+- [Hannah Arendt / 汉娜·阿伦特](entities/HannahArendt.md) — Political theorist of judgment, responsibility, exile, plurality, public appearance, and the political limits of cultivated nonpolitics.
 - [《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil](entities/HannahArendtLoveAndEvil.md) — Biography used by episode 103 to connect Arendt's thought with her relationships, exile, and Eichmann controversy.
 - [Martin Heidegger / 马丁·海德格尔](entities/MartinHeidegger.md) — Philosopher framed through his relationship with Arendt, Nazi alignment, and the problem of intellectual responsibility.
 - [Karl Jaspers / 卡尔·亚斯贝尔斯](entities/KarlJaspers.md) — Arendt's mentor and later defender, contrasted with Heidegger as a figure of loyal judgment under political pressure.
@@ -17055,6 +17056,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Fame as Social Passport / 名望作为社会通行证](concepts/FameAsSocialPassport.md) — Public recognition can grant minority intellectuals social and international admission without supplying equal or durable political protection.
 - [宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer](concepts/StrategicRoyalKingdomBuffer.md) — 以较可信宗室封国的地理和军事实力牵制更强诸侯，同时保留缓冲者自身坐大的长期风险。
 - [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为由废除黥劓刖等刑，同时检验替代刑是否仍造成同等永久伤害。
 - [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
@@ -23018,8 +23020,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hotel Asset-Light Franchise Model](concepts/HotelAssetLightFranchiseModel.md) — Hotel-group model separating brands, reservations, loyalty, and fees from owning every property.
 - [Japan Hotel Loyalty Underdevelopment](concepts/JapanHotelLoyaltyUnderdevelopment.md) — Explanation for why Japanese hotels often have simpler loyalty systems despite a broader points culture.
 - [Hotel Service SOP And Human Ceiling](concepts/HotelServiceSOPHumanCeiling.md) — Episode 140 distinction between SOP as the service floor and human attention as the hospitality ceiling.
-- [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Remembered prewar European golden age read by the source as real cultural abundance but unevenly classed access.
-- [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
+- [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Prewar golden-age memory treated as genuine cultural experience but unevenly classed and politically insulated.
+- [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Wealth, language, passports, fame, and networks that make cross-border belonging available without guaranteeing political protection.
 - [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Bounded claim that shared institutions and industrial chains can lower internal war risk while commerce alone cannot prevent external coercion.
 - [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of 2022 as a contingent rupture in a post-1990 order whose later pressures were already visible during the 1990s.
 - [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure through which imported energy constrains sanctions, households, industry, and alliance action during conflict.
@@ -24262,9 +24264,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Banality Of Evil / 恶的平庸性](concepts/BanalityOfEvil.md) — Arendtian frame that evil can become flat, procedural, and thoughtless through bureaucratic role performance rather than monstrous psychology.
 - [Responsibility Versus Guilt / 责任与罪行区分](concepts/ResponsibilityVsGuilt.md) — Distinction used to read the Jewish Councils controversy without collapsing responsibility inquiry into victim-blaming.
 - [Political Truth-Telling / 政治性说真话](concepts/PoliticalTruthTelling.md) — Arendtian practice of speaking reality under political pressure while remaining answerable to evidence and responsibility.
-- [Stateless Exile / 无国籍流亡](concepts/StatelessExile.md) — Condition where loss of state protection makes papers, language, work, safety, identity, and freedom politically fragile.
+- [Stateless Exile / 无国籍流亡](concepts/StatelessExile.md) — Loss of political membership that destabilizes papers, safety, work, identity, and movement while exposing the limits of cultural world citizenship.
 - [Power-Violence Distinction / 权力与暴力区分](concepts/PowerViolenceDistinction.md) — Arendtian distinction that violence can destroy power but cannot itself generate durable collective political power.
-- [Intellectual Responsibility Under Authoritarianism](concepts/IntellectualResponsibilityUnderAuthoritarianism.md) — Frame for how intellectual brilliance can become complicity unless tied to judgment, truth, and action under authoritarian pressure.
+- [Intellectual Responsibility Under Authoritarianism](concepts/IntellectualResponsibilityUnderAuthoritarianism.md) — Obligation to keep cultural, philosophical, technical, and literary intelligence answerable to political reality under coercive rule.
 - [Street Jianghu Society](concepts/StreetJianghuSociety.md) — Non-wuxia Jianghu as an old street-livelihood system of itinerant trade, performance, scam, lodging, language, reputation, and mutual aid.
 - [春点 / Chun Dian Argot](concepts/ChunDianArgot.md) — Jianghu insider language used for secrecy, group recognition, trade coordination, status boundary-making, and sometimes fraud.
 - [Jianghu Scam Craft](concepts/JianghuScamCraft.md) — Older street-fraud repertoire combining observation, props, collaborators, argot, fear, greed, and role assignment.

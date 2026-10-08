@@ -32882,3 +32882,11 @@ Added source `zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-ji
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 301-阿伦特如何痛骂茨威格？
+
+Added source `301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf`; created [[FameAsSocialPassport|名望作为社会通行证]]; resynthesized [[HannahArendt|汉娜·阿伦特]] from her complete preserved four-source inventory; and migrated and resynthesized [[StefanZweig|茨威格]], [[TheWorldOfYesterday|《昨日的世界》]], [[BelleEpoque|美好年代]], [[EliteCosmopolitanMobility]], [[StatelessExile|无国籍流亡]], and [[IntellectualResponsibilityUnderAuthoritarianism]] from their complete preserved source inventories before appending the new source once. Core synthesis: Arendt treats Zweig's remembered Europe as a protected cultural enclave in which wealth, celebrity, salons, and international recognition could simulate world citizenship while obscuring antisemitism, unemployment, legitimacy crisis, and dependence on actual state protection. No settled factual contradiction was adopted; the new source sharply qualifies the memoir's golden-age frame while preserving its diagnostic and witness value, and Arendt's severe reading remains source-attributed with Zweig's literary and psychological defenses underrepresented. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,116 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

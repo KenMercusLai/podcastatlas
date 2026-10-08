@@ -25167,6 +25167,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/belisarius/"
     },
+    "BelleEpoque": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/belleepoque/"
+    },
     "Bellerophon": {
       "episode_count": 1,
       "show_count": 1,
@@ -69794,6 +69817,29 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/elissaepel/"
     },
+    "EliteCosmopolitanMobility": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/elitecosmopolitanmobility/"
+    },
     "EliteCrisisBurdenSharing": {
       "episode_count": 3,
       "show_count": 1,
@@ -80141,6 +80187,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/falstaff/"
+    },
+    "FameAsSocialPassport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/fameassocialpassport/"
     },
     "FamilialCancerRiskInterpretation": {
       "episode_count": 1,
@@ -104759,9 +104821,9 @@
       "url": "/wiki/entities/hangzhounormaluniversityaffiliatedhospital/"
     },
     "HannahArendt": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -104783,9 +104845,16 @@
           "show": "独树不成林",
           "title": "作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）",
           "url": "/wiki/sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/hannaharendt/"
     },
     "HannibalAlpineCrossing": {
@@ -121432,6 +121501,43 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/intellectualhonestyfeedbackloop/"
+    },
+    "IntellectualResponsibilityUnderAuthoritarianism": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
+          "key": "103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789",
+          "show": "蜜獾吃书",
+          "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
+          "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
+        },
+        {
+          "episode_file": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱 [894931314].md",
+          "key": "shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314",
+          "show": "蜜獾吃书",
+          "title": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱",
+          "url": "/wiki/sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/intellectualresponsibilityunderauthoritarianism/"
     },
     "IntelligenceFlywheel": {
       "episode_count": 1,
@@ -224523,6 +224629,29 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/statefulcareercapital/"
     },
+    "StatelessExile": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
+          "key": "103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789",
+          "show": "蜜獾吃书",
+          "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
+          "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/statelessexile/"
+    },
     "StaticStretchingDoseProtocol": {
       "episode_count": 4,
       "show_count": 1,
@@ -224697,6 +224826,29 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/statusfilteredtalentmisrecognition/"
+    },
+    "StefanZweig": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/stefanzweig/"
     },
     "Stellantis": {
       "episode_count": 2,
@@ -234939,6 +235091,29 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/thewomanking/"
+    },
+    "TheWorldOfYesterday": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "lomJMj7QRvoG9YlDxCMF3Rk3kePF [lomJMj7QRvoG9YlDxCMF3Rk3kePF].md",
+          "key": "301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf",
+          "show": "独树不成林",
+          "title": "301-阿伦特如何痛骂茨威格？",
+          "url": "/wiki/sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/theworldofyesterday/"
     },
     "TheatreFestivalCulturalEcology": {
       "episode_count": 1,
