@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12763
+wiki_total_pages: 12765
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ZadieSmith"
     title: "Zadie Smith"
     url: "/wiki/entities/zadiesmith/"
+  - key: "Zaifeng"
+    title: "Zaifeng / 载沣"
+    url: "/wiki/entities/zaifeng/"
   - key: "Zalando"
     title: "Zalando"
     url: "/wiki/entities/zalando/"

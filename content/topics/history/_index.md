@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2608
+topic_total_pages: 2609
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5841,6 +5841,9 @@ topic_sources:
   - key: "339-ireland-the-easter-rising-1916-part-4-glt7095481415"
     title: "339: Ireland: The Easter Rising, 1916 (Part 4)"
     url: "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+  - key: "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g"
+    title: "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王"
+    url: "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
   - key: "34-st-cuthberts-day-glt9977520388"
     title: "34. St Cuthbert’s Day"
     url: "/wiki/sources/34-st-cuthberts-day-glt9977520388/"

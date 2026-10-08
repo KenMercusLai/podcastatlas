@@ -32566,3 +32566,10 @@ Added the source, Prince Eugene, and the political-conditions-of-military-achiev
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 34 从匈牙利战神到大清末代接盘侠：东西方的摄政王
+
+Added source `34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g`; created [[HunyadiJanos|匈雅提·亚诺什]], [[Zaifeng|载沣]], and [[RegencyAuthorityConversion|摄政权威的能力转化]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]] and [[ZhouGong|周公]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: regency is a function before it is a title, and delegated authority becomes effective only when joined to command, resources, coalition support, institutional fit, legitimacy, and credible limits. Hunyadi's practical military capacity preceded office, while Zaifeng's inherited office did not give him reliable control of Beiyang networks or a broad reform coalition. No settled contradiction was adopted. Zhougong's possible royal status, Hunyadi's ancestry and battle details, the noon-bell tradition, and Zaifeng's motives, character, cabinet numbers, and responsibility for Qing collapse remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,076 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

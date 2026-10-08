@@ -114254,6 +114254,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/hundredyearswar/"
     },
+    "HunyadiJanos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuU3QWavvb1YRc81CXgwwOQ5y9G [lkuU3QWavvb1YRc81CXgwwOQ5y9G].md",
+          "key": "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g",
+          "show": "怪东西Weird History",
+          "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
+          "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/hunyadijanos/"
+    },
     "HunyeKingWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -197662,6 +197678,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/refugeeaidregistrationgap/"
     },
+    "RegencyAuthorityConversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuU3QWavvb1YRc81CXgwwOQ5y9G [lkuU3QWavvb1YRc81CXgwwOQ5y9G].md",
+          "key": "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g",
+          "show": "怪东西Weird History",
+          "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
+          "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/regencyauthorityconversion/"
+    },
     "RegencyFashionTransition": {
       "episode_count": 1,
       "show_count": 1,
@@ -248453,9 +248485,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248512,6 +248544,13 @@
           "show": "怪东西Weird History",
           "title": "35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王",
           "url": "/wiki/sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7/"
+        },
+        {
+          "episode_file": "lkuU3QWavvb1YRc81CXgwwOQ5y9G [lkuU3QWavvb1YRc81CXgwwOQ5y9G].md",
+          "key": "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g",
+          "show": "怪东西Weird History",
+          "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
+          "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
         }
       ],
       "updated": "2026-10-08",
@@ -261438,6 +261477,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/zadiesmith/"
     },
+    "Zaifeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuU3QWavvb1YRc81CXgwwOQ5y9G [lkuU3QWavvb1YRc81CXgwwOQ5y9G].md",
+          "key": "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g",
+          "show": "怪东西Weird History",
+          "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
+          "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zaifeng/"
+    },
     "Zalando": {
       "episode_count": 1,
       "show_count": 1,
@@ -266943,9 +266998,9 @@
       "url": "/wiki/entities/zhoufulatehan/"
     },
     "ZhouGong": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶 [lhy14PbF9ThcfdIAulCmf8DWcEF8].md",
@@ -266960,6 +267015,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+        },
+        {
+          "episode_file": "lkuU3QWavvb1YRc81CXgwwOQ5y9G [lkuU3QWavvb1YRc81CXgwwOQ5y9G].md",
+          "key": "34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g",
+          "show": "怪东西Weird History",
+          "title": "34 从匈牙利战神到大清末代接盘侠：东西方的摄政王",
+          "url": "/wiki/sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g/"
         }
       ],
       "updated": "2026-09-10",

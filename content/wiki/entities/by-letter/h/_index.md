@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12763
+wiki_total_pages: 12765
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "HundredYearsWar"
     title: "Hundred Years' War"
     url: "/wiki/entities/hundredyearswar/"
+  - key: "HunyadiJanos"
+    title: "Hunyadi János / 匈雅提·亚诺什"
+    url: "/wiki/entities/hunyadijanos/"
   - key: "HurricaneIrma"
     title: "Hurricane Irma"
     url: "/wiki/entities/hurricaneirma/"

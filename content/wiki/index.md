@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [34 从匈牙利战神到大清末代接盘侠：东西方的摄政王](sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g.md) — 怪东西以周公传统、匈雅提和载沣说明摄政头衔只有与军权、资源、联盟、制度适配和合法性结合，才能转化为有效统治。
 - [35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王](sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7.md) — 以欧根亲王与汉武帝时代将领群像说明军事成就同时受能力、信任、资源、组织、联盟、派系保护与史家书写影响。
 - [How a Meta AI prompt changed one mom’s approach to online privacy](sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128.md) — Marketplace Tech interview on networked family privacy, machine-speed aggregation of scattered personal data, child-identification limits, app permissions, and restricted family sharing.
 - [How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden](sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356.md) — Huberman Lab interview on polygenic behavioral risk, adolescence, developmental individuality, genetic essentialism, responsibility, punishment, and forgiveness.
@@ -4145,6 +4146,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [Hunyadi János / 匈雅提·亚诺什](entities/HunyadiJanos.md) — 以军事组织、私人资源与边疆防御能力支撑匈牙利摄政权威的十五世纪统帅。
+- [Zaifeng / 载沣](entities/Zaifeng.md) — 清末监国摄政王，其皇族集权方案未能转化为可靠的军政控制与改革联盟。
 - [Prince Eugene of Savoy / 欧根亲王](entities/PrinceEugeneOfSavoy.md) — 效力哈布斯堡的跨国贵族、战场统帅、军事管理者与联盟协作者。
 - [Kathryn Paige Harden](entities/KathrynPaigeHarden.md) — Behavioral geneticist connecting adolescent development and polygenic risk to anti-essentialist responsibility and punishment.
 - [雅各布·富格尔 / Jacob Fugger](entities/JacobFugger.md) — 以矿业、银行、教会融资和哈布斯堡信贷把商业资本转成帝国政治影响的奥格斯堡巨商。
@@ -16962,6 +16965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Regency Authority Conversion / 摄政权威的能力转化](concepts/RegencyAuthorityConversion.md) — 区分摄政的名义授权与由军权、资源、联盟、制度适配和合法性构成的实际治理能力。
 - [Political Conditions of Military Achievement / 军事成就的政治条件](concepts/MilitaryAchievementPoliticalConditions.md) — 将统帅能力与政治分配的信任、资源、容错、保护、联盟和历史声誉联系起来的框架。
 - [Networked Family Privacy](concepts/NetworkedFamilyPrivacy.md) — Family-privacy framework in which exposure is jointly produced across relatives, friends, groups, archives, and platforms.
 - [AI Data Aggregation Privacy Risk](concepts/AIDataAggregationPrivacyRisk.md) — Privacy risk created when AI rapidly connects scattered personal facts that were previously costly to assemble.
