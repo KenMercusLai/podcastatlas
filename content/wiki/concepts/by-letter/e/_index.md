@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10022
+wiki_total_pages: 10023
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
+  - key: "EmbodiedCharacterPreparation"
+    title: "Embodied Character Preparation / 具身化人物准备"
+    url: "/wiki/concepts/embodiedcharacterpreparation/"
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"

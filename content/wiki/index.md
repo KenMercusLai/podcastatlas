@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [蒋奇明&双雪涛×罗永浩！如何成为飞行家](sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz.md) — 《飞行家》主创以小说人物的银幕外化、东北方言的身体节奏、舞台与影视训练、职业转向和短视频注意力连接改编、表演与创作者风险。
 - [299-哪个社交平台最烂？](sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn.md) — 独树不成林以同一创作者的跨平台受众反应讨论关系语境坍缩、公共人格压平、发声少数失真与自我封闭的概念体系。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx.md) — 文帝罢周勃、刘章早逝与刘长锤杀审食其共同呈现新君巩固中的功臣和宗室压力；默许杀人与“一石二鸟”仍属节目推断。
 - [《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策](sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp.md) — 文帝以遣列侯、日食求谏和节用减役应对早期统治压力；贾山则指出君威本身会压抑直言，并要求把贤良方正用于朝议而非游猎。
@@ -11740,10 +11741,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [芽 / Ya Restaurant](entities/YaRestaurant.md) — Yunnan-flavored vegetarian fine-dining case in EP245 using Tea Horse Road route narrative, fermentation, and regional ingredients.
 - [贵小厨 / Gui Xiao Chu](entities/GuiXiaoChu.md) — Guangxi restaurant case in EP245 whose 老友鱼 shows how familiar flavor structures can make Guangxi cuisine more legible.
 - [袁长庚 / Yuan Changgeng](entities/YuanChanggeng.md) — Anthropologist cited in EP244 for a long-time-scale view of work and life, grounding long-horizon work evaluation.
-- [蒋奇明 / Jiang Qiming](entities/JiangQiming.md) — Actor in EP243 whose 《飞行家》 role grounds the idea that Northeast speech is a route into character thinking rather than just accent.
+- [蒋奇明 / Jiang Qiming](entities/JiangQiming.md) — 舞台与影视演员，以《飞行家》的方言、身体节奏、生活观察和片场协作说明人物准备如何受媒介与制作条件塑造。
 - [李雪琴 / Li Xueqin](entities/LiXueqin.md) — Performer and EP243 guest connecting 《飞行家》 to Northeast family life, relatives as family, supportive dream stories, and Northeast women.
-- [双雪涛 / Shuang Xuetao](entities/ShuangXuetao.md) — Writer and EP243 guest explaining how 《飞行家》 shifts from a failure frame toward an ordinary-person and family-responsibility frame.
-- [《飞行家》 / Feixingjia](entities/FeixingjiaFilm.md) — Film/work discussed in EP243 as a Northeast adaptation about ordinary aspiration, family support, regional language, and women's family agency.
+- [双雪涛 / Shuang Xuetao](entities/ShuangXuetao.md) — 作家与编剧，以《飞行家》说明小说到电影的形式重构、普通人道德重心、东北代际经验及银行到职业写作的非必然路径。
+- [《飞行家》 / Feixingjia](entities/FeixingjiaFilm.md) — 将文学中的缺席幻想家外化为可见行动者，并以家庭承托、东北记忆、方言表演和选择性年代质感组织普通人的飞行愿望。
 - [巫君 / Wu Jun (indie game creator)](entities/WuJunIndieGameCreator.md) — EP242 independent game creator explaining forum-era game making, Steam commercialization, Dragon Spirit, AI production help, and realistic indie-game income.
 - [王依然 / Wang Yiran (Sanlian)](entities/WangYiranSanlian.md) — 三联生活周刊 reporter in EP242 connecting young side income to independent games, original-character commissions, BJD makeup, and AIGC content attempts.
 - [FHN](entities/FHN.md) — Dragon Spirit collaborator whose vertical fandom background helps explain EP242's community-funded indie-game case.
@@ -22885,9 +22886,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interview As Embodied Reporting / 采访作为具身报道](concepts/InterviewAsEmbodiedReporting.md) — AI-era and field-method boundary separating generated prose from human interviewing, scene judgment, source trust, and byline responsibility.
 - [Media Work As Lifestyle / 媒体工作作为生活方式](concepts/MediaWorkAsLifestyle.md) — Why journalists may stay for autonomy, learning, and contact with unfamiliar worlds while needing body, rest, and life maintenance.
 - [Long-Horizon Work Evaluation / 长时间尺度工作评估](concepts/LongHorizonWorkEvaluation.md) — EP244/Yuan Changgeng frame for judging work over a whole life rather than one immediate workplace conflict.
-- [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — EP243 concept for an adaptation changing a story's moral center from failure to ordinary personhood rather than only changing plot details.
-- [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — EP243 frame for Northeast identity as language, vanished landmarks, factory smell, rooms, food, football fields, and family memory.
-- [Regional Language As Character Access / 方言作为人物入口](concepts/RegionalLanguageAsCharacterAccess.md) — EP243 performance concept treating Northeast speech as local cognition, emotional rhythm, and character access rather than surface accent.
+- [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — 改编同时重构媒介可见性与道德重心，使文学中的缺席、失败或幻想通过银幕行动、关系和普通人尊严获得新判断。
+- [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — 以语言、身体、家庭、工厂、下岗改制、消失地标和选择性年代细节组织东北身份的记忆结构。
+- [Regional Language As Character Access / 方言作为人物入口](concepts/RegionalLanguageAsCharacterAccess.md) — 将方言视为社会认知、情绪节奏、身体姿态与关系表达的入口，并保留地域差异和观众清晰度边界。
+- [Embodied Character Preparation / 具身化人物准备](concepts/EmbodiedCharacterPreparation.md) — 将文献、生活观察、方言、训练和制作支持转成可表演的声音、身体、行动与关系选择。
 - [Family-Supported Aspiration / 家庭承托的愿望](concepts/FamilySupportedAspiration.md) — EP243 concept for dreams shaped by family support, responsibility, pressure, and ordinary relational life.
 - [Northeast Women Family Agency / 东北女性的家庭行动力](concepts/NortheastWomenFamilyAgency.md) — EP243 frame for Northeast women as practical household decision-makers and structurally necessary supporters in 《飞行家》.
 - [Indie Game Commercialization / 独立游戏商业化](concepts/IndieGameCommercialization.md) — EP242 frame for turning small-team game making into Steam sales while accounting for platform access, costs, taxes, splits, competition, and long-tail revenue.

@@ -33084,3 +33084,11 @@ Added source `299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn`; cre
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 蒋奇明&双雪涛×罗永浩！如何成为飞行家
+
+Added source `lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz`; created [[EmbodiedCharacterPreparation|具身化人物准备]]; and resynthesized [[ShuangXuetao|双雪涛]], [[JiangQiming|蒋奇明]], [[FeixingjiaFilm|《飞行家》]], [[AdaptationAsMoralReframing|改编作为道德重心重置]], [[NortheastAsMemoryStructure|东北作为记忆结构]], and [[RegionalLanguageAsCharacterAccess|方言作为人物入口]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the film converts a literary figure assembled through testimony into a visible, technically acting protagonist, while dialect rhythm, observed daily life, theater discipline, nonlinear screen production, and industrial support show that believable performance is embodied and institutionally conditioned. No settled contradiction was adopted. Production decisions, career memories, dialect accuracy, audience response, media-decline forecasts, and immersive-acting conditions remain source-scoped; the input is a structured episode summary rather than a full transcript. Broad host, show, attention, and career pages were kept closed because the bounded additions are represented in the focused source, people, film, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,141 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the full-corpus scan still reports 32 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

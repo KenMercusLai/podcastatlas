@@ -6822,6 +6822,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/adamipsmith/"
     },
+    "AdaptationAsMoralReframing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/adaptationasmoralreframing/"
+    },
     "AdaptationLedProgramming": {
       "episode_count": 1,
       "show_count": 1,
@@ -70756,6 +70779,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/embodiedcapabilityframework/"
     },
+    "EmbodiedCharacterPreparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/embodiedcharacterpreparation/"
+    },
     "EmbodiedCollectiveAwe": {
       "episode_count": 1,
       "show_count": 1,
@@ -82782,6 +82821,29 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/feishu/"
+    },
+    "FeixingjiaFilm": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/feixingjiafilm/"
     },
     "FelineStressRelatedUrinaryDisease": {
       "episode_count": 1,
@@ -128817,6 +128879,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiangqilatehan/"
     },
+    "JiangQiming": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/jiangqiming/"
+    },
     "JiangQing": {
       "episode_count": 1,
       "show_count": 1,
@@ -174725,6 +174810,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/northamericanblueenergypartners/"
     },
+    "NortheastAsMemoryStructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/northeastasmemorystructure/"
+    },
     "NortheastLiteraryFilmAuthorship": {
       "episode_count": 1,
       "show_count": 1,
@@ -201684,6 +201792,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/regionalesimconstraint/"
     },
+    "RegionalLanguageAsCharacterAccess": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/regionallanguageascharacteraccess/"
+    },
     "RegionalSelfPreservationAlliance": {
       "episode_count": 1,
       "show_count": 1,
@@ -218265,6 +218396,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/shuroadnetwork/"
+    },
+    "ShuangXuetao": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
+          "key": "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6",
+          "show": "Talk三联",
+          "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+          "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+        },
+        {
+          "episode_file": "lr4ZgdUjGLUXwAS7rbCitMC5kizZ [lr4ZgdUjGLUXwAS7rbCitMC5kizZ].md",
+          "key": "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz",
+          "show": "罗永浩的十字路口",
+          "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
+          "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shuangxuetao/"
     },
     "ShuboKhotanLateHan": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3260
+topic_total_pages: 3262
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1144,6 +1144,9 @@ topic_concepts:
   - key: "EmbodiedActingImprovisation"
     title: "Embodied Acting Improvisation / 具身表演即兴"
     url: "/wiki/concepts/embodiedactingimprovisation/"
+  - key: "EmbodiedCharacterPreparation"
+    title: "Embodied Character Preparation / 具身化人物准备"
+    url: "/wiki/concepts/embodiedcharacterpreparation/"
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"
@@ -9774,6 +9777,9 @@ topic_sources:
   - key: "fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433"
     title: "番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的"
     url: "/wiki/sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433/"
+  - key: "lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz"
+    title: "蒋奇明&双雪涛×罗永浩！如何成为飞行家"
+    url: "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
   - key: "caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1"
     title: "蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实"
     url: "/wiki/sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1/"
