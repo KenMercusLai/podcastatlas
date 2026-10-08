@@ -32213,3 +32213,11 @@ Added source `zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-da
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）
+
+Added source `zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg`; resynthesized [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[HanJingdi|汉景帝]], [[EmpressDowagerDouWesternHan|窦太后]], [[LiuPengliJidongKingWesternHan|济东王刘彭离]], [[KinshipProtocolBoundary|亲情名分边界]], and [[TuiEnLing|推恩令]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: after Liu Wu's trust with Jingdi collapses and his death triggers the dowager's protest, granting five sons kingships and five daughters county estates preserves visible family honor while dispersing Liang's concentrated power; this is a Jingdi-era precursor in logic, not legal identity, to the later 推恩令. The title-content mismatch was preserved: the body contains no substantive Zhou Yafu evidence, so [[ZhouYafu|周亚夫]] was not updated from the title alone. No settled contradiction was adopted. Court-stay rules, assassination and death causation, dialogue, grant details, political motives, wealth and weapon totals, gold conversion, tomb measurements, and plunder history remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,031 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

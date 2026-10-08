@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg.md) — 标题虽称周亚夫，正文实际叙述梁孝王刘武失宠、去世及梁国一分为五；景帝以对子女的优封安抚窦太后，同时分散封国力量，死亡因果、数字、动机与盗墓细节保留来源边界。
 - [《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？](sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j.md) — 景帝在灾异、边患与歉收中把节粮、抑奢、农桑示范和地方问责相连；四万钱赀选是承担任官成本的财产资格门槛，仍受身份、品行与才能筛选，并非直接买官。
 - [《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？](sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r.md) — 景帝以减笞数和规范刑具、部位、执行人降低肉刑伤害；李广则令百余骑兵近敌下马，以反常镇定制造伏兵疑象，迫使数千匈奴骑兵夜退，并补入宁成接掌长安治安的酷吏支线。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a.md) — 无箸赐肉、随葬甲盾、工人检举与“地下谋反”式审讯补完周亚夫死亡链；节目的人格归因、景帝预谋、法律细节与相面应验均保留来源边界。

@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a
   - zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r
   - zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j
+  - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg
 last_updated: 2026-10-08
 ---
 
@@ -29,6 +30,8 @@ His more direct political-theory role is as the ruler before whom [[YuanGusheng|
 
 Hanji 279 adds Jing's centralization role through the Seven States rebellion. The episode says his direct territorial reductions trigger the uprising, but victory lets the court abolish most rebel kingdoms, remove territory from others, and retract princely appointment, taxation, and governing powers. That coercive and administrative shift becomes a necessary precondition for [[HanWudi|汉武帝]] to implement the [[TuiEnLing|推恩令]] with lower rebellion risk.
 
+[[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg|Hanji 242]] gives that centralization a family-crisis form. Jing restricts [[LiuWuLiangKingWesternHan|梁孝王刘武]]'s time in Chang'an after trust has broken, then faces [[EmpressDowagerDouWesternHan|窦太后]]'s accusation and hunger protest when Liu Wu dies. His answer grants kingships to five sons and county estates to five daughters, visibly honoring the whole family while preventing one successor from inheriting Liang intact. The episode presents this as a precursor in logic, not legal identity, to later beneficiary-driven fragmentation under the 推恩令.
+
 Hanji 244 adds a late-reign governance contrast. Jing instructs officials to escalate doubtful criminal cases, protects lower adjudicators from fault when superiors correct them, demands lenient handling, and follows with a general amnesty. In the same source, [[ZhiBuyiWesternHan|直不疑]] is promoted to 御史大夫 while Zhou Yafu is described as having already lost imperial trust. The episode therefore shows lenient procedural policy coexisting with personalized court suspicion, without establishing that the two arise from one motive.
 
 Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or rebuke Zhou in the host's reading, then orders adjudication after Zhou's son's burial-armor purchase is reported. The resulting case reportedly moves from burial goods to rebellion and answers Zhou's defense with the claim that he could rebel underground. The page treats this as evidence of selective or personalized severity within the episode's account, but not as proof that Jing scripted the charge, torture, or death in advance.
@@ -42,7 +45,7 @@ Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or
 - Successor-ruler whose reign reverses earlier Emperor Wen patronage and fulfills source-scoped physiognomy predictions.
 - Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu, with motive and procedure kept source-scoped.
 - Court arbiter who handles a dangerous legitimacy debate by closing rather than resolving the doctrine.
-- Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
+- Centralizing ruler who combines coercive rollback after the Seven States with honor-preserving fragmentation of Liang, preparing the Wudi-era 推恩令.
 - Penal reformer who reduces flogging counts and constrains implementation while leaving corporal punishment in force.
 - Late-reign ruler whose general leniency instruction is placed beside a hostile, expansive prosecution of Zhou Yafu.
 - Late-reign ruler who joins agrarian labor protection and local accountability to a wealth-gated selection route, then closes with a final farming order and a Wen-Jing retrospective pairing abundance with concentration.
@@ -60,6 +63,7 @@ Legitimacy-debate containment:
 
 Princely rollback:
 - [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] says Jing's削藩 helps trigger the Seven States rebellion and that victory permits wider territorial and administrative rollback before the 推恩令.
+- [[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg|Hanji 242]] says Jing divides Liang among five sons after Liu Wu's death, satisfying the dowager while reducing the kingdom's concentration.
 
 Judicial leniency and late-reign appointments:
 - [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5|Hanji 244]] gives the doubtful-case escalation instruction, correction-without-fault rule, leniency demand, amnesty, and promotion of Zhi Buyi after Liu She's removal and Wei Wan's elevation.
@@ -75,21 +79,23 @@ Agrarian closing policy and Wen-Jing outcome:
 
 ## Qualifications
 
-This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 245's disasters, battle, grain rule, ritual example, tax effect, local accountability chain, “资算四得官” wording, forty-thousand threshold, exclusions, service costs, and talent examples require primary-text and institutional comparison; an asset gate is not evidence that wealth automatically bought office. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 242's court-stay rule, assassination sequence, family dialogue, Liu Wu's cause of death, exact grants, and Jing's anti-concentration intent remain episode-attributed; a one-house succession settlement should not be collapsed into the later 推恩令. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are likewise bounded. General leniency and Zhou's case establish a tension, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 245's disasters, battle, grain rule, ritual example, tax effect, local accountability chain, “资算四得官” wording, threshold, exclusions, service costs, and talent examples require comparison; an asset gate is not evidence that wealth automatically bought office. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
 
 ## What Changed
 
 - Added a pre-final-year scarcity response joining grain protection, luxury-labor restraint, exemplary court frugality, and commandery-level responsibility for predatory officials.
 - Added the forty-thousand-cash selection threshold as wealth-gated eligibility with separate identity, conduct, and talent screens, not as direct office purchase.
+- Added the division of Liang as a family-consoling centralization measure distinct from the later 推恩令.
 - Preserved the contrast between general judicial leniency and personalized severity toward Zhou Yafu without asserting premeditated killing.
 - Preserved Jingdi's final agrarian order and the bounded Wen-Jing outcome of public abundance alongside land concentration and local strongman power.
-- Preserved the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
 
 ## Relationships
 
 - [[LiuHeng|刘恒 / Emperor Wen of Han]] - predecessor and father whose Deng Tong patronage is reversed under Han Jingdi.
 - [[DengTong|邓通]] - court favorite whose wealth collapses after Emperor Wen's death.
 - [[ZhouYafu|周亚夫]] - powerful minister-general subjected to a banquet test and later prosecuted after trust has deteriorated.
+- [[LiuWuLiangKingWesternHan|梁孝王刘武]] - younger brother whose favor, succession exposure, and concentrated kingdom become a centralization problem.
+- [[EmpressDowagerDouWesternHan|窦太后]] - mother whose grief Jing answers with broad family honors and territorial division.
 - [[ZhiBuyiWesternHan|直不疑]] - low-profile official promoted to 御史大夫 in Jingdi's late reign.
 - [[XuFuPhysiognomist|许负]] - prediction figure whose story extends into Jing's reign.
 - [[YuanGusheng|袁固生]] - Confucian disputant whose Liu Bang question makes the court debate dangerous.
