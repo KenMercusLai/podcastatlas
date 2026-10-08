@@ -104393,9 +104393,9 @@
       "url": "/wiki/entities/hanxinyi/"
     },
     "HanXiongnuHeqinPolicy": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
@@ -104452,9 +104452,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2） [ljmHWNxkJCeGqFeVo8hmVoBlrCyE].md",
+          "key": "zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
     },
     "HanYanDirector": {
@@ -142210,6 +142217,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/lifelongskillprogression/"
+    },
+    "LifestyleDependencyStrategicAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2） [ljmHWNxkJCeGqFeVo8hmVoBlrCyE].md",
+          "key": "zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/lifestyledependencystrategicautonomy/"
     },
     "LifestyleWeightManagement": {
       "episode_count": 10,
@@ -270809,6 +270832,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhongguorenkoushi/"
+    },
+    "ZhonghangYue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2） [ljmHWNxkJCeGqFeVo8hmVoBlrCyE].md",
+          "key": "zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhonghangyue/"
     },
     "ZhongliYiEasternHan": {
       "episode_count": 1,

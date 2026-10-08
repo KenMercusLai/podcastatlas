@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3254
+topic_total_pages: 3255
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3490,6 +3490,9 @@ topic_concepts:
   - key: "YuxiIntoHonglou"
     title: "玉溪一脉入红楼 / Yuxi Into Honglou"
     url: "/wiki/concepts/yuxiintohonglou/"
+  - key: "LifestyleDependencyStrategicAutonomy"
+    title: "生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy"
+    url: "/wiki/concepts/lifestyledependencystrategicautonomy/"
   - key: "SelfFeelingTrust"
     title: "相信自己的感受 / Self-Feeling Trust"
     url: "/wiki/concepts/selffeelingtrust/"

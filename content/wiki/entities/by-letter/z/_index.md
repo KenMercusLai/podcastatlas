@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12819
+wiki_total_pages: 12820
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "ZhongouRuibo"
     title: "中欧瑞博 / Zhongou Ruibo"
     url: "/wiki/entities/zhongouruibo/"
+  - key: "ZhonghangYue"
+    title: "中行说 / Zhonghang Yue"
+    url: "/wiki/entities/zhonghangyue/"
   - key: "ZTOExpress"
     title: "中通快递"
     url: "/wiki/entities/ztoexpress/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye.md) — 汉匈以书信复和并继续威慑，新单于继位后文帝遣翁主和亲；被迫随行的中行说投匈，把汉朝物资、行政与外交知识转化为匈奴能力。
 - [《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？](sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4.md) — 贾谊以犯罪激励、币重分裂、弃农采铜和禁令利润说明惩罚不足，贾山从主权反对私铸；文帝却授邓通铜山铸钱，吴王刘濞也以铜盐形成财政自主。
 - [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（1）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm.md) — 贾谊把强藩叛乱解释为封国规模与制度能力问题，主张反复分割齐、赵、楚等大国，以小国易制和弱君主下仍可维持的制度韧性取代对个人忠诚的依赖。
 - [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag.md) — 贾谊从汉匈“倒悬”、武备松弛和奢靡失衡诊断太平表象下的危机，并以风俗治理、角色秩序和预先建制回应文书行政与事后刑罚的边界。
@@ -4192,6 +4193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [中行说 / Zhonghang Yue](entities/ZhonghangYue.md) — 被迫随翁主和亲使团出塞后投匈，并把汉朝物资、行政与外交知识转化为单于战略能力的西汉宦官。
 - [贾山 / Jia Shan (Western Han)](entities/JiaShanWesternHan.md) — 以货币能够购买财富和地位为前提，把民间铸币解释为分享君主财富分配权的西汉劝谏者。
 - [KK / AI Director](entities/KKAIDirector.md) — 从 4A 广告转向 AI 影像、坚持故事内核与“在现场”经验输入的《蒙古斯》创作者。
 - [山音 / Shanyin](entities/ShanYinAIDirector.md) — 以文本、画面和剪辑互相反馈，并用“眉头一皱的能力”界定人类判断的 AI 导演。
@@ -17067,6 +17069,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy](concepts/LifestyleDependencyStrategicAutonomy.md) — 外来物资若替代本地可持续习惯并形成供应依赖，可能以较低成本转化为政治影响与能力削弱。
 - [风俗治理与文书行政 / Custom Governance Beyond Paper Administration](concepts/CustomGovernanceBeyondPaperAdministration.md) — 区分事后处理文书案件与事前塑造角色责任、社会风俗和日常行为的治理能力，并保留礼制层级可能压制纠错的边界。
 - [Creative Experience Bottleneck / 创作经验瓶颈](concepts/CreativeExperienceBottleneck.md) — 生成速度可以近乎无限提升，但可供创作转化的生活观察、情感压力与个人经验只能按人的时间积累。
 - [Fame as Social Passport / 名望作为社会通行证](concepts/FameAsSocialPassport.md) — Public recognition can grant minority intellectuals social and international admission without supplying equal or durable political protection.
