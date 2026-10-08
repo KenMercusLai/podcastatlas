@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12736
+wiki_total_pages: 12743
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "Blackstone"
     title: "Blackstone"
     url: "/wiki/entities/blackstone/"
+  - key: "BlackstradConcertAttire"
+    title: "Blackstrad Concert Attire"
+    url: "/wiki/entities/blackstradconcertattire/"
   - key: "BlaisePascal"
     title: "Blaise Pascal / 帕斯卡"
     url: "/wiki/entities/blaisepascal/"

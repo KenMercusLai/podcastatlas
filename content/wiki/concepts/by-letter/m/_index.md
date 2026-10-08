@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9934
+wiki_total_pages: 9937
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "MissionDrivenGovernmentEngineering"
     title: "Mission-Driven Government Engineering"
     url: "/wiki/concepts/missiondrivengovernmentengineering/"
+  - key: "MissionEconomicsAlignment"
+    title: "Mission-Economics Alignment"
+    url: "/wiki/concepts/missioneconomicsalignment/"
   - key: "MissionFocusedCompany"
     title: "Mission-Focused Company"
     url: "/wiki/concepts/missionfocusedcompany/"

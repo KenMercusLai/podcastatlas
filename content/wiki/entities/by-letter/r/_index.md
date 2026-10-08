@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12736
+wiki_total_pages: 12743
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "RezsoKasztner"
     title: "Rezső Kasztner"
     url: "/wiki/entities/rezsokasztner/"
+  - key: "RheaJain"
+    title: "Rhea Jain"
+    url: "/wiki/entities/rheajain/"
   - key: "RhodaLintornOrman"
     title: "Rhoda Lintorn-Orman"
     url: "/wiki/entities/rhodalintornorman/"

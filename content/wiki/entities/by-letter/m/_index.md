@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12736
+wiki_total_pages: 12743
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "MercedesGleitze"
     title: "Mercedes Gleitze"
     url: "/wiki/entities/mercedesgleitze/"
+  - key: "MercedesSmith"
+    title: "Mercedes Smith"
+    url: "/wiki/entities/mercedessmith/"
   - key: "MercedesBenz"
     title: "Mercedes-Benz"
     url: "/wiki/entities/mercedesbenz/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Nick Green of Thrive Market](sources/advice-line-with-nick-green-of-thrive-market-7764e494-e791-48db-b95a-2d18994139a0.md) — How I Built This episode on scalable focus, mission-compatible economics, recurring demand, aligned advocates, and trust-based distribution for assistive technology.
 - [《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？](sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc.md) — 邓通由文帝梦兆与近身宠爱获得官位、铜山和铸钱权，受申屠嘉礼法约束却由文帝救回；景帝继位后查办越界铸钱、没产追债，馆陶长公主救济亦未能阻止其贫饿而死。
 - [43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震](sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps.md) — 怪东西以华县与里斯本地震对照建筑暴露、复合死亡、信息网络、救灾秩序、城市重建与启蒙思想，并保留著名数字及“首次科学研究”等来源边界。
 - [《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？](sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj.md) — 文帝在灾荒粮缺中自责问策、以和亲应对边患；张苍因荐人牟利指控离相，其学术、报恩与长寿轶事得到补全，申屠嘉则在避嫌外戚的考量下接任。
@@ -4131,6 +4132,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [Nick Green](entities/NickGreen.md) — Thrive Market co-founder and CEO advising founders on data, focus, economics, mission, and distribution.
+- [Blackstrad Concert Attire](entities/BlackstradConcertAttire.md) — Performance-apparel startup balancing formal comfort, product quality, SKU focus, returns, and founder capacity.
+- [Mercedes Smith](entities/MercedesSmith.md) — Utah Symphony flutist and Blackstrad founder translating professional experience into concert apparel.
+- [Peak State Coffee](entities/PeakStateCoffee.md) — Functional-coffee company testing mission-compatible financing after early DTC and subscription traction.
+- [Danny Walsh](entities/DannyWalsh.md) — Peak State Coffee founder weighing debt, equity, and disciplined organic growth.
+- [Voiceback](entities/Voiceback.md) — Assistive voice-cloning app moving from free downloads to paid validation and trusted referral channels.
+- [Rhea Jain](entities/RheaJain.md) — Voiceback founder using lived experience, clinical outreach, and user advisers to develop assistive communication.
 - [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害事件、制度响应、知识生产与思想史的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
@@ -16921,6 +16929,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [Scalable Core Before Expansion](concepts/ScalableCoreBeforeExpansion.md) — Sequence that proves a focused product, paid model, retention pattern, and acquisition path before adding complexity or capital.
+- [Mission-Economics Alignment](concepts/MissionEconomicsAlignment.md) — Principle that mission is more durable when it also creates customer or operating value.
+- [Trust-Dense Distribution](concepts/TrustDenseDistribution.md) — Growth through credible users, professionals, and communities close to the customer's moment of need.
 - [1556 Huaxian Earthquake / 1556年华县大地震](concepts/HuaxianEarthquake1556.md) — 冬夜震动、窑洞暴露、旱饥寒疫与迟缓救济共同构成的明代复合灾害。
 - [Compound Disaster Mortality](concepts/CompoundDisasterMortality.md) — 区分初始冲击与火灾、海啸、严寒、饥饿、疾病及响应失灵造成的累积死亡。
 - [Disaster Knowledge Infrastructure](concepts/DisasterKnowledgeInfrastructure.md) — 由观察者、标准问题、传递渠道与档案构成，使灾情可治理且可重建的信息系统。

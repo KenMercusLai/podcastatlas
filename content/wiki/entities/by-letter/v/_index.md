@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 12736
+wiki_total_pages: 12743
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "Vogue"
     title: "Vogue"
     url: "/wiki/entities/vogue/"
+  - key: "Voiceback"
+    title: "Voiceback"
+    url: "/wiki/entities/voiceback/"
   - key: "Volcengine"
     title: "Volcengine / 火山引擎"
     url: "/wiki/entities/volcengine/"

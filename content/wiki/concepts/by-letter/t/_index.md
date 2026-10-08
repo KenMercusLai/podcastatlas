@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9934
+wiki_total_pages: 9937
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "TrustBasedPhilanthropy"
     title: "Trust-Based Philanthropy"
     url: "/wiki/concepts/trustbasedphilanthropy/"
+  - key: "TrustDenseDistribution"
+    title: "Trust-Dense Distribution"
+    url: "/wiki/concepts/trustdensedistribution/"
   - key: "TrustHeavyInfrastructureSales"
     title: "Trust-Heavy Infrastructure Sales"
     url: "/wiki/concepts/trustheavyinfrastructuresales/"

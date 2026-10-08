@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2213
+topic_total_pages: 2214
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2689,6 +2689,9 @@ topic_concepts:
   - key: "SandScarcity"
     title: "Sand Scarcity"
     url: "/wiki/concepts/sandscarcity/"
+  - key: "ScalableCoreBeforeExpansion"
+    title: "Scalable Core Before Expansion"
+    url: "/wiki/concepts/scalablecorebeforeexpansion/"
   - key: "ScalingBrokenProduct"
     title: "Scaling Broken Product"
     url: "/wiki/concepts/scalingbrokenproduct/"

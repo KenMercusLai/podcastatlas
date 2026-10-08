@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3232
+topic_total_pages: 3233
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3893,6 +3893,9 @@ topic_entities:
   - key: "BLACKPINK"
     title: "BLACKPINK"
     url: "/wiki/entities/blackpink/"
+  - key: "BlackstradConcertAttire"
+    title: "Blackstrad Concert Attire"
+    url: "/wiki/entities/blackstradconcertattire/"
   - key: "Bloomberg"
     title: "Bloomberg"
     url: "/wiki/entities/bloomberg/"
