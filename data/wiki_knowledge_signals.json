@@ -51386,9 +51386,9 @@
       "url": "/wiki/concepts/courtallyprotectionnetwork/"
     },
     "CourtCeremonialSpaceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2） [loAjCtyv6NO5ZFho92kceS8pBieL].md",
@@ -51403,6 +51403,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策 [loc6cjfQGkz5JGjCkeuR4h3WO7QP].md",
+          "key": "zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp/"
         }
       ],
       "updated": "2026-10-09",
@@ -119534,9 +119541,9 @@
       "url": "/wiki/concepts/imperialritualdistance/"
     },
     "ImperialSelfCriticismEdict": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
@@ -119572,6 +119579,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策 [loc6cjfQGkz5JGjCkeuR4h3WO7QP].md",
+          "key": "zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp/"
         }
       ],
       "updated": "2026-09-14",
@@ -128266,9 +128280,9 @@
       "url": "/wiki/entities/jiarangwesternhan/"
     },
     "JiaShanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
@@ -128276,6 +128290,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策 [loc6cjfQGkz5JGjCkeuR4h3WO7QP].md",
+          "key": "zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp/"
         }
       ],
       "updated": "2026-10-09",
@@ -145121,9 +145142,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -145257,6 +145278,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策 [loc6cjfQGkz5JGjCkeuR4h3WO7QP].md",
+          "key": "zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp/"
         }
       ],
       "updated": "2026-10-09",

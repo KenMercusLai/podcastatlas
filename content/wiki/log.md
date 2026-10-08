@@ -33058,3 +33058,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策
+
+Added source `zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp`; and resynthesized [[JiaShanWesternHan|贾山]], [[LiuHeng|汉文帝刘恒]], [[ImperialSelfCriticismEdict|帝王自责诏]], and [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Heng's early-reign record joins marquis dispersal, eclipse-triggered fault-finding, candid recruitment, burden restraint, guard reduction, and relay-horse economy, while Jia Shan explains why sovereign power can still silence formal advisers and why recruited remonstrants should deliberate at court rather than become hunting companions. No settled contradiction was adopted. The anti-coalition motive assigned to the marquis order remains the host's inference; decree wording, textual correction, chronology, Zhou-Qin numerical and causal comparison, memorial text, hunting frequency, and implementation effects require primary-source comparison. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,138 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

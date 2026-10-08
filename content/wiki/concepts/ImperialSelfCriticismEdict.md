@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
   - zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1
   - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
+  - zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp
 last_updated: 2026-09-14
 ---
 
@@ -17,6 +18,8 @@ last_updated: 2026-09-14
 帝王自责诏 / imperial self-criticism edict is the ruler-feedback pattern where an emperor responds to an omen, crisis, military failure, or auspicious claim by soliciting criticism, reading conditions as fault in himself, rejecting excessive praise, or publicly converting official accusations into self-blame and reform pressure.
 
 ## Current Synthesis
+
+The earliest case in the current evidence set comes from Liu Heng's early reign. After a solar eclipse, [[LiuHeng|汉文帝刘恒]] asks civil and military officials to identify his faults and immature judgments, recommend worthy and upright people capable of extreme candor, reduce labor burdens, and help the population recover. The same episode reports a reduced guard force and redistribution of surplus court horses to the relay system, so the response joins rhetoric to administrative economy; it does not establish which criticisms were submitted or how far the measures were implemented. [[zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp|Hanji 211]]
 
 [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] now adds the earliest Mingdi branch. A star appears north of Tianchuan, Mingdi begins North Palace construction, and [[ZhongliYiEasternHan|Zhongli Yi]] converts the omen frame into a ruler-burden argument: the works are keeping commoners from farming. Mingdi stops construction, cuts unnecessary spending, apologizes to ministers, and rain follows in the account. The same source later records Mingdi reading a solar eclipse as warning that the state still has a chance to be saved, then asking officials to assist him.
 
@@ -32,7 +35,7 @@ The concept is narrower than general receptivity. [[ReceptiveRemonstranceGoverna
 
 ## Key Claims
 
-- Omen politics can open a feedback channel when a ruler treats abnormal signs as warnings about concrete burdens.
+- Omen politics can open a feedback channel when a ruler treats abnormal signs as warnings about concrete burdens; the response may combine fault-finding and talent recommendation with immediate economy measures while still leaving the content and effect of later advice unknown.
 - Auspicious signs can be handled through humility and anti-flattery rules rather than triumphal praise, keeping memorial language within stated limits.
 - Confidential criticism becomes stronger when the ruler reads it and circulates it rather than suppressing it.
 - Self-blame turns ministerial accusation into imperial responsibility, lowering retaliation risk and raising reform pressure.
@@ -42,6 +45,7 @@ The concept is narrower than general receptivity. [[ReceptiveRemonstranceGoverna
 
 ## Evidence
 
+- Early Western Han eclipse response: [[zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp|Hanji 211]] says Liu Heng asks officials to identify his faults, recommend candid advisers, reduce labor burdens, cut the guard force, and redirect surplus horses to public relay use.
 - Construction-burden self-correction: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Zhongli Yi's Tianchuan-star remonstrance leads Mingdi to stop North Palace construction, cut expenses, and apologize to ministers.
 - Eclipse self-warning: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Mingdi treats a solar eclipse as a warning that the state can still be saved and asks officials to work hard in assisting him.
 - Auspicious-omen humility: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Mingdi receives news of a treasure cauldron, grants rewards, but frames his governance as still deficient rather than perfected.
@@ -56,14 +60,13 @@ The concept is narrower than general receptivity. [[ReceptiveRemonstranceGoverna
 
 ## Counterevidence & Qualifications
 
-The page does not prove that every criticized failure was fixed after an edict, nor that an auspicious or abnormal sign means governance improved. Hanji 735 is stronger on concrete burden relief in the North Palace case than on durable temperament change, since the same source still describes Mingdi as harsh. Hanji 389-2 is strong on stated policy refusal and recovery direction, but does not independently verify how fully harmful policies stopped. Hanji 227 establishes open diagnosis and proposal solicitation but supplies no resulting measure or outcome. Later sources should test whether self-criticism leads to measurable policy change, becomes ritualized language without effect, or competes with punitive ruler behavior in the same reign.
+The page does not prove that every criticized failure was fixed after an edict, nor that an auspicious or abnormal sign means governance improved. Hanji 211 joins solicitation to reported economy measures but does not identify submitted criticism, candidate selection, implementation depth, or outcomes; its textual correction concerning the guard command also requires comparison. Hanji 735 is stronger on concrete burden relief in the North Palace case than on durable temperament change, since the same source still describes Mingdi as harsh. Hanji 389-2 is strong on stated policy refusal and recovery direction, but does not independently verify how fully harmful policies stopped. Hanji 227 establishes open diagnosis and proposal solicitation but supplies no resulting measure or outcome. Later sources should test whether self-criticism leads to measurable policy change, becomes ritualized language without effect, or competes with punitive ruler behavior in the same reign.
 
 ## What Changed
 
-- Added Liu Heng's earlier food-crisis branch: named shocks, public self-questioning, and unconcealed proposal solicitation.
-- Distinguished agenda opening from stronger evidence of adopted policy or measured relief.
-- Preserved Mingdi's stopped-construction, anti-flattery, and criticism-publication branches.
-- Preserved the Luntai branch where self-criticism is tied to concrete policy refusal and recovery direction.
+- Added Liu Heng's earlier eclipse branch joining fault-finding and adviser recommendation to reported labor, guard, and court-horse reductions.
+- Distinguished immediately announced economy measures from evidence that criticism was submitted, adopted, or effective.
+- Preserved the later food-crisis, Mingdi, and Luntai branches as different strengths of self-criticism-to-policy conversion.
 
 ## Related Concepts
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策](sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp.md) — 文帝以遣列侯、日食求谏和节用减役应对早期统治压力；贾山则指出君威本身会压抑直言，并要求把贤良方正用于朝议而非游猎。
 - [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm.md) — 标题虽指向贾谊与重农，正文实际讲袁盎劝文帝避险、以慎夫人座次维护嫡妾礼序，并以戚夫人结局警示宠爱越礼的政治风险。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq.md) — 标题虽指向赵佗《报文帝书》，正文实际讲贾谊经吴公举荐入朝、快速升迁及改正朔服色礼乐等主张，并以文帝初年的功臣诸侯格局质疑全面改制时机。
 - [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（2）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1.md) — 贾谊把粮食积贮连接到灾荒救济、军需、社会秩序与政权安全；文帝籍田、减租和废除言论罪的因果归属保留来源边界。
@@ -4230,7 +4231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城阳王刘章 / Liu Zhang (King of Chengyang)](entities/LiuZhangChengyangKingWesternHan.md) — 在京诛吕产、支持刘襄继位并在后续分封中受封城阳的西汉宗室。
 - [刘兴居济北叛乱 / Liu Xingju's Jibei Rebellion](entities/JibeiRebellionWesternHan.md) — 文帝外出时爆发、由军事部署和对追随者的限期赦免共同压垮的同姓王叛乱。
 - [中行说 / Zhonghang Yue](entities/ZhonghangYue.md) — 被迫随翁主和亲使团出塞后投匈，并把汉朝物资、行政与外交知识转化为单于战略能力的西汉宦官。
-- [贾山 / Jia Shan (Western Han)](entities/JiaShanWesternHan.md) — 以货币能够购买财富和地位为前提，把民间铸币解释为分享君主财富分配权的西汉劝谏者。
+- [贾山 / Jia Shan (Western Han)](entities/JiaShanWesternHan.md) — 从君威压抑直言、周秦民力对比和贤臣朝议边界讨论治乱，并以货币购买财富地位说明铸币权属于主权的西汉劝谏者。
 - [KK / AI Director](entities/KKAIDirector.md) — 从 4A 广告转向 AI 影像、坚持故事内核与“在现场”经验输入的《蒙古斯》创作者。
 - [山音 / Shanyin](entities/ShanYinAIDirector.md) — 以文本、画面和剪辑互相反馈，并用“眉头一皱的能力”界定人类判断的 AI 导演。
 - [《蒙古斯》 / Mengusi](entities/MengusiFilm.md) — 从长期搁置的魔幻故事内核出发、借 AI 降低执行门槛的故事优先型短片案例。
@@ -9947,7 +9948,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [薄昭 / Bo Zhao (Western Han)](entities/BoZhaoWesternHan.md) — 文帝舅父，受军权后因杀使被迫自尽，其案件集中呈现外戚授权、亲情义务与同等执法的冲突。
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻负担、纳谏和近亲问责塑造仁政，同时受选择性恩宠、祥瑞骗局及外戚事前授权失误所限定。
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以遣返列侯、节俭轻负、日食求谏和近亲问责巩固统治，同时受选择性纳谏、恩宠与祥瑞骗局所限定。
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -17226,7 +17227,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宫廷女性同性亲密关系 / Palace Female Same-Sex Intimacy](concepts/PalaceFemaleSameSexIntimacy.md) — 区分史料中的女性伴侣式亲密、现代身份解释与“最早案例”“对食原义”等更强主张的证据框架。
 - [Academic Translation Reliability / 学术翻译可靠性](concepts/AcademicTranslationReliability.md) — Standard that places fidelity, conceptual consistency, preserved ambiguity, context, and accountable notes before stylistic elegance.
 - [Translation Labor Incentives / 翻译劳动激励](concepts/TranslationLaborIncentives.md) — Payment, recognition, demand, and editorial conditions that shape whether research-intensive translation can be sustained.
-- [宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary](concepts/CourtCeremonialSpaceBoundary.md) — Venue, entry, and event type distinguish tolerated private recreation from the added legitimacy of a principal state ceremonial space.
+- [宫廷礼制空间的公私边界 / Court Ceremonial Space Boundary](concepts/CourtCeremonialSpaceBoundary.md) — Venue, seating, entry, and event type distinguish private favor or recreation from public rank and the deliberative role of court advisers.
 - [帝王承认与非正式身份 / Imperial Acknowledgment of Informal Status](concepts/ImperialAcknowledgmentInformalStatus.md) — Public naming and treatment make an informal relationship legible, but recognition remains contextual, reversible, and short of regular office or unrestricted access.
 - [Circulating-Factor Aging Biology](concepts/CirculatingFactorAgingBiology.md) — Framework separating causal animal fluid-transfer evidence from human anti-aging treatment claims.
 - [Exercise-Conditioned Blood Signaling](concepts/ExerciseConditionedBloodSignaling.md) — Preclinical model in which exercise-altered circulating molecules transmit part of exercise's effects to recipient tissues.
@@ -20317,7 +20318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [私人宾客网络风险 / Private Retainer Network Risk](concepts/PrivateRetainerNetworkRisk.md) — Court-risk pattern where crown-prince or royal-prince private guest recruitment can turn access networks into faction, violence, or incriminating association.
 - [私人书信政治武器化 / Private Letter Political Weaponization](concepts/PrivateLetterPoliticalWeaponization.md) — Court-politics pattern where a bounded private letter is repurposed as accusation, character evidence, or association proof.
 - [称帝时机与拥戴信号 / Accession Timing Coalition Signal](concepts/AccessionTimingCoalitionSignal.md) — Founding-stage pattern where victory, follower expectation, title clarity, strategic diagnosis, and symbolic warrant converge to make accession acceptable.
-- [帝王自责诏 / Imperial Self-Criticism Edict](concepts/ImperialSelfCriticismEdict.md) — Ruler-feedback pattern where omen response becomes construction-burden correction, humility, anti-flattery discipline, or circulated self-blame.
+- [帝王自责诏 / Imperial Self-Criticism Edict](concepts/ImperialSelfCriticismEdict.md) — Ruler-feedback pattern where omen or crisis response becomes fault-finding, candid recruitment, burden reduction, policy refusal, humility, or circulated self-blame.
 - [诏令执行阻抗 / Imperial Edict Implementation Resistance](concepts/ImperialEdictImplementationResistance.md) — Governance pattern where formal imperial commands are answered procedurally while workload and incentive structures preserve the status quo.
 - [使节礼节国威 / Diplomatic Ritual Dignity](concepts/DiplomaticRitualDignity.md) — Frontier-diplomacy pattern where an envoy's bodily treatment, survival choice, or ritual posture becomes a state-level dignity and hierarchy signal.
 - [宗室谋逆法度边界 / Royal Kin Treason Law Boundary](concepts/RoyalKinTreasonLawBoundary.md) — Court-governance boundary where imperial kinship affects procedure, mercy, containment, and succession without privatizing mandate threat or treason suspicion.
