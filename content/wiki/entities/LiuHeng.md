@@ -21,6 +21,7 @@ sources:
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj
   - zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei
+  - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
 last_updated: 2026-10-09
 ---
 
@@ -35,6 +36,8 @@ Liu Heng first enters the wiki as the unexpected fulfillment of [[XuFuPhysiognom
 The post-Lu sources supply his political entry. [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] says [[ChenPing|陈平]], [[ZhouBo|周勃]], and Liu-family forces remove Lu-family power and install the king of Dai. [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|part 4]] then treats Liu Heng's reign as the setting in which Chen Ping's earlier survival preserves later official usefulness.
 
 Liu Heng is not presented as uniformly detached from personal favor. [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says he honors Xu Fu and tries to defeat her poverty prediction for [[DengTong|邓通]] by granting copper-mountain and minting wealth. Jingdi's later confiscation supplies the episode's prophecy payoff, while Liu Heng's intervention remains a patronage counterweight to a simple austerity portrait.
+
+[[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] embeds that favor in a contested public policy. Liu Heng permits private minting, rejects [[JiaYi|贾谊]]'s incentive-and-copper-control warning and [[JiaShanWesternHan|贾山]]'s sovereignty warning, then grants Deng Tong the raw material and authority to mint. Alongside [[LiuBiWuKing|刘濞]]'s Wu coin and salt wealth, the case makes selective patronage and decentralized resource power a sharper limit on the ruler's restraint and receptiveness profiles.
 
 [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] now fills in the patronage mechanism and its institutional limit. Liu Heng selects Deng Tong after a dream resemblance and name pun, visits his home, promotes and enriches him, and reportedly accepts intimate bodily care from him. Yet Chancellor [[ShentuJiaWesternHan|申屠嘉]] can still summon and humiliate the favorite for disrespectful court conduct. Liu Heng waits until punishment has been imposed before sending an emissary to retrieve Deng Tong, combining personal rescue with temporary tolerance of chancellorial discipline.
 
@@ -86,6 +89,7 @@ Prophecy and patronage:
 - [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc|Qinji 117-1]] makes Liu Heng, rather than a Wei heir, the future emperor born to Bao Ji.
 - [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says Liu Heng honors Xu Fu and gives Deng Tong extraordinary resources in an attempt to prevent predicted poverty.
 - [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] adds the dream recognition, household visits, gifts, promotion, minting privilege, intimate care, and delayed rescue from Shentu Jia's discipline.
+- [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] places the copper and minting grant after rejected warnings about criminal incentives, labor diversion, coin authority, and decentralized wealth.
 
 Omen capture, exposure, and correction:
 - [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the yellow-dragon report to Gongsun Chen's appointment, earth-virtue planning, Zhang Cang's loss of influence, Five Colored Emperor sacrifice, and the first Xinyuan Ping temple order.
@@ -135,13 +139,13 @@ Selective royal-buffer implementation:
 
 ## Qualifications
 
-This is a bounded profile assembled from seventeen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220 part 1's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Part 2's detailed killing motive, suicide-pressure sequence, mourning performance, posthumous arrangement, and attributed judgments likewise remain episode- or annotation-scoped; equal-law value does not settle whether the coercive method was ritually or procedurally sound. Hanji 221's succession rule, territorial transfers, policy motive, Dai exception, and Seven States validation likewise require comparison with transmitted histories and geography. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, Bo Zhao's prior empowerment, and severe penal substitutes.
+This is a bounded profile assembled from eighteen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 216's coin policy, memorial arguments, rejection, circulation claims, and economic effects require textual and numismatic comparison; the title's sexual characterization of Deng Tong is not independently established. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220 part 1's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Part 2's detailed killing motive, suicide-pressure sequence, mourning performance, posthumous arrangement, and attributed judgments likewise remain episode- or annotation-scoped; equal-law value does not settle whether the coercive method was ritually or procedurally sound. Hanji 221's succession rule, territorial transfers, policy motive, Dai exception, and Seven States validation likewise require comparison with transmitted histories and geography. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, Bo Zhao's prior empowerment, and severe penal substitutes.
 
 ## What Changed
 
-- Added Liu Heng's adoption of the Liang-Huaiyang strategic direction after Liu Yi's death.
-- Distinguished selective royal-buffer implementation from the broader kingdom-fragmentation proposal he had delayed.
-- Preserved the Dai exception as evidence that frontier geography constrained royal reassignment.
+- Added private-mint permission and rejection of Jia Yi and Jia Shan as a limit on Liu Heng's receptive-ruler profile.
+- Recast Deng Tong's copper and minting grant as selective delegation of monetary power, not merely lavish private spending.
+- Kept public austerity and burden reduction compatible with, but qualified by, exceptional favorite enrichment.
 
 ## Relationships
 
@@ -178,6 +182,8 @@ This is a bounded profile assembled from seventeen popular-history podcast notes
 - [[CorporalPunishmentHarmReduction|肉刑执行减害]] - later reform sequence exposing the severity of Liu Heng's replacement penalties.
 - [[WesternHanDynasty|Western Han]] - dynasty ruled by Liu Heng from the post-Lu settlement to the Jingdi succession.
 - [[JiaYi|贾谊]] - adviser whose 《治安策》 Liu Heng is said to value without promptly implementing its kingdom-partition proposal.
+- [[JiaShanWesternHan|贾山]] - remonstrant whose sovereignty objection to private minting Liu Heng rejects.
+- [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later institutional contrast to Liu Heng's decentralized minting settlement.
 - [[ZhianCe|《治安策》]] - memorial that adds official-dignity policy and a delayed structural recommendation to Liu Heng's profile.
 - [[TuiEnLing|推恩令]] - later systematic analogue to the royal-territory fragmentation logic not promptly implemented here.
 - [[RebellionOfTheSevenStatesWesternHan|七国之乱]] - later crisis used by Hanji 219 to judge the cost of delay.

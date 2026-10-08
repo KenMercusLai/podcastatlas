@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
   - zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei
   - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag
+  - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
 last_updated: 2026-10-09
 ---
 
@@ -38,6 +39,8 @@ Hanji 221 adds a complementary rather than identical response to princely risk. 
 
 Hanji 218 part 2 adds the upstream crisis diagnosis behind that institutional program. Jia Yi calls the Han-Xiongnu relationship “倒悬,” contrasts military readiness with elite hunting, and links luxury and weak production to hunger and crime. He then criticizes officials who reduce government to document processing and uses Qin under [[ShangYang|商鞅]] as the negative comparison for material incentives without durable family and social duties. The positive program is not ceremony alone: role distinctions among ruler, official, superior, subordinate, and kin are meant to make custom and responsibility reproducible before a crisis tests them. [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]]
 
+The monetary-policy branch adds another version of the same preventive method. Jia Yi argues that permission to mint while punishing adulteration creates the offense it condemns, that inconsistent coin weights weaken official authority, and that copper extraction and charcoal production can pull labor away from farming. Yet he also says a bare prohibition can raise illicit profit when coin becomes scarce. His answer is therefore not punishment alone but upstream control of copper, joining incentive design, material control, livelihood protection, and state authority. [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]]
+
 ## Key Characteristics
 
 - Early Western Han writer whose 《过秦论》 and 《治安策》 diagnose Qin failure, apparent peace, latent Han risk, and the limits of document-only government.
@@ -46,7 +49,7 @@ Hanji 218 part 2 adds the upstream crisis diagnosis behind that institutional pr
 - Advocate, in the supplied reading, of forming the heir through curated tutors, companions, ritual, and repeated conduct.
 - Thinker who gives ritual a preventive priority while retaining a role for predictable and impartial law.
 - Advocate of protecting high office from degrading punishment while retaining accountability.
-- Designer of royal-risk arguments that join territorial fragmentation, strategic buffer geography, grievance, public narrative, and the capacity created by rank and wealth; none is identical to the later 推恩令.
+- Designer of royal and monetary risk arguments that join territorial fragmentation, strategic buffers, grievance, incentives, livelihood, and control of concentrated resources.
 
 ## Evidence
 
@@ -81,15 +84,19 @@ Latent crisis, livelihood, and custom:
 - [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]] joins Xiongnu pressure, weak military purpose, luxury, production imbalance, hunger, and crime into a diagnosis of danger beneath apparent peace.
 - [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]] says routine document administration cannot substitute for transforming custom and institutionalizing political and kinship duties.
 
+Minting incentives and material control:
+- [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] attributes to Jia Yi the claim that private-mint permission plus adulteration penalties induces crime, while a simple ban can increase illicit returns.
+- [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] links weight fragmentation and copper work to market disorder and agricultural diversion, then proposes state control of copper as the upstream lever.
+
 ## Qualifications
 
-The seven sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped; a structured episode summary cannot establish precise economic measurement or a single explanation of Qin's fall.
+The eight sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison; the source supports a policy argument, not precise economic measurement or proof of outcome.
 
 ## What Changed
 
-- Added latent-crisis diagnosis across frontier pressure, military readiness, luxury, production, hunger, and crime.
-- Added the distinction between routine paperwork and state responsibility for custom and role formation.
-- Preserved economic ratios and the Qin causal comparison as source-scoped rhetoric rather than measurement or single-cause proof.
+- Added private-minting analysis in which law can manufacture profitable offenses rather than merely suppress them.
+- Distinguished a bare ban from upstream copper control and linked coin policy to agricultural labor and market authority.
+- Preserved weights, price examples, crime totals, and effects as source-scoped rather than measured outcomes.
 
 ## Relationships
 
@@ -113,3 +120,6 @@ The seven sources do not provide a full biography, textual history, or systemati
 - [[StrategicRoyalKingdomBuffer|宗室封国战略缓冲]] - geographic containment logic added by Hanji 221.
 - [[CustomGovernanceBeyondPaperAdministration|风俗治理与文书行政]] - concept distilled from Jia Yi's criticism of officials who process documents without repairing custom.
 - [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]] - downstream legal limit anticipated by the episode's production-hunger-crime chain.
+- [[JiaShanWesternHan|贾山]] - fellow remonstrant whose sovereignty argument complements Jia Yi's incentive and material-control analysis.
+- [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]] - later cases make visible the enforcement failure Jia Yi predicts.
+- [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later institutional arrangement combining mint monopoly, copper control, and standardization.

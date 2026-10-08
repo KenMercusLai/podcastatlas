@@ -36671,9 +36671,9 @@
       "url": "/wiki/concepts/centralizedgoldenagefragility/"
     },
     "CentralizedWuzhuCoinage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
@@ -36681,9 +36681,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/centralizedwuzhucoinage/"
     },
     "CentristFragmentationRunoffRisk": {
@@ -59735,9 +59742,9 @@
       "url": "/wiki/entities/dengprofessorcardiology/"
     },
     "DengTong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -59752,9 +59759,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/dengtong/"
     },
     "DengWanshiLateHan": {
@@ -127876,6 +127890,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/jiarangwesternhan/"
     },
+    "JiaShanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/jiashanwesternhan/"
+    },
     "JiaXu": {
       "episode_count": 13,
       "show_count": 1,
@@ -128000,9 +128030,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -128052,6 +128082,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
       "updated": "2026-10-09",
@@ -143493,9 +143530,9 @@
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -143538,9 +143575,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/liubiwuking/"
     },
     "LiuBiao": {
@@ -144605,9 +144649,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144727,6 +144771,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
       "updated": "2026-10-09",
@@ -196084,9 +196135,9 @@
       "url": "/wiki/concepts/punitiveanatomypoliticalterror/"
     },
     "PunitiveCurrencyEnforcementBackfire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
@@ -196115,9 +196166,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/punitivecurrencyenforcementbackfire/"
     },
     "PunitiveExpeditionPowerVacuum": {
@@ -255565,9 +255623,9 @@
       "url": "/wiki/entities/wujulatehan/"
     },
     "WuKingdomEarlyHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -255582,9 +255640,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？ [ls2eBKZ64AX0oYWsZpJRndFN3-k4].md",
+          "key": "zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/wukingdomearlyhan/"
     },
     "WuLaoshiSanlianEditor": {

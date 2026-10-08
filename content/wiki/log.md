@@ -32914,3 +32914,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？
+
+Added source `zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4`; created [[JiaShanWesternHan|贾山]]; and resynthesized [[JiaYi|贾谊]], [[LiuHeng|汉文帝刘恒]], [[DengTong|邓通]], [[LiuBiWuKing|刘濞]], [[WuKingdomEarlyHan|吴国]], [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]], and [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jia Yi argues that permission plus adulteration penalties manufactures profitable offenses while prohibition alone can raise illicit returns, making upstream copper control more important than punishment alone; Jia Shan treats mint authority as sovereign distributive power; and Deng Tong and Wu show how favor or territorial resources can turn decentralized mint access into private fiscal capacity. No settled contradiction was adopted: Liu Heng's public restraint is qualified, not erased, by exceptional patronage, and the title's sexual characterization of Deng Tong remains interpretive rather than independently established. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,120 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

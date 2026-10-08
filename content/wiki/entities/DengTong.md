@@ -6,7 +6,8 @@ tags: [person, western-han, court-favorite, wealth, physiognomy]
 sources:
   - zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s
   - zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc
-last_updated: 2026-10-08
+  - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
+last_updated: 2026-10-09
 ---
 
 ## Overview
@@ -18,6 +19,8 @@ last_updated: 2026-10-08
 [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] identifies Deng Tong first as a 黄头郎 associated with palace boats. Liu Heng reportedly notices him because he resembles the boatman who helped the emperor ascend in a dream and because “邓通” sounds auspiciously like “登天.” The episode describes him as cautious and socially withdrawn but without independent administrative achievement or a record of recommending talent.
 
 Imperial proximity becomes material power. Liu Heng visits Deng Tong's home, promotes him, gives him immense rewards, grants a copper mountain in Yan-dao, and permits private minting. [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] places the grant inside a prophecy contest: [[XuFuPhysiognomist|许负]] says Deng Tong will die poor and hungry, and Liu Heng tries to make that outcome impossible through direct patronage.
+
+[[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] places that enrichment inside the wider 175 BCE private-minting dispute. While [[JiaYi|贾谊]] and [[JiaShanWesternHan|贾山]] warn about adulteration incentives, crime, agricultural diversion, and loss of monetary authority, Liu Heng rejects their memorials and gives Deng Tong access to a copper mountain and minting. The reported circulation of “邓钱” makes his wealth more than a large gift: favor delegates access to an institution with public monetary consequences.
 
 The same dependence limits Deng Tong before succession. When his conduct at court offends Chancellor [[ShentuJiaWesternHan|申屠嘉]], the chancellor summons him, threatens execution, and forces repeated kowtowing. Deng Tong survives because Liu Heng eventually sends an emissary to retrieve him. The episode therefore shows formal office disciplining a favorite without making the favorite independent of the emperor's rescue.
 
@@ -40,6 +43,7 @@ Rise through favor and proximity:
 Wealth and prediction contest:
 - [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] says Xu Fu predicts poverty and starvation and Liu Heng responds with copper-mountain and minting wealth.
 - [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] adds the circulation of “邓通钱” and frames the grant as extraordinary imperial enrichment.
+- [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] places the same copper and mint privilege against rejected warnings about decentralized coin quality, crime, labor allocation, and sovereign authority.
 
 Discipline, succession, and collapse:
 - [[zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc|Hanji 228]] gives Shentu Jia's summons, threatened punishment, and Liu Heng's rescue, then the abscess grievance, dismissal, minting investigation, confiscation, debt, Liu Piao's relief, and reported death.
@@ -47,15 +51,13 @@ Discipline, succession, and collapse:
 
 ## Qualifications
 
-This profile is synthesized from two short popular-history podcast notes, not an independently verified biography. The dream, “登天” wordplay, offices, reward scale, coin circulation, Shentu Jia procedure, abscess incident, Jingdi's motive, border-minting charge, debts, relief mechanics, and final living arrangement require comparison with transmitted and numismatic evidence. Xu Fu's prediction is treated as a narrative frame, not proof of physiognomy. The source's “德不配位” judgment and claim that Deng Tong had no real ability are interpretations; the evidence more securely supports extreme dependence on personal patronage than a complete assessment of competence. Favorite status and bodily intimacy also do not by themselves establish a modern sexual identity.
+This profile is synthesized from three short popular-history podcast notes, not an independently verified biography. The dream, “登天” wordplay, offices, reward scale, coin circulation, Shentu Jia procedure, abscess incident, Jingdi's motive, border-minting charge, debts, relief mechanics, and final living arrangement require comparison with transmitted and numismatic evidence. Xu Fu's prediction is treated as a narrative frame, not proof of physiognomy. The sources' “德不配位,” “first fortune,” and lack-of-ability judgments are interpretations; the evidence more securely supports extreme dependence on personal patronage than a complete assessment of competence. Favorite status, household visits, and bodily intimacy also do not by themselves establish a modern sexual identity or the sexual relationship implied by Hanji 216's title.
 
 ## What Changed
 
-- Added the dream, 黄头郎 role, cautious disposition, and lack-of-independent-base account behind Deng Tong's rise.
-- Added Shentu Jia's successful discipline and Liu Heng's eventual rescue as a limit on favorite immunity.
-- Added the abscess episode as a source-scoped origin for Liu Qi's hostility.
-- Distinguished authorized minting wealth from the later accusation of minting beyond its permitted area.
-- Added Liu Piao's failed material relief before Deng Tong's reported death.
+- Reframed the copper-mountain and minting grant as delegated public monetary power, not merely personal wealth.
+- Added Jia Yi and Jia Shan's rejected warnings as the policy context qualifying Liu Heng's enrichment of Deng Tong.
+- Kept the title's sexual interpretation separate from the better-supported evidence of exceptional intimacy and patronage.
 
 ## Relationships
 
@@ -67,4 +69,5 @@ This profile is synthesized from two short popular-history podcast notes, not an
 - [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - explains why office and wealth remain reversible when protection is personal.
 - [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - describes the conversion of proximity and bodily care into access and resources.
 - [[FateReadingPoliticalRisk|命相判断的政治风险]] - frames Liu Heng's attempt to defeat a prediction through patronage.
+- [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later central-monopoly design that contrasts with Deng Tong's personally delegated mint privilege.
 - [[WesternHanDynasty|Western Han]] - dynastic setting for Deng Tong's rise and fall.

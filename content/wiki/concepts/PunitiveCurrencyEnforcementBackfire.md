@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l
   - zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k
   - zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -25,6 +26,8 @@ Punitive currency enforcement backfire / 惩罚性货币执法反噬 is the patt
 
 The backfire is social as well as administrative. The episode stresses household separation, sorrow, and mass death among those sent into service. The currency problem is not solved by making punishment lighter or harsher because the monetary system's credibility, enforcement capacity, and survival incentives are already damaged.
 
+[[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] shows that the mechanism is not unique to late Xin. In the early Western Han case, [[JiaYi|贾谊]] argues prospectively that a law permitting profit-seeking minting while punishing adulteration manufactures offenders, and that a simple ban can also fail if scarcity raises illicit returns. His proposed move from punishment to upstream copper control sharpens the concept: enforcement backfires or overloads when the state criminalizes behavior without changing the material access and profit structure that sustains it.
+
 ## Key Claims
 
 - Currency enforcement can fail when prior currency complexity and churn have damaged credibility or practical usability.
@@ -33,6 +36,7 @@ The backfire is social as well as administrative. The episode stresses household
 - Forced labor for enforcement institutions can become a visible sign of state failure rather than state capacity.
 - Reducing formal penalties does not guarantee compliance when incentives for private coinage remain strong.
 - The social cost of enforcement can compound famine, war requisition, and broader regime collapse.
+- Upstream control of monetary inputs can matter more than escalating punishment when illicit profit remains available.
 
 ## Evidence
 
@@ -46,15 +50,16 @@ The backfire is social as well as administrative. The episode stresses household
 - Collective punishment: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says linked punishment causes many people to be seized as official slaves.
 - Forced coinage labor: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says large numbers are sent to coinage offices for service.
 - Household and mortality cost: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says couples are separated and many die from distress and service conditions.
+- Earlier incentive diagnosis: [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] attributes to Jia Yi the view that permission plus adulteration penalties induces crime, while prohibition without copper control can increase illicit returns.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in four late-Xin source notes. It should not be generalized into a claim that all anti-counterfeiting enforcement fails or that lighter penalties are always ineffective. Hanji 641 supports the design-complexity and forced-acceptance prelude, Hanji 648 supports the instability condition and host interpretation, while Hanji 657-658 support the later punishment sequence. The narrow pattern is that punitive enforcement backfires when currency complexity, currency churn, administrative overload, collective liability, forced labor, speech control, and wider famine-war crisis reinforce each other.
+The concept is grounded in four late-Xin notes and one early-Western-Han note. It should not be generalized into a claim that all anti-counterfeiting enforcement fails, that lighter penalties are always ineffective, or that raw-material monopoly automatically produces sound money. Hanji 216 gives a prospective incentive argument; Hanji 641 supports the later design-complexity and forced-acceptance prelude, Hanji 648 supports the instability condition and host interpretation, while Hanji 657-658 support the punishment sequence. Across the different settings, the bounded pattern is that punishment fails when policy preserves profitable violations or when currency complexity, churn, administrative overload, collective liability, forced labor, speech control, and wider crisis reinforce one another.
 
 ## What Changed
 
-- Added Hanji 641 as the 10 CE monetary-complexity and forced-acceptance prelude.
-- Preserved Hanji 648 as the earlier currency-churn condition before Hanji 657's penalty escalation and Hanji 658's forced-labor and household-separation consequences.
+- Extended the pattern from late-Xin observed failure to Jia Yi's early-Western-Han prospective incentive diagnosis.
+- Added the distinction between punishing adulteration or illicit minting and controlling copper access that sustains the profit opportunity.
 
 ## Related Concepts
 
@@ -64,3 +69,4 @@ The concept is grounded in four late-Xin source notes. It should not be generali
 - [[CurrencyControlTrap|currency control trap]] - adjacent monetary-governance pattern where administrative controls create distortion.
 - [[WarDisasterCompounding|war-disaster compounding]] - related crisis pattern because enforcement damage appears alongside famine, requisition, and war.
 - [[IdeologicalOvercontrol|意识形态过度控制]] - broader Wang Mang pattern in which moralized order expands into coercive control.
+- [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later design that combines legal monopoly with copper control and standardized production.

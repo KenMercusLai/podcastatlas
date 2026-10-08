@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？](sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4.md) — 贾谊以犯罪激励、币重分裂、弃农采铜和禁令利润说明惩罚不足，贾山从主权反对私铸；文帝却授邓通铜山铸钱，吴王刘濞也以铜盐形成财政自主。
 - [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag.md) — 贾谊从汉匈“倒悬”、武备松弛和奢靡失衡诊断太平表象下的危机，并以风俗治理、角色秩序和预先建制回应文书行政与事后刑罚的边界。
 - [AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者](sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u.md) — KK 与山音以《蒙古斯》和《阿明的一天》说明 AI 如何压缩影像执行、重组剪辑中心工作流，同时把创作瓶颈推向生活经验、审美判断与最终责任。
 - [301-阿伦特如何痛骂茨威格？](sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf.md) — 独树不成林重构阿伦特对《昨日的世界》的批评，将茨威格的黄金时代记忆解释为由名望、阶层和国际精英网络保护、却无法替代政治判断与国家成员资格的文化世界。
@@ -4190,6 +4191,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [贾山 / Jia Shan (Western Han)](entities/JiaShanWesternHan.md) — 以货币能够购买财富和地位为前提，把民间铸币解释为分享君主财富分配权的西汉劝谏者。
 - [KK / AI Director](entities/KKAIDirector.md) — 从 4A 广告转向 AI 影像、坚持故事内核与“在现场”经验输入的《蒙古斯》创作者。
 - [山音 / Shanyin](entities/ShanYinAIDirector.md) — 以文本、画面和剪辑互相反馈，并用“眉头一皱的能力”界定人类判断的 AI 导演。
 - [《蒙古斯》 / Mengusi](entities/MengusiFilm.md) — 从长期搁置的魔幻故事内核出发、借 AI 降低执行门槛的故事优先型短片案例。

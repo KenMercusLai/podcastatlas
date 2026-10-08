@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj
   - zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg
   - zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1
-last_updated: 2026-10-08
+  - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
+last_updated: 2026-10-09
 ---
 
 ## Overview
@@ -24,6 +25,8 @@ last_updated: 2026-10-08
 [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj|Hanji 231 part 1]] supplies the first rupture. The future Jingdi reportedly kills Liu Bi's heir [[LiuXianWuCrownPrinceWesternHan|刘贤]] in a drunken board-game quarrel. Coffin exchange, prolonged nonattendance, detained envoys, and fear form an escalation chain before [[LiuHeng|Emperor Wen]] releases the envoys, grants gifts, and excuses attendance. The settlement lowers immediate fear without resolving the autonomy problem.
 
 [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] supplies capacity and coalition formation. The episode says Liu Bi uses copper, salt, tax relief, service subsidies, distributions, and fugitive protection to strengthen Wu's resources and local attachment. When direct territorial reductions begin, he sends [[YingGaoWesternHan|应高]] to [[LiuAngJiaoxiKingWesternHan|刘昂]]. Shared-threat rhetoric, the “诛晁错” slogan, military objectives, and a promise to divide territory turn Liu Bi's anticipated danger into collective action; his later disguised visit tests Liu Ang's commitment.
+
+[[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] moves that capacity earlier into the private-minting policy context. It places Liu Bi beside [[DengTong|邓通]] as a holder of copper access whose coin circulated widely, while Wu's salt production is said to sustain a treasury without ordinary taxation. This does not make rebellion inevitable, but it clarifies how delegated or territorial control of monetary material could become an autonomous fiscal base before the later grievance and削藩 trigger.
 
 [[zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1|Hanji 232]] supplies the transition from preparation to open war. When reduction reaches Wu, Liu Bi kills court officials, mobilizes a force described as exceeding two hundred thousand, receives support attributed to Minyue and Dongyue, joins [[LiuWuChuKingWesternHan|楚王刘戊]], and attacks Liang. Qi's reversal and Jibei's internal restraint qualify the coalition's breadth, while the rapid Wu-Chu junction and early battlefield success explain confidence without proving long-term viability.
 
@@ -51,6 +54,7 @@ Grievance and temporary de-escalation:
 
 Capacity and coalition construction:
 - [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] attributes Wu's resource and patronage system to Liu Bi and gives Ying Gao's recruitment of Liu Ang, the campaign outline, territorial promise, and Liu Bi's personal confirmation visit.
+- [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] attributes widely circulating Wu coin, copper extraction, salt production, and tax-light fiscal capacity to Liu Bi's kingdom.
 
 Mobilization and opening campaign:
 - [[zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1|Hanji 232]] gives the Wu reduction trigger, killing of court officials, force claim, southern support, simultaneous risings, coalition defections, Wu-Chu junction, public slogan, and attack on Liang.
@@ -63,15 +67,12 @@ Rejected options and collapse:
 
 ## Qualifications
 
-These six popular-history notes do not provide a complete reign or a single sufficient cause of rebellion. Liu Xian's death supplies grievance; Wu's economy and protective practices supply attributed capacity;削藩 supplies the immediate trigger; Ying Gao's mission supplies coalition work; and Hanji 232 supplies mobilization and early confidence. None alone proves inevitability or durable military advantage. The founding scale, copper and salt economy, tax and service arrangements, gifts, fugitive policy, popular support, Chao Cuo's prediction, coalition membership, speeches, disguise, military routes, territorial promises, mobilization ages and totals, Minyue/Dongyue role, eastern-emperor claim, rejected plans, flight, killer's identity, and assassination remain source-scoped. Hanji 235's corrupted date and identity variants remain unresolved.
+These seven popular-history notes do not provide a complete reign or a single sufficient cause of rebellion. Liu Xian's death supplies grievance; Wu's economy and protective practices supply attributed capacity;削藩 supplies the immediate trigger; Ying Gao's mission supplies coalition work; and Hanji 232 supplies mobilization and early confidence. None alone proves inevitability or durable military advantage. The founding scale, copper and salt economy, coin circulation, tax and service arrangements, gifts, fugitive policy, popular support, Chao Cuo's prediction, coalition membership, speeches, disguise, military routes, territorial promises, mobilization ages and totals, Minyue/Dongyue role, eastern-emperor claim, rejected plans, flight, killer's identity, and assassination remain source-scoped. Hanji 235's corrupted date and identity variants remain unresolved.
 
 ## What Changed
 
-- Added Wu's resource, fiscal, patronage, and enforcement base as the capacity connecting royal status to practical autonomy.
-- Added deliberate coalition construction through Ying Gao and Liu Bi's personal confirmation, replacing any impression of spontaneous collective revolt.
-- Clarified “诛晁错” as a public mobilizing slogan inside a broader military and territorial project.
-- Preserved the joined causal chain as grievance plus capacity plus trigger plus coalition work, not inevitability from any single factor.
-- Added the conversion of coalition planning into large-scale mobilization, southern support, Chu junction, and early attack while qualifying alliance cohesion.
+- Located Wu's copper, coin, salt, and light-tax capacity in the earlier private-minting policy field.
+- Clarified resource control as an enabling fiscal base rather than a sufficient cause of rebellion.
 
 ## Relationships
 
@@ -88,3 +89,4 @@ These six popular-history notes do not provide a complete reign or a single suff
 - [[StatusBasedAdviceDismissal|身份资历式建议否决]] - decision failure in the rejection of a younger commander's plan.
 - [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - mechanism by which military defeat removes allied protection.
 - [[SameSurnameKingEnfeoffment|同姓王分封]] - institutional origin of Liu Bi's royal authority.
+- [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later centralization mechanism that answers the autonomy risk visible in Wu's minting base.
