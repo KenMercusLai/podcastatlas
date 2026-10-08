@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12801
+wiki_total_pages: 12807
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "XiaYuLateHan"
     title: "夏育 / Xia Yu (late Han)"
     url: "/wiki/entities/xiayulatehan/"
+  - key: "XiaYanMing"
+    title: "夏言 / Xia Yan"
+    url: "/wiki/entities/xiayanming/"
   - key: "XiaShuo"
     title: "夏说 / Xia Shuo"
     url: "/wiki/entities/xiashuo/"
@@ -479,6 +482,9 @@ wiki_pages:
   - key: "XuFangLateHan"
     title: "徐防 / Xu Fang (late Han)"
     url: "/wiki/entities/xufanglatehan/"
+  - key: "XuJieMing"
+    title: "徐阶 / Xu Jie"
+    url: "/wiki/entities/xujieming/"
   - key: "XuXiake"
     title: "徐霞客"
     url: "/wiki/entities/xuxiake/"

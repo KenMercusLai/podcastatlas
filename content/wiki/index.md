@@ -4177,6 +4177,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [14 这样的肉你敢吃吗？东西方的食品安全丑闻。315特别节目](sources/14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwen-315-tebie-jiemu-lkagyyokjnnfxtovnqpfg4cxsjov.md) — 怪东西以《屠场》、1906年美国监管改革与中国古代造假案例，说明工业化既放大食品风险，也为检验、标识、物流与追责提供制度基础。
 - [13 东西方的女作家：皮桑与蔡文姬](sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent.md) — 怪东西以克里斯蒂娜·德·皮桑与蔡文姬比较女性公共写作、教育、战争经验、关系命名与文学正典中的可见性，并保留蔡文姬生平及作品归属的证据边界。
 
+- [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
+
 ## Entities
 - [Heloise / Héloïse](entities/Heloise.md) — Medieval intellectual, abbess, and correspondent whose thinking on intention, marriage, vocation, and devotion complicates her familiar role in Abelard's tragic romance.
 - [《压岁钱》 (1937 film)](entities/LuckyMoneyFilm1937.md) — 以一枚压岁银元的流转连接上海阶层生活、国家危机与货币变化的社会电影。
@@ -17033,6 +17035,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Jungle / 《屠场》](entities/TheJungleNovel.md) — Sinclair novel whose immigrant-labor critique became publicly influential through its meatpacking sanitation scenes.
 - [Christine de Pizan / 克里斯蒂娜·德·皮桑](entities/ChristineDePizan.md) — 中世纪法国职业女作家，以宫廷写作讨论女性教育、文学偏见、君主伦理、和平与战争约束。
 
+- [严嵩 / Yan Song](entities/YanSongMing.md) — 由早年才子与长期退隐转向以礼制顺从、文学服务、权术和家族经营维持嘉靖宠信，最终随有用性与保护下降而败亡的明朝首辅。
+- [嘉靖帝 / Jiajing Emperor](entities/JiajingEmperor.md) — 以礼制、青词、猜疑和私人信任塑造严嵩、夏言与徐阶竞争，并保有最终任免权的明朝皇帝。
+- [徐阶 / Xu Jie](entities/XuJieMing.md) — 以万寿宫重建建议、宫廷中介和奏劾时机赢得嘉靖信任并促成严氏倒台的明朝首辅。
+- [严世蕃 / Yan Shifan](entities/YanShifan.md) — 为年老严嵩提供文书能力并充当请托受贿中介，后因抗拒流放与再起指控加速严氏覆灭的儿子。
+- [夏言 / Xia Yan](entities/XiaYanMing.md) — 先提携严嵩、后在河套政策与君主信任竞争中败于更顺从对手的明朝重臣。
+- [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
+
 ## Concepts
 - [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
 - [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。
@@ -27093,5 +27102,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Industrial Food Safety Governance / 工业食品安全治理](concepts/IndustrialFoodSafetyGovernance.md) — Institutional response to scaled production risk through standards, inspection, labeling, testing, logistics controls, and accountability.
 - [Natural Food Safety Romanticism / 天然食品安全浪漫化](concepts/NaturalFoodSafetyRomanticism.md) — Error of treating ancient, artisanal, local, or unprocessed food as inherently safe rather than comparing concrete hazards and controls.
 - [Gendered Authorship Visibility / 性别化作者可见性](concepts/GenderedAuthorshipVisibility.md) — 区分女性实际写作参与与其在关系命名、作品归属、保存及文学正典中的后世可见性。
+
+- [君主依附型权臣权力 / Court-Dependent Ministerial Power](concepts/CourtDependentMinisterialPower.md) — 超越通常职权却依赖君主私人信任的二号人物权力，既可形成治理能力也可放大掠夺与镇压，并在换宠、衰老或继承时迅速失去保护。
 
 ## Syntheses

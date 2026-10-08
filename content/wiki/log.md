@@ -32820,3 +32820,11 @@ Added source `zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵
+
+Added source `44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou`; created [[YanSongMing|严嵩]], [[JiajingEmperor|嘉靖帝]], [[XuJieMing|徐阶]], [[YanShifan|严世蕃]], [[XiaYanMing|夏言]], [[JoseIOfPortugal|若泽一世]], and [[CourtDependentMinisterialPower|君主依附型权臣权力]]; and resynthesized [[MarquisDePombal|彭巴尔侯爵]] and [[AuthoritarianModernization|威权现代化]] from each page's complete preserved source inventory before appending the new source once. Core synthesis: Pombal and Yan Song both exercised authority beyond ordinary office boundaries through a monarch's personal confidence, but Pombal combined public reform, reconstruction, and defense with monopoly, slavery, and repression while Yan devoted more capacity to imperial service, political survival, and household enrichment. No settled contradiction was adopted. Biographical detail, motive, casualty, economic-effect, legal-process, dialogue, and court-intrigue claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,109 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

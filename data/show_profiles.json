@@ -2271,14 +2271,14 @@
       "earliest_episode_date": "2026-01-22",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "lmX4pOXEtwxy625krIODiZXLubou [lmX4pOXEtwxy625krIODiZXLubou].md",
-      "source_note_count": 34,
-      "topic_matched_source_note_count": 31,
+      "source_note_count": 35,
+      "topic_matched_source_note_count": 32,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 27
+          "source_note_count": 28
         },
         {
           "key": "culture",
@@ -2301,6 +2301,13 @@
       ],
       "entities": [
         {
+          "key": "MarquisDePombal",
+          "title": "Marquis de Pombal",
+          "url": "/wiki/entities/marquisdepombal/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "HuXueyan",
           "title": "胡雪岩 / Hu Xueyan",
           "url": "/wiki/entities/huxueyan/",
@@ -2309,7 +2316,7 @@
         }
       ],
       "start_here_episode_files": [
-        "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
+        "lmX4pOXEtwxy625krIODiZXLubou [lmX4pOXEtwxy625krIODiZXLubou].md",
         "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
         "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
         "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md"

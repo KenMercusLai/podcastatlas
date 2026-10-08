@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12801
+wiki_total_pages: 12807
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "YukioMishima"
     title: "三岛由纪夫 / Yukio Mishima"
     url: "/wiki/entities/yukiomishima/"
+  - key: "YanShifan"
+    title: "严世蕃 / Yan Shifan"
+    url: "/wiki/entities/yanshifan/"
   - key: "YanCongWesternHan"
     title: "严从 / Yan Cong (Western Han)"
     url: "/wiki/entities/yancongwesternhan/"
@@ -398,6 +401,9 @@ wiki_pages:
   - key: "YanYouXinGeneral"
     title: "严尤 / Yan You (Xin general)"
     url: "/wiki/entities/yanyouxingeneral/"
+  - key: "YanSongMing"
+    title: "严嵩 / Yan Song"
+    url: "/wiki/entities/yansongming/"
   - key: "YanYannianWesternHan"
     title: "严延年 / Yan Yannian (Western Han)"
     url: "/wiki/entities/yanyannianwesternhan/"

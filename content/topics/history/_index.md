@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2635
+topic_total_pages: 2636
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6231,6 +6231,9 @@ topic_sources:
   - key: "439-disco-sex-and-race-in-seventies-america-glt8206137792"
     title: "439. Disco: Sex and Race in Seventies America"
     url: "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+  - key: "44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou"
+    title: "44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵"
+    url: "/wiki/sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou/"
   - key: "44-1066-glt5177665423"
     title: "44. 1066"
     url: "/wiki/sources/44-1066-glt5177665423/"

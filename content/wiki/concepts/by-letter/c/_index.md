@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9992
+wiki_total_pages: 9993
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3158,6 +3158,9 @@ wiki_pages:
   - key: "ConsortOmenBlameTransfer"
     title: "后宫灾异归咎转移 / Consort Omen Blame Transfer"
     url: "/wiki/concepts/consortomenblametransfer/"
+  - key: "CourtDependentMinisterialPower"
+    title: "君主依附型权臣权力 / Court-Dependent Ministerial Power"
+    url: "/wiki/concepts/courtdependentministerialpower/"
   - key: "CommodityTraceRouteInference"
     title: "商品踪迹式路线推断 / Commodity-Trace Route Inference"
     url: "/wiki/concepts/commoditytracerouteinference/"

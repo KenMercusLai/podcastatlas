@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12801
+wiki_total_pages: 12807
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "JosieDallap"
     title: "Josie Dallap"
     url: "/wiki/entities/josiedallap/"
+  - key: "JoseIOfPortugal"
+    title: "José I of Portugal / 若泽一世"
+    url: "/wiki/entities/joseiofportugal/"
   - key: "JoseLopezRega"
     title: "José López Rega"
     url: "/wiki/entities/joselopezrega/"
@@ -1541,6 +1544,9 @@ wiki_pages:
   - key: "JunWangHou"
     title: "君王后 / Jun Wang Hou"
     url: "/wiki/entities/junwanghou/"
+  - key: "JiajingEmperor"
+    title: "嘉靖帝 / Jiajing Emperor"
+    url: "/wiki/entities/jiajingemperor/"
   - key: "JiangGongLateHan"
     title: "姜公 / Jiang Gong (late Han)"
     url: "/wiki/entities/jianggonglatehan/"
