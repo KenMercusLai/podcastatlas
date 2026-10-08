@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10011
+wiki_total_pages: 10012
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "PhilologicalWorldbuilding"
     title: "Philological Worldbuilding"
     url: "/wiki/concepts/philologicalworldbuilding/"
+  - key: "PhilosophicalClassicReceptionGap"
+    title: "Philosophical Classic Reception Gap / 哲学经典的公众—学术接受落差"
+    url: "/wiki/concepts/philosophicalclassicreceptiongap/"
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12825
+wiki_total_pages: 12826
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "ThuleSociety"
     title: "Thule Society"
     url: "/wiki/entities/thulesociety/"
+  - key: "ThusSpokeZarathustra"
+    title: "Thus Spoke Zarathustra / 《查拉图斯特拉如是说》"
+    url: "/wiki/entities/thusspokezarathustra/"
   - key: "ThutmoseIII"
     title: "Thutmose III"
     url: "/wiki/entities/thutmoseiii/"

@@ -89662,6 +89662,50 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/friedrichmerz/"
     },
+    "FriedrichNietzsche": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "20.德米安：该隐的额头上，那神秘的印记 [567302734].md",
+          "key": "20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734",
+          "show": "蜜獾吃书",
+          "title": "20.德米安：该隐的额头上，那神秘的印记",
+          "url": "/wiki/sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734/"
+        },
+        {
+          "episode_file": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄 [924722703].md",
+          "key": "157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703",
+          "show": "蜜獾吃书",
+          "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
+          "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "FrNOzhatALzm23K6UqFdA_jTAElD [FrNOzhatALzm23K6UqFdA_jTAElD].md",
+          "key": "300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld",
+          "show": "独树不成林",
+          "title": "300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？",
+          "url": "/wiki/sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/friedrichnietzsche/"
+    },
     "FriedrichPaulus": {
       "episode_count": 2,
       "show_count": 1,
@@ -186314,6 +186358,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/philologicalworldbuilding/"
     },
+    "PhilosophicalClassicReceptionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FrNOzhatALzm23K6UqFdA_jTAElD [FrNOzhatALzm23K6UqFdA_jTAElD].md",
+          "key": "300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld",
+          "show": "独树不成林",
+          "title": "300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？",
+          "url": "/wiki/sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/philosophicalclassicreceptiongap/"
+    },
     "PhoebeBridgers": {
       "episode_count": 1,
       "show_count": 1,
@@ -237068,6 +237128,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/thulesociety/"
+    },
+    "ThusSpokeZarathustra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FrNOzhatALzm23K6UqFdA_jTAElD [FrNOzhatALzm23K6UqFdA_jTAElD].md",
+          "key": "300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld",
+          "show": "独树不成林",
+          "title": "300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？",
+          "url": "/wiki/sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/thusspokezarathustra/"
     },
     "ThutmoseIII": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3256
+topic_total_pages: 3257
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6131,6 +6131,9 @@ topic_entities:
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
+  - key: "ThusSpokeZarathustra"
+    title: "Thus Spoke Zarathustra / 《查拉图斯特拉如是说》"
+    url: "/wiki/entities/thusspokezarathustra/"
   - key: "TianjinUniversity"
     title: "Tianjin University / 天津大学"
     url: "/wiki/entities/tianjinuniversity/"

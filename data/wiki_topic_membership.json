@@ -84801,6 +84801,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ThusSpokeZarathustra": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TiDB": [
     {
       "key": "technology",

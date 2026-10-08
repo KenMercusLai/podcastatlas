@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？](sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld.md) — 独树不成林从公众知名度、课堂选读、专门研究、金句摘录与一战传播之间的落差，提出《查拉图斯特拉如是说》的读者与整体解释问题。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs.md) — 张释之以惊驾罚金与盗庙玉环两案拒绝随文帝君怒加刑，并借刑罚层级维护法律公信；节目另以《六韬》“六守”说明情境式识人。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86.md) — 季布以“一誉而召、一毁而去”直指文帝任官摇摆；贾谊因诸侯归国主张触动王侯与功臣利益，被外放长沙，其“保护性贬谪”仍属节目推断。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8.md) — 张释之从久滞骑郎经袁盎举荐进入文帝身边，以啬夫任官、司马门拦太子梁王和霸陵谈棺三事，分别校正口才识人、宗室越礼与厚葬防盗的判断。
@@ -4200,6 +4201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [Thus Spoke Zarathustra / 《查拉图斯特拉如是说》](entities/ThusSpokeZarathustra.md) — 尼采后期著作，其公众知名度、片段化引用、学术使用与战时传播构成当前来源的接受史问题。
 - [张释之 / Zhang Shizhi (Western Han)](entities/ZhangShizhiWesternHan.md) — 从反对口才替代能力、宫门规则不避储君诸侯和薄葬防盗，延伸到廷尉量刑不随君怒加码的制度型直臣。
 - [刘兴居 / Liu Xingju (Western Han)](entities/LiuXingjuWesternHan.md) — 诛吕后分配失衡背景下起兵、因限期赦免与军事进逼而败亡的济北王。
 - [齐王刘襄 / Liu Xiang (King of Qi)](entities/LiuXiangQiKingWesternHan.md) — 吕后死后在齐地率先起兵并被刘章期待继位，其功劳与落选构成齐王支系后续不满的背景。
@@ -14633,7 +14635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rudolf Erich Raspe](entities/RudolfErichRaspe.md) — Early writer of the Munchausen stories, presented as a scholar and fraudster whose life complicates the boundary between knowledge and trickery.
 - [《扒马褂》](entities/BaMaGua.md) — Chinese crosstalk comparison for structured comic boasting and tall-tale explanation.
 - [Arthur Schopenhauer / 叔本华](entities/ArthurSchopenhauer.md) — Philosopher linked by the episode to the Munchausen self-rescue motif and the limits of reason.
-- [Friedrich Nietzsche / 尼采](entities/FriedrichNietzsche.md) — Philosopher the episode places in the Munchausen self-bootstrapping cluster around self-grounding.
+- [Friedrich Nietzsche / 尼采](entities/FriedrichNietzsche.md) — Philosopher whose current profile spans self-grounding, literary and workplace interpretation, Wagner criticism, and the public–academic reception of Thus Spoke Zarathustra.
 - [Ludwig Wittgenstein / 维特根斯坦](entities/LudwigWittgenstein.md) — Philosopher linked by the episode to language's difficulty explaining the world from within the world.
 - [Karl Popper / 卡尔·波普尔](entities/KarlPopper.md) — Philosopher linked by the episode to justification problems summarized as circle, regress, or arbitrary stop.
 - [哈迪亚·海达里](entities/HadiyaHaidari.md) — Afghan woman author whose Persian stories in 《一个阿富汗女人的来信》 ground the episode's first-person writing, constrained agency, and publication-as-support themes.
@@ -17081,6 +17083,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Philosophical Classic Reception Gap / 哲学经典的公众—学术接受落差](concepts/PhilosophicalClassicReceptionGap.md) — 区分经典的公众知名度、普通读者传播、课堂使用、专门研究与整体解释的接受史框架。
 - [法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger](concepts/LegalPenaltyStabilityAgainstSovereignAnger.md) — 以法定、可预期且有层级的量刑抵抗君主因恐惧、尊严或孝道展示而临时加刑。
 - [毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility](concepts/CourtHearsayAppointmentVolatility.md) — 未经核验的褒贬替代稳定判断时，召用与退回会同时损害用人质量和君主可信度。
 - [新君拥立联盟约束 / New-Ruler Coalition Constraint](concepts/NewRulerCoalitionConstraint.md) — 新君名义居首却仍依赖拥立功臣与宗室联盟，改革偏好因而不等于即时执行能力。
