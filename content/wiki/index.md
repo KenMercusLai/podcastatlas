@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z.md) — 汉武帝以贤良方正、直言极谏与策问打开求贤通道，董仲舒由经学进入国家政策场域；“首届公务员考试”、名次、人数及独尊儒术因果保留来源边界。
 - [《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？](sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs.md) — 宁成从打击豪强、受罚逃亡到被重新起用并反成南阳豪强，呈现酷吏因皇权需求而被反复利用、失去保护又被同类替代的循环；官职、动机、道德排名与灭族程序保留来源边界。
 - [The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple](sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189.md) — Huberman Lab interview arguing that progressive resistance, sufficient effort, recovery, and adherence generally transfer across sexes while cycle, menopause, fasting, cortisol, creatine, and hormone claims require outcome-level evidence and individual context.
 - [《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听](sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_.md) — 客栈误认延续微服游猎的身份风险；东方朔反对扩建上林苑、司马相如反对亲射猛兽，均获赏却未改变武帝决策，形成“赏谏不纳”的反馈边界。
@@ -13037,7 +13038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans Fan Chong's 18 CE growth, origin-stage organization, westward cohesion pressure, Gengshi defeats, Liu Penzi's lottery enthronement, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising/endgame force tied to Wang Mang's Jian Terrace death and the broader late-Xin legitimacy collapse.
 - [张卬 / Zhang Ang (Gengshi)](entities/ZhangAngGengshi.md) — Gengshi pressure actor who helps force Liu Xuan's elevation, later joins Chang'an rupture politics, and belongs to the group that treats captive Liu Xuan's sympathy as dangerous.
-- [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
+- [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker linking policy-question access, Confucian imperial ideology, Heaven-and-omen reasoning, and scholarly political risk.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
 - [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining monarchical delegitimation, structural crisis, wartime collapse, republican founding, Terror, Thermidor, and Directory order.
@@ -16825,6 +16826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [策问式选才 / Imperial Policy-Questioning Talent Selection](concepts/ImperialPolicyQuestioningTalentSelection.md) — 推荐打开候选池、帝王策问检验治国论述，并把学术声望接入国家政策场域的选才机制。
 - [Sex-Specific Exercise Programming Evidence Boundary](concepts/SexSpecificExerciseProgrammingBoundary.md) — Separates baseline physiology and individual symptoms from outcome evidence strong enough to justify universal female-specific programs.
 - [赏谏不纳 / Rewarded but Unadopted Remonstrance](concepts/RewardedUnadoptedRemonstrance.md) — 统治者赞许、升迁或奖赏批评者，却不实质改变被批评政策或行为的反馈模式。
 - [身体力行式家礼教化 / Embodied Household Ritual Discipline](concepts/EmbodiedHouseholdRitualDiscipline.md) — 通过长辈在公私场景中的重复示范、环境一致性与间接纠错传递家庭规范，同时保留沉默和撤回认可所带来的压力面。

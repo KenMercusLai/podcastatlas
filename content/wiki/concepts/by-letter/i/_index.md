@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9904
+wiki_total_pages: 9905
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "ImperialAbdicationLanguageBoundary"
     title: "禅让话语边界 / Imperial Abdication Language Boundary"
     url: "/wiki/concepts/imperialabdicationlanguageboundary/"
+  - key: "ImperialPolicyQuestioningTalentSelection"
+    title: "策问式选才 / Imperial Policy-Questioning Talent Selection"
+    url: "/wiki/concepts/imperialpolicyquestioningtalentselection/"
   - key: "IntegratedMilitarySituationAssessment"
     title: "综合军情判断 / Integrated Military Situation Assessment"
     url: "/wiki/concepts/integratedmilitarysituationassessment/"

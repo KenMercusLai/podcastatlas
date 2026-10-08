@@ -8,17 +8,20 @@ sources:
   - zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9
   - zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Dong Zhongshu / 董仲舒 is currently the wiki's main person marker for Western Han Confucian imperial ideology and a bounded case of scholarly vulnerability and survival under dangerous politics. Across the sources, he links Confucian political order with Heaven, omens, yin-yang/five-phases technique, imperial control, exposure through a private disaster memorial, and the judgment that leaving a violent patron can preserve later intellectual work.
+Dong Zhongshu / 董仲舒 is currently the wiki's main person marker for Western Han Confucian access to imperial policy, Confucian imperial ideology, and scholarly vulnerability under dangerous politics. Across the sources, he links ruler-led policy questioning and state-facing argument with Heaven, omens, yin-yang/five-phases technique, imperial control, exposure through a private disaster memorial, and the judgment that leaving a violent patron can preserve later intellectual work.
 
 ## Current Profile
 
-Dong Zhongshu first appears as intellectual background for sacred Western Han legitimacy. The Wang Mang source uses him to show that [[WangMang|王莽]]'s omen belief was not merely private absurdity; it drew on a broader [[WesternHanDynasty|Western Han]] political culture where [[MandateOfHeavenLegitimacy]], [[ChenweiPolitics]], and [[AuspiciousOmenPolitics]] could enter statecraft.
+Hanji 248 supplies the earliest career-facing layer in the current evidence inventory. It presents young [[HanWudi|汉武帝]] as calling for 贤良方正 and 直言极谏, then using [[ImperialPolicyQuestioningTalentSelection|策问式选才]] to hear candidates on government. In the episode's account, Dong Zhongshu ranks first and gains an access point through which Confucian learning can become imperial policy argument. The source stops before his substantive answers or their implementation, so the exact ranking, format, and causal line to later orthodoxy remain bounded.
+
+Dong Zhongshu also appears as intellectual background for sacred Western Han legitimacy. The Wang Mang source uses him to show that [[WangMang|王莽]]'s omen belief was not merely private absurdity; it drew on a broader [[WesternHanDynasty|Western Han]] political culture where [[MandateOfHeavenLegitimacy]], [[ChenweiPolitics]], and [[AuspiciousOmenPolitics]] could enter statecraft.
 
 The fangshu source makes the religious-technical layer more direct through [[FangshuSystematization|方术系统化]]. There Dong Zhongshu's Confucianism is linked to yin-yang, five phases, disasters, auspicious signs, rainmaking, and official ritual methods, so he becomes evidence that imperial Confucianism could absorb technique and omen reasoning rather than simply suppress it.
 
@@ -31,14 +34,17 @@ Hanji 285 adds a second source-attributed exposure mechanism. It says [[ZhuFuYan
 ## Key Characteristics
 
 - Intellectual bridge between Confucian political language and Heaven-linked legitimacy.
+- Scholar whose policy answers are presented as converting classical learning into direct access to an activist ruler.
 - Source-scoped figure for the absorption of omen, yin-yang, five-phases, and ritual technique into imperial Confucian statecraft.
 - Key background for why Wang Mang's sacred and auspicious-sign claims could sound institutionally plausible.
 - In Hanji 392-4, credited with reshaping Confucianism into an imperial ideology compatible with Legalist hierarchy.
 - Ambivalent constraint figure: his Heaven-response system can pressure rulers toward self-criticism, but also gives monarchy sacred elevation.
-- Scholar whose disaster-remonstrance language could be weaponized by a court rival in the source's account.
-- Survival-aware scholar-official who exits a dangerous vassal court despite receiving respectful treatment.
+- Scholar whose disaster-remonstrance language could be weaponized by a rival, and who later exits a dangerous vassal court despite respectful treatment.
 
 ## Evidence
+
+Policy access through questioning:
+- [[zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z|Hanji 248]] presents Dong's policy-question response as the bridge from classical scholarship and Confucian ambition into direct imperial attention.
 
 Sacred legitimacy background:
 - [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] places Dong Zhongshu near the political culture that made Heaven, omens, and dynastic legitimacy mutually reinforcing.
@@ -57,17 +63,18 @@ Memorial exposure:
 
 ## Qualifications
 
-The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. Hanji 367-1 supports the danger of the Jiaoxi appointment and Dong's withdrawal, but its modern workplace lesson and exact reconstruction of Gongsun Hong's motive remain interpretive. Hanji 285's stolen-memorial story is not independently collated and does not establish the memorial's wording, status, submission path, chronology, or how close Dong came to execution. The sources do not settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
+The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 248 does not quote the substantive policy answers and leaves its date, candidate count, one-to-one format, first-place result, grouping of famous candidates, “first civil-service examination” analogy, and line from selection to “罢黜百家，独尊儒术” uncollated. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. Hanji 367-1 supports the danger of the Jiaoxi appointment and Dong's withdrawal, but its modern workplace lesson and exact reconstruction of Gongsun Hong's motive remain interpretive. Hanji 285's stolen-memorial story is not independently collated and does not establish the memorial's wording, status, submission path, chronology, or how close Dong came to execution. The sources do not settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
 
 ## What Changed
 
-- Added the source-attributed theft and submission of Dong's disaster memorial as a court-exposure mechanism.
-- Connected Heaven-and-disaster admonition to the practical risk of hostile mediation while keeping the anecdote qualified.
+- Added ruler-led policy questioning as the earliest current mechanism connecting Dong's scholarship to imperial access.
+- Distinguished that access from proof that his answers were implemented or directly established later Confucian predominance.
 
 ## Relationships
 
 - [[WesternHanDynasty]] - setting in which Dong Zhongshu's Confucian-imperial synthesis becomes politically salient.
 - [[HanWudi|汉武帝]] - ruler whose ideological needs Hanji 392-4 connects to Dong Zhongshu's remade Confucianism.
+- [[ImperialPolicyQuestioningTalentSelection|策问式选才]] - recruitment channel through which Hanji 248 introduces Dong's state-facing argument.
 - [[HanFei|韩非]] - Legalist comparator whose hierarchy is treated by Hanji 392-4 as absorbed into official Confucianism.
 - [[MandateOfHeavenLegitimacy]] - legitimacy field that Dong Zhongshu helps make readable through Heaven-response reasoning.
 - [[AuspiciousOmenPolitics]] - political-sign system adjacent to Dong Zhongshu's omen afterlife.
