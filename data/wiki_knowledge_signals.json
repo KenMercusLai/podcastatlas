@@ -36841,6 +36841,36 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/chanzuckerberginitiative/"
     },
+    "ChancellorCenteredGovernance": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？ [lj6wi61OsaYTowgMdp8dTKRwB-si].md",
+          "key": "zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战 [lrYHzkc1_xsVFjhvIcU8yxA9d2jr].md",
+          "key": "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
+        },
+        {
+          "episode_file": "lpOR4-tU5O02Vkbwd58E2Tgl3Rp- [lpOR4-tU5O02Vkbwd58E2Tgl3Rp-].md",
+          "key": "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp",
+          "show": "怪东西Weird History",
+          "title": "16 东西方的宰相",
+          "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/chancellorcenteredgovernance/"
+    },
     "ChangHuiWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -172175,9 +172205,9 @@
       "url": "/wiki/concepts/nomadicimperialformation/"
     },
     "NominalOfficePracticalPowerMismatch": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
@@ -172185,9 +172215,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        },
+        {
+          "episode_file": "lpOR4-tU5O02Vkbwd58E2Tgl3Rp- [lpOR4-tU5O02Vkbwd58E2Tgl3Rp-].md",
+          "key": "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp",
+          "show": "怪东西Weird History",
+          "title": "16 东西方的宰相",
+          "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/nominalofficepracticalpowermismatch/"
     },
     "NominalSubmissionLocalAutonomy": {
@@ -177962,9 +177999,9 @@
       "url": "/wiki/entities/ottothegreat/"
     },
     "OttoVonBismarck": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8045984312 [GLT8045984312].md",
@@ -177979,9 +178016,16 @@
           "show": "The Rest Is History",
           "title": "31. The Second Reich",
           "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
+        },
+        {
+          "episode_file": "lpOR4-tU5O02Vkbwd58E2Tgl3Rp- [lpOR4-tU5O02Vkbwd58E2Tgl3Rp-].md",
+          "key": "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp",
+          "show": "怪东西Weird History",
+          "title": "16 东西方的宰相",
+          "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/ottovonbismarck/"
     },
     "OttomanEmpire": {
@@ -204639,9 +204683,9 @@
       "url": "/wiki/entities/robertthemagnificent/"
     },
     "RobertWalpole": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7608869237 [GLT7608869237].md",
@@ -204649,9 +204693,16 @@
           "show": "The Rest Is History",
           "title": "193. How Prime Ministers Fall",
           "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        },
+        {
+          "episode_file": "lpOR4-tU5O02Vkbwd58E2Tgl3Rp- [lpOR4-tU5O02Vkbwd58E2Tgl3Rp-].md",
+          "key": "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp",
+          "show": "怪东西Weird History",
+          "title": "16 东西方的宰相",
+          "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/robertwalpole/"
     },
     "RobertoRidolfi": {
@@ -250441,9 +250492,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -250577,6 +250628,13 @@
           "show": "怪东西Weird History",
           "title": "18 东西方的人相食",
           "url": "/wiki/sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp/"
+        },
+        {
+          "episode_file": "lpOR4-tU5O02Vkbwd58E2Tgl3Rp- [lpOR4-tU5O02Vkbwd58E2Tgl3Rp-].md",
+          "key": "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp",
+          "show": "怪东西Weird History",
+          "title": "16 东西方的宰相",
+          "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
         }
       ],
       "updated": "2026-10-09",

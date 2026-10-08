@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [16 东西方的宰相](sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp.md) — 怪东西以决策参与、官僚统领、资源控制与责任关系比较中外宰相和政府首脑，说明职衔与译名不能替代对制度实权的考察。
 - [17 东西方的长城](sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp.md) — 怪东西以中国、罗马、丹麦、朝鲜和波斯长距离防线说明长城是兼具预警、通行、税收、定居、交流与象征功能的边疆系统，并追踪烽火戏诸侯和孟姜女传说的层累形成。
 - [18 东西方的人相食](sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp.md) — 怪东西区分生存、战争、丧葬、复仇、医疗、孝道、殖民标签与文学隐喻中的食人，并揭示绝境牺牲如何受等级、种族、性别和程序权力塑造。
 - [19 张向荣、陆大鹏：两位80后作家年少时读过的好书](sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs.md) — 怪东西从图书馆、报刊、漫画、科普和旧书收藏追踪80后童年阅读生态，并连接翻译、投稿、评论、原创写作与先行动再拆解问题的实践路径。

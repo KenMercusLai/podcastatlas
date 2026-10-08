@@ -32741,3 +32741,11 @@ Added source `17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp`; created
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 16 东西方的宰相
+
+Added source `16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp`; migrated and resynthesized [[ChancellorCenteredGovernance|宰相中心治理]]; and resynthesized [[NominalOfficePracticalPowerMismatch|名位—实权错位]], [[RobertWalpole]], [[OttoVonBismarck]], and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: identify chief ministers and government heads through decision participation, bureaucratic supervision, usable resources, and accountability rather than title or translation alone; secretarial access, collegial division, federal structure, and parliamentary support can all separate nominal rank from practical power. No settled contradiction was adopted. Cross-regional comparison does not establish institutional equivalence, and office definitions, etymologies, dates, translations, formal powers, and biographical anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,099 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

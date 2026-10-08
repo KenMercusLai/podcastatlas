@@ -2,28 +2,59 @@
 title: "Chancellor-Centered Governance / 宰相中心治理"
 type: concept
 tags: [governance, court-politics, historiography, song-dynasty, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
-last_updated: 2026-08-19
+sources:
+  - zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si
+  - zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr
+  - 16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp
+last_updated: 2026-10-09
+knowledge_schema: synthesis-v1
 ---
 
-# Chancellor-Centered Governance / 宰相中心治理
+## Definition
 
-Chancellor-centered governance / 宰相中心治理 is the interpretive frame [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] attaches to [[SimaGuang|司马光]]'s attention to chancellor notices. The episode says the 353 BCE appointment of [[ZhaoXixu|昭奚恤]] as [[ChuState|楚国]] chancellor matters partly because Song scholar-officials often imagined state affairs as something the emperor and士大夫 should govern together.
+Chancellor-centered governance / 宰相中心治理 is the interpretive frame that treats chief ministers as practical operators linking sovereign choice to policy coordination, bureaucratic supervision, and execution.
 
-The concept does not claim that pre-Qin Chu actually operated like a Song constitutional ideal. It records the host's historiographical explanation: a compiler and later readers shaped by Northern Song political assumptions may care deeply about who occupies the chancellor role because that office is where character, access, policy, and execution meet.
+## Current Synthesis
 
-[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds a Qin institutional version. In 309 BCE, [[QinWuwang|秦武王]] creates Qin's first formal left/right chancellors, appointing [[Chulizi|樗里疾 / 樗里子]] on the right and [[GanMao|甘茂]] on the left. The office notice matters because the next episode branch immediately turns ministerial rank into campaign politics: Gan Mao must secure the ruler's trust before [[YiyangWarringStates|宜阳]], while Chulizi becomes one of the court actors expected to challenge him.
+A historiographical form of the frame appears in [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr|Zhouji 16]], which attaches [[SimaGuang|司马光]]'s attention to chancellor notices to a Song scholar-official vision of shared government. The 353 BCE appointment of [[ZhaoXixu|昭奚恤]] as [[ChuState|楚国]] chancellor is therefore evidence about the compiler's political lens, not proof that pre-Qin Chu followed a Northern Song constitutional ideal.
+
+The institutional form is visible in [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si|Zhouji 57]]. In 309 BCE, [[QinWuwang|秦武王]] creates left and right chancellors, appointing [[Chulizi|樗里疾 / 樗里子]] and [[GanMao|甘茂]]. The next campaign turns ministerial office into authorization, faction pressure, and ruler-minister trust: Gan Mao must secure a commitment before [[YiyangWarringStates|宜阳]], while Chulizi is expected to challenge him.
+
+The broader functional boundary requires participation in sovereign decision-making and leadership or supervision of officials. [[16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp|Weird History 16]] shows those functions migrating to secretariats, being divided among several ministers, or remaining incomplete under powerful cabinet and council officials. Chancellor-centered analysis is therefore strongest when it follows governing functions rather than assuming that every title translated as 宰相 represents the same office.
 
 ## Key Claims
-- A chancellor notice can be more than personnel trivia when the reader treats ministers as practical operators of government.
-- The episode distinguishes ruler title from state operation: the king may authorize, but ministers often execute and filter.
-- Song literati political ideals can shape which pre-Qin figures later readers notice.
-- The frame helps explain why [[JiangYi|江乙]]'s attack on Zhao Xixu is politically important rather than just anecdotal.
-- Zhouji 57 adds that new chancellor offices can immediately become arenas for military authorization, faction pressure, and ruler-minister trust.
 
-## Connections
-- [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and work being interpreted.
-- [[ZhaoXixu|昭奚恤]], [[JiangYi|江乙]], and [[ChuState|楚国]] - source case.
-- [[CourtFeedbackCollapse]] and [[PoliticalParableWeaponization]] - court-information risks around powerful ministers.
-- [[WarringStatesPeriod|战国时期]] - historical setting being read through the frame.
-- [[QinWuwang|秦武王]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 Qin left/right chancellor and campaign-trust branch.
+- A chancellor notice can be substantive when ministers operate between sovereign authorization and bureaucratic execution.
+- Ruler title and state operation are distinct: a ruler may authorize while ministers interpret, coordinate, execute, and filter.
+- Historiographical assumptions about ruler-minister partnership can shape which appointments a compiler emphasizes.
+- A chief-minister office can become an arena for military authorization, faction pressure, and ruler-minister trust immediately after its creation.
+- Chancellor-centered analysis should follow decision and supervisory functions when an old title becomes honorific or chief-ministerial work moves elsewhere.
+- The frame is interpretive rather than proof that every polity possessed one stable, formally complete chancellorship.
+
+## Evidence
+
+Historiographical attention:
+- [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr|Zhouji 16]] connects Sima Guang's interest in Zhao Xixu's appointment to a Song scholar-official ideal of shared governance.
+
+Institutional operation:
+- [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si|Zhouji 57]] links Qin's new left-right chancellorship to Gan Mao's campaign mandate, anticipated court opposition, and oath-backed ruler trust.
+
+Functional boundary:
+- [[16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp|Weird History 16]] distinguishes full chief-ministerial function from favor, prestige, or isolated influence by requiring both high-level deliberation and bureaucratic leadership or supervision.
+
+## Counterevidence & Qualifications
+
+The three popular-history episodes do not reconstruct all pre-Qin or imperial chancellor powers, prove that Qin and Chu offices were equivalent, or show that Song political assumptions accurately describe Warring States government. The newer source's two-power definition is an attributed analytical tool rather than a universally accepted classification. Appointment notices can reflect compiler interest, later terminology, or compressed source transmission. The concept should not be used to infer a modern cabinet, a single chief executive, or complete administrative control from the word 相 alone.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 and added a functional boundary for identifying chief-ministerial government.
+- Clarified that chancellor-centered analysis follows decision and supervisory work rather than title alone.
+
+## Related Concepts
+
+- [[NominalOfficePracticalPowerMismatch]] - tests whether a chief-minister title carries actual decision, supervisory, and administrative power.
+- [[CourtFeedbackCollapse]] - describes information failure around rulers and powerful ministers.
+- [[PoliticalParableWeaponization]] - explains how Jiang Yi's apparently general stories operate as attacks on Zhao Xixu.
+- [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - links Gan Mao's formal role to a commitment mechanism for the Yiyang campaign.
+- [[PowerCenterProximityAdvantage]] - adjacent mechanism through which access can rival or exceed formal rank.

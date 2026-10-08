@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2627
+topic_total_pages: 2628
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5265,6 +5265,9 @@ topic_sources:
   - key: "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203"
     title: "159. Young Putin, the KGB and the Soviet Union"
     url: "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+  - key: "16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp"
+    title: "16 东西方的宰相"
+    url: "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
   - key: "16-pompeii-glt3349011345"
     title: "16. Pompeii"
     url: "/wiki/sources/16-pompeii-glt3349011345/"
