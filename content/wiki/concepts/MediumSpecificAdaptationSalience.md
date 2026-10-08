@@ -7,7 +7,8 @@ sources:
   - 106-liuyi-teji-hali-bote-yu-mofashi-ningyuan-xiangxin-ziji-shige-magua-ye-buyuan-xiangxin-zhe-shijie-meimofa-lv8apy7jn8z0kzaj9402n7tn0hdw
   - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
-last_updated: 2026-10-07
+  - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The 《射雕英雄传》 survey extends the framework from one novel-film pair 
 
 The chronological adaptation survey adds camera movement, landscape, light, slow motion, songs, costume, and rebroadcast memory. These devices can create an autonomous cinematic object, as in the discussion of 《东邪西毒》, or make a television version culturally durable through recurring music and performance. The same medium features also enter reception: what viewers repeatedly hear and see can become their default image of a literary character.
 
+The [[BiaoRenComic|《镖人》]] discussion extends the framework from prose-to-screen transfer to comic-to-animation and comic-to-film. Comic readers control pause, rereading, and the speed of terse dialogue; animation fixes duration and requires dialogue to be audibly performed. A line that feels compressed and forceful on the page can therefore feel prolonged or mannered when reproduced mechanically. Film action creates a parallel translation problem: extended exchange may be clear and impressive while still changing the comic's abrupt, lethal rhythm.
+
 ## Key Claims
 
 - Information density lets prose hide a meaningful name or clue without announcing its importance.
@@ -34,8 +37,8 @@ The chronological adaptation survey adds camera movement, landscape, light, slow
 - Interior speech must be externalized, visualized, or omitted if viewers need access to it.
 - A screen adaptation can add a compact visual action that concentrates emotion otherwise accumulated across prose.
 - Removing scenes or changing format duration redistributes character competence, ensemble attention, growth, and thematic emphasis.
-- Visual action can improve pace and spectacle while weakening logic, uncertainty, or limits on the protagonist.
 - Functional fidelity may require formal difference rather than literal reproduction.
+- Reader-controlled timing and fixed audiovisual duration can make identical dialogue produce different rhythm and tone.
 
 ## Evidence
 
@@ -65,9 +68,14 @@ The chronological adaptation survey adds camera movement, landscape, light, slow
 - [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] treats landscape, light, slow motion, action imagery, songs, costume, and camera language as central to how versions work and persist.
 - [[100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk]] shows that repeated broadcast and theme songs can make medium-specific choices part of generational memory.
 
+### Comic timing and audiovisual duration
+
+- [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] argues that the 2023 animation can preserve dialogue and plot yet lose the comic's pace because speech duration is fixed rather than reader-controlled.
+- [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] contrasts the comic's abrupt sword-film action rhythm with the longer visible exchanges expected from a commercial martial-arts feature.
+
 ## Counterevidence & Qualifications
 
-The concept comes from four podcast discussions covering two adaptation corpora and does not establish the filmmakers' documented intentions. Visual media can conceal clues through staging and editing, prose can also overemphasize information, and the hosts' judgments about casting, beauty, age, voice, or version quality are reception evidence rather than neutral measures. The framework describes recurring pressures, not rules that film must favor spectacle, television is inherently superior, or invention, compression, and omission are automatically justified.
+The concept comes from five podcast discussions covering three adaptation corpora and does not establish the filmmakers' documented intentions. Visual media can conceal clues through staging and editing, prose or comics can also overemphasize information, and the hosts' judgments about pacing, casting, beauty, age, voice, or version quality are reception evidence rather than neutral measures. The framework describes recurring pressures, not rules that film must favor spectacle, television is inherently superior, animation must shorten dialogue, or invention, compression, and omission are automatically justified.
 
 ## What Changed
 
@@ -75,6 +83,7 @@ The concept comes from four podcast discussions covering two adaptation corpora 
 - Added actor embodiment and the visualization of martial reasoning to clue, interiority, pacing, and competence transfer.
 - Distinguished television's additional duration from any guarantee of coherent growth or climax.
 - Added audiovisual style, songs, and rebroadcast memory as formal and reception-level adaptation effects.
+- Added reader-controlled comic timing versus fixed animation duration and action-tempo transfer.
 
 ## Related Concepts
 
@@ -86,3 +95,5 @@ The concept comes from four podcast discussions covering two adaptation corpora 
 - [[FunctionalAdaptationFidelity]] - evaluates whether formal changes preserve character and narrative function.
 - [[LegendOfTheCondorHeroes]] - multi-version wuxia case extending the framework across film and television.
 - [[AdaptationReceptionMemory]] - tracks how medium-specific features become generational reference points.
+- [[BiaoRenComic|《镖人》]] - comic case extending the framework to animation timing and film action rhythm.
+- [[TraditionalWuxiaActionCraft]] - neighboring concept for action grammars that can change across media.

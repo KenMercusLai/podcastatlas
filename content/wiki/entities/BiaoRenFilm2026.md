@@ -4,6 +4,7 @@ type: entity
 tags: [film, wuxia, adaptation, action-cinema]
 sources:
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
+  - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -17,6 +18,8 @@ knowledge_schema: synthesis-v1
 The bounded episode places the film between commercial success and incomplete transfer. Its plot remains intelligible, the action has tactical exchange and physical readability, and several performances or visual designs work well enough for viewers unfamiliar with the comic. 地听's rewritten brotherhood motive, 李连杰's stronger 常贵人, the sandstorm mounted-archery sequence, and the final 刀马–地听 fight are treated as functional screen inventions rather than deviations to reject on principle.
 
 The weaker changes remove the causes that made the comic's conflict politically and emotionally dense. The film minimizes imperial violence, 裴世矩, 知世郎's political speech, religious background, and several character histories; accelerates group formation; and reshapes 阿育娅's ending into a more triumphant power claim. It also demonstrates that retaining an event is insufficient when setup, framing, editing, dialogue, or performance no longer deliver its original force, with 老莫's death as the episode's clearest case.
+
+The earlier episode supplies a disciplined pre-release layer rather than evidence about the finished film. Its hosts worried that star casting might override character fit, that extended technique-display could replace the comic's abrupt sword-film lethality, and that commercial expansion could dilute terse narrative rhythm. The later review partly confirms the broader compression risk but revises the expectation that action would be the main weakness: action becomes the completed film's strongest shared success.
 
 ## Key Characteristics
 
@@ -40,14 +43,20 @@ The weaker changes remove the causes that made the comic's conflict politically 
 
 - [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] uses 老莫's death to show how distant framing, reduced preparation, early emotional release, and limited reaction progression can flatten a powerful event.
 
+### Pre-release expectations and later evidence
+
+- [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] records uncertainty about casting, story adaptation, commercial expansion, and whether long-form choreography would fit the comic's lethal brevity.
+- [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] subsequently treats action as the film's clearest strength while locating larger losses in politics, ensemble causality, and emotional setup.
+
 ## Qualifications
 
-The hosts disagree substantially on the overall score and recommendation, and their account assumes detailed familiarity with the comic. Claims about censorship, investor caution, deleted footage, creator intent, or an ideal longer runtime are speculative. Performance judgments and rankings are subjective, while the supplied source does not independently verify production history.
+The hosts disagree substantially on the overall score and recommendation, and their post-release account assumes detailed familiarity with the comic. The earlier episode's predictions are not observations of the completed film. Claims about censorship, investor caution, deleted footage, creator intent, or an ideal longer runtime are speculative. Performance judgments and rankings are subjective, while neither source independently verifies production history.
 
 ## What Changed
 
 - Established the film as a qualified commercial success whose action transfers better than its politics and ensemble depth.
 - Distinguished coherent character rewriting from compression that damages motive, causality, or emotional force.
+- Added the pre-release expectation layer and separated predictions from later evidence, including the revision on action quality.
 
 ## Relationships
 

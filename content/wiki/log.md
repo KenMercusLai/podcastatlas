@@ -32529,3 +32529,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 095 春节档上映？深入解析《镖人》原著：最好的武侠漫
+
+Added source `095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy`; created [[XuXianzhe|许先哲]]; and resynthesized [[BiaoRenComic|《镖人》]], [[BiaoRenFilm2026|《镖人：风起大漠》]], [[YuenWooPing|袁和平]], [[ConsequenceSensitiveChivalry|后果敏感的侠义]], [[MediumSpecificAdaptationSalience|媒介特定的改编显著性]], and [[TraditionalWuxiaActionCraft|传统武侠动作设计]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 刀马的侠义由违背短期利益的救助、弃赏、安置家属与承担追捕来显现；漫画把隋史、游侠传统、西部赏金结构与剑戟片节奏结合，而动画逐句照搬会因固定对白时长改变读者控制的漫画节奏。No settled contradiction was adopted. The pre-release worry that extended action might weaken source-style fit remains distinct from the later episode's evidence that the completed film's readable action is its strongest shared success. Historical, institutional, creator-influence, casting, animation, and production claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,071 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

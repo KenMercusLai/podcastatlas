@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [095 春节档上映？深入解析《镖人》原著：最好的武侠漫](sources/095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy.md) — 纸醉金迷FM从隋末大漠、赏金猎人结构、刀马的行为侠义、漫画叙事节奏及动画和电影的媒介差异解析《镖人》。
 - [《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外](sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9.md) — 匈奴逼近京畿时，周亚夫以细柳营的入营、驰行与军礼规则维护战备指挥权，文帝接受约束并识别其为真将军；后续旱蝗救济则以减贡、开放资源、减宫用和发仓赈民降低危机负担。
 - [37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽](sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm.md) — 怪东西以麦伊斯基与冯嫽对照本地知识、人际网络、国家支持与外交中介的个人风险。
 - [39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题](sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk.md) — 怪东西以马林切与马戛尔尼使团对照殖民和外交翻译，说明多层转译既能建立联盟与维持礼仪，也会重写臣服、朝贡、礼物和主权。
@@ -4140,6 +4141,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [许先哲 / Xu Xianzhe](entities/XuXianzhe.md) — 《镖人》漫画作者，当前资料聚焦其历史研究、类型融合、叙事压缩与视觉风格。
 - [伊万·麦伊斯基 / Ivan Maisky](entities/IvanMaisky.md) — 1932至1943年任苏联驻英大使，以英国政治网络推动集体安全和战时结盟，后遭苏联国内清洗。
 - [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。
 - [李自标 / Li Zibiao](entities/LiZibiao.md) — 以拉丁文、意大利文和中文参与马戛尔尼使团，却受官场语用、技术词汇与政治身份约束的译员。
