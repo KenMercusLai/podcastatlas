@@ -2,22 +2,27 @@
 title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [eastern-han, ritual, frugality, imperial-burial, governance]
+tags: [western-han, eastern-han, ritual, frugality, imperial-burial, governance]
 sources:
   - zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx
   - zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew
   - zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf
   - zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46
+last_updated: 2026-10-08
 ---
 
 ## Definition
 
-[[FrugalImperialBurialRestraint|节俭帝陵约束]] is the pattern in which an emperor's tomb planning, death instructions, admired court exemplars, and postdeath sacrificial arrangements limit later ritual construction, treasure use, tomb-town expansion, and public burden. In the current wiki it is grounded in [[LiuXiu|光武帝刘秀]]'s own low-display tomb planning, [[FanHongEasternHan|樊弘]]'s thin-burial model praised by Liu Xiu, [[EmperorMingOfHan|汉明帝]]'s Shouling construction order, his 75 CE death instructions, and [[LiuCangDongpingKing|刘苍]]'s successful remonstrance to [[EmperorZhangOfHan|汉章帝]].
+[[FrugalImperialBurialRestraint|节俭帝陵约束]] is the pattern in which an emperor's tomb planning, death instructions, mourning rules, admired court exemplars, and postdeath arrangements limit ritual duration, public mobilization, construction, treasure use, and popular burden. Its current evidence spans [[LiuHeng|汉文帝刘恒]] in the Western Han and the later Eastern Han sequence from [[LiuXiu|光武帝刘秀]] through [[EmperorMingOfHan|汉明帝]] and [[EmperorZhangOfHan|汉章帝]].
 
 ## Current Synthesis
 
-Hanji 727 now supplies the earliest direct imperial-planning layer. Liu Xiu instructs that his tomb should occupy only a small plot, avoid a raised mound and ornamental pools, focus on drainage, and blend into the surrounding earth and vegetation. The episode reads this as both anti-display and anti-theft restraint, but the durable wiki claim is narrower: Guangwu's own tomb planning limits visible construction and material excess before later court exemplars reinforce the norm.
+Hanji 229 supplies the earliest current imperial case. Liu Heng's will reportedly shortens mourning, refuses broad restrictions on ordinary marriage, sacrifice, food, and drink, limits attendance and ceremonial display, avoids vehicles, troops, and mass popular wailing, preserves Baling's terrain, and releases palace women to their families. Burial restraint here is wider than tomb architecture: it governs time, bodies, labor, household continuity, and the state's demand on society.
+
+The episode ties those death instructions to Liu Heng's earlier refusal of an expensive terrace, plain clothing and furnishings, and ceramic rather than precious-metal grave goods. That supports continuity between lifetime restraint and death policy within this source, although the exact material record and the claim of a uniformly frugal reign require comparison.
+
+Hanji 727 supplies the later direct imperial-planning layer. Liu Xiu instructs that his tomb should occupy only a small plot, avoid a raised mound and ornamental pools, focus on drainage, and blend into the surrounding earth and vegetation. The episode reads this as both anti-display and anti-theft restraint, but the durable wiki claim is narrower: Guangwu's own tomb planning limits visible construction and material excess before later court exemplars reinforce the norm.
 
 Hanji 728 adds an antecedent court-exemplar layer. Fan Hong is not an emperor, but his deathbed will asks for thin burial, no grave goods, and a specified joint-burial arrangement with his wife. Liu Xiu praises the will before officials and says his own death should be handled the same way. This makes burial restraint a norm that can move between imperial planning and admired ministerial conduct.
 
@@ -29,16 +34,17 @@ This concept is adjacent to [[ImperialBurialLegitimacy|帝陵合法性]] and [[R
 
 ## Key Claims
 
-- Frugal imperial burial restraint can begin in an emperor's own tomb plan and can also be reinforced by high-status non-imperial exemplars.
-- Public praise of a thin-burial will can turn private death arrangements into court-facing governance norms.
-- Frugal imperial burial restraint can begin at tomb-planning time, not only in a ruler's deathbed will.
-- Mingdi's Shouling order limits construction, offerings, staffing, and unauthorized expansion through explicit rules.
-- Mingdi's later death instructions extend the same pattern by limiting temple, wall, treasure, mound, and display practices.
+- Frugal imperial burial restraint can regulate mourning time, ordinary social life, ceremonial mobilization, grave goods, and tomb form together.
+- The current pattern crosses Western and Eastern Han rather than belonging only to one court sequence.
+- Restraint can begin in an emperor's own tomb plan, while public praise of a high-status non-imperial exemplar can turn private death arrangements into court-facing norms.
+- Mingdi's Shouling order and later death instructions limit construction, offerings, staffing, temples, walls, treasure, mound display, and unauthorized expansion through explicit rules.
 - Liu Cang's remonstrance shows that burial frugality can be invoked after succession as a governance argument against wasting resources and disturbing common people.
-- The pattern is compatible with ritual order; it limits excess rather than rejecting ceremony.
+- The pattern is compatible with ritual order; it limits duration and excess rather than rejecting ceremony.
 
 ## Evidence
 
+- Wen-era mourning and mobilization restraint: [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] reports shortened mourning, relaxed ordinary-life prohibitions, limited wailing attendance, and avoidance of vehicles, troops, and mass public disruption.
+- Wen-era burial and household restraint: [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] reports unchanged Baling terrain, ceramic grave goods, and the return of palace women to their families.
 - Guangwu tomb plan: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] records Liu Xiu planning a small, low, drainage-focused tomb without raised mound, pools, or display.
 - Anti-display reading: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says the tomb should blend with earth and vegetation, making imperial burial restraint visible before the later Fan Hong and Mingdi layers.
 - Ministerial exemplar: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] records Fan Hong's will calling for thin burial, no grave goods, and a specified joint-burial arrangement.
@@ -51,18 +57,19 @@ This concept is adjacent to [[ImperialBurialLegitimacy|帝陵合法性]] and [[R
 
 ## Counterevidence & Qualifications
 
-Hanji 727 records Liu Xiu's tomb-planning intention and the host's anti-theft reading, but it does not prove the final archaeological execution of Guangwu's burial. Hanji 728's Fan Hong case is a model praised by Liu Xiu, not an imperial tomb order in itself. The strongest later imperial-instruction evidence still comes from Mingdi's Shouling order and death instructions. The source notes do not prove the full archaeological condition of Xianjie Ling or Shouling; they record the narrative-political meaning of the arrangements. Frugality is not anti-ritual. [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]] shows Mingdi also associated with filial ritual precedent, so this concept should be read as bounded ceremony rather than ritual negation. The concept should not absorb every tomb dispute; [[ImperialBurialLegitimacy|帝陵合法性]] remains the better page for burial-status recognition problems.
+Hanji 229 records a podcast rendering of Liu Heng's will and retrospective character evidence; it does not independently prove exact wording, dates, mourning implementation, Baling's final archaeology, or a uniformly restrained reign. Hanji 727 records Liu Xiu's tomb-planning intention and the host's anti-theft reading, but it does not prove final archaeological execution. Hanji 728's Fan Hong case is a model praised by Liu Xiu, not an imperial tomb order in itself. The strongest later enforcement evidence comes from Mingdi's Shouling order, death instructions, and Liu Cang's successful remonstrance. Frugality is not anti-ritual: [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]] associates Mingdi with filial ritual precedent, so the concept means bounded ceremony rather than ritual negation. [[ImperialBurialLegitimacy|帝陵合法性]] remains the better page for burial-status recognition disputes.
 
 ## What Changed
 
-- Added Hanji 727's Liu Xiu tomb-planning instructions as the earliest direct imperial-restraint layer.
-- Preserved Hanji 728's Fan Hong thin-burial will as a ministerial exemplar that Liu Xiu publicly praises and says he wants to imitate.
-- Reframed frugal imperial burial restraint as a norm that can move between imperial planning, court exemplar, and successor policy.
-- Preserved Mingdi's Shouling order, death instructions, and Liu Cang remonstrance as the strongest later imperial-rule evidence.
+- Extended the concept from an Eastern Han sequence to a Western-and-Eastern Han pattern.
+- Added Liu Heng's regulation of mourning time, ordinary life, public attendance, military display, grave goods, and palace households.
+- Reframed burial restraint as a governance limit on social disruption as well as tomb expenditure.
+- Preserved the later Guangwu, Fan Hong, Mingdi, and Liu Cang layers as planning, exemplar, enforcement, and successor-restraint evidence.
 
 ## Related Concepts
 
 - [[LiuXiu|光武帝刘秀]] - emperor whose own tomb plan and later praise of Fan Hong anchor the earliest restraint layers.
+- [[LiuHeng|汉文帝刘恒]] - Western Han emperor whose will supplies the earliest current case and broadens restraint beyond tomb construction.
 - [[FanHongEasternHan|樊弘]] - non-imperial exemplar whose thin-burial will Liu Xiu praises.
 - [[HighStatusCautionSelfProtection|高位谨慎自保]] - overlapping restraint pattern around status, display, and death arrangements.
 - [[ImperialBurialLegitimacy]] - distinguishes frugal construction restraint from burial-status recognition disputes.

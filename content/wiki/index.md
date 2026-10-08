@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？](sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46.md) — 文帝病逝后的遗诏以短丧、薄葬、限动员和不扰民延续其节俭政风；与文景之治的因果、细节和中断的长沙王纪事保留来源边界。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj.md) — 景帝酒后许诺刘武继位，被窦婴以父子相传之制当场制止；刘贤之死、棺柩往返、不朝与使者被扣又补出刘濞由丧子受辱到暂获文帝安抚的早期怨恨链。
 - [音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者](sources/yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov.md) — 张玮玮以白银厂矿生活、野孩子与北京独立音乐现场、作品成名、父亲去世和电子转向串起九十年代社会变迁与中年创作重建。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr.md) — 刘遂在郦寄、栾布合军灌邯郸后自杀；公孙爵经刘武为刘志申辩，使战后处置呈现惩罚、赦免、改封、复国与削地并用，姓名、程序和封地数字保留来源边界。
@@ -9758,7 +9759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, later Emperor Wen, installed after the post-Lu transition and later shown honoring Xu Fu.
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋和遗诏中的短丧薄葬限制公共负担，同时保留邓通厚宠这一资格条件。
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -20605,7 +20606,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Memory Severance / 王朝记忆切割](concepts/DynasticMemorySeverance.md) — Hanji 646 concept for using titles, temples, clothing, calendars, burial space, and shrine hierarchy to detach a figure from a predecessor dynasty's memory.
 - [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
 - [Predetermined Meeting Process / 既定结果会议程序](concepts/PredeterminedMeetingProcess.md) — Hanji 900 pattern where formal deliberation can ratify a decision already shaped by authority, factional bargaining, and prior communication.
-- [节俭帝陵约束 / Frugal Imperial Burial Restraint](concepts/FrugalImperialBurialRestraint.md) — Eastern Han burial-restraint pattern where Liu Xiu's tomb planning, Fan Hong's model, Mingdi's Shouling rules, frugal death instructions, and tomb limits constrain display and public burden.
+- [节俭帝陵约束 / Frugal Imperial Burial Restraint](concepts/FrugalImperialBurialRestraint.md) — 跨西、东汉的丧葬约束模式，以短丧、薄葬、限动员、低展示陵制和继位后节用限制公共负担。
 - [Imperial Burial Legitimacy / 帝后合葬名分](concepts/ImperialBurialLegitimacy.md) — Hanji 901 pattern where tomb placement, co-sacrifice, and posthumous title decide whether a deceased empress dowager remains inside official role order.
 - [Strategic Emotion Concealment / 情绪不外露的战略纪律](concepts/StrategicEmotionConcealment.md) — Discipline of separating internal feeling from external behavior so anger, fear, pride, resentment, or panic do not expose intention, timing, duty, or command stability; now includes Zhang Huan's public calm in camp panic.
 - [Anonymous Remonstrance Suppression / 匿名进谏压制](concepts/AnonymousRemonstranceSuppression.md) — Late-Han pattern where an anonymous corrective accusation is answered by hunting the speaker and punishing restrained investigation rather than repairing the accused abuses.
@@ -20983,7 +20984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [关中豪强迁徙 / Guanzhong Elite Relocation](concepts/GuanzhongEliteRelocation.md) — Western Han policy of moving powerful eastern households into the capital region for defense, population concentration, and elite control, later extended through mausoleum counties.
 - [刑讯守口式申冤 / Torture-Resistant Exoneration](concepts/TortureResistantExoneration.md) — Guan Gao pattern where survival under torture becomes truthful testimony that clears Zhang Ao rather than coerced implication.
 - [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Agrarian status-policy pattern that lowers merchants despite commerce's exchange function and can push wealth-seeking toward official access.
-- [Wen-Jing Prosperity Tradeoff / 文景之治的繁荣代价](concepts/WenJingProsperityTradeoff.md) — Western Han recovery pattern in which household and state abundance coexists with land concentration, local strongmen, political access, and elite luxury.
+- [Wen-Jing Prosperity Tradeoff / 文景之治的繁荣代价](concepts/WenJingProsperityTradeoff.md) — 文帝节俭轻负与景帝延续所形成的恢复路径，最终使家庭、国家丰裕与土地集中、豪强、政治通道及精英奢侈并存。
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
 - [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — ruling-house marriage and old-relation diplomacy used or attempted as bounded frontier restraint, including Wang Zhaojun's favorable-moment marriage case.

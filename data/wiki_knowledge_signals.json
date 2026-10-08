@@ -88657,9 +88657,9 @@
       "url": "/wiki/entities/frostsullivan/"
     },
     "FrugalImperialBurialRestraint": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
@@ -88688,9 +88688,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？ [llbjCYtWkNUQimVDTFdlUlE4BD46].md",
+          "key": "zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/frugalimperialburialrestraint/"
     },
     "FrustrationToleranceLearningSpace": {
@@ -141694,6 +141701,50 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/liuhehaihunhou/"
+    },
+    "LiuHeng": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖 [lr0h-kfEGUvATatTnJ--MZ8fgVnC].md",
+          "key": "zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？ [llbjCYtWkNUQimVDTFdlUlE4BD46].md",
+          "key": "zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liuheng/"
     },
     "LiuHongQiKingWesternHan": {
       "episode_count": 1,
@@ -246913,9 +246964,9 @@
       "url": "/wiki/entities/wenchoulatehan/"
     },
     "WenJingProsperityTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝 [li5x4mKncDcOxb_xACyNJH1WC__k].md",
@@ -246923,6 +246974,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝",
           "url": "/wiki/sources/zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？ [llbjCYtWkNUQimVDTFdlUlE4BD46].md",
+          "key": "zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46/"
         }
       ],
       "updated": "2026-10-08",
