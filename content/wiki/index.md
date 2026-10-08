@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr.md) — 刘遂在郦寄、栾布合军灌邯郸后自杀；公孙爵经刘武为刘志申辩，使战后处置呈现惩罚、赦免、改封、复国与削地并用，姓名、程序和封地数字保留来源边界。
 - [《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”](sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef.md) — 刘濞因内部猜疑和资历偏见否决两套战略，周丘借符节与地方关系短暂扩军；吴楚崩溃后，刘濞又因盟友利益重估被诱杀，日期、姓名与“东海王”称谓保留来源边界。
 - [《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌](sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq.md) — 晁错削藩与危机处置使诸侯怨恨和朝廷阻力集中于一身；袁盎以诛晁错、赦吴楚、还削地反击，景帝将其作为政治牺牲，但后续并未因此止战。
 - [《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？](sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr.md) — 晁错之死未使刘濞退兵；周亚夫绕开伏击、让梁国牵制吴楚、切断粮道并顶住救援压力，以坚守和追击完成平叛，具体军令、路线与战场细节保留来源边界。
@@ -4118,6 +4119,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [赵王刘遂 / Liu Sui, King of Zhao (Western Han)](entities/LiuSuiZhaoKingWesternHan.md) — 七国之乱尾声退守邯郸，城墙在汉军引水攻城后崩塌并自杀的赵王。
+- [郦寄 / Li Ji (Western Han)](entities/LiJiWesternHan.md) — 吕氏危机中参与北军权力转移、七国之乱时长期围攻邯郸并与栾布合军的西汉将领。
+- [公孙爵 / Gongsun Jue (Western Han)](entities/GongsunJueWesternHan.md) — 以济北坚守、拖延吴军及忠王信心为由说服梁王替刘志求情的齐人说客。
+- [济北王刘志 / Liu Zhi, King of Jibei (Western Han)](entities/LiuZhiJibeiKingWesternHan.md) — 七国之乱后经公孙爵与梁王申辩免于连坐、改封淄川的诸侯王。
 - [田禄伯 / Tian Lubo (Western Han)](entities/TianLuboWesternHan.md) — 七国之乱中请求率五万人经长沙、淮南与武关另开战场，却因委兵可能引发背叛的疑虑而未获采纳的吴方将领。
 - [周丘 / Zhou Qiu (Western Han)](entities/ZhouQiuWesternHan.md) — 被刘濞轻视却借一枚符节、地方关系与强制手段迅速夺取下邳扩军，最终又随吴方主局崩溃而失去依托的门客。
 - [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 推动削藩、忠于中央却在权力边界、危机优先级与同僚支持上失去保护，最终被景帝作为政治牺牲处死的西汉官员。

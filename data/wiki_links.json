@@ -35451,6 +35451,10 @@
     "title": "公孙敬声 / Gongsun Jingsheng (Western Han)",
     "url": "/wiki/entities/gongsunjingshengwesternhan/"
   },
+  "GongsunJueWesternHan": {
+    "title": "公孙爵 / Gongsun Jue (Western Han)",
+    "url": "/wiki/entities/gongsunjuewesternhan/"
+  },
   "GongsunKangLateHan": {
     "title": "公孙康 / Gongsun Kang (late Han)",
     "url": "/wiki/entities/gongsunkanglatehan/"
@@ -49171,6 +49175,10 @@
     "title": "李寄斩蛇 / Li Ji Slays the Snake",
     "url": "/wiki/entities/lijislayssnake/"
   },
+  "LiJiWesternHan": {
+    "title": "郦寄 / Li Ji (Western Han)",
+    "url": "/wiki/entities/lijiwesternhan/"
+  },
   "LiJiajia": {
     "title": "李嘉佳 / Li Jiajia",
     "url": "/wiki/entities/lijiajia/"
@@ -50743,6 +50751,10 @@
     "title": "刘绥 / Liu Sui (Sishui seal)",
     "url": "/wiki/entities/liusuisishuiseal/"
   },
+  "LiuSuiZhaoKingWesternHan": {
+    "title": "赵王刘遂 / Liu Sui, King of Zhao (Western Han)",
+    "url": "/wiki/entities/liusuizhaokingwesternhan/"
+  },
   "LiuTaigong": {
     "title": "刘太公 / Liu Taigong",
     "url": "/wiki/entities/liutaigong/"
@@ -50994,6 +51006,10 @@
   "LiuZhiChangchengEasternHan": {
     "title": "刘植 / Liu Zhi (Changcheng Eastern Han)",
     "url": "/wiki/entities/liuzhichangchengeasternhan/"
+  },
+  "LiuZhiJibeiKingWesternHan": {
+    "title": "济北王刘志 / Liu Zhi, King of Jibei (Western Han)",
+    "url": "/wiki/entities/liuzhijibeikingwesternhan/"
   },
   "LiuZhiTaiyuanLateHan": {
     "title": "刘质 / Liu Zhi (Taiyuan late Han)",
@@ -102186,6 +102202,10 @@
   "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp": {
     "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp/"
+  },
+  "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr": {
+    "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
   },
   "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf": {
     "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）",

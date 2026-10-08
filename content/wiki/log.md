@@ -32355,3 +32355,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）
+
+Added source `zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr`; created [[LiuSuiZhaoKingWesternHan|赵王刘遂]], [[LiJiWesternHan|郦寄]], [[GongsunJueWesternHan|公孙爵]], and [[LiuZhiJibeiKingWesternHan|济北王刘志]]; and resynthesized [[RebellionOfTheSevenStatesWesternHan|七国之乱]], [[PostRebellionAccountability|叛乱平定后的追责]], and [[WeiWanWesternHan|魏绾]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the fall of Handan completes the current military sequence, while the aftermath is not uniform vengeance—Qi is treated as coerced, Jibei's resistance and delaying effect support clemency, Chu can be restored while Wu is abolished, and pardon, reassignment, new grants, and smaller kingdoms reshape princely power. No settled contradiction was adopted. The exact form of 公孙爵, the source's 魏婉 transcription, siege and river-engineering details, speeches, counterfactuals, appointment causes, amnesty terms, restoration decisions, grant map, and county counts remain source-scoped. Broad [[HanJingdi|汉景帝]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[EmpressDowagerDouWesternHan|窦太后]], [[LuanBu|栾布]], and show pages were read for context but kept closed because focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,049 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

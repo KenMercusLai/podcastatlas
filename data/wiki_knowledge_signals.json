@@ -95694,6 +95694,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/gongsunjingshengwesternhan/"
     },
+    "GongsunJueWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/gongsunjuewesternhan/"
+    },
     "GongsunKangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -137383,6 +137399,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lijihistorian/"
     },
+    "LiJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/lijiwesternhan/"
+    },
     "LiJieJAndT": {
       "episode_count": 1,
       "show_count": 1,
@@ -142849,6 +142881,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/liusuisishuiseal/"
     },
+    "LiuSuiZhaoKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liusuizhaokingwesternhan/"
+    },
     "LiuTaigong": {
       "episode_count": 8,
       "show_count": 1,
@@ -144506,6 +144554,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/liuzhichangchengeasternhan/"
+    },
+    "LiuZhiJibeiKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liuzhijibeikingwesternhan/"
     },
     "LiuZhiTaiyuanLateHan": {
       "episode_count": 3,
@@ -186244,9 +186308,9 @@
       "url": "/wiki/concepts/postpracticemotorconsolidation/"
     },
     "PostRebellionAccountability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1） [lqjhb97X2uKi9m2dxWnXQmobbgBP].md",
@@ -186254,6 +186318,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
         }
       ],
       "updated": "2026-10-08",
@@ -195151,9 +195222,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RebellionOfTheSevenStatesWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -195189,6 +195260,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
         }
       ],
       "updated": "2026-10-08",
@@ -246135,9 +246213,9 @@
       "url": "/wiki/entities/weituqiwesternhan/"
     },
     "WeiWanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
@@ -246152,6 +246230,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2） [liSUdlHJT_YAwpyV4i8ChvxL37cR].md",
+          "key": "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr/"
         }
       ],
       "updated": "2026-10-08",

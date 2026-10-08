@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12716
+wiki_total_pages: 12720
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2309,6 +2309,9 @@ wiki_pages:
   - key: "LiuKuanJibeiKingWesternHan"
     title: "济北王刘宽 / Liu Kuan, King of Jibei (Western Han)"
     url: "/wiki/entities/liukuanjibeikingwesternhan/"
+  - key: "LiuZhiJibeiKingWesternHan"
+    title: "济北王刘志 / Liu Zhi, King of Jibei (Western Han)"
+    url: "/wiki/entities/liuzhijibeikingwesternhan/"
   - key: "LiuHuJibeiKingWesternHan"
     title: "济北王刘胡 / Liu Hu, King of Jibei (Western Han)"
     url: "/wiki/entities/liuhujibeikingwesternhan/"
@@ -2459,6 +2462,9 @@ wiki_pages:
   - key: "LiuPengzuZhaoKingWesternHan"
     title: "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)"
     url: "/wiki/entities/liupengzuzhaokingwesternhan/"
+  - key: "LiuSuiZhaoKingWesternHan"
+    title: "赵王刘遂 / Liu Sui, King of Zhao (Western Han)"
+    url: "/wiki/entities/liusuizhaokingwesternhan/"
   - key: "LuChongguoWesternHan"
     title: "路充国 / Lu Chongguo (Western Han envoy)"
     url: "/wiki/entities/luchongguowesternhan/"
@@ -2492,6 +2498,9 @@ wiki_pages:
   - key: "LiShang"
     title: "郦商 / Li Shang"
     url: "/wiki/entities/lishang/"
+  - key: "LiJiWesternHan"
+    title: "郦寄 / Li Ji (Western Han)"
+    url: "/wiki/entities/lijiwesternhan/"
   - key: "LiShiqi"
     title: "郦食其 / Li Shiqi"
     url: "/wiki/entities/lishiqi/"

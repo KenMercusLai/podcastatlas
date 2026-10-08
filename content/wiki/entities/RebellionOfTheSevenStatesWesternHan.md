@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr
   - zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq
   - zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef
+  - zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr
 last_updated: 2026-10-08
 ---
 
@@ -28,15 +29,17 @@ The rebel-side decision and collapse phase further narrows the military account.
 
 The transition from battle to accountability remains equally important. [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp|Hanji 236]] reports an unnamed envoy dying while sustaining [[Linzi|临淄]]'s resistance and shows that victory does not end scrutiny: Qi's covert contact is investigated, while [[LiuAngJiaoxiKingWesternHan|刘昂]]'s “诛晁错” defense fails against evidence of unauthorized mobilization and attacks on nonparticipating neighbors.
 
+[[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr|Hanji 236 part 2]] completes that settlement. [[LiJiWesternHan|郦寄]] and [[LuanBu|栾布]] end [[LiuSuiZhaoKingWesternHan|刘遂]]'s resistance by breaching Handan after a prolonged siege. The court then distinguishes coerced Qi, defended Jibei, restored Chu, abolished Wu, and reassigned royal territories. [[GongsunJueWesternHan|公孙爵]]'s successful defense of [[LiuZhiJibeiKingWesternHan|刘志]] makes strategic conduct and effects part of accountability, while the smaller postwar grants make territorial restructuring part of the victory rather than a separate later policy.
+
 ## Key Characteristics
 
 - Same-surname royal uprising associated in the current evidence with direct territorial reduction under Han Jingdi.
 - Crisis in which an external rebel slogan and internal court resistance make the most visible policy advocate a political sacrifice.
 - Crisis not ended by the execution of Chao Cuo, because Liu Bi's conduct and claim have moved beyond the stated grievance.
 - Conflict in which rebel-side mistrust and status-filtered advice narrow options while court-side logistics and refusal of immediate battle break the Wu-Chu force.
-- Coalition whose declared “诛晁错” purpose does not exhaust the court's judgment of its conduct.
 - Crisis that tests not only open rebels but kingdoms that negotiate, hesitate, or refuse participation.
 - Military victory that creates the coercive conditions for administrative rollback and later territorial fragmentation.
+- Settlement in which punishment, pardon, restoration, reassignment, and abolition vary with conduct, perceived intent, and dynastic policy.
 
 ## Evidence
 
@@ -54,16 +57,18 @@ Failed political concession and open claim:
 
 Postwar accountability:
 - [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp|Hanji 236]] reports investigation of Qi's earlier negotiation and Han Tuidang's rejection of Liu Ang's slogan-based defense before multiple royal deaths.
+- [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr|Hanji 236 part 2]] supplies Zhao's final defeat, Jibei's conduct-based clemency, selective Wu-Chu restoration, amnesty, territorial reassignment, and smaller grants.
 
 ## Qualifications
 
-The page currently rests on five popular-history episode summaries rather than a complete military, legal, or institutional history. The exact reduction measures, coalition membership, chronology, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, proposed rebel routes, Liu Bi's claim and death, Zhou Yafu's command sequence, Liang's costs, Zhou Qiu's mobilization, the Qi siege and negotiation, surrender instruments, legal procedure, family punishments, and the scope of postwar administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes across every kingdom. Hanji 235's impossible “2月30日,” 刘驹／刘居 variation, unnamed “桓,” and “东海王落望” identity remain unresolved. Its workplace analogy does not replace campaign structure, and neither rejected proposal is proven to have been a winning alternative.
+The page currently rests on six popular-history episode summaries rather than a complete military, legal, or institutional history. The exact reduction measures, coalition membership, chronology, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, proposed rebel routes, Liu Bi's claim and death, Zhou Yafu's command sequence, Liang's costs, Zhou Qiu's mobilization, the Qi and Zhao sieges, hydraulic breach, negotiations, surrender instruments, legal procedure, family punishments, pardons, restorations, reassignment, and scope of administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes across every kingdom. Hanji 235's impossible “2月30日,” 刘驹／刘居 variation, unnamed “桓,” and “东海王落望” identity remain unresolved. Its workplace analogy does not replace campaign structure, and neither rejected proposal is proven to have been a winning alternative.
 
 ## What Changed
 
-- Added rebel-side mistrust and status-filtered advice as option-narrowing mechanisms before final defeat.
-- Added Zhou Qiu as evidence that local mobilization capacity could remain real while depending on borrowed authority and the wider Wu cause.
-- Completed the transition from battlefield collapse through Liu Bi's flight and payment-induced killing into Hanji 236's postwar settlement.
+- Completed the military sequence with Zhao's prolonged defense and the hydraulic fall of Handan.
+- Replaced a punishment-only settlement picture with differentiated pardon, restoration, reassignment, and abolition.
+- Added Jibei as evidence that strategic conduct and effects could qualify surface-level implication.
+- Connected the immediate postwar map and smaller grants to the longer rollback of princely power.
 
 ## Relationships
 
@@ -78,6 +83,9 @@ The page currently rests on five popular-history episode summaries rather than a
 - [[LiuWuLiangKingWesternHan|梁孝王刘武]] - loyal prince whose defense supports the court but whose grievance against Zhou survives the war.
 - [[LiuAngJiaoxiKingWesternHan|胶西王刘昂]] - defeated participant whose postwar defense is rejected.
 - [[PostRebellionAccountability|叛乱平定后的追责]] - settlement mechanism that follows battlefield victory.
+- [[LiuSuiZhaoKingWesternHan|赵王刘遂]] - final besieged ruler in the current military sequence.
+- [[LiuZhiJibeiKingWesternHan|济北王刘志]] - implicated prince whose resistance is successfully reclassified as useful to the court.
+- [[GongsunJueWesternHan|公孙爵]] - advocate who turns strategic effect into a clemency argument.
 - [[TuiEnLing|推恩令]] - later fragmentation policy made less risky by the rebellion's defeat and administrative aftermath.
 - [[SocialBaseCollapseVsEliteRebellion|社会根基崩塌与精英叛乱之别]] - analytical framework that uses the Seven States as an elite-led rather than society-wide collapse case.
 - [[StrategicPlanProtectionUnderReliefPressure|救援压力下的战略坚守]] - command problem exposed by the tension between Liang's immediate danger and the logistics plan.

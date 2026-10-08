@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [governance, rebellion, accountability, authorization, postwar-settlement]
 sources:
   - zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp
+  - zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr
 last_updated: 2026-10-08
 ---
 
@@ -18,6 +19,8 @@ The current evidence shows that battlefield victory does not settle responsibili
 
 [[HanTuidangWesternHan|韩颓当]]'s rebuttal supplies the concept's present test: compare declared purpose with available lawful channels, formal authorization, and actual conduct. A slogan can explain how an actor frames rebellion without limiting the state's judgment to that frame. The resulting settlement may include surrender offers, investigation, suicide, execution, family destruction, or institutional reduction; the episode does not establish one uniform legal process across all cases.
 
+Part 2 adds the other side of classification. [[GongsunJueWesternHan|公孙爵]] argues that [[LiuZhiJibeiKingWesternHan|刘志]]'s refusal to surrender and the delay imposed on Wu should outweigh apparent implication; [[LiuWuLiangKingWesternHan|刘武]] carries that case to the emperor, and Liu Zhi is reassigned rather than destroyed. Qi is treated as coerced, Chu is restored while Wu is not, and a wider pardon accompanies smaller royal grants. Accountability therefore includes reintegration and institutional redesign as well as punishment.
+
 ## Key Claims
 
 - Military defeat and political settlement are distinct phases of a rebellion.
@@ -25,6 +28,8 @@ The current evidence shows that battlefield victory does not settle responsibili
 - A declared corrective purpose does not by itself answer whether force was lawfully authorized.
 - Petition opportunities, formal warrants, command instruments, targets, and conduct provide independent tests of a rebel justification.
 - Differentiated cases require attention to evidence and procedure even when the victorious center seeks a broad restoration of authority.
+- Strategic effect can qualify apparent allegiance: resistance, delay, and denial of support may matter even when early communication is ambiguous.
+- Pardon, restoration, reassignment, abolition, and territorial reduction are distinct settlement tools rather than one undifferentiated penalty.
 
 ## Evidence
 
@@ -37,15 +42,18 @@ Declared purpose versus authorization:
 Declared purpose versus conduct:
 - [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp|Hanji 236]] adds the attack on a neighboring kingdom that refused rebellion as evidence that the campaign exceeded its stated corrective purpose.
 
+Conduct-based mitigation and settlement design:
+- [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr|Hanji 236 part 2]] says Jibei's refusal to surrender and coalition-delaying effect support clemency, while Qi, Wu, Chu, and the postwar amnesty receive different treatments.
+
 ## Counterevidence & Qualifications
 
-The current concept rests on a single popular-history episode and describes the victorious court's reasoning rather than an independently reconstructed legal code. It does not establish whether petitioning could realistically have changed policy, whether all participants received equivalent offers or hearings, how confessions and evidence were obtained, or whether family deaths followed one consistent rule. A conduct-based test can improve analysis without proving that the victor's punishment was proportionate or procedurally fair.
+The current concept rests on two parts of one popular-history episode and describes the victorious court's reasoning rather than an independently reconstructed legal code. It does not establish whether petitioning could realistically have changed policy, whether all participants received equivalent offers or hearings, how confessions and evidence were obtained, whether family deaths followed one consistent rule, or how much Gongsun Jue's argument caused Liu Zhi's survival. Conduct-based differentiation can improve analysis without proving that punishment, pardon, or territorial redesign was proportionate or procedurally fair.
 
 ## What Changed
 
-- Established the concept from the Seven States settlement narrative.
-- Separated declared motive from authorization and wartime conduct.
-- Added covert contact and wavering allegiance to the accountability field without equating them automatically with open rebellion.
+- Expanded the concept from punishment into differentiated reintegration and institutional redesign.
+- Added strategic effect as a mitigating test alongside authorization and declared purpose.
+- Distinguished pardon, restoration, reassignment, abolition, and territorial reduction as separate postwar tools.
 
 ## Related Concepts
 
