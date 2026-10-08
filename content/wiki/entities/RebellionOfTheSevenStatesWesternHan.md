@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp
   - zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr
   - zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq
+  - zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef
 last_updated: 2026-10-08
 ---
 
@@ -23,6 +24,8 @@ The current synthesis separates trigger, attempted political concession, operati
 
 [[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] now supplies the campaign mechanism behind the later recap. Killing Chao Cuo does not produce withdrawal; [[LiuBiWuKing|刘濞]] detains the court mission and openly escalates his claim. [[ZhouYafu|周亚夫]] then lets Liang hold the Wu-Chu force, protects his route after [[ZhaoSheAdviserWesternHan|赵涉]] warns of ambush, cuts coalition logistics, and refuses premature battle and relief pressure until hunger and failed assaults make pursuit effective.
 
+The rebel-side decision and collapse phase further narrows the military account. [[TianLuboWesternHan|田禄伯]]'s second-front proposal is rejected through fear of delegated betrayal, while an unnamed young general's rapid strike toward Luoyang is rejected after senior commanders invoke his age. [[ZhouQiuWesternHan|周丘]] nevertheless shows that neglected local capacity can mobilize quickly through borrowed authority and local ties, but his force remains dependent on Liu Bi's wider cause. Once the Wu-Chu army collapses, Liu Bi's flight changes the incentives of a southern ruler, who accepts a court payment and kills him. [[zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef|Hanji 235]]
+
 The transition from battle to accountability remains equally important. [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp|Hanji 236]] reports an unnamed envoy dying while sustaining [[Linzi|临淄]]'s resistance and shows that victory does not end scrutiny: Qi's covert contact is investigated, while [[LiuAngJiaoxiKingWesternHan|刘昂]]'s “诛晁错” defense fails against evidence of unauthorized mobilization and attacks on nonparticipating neighbors.
 
 ## Key Characteristics
@@ -30,7 +33,7 @@ The transition from battle to accountability remains equally important. [[zizhi-
 - Same-surname royal uprising associated in the current evidence with direct territorial reduction under Han Jingdi.
 - Crisis in which an external rebel slogan and internal court resistance make the most visible policy advocate a political sacrifice.
 - Crisis not ended by the execution of Chao Cuo, because Liu Bi's conduct and claim have moved beyond the stated grievance.
-- Conflict in which logistics and refusal of immediate battle are credited with defeating the Wu-Chu force.
+- Conflict in which rebel-side mistrust and status-filtered advice narrow options while court-side logistics and refusal of immediate battle break the Wu-Chu force.
 - Coalition whose declared “诛晁错” purpose does not exhaust the court's judgment of its conduct.
 - Crisis that tests not only open rebels but kingdoms that negotiate, hesitate, or refuse participation.
 - Military victory that creates the coercive conditions for administrative rollback and later territorial fragmentation.
@@ -43,6 +46,7 @@ Trigger and institutional afterlife:
 
 Military defeat and local resistance:
 - [[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] gives Zhou's agreed Liang-and-logistics plan, route change, refusal of immediate relief, supply cutoff, fortified non-battle, and final pursuit after hunger and failed assault.
+- [[zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef|Hanji 235]] gives the rejected second-front and rapid-advance proposals, Zhou Qiu's local mobilization, coalition collapse, Liu Bi's flight, and his payment-induced killing.
 - [[zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp|Hanji 236]] credits Zhou Yafu's supply interdiction, places Liu Bi's death at the end of the three-month campaign, and narrates the defense and relief of Linzi.
 
 Failed political concession and open claim:
@@ -53,15 +57,13 @@ Postwar accountability:
 
 ## Qualifications
 
-The page currently rests on four popular-history episode summaries rather than a complete military, legal, or institutional history. The exact reduction measures, coalition membership, chronology, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, Liu Bi's claim and death, Zhou Yafu's route and command sequence, Liang's costs, the Qi siege and negotiation, surrender instruments, legal procedure, family punishments, and the scope of postwar administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes across every kingdom. Hanji 233's workplace-boundary explanation of Chao's fall does not replace structural causes, and Jingdi's attempted concession does not prove that he expected certain peace. Zhou's refusal of a later relief order is presented as continuity with a previously approved plan, but the complete command record and alternatives are not established.
+The page currently rests on five popular-history episode summaries rather than a complete military, legal, or institutional history. The exact reduction measures, coalition membership, chronology, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, proposed rebel routes, Liu Bi's claim and death, Zhou Yafu's command sequence, Liang's costs, Zhou Qiu's mobilization, the Qi siege and negotiation, surrender instruments, legal procedure, family punishments, and the scope of postwar administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes across every kingdom. Hanji 235's impossible “2月30日,” 刘驹／刘居 variation, unnamed “桓,” and “东海王落望” identity remain unresolved. Its workplace analogy does not replace campaign structure, and neither rejected proposal is proven to have been a winning alternative.
 
 ## What Changed
 
-- Added the internal court mechanism that makes Chao Cuo expendable before the failed concession.
-- Distinguished Jingdi's attempt to remove a rebel pretext and stabilize officials from any demonstrated expectation that execution would end the war.
-- Added the failed post-Chao-Cuo concession and Liu Bi's open rival claim before the campaign.
-- Replaced the compressed military-result notice with the route-security, Liang-fixation, logistics-interdiction, fortified-waiting, and pursuit sequence.
-- Distinguished plan-preserving refusal under relief pressure from unqualified disobedience while preserving Liang's cost and grievance.
+- Added rebel-side mistrust and status-filtered advice as option-narrowing mechanisms before final defeat.
+- Added Zhou Qiu as evidence that local mobilization capacity could remain real while depending on borrowed authority and the wider Wu cause.
+- Completed the transition from battlefield collapse through Liu Bi's flight and payment-induced killing into Hanji 236's postwar settlement.
 
 ## Relationships
 
@@ -70,6 +72,9 @@ The page currently rests on four popular-history episode summaries rather than a
 - [[LiuBiWuKing|吴王刘濞]] - leading royal rebel whose death marks military collapse in the episode.
 - [[ZhouYafu|周亚夫]] - commander credited with supply interdiction rather than immediate decisive battle.
 - [[ZhaoSheAdviserWesternHan|赵涉]] - adviser whose ambush warning changes Zhou's route before the main campaign.
+- [[TianLuboWesternHan|田禄伯]] - rebel commander whose proposed separate theater is rejected before execution.
+- [[ZhouQiuWesternHan|周丘]] - disregarded retainer whose rapid local mobilization does not survive the wider rebel collapse.
+- [[StatusBasedAdviceDismissal|身份资历式建议否决]] - organizational mechanism in the rejection of the unnamed young general's proposal.
 - [[LiuWuLiangKingWesternHan|梁孝王刘武]] - loyal prince whose defense supports the court but whose grievance against Zhou survives the war.
 - [[LiuAngJiaoxiKingWesternHan|胶西王刘昂]] - defeated participant whose postwar defense is rejected.
 - [[PostRebellionAccountability|叛乱平定后的追责]] - settlement mechanism that follows battlefield victory.

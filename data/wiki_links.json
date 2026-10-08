@@ -77595,6 +77595,10 @@
     "title": "Status Anxiety Persuasion / 位阶焦虑式说服",
     "url": "/wiki/concepts/statusanxietypersuasion/"
   },
+  "StatusBasedAdviceDismissal": {
+    "title": "Status-Based Advice Dismissal / 身份资历式建议否决",
+    "url": "/wiki/concepts/statusbasedadvicedismissal/"
+  },
   "StatusCodedEverydayRegulation": {
     "title": "身份编码式日常管制 / Status-Coded Everyday Regulation",
     "url": "/wiki/concepts/statuscodedeverydayregulation/"
@@ -81966,6 +81970,10 @@
   "TianLongBaBu": {
     "title": "《天龙八部》",
     "url": "/wiki/entities/tianlongbabu/"
+  },
+  "TianLuboWesternHan": {
+    "title": "田禄伯 / Tian Lubo (Western Han)",
+    "url": "/wiki/entities/tianlubowesternhan/"
   },
   "TianMingLateHan": {
     "title": "田明 / Tian Ming (late Han)",
@@ -93887,6 +93895,10 @@
     "title": "周琼 / Zhou Qiong",
     "url": "/wiki/entities/zhouqiong/"
   },
+  "ZhouQiuWesternHan": {
+    "title": "周丘 / Zhou Qiu (Western Han)",
+    "url": "/wiki/entities/zhouqiuwesternhan/"
+  },
   "ZhouQunfei": {
     "title": "Zhou Qunfei",
     "url": "/wiki/entities/zhouqunfei/"
@@ -102166,6 +102178,10 @@
   "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr": {
     "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+  },
+  "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef": {
+    "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
   },
   "zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp": {
     "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”](sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef.md) — 刘濞因内部猜疑和资历偏见否决两套战略，周丘借符节与地方关系短暂扩军；吴楚崩溃后，刘濞又因盟友利益重估被诱杀，日期、姓名与“东海王”称谓保留来源边界。
 - [《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌](sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq.md) — 晁错削藩与危机处置使诸侯怨恨和朝廷阻力集中于一身；袁盎以诛晁错、赦吴楚、还削地反击，景帝将其作为政治牺牲，但后续并未因此止战。
 - [《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？](sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr.md) — 晁错之死未使刘濞退兵；周亚夫绕开伏击、让梁国牵制吴楚、切断粮道并顶住救援压力，以坚守和追击完成平叛，具体军令、路线与战场细节保留来源边界。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp.md) — 七国之乱由军事胜利进入清算：齐国密约受查、刘昂的“诛晁错”辩解被无诏无符与攻击拒叛邻国的事实驳回，韩颓当据此执行招降与处置；姓名、谱系及程序细节保留来源边界。
@@ -4117,9 +4118,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [田禄伯 / Tian Lubo (Western Han)](entities/TianLuboWesternHan.md) — 七国之乱中请求率五万人经长沙、淮南与武关另开战场，却因委兵可能引发背叛的疑虑而未获采纳的吴方将领。
+- [周丘 / Zhou Qiu (Western Han)](entities/ZhouQiuWesternHan.md) — 被刘濞轻视却借一枚符节、地方关系与强制手段迅速夺取下邳扩军，最终又随吴方主局崩溃而失去依托的门客。
 - [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 推动削藩、忠于中央却在权力边界、危机优先级与同僚支持上失去保护，最终被景帝作为政治牺牲处死的西汉官员。
 - [赵涉 / Zhao She (Western Han adviser)](entities/ZhaoSheAdviserWesternHan.md) — 预判吴军会在险路设伏、建议周亚夫绕经蓝田与武关并获侦察验证的西汉军事顾问；与赵奢分列。
-- [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；周亚夫以绕伏、牵制、断粮和坚守制胜，战后再转入诸侯追责与中央收权。
+- [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；吴方因猜疑与资历偏见收窄选项，周亚夫以绕伏、牵制、断粮和坚守制胜，刘濞被杀后再转入诸侯追责与中央收权。
 - [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。
 - [韩颓当 / Han Tuidang (Western Han)](entities/HanTuidangWesternHan.md) — 奉诏处置七国之乱败王，并以授权、程序和实际攻击行为驳斥刘昂辩解的西汉将领。
 - [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
@@ -9384,7 +9387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
 - [商山四皓 / Shangshan Sihao](entities/ShangshanSiHao.md) — Four elderly recluses whose public support for Liu Ying makes Liu Bang abandon the final crown-prince replacement attempt.
-- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — 从刘邦平定英布后任命的同姓吴王，发展为拒绝退兵、自称东帝并领导吴楚联军对抗中央的诸侯王。
+- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — 从刘邦平定英布后任命的同姓吴王，发展为拒绝退兵、自称东帝并领导吴楚联军对抗中央，最终败逃并被利益重估后的盟友诱杀的诸侯王。
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
@@ -16885,6 +16888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [Status-Based Advice Dismissal / 身份资历式建议否决](concepts/StatusBasedAdviceDismissal.md) — 以年龄、资历、声誉或圈内地位替代对建议假设、证据、成本与执行条件的实质检验。
 - [Relief Pressure and Strategic Plan Protection / 救援压力下的战略坚守](concepts/StrategicPlanProtectionUnderReliefPressure.md) — 已定战役机制面对盟军求救和上级临时命令时，如何以持续证据、后勤行动和风险控制区分战略坚守与任性抗命。
 - [叛乱平定后的追责 / Post-Rebellion Accountability](concepts/PostRebellionAccountability.md) — 军事胜利后依据密谋、授权、程序与实际行为区分参与并决定投降、惩罚及制度处置的治理过程。
 - [宫廷婚姻—储位联盟 / Palace Marriage-Succession Coalition](concepts/PalaceMarriageSuccessionCoalition.md) — 皇室子女婚配通过成人中介、宫廷接触、继承游说与未来家庭安全预期，重组储位竞争联盟的机制。

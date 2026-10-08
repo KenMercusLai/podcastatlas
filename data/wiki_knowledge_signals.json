@@ -140504,9 +140504,9 @@
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -140521,6 +140521,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则” [lp1wxE_Buqe_ZRIlSFwSFZqoA2ef].md",
+          "key": "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
         }
       ],
       "updated": "2026-10-08",
@@ -195144,9 +195151,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RebellionOfTheSevenStatesWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -195175,6 +195182,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌",
           "url": "/wiki/sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则” [lp1wxE_Buqe_ZRIlSFwSFZqoA2ef].md",
+          "key": "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
         }
       ],
       "updated": "2026-10-08",
@@ -220144,6 +220158,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/statuecommemorationpolitics/"
     },
+    "StatusBasedAdviceDismissal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则” [lp1wxE_Buqe_ZRIlSFwSFZqoA2ef].md",
+          "key": "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/statusbasedadvicedismissal/"
+    },
     "StatusCodedEverydayRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -232036,6 +232066,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/tianlongbabu/"
+    },
+    "TianLuboWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则” [lp1wxE_Buqe_ZRIlSFwSFZqoA2ef].md",
+          "key": "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/tianlubowesternhan/"
     },
     "TianMingLateHan": {
       "episode_count": 1,
@@ -265005,6 +265051,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/zhouqiong/"
+    },
+    "ZhouQiuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则” [lp1wxE_Buqe_ZRIlSFwSFZqoA2ef].md",
+          "key": "zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhouqiuwesternhan/"
     },
     "ZhouRongEasternHan": {
       "episode_count": 1,

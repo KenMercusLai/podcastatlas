@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9926
+wiki_total_pages: 9927
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "StatusSuppressionThenEqualTreatment"
     title: "Status Suppression Then Equal Treatment / 先挫锐气后同等厚待"
     url: "/wiki/concepts/statussuppressionthenequaltreatment/"
+  - key: "StatusBasedAdviceDismissal"
+    title: "Status-Based Advice Dismissal / 身份资历式建议否决"
+    url: "/wiki/concepts/statusbasedadvicedismissal/"
   - key: "StatusConditionedRiskTaking"
     title: "Status-Conditioned Risk Taking / 地位条件化行动尺度"
     url: "/wiki/concepts/statusconditionedrisktaking/"
