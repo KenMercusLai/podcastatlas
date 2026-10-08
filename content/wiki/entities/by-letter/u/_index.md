@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12794
+wiki_total_pages: 12796
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "Uplane"
     title: "Uplane"
     url: "/wiki/entities/uplane/"
+  - key: "UptonSinclair"
+    title: "Upton Sinclair / 厄普顿·辛克莱"
+    url: "/wiki/entities/uptonsinclair/"
   - key: "UrbanDecay"
     title: "Urban Decay"
     url: "/wiki/entities/urbandecay/"

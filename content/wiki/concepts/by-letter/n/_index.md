@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9984
+wiki_total_pages: 9987
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "NaturalDisasterPoliticalOmen"
     title: "Natural Disaster Political Omen / 自然灾害政治征兆"
     url: "/wiki/concepts/naturaldisasterpoliticalomen/"
+  - key: "NaturalFoodSafetyRomanticism"
+    title: "Natural Food Safety Romanticism / 天然食品安全浪漫化"
+    url: "/wiki/concepts/naturalfoodsafetyromanticism/"
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"

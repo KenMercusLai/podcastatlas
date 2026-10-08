@@ -32757,3 +32757,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 14 这样的肉你敢吃吗？东西方的食品安全丑闻。315特别节目
+
+Added source `14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwen-315-tebie-jiemu-lkagyyokjnnfxtovnqpfg4cxsjov`; created [[UptonSinclair|Upton Sinclair]], [[TheJungleNovel|The Jungle / 《屠场》]], [[InvestigativeNarrativeRegulatoryChange|调查叙事推动监管变革]], [[IndustrialFoodSafetyGovernance|工业食品安全治理]], and [[NaturalFoodSafetyRomanticism|天然食品安全浪漫化]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]] from its complete preserved twenty-source inventory before appending the new source once. Core synthesis: industrial production can amplify hidden contamination, but standards, inspection, labeling, cold chains, and accountability are also scalable modern capacities; Sinclair's labor-focused novel helped trigger consumer-safety reform only through public reception, official verification, and political action. No settled contradiction was adopted. Factory details, the seven-week investigation, publication and legislative causation, agency genealogy, biographies, ancient legal rules, and adulteration frequency remain episode-attributed or source-scoped; the rendering-vat death is explicitly retained as fiction, and folklore, satire, and *Water Margin* do not become direct social-history evidence. Broad FDA and general food-law pages were kept closed because the bounded additions are represented in focused source, entity, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,101 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

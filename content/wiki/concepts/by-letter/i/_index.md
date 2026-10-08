@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9984
+wiki_total_pages: 9987
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "IndustrialFirepowerAsymmetry"
     title: "Industrial Firepower Asymmetry"
     url: "/wiki/concepts/industrialfirepowerasymmetry/"
+  - key: "IndustrialFoodSafetyGovernance"
+    title: "Industrial Food Safety Governance / 工业食品安全治理"
+    url: "/wiki/concepts/industrialfoodsafetygovernance/"
   - key: "IndustrialInspectionRobotics"
     title: "Industrial Inspection Robotics"
     url: "/wiki/concepts/industrialinspectionrobotics/"
@@ -974,6 +977,9 @@ wiki_pages:
   - key: "InvestigationConflictOfInterest"
     title: "Investigation Conflict of Interest"
     url: "/wiki/concepts/investigationconflictofinterest/"
+  - key: "InvestigativeNarrativeRegulatoryChange"
+    title: "Investigative Narrative as Regulatory Catalyst / 调查叙事推动监管变革"
+    url: "/wiki/concepts/investigativenarrativeregulatorychange/"
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3216
+topic_total_pages: 3218
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2080,6 +2080,9 @@ topic_concepts:
   - key: "IndirectRegulatoryCoercion"
     title: "Indirect Regulatory Coercion"
     url: "/wiki/concepts/indirectregulatorycoercion/"
+  - key: "IndustrialFoodSafetyGovernance"
+    title: "Industrial Food Safety Governance / 工业食品安全治理"
+    url: "/wiki/concepts/industrialfoodsafetygovernance/"
   - key: "InfantFormulaMarketConcentration"
     title: "Infant Formula Market Concentration"
     url: "/wiki/concepts/infantformulamarketconcentration/"
@@ -2194,6 +2197,9 @@ topic_concepts:
   - key: "InvestigationConflictOfInterest"
     title: "Investigation Conflict of Interest"
     url: "/wiki/concepts/investigationconflictofinterest/"
+  - key: "InvestigativeNarrativeRegulatoryChange"
+    title: "Investigative Narrative as Regulatory Catalyst / 调查叙事推动监管变革"
+    url: "/wiki/concepts/investigativenarrativeregulatorychange/"
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"

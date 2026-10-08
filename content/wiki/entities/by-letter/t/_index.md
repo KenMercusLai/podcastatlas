@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12794
+wiki_total_pages: 12796
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "TheIntelligence"
     title: "The Intelligence"
     url: "/wiki/entities/theintelligence/"
+  - key: "TheJungleNovel"
+    title: "The Jungle / 《屠场》"
+    url: "/wiki/entities/thejunglenovel/"
   - key: "TheKeralaStory"
     title: "The Kerala Story"
     url: "/wiki/entities/thekeralastory/"

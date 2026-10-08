@@ -4168,6 +4168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268.md) — Condensed Huberman Lab interview on stress recovery, threat-versus-challenge appraisal, purposeful difficulty, biological-aging evidence, radical acceptance, uncertainty tolerance, and narrative meaning.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
+- [14 这样的肉你敢吃吗？东西方的食品安全丑闻。315特别节目](sources/14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwen-315-tebie-jiemu-lkagyyokjnnfxtovnqpfg4cxsjov.md) — 怪东西以《屠场》、1906年美国监管改革与中国古代造假案例，说明工业化既放大食品风险，也为检验、标识、物流与追责提供制度基础。
 
 ## Entities
 - [Mary Renault / 玛丽·瑞瑙特](entities/MaryRenault.md) — Historical novelist whose ancient atmosphere and invented interiority make her a case in both historical distance and psychological projection.
@@ -17017,6 +17018,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 - [Reflect Orbital](entities/ReflectOrbital.md) — California startup proposing mirror satellites to extend solar generation while facing scale, astronomy, ecology, and governance constraints.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
+- [Upton Sinclair / 厄普顿·辛克莱](entities/UptonSinclair.md) — American writer whose labor-focused investigative fiction produced an unintended consumer-safety and regulatory impact.
+- [The Jungle / 《屠场》](entities/TheJungleNovel.md) — Sinclair novel whose immigrant-labor critique became publicly influential through its meatpacking sanitation scenes.
 
 ## Concepts
 - [Historical Fiction Psychological Projection / 历史小说心理投射](concepts/HistoricalFictionPsychologicalProjection.md) — Evidence boundary separating emotionally plausible invented interiority from recovered psychology of the distant past.
@@ -27070,5 +27073,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advanced-Economy Bond-Yield Pressure](concepts/AdvancedEconomyBondYieldPressure.md) — Framework separating common capital and inflation pressures from issuer-specific fiscal credibility and refinancing risk.
 - [Orbital Reflected Sunlight](concepts/OrbitalReflectedSunlight.md) — Deliberate satellite reflection of sunlight assessed through demonstration scale, storage economics, astronomy, ecology, and governance.
 - [Platform Truth-Arbitration Dilemma](concepts/PlatformTruthArbitrationDilemma.md) — Conflict between reducing harmful or false content and concentrating authority over truth and public speech in private platforms.
+- [Investigative Narrative as Regulatory Catalyst / 调查叙事推动监管变革](concepts/InvestigativeNarrativeRegulatoryChange.md) — Process linking public exposure and audience salience to verification, legislation, and enforcement while preserving the boundary between documentation and fiction.
+- [Industrial Food Safety Governance / 工业食品安全治理](concepts/IndustrialFoodSafetyGovernance.md) — Institutional response to scaled production risk through standards, inspection, labeling, testing, logistics controls, and accountability.
+- [Natural Food Safety Romanticism / 天然食品安全浪漫化](concepts/NaturalFoodSafetyRomanticism.md) — Error of treating ancient, artisanal, local, or unprocessed food as inherently safe rather than comparing concrete hazards and controls.
 
 ## Syntheses

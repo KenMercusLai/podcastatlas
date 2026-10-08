@@ -1079,6 +1079,13 @@
       "url": "/topics/history/"
     }
   ],
+  "14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwen-315-tebie-jiemu-lkagyyokjnnfxtovnqpfg4cxsjov": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1": [
     {
       "key": "politics",
@@ -45836,6 +45843,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "IndustrialFoodSafetyGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "IndustrialGradeFilmModels": [
     {
       "key": "technology",
@@ -46950,6 +46964,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InvestigativeNarrativeRegulatoryChange": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "InvestmentABC": [
@@ -60531,6 +60557,13 @@
     }
   ],
   "NaturalDisasterPoliticalOmen": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "NaturalFoodSafetyRomanticism": [
     {
       "key": "history",
       "label": "History",
