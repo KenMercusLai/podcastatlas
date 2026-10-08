@@ -5787,6 +5787,10 @@
     "title": "AMV Prompt Framework",
     "url": "/wiki/concepts/amvpromptframework/"
   },
+  "AMingDeYiTianFilm": {
+    "title": "《阿明的一天》 / A Ming's Day",
+    "url": "/wiki/entities/amingdeyitianfilm/"
+  },
   "ANUA": {
     "title": "ANUA",
     "url": "/wiki/entities/anua/"
@@ -21762,6 +21766,10 @@
   "CreativeDivergenceConvergenceCycle": {
     "title": "Creative Divergence-Convergence Cycle",
     "url": "/wiki/concepts/creativedivergenceconvergencecycle/"
+  },
+  "CreativeExperienceBottleneck": {
+    "title": "Creative Experience Bottleneck / 创作经验瓶颈",
+    "url": "/wiki/concepts/creativeexperiencebottleneck/"
   },
   "CreativeHobbyCommercializationBoundary": {
     "title": "Creative Hobby Commercialization Boundary / 创作爱好商业化边界",
@@ -46739,6 +46747,10 @@
     "title": "KGB / 克格勃",
     "url": "/wiki/entities/kgb/"
   },
+  "KKAIDirector": {
+    "title": "KK / AI Director",
+    "url": "/wiki/entities/kkaidirector/"
+  },
   "KKR": {
     "title": "KKR",
     "url": "/wiki/entities/kkr/"
@@ -55954,6 +55966,10 @@
   "Mengqi": {
     "title": "梦琪 / Mengqi",
     "url": "/wiki/entities/mengqi/"
+  },
+  "MengusiFilm": {
+    "title": "《蒙古斯》 / Mengusi",
+    "url": "/wiki/entities/mengusifilm/"
   },
   "Mengyin": {
     "title": "蒙阴 / Mengyin",
@@ -74650,6 +74666,10 @@
   "ShanKuangLateHan": {
     "title": "单匡 / Shan Kuang (late Han)",
     "url": "/wiki/entities/shankuanglatehan/"
+  },
+  "ShanYinAIDirector": {
+    "title": "山音 / Shanyin",
+    "url": "/wiki/entities/shanyinaidirector/"
   },
   "Shanbin": {
     "title": "Shanbin",
@@ -95582,6 +95602,10 @@
   "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25": {
     "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
     "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+  },
+  "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u": {
+    "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+    "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
   },
   "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd": {
     "title": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO",

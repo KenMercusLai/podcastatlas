@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12813
+wiki_total_pages: 12817
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "MedeaPlay"
     title: "《美狄亚》 / Medea"
     url: "/wiki/entities/medeaplay/"
+  - key: "MengusiFilm"
+    title: "《蒙古斯》 / Mengusi"
+    url: "/wiki/entities/mengusifilm/"
   - key: "MemoryDayStory"
     title: "《记忆日》"
     url: "/wiki/entities/memorydaystory/"

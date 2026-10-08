@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3375
+topic_total_pages: 3377
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1648,6 +1648,9 @@ topic_concepts:
   - key: "CreationAsConsumption"
     title: "Creation As Consumption"
     url: "/wiki/concepts/creationasconsumption/"
+  - key: "CreativeExperienceBottleneck"
+    title: "Creative Experience Bottleneck / 创作经验瓶颈"
+    url: "/wiki/concepts/creativeexperiencebottleneck/"
   - key: "CreativeLaborAIBacklash"
     title: "Creative Labor AI Backlash"
     url: "/wiki/concepts/creativelaboraibacklash/"
@@ -8805,6 +8808,9 @@ topic_sources:
   - key: "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx"
     title: "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘"
     url: "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+  - key: "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u"
+    title: "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者"
+    url: "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
   - key: "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731"
     title: "AI 时代的超级入口还是手机吗？｜ S10E17"
     url: "/wiki/sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731/"

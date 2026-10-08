@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9998
+wiki_total_pages: 9999
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2552,6 +2552,9 @@ wiki_pages:
   - key: "CreativeDivergenceConvergenceCycle"
     title: "Creative Divergence-Convergence Cycle"
     url: "/wiki/concepts/creativedivergenceconvergencecycle/"
+  - key: "CreativeExperienceBottleneck"
+    title: "Creative Experience Bottleneck / 创作经验瓶颈"
+    url: "/wiki/concepts/creativeexperiencebottleneck/"
   - key: "CreativeHobbyCommercializationBoundary"
     title: "Creative Hobby Commercialization Boundary / 创作爱好商业化边界"
     url: "/wiki/concepts/creativehobbycommercializationboundary/"

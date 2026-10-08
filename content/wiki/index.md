@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者](sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u.md) — KK 与山音以《蒙古斯》和《阿明的一天》说明 AI 如何压缩影像执行、重组剪辑中心工作流，同时把创作瓶颈推向生活经验、审美判断与最终责任。
 - [301-阿伦特如何痛骂茨威格？](sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf.md) — 独树不成林重构阿伦特对《昨日的世界》的批评，将茨威格的黄金时代记忆解释为由名望、阶层和国际精英网络保护、却无法替代政治判断与国家成员资格的文化世界。
 - [《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？](sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei.md) — 梁怀王刘揖死后，贾谊主张保留并强化梁、淮阳作为牵制强藩的地理缓冲；节目又把刘揖之死、太傅自责与理想破灭作为贾谊早逝的直接解释。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt.md) — 贾谊把储君教育视为国家风险预防，以环境和习惯解释人格形成，并区分礼教的事前塑造与法令的事后处置，同时保留法令的可预期与公正价值。
@@ -4187,6 +4188,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [KK / AI Director](entities/KKAIDirector.md) — 从 4A 广告转向 AI 影像、坚持故事内核与“在现场”经验输入的《蒙古斯》创作者。
+- [山音 / Shanyin](entities/ShanYinAIDirector.md) — 以文本、画面和剪辑互相反馈，并用“眉头一皱的能力”界定人类判断的 AI 导演。
+- [《蒙古斯》 / Mengusi](entities/MengusiFilm.md) — 从长期搁置的魔幻故事内核出发、借 AI 降低执行门槛的故事优先型短片案例。
+- [《阿明的一天》 / A Ming's Day](entities/AMingDeYiTianFilm.md) — 从“一换衣服就换一种人格”出发，在三天内让文本、角色、画面与剪辑共同生长的 AI 短片。
 - [梁怀王刘揖 / Liu Yi, King Huai of Liang (Western Han)](entities/LiuYiLiangKingWesternHan.md) — 坠马早逝且无子的西汉梁王，其死亡同时触发封国重置与太傅贾谊的长期自责。
 - [梁国 / Liang Kingdom (Western Han)](entities/LiangKingdomWesternHan.md) — 贾谊主张保留并强化、用以牵制齐赵等东方强藩的西汉宗室封国。
 - [《治安策》 / Zhian Ce](entities/ZhianCe.md) — 贾谊以储君养成、礼教预防、高官体面和分封诸子回应政权长期风险的政治奏章。
@@ -17056,6 +17061,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Creative Experience Bottleneck / 创作经验瓶颈](concepts/CreativeExperienceBottleneck.md) — 生成速度可以近乎无限提升，但可供创作转化的生活观察、情感压力与个人经验只能按人的时间积累。
 - [Fame as Social Passport / 名望作为社会通行证](concepts/FameAsSocialPassport.md) — Public recognition can grant minority intellectuals social and international admission without supplying equal or durable political protection.
 - [宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer](concepts/StrategicRoyalKingdomBuffer.md) — 以较可信宗室封国的地理和军事实力牵制更强诸侯，同时保留缓冲者自身坐大的长期风险。
 - [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为由废除黥劓刖等刑，同时检验替代刑是否仍造成同等永久伤害。

@@ -7,7 +7,8 @@ sources:
   - using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040
   - no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81
   - zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht
-last_updated: 2026-09-07
+  - ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Creative AI qualifies as collaboration only when the model expands the creator's
 
 Voice-first podcasting creates a stricter collaboration boundary. AI can recommend articles, search more widely, organize material, and write show notes, but scriptwriting for a voice-first show is not only information assembly. When a script must sound like a specific person and carry argument progression, reaction, rhythm, and responsibility, AI assistance can quickly become an authorship and quality problem rather than a simple productivity gain.
 
+AI-film practice adds workflow plurality. [[KKAIDirector|KK]] uses AI after fixing a story's core, while [[ShanYinAIDirector|山音]] lets generated character ideas, text, images, and editing needs feed back into one another. Both patterns remain collaborative only because the creator decides why the work exists, notices what does not fit, and accepts final responsibility. This also reveals [[CreativeExperienceBottleneck]]: AI can expand the option space, but it cannot accelerate the creator's accumulation of lived material at the same rate.
+
 ## Key Claims
 - AI can increase creative surface area by producing drafts, images, lyrics, songs, video shots, recommendations, or operational starting points.
 - Collaboration works only when the human supplies context, evaluates output, revises, and decides what belongs in the final work.
@@ -28,6 +31,7 @@ Voice-first podcasting creates a stricter collaboration boundary. AI can recomme
 - The same capability can empower creators or threaten them depending on authorship, labor, rights, disclosure, and workflow design.
 - Professional creative tools should support creators rather than force a replacement narrative around them.
 - Platform-native video must solve audience circulation and cultural context, while voice-first podcasting must preserve speaker-specific expression and listener trust.
+- Creative collaboration can be plan-first or emergent, but in both cases the human must supply purpose, rejection criteria, and the lived stakes behind selection.
 
 ## Evidence
 - Draft and option generation: [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] has [[MarkDataScienceWithSam|Mark]] use [[ChatGPT]], [[DALLE|DALL-E]], and [[Suno]] for speeches, event images, lyrics, songs, and light coding while preserving edits, checking, and customization.
@@ -36,14 +40,16 @@ Voice-first podcasting creates a stricter collaboration boundary. AI can recomme
 - Creator-support stance: [[using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040]] describes [[WorldLabs]] as working with VFX and wanting creators empowered rather than replaced.
 - Internet-video circulation: [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] has [[Chouxiangzai|抽象仔 / 抽象宅]] describe AI-video hits as combinations of visual execution, cultural contrast, meme timing, platform fluency, and sincere creator emotion.
 - Voice-first podcast boundary: [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] says [[DuBaoTeleread|读报teleread / 独报]] can use AI for article recommendation and show notes, but not for the script voice, progression, and reactions that define the show.
+- Plan-first and emergent film collaboration: [[ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u]] contrasts [[MengusiFilm|《蒙古斯》]], whose core preceded AI expansion, with [[AMingDeYiTianFilm|《阿明的一天》]], whose text and images co-evolved through human selection.
+- Experience and rejection boundary: [[ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u]] pairs “在现场” with “眉头一皱的能力,” making lived input and refusal of generic output complementary human contributions.
 
 ## Counterevidence & Qualifications
-The evidence does not deny creative-labor disruption. It keeps the collaboration claim conditional: AI support is different from AI authorship, and creator agency can weaken if tools erase credit, hide training provenance, cheapen labor, or turn expressive work into generic output. Reusable "viral creator skills" can create false confidence because audience response is not mechanically reproducible. The voice-first scripting boundary comes from a creator self-report in an accuracy-sensitive podcast, so it should not be generalized to every low-stakes or industrial content workflow.
+The evidence does not deny creative-labor disruption. It keeps the collaboration claim conditional: AI support is different from AI authorship, and creator agency can weaken if tools erase credit, hide training provenance, cheapen labor, or turn expressive work into generic output. Reusable "viral creator skills" can create false confidence because audience response is not mechanically reproducible. Voice-first authorship boundaries and AI-film workflow claims come from creator self-reports, so they should not be generalized to every low-stakes or industrial content workflow. Nor does personal experience guarantee quality without craft and ethical transformation.
 
 ## What Changed
-- Added 读报teleread's voice-first podcast case, sharpening the boundary between AI as assistant and AI as substitute for creator expression.
-- Clarified that workflow usefulness can coexist with authorship discomfort when AI touches the core passage, argument, or voice.
-- Broadened collaboration from generated media and drafts to recommendations, show notes, and creator operations.
+- Added plan-first and emergent AI-film collaboration as distinct but compatible patterns.
+- Made lived input and rejection criteria explicit human contributions to collaboration.
+- Added the temporal mismatch between fast generation and slow experiential accumulation.
 
 ## Related Concepts
 - [[AIAssistantAugmentation]] - broader assistant frame that contains creative collaboration.
@@ -54,3 +60,4 @@ The evidence does not deny creative-labor disruption. It keeps the collaboration
 - [[PodcastProductionWorkflow]] - voice-first production workflow where AI assistance needs clearer boundaries.
 - [[PromptAsIntentTransmission]] - communication skill needed to make creative AI useful.
 - [[AIDirectorCoreWorkflow]] - AI-video workflow where human intent, shot judgment, and performance selection organize model output.
+- [[CreativeExperienceBottleneck]] - limitation on the lived material that expanded generation can turn into meaningful options.

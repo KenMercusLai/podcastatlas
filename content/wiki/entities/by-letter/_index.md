@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12813
+wiki_total_pages: 12817
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2024,6 +2024,9 @@ wiki_pages:
   - key: "AskTheHeartTVDrama"
     title: "《问心》 / Ask the Heart (television drama)"
     url: "/wiki/entities/askthehearttvdrama/"
+  - key: "AMingDeYiTianFilm"
+    title: "《阿明的一天》 / A Ming's Day"
+    url: "/wiki/entities/amingdeyitianfilm/"
   - key: "AncientSilkRoad"
     title: "丝绸之路 / Ancient Silk Road"
     url: "/wiki/entities/ancientsilkroad/"

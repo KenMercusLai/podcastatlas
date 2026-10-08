@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12813
+wiki_total_pages: 12817
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "KiyosumiShirakawa"
     title: "Kiyosumi-Shirakawa / 清澄白河"
     url: "/wiki/entities/kiyosumishirakawa/"
+  - key: "KKAIDirector"
+    title: "KK / AI Director"
+    url: "/wiki/entities/kkaidirector/"
   - key: "KKR"
     title: "KKR"
     url: "/wiki/entities/kkr/"

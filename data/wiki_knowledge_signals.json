@@ -2074,9 +2074,9 @@
       "url": "/wiki/concepts/aicoworkers/"
     },
     "AICreativeCollaboration": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -2105,9 +2105,16 @@
           "show": "读报teleread",
           "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
           "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        },
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
     "AICreativeProcessDatafication": {
@@ -2359,9 +2366,9 @@
       "url": "/wiki/concepts/aidatabasecontextlayer/"
     },
     "AIDirectorCoreWorkflow": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
@@ -2383,9 +2390,16 @@
           "show": "三五环",
           "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
           "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        },
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/aidirectorcoreworkflow/"
     },
     "AIDisruptionRiskInvesting": {
@@ -4962,9 +4976,9 @@
       "url": "/wiki/concepts/aiuniversitycampusreframing/"
     },
     "AIVideoProductionWorkflow": {
-      "episode_count": 9,
-      "show_count": 7,
-      "source_note_count": 9,
+      "episode_count": 10,
+      "show_count": 8,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
@@ -5028,9 +5042,16 @@
           "show": "三五环",
           "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
           "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        },
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/aivideoproductionworkflow/"
     },
     "AIVoiceCloningRights": {
@@ -5163,6 +5184,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/amd/"
+    },
+    "AMingDeYiTianFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/amingdeyitianfilm/"
     },
     "APhilipRandolph": {
       "episode_count": 1,
@@ -51755,6 +51792,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/creativedivergenceconvergencecycle/"
+    },
+    "CreativeExperienceBottleneck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/creativeexperiencebottleneck/"
     },
     "CreativeHobbyCommercializationBoundary": {
       "episode_count": 1,
@@ -132484,6 +132537,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/kfc/"
     },
+    "KKAIDirector": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/kkaidirector/"
+    },
     "KPro": {
       "episode_count": 1,
       "show_count": 1,
@@ -160452,6 +160521,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/mengmengjiang/"
+    },
+    "MengusiFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mengusifilm/"
     },
     "MenopausalHormoneTherapy": {
       "episode_count": 3,
@@ -214227,6 +214312,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/shankuanglatehan/"
+    },
+    "ShanYinAIDirector": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
+          "key": "ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u",
+          "show": "十字路口Crossing",
+          "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+          "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shanyinaidirector/"
     },
     "ShandongTaishan": {
       "episode_count": 1,
