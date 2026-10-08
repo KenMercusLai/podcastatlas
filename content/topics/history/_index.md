@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2636
+topic_total_pages: 2637
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6609,6 +6609,9 @@ topic_sources:
   - key: "64-hitler-with-ian-kershaw-part-2-glt5766781968"
     title: "64. Hitler, with Ian Kershaw - part 2"
     url: "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+  - key: "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289"
+    title: "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)"
+    url: "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
   - key: "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636"
     title: "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)"
     url: "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"

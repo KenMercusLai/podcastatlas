@@ -5,7 +5,8 @@ tags: [person, numidia, rome, carthage]
 sources:
   - 643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622
   - 642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636
-last_updated: 2026-10-08
+  - 641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,51 +14,54 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Massinissa / 马西尼萨 is the Numidian ruler whose switch from Carthage to [[ScipioAfricanus]] supplies Rome decisive cavalry in Africa, and whose later territorial pressure helps turn Carthage's postwar dependence into the treaty breach preceding the [[ThirdPunicWar]].
+Massinissa / 马西尼萨 is the Numidian ruler who first supplies elite cavalry to Carthage in Iberia, then changes alignment to [[ScipioAfricanus]], helps Rome win in Africa, and later uses the postwar order to press territorial claims against [[Carthage]].
 
 ## Current Profile
 
-Massinissa enters the synthesis as an autonomous actor in a Numidian power struggle. A former Carthaginian ally, he switches to Scipio and Rome; his rival Syphax moves toward Carthage and is tied to it through Sophonisba. Massinissa then helps burn Syphax's camp, pursues and captures him, and supplies cavalry at Zama. His choice gives Scipio the mounted superiority Hannibal no longer possesses.
+Massinissa enters the war as a capable Carthaginian ally rather than a predetermined Roman partner. As a young commander in Iberia, he leads Numidian cavalry in raids and close pressure against Roman camps and helps make the Carthaginian position appear secure after the deaths of the older Scipios. He still fights beside [[MagoBarca]] at the [[BattleOfIlipa]], where Roman drilling and cavalry performance contribute to Carthaginian defeat.
 
-The alliance also shapes the peace. Rome recognizes Massinissa over both his own and Syphax's Numidians, while the requirement that Carthage restore lands to him leaves room for future claims. Massinissa's political and military gains are therefore not merely rewards after Zama; they are built into the regional order created by Roman victory.
+His approach to Scipio after Ilipa follows a sharp change in strategic incentives. Carthage has lost its effective Iberian field army, while Massinissa faces his own Numidian rivalry with Syphax. He stops fighting Rome and returns to Africa with Scipio's support, showing alliance change as a response to local dynastic interest and altered military power, not simply personal conversion.
 
-Part 4 presents the long-term result. The 201 BC settlement prevents Carthage from making war without Roman permission, while Roman sympathy allows its Numidian ally to press territorial claims with little effective restraint. Carthaginian embassies fail to secure relief, making the treaty asymmetrical in practice: Rome can deny Carthage self-defense while tolerating pressure from its ally.
+In Africa, Massinissa supplies an ally against Syphax, helps burn the opposing camps, pursues and captures his rival, and provides cavalry at Zama. His choice gives Scipio the mounted superiority Hannibal no longer possesses.
 
-In 151 BC Carthage finally attacked without permission. Massinissa defeated its army near Oroscopa and imposed humiliating terms, but the unauthorized war also gave Rome the formal breach it needed. Massinissa therefore acts as both territorial beneficiary and strategic trigger, although the episode does not prove that he and Rome coordinated a plan to manufacture the war.
+The alliance also shapes the peace. Rome recognizes Massinissa over both his own and Syphax's Numidians, while the requirement that Carthage restore lands to him leaves room for future claims. The 201 BC settlement prevents Carthage from making war without Roman permission, and Roman sympathy allows its Numidian ally to press territorial claims with little effective restraint.
+
+In 151 BC Carthage finally attacks without permission. Massinissa defeats its army near Oroscopa and imposes humiliating terms, but the unauthorized war also gives Rome the formal breach used before the Third Punic War. Massinissa acts as both territorial beneficiary and strategic trigger, although the sources do not prove a coordinated Roman-Numidian plan to manufacture the war.
 
 ## Key Characteristics
 
-- Numidian ruler who changes alignment from Carthage to Rome during the Second Punic War.
+- Elite Numidian cavalry commander initially aligned with Carthage in Iberia.
+- Autonomous dynastic actor whose allegiance changes after Carthaginian defeat at Ilipa.
 - Coalition partner whose intelligence, pursuit, and cavalry support Scipio's African campaign.
 - Beneficiary of the post-Zama territorial and dynastic settlement.
-- Repeated territorial encroacher whose claims Rome generally favored.
-- Victor over Carthage near Oroscopa in 151 BC.
-- Immediate catalyst for the Carthaginian treaty breach used by Rome.
+- Repeated territorial encroacher whose claims Rome generally favors.
+- Immediate catalyst for the Carthaginian treaty breach later used by Rome.
 
 ## Evidence
 
-- Wartime realignment: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] connects Massinissa's switch, rivalry with Syphax, camp attack, pursuit, and capture.
-- Zama coalition: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] attributes a central role to Massinissa's cavalry and its return against Hannibal's rear.
+- Carthaginian service: [[641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289]] connects Massinissa's Numidian cavalry to the older Scipios' defeat, Roman harassment, and fighting at Ilipa.
+- Realignment: [[641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289]] places his approach to Scipio after Ilipa and links it to his return to Africa against Syphax; [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] develops the Numidian succession struggle.
+- African coalition: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] describes the camp attack, pursuit and capture of Syphax, and decisive cavalry role at Zama.
 - Postwar position: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] describes recognition over Syphax's people and the territorial clause favoring Massinissa.
-- Asymmetrical pressure: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] describes Massinissa's repeated encroachments and Rome's failure to provide Carthage effective relief.
-- War trigger: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] connects Carthage's unauthorized response, defeat near Oroscopa, and Roman use of the treaty breach.
-- Wider alignment: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] places Massinissa inside Rome's expanding North African power system while preserving his distinct territorial interest.
+- Asymmetrical pressure and war trigger: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] connects repeated encroachments, ineffective Carthaginian appeals, Oroscopa, and Rome's use of the treaty breach.
 
 ## Qualifications
 
-This profile is bounded to two podcast episodes and does not independently reconstruct Numidian institutions or succession. His exact motives for switching sides, rivalry with Syphax, relationship with Sophonisba, campaign role, disputed borders, chronology of encroachments, Roman deliberations, battle details, terms, and degree of Roman-Numidian coordination remain source-scoped.
+This profile is bounded to three podcast episodes and does not independently reconstruct Numidian institutions or succession. Massinissa's age, early campaigns, cavalry actions, exact motives for switching sides, rivalry with Syphax, relationship with Sophonisba, campaign role, disputed borders, chronology of encroachments, Roman deliberations, battle details, terms, and degree of Roman-Numidian coordination remain source-scoped.
 
 ## What Changed
 
-- Extended Massinissa backward from postwar antagonist to decisive coalition partner in Scipio's African campaign.
-- Connected his cavalry contribution at Zama to the territorial leverage built into the peace.
+- Extended Massinissa backward from Roman ally to effective Carthaginian cavalry commander in Iberia.
+- Located his realignment after Ilipa within changed military and Numidian dynastic incentives.
+- Connected his Spanish opposition to Rome with the cavalry advantage he later supplies at Zama.
 
 ## Relationships
 
-- [[Carthage]] - neighboring polity whose territory he repeatedly contests.
-- [[RomanRepublic]] - ally whose backing constrains Carthage's response.
-- [[ThirdPunicWar]] - conflict for which the war near Oroscopa supplies the immediate treaty breach.
-- [[RomanEnemyMemory]] - older Roman fear that makes Carthage's response to Massinissa easier to frame as renewed danger.
-- [[ScipioAfricanus]] - Roman ally whose African victories depend partly on Massinissa's alignment and cavalry.
+- [[ScipioAfricanus]] - former opponent and later ally whose African victories depend partly on Massinissa's alignment.
+- [[MagoBarca]] - Carthaginian commander beside whom he fights at Ilipa.
+- [[BattleOfIlipa]] - defeat after which his alignment changes.
 - [[BattleOfZama]] - battle in which his cavalry helps decide the outcome.
-- [[SecondPunicWar]] - conflict through which his Numidian rivalry becomes part of a Roman regional settlement.
+- [[Carthage]] - former ally and neighboring polity whose territory he later contests.
+- [[RomanRepublic]] - ally whose backing increases his regional power and constrains Carthage.
+- [[SecondPunicWar]] - conflict through which his cavalry and dynastic rivalry reshape the coalition balance.
+- [[ThirdPunicWar]] - conflict for which the war near Oroscopa supplies the immediate treaty breach.

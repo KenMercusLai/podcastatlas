@@ -4202,8 +4202,14 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 - [Essentials: The Science & Practice of Movement | Ido Portal](sources/essentials-the-science-practice-of-movement-ido-portal-scim7334257872.md) — Condensed Huberman Lab conversation on movement as open inquiry through everyday awareness, sensory variation, adaptable technique, improvisation, and consent-aware proximity practice.
+- [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Hasdrubal Barca / 哈斯德鲁巴·巴卡](entities/HasdrubalBarca.md) — Hannibal's brother whose Spanish command and attempted reinforcement of Italy end in defeat and death at the Metaurus.
+- [Mago Barca / 马戈·巴卡](entities/MagoBarca.md) — Hannibal's younger brother, defeated by Scipio at Ilipa before continuing resistance in northern Italy.
+- [Battle of Ibera / 伊贝拉战役](entities/BattleOfIbera.md) — Roman victory that blocks Hasdrubal's first attempt to reinforce Hannibal after Cannae.
+- [Battle of the Metaurus / 梅陶鲁斯河战役](entities/BattleOfMetaurus.md) — Roman victory that destroys Hasdrubal's reinforcement army before it can unite with Hannibal.
+- [Battle of Ilipa / 伊利帕战役](entities/BattleOfIlipa.md) — Scipio's decisive victory over the last effective Carthaginian field army in Iberia.
 - [唐浩明 / Tang Haoming](entities/TangHaoming.md) — 以通俗易读、人物塑造和战争道德视野三个维度接受评析的《曾国藩》作者。
 - [《曾国藩》 / Zeng Guofan (novel)](entities/ZengGuofanNovel.md) — 唐浩明以曾国藩与湘军为中心、兼具历史入口和改革年代成功叙事接受史的历史小说三部曲。
 - [湘军 / Xiang Army](entities/XiangArmy.md) — 以私人关系、待遇、纪律、父爱式照顾和儒家思想动员形成凝聚力、又引发中央猜忌的晚清军事组织。
@@ -4249,7 +4255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小白菜 / Xiao Baicai](entities/XiaoBaicai.md) — 因丈夫暴亡和邻里传闻遭刑讯定罪、最终获释又被后世浪漫叙事重塑的晚清女性。
 - [《申报》 / Shen Bao](entities/ShenBao.md) — 通过持续报道杨乃武与小白菜案，把地方冤案扩展为证据、刑讯和司法程序公共讨论的上海报纸。
 - [Battle of Zama / 扎马战役](entities/BattleOfZama.md) — Decisive 202 BC battle where anti-elephant preparation, Roman-Numidian cavalry, and returning horsemen end Hannibal's last campaign.
-- [Scipio Africanus / 大西庇阿](entities/ScipioAfricanus.md) — Roman commander who reverses the war through invasion of Africa, alliance with Massinissa, and victory at Zama.
+- [Scipio Africanus / 大西庇阿](entities/ScipioAfricanus.md) — Roman commander who captures New Carthage, wins at Ilipa, builds an alliance with Massinissa, invades Africa, and defeats Hannibal at Zama.
 - [Wannsee Conference / 万湖会议](entities/WannseeConference.md) — 1942年把纳粹灭绝政策转化为跨部门法律、外交、警务、运输、财产与杀戮协调的会议。
 - [Frederick II, Holy Roman Emperor / 神圣罗马皇帝腓特烈二世](entities/FrederickIIHolyRomanEmperor.md) — 死后回归传说、冒名者与“沉睡皇帝”传统使其理想化君主身份持续具有政治可用性。
 - [False Dmitry I / 伪德米特里一世](entities/FalseDmitryI.md) — 借王朝绝嗣、社会危机、外国支持与公众承认从可疑身份登上俄国皇位的冒名者。
@@ -6242,7 +6248,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pyrrhus of Epirus / 伊庇鲁斯的皮洛士](entities/Pyrrhus.md) — Hellenistic king whose costly victories fail to break Rome's Italian coalition before his withdrawal shifts attention toward Sicily.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
 - [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
-- [New Carthage / 新迦太基](entities/NewCarthage.md) — Iberian capital and resource-command center of Barcid Spain.
+- [New Carthage / 新迦太基](entities/NewCarthage.md) — Iberian resource-command center captured by Scipio and converted into a Roman workshop of war.
 - [Saguntum / 萨贡托](entities/Saguntum.md) — Iberian city whose disputed alignment and siege trigger the Second Punic War.
 - [Melissa Ilardo](entities/MelissaIlardo.md) — Human-genetics researcher connecting population adaptation, diving physiology, inherited variation, and cultural ecology.
 - [黎医生 / Li Doctor (respiratory and smoking cessation)](entities/LiDoctorSmokingCessation.md) — Source-scoped respiratory guest explaining vaping harms, environmental smoke exposure, and supported smoking cessation.
@@ -17071,7 +17077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [François Hanriot](entities/FrancoisHanriot.md) — Paris National Guard commander whose retreat from the Convention surrendered the Commune's strongest Thermidorian opportunity.
 - [David Fishman](entities/DavidFishman.md) — Energy professional and city writer combining rankings, administrative research, travel, and bounded resident interviews to study Chinese cities.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
-- [Massinissa / 马西尼萨](entities/Massinissa.md) — Roman-allied Numidian ruler whose territorial pressure helped produce Carthage's treaty breach before the Third Punic War.
+- [Massinissa / 马西尼萨](entities/Massinissa.md) — Numidian ruler who changes from Carthaginian cavalry commander to Scipio's ally before using the postwar order against Carthage.
 - [Polybius / 波利比乌斯](entities/Polybius.md) — Greek hostage and historian whose Scipionic access frames Rome's rise and Carthage's fall through imperial impermanence.
 - [Cato the Elder / 老加图](entities/CatoTheElder.md) — Roman senator who converted Carthaginian recovery and remembered threat into a campaign for destruction.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
@@ -17142,7 +17148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨乃武与小白菜案 / Yang Naiwu and Xiao Baicai Case](concepts/YangNaiwuXiaoBaicaiCase.md) — 由传闻、刑讯和层级照准固化，又经家属申诉、贵人援助、媒体监督与京城复审纠正的晚清冤案。
 - [Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错](concepts/WrongfulConvictionPersistenceCorrection.md) — 比较偏见与机构自保如何固化弱案，以及家属、内部异议、精英通道、媒体和政治时机如何促成纠错。
 - [Frontier Settler Defense / 移民实边式边防](concepts/FrontierSettlerDefense.md) — 以筑城、迁居补偿、家庭与社区再生产、地方编组和训练，把长期定居者转化为边境生产与防御能力的制度设计。
-- [Second Punic War / 第二次布匿战争](concepts/SecondPunicWar.md) — War synthesized through disputed triggers, Hannibal's coalition strategy, Roman survival and adaptation, Scipio's counter-invasion, Zama, and constrained Carthaginian survival.
+- [Second Punic War / 第二次布匿战争](concepts/SecondPunicWar.md) — War synthesized through disputed triggers, Hannibal's coalition strategy, Roman cross-theater recovery, destruction of Iberian reinforcement capacity, Scipio's counter-invasion, and Zama.
 - [Meeting as Institutional Conversion / 会议的制度转化](concepts/MeetingAsInstitutionalConversion.md) — 权威、参与者、程序、记录与执行渠道把思想或政策方向转成持久组织行动的机制。
 - [Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗](concepts/AssassinationReprisalTradeoff.md) — 区分刺杀的目标移除与象征效果、制度存续，以及由地下网络、家属和平民承担的报复成本。
 - [侠客—骑士原型比较 / Chivalric Archetype Comparison](concepts/ChivalricArchetypeComparison.md) — 以共同的勇武和扶弱价值为起点，同时用身份、效忠、宗教、法律与生计区分侠客、骑士、浪人和相关英雄传统。
@@ -19010,7 +19016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modernizing Autocracy](concepts/ModernizingAutocracy.md) — Top-down reform that expands institutional and technical capacity while preserving or strengthening centralized coercion.
 - [Daily Circadian Performance Routine](concepts/DailyCircadianPerformanceRoutine.md) — Whole-day sequencing frame coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and sleep.
 - [Ultradian Deep Work Block](concepts/UltradianDeepWorkBlock.md) — Protected roughly 90-minute work interval with distraction control, alert workspace design, and flexible personal timing.
-- [Barcid Spanish Power Base / 巴卡家族西班牙权力基地](concepts/BarcidSpanishPowerBase.md) — Iberian resource, recruitment, administrative, and loyalty system inherited by Hannibal.
+- [Barcid Spanish Power Base / 巴卡家族西班牙权力基地](concepts/BarcidSpanishPowerBase.md) — Iberian resource, recruitment, command, and alliance system inherited by Hannibal and dismantled through Roman cross-theater pressure.
 - [Saguntum War Trigger / 萨贡托战争触发机制](concepts/SaguntumWarTrigger.md) — Escalation from overlapping sphere and alliance claims to siege, surrender demand, and open war.
 - [Gene-Environment Interaction](concepts/GeneEnvironmentInteraction.md) — Multi-timescale framework separating gene expression, training, development, inherited variation, and selection.
 - [Standing Genetic Variation](concepts/StandingGeneticVariation.md) — Pre-existing inherited diversity that can become advantageous after environmental change.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12833
+wiki_total_pages: 12838
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -251,6 +251,12 @@ wiki_pages:
   - key: "BattleOfGettysburg"
     title: "Battle of Gettysburg"
     url: "/wiki/entities/battleofgettysburg/"
+  - key: "BattleOfIbera"
+    title: "Battle of Ibera / 伊贝拉战役"
+    url: "/wiki/entities/battleofibera/"
+  - key: "BattleOfIlipa"
+    title: "Battle of Ilipa / 伊利帕战役"
+    url: "/wiki/entities/battleofilipa/"
   - key: "BattleOfLakeTrasimene"
     title: "Battle of Lake Trasimene / 特拉西梅诺湖战役"
     url: "/wiki/entities/battleoflaketrasimene/"
@@ -296,6 +302,9 @@ wiki_pages:
   - key: "BattleOfLittleBighorn"
     title: "Battle of the Little Bighorn"
     url: "/wiki/entities/battleoflittlebighorn/"
+  - key: "BattleOfMetaurus"
+    title: "Battle of the Metaurus / 梅陶鲁斯河战役"
+    url: "/wiki/entities/battleofmetaurus/"
   - key: "BattleOfTheNile"
     title: "Battle of the Nile"
     url: "/wiki/entities/battleofthenile/"

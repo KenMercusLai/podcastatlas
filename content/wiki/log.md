@@ -33026,3 +33026,11 @@ Added source `essentials-the-science-practice-of-movement-ido-portal-scim7334257
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)
+
+Added source `641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289`; created [[HasdrubalBarca]], [[MagoBarca]], [[BattleOfIbera]], [[BattleOfMetaurus]], and [[BattleOfIlipa]]; and resynthesized [[ScipioAfricanus]], [[Massinissa]], [[NewCarthage]], [[SecondPunicWar]], and [[BarcidSpanishPowerBase]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Rome's recovery joined endurance in Italy to active cross-theater pressure on Carthage's Iberian mines, ports, armies, communications, and coalitions; New Carthage transferred the logistical center, Metaurus destroyed the reinforcement army that escaped Spain, and Ilipa removed effective Carthaginian field power while changing Massinissa's incentives. No settled contradiction was adopted. Livy's portraiture, divine stories, exact forces and casualties, lagoon timing, intercepted-message details, speeches, motives, and the mayonnaise etymology remain source-scoped. Broad [[HannibalBarca]], [[Carthage]], [[RomanRepublic]], and show pages were kept closed because the bounded additions are represented in the focused source, people, city, battle, war, and power-base pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,134 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

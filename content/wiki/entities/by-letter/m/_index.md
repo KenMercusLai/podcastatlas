@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12833
+wiki_total_pages: 12838
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "MagnusTheGood"
     title: "Magnus the Good"
     url: "/wiki/entities/magnusthegood/"
+  - key: "MagoBarca"
+    title: "Mago Barca / 马戈·巴卡"
+    url: "/wiki/entities/magobarca/"
   - key: "MaheshBalakrishnan"
     title: "Mahesh Balakrishnan"
     url: "/wiki/entities/maheshbalakrishnan/"

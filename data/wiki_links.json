@@ -3607,6 +3607,10 @@
     "title": "64. Hitler, with Ian Kershaw - part 2",
     "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
   },
+  "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289": {
+    "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+    "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+  },
   "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636": {
     "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
     "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
@@ -12043,6 +12047,14 @@
     "title": "Battle of Hastings",
     "url": "/wiki/concepts/battleofhastings/"
   },
+  "BattleOfIbera": {
+    "title": "Battle of Ibera / 伊贝拉战役",
+    "url": "/wiki/entities/battleofibera/"
+  },
+  "BattleOfIlipa": {
+    "title": "Battle of Ilipa / 伊利帕战役",
+    "url": "/wiki/entities/battleofilipa/"
+  },
   "BattleOfLakeTrasimene": {
     "title": "Battle of Lake Trasimene / 特拉西梅诺湖战役",
     "url": "/wiki/entities/battleoflaketrasimene/"
@@ -12066,6 +12078,10 @@
   "BattleOfMarathon": {
     "title": "Battle of Marathon",
     "url": "/wiki/concepts/battleofmarathon/"
+  },
+  "BattleOfMetaurus": {
+    "title": "Battle of the Metaurus / 梅陶鲁斯河战役",
+    "url": "/wiki/entities/battleofmetaurus/"
   },
   "BattleOfNarva": {
     "title": "Battle of Narva / 纳尔瓦战役",
@@ -38331,6 +38347,10 @@
     "title": "Harvey",
     "url": "/wiki/entities/harvey/"
   },
+  "HasdrubalBarca": {
+    "title": "Hasdrubal Barca / 哈斯德鲁巴·巴卡",
+    "url": "/wiki/entities/hasdrubalbarca/"
+  },
   "HasdrubalTheHandsome": {
     "title": "Hasdrubal the Handsome / 美男子哈斯德鲁巴",
     "url": "/wiki/entities/hasdrubalthehandsome/"
@@ -53682,6 +53702,10 @@
   "MagnusTheGood": {
     "title": "Magnus the Good",
     "url": "/wiki/entities/magnusthegood/"
+  },
+  "MagoBarca": {
+    "title": "Mago Barca / 马戈·巴卡",
+    "url": "/wiki/entities/magobarca/"
   },
   "MaheshBalakrishnan": {
     "title": "Mahesh Balakrishnan",

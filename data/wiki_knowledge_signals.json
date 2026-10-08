@@ -23275,9 +23275,9 @@
       "url": "/wiki/entities/barbertonohio/"
     },
     "BarcidSpanishPowerBase": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -23285,9 +23285,16 @@
           "show": "The Rest Is History",
           "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
           "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/barcidspanishpowerbase/"
     },
     "BarkingAbbey": {
@@ -23753,6 +23760,38 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/battleofhastings/"
     },
+    "BattleOfIbera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/battleofibera/"
+    },
+    "BattleOfIlipa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/battleofilipa/"
+    },
     "BattleOfLakeTrasimene": {
       "episode_count": 1,
       "show_count": 1,
@@ -23869,6 +23908,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/battleofmarathon/"
+    },
+    "BattleOfMetaurus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/battleofmetaurus/"
     },
     "BattleOfNarva": {
       "episode_count": 1,
@@ -106056,6 +106111,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/harunalrashid/"
     },
+    "HasdrubalBarca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/hasdrubalbarca/"
+    },
     "HasdrubalTheHandsome": {
       "episode_count": 1,
       "show_count": 1,
@@ -154861,6 +154932,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/magnusthegood/"
     },
+    "MagoBarca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/magobarca/"
+    },
     "MaidOfHolland": {
       "episode_count": 1,
       "show_count": 1,
@@ -158496,9 +158583,9 @@
       "url": "/wiki/concepts/massacreoftheinnocents/"
     },
     "Massinissa": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7699509622 [GLT7699509622].md",
@@ -158513,9 +158600,16 @@
           "show": "The Rest Is History",
           "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
           "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        },
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/massinissa/"
     },
     "MasudHusain": {
@@ -171955,9 +172049,9 @@
       "url": "/wiki/entities/newbalance/"
     },
     "NewCarthage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -171965,9 +172059,16 @@
           "show": "The Rest Is History",
           "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
           "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/newcarthage/"
     },
     "NewEnglandWitchcraftSocialEcology": {
@@ -212059,9 +212160,9 @@
       "url": "/wiki/entities/scipioaemilianus/"
     },
     "ScipioAfricanus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1285518636 [GLT1285518636].md",
@@ -212069,9 +212170,16 @@
           "show": "The Rest Is History",
           "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
           "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        },
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/scipioafricanus/"
     },
     "ScoffBook": {
@@ -212754,9 +212862,9 @@
       "url": "/wiki/entities/secondopiumwar/"
     },
     "SecondPunicWar": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -212785,9 +212893,16 @@
           "show": "The Rest Is History",
           "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
           "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        },
+        {
+          "episode_file": "GLT6811115289 [GLT6811115289].md",
+          "key": "641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289",
+          "show": "The Rest Is History",
+          "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
+          "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/secondpunicwar/"
     },
     "SecondTriumvirate": {
