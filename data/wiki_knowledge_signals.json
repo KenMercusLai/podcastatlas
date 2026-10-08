@@ -69475,6 +69475,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/embarrassmenttrustsignal/"
     },
+    "EmbeddedDiplomaticIntermediation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrbW_AgBCOwLX95bW2DDJ9fUlNtm [lrbW_AgBCOwLX95bW2DDJ9fUlNtm].md",
+          "key": "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm",
+          "show": "怪东西Weird History",
+          "title": "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽",
+          "url": "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/embeddeddiplomaticintermediation/"
+    },
     "EmbeddedForeignReporting": {
       "episode_count": 2,
       "show_count": 2,
@@ -81937,9 +81953,9 @@
       "url": "/wiki/entities/fenglianglatehan/"
     },
     "FengLiaoWesternHan": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？ [lqBLZdg7SDKZln4vXHTNNye92292].md",
@@ -81961,9 +81977,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
+        },
+        {
+          "episode_file": "lrbW_AgBCOwLX95bW2DDJ9fUlNtm [lrbW_AgBCOwLX95bW2DDJ9fUlNtm].md",
+          "key": "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm",
+          "show": "怪东西Weird History",
+          "title": "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽",
+          "url": "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/fengliaowesternhan/"
     },
     "FengMengjie": {
@@ -123004,6 +123027,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/ithaca/"
+    },
+    "IvanMaisky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrbW_AgBCOwLX95bW2DDJ9fUlNtm [lrbW_AgBCOwLX95bW2DDJ9fUlNtm].md",
+          "key": "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm",
+          "show": "怪东西Weird History",
+          "title": "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽",
+          "url": "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/ivanmaisky/"
     },
     "IvanMazepa": {
       "episode_count": 1,
@@ -248055,9 +248094,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248100,6 +248139,13 @@
           "show": "怪东西Weird History",
           "title": "38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活",
           "url": "/wiki/sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt/"
+        },
+        {
+          "episode_file": "lrbW_AgBCOwLX95bW2DDJ9fUlNtm [lrbW_AgBCOwLX95bW2DDJ9fUlNtm].md",
+          "key": "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm",
+          "show": "怪东西Weird History",
+          "title": "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽",
+          "url": "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
         }
       ],
       "updated": "2026-10-08",

@@ -9,6 +9,7 @@ sources:
   - 40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m
   - 39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk
   - 38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt
+  - 37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -17,11 +18,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, and interpreters, as well as a reading episode that joins literary interpretation to social history.
+怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, interpreters, and diplomats, as well as a reading episode that joins literary interpretation to social history.
 
 ## Current Profile
 
-In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official source compares [[LiSi|李斯]] and [[RobertHart|赫德]] through elite mobility, imported state capacity, political trust, and sovereignty. The interpreter source connects [[Malinche]] and the [[MacartneyEmbassy|Macartney Embassy]] through relay interpretation, coercion, institutional language, and the political uses of ambiguity. The [[Middlemarch]] source adds a book-discussion mode: marriage, vocation, class, medicine, religion, and reform are read together through [[LiteratureAsSocialHistory|literature as social history]]. Across the six episodes, the show uses comparison or close reading to expose mechanisms while preserving divergent institutions, mixed motives, and evidence limits.
+In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official source compares [[LiSi|李斯]] and [[RobertHart|赫德]] through elite mobility, imported state capacity, political trust, and sovereignty. The interpreter source connects [[Malinche]] and the [[MacartneyEmbassy|Macartney Embassy]] through relay interpretation, coercion, institutional language, and the political uses of ambiguity. The [[Middlemarch]] source adds a book-discussion mode. Episode 37 compares [[IvanMaisky|Ivan Maisky]] and [[FengLiaoWesternHan|Feng Liao]] through [[EmbeddedDiplomaticIntermediation|embedded diplomatic intermediation]]: locally accumulated relationships and knowledge make state power usable, while very different institutions and personal risks remain explicit. Across the seven episodes, the show uses comparison or close reading to expose mechanisms while preserving divergent institutions, mixed motives, and evidence limits.
 
 ## Key Characteristics
 
@@ -42,18 +43,19 @@ In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] jo
 - Guest-official comparison: [[40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m]] compares Li Si and Hart while explicitly distinguishing Qin office from a broad modern analogy.
 - Interpreter comparison: [[39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk]] compares colonial and diplomatic mediation without reducing either case to mistranslated vocabulary alone.
 - Literary close reading: [[38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt]] connects marriage and failed ideals to the institutional history of provincial Victorian England.
+- Diplomatic comparison: [[37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm]] compares Maisky and Feng Liao through relationships, local knowledge, political timing, credentials, and coercive backing.
 
 ## Qualifications
 
-This profile is bounded to six episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, translation, literary-ranking, and motive claims require specialist verification.
+This profile is bounded to seven episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, translation, diplomatic, literary-ranking, and motive claims require specialist verification.
 
 ## What Changed
 
-- Extended the show profile from comparative disaster history to comparative institutional and political history.
 - Added paired biography and connected colonial theaters as a third comparative mode.
 - Added cross-period comparison of outsider expertise, state capacity, and sovereignty.
 - Added comparative translation history as a fifth mode joining individual intermediaries to institutional language.
 - Added literary close reading as a sixth mode joining relationships and moral judgment to social and institutional history.
+- Added comparative diplomatic biography as a seventh mode joining local embeddedness to state strategy and personal vulnerability.
 
 ## Relationships
 
@@ -72,3 +74,5 @@ This profile is bounded to six episodes. It does not establish the show's full f
 - [[GeorgeEliot]] and [[Middlemarch]] - author and novel in the bounded literary discussion.
 - [[MarriageIdealizationMismatch]] - relationship mechanism developed through the novel's contrasting couples.
 - [[LiteratureAsSocialHistory]] - method connecting fictional lives to historical institutions and change.
+- [[IvanMaisky]] and [[FengLiaoWesternHan|冯嫽]] - paired diplomatic actors whose local networks become strategic resources.
+- [[EmbeddedDiplomaticIntermediation]] - mechanism connecting residence, local knowledge, trusted access, credentials, and state backing.

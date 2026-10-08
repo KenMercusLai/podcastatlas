@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽](sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm.md) — 怪东西以麦伊斯基与冯嫽对照本地知识、人际网络、国家支持与外交中介的个人风险。
 - [39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题](sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk.md) — 怪东西以马林切与马戛尔尼使团对照殖民和外交翻译，说明多层转译既能建立联盟与维持礼仪，也会重写臣服、朝贡、礼物和主权。
 - [40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）](sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m.md) — 怪东西以李斯与赫德对照外来人才、国家能力、政治信任与主权边界，并保留《史记》与《赵正书》的继位叙事冲突。
 - [41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝](sources/41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3.md) — 怪东西对照叶明琛与巴哈杜尔·沙二世，连接第二次鸦片战争、1857年印度大起义、殖民强权误判与象征权威的政治流放。
@@ -4138,6 +4139,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [伊万·麦伊斯基 / Ivan Maisky](entities/IvanMaisky.md) — 1932至1943年任苏联驻英大使，以英国政治网络推动集体安全和战时结盟，后遭苏联国内清洗。
 - [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。
 - [李自标 / Li Zibiao](entities/LiZibiao.md) — 以拉丁文、意大利文和中文参与马戛尔尼使团，却受官场语用、技术词汇与政治身份约束的译员。
 - [赫德 / Robert Hart](entities/RobertHart.md) — 长期主持中国海关总税务司署、连接行政建设与主权争议的英国籍清朝官员。
@@ -16946,6 +16948,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
 
 ## Concepts
+- [Embedded Diplomatic Intermediation / 嵌入式外交中介](concepts/EmbeddedDiplomaticIntermediation.md) — 长期居留、本地知识、人际信任与正式凭证把国家能力转化为可协商影响的外交机制。
 - [马戛尔尼使团 / Macartney Embassy](concepts/MacartneyEmbassy.md) — 英清双方借多语转译、礼物与改写公文接触，并在表面礼仪共识下保留制度冲突的1793年外交事件。
 - [翻译作为政治中介 / Translation as Political Mediation](concepts/TranslationAsPoliticalMediation.md) — 译者和译文通过身份、体裁、暗示与风险改变政治信息，而非仅替换词语。
 - [客卿式外来精英治理 / Guest-Official Governance](concepts/GuestOfficialGovernance.md) — 比较政权如何借助外来专才提升能力，并承受信任、代理与主权风险。

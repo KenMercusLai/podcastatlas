@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292
   - zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq
   - zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p
-last_updated: 2026-09-13
+  - 37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-冯嫽 / Feng Liao is synthesized as a Western Han Wusun-network diplomat whose authority comes from literacy, language ability, local knowledge, marriage ties, reputation, and state-backed credentials. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] supplies her origin layer as [[XieyouPrincessWesternHan|解忧公主]]'s attendant, sister-like companion, and later wife of the Wusun right general. [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] supplies the crisis role: after [[NimiWusun|狂王泥靡]] is killed and Wujiutu claims the Wusun title, [[ZhengJiWesternHan|郑吉]] sends Feng Liao to persuade Wujiutu before war begins. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] supplies the later return role: after Xieyou comes back to Chang'an, Feng Liao voluntarily returns in old age to help stabilize the young ruler Xingmi.
+冯嫽 / Feng Liao is synthesized as a Western Han Wusun-network diplomat whose authority comes from literacy, language ability, local knowledge, marriage ties, reputation, and state-backed credentials. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] supplies her origin layer as [[XieyouPrincessWesternHan|解忧公主]]'s attendant, sister-like companion, and later wife of the Wusun right general. [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] supplies the crisis role: after [[NimiWusun|狂王泥靡]] is killed and Wujiutu claims the Wusun title, [[ZhengJiWesternHan|郑吉]] sends Feng Liao to persuade Wujiutu before war begins. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] supplies the later return role. [[37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm|Weird History episode 37]] reinforces the same mechanism through an independent comparative retelling.
 
 ## Current Profile
 
@@ -21,6 +22,8 @@ Hanji 413-1 now makes Feng Liao's later authority less abrupt. She begins as Xie
 Her mediation works because it joins personal credibility to Han force. Zheng Ji sends her after Han has mobilized Western Regions forces and Dunhuang support, so her warning to Wujiutu is not empty. Wujiutu accepts submission but asks for a small-king title and a secure place. [[EmperorXuanOfHan|Xuan]] then summons Feng Liao, questions her directly about Wusun, and sends her back with imperial credentials and escorts to install Yuanguimi as large kunmi and Wujiutu as small kunmi.
 
 Hanji 463 adds the late sequel. After Yuanguimi and Chimi die, Xingmi succeeds while still too young and weak to command obedience. Feng Liao, already over seventy in the episode's telling, asks Xuan for permission to go back to Wusun and help settle the situation. Xuan agrees; Wusun and Western Regions people welcome her return; and, with her support, Xingmi suppresses rebellion and the Han-Wusun relationship remains friendly through the later succession to Cili Mi.
+
+Weird History episode 37 independently foregrounds the long preparation behind the famous mission. It places Feng Liao inside a decades-long Han-Wusun effort involving Liu Xijun and Xieyou, emphasizes her earlier document-bearing travel among Western Regions states, and compares her locally embedded authority with [[IvanMaisky|Ivan Maisky]]'s political network in Britain. The comparison supports [[EmbeddedDiplomaticIntermediation]] at a functional level while preserving the difference between a Han frontier intermediary and a modern ambassador.
 
 ## Key Characteristics
 
@@ -45,16 +48,18 @@ Hanji 463 adds the late sequel. After Yuanguimi and Chimi die, Xingmi succeeds w
 - Age and mission: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says she is already more than seventy yet travels far to the Western Regions.
 - Local reception: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Wusun and Western Regions people welcome her return.
 - Stabilizing effect: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Xingmi pacifies rebellion with her assistance and that Wusun remains on good terms with Han after his son Cili Mi succeeds.
+- Comparative corroboration: [[37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm|Weird History episode 37]] again links her documents, local language and marriage network to Wujiutu's negotiated submission and the split-kunmi settlement.
 
 ## Qualifications
 
-This page is bounded to Hanji 413-1, Hanji 461, and Hanji 463. It does not reconstruct Feng Liao's full biography, exact titles, original mission documents, the legal form of her credentials, or the full Wusun genealogy around Yuanguimi, Wujiutu, Chimi, Xingmi, and Cili Mi. Hanji 461's "first female diplomat" framing and Hanji 463's age statement are preserved as source claims rather than settled comparative historiography.
+This page is bounded to Hanji 413-1, Hanji 461, Hanji 463, and Weird History episode 37. It does not reconstruct Feng Liao's full biography, exact titles, original mission documents, the legal form of her credentials, or the full Wusun genealogy around Yuanguimi, Wujiutu, Chimi, Xingmi, and Cili Mi. The "first female diplomat" framing, her age, and the episode's claim that her final location is unknown are preserved as source claims rather than settled comparative historiography. The comparison with Maisky identifies a shared intermediary function, not equivalent offices.
 
 ## What Changed
 
 - Added Hanji 413-1's origin layer: Feng Liao's language ability, Xieyou relationship, Wusun right-general marriage, and early local reputation.
 - Preserved Hanji 461's crisis role: Feng Liao as the decisive intermediary who helps convert Han military pressure into a split-kunmi settlement.
 - Reframed Hanji 463's old-age return as a later instance of the same Wusun-network diplomatic authority.
+- Added an independent comparative retelling that reinforces her locally embedded authority while explicitly limiting the modern-ambassador analogy.
 
 ## Relationships
 
@@ -66,3 +71,5 @@ This page is bounded to Hanji 413-1, Hanji 461, and Hanji 463. It does not recon
 - [[DiplomaticPersonaAsStrategicAsset]] - related concept because Feng Liao's reputation, identity, and local standing make the mission work.
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - related concept because her persuasion is credible in the shadow of Han military capacity.
 - [[MissionDrivenFrontierResponsibility|使命驱动的边疆责任]] - related concept because Feng Liao accepts a difficult late-life frontier mission.
+- [[EmbeddedDiplomaticIntermediation]] - comparative mechanism connecting local knowledge, trusted access, credentials, and state backing.
+- [[IvanMaisky]] - modern comparison whose locally cultivated network performed a related intermediary function in a different institution.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9943
+wiki_total_pages: 9944
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "EmbarrassmentTrustSignal"
     title: "Embarrassment Trust Signal"
     url: "/wiki/concepts/embarrassmenttrustsignal/"
+  - key: "EmbeddedDiplomaticIntermediation"
+    title: "Embedded Diplomatic Intermediation / 嵌入式外交中介"
+    url: "/wiki/concepts/embeddeddiplomaticintermediation/"
   - key: "EmbeddedForeignReporting"
     title: "Embedded Foreign Reporting"
     url: "/wiki/concepts/embeddedforeignreporting/"

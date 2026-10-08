@@ -4100,6 +4100,18 @@
       "url": "/topics/history/"
     }
   ],
+  "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "37-spies-with-ben-macintyre-glt4382644548": [
     {
       "key": "history",
@@ -31628,6 +31640,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmbeddedDiplomaticIntermediation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmbodiedAI": [
     {
       "key": "technology",
@@ -47249,6 +47268,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "IvanMaisky": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "IvoParashkevov": [

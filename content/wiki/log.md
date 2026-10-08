@@ -32513,3 +32513,11 @@ Added source `38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhen
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽
+
+Added source `37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm`; created [[IvanMaisky|伊万·麦伊斯基]] and [[EmbeddedDiplomaticIntermediation|嵌入式外交中介]]; and resynthesized [[FengLiaoWesternHan|冯嫽]] and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: locally embedded intermediaries can convert cultural knowledge, trusted relationships, political timing, credentials, and state capacity into diplomatic leverage, but they do not control leadership decisions and remain exposed to recall, coercion, succession, and shifting strategy. No settled contradiction was adopted. The causes of failed Anglo-Soviet coalition-building, Maisky's policy influence and intelligence role, the Wusun chronology and titles, and claims that Feng Liao was China's first female diplomat remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,069 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2605
+topic_total_pages: 2606
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5937,6 +5937,9 @@ topic_sources:
   - key: "369-the-colosseum-romes-arena-of-death-glt7808118779"
     title: "369. The Colosseum: Rome's Arena of Death"
     url: "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+  - key: "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm"
+    title: "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽"
+    url: "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
   - key: "37-spies-with-ben-macintyre-glt4382644548"
     title: "37. Spies, with Ben Macintyre"
     url: "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"

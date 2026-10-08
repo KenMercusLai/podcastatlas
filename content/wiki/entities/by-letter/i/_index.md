@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12754
+wiki_total_pages: 12755
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "ImperialMaritimeCustoms"
     title: "中国海关总税务司署 / Chinese Imperial Maritime Customs Service"
     url: "/wiki/entities/imperialmaritimecustoms/"
+  - key: "IvanMaisky"
+    title: "伊万·麦伊斯基 / Ivan Maisky"
+    url: "/wiki/entities/ivanmaisky/"
   - key: "ItoHiromi"
     title: "伊藤比吕美 / Itō Hiromi"
     url: "/wiki/entities/itohiromi/"

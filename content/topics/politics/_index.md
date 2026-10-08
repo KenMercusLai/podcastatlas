@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3206
+topic_total_pages: 3209
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1327,6 +1327,9 @@ topic_concepts:
   - key: "ElizabethanRecusancySecurityState"
     title: "Elizabethan Recusancy Security State"
     url: "/wiki/concepts/elizabethanrecusancysecuritystate/"
+  - key: "EmbeddedDiplomaticIntermediation"
+    title: "Embedded Diplomatic Intermediation / 嵌入式外交中介"
+    url: "/wiki/concepts/embeddeddiplomaticintermediation/"
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
@@ -7925,6 +7928,9 @@ topic_entities:
   - key: "RenTingEasternHan"
     title: "任廷 / Ren Ting (Eastern Han)"
     url: "/wiki/entities/rentingeasternhan/"
+  - key: "IvanMaisky"
+    title: "伊万·麦伊斯基 / Ivan Maisky"
+    url: "/wiki/entities/ivanmaisky/"
   - key: "Estraven"
     title: "伊斯特拉凡 / Estraven"
     url: "/wiki/entities/estraven/"
@@ -8523,6 +8529,9 @@ topic_sources:
   - key: "360-fear-city-new-york-in-the-1970s-glt7107047696"
     title: "360. Fear City: New York in the 1970s"
     url: "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+  - key: "37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm"
+    title: "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽"
+    url: "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
   - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
     title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
     url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
