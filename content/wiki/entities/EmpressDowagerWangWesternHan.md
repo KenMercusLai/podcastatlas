@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
   - zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5
+  - zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-王太后（王娡） / Empress Dowager Wang is [[HanWudi|汉武帝]]'s mother and [[TianFenWesternHan|田蚡]]'s sister. Her profile now begins before accession, with the paired elevation of Wang as empress and the child Liu Che as crown prince, then follows the maternal clan's rewards, her tactical advice to a newly enthroned son, and the continuing protection that lets Tian Fen recover from a shared purge, surpass [[DouYingWesternHan|窦婴]], and later receive direct family intervention.
+王太后（王娡） / Empress Dowager Wang is [[HanWudi|汉武帝]]'s mother and [[TianFenWesternHan|田蚡]]'s sister. Her profile now begins with a first marriage and [[ZangErWesternHan|maternal strategy]] that moves her into Crown Prince Liu Qi's household, then follows harem positioning, elevation as empress, Liu Che's succession, maternal-clan rewards, tactical advice, and the continuing protection that lets Tian Fen recover from a shared purge, surpass [[DouYingWesternHan|窦婴]], and later receive direct family intervention.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5|Hanji 239 part 2]] moves the opening of Wang's profile earlier. It places her elevation as empress and seven-year-old Liu Che's installation as crown prince in the same month, then interprets the result through careful action by Wang and her mother. The family's marriage placements and Wang Xin's enfeoffment are used as supporting context, but exact agency, sequencing, motives, and whether those ties caused the succession outcome remain episode-attributed.
+[[zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr|Hanji 238 part 2]] moves the opening before palace life. It says Wang first married Jin Wangsun and had a daughter, then entered Crown Prince Liu Qi's household after [[ZangErWesternHan|臧儿]] acted on a physiognomic prediction. Wang's recommendation of her sister Wang Maoxu, reported sun-entry dream before Liu Che's birth, rank as furen, restraint toward rival consorts, and attention to Dowager Dou and Liu Piao are presented as cumulative positioning. The fragment ends before showing those relationships produce a succession result, so consent, omen transmission, deliberate coordination, and causation remain episode-attributed.
+
+[[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5|Hanji 239 part 2]] continues the profile by placing Wang's elevation as empress and seven-year-old Liu Che's installation as crown prince in the same month. It interprets the result through careful action by Wang and her mother. The family's marriage placements and Wang Xin's enfeoffment are used as supporting context, but exact agency, sequencing, motives, and whether those ties caused the succession outcome remain episode-attributed.
 
 [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] supplies the transition into the dowager role: Liu Che elevates Wang at accession and soon enfeoffs her half-brothers Tian Fen and Tian Sheng. The host backfills Wang's earlier marriage to Jin Wangsun and movement into the crown prince's household as a family gamble, but willingness, age, and motive remain commentary rather than established biography.
 
@@ -35,16 +38,17 @@ last_updated: 2026-10-08
 
 ## Key Characteristics
 
-- Mother of Han Wudi whose elevation as empress is paired with his installation as crown prince, before accession and her brothers' later enfeoffment expand the maternal-family channel.
+- Daughter whose first marriage is redirected into palace entry, then mother of Han Wudi whose elevation as empress is paired with his installation as crown prince.
+- Uses sisterly proximity, omen narrative, imperial favor, and accommodation with senior court women as attributed tools of harem positioning.
 - Sister and political patron of Tian Fen.
 - Gives Tian Fen kinship access that complements his Dou-family network familiarity.
 - Preserves Tian Fen's access after a shared purge and supports the later restoration that reverses his standing against Dou Ying.
 - Uses information from formal court debate to intervene directly for her natal family.
-- Changes the relative vulnerability of Tian Fen and Dou Ying.
-- Reportedly loses her principal political helper when Tian Fen dies.
+- Reportedly loses her principal political helper when Tian Fen dies after changing the relative vulnerability of Tian Fen and Dou Ying.
 
 ## Evidence
 
+- Pre-palace route and harem positioning: [[zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr|Hanji 238 part 2]] links Zang Er's intervention, Wang's entry into Liu Qi's household, her sister's arrival, the sun-dream report, and careful court relationships while stopping before the succession outcome.
 - Empress and crown-prince pairing: [[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5|Hanji 239 part 2]] records Wang's elevation and Liu Che's installation in the same month and attributes the outcome partly to maternal-family political work.
 - Accession and maternal-clan transition: [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] records Wang's elevation and the subsequent enfeoffment of Tian Fen and Tian Sheng.
 - Mediated political action: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] says Wang relies on Tian Fen and retainer advice for political action, while framing the particular brother as structurally replaceable.
@@ -58,19 +62,21 @@ last_updated: 2026-10-08
 
 ## Qualifications
 
-The eight summaries do not provide a wider biography or institutional measure of Wang's influence. Hanji 239 part 2 does not establish Liu Che's exact age, the full succession mechanism, Wang's or Zang Er's interior motives, whether the listed marriages preceded or caused political consolidation, or the details of Wang Xin's reward. Maternal closeness is not identical to formal supremacy, and Hanji 263 explicitly gives Dowager Dou greater senior authority. Hanji 246 does not establish Wang's age, agency in leaving her first marriage, family motives, or private emotions. Hanji 251 does not independently establish Wang's exact warning, the Mingtang sequence, Wudi's likelihood of punishment, or whether he fully concealed resentment because of her advice. The sources do not quantify Wang's role in Tian Fen's appointments or restoration, identify matters handled through his retainers, establish whether she truly depended on a replaceable brother, or show how much her later intervention caused the punishment. Exact speech, monitoring channels, emotional conduct, and “complete withdrawal” remain episode-attributed.
+The nine summaries do not provide a wider biography or institutional measure of Wang's influence. Hanji 238 part 2 does not establish the genealogy, legality or consent surrounding her departure from Jin Wangsun, the physiognomist or prediction, exact access route, sisterly coordination, dream transmission, harem hierarchy, or whether relationship management caused Liu Che's eventual selection. Hanji 239 part 2 does not establish Liu Che's exact age, the full succession mechanism, Wang's or Zang Er's interior motives, whether the listed marriages preceded or caused political consolidation, or the details of Wang Xin's reward. Maternal closeness is not identical to formal supremacy, and Hanji 263 explicitly gives Dowager Dou greater senior authority. Hanji 246 does not establish Wang's age, agency in leaving her first marriage, family motives, or private emotions. Hanji 251 does not independently establish Wang's exact warning, the Mingtang sequence, Wudi's likelihood of punishment, or whether he fully concealed resentment because of her advice. The sources do not quantify Wang's role in Tian Fen's appointments or restoration, identify matters handled through his retainers, establish whether she truly depended on a replaceable brother, or show how much her later intervention caused the punishment. Exact speech, monitoring channels, emotional conduct, and “complete withdrawal” remain episode-attributed.
 
 ## What Changed
 
-- Moved the profile's opening before accession by adding Wang's elevation as empress alongside Liu Che's installation as crown prince.
-- Added maternal-family planning as the episode's explanation while keeping agency, causation, and marriage chronology source-scoped.
-- Reframed the later maternal-clan channel as a phased sequence from succession positioning to accession rewards, tactical advice, patronage, and direct intervention.
+- Moved the profile's opening before palace life by adding the first marriage, Zang Er's intervention, and entry into Liu Qi's household.
+- Added sisterly alliance, omen narrative, restraint, and senior-court relationship management as attributed positioning mechanisms.
+- Preserved consent, genealogy, dream transmission, private motive, and succession causation as source-scoped.
 
 ## Relationships
 
 - [[HanWudi|汉武帝]] - son whose early options are shaped by both maternal closeness and senior dowager authority.
+- [[ZangErWesternHan|臧儿]] - mother presented as initiating Wang's move from a first marriage into the crown prince's household.
 - [[TianFenWesternHan|田蚡]] - brother, officeholder, adviser, and principal political helper backed by Wang.
 - [[EmpressDowagerDouWesternHan|窦太后]] - senior dowager whose formal and experienced authority overlaps Wang's maternal channel.
 - [[DouYingWesternHan|窦婴]] - rival outer relative whose protection disappears while Tian Fen retains Wang's backing.
 - [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]] - court structure in which different family channels both cooperate and compete.
 - [[RetainerInformationInfrastructure|门客信息基础设施]] - private capacity Tian Fen reportedly uses in service of Wang and Wudi.
+- [[PalaceMarriageFamilyMobility|后宫婚姻式家族跃迁]] - pre-power mechanism connecting family intervention, palace access, harem position, and later outer-relative status.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12703
+wiki_total_pages: 12704
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "Zhiyanzhai"
     title: "脂砚斋 / Zhiyanzhai"
     url: "/wiki/entities/zhiyanzhai/"
+  - key: "ZangErWesternHan"
+    title: "臧儿 / Zang Er (Western Han)"
+    url: "/wiki/entities/zangerwesternhan/"
   - key: "ZangGongEasternHan"
     title: "臧宫 / Zang Gong (Eastern Han)"
     url: "/wiki/entities/zanggongeasternhan/"

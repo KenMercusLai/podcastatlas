@@ -72160,9 +72160,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerWangWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -72219,6 +72219,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2） [lpIK9ExSirVYRpPu8c9I89IqJNcr].md",
+          "key": "zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr/"
         }
       ],
       "updated": "2026-10-08",
@@ -176302,9 +176309,9 @@
       "url": "/wiki/concepts/palaceinformationdiscipline/"
     },
     "PalaceMarriageFamilyMobility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？ [lsLnGJneDMQGh8h5nFC_QMyaHqNM].md",
@@ -176312,6 +176319,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2） [lpIK9ExSirVYRpPu8c9I89IqJNcr].md",
+          "key": "zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr/"
         }
       ],
       "updated": "2026-08-30",
@@ -258950,6 +258964,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zangbalatehan/"
+    },
+    "ZangErWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2） [lpIK9ExSirVYRpPu8c9I89IqJNcr].md",
+          "key": "zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zangerwesternhan/"
     },
     "ZangGongEasternHan": {
       "episode_count": 1,

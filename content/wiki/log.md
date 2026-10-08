@@ -32284,3 +32284,11 @@ Added source `zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhua
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2）
+
+Added source `zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr`; created [[ZangErWesternHan|臧儿]]; and resynthesized [[EmpressDowagerWangWesternHan|王太后（王娡）]] and [[PalaceMarriageFamilyMobility|后宫婚姻式家族跃迁]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the supplied fragment does not cover the Seven States rebellion or Liu An; it backfills Wang Zhi's first marriage, Zang Er's status-driven intervention, palace entry, sisterly alliance, omen narrative, harem rank, and careful management of Jingdi, Dowager Dou, and Liu Piao. The route broadens palace-marriage mobility from childhood preparation to marriage redirection and access-network construction, while consent, legality, genealogy, prediction and dream transmission, relationship intent, and succession causation remain source-scoped. 王治／张儿 and the uncertain 燕王张图 wording were normalized cautiously to 王娡／臧儿 without creating speculative identities. Broad Han Jingdi, Han Wudi, Liu Piao, Liu An, and show pages were kept closed because the bounded additions are represented in the focused source, figure, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,040 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
