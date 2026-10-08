@@ -14,6 +14,7 @@ sources:
   - 34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g
   - 33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl
   - 32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz
+  - 31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -22,11 +23,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, interpreters, diplomats, commanders, regents, chivalric archetypes, and wartime assassinations, as well as a reading episode that joins literary interpretation to social history.
+怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, interpreters, diplomats, commanders, regents, chivalric archetypes, wartime assassinations, and royal impostors, as well as a reading episode that joins literary interpretation to social history.
 
 ## Current Profile
 
-In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official source compares [[LiSi|李斯]] and [[RobertHart|赫德]] through elite mobility, imported state capacity, political trust, and sovereignty. The interpreter source connects [[Malinche]] and the [[MacartneyEmbassy|Macartney Embassy]] through relay interpretation, coercion, institutional language, and the political uses of ambiguity. The [[Middlemarch]] source adds a book-discussion mode. Episode 37 compares [[IvanMaisky|Ivan Maisky]] and [[FengLiaoWesternHan|Feng Liao]] through [[EmbeddedDiplomaticIntermediation|embedded diplomatic intermediation]]. Episode 35 compares [[PrinceEugeneOfSavoy|Prince Eugene]] with Western Han commanders through [[MilitaryAchievementPoliticalConditions|the political conditions of military achievement]]. Episode 34 compares [[HunyadiJanos|Hunyadi János]] and [[Zaifeng|Zaifeng]] through [[RegencyAuthorityConversion|the conversion of delegated office into practical authority]]. Episode 33 compares historical youxia, literary wuxia, knights, samurai, ronin, bogatyrs, and modern heroes through [[ChivalricArchetypeComparison|shared virtues and divergent institutions]]. Episode 32 compares the killings of [[ReinhardHeydrich]] and [[ChenLu|陈箓]] through [[AssassinationReprisalTradeoff|symbolic resistance and distributed reprisal costs]]. Across the eleven episodes, the show uses comparison or close reading to expose mechanisms while preserving divergent institutions, mixed motives, and evidence limits.
+In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official source compares [[LiSi|李斯]] and [[RobertHart|赫德]] through elite mobility, imported state capacity, political trust, and sovereignty. The interpreter source connects [[Malinche]] and the [[MacartneyEmbassy|Macartney Embassy]] through relay interpretation, coercion, institutional language, and the political uses of ambiguity. The [[Middlemarch]] source adds a book-discussion mode. Episode 37 compares [[IvanMaisky|Ivan Maisky]] and [[FengLiaoWesternHan|Feng Liao]] through [[EmbeddedDiplomaticIntermediation|embedded diplomatic intermediation]]. Episode 35 compares [[PrinceEugeneOfSavoy|Prince Eugene]] with Western Han commanders through [[MilitaryAchievementPoliticalConditions|the political conditions of military achievement]]. Episode 34 compares [[HunyadiJanos|Hunyadi János]] and [[Zaifeng|Zaifeng]] through [[RegencyAuthorityConversion|the conversion of delegated office into practical authority]]. Episode 33 compares historical youxia, literary wuxia, knights, samurai, ronin, bogatyrs, and modern heroes through [[ChivalricArchetypeComparison|shared virtues and divergent institutions]]. Episode 32 compares the killings of [[ReinhardHeydrich]] and [[ChenLu|陈箓]] through [[AssassinationReprisalTradeoff|symbolic resistance and distributed reprisal costs]]. Episode 31 compares returning-ruler legends, successful pretenders, mass rebellion, press-amplified rumor, and recurring dynastic banners through [[ClaimantImpostorCrisisHandling|claimant crisis handling]] and [[ClaimantPoliticsAndPublicSpectacle|claimant political usability]]. Across the twelve episodes, the show uses comparison or close reading to expose mechanisms while preserving divergent institutions, mixed motives, and evidence limits.
 
 ## Key Characteristics
 
@@ -36,7 +37,7 @@ In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] jo
 - Uses paired biographies to separate operational control from symbolic authority under colonial conquest.
 - Extends historically specific terms cautiously into cross-period mechanisms such as [[GuestOfficialGovernance|guest-official governance]].
 - Treats translation, literary relationships, military reputation, and political violence as products of institutions, resources, and mediation.
-- Separates shared archetypes or tactics from the different political systems, risk positions, and social meanings surrounding them.
+- Separates shared archetypes, tactics, and legitimacy mechanisms from the different political systems, risk positions, and social meanings surrounding them.
 
 ## Evidence
 
@@ -52,14 +53,15 @@ In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] jo
 - Regency comparison: [[34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g]] contrasts Hunyadi's capacity-first authority with Zaifeng's office-first attempt at imperial-clan control.
 - Chivalric comparison: [[33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl]] separates historical youxia from literary wuxia and compares侠客 with knights, samurai, ronin, bogatyrs, and later heroes without treating them as equivalent institutions.
 - Assassination comparison: [[32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz]] compares two wartime killings through target value, operational contingency, resistance symbolism, organizational politics, and reprisals against wider networks and civilians.
+- Claimant comparison: [[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi]] compares imperial-return legend, coronated pretender, peasant insurgency, newspaper rumor, order-first arrest, and a reusable anti-dynastic banner without treating the cases as institutionally identical.
 
 ## Qualifications
 
-This profile is bounded to eleven episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, translation, diplomatic, military, regency, literary-ranking, comparative-chivalry, assassination, casualty, and motive claims require specialist verification.
+This profile is bounded to twelve episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, translation, diplomatic, military, regency, literary-ranking, comparative-chivalry, assassination, claimant-identity, casualty, and motive claims require specialist verification.
 
 ## What Changed
 
-- Added wartime assassination comparison as an eleventh mode, preserving the difference between symbolic target removal, institutional disruption, and reprisal costs.
+- Added claimant comparison as a twelfth mode, separating identity truth from the political demand, recognition, organization, and legitimacy work attached to a sovereign name.
 
 ## Relationships
 
@@ -89,3 +91,6 @@ This profile is bounded to eleven episodes. It does not establish the show's ful
 - [[ReinhardHeydrich]] and [[ChenLu|陈箓]] - targets in the paired wartime assassination episode.
 - [[OperationAnthropoid]] - European operation used to examine exile strategy, contingency, reprisal, and memory.
 - [[AssassinationReprisalTradeoff]] - mechanism connecting symbolic resistance to distributed retaliation.
+- [[FrederickIIHolyRomanEmperor]], [[FalseDmitryI]], and [[YemelyanPugachev]] - returning-emperor memory, successful pretender, and mass-insurgency cases in the claimant comparison.
+- [[ClaimantImpostorCrisisHandling]] - institutional framework for action before claimant identity is settled.
+- [[ClaimantPoliticsAndPublicSpectacle]] - public-mobilization framework for claims sustained by recognition, media, grievance, or organization.

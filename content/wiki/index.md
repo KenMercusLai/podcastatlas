@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [31 狗胆包天：东西方的冒牌皇帝](sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi.md) — 怪东西以腓特烈二世、伪德米特里、普加乔夫、假光绪、假戾太子和朱三太子说明：身份真伪之外，继承裂缝、社会诉求、承认、舆论与组织决定冒名能否成为政治力量。
 - [32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓](sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz.md) — 怪东西以类人猿行动与上海刺杀陈箓案比较二战中的象征性抵抗、行动偶然性、情报组织政治及由地下网络和平民承担的报复代价。
 - [33 东西方的侠客：从春秋战国到中世纪欧洲](sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl.md) — 怪东西从汉代游侠、中央集权与私人权威的冲突出发，区分历史游侠和文学武侠，并比较侠客、骑士、浪人、博加特耶尔及现代英雄原型。
 - [34 从匈牙利战神到大清末代接盘侠：东西方的摄政王](sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g.md) — 怪东西以周公传统、匈雅提和载沣说明摄政头衔只有与军权、资源、联盟、制度适配和合法性结合，才能转化为有效统治。
@@ -4148,6 +4149,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [Frederick II, Holy Roman Emperor / 神圣罗马皇帝腓特烈二世](entities/FrederickIIHolyRomanEmperor.md) — 死后回归传说、冒名者与“沉睡皇帝”传统使其理想化君主身份持续具有政治可用性。
+- [False Dmitry I / 伪德米特里一世](entities/FalseDmitryI.md) — 借王朝绝嗣、社会危机、外国支持与公众承认从可疑身份登上俄国皇位的冒名者。
+- [Yemelyan Pugachev / 叶梅利扬·普加乔夫](entities/YemelyanPugachev.md) — 冒充彼得三世、把土地自由诉求与王权身份结合为大规模起义，同时留下严重暴力记录的哥萨克首领。
 - [Chen Lu / 陈箓](entities/ChenLu.md) — 从留法法律人才和资深外交官转为日伪维新政府外交部长、1939年在上海遇刺的政治人物。
 - [Operation Anthropoid / 类人猿行动](entities/OperationAnthropoid.md) — 捷克斯洛伐克流亡政府与英国支持、成功刺杀海德里希并引发大规模报复的二战抵抗行动。
 - [Jozef Gabčík / 约瑟夫·盖伯齐克](entities/JozefGabcik.md) — 类人猿行动的斯洛伐克执行者，主武器卡壳后脱离现场，最终死于布拉格教堂围攻。
@@ -18247,7 +18251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Character-Space Production Design / 人物空间美术设计](concepts/CharacterSpaceProductionDesign.md) — Use of room allocation, furniture, sightlines, tone, clutter, and functional compromise to express character and relationships.
 - [Workstation Posture Adjustment / 工位姿势调整](concepts/WorkstationPostureAdjustment.md) — Conditional fitting of screens, desks, chairs, supports, and task layout within movement variability and symptom-sensitive rehabilitation.
 - [Joint Supplement and Treatment Boundary / 关节补剂与治疗边界](concepts/JointSupplementTreatmentBoundary.md) — Distinguishes nutritional or symptom support from claims to diagnose, regenerate, or treat damaged joints, cartilage, and bone.
-- [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which media, funding, courtroom entertainment, grievance, and organization make a weak identity claim politically durable.
+- [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which recognition, media, ritual signs, grievance, organization, or armed coalition make a disputed identity politically useful.
 - [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — One historical-fiction method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
 - [Historical Fiction and Historical Imagination](concepts/HistoricalFictionHistoricalImagination.md) — Plural framework joining evidence, worldview, voice, imaginative truth, public memory, and ethical proximity in fiction about the past.
 - [Food-System Nutrition Responsibility](concepts/FoodSystemNutritionResponsibility.md) — Shared-responsibility frame connecting dietary agency to knowledge, access, affordability, product design, institutional defaults, and external costs.
@@ -19091,7 +19095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High-Salary Exit Scam Trap / 高薪出境骗局](concepts/HighSalaryExitScamTrap.md) — Recruitment pattern where high pay or acquaintances lure victims across borders before coercion becomes visible.
 - [Cross-Border Crime Sanctuary / 跨境犯罪庇护地](concepts/CrossBorderCrimeSanctuary.md) — Borderland governance pattern where fragmented authority, terrain, and jurisdictional friction help organized crime cluster.
 - [Geopolitical Criminal Deterrence / 地缘犯罪威慑](concepts/GeopoliticalCriminalDeterrence.md) — Source-scoped theory that criminal groups price victim nationality by expected state retaliation and local influence.
-- [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
+- [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Framework separating claimant containment, identity verification, legal process, supporting networks, and the unresolved political demand attached to a sovereign name.
 - [Palace Proximity Vigilance / 近侍警觉](concepts/PalaceProximityVigilance.md) — Close-servant security pattern where quiet observation, threshold access, and boundary discipline protect a ruler from hidden palace danger.
 - [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma spanning Jiang Chong's prehistory, support-network purge, manufactured evidence, command collapse, remorse, Ma-family aftershock, and the later false Liu Ju return crisis.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.

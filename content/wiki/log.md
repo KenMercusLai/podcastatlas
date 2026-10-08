@@ -32585,3 +32585,11 @@ Added source `32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 31 狗胆包天：东西方的冒牌皇帝
+
+Added source `31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi`; created [[FrederickIIHolyRomanEmperor|神圣罗马皇帝腓特烈二世]], [[FalseDmitryI|伪德米特里一世]], and [[YemelyanPugachev|叶梅利扬·普加乔夫]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[ClaimantImpostorCrisisHandling|宗室冒认危机处置]], and [[ClaimantPoliticsAndPublicSpectacle]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a disputed sovereign identity becomes politically consequential when succession rupture, recognition, sacred signs, press circulation, social grievance, foreign support, or organization gives the name a practical job; containment of one claimant does not resolve the underlying network or demand, and a dynastic identity can survive as a reusable banner. No settled contradiction was adopted. Claimant identities, individual motives, chronology, legal reasoning, force and casualty totals, and psychological explanations remain source-scoped or disputed. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,079 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

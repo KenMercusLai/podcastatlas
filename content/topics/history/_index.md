@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2611
+topic_total_pages: 2612
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5745,6 +5745,9 @@ topic_sources:
   - key: "309-columbus-villain-or-hero-part-4-glt6751575003"
     title: "309: Columbus: Villain or Hero? (Part 4)"
     url: "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+  - key: "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi"
+    title: "31 狗胆包天：东西方的冒牌皇帝"
+    url: "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
   - key: "31-the-second-reich-glt1008050219"
     title: "31. The Second Reich"
     url: "/wiki/sources/31-the-second-reich-glt1008050219/"

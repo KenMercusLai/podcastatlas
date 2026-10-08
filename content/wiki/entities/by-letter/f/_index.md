@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12771
+wiki_total_pages: 12774
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "FallsCurfew"
     title: "Falls Curfew"
     url: "/wiki/entities/fallscurfew/"
+  - key: "FalseDmitryI"
+    title: "False Dmitry I / 伪德米特里一世"
+    url: "/wiki/entities/falsedmitryi/"
   - key: "FamilyDollar"
     title: "Family Dollar"
     url: "/wiki/entities/familydollar/"
@@ -701,6 +704,9 @@ wiki_pages:
   - key: "FrederickDouglass"
     title: "Frederick Douglass"
     url: "/wiki/entities/frederickdouglass/"
+  - key: "FrederickIIHolyRomanEmperor"
+    title: "Frederick II, Holy Roman Emperor / 神圣罗马皇帝腓特烈二世"
+    url: "/wiki/entities/frederickiiholyromanemperor/"
   - key: "FrederickJacksonTurner"
     title: "Frederick Jackson Turner"
     url: "/wiki/entities/frederickjacksonturner/"

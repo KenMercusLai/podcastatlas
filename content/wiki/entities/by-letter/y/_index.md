@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12771
+wiki_total_pages: 12774
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "YegorGaidar"
     title: "Yegor Gaidar"
     url: "/wiki/entities/yegorgaidar/"
+  - key: "YemelyanPugachev"
+    title: "Yemelyan Pugachev / 叶梅利扬·普加乔夫"
+    url: "/wiki/entities/yemelyanpugachev/"
   - key: "Yemen"
     title: "Yemen"
     url: "/wiki/entities/yemen/"

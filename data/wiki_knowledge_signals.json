@@ -43197,9 +43197,9 @@
       "url": "/wiki/concepts/cixihomeappliancecluster/"
     },
     "ClaimantImpostorCrisisHandling": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -43214,15 +43214,22 @@
           "show": "The Rest Is History",
           "title": "400. Victorian Britain's Maddest Mystery",
           "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        },
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/claimantimpostorcrisishandling/"
     },
     "ClaimantPoliticsAndPublicSpectacle": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4466006716 [GLT4466006716].md",
@@ -43230,6 +43237,13 @@
           "show": "The Rest Is History",
           "title": "400. Victorian Britain's Maddest Mystery",
           "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        },
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
         }
       ],
       "updated": "2026-09-27",
@@ -79085,6 +79099,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/fallenvanguardheirreward/"
     },
+    "FalseDmitryI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/falsedmitryi/"
+    },
     "FalseReinforcementDeception": {
       "episode_count": 1,
       "show_count": 1,
@@ -87690,6 +87720,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/frederickdouglass/"
+    },
+    "FrederickIIHolyRomanEmperor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/frederickiiholyromanemperor/"
     },
     "FrederickJacksonTurner": {
       "episode_count": 1,
@@ -248643,9 +248689,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248723,6 +248769,13 @@
           "show": "怪东西Weird History",
           "title": "32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓",
           "url": "/wiki/sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz/"
+        },
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
         }
       ],
       "updated": "2026-10-08",
@@ -259309,6 +259362,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/yellowriverflood1938/"
+    },
+    "YemelyanPugachev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lubR4wDmIa6eJEDs3AUrBQWLiImi [lubR4wDmIa6eJEDs3AUrBQWLiImi].md",
+          "key": "31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi",
+          "show": "怪东西Weird History",
+          "title": "31 狗胆包天：东西方的冒牌皇帝",
+          "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yemelyanpugachev/"
     },
     "YiMeiZhiMingDrama": {
       "episode_count": 1,

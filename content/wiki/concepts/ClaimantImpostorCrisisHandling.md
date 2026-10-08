@@ -6,6 +6,7 @@ tags: [identity, crisis-management, legal-process, court-politics, populism]
 sources:
   - zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1
   - 400-victorian-britains-maddest-mystery-glt4466006716
+  - 31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi
 last_updated: 2026-09-27
 ---
 
@@ -21,33 +22,40 @@ Claimant-impostor crisis handling is the institutional problem created when a pe
 
 The [[TichborneClaimant]] supplies a contrasting slow legal-publicity case in [[400-victorian-britains-maddest-mystery-glt4466006716]]. [[ArthurOrton]] failed repeated identity tests, but maternal recognition, [[AndrewBogle]]'s testimony, subscriptions, courtroom spectacle, and [[EdwardKeneally]]'s organization prevented verification from closing the social dispute. Unlike the Han case, extended adjudication preserved legal process while giving the claimant time, stages, and media through which to become politically useful.
 
+[[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi|Weird History 31]] expands the range from a palace gate and courtroom to accession, revolt, press rumor, and recurring dynastic banners. [[FalseDmitryI|False Dmitry I]] shows the cost of delayed or failed containment when elite and foreign support, public recognition, and dynastic vacuum carry a claimant to the throne. [[YemelyanPugachev|Pugachev]] shows that exposing or disbelieving the person may not dissolve an insurgency once the identity organizes land, freedom, religious, and anti-serfdom grievances. The false Guangxu and repeated Zhu San Taizi cases further show that handling must address the political conditions making the name usable, not only the claimant's biography.
+
 ## Key Claims
 
-- A royal-identity claim can become politically dangerous before its truth is known when it touches a recent succession trauma.
-- Resemblance can paralyze officials because denying a possible royal survivor carries personal and institutional risk.
-- Public crowd formation turns an identity dispute into a palace-security and legitimacy problem.
-- Crisis handling may require reframing the question from "is he real?" to "what status could this claimant legally hold even if real?"
-- Former-ruler authority and current dynastic continuity can be used to block a claimant from becoming politically usable.
-- Verification still matters, but in the source it comes after containment rather than before action.
-- Open legal process can contain a claimant procedurally while amplifying the claim through publicity and organization, allowing political usefulness to survive evidentiary failure.
+- A consequential identity claim can create a legitimacy and order crisis before factual verification is complete.
+- Resemblance, maternal or spousal recognition, sacred signs, and press repetition can shift political behavior without proving identity.
+- Authorities face a sequencing problem among containment, verification, legal process, and management of the grievance or succession vacuum sustaining the claim.
+- Reframing can make a claimant politically unusable even under uncertainty, as Jun Buyi does by asking what status a real survivor could lawfully hold.
+- Open adjudication protects process but can also provide time, audiences, and organization that keep a weak claim politically alive.
+- Killing, exposing, or arresting one claimant may fail when the claimed name has become a reusable coalition or rebellion symbol.
+- Effective handling must distinguish the person, the identity claim, the supporting network, and the unresolved political demand attached to it.
 
 ## Evidence
 
-- Triggering claim: [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] says a man comes to Weiyang Palace's north gate claiming to be Liu Ju, who was believed dead after the Wugu affair.
-- Official hesitation: [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] says senior officials hesitate because the man looks like the former crown prince.
-- Public-risk signal: [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] says commoners gather at the palace gate and soldiers guard against disorder.
-- Reframing move: [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] says Jun Buyi orders arrest and argues that even a real Liu Ju would remain a state criminal after offending the former emperor.
-- Verification after containment: [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] says the claimant later confesses as Cheng Fangsui, a diviner who had been told he resembled Liu Ju.
-- Contradiction and adjudication: [[400-victorian-britains-maddest-mystery-glt4466006716]] contrasts Orton's background, language, memory, body, and missing tattoos with years of proceedings.
-- Public amplification: [[400-victorian-britains-maddest-mystery-glt4466006716]] connects subscriptions, courtroom audiences, newspapers, rallies, merchandise, and organizing to durability.
+Containment before verification:
+- [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] joins resemblance, crowd formation, official hesitation, Jun Buyi's immediate arrest, and later confession as Cheng Fangsui.
+- [[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi|Weird History 31]] restates Jun's move as an interpretation that preserves the existing settlement whether the claimant is false or real.
+
+Process and amplification:
+- [[400-victorian-britains-maddest-mystery-glt4466006716]] contrasts Orton's failed identity tests with years of civil and criminal proceedings, subscriptions, newspapers, rallies, merchandise, and organization.
+- [[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi|Weird History 31]] says newspapers and late-Qing court rumors helped the false Guangxu case attract believers and rescue talk despite weak evidence.
+
+Claimant reuse and escalation:
+- [[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi|Weird History 31]] shows False Dmitry I reaching coronation and a second claimant reusing the name after his death.
+- [[31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi|Weird History 31]] shows Pugachev turning Peter III's identity into armed mass mobilization and multiple Zhu San Taizi claims reusing a dynastic banner across separate anti-Qing movements.
 
 ## Counterevidence & Qualifications
 
-The cases differ sharply in regime, law, time scale, and public participation. The Han reasoning depends on the Wugu affair and Jun Buyi's claim that even a true Liu Ju would remain disabled; it should not justify arrest without inquiry. The Tichborne episode is not a complete legal reconstruction, and public sympathy does not establish belief in the identity. The comparison identifies tradeoffs rather than ranking summary containment over open adjudication.
+The cases differ sharply in regime, law, time scale, violence, and public participation. Jun Buyi's reasoning depends on the Wugu affair and should not become a general justification for arrest without inquiry. The Tichborne episode is not a complete legal reconstruction, and public sympathy does not establish belief in the identity. The Russian, false Guangxu, and Zhu San Taizi narratives are compressed and historically disputed. The comparison identifies sequencing and legitimacy tradeoffs rather than ranking summary containment over open adjudication or treating every claimant movement as identical.
 
 ## What Changed
 
-- Broadened the concept from rapid dynastic containment to include open adjudication, publicity, and claimant mass politics.
+- Extended the framework from palace and courtroom cases to accession, mass rebellion, press-amplified rumor, and reusable dynastic banners.
+- Distinguished containment of the claimant from resolution of the network, grievance, or succession vacuum that makes the identity politically useful.
 
 ## Related Concepts
 
@@ -57,3 +65,5 @@ The cases differ sharply in regime, law, time scale, and public participation. T
 - [[ImperialAbdicationLanguageBoundary]] - adjacent legitimacy boundary around speech that destabilizes the reigning line.
 - [[ClaimantPoliticsAndPublicSpectacle]] - Victorian extension in which legal process and publicity create a durable movement.
 - [[TichborneClaimant]] - case showing evidentiary failure coexisting with political usefulness.
+- [[FalseDmitryI]] - accession case in which coalition and recognition temporarily outrun proof.
+- [[YemelyanPugachev]] - rebellion case in which sovereign identity organizes broader social grievance.
