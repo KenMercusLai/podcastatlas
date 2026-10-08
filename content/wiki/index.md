@@ -4111,6 +4111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 - [302-国家应该立法禁止青少年使用社交媒体吗？](sources/302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d.md) — 独树不成林 episode on Jonathan Haidt, Australia's under-16 social-media law, coordinated age norms, phone-free schools, childhood restoration, and unequal access to offline alternatives.
+- [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
 - [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
@@ -16870,6 +16871,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [François Hanriot](entities/FrancoisHanriot.md) — Paris National Guard commander whose retreat from the Convention surrendered the Commune's strongest Thermidorian opportunity.
 - [David Fishman](entities/DavidFishman.md) — Energy professional and city writer combining rankings, administrative research, travel, and bounded resident interviews to study Chinese cities.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
+- [Massinissa / 马西尼萨](entities/Massinissa.md) — Roman-allied Numidian ruler whose territorial pressure helped produce Carthage's treaty breach before the Third Punic War.
+- [Polybius / 波利比乌斯](entities/Polybius.md) — Greek hostage and historian whose Scipionic access frames Rome's rise and Carthage's fall through imperial impermanence.
+- [Cato the Elder / 老加图](entities/CatoTheElder.md) — Roman senator who converted Carthaginian recovery and remembered threat into a campaign for destruction.
+- [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
 - [宫廷婚姻—储位联盟 / Palace Marriage-Succession Coalition](concepts/PalaceMarriageSuccessionCoalition.md) — 皇室子女婚配通过成人中介、宫廷接触、继承游说与未来家庭安全预期，重组储位竞争联盟的机制。
@@ -26861,5 +26866,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patent Cross-Licensing / 专利交叉许可](concepts/PatentCrossLicensing.md) — Reciprocal patent-use mechanism distinguished from outright transfer of selected intellectual-property assets.
 - [City-Type Sampling / 城市类型抽样](concepts/CityTypeSampling.md) — Comparative method using rankings to select cases while grounding representativeness in plural regional, historical, industrial, and administrative city types.
 - [Urban Field Interviewing / 城市田野访谈](concepts/UrbanFieldInterviewing.md) — Choice-centered resident interviewing that connects work, housing, children, and mobility decisions to urban structure without treating anecdotes as population estimates.
+- [Third Punic War / 第三次布匿战争](concepts/ThirdPunicWar.md) — Escalation from constrained self-defense and treaty breach through coerced disarmament to siege, enslavement, and annihilation.
+- [Roman Enemy Memory / 罗马敌人记忆](concepts/RomanEnemyMemory.md) — Political afterlife through which Hannibalic devastation made a weakened but recovering Carthage appear existentially dangerous.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12705
+wiki_total_pages: 12709
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "CATL"
     title: "CATL / 宁德时代"
     url: "/wiki/entities/catl/"
+  - key: "CatoTheElder"
+    title: "Cato the Elder / 老加图"
+    url: "/wiki/entities/catotheelder/"
   - key: "CatoTheYounger"
     title: "Cato the Younger / 小加图"
     url: "/wiki/entities/catotheyounger/"

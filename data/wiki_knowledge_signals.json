@@ -35120,9 +35120,9 @@
       "url": "/wiki/concepts/carrierpigeoncommunication/"
     },
     "Carthage": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -35158,9 +35158,16 @@
           "show": "The Rest Is History",
           "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
           "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        },
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/carthage/"
     },
     "CarthaginianChildSacrificeEvidence": {
@@ -35623,6 +35630,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
+    },
+    "CatoTheElder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/catotheelder/"
     },
     "CatoTheYounger": {
       "episode_count": 2,
@@ -103781,6 +103804,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/hasdrubalthehandsome/"
     },
+    "HasdrubalThirdPunicWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/hasdrubalthirdpunicwar/"
+    },
     "Hatshepsut": {
       "episode_count": 2,
       "show_count": 1,
@@ -154404,6 +154443,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/massacreoftheinnocents/"
     },
+    "Massinissa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/massinissa/"
+    },
     "MasudHusain": {
       "episode_count": 1,
       "show_count": 1,
@@ -184437,6 +184492,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/polysimulator/"
     },
+    "Polybius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/polybius/"
+    },
     "Polymarket": {
       "episode_count": 10,
       "show_count": 6,
@@ -202086,6 +202157,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/romanempire/"
     },
+    "RomanEnemyMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/romanenemymemory/"
+    },
     "RomanExpansionMoralAnxiety": {
       "episode_count": 3,
       "show_count": 1,
@@ -206661,9 +206748,9 @@
       "url": "/wiki/concepts/scientistmodethinking/"
     },
     "ScipioAemilianus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -206678,9 +206765,16 @@
           "show": "The Rest Is History",
           "title": "422. Ancient Carthage: Rise of a Superpower (Part 2)",
           "url": "/wiki/sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144/"
+        },
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/scipioaemilianus/"
     },
     "ScoffBook": {
@@ -230726,6 +230820,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
+    },
+    "ThirdPunicWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7699509622 [GLT7699509622].md",
+          "key": "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622",
+          "show": "The Rest Is History",
+          "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+          "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/thirdpunicwar/"
     },
     "ThirdRomeClaim": {
       "episode_count": 1,

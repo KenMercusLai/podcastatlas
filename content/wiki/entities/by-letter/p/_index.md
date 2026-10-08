@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12705
+wiki_total_pages: 12709
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "PolisarioFront"
     title: "Polisario Front"
     url: "/wiki/entities/polisariofront/"
+  - key: "Polybius"
+    title: "Polybius / 波利比乌斯"
+    url: "/wiki/entities/polybius/"
   - key: "Polymarket"
     title: "Polymarket"
     url: "/wiki/entities/polymarket/"

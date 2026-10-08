@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9922
+wiki_total_pages: 9924
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "RomanEliteLeisure"
     title: "Roman Elite Leisure"
     url: "/wiki/concepts/romaneliteleisure/"
+  - key: "RomanEnemyMemory"
+    title: "Roman Enemy Memory / 罗马敌人记忆"
+    url: "/wiki/concepts/romanenemymemory/"
   - key: "RomanExpansionMoralAnxiety"
     title: "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑"
     url: "/wiki/concepts/romanexpansionmoralanxiety/"

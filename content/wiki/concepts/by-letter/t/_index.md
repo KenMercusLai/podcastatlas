@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9922
+wiki_total_pages: 9924
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "ThirdFrontConstruction"
     title: "Third Front Construction / 三线建设"
     url: "/wiki/concepts/thirdfrontconstruction/"
+  - key: "ThirdPunicWar"
+    title: "Third Punic War / 第三次布匿战争"
+    url: "/wiki/concepts/thirdpunicwar/"
   - key: "ThirdRomeClaim"
     title: "Third Rome Claim"
     url: "/wiki/concepts/thirdromeclaim/"

@@ -3439,6 +3439,10 @@
     "title": "64. Hitler, with Ian Kershaw - part 2",
     "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
   },
+  "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622": {
+    "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
+    "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+  },
   "644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558": {
     "title": "644. The Fall of the Incas: Empire of Gold (Part 1)",
     "url": "/wiki/sources/644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558/"
@@ -16118,6 +16122,10 @@
   "CatholicLeague": {
     "title": "Catholic League",
     "url": "/wiki/entities/catholicleague/"
+  },
+  "CatoTheElder": {
+    "title": "Cato the Elder / 老加图",
+    "url": "/wiki/entities/catotheelder/"
   },
   "CatoTheYounger": {
     "title": "Cato the Younger / 小加图",
@@ -37895,6 +37903,10 @@
     "title": "Hasdrubal the Handsome / 美男子哈斯德鲁巴",
     "url": "/wiki/entities/hasdrubalthehandsome/"
   },
+  "HasdrubalThirdPunicWar": {
+    "title": "Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）",
+    "url": "/wiki/entities/hasdrubalthirdpunicwar/"
+  },
   "HasekuraTsunenaga": {
     "title": "Hasekura Tsunenaga / 支仓常长",
     "url": "/wiki/entities/hasekuratsunenaga/"
@@ -54363,6 +54375,10 @@
     "title": "Massacre of the Innocents",
     "url": "/wiki/concepts/massacreoftheinnocents/"
   },
+  "Massinissa": {
+    "title": "Massinissa / 马西尼萨",
+    "url": "/wiki/entities/massinissa/"
+  },
   "MasterKong": {
     "title": "Master Kong / 康师傅",
     "url": "/wiki/entities/masterkong/"
@@ -64899,6 +64915,10 @@
     "title": "PolySimulator",
     "url": "/wiki/entities/polysimulator/"
   },
+  "Polybius": {
+    "title": "Polybius / 波利比乌斯",
+    "url": "/wiki/entities/polybius/"
+  },
   "Polymarket": {
     "title": "Polymarket",
     "url": "/wiki/entities/polymarket/"
@@ -71254,6 +71274,10 @@
   "RomanEmpire": {
     "title": "Roman Empire / 罗马帝国",
     "url": "/wiki/entities/romanempire/"
+  },
+  "RomanEnemyMemory": {
+    "title": "Roman Enemy Memory / 罗马敌人记忆",
+    "url": "/wiki/concepts/romanenemymemory/"
   },
   "RomanExpansionMoralAnxiety": {
     "title": "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑",
@@ -81522,6 +81546,10 @@
   "ThirdPoint": {
     "title": "Third Point",
     "url": "/wiki/entities/thirdpoint/"
+  },
+  "ThirdPunicWar": {
+    "title": "Third Punic War / 第三次布匿战争",
+    "url": "/wiki/concepts/thirdpunicwar/"
   },
   "ThirdRomeClaim": {
     "title": "Third Rome Claim",

@@ -32315,3 +32315,11 @@ Added source `302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)
+
+Added source `643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622`; created [[Massinissa]], [[Polybius]], [[CatoTheElder]], [[HasdrubalThirdPunicWar]], [[ThirdPunicWar]], and [[RomanEnemyMemory]]; and resynthesized [[Carthage]] and [[ScipioAemilianus]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a militarily constrained Carthage remained existential in Roman memory; Massinissa's protected encroachments and Carthage's unauthorized response supplied a treaty breach, but Rome escalated from disarmament to evacuation and demolition, producing desperate urban resistance before Scipio's blockade, assault, enslavement, and destruction of the city. No settled contradiction was adopted. The episode agrees with the earlier Carthage source that the salt-sowing story is not ancient; casualty and survivor totals, atrocity stories, speeches, motives, women's-hair production, and Scipio's reported dialogue remain source-scoped. [[Dido]] and [[HannibalBarca]] were kept closed because the episode adds framing rather than a new bounded judgment to their existing profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,044 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

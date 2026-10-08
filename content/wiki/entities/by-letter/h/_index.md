@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12705
+wiki_total_pages: 12709
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "Harvey"
     title: "Harvey"
     url: "/wiki/entities/harvey/"
+  - key: "HasdrubalThirdPunicWar"
+    title: "Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）"
+    url: "/wiki/entities/hasdrubalthirdpunicwar/"
   - key: "HasdrubalTheHandsome"
     title: "Hasdrubal the Handsome / 美男子哈斯德鲁巴"
     url: "/wiki/entities/hasdrubalthehandsome/"

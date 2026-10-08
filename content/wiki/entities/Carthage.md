@@ -8,7 +8,8 @@ sources:
   - 423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613
   - 422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144
   - 421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631
-last_updated: 2026-09-27
+  - 643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Carthage / 迦太基 is the Phoenician-founded North African polity whose harbors, commerce, agriculture, mixed institutions, and western Mediterranean expansion precede its struggle with the [[RomanRepublic]] from the [[FirstPunicWar|First Punic War]] through Iberian recovery and [[Saguntum]].
+Carthage / 迦太基 is the Phoenician-founded North African polity whose harbors, commerce, agriculture, mixed institutions, and western Mediterranean expansion precede three wars with the [[RomanRepublic]] and its destruction in the [[ThirdPunicWar]] in 146 BC.
 
 ## Current Profile
 
@@ -36,6 +37,10 @@ The First Punic War reveals both capability and fragility. Carthaginian fleets, 
 
 The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure and territory, failed negotiation, reciprocal atrocity, and blockade bring Carthage close to collapse before Hamilcar and Hanno prevail. Syracuse and Rome temporarily help preserve the state, but Rome then takes Sardinia and Corsica during Carthaginian weakness. Recovery shifts toward the [[BarcidSpanishPowerBase|Spanish power base]], whose mines, land, and manpower restore strategic capacity. Carthage retains formal authority: its authorities later accept Hannibal's appointment and reject Rome's demand to surrender him.
 
+After defeat in the Second Punic War, Carthage lost overseas territories, most of its fleet, independent foreign policy, and the right to wage war without Roman permission. Economic recovery did not restore strategic equality. Instead, [[Massinissa]] repeatedly encroached under Roman favor, while Carthaginian embassies failed to secure effective relief. Its unauthorized response in 151 BC was a treaty breach, but Rome's next demands went beyond disarmament: only after receiving Carthage's weapons did Roman commanders reveal that the population must abandon the coast and the city be levelled.
+
+Refusal produced a final urban mobilization. Carthage freed enslaved people, converted public and sacred spaces into workshops, and relied on walls, stores, cisterns, sallies, and supply attacks to prolong resistance. [[ScipioAemilianus]] ultimately sealed the harbor, forced starvation, and stormed the city through the port. Survivors were enslaved, buildings and temples demolished, libraries dispersed, and resettlement forbidden. The destruction completes the archive problem already central to the profile: one agricultural treatise survived in Latin translation, while Carthaginian self-representation became still harder to recover.
+
 ## Key Characteristics
 
 - Maritime and commercial power with Phoenician roots.
@@ -44,7 +49,7 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 - Aristocratic mixed government balancing sufets, councils, courts, commanders, and popular participation.
 - Expands from trading settlements and influence toward direct territorial control.
 - Combines naval experience and paid forces with dependence on sea access and cash flow.
-- Material evidence supports some child sacrifice while leaving scale, meaning, and variation uncertain.
+- Militarily constrained after the Second Punic War yet economically resilient enough to reactivate Roman fear before coerced disarmament, siege, destruction, enslavement, and archival loss.
 
 ## Evidence
 
@@ -58,17 +63,19 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 - Internal survival: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] traces unpaid troops, rebel organization, reciprocal atrocity, outside assistance, and final suppression.
 - Defeat and recovery: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] and [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] connect First Punic War losses, Sardinia, and Roman pressure to Spanish expansion.
 - Political authority: [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] says Carthage accepts Hannibal's command and refuses Rome's demand to surrender him.
+- Final constraint and pretext: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] joins the 201 BC settlement, Massinissa's encroachments, failed appeals, and the unauthorized war of 151 BC.
+- Coerced disarmament and resistance: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] traces Roman demands, emergency urban production, fortifications, stores, cisterns, and the stalled siege.
+- Destruction and archive: [[643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622]] describes the harbor assault, surrender, enslavement, demolition, dispersed libraries, and preservation of one agricultural treatise.
 
 ## Qualifications
 
-The profile now reaches back through Tyre and the wider Phoenician world, but the archive remains asymmetric. Most Carthaginian writing was destroyed or dispersed, institutional vocabulary comes through Greek and Roman translation, and enemy authors shaped claims about treachery, luxury, sacrifice, and strangeness. Material evidence means hostile testimony cannot be dismissed automatically, but archaeology does not validate every literary accusation. The maritime-versus-land-power and citizen-versus-mercenary contrasts can still overcompress both societies. Dido's biography, foundation chronology and motive, collective Phoenician identity, demographic estimates, treaty interpretation, constitutional detail, sacrifice frequency and meaning, atrocity stories, force totals, reported dialogue, the degree of Barcid independence, and motives remain source-scoped or contested.
+The profile now reaches from Tyre through destruction, but the archive remains asymmetric. Most Carthaginian writing was destroyed or dispersed, institutional vocabulary comes through Greek and Roman translation, and enemy authors shaped claims about treachery, luxury, sacrifice, and strangeness. Material evidence means hostile testimony cannot be dismissed automatically, but archaeology does not validate every literary accusation. The maritime-versus-land-power and citizen-versus-mercenary contrasts can still overcompress both societies. Dido's biography, foundation chronology and motive, collective Phoenician identity, demographic estimates, treaty interpretation, constitutional detail, sacrifice frequency and meaning, atrocity stories, force and survivor totals, reported dialogue, the degree of Barcid independence, and Roman or Carthaginian motives remain source-scoped or contested. The source rejects the later salt-sowing story.
 
 ## What Changed
 
-- Extended the origin profile from a generic Phoenician foundation to Tyre, Dido, and layered city-versus-cultural identity.
-- Positioned Carthage as a later western center inside older Phoenician maritime and writing networks.
-- Replaced a propaganda-only sacrifice frame with a qualified archaeological judgment.
-- Clarified that enemy testimony can contain truth without becoming complete or neutral.
+- Extended the profile through post-Second-Punic-War constraint and the city's destruction in 146 BC.
+- Distinguished a real treaty breach from Rome's later choice of coerced disarmament and annihilation.
+- Connected the final siege to the archival asymmetry that limits reconstruction of Carthage.
 
 ## Relationships
 
@@ -89,3 +96,7 @@ The profile now reaches back through Tyre and the wider Phoenician world, but th
 - [[PhoenicianIdentityDebate]] - distinguishes strong city allegiance from broader shared culture.
 - [[PhoenicianMediterraneanNetworks]] - older exchange and settlement field in which Carthage began.
 - [[CarthaginianChildSacrificeEvidence]] - triangulated case for some sacrifice with major limits on scale and meaning.
+- [[Massinissa]] - Roman-allied Numidian ruler whose territorial pressure helps produce Carthage's treaty breach.
+- [[ThirdPunicWar]] - final conflict ending in Carthage's destruction and the enslavement of survivors.
+- [[ScipioAemilianus]] - Roman commander who completes the blockade and final assault.
+- [[RomanEnemyMemory]] - political afterlife of Hannibalic devastation that makes recovery appear threatening.
