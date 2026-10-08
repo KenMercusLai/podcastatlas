@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9931
+wiki_total_pages: 9934
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "DisasterInequality"
     title: "Disaster Inequality"
     url: "/wiki/concepts/disasterinequality/"
+  - key: "DisasterKnowledgeInfrastructure"
+    title: "Disaster Knowledge Infrastructure"
+    url: "/wiki/concepts/disasterknowledgeinfrastructure/"
   - key: "DisasterOmenCrisisRedirection"
     title: "Disaster Omen Crisis Redirection / 灾异压力转移"
     url: "/wiki/concepts/disasteromencrisisredirection/"

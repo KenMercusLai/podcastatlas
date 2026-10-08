@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12734
+wiki_total_pages: 12736
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "WeiziQi"
     title: "微子启 / Weizi Qi"
     url: "/wiki/entities/weiziqi/"
+  - key: "WeirdHistoryPodcast"
+    title: "怪东西 Weird History"
+    url: "/wiki/entities/weirdhistorypodcast/"
   - key: "WangShangWangClanWesternHan"
     title: "成都侯王商 / Wang Shang (Western Han Wang Clan)"
     url: "/wiki/entities/wangshangwangclanwesternhan/"

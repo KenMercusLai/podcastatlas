@@ -9,7 +9,8 @@ sources:
   - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
   - 86-the-enlightenment-glt8077157127
   - 368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe
-last_updated: 2026-10-03
+  - 43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,7 +26,7 @@ Across the sources Rousseau is both an Enlightenment insider and an internal dis
 
 Other sources make his vocabulary portable. Workplace satire turns his conflict with Voltaire into competition over credit; an algorithm episode uses active reason to question recommendation dependence; French Revolution sources connect sincerity and hidden-interest suspicion to [[RevolutionaryVirtuePolitics]] and his domestic division of the sexes to women's exclusion from public citizenship.
 
-The cultural-decline episode sharpens Rousseau's role as a critic of progress. Escaping natural scarcity does not end dependence when opinion, comparison, competition, and recognition become new masters. Knowledge, institutions, and material conditions can improve while persons become less free or whole; this is preserved as a characteristic Rousseauian problem, not a demonstrated verdict on modernity.
+The cultural-decline episode sharpens Rousseau's role as a critic of progress. Escaping natural scarcity does not end dependence when opinion, comparison, competition, and recognition become new masters. Knowledge, institutions, and material conditions can improve while persons become less free or whole. The [[LisbonEarthquake1755|Lisbon earthquake]] gives this critique a disaster form: the new source presents him arguing that dense urban concentration helped turn a natural event into mass loss. This is preserved as an episode-level interpretation, not a demonstrated verdict that rural life removes seismic risk.
 
 ## Key Characteristics
 
@@ -35,6 +36,7 @@ The cultural-decline episode sharpens Rousseau's role as a critic of progress. E
 - Source of sincerity, virtue, and domestic gender arguments with later revolutionary uses.
 - Personally contentious figure whose conduct qualifies easy identification of humane doctrine with humane character.
 - Source for a progress-tradeoff critique in which material and institutional gains can coexist with new social dependence.
+- Disaster interpreter who redirected part of Lisbon's loss from providence toward settlement and urban concentration.
 
 ## Evidence
 
@@ -53,6 +55,10 @@ The cultural-decline episode sharpens Rousseau's role as a critic of progress. E
 - [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] connects Rousseau-shaped sincerity and suspicion to moralized revolutionary politics.
 - [[545-the-french-revolution-the-first-feminist-part-2-glt4335903757]] links Rousseauian domesticity to a public-male and private-female division.
 
+### Disaster and urban concentration
+
+- [[43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps]] presents Rousseau as locating part of Lisbon's mortality in dense urban settlement and using the case to support a nature-and-countryside critique.
+
 ## Qualifications
 
 - “Noble savage” is an association used in the survey, not a complete or necessarily literal account of Rousseau's anthropology.
@@ -60,12 +66,12 @@ The cultural-decline episode sharpens Rousseau's role as a critic of progress. E
 - Revolutionary influence does not prove that Rousseau alone caused virtue politics or women's exclusion.
 - Personal judgments and causal links to the French Revolution or child-separation schemes remain compressed and source-scoped.
 - The new episode's progress-tradeoff account is a comparative interpretation, not empirical proof that modern people are less free or complete.
+- The earthquake source compresses Rousseau's exchange with Voltaire and does not prove that dispersed or rural settlement is categorically safer across hazards.
 
 ## What Changed
 
-- Added social opinion, comparison, competition, and recognition as mechanisms of modern dependence.
-- Integrated Rousseau's civilization critique with the broader [[CulturalDeclineAnxiety]] framework.
-- Preserved the existing religious, algorithmic, revolutionary, gender, and personal-conduct qualifications.
+- Added urban concentration and socially produced exposure as the disaster-history form of Rousseau's civilization critique.
+- Distinguished his Lisbon response from Voltaire's theodicy critique and Kant's natural explanation.
 
 ## Relationships
 
@@ -77,3 +83,5 @@ The cultural-decline episode sharpens Rousseau's role as a critic of progress. E
 - [[GenderedRepublicanCitizenship]] - public-domestic division associated with Rousseauian roles.
 - [[CulturalDeclineAnxiety]] - comparative framework in which Rousseau's progress critique is one influential modern form.
 - [[KnowledgeExternalizationTradeoff]] - adjacent distinction between technical gain and retained human capacity.
+- [[LisbonEarthquake1755]] - catastrophe through which the source frames urban concentration as socially produced vulnerability.
+- [[CompoundDisasterMortality]] - broader mechanism separating natural trigger from settlement-amplified harm.

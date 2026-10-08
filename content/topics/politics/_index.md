@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3198
+topic_total_pages: 3199
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1198,6 +1198,9 @@ topic_concepts:
   - key: "DisarmamentWithdrawalSequencing"
     title: "Disarmament Withdrawal Sequencing"
     url: "/wiki/concepts/disarmamentwithdrawalsequencing/"
+  - key: "DisasterKnowledgeInfrastructure"
+    title: "Disaster Knowledge Infrastructure"
+    url: "/wiki/concepts/disasterknowledgeinfrastructure/"
   - key: "DisasterOmenCrisisRedirection"
     title: "Disaster Omen Crisis Redirection / 灾异压力转移"
     url: "/wiki/concepts/disasteromencrisisredirection/"

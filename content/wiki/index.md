@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震](sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps.md) — 怪东西以华县与里斯本地震对照建筑暴露、复合死亡、信息网络、救灾秩序、城市重建与启蒙思想，并保留著名数字及“首次科学研究”等来源边界。
 - [《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？](sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj.md) — 文帝在灾荒粮缺中自责问策、以和亲应对边患；张苍因荐人牟利指控离相，其学术、报恩与长寿轶事得到补全，申屠嘉则在避嫌外戚的考量下接任。
 - [《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？](sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3.md) — 公孙臣以土德和黄龙预言取得文帝任用并使张苍失势，晁错凭对策获擢，新垣平则以望气开启后续骗局；标题未提供新垣结衣本人族谱证据。
 - [《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？](sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j.md) — 新垣平以望气、玉杯和祥瑞叙事获得文帝赏赐并影响祭祀、改元与建庙，最终由外部检举触发审讯败露；太阳异象机制和廷尉姓名保留来源边界。
@@ -4129,6 +4130,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害事件、制度响应、知识生产与思想史的历史播客。
+- [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
@@ -16917,6 +16920,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [1556 Huaxian Earthquake / 1556年华县大地震](concepts/HuaxianEarthquake1556.md) — 冬夜震动、窑洞暴露、旱饥寒疫与迟缓救济共同构成的明代复合灾害。
+- [Compound Disaster Mortality](concepts/CompoundDisasterMortality.md) — 区分初始冲击与火灾、海啸、严寒、饥饿、疾病及响应失灵造成的累积死亡。
+- [Disaster Knowledge Infrastructure](concepts/DisasterKnowledgeInfrastructure.md) — 由观察者、标准问题、传递渠道与档案构成，使灾情可治理且可重建的信息系统。
 - [见几而作式风险退出 / Incipient-Risk Exit](concepts/IncipientRiskExit.md) — 从稳定关系中的细小偏离推断权力风险并在退出窗口关闭前行动，同时警惕事后验证造成的过度概括。
 - [Folk Music as Narrative Practice](concepts/FolkMusicAsNarrativePractice.md) — 将民谣理解为承载生活、地方语言、人物、记忆和口头变体的叙事实践，而非固定的木吉他音色。
 - [Independent Music Scene as Infrastructure](concepts/IndependentMusicSceneAsInfrastructure.md) — 将排练空间、场地、生计、照护、导师与高密度协作视为持续创作所需的基础设施。

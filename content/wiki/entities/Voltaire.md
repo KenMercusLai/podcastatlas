@@ -7,8 +7,9 @@ sources:
   - 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350
   - 411-the-man-in-the-iron-mask-glt3787137343
   - 86-the-enlightenment-glt8077157127
+  - 43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-08
 ---
 
 # Voltaire / 伏尔泰
@@ -21,7 +22,7 @@ Voltaire appears across the wiki as an Enlightenment critic of Christianity, adv
 
 The algorithm source places Voltaire within an Enlightenment commitment to public knowledge and active reason, while the workplace satire converts his disagreement with [[JeanJacquesRousseau]] into a sales fight. The Enlightenment survey adds a sharper religious and moral profile: he attacked Christianity but retained God as socially useful, supported polygenesis in the episode's account, and projected enlightened-despot ideals first onto China and then India with limited knowledge of either.
 
-His historical-memory role comes from the iron-mask case. Writing decades after the prisoner's death, Voltaire supplied an iron mask, feeding mechanism, exceptional deference, and royal-brother identity that helped turn an obscure state prisoner into a dynastic mystery despite stronger contemporary evidence for [[EustacheDege]], a valet.
+His historical-memory role comes from the iron-mask case. Writing decades after the prisoner's death, Voltaire supplied an iron mask, feeding mechanism, exceptional deference, and royal-brother identity that helped turn an obscure state prisoner into a dynastic mystery despite stronger contemporary evidence for [[EustacheDege]], a valet. The [[LisbonEarthquake1755|Lisbon earthquake]] adds a different public-intellectual role: the new source presents him using catastrophe to attack providential optimism and Catholic authority rather than accepting suffering as evidence of the best possible world.
 
 ## Key Characteristics
 
@@ -30,6 +31,7 @@ His historical-memory role comes from the iron-mask case. Writing decades after 
 - Writer whose universal and civilizational confidence coexisted with episode-attributed polygenesis and racial hierarchy.
 - Projected idealized enlightened rule onto China and India from limited information.
 - Cultural authority whose vivid later narrative enlarged the iron-mask mystery beyond its documentary base.
+- Public critic who used the Lisbon catastrophe against confident theodicy and philosophical optimism.
 
 ## Evidence
 
@@ -47,17 +49,21 @@ His historical-memory role comes from the iron-mask case. Writing decades after 
 - [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] stages Voltaire and Rousseau as rival salespeople.
 - [[411-the-man-in-the-iron-mask-glt3787137343]] attributes the elaborate mask, exceptional-treatment story, and royal-brother claim to Voltaire's later writings.
 
+### Catastrophe and optimism
+
+- [[43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps]] presents Lisbon as the event Voltaire used to challenge Leibnizian optimism and Catholic explanations of suffering.
+
 ## Qualifications
 
 - The algorithm and workplace sources use Voltaire as philosophical background and comic mapping rather than reconstructing his complete thought.
 - The Enlightenment episode is a broad survey; its claims about religion, polygenesis, China, and India remain episode-attributed and require specialist context.
 - Voltaire wrote decades after the masked prisoner's death, so his cultural influence does not make his claims contemporary evidence.
+- The earthquake source compresses the relation among Lisbon, Voltaire's writings, Leibniz, and Catholic criticism; it establishes the episode's interpretation, not a complete textual or chronological reconstruction.
 
 ## What Changed
 
-- Added his distinction between anti-Christian polemic and socially useful theism.
-- Added qualified evidence about polygenesis and idealized non-European enlightened despotism.
-- Reframed his public reason, satire, racial classification, and mythmaking as one mixed Enlightenment profile.
+- Added Lisbon as a concrete catastrophe through which Voltaire attacked optimistic theodicy.
+- Connected his anti-Christian polemic to disaster interpretation without treating it as his complete response to suffering.
 
 ## Relationships
 
@@ -67,3 +73,5 @@ His historical-memory role comes from the iron-mask case. Writing decades after 
 - [[AlgorithmicReasonOutsourcing]] - modern risk contrasted with Enlightenment active reason.
 - [[ManInTheIronMask]] - mystery enlarged through vivid narrative and royal identity.
 - [[SecrecyDrivenHistoricalMyth]] - process through which later invention filled archival gaps.
+- [[LisbonEarthquake1755]] - catastrophe used in his critique of providence and philosophical optimism.
+- [[JeanJacquesRousseau]] - contrasting response emphasizing urban concentration and civilization.

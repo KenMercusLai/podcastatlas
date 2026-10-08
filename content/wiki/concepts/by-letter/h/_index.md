@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9931
+wiki_total_pages: 9934
 wiki_pages:
+  - key: "HuaxianEarthquake1556"
+    title: "1556 Huaxian Earthquake / 1556年华县大地震"
+    url: "/wiki/concepts/huaxianearthquake1556/"
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
     url: "/wiki/concepts/hongkong1973stockmarketcrash/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2598
+topic_total_pages: 2601
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3518,6 +3518,9 @@ topic_entities:
   - key: "ZhangYiStrategist"
     title: "张仪 / Zhang Yi (Warring States strategist)"
     url: "/wiki/entities/zhangyistrategist/"
+  - key: "ZhangDabai"
+    title: "张大白 / Zhang Dabai"
+    url: "/wiki/entities/zhangdabai/"
   - key: "ZhangZiQiGeneral"
     title: "张子 / Zhang Zi (Qi general)"
     url: "/wiki/entities/zhangziqigeneral/"
@@ -3584,6 +3587,9 @@ topic_entities:
   - key: "XuXiake"
     title: "徐霞客"
     url: "/wiki/entities/xuxiake/"
+  - key: "WeirdHistoryPodcast"
+    title: "怪东西 Weird History"
+    url: "/wiki/entities/weirdhistorypodcast/"
   - key: "XiFuGongWesternHan"
     title: "息夫躬 / Xi Fu Gong (Western Han)"
     url: "/wiki/entities/xifugongwesternhan/"
@@ -6090,6 +6096,9 @@ topic_sources:
   - key: "429-titanic-countdown-to-disaster-part-3-glt1273657377"
     title: "429. Titanic: Countdown to Disaster (Part 3)"
     url: "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+  - key: "43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps"
+    title: "43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震"
+    url: "/wiki/sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps/"
   - key: "43-1940-glt2702093158"
     title: "43. 1940"
     url: "/wiki/sources/43-1940-glt2702093158/"

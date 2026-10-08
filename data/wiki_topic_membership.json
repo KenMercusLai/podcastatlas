@@ -4683,6 +4683,13 @@
       "url": "/topics/history/"
     }
   ],
+  "43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "43-xiyouji-duo-ni-shi-shenme-yaojing-618154182": [
     {
       "key": "culture",
@@ -29092,6 +29099,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "DisasterKnowledgeInfrastructure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DisasterOmenCrisisRedirection": [
@@ -89434,6 +89448,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WeirdHistoryPodcast": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WeishuiBattle": [
     {
       "key": "history",
@@ -93663,6 +93684,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ZhangDabai": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ZhangDageLihun": [
