@@ -32938,3 +32938,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）
+
+Added source `zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx`; created [[IndulgenceAsPoliticalElimination|纵容式政治清除]]; and resynthesized [[LiuChangHuainanKing|淮南王刘长]], [[LiuHeng|汉文帝刘恒]], [[BoZhaoWesternHan|薄昭]], and [[YuanAngWesternHan|袁盎]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode supplies Liu Chang's autonomous rule, warning, rebellion plan, commuted sentence, sealed-cart death, and Yuan Ang's advance warning, while the host's “宠杀 / 捧杀” explanation remains an intent hypothesis rather than established fact. A settled identity contradiction is recorded: Bo Zhao was 薄太后's brother, not 窦太后's brother. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,123 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

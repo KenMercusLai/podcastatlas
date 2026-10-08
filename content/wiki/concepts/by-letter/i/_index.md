@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10004
+wiki_total_pages: 10005
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "ImperialPolicyQuestioningTalentSelection"
     title: "策问式选才 / Imperial Policy-Questioning Talent Selection"
     url: "/wiki/concepts/imperialpolicyquestioningtalentselection/"
+  - key: "IndulgenceAsPoliticalElimination"
+    title: "纵容式政治清除 / Indulgence as Political Elimination"
+    url: "/wiki/concepts/indulgenceaspoliticalelimination/"
   - key: "IntegratedMilitarySituationAssessment"
     title: "综合军情判断 / Integrated Military Situation Assessment"
     url: "/wiki/concepts/integratedmilitarysituationassessment/"

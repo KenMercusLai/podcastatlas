@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx.md) — 刘长从封国内越权走向谋反、流放与绝食死亡；节目以“宠杀”解释文帝宽纵，但直接意图证据不足，薄昭亲属关系也存在明确误述。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye.md) — 汉匈以书信复和并继续威慑，新单于继位后文帝遣翁主和亲；被迫随行的中行说投匈，把汉朝物资、行政与外交知识转化为匈奴能力。
 - [《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？](sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4.md) — 贾谊以犯罪激励、币重分裂、弃农采铜和禁令利润说明惩罚不足，贾山从主权反对私铸；文帝却授邓通铜山铸钱，吴王刘濞也以铜盐形成财政自主。
 - [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（1）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm.md) — 贾谊把强藩叛乱解释为封国规模与制度能力问题，主张反复分割齐、赵、楚等大国，以小国易制和弱君主下仍可维持的制度韧性取代对个人忠诚的依赖。
@@ -17069,6 +17070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [纵容式政治清除 / Indulgence as Political Elimination](concepts/IndulgenceAsPoliticalElimination.md) — 将选择性宽纵、对手越界与后续合法化清除连接为意图假说，同时区分可预见风险、政治受益与直接设计证据。
 - [生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy](concepts/LifestyleDependencyStrategicAutonomy.md) — 外来物资若替代本地可持续习惯并形成供应依赖，可能以较低成本转化为政治影响与能力削弱。
 - [风俗治理与文书行政 / Custom Governance Beyond Paper Administration](concepts/CustomGovernanceBeyondPaperAdministration.md) — 区分事后处理文书案件与事前塑造角色责任、社会风俗和日常行为的治理能力，并保留礼制层级可能压制纠错的边界。
 - [Creative Experience Bottleneck / 创作经验瓶颈](concepts/CreativeExperienceBottleneck.md) — 生成速度可以近乎无限提升，但可供创作转化的生活观察、情感压力与个人经验只能按人的时间积累。
