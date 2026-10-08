@@ -32205,3 +32205,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？
+
+Added source `zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j`; created [[AssetQualifiedOfficialEntry|赀选式财产资格入仕]]; and resynthesized [[HanJingdi|汉景帝]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: under combined disaster, frontier, and harvest pressure, Jingdi joins grain protection, limits on luxury labor, court restraint, and commandery-level responsibility for predatory officials; the forty-thousand-cash selection threshold then uses household wealth as an eligibility and service-cost gate while separate status, conduct, and talent screens remain. No settled contradiction was adopted, and asset qualification was kept distinct from direct office sale. The exact “资算四得官” wording, property assessment, covered offices, service costs, appointment rates, exclusions, disaster and battle details, tax effect, quotations, and the early-Han elite-monopoly generalization remain source-scoped. Zhou Yafu, Sima Xiangru, Zhang Shizhi, heavy-agriculture, general selection-channel, and broad show pages were kept closed because the bounded additions are represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,030 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

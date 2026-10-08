@@ -11,12 +11,13 @@ sources:
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
   - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a
   - zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r
+  - zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], harm reduction within corporal punishment, containment of a dangerous legitimacy debate, and a late-reign contrast between general judicial leniency and personalized severity toward [[ZhouYafu|周亚夫]].
+汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], harm reduction within corporal punishment, containment of a dangerous legitimacy debate, and late-reign attempts to join subsistence protection, local accountability, wealth-gated official selection, and judicial leniency despite personalized severity toward [[ZhouYafu|周亚夫]].
 
 ## Current Profile
 
@@ -32,6 +33,8 @@ Hanji 244 adds a late-reign governance contrast. Jing instructs officials to esc
 
 Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or rebuke Zhou in the host's reading, then orders adjudication after Zhou's son's burial-armor purchase is reported. The resulting case reportedly moves from burial goods to rebellion and answers Zhou's defense with the claim that he could rebel underground. The page treats this as evidence of selective or personalized severity within the episode's account, but not as proof that Jing scripted the charge, torture, or death in advance.
 
+[[zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j|Hanji 245]] broadens the late-reign administrative picture. After earthquake, Xiongnu incursion, and poor harvests, Jing reportedly protects grain from cooked horse feed, criticizes luxury crafts that divert farming and weaving labor, reduces palace consumption and tribute, and makes commandery heads answer for predatory subordinates. The same source adds [[AssetQualifiedOfficialEntry|赀选式财产资格入仕]]: forty thousand cash in household assets reportedly opens a selection route because service is privately costly, but merchant registration, dependent status, corruption history, and ability still constrain appointment. The episode therefore presents wealth as a gate rather than a complete purchase mechanism.
+
 [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] closes the reign with an agrarian order and a retrospective outcome ledger. Jing calls farming the basis of food and clothing, directs local authorities to promote cultivation and sericulture, and threatens severe punishment when officials divert popular labor into gold and jewel extraction. Ban Gu's Wen-Jing retrospective then credits frugality and recovery with household sufficiency and abundant public stores while also recording land concentration, rural strongmen, purchased political access, and elite luxury. This makes Jing a contributor to [[WenJingProsperityTradeoff|文景之治的繁荣代价]], not evidence that aggregate abundance eliminated unequal power.
 
 ## Key Characteristics
@@ -42,7 +45,7 @@ Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or
 - Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
 - Penal reformer who reduces flogging counts and constrains implementation while leaving corporal punishment in force.
 - Late-reign ruler whose general leniency instruction is placed beside a hostile, expansive prosecution of Zhou Yafu.
-- Dying ruler whose final order reasserts agrarian production and official accountability while the Wen-Jing retrospective pairs abundance with concentration.
+- Late-reign ruler who joins agrarian labor protection and local accountability to a wealth-gated selection route, then closes with a final farming order and a Wen-Jing retrospective pairing abundance with concentration.
 
 ## Evidence
 
@@ -64,20 +67,23 @@ Judicial leniency and late-reign appointments:
 Personalized court test and prosecution:
 - [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a|Hanji 244 part 2]] gives the utensil-withholding banquet, Jing's order to try the burial-goods case, the prosecution's rebellion theory, and Zhou's prison death; premeditated killing remains the host's inference.
 
+Scarcity response, local accountability, and selection gate:
+- [[zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j|Hanji 245]] joins grain protection, anti-luxury labor allocation, court restraint, responsibility for predatory local officials, and a forty-thousand-cash asset qualification whose other status and ability screens remain in force.
+
 Agrarian closing policy and Wen-Jing outcome:
 - [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] gives the final farming and sericulture order, punishment for labor diversion into precious-material extraction, Liu Che's accession, and Ban Gu's paired abundance-and-concentration assessment.
 
 ## Qualifications
 
-This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 245's disasters, battle, grain rule, ritual example, tax effect, local accountability chain, “资算四得官” wording, forty-thousand threshold, exclusions, service costs, and talent examples require primary-text and institutional comparison; an asset gate is not evidence that wealth automatically bought office. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
 
 ## What Changed
 
-- Added Jingdi's earlier reduction and procedural standardization of flogging as harm reduction within, not abolition of, corporal punishment.
-- Completed the Zhou Yafu branch and sharpened the contrast between general leniency policy and personalized severity without asserting premeditated killing.
-- Added banquet ritual, ambiguous burial goods, and expansive prosecution as distinct stages rather than one undifferentiated personality story.
-- Added Jingdi's final agrarian order and the bounded Wen-Jing outcome of public abundance alongside land concentration and local strongman power.
-- Added the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
+- Added a pre-final-year scarcity response joining grain protection, luxury-labor restraint, exemplary court frugality, and commandery-level responsibility for predatory officials.
+- Added the forty-thousand-cash selection threshold as wealth-gated eligibility with separate identity, conduct, and talent screens, not as direct office purchase.
+- Preserved the contrast between general judicial leniency and personalized severity toward Zhou Yafu without asserting premeditated killing.
+- Preserved Jingdi's final agrarian order and the bounded Wen-Jing outcome of public abundance alongside land concentration and local strongman power.
+- Preserved the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
 
 ## Relationships
 
@@ -94,3 +100,4 @@ This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 2
 - [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - agrarian statecraft sharpened by Jing's final limits on extractive labor diversion.
 - [[WenJingProsperityTradeoff|文景之治的繁荣代价]] - outcome frame separating aggregate recovery from equal distribution.
 - [[CorporalPunishmentHarmReduction|肉刑执行减害]] - reform pattern joining fewer blows to tighter execution constraints while preserving the punishment itself.
+- [[AssetQualifiedOfficialEntry|赀选式财产资格入仕]] - late-reign selection route that uses household wealth as an entry and service-cost gate without making wealth sufficient for appointment.

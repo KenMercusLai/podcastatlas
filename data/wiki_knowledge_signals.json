@@ -18410,6 +18410,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/assetallocationactionguide/"
     },
+    "AssetQualifiedOfficialEntry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？ [lpYc0oTmTfN9520s3CGx9pT9Ng1J].md",
+          "key": "zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/assetqualifiedofficialentry/"
+    },
     "AssistedDeathClinicalResponsibility": {
       "episode_count": 2,
       "show_count": 2,
@@ -101312,9 +101328,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101364,6 +101380,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？ [lpYc0oTmTfN9520s3CGx9pT9Ng1J].md",
+          "key": "zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j/"
         }
       ],
       "updated": "2026-10-08",

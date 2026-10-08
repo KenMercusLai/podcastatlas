@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9916
+wiki_total_pages: 9917
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2534,6 +2534,9 @@ wiki_pages:
   - key: "AssetLightVsHeavyAssetModels"
     title: "Asset-Light Vs Heavy-Asset Models"
     url: "/wiki/concepts/assetlightvsheavyassetmodels/"
+  - key: "AssetQualifiedOfficialEntry"
+    title: "Asset-Qualified Official Entry / 赀选式财产资格入仕"
+    url: "/wiki/concepts/assetqualifiedofficialentry/"
   - key: "AssimilationCapacity"
     title: "Assimilation Capacity"
     url: "/wiki/concepts/assimilationcapacity/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？](sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j.md) — 景帝在灾异、边患与歉收中把节粮、抑奢、农桑示范和地方问责相连；四万钱赀选是承担任官成本的财产资格门槛，仍受身份、品行与才能筛选，并非直接买官。
 - [《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？](sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r.md) — 景帝以减笞数和规范刑具、部位、执行人降低肉刑伤害；李广则令百余骑兵近敌下马，以反常镇定制造伏兵疑象，迫使数千匈奴骑兵夜退，并补入宁成接掌长安治安的酷吏支线。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a.md) — 无箸赐肉、随葬甲盾、工人检举与“地下谋反”式审讯补完周亚夫死亡链；节目的人格归因、景帝预谋、法律细节与相面应验均保留来源边界。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5.md) — 景帝宽刑与疑案上报构成制度背景，直不疑以赔付误拿和不辩不存在的嫂嫂诬告展示回应克制；不辩的适用边界、黄老动机、地震数据与周亚夫筷子故事均保留来源边界。
@@ -16848,6 +16849,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
+- [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
 - [肉刑执行减害 / Corporal Punishment Harm Reduction](concepts/CorporalPunishmentHarmReduction.md) — 在保留肉刑的前提下，同时降低刑量并规范刑具、施打部位与执行程序，以减少死亡和残疾风险。
 - [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
