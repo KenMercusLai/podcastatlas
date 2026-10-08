@@ -14,6 +14,7 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335
   - all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150
   - all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702
+  - all-in-with-chamath-jason-sacks-friedberg-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-40027435
 last_updated: 2026-09-15
 ---
 
@@ -23,7 +24,7 @@ last_updated: 2026-09-15
 Space based AI infrastructure is the scenario where AI compute, data transport, energy capture, and data-center capacity move partly into orbit to work around terrestrial limits on power, cooling, land, permitting, grid connection, and deployment speed.
 
 ## Current Synthesis
-The wiki treats space based AI infrastructure as a plausible but unproven response to AI's physical footprint. Sources agree that [[SpaceX]], [[Starship]], and [[Starlink]] could make orbital compute more plausible if launch cost, cadence, communication, and reliability improve, but they keep economics and maintenance as the hard filters. The newer All-In inputs add two investor-side baselines and one operator-side claim: ground gigawatt-scale data centers can be extremely expensive, Starship and SpaceX compute leasing can support a platform thesis, and Shotwell now says SpaceX plans AI compute satellites alongside Starlink V3 and mobile satellites.
+The wiki treats space based AI infrastructure as a plausible but unproven response to AI's physical footprint. Sources agree that [[SpaceX]], [[Starship]], and [[Starlink]] could make orbital compute more plausible if launch cost, cadence, communication, and reliability improve, but they keep economics and maintenance as the hard filters. The All-In inputs now show the thesis developing from an early power-scarcity and reported SpaceX-[[XAI|xAI]] integration narrative into ground-cost comparisons, detailed engineering models, terrestrial compute leasing, and an operator-side claim that SpaceX plans AI compute satellites alongside Starlink V3 and mobile satellites.
 
 ## Key Claims
 - AI demand can expose physical infrastructure limits: power, grid, real estate, cooling, permitting, electrical equipment, and regional resilience.
@@ -45,14 +46,16 @@ The wiki treats space based AI infrastructure as a plausible but unproven respon
 - Ground-cost comparison: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] adds the $35B semiconductor plus $25B power/cooling estimate for a one-gigawatt terrestrial AI data center and argues reusable Starship could change orbital economics.
 - Platform-bridge claim: [[all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150]] links terrestrial compute leasing, Colossus build speed, Starship reusability, and a possible space-designed [[Nvidia]] GPU into one SpaceX AI-infrastructure thesis.
 - Operator-side satellite plan: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]] has [[GwenShotwell|Gwynne Shotwell]] saying SpaceX plans Starlink V3 broadband satellites, next-generation mobile satellites, and AI compute satellites while arguing that launch, free orbital real estate, solar power, cooling, and communications can offset ground bottlenecks.
+- Early merger-and-power thesis: [[all-in-with-chamath-jason-sacks-friedberg-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-40027435]] frames a reported SpaceX-xAI combination and a 30-month orbital-data-center ambition as a response to power scarcity, while Friedberg presents terrestrial efficiency, smaller models, and specialized-model networks as competing responses.
 
 ## Counterevidence & Qualifications
-No source shows orbital AI data centers are already commercially solved. Launch cost, launch cadence, radiator mass, radiation tolerance, networking, replacement cycles, maintenance, component failures, orbital debris, and regulatory governance remain unresolved. The newest All-In source is stronger as evidence of SpaceX's intention and operating thesis than as evidence that the economics already work.
+No source shows orbital AI data centers are already commercially solved. Launch cost, launch cadence, radiator mass, radiation tolerance, networking, replacement cycles, maintenance, component failures, orbital debris, and regulatory governance remain unresolved. The February source's merger terms, valuation, 30-month schedule, and 70-100x efficiency forecast are episode claims. The newest All-In source is stronger as evidence of SpaceX's intention and operating thesis than as evidence that the economics already work.
 
 ## What Changed
 - Added Shotwell's operator-side claim that SpaceX plans AI compute satellites alongside Starlink V3 and mobile satellites.
 - Clarified the vertical-integration argument around launch ownership, orbital real estate, solar power, cooling, and communications.
 - Preserved launch, thermal, maintenance, and governance constraints as the controlling qualifications.
+- Added the earlier SpaceX-xAI and power-scarcity framing as historical development of the thesis, not confirmation of its schedule or economics.
 
 ## Related Concepts
 - [[OrbitalDataCenterEconomics]] - cost model that makes the scenario testable.

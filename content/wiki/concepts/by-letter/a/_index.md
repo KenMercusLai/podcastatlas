@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9999
+wiki_total_pages: 10002
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "AgentReadableWeb"
     title: "Agent-Readable Web"
     url: "/wiki/concepts/agentreadableweb/"
+  - key: "AgentToAgentPrompting"
+    title: "Agent-to-Agent Prompting"
+    url: "/wiki/concepts/agenttoagentprompting/"
   - key: "AgenticB2BSourcing"
     title: "Agentic B2B Sourcing"
     url: "/wiki/concepts/agenticb2bsourcing/"

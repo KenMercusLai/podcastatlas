@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9999
+wiki_total_pages: 10002
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2732,6 +2732,9 @@ wiki_pages:
   - key: "CrossSymbolicInversion"
     title: "Cross Symbolic Inversion"
     url: "/wiki/concepts/crosssymbolicinversion/"
+  - key: "CrossApplicationAgentValueCapture"
+    title: "Cross-Application Agent Value Capture"
+    url: "/wiki/concepts/crossapplicationagentvaluecapture/"
   - key: "CrossAssetRiskExpression"
     title: "Cross-Asset Risk Expression / 跨资产风险表达"
     url: "/wiki/concepts/crossassetriskexpression/"

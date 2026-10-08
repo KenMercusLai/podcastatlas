@@ -4172,6 +4172,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AI spending takes center stage ahead of midterms](sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128.md) — Marketplace Tech maps rival AI-linked super-PAC networks, direct candidate intervention, opaque committee names, and data-center politics as an emerging electoral liability.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
+- [Epstein Files, Is SaaS Dead?, Moltbook Panic, SpaceX xAI Merger, Trump's Fed Pick](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-40027435.md) — All-In episode connecting institutional distrust, agent-driven SaaS repricing, Moltbook security and agent interaction, Warsh-era data modernization, orbital compute, and child equity accounts.
 
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 - [国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉](sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123.md) — 声动早咖啡 roundup on multi-city holiday travel, Skydance-Warner integration, Nobel science, Apple-LG smart-home devices, Nike restructuring, Emmy streaming, Huawei-Qualcomm patents, aviation surcharges, and Starbucks labeling.
@@ -16330,6 +16331,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Burns](entities/ArthurBurns.md) — Fed chair used as the negative Nixon-era cautionary tale about presidential pressure, rate cuts, and inflationary outcomes.
 - [Burton Abrams](entities/BurtonAbrams.md) — Economist comparing Powell with Martin and Burns while explaining inflation bias and central-bank independence.
 - [Kevin Warsh](entities/KevinWarsh.md) — Fed chair whose first rate increase tests competing claims about political flexibility, market constraint, and institutional independence.
+- [Moltbook](entities/Moltbook.md) — Agent message-board experiment that makes multi-agent interaction visible while exposing provenance, credential, and permission risks.
 - [Lisa Cook](entities/LisaCook.md) — Fed board member whose attempted removal becomes the source's case for the undefined "for cause" standard.
 - [Stephen Miran](entities/StephenMiran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
 - [United States Congress](entities/UnitedStatesCongress.md) — Legislative guardrail in the Powell episode, tied to Fed mandate, chair confirmation, and possible clarification of for-cause removal.
@@ -26543,8 +26545,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
 - [Money Laundering Stages](concepts/MoneyLaunderingStages.md) — Placement, layering, and integration model for how illicit funds are introduced, obscured, and re-entered as apparently legitimate money.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
+- [Real-Time Monetary Policy Data](concepts/RealTimeMonetaryPolicyData.md) — High-frequency private and administrative signals used to supplement lagging official statistics under transparency and representativeness constraints.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Coordinated use of multiple agents for specialized work, cross-checking, parallel exploration, and governed handoffs.
+- [Agent-to-Agent Prompting](concepts/AgentToAgentPrompting.md) — Orchestration pattern where one agent's output or critique becomes another agent's input without a human composing every intermediate prompt.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models or open weights released widely enough to support downstream adoption, fine-tuning, ecosystem influence, and strategic substitution.
 - [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
@@ -26554,6 +26558,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from computer or phone environments, including screens, input, apps, meetings, files, sensors, messages, and current activity.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
+- [Cross-Application Agent Value Capture](concepts/CrossApplicationAgentValueCapture.md) — Shift in orchestration, customer attention, and pricing power from individual SaaS applications toward agents spanning many systems.
 - [Overseas Insurance Risk](concepts/OverseasInsuranceRisk.md) — Risk that foreign insurance policies add dividend, currency, liquidity, jurisdiction, and life-location uncertainty.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.

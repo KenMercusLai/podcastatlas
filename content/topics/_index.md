@@ -9,12 +9,12 @@ topic_pages:
     label: "Technology"
     description: "AI, software, infrastructure, computing, robotics, security, chips, and the systems that turn technical capability into products."
     url: "/topics/technology/"
-    count: 3377
+    count: 3378
   - key: "economics"
     label: "Economics"
     description: "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity."
     url: "/topics/economics/"
-    count: 2217
+    count: 2219
   - key: "history"
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."

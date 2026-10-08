@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9999
+wiki_total_pages: 10002
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "RealTimeLivestreamLabor"
     title: "Real-Time Livestream Labor / 实时数据直播劳动"
     url: "/wiki/concepts/realtimelivestreamlabor/"
+  - key: "RealTimeMonetaryPolicyData"
+    title: "Real-Time Monetary Policy Data"
+    url: "/wiki/concepts/realtimemonetarypolicydata/"
   - key: "RealTimeOperationalAnalytics"
     title: "Real-Time Operational Analytics"
     url: "/wiki/concepts/realtimeoperationalanalytics/"

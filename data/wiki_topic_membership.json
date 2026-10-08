@@ -71052,6 +71052,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "RealTimeMonetaryPolicyData": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "RealityApathy": [
     {
       "key": "politics",
@@ -96414,6 +96426,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-40027435": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730": [
