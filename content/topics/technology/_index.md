@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3369
+topic_total_pages: 3370
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5834,6 +5834,9 @@ topic_entities:
   - key: "GeorgiaBanjo"
     title: "Georgia Banjo"
     url: "/wiki/entities/georgiabanjo/"
+  - key: "GiggleAcademy"
+    title: "Giggle Academy"
+    url: "/wiki/entities/giggleacademy/"
   - key: "GilLuria"
     title: "Gil Luria"
     url: "/wiki/entities/gilluria/"

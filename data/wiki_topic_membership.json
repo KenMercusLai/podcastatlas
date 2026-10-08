@@ -38811,6 +38811,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "GiggleAcademy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GilLuria": [
     {
       "key": "technology",
@@ -95687,6 +95699,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225": [

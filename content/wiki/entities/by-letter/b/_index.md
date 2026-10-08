@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12728
+wiki_total_pages: 12731
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "Binance"
     title: "Binance"
     url: "/wiki/entities/binance/"
+  - key: "BinanceUS"
+    title: "Binance.US"
+    url: "/wiki/entities/binanceus/"
   - key: "Bingzhongluo"
     title: "Bingzhongluo / 丙中洛"
     url: "/wiki/entities/bingzhongluo/"
@@ -839,6 +842,9 @@ wiki_pages:
   - key: "BNBuilders"
     title: "BN Builders"
     url: "/wiki/entities/bnbuilders/"
+  - key: "BNB"
+    title: "BNB"
+    url: "/wiki/entities/bnb/"
   - key: "BoardOfPeace"
     title: "Board of Peace"
     url: "/wiki/entities/boardofpeace/"

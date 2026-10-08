@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder](sources/all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770.md) — All-In interview with CZ on his immigrant and trading-systems background, Binance and BNB's launch, U.S. enforcement and prison, Giggle Academy, crypto privacy, and agent payments.
 - [《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？](sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj.md) — 晁错凭提前请罪与景帝背书化解申屠嘉的宗庙墙案；景帝首轮减笞与梁王刘武的财富、宾客和特殊礼遇又补出后续削藩及继承冲突的前奏。
 - [《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？](sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1.md) — 穆先生从甜酒礼节中断判断君臣关系已变并及时退出；刘濞则把削藩压力、诸侯串联、吴国动员、越地支援与吴楚合兵转成公开战争，但齐国反悔、济北受制也暴露联盟不稳。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg.md) — 吴国铜盐、轻税与拒捕构成刘濞的资源和自治基础；晁错以“早削祸小”推动连续削地，应高再把诸侯恐惧、诛晁错口号、军事方案和分地承诺组合成七国联盟。
@@ -4125,6 +4126,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
+- [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
+- [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
 - [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 试图以宗庙外墙案诛杀晁错，却因对方提前入宫请罪并获景帝背书而失去弹劾先机的西汉丞相。
 - [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
 - [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
@@ -11684,8 +11688,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [红盛系 / Hongsheng System](entities/HongshengSystem.md) — Family-linked Wahaha operating network tied to Zong Fuli's background and later succession-opacity disputes.
 - [Danone / 达能](entities/Danone.md) — Foreign shareholder and joint-venture dispute counterpart in Wahaha's trademark, non-JV-company, and national-brand story.
 - [Komeito / 公明党](entities/Komeito.md) — Japanese coalition party whose exit from the LDP alliance made Takaichi Sanae's source-dated path to power uncertain.
-- [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Crypto-industry founder associated with Binance, now covered through Hong Kong policy signaling, regulatory hindsight, founder pressure handling, team operating style, and education motivation.
-- [Binance](entities/Binance.md) — Global crypto exchange case for CZ's regulatory-boundary hindsight, product-speed tradeoffs, crisis pressure, and blockchain-finance reflections.
+- [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Binance founder whose profile now spans low-latency trading, repeated pivots, exchange scale, U.S. enforcement and prison, Giggle Academy, and agent-payment speculation.
+- [Binance](entities/Binance.md) — Global crypto exchange built from prior exchange software, launched through the BNB ICO, differentiated by speed, and constrained by jurisdictional and KYC/AML failures.
 - [跨海电波 / Kuahai Dianbo](entities/KuahaiDianbo.md) — Amazon Advertising-produced cross-border-commerce podcast represented by the episode 142 crossover on Japanese seasonal-limited consumption and market entry.
 - [MUJI / 无印良品](entities/Muji.md) — Japanese retail brand used by episode 142 as a New Year lucky-bag and annual-ritual consumer-memory case.
 - [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.

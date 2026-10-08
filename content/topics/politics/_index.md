@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3197
+topic_total_pages: 3198
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8751,6 +8751,9 @@ topic_sources:
   - key: "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e"
     title: "Continental Rift: NATO's Tense Summit"
     url: "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770"
+    title: "CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830"
     title: "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"

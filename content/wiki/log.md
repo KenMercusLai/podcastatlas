@@ -32411,3 +32411,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770`; created [[BNB]], [[BinanceUS|Binance.US]], and [[GiggleAcademy]]; and resynthesized [[ChangpengZhao]], [[Binance]], and [[AgentPaymentInfrastructure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Binance emerged from accumulated low-latency trading work, exchange-software pivots, token financing, and a favorable 2017 timing window rather than a single founder epiphany; product speed and international users enabled rapid scale, while registration, KYC/AML, jurisdiction, and law-enforcement demands became structural limits. CZ's legal, prison, FTX, political, and pardon accounts remain explicitly source-scoped. His post-Binance work adds free education and a crypto-as-machine-settlement hypothesis, while the agent-payment synthesis keeps identity, authorization, compliance, traceability, and recourse more fundamental than any rail. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,056 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

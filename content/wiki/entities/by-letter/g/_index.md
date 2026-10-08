@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12728
+wiki_total_pages: 12731
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "Gibraltar"
     title: "Gibraltar / 直布罗陀"
     url: "/wiki/entities/gibraltar/"
+  - key: "GiggleAcademy"
+    title: "Giggle Academy"
+    url: "/wiki/entities/giggleacademy/"
   - key: "GilLuria"
     title: "Gil Luria"
     url: "/wiki/entities/gilluria/"
