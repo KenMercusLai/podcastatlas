@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10024
+wiki_total_pages: 10025
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "OuterRelativeCommandAppointmentRisk"
     title: "外戚任重职风险 / Outer-Relative Command Appointment Risk"
     url: "/wiki/concepts/outerrelativecommandappointmentrisk/"
+  - key: "OuterRelativeTutorshipRestraint"
+    title: "外戚师友式预防约束 / Outer-Relative Tutorship Restraint"
+    url: "/wiki/concepts/outerrelativetutorshiprestraint/"
   - key: "OuterRelativeRecurrence"
     title: "外戚轮回 / Outer-Relative Recurrence"
     url: "/wiki/concepts/outerrelativerecurrence/"

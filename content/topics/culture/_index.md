@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3262
+topic_total_pages: 3263
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3412,6 +3412,9 @@ topic_concepts:
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"
+  - key: "OuterRelativeTutorshipRestraint"
+    title: "外戚师友式预防约束 / Outer-Relative Tutorship Restraint"
+    url: "/wiki/concepts/outerrelativetutorshiprestraint/"
   - key: "GrandViewGardenYouthUtopia"
     title: "大观园青春乌托邦 / Grand View Garden Youth Utopia"
     url: "/wiki/concepts/grandviewgardenyouthutopia/"

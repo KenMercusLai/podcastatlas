@@ -33124,3 +33124,11 @@ Added source `zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lm
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）
+
+Added source `zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i`; created [[OuterRelativeTutorshipRestraint|外戚师友式预防约束]]; and resynthesized [[EmpressDowagerDouWesternHan|窦太后]], [[DouGuangguoWesternHan|窦广国]], and [[LiuHeng|汉文帝刘恒]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Dou siblings' reunion converts private kin recovery into a court-governance question, and Zhou Bo and Guan Ying use upright teachers and companions as a preventive intervention before outer-relative power hardens; Liu Heng's early relief, elder support, tribute refusal, and recognition of Dai followers join burden limitation to opening-reign consolidation. No settled contradiction was adopted. The title points to Chen Ping while the body does not; the former Dai queen's Lü identity, the causes of her four sons' deaths, Liu Heng's involvement, Sima Qian's alleged concealment, welfare delivery, quantities, and political motives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,146 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

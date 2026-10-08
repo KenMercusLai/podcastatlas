@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd.md) — 陈平让周勃居相位之首以承认诛吕之功并降低自身暴露，袁盎促文帝重立君臣礼数，文帝同时废除亲属连坐并确立刘启的太子次序。
+- [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i.md) — 标题虽指向陈平，正文实际讲窦皇后姐弟相认、师友式外戚预防及文帝初政的赈恤与贡物节制；代王后四子疑云保留为节目推测。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso.md) — 赵佗以吕后时期的禁贸、扣使与毁墓杀亲传闻解释决裂，接受文帝恢复关系后去除对外帝号、重申臣属进贡，同时以土地甲士和高祖旧约维护南越实力与自治边界。
 - [《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）](sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg.md) — 文帝以代国旧臣重组军权、九卿与信息渠道后公开问政；周勃请辞、陈平论丞相统筹职责，显示新君收权、功臣退场与专业分工的交叠。
 - [《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）](sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc.md) — 标题虽指向周勃，正文实际讲文帝以修墓优亲、撤军让步、战争成本与名分压力推动赵佗重回汉朝等级秩序。
@@ -4313,7 +4314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
 - [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
 - [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 文帝为避外戚任相观感而选中的廉直老臣，曾以礼法压制邓通，后因晁错提前请罪并获景帝背书而失去弹劾先机。
-- [窦广国 / Dou Guangguo (Western Han)](entities/DouGuangguoWesternHan.md) — 被汉文帝认为有德有才却因外戚任相的偏私观感而未获任命的候选人。
+- [窦广国 / Dou Guangguo (Western Han)](entities/DouGuangguoWesternHan.md) — 幼年失散后与窦皇后相认、接受预防性师友约束，后来虽被文帝认为有才仍因外戚偏私观感未获任相。
 - [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
 - [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
 - [应高 / Ying Gao (Western Han)](entities/YingGaoWesternHan.md) — 受刘濞派遣，以共同威胁、诛晁错口号、军事计划和分地承诺说服胶西王刘昂加入联盟的吴国使者。
@@ -4373,7 +4374,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《镖人：风起大漠》 / Blades of the Guardians](entities/BiaoRenFilm2026.md) — Wuxia film whose readable action transfers more successfully than the comic's political and ensemble density.
 - [袁和平 / Yuen Woo-ping](entities/YuenWooPing.md) — Director bounded here through the action craft of 《镖人：风起大漠》.
 - [Noah Webster](entities/NoahWebster.md) — American lexicographer who joined public education and post-independence national differentiation to a commercially fragile dictionary project.
-- [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
+- [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 从代国宫廷、子女与姐弟重逢进入政治视野，后来成为景帝至武帝初年的资深权力中心。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
 - [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
 - [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 由立后与幼年刘彻立储进入继承政治，刘彻即位后又以母子亲近和母族受封为田蚡提供进身、复起与直接支持通道。
@@ -20367,6 +20368,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [以夷攻夷式边疆策略 / Frontier Proxy Conquest Strategy](concepts/FrontierProxyConquestStrategy.md) — Western Regions strategy using local royal legitimacy, hostage princes, local states, local supplies, allied powers, and small Han detachments against frontier opponents, with a Western Han Loulan precursor.
 - [上行下效式政风治理 / Top-Down Exemplar Governance](concepts/TopDownExemplarGovernance.md) — Governance and management pattern where leader behavior, kin restraint, and capital/court norms shape lower-level conduct more durably than isolated rewards or slogans.
 - [外戚预防性约束 / Outer-Relative Preventive Restraint](concepts/OuterRelativePreventiveRestraint.md) — Preventive court-governance pattern where favored kin refuse or are blocked from privilege before outer-relative power hardens, with Wang Mang's Wei-family isolation as a warning case.
+- [外戚师友式预防约束 / Outer-Relative Tutorship Restraint](concepts/OuterRelativeTutorshipRestraint.md) — 以正直师友塑造骤然显贵的外戚家庭，在权力固化或违法之前通过日常教化降低风险。
 - [摄政委权式权力俘获 / Delegated Regency Capture](concepts/DelegatedRegencyCapture.md) — Regency-control mechanism where relieving a senior dowager of routine affairs moves personnel evaluation and administrative discipline to another actor.
 - [外戚任重职风险 / Outer-Relative Command Appointment Risk](concepts/OuterRelativeCommandAppointmentRisk.md) — 外戚任重职可能扭曲选拔、制造军功并形成亲情—法律问责冲突；薄昭案补出授权、犯法到被迫自尽的完整失败链。
 - [羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger](concepts/QiangOfficialAbuseRebellionTrigger.md) — Frontier-rebellion pattern where local official abuse and punitive pursuit escalate grievance into coalition revolt.

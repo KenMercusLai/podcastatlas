@@ -65083,9 +65083,9 @@
       "url": "/wiki/entities/dougueasternhan/"
     },
     "DouGuangguoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
@@ -65093,9 +65093,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2） [lnZ79ec6Cz5s1N90tIfNnxMFVI2i].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/douguangguowesternhan/"
     },
     "DouGuiEasternHan": {
@@ -74030,9 +74037,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerDouWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -74082,9 +74089,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2） [lnZ79ec6Cz5s1N90tIfNnxMFVI2i].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/empressdowagerdouwesternhan/"
     },
     "EmpressDowagerLiangNaLateHan": {
@@ -145357,9 +145371,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -145507,6 +145521,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2） [lnZ79ec6Cz5s1N90tIfNnxMFVI2i].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i/"
         }
       ],
       "updated": "2026-10-09",
@@ -180687,6 +180708,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/outerrelativerecurrence/"
+    },
+    "OuterRelativeTutorshipRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2） [lnZ79ec6Cz5s1N90tIfNnxMFVI2i].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/outerrelativetutorshiprestraint/"
     },
     "OuterRoundInnerSquareConduct": {
       "episode_count": 2,
