@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌](sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq.md) — 晁错削藩与危机处置使诸侯怨恨和朝廷阻力集中于一身；袁盎以诛晁错、赦吴楚、还削地反击，景帝将其作为政治牺牲，但后续并未因此止战。
 - [《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？](sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr.md) — 晁错之死未使刘濞退兵；周亚夫绕开伏击、让梁国牵制吴楚、切断粮道并顶住救援压力，以坚守和追击完成平叛，具体军令、路线与战场细节保留来源边界。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp.md) — 七国之乱由军事胜利进入清算：齐国密约受查、刘昂的“诛晁错”辩解被无诏无符与攻击拒叛邻国的事实驳回，韩颓当据此执行招降与处置；姓名、谱系及程序细节保留来源边界。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg.md) — 刘胜的享乐自保解释、刘彭祖的封国内控、刘丹的赦免与刘元的递进惩罚共同呈现宗室特权的问责边界，刘德则构成非决定论反例；亲缘与年代错误保留为明确矛盾。
@@ -4116,6 +4117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 推动削藩、忠于中央却在权力边界、危机优先级与同僚支持上失去保护，最终被景帝作为政治牺牲处死的西汉官员。
 - [赵涉 / Zhao She (Western Han adviser)](entities/ZhaoSheAdviserWesternHan.md) — 预判吴军会在险路设伏、建议周亚夫绕经蓝田与武关并获侦察验证的西汉军事顾问；与赵奢分列。
 - [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；周亚夫以绕伏、牵制、断粮和坚守制胜，战后再转入诸侯追责与中央收权。
 - [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。

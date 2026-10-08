@@ -32339,3 +32339,11 @@ Added source `zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-la
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌
+
+Added source `zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq`; created [[ChaoCuoWesternHan|晁错]]; and resynthesized [[RebellionOfTheSevenStatesWesternHan|七国之乱]], [[YuanAngWesternHan|袁盎]], and [[HanJingdi|汉景帝]] from their complete preserved evidence inventories before appending the new source once. Core synthesis:削藩使叛国口号与朝廷内部阻力集中到晁错身上；他在危机中提出景帝亲征并试图追究袁盎，又进一步削弱自身保护。袁盎通过窦婴获得私下进言机会，以诛晁错、赦吴楚、归还削地完成反击；景帝在无法确认和平结果的情况下仍采纳方案，把晁错作为同时回应外部借口和内部消极的政治牺牲。相邻 Hanji 234 已证明此举未使刘濞退兵。节目“职场边界”解释保留为人物层判断，不取代诸侯自主、削藩、叛乱和朝廷生存等结构原因。窦婴与刘濞保持关闭，因为新材料未越出既有人物主线。自动 `wiki/overview.md` 仅作为上下文读取，未在下游 synthesis 硬边界下手工改写。Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,047 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

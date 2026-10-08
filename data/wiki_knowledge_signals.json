@@ -36806,6 +36806,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/channelnativeinternalcommunication/"
     },
+    "ChaoCuoWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
+          "key": "zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/chaocuowesternhan/"
+    },
     "ChaoGe": {
       "episode_count": 5,
       "show_count": 2,
@@ -101605,9 +101628,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101699,6 +101722,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
+          "key": "zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq/"
         }
       ],
       "updated": "2026-10-08",
@@ -195114,9 +195144,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RebellionOfTheSevenStatesWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -195138,6 +195168,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
+          "key": "zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq/"
         }
       ],
       "updated": "2026-10-08",
@@ -258548,9 +258585,9 @@
       "url": "/wiki/entities/yuananeasternhan/"
     },
     "YuanAngWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -258572,6 +258609,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
+          "key": "zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq/"
         }
       ],
       "updated": "2026-10-08",

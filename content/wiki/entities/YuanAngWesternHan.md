@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
   - zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le
   - zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr
+  - zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-袁盎 / Yuan Ang is a Western Han official whose current profile joins a dangerous embassy and favor-enabled escape during the [[RebellionOfTheSevenStatesWesternHan|Rebellion of the Seven States]], a successful succession remonstrance to [[EmpressDowagerDouWesternHan|窦太后]], and later assassination by attackers attributed to the circle of [[LiuWuLiangKingWesternHan|梁孝王刘武]].
+袁盎 / Yuan Ang is a Western Han official whose current profile joins a lethal court rivalry and proposal to sacrifice [[ChaoCuoWesternHan|晁错]], a dangerous embassy and favor-enabled escape during the [[RebellionOfTheSevenStatesWesternHan|Rebellion of the Seven States]], a successful succession remonstrance to [[EmpressDowagerDouWesternHan|窦太后]], and later assassination by attackers attributed to the circle of [[LiuWuLiangKingWesternHan|梁孝王刘武]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] supplies the earliest current episode layer. After Jingdi kills Chao Cuo, Yuan and Liu Tong travel to Wu to seek withdrawal. [[LiuBiWuKing|刘濞]] confines Yuan and tries to recruit him; Yuan refuses. A guard leader who reportedly remembers an earlier favor warns Yuan of the killing order and helps him escape to report Liu Bi's position at Chang'an.
+[[zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq|Hanji 233]] supplies the court struggle before the embassy. After Chao seeks to prosecute him for payments from Liu Bi and his earlier defense of Wu, Yuan reaches Jingdi through [[DouYingWesternHan|窦婴]]. He first argues that Wu's wealth has attracted dangerous dependents rather than reliable heroes, then asks that Chao leave the room and proposes killing him, pardoning the rebels, and restoring reduced territory. The sequence shows disciplined persuasion and effective access, but also a life-preserving counterattack against a rival; the source does not let later courage erase that interest.
+
+[[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] supplies the next episode layer. After Jingdi kills Chao Cuo, Yuan and Liu Tong travel to Wu to seek withdrawal. [[LiuBiWuKing|刘濞]] confines Yuan and tries to recruit him; Yuan refuses. A guard leader who reportedly remembers an earlier favor warns Yuan of the killing order and helps him escape to report Liu Bi's position at Chang'an.
 
 The story treats relationship capital as contingent rescue, not a substitute for office or policy. Yuan's earlier conduct creates one loyal intermediary inside an enemy camp, but the source does not establish the full favor, guard identity, escape route, or whether reputation generally protects officials in such crises.
 
@@ -31,6 +34,7 @@ The subsequent investigation traces the attackers to Liang and reaches the two a
 ## Key Characteristics
 
 - Western Han envoy who refuses recruitment by a rebel king and escapes through help attributed to an earlier beneficiary.
+- Court survivor who answers Chao Cuo's threatened prosecution by obtaining private access and proposing Chao's execution as part of a peace package.
 - Official presented as an opponent of collateral succession in favor of the emperor's established line.
 - Remonstrant who uses a historical analogy rather than a direct personal accusation against the dowager or Liang king.
 - Advocate of larger dynastic duty over a senior royal's immediate family preference.
@@ -41,6 +45,9 @@ The subsequent investigation traces the attackers to Liang and reaches the two a
 
 Embassy, refusal, and escape:
 - [[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] says Yuan is confined in Wu, refuses to defect, and escapes after a guard leader repays an earlier favor by warning and assisting him.
+
+Court counterattack and proposed settlement:
+- [[zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq|Hanji 233]] gives Chao's proposed case, Dou Ying's intercession, Yuan's assessment of Wu, the private audience, and the execution-pardon-restoration proposal.
 
 Succession remonstrance:
 - [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] attributes to Yuan the Song Xuangong analogy and the warning that “small” personal attachment can damage larger dynastic duty.
@@ -54,10 +61,12 @@ Assassination boundary:
 
 ## Qualifications
 
-This profile is based on three short source notes rather than a full biography. Hanji 234's mission authority, Liu Bi's offer and killing order, the guard leader's identity, earlier favor, escape, and report require broader textual comparison. The exact succession proposal, road design and effects, Song precedent, speeches, audience procedure, dowager's reasoning, intended victims, attackers, warning episode, death location, investigative evidence, Liu Wu's instructions, and final adjudication also remain bounded. Hanji 241 establishes a much fuller alleged Liang mechanism, but its own claim that records were burned prevents treating the reconstructed case as a complete surviving judgment.
+This profile is based on four short source notes rather than a full biography. Hanji 233's allegations of payment, Chao's proposed prosecution, Dou Ying's access, assessment of Liu Bi's following, private audience, peace package, and Yuan's personal motive require broader comparison; the proposal can be both a crisis strategy and a life-preserving counterattack. Hanji 234's mission authority, Liu Bi's offer and killing order, the guard leader's identity, earlier favor, escape, and report are likewise bounded. The exact succession proposal, road design and effects, Song precedent, speeches, audience procedure, dowager's reasoning, intended victims, attackers, warning episode, death location, investigative evidence, Liu Wu's instructions, and final adjudication also remain bounded. Hanji 241 establishes a much fuller alleged Liang mechanism, but its own claim that records were burned prevents treating the reconstructed case as a complete surviving judgment.
 
 ## What Changed
 
+- Added Yuan's threatened prosecution, access strategy, private audience, and proposal to sacrifice Chao Cuo.
+- Qualified his political skill by keeping self-preservation and public crisis reasoning visible together.
 - Added Yuan's rebellion-era embassy, refusal to defect, and favor-enabled escape from Wu.
 - Distinguished interpersonal goodwill as a contingent rescue channel from a general guarantee of political safety.
 
@@ -66,6 +75,7 @@ This profile is based on three short source notes rather than a full biography. 
 - [[EmpressDowagerDouWesternHan|窦太后]] - senior royal whom Yuan persuades to place dynastic order above immediate maternal preference.
 - [[LiuWuLiangKingWesternHan|梁孝王刘武]] - alternative-heir beneficiary and later hostile political field around Yuan's assassination.
 - [[HanJingdi|汉景帝]] - reigning emperor whose succession line Yuan's intervention protects.
+- [[ChaoCuoWesternHan|晁错]] - rival whose attempted prosecution Yuan answers with a successful execution proposal.
 - [[LiuBiWuKing|刘濞]] - rebel king whose recruitment attempt and reported killing order Yuan survives.
 - [[RebellionOfTheSevenStatesWesternHan|七国之乱]] - crisis setting for Yuan's embassy and return to court.
 - [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]] - historical-risk model made concrete through the Song Xuangong analogy.
