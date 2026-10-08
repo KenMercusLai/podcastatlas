@@ -32133,3 +32133,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子
+
+Added source `zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77`; created [[MoralEducationBeforePunishment|教化先于刑法]]; and resynthesized [[DongZhongshu|董仲舒]] and [[Taixue|太学]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Dong Zhongshu's policy answer joins ruler self-correction, official example, ritual education, advance talent cultivation, Taixue, repeated examination, and local implementation into an upstream alternative to relying on punishment after conduct deteriorates. No settled contradiction was adopted. The title's “如何养儿子” discussion and the host's final answer about gently guiding a ruler are absent because the supplied transcript stops at the question; biography, quotations, candidate count, cosmic causation, Zhou and Qin comparisons, and institutional implementation remain source-scoped. Broad Han Wudi, Confucian ideal-governance, Wangdao, Qin, Han Fei, local-governance, appointment, and show pages were kept closed because the bounded additions are represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,021 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

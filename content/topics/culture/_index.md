@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3223
+topic_total_pages: 3225
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3424,6 +3424,9 @@ topic_concepts:
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"
+  - key: "MoralEducationBeforePunishment"
+    title: "教化先于刑法 / Moral Education Before Punishment"
+    url: "/wiki/concepts/moraleducationbeforepunishment/"
   - key: "LiteraryTravelAsCareerStrategy"
     title: "文人漫游作为仕途策略 / Literary Travel As Career Strategy"
     url: "/wiki/concepts/literarytravelascareerstrategy/"
@@ -9492,6 +9495,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg"
     title: "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！"
     url: "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
+  - key: "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77"
+    title: "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子"
+    url: "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"
   - key: "zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql"
     title: "《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案"
     url: "/wiki/sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql/"

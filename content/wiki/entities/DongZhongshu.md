@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
   - zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z
   - zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail
+  - zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Dong Zhongshu / 董仲舒 is currently the wiki's main person marker for Western
 ## Current Profile
 
 Hanji 248 supplies the earliest career-facing layer in the current evidence inventory. It presents young [[HanWudi|汉武帝]] as calling for 贤良方正 and 直言极谏, then using [[ImperialPolicyQuestioningTalentSelection|策问式选才]] to hear candidates on government. In the episode's account, Dong Zhongshu ranks first and gains an access point through which Confucian learning can become imperial policy argument. The source stops before his substantive answers or their implementation, so the exact ranking, format, and causal line to later orthodoxy remain bounded.
+
+[[zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77|Hanji 247]] now fills part of that substantive gap. It presents Dong's answer as a governance chain from ruler self-correction through court and official conduct to public custom, then turns the principle into institutions: [[MoralEducationBeforePunishment|education upstream of punishment]], [[Taixue|Taixue]], capable teachers, repeated examination, and local officials able to transmit policy without exploiting households. The source therefore makes his policy role more concrete than ideological predominance alone, while its biographical details, cosmic-response claims, and exact historical wording remain bounded.
 
 [[zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail|Hanji 249]] supplies the next career step and a responsibility boundary. It says Dong's concentrated study and policy performance lead to a Jiangdu chancellorship, where he uses ritual to correct the local ruler. More importantly, it attributes the explicit exclusion of candidates associated with Shen Buhai, Han Fei, Su Qin, and Zhang Yi to [[WeiWanWesternHan|魏绾]], not to Dong. The host still links Dong's answers to Confucian predominance, but argues that “罢黜百家” meant a dominant framework capable of absorbing other methods rather than literal eradication of every school.
 
@@ -37,7 +40,7 @@ Hanji 285 adds a second source-attributed exposure mechanism. It says [[ZhuFuYan
 ## Key Characteristics
 
 - Intellectual bridge between Confucian political language and Heaven-linked legitimacy.
-- Scholar whose policy answers are presented as converting classical learning into direct access, a Jiangdu appointment, and a role in Confucian ideological predominance.
+- Scholar whose policy answers connect classical learning to direct access, ruler self-correction, education before punishment, Taixue-based talent formation, a Jiangdu appointment, and Confucian ideological predominance.
 - Source-scoped figure for the absorption of omen, yin-yang, five-phases, and ritual technique into imperial Confucian statecraft.
 - Key background for why Wang Mang's sacred and auspicious-sign claims could sound institutionally plausible.
 - In Hanji 392-4, credited with reshaping Confucianism into an imperial ideology compatible with Legalist hierarchy.
@@ -47,6 +50,7 @@ Hanji 285 adds a second source-attributed exposure mechanism. It says [[ZhuFuYan
 ## Evidence
 
 Policy access through questioning:
+- [[zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77|Hanji 247]] supplies the policy substance: ruler-to-bureaucracy self-correction, ritual education, Taixue, repeated examination, and local-official conduct.
 - [[zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z|Hanji 248]] presents Dong's policy-question response as the bridge from classical scholarship and Confucian ambition into direct imperial attention.
 - [[zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail|Hanji 249]] continues that bridge into the Jiangdu chancellorship while separating Dong's ideological role from Wei Wan's explicit personnel-screening proposal.
 
@@ -67,13 +71,12 @@ Memorial exposure:
 
 ## Qualifications
 
-The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 248 does not quote the substantive policy answers and leaves its date, candidate count, one-to-one format, first-place result, grouping of famous candidates, “first civil-service examination” analogy, and line from selection to “罢黜百家，独尊儒术” uncollated. Hanji 249 adds a Jiangdu appointment and a distinction between Dong's policy argument and Wei Wan's exclusion proposal, but does not establish the famous formula's textual history or prove that ideological predominance preserved every rival tradition intact. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. Hanji 367-1 supports the danger of the Jiaoxi appointment and Dong's withdrawal, but its modern workplace lesson and exact reconstruction of Gongsun Hong's motive remain interpretive. Hanji 285's stolen-memorial story is not independently collated and does not establish the memorial's wording, status, submission path, chronology, or how close Dong came to execution. The sources do not settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
+The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 247 supplies policy content but is a compact structured summary whose biography, quoted wording, Zhou and Qin comparisons, ancient-school reconstruction, and Heaven-response causation remain uncollated; its transcript also ends before the host answers the final question about gently guiding a ruler. Hanji 248 leaves its date, candidate count, one-to-one format, first-place result, grouping of famous candidates, “first civil-service examination” analogy, and line from selection to “罢黜百家，独尊儒术” uncollated. Hanji 249 adds a Jiangdu appointment and a distinction between Dong's policy argument and Wei Wan's exclusion proposal, but does not establish the famous formula's textual history or prove that ideological predominance preserved every rival tradition intact. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. Hanji 367-1 supports the danger of the Jiaoxi appointment and Dong's withdrawal, but its modern workplace lesson and exact reconstruction of Gongsun Hong's motive remain interpretive. Hanji 285's stolen-memorial story is not independently collated and does not establish the memorial's wording, status, submission path, chronology, or how close Dong came to execution. The sources do not settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
 
 ## What Changed
 
-- Added ruler-led policy questioning as the earliest current mechanism connecting Dong's scholarship to imperial access.
-- Distinguished that access from proof that his answers were implemented or directly established later Confucian predominance.
-- Added the Jiangdu appointment and separated Dong's ideological influence from Wei Wan's explicit exclusion proposal.
+- Added the substantive governance program behind Dong's policy access: ruler self-correction, education before punishment, Taixue, repeated examination, and accountable local officials.
+- Reframed Dong's early state-facing role as an institutional program as well as a route toward ideological predominance.
 
 ## Relationships
 
@@ -81,6 +84,8 @@ The current profile is source-scoped and does not reconstruct Dong Zhongshu's wr
 - [[HanWudi|汉武帝]] - ruler whose ideological needs Hanji 392-4 connects to Dong Zhongshu's remade Confucianism.
 - [[WeiWanWesternHan|魏绾]] - official to whom Hanji 249 attributes the explicit screen against selected non-Confucian teachings.
 - [[ImperialPolicyQuestioningTalentSelection|策问式选才]] - recruitment channel through which Hanji 248 introduces Dong's state-facing argument.
+- [[MoralEducationBeforePunishment|教化先于刑法]] - governance program Hanji 247 attributes to Dong's policy answer.
+- [[Taixue|太学]] - talent-cultivation institution Hanji 247 places inside Dong's education-first program.
 - [[HanFei|韩非]] - Legalist comparator whose hierarchy is treated by Hanji 392-4 as absorbed into official Confucianism.
 - [[MandateOfHeavenLegitimacy]] - legitimacy field that Dong Zhongshu helps make readable through Heaven-response reasoning.
 - [[AuspiciousOmenPolitics]] - political-sign system adjacent to Dong Zhongshu's omen afterlife.

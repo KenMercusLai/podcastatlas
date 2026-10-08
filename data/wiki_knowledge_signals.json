@@ -62483,9 +62483,9 @@
       "url": "/wiki/entities/dongyuanlatehan/"
     },
     "DongZhongshu": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -62535,6 +62535,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子 [lp_RE0k2I0X9r0xE9MGD4ENbdu77].md",
+          "key": "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"
         }
       ],
       "updated": "2026-10-08",
@@ -161522,6 +161529,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/moraldesertpoliticaloutcomegap/"
     },
+    "MoralEducationBeforePunishment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子 [lp_RE0k2I0X9r0xE9MGD4ENbdu77].md",
+          "key": "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/moraleducationbeforepunishment/"
+    },
     "MoralMentorshipTalentCultivation": {
       "episode_count": 2,
       "show_count": 1,
@@ -224775,9 +224798,9 @@
       "url": "/wiki/entities/taiwannighthawk/"
     },
     "Taixue": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -224848,6 +224871,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》294-2｜一场比剑引爆的惊天大案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子 [lp_RE0k2I0X9r0xE9MGD4ENbdu77].md",
+          "key": "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"
         }
       ],
       "updated": "2026-10-07",

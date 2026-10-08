@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9905
+wiki_total_pages: 9906
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "MotherhoodBeyondChildbirth"
     title: "抚育胜于生育的母德评价 / Motherhood Beyond Childbirth"
     url: "/wiki/concepts/motherhoodbeyondchildbirth/"
+  - key: "MoralEducationBeforePunishment"
+    title: "教化先于刑法 / Moral Education Before Punishment"
+    url: "/wiki/concepts/moraleducationbeforepunishment/"
   - key: "ManichaeismInChina"
     title: "明教 / 摩尼教在中国"
     url: "/wiki/concepts/manichaeisminchina/"
