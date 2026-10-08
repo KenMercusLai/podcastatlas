@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2212
+topic_total_pages: 2213
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -91,6 +91,9 @@ topic_concepts:
   - key: "AfricanRetailMarketDeepening"
     title: "African Retail Market Deepening"
     url: "/wiki/concepts/africanretailmarketdeepening/"
+  - key: "AgentTokenBudgeting"
+    title: "Agent Token Budgeting"
+    url: "/wiki/concepts/agenttokenbudgeting/"
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"

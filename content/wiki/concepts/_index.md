@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9919
+wiki_total_pages: 9920
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "AgentTaskClaiming"
     title: "Agent Task Claiming"
     url: "/wiki/concepts/agenttaskclaiming/"
+  - key: "AgentTokenBudgeting"
+    title: "Agent Token Budgeting"
+    url: "/wiki/concepts/agenttokenbudgeting/"
   - key: "AgentTrajectoryDistillation"
     title: "Agent Trajectory Distillation"
     url: "/wiki/concepts/agenttrajectorydistillation/"

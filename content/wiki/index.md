@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV](sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725.md) — All-In episode on agent work intensification, private AI deployment, token budgets, prediction-market information asymmetry, U.S. debt risk, and Ferrari's first EV.
 - [《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死](sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le.md) — 袁盎遇刺案由修路争议追到梁王宫中；韩安国迫使刘武交出羊胜、公孙诡，田叔则在认定死罪后焚毁案卷，以牺牲证据和同等执法换取宗室、太后与朝廷的暂时和解。
 - [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
 - [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5.md) — 王娡立后与幼年刘彻立储被放入母系家族经营中解释；郅都则以威慑权贵、拒绝私请和阻止景帝为宠妃冒险，区分酷吏的强制效用、个人克制与角色忠诚，具体年代、动机和轶事保留来源边界。
@@ -16857,6 +16858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
+- [Agent Token Budgeting](concepts/AgentTokenBudgeting.md) — Management practice for evaluating agent inference spend against accepted work, task risk, review cost, and business outcomes.
 - [证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise](concepts/EvidenceSuppressionDynasticCompromise.md) — 私下承认受保护宗室可能有罪，却主动切断通向最终惩罚的证据链，以法律可信度和档案真相换取短期王朝稳定。
 - [旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk](concepts/CollateralSuccessionDisorderRisk.md) — 旁支继承把竞争性血统、承诺与恢复要求转移给后代，从而可能把一次立储选择延长为多代冲突。
 - [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。

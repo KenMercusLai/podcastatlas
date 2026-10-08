@@ -10,7 +10,8 @@ sources:
   - tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128
   - tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128
   - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
-last_updated: 2026-09-06
+  - all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,14 +27,16 @@ Later sources broaden the ethics problem. Integrity oversight and self-regulatio
 
 The Duanwen episode adds an attention and culture layer. A market need not reference catastrophe to be ethically charged: it can compress complex public realities into brittle Yes/No settlement rules, turn news into personal position anxiety, or make women celebrities' bodies and private lives into tradable objects. Prediction-market ethics therefore includes content categories, integrity controls, settlement definitions, user experience, and cultural targeting.
 
+The latest All-In discussion sharpens the distributive question. A market can reward "sharps" with genuine information while relying on less-informed "squares" for liquidity. Faster truth discovery is not a complete ethical defense when an edge comes from classified, fiduciary, employment, or event-controlling access rather than public research.
+
 ## Key Claims
 - Useful probability aggregation does not automatically make an event morally, legally, or journalistically appropriate to trade.
 - Catastrophe-linked contracts are especially risky because they can turn public harm into speculative payoff.
 - Insider trading, event manipulation, and non-public information can damage legitimacy even when the event category is not inherently prohibited.
 - Platform self-regulation matters but depends on identifying traders, classifying markets, and enforcing rules before harm or unfair trading.
-- The legal claim that an event contract is a derivative does not settle whether the user experience functions like gambling.
 - Settlement wording and binary resolution can become ethical problems when they erase ambiguity or human stakes.
 - Gendered and intimate-life markets show that social harm can arise from attention and objectification, not only from death or war incentives.
+- Information asymmetry becomes ethically different when privileged access replaces research or when a trader can influence the event.
 
 ## Evidence
 - Harmful-event boundary: [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] discusses Kalshi's Khamenei-related market and Polymarket's removal of nuclear-weapons markets.
@@ -42,16 +45,19 @@ The Duanwen episode adds an attention and culture layer. A market need not refer
 - History and public-value critique: [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] places event markets near gambling and political theater, while [[do-prediction-market-bettors-make-anything-better]] tests truth-machine claims against app behavior and trader incentives.
 - Federalism and public finance: [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds New York's gambling-law and tax-benefit argument.
 - Settlement, journalism, and gender: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] argues that Polymarket can flatten reality into binary settlement, alter news attention, and financialize gendered gaze.
+- Sharps, squares, and insider edge: [[all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725]] debates whether informational advantage improves truth discovery or systematically exploits ordinary users.
 
 ## Counterevidence & Qualifications
 - Some prediction markets may be useful, low-stakes, clearly worded, and socially acceptable; the concept is not a blanket rejection of event markets.
 - Ethical categories differ. War manipulation, sports insider trading, speech-word gambling, state tax policy, and celebrity-body markets require different controls.
 - The Duanwen demographic and culture claims rely on the source's web-traffic and qualitative observations rather than platform-internal datasets.
+- The All-In source does not supply a complete legal test for non-public information; "edge" spans lawful public research, prohibited insider access, classified material, and event manipulation that require different treatment.
 
 ## What Changed
 - Migrated the page to the synthesis-first concept schema.
 - Added settlement-definition, journalism-attention, and gendered-market-content risks from the Duanwen episode.
 - Compressed older source-led append prose into grouped evidence while preserving the original source order.
+- Added the fairness distinction between public-information skill and privileged or event-controlling access.
 
 ## Related Concepts
 - [[PredictionMarketLegalBoundary]] - legal classification question that shapes ethical treatment.

@@ -6,7 +6,8 @@ sources:
   - do-prediction-market-bettors-make-anything-better
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
-last_updated: 2026-09-06
+  - all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,30 +21,35 @@ The concept separates skill from public value. [[do-prediction-market-bettors-ma
 
 An AI-builder variant appears through [[OnePersonFund]] speculation: a person might use coding agents to gather public signals and build strategies. The Duanwen episode adds the negative journalist case. [[XiaoweiDuanwenReporter|小薇]] has news habits and event awareness, but the simulated [[Polymarket]] month loses money because market expectations, entry timing, limited remaining upside, and contract definitions matter as much as reading the news.
 
+The new All-In source names the participant structure directly: "sharps" seek edge while "squares" often supply liquidity and lose. It also draws a necessary boundary inside alpha. Public research, faster synthesis, confidential employment information, classified knowledge, and control over the event may all improve a trade, but they are not equally legitimate.
+
 ## Key Claims
 - Alpha can come from research, speed, niche expertise, physical observation, and careful reading of market rules.
 - Trader self-understanding can differ sharply from public images of gambling or addiction.
 - Private edge can improve price accuracy in some markets while leaving public-value and fairness questions unresolved.
 - Extreme information gathering can redirect attention toward settlement-specific facts rather than substantive public meaning.
 - The concept overlaps with [[EventContractManipulationRisk]] when information gathering becomes event influence or insider advantage.
-- AI coding can lower the cost of building trading workflows, but it does not prove the user has durable market edge.
 - Journalistic news literacy is not sufficient alpha when the market has already priced the likely outcome.
+- Durable alpha must be separated from prohibited, privileged, classified, or event-manipulating access.
 
 ## Evidence
 - Trader-culture evidence: [[do-prediction-market-bettors-make-anything-better]] uses [[LoganSuddeth]], [[KaidenBooth]], and [[EvanSemet]] to show research effort, physical information gathering, and profitable trading mixed with doubts about social value.
 - AI-builder variant: [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] connects prediction markets to [[OnePersonFund]], [[TokenMaxxing]], and AI-assisted public-information analysis.
 - Journalist failure case: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] shows Xiaowei's one-month simulated Polymarket loss despite daily news exposure and reporter judgment.
 - Settlement-rule importance: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] contrasts Hormuz passage, ceasefire wording, and clothing definitions to show why contract interpretation matters.
+- Participant asymmetry: [[all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725]] describes sharps and squares and debates whether non-public-information profits count as edge or insider abuse.
 
 ## Counterevidence & Qualifications
 - Some traders do make money, so the Duanwen loss should not be generalized into a claim that prediction-market alpha is impossible.
 - The Duanwen experiment used virtual funds and a short time window; it is evidence of a failure mode, not an audited strategy test.
 - AI-assisted workflows may improve research speed while still increasing overfitting, rule misreadings, or false confidence.
+- The source does not define a settled legal standard across commodities, sports, securities, military information, and platform rules; ethical and legal alpha boundaries remain market-specific.
 
 ## What Changed
 - Migrated the page to the synthesis-first concept schema.
 - Added the Duanwen reporter experiment as a negative case for news-based alpha.
 - Added settlement wording and attention shift as mechanisms that complicate trader edge.
+- Added the sharp-versus-square structure and separated public research from privileged or manipulable-event edge.
 
 ## Related Concepts
 - [[PredictionMarketPublicGoodClaim]] - public-value question that private alpha does not settle.

@@ -2,34 +2,52 @@
 title: "AI Managing AI"
 type: concept
 tags: [agents, workflow, organization, coding]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]
-last_updated: 2026-08-24
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128
+  - openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z
+  - all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725
+last_updated: 2026-10-08
+knowledge_schema: synthesis-v1
 ---
 
 # AI Managing AI
 
-AI managing AI is [[WangWenfeng]]'s product thesis in [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]]. Instead of a human directly prompting every coding agent, a meta-level agent can collect requirements, break them into tasks, configure or call specialized agents, watch tool feedback, and pass completed work to humans for final review.
+## Definition
+AI managing AI is a layered workflow in which a meta-agent or supervisory system interprets goals, delegates work to specialized agents or tools, monitors intermediate state, requests checks, and summarizes results for accountable human review.
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s personal operating version. He describes his current engineering role as defining goals, architecture, acceptance, and hard review while allocating work among frontier models, local models, and agent groups. In this version, AI managing AI is inseparable from [[TokenEfficientAgentWorkflow]] because the manager must decide which intelligence resource is worth spending on each task.
+## Current Synthesis
+The bounded sources distinguish orchestration from mere parallelism. [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] grounds the pattern in [[Sheet0]]'s task-to-test-to-PR workflow, while [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds capability and cost allocation across frontier, local, multi-agent, and deterministic resources. [[all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725]] extends the pattern to investment and media operations through a described meta-agent that monitors other agents.
 
-The source grounds this in [[Sheet0]]'s internal workflow. A task that previously moved from user feedback to a project-management system, daily assignment, coding tool, tests, and PR review can instead be handled by AI through much of the middle loop: the agent reads the task, implements changes, runs checks, adds screenshots or test output, and opens a [[GitHub]] PR. The human role becomes product definition, taste, escalation, and merge-time accountability.
-
-[[tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]] adds the negative boundary through [[MattKrop]] and [[BCG]]: if AI management leaves people supervising many fast agents in real time, it can create [[AIBrainFry]] rather than leverage. The management layer has to reduce coordination and review burden, not simply increase the number of AI outputs a human must inspect.
+The negative boundary remains decisive: [[tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]] shows that a management layer fails when it simply accelerates unverified output into a human review queue. Useful AI management must reduce coordination burden while preserving permissions, evidence, acceptance tests, spend visibility, and final responsibility.
 
 ## Key Claims
-- AI managing AI is different from merely running many agents in parallel; the management agent has to understand goals, decide which agent or tool to use, and interpret intermediate results.
-- The pattern depends on [[AgentHarness]]: project context, permissions, CLI access, file state, tests, screenshots, logs, and review channels all become part of the management system.
-- [[ProactiveAgents]] can use the same pattern when they notice a business problem, propose a plan, and ask whether to set up a specialized agent.
-- Human leverage rises only if the AI management layer reduces coordination and review burden rather than creating many unverified outputs.
-- The pattern turns [[AIOrganizationDesign]] into an operating question: which tasks can an agent assign, which need human approval, and where does final responsibility sit?
-- AI management fails as work design when it compresses many review decisions into a constant high-cognitive queue.
-- E249 adds that managing AI also means cost and capability allocation: the human or meta-agent must decide when to use local models, strong models, multi-agent review, or deterministic tools.
+- A manager agent must interpret goals and intermediate evidence, not merely launch many workers.
+- Harness state, permissions, tests, logs, screenshots, and review channels are part of the management system.
+- Model and agent selection is also resource allocation because capability, latency, and token cost differ by task.
+- Recursive output checking can improve quality without implying recursive model training.
+- Human leverage rises only when summarization and quality gates reduce—not multiply—review burden.
+- Final product judgment and accountability remain human even when agents handle most middle-loop execution.
 
-## Connections
-- [[Sheet0]] and [[WangWenfeng]] — source company and speaker.
-- [[AgenticWorkflow]], [[SubagentWorkflow]], and [[AICodingVerification]] — work pattern, orchestration, and quality gates needed for AI-managed execution.
-- [[CodingAgentAsUniversalActionLayer]], [[Codex]], [[ClaudeCode]], and [[OpenClaw]] — coding-agent substrate for delegated work.
-- [[AgentPermissionBoundaries]], [[ContextEngineering]], and [[PersistentAgentMemory]] — state and safety layer.
-- [[HumanJudgmentUnderAI]], [[AIFirstOrganization]], and [[DigitalEmployees]] — organizational consequences.
-- [[AIBrainFry]], [[MattKrop]], and [[BCG]] — attention-load boundary added by Marketplace Tech.
-- [[Dongxu]], [[DB9]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], and [[MultiAgentCollaboration]] — E249's personal agent-management pattern.
+## Evidence
+- Engineering loop: [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] describes agents reading tasks, implementing changes, testing, supplying evidence, and opening PRs.
+- Resource routing: [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] links AI management to model choice, local execution, multi-agent review, and deterministic tools.
+- Attention boundary: [[tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]] reports cognitive exhaustion when workers supervise many fast AI processes.
+- Operational extension: [[all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725]] describes recursive output review and a meta-agent summarizing other agents' work.
+
+## Counterevidence & Qualifications
+The sources are practitioner and podcast accounts rather than controlled evaluations of orchestration quality. A meta-agent can hide errors, amplify correlated failures, consume extra tokens, or create false confidence. The described OpenClaw Ultron and workflow percentages remain source-attributed and are not audited performance measures.
+
+## What Changed
+- Added investment and media operations as a non-coding example.
+- Added recursive output review and supervisory summarization.
+- Made token-budget visibility an explicit management requirement.
+- Migrated the page to the synthesis-first concept schema.
+
+## Related Concepts
+- [[AgentHarness]] - execution scaffold supplying context, tools, state, and controls.
+- [[SubagentWorkflow]] - delegation pattern coordinated by the management layer.
+- [[AICodingVerification]] - acceptance and evidence mechanism for delegated coding.
+- [[AgentTokenBudgeting]] - spend-allocation discipline for managed agent work.
+- [[AIBrainFry]] - failure mode when orchestration increases human review load.
+- [[HumanJudgmentUnderAI]] - final evaluation and accountability boundary.

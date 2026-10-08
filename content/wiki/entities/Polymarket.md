@@ -12,7 +12,8 @@ sources:
   - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
-last_updated: 2026-09-06
+  - all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ The current synthesis is deliberately mixed. Several sources use Polymarket opti
 
 The risk profile has become stronger over time. [[MarketplaceTech]] sources connect Polymarket to harmful-event market boundaries and alleged classified-information trading, while the [[DuanwenNewsPodcast|端闻]] episode adds a reporter-side critique: even when prices are useful, platform settlement definitions, already-priced expectations, gendered market culture, and trader attention can distort how news is understood.
 
+At reported Super Bowl scale, private information becomes an explicit candidate for trading edge. That reinforces rather than resolves the platform's central tension: better-informed traders can improve price discovery while making ordinary participants structurally vulnerable when the information is classified, privileged, or obtained through event influence.
+
 ## Key Characteristics
 - Price-as-probability platform used by multiple sources to illustrate market aggregation.
 - Commercial-scale successor to older election-betting and academic prediction-market experiments.
@@ -33,6 +36,7 @@ The risk profile has become stronger over time. [[MarketplaceTech]] sources conn
 - Ethics and integrity case when markets involve nuclear weapons, war, classified information, or manipulable events.
 - Trading-edge testbed where correct news judgment can still fail because timing, pricing, and settlement rules matter.
 - Cultural platform whose market selection can financialize gendered attention and reduce complex events to binary contracts.
+- Large-event platform where informational asymmetry can improve prices while undermining participant fairness and trust.
 
 ## Evidence
 - Price signal and market lineage: [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] uses Polymarket to explain price-as-probability thinking, while [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] compares it with the Iowa Electronic Markets and older election betting.
@@ -40,15 +44,17 @@ The risk profile has become stronger over time. [[MarketplaceTech]] sources conn
 - Ethics and integrity limits: [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] says Polymarket removed nuclear-weapons markets, while [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] cites alleged classified military information being used to profit on Polymarket.
 - AI-era trading speculation: [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] places Polymarket inside a speculative [[OnePersonFund]] loop where coding agents might gather public signals for trading strategies.
 - Journalist simulation and critique: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] follows [[XiaoweiDuanwenReporter|小薇]] through a simulated Polymarket month that loses money and foregrounds [[PredictionMarketSettlementPower]], [[NewsAsTradingPosition]], and [[PredictionMarketGenderedAttention]].
+- Scale and insider-edge debate: [[all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725]] reports roughly $700 million in Super Bowl betting and revisits alleged classified-information trading as a test of legitimate alpha.
 
 ## Qualifications
-Polymarket prices are evidence of participant expectations, not proof that the priced event will happen. All-In's bullish asset and infrastructure claims are investor-media forecasts, not recommendations. The episode-level IPO, election, volume, demographic, and forecast-accuracy claims are source-scoped unless independently verified. The Duanwen experiment used virtual funds and cannot establish real-money profitability or platform-wide user behavior.
+Polymarket prices are evidence of participant expectations, not proof that the priced event will happen. All-In's bullish asset and infrastructure claims are investor-media forecasts, not recommendations. The episode-level IPO, election, volume, demographic, Super Bowl, and forecast-accuracy claims are source-scoped unless independently verified. The Duanwen experiment used virtual funds and cannot establish real-money profitability or platform-wide user behavior. Better price discovery does not itself determine whether a trader's information source is lawful or fair.
 
 ## What Changed
 - Migrated the page to the synthesis-first entity schema.
 - Added the Duanwen reporter experiment as evidence that Polymarket can change news attention even when no real money is used.
 - Added settlement-definition and gendered-attention risks to the platform profile.
 - Preserved the prior price-signal, historical-lineage, investor-upside, ethics, and integrity claims while compressing repeated source-led prose.
+- Added Super Bowl scale and the distinction between research alpha and privileged or classified information.
 
 ## Relationships
 - [[PredictionMarketEthics]] - boundary concept for harmful, intimate, war-linked, and socially corrosive event contracts.

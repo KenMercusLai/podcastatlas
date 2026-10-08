@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3368
+topic_total_pages: 3369
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -91,6 +91,9 @@ topic_concepts:
   - key: "AgentRuntimeExecutionLayer"
     title: "Agent Runtime Execution Layer"
     url: "/wiki/concepts/agentruntimeexecutionlayer/"
+  - key: "AgentTokenBudgeting"
+    title: "Agent Token Budgeting"
+    url: "/wiki/concepts/agenttokenbudgeting/"
   - key: "AgentTrajectoryDistillation"
     title: "Agent Trajectory Distillation"
     url: "/wiki/concepts/agenttrajectorydistillation/"
