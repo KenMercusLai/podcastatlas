@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10012
+wiki_total_pages: 10015
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "ChronicleSourceGaps"
     title: "Chronicle Source Gaps / 编年史料空缺"
     url: "/wiki/concepts/chroniclesourcegaps/"
+  - key: "Chronodiversity"
+    title: "Chronodiversity"
+    url: "/wiki/concepts/chronodiversity/"
   - key: "ChuThreeHouseholdsAntiQinMemory"
     title: "Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆"
     url: "/wiki/concepts/chuthreehouseholdsantiqinmemory/"

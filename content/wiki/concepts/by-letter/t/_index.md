@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10012
+wiki_total_pages: 10015
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "TreeProtectionOrdinances"
     title: "Tree Protection Ordinances"
     url: "/wiki/concepts/treeprotectionordinances/"
+  - key: "TreeRingProxyCalibration"
+    title: "Tree-Ring Proxy Calibration"
+    url: "/wiki/concepts/treeringproxycalibration/"
   - key: "TrenchLifeWesternFront"
     title: "Trench Life on the Western Front"
     url: "/wiki/concepts/trenchlifewesternfront/"

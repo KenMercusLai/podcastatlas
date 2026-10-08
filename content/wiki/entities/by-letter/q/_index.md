@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12826
+wiki_total_pages: 12830
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"

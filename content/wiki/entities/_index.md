@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12826
+wiki_total_pages: 12830
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "AdamCarolla"
     title: "Adam Carolla"
     url: "/wiki/entities/adamcarolla/"
+  - key: "AdamCsank"
+    title: "Adam Csank"
+    url: "/wiki/entities/adamcsank/"
   - key: "AdamDAngelo"
     title: "Adam D'Angelo"
     url: "/wiki/entities/adamdangelo/"
@@ -1340,6 +1343,9 @@ wiki_pages:
   - key: "AnneBoleyn"
     title: "Anne Boleyn"
     url: "/wiki/entities/anneboleyn/"
+  - key: "AnneHeggli"
+    title: "Anne Heggli"
+    url: "/wiki/entities/anneheggli/"
   - key: "AnneMonck"
     title: "Anne Monck"
     url: "/wiki/entities/annemonck/"

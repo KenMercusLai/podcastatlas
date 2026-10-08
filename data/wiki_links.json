@@ -7,6 +7,10 @@
     "title": "02.离婚：郭德纲都不如老舍有意思",
     "url": "/wiki/sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046/"
   },
+  "02026-heggli-keats-csank-podcast-v2": {
+    "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+    "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+  },
   "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687": {
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
@@ -6443,6 +6447,10 @@
     "title": "Adam Carolla",
     "url": "/wiki/entities/adamcarolla/"
   },
+  "AdamCsank": {
+    "title": "Adam Csank",
+    "url": "/wiki/entities/adamcsank/"
+  },
   "AdamDAngelo": {
     "title": "Adam D'Angelo",
     "url": "/wiki/entities/adamdangelo/"
@@ -9246,6 +9254,10 @@
   "AnneBoleyn": {
     "title": "Anne Boleyn",
     "url": "/wiki/entities/anneboleyn/"
+  },
+  "AnneHeggli": {
+    "title": "Anne Heggli",
+    "url": "/wiki/entities/anneheggli/"
   },
   "AnneMonck": {
     "title": "Anne Monck",
@@ -18758,6 +18770,10 @@
   "ChronicleSourceGaps": {
     "title": "Chronicle Source Gaps / 编年史料空缺",
     "url": "/wiki/concepts/chroniclesourcegaps/"
+  },
+  "Chronodiversity": {
+    "title": "Chronodiversity",
+    "url": "/wiki/concepts/chronodiversity/"
   },
   "Chrysippus": {
     "title": "Chrysippus / 克律西波斯",
@@ -52115,6 +52131,10 @@
     "title": "Long-Term Care Insurance Planning",
     "url": "/wiki/concepts/longtermcareinsuranceplanning/"
   },
+  "LongTermEnvironmentalMonitoring": {
+    "title": "Long-Term Environmental Monitoring",
+    "url": "/wiki/concepts/longtermenvironmentalmonitoring/"
+  },
   "LongTermLocalizationBargain": {
     "title": "Long-Term Localization Bargain / 长期本地化关系建设",
     "url": "/wiki/concepts/longtermlocalizationbargain/"
@@ -59655,9 +59675,17 @@
     "title": "Neutrality-to-Intervention Memory",
     "url": "/wiki/concepts/neutralitytointerventionmemory/"
   },
+  "NevCAN": {
+    "title": "NEVCAN",
+    "url": "/wiki/entities/nevcan/"
+  },
   "Nevada": {
     "title": "Nevada",
     "url": "/wiki/entities/nevada/"
+  },
+  "NevadaBristleconePreserve": {
+    "title": "Nevada Bristlecone Preserve",
+    "url": "/wiki/entities/nevadabristleconepreserve/"
   },
   "NevilleChamberlain": {
     "title": "Neville Chamberlain / 张伯伦",
@@ -83978,6 +84006,10 @@
   "TreeProtectionOrdinances": {
     "title": "Tree Protection Ordinances",
     "url": "/wiki/concepts/treeprotectionordinances/"
+  },
+  "TreeRingProxyCalibration": {
+    "title": "Tree-Ring Proxy Calibration",
+    "url": "/wiki/concepts/treeringproxycalibration/"
   },
   "TrenchLifeWesternFront": {
     "title": "Trench Life on the Western Front",

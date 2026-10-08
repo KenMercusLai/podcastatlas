@@ -6716,6 +6716,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/adahsharma/"
     },
+    "AdamCsank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/adamcsank/"
+    },
     "AdamForoughi": {
       "episode_count": 1,
       "show_count": 1,
@@ -15361,6 +15377,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/anneboleyn/"
+    },
+    "AnneHeggli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/anneheggli/"
     },
     "AnneMonck": {
       "episode_count": 1,
@@ -36717,9 +36749,9 @@
       "url": "/wiki/concepts/centristfragmentationrunoffrisk/"
     },
     "CenturiesOfTheBristlecone": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
@@ -36727,9 +36759,16 @@
           "show": "Long Now",
           "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
           "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        },
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/centuriesofthebristlecone/"
     },
     "CerebellarPrediction": {
@@ -42796,6 +42835,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chroniclepolicycompression/"
+    },
+    "Chronodiversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/chronodiversity/"
     },
     "ChuFuWesternHan": {
       "episode_count": 1,
@@ -68037,9 +68092,9 @@
       "url": "/wiki/concepts/ecologicalpublicspacerenewal/"
     },
     "EcologicalTimekeeping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
@@ -68047,9 +68102,16 @@
           "show": "Long Now",
           "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
           "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        },
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/ecologicaltimekeeping/"
     },
     "EcommerceExpressPriceWar": {
@@ -131305,9 +131367,9 @@
       "url": "/wiki/entities/jonathanhurst/"
     },
     "JonathanKeats": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
@@ -131315,9 +131377,16 @@
           "show": "Long Now",
           "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
           "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        },
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/jonathankeats/"
     },
     "JonathanSwift": {
@@ -149451,6 +149520,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/longtermcareinsuranceplanning/"
+    },
+    "LongTermEnvironmentalMonitoring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/longtermenvironmentalmonitoring/"
     },
     "LongTermLocalizationBargain": {
       "episode_count": 1,
@@ -171707,6 +171792,38 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/neutralitytointerventionmemory/"
+    },
+    "NevCAN": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/nevcan/"
+    },
+    "NevadaBristleconePreserve": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/nevadabristleconepreserve/"
     },
     "NevilleChamberlain": {
       "episode_count": 2,
@@ -240794,6 +240911,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/treatyoftroyes/"
+    },
+    "TreeRingProxyCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
+          "key": "02026-heggli-keats-csank-podcast-v2",
+          "show": "Long Now",
+          "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
+          "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/treeringproxycalibration/"
     },
     "TrenchLifeWesternFront": {
       "episode_count": 2,

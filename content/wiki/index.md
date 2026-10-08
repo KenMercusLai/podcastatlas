@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve](sources/02026-heggli-keats-csank-podcast-v2.md) — Long Now episode connecting NEVCAN's ten-minute mountain observations, bristlecone paleoclimate records, long-term scientific stewardship, and Jonathan Keats's variable living calendar and public clock.
 - [300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？](sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld.md) — 独树不成林从公众知名度、课堂选读、专门研究、金句摘录与一战传播之间的落差，提出《查拉图斯特拉如是说》的读者与整体解释问题。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs.md) — 张释之以惊驾罚金与盗庙玉环两案拒绝随文帝君怒加刑，并借刑罚层级维护法律公信；节目另以《六韬》“六守”说明情境式识人。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86.md) — 季布以“一誉而召、一毁而去”直指文帝任官摇摆；贾谊因诸侯归国主张触动王侯与功臣利益，被外放长沙，其“保护性贬谪”仍属节目推断。
@@ -4201,6 +4202,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [Anne Heggli](entities/AnneHeggli.md) — Observational hydrometeorologist connecting NEVCAN field maintenance and quality control to durable climate evidence and reliable model use.
+- [Adam Csank](entities/AdamCsank.md) — Paleoclimatologist linking direct environmental monitoring to calibrated tree-ring evidence and changing ecological growth limits.
+- [NEVCAN](entities/NevCAN.md) — Eight-station Great Basin elevation transect joining ten-minute weather, snow, soil, and energy observations to bristlecone records.
+- [Nevada Bristlecone Preserve](entities/NevadaBristleconePreserve.md) — Long Now-stewarded living archive and observatory where ancient trees, instruments, art, and deep-time responsibility meet.
 - [Thus Spoke Zarathustra / 《查拉图斯特拉如是说》](entities/ThusSpokeZarathustra.md) — 尼采后期著作，其公众知名度、片段化引用、学术使用与战时传播构成当前来源的接受史问题。
 - [张释之 / Zhang Shizhi (Western Han)](entities/ZhangShizhiWesternHan.md) — 从反对口才替代能力、宫门规则不避储君诸侯和薄葬防盗，延伸到廷尉量刑不随君怒加码的制度型直臣。
 - [刘兴居 / Liu Xingju (Western Han)](entities/LiuXingjuWesternHan.md) — 诛吕后分配失衡背景下起兵、因限期赦免与军事进逼而败亡的济北王。
@@ -6396,8 +6401,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clarisonic](entities/Clarisonic.md) — Beauty-device company that served as Karissa Bodnar's pre-founder product-development training ground before and after L'Oreal acquired it.
 - [Arthur Brooks](entities/ArthurBrooks.md) — Huberman Lab guest presenting happiness as practiced enjoyment, satisfaction, meaning, love, service, faith, and resistance to status idols.
 - [Ryan Abbott](entities/RyanAbbott.md) — Legal and technology expert whose Marketplace Tech appearance frames AI payroll-tax neutrality and the tax advantage of machine work over human employment.
-- [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher whose Long Now archive talk turns thought experiments, long-duration cameras, and bristlecone calendars into public deep-time practice.
-- [Centuries of the Bristlecone](entities/CenturiesOfTheBristlecone.md) — Jonathan Keats's proposed 5,000-year bristlecone-pine calendar for ecological timekeeping.
+- [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher turning long-duration cameras, a bristlecone calendar, and a variable public clock into civic experiments in deep time and chronodiversity.
+- [Centuries of the Bristlecone](entities/CenturiesOfTheBristlecone.md) — Jonathan Keats's 5,000-year bristlecone calendar and related municipal clock for making variable ecological time public.
 - [Amoy Food / 淘大](entities/AmoyFood.md) — Hong Kong-linked condiment and frozen-food brand acquired by Haitian as an overseas channel and localization asset.
 - [CALB / 中创新航](entities/CALB.md) — Battery supplier named in Xiaomi's non-CATL cooperation and supplier-diversification branch.
 - [CPB / Clé de Peau Beauté](entities/CleDePeauBeaute.md) — Shiseido high-end beauty brand used as the reference point in Aldi's alleged private-label lookalike dispute.
@@ -17083,6 +17088,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Long-Term Environmental Monitoring](concepts/LongTermEnvironmentalMonitoring.md) — Sustained measurement, maintenance, quality control, and stewardship that preserve evidence for slow change and unforeseen future questions.
+- [Tree-Ring Proxy Calibration](concepts/TreeRingProxyCalibration.md) — Use of direct environmental and physiological observations to interpret how annual tree growth records climate conditions.
+- [Chronodiversity](concepts/Chronodiversity.md) — Recognition of plural living and environmental times alongside standardized human clocks and calendars.
 - [Philosophical Classic Reception Gap / 哲学经典的公众—学术接受落差](concepts/PhilosophicalClassicReceptionGap.md) — 区分经典的公众知名度、普通读者传播、课堂使用、专门研究与整体解释的接受史框架。
 - [法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger](concepts/LegalPenaltyStabilityAgainstSovereignAnger.md) — 以法定、可预期且有层级的量刑抵抗君主因恐惧、尊严或孝道展示而临时加刑。
 - [毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility](concepts/CourtHearsayAppointmentVolatility.md) — 未经核验的褒贬替代稳定判断时，召用与退回会同时损害用人质量和君主可信度。
@@ -19176,7 +19184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hollywood Nepotism Network Advantage](concepts/HollywoodNepotismNetworkAdvantage.md) — Entertainment-industry concept for inherited access, marketing value, and network advantage among nepo babies.
 - [Public Experimental Philosophy](concepts/PublicExperimentalPhilosophy.md) — Practice of carrying thought experiments into public situations, artifacts, and participatory experiments.
 - [Deep-Time Mental Prosthesis](concepts/DeepTimeMentalProsthesis.md) — Long-duration objects and rituals that extend human imagination toward century-scale and millennial accountability.
-- [Ecological Timekeeping](concepts/EcologicalTimekeeping.md) — Use of living or environmental processes as timekeepers, making growth and climate part of calendar authority.
+- [Ecological Timekeeping](concepts/EcologicalTimekeeping.md) — Use of living or environmental processes as timekeepers, including a public clock whose variable rate makes ecological feedback part of civic time.
 - [Domain-Specific Superintelligence](concepts/DomainSpecificSuperintelligence.md) — Huang's bounded-capability frame where AI can exceed humans in domains such as driving or protein work without becoming a general all-purpose system.
 - [AI Short Drama Supply Glut / AI短剧供给过剩](concepts/AIShortDramaSupplyGlut.md) — Market condition where cheap AI short-drama production creates output saturation, payout compression, and profitability pressure.
 - [Battery Supplier Diversification / 动力电池供应商多元化](concepts/BatterySupplierDiversification.md) — Automaker strategy of using non-dominant battery suppliers to reduce cost and strengthen bargaining power.

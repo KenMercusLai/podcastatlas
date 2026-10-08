@@ -603,9 +603,15 @@
       "earliest_episode_date": "2025-12-11",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
-      "source_note_count": 8,
-      "topic_matched_source_note_count": 6,
+      "source_note_count": 9,
+      "topic_matched_source_note_count": 7,
       "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        },
         {
           "key": "technology",
           "label": "Technology",
@@ -616,12 +622,6 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 2
-        },
-        {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
           "source_note_count": 2
         },
         {
@@ -648,10 +648,10 @@
         }
       ],
       "start_here_episode_files": [
+        "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md",
         "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
         "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
-        "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
-        "02026-heggli-keats-csank-podcast-v2 [02026-heggli-keats-csank-podcast-v2].md"
+        "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md"
       ]
     },
     "Marketplace Tech": {

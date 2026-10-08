@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3257
+topic_total_pages: 3258
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -9144,6 +9144,9 @@ topic_sources:
   - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
     title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
     url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+  - key: "02026-heggli-keats-csank-podcast-v2"
+    title: "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve"
+    url: "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
   - key: "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128"
     title: "Are humans losing the ability to think for themselves?"
     url: "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"

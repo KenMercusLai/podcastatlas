@@ -33002,3 +33002,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve
+
+Added source `02026-heggli-keats-csank-podcast-v2`; created [[AnneHeggli]], [[AdamCsank]], [[NevadaBristleconePreserve]], [[NevCAN]], [[LongTermEnvironmentalMonitoring]], [[TreeRingProxyCalibration]], and [[Chronodiversity]]; and resynthesized [[JonathanKeats]], [[CenturiesOfTheBristlecone]], and [[EcologicalTimekeeping]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: durable climate knowledge joins ten-minute direct observation to millennial biological archives through maintenance, quality control, proxy calibration, funding continuity, and institutional succession, while Keats's living calendar and municipal clock make variable ecological response a public temporal standard. No settled contradiction was adopted. The source title/body disagree on Anne Heggli's spelling, the title retains the already documented "Jonathon Keats" inconsistency, and long-run funding, governance, engineering, conservation, calibration, and climate-response claims remain source-scoped. Broad [[LongNow]] and general data-quality pages were kept closed because the bounded addition is represented in the focused source, people, project, site, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,131 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
