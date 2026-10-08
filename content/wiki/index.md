@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（1）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib.md) — 晁错以地形、训练、兵器、军种协同与选将责任比较汉匈所长，并借秦朝扩张、强征和民怨说明边防不能脱离国家承受力。
 - [10 被阉割的爱人 & 牛郎织女：情人节特辑](sources/10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p.md) — 怪东西以圣瓦伦丁、阿伯拉尔与埃洛伊斯、七夕和牛郎织女说明爱情节日与爱情故事如何通过传说、文学、劳动礼俗、商业和时代伦理逐层形成。
 - [11 压岁钱与圣诞礼物的起源](sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq.md) — 怪东西比较压岁钱与圣诞礼物，将节庆赠礼放进历法、祭祀、货币、家庭教育、文学、慈善与商业的长期流变中。
 - [12 东西方取名的艺术](sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm.md) — 怪东西比较中国姓氏、名、字、号、避讳与罗马、俄语、冰岛、阿拉伯和西班牙语姓名体系，将姓名解释为亲属关系、等级、宗教、国家治理与自我呈现的社会制度。

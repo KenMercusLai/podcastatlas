@@ -1,11 +1,12 @@
 ---
 title: "Terrain-Constrained Combined Arms"
 type: concept
-tags: [warfare, tactics, terrain, command, medieval-history]
+tags: [warfare, tactics, terrain, command, medieval-history, western-han]
 sources:
   - 489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192
   - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
-last_updated: 2026-09-29
+  - zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ At [[BattleOfAgincourt|Agincourt]], neither the longbow nor mud acts as a suffic
 
 The French plan had a combined-arms rationale, but its components became misaligned. Aristocratic precedence expanded the front line, displaced missile troops, and weakened command coherence; the narrowing approach then compressed successive forces into exhausted men already struggling in mud. Tactical effectiveness emerged from interaction among constraints, not from a timeless claim that one side possessed a universally superior weapon or culture.
 
+[[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] extends the interaction model beyond a single medieval battle. [[ChaoCuoWesternHan|晁错]] concedes Xiongnu advantages in mountains, difficult paths, mounted archery, and hardship while assigning Han chariots, cavalry, strong bows, armor, formations, and close combat greater value on plains. His proposal uses submitted frontier peoples in difficult terrain and Han formations on open ground under mutually supporting command. The durable point is role allocation by environment; the episode does not prove the proposed force was created or victorious.
+
 ## Key Claims
 
 - Terrain changes the usable value of troop numbers by limiting frontage, maneuver, speed, and coordination.
@@ -30,6 +33,7 @@ The French plan had a combined-arms rationale, but its components became misalig
 - A failed first attack can physically worsen the ground and disrupt the formations following it.
 - Command precedence can disable a sound plan by changing deployment and subordinating functional roles to status.
 - Initiative matters when delay favors reinforcement; Henry's advance accepted temporary vulnerability to force action on usable terms.
+- Effective mixed forces allocate roles by terrain and troop-specific strength rather than demanding that every component fight in the same way.
 - Battle outcomes should be explained through interacting mechanisms rather than a single decisive weapon, leader, or stereotype.
 
 ## Evidence
@@ -39,15 +43,17 @@ The French plan had a combined-arms rationale, but its components became misalig
 - French degradation: [[489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192]] says an experienced plan lost coherence when nobles enlarged the front rank, missile troops moved rearward, cavalry failed, and the infantry mass compressed in mud.
 - Crécy system: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects selected ground, divisions, reserves, archers, cannon, trenches, spikes, and wagons to Edward's prepared defense.
 - Crécy cascade: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] links rain, absent Genoese shields, range disadvantage, friendly trampling, arrow fire, and successive cavalry attacks to French collapse.
+- Terrain-specific role allocation: [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] compares Han and Xiongnu strengths by mountain and plain conditions, then proposes mutually supporting frontier auxiliaries, chariots, cavalry, archers, armor, and formations.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The Agincourt source emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Crécy's force ratios, armor-penetration claims, cannon effect, speeches, and exact sequence remain source-scoped. Exact troop, arrow, casualty, and timing figures in both cases remain disputed or unaudited here.
+The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The Agincourt source emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Crécy's force ratios, armor-penetration claims, cannon effect, speeches, and exact sequence remain source-scoped. Hanji 222 part 1 supplies a proposed comparative force design rather than a documented battle test; its categories, force ratio, equipment, command structure, voluntariness, and effectiveness remain episode-attributed. Exact troop, arrow, casualty, and timing figures across the cases remain disputed or unaudited here.
 
 ## What Changed
 
-- Extended the interaction model from Agincourt to Crécy, where selected ground, obstacles, missile troops, reserves, weather, and command failure also operate as a system.
-- Qualified the “triumph of the longbow” frame by placing the weapon inside prepared combined arms.
+- Extended the interaction model beyond Crécy and Agincourt to Chao Cuo's Han-Xiongnu comparison, where troop value changes between difficult ground and plains.
+- Added differentiated role allocation and mutual support as the design-side counterpart to the medieval cases' battlefield interaction.
+- Preserved the qualification that a coherent proposal is not evidence of implementation or victory.
 
 ## Related Concepts
 
@@ -56,3 +62,5 @@ The concept does not prove that terrain mechanically determines battle or that F
 - [[HistoricalMemoryContest]] - explains why tactical reconstruction competes with patriotic, literary, and catastrophic versions of the same battle.
 - [[LancastrianLegitimacy]] - shows how a contingent tactical outcome became evidence of competent and providential kingship.
 - [[CampaignLogisticsBattlefieldSelection]] - explains how movement and crossings precede the prepared battlefield system.
+- [[NomadicCavalryRaidingAsymmetry]] - supplies the mobile frontier problem behind Chao Cuo's terrain-specific response.
+- [[FrontierSettlerDefense]] - extends the same frontier diagnosis from force design into permanent settlement and local defense.
