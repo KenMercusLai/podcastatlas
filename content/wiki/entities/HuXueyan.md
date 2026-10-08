@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, merchant, banker, late-qing, political-business-relations, historical-memory]
 sources:
   - 36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr
+  - 29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8
 last_updated: 2026-10-08
 ---
 
@@ -20,11 +21,14 @@ His fall is presented as multicausal. Large silk positions failed during the fin
 
 Hu's afterlife changed with political culture. Earlier stories made him a tragic warning about building and preserving family fortune; reform-era writing reinvented him as a management and networking teacher, often through unsupported anecdotes; later criticism returned to the dependence of his wealth on state power.
 
+The [[YangNaiwuXiaoBaicaiCase|杨乃武与小白菜案]] adds a bounded legal-patronage role. After learning of the case through personal connections, Hu is said to have financed the Yang family's travel and petitioning and used his network to help attract Beijing official attention. This did not itself decide the case; it made a costly appeal campaign possible alongside family persistence, official review, and [[ShenBao|press scrutiny]].
+
 ## Key Characteristics
 
 - Merchant-banker whose most credible rise is tied to official finance and Zuo Zongtang's military projects.
 - Combined fundraising, procurement, logistics, and philanthropy with formal status rewards.
 - Became the emblematic “red-topped merchant” linking commercial wealth to bureaucratic rank.
+- Used money and elite connections, in the episode's account, to help a wrongful-conviction appeal cross from local administration into metropolitan attention.
 - Collapsed after failed silk speculation, financial crisis, and depositor runs.
 - Later reputation alternates among tragic victim, entrepreneurial model, and warning about political-business dependence.
 
@@ -35,14 +39,15 @@ Hu's afterlife changed with political culture. Earlier stories made him a tragic
 - Collapse mechanism: [[36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr|episode 36]] connects silk losses to customer runs during the 1883-era crisis.
 - Explanatory dispute: [[36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr|episode 36]] preserves personal-error, foreign-power, state-support, and combined explanations.
 - Reputation change: [[36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr|episode 36]] contrasts tragic, success-literature, and political-business readings.
+- Legal-patronage role: [[29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8|episode 29]] attributes financial and network support for the Yang family's Beijing appeals to Hu.
 
 ## Qualifications
 
-The source does not settle Hu's birthplace, early benefactors, initial capital, the exact structure of his silk positions, responsibility for the run, or the counterfactual effect of official rescue. Popular lessons about management, public relations, and timely aid often rest on later anecdote rather than reliable documentation. His official dependence should not erase his logistical and financial contribution, while that contribution should not be used to deny the political basis of his status.
+The sources do not settle Hu's birthplace, early benefactors, initial capital, the exact structure of his silk positions, responsibility for the run, or the counterfactual effect of official rescue. His precise awareness, expenditure, intermediaries, and causal influence in the Yang Naiwu appeal also require specialist verification. Popular lessons about management, public relations, and timely aid often rest on later anecdote rather than reliable documentation. His official dependence should not erase his logistical, financial, or patronage contribution, while those contributions should not be used to deny the political basis of his status.
 
 ## What Changed
 
-- Created a profile separating the documented official-service and collapse structure from unstable origin stories and later business mythology.
+- Added the source-scoped role of financing and facilitating the Yang family's metropolitan appeal.
 
 ## Relationships
 
@@ -51,3 +56,5 @@ The source does not settle Hu's birthplace, early benefactors, initial capital, 
 - [[PowerDominatedWealthInsecurity]] - adjacent pattern in which commercial security depends on official access.
 - [[HistoricalMemoryContest]] - framework for the changing tragic, entrepreneurial, and critical versions of Hu.
 - [[HeavyAgricultureLightCommercePolicy]] - longer Chinese status background against which the “red-topped” identity gains meaning.
+- [[YangNaiwuXiaoBaicaiCase]] - wrongful-conviction appeal that Hu helped sustain through funding and connections.
+- [[ShenBao]] - parallel publicity channel in the same mixed patronage, petition, and media coalition.

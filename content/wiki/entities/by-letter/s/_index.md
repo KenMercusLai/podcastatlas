@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12779
+wiki_total_pages: 12782
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2039,6 +2039,9 @@ wiki_pages:
   - key: "ShaoQianBook"
     title: "《烧钱》"
     url: "/wiki/entities/shaoqianbook/"
+  - key: "ShenBao"
+    title: "《申报》 / Shen Bao"
+    url: "/wiki/entities/shenbao/"
   - key: "ShengshiDeBengta"
     title: "《盛世的崩塌》"
     url: "/wiki/entities/shengshidebengta/"

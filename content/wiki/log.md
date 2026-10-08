@@ -31848,6 +31848,9 @@ Added source `zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-go
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 29 东西方的冤案：德雷福斯、杨乃武和小白菜
+
+Added source `29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8`; created [[YangNaiwu|杨乃武]], [[XiaoBaicai|小白菜]], [[ShenBao|《申报》]], [[YangNaiwuXiaoBaicaiCase|杨乃武与小白菜案]], and [[WrongfulConvictionPersistenceCorrection|冤案的制度固化与纠错]]; and resynthesized [[DreyfusAffair|德雷福斯案]], [[AlfredDreyfus|阿尔弗雷德·德雷福斯]], and [[HuXueyan|胡雪岩]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: prejudice, closed or coercive procedure, hierarchical deference, and institutional reputation can harden weak accusations, while correction depends on a contingent coalition of family persistence, internal dissent, elite access, media scrutiny, and favorable political timing. No settled contradiction was adopted. The episode rejects the romanticized Yang–Xiao relationship and treats anti-Xiang-Army and Zhejiang-faction explanations as insufficient by themselves; detailed forensic, legal, biographical, press-count, motive, and cultural-influence claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,084 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？
 
@@ -31912,10 +31915,6 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》272｜平津侯公孙弘，如何从猪倌逆袭成丞相（2）
 
 Added source `zizhi-tongjian-hanji-272-pingjinhou-gongsunhong-ruhe-cong-zhuguan-nixi-cheng-chengxiang-2-llwabws3lkr5vittldqmmdz_hymm`; and resynthesized [[GongsunHong|公孙弘]], [[YuanGusheng|袁固生]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], and [[LateBloomingTalent|大器晚成式人才显现]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 袁固生把正学、内外一致与直言设为道德边界；公孙弘则在免职和西南报告被否后，通过陈述事实、列出选项、避免廷争并保留君主决断权进入再次征召与快速升迁。这一形式可以是诚实进言的层级适配，也可能滑向随权势改变立场，现有材料不能仅凭表达形式判定其内在动机。No settled contradiction was adopted. 公元前130年、九十岁、十年间隔、早年免职缘由、信心变化、袁固生受攻与辞职原因、左内史至拜相封侯的精确时序、“曲学阿世”等人格判断及表达方式导致升迁的因果均保留来源边界。Broad [[HanWudi|汉武帝]], [[JiAnWesternHan|汲黯]], and show pages were kept closed because the bounded additions are represented in focused figure, concept, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,976 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
-
-## [2026-10-08] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
 
 ## [2026-10-08] lint | Wiki health check
 
@@ -32623,6 +32622,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] ingest | Valley of the shadow of debt: bond-market jitters
 
 Added source `valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac`; created [[ReflectOrbital]], [[TheSocialReckoning]], [[AdvancedEconomyBondYieldPressure]], [[OrbitalReflectedSunlight]], and [[PlatformTruthArbitrationDilemma]]; and resynthesized [[FrancesHaugen]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: rich-world yields combine capital competition, inflation and monetary policy, and issuer-specific fiscal credibility; orbital sunlight must be evaluated against batteries and night-sky externalities; and platform harm reduction remains constrained by the danger of private global truth arbitration. No settled contradiction was adopted. Market figures, forecasts, satellite performance and economics, ecological effects, settlement details, and film judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,083 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-08] lint | Wiki health check
 

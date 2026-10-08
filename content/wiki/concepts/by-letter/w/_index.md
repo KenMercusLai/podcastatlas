@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9960
+wiki_total_pages: 9962
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "WrittenSuccessionCredential"
     title: "Written Succession Credential / 书面继承凭证"
     url: "/wiki/concepts/writtensuccessioncredential/"
+  - key: "WrongfulConvictionPersistenceCorrection"
+    title: "Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错"
+    url: "/wiki/concepts/wrongfulconvictionpersistencecorrection/"
   - key: "WuguPoliticalPanic"
     title: "Wugu Political Panic / 巫蛊政治恐慌"
     url: "/wiki/concepts/wugupoliticalpanic/"

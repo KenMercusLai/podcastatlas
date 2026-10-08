@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2615
+topic_total_pages: 2616
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5676,6 +5676,9 @@ topic_sources:
   - key: "289-drink-glt6408276244"
     title: "289: Drink — Britain’s Empire of Booze"
     url: "/wiki/sources/289-drink-glt6408276244/"
+  - key: "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8"
+    title: "29 东西方的冤案：德雷福斯、杨乃武和小白菜"
+    url: "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
   - key: "29-americanisation-glt9683168458"
     title: "29. Americanisation"
     url: "/wiki/sources/29-americanisation-glt9683168458/"

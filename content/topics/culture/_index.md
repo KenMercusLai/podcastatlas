@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3237
+topic_total_pages: 3238
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3304,6 +3304,9 @@ topic_concepts:
   - key: "WorldCupHydrationPauseAdInventory"
     title: "World Cup Hydration Pause Ad Inventory"
     url: "/wiki/concepts/worldcuphydrationpauseadinventory/"
+  - key: "WrongfulConvictionPersistenceCorrection"
+    title: "Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错"
+    url: "/wiki/concepts/wrongfulconvictionpersistencecorrection/"
   - key: "WuxiaIntertextualCraft"
     title: "Wuxia Intertextual Craft"
     url: "/wiki/concepts/wuxiaintertextualcraft/"

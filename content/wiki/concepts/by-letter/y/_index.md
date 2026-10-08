@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 9960
+wiki_total_pages: 9962
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "YokaiMystery"
     title: "妖怪推理 / Yokai Mystery"
     url: "/wiki/concepts/yokaimystery/"
+  - key: "YangNaiwuXiaoBaicaiCase"
+    title: "杨乃武与小白菜案 / Yang Naiwu and Xiao Baicai Case"
+    url: "/wiki/concepts/yangnaiwuxiaobaicaicase/"
   - key: "YuxiIntoHonglou"
     title: "玉溪一脉入红楼 / Yuxi Into Honglou"
     url: "/wiki/concepts/yuxiintohonglou/"

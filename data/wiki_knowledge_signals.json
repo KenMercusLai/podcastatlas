@@ -10709,9 +10709,9 @@
       "url": "/wiki/entities/alfreddouglas/"
     },
     "AlfredDreyfus": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1738062149 [GLT1738062149].md",
@@ -10719,9 +10719,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
           "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+        },
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/alfreddreyfus/"
     },
     "AlfredTerry": {
@@ -64749,9 +64756,9 @@
       "url": "/wiki/entities/drewtaggart/"
     },
     "DreyfusAffair": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1738062149 [GLT1738062149].md",
@@ -64759,9 +64766,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
           "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+        },
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/dreyfusaffair/"
     },
     "DriverAIAgency": {
@@ -111957,9 +111971,9 @@
       "url": "/wiki/entities/huwutaiyuanlatehan/"
     },
     "HuXueyan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liDK1s7ASDtC0tZGpRcB1GHNKiXr [liDK1s7ASDtC0tZGpRcB1GHNKiXr].md",
@@ -111967,6 +111981,13 @@
           "show": "怪东西Weird History",
           "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
           "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        },
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
         }
       ],
       "updated": "2026-10-08",
@@ -213013,6 +213034,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/shellshock/"
     },
+    "ShenBao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shenbao/"
+    },
     "ShenGongWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -252265,6 +252302,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/writinginstrumentevolution/"
     },
+    "WrongfulConvictionPersistenceCorrection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/wrongfulconvictionpersistencecorrection/"
+    },
     "WuBeiWesternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -254589,6 +254642,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/xiaoaojianghu/"
+    },
+    "XiaoBaicai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/xiaobaicai/"
     },
     "XiaoFanZheBing": {
       "episode_count": 1,
@@ -258722,6 +258791,38 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/yanglistandup/"
+    },
+    "YangNaiwu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yangnaiwu/"
+    },
+    "YangNaiwuXiaoBaicaiCase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmmHQfL-idiUEtsvuFgrMPSO2l-8 [lmmHQfL-idiUEtsvuFgrMPSO2l-8].md",
+          "key": "29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8",
+          "show": "怪东西Weird History",
+          "title": "29 东西方的冤案：德雷福斯、杨乃武和小白菜",
+          "url": "/wiki/sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/yangnaiwuxiaobaicaicase/"
     },
     "YangPuWesternHan": {
       "episode_count": 8,

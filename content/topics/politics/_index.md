@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3210
+topic_total_pages: 3211
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4432,6 +4432,9 @@ topic_concepts:
   - key: "WorldlyPoliticalCultivation"
     title: "Worldly Political Cultivation / 入世政治修行"
     url: "/wiki/concepts/worldlypoliticalcultivation/"
+  - key: "WrongfulConvictionPersistenceCorrection"
+    title: "Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错"
+    url: "/wiki/concepts/wrongfulconvictionpersistencecorrection/"
   - key: "WuguPoliticalPanic"
     title: "Wugu Political Panic / 巫蛊政治恐慌"
     url: "/wiki/concepts/wugupoliticalpanic/"

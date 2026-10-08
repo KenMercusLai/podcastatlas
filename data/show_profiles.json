@@ -2271,14 +2271,14 @@
       "earliest_episode_date": "2026-05-28",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 14,
-      "topic_matched_source_note_count": 14,
+      "source_note_count": 15,
+      "topic_matched_source_note_count": 15,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 13
+          "source_note_count": 14
         },
         {
           "key": "politics",
@@ -2293,7 +2293,15 @@
           "source_note_count": 1
         }
       ],
-      "entities": [],
+      "entities": [
+        {
+          "key": "HuXueyan",
+          "title": "胡雪岩 / Hu Xueyan",
+          "url": "/wiki/entities/huxueyan/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
       "start_here_episode_files": [
         "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
         "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
