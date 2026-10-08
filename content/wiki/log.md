@@ -32157,3 +32157,11 @@ Added source `zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubian
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝
+
+Added source `zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k`; created [[WenJingProsperityTradeoff|文景之治的繁荣代价]]; and resynthesized [[HanJingdi|汉景帝]], [[EmpressDowagerWangWesternHan|王太后（王娡）]], [[TianFenWesternHan|田蚡]], and [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jingdi's final order treats farming and sericulture as the subsistence base and constrains official diversion of popular labor into gold and jewel extraction; Liu Che's accession elevates Wang Zhi and immediately rewards her maternal clan; and Ban Gu's Wen-Jing retrospective pairs household and state abundance with land concentration, local strongmen, political purchasing, and elite luxury. No settled contradiction was adopted: aggregate recovery and unequal control can coexist, while the episode's “物盛而衰” transition to Wudi is retained as a moral-historical frame rather than a deterministic law. Astronomical reports, dates, ages, edict wording, fiscal imagery, Wang Zhi's agency and family motives, occupational-harvest causation, and the scale of later Wudi depletion remain source-scoped. The broad Han Wudi page was kept closed because this episode only establishes accession and inherited conditions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,024 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

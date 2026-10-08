@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5.md) — 景帝宽刑与疑案上报构成制度背景，直不疑以赔付误拿和不辩不存在的嫂嫂诬告展示回应克制；不辩的适用边界、黄老动机、地震数据与周亚夫筷子故事均保留来源边界。
+- [《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝](sources/zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k.md) — 景帝临终重申农业与民力边界，刘彻即位使王娡母族进入新朝；班固的文景回顾又把仓廪府库充盈与土地兼并、豪强及奢侈并置，具体年代、数字和人物心理保留来源边界。
 - [《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子](sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77.md) — 董仲舒把君主正心、礼乐教化、太学育才、反复策问与地方官德行连成教育先于刑罚的治理链；标题所称“养儿子”及最后的柔性进谏答案因转录中断保留来源边界。
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z.md) — 汉武帝以贤良方正、直言极谏与策问打开求贤通道，董仲舒由经学进入国家政策场域；“首届公务员考试”、名次、人数及独尊儒术因果保留来源边界。
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（2）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-2-lrjy7ozds7peyu6x3iwufety2zvt.md) — 董仲舒把举荐问责、能力考试、德行定职、制度纠偏、官吏不与民争生计和“大一统”连成治国方案；消费类比与两千年因果保留来源边界。
@@ -4127,7 +4128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
 - [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
-- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 以母子亲近为田蚡提供进身通道，后又监控廷议并直接以母后权威支持弟弟、影响汉武帝早期政治选择。
+- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 刘彻即位后升为皇太后并见证母族受封，以母子亲近为田蚡提供进身通道，后又监控廷议并直接支持弟弟。
 - [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
 - [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
@@ -4350,7 +4351,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《凤求凰》 / Feng Qiu Huang](entities/FengQiuHuang.md) — 在节目中由司马相如宴席演奏、向卓文君传递求偶意味的作品，其作者、曲辞与传播史保持来源限定。
 - [霍嬗 / 霍子侯 / Huo Shan (son of Huo Qubing)](entities/HuoShanSonOfHuoQubing.md) — 霍去病之子与爵位继承人，在来源中以侍中、奉车都尉身份成为唯一陪同汉武帝秘密登泰山过夜的随员，并与后世霍山明确消歧。
 - [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
-- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 由窦婴门下以低姿态和人脉熟悉进身，结合王太后亲缘与门客网络掌权，后把窦婴灌夫争议升级为宫廷安全案件。
+- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 刘彻即位后先封武安侯，再由窦婴门下的人脉与王太后亲缘、门客网络进入高位，后把窦婴灌夫争议升级为宫廷安全案件。
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
 - [Imperial Veritable Records / 帝王实录宝训](entities/ImperialVeritableRecords.md) — Official dynastic memory whose monumental custody preserves valuable evidence while requiring criticism of political editing and genre.
 - [Nathan Bedford Forrest](entities/NathanBedfordForrest.md) — Former Confederate general linked to first-Klan leadership whose Tennessee disbandment order did not control decentralized groups elsewhere.
@@ -9544,7 +9545,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
-- [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — Emperor Wen's successor, used by Qinji 135 番外篇2 as the reign context where Deng Tong and Zhou Yafu's fortunes reverse.
+- [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、宽刑与临终重农并置，其治下积累构成文景繁荣及内部集中问题的承接点。
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
 - [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
@@ -20903,6 +20904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [关中豪强迁徙 / Guanzhong Elite Relocation](concepts/GuanzhongEliteRelocation.md) — Western Han policy of moving powerful eastern households into the capital region for defense, population concentration, and elite control, later extended through mausoleum counties.
 - [刑讯守口式申冤 / Torture-Resistant Exoneration](concepts/TortureResistantExoneration.md) — Guan Gao pattern where survival under torture becomes truthful testimony that clears Zhang Ao rather than coerced implication.
 - [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Agrarian status-policy pattern that lowers merchants despite commerce's exchange function and can push wealth-seeking toward official access.
+- [Wen-Jing Prosperity Tradeoff / 文景之治的繁荣代价](concepts/WenJingProsperityTradeoff.md) — Western Han recovery pattern in which household and state abundance coexists with land concentration, local strongmen, political access, and elite luxury.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
 - [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — ruling-house marriage and old-relation diplomacy used or attempted as bounded frontier restraint, including Wang Zhaojun's favorable-moment marriage case.

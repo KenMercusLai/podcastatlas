@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu
   - zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr
+  - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-王太后（王娡） / Empress Dowager Wang is [[HanWudi|汉武帝]]'s mother and [[TianFenWesternHan|田蚡]]'s sister. Her profile begins with tactical advice to a newly enthroned son: because ministers are not yet fully obedient and [[EmpressDowagerDouWesternHan|窦太后]] and [[LiuPiaoWesternHan|馆陶长公主刘嫖]] remain dangerous, he should hide resentment rather than force an open break. Her maternal channel then becomes the continuing protection that lets Tian Fen recover from a shared purge, surpass [[DouYingWesternHan|窦婴]], and later receive direct family intervention.
+王太后（王娡） / Empress Dowager Wang is [[HanWudi|汉武帝]]'s mother and [[TianFenWesternHan|田蚡]]'s sister. Her profile begins with Liu Che's accession making her empress dowager and immediately bringing her half-brothers into the enfeoffed maternal clan. It then follows her tactical advice to a newly enthroned son and the continuing protection that lets Tian Fen recover from a shared purge, surpass [[DouYingWesternHan|窦婴]], and later receive direct family intervention.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr|Hanji 251]] first presents Wang as a reader of constraint around a new ruler. She warns Wudi that ministers are not fully obedient, the Mingtang initiative has already angered Dowager Dou, and provoking Liu Piao could bring punishment; he therefore preserves a courteous surface. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] later presents Wang's political action as partly mediated through Tian Fen and his retainers: the ambitious brother becomes her trusted operator, while the less interested Tian Sheng is treated as a hypothetical substitute. [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] places that claim inside a layered accession structure. Dowager Dou carries greater seniority and governing experience, while Wang has the more intimate mother-son relationship. Tian Fen can combine this Wang-family access with knowledge learned in [[DouYingWesternHan|窦婴]]'s network. The episode treats Wang's position as one major reason for his appointment as grand commandant and says he later advises her or handles matters she cannot conveniently perform herself.
+[[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] supplies the transition into the role: Liu Che elevates Wang at accession and soon enfeoffs her half-brothers Tian Fen and Tian Sheng. The host backfills Wang's earlier marriage to Jin Wangsun and movement into the crown prince's household as a family gamble, but willingness, age, and motive remain commentary rather than established biography.
+
+[[zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr|Hanji 251]] next presents Wang as a reader of constraint around a new ruler. She warns Wudi that ministers are not fully obedient, the Mingtang initiative has already angered Dowager Dou, and provoking Liu Piao could bring punishment; he therefore preserves a courteous surface. [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] later presents Wang's political action as partly mediated through Tian Fen and his retainers: the ambitious brother becomes her trusted operator, while the less interested Tian Sheng is treated as a hypothetical substitute. [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] places that claim inside a layered accession structure. Dowager Dou carries greater seniority and governing experience, while Wang has the more intimate mother-son relationship. Tian Fen can combine this Wang-family access with knowledge learned in [[DouYingWesternHan|窦婴]]'s network. The episode treats Wang's position as one major reason for his appointment as grand commandant and says he later advises her or handles matters she cannot conveniently perform herself.
 
 [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]] shows why the two dowager channels are not interchangeable. When both Tian Fen and Dou Ying lose office in the Confucian-policy dispute, Wang's protection still lets Tian Fen participate in political discussion. After the senior dowager dies, Wang's higher relative position is presented as the route by which Tian Fen returns as chancellor and promotes his retainers, while Dou Ying remains excluded. The source establishes a patronage sequence but not Wang's exact intervention or sole causation.
 
@@ -29,7 +32,7 @@ last_updated: 2026-10-08
 
 ## Key Characteristics
 
-- Mother of Han Wudi whose close personal channel supports tactical advice to conceal resentment while the new emperor remains dependent on stronger senior and collateral family centers.
+- Mother of Han Wudi whose elevation and brothers' enfeoffment establish a maternal-family channel at accession, before her advice helps him navigate stronger senior and collateral family centers.
 - Sister and political patron of Tian Fen.
 - Gives Tian Fen kinship access that complements his Dou-family network familiarity.
 - Preserves Tian Fen's access after a shared purge and supports the later restoration that reverses his standing against Dou Ying.
@@ -39,6 +42,7 @@ last_updated: 2026-10-08
 
 ## Evidence
 
+- Accession and maternal-clan transition: [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] records Wang's elevation and the subsequent enfeoffment of Tian Fen and Tian Sheng.
 - Mediated political action: [[zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-2-lu6y3wus1gnkiiewxl6a4d8uzim7|Hanji 262]] says Wang relies on Tian Fen and retainer advice for political action, while framing the particular brother as structurally replaceable.
 - Early restraint advice: [[zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr|Hanji 251]] says Wang warns Wudi against openly provoking Liu Piao while ministers remain unsteady and Dowager Dou is displeased.
 - Layered accession authority: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] distinguishes Dowager Dou's senior authority from Wang's closer maternal relationship to Wudi.
@@ -50,10 +54,11 @@ last_updated: 2026-10-08
 
 ## Qualifications
 
-The six summaries do not provide a wider biography or institutional measure of Wang's influence. Maternal closeness is not identical to formal supremacy, and Hanji 263 explicitly gives Dowager Dou greater senior authority. Hanji 251 does not independently establish Wang's exact warning, the Mingtang sequence, Wudi's likelihood of punishment, or whether he fully concealed resentment because of her advice. The sources do not quantify Wang's role in Tian Fen's appointments or restoration, identify matters handled through his retainers, establish whether she truly depended on a replaceable brother, or show how much her later intervention caused the punishment. Exact speech, monitoring channels, emotional conduct, and “complete withdrawal” remain episode-attributed.
+The seven summaries do not provide a wider biography or institutional measure of Wang's influence. Maternal closeness is not identical to formal supremacy, and Hanji 263 explicitly gives Dowager Dou greater senior authority. Hanji 246 does not establish Wang's age, agency in leaving her first marriage, family motives, or private emotions. Hanji 251 does not independently establish Wang's exact warning, the Mingtang sequence, Wudi's likelihood of punishment, or whether he fully concealed resentment because of her advice. The sources do not quantify Wang's role in Tian Fen's appointments or restoration, identify matters handled through his retainers, establish whether she truly depended on a replaceable brother, or show how much her later intervention caused the punishment. Exact speech, monitoring channels, emotional conduct, and “complete withdrawal” remain episode-attributed.
 
 ## What Changed
 
+- Added Wang's elevation at Liu Che's accession and the immediate enfeoffment of her half-brothers as the opening of the maternal-clan channel.
 - Added the earliest tactical-restraint advice: preserve appearances while the new emperor cannot safely confront Liu Piao and Dowager Dou.
 - Preserved the distinction between senior dowager authority and Wang's closer maternal access.
 - Connected Tian Fen's appointment, retainer-supported service, continuing protection, and restoration to Wang before her later courtroom intervention.

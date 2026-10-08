@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9909
+wiki_total_pages: 9910
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "WenWangGuanrenFa"
     title: "Wen Wang Guanren Fa / 文王官人法"
     url: "/wiki/concepts/wenwangguanrenfa/"
+  - key: "WenJingProsperityTradeoff"
+    title: "Wen-Jing Prosperity Tradeoff / 文景之治的繁荣代价"
+    url: "/wiki/concepts/wenjingprosperitytradeoff/"
   - key: "WestAfricaCocaineTransit"
     title: "West Africa Cocaine Transit"
     url: "/wiki/concepts/westafricacocainetransit/"

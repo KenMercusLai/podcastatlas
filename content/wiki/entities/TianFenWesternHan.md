@@ -13,18 +13,21 @@ sources:
   - zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu
   - zizhi-tongjian-hanji-262-wudi-zhishui-jielu-liuche-zui-yuchun-de-yimian-1-lqnjm8oyzbymkoadtwcm5qjmxyyq
   - zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is
+  - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-田蚡 / Tian Fen is [[HanWudi|汉武帝]]'s maternal uncle whose bounded profile runs from an obscure attendant using extreme deference to enter [[DouYingWesternHan|窦婴]]'s power network, through a shared policy purge and Wang-backed recovery, to retainer expansion, personal grievance, security accusations, public-interest failure, and a victory over rival outer relatives that leaves him exposed to sovereign power.
+田蚡 / Tian Fen is [[HanWudi|汉武帝]]'s maternal uncle whose bounded profile runs from an obscure attendant using extreme deference to enter [[DouYingWesternHan|窦婴]]'s power network, through accession-era enfeoffment, a shared policy purge and Wang-backed recovery, to retainer expansion, personal grievance, security accusations, public-interest failure, and a victory over rival outer relatives that leaves him exposed to sovereign power.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] supplies the ascent missing from the later conflict. During Han Jingdi's early reign, Tian Fen is an undistinguished attendant in Dou Ying's crowded household. The episode says he differentiates himself by treating Dou Ying like an elder and serving him with conspicuously low posture. This is interpreted as [[StrategicPersonalDeference|strategic personal deference]]: Dou Ying offers access not only to favors but also to [[EmpressDowagerDouWesternHan|窦太后]] and a powerful court network.
 
 After Wudi's accession, Tian Fen combines his sister [[EmpressDowagerWangWesternHan|王太后]]'s maternal access with familiarity gained in Dou Ying's circle. The source attributes his appointment as grand commandant to both channels rather than merit alone. He then recruits retainers for advice, intelligence, contacts, and unofficial execution, building [[RetainerInformationInfrastructure|retainer information infrastructure]] for himself, Wang, and Wudi. The first boundary test follows Dowager Dou's death and Tian Fen's appointment as chancellor: [[zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is|Hanji 254]] says he recommends associates at scale and asks for land attached to the imperial workshop so he can expand an already lavish residence. Wudi's reported rebukes limit both moves, while Tian Fen's appeal to Wang after the land refusal shows maternal access operating as a fallback channel rather than an unlimited grant of appointment or property power.
+
+[[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] inserts an earlier formal step into that rise: soon after Liu Che succeeds and elevates Wang, Tian Fen is enfeoffed as Marquis of Wu'an while his half-brother Tian Sheng becomes Marquis of Zhouyang. The source establishes accession-era reward to the maternal clan but does not by itself prove Tian Fen's later office, competence, or political influence.
 
 [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]] supplies the intervening reversal. Tian Fen follows Dou Ying's Confucian-policy alignment while the senior dowager remains dominant, and both lose office after a proposal that Wudi stop routinely consulting her. Their losses are unequal: Wang's protection keeps Tian Fen near political discussion, whereas Dou Ying's relationship with Dowager Dou is already damaged. After the senior dowager dies, the episode credits Wang-backed restoration with Tian Fen's chancellorship and describes aggressive promotion of his retainers. A forgotten visit to Dou Ying, refusal to dance with Guan Fu, and a request for southern land then turn changed status into grievance. The episode attributes Tian Fen's policy alignment, motives, and land desire rather than independently proving them.
 
@@ -36,7 +39,7 @@ The public-interest branch reinforces the risk of concentrated private advantage
 
 ## Key Characteristics
 
-- Converts low-status service and network familiarity into access, then survives a shared purge through Wang-family patronage and returns above his former patron.
+- Converts low-status service and network familiarity into access, receives accession-era enfeoffment, then survives a shared purge through Wang-family patronage and returns above his former patron.
 - Rises through Wang-family kinship, Dou-family network knowledge, and private retainer infrastructure, but meets early sovereign resistance when patronage expansion and a public-land request push beyond Wudi's accepted boundary.
 - Uses office and maternal backing to expand a personal confrontation into grave-disrespect and court-security accusations.
 - Is criticized for chancellorial conduct even where the underlying allegations remain legally uncertain.
@@ -47,6 +50,7 @@ The public-interest branch reinforces the risk of concentrated private advantage
 ## Evidence
 
 - Early access strategy: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] places Tian Fen in Dou Ying's household, emphasizes extreme deference, and connects it to Dowager Dou's wider network.
+- Accession-era reward: [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] records Tian Fen's enfeoffment as Marquis of Wu'an after Liu Che and Wang's elevation.
 - Appointment and capacity: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] joins Wang-family kinship, familiarity with Dou Ying's people, appointment as grand commandant, and later retainer recruitment.
 - Early chancellorial boundary: [[zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is|Hanji 254]] links aggressive recommendation, a public-land request, imperial rebukes, and Tian Fen's appeal to Empress Dowager Wang.
 - Purge, recovery, and grievance: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]] joins shared removal from office, unequal family protection, Tian Fen's return as chancellor, retainer promotion, the failed visit, and the land request.
@@ -58,10 +62,11 @@ The public-interest branch reinforces the risk of concentrated private advantage
 
 ## Qualifications
 
-The profile rests on nine compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's private motive, actual competence, complete appointment process, retainer membership or outputs, the precise Confucian-policy dispute, the legal merits of the Guan Fu case, the truth of the security accusation, the symmetry of the kin factions, the feasibility of renewed flood repair after the initial failure, or Tian Fen's cause of death. Extreme deference and later benefit do not independently prove insincerity; kinship, learned network knowledge, and political skill may be complementary explanations. Hanji 254's recommendation scale, exact rebukes, public-land status, residence luxury, and resort to Wang remain episode-attributed. “Replaceable tool,” lack of achievement, the land request, guest conduct, archival destruction, heaven's-will opportunism, ghostly revenge, and imperial killing remain source-attributed or speculative.
+The profile rests on ten compact podcast summaries rather than a complete primary-source dossier. They do not establish Tian Fen's private motive, actual competence, complete appointment process, retainer membership or outputs, the precise Confucian-policy dispute, the legal merits of the Guan Fu case, the truth of the security accusation, the symmetry of the kin factions, the feasibility of renewed flood repair after the initial failure, or Tian Fen's cause of death. Hanji 246 establishes an episode-attributed enfeoffment sequence, not the later causal importance of that reward. Extreme deference and later benefit do not independently prove insincerity; kinship, learned network knowledge, and political skill may be complementary explanations. Hanji 254's recommendation scale, exact rebukes, public-land status, residence luxury, and resort to Wang remain episode-attributed. “Replaceable tool,” lack of achievement, the land request, guest conduct, archival destruction, heaven's-will opportunism, ghostly revenge, and imperial killing remain source-attributed or speculative.
 
 ## What Changed
 
+- Added Tian Fen's accession-era enfeoffment as the first formal Wang-clan reward before his later senior offices.
 - Added the first post-appointment boundary test between Tian Fen's patronage and property ambitions and Wudi's sovereign control.
 - Clarified that Wang-family access supplies a fallback channel but does not guarantee every requested appointment or land transfer.
 - Joined Hanji 254's early rebukes to the later pattern in which office, kinship, retainers, and private interest repeatedly test imperial limits.
