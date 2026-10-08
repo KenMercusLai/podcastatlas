@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1478
+topic_total_pages: 1479
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1069,6 +1069,9 @@ topic_concepts:
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
+  - key: "HistoricalFictionPsychologicalProjection"
+    title: "Historical Fiction Psychological Projection / 历史小说心理投射"
+    url: "/wiki/concepts/historicalfictionpsychologicalprojection/"
   - key: "HolidayImprovementIdeology"
     title: "Holiday Improvement Ideology"
     url: "/wiki/concepts/holidayimprovementideology/"

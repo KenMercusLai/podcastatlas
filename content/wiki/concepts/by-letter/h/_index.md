@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9983
+wiki_total_pages: 9984
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "HistoricalFictionFactualConstraint"
     title: "Historical Fiction Factual Constraint"
     url: "/wiki/concepts/historicalfictionfactualconstraint/"
+  - key: "HistoricalFictionPsychologicalProjection"
+    title: "Historical Fiction Psychological Projection / 历史小说心理投射"
+    url: "/wiki/concepts/historicalfictionpsychologicalprojection/"
   - key: "HistoricalFiguresAsRealityTVArchetypes"
     title: "Historical Figures as Reality-TV Archetypes"
     url: "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"

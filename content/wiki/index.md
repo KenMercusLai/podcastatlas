@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [15 亚历山大大帝的糟糕原生家庭：《天堂之火》](sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq.md) — 怪东西以《天堂之火》讨论亚历山大的王室家庭、君主教育、边缘身份与文化融合，并限定历史小说的现代心理投射。
 - [16 东西方的宰相](sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp.md) — 怪东西以决策参与、官僚统领、资源控制与责任关系比较中外宰相和政府首脑，说明职衔与译名不能替代对制度实权的考察。
 - [17 东西方的长城](sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp.md) — 怪东西以中国、罗马、丹麦、朝鲜和波斯长距离防线说明长城是兼具预警、通行、税收、定居、交流与象征功能的边疆系统，并追踪烽火戏诸侯和孟姜女传说的层累形成。
 - [18 东西方的人相食](sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp.md) — 怪东西区分生存、战争、丧葬、复仇、医疗、孝道、殖民标签与文学隐喻中的食人，并揭示绝境牺牲如何受等级、种族、性别和程序权力塑造。
@@ -4169,6 +4170,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [Mary Renault / 玛丽·瑞瑙特](entities/MaryRenault.md) — Historical novelist whose ancient atmosphere and invented interiority make her a case in both historical distance and psychological projection.
+- [Fire from Heaven / 《天堂之火》](entities/FireFromHeaven.md) — Renault novel imagining Alexander's childhood, royal education, family coercion, and succession struggle.
 - [孟姜女 / Meng Jiangnü](entities/MengJiangnu.md) — 从杞梁妻礼制故事经哀哭、秦代迁移、筑墙埋夫、哭倒长城与忠贞教化层层形成的传说人物。
 - [宋壮壮 / Song Zhuangzhuang](entities/SongZhuangzhuang.md) — 地都会城市观察者，以骑行路线连接北京街头变化、遗产运行、公共空间与规划判断。
 - [王羲之 / Wang Xizhi](entities/WangXizhi.md) — 东晋书法家与兰亭雅集组织者，其《兰亭集序》传统连接聚会、无常意识、书法经典化与文本真伪问题。
@@ -4840,7 +4843,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Guy Fawkes](entities/GuyFawkes.md) — Plot explosives specialist whose cultural afterlife became a portable anti-establishment symbol.
 - [James VI and I](entities/JamesVIAndI.md) — Monarch whose accession raised toleration hopes and whose survival anchored Protestant thanksgiving.
 - [Robert Cecil](entities/RobertCecil.md) — Jacobean minister associated with plot detection, managed-discovery theories, and political stability.
-- [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose state, army, Greek hegemony, and planned Persian invasion formed Alexander's inherited conquest platform.
+- [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose state, army, Greek hegemony, royal education, marriages, and succession choices formed Alexander's inherited platform and danger.
 - [Duncan French](entities/DuncanFrench.md) — Exercise physiologist and UFC performance leader organizing training, recovery, nutrition, and environmental stress around target adaptations.
 - [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
 - [Battle of Gaugamela](entities/BattleOfGaugamela.md) — Decisive 331 BC victory opening the Achaemenid imperial heartland to Alexander.
@@ -5070,7 +5073,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
 - [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
 - [Lola Montez](entities/LolaMontez.md) — Irish-born performer whose Spanish stage persona, transnational celebrity, Bavarian prominence, and scandals shaped her public image.
-- [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, marital conflict, assassination rumor, and snake imagery.
+- [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, marital conflict, religious imagery, hostile tradition, and literary maternal power.
 - [Sporus](entities/Sporus.md) — Freeborn youth subjected to Nero's coercive castration and Poppaea role, later imperial transfer, threatened spectacle, and comic afterlife.
 - [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
@@ -16560,7 +16563,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
-- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror whose tactics, Persian succession project, eastern overextension, royal image, violence, and legendary afterlife remain inseparable.
+- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror whose literary formation, tactics, Persian succession project, eastern overextension, violence, and legendary afterlife remain inseparable.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose coalition persuasion, resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
@@ -17016,6 +17019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Historical Fiction Psychological Projection / 历史小说心理投射](concepts/HistoricalFictionPsychologicalProjection.md) — Evidence boundary separating emotionally plausible invented interiority from recovered psychology of the distant past.
 - [Historical Legend Accretion / 历史传说的层累形成](concepts/HistoricalLegendAccretion.md) — 以文本年代、体裁、技术替换、地点附着和道德重心迁移区分传说的文化效力与事件史证据。
 - [Contextual Meaning of Cannibalism / 食人行为的语境意义](concepts/CannibalismContextualMeaning.md) — Separates survival, ritual, aggression, medicine, devotion, pathology, colonial labeling, and metaphor before cross-cultural judgment.
 - [Survival Cannibalism and Power Inequality / 生存性食人的权力不平等](concepts/SurvivalCannibalismPowerInequality.md) — Shows how necessity, victim selection, and apparently fair lotteries remain structured by rank, race, gender, age, strength, and command.
@@ -17570,7 +17574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Invisible Overtime Incentive Trap / 隐形加班激励陷阱](concepts/InvisibleOvertimeIncentiveTrap.md) — Workplace mechanism where cost, performance stigma, and target ratchets make continued but unreported overtime rational.
 - [Internalized Overwork / 内化型过劳](concepts/InternalizedOverwork.md) — Responsibility and perfectionism mechanism that turns organizational pressure into self-imposed labor beyond explicit requirements.
 - [Adaptation-Led Programming](concepts/AdaptationLedProgramming.md) — Goal-first coordination of training, recovery, nutrition, environmental stress, and monitoring by adaptation and phase.
-- [Alexander's Imperial Succession Strategy](concepts/AlexanderImperialSuccessionStrategy.md) — Conquest-to-rule strategy combining Macedonian force with Persian elites, symbols, dynastic ties, and troops.
+- [Alexander's Imperial Succession Strategy](concepts/AlexanderImperialSuccessionStrategy.md) — Conquest-to-rule strategy combining Macedonian force with Persian elites, symbols, dynastic ties, and troops without equating incorporation with equality.
 - [Alexander Legend Formation](concepts/AlexanderLegendFormation.md) — Transformation of uncertain campaign history into Roman exemplarity, religious adaptation, romance, and contested greatness.
 - [First World War Remembrance](concepts/FirstWorldWarRemembrance.md) — Deliberately built and contested system joining equal graves, silence, monuments, representative burial, charity, and adaptable civic meaning.
 - [Remembrance Poppy](concepts/RemembrancePoppy.md) — Wearable symbol joining battlefield poetry, transnational activism, veteran charity, mass participation, and pacifist contest.

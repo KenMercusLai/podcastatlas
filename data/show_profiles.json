@@ -2271,8 +2271,8 @@
       "earliest_episode_date": "2026-03-12",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 28,
-      "topic_matched_source_note_count": 25,
+      "source_note_count": 29,
+      "topic_matched_source_note_count": 26,
       "topics": [
         {
           "key": "history",
@@ -2281,15 +2281,15 @@
           "source_note_count": 22
         },
         {
-          "key": "politics",
-          "label": "Politics",
-          "url": "/topics/politics/",
-          "source_note_count": 3
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 4
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 3
         },
         {
@@ -2310,8 +2310,8 @@
       ],
       "start_here_episode_files": [
         "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-        "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
         "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
+        "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
         "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md"
       ]
     },

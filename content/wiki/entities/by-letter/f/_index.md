@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12792
+wiki_total_pages: 12794
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "FionnMacCumhaill"
     title: "Fionn mac Cumhaill / 芬恩"
     url: "/wiki/entities/fionnmaccumhaill/"
+  - key: "FireFromHeaven"
+    title: "Fire from Heaven / 《天堂之火》"
+    url: "/wiki/entities/firefromheaven/"
   - key: "FireAid"
     title: "FireAid"
     url: "/wiki/entities/fireaid/"

@@ -8,8 +8,9 @@ sources:
   - 154-the-most-disastrous-party-in-history-glt6506112996
   - 117-alexander-the-great-part-2-glt9707946822
   - 116-alexander-the-great-part-1-glt3321594885
+  - 15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-09
 ---
 
 # Alexander the Great / 亚历山大大帝
@@ -20,7 +21,9 @@ Alexander the Great / 亚历山大大帝 appears as a tactically adaptive Macedo
 
 ## Current Profile
 
-The campaign profile begins before Alexander's accession. Philip II consolidated Macedon, financed and reorganized its army, defeated Athens and Thebes at Chaeronea, and prepared the Persian invasion. Alexander secured an uncertain succession at twenty, campaigned in the Balkans, and destroyed rebellious Thebes before crossing the Hellespont. Heroic rituals at Achilles's tomb and stories such as the taming of [[Bucephalus]] show political theater and self-mythologizing operating alongside force.
+The campaign profile begins before Alexander's accession. Philip II consolidated Macedon, financed and reorganized its army, defeated Athens and Thebes at Chaeronea, and prepared the Persian invasion. [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] adds Renault's explicitly literary formation story: a child shaped by Homeric models, education associated with [[Aristotle]], dynastic insecurity, and the struggle between Philip and [[Olympias]]. This makes family intimacy part of royal political socialization while leaving precise childhood psychology and dialogue in [[FireFromHeaven|《天堂之火》]] source-scoped.
+
+Alexander secured an uncertain succession at twenty, campaigned in the Balkans, and destroyed rebellious Thebes before crossing the Hellespont. Heroic rituals at Achilles's tomb and stories such as the taming of [[Bucephalus]] show political theater and self-mythologizing operating alongside force.
 
 Granicus and Issus turned a risky expedition into an expanding conquest. Alexander's movement down the Phoenician coast removed Persian naval bases, while the long siege and severe punishment of Tyre joined strategy to exemplary violence. His refusal of Darius's settlement offers, Egyptian coronation, founding of [[Alexandria]], and consultation at Siwa show ambition widening through success before the decisive [[BattleOfGaugamela]] in 331 BC.
 
@@ -35,6 +38,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 ## Key Characteristics
 
 - Inherits a powerful Macedonian state and combined-arms system, then extends it through battlefield maneuver, siegecraft, and psychological shock.
+- Is remembered through a formation narrative in which royal education, heroic imitation, family coercion, and succession danger shape the future conqueror.
 - Expands an initially bounded invasion through repeated victory, symbolic performance, and refusal of territorial compromise.
 - Seeks to convert conquest into Achaemenid succession through local kingship, elites, court forms, dynastic ties, and military incorporation.
 - Continues east despite mounting strategic ambiguity, elite killings, army resistance, and logistical catastrophe.
@@ -43,6 +47,7 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 ## Evidence
 
 - Inherited platform and accession: [[116-alexander-the-great-part-1-glt3321594885]] connects Philip's reforms and Chaeronea to Alexander's succession, Thebes, and the Asian crossing.
+- Literary formation: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] reads *Fire from Heaven* through childhood intelligence, Homeric models, Aristotle, family coercion, and the contested succession.
 - Early expansion and symbolic rule: [[116-alexander-the-great-part-1-glt3321594885]] follows Granicus, Issus, Tyre, Egypt, Alexandria, Siwa, and the refusal of Darius's offers.
 - Battlefield and succession: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela, entry into the imperial capitals, pursuit of Darius, and Persian incorporation.
 - Expansion and resistance: [[117-alexander-the-great-part-2-glt9707946822]] follows the Central Asian and Indian campaigns, Macedonian opposition, Hyphasis refusal, and desert return.
@@ -53,13 +58,12 @@ Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but 
 
 ## Qualifications
 
-This profile relies on five popular-history retellings and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination, army sizes, speeches, battlefield details, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
+This profile relies on popular-history retellings, a literary discussion, and late ancient traditions rather than contemporary Persian narrative evidence. Philip's assassination, army sizes, speeches, battlefield details, the royal-family scene, oracles, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Renault's detailed childhood interiority is evidence about historical imagination, not independent biography. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
 
 ## What Changed
 
-- Added Philip's state and army as the inherited basis of Alexander's campaign.
-- Extended the campaign backward through accession, Thebes, Granicus, Issus, Tyre, Egypt, and Siwa.
-- Clarified that imperial ambition expanded through victory, symbolism, and rejection of territorial settlement.
+- Added an evidence-bounded formation layer joining royal education, heroic models, family coercion, and succession danger.
+- Distinguished Renault's psychologically precise childhood narrative from independent historical biography.
 
 ## Relationships
 
@@ -72,3 +76,4 @@ This profile relies on five popular-history retellings and late ancient traditio
 - [[Persepolis]] - conquered imperial site whose destruction shapes Alexander's moral and cultural afterlife.
 - [[AchaemenidEmpire]] - empire defeated by Alexander.
 - [[Alexandria]] - Egyptian foundation joining strategy, kingship, and later dynastic memory.
+- [[FireFromHeaven|《天堂之火》]] - literary formation narrative extending the profile into childhood and adolescence.

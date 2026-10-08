@@ -10399,9 +10399,9 @@
       "url": "/wiki/entities/alexanderhoyos/"
     },
     "AlexanderImperialSuccessionStrategy": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -10416,9 +10416,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/alexanderimperialsuccessionstrategy/"
     },
     "AlexanderLegendFormation": {
@@ -10516,9 +10523,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -10554,9 +10561,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/alexanderthegreat/"
     },
     "AlexandraFeodorovna": {
@@ -30480,9 +30494,9 @@
       "url": "/wiki/entities/bubbleschimpanzee/"
     },
     "Bucephalus": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感 [959614962].md",
@@ -30497,9 +30511,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/bucephalus/"
     },
     "BuddhistSpeechRestraint": {
@@ -84337,6 +84358,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
+    "FireFromHeaven": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/firefromheaven/"
+    },
     "FirstAffiliatedHospitalChengduMedicalCollege": {
       "episode_count": 3,
       "show_count": 1,
@@ -109435,9 +109472,9 @@
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
     "HistoricalFictionHistoricalImagination": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2461510190 [GLT2461510190].md",
@@ -109445,10 +109482,33 @@
           "show": "The Rest Is History",
           "title": "14. Historical Fiction",
           "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/historicalfictionhistoricalimagination/"
+    },
+    "HistoricalFictionPsychologicalProjection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/historicalfictionpsychologicalprojection/"
     },
     "HistoricalFiguresAsRealityTVArchetypes": {
       "episode_count": 3,
@@ -109995,9 +110055,9 @@
       "url": "/wiki/concepts/historicalstructureagencycausation/"
     },
     "HistoricalWorldviewReconstruction": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2672520929 [GLT2672520929].md",
@@ -110012,9 +110072,16 @@
           "show": "The Rest Is History",
           "title": "14. Historical Fiction",
           "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/historicalworldviewreconstruction/"
     },
     "HistoricalYouxiaToLiteraryWuxia": {
@@ -156890,6 +156957,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/maryqueenofscots/"
     },
+    "MaryRenault": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/maryrenault/"
+    },
     "MaryVetsera": {
       "episode_count": 2,
       "show_count": 1,
@@ -175807,9 +175890,9 @@
       "url": "/wiki/entities/olympedegouges/"
     },
     "Olympias": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -175824,9 +175907,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
@@ -184726,9 +184816,9 @@
       "url": "/wiki/entities/philipii/"
     },
     "PhilipIIMacedon": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3321594885 [GLT3321594885].md",
@@ -184736,9 +184826,16 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "lr1agsBqONwMoHmQp_Fngt0t8SOq [lr1agsBqONwMoHmQp_Fngt0t8SOq].md",
+          "key": "15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq",
+          "show": "怪东西Weird History",
+          "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
+          "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/philipiimacedon/"
     },
     "PhilipIVOfFrance": {

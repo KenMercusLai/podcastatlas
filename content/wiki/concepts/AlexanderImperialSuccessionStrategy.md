@@ -5,8 +5,9 @@ tags: [empire, succession, integration, legitimacy, ancient-history]
 sources:
   - 117-alexander-the-great-part-2-glt9707946822
   - 116-alexander-the-great-part-1-glt3321594885
+  - 15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-09
 ---
 
 # Alexander's Imperial Succession Strategy
@@ -23,6 +24,8 @@ Alexander's imperial succession strategy is the source-scoped interpretation tha
 
 The same measures create a legitimacy split. Practices that can make rule intelligible to Persian subjects can look like betrayal and replacement to Macedonian companions. The killings of Philotas, Parmenion, Callisthenes, and Cleitus, together with mutiny at Opis, show that integration is neither frictionless cosmopolitanism nor mere costume: it redistributes honor, access, and military position inside a conquest regime.
 
+[[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] sharpens the motive boundary. Its discussion contrasts [[Aristotle|亚里士多德]]'s reported Greek-barbarian hierarchy with Alexander's admiration for Cyrus and later cultural adoption, but it does not reduce the result to tolerance. Incorporation can express openness, universal kingship, administrative need, personal apotheosis, and conquest ambition at once.
+
 ## Key Claims
 
 - Repeated victory can expand the political object of war from limited punishment or territory to whole-imperial succession.
@@ -31,6 +34,7 @@ The same measures create a legitimacy split. Practices that can make rule intell
 - Settlement refusal, local coronation, divine association, clothing, court ritual, marriage, appointments, and recruitment are governing instruments as well as cultural symbols.
 - Incorporation can widen a regime's local base while threatening the status of its original conquerors.
 - The strategy's rational imperial logic coexists with personal ambition, coercion, and continuing overextension.
+- Cross-cultural adoption inside conquest can widen rule without establishing equality, modern universalism, or a single benevolent motive.
 
 ## Evidence
 
@@ -39,15 +43,16 @@ The same measures create a legitimacy split. Practices that can make rule intell
 - Succession claim: [[117-alexander-the-great-part-2-glt9707946822]] connects pursuit of Darius and Bessus to Alexander's role as avenger and heir.
 - Court and dynastic integration: [[117-alexander-the-great-part-2-glt9707946822]] links Persian dress, proskynesis, Roxana, Darius's daughters, and mass weddings to the new monarchy.
 - Military incorporation and backlash: [[117-alexander-the-great-part-2-glt9707946822]] links Persian recruitment and Macedonian demobilization to the Opis mutiny.
+- Motive boundary: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] contrasts universalist and self-deifying readings of Persian dress, intermarriage, mass weddings, and cultural adoption.
 
 ## Counterevidence & Qualifications
 
-The episodes do not establish a single stable master plan. The first explicitly allows ambition to grow through success, while pursuit into Central Asia and India can be read as security, inherited Persian geography, personal ambition, or compulsive expansion. “Integration” should not imply equality: Alexander remains a violent conqueror, local incorporation serves imperial control, and both Persian response and Macedonian opposition are documented chiefly through later conqueror-side traditions.
+The episodes do not establish a single stable master plan. The first explicitly allows ambition to grow through success, while pursuit into Central Asia and India can be read as security, inherited Persian geography, personal ambition, divine self-conception, or compulsive expansion. “Integration” should not imply equality: Alexander remains a violent conqueror, local incorporation serves imperial control, and both Persian response and Macedonian opposition are documented chiefly through later conqueror-side traditions. The new source discusses some policies through a historical novel and conversational comparison, so claims about Aristotle's teaching, Cyrus's influence, private ideals, and universalism remain source-scoped.
 
 ## What Changed
 
-- Extended the framework backward from post-Gaugamela integration to the earlier expansion of Alexander's war aims.
-- Added Egyptian kingship, settlement refusal, and divine association as preconditions of the later heir-and-avenger strategy.
+- Added a motive boundary separating administrative incorporation and cultural openness from equality or modern cosmopolitanism.
+- Preserved universal kingship, practical rule, self-deification, and conquest ambition as potentially simultaneous explanations.
 
 ## Related Concepts
 
@@ -55,3 +60,4 @@ The episodes do not establish a single stable master plan. The first explicitly 
 - [[RomanHellenisticImperialSynthesis]] - later eastern imperial model built within the world Alexander's conquests helped create.
 - [[ImperialMetropolisIntegration]] - neighboring framework for governing a conquered center through selective incorporation.
 - [[AlexanderLegendFormation]] - afterlife that turns the succession project into stories of universal conquest and greatness.
+- [[HistoricalFictionPsychologicalProjection]] - evidence boundary for private ideals inferred through novelistic reconstruction.
