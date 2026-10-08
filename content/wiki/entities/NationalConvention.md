@@ -6,29 +6,30 @@ sources:
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
   - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
+  - 712-the-terror-the-fall-of-robespierre-part-6-glt1154404105
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-10-08
 ---
 
 # National Convention
 
 ## Overview
 
-The National Convention was the revolutionary assembly that abolished the French monarchy, declared “Year One” of the Republic, directed war and reform, and tried [[LouisXVI|Louis XVI]].
+The National Convention was the revolutionary assembly that abolished the French monarchy, declared “Year One” of the Republic, tried [[LouisXVI|Louis XVI]], governed through emergency committees, and overthrew [[MaximilienRobespierre|Robespierre]] on 9 Thermidor.
 
 ## Current Profile
 
-Across the sources the Convention appears as constituent assembly, legislature, court, war authority, and arena of revolutionary legitimacy at once. Its election removed class and property distinctions for many men but excluded women, while low turnout and constrained participation qualified even the male mandate. Its abolition of monarchy left the Republic institutionally unsettled. Factional conflict, universalizing war policy, Louis's trial, and the April 1793 exclusion of women from battle converted disputes over violence, sovereignty, procedure, and citizenship into tests of loyalty and public standing.
+Across the sources the Convention appears as constituent assembly, legislature, court, war authority, and arena of revolutionary legitimacy at once. Its election removed class and property distinctions for many men but excluded women, while low turnout and constrained participation qualified even the male mandate. Its abolition of monarchy left the Republic institutionally unsettled. Factional conflict, universalizing war policy, Louis's trial, and the April 1793 exclusion of women from battle converted disputes over violence, sovereignty, procedure, and citizenship into tests of loyalty. By 9 Thermidor, the assembly had also become a survival arena: interruption, refusal of the rostrum, arrest votes, outlawry, and counter-mobilization under [[PaulBarras|Barras]] allowed threatened deputies to recover authority from committee leaders and the Paris Commune.
 
 ## Key Characteristics
 
 - It was elected amid war, harvest pressure, confusion, intimidation, public oral voting, and low turnout.
 - It abolished monarchy and initiated “Year One” before settling a complete republican constitution.
 - It contained fluid Girondin, Montagnard, and Plain alignments rather than disciplined modern parties.
-- It moved from national defence toward promises of aid and republican reform for other peoples.
 - It transformed Louis from deposed monarch into defendant through naming, ritual, legal argument, and public voting.
 - It rejected a popular referendum, delay, and reprieve before imposing death.
 - It widened male citizenship while preserving a gender boundary around suffrage, deliberation, and armed service.
+- It could recover collective authority through debate control, arrest, outlawry, and armed mobilization when members perceived a common existential threat.
 
 ## Evidence
 
@@ -58,6 +59,10 @@ Across the sources the Convention appears as constituent assembly, legislature, 
 
 - [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] places voting beside Paris-section petitions, wounded witnesses, Girondin correspondence, and suspicion of hidden treason.
 
+### Thermidorian recovery of authority
+
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] follows interruption of Saint-Just, denial of Robespierre's attempts to speak, arrest votes, outlawry, Barras's command, and defeat of the Hôtel de Ville resistance.
+
 ## Qualifications
 
 - The episodes do not supply a comprehensive institutional history, electoral study, or full voting record.
@@ -65,12 +70,14 @@ Across the sources the Convention appears as constituent assembly, legislature, 
 - “The Convention” should not imply unanimity about procedure, sentence, mercy, or the execution's meaning.
 - The unanimous abolition vote does not establish equally broad agreement on the Republic's institutional design.
 - Vote totals and the “one vote” description remain bounded to the source's presentation.
+- Thermidorian unity rested heavily on shared fear and did not mean that deputies agreed on an anti-terror program or disowned their own earlier violence.
+- Speech order, exact vote sequence, motives, and the relative effect of parliamentary versus military action remain source-scoped.
 
 ## What Changed
 
-- The qualified mandate now includes the categorical exclusion of women as well as low and constrained male participation.
-- The Convention's war authority now includes its policing of women's claim to armed republican service.
-- Constituent authority is framed as deciding who counted as a citizen as well as how monarchy ended.
+- Extended the Convention from republican founding and citizenship boundaries through its decisive recovery of authority on 9 Thermidor.
+- Added parliamentary procedure, outlawry, and organized force as linked tools of institutional survival.
+- Qualified Thermidorian unity as a coalition of fear rather than a settled program of principled opposition to terror.
 
 ## Relationships
 
@@ -84,3 +91,5 @@ Across the sources the Convention appears as constituent assembly, legislature, 
 - [[RevolutionaryIdeologicalWar]] - universalizing war policy adopted after French victories.
 - [[RevolutionaryJusticeMercyConflict]] - conflict the Convention had to convert into binding votes.
 - [[DeRoyalizationRitual]] - symbolic practice through which the assembly staged equal citizenship and lost kingship.
+- [[ThermidorianCoup]] - crisis in which the assembly arrested its committee leaders and defeated the Commune.
+- [[RevolutionaryPurgeSecurityDilemma]] - shared survival pressure that aligned otherwise divided deputies.

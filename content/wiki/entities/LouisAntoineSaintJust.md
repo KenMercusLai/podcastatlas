@@ -6,19 +6,20 @@ sources:
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
+  - 712-the-terror-the-fall-of-robespierre-part-6-glt1154404105
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-01
+last_updated: 2026-10-08
 ---
 
 # Louis Antoine de Saint-Just
 
 ## Overview
 
-Louis Antoine de Saint-Just was a Montagnard deputy and [[CommitteeOfPublicSafety|Committee of Public Safety]] leader who moved from arguing that kingship placed [[LouisXVI|Louis XVI]] outside republican protection to constructing conspiracy cases against revolutionary factions.
+Louis Antoine de Saint-Just was a Montagnard deputy and [[CommitteeOfPublicSafety|Committee of Public Safety]] leader who moved from arguing that kingship placed [[LouisXVI|Louis XVI]] outside republican protection to constructing conspiracy cases against revolutionary factions and sharing Robespierre's fall at Thermidor.
 
 ## Current Profile
 
-The sources trace Saint-Just from the king's trial into leadership of revolutionary government. His argument against Louis shifted judgment from discrete offences to kingship's incompatibility with a virtuous republic; as a close ally of [[MaximilienRobespierre|Robespierre]], he later helped draft the [[ConstitutionOf1793|Constitution of 1793]] while defending the exclusion of opponents from ordinary legal protection. In early 1794 he treated unrest, scarcity, political opposition, and corrupt plot allegations as one foreign-directed conspiracy, helped indict the Hébertists and Dantonists, and used claims of prison escape and courtroom defiance to justify curtailing Danton's defence.
+The sources trace Saint-Just from the king's trial into leadership and collapse of revolutionary government. His argument against Louis shifted judgment from discrete offences to kingship's incompatibility with a virtuous republic; as a close ally of [[MaximilienRobespierre|Robespierre]], he later helped draft the [[ConstitutionOf1793|Constitution of 1793]] while defending exclusion of opponents from ordinary legal protection. In early 1794 he treated unrest, scarcity, opposition, and corrupt plot allegations as one foreign-directed conspiracy, helped indict the Hébertists and Dantonists, and supported curtailing Danton's defence. In July he returned from military duty, agreed to prepare a report of committee unity, then chose to address the Convention without committee approval. [[JeanLambertTallien|Tallien]] interrupted him almost immediately on 9 Thermidor; after arrest, rescue, and the Hôtel de Ville collapse, Saint-Just was executed with Robespierre.
 
 ## Key Characteristics
 
@@ -28,6 +29,7 @@ The sources trace Saint-Just from the king's trial into leadership of revolution
 - He integrated scarcity, factional opposition, corruption, and foreign influence into a unified conspiracy diagnosis.
 - He helped prosecute both radical and moderate revolutionary opponents in rapid succession.
 - He treated vigorous courtroom resistance as evidence of guilt and supported procedural change to guarantee conviction.
+- His final unauthorized report attempt made him an immediate parliamentary target in the Thermidorian confrontation.
 
 ## Evidence
 
@@ -47,6 +49,10 @@ The sources trace Saint-Just from the king's trial into leadership of revolution
 
 - [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] connects Saint-Just to the foreign-conspiracy case, the destruction of Hébertists and Dantonists, and the emergency decree that removed Danton's defendants from court.
 
+### Committee rupture and Thermidor
+
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] follows Saint-Just's return, failed unity-report agreement, unauthorized Convention speech, interruption, arrest, rescue, calm at the Hôtel de Ville, and execution.
+
 ## Qualifications
 
 - The sources supply decisive political phases rather than a full biography or complete allocation of committee authorship.
@@ -55,11 +61,12 @@ The sources trace Saint-Just from the king's trial into leadership of revolution
 - The “Archangel of Terror” label, personality portrait, later ideological comparisons, and exact division of authorship remain source-scoped.
 - Genuine corruption by Fabre and Chabot did not establish the single foreign network asserted around them.
 - The prison-break allegation and Lucile Desmoulins's purported role are presented as false within the episode.
+- His reasons for withholding the report from committee review and the effect of any meeting with Robespierre remain source-scoped.
 
 ## What Changed
 
-- Extended Saint-Just from constitutional emergency theory into the Hébertist and Dantonist purges.
-- Added his role in converting courtroom resistance into alleged guilt and procedural exclusion.
+- Completed Saint-Just's profile through committee rupture, 9 Thermidor, and execution.
+- Added the unauthorized unity report as a final failed attempt to control the Convention narrative.
 
 ## Relationships
 
@@ -76,3 +83,5 @@ The sources trace Saint-Just from the king's trial into leadership of revolution
 - [[CrisisValidatedConspiracyPolitics]] - framework through which real corruption became evidence of a unified foreign plot.
 - [[RevolutionaryTribunal]] - court whose procedure he helped alter during Danton's trial.
 - [[RevolutionaryPurgeSecurityDilemma]] - backlash risk created by the successive factional eliminations he supported.
+- [[ThermidorianCoup]] - confrontation in which his planned report was interrupted and his alliance with Robespierre destroyed.
+- [[JeanLambertTallien]] - deputy who interrupted his final Convention speech.

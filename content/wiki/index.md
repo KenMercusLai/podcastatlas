@@ -4073,6 +4073,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
+- [712. The Terror: The Fall of Robespierre (Part 6)](sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105.md) — The Rest Is History on the Great Terror, committee rivalry, vague threats, the contingent coup of Thermidor, failed Commune resistance, and post-Robespierre reaction.
 - [Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520.md) — All-In interview on Nvidia's AI-factory strategy, heterogeneous agent workloads, physical AI, open-model coexistence, token economics, autonomy, policy, and work.
 - [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
 - [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
@@ -5392,7 +5393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Letizia Bonaparte](entities/LetiziaBonaparte.md) — Napoleon's mother and a formative influence within the ambitious conquest-era Corsican household.
 - [Corsica](entities/Corsica.md) — Mediterranean island whose factional crisis and Paoli-Bonaparte rupture redirected Napoleon toward revolutionary France.
 - [Josephine de Beauharnais](entities/JosephineDeBeauharnais.md) — Revolutionary survivor and socially connected partner whose marriage to Napoleon preceded his Italian command.
-- [Paul Barras](entities/PaulBarras.md) — Thermidorian and Directory broker who selected Napoleon during Vendémiaire and accelerated his political rise.
+- [Paul Barras](entities/PaulBarras.md) — Thermidorian commander and Directory broker who later selected Napoleon during Vendémiaire and accelerated his political rise.
 - [Pasquale Paoli](entities/PasqualePaoli.md) — Corsican leader whose rupture with the Bonapartes closed Napoleon's viable Corsican political path.
 - [宝儿学姐 / Bao'er (Gynecologist)](entities/BaoerGynecologist.md) — 成都医学院第一附属医院 gynecologist using pattern, severity, and escalation to explain listener questions.
 - [成都医学院第一附属医院 / First Affiliated Hospital of Chengdu Medical College](entities/FirstAffiliatedHospitalChengduMedicalCollege.md) — Hospital affiliation named for the VOL.83 gynecology guest.
@@ -5900,14 +5901,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Declaration of the Rights of Woman and of the Female Citizen](entities/DeclarationOfTheRightsOfWoman.md) — Olympe de Gouges's 1791 challenge to male-only revolutionary rights.
 - [Battle of Valmy](entities/BattleOfValmy.md) — Limited 1792 battlefield success whose political effect made French survival a republican triumph.
 - [Charles François Dumouriez](entities/CharlesFrancoisDumouriez.md) — French general whose Valmy position and Belgian victories connected defence to revolutionary expansion.
-- [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who argued that kingship itself made Louis XVI incompatible with the Republic.
+- [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who joined republican necessity, factional prosecution, committee leadership, and Robespierre's fall.
 - [Georges Couthon](entities/GeorgesCouthon.md) — Committee of Public Safety member who joined democratic constitutional drafting to exceptional government and severe repression.
 - [Law of Suspects](entities/LawOfSuspects.md) — September 1793 law that widened arrest through status, conduct, association, speech, and judgments of patriotism.
 - [Levée en masse](entities/LeveeEnMasse.md) — August 1793 whole-society mobilization for revolutionary war and national survival.
 - [Constitution of 1793](entities/ConstitutionOf1793.md) — Democratic republican settlement approved by voters but suspended during revolutionary emergency government.
 - [Montagnards / The Mountain](entities/Montagnards.md) — Paris-centered radical camp opposed to the Girondins in the National Convention.
 - [Louis XVI](entities/LouisXVI.md) — Bourbon king whose scandal-era reputational damage preceded constitutional collapse, suspension, trial, and execution.
-- [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
+- [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, symbolic sovereign, and institutional victor at Thermidor.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
 - [Alfred the Great](entities/AlfredTheGreat.md) — Christian West Saxon ruler whose education, 878 recovery, fortified reform, and political identity were extended by Edward, Æthelflæd, and Athelstan.
 - [Guthrum](entities/Guthrum.md) — Danish ruler whose Chippenham surprise, defeat, baptism, and negotiated settlement connect Viking warfare to Christian territorial kingship.
@@ -5950,7 +5951,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丰臻 / Feng Zhen](entities/FengZhenFootballCommentator.md) — Football commentator linking serious Asian competition to league continuity, club responsibility, match supply, foreign-player depth, and bounded naturalization.
 - [Ecovacs Robotics / 科沃斯](entities/EcovacsRobotics.md) — Household-robot company extending a reusable sensing, mapping, planning, and control stack across floor, window, lawn, and pool cleaning.
 - [Qian Cheng / 钱程 (Ecovacs)](entities/QianChengEcovacs.md) — Ecovacs brand CEO associated with the 80% technology reuse and 20% scenario migration product model.
-- [Committee of Public Safety](entities/CommitteeOfPublicSafety.md) — Emergency executive body whose shift from Danton to Robespierre tracks the radicalization of 1793.
+- [Committee of Public Safety](entities/CommitteeOfPublicSafety.md) — Emergency executive body whose rise, specialization, factional purges, and internal rupture track the Terror's institutional arc.
 - [Revolutionary Tribunal](entities/RevolutionaryTribunal.md) — Political-crime court whose compressed, non-appealable procedure became part of the Terror's machinery.
 - [War in the Vendée](entities/VendeeWar.md) — 1793 civil-war front triggered by conscription and rooted in religious, fiscal, political, and center-periphery conflict.
 - [士燮 / Shi Xie](entities/ShiXie.md) — 以家族根基、经学声望、地方治理和形式服从维持交趾长期权力的汉末地方政治中介。
@@ -13061,7 +13062,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicolas-Jacques Pelletier](entities/NicolasJacquesPelletier.md) — Armed robber and first person officially executed by guillotine in April 1792.
 - [Girondins / 吉伦特派](entities/Girondins.md) — Moderate republican faction whose conflict with Jacobins and sympathy from Corday shape the episode's factional history.
 - [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Broad constitutional club that survived the Feuillant split and later became associated with radical republicanism, virtue politics, and terror.
-- [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Revolutionary leader whose arc runs from pre-revolutionary death-penalty skepticism to regicide, insurrection, and terror politics.
+- [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Revolutionary leader whose arc runs from democratic reform and abolitionism through regicide, terror politics, Thermidor, and contested blame.
 - [Georges Danton / 丹东](entities/GeorgesDanton.md) — Radical organizer and emergency leader whose rise joined the August insurrection, justice ministry, September crisis, and later public-safety government.
 - [Jacques-Louis David / 雅克-路易·大卫](entities/JacquesLouisDavid.md) — Revolutionary painter whose The Death of Marat becomes the episode's case in martyrdom image-making.
 - [The Death of Marat / 《马拉之死》](entities/DeathOfMaratPainting.md) — David painting read by episode 125 as a political image that sanctifies Marat and omits Corday.
@@ -16679,7 +16680,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Philippe Fabre d'Églantine](entities/PhilippeFabreDEglantine.md) — Corrupt Danton associate whose fabricated foreign-plot claim helped construct the wider conspiracy case.
 - [François Chabot](entities/FrancoisChabot.md) — Corrupt deputy whose East India Company allegation merged real fraud with false political coordination.
-- [Committee of General Security](entities/CommitteeOfGeneralSecurity.md) — Revolutionary policing body that joined the public-safety committee in approving Danton's arrest.
+- [Committee of General Security](entities/CommitteeOfGeneralSecurity.md) — Revolutionary policing body whose shared repression and jurisdictional rivalry helped produce Thermidorian conflict.
 - [Le Vieux Cordelier](entities/LeVieuxCordelier.md) — Desmoulins newspaper that moved from approved anti-Hébertism to a public campaign for clemency.
 - [Indulgents](entities/Indulgents.md) — Dantonist faction associated with peace, moderation, and an end to terror.
 - [Hébertists](entities/Hebertists.md) — Radical faction whose economic, surveillance, and de-Christianization program ended in a failed insurrection and purge.
@@ -16803,10 +16804,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 - [卜式 / Bu Shi (Western Han)](entities/BuShiWesternHan.md) — 商人出身的御史大夫，以劣质强购物资、转输物价和官吏入市逐利批评汉武帝财政体系，后被调离高位仍继续进谏。
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
-- [Joseph Fouché](entities/JosephFouche.md) — Convention deputy whose de-Christianization, Lyon terror, public self-defence, and coalition work made him a dangerous survivor of Robespierre's attack.
+- [Joseph Fouché](entities/JosephFouche.md) — Convention deputy whose de-Christianization, Lyon terror, public self-defence, and coalition work helped overthrow Robespierre.
 - [Jean-Baptiste Carrier](entities/JeanBaptisteCarrier.md) — Representative on mission whose alleged Nantes drownings became a boundary case between revolutionary terror and provincial atrocity.
 - [Cult of the Supreme Being](entities/CultOfSupremeBeing.md) — Robespierre's deist civic religion and attempted moral route from external terror to internalized virtue.
-- [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
+- [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law whose defence removal, broad capital liability, execution surge, and backlash ended in Thermidorian repeal.
 - [Sundar Pichai](entities/SundarPichai.md) — Google chief executive whose India summit appearance anchors the episode's interpretation of a wider Global South AI strategy.
 - [Google.org](entities/GoogleOrg.md) — Google philanthropic arm represented through a reported $30 million AI for Science Impact Challenge.
 - [AI Impact Summit India](entities/AIImpactSummitIndia.md) — India-hosted AI event framed around people, planet, progress, and wider participation in global AI agenda-setting.
@@ -16839,6 +16840,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [LG Electronics](entities/LGElectronics.md) — Consumer-electronics company reported as Apple's manufacturing and service partner for smart-home devices.
 - [Amazon Prime Video](entities/AmazonPrimeVideo.md) — Amazon streaming service reported as the global Emmy ceremony home from 2027.
 - [DFI Retail Group](entities/DFIRetailGroup.md) — Asian retail operator reported to take control of Starbucks franchise operations across seven markets and more than 1,100 stores.
+- [Thermidorian Coup](entities/ThermidorianCoup.md) — Contingent 9 Thermidor overthrow joining survivor coalition, Convention recovery, failed Commune resistance, and reaction against the Terror.
+- [Jean-Lambert Tallien](entities/JeanLambertTallien.md) — Threatened Convention deputy whose organizing and parliamentary intervention helped bring down Robespierre.
+- [François Hanriot](entities/FrancoisHanriot.md) — Paris National Guard commander whose retreat from the Convention surrendered the Commune's strongest Thermidorian opportunity.
 
 ## Concepts
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
@@ -18605,7 +18609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation](concepts/StrategicBaseTransferAllianceConsolidation.md) — 通过向较弱伙伴提供领土、财政和纵深来强化共同防线，同时增加伙伴自主性与未来分配冲突。
 - [学习驱动的角色跃迁 / Learning-Driven Role Expansion](concepts/LearningDrivenRoleExpansion.md) — 与职责相关的持续学习把执行经验扩展为更广的判断能力，并促使同僚修正旧有评价。
 - [Technology Reuse and Scenario Adaptation / 技术复用与场景适配](concepts/TechnologyReuseScenarioAdaptation.md) — Product-development model combining a reusable capability stack with the safety, environment, interaction, and market work unique to each scenario.
-- [Emergency Institutions to Terror](concepts/EmergencyInstitutionsToTerror.md) — Process by which separately justified crisis bodies accumulate into a coercive system of surveillance, direction, and rapid punishment.
+- [Emergency Institutions to Terror](concepts/EmergencyInstitutionsToTerror.md) — Process by which crisis bodies accumulate into coercive systems, generate insider fear, and can fracture into political recoil.
 - [Crisis-Validated Conspiracy Politics](concepts/CrisisValidatedConspiracyPolitics.md) — Mechanism by which one genuine betrayal lends excessive credibility to broader internal-enemy claims.
 - [个人化地方自治继承断裂 / Personalized Local Autonomy Succession](concepts/PersonalizedLocalAutonomySuccession.md) — 中央承认地方中介本人、却不承认其官位与武力可以世袭，由此在中介死亡后重新打开继承和集权冲突。
 - [Personal Agent Understanding Layer / 个人Agent理解层](concepts/PersonalAgentUnderstandingLayer.md) — Processing layer that turns raw personal data into current, relevant, permission-aware memory and action.
@@ -23844,7 +23848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confucian Foreign Policy Moralism / 儒家外交道德主义](concepts/ConfucianForeignPolicyMoralism.md) — Frontier diplomacy failure mode where symbolic hierarchy is mistaken for practical border management.
 - [Ideological Overcontrol / 意识形态过度控制](concepts/IdeologicalOvercontrol.md) — Regime pattern where moral, ritual, fiscal, familial, and frontier domains are forced under one totalizing scheme.
 - [Political Assassination Ethics / 政治刺杀伦理](concepts/PoliticalAssassinationEthics.md) — Episode 125's frame for when unlawful political killing can become morally legible without becoming safe or institutionally reparative.
-- [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking collapsing authority, surveillance, denunciation, war, factional purity, emergency justice, and killing.
+- [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking crisis, surveillance, denunciation, emergency justice, killing, insider backlash, and blame concentration.
 - [Revolutionary Popular Justice](concepts/RevolutionaryPopularJustice.md) — Extra-legal tribunal logic that makes selective political killing appear reasoned, necessary, and judicial.
 - [Revolutionary Atrocity Narrative Contest](concepts/RevolutionaryAtrocityNarrativeContest.md) — Conflict between necessity narratives, sensational propaganda, and evidence-bounded judgment of revolutionary violence.
 - [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.
@@ -26677,7 +26681,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Early Professional Policing](concepts/EarlyProfessionalPolicing.md) — Incomplete transition from volunteer and private enforcement toward trained, paid, equipped, and publicly supervised personnel.
 - [Small-Venue Cultural Incubation](concepts/SmallVenueCulturalIncubation.md) — Process by which modest low-cost rooms concentrate performers, audiences, gatekeepers, and media during an emerging cultural moment.
 
-- [Revolutionary Purge Security Dilemma](concepts/RevolutionaryPurgeSecurityDilemma.md) — Dynamic in which destroying rival factions makes survivors less secure and aligns them against the purging center.
+- [Revolutionary Purge Security Dilemma](concepts/RevolutionaryPurgeSecurityDilemma.md) — Dynamic in which destroying rivals and obscuring future targets aligns survivors for preemptive overthrow.
 
 - [Alexandrian War](concepts/AlexandrianWar.md) — Palace and urban war joining Roman civil conflict to the Ptolemaic succession and Cleopatra's restoration.
 

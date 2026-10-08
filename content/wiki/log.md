@@ -32189,3 +32189,11 @@ Added source `zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 712. The Terror: The Fall of Robespierre (Part 6)
+
+Added source `712-the-terror-the-fall-of-robespierre-part-6-glt1154404105`; created [[ThermidorianCoup]], [[JeanLambertTallien]], and [[FrancoisHanriot]]; and resynthesized [[MaximilienRobespierre]], [[JosephFouche]], [[PaulBarras]], [[LouisAntoineSaintJust]], [[CommitteeOfPublicSafety]], [[CommitteeOfGeneralSecurity]], [[NationalConvention]], [[LawOf22Prairial]], [[RevolutionaryPurgeSecurityDilemma]], [[EmergencyInstitutionsToTerror]], and [[RevolutionaryTerrorPolitics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Thermidor was a contingent coalition of endangered insiders rather than a principled anti-terror consensus; vague accusations enlarged the coalition against Robespierre, while faster Convention decisions, Hanriot's retreat, Robespierre's indecision, and weakened sans-culotte support defeated a briefly credible Commune resistance. No settled contradiction was adopted. Robespierre remains central to the Terror's moral and legal defence without becoming its sole architect, while execution totals, victim-list claims, private motives, crowd strength, injury accounts, exact timing, and the counterfactual result of an immediate attack remain source-scoped. The broad [[FrenchRevolution]] page was kept closed because the focused event, institution, person, and mechanism pages carry the bounded addition without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,028 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

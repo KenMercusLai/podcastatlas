@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2596
+topic_total_pages: 2597
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6726,6 +6726,9 @@ topic_sources:
   - key: "711-the-terror-killing-god-part-5-glt6491220072"
     title: "711. The Terror: Killing God (Part 5)"
     url: "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+  - key: "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105"
+    title: "712. The Terror: The Fall of Robespierre (Part 6)"
+    url: "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
   - key: "72-the-vietnam-war-glt4906340188"
     title: "72. The Vietnam War"
     url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"

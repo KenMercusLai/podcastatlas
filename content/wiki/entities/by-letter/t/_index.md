@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12691
+wiki_total_pages: 12694
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "TheresaMay"
     title: "Theresa May"
     url: "/wiki/entities/theresamay/"
+  - key: "ThermidorianCoup"
+    title: "Thermidorian Coup"
+    url: "/wiki/entities/thermidoriancoup/"
   - key: "Theseus"
     title: "Theseus"
     url: "/wiki/entities/theseus/"

@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 624,
-      "topic_matched_source_note_count": 587,
+      "source_note_count": 625,
+      "topic_matched_source_note_count": 588,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 578
+          "source_note_count": 579
         },
         {
           "key": "culture",
@@ -1001,7 +1001,7 @@
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
-          "episode_count": 11
+          "episode_count": 12
         },
         {
           "key": "ElizabethI",
@@ -1040,7 +1040,7 @@
         }
       ],
       "start_here_episode_files": [
-        "GLT6491220072 [GLT6491220072].md",
+        "GLT1154404105 [GLT1154404105].md",
         "GLT2882541084 [GLT2882541084].md",
         "GLT6013835340 [GLT6013835340].md",
         "GLT9598017819 [GLT9598017819].md"

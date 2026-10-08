@@ -46140,9 +46140,9 @@
       "url": "/wiki/concepts/commitmentbiaspublicpromise/"
     },
     "CommitteeOfGeneralSecurity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5038102951 [GLT5038102951].md",
@@ -46150,15 +46150,22 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/committeeofgeneralsecurity/"
     },
     "CommitteeOfPublicSafety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -46180,9 +46187,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/committeeofpublicsafety/"
     },
     "CommitteeToReelectPresident": {
@@ -69341,9 +69355,9 @@
       "url": "/wiki/concepts/emergencyfrontierdiscretion/"
     },
     "EmergencyInstitutionsToTerror": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -69372,9 +69386,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
     "EmergencyReliefDiscretion": {
@@ -86394,6 +86415,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/francoischabot/"
+    },
+    "FrancoisHanriot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/francoishanriot/"
     },
     "FrancoisHollande": {
       "episode_count": 1,
@@ -123693,6 +123730,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/jeanjosephmounier/"
     },
+    "JeanLambertTallien": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/jeanlamberttallien/"
+    },
     "JeanLucMelenchon": {
       "episode_count": 2,
       "show_count": 1,
@@ -128304,9 +128357,9 @@
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephFouche": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6491220072 [GLT6491220072].md",
@@ -128314,9 +128367,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/josephfouche/"
     },
     "JosephGoebbels": {
@@ -134421,9 +134481,9 @@
       "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
     },
     "LawOf22Prairial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6491220072 [GLT6491220072].md",
@@ -134431,9 +134491,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/lawof22prairial/"
     },
     "LawOfSuspects": {
@@ -145657,9 +145724,9 @@
       "url": "/wiki/entities/louhuwesternhan/"
     },
     "LouisAntoineSaintJust": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -145681,9 +145748,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/louisantoinesaintjust/"
     },
     "LouisCharles": {
@@ -154161,9 +154235,9 @@
       "url": "/wiki/entities/maximian/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -154248,9 +154322,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1940BritishWarCabinetCrisis": {
@@ -165001,9 +165082,9 @@
       "url": "/wiki/entities/nationalcollegiateathleticassociation/"
     },
     "NationalConvention": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -165025,9 +165106,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/nationalconvention/"
     },
     "NationalDirectorEmotionOutlet": {
@@ -177546,9 +177634,9 @@
       "url": "/wiki/entities/paulatkins/"
     },
     "PaulBarras": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2658259929 [GLT2658259929].md",
@@ -177556,9 +177644,16 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
@@ -198243,9 +198338,9 @@
       "url": "/wiki/concepts/revolutionarypopularjustice/"
     },
     "RevolutionaryPurgeSecurityDilemma": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5038102951 [GLT5038102951].md",
@@ -198260,9 +198355,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/revolutionarypurgesecuritydilemma/"
     },
     "RevolutionaryRomanism": {
@@ -198305,9 +198407,9 @@
       "url": "/wiki/concepts/revolutionaryruralpoliticization/"
     },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -198364,9 +198466,16 @@
           "show": "The Rest Is History",
           "title": "711. The Terror: Killing God (Part 5)",
           "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        },
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/revolutionaryterrorpolitics/"
     },
     "RevolutionaryTribunal": {
@@ -229598,6 +229707,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/theresamay/"
+    },
+    "ThermidorianCoup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1154404105 [GLT1154404105].md",
+          "key": "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105",
+          "show": "The Rest Is History",
+          "title": "712. The Terror: The Fall of Robespierre (Part 6)",
+          "url": "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/thermidoriancoup/"
     },
     "ThermoregulationAndGlabrousHeatTransfer": {
       "episode_count": 5,

@@ -11,8 +11,9 @@ sources:
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
   - 48-the-french-revolution-glt2092335857
   - 711-the-terror-killing-god-part-5-glt6491220072
+  - 712-the-terror-the-fall-of-robespierre-part-6-glt1154404105
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Revolutionary Terror Politics / 革命恐怖政治
@@ -23,7 +24,7 @@ Revolutionary terror politics is the interaction of emergency threat, material d
 
 ## Current Synthesis
 
-The combined sources trace terror from fragmented coercion into a system that survived improvement in the emergency used to justify it. After the monarchy's August 1792 collapse, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion; invasion rumor then enabled local killing teams and improvised tribunals. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated and centralized coercive capacity. By 1794, military recovery did not end terror because leaders treated it as an instrument of republican virtue. The [[CultOfSupremeBeing|Cult of the Supreme Being]] attempted to replace permanent enforcement with internalized moral surveillance, but the [[LawOf22Prairial|Law of 22 Prairial]] simultaneously stripped defence, widened capital liability, and made death mandatory after conviction. The result was a system whose proclaimed moral exit intensified its legal violence and whose apparent supremacy aligned endangered survivors.
+The combined sources trace terror from fragmented coercion into a system that survived improvement in the emergency used to justify it, then generated its own political recoil. After the monarchy's August 1792 collapse, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion; invasion rumor enabled local killing teams and improvised tribunals. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated and centralized coercive capacity. By 1794, military recovery did not end terror because leaders treated it as an instrument of republican virtue. The [[CultOfSupremeBeing|Cult of the Supreme Being]] promised internalized moral surveillance while the [[LawOf22Prairial|Law of 22 Prairial]] intensified legal violence. At Thermidor, vague threats, committee rivalry, wage grievance, and fear aligned former practitioners against Robespierre; their victory then let distributed responsibility be rewritten as one man's regime while opening a wider dismantling they had not all intended.
 
 ## Key Claims
 
@@ -33,7 +34,7 @@ The combined sources trace terror from fragmented coercion into a system that su
 - Extra-legal violence can acquire legitimacy through improvised procedure, selective acquittal, and claims of popular justice.
 - Elite rhetoric, public approval, local organization, and official non-intervention can produce terror without one central command.
 - Material hardship and military crisis make sabotage explanations persuasive when revolution fails to improve security or daily life.
-- Separate emergency institutions can accumulate into explicit state terror, then persist after battlefield recovery by adopting moral transformation as their endpoint.
+- Separate emergency institutions can accumulate into state terror, persist after battlefield recovery, and fracture when uncertain liability turns insiders into a defensive coalition.
 
 ## Evidence
 
@@ -76,6 +77,11 @@ The combined sources trace terror from fragmented coercion into a system that su
 - [[711-the-terror-killing-god-part-5-glt6491220072]] contrasts Robespierre's hoped-for divine internalization of virtue with the atrocities attributed to Carrier and Fouché and his demand that terror remain morally regulated.
 - [[711-the-terror-killing-god-part-5-glt6491220072]] links the Law of 22 Prairial's compressed defence and broad offences to accelerating execution and the coalition forming against Robespierre.
 
+### Thermidorian recoil and blame concentration
+
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] joins Great Terror acceleration, committee rivalry, economic grievance, vague denunciation, and failed Commune resistance in Robespierre's contingent fall.
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] shows former terrorists concentrating responsibility on Robespierre while repealing Prairial, reducing committee power, and turning the machinery against some of its operators.
+
 ## Counterevidence & Qualifications
 
 - French security threats were not wholly manufactured: invasion, rebellion, military betrayal, scarcity, and political violence were real.
@@ -91,12 +97,14 @@ The combined sources trace terror from fragmented coercion into a system that su
 - The panoramic source's Vendée classification, Schama-derived violence-first framing, claims about individual sincerity, and compressed account of Robespierre's fall remain interpretive or source-scoped.
 - Condemnation of Carrier and Fouché qualifies a model of undifferentiated terror but does not establish a reliable legal boundary between legitimate coercion and atrocity.
 - Prairial authorship, provincial death totals, private motives, and the relative causal weight of civic religion and legal escalation remain source-scoped.
+- Thermidor was not a unified principled repudiation of terror, and dismantling its institutions did not prevent inflation, reaction, or new political violence.
+- Great Terror totals, wage-policy effects, memory-language origins, and the relative causal weight of popular abstention and elite coalition remain source-scoped.
 
 ## What Changed
 
-- Added the Supreme Being as an attempted moral exit from terror through internalized surveillance.
-- Added the unstable distinction between regulated state terror and provincial atrocity.
-- Extended the institutional sequence through the Law of 22 Prairial and the active coalition formed by endangered survivors.
+- Extended the synthesis through Thermidorian recoil, failed insurrection, institutional rollback, and prosecution of former operators.
+- Added blame concentration as a post-terror memory strategy that obscured distributed responsibility.
+- Added economic alienation and popular non-mobilization to the elite purge-security mechanism.
 
 ## Related Concepts
 
@@ -115,3 +123,4 @@ The combined sources trace terror from fragmented coercion into a system that su
 - [[RevolutionaryPoliticalReligion]] - sacred strategy for grounding virtue and reducing reliance on external enforcement.
 - [[CultOfSupremeBeing]] - deist civic program whose festival exposed the politics of that strategy.
 - [[LawOf22Prairial]] - procedural escalation associated with the Great Terror and coalition backlash.
+- [[ThermidorianCoup]] - contingent overthrow that redirected and partially dismantled the terror system.

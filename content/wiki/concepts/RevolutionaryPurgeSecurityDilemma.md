@@ -5,8 +5,9 @@ tags: [revolution, factions, purges, political-survival]
 sources:
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
   - 711-the-terror-killing-god-part-5-glt6491220072
+  - 712-the-terror-the-fall-of-robespierre-part-6-glt1154404105
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Revolutionary Purge Security Dilemma
@@ -17,7 +18,7 @@ A revolutionary purge security dilemma arises when eliminating successive factio
 
 ## Current Synthesis
 
-The sources show the mechanism moving from latent fear to active coalition. Destroying the radical [[Hebertists]] and moderate [[Indulgents]] erased any stable boundary of acceptable disagreement. [[JosephFouche|Joseph Fouché]] then demonstrated that a threatened insider could survive by contesting isolation publicly and organizing horizontally. The [[LawOf22Prairial|Law of 22 Prairial]] widened capital offences while stripping defence protections, and [[MaximilienRobespierre|Robespierre]]'s unnamed warnings prevented deputies from knowing who was marked. Immediate supremacy therefore produced a coalition of anticipatory self-preservation before any single faction had to trust the others.
+The sources show the mechanism moving from latent fear through coalition to successful preemption. Destroying the radical [[Hebertists]] and moderate [[Indulgents]] erased any stable boundary of acceptable disagreement. [[JosephFouche|Joseph Fouché]] then demonstrated that a threatened insider could survive by contesting isolation publicly, circulating warnings, and organizing horizontally. The [[LawOf22Prairial|Law of 22 Prairial]] widened capital offences while stripping defence protections, and [[MaximilienRobespierre|Robespierre]]'s unnamed final accusations prevented deputies from knowing who was marked. On 9 Thermidor, procedural resistance inside the [[NationalConvention|Convention]] and the opposing coalition's faster conversion of fear into command defeated a stronger-looking center whose allies hesitated.
 
 ## Key Claims
 
@@ -26,8 +27,8 @@ The sources show the mechanism moving from latent fear to active coalition. Dest
 - Politically assembled conspiracies allow past association to become retrospective evidence against almost anyone.
 - Procedural manipulation signals that formal institutions cannot reliably protect insiders.
 - Shared fear can align actors who otherwise disagree about policy or ideology.
-- A ruler or committee may become most vulnerable immediately after appearing unchallengeable.
-- Vague threats can unite potential targets more effectively than named accusations because uncertainty enlarges the defensive coalition.
+- A ruler or committee may become most vulnerable immediately after appearing unchallengeable, especially when allies hesitate at the point of open conflict.
+- Vague threats can unite potential targets more effectively than named accusations because uncertainty enlarges the defensive coalition and makes preemption urgent.
 
 ## Evidence
 
@@ -48,18 +49,25 @@ The sources show the mechanism moving from latent fear to active coalition. Dest
 - [[711-the-terror-killing-god-part-5-glt6491220072]] follows Fouché from recall and Jacobin expulsion into discreet organizing among deputies who feared for their lives.
 - [[711-the-terror-killing-god-part-5-glt6491220072]] connects broad capital offences, reduced defence, accelerating executions, and unnamed denunciations to a shared motive for preemption.
 
+### Vague denunciation and successful preemption
+
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] shows Robespierre's final speech alarming unnamed potential targets and Tallien, Fouché, Barras, committee rivals, and other deputies converging without a common positive program.
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] contrasts the Convention's rapid arrest, outlawry, and command decisions with hesitation by Hanriot and Robespierre after the Commune's rescue.
+
 ## Counterevidence & Qualifications
 
-- The sources now identify the coalition's formation but do not by themselves provide a complete account of Robespierre's fall.
+- The sources now carry the mechanism through Robespierre's fall but do not establish a general law that every broad purge threat produces successful coalition.
 - Fear was not the only source of disagreement inside the Convention or committees; ideology, policy, administration, rivalry, and personal grievance also mattered.
 - The mechanism does not imply that all purges automatically unite survivors or that the purging center lacks real support.
 - Reported private fears and Danton's prediction of Robespierre's fall remain source-scoped.
 - Fouché's role, private conversations, and the relative causal weight of the Prairial law remain source-scoped.
+- Counterfactual claims about an immediate Commune attack and the precise balance among fear, ideology, grievance, and institutional rivalry remain source-scoped.
 
 ## What Changed
 
-- Extended the mechanism from fear after the double purge into active coalition-building around Fouché.
-- Added vague threats and broad capital liability as devices that enlarge a preemptive alliance.
+- Completed the mechanism from double purge through ambiguous threat, defensive coalition, and successful preemption at Thermidor.
+- Added decision speed and command hesitation as conditions that convert shared fear into political victory.
+- Preserved the coalition's lack of a common anti-terror program and the distributed responsibility of its members.
 
 ## Related Concepts
 
@@ -70,3 +78,4 @@ The sources show the mechanism moving from latent fear to active coalition. Dest
 - [[PostVictoryOppressionRisk]] - broader danger that victory over rivals expands rather than ends coercion.
 - [[JosephFouche]] - endangered insider who converted vulnerability into organizing leverage.
 - [[LawOf22Prairial]] - legal escalation that made ideological standing an unreliable guarantee of safety.
+- [[ThermidorianCoup]] - historical case in which the security dilemma culminated in overthrow.

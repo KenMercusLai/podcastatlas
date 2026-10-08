@@ -7,8 +7,9 @@ sources:
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
   - 711-the-terror-killing-god-part-5-glt6491220072
+  - 712-the-terror-the-fall-of-robespierre-part-6-glt1154404105
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Emergency Institutions to Terror
@@ -19,7 +20,7 @@ Emergency institutions to terror is the process by which separately justified cr
 
 ## Current Synthesis
 
-The 1793–94 French case shows movement from accumulation to consolidation, persistence, and extreme procedural compression. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for distinct purposes. Tribunal expansion, committee influence, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] then turned those parts into explicit state terror. Military recovery did not end the machinery because peace acquired a moral definition. After constructed factional trials, the [[LawOf22Prairial|Law of 22 Prairial]] removed counsel and ordinary testimony, broadened capital offences, and reduced a guilty verdict to mandatory death, making legal form an accelerator of both execution and elite fear.
+The 1793–94 French case shows movement from accumulation to consolidation, persistence, extreme procedural compression, and political recoil. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for distinct purposes. Tribunal expansion, committee influence, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] then turned those parts into explicit state terror. Military recovery did not end the machinery because peace acquired a moral definition. The [[LawOf22Prairial|Law of 22 Prairial]] accelerated execution and insider fear, while police overlap and committee rivalry fragmented the governing center. After the [[ThermidorianCoup|Thermidorian coup]], repeal and reduced committee powers show that institutional accumulation can be rapidly dismantled once the coalition sustaining it breaks.
 
 ## Key Claims
 
@@ -29,7 +30,7 @@ The 1793–94 French case shows movement from accumulation to consolidation, per
 - Institutions created under genuine danger can outlast battlefield recovery when rulers redefine the emergency in moral or political terms.
 - Suspending constitutional rule until victory creates an emergency end point that rulers themselves interpret.
 - Legal form can persist while staffing, suspect categories, defendant grouping, and defence rights are altered toward conviction.
-- When offences become vague and death mandatory after conviction, emergency law can make insiders unable to infer a safe boundary of conduct.
+- When offences become vague and death mandatory after conviction, emergency law can make insiders unable to infer safety and can turn the coercive apparatus against its own governing coalition.
 
 ## Evidence
 
@@ -63,6 +64,11 @@ The 1793–94 French case shows movement from accumulation to consolidation, per
 - [[711-the-terror-killing-god-part-5-glt6491220072]] records abolition of defence counsel, removal of ordinary testimony, conviction by inner judgment, broad enemy categories, and death as the only guilty sentence.
 - [[711-the-terror-killing-god-part-5-glt6491220072]] links accelerating executions and vague denunciation to shared fear among deputies who could no longer identify the intended targets.
 
+### Institutional rivalry, recoil, and dismantling
+
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] links competing police authority, governing-committee hostility, administrative exhaustion, vague accusation, and Convention preemption to collapse at Thermidor.
+- [[712-the-terror-the-fall-of-robespierre-part-6-glt1154404105]] follows repeal of Prairial and contraction of committee power after the coercive coalition broke.
+
 ## Counterevidence & Qualifications
 
 - Institutional origin does not establish a single intention shared by every founder or participant.
@@ -73,12 +79,13 @@ The 1793–94 French case shows movement from accumulation to consolidation, per
 - Military, economic, and administrative recovery had multiple causes; the source does not isolate terror as the decisive input.
 - Committee overlap did not erase disagreement, specialization, or refusals to endorse particular arrests.
 - The episode's account does not establish identical enforcement of every Prairial offence or isolate the law from other causes of the Great Terror and Thermidorian coalition.
+- Rapid post-coup rollback does not establish that all emergency institutions disappeared or that ordinary legality was immediately restored.
 
 ## What Changed
 
-- Extended the sequence from persistence after recovery into the Law of 22 Prairial's extreme procedural compression.
-- Added vague capital liability and mandatory death as mechanisms converting legal escalation into insider fear.
-- Preserved disagreement over provincial atrocities and the distinction between formal sponsorship and sole authorship.
+- Extended the sequence through inter-institutional fracture, Thermidorian recoil, repeal, and reduced committee power.
+- Added the possibility that a coercive apparatus destabilizes its own governing coalition when liability becomes unreadable.
+- Preserved the distinction between institutional dismantling and immediate restoration of ordinary legality.
 
 ## Related Concepts
 
@@ -92,3 +99,4 @@ The 1793–94 French case shows movement from accumulation to consolidation, per
 - [[RevolutionaryPurgeSecurityDilemma]] - insider fear created when the machinery turns against successive revolutionary factions.
 - [[LawOf22Prairial]] - culminating measure that removed defence safeguards and broadened capital judgment.
 - [[CultOfSupremeBeing]] - attempted moral alternative to indefinite institutional enforcement.
+- [[ThermidorianCoup]] - political rupture that converted institutional rivalry and insider fear into rollback.
