@@ -33108,3 +33108,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）
+
+Added source `zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso`; and resynthesized [[ZhaoTuo|赵佗]], [[LuJia|陆贾]], [[LiuXiangQiKingWesternHan|齐王刘襄]], [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]], and [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Zhao Tuo answers Liu Heng's reconciliation by attributing the rupture to Empress Lü-era restrictions and alleged injuries, removing his outward imperial title, resuming submission and tribute, and invoking Liu Bang's earlier settlement, while a territory-and-troop display preserves Nanyue's local power and bargaining dignity. No settled contradiction was adopted. Detained envoys, harmed kin and graves, Changsha instigation, internal-only imperial usage, military scale, omitted-passage wording, tribute terms, and motives remain source-scoped; later internal imperial symbolism is treated as compatible with outward title retreat rather than silently erased. Broad [[LiuHeng|汉文帝刘恒]], [[Nanyue|南越]], [[LuZhi|吕雉]], and show pages were kept closed because the bounded additions are represented in the focused source, people, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,144 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
   - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16
   - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
+  - zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso
 last_updated: 2026-10-08
 ---
 
@@ -27,9 +28,11 @@ Hanji 351 shows an attempted move beyond that dual order. Zhao Xing and Queen Do
 
 Hanji 269-1 adds a Ye Lang variant in which even the initial agreement is openly conditional. Tang Meng's gifts and offer of official appointment obtain acceptance from Duo Tong and the chiefs, yet the source says they comply partly because they expect distance and terrain to prevent full Han possession. Formal acceptance can therefore function as a local risk-management choice while effective authority remains uncertain.
 
+Hanji 210 part 1 supplies the earlier negotiated foundation for Nanyue's dual order. Zhao Tuo removes his outward imperial title and ceremony, resumes submission and tribute, and accepts restored royal recognition. At the same time he invokes Liu Bang's promise, advertises Nanyue's territory and troops, and frames the settlement as the recovery of an agreed autonomous relationship rather than surrender of local rule. Later retention of imperial-style privilege can therefore be read against an explicit diplomatic distinction between external rank and internal capacity.
+
 ## Key Claims
 
-- External rank and internal governing practice can diverge.
+- External rank and internal governing practice can diverge, allowing outward title retreat and tribute alongside retained local military and territorial capacity.
 - Symbolic concessions may reduce confrontation without ending local autonomy.
 - Court attendance is an institutional control point, not merely ceremonial etiquette.
 - Central recognition of succession can open a later institutional-integration channel while leaving enforcement uncertain.
@@ -45,15 +48,16 @@ Hanji 269-1 adds a Ye Lang variant in which even the initial agreement is openly
 - Delegated deference and personal refusal: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Zhao Hu offers Zhao Yingqi for court service but abandons his own visit after ministers warn that he may not return.
 - Attempted convergence: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] shows the next royal party requesting the very attendance, border, seal, and legal controls that Zhao Yingqi had avoided.
 - Conditional frontier agreement: [[zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16|Hanji 269-1]] says Duo Tong and Ye Lang chiefs accept Tang Meng's arrangement while expecting distance and difficult access to preserve effective autonomy.
+- Negotiated Nanyue foundation: [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso|Hanji 210 part 1]] joins outward title removal, submission, and tribute to Zhao Tuo's assertion of strength and appeal to Liu Bang's earlier recognition settlement.
 
 ## Counterevidence & Qualifications
 
-This is a source-bounded analytical pattern, not proof that Nanyue or Ye Lang and Han were equal sovereign states or that every symbolic act was insincere. The sources' reading of seals, motives, inside agents, gifts, chiefs' private expectations, and attendance risk needs primary textual and material comparison. Hanji 256 does not settle the exact status of Zhao Yingqi's court service or whether Zhao Hu's proposed trip was sincere before the warning. Hanji 351 records approval of an integration package, not proof that every measure was fully or durably implemented before the coup. Hanji 269-1 records a bargain but not its duration, exact institutional form, or later enforcement. Formal hierarchy can shape succession and diplomacy even when day-to-day control remains local, while terrain and locally embedded power can block the conversion of approval into enforcement.
+This is a source-bounded analytical pattern, not proof that Nanyue or Ye Lang and Han were equal sovereign states or that every symbolic act was insincere. The sources' reading of seals, motives, inside agents, gifts, chiefs' private expectations, and attendance risk needs primary textual and material comparison. Hanji 210 part 1 records a diplomatic reply, so its causal defense, strength claims, exact tribute obligations, and separation of outward title from internal privilege require primary-text comparison. Hanji 256 does not settle the exact status of Zhao Yingqi's court service or whether Zhao Hu's proposed trip was sincere before the warning. Hanji 351 records approval of an integration package, not proof that every measure was fully or durably implemented before the coup. Hanji 269-1 records a bargain but not its duration, exact institutional form, or later enforcement. Formal hierarchy can shape succession and diplomacy even when day-to-day control remains local, while terrain and locally embedded power can block the conversion of approval into enforcement.
 
 ## What Changed
 
-- Added Zhao Hu's delegated court deference and refusal of personal attendance as a Nanyue autonomy boundary.
-- Distinguished gratitude and selective security reliance from acceptance of direct imperial custody.
+- Added Zhao Tuo's reply as the negotiated foundation for outward submission with retained local capacity.
+- Distinguished removal of a coequal public title from surrender of territorial and military autonomy.
 
 ## Related Concepts
 

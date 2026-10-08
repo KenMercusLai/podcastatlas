@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1
   - zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto
   - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc
+  - zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso
 last_updated: 2026-10-09
 ---
 
@@ -27,7 +28,9 @@ Hanji 176 and 185 add Lu Jia's civil-order role. Through [[Xinyu|《新语》]],
 
 Hanji 184 and 185 give the first [[Nanyue|南越]] mission. Liu Bang sends Lu Jia with seal and tally after recognizing Zhao Tuo as king. Lu Jia combines Zhao's Central Plains origin, kin and graves, Han's victory, family risk, possible military action, and a dignity-preserving title to make submission cheaper than war.
 
-Hanji 209 makes Lu Jia a repeat envoy under [[LiuHeng|汉文帝刘恒]]. Before dispatch, Liu Heng repairs Zhao Tuo's ancestral graves, honors relatives, and reportedly withdraws a border force. Lu Jia then carries a letter that offers southern autonomy and restored exchange, emphasizes war's human and material cost, and refuses a two-emperor order. The source ends before Zhao Tuo's answer, so it establishes Lu Jia's role in delivering the renewed settlement design rather than its completed outcome.
+Hanji 209 makes Lu Jia a repeat envoy under [[LiuHeng|汉文帝刘恒]]. Before dispatch, Liu Heng repairs Zhao Tuo's ancestral graves, honors relatives, and reportedly withdraws a border force. Lu Jia then carries a letter that offers southern autonomy and restored exchange, emphasizes war's human and material cost, and refuses a two-emperor order.
+
+Hanji 210 part 1 completes the diplomatic sequence with Zhao Tuo's answer. Zhao Tuo removes his outward imperial title and ceremony, promises submission and tribute, and appeals to Liu Bang's older recognition agreement while retaining a strength display. The source does not isolate Lu Jia's personal words during this second audience, so the outcome confirms the mission's success without assigning every element of the response to his independent persuasion.
 
 ## Key Characteristics
 
@@ -44,16 +47,16 @@ Hanji 209 makes Lu Jia a repeat envoy under [[LiuHeng|汉文帝刘恒]]. Before 
 - Civil-order teaching: [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] and [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] use 《新语》 and the horseback exchange to connect battlefield victory to governance.
 - First Nanyue mission: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] supplies recognition and dispatch; [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] supplies the identity, deterrence, title, and submission sequence.
 - Second Nanyue mission: [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc|Hanji 209]] says Lu Jia carries Liu Heng's letter after grave repair, kin honors, and a reported troop withdrawal have prepared the negotiation.
+- Second-mission result: [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso|Hanji 210 part 1]] gives Zhao Tuo's acceptance of outward title retreat, renewed submission, tribute, and the earlier Liu Bang settlement as precedent.
 
 ## Qualifications
 
-These podcast notes do not constitute a complete biography or primary-text dossier. The Yaoguan persuasion creates an attack opening rather than a durable negotiated surrender; the Xiang Yu mission fails; and the success of the Liu Bang-era Nanyue mission depends on title recognition and credible coercion as well as speech. Hanji 209 stops before Zhao Tuo responds, and its hostage interpretation of relatives and graves is the host's inference. Exact speech, chronology, envoy authority, and the division between Liu Heng's policy design and Lu Jia's own contribution require textual comparison.
+These podcast notes do not constitute a complete biography or primary-text dossier. The Yaoguan persuasion creates an attack opening rather than a durable negotiated surrender; the Xiang Yu mission fails; and the success of the Liu Bang-era Nanyue mission depends on title recognition and credible coercion as well as speech. The second mission's hostage interpretation of relatives and graves is the host's inference. Hanji 210 part 1 confirms Zhao Tuo's response but does not isolate Lu Jia's own oral contribution, so exact speech, chronology, envoy authority, and the division between Liu Heng's policy design and Lu Jia's execution require textual comparison.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1 while preserving its complete prior evidence inventory.
-- Extended Lu Jia from a one-time Nanyue persuader to a repeat envoy across the Liu Bang and Liu Heng settlements.
-- Distinguished the design and delivery of Liu Heng's letter from a response or outcome not present in this episode.
+- Completed the second Nanyue mission with Zhao Tuo's title retreat, renewed submission, and tribute promise.
+- Preserved the distinction between Liu Heng's policy design, Lu Jia's delivery role, and unrecorded oral persuasion.
 
 ## Relationships
 
