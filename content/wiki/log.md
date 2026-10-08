@@ -32970,3 +32970,11 @@ Added source `zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachan
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）
+
+Added source `zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8`; created [[ZhangShizhiWesternHan|张释之]], [[EloquenceBiasInOfficialSelection|口才替代能力式识人偏差]], and [[StatusNeutralPalaceGateEnforcement|宫门礼制的身份中立执行]]; and resynthesized [[MausoleumFrugalityRemonstrance|陵墓节俭式进谏]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Zhang distinguishes fluent delivery from broader official fitness, applies Sima Gate protocol before formal pardon even to the crown prince and Liang king, and reframes tomb security as reduction of coveted grave goods rather than endlessly stronger sealing; Liu Heng's repeated acceptance makes ruler receptivity part of the institutional mechanism. No settled contradiction was adopted. Entry routes, offices, chronology, dialogue, gate procedure, Baling construction, and the hidden Shanglin interest-group reading remain episode-attributed, transcription-sensitive, or speculative. Broad [[LiuHeng|汉文帝刘恒]], [[YuanAngWesternHan|袁盎]], [[HanJingdi|汉景帝]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[ZhouBo|周勃]], and [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] pages were kept closed because the bounded additions are represented in the focused source, figure, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,127 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -31886,6 +31886,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EloquenceBiasInOfficialSelection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Elys": [
     {
       "key": "technology",
@@ -79943,6 +79950,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "StatusNeutralPalaceGateEnforcement": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StatusOrderBacklash": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10006
+wiki_total_pages: 10008
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1358,6 +1358,9 @@ wiki_pages:
   - key: "EffortNarrativeInterrogation"
     title: "努力叙事追问 / Effort Narrative Interrogation"
     url: "/wiki/concepts/effortnarrativeinterrogation/"
+  - key: "EloquenceBiasInOfficialSelection"
+    title: "口才替代能力式识人偏差 / Eloquence Bias in Official Selection"
+    url: "/wiki/concepts/eloquencebiasinofficialselection/"
   - key: "EliteEndorsementReputationMaking"
     title: "名士背书式造势 / Elite-Endorsement Reputation Making"
     url: "/wiki/concepts/eliteendorsementreputationmaking/"

@@ -70407,6 +70407,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/eloncomputeplatform/"
     },
+    "EloquenceBiasInOfficialSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1） [lqlBuL2DRKsmqgmlIgaeLaWFsVq8].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/eloquencebiasinofficialselection/"
+    },
     "EmancipationProclamation": {
       "episode_count": 2,
       "show_count": 1,
@@ -158638,9 +158654,9 @@
       "url": "/wiki/concepts/mausoleumcountyeliterelocation/"
     },
     "MausoleumFrugalityRemonstrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
@@ -158648,9 +158664,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1） [lqlBuL2DRKsmqgmlIgaeLaWFsVq8].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/mausoleumfrugalityremonstrance/"
     },
     "MavisDuanReporter": {
@@ -225315,6 +225338,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/statusfilteredtalentmisrecognition/"
     },
+    "StatusNeutralPalaceGateEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1） [lqlBuL2DRKsmqgmlIgaeLaWFsVq8].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/statusneutralpalacegateenforcement/"
+    },
     "StefanZweig": {
       "episode_count": 2,
       "show_count": 2,
@@ -267469,6 +267508,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/zhangshipinglatehan/"
+    },
+    "ZhangShizhiWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1） [lqlBuL2DRKsmqgmlIgaeLaWFsVq8].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhangshizhiwesternhan/"
     },
     "ZhangShuoLateHan": {
       "episode_count": 1,

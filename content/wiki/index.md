@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8.md) — 张释之从久滞骑郎经袁盎举荐进入文帝身边，以啬夫任官、司马门拦太子梁王和霸陵谈棺三事，分别校正口才识人、宗室越礼与厚葬防盗的判断。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip.md) — 标题虽指向审食其，正文实际讲匈奴右贤王入寇、刘兴居因诛吕后分配失衡而叛乱，以及文帝以军事部署和限期赦免瓦解济北叛军。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3.md) — 周勃退居封国后因武装戒备被控谋反、下狱受辱并获释；薄太后反驳其谋反逻辑，贾谊为旧日政敌求情，而季布受命暗杀说仅属节目推演。
 - [094 回归文学！《红楼梦》不是悼明之作](sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv.md) — 纸醉金迷FM以可证伪性、整体语境和反向套用检验悼明读法，并分析秘密知识、民族情绪与短视频碎片化如何推动单一答案传播。
@@ -4197,6 +4198,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [张释之 / Zhang Shizhi (Western Han)](entities/ZhangShizhiWesternHan.md) — 经袁盎举荐获得近臣通道，以不凭口才取人、宫门规则不避储君诸侯和薄葬防盗进谏形成制度型直臣画像。
 - [刘兴居 / Liu Xingju (Western Han)](entities/LiuXingjuWesternHan.md) — 诛吕后分配失衡背景下起兵、因限期赦免与军事进逼而败亡的济北王。
 - [齐王刘襄 / Liu Xiang (King of Qi)](entities/LiuXiangQiKingWesternHan.md) — 吕后死后在齐地率先起兵并被刘章期待继位，其功劳与落选构成齐王支系后续不满的背景。
 - [城阳王刘章 / Liu Zhang (King of Chengyang)](entities/LiuZhangChengyangKingWesternHan.md) — 在京诛吕产、支持刘襄继位并在后续分封中受封城阳的西汉宗室。
@@ -17077,6 +17079,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [口才替代能力式识人偏差 / Eloquence Bias in Official Selection](concepts/EloquenceBiasInOfficialSelection.md) — 把一次流利作答误当成更广泛任职能力的识人偏差；张释之以迟钝长者和秦亡信息失真反对单一口才信号。
+- [宫门礼制的身份中立执行 / Status-Neutral Palace Gate Enforcement](concepts/StatusNeutralPalaceGateEnforcement.md) — 先对储君与诸侯执行宫门规则并形成正式指控，再由授权赦免另行解除，使高位身份不自动抹去程序。
 - [限期赦免式叛军分化 / Deadline Amnesty for Rebellion Fragmentation](concepts/DeadlineAmnestyRebellionFragmentation.md) — 以大军到达前投降即免罪的期限安排，改变追随者收益并孤立叛乱首领。
 - [纵容式政治清除 / Indulgence as Political Elimination](concepts/IndulgenceAsPoliticalElimination.md) — 将选择性宽纵、对手越界与后续合法化清除连接为意图假说，同时区分可预见风险、政治受益与直接设计证据。
 - [生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy](concepts/LifestyleDependencyStrategicAutonomy.md) — 外来物资若替代本地可持续习惯并形成供应依赖，可能以较低成本转化为政治影响与能力削弱。

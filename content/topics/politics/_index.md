@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3223
+topic_total_pages: 3225
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4627,6 +4627,9 @@ topic_concepts:
   - key: "PostRebellionAccountability"
     title: "叛乱平定后的追责 / Post-Rebellion Accountability"
     url: "/wiki/concepts/postrebellionaccountability/"
+  - key: "EloquenceBiasInOfficialSelection"
+    title: "口才替代能力式识人偏差 / Eloquence Bias in Official Selection"
+    url: "/wiki/concepts/eloquencebiasinofficialselection/"
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"
@@ -4729,6 +4732,9 @@ topic_concepts:
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
+  - key: "StatusNeutralPalaceGateEnforcement"
+    title: "宫门礼制的身份中立执行 / Status-Neutral Palace Gate Enforcement"
+    url: "/wiki/concepts/statusneutralpalacegateenforcement/"
   - key: "SituationalStrictLenientGovernance"
     title: "宽严相济的因时治理 / Situational Strict-Lenient Governance"
     url: "/wiki/concepts/situationalstrictlenientgovernance/"
