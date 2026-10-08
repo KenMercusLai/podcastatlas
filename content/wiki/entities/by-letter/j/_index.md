@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12765
+wiki_total_pages: 12771
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "JanHus"
     title: "Jan Hus"
     url: "/wiki/entities/janhus/"
+  - key: "JanKubis"
+    title: "Jan Kubiš / 扬·库比什"
+    url: "/wiki/entities/jankubis/"
   - key: "JanVanEyck"
     title: "Jan van Eyck"
     url: "/wiki/entities/janvaneyck/"
@@ -1256,6 +1259,9 @@ wiki_pages:
   - key: "JoyFM"
     title: "Joy FM"
     url: "/wiki/entities/joyfm/"
+  - key: "JozefGabcik"
+    title: "Jozef Gabčík / 约瑟夫·盖伯齐克"
+    url: "/wiki/entities/jozefgabcik/"
   - key: "JoaoIIOfPortugal"
     title: "João II of Portugal"
     url: "/wiki/entities/joaoiiofportugal/"

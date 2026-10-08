@@ -2131,6 +2131,10 @@
     "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
     "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
   },
+  "32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz": {
+    "title": "32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓",
+    "url": "/wiki/sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz/"
+  },
   "32-what-if-glt7767131043": {
     "title": "32. What if?",
     "url": "/wiki/sources/32-what-if-glt7767131043/"
@@ -10195,6 +10199,10 @@
     "title": "Assassination Access Credential / 刺杀接近凭证",
     "url": "/wiki/concepts/assassinationaccesscredential/"
   },
+  "AssassinationReprisalTradeoff": {
+    "title": "Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗",
+    "url": "/wiki/concepts/assassinationreprisaltradeoff/"
+  },
   "AssemblageArtMemoryWork": {
     "title": "Assemblage Art Memory Work",
     "url": "/wiki/concepts/assemblageartmemorywork/"
@@ -17178,6 +17186,10 @@
   "ChenLinLateHan": {
     "title": "陈琳 / Chen Lin (Late Han)",
     "url": "/wiki/entities/chenlinlatehan/"
+  },
+  "ChenLu": {
+    "title": "Chen Lu / 陈箓",
+    "url": "/wiki/entities/chenlu/"
   },
   "ChenMian": {
     "title": "Chen Mian / 陈冕",
@@ -43931,6 +43943,10 @@
     "title": "Jan Hus",
     "url": "/wiki/entities/janhus/"
   },
+  "JanKubis": {
+    "title": "Jan Kubiš / 扬·库比什",
+    "url": "/wiki/entities/jankubis/"
+  },
   "JanVanEyck": {
     "title": "Jan van Eyck",
     "url": "/wiki/entities/janvaneyck/"
@@ -46126,6 +46142,10 @@
   "JoyoAmazonChina": {
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
+  },
+  "JozefGabcik": {
+    "title": "Jozef Gabčík / 约瑟夫·盖伯齐克",
+    "url": "/wiki/entities/jozefgabcik/"
   },
   "JuShou": {
     "title": "沮授 / Ju Shou",
@@ -50686,6 +50706,10 @@
   "LiuGangEasternHan": {
     "title": "刘刚 / Liu Gang (Eastern Han)",
     "url": "/wiki/entities/liugangeasternhan/"
+  },
+  "LiuGeqing": {
+    "title": "Liu Geqing / 刘戈青",
+    "url": "/wiki/entities/liugeqing/"
   },
   "LiuGongEasternHan": {
     "title": "刘公 / Liu Gong (Eastern Han)",
@@ -61398,6 +61422,10 @@
   "OperatingRoomPhysiologyManagement": {
     "title": "Operating Room Physiology Management / 手术室生理管理",
     "url": "/wiki/concepts/operatingroomphysiologymanagement/"
+  },
+  "OperationAnthropoid": {
+    "title": "Operation Anthropoid / 类人猿行动",
+    "url": "/wiki/entities/operationanthropoid/"
   },
   "OperationBabylift": {
     "title": "Operation Babylift",
@@ -86558,6 +86586,10 @@
   "WangTianfan": {
     "title": "Will Wang Tianfan / 汪天凡",
     "url": "/wiki/entities/wangtianfan/"
+  },
+  "WangTianmu": {
+    "title": "Wang Tianmu / 王天木",
+    "url": "/wiki/entities/wangtianmu/"
   },
   "WangTiaoLiGuStudent": {
     "title": "王调 / Wang Tiao (Li Gu student)",

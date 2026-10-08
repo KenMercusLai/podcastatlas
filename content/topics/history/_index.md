@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2610
+topic_total_pages: 2611
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5778,6 +5778,9 @@ topic_sources:
   - key: "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638"
     title: "319: Hundred Years' War: Triumph of the Longbow (Part 2)"
     url: "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+  - key: "32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz"
+    title: "32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓"
+    url: "/wiki/sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz/"
   - key: "32-what-if-glt7767131043"
     title: "32. What if?"
     url: "/wiki/sources/32-what-if-glt7767131043/"

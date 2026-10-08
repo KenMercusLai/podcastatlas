@@ -32578,3 +32578,10 @@ Added source `33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓
+
+Added source `32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz`; created [[ChenLu|陈箓]], [[OperationAnthropoid|类人猿行动]], [[JozefGabcik|约瑟夫·盖伯齐克]], [[JanKubis|扬·库比什]], [[WangTianmu|王天木]], [[LiuGeqing|刘戈青]], and [[AssassinationReprisalTradeoff|刺杀、报复与象征性抵抗]]; and resynthesized [[ReinhardHeydrich]] and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: both killings removed symbolically important occupation officials and demonstrated resistance capacity, but neither dismantled the surrounding coercive system; reprisals redistributed costs onto helpers, intelligence networks, prisoners, and civilians. No settled contradiction was adopted. The filename/title form 陈箓 was used as the canonical identity while the body spelling 陈禄 was retained as a source-level transcription variant; Shanghai attacker counts and tactics, Heydrich's cause of death, poison claims, casualty totals, exile-government motives, Chen's collaboration motive, and Wang Tianmu's alleged false defection remain source-scoped or unresolved. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,078 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

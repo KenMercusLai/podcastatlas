@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9953
+wiki_total_pages: 9954
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2513,6 +2513,9 @@ wiki_pages:
   - key: "AssassinationAccessCredential"
     title: "Assassination Access Credential / 刺杀接近凭证"
     url: "/wiki/concepts/assassinationaccesscredential/"
+  - key: "AssassinationReprisalTradeoff"
+    title: "Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗"
+    url: "/wiki/concepts/assassinationreprisaltradeoff/"
   - key: "AssemblageArtMemoryWork"
     title: "Assemblage Art Memory Work"
     url: "/wiki/concepts/assemblageartmemorywork/"

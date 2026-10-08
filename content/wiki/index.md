@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓](sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz.md) — 怪东西以类人猿行动与上海刺杀陈箓案比较二战中的象征性抵抗、行动偶然性、情报组织政治及由地下网络和平民承担的报复代价。
 - [33 东西方的侠客：从春秋战国到中世纪欧洲](sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl.md) — 怪东西从汉代游侠、中央集权与私人权威的冲突出发，区分历史游侠和文学武侠，并比较侠客、骑士、浪人、博加特耶尔及现代英雄原型。
 - [34 从匈牙利战神到大清末代接盘侠：东西方的摄政王](sources/34-congxiongyali-zhanshen-dao-daqing-modai-jiepanxia-dongxifang-de-shezhengwang-lkuu3qwavvb1yrc81cxgwwoq5y9g.md) — 怪东西以周公传统、匈雅提和载沣说明摄政头衔只有与军权、资源、联盟、制度适配和合法性结合，才能转化为有效统治。
 - [35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王](sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7.md) — 以欧根亲王与汉武帝时代将领群像说明军事成就同时受能力、信任、资源、组织、联盟、派系保护与史家书写影响。
@@ -4147,6 +4148,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [Chen Lu / 陈箓](entities/ChenLu.md) — 从留法法律人才和资深外交官转为日伪维新政府外交部长、1939年在上海遇刺的政治人物。
+- [Operation Anthropoid / 类人猿行动](entities/OperationAnthropoid.md) — 捷克斯洛伐克流亡政府与英国支持、成功刺杀海德里希并引发大规模报复的二战抵抗行动。
+- [Jozef Gabčík / 约瑟夫·盖伯齐克](entities/JozefGabcik.md) — 类人猿行动的斯洛伐克执行者，主武器卡壳后脱离现场，最终死于布拉格教堂围攻。
+- [Jan Kubiš / 扬·库比什](entities/JanKubis.md) — 类人猿行动的捷克执行者，其炸弹重伤海德里希，后在教堂围攻中负伤身亡。
+- [Wang Tianmu / 王天木](entities/WangTianmu.md) — 组织上海刺杀陈箓、后经被捕获释与内部追杀转投日伪安全系统的军统骨干。
+- [Liu Geqing / 刘戈青](entities/LiuGeqing.md) — 出于抗日动机加入军统并被节目认定为刺杀陈箓主要枪手的台湾籍学生。
 - [Hunyadi János / 匈雅提·亚诺什](entities/HunyadiJanos.md) — 以军事组织、私人资源与边疆防御能力支撑匈牙利摄政权威的十五世纪统帅。
 - [Zaifeng / 载沣](entities/Zaifeng.md) — 清末监国摄政王，其皇族集权方案未能转化为可靠的军政控制与改革联盟。
 - [Prince Eugene of Savoy / 欧根亲王](entities/PrinceEugeneOfSavoy.md) — 效力哈布斯堡的跨国贵族、战场统帅、军事管理者与联盟协作者。
@@ -4172,7 +4179,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Danny Walsh](entities/DannyWalsh.md) — Peak State Coffee founder weighing debt, equity, and disciplined organic growth.
 - [Voiceback](entities/Voiceback.md) — Assistive voice-cloning app moving from free downloads to paid validation and trusted referral channels.
 - [Rhea Jain](entities/RheaJain.md) — Voiceback founder using lived experience, clinical outreach, and user advisers to develop assistive communication.
-- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害机制、制度响应、政治变法、知识生产与思想史的历史播客。
+- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害、制度、人物、政治暴力、知识生产与思想史的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
@@ -5606,7 +5613,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
 - [Victor Klemperer](entities/VictorKlemperer.md) — German Jewish veteran and academic whose rootedness illustrates the emigration decisions created by uneven persecution.
 - [Heinrich Himmler](entities/HeinrichHimmler.md) — SS leader who joined blood-based law and invented precedent to ancestry documentation, racial enforcement, and coerced-emigration pressure.
-- [Reinhard Heydrich](entities/ReinhardHeydrich.md) — SS administrator connecting police enabling during Kristallnacht to centralized forced emigration and later genocidal coordination.
+- [Reinhard Heydrich](entities/ReinhardHeydrich.md) — SS and occupation administrator connecting purge, pogrom, genocidal coordination, Czech rule, assassination, and reprisal.
 - [张宇涵 / Zhang Yuhan (Respiratory Physician)](entities/ZhangYuhanRespiratoryDoctor.md) — Source-scoped respiratory physician explaining symptom patterns, pneumonia interpretation, pediatric mycoplasma care, and antibiotic boundaries.
 - [上海交通大学医学院附属瑞金医院 / Ruijin Hospital](entities/RuijinHospital.md) — Hospital affiliation attributed to Zhang Yuhan in the VOL.97 respiratory-health episode.
 - [Eustache Degé](entities/EustacheDege.md) — Valet and state prisoner identified by the episode as the strongest candidate for the Man in the Iron Mask.
@@ -16966,6 +16973,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗](concepts/AssassinationReprisalTradeoff.md) — 区分刺杀的目标移除与象征效果、制度存续，以及由地下网络、家属和平民承担的报复成本。
 - [侠客—骑士原型比较 / Chivalric Archetype Comparison](concepts/ChivalricArchetypeComparison.md) — 以共同的勇武和扶弱价值为起点，同时用身份、效忠、宗教、法律与生计区分侠客、骑士、浪人和相关英雄传统。
 - [历史游侠到文学武侠 / Historical Youxia to Literary Wuxia](concepts/HistoricalYouxiaToLiteraryWuxia.md) — 游侠作为体制外社会角色衰落后，其侠义价值被士大夫、文学与大众媒介选择性吸收和重塑。
 - [Regency Authority Conversion / 摄政权威的能力转化](concepts/RegencyAuthorityConversion.md) — 区分摄政的名义授权与由军权、资源、联盟、制度适配和合法性构成的实际治理能力。

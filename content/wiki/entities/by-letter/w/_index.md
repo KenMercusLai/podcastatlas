@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12765
+wiki_total_pages: 12771
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "WangTao"
     title: "Wang Tao / 汪滔"
     url: "/wiki/entities/wangtao/"
+  - key: "WangTianmu"
+    title: "Wang Tianmu / 王天木"
+    url: "/wiki/entities/wangtianmu/"
   - key: "WangTiezhen"
     title: "Wang Tiezhen / 王铁镇"
     url: "/wiki/entities/wangtiezhen/"
