@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9982
+wiki_total_pages: 9983
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"

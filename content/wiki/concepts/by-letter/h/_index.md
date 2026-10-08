@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9982
+wiki_total_pages: 9983
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "HistoricalLearningWithoutPrediction"
     title: "Historical Learning Without Prediction"
     url: "/wiki/concepts/historicallearningwithoutprediction/"
+  - key: "HistoricalLegendAccretion"
+    title: "Historical Legend Accretion / 历史传说的层累形成"
+    url: "/wiki/concepts/historicallegendaccretion/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"

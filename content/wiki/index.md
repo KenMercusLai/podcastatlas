@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [17 东西方的长城](sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp.md) — 怪东西以中国、罗马、丹麦、朝鲜和波斯长距离防线说明长城是兼具预警、通行、税收、定居、交流与象征功能的边疆系统，并追踪烽火戏诸侯和孟姜女传说的层累形成。
 - [18 东西方的人相食](sources/18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp.md) — 怪东西区分生存、战争、丧葬、复仇、医疗、孝道、殖民标签与文学隐喻中的食人，并揭示绝境牺牲如何受等级、种族、性别和程序权力塑造。
 - [19 张向荣、陆大鹏：两位80后作家年少时读过的好书](sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs.md) — 怪东西从图书馆、报刊、漫画、科普和旧书收藏追踪80后童年阅读生态，并连接翻译、投稿、评论、原创写作与先行动再拆解问题的实践路径。
 - [20 东西方的强力皇后：吕后与狄奥多拉](sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf.md) — 怪东西以吕后与狄奥多拉比较女性统治、危机领导、宫廷暴力、公共治理与性别化历史书写，并保留史料立场和跨制度类比的边界。
@@ -4167,6 +4168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [孟姜女 / Meng Jiangnü](entities/MengJiangnu.md) — 从杞梁妻礼制故事经哀哭、秦代迁移、筑墙埋夫、哭倒长城与忠贞教化层层形成的传说人物。
 - [宋壮壮 / Song Zhuangzhuang](entities/SongZhuangzhuang.md) — 地都会城市观察者，以骑行路线连接北京街头变化、遗产运行、公共空间与规划判断。
 - [王羲之 / Wang Xizhi](entities/WangXizhi.md) — 东晋书法家与兰亭雅集组织者，其《兰亭集序》传统连接聚会、无常意识、书法经典化与文本真伪问题。
 - [Peter the Apostle](entities/ApostlePeter.md) — 在最后晚餐与受难叙事中由忠诚承诺走向三次否认、痛哭与后续悔悟传统的门徒。
@@ -17013,6 +17015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Historical Legend Accretion / 历史传说的层累形成](concepts/HistoricalLegendAccretion.md) — 以文本年代、体裁、技术替换、地点附着和道德重心迁移区分传说的文化效力与事件史证据。
 - [Contextual Meaning of Cannibalism / 食人行为的语境意义](concepts/CannibalismContextualMeaning.md) — Separates survival, ritual, aggression, medicine, devotion, pathology, colonial labeling, and metaphor before cross-cultural judgment.
 - [Survival Cannibalism and Power Inequality / 生存性食人的权力不平等](concepts/SurvivalCannibalismPowerInequality.md) — Shows how necessity, victim selection, and apparently fair lotteries remain structured by rank, race, gender, age, strength, and command.
 - [Reading-to-Writing Practice](concepts/ReadingToWritingPractice.md) — Pathway through which reading becomes demonstrated craft via imitation, translation, submission, editorial feedback, and progressively longer completed work.

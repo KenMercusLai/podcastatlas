@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12791
+wiki_total_pages: 12792
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1907,6 +1907,9 @@ wiki_pages:
   - key: "MengTongxueFangxuehou"
     title: "孟同学（《放学后的小巷》）"
     url: "/wiki/entities/mengtongxuefangxuehou/"
+  - key: "MengJiangnu"
+    title: "孟姜女 / Meng Jiangnü"
+    url: "/wiki/entities/mengjiangnu/"
   - key: "MengPo"
     title: "孟婆"
     url: "/wiki/entities/mengpo/"

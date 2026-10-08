@@ -32733,3 +32733,11 @@ Added source `18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp`; creat
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 17 东西方的长城
+
+Added source `17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp`; created [[MengJiangnu|孟姜女]] and [[HistoricalLegendAccretion|历史传说的层累形成]]; and resynthesized [[GreatWallOfChina|Great Wall of China]], [[HadriansWall|Hadrian's Wall]], [[WallBorderSystems]], and [[BaoSi|褒姒]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: long walls are composite frontier systems whose barriers, gates, towers, forts, personnel, communications, settlements, and response forces can warn, delay, channel, inspect, tax, and display power while trade and migration continue; famous wall legends likewise emerge through dated layers rather than as timeless complete stories. No settled contradiction was adopted. Cross-regional comparison does not establish institutional equivalence, and measurements, dates, site counts, particular functions, document comparisons, transmission paths, and legendary motifs remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,098 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

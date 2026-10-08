@@ -22918,9 +22918,9 @@
       "url": "/wiki/entities/baoshichen/"
     },
     "BaoSi": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
@@ -22928,9 +22928,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        },
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/baosi/"
     },
     "BaoXuanWesternHan": {
@@ -98692,9 +98699,9 @@
       "url": "/wiki/entities/greatsiouxreservation/"
     },
     "GreatWallOfChina": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1636005045 [GLT1636005045].md",
@@ -98702,9 +98709,16 @@
           "show": "The Rest Is History",
           "title": "15. Walls and Borders",
           "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        },
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/greatwallofchina/"
     },
     "GreatWesternSchism": {
@@ -101987,9 +102001,9 @@
       "url": "/wiki/entities/hadrian/"
     },
     "HadriansWall": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1636005045 [GLT1636005045].md",
@@ -101997,9 +102011,16 @@
           "show": "The Rest Is History",
           "title": "15. Walls and Borders",
           "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        },
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/hadrianswall/"
     },
     "HagiaSophia": {
@@ -109589,6 +109610,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/historicallearningwithoutprediction/"
+    },
+    "HistoricalLegendAccretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/historicallegendaccretion/"
     },
     "HistoricalMemoryContest": {
       "episode_count": 14,
@@ -159514,6 +159551,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/mengdoctorzhebing/"
+    },
+    "MengJiangnu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mengjiangnu/"
     },
     "MengJinghui": {
       "episode_count": 1,
@@ -245476,9 +245529,9 @@
       "url": "/wiki/entities/wales/"
     },
     "WallBorderSystems": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1636005045 [GLT1636005045].md",
@@ -245486,9 +245539,16 @@
           "show": "The Rest Is History",
           "title": "15. Walls and Borders",
           "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        },
+        {
+          "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
+          "key": "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp",
+          "show": "怪东西Weird History",
+          "title": "17 东西方的长城",
+          "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/wallbordersystems/"
     },
     "WallStreetPrivateMortgageCapital": {

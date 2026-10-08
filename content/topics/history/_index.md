@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2624
+topic_total_pages: 2627
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -646,6 +646,9 @@ topic_concepts:
   - key: "HistoricalLearningWithoutPrediction"
     title: "Historical Learning Without Prediction"
     url: "/wiki/concepts/historicallearningwithoutprediction/"
+  - key: "HistoricalLegendAccretion"
+    title: "Historical Legend Accretion / 历史传说的层累形成"
+    url: "/wiki/concepts/historicallegendaccretion/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
@@ -3383,6 +3386,9 @@ topic_entities:
   - key: "SunBin"
     title: "孙膑 / Sun Bin"
     url: "/wiki/entities/sunbin/"
+  - key: "MengJiangnu"
+    title: "孟姜女 / Meng Jiangnü"
+    url: "/wiki/entities/mengjiangnu/"
   - key: "Mengchangjun"
     title: "孟尝君 / Tian Wen"
     url: "/wiki/entities/mengchangjun/"
@@ -5292,6 +5298,9 @@ topic_sources:
   - key: "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909"
     title: "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）"
     url: "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+  - key: "17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp"
+    title: "17 东西方的长城"
+    url: "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
   - key: "17-fascism-glt5738760220"
     title: "17. Fascism"
     url: "/wiki/sources/17-fascism-glt5738760220/"
