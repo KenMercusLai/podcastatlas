@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12782
+wiki_total_pages: 12784
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "GreyfriarsBobby"
     title: "Greyfriars Bobby"
     url: "/wiki/entities/greyfriarsbobby/"
+  - key: "GrigoryPotemkin"
+    title: "Grigory Potemkin / 格里戈里·波将金"
+    url: "/wiki/entities/grigorypotemkin/"
   - key: "GrigoryRasputin"
     title: "Grigory Rasputin"
     url: "/wiki/entities/grigoryrasputin/"

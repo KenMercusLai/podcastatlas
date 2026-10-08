@@ -32630,3 +32630,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 28 东西方的面首：从薛怀义到波将金
+
+Added source `28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0`; created [[CatherineII|Catherine II]] and [[GrigoryPotemkin|Grigory Potemkin]]; migrated and resynthesized [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[WuZetian|武则天]], [[XueHuaiyi|薛怀义]], [[ShanyinPrincessLiuChuyu|山阴公主刘楚玉]], and [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: “male favorite” can conceal coup support, religious office, military command, administration, and durable governing partnership, while the prominence of powerful women's lovers in historical memory requires source criticism without erasing real patronage and coercive consequences. The new source qualifies the earlier certainty that Shanyin Princess's thirty “面首” were sexual partners and conflicts with Hanji 616 plus on Xue Huaiyi's arson target and death tradition; both issues remain explicit rather than resolved by synthesis. Secret marriage, paternity, private motives, exact partner status, offices, development attributions, and death accounts remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,085 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

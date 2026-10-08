@@ -5,41 +5,49 @@ knowledge_schema: synthesis-v1
 tags: [person, tang-dynasty, wu-zhou, court-politics, favorite]
 sources:
   - zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon
-last_updated: 2026-10-04
+  - 28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-薛怀义 / Xue Huaiyi enters the wiki through [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] as an early male favorite of [[WuZetian|武则天]] whose palace intimacy is presented as a route to unusual religious and political power.
+薛怀义 / Xue Huaiyi is represented as an early male favorite of [[WuZetian|武则天]] whose intimate patronage became religious office, monumental building authority, military command, and participation in the public legitimation of Wu-Zhou rule.
 
 ## Current Profile
 
-The episode calls Xue Huaiyi Wu Zetian's first male favorite and a highly powerful monk. It further claims that he caused the death of [[PrincessTaiping|太平公主]]'s husband Xue Shao, lost Wu Zetian's favor after Zhang Yizhi and Zhang Changzong entered the palace, burned White Horse Temple in anger, and was then killed and cremated there. Several links in that sequence are disputed or compressed, so the durable profile is the political fragility of authority derived from intimate access.
+[[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] supplies a compressed favorite-replacement story: Xue Huaiyi loses protection as [[ZhangYizhi|张易之]] and [[ZhangChangzong|张昌宗]] gain access, retaliates through arson, and is violently removed. [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|Weird History episode 28]] broadens the public role. It says Wu Zetian changed his name and status, placed him over White Horse Temple, entrusted him with the Bright Hall and Heaven Hall projects, used him in Buddhist legitimation, and twice gave him military command without battle.
+
+The durable profile is therefore wider than “lover” or “monk.” Xue Huaiyi shows how a ruler could convert private trust into religious, architectural, military, and political usefulness, but also how authority grounded in personal access could become unstable when affection shifted or the ruler no longer needed the same intermediary.
 
 ## Key Characteristics
 
-- Early male favorite of Wu Zetian in the episode's account.
-- Monk whose religious position is represented as inseparable from palace patronage.
-- Court actor whose power declines when new favorites gain access.
-- Associated by the episode with temple arson and a violent death.
+- Early male favorite whose standing derives from Wu Zetian's personal patronage.
+- Religious officeholder involved in Buddhist legitimation and monumental construction.
+- Recipient of military commands despite the source reporting no actual combat.
+- Court actor whose public authority exceeded private companionship.
+- Favorite whose fall is associated with disputed arson and multiple violent-death traditions.
 
 ## Evidence
 
-- Favorite and power: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] calls Xue Huaiyi Wu Zetian's first male favorite and a powerful monk.
-- Replacement: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] says Zhang Yizhi and Zhang Changzong displaced him in Wu Zetian's attention.
-- Violent endpoint: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] associates his fall with burning White Horse Temple and a subsequent killing.
+- Favorite and replacement: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] presents Xue Huaiyi as an early favorite displaced by the Zhang brothers.
+- Religious and architectural role: [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|Episode 28]] links him to White Horse Temple, the Bright Hall, the Heaven Hall, and Buddhist legitimation for Wu Zetian.
+- Military role: [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|Episode 28]] says he twice received field command but did not fight.
+- Fall and removal: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] and [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|episode 28]] associate lost favor with arson and violent removal while disagreeing on the target and preserving different death details.
 
 ## Qualifications
 
-The episode's claim that Xue Huaiyi killed Xue Shao, the exact arson target and motive, the agents and manner of his death, and the disposal of his body are not treated as settled. This page records the episode's favorite-politics sequence without converting compressed storytelling into verified biography.
+The causal claim that Xue Huaiyi killed Princess Taiping's husband Xue Shao remains source-scoped. The sources disagree on whether the arson concerns White Horse Temple or the Bright Hall and Heaven Hall; exact motive, agents, manner of death, and disposal of the body are not settled. His age, physical description, introduction route, military record, and the claim that stabilization made him expendable also remain episode-attributed.
 
 ## What Changed
 
-- Created the page as a source-scoped case of intimate patronage, religious power, replacement, and violent removal.
+- Expanded the profile from intimate patronage and replacement into religious legitimation, monumental construction, and military command.
+- Marked the conflicting arson targets and death traditions rather than merging them.
+- Reframed the durable judgment around public authority produced by private access and its later fragility.
 
 ## Relationships
 
-- [[WuZetian|武则天]] - ruler and patron from whom his episode-level authority derives.
-- [[PrincessTaiping|太平公主]] - royal figure connected through the disputed Xue Shao causation and later revenge narrative.
-- [[ZhangYizhi|张易之]] and [[ZhangChangzong|张昌宗]] - later favorites presented as displacing him.
-- [[CourtIntimacyAsPoliticalResource]] - concept his rise and fall exemplify.
+- [[WuZetian|武则天]] - ruler and patron who converts intimate access into public religious, architectural, and military authority.
+- [[ZhangYizhi|张易之]] and [[ZhangChangzong|张昌宗]] - later favorites associated with his loss of access.
+- [[PrincessTaiping|太平公主]] - figure in the disputed Xue Shao causation and revenge narrative.
+- [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - concept his rise, public work, replacement, and removal exemplify.
+- [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]] - cautions against letting the lover label erase his public functions or reduce Wu Zetian's politics to appetite.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [28 东西方的面首：从薛怀义到波将金](sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0.md) — 怪东西比较俄国与中国权势女性的伴侣，区分私人亲密、政变联盟、官职、军权、宗教合法性与性别化历史书写。
 - [29 东西方的冤案：德雷福斯、杨乃武和小白菜](sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8.md) — 怪东西以德雷福斯案与杨乃武、小白菜案比较偏见、伪证、刑讯、官僚自保、媒体监督与不完整的司法纠错。
 - [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0.md) — 晁错以城堡、迁居补偿、家庭安置、邻里互保、基层编组与骑射训练，把应对匈奴机动袭扰从远方轮戍改造成长期边境社区建设。
 - [642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)](sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636.md) — The Rest Is History episode on Scipio's African invasion, Massinissa's alliance, Zama, Roman institutional recovery, the peace settlement, and the later careers of Hannibal, Scipio, and Cato.
@@ -4154,6 +4155,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [Catherine II / 叶卡捷琳娜二世](entities/CatherineII.md) — Russian ruler whose intimate networks intersected with accession, diplomacy, military support, and delegated government.
+- [Grigory Potemkin / 格里戈里·波将金](entities/GrigoryPotemkin.md) — Catherine II's intimate partner and durable southern military-administrative collaborator.
 - [杨乃武 / Yang Naiwu](entities/YangNaiwu.md) — 因传闻、官员旧怨与刑讯被卷入投毒冤案，后经家属申诉和外部支持获释却未完全恢复身份与生活的晚清举人。
 - [小白菜 / Xiao Baicai](entities/XiaoBaicai.md) — 因丈夫暴亡和邻里传闻遭刑讯定罪、最终获释又被后世浪漫叙事重塑的晚清女性。
 - [《申报》 / Shen Bao](entities/ShenBao.md) — 通过持续报道杨乃武与小白菜案，把地方冤案扩展为证据、刑讯和司法程序公共讨论的上海报纸。

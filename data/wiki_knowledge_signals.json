@@ -35777,6 +35777,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/catherinei/"
     },
+    "CatherineII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/catherineii/"
+    },
     "CatherineJudge": {
       "episode_count": 1,
       "show_count": 1,
@@ -50791,9 +50807,9 @@
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
     "CourtIntimacyAsPoliticalResource": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -50836,6 +50852,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
         }
       ],
       "updated": "2026-10-08",
@@ -92477,6 +92500,36 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/genderedfashionsafetyblame/"
     },
+    "GenderedHistoriographicalDesireFraming": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示 [lthiqKpc0nbNlKxhCmiVufVgl25B].md",
+          "key": "zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史 [lof4XUuxfKEHM9iGPdvIhV7EXqDy].md",
+          "key": "zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/genderedhistoriographicaldesireframing/"
+    },
     "GenderedLaborVisibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -98525,6 +98578,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/grievancerallyperformance/"
+    },
+    "GrigoryPotemkin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/grigorypotemkin/"
     },
     "GrigoryRasputin": {
       "episode_count": 1,
@@ -212605,9 +212674,9 @@
       "url": "/wiki/entities/shanxiayousong/"
     },
     "ShanyinPrincessLiuChuyu": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -212615,9 +212684,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/shanyinprincessliuchuyu/"
     },
     "Shanyue": {
@@ -249044,9 +249120,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -249131,6 +249207,13 @@
           "show": "怪东西Weird History",
           "title": "31 狗胆包天：东西方的冒牌皇帝",
           "url": "/wiki/sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
         }
       ],
       "updated": "2026-10-08",
@@ -252809,9 +252892,9 @@
       "url": "/wiki/entities/wuyoulatehan/"
     },
     "WuZetian": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "90.酉阳杂俎：血滴子和武则天手指上的黑毛 [712539933].md",
@@ -252840,9 +252923,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/wuzetian/"
     },
     "WuZhangWesternHan": {
@@ -257290,9 +257380,9 @@
       "url": "/wiki/entities/xueguangdewesternhan/"
     },
     "XueHuaiyi": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -257300,9 +257390,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        },
+        {
+          "episode_file": "lkuAHrVj2vXDGKKf7n0PrTfw3pl0 [lkuAHrVj2vXDGKKf7n0PrTfw3pl0].md",
+          "key": "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0",
+          "show": "怪东西Weird History",
+          "title": "28 东西方的面首：从薛怀义到波将金",
+          "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/xuehuaiyi/"
     },
     "XueHuiWesternHan": {

@@ -2271,14 +2271,14 @@
       "earliest_episode_date": "2026-05-21",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 15,
-      "topic_matched_source_note_count": 15,
+      "source_note_count": 16,
+      "topic_matched_source_note_count": 16,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 14
+          "source_note_count": 15
         },
         {
           "key": "politics",

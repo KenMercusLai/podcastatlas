@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2616
+topic_total_pages: 2617
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5643,6 +5643,9 @@ topic_sources:
   - key: "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918"
     title: "279: Cameroon: The Slave General of Peter the Great"
     url: "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+  - key: "28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0"
+    title: "28 东西方的面首：从薛怀义到波将金"
+    url: "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
   - key: "28-the-kings-of-comedy-glt5677879972"
     title: "28. The Kings of Comedy"
     url: "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
