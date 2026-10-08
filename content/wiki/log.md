@@ -32657,3 +32657,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 25 东西方的卖官鬻爵
+
+Added source `25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az`; resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: selling rank, honor, eligibility, or office can fund disaster and war, absorb new wealth elites, and widen entry, but these effects must be separated from the stronger competence, extraction, and legitimacy risks created when payment controls active governing authority. No settled contradiction was adopted. Cross-regional equivalence, prices, revenue shares, post counts, privileges, career effects, and military or ecclesiastical procedures remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,088 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

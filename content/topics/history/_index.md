@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2619
+topic_total_pages: 2620
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5562,6 +5562,9 @@ topic_sources:
   - key: "249-treason-in-modern-britain-part-2-glt2159531504"
     title: "249. Treason in Modern Britain (Part 2)"
     url: "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+  - key: "25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az"
+    title: "25 东西方的卖官鬻爵"
+    url: "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
   - key: "25-empires-glt2896270746"
     title: "25. Empires"
     url: "/wiki/sources/25-empires-glt2896270746/"

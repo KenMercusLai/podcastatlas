@@ -173899,6 +173899,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
     },
+    "OfficeSaleLegitimacyDamage": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
+          "key": "zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？ [lvwZeL782wCxS1lPt3Rg2vmKdy29].md",
+          "key": "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "lmIi9EpS9S3-GoYtBO0VKdV7C8AZ [lmIi9EpS9S3-GoYtBO0VKdV7C8AZ].md",
+          "key": "25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az",
+          "show": "怪东西Weird History",
+          "title": "25 东西方的卖官鬻爵",
+          "url": "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/officesalelegitimacydamage/"
+    },
     "OfficeSequencePowerReallocation": {
       "episode_count": 3,
       "show_count": 1,
@@ -196582,9 +196619,9 @@
       "url": "/wiki/entities/ranavalonai/"
     },
     "RankSaleDisasterFinance": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡 [lsj3KD2Tb4tQtuvhWvSdwKh-h5EL].md",
@@ -196627,9 +196664,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
+        },
+        {
+          "episode_file": "lmIi9EpS9S3-GoYtBO0VKdV7C8AZ [lmIi9EpS9S3-GoYtBO0VKdV7C8AZ].md",
+          "key": "25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az",
+          "show": "怪东西Weird History",
+          "title": "25 东西方的卖官鬻爵",
+          "url": "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/ranksaledisasterfinance/"
     },
     "RaphaelGlucksmann": {
@@ -249387,9 +249431,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -249495,6 +249539,13 @@
           "show": "怪东西Weird History",
           "title": "26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史",
           "url": "/wiki/sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz/"
+        },
+        {
+          "episode_file": "lmIi9EpS9S3-GoYtBO0VKdV7C8AZ [lmIi9EpS9S3-GoYtBO0VKdV7C8AZ].md",
+          "key": "25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az",
+          "show": "怪东西Weird History",
+          "title": "25 东西方的卖官鬻爵",
+          "url": "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
         }
       ],
       "updated": "2026-10-08",

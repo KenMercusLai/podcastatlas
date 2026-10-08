@@ -2,40 +2,61 @@
 title: "买官名节损耗 / Office-Sale Legitimacy Damage"
 type: concept
 tags: [late-han, court, legitimacy, corruption, reputation]
-sources: [zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso
+  - zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29
+  - zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj
+  - 25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az
+last_updated: 2026-10-08
+knowledge_schema: synthesis-v1
 ---
 
-# 买官名节损耗 / Office-Sale Legitimacy Damage
+## Definition
 
-[[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]] moves the concept earlier than the later Cui Lie case by showing [[EmperorLingOfHan|汉灵帝]]'s Xidi office-sale system as an explicit price schedule. Offices are priced by rank and jurisdictional richness, some normally selected appointees receive discounts, and buyers without enough cash can take office first and repay double later.
+买官名节损耗 / Office-Sale Legitimacy Damage is the loss of institutional trust and personal credibility that occurs when payment, debt, or palace access determines who receives governing office. It is narrower than the sale of rank or honor because real administrative authority and the power to recover costs from the governed are at stake.
 
-The damage is not only reputational. Once public office becomes an up-front cost or debt, the appointee has an incentive to recover payment from local people. Hanji 914 therefore links office sale directly to [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] and to local extraction, because the proceeds enter Ling's private store while the cost is pushed down the administrative chain.
+## Current Synthesis
 
-[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] later adds the pattern exposed by [[CuiLieLateHan|崔烈]]'s purchase of the situ office. The episode says Cui Lie pays five million cash through [[ChengFurenLateHan|程夫人]], while [[EmperorLingOfHan|汉灵帝]] regrets not asking for ten million, making a senior public appointment look like a commodity priced through palace access.
+[[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]] shows [[EmperorLingOfHan|汉灵帝]]'s Xidi system pricing offices by rank and jurisdictional richness, discounting some normally selected appointees, permitting delayed double payment, and routing proceeds into a private imperial store. This turns appointment into both a credibility problem and a recoupment problem: debt acquired before entry can push the official to extract from local people.
 
-The damage is double. Institutionally, the appointment weakens [[MingqiLegitimacy|名器合法性]] because high office no longer visibly signals selection by merit, service, or public trust. Personally, it damages [[MoralReputationPoliticalCapital|道德名望政治资本]] because Cui Lie already had enough prestige that people could imagine him as a Three Excellencies figure, but the purchased route makes the achieved title smell illegitimate.
+[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] shows that the same damage can occur without voluntary purchase. [[SimaZhiLateHan|司马直]] is charged an entry fee for [[JuluCommanderyLateHan|巨鹿郡]] and treats the post as a demand to become an extractor. [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] supplies the reputational case: [[CuiLieLateHan|崔烈]] obtains the situ office through payment and palace mediation, but the transaction destroys much of the prestige that previously made him plausible for high office.
 
-[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds an adjacent appointment-fee version through [[SimaZhiLateHan|司马直]]. Unlike Cui Lie, Sima Zhi is not buying prestige; he is being asked to enter [[JuluCommanderyLateHan|巨鹿郡]] with a court-imposed fee that can realistically be repaid only through local exploitation. The legitimacy damage falls on the office system itself: a clean official experiences appointment as pressure to become an extractor.
-
-The concept differs from [[RankSaleDisasterFinance|鬻爵赈灾融资]]. Rank sale can be framed as emergency conversion of status into resources; this source focuses on regular high office as a paid palace-mediated transaction, which directly corrupts the governing role and the buyer's reputation.
+[[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] provides the necessary comparative boundary. Purchasable honor, student identity, noble status, or eligibility is not always an active office; buyers can be capable, and widened entry can loosen inherited monopoly. Those qualifications do not make payment a good competence test. Legitimacy damage is strongest when money selects officeholders, creates a recoverable sunk cost, or makes public authority appear to be private property.
 
 ## Key Claims
 
-- Buying office can obtain a formal title while weakening the social credibility that title needs to function.
-- Hanji 914 adds that office sale can become a recoupment problem: an officeholder who pays or owes for the post can turn local administration into cost recovery.
-- Appointment fees can damage office legitimacy even when the appointee does not voluntarily buy prestige, because the post becomes a debt-recovery mechanism for court charges.
-- A prestigious buyer may lose more reputation than a marginal buyer because the transaction reveals ambition overriding the very moral capital that made the office plausible.
-- Office sale damages both sides of the exchange: the court looks like it sells public authority, and the buyer looks like he purchased rather than earned public trust.
-- Palace intermediaries make corruption structurally harder to treat as one person's vice because access channels become part of the appointment system.
+- Payment for real office weakens the signal that appointment reflects competence, service, or public trust.
+- Up-front price or appointment debt can turn local administration into a cost-recovery mechanism imposed on the governed.
+- Palace intermediaries and private treasuries make office sale a structural appointment channel rather than one buyer's isolated vice.
+- A prestigious buyer may lose exceptional reputational capital because purchase discredits an office the person might otherwise have earned.
+- Legitimacy damage can fall on a clean appointee who did not seek to buy prestige when the court makes payment a condition of entry.
+- Purchasable rank, honor, eligibility, or inactive title must be distinguished from governing office before corruption and competence effects are inferred.
+- Capable purchasers are counterexamples to claims about every individual, not evidence that payment reliably selects capable officials.
 
-## Connections
+## Evidence
 
-- [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]], [[EmperorLingOfHan|汉灵帝]], [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]], and [[CourtOfficeCapture|朝廷开府任官失序]] - Xidi office pricing, delayed double payment, private-store proceeds, and local recoupment pressure.
-- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[SimaZhiLateHan|司马直]], [[JuluCommanderyLateHan|巨鹿郡]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - appointment-fee version where office becomes a pressure to extract from the people.
-- [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[CuiLieLateHan|崔烈]], [[CuiJunLateHan|崔钧]], [[ChengFurenLateHan|程夫人]], and [[EmperorLingOfHan|汉灵帝]] - source case.
-- [[YuanWeiLateHan|袁隗]] - predecessor removed before Cui Lie's appointment.
-- [[CourtOfficeCapture|朝廷开府任官失序]] - adjacent late-Han office-order breakdown.
-- [[MingqiLegitimacy|名器合法性]] - title/order legitimacy harmed by priced appointment.
-- [[MoralReputationPoliticalCapital|道德名望政治资本]] - reputation asset destroyed by the purchased route.
-- [[RankSaleDisasterFinance|鬻爵赈灾融资]] - contrast with status monetization that is not direct sale of governing office.
+- Priced appointment and recoupment: [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]] describes priced jurisdictions, deferred double payment, and proceeds entering Emperor Ling's West Garden store.
+- Imposed fee and extraction refusal: [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] presents Sima Zhi refusing an appointment whose fee could realistically be recovered only from local households.
+- Purchased prestige and public judgment: [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] reports Cui Lie's five-million-cash route to the situ office and the resulting “stink” judgment.
+- Category boundary: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] distinguishes rank, honor, student status, noble status, inactive title, appointment eligibility, military commission, and active governing post across unlike systems.
+- Individual-capacity qualification: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] uses later achievements by named purchasers to separate criticism of the channel from judgment of every officeholder.
+
+## Counterevidence & Qualifications
+
+The late-Han sources are podcast accounts rather than a complete administrative history, and their prices, procedures, jurisdictional values, and private-store flows require textual verification. The comparative episode covers institutions that cannot be collapsed into one market: some sales transferred only honor, dress, social privilege, or eligibility, while British commissions and ecclesiastical office had distinct rules and consequences. Social mobility and capable purchasers qualify blanket claims that every buyer was unfit. They do not establish that wealth is a reliable proxy for competence or that direct sale of public authority avoids patronage, extraction, and trust loss.
+
+## What Changed
+
+- Migrated the page to the synthesis-v1 evidence contract.
+- Added a strict boundary between governing office and purchasable rank, honor, eligibility, or inactive title.
+- Added capable purchasers and widened elite entry as qualifications to person-level judgments.
+- Preserved recoupment pressure and public credibility as the core institutional harms.
+
+## Related Concepts
+
+- [[RankSaleDisasterFinance|鬻爵赈灾融资]] - adjacent status-monetization mechanism that need not transfer governing authority.
+- [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] - private destination for public appointment revenue in the Xidi case.
+- [[CourtOfficeCapture|朝廷开府任官失序]] - wider breakdown when appointment channels serve court access and factional power.
+- [[MingqiLegitimacy|名器合法性]] - symbolic credibility weakened when office becomes a priced commodity.
+- [[MoralReputationPoliticalCapital|道德名望政治资本]] - personal asset damaged when a plausible candidate purchases the title.
+- [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - imposed fee variant that makes office entry a downward extraction chain.

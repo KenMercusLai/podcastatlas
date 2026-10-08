@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [25 东西方的卖官鬻爵](sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az.md) — 怪东西比较秦汉鬻爵、明清捐纳、法国袍服贵族、哈布斯堡授爵、英国军衔买卖与圣职交易，区分财政、流动、能力和合法性效应。
 - [26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史](sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz.md) — 怪东西以但泽历史、九月怀孕结构、烹饪、童话改写和性别争论解读《比目鱼》，将进步保留为创造与毁灭并存的多义过程。
 - [27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择](sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc.md) — 怪东西从中文系与英语系的形成、课程和个人经验讨论学科分割、AI时代语言学习、兴趣、自学与可调整的专业选择。
 - [28 东西方的面首：从薛怀义到波将金](sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0.md) — 怪东西比较俄国与中国权势女性的伴侣，区分私人亲密、政变联盟、官职、军权、宗教合法性与性别化历史书写。
