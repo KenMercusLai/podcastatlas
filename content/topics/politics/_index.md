@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3199
+topic_total_pages: 3200
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7961,6 +7961,9 @@ topic_entities:
   - key: "Karhide"
     title: "卡海德 / Karhide"
     url: "/wiki/entities/karhide/"
+  - key: "YeMingchen"
+    title: "叶明琛 / Ye Mingchen"
+    url: "/wiki/entities/yemingchen/"
   - key: "TongWarringStates"
     title: "同地 / Tong"
     url: "/wiki/entities/tongwarringstates/"

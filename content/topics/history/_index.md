@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2602
+topic_total_pages: 2603
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6027,6 +6027,9 @@ topic_sources:
   - key: "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455"
     title: "409. The Nazis in Power: Hitler's War on the Jews (Part 6)"
     url: "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+  - key: "41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3"
+    title: "41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝"
+    url: "/wiki/sources/41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3/"
   - key: "41-persia-glt6414068538"
     title: "41. Persia"
     url: "/wiki/sources/41-persia-glt6414068538/"

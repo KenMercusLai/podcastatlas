@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12743
+wiki_total_pages: 12747
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "Bluegogo"
     title: "小蓝单车 / Bluegogo"
     url: "/wiki/entities/bluegogo/"
+  - key: "BahadurShahII"
+    title: "巴哈杜尔·沙二世 / Bahadur Shah II"
+    url: "/wiki/entities/bahadurshahii/"
   - key: "BaStateWarringStates"
     title: "巴国 / Ba State (Warring States)"
     url: "/wiki/entities/bastatewarringstates/"

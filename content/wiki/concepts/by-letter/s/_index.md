@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9938
+wiki_total_pages: 9939
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2768,6 +2768,9 @@ wiki_pages:
   - key: "SymbolicStatusDowngradeBackfire"
     title: "象征性名分降格反噬 / Symbolic Status Downgrade Backfire"
     url: "/wiki/concepts/symbolicstatusdowngradebackfire/"
+  - key: "SymbolicAuthorityExile"
+    title: "象征权威的政治流放 / Political Exile of Symbolic Authority"
+    url: "/wiki/concepts/symbolicauthorityexile/"
   - key: "SeniorCourtVetoReformRetreat"
     title: "资深宫廷否决下的改革退让 / Reform Retreat Under Senior Court Veto"
     url: "/wiki/concepts/seniorcourtvetoreformretreat/"

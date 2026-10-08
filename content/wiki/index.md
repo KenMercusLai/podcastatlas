@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝](sources/41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3.md) — 怪东西对照叶明琛与巴哈杜尔·沙二世，连接第二次鸦片战争、1857年印度大起义、殖民强权误判与象征权威的政治流放。
 - [42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）](sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd.md) — 怪东西以子产与克里斯提尼对照土地、人口、军赋、成文法、地域部落、抽签、议事会与陶片放逐，解释变法如何削弱血缘贵族并重分配国家或公民权力。
 - [Advice Line with Nick Green of Thrive Market](sources/advice-line-with-nick-green-of-thrive-market-7764e494-e791-48db-b95a-2d18994139a0.md) — How I Built This episode on scalable focus, mission-compatible economics, recurring demand, aligned advocates, and trust-based distribution for assistive technology.
 - [《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？](sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc.md) — 邓通由文帝梦兆与近身宠爱获得官位、铜山和铸钱权，受申屠嘉礼法约束却由文帝救回；景帝继位后查办越界铸钱、没产追债，馆陶长公主救济亦未能阻止其贫饿而死。
@@ -4133,6 +4134,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [叶明琛 / Ye Mingchen](entities/YeMingchen.md) — 兼具行政能力、残酷镇压、情报误判与殖民囚徒身后争议的晚清两广总督。
+- [巴哈杜尔·沙二世 / Bahadur Shah II](entities/BahadurShahII.md) — 无实权却保有文化与王朝威望、在1857年起义后被审判并流放的莫卧儿末代皇帝。
+- [第二次鸦片战争 / Second Opium War](entities/SecondOpiumWar.md) — 以亚罗号争端、广州陷落、清廷内乱约束及英法殖民升级为核心的1856—1860年战争。
+- [1857年印度大起义 / Indian Rebellion of 1857](entities/IndianRebellion1857.md) — 从公司军印度士兵起事扩展、借莫卧儿名号取得象征合法性并终结东印度公司统治的多中心反抗。
 - [Nick Green](entities/NickGreen.md) — Thrive Market co-founder and CEO advising founders on data, focus, economics, mission, and distribution.
 - [Blackstrad Concert Attire](entities/BlackstradConcertAttire.md) — Performance-apparel startup balancing formal comfort, product quality, SKU focus, returns, and founder capacity.
 - [Mercedes Smith](entities/MercedesSmith.md) — Utah Symphony flutist and Blackstrad founder translating professional experience into concert apparel.
@@ -16930,6 +16935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [象征权威的政治流放 / Political Exile of Symbolic Authority](concepts/SymbolicAuthorityExile.md) — 将失去实权但仍可被名号、礼仪与记忆动员的人物移离本土政治网络的统治策略。
 - [Institutional Reform as Power Reallocation / 制度变法即权力重分配](concepts/InstitutionalReformAsPowerReallocation.md) — Comparative framework in which changes to land, population, law, civic identity, and office selection redistribute practical power rather than merely announce policy.
 - [Scalable Core Before Expansion](concepts/ScalableCoreBeforeExpansion.md) — Sequence that proves a focused product, paid model, retention pattern, and acquisition path before adding complexity or capital.
 - [Mission-Economics Alignment](concepts/MissionEconomicsAlignment.md) — Principle that mission is more durable when it also creates customer or operating value.

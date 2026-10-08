@@ -6,6 +6,7 @@ sources:
   - 88-the-first-anglo-afghan-war-glt5156371854
   - 75-the-east-india-company-glt7809915873
   - 47-the-seven-years-war-glt8800494407
+  - 41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ The East India Company was a chartered joint-stock trader that became a territor
 ## Current Profile
 [[75-the-east-india-company-glt7809915873]] begins with the Company's Elizabethan privateering environment, pooled investment, and unsuccessful effort to dominate the East Indies spice trade. Its 1640s pivot toward Indian textiles placed it inside a wealthy manufacturing economy whose goods had to be bought largely with bullion. Mughal fragmentation, Indian banking support, Indian soldiers, and [[RobertClive|Robert Clive]]'s Bengal campaign then helped convert commercial presence into revenue and territorial power. [[47-the-seven-years-war-glt8800494407]] locates that transition within the Seven Years' War while stressing that slow communication and local Company incentives made Bengal only loosely directed by the wider conflict.
 
-That transition created the central [[CharteredCompanySovereignty|chartered-company sovereignty]] problem: the Company took over tax machinery and coerced producers without initially assuming the famine-relief and welfare obligations expected of durable rulers. Bankruptcy in 1772 led to parliamentary regulation and a public-private governing form. By the 1840s, [[88-the-first-anglo-afghan-war-glt5156371854]] shows a mature territorial regime fielding sepoy-majority armies and conducting foreign policy, yet still vulnerable to distorted reporting, rival command chains, poor maps, extravagant logistics, and political overconfidence.
+That transition created the central [[CharteredCompanySovereignty|chartered-company sovereignty]] problem: the Company took over tax machinery and coerced producers without initially assuming the famine-relief and welfare obligations expected of durable rulers. Bankruptcy in 1772 led to parliamentary regulation and a public-private governing form. By the 1840s, [[88-the-first-anglo-afghan-war-glt5156371854]] shows a mature territorial regime fielding sepoy-majority armies and conducting foreign policy, yet still vulnerable to distorted reporting, rival command chains, poor maps, extravagant logistics, and political overconfidence. [[41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3|Episode 41]] then adds the terminal crisis: soldiers trained inside Company armies initiated the 1857 uprising, deeper grievances widened it, and Crown rule absorbed the Company's state after suppression.
 
 ## Key Characteristics
 - Joint-stock trader that moved from spices to Indian textiles and then from commerce to territorial rule.
@@ -27,6 +28,7 @@ That transition created the central [[CharteredCompanySovereignty|chartered-comp
 - Hybrid commercial, governmental, diplomatic, and military institution increasingly regulated by Parliament.
 - Employer of sepoy-majority armies whose structure remained distinct from regular British regiments.
 - Capable of conquest and regime change but exposed to bankruptcy, legitimacy failure, and command breakdown.
+- Company-state whose own Indian military labor became the initiating force in the 1857 uprising that ended its rule.
 
 ## Evidence
 - Commercial-to-territorial transition: [[75-the-east-india-company-glt7809915873]] follows the Company from joint-stock oceanic trade through Bengal textiles, Plassey, revenue extraction, bankruptcy, regulation, and nationalization.
@@ -35,12 +37,14 @@ That transition created the central [[CharteredCompanySovereignty|chartered-comp
 - Mature institutional form: [[88-the-first-anglo-afghan-war-glt5156371854]] calls the 1840s Company a semi-governmental public-private partnership and emphasizes its sepoy-majority expedition.
 - Operational failure: [[88-the-first-anglo-afghan-war-glt5156371854]] describes mapping, baggage, command, cantonment, and occupation-legitimacy failures.
 - Global-local war structure: [[47-the-seven-years-war-glt8800494407]] treats Bengal as a loosely connected theater in which Company interests, Indian magnates, bribery, and Anglo-French rivalry interacted.
+- Terminal legitimacy crisis: [[41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3]] links religiously offensive cartridge rumors, extraction, disrupted local orders, rebellion, and the 1858 transfer to Crown rule.
 
 ## Qualifications
-Three podcast episodes cannot provide a full legal, commercial, military, social, or regional history of the Company. The corporate-conquest account is Dalrymple's interpretation, the Afghan case is one failed intervention late in Company rule, and the Seven Years' War synthesis remains British-centered. GDP shares, famine deaths, financial motives, constitutional labels, precise bribery, and the balance among Indian agency, collaboration, coercion, and British state support require wider evidence.
+Four podcast episodes cannot provide a full legal, commercial, military, social, or regional history of the Company. The corporate-conquest account is Dalrymple's interpretation, the Afghan case is one failed intervention late in Company rule, the Seven Years' War synthesis remains British-centered, and the 1857 source compresses diverse regional rebellions and loyalties. GDP shares, famine deaths, financial motives, constitutional labels, precise bribery, and the balance among Indian agency, collaboration, coercion, and British state support require wider evidence.
 
 ## What Changed
 - Clarified that the Bengal campaign was locally driven and only loosely coordinated with the Seven Years' War's other theaters.
+- Added the 1857 uprising as a crisis generated partly inside Company military and governing institutions and followed by Crown absorption.
 
 ## Relationships
 - [[FirstAngloAfghanWar]] - intervention that exposes its imperial reach and institutional weakness.
@@ -50,3 +54,5 @@ Three podcast episodes cannot provide a full legal, commercial, military, social
 - [[CharteredCompanySovereignty]] - framework for its conversion from trader into company-state.
 - [[OccupationCommandFailure]] - operational pattern visible in its expedition.
 - [[SevenYearsWar]] - wider conflict that created opportunity without centrally directing the Company's Bengal operation.
+- [[IndianRebellion1857]] - uprising whose suppression ended Company government.
+- [[BahadurShahII]] - residual Mughal sovereign used by rebels as a legitimacy symbol.

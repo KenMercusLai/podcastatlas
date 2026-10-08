@@ -32474,3 +32474,11 @@ Added source `42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beiho
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝
+
+Added source `41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3`; created [[YeMingchen|叶明琛]], [[BahadurShahII|巴哈杜尔·沙二世]], [[SecondOpiumWar|第二次鸦片战争]], [[IndianRebellion1857|1857年印度大起义]], and [[SymbolicAuthorityExile|象征权威的政治流放]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[MughalEmpire]], [[EastIndiaCompany]], and [[ColonialPowerMiscalculation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ye's real administrative capacity, brutal repression, earlier success, force shortages, and confirmation-seeking intelligence jointly explain strategic failure more accurately than the “six noes” caricature, while Bahadur Shah's lack of operational control did not erase the Mughal title's political utility. Britain removed both captives because symbolic prestige could survive lost power, but exile did not eliminate contested memory. No settled contradiction was adopted. The title's “叶名琛” was normalized in canonical links to 叶明琛; execution totals, Arrow legality, agency during the Delhi uprising, colonial motives, Ye's death, Queen Victoria audience story, and poem authorship remain source-scoped or disputed. Broad Qing, Xianfeng, British Empire, Delhi, and host pages were kept closed because the bounded additions are represented in the focused source, people, wars, organizations, show, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,064 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
