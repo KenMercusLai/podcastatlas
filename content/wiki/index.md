@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外](sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9.md) — 匈奴逼近京畿时，周亚夫以细柳营的入营、驰行与军礼规则维护战备指挥权，文帝接受约束并识别其为真将军；后续旱蝗救济则以减贡、开放资源、减宫用和发仓赈民降低危机负担。
 - [37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽](sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm.md) — 怪东西以麦伊斯基与冯嫽对照本地知识、人际网络、国家支持与外交中介的个人风险。
 - [39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题](sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk.md) — 怪东西以马林切与马戛尔尼使团对照殖民和外交翻译，说明多层转译既能建立联盟与维持礼仪，也会重写臣服、朝贡、礼物和主权。
 - [40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）](sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m.md) — 怪东西以李斯与赫德对照外来人才、国家能力、政治信任与主权边界，并保留《史记》与《赵正书》的继位叙事冲突。
@@ -16948,6 +16949,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
 
 ## Concepts
+- [Wartime Camp Command Authority / 战备营垒指挥权](concepts/WartimeCampCommandAuthority.md) — 战备营垒通过正式入营、行动与军礼规则维持即时指挥可信度，而最高文官权力以接受程序而非索取个人豁免强化授权。
 - [Embedded Diplomatic Intermediation / 嵌入式外交中介](concepts/EmbeddedDiplomaticIntermediation.md) — 长期居留、本地知识、人际信任与正式凭证把国家能力转化为可协商影响的外交机制。
 - [马戛尔尼使团 / Macartney Embassy](concepts/MacartneyEmbassy.md) — 英清双方借多语转译、礼物与改写公文接触，并在表面礼仪共识下保留制度冲突的1793年外交事件。
 - [翻译作为政治中介 / Translation as Political Mediation](concepts/TranslationAsPoliticalMediation.md) — 译者和译文通过身份、体裁、暗示与风险改变政治信息，而非仅替换词语。

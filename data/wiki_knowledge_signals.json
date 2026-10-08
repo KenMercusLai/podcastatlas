@@ -142411,9 +142411,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -142477,6 +142477,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外 [lg4Dt0OJTHk1rvVma4PrssXYx6W9].md",
+          "key": "zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9/"
         }
       ],
       "updated": "2026-10-08",
@@ -246596,6 +246603,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/wartburg/"
     },
+    "WartimeCampCommandAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外 [lg4Dt0OJTHk1rvVma4PrssXYx6W9].md",
+          "key": "zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/wartimecampcommandauthority/"
+    },
     "WartimeCoalitionAccountability": {
       "episode_count": 1,
       "show_count": 1,
@@ -248255,9 +248278,9 @@
       "url": "/wiki/entities/wenchoulatehan/"
     },
     "WenJingProsperityTradeoff": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝 [li5x4mKncDcOxb_xACyNJH1WC__k].md",
@@ -248272,6 +248295,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外 [lg4Dt0OJTHk1rvVma4PrssXYx6W9].md",
+          "key": "zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9/"
         }
       ],
       "updated": "2026-10-08",
@@ -266862,9 +266892,9 @@
       "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYafu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -266907,6 +266937,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外 [lg4Dt0OJTHk1rvVma4PrssXYx6W9].md",
+          "key": "zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9/"
         }
       ],
       "updated": "2026-10-08",

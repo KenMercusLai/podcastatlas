@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
   - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
   - zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc
+  - zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9
 last_updated: 2026-10-08
 ---
 
@@ -42,6 +43,8 @@ A late-reign crisis and appointment layer extends the restraint profile from spe
 
 The same source links those instructions to refusal of a costly terrace, plain clothing and furnishings, ceramic burial goods, receptiveness to remonstrance, lenient correction, agricultural priority, and lighter public burdens. The strongest bounded judgment is continuity between life and will: frugal death arrangements constrain both court display and social disruption. The broader claim that these choices made households rich and founded Wen-Jing prosperity remains a retrospective causal interpretation rather than a measured result.
 
+Two late-reign crisis tests extend Liu Heng's restraint profile from private frugality and feedback solicitation to respect for delegated operational authority and immediate burden reduction. During the Xiongnu emergency, he accepts being stopped at [[ZhouYafu|周亚夫]]'s fortified camp, follows its entry and movement rules, receives armored military ritual without treating it as an insult, and judges the constraint as evidence of preparedness. During drought and locust damage, he reportedly suspends tribute, opens restricted natural resources, cuts palace consumption and staffing, releases grain, and revives grain-for-rank exchange. The combined evidence supports the governing pattern without proving the measures' effectiveness. [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]]
+
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
@@ -50,7 +53,7 @@ The same source links those instructions to refusal of a costly terrace, plain c
 - Agrarian and light-burden ruler credited by the episode with helping create Wen-Jing recovery.
 - Receptive and lenient ruler in the source's anecdotes, qualified by selective personal patronage that can rescue a favorite without wholly preventing formal discipline and by a willingness to let omen claims shape ritual and chronology before external correction.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
-- Crisis ruler who publicly solicits relief proposals and treats perceived kin favoritism as an appointment constraint.
+- Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and pairs disaster response with reduced extraction and court use.
 
 ## Evidence
 
@@ -79,15 +82,19 @@ Death, burial, and public burden:
 - [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] reports death after illness, short mourning, relaxed social prohibitions, limited attendance and display, unchanged Baling terrain, and the return of palace women to their families.
 - [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] also connects the will to the terrace refusal, plain court consumption, ceramic grave goods, agrarian priority, and light burdens.
 
+Military delegation and disaster response:
+- [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] contrasts Liu Heng's unimpeded passage through Bashang and Jimen with his acceptance of Xiliu's formal entry, no-galloping, and military-ritual rules.
+- [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] links drought and locust damage to suspended tribute, opened resource access, reduced palace use and staffing, granary relief, and grain-for-rank exchange.
+
 ## Qualifications
 
-This is a bounded profile assembled from nine popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. Hanji 228's dream, wordplay, offices, reward scale, private visits, abscess care, court procedure, minting scope, and motives require comparison; it more securely shows the podcast's patronage model than a complete legal or psychological account. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
+This is a bounded profile assembled from ten popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. The two Hanji 228 notes require separate handling: the Deng Tong episode's dream, wordplay, offices, rewards, intimate care, court procedure, minting scope, and motives remain source-scoped, while the Xiliu episode's camp comparison, dialogue, ritual, appointment sequence, disaster measures, and effects require textual and quantitative comparison. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
 
 ## What Changed
 
-- Replaced the compact Deng Tong exception with the dream-selection, household-access, enrichment, and intimate-care mechanism.
-- Added the contrast between Shentu Jia's permitted discipline and Liu Heng's eventual rescue of the favorite.
-- Sharpened the profile's central qualification: public frugality can coexist with extraordinary selective patronage.
+- Added Xiliu as a case where Liu Heng reinforces delegated command by accepting procedures that constrain the imperial convoy.
+- Extended late-reign restraint from feedback solicitation and funeral policy to concrete drought-and-locust burden reduction.
+- Preserved the central qualification that procedural respect and public frugality coexist with selective patronage and earlier omen capture.
 
 ## Relationships
 
@@ -112,4 +119,6 @@ This is a bounded profile assembled from nine popular-history podcast notes, not
 - [[OccultDecisionCapture|术数俘获式决策失控]] - decision-risk frame for allowing omen claims to substitute for prior independent verification.
 - [[ImperialSelfCriticismEdict|帝王自责诏]] - feedback pattern extended by the food-crisis edict's public self-questioning.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - frontier de-escalation instrument used again after damaging raids.
+- [[ZhouYafu|周亚夫]] - commander whose Xiliu rules Liu Heng accepts and praises during a frontier emergency.
+- [[WartimeCampCommandAuthority|战备营垒指挥权]] - delegated-authority pattern strengthened when Liu Heng submits his own convoy to formal camp procedure.
 - [[WesternHanDynasty|Western Han]] - dynasty ruled by Liu Heng from the post-Lu settlement to the Jingdi succession.
