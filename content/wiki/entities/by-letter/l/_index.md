@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12709
+wiki_total_pages: 12712
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2402,6 +2402,9 @@ wiki_pages:
   - key: "LiuJiJiaodongKingWesternHan"
     title: "胶东康王刘寄 / Liu Ji, Jiaodong King (Western Han)"
     url: "/wiki/entities/liujijiaodongkingwesternhan/"
+  - key: "LiuAngJiaoxiKingWesternHan"
+    title: "胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)"
+    url: "/wiki/entities/liuangjiaoxikingwesternhan/"
   - key: "LusunTeleprompter"
     title: "芦笋提词器"
     url: "/wiki/entities/lusunteleprompter/"

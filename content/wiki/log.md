@@ -32323,3 +32323,11 @@ Added source `643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622`;
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）
+
+Added source `zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp`; created [[RebellionOfTheSevenStatesWesternHan|七国之乱]], [[LiuAngJiaoxiKingWesternHan|胶西王刘昂]], [[HanTuidangWesternHan|韩颓当]], and [[PostRebellionAccountability|叛乱平定后的追责]]. Core synthesis: military defeat opens a distinct settlement phase in which the court investigates covert contact and tests a rebel slogan against lawful channels, formal authorization, and actual conduct; Liu Ang's “诛晁错” defense does not answer the absence of petition, edict, or tiger tally or the attack on a kingdom that refused rebellion. No settled contradiction was adopted. “焦西/胶西,” the unnamed Qi king and envoy, Liu Bi's reported killer, surrender and punishment procedure, family deaths, and the Han Tuidang-Han Yu genealogy remain source-scoped. Broad [[HanJingdi|汉景帝]], [[ZhouYafu|周亚夫]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[LiuBiWuKing|刘濞]], [[LuanBu|栾布]], [[QiKingdomEarlyHan|汉初齐国]], [[Linzi|临淄]], [[HanYu|韩愈]], and show pages were read for context but kept closed because the bounded additions are represented in the focused event, figures, concept, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; generated artifacts validate 4,045 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

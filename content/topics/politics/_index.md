@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3196
+topic_total_pages: 3197
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4597,6 +4597,9 @@ topic_concepts:
   - key: "UnboundedEliteRewardDemand"
     title: "受宠权臣的无餍封赏 / Unbounded Elite Reward Demand"
     url: "/wiki/concepts/unboundedeliterewarddemand/"
+  - key: "PostRebellionAccountability"
+    title: "叛乱平定后的追责 / Post-Rebellion Accountability"
+    url: "/wiki/concepts/postrebellionaccountability/"
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"

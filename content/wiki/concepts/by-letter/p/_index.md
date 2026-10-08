@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9924
+wiki_total_pages: 9925
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2618,6 +2618,9 @@ wiki_pages:
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"
+  - key: "PostRebellionAccountability"
+    title: "叛乱平定后的追责 / Post-Rebellion Accountability"
+    url: "/wiki/concepts/postrebellionaccountability/"
   - key: "PartnershipBoundaryRisk"
     title: "合伙关系边界风险 / Partnership Boundary Risk"
     url: "/wiki/concepts/partnershipboundaryrisk/"

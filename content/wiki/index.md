@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp.md) — 七国之乱由军事胜利进入清算：齐国密约受查、刘昂的“诛晁错”辩解被无诏无符与攻击拒叛邻国的事实驳回，韩颓当据此执行招降与处置；姓名、谱系及程序细节保留来源边界。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg.md) — 刘胜的享乐自保解释、刘彭祖的封国内控、刘丹的赦免与刘元的递进惩罚共同呈现宗室特权的问责边界，刘德则构成非决定论反例；亲缘与年代错误保留为明确矛盾。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf.md) — 刘余的孔壁古文发现构成相对温和的对照；刘建与刘端则分别显示谋反案终局和宗室保护下的长期地方问责失灵。
 - [《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（1）](sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d.md) — 刘安拟响应吴国却被掌兵国相封城拒命，刘赐、刘勃的忠顺与改封形成对照；太子刘荣、胶东王刘彻及薄皇后被废补出景帝朝继承背景。
@@ -4114,6 +4115,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发、周亚夫断粮制胜并在战后转入诸侯追责与中央收权的西汉宗室叛乱。
+- [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。
+- [韩颓当 / Han Tuidang (Western Han)](entities/HanTuidangWesternHan.md) — 奉诏处置七国之乱败王，并以授权、程序和实际攻击行为驳斥刘昂辩解的西汉将领。
 - [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
 - [臧儿 / Zang Er (Western Han)](entities/ZangErWesternHan.md) — 王娡之母，被节目呈现为以家族记忆、相面预言与关系渠道推动女儿离开初婚并进入太子宫的母系策略者。
 - [济北王刘勃 / Liu Bo, King of Jibei (Western Han)](entities/LiuBoJibeiKingWesternHan.md) — 七国之乱时坚守衡山、入朝受褒并改封济北的刘长之子，与常山王刘勃及昌邑王刘髆分列。
@@ -16877,6 +16881,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [叛乱平定后的追责 / Post-Rebellion Accountability](concepts/PostRebellionAccountability.md) — 军事胜利后依据密谋、授权、程序与实际行为区分参与并决定投降、惩罚及制度处置的治理过程。
 - [宫廷婚姻—储位联盟 / Palace Marriage-Succession Coalition](concepts/PalaceMarriageSuccessionCoalition.md) — 皇室子女婚配通过成人中介、宫廷接触、继承游说与未来家庭安全预期，重组储位竞争联盟的机制。
 - [特权隔绝式道德腐蚀 / Moral Corrosion Through Insulated Privilege](concepts/InsulatedPrivilegeMoralCorrosion.md) — inherited wealth, weak accountability, and constrained purpose can amplify elite indulgence and coercion without making moral decline inevitable.
 - [Agent Token Budgeting](concepts/AgentTokenBudgeting.md) — Management practice for evaluating agent inference spend against accepted work, task risk, review cost, and business outcomes.
