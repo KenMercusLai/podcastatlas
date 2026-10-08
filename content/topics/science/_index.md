@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1475
+topic_total_pages: 1477
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1594,6 +1594,9 @@ topic_concepts:
   - key: "OrbitalDebrisGovernance"
     title: "Orbital Debris Governance"
     url: "/wiki/concepts/orbitaldebrisgovernance/"
+  - key: "OrbitalReflectedSunlight"
+    title: "Orbital Reflected Sunlight"
+    url: "/wiki/concepts/orbitalreflectedsunlight/"
   - key: "OrexinAgonists"
     title: "Orexin Agonists"
     url: "/wiki/concepts/orexinagonists/"
@@ -3143,6 +3146,9 @@ topic_entities:
   - key: "RanaElKaliouby"
     title: "Rana el Kaliouby"
     url: "/wiki/entities/ranaelkaliouby/"
+  - key: "ReflectOrbital"
+    title: "Reflect Orbital"
+    url: "/wiki/entities/reflectorbital/"
   - key: "ReneDescartes"
     title: "Rene Descartes / 笛卡尔"
     url: "/wiki/entities/renedescartes/"

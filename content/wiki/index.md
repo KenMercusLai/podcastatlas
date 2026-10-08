@@ -4150,6 +4150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 - [Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268.md) — Condensed Huberman Lab interview on stress recovery, threat-versus-challenge appraisal, purposeful difficulty, biological-aging evidence, radical acceptance, uncertainty tolerance, and narrative meaning.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
+- [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
 - [Battle of Zama / 扎马战役](entities/BattleOfZama.md) — Decisive 202 BC battle where anti-elephant preparation, Roman-Numidian cavalry, and returning horsemen end Hannibal's last campaign.
@@ -16981,6 +16982,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
 - [Kaylee Robbins](entities/KayleeRobbins.md) — Parent and creator whose Meta AI experience prompted stricter child-identification, upload, permission, and family-sharing boundaries.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
+- [Reflect Orbital](entities/ReflectOrbital.md) — California startup proposing mirror satellites to extend solar generation while facing scale, astronomy, ecology, and governance constraints.
+- [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
 - [Frontier Settler Defense / 移民实边式边防](concepts/FrontierSettlerDefense.md) — 以筑城、迁居补偿、家庭与社区再生产、地方编组和训练，把长期定居者转化为边境生产与防御能力的制度设计。
@@ -27007,5 +27010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Third Punic War / 第三次布匿战争](concepts/ThirdPunicWar.md) — Escalation from constrained self-defense and treaty breach through coerced disarmament to siege, enslavement, and annihilation.
 - [Roman Enemy Memory / 罗马敌人记忆](concepts/RomanEnemyMemory.md) — Political afterlife through which Hannibalic devastation made a weakened but recovering Carthage appear existentially dangerous.
 - [Marriage Idealization and Mismatch / 婚姻理想化与错配](concepts/MarriageIdealizationMismatch.md) — 伴侣被投射为学术、精神、阶层或职业理想的工具，直到金钱、劳动、责任与日常生活暴露不相容期待的关系机制。
+- [Advanced-Economy Bond-Yield Pressure](concepts/AdvancedEconomyBondYieldPressure.md) — Framework separating common capital and inflation pressures from issuer-specific fiscal credibility and refinancing risk.
+- [Orbital Reflected Sunlight](concepts/OrbitalReflectedSunlight.md) — Deliberate satellite reflection of sunlight assessed through demonstration scale, storage economics, astronomy, ecology, and governance.
+- [Platform Truth-Arbitration Dilemma](concepts/PlatformTruthArbitrationDilemma.md) — Conflict between reducing harmful or false content and concentrating authority over truth and public speech in private platforms.
 
 ## Syntheses

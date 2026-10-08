@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9957
+wiki_total_pages: 9960
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "OrbitalDebrisGovernance"
     title: "Orbital Debris Governance"
     url: "/wiki/concepts/orbitaldebrisgovernance/"
+  - key: "OrbitalReflectedSunlight"
+    title: "Orbital Reflected Sunlight"
+    url: "/wiki/concepts/orbitalreflectedsunlight/"
   - key: "OrderClassVocationalEducation"
     title: "Order-Class Vocational Education / 订单班"
     url: "/wiki/concepts/orderclassvocationaleducation/"

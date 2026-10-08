@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9957
+wiki_total_pages: 9960
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "AdvancedPackaging"
     title: "Advanced Packaging"
     url: "/wiki/concepts/advancedpackaging/"
+  - key: "AdvancedEconomyBondYieldPressure"
+    title: "Advanced-Economy Bond-Yield Pressure"
+    url: "/wiki/concepts/advancedeconomybondyieldpressure/"
   - key: "AdventureAsVocationalIdentity"
     title: "Adventure as Vocational Identity / 冒险作为职业身份"
     url: "/wiki/concepts/adventureasvocationalidentity/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3372
+topic_total_pages: 3373
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7643,6 +7643,9 @@ topic_entities:
   - key: "ThePrincipleOfResponsibility"
     title: "The Principle of Responsibility / 《责任原理》"
     url: "/wiki/entities/theprincipleofresponsibility/"
+  - key: "TheSocialReckoning"
+    title: "The Social Reckoning"
+    url: "/wiki/entities/thesocialreckoning/"
   - key: "ThomaBravo"
     title: "Thoma Bravo"
     url: "/wiki/entities/thomabravo/"

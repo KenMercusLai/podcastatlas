@@ -31864,6 +31864,7 @@ Added source `zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-c
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听
 
 Added source `zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_`; created [[ShanglinParkWesternHan|上林苑]] and [[RewardedUnadoptedRemonstrance|赏谏不纳]]; and resynthesized [[DongfangShuo|东方朔]], [[SimaXiangru|司马相如]], and [[IncognitoImperialHuntingRisk|微服游猎治理风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the innkeeper episode extends incognito hunting from crop damage into armed-party lodging misidentification, while concealed rest stations adapt around one symptom without ending the practice; Dongfang Shuo joins livelihood, revenue, displacement, precedent, and safety objections to Shanglin enlargement, and Sima Xiangru frames dangerous hunting as an irreversible-risk violation, yet both receive favorable treatment without policy change. No settled contradiction was adopted. Dialogue, offices, rewards, station count and geography, park boundaries, land values, compensation, displacement, species, speeches, imperial motives, and long-run effects remain source-scoped. Broad Han Wudi, imperial-private-desire, receptive-remonstrance, advice-framing, show, and automatic overview pages were kept closed because the bounded addition is represented in focused pages and the downstream synthesis workflow forbids manual overview edits. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,015 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
@@ -32614,6 +32615,14 @@ Added source `642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636`
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Valley of the shadow of debt: bond-market jitters
+
+Added source `valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac`; created [[ReflectOrbital]], [[TheSocialReckoning]], [[AdvancedEconomyBondYieldPressure]], [[OrbitalReflectedSunlight]], and [[PlatformTruthArbitrationDilemma]]; and resynthesized [[FrancesHaugen]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: rich-world yields combine capital competition, inflation and monetary policy, and issuer-specific fiscal credibility; orbital sunlight must be evaluated against batteries and night-sky externalities; and platform harm reduction remains constrained by the danger of private global truth arbitration. No settled contradiction was adopted. Market figures, forecasts, satellite performance and economics, ecological effects, settlement details, and film judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,083 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-08] lint | Wiki health check
 

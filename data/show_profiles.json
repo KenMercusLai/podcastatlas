@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "69104aa52182b702669d450d025a7dac [69104aa52182b702669d450d025a7dac.mp3？aid=6ac76b2739599f7c56294e34&chid=d556eb54-6160-4.280].md",
-      "source_note_count": 92,
-      "topic_matched_source_note_count": 82,
+      "source_note_count": 93,
+      "topic_matched_source_note_count": 83,
       "topics": [
         {
           "key": "politics",
@@ -333,15 +333,15 @@
           "source_note_count": 59
         },
         {
-          "key": "technology",
-          "label": "Technology",
-          "url": "/topics/technology/",
-          "source_note_count": 27
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 28
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
           "source_note_count": 27
         },
         {
@@ -411,8 +411,8 @@
       ],
       "start_here_episode_files": [
         "4ae9c94fbc2460c76c6e93fcf359497b [4ae9c94fbc2460c76c6e93fcf359497b.mp3？aid=6ac36ea80d8a484144c61eb9&chid=d556eb54-6160-4.280].md",
+        "69104aa52182b702669d450d025a7dac [69104aa52182b702669d450d025a7dac.mp3？aid=6ac76b2739599f7c56294e34&chid=d556eb54-6160-4.280].md",
         "Coffer stop： AI may shrink tax base [6abf81fdb06169dc7218d384].md",
-        "Cheques and the City： Premier League disgrace [6abcdaab4e059d44b566ca74].md",
         "2959cbdca16de39a43a75666b5bc7057 [2959cbdca16de39a43a75666b5bc7057.mp3？aid=6ac617ea8f90a39dfc5baf52&chid=d556eb54-6160-4.280].md"
       ]
     },

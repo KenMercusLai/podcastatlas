@@ -6631,6 +6631,10 @@
     "title": "Advanced Ceramics Industrial Upgrade / 先进陶瓷产业升级",
     "url": "/wiki/concepts/advancedceramicsindustrialupgrade/"
   },
+  "AdvancedEconomyBondYieldPressure": {
+    "title": "Advanced-Economy Bond-Yield Pressure",
+    "url": "/wiki/concepts/advancedeconomybondyieldpressure/"
+  },
   "AdvancedLocalExpressDesk": {
     "title": "Advanced Local Express Desk",
     "url": "/wiki/entities/advancedlocalexpressdesk/"
@@ -61703,6 +61707,10 @@
     "title": "Orbital Debris Governance",
     "url": "/wiki/concepts/orbitaldebrisgovernance/"
   },
+  "OrbitalReflectedSunlight": {
+    "title": "Orbital Reflected Sunlight",
+    "url": "/wiki/concepts/orbitalreflectedsunlight/"
+  },
   "OrderClassVocationalEducation": {
     "title": "Order-Class Vocational Education / 订单班",
     "url": "/wiki/concepts/orderclassvocationaleducation/"
@@ -64778,6 +64786,10 @@
   "PlatformSubsidyScaleEconomics": {
     "title": "Platform Subsidy Scale Economics / 平台补贴规模经济",
     "url": "/wiki/concepts/platformsubsidyscaleeconomics/"
+  },
+  "PlatformTruthArbitrationDilemma": {
+    "title": "Platform Truth-Arbitration Dilemma",
+    "url": "/wiki/concepts/platformtrutharbitrationdilemma/"
   },
   "Platformer": {
     "title": "Platformer",
@@ -69470,6 +69482,10 @@
   "RefillableBeautyPackaging": {
     "title": "Refillable Beauty Packaging / 美妆替换芯包装",
     "url": "/wiki/concepts/refillablebeautypackaging/"
+  },
+  "ReflectOrbital": {
+    "title": "Reflect Orbital",
+    "url": "/wiki/entities/reflectorbital/"
   },
   "ReflectiveChoiceFormation": {
     "title": "Reflective Choice Formation / 反思式选择能力",
@@ -81670,6 +81686,10 @@
   "TheSocialRadars": {
     "title": "The Social Radars",
     "url": "/wiki/entities/thesocialradars/"
+  },
+  "TheSocialReckoning": {
+    "title": "The Social Reckoning",
+    "url": "/wiki/entities/thesocialreckoning/"
   },
   "TheSpiderThread": {
     "title": "《蛛丝》 / The Spider's Thread",
@@ -100470,6 +100490,10 @@
   "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690": {
     "title": "Using Your Nervous System to Enhance Your Immune System",
     "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
+  },
+  "valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac": {
+    "title": "Valley of the shadow of debt: bond-market jitters",
+    "url": "/wiki/sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac/"
   },
   "vanguard-1": {
     "title": "Vanguard",
