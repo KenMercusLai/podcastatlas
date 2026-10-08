@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？](sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1.md) — 穆先生从甜酒礼节中断判断君臣关系已变并及时退出；刘濞则把削藩压力、诸侯串联、吴国动员、越地支援与吴楚合兵转成公开战争，但齐国反悔、济北受制也暴露联盟不稳。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg.md) — 吴国铜盐、轻税与拒捕构成刘濞的资源和自治基础；晁错以“早削祸小”推动连续削地，应高再把诸侯恐惧、诛晁错口号、军事方案和分地承诺组合成七国联盟。
 - [《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？](sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46.md) — 文帝病逝后的遗诏以短丧、薄葬、限动员和不扰民延续其节俭政风；与文景之治的因果、细节和中断的长沙王纪事保留来源边界。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj.md) — 景帝酒后许诺刘武继位，被窦婴以父子相传之制当场制止；刘贤之死、棺柩往返、不朝与使者被扣又补出刘濞由丧子受辱到暂获文帝安抚的早期怨恨链。
@@ -4123,6 +4124,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
+- [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
 - [应高 / Ying Gao (Western Han)](entities/YingGaoWesternHan.md) — 受刘濞派遣，以共同威胁、诛晁错口号、军事计划和分地承诺说服胶西王刘昂加入联盟的吴国使者。
 - [刘贤 / Liu Xian, Crown Prince of Wu (Western Han)](entities/LiuXianWuCrownPrinceWesternHan.md) — 在长安酒后棋局冲突中被太子刘启打死、其棺柩往返成为吴王刘濞长期怨恨起点的吴国太子。
 - [张玮玮 / Zhang Weiwei](entities/ZhangWeiweiMusician.md) — 白银出生、经野孩子与北京独立音乐现场成长，并以《沙木黎》完成电子转向的音乐人。
@@ -16902,6 +16905,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [见几而作式风险退出 / Incipient-Risk Exit](concepts/IncipientRiskExit.md) — 从稳定关系中的细小偏离推断权力风险并在退出窗口关闭前行动，同时警惕事后验证造成的过度概括。
 - [Folk Music as Narrative Practice](concepts/FolkMusicAsNarrativePractice.md) — 将民谣理解为承载生活、地方语言、人物、记忆和口头变体的叙事实践，而非固定的木吉他音色。
 - [Independent Music Scene as Infrastructure](concepts/IndependentMusicSceneAsInfrastructure.md) — 将排练空间、场地、生计、照护、导师与高密度协作视为持续创作所需的基础设施。
 - [Creative Reinvention Through New Tools](concepts/CreativeReinventionThroughNewTools.md) — 创作者在旧方法失效后借陌生工具、媒介和学习状态重建表达能力的过程。

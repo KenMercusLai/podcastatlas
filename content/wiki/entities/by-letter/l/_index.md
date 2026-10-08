@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12725
+wiki_total_pages: 12727
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2264,6 +2264,9 @@ wiki_pages:
   - key: "LiuYanshouChuKingWesternHan"
     title: "楚王刘延寿 / Liu Yanshou, Chu King (Western Han)"
     url: "/wiki/entities/liuyanshouchukingwesternhan/"
+  - key: "LiuWuChuKingWesternHan"
+    title: "楚王刘戊 / Liu Wu, King of Chu (Western Han)"
+    url: "/wiki/entities/liuwuchukingwesternhan/"
   - key: "LoulanKingdomWesternHan"
     title: "楼兰 / Loulan Kingdom (Western Han)"
     url: "/wiki/entities/loulankingdomwesternhan/"

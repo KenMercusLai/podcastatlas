@@ -32395,3 +32395,11 @@ Added source `zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuan
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？
+
+Added source `zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1`; created [[LiuWuChuKingWesternHan|楚王刘戊]], [[MuXianshengWesternHan|穆先生]], and [[IncipientRiskExit|见几而作式风险退出]]; and resynthesized [[LiuBiWuKing|刘濞]] and [[RebellionOfTheSevenStatesWesternHan|七国之乱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 穆先生不是把一次失礼机械等同于灾祸，而是从稳定礼遇模式的中断判断权力关系已经变化，并在公开强制出现前退出；刘濞则把吴国资源与事先扩盟转成大规模动员、越地支援、吴楚合兵和攻梁，但齐国反悔、济北受制及多个战区也说明联盟并非整齐一致。No settled contradiction was adopted. Courtesy details, names, offices, reductions, force totals, mobilization ages, Minyue/Dongyue and Xiongnu roles, routes, deaths, speeches, and command assignments remain source-scoped. Broad [[HanJingdi|汉景帝]], [[ChaoCuoWesternHan|晁错]], [[ZhouYafu|周亚夫]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[LiJiWesternHan|郦寄]], [[LuanBu|栾布]], [[Minyue|闽越]], and [[DongyueWesternHan|东越]] pages were read for context but kept closed because focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,054 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

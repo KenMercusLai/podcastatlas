@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12725
+wiki_total_pages: 12727
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2042,6 +2042,9 @@ wiki_pages:
   - key: "MiHengLateHan"
     title: "祢衡 / Mi Heng (Late Han)"
     url: "/wiki/entities/mihenglatehan/"
+  - key: "MuXianshengWesternHan"
+    title: "穆先生 / Master Mu (Western Han)"
+    url: "/wiki/entities/muxianshengwesternhan/"
   - key: "Mihuashi"
     title: "米画师 / Mihuashi"
     url: "/wiki/entities/mihuashi/"

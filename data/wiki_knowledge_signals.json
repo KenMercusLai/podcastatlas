@@ -117433,6 +117433,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/incentivecompatibleaisafety/"
     },
+    "IncipientRiskExit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？ [lqtWFjr6oKnd9pGdTVNNZ61rs1f1].md",
+          "key": "zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/incipientriskexit/"
+    },
     "InclusiveSexualHealthDignity": {
       "episode_count": 1,
       "show_count": 1,
@@ -140642,9 +140658,9 @@
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -140680,6 +140696,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？ [lqtWFjr6oKnd9pGdTVNNZ61rs1f1].md",
+          "key": "zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
         }
       ],
       "updated": "2026-10-08",
@@ -143240,6 +143263,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuwenqingherebellatehan/"
+    },
+    "LiuWuChuKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？ [lqtWFjr6oKnd9pGdTVNNZ61rs1f1].md",
+          "key": "zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liuwuchukingwesternhan/"
     },
     "LiuWuLiangKingWesternHan": {
       "episode_count": 7,
@@ -163841,6 +163880,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/msmagazine/"
+    },
+    "MuXianshengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？ [lqtWFjr6oKnd9pGdTVNNZ61rs1f1].md",
+          "key": "zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/muxianshengwesternhan/"
     },
     "MughalArchitecturalSynthesis": {
       "episode_count": 2,
@@ -195423,9 +195478,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RebellionOfTheSevenStatesWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -195475,6 +195530,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？ [lqtWFjr6oKnd9pGdTVNNZ61rs1f1].md",
+          "key": "zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1/"
         }
       ],
       "updated": "2026-10-08",

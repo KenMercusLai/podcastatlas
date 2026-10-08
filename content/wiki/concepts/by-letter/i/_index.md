@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9930
+wiki_total_pages: 9931
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "IntegratedMilitarySituationAssessment"
     title: "综合军情判断 / Integrated Military Situation Assessment"
     url: "/wiki/concepts/integratedmilitarysituationassessment/"
+  - key: "IncipientRiskExit"
+    title: "见几而作式风险退出 / Incipient-Risk Exit"
+    url: "/wiki/concepts/incipientriskexit/"
   - key: "ImperialEdictImplementationResistance"
     title: "诏令执行阻抗 / Imperial Edict Implementation Resistance"
     url: "/wiki/concepts/imperialedictimplementationresistance/"
