@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z.md) — 汉武帝以贤良方正、直言极谏与策问打开求贤通道，董仲舒由经学进入国家政策场域；“首届公务员考试”、名次、人数及独尊儒术因果保留来源边界。
+- [《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！](sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail.md) — 董仲舒、魏绾与汉武帝初年儒学上升被区分为政策论述、人员筛选和混合治理；赵绾、王臧迎申公又把尊师礼仪、明堂计划与“重实行”之谏连在一起。
 - [《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？](sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs.md) — 宁成从打击豪强、受罚逃亡到被重新起用并反成南阳豪强，呈现酷吏因皇权需求而被反复利用、失去保护又被同类替代的循环；官职、动机、道德排名与灭族程序保留来源边界。
 - [The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple](sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189.md) — Huberman Lab interview arguing that progressive resistance, sufficient effort, recovery, and adherence generally transfer across sexes while cycle, menopause, fasting, cortisol, creatine, and hormone claims require outcome-level evidence and individual context.
 - [《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听](sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_.md) — 客栈误认延续微服游猎的身份风险；东方朔反对扩建上林苑、司马相如反对亲射猛兽，均获赏却未改变武帝决策，形成“赏谏不纳”的反馈边界。
@@ -4088,6 +4089,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
+- [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
 - [郅都 / Zhi Du (Western Han)](entities/ZhiDuWesternHan.md) — 以边疆与京师强力执法、个人克制及刘荣事件中的政治暴露，构成宁成的对照型西汉酷吏。
 - [Lauren Colenso-Semple](entities/LaurenColensoSemple.md) — Exercise scientist who distinguishes sex-related context from evidence for fundamentally different training rules.
 - [上林苑 / Shanglin Park (Western Han)](entities/ShanglinParkWesternHan.md) — 汉武帝计划扩建的帝王苑囿，其土地测量与补偿方案因肥田、资源、税收、迁徙和游猎安全成本受到东方朔反对。

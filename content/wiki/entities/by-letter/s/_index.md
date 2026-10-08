@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12684
+wiki_total_pages: 12686
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2654,6 +2654,9 @@ wiki_pages:
   - key: "ShenBuhai"
     title: "申不害 / Shen Buhai"
     url: "/wiki/entities/shenbuhai/"
+  - key: "ShenGongWesternHan"
+    title: "申公 / Shen Gong (Western Han)"
+    url: "/wiki/entities/shengongwesternhan/"
   - key: "ShentuGangEasternHan"
     title: "申屠刚 / Shentu Gang"
     url: "/wiki/entities/shentugangeasternhan/"

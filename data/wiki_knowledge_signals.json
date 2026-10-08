@@ -62483,9 +62483,9 @@
       "url": "/wiki/entities/dongyuanlatehan/"
     },
     "DongZhongshu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -62528,6 +62528,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
         }
       ],
       "updated": "2026-10-08",
@@ -116330,9 +116337,9 @@
       "url": "/wiki/concepts/imperialsymbolicstandardization/"
     },
     "ImperialTeacherHonorRitual": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？ [lhWbxrqocF102Or9k0nb6Z93gzx9].md",
@@ -116340,9 +116347,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/imperialteacherhonorritual/"
     },
     "ImperialThreatPerceptionFeedback": {
@@ -174030,9 +174044,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterConfucianInnerLegalistGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
@@ -174047,9 +174061,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
     },
     "OuterRelativeBalanceUnderImperialPower": {
@@ -209335,6 +209356,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/shellshock/"
     },
+    "ShenGongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shengongwesternhan/"
+    },
     "ShenJingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -242590,9 +242627,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
@@ -242600,6 +242637,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
         }
       ],
       "updated": "2026-10-08",
@@ -244258,6 +244302,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/weituqiwesternhan/"
+    },
+    "WeiWanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/weiwanwesternhan/"
     },
     "WeiXiangWesternHan": {
       "episode_count": 3,
@@ -260804,9 +260864,9 @@
       "url": "/wiki/entities/zhaotuo/"
     },
     "ZhaoWanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1） [llcvo1LKlr1tKtUh_dqlKRr_pz7k].md",
@@ -260814,6 +260874,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-1-llcvo1lklr1tktuh_dqlkrr_pz7k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
+          "key": "zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
         }
       ],
       "updated": "2026-10-08",

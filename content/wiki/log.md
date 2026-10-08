@@ -32127,3 +32127,9 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
