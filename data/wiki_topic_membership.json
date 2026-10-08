@@ -3109,6 +3109,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4": [
     {
       "key": "technology",
@@ -58724,6 +58736,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ModernDisciplinaryFragmentation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ModernJapaneseInteriorDiscovery": [

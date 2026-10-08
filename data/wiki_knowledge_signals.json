@@ -2651,9 +2651,9 @@
       "url": "/wiki/concepts/aientertainmentparticipationdesign/"
     },
     "AIEraMajorChoice": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP266 当AI重构大学，我们该如何定义“好专业”？ [llbzCGsEFktCvkq__f37Hoan79dd].md",
@@ -2675,9 +2675,16 @@
           "show": "乱翻书",
           "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
           "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/aieramajorchoice/"
     },
     "AIExpressionBaseline": {
@@ -4835,9 +4842,9 @@
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
     },
     "AITranslation": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
@@ -4873,9 +4880,16 @@
           "show": "独树不成林",
           "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
           "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/aitranslation/"
     },
     "AITravelPlanning": {
@@ -148859,9 +148873,9 @@
       "url": "/wiki/entities/lucuilatehan/"
     },
     "LuDapeng": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -148883,6 +148897,13 @@
           "show": "怪东西Weird History",
           "title": "43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震",
           "url": "/wiki/sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
         }
       ],
       "updated": "2026-10-08",
@@ -163490,6 +163511,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/modernchristmasreinvention/"
     },
+    "ModernDisciplinaryFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/moderndisciplinaryfragmentation/"
+    },
     "ModernMassTourism": {
       "episode_count": 3,
       "show_count": 1,
@@ -171377,6 +171414,43 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/noninstrumentalrelationalsafety/"
+    },
+    "NonInstrumentalUnderstanding": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+          "key": "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5",
+          "show": "蜉蝣天地 Meanders",
+          "title": "汉洋：为什么做《蜉蝣天地》",
+          "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+        },
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "49.李乌鸦来了！聊聊我们为啥爱阅读 [629280098].md",
+          "key": "49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098",
+          "show": "蜜獾吃书",
+          "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
+          "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/noninstrumentalunderstanding/"
     },
     "NonMarketEnvironmentalValuation": {
       "episode_count": 1,
@@ -180773,6 +180847,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/peacefultransferofpower/"
+    },
+    "PeachBlossomSpring": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下） [975539611].md",
+          "key": "180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611",
+          "show": "蜜獾吃书",
+          "title": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）",
+          "url": "/wiki/sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/peachblossomspring/"
     },
     "PeacockFeatherGuLong": {
       "episode_count": 1,
@@ -210532,6 +210629,43 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
+    },
+    "SelfDirectedLearning": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
+          "key": "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What do students lose when they rely on AI for homework?",
+          "url": "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md",
+          "key": "167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1",
+          "show": "晚点聊 LateTalk",
+          "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
+          "url": "/wiki/sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1/"
+        },
+        {
+          "episode_file": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
+          "key": "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！",
+          "url": "/wiki/sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/selfdirectedlearning/"
     },
     "SelfDirectedStateShifting": {
       "episode_count": 1,
@@ -249120,9 +249254,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -249214,6 +249348,13 @@
           "show": "怪东西Weird History",
           "title": "28 东西方的面首：从薛怀义到波将金",
           "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
         }
       ],
       "updated": "2026-10-08",
@@ -264402,6 +264543,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/zhangwuhuasportsmedicine/"
+    },
+    "ZhangXiangrong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
+          "key": "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc",
+          "show": "怪东西Weird History",
+          "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
+          "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhangxiangrong/"
     },
     "ZhangXianzhong": {
       "episode_count": 1,

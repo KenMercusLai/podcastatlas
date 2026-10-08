@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3373
+topic_total_pages: 3374
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8679,6 +8679,9 @@ topic_sources:
   - key: "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs"
     title: "268. AI时代，个人工作台会重新回到手机吗？"
     url: "/wiki/sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs/"
+  - key: "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc"
+    title: "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择"
+    url: "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
   - key: "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4"
     title: "270.大厂押注AI办公，飞书和钉钉却先成了配角"
     url: "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"

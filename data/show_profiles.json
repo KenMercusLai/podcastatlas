@@ -2271,8 +2271,8 @@
       "earliest_episode_date": "2026-05-07",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
-      "source_note_count": 16,
-      "topic_matched_source_note_count": 16,
+      "source_note_count": 17,
+      "topic_matched_source_note_count": 17,
       "topics": [
         {
           "key": "history",
@@ -2290,6 +2290,12 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 2
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
           "source_note_count": 1
         }
       ],
@@ -2306,7 +2312,7 @@
         "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
         "linkqVq3O6XmjxO5G8IppVpBBnK_ [linkqVq3O6XmjxO5G8IppVpBBnK_].md",
         "ltE-Eogr0nzAQwkFgYFCDuWC4gtT [ltE-Eogr0nzAQwkFgYFCDuWC4gtT].md",
-        "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md"
+        "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md"
       ]
     },
     "捕蛇者说": {

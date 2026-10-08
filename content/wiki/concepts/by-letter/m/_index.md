@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9962
+wiki_total_pages: 9963
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1256,6 +1256,9 @@ wiki_pages:
   - key: "ModernCriminalInvestigationFormation"
     title: "Modern Criminal Investigation Formation"
     url: "/wiki/concepts/moderncriminalinvestigationformation/"
+  - key: "ModernDisciplinaryFragmentation"
+    title: "Modern Disciplinary Fragmentation / 现代学科分割"
+    url: "/wiki/concepts/moderndisciplinaryfragmentation/"
   - key: "ModernJapaneseInteriorDiscovery"
     title: "Modern Japanese Interior Discovery"
     url: "/wiki/concepts/modernjapaneseinteriordiscovery/"

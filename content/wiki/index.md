@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择](sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc.md) — 怪东西从中文系与英语系的形成、课程和个人经验讨论学科分割、AI时代语言学习、兴趣、自学与可调整的专业选择。
 - [28 东西方的面首：从薛怀义到波将金](sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0.md) — 怪东西比较俄国与中国权势女性的伴侣，区分私人亲密、政变联盟、官职、军权、宗教合法性与性别化历史书写。
 - [29 东西方的冤案：德雷福斯、杨乃武和小白菜](sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8.md) — 怪东西以德雷福斯案与杨乃武、小白菜案比较偏见、伪证、刑讯、官僚自保、媒体监督与不完整的司法纠错。
 - [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0.md) — 晁错以城堡、迁居补偿、家庭安置、邻里互保、基层编组与骑射训练，把应对匈奴机动袭扰从远方轮戍改造成长期边境社区建设。
@@ -4197,7 +4198,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Danny Walsh](entities/DannyWalsh.md) — Peak State Coffee founder weighing debt, equity, and disciplined organic growth.
 - [Voiceback](entities/Voiceback.md) — Assistive voice-cloning app moving from free downloads to paid validation and trusted referral channels.
 - [Rhea Jain](entities/RheaJain.md) — Voiceback founder using lived experience, clinical outreach, and user advisers to develop assistive communication.
-- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害、制度、人物、政治暴力、知识生产与思想史的历史播客。
+- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较、细读与学科史连接制度、人物、政治暴力、知识生产和当代教育问题的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
@@ -7183,7 +7184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王洪瑞 / Wang Hongrui](entities/WangHongrui.md) — WFP staff member and 声东击西 guest witnessing South Sudan refugee hunger and aid-delivery limits.
 - [Wedweil Refugee Camp / 维德维尔难民营](entities/WedweilRefugeeCamp.md) — South Sudan camp near Aweil where the episode observes registration waits, food aid cuts, nutrition screening, and school meals.
 - [Aweil / 阿维尔](entities/Aweil.md) — South Sudan field gateway to Wedweil refugee camp and nearby Sudanese refugee flows.
-- [陆大鹏 / 路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta, Shakespeare, English theatre, and historical memory through long-span cultural history; source notes differ on Chinese surname spelling.
+- [陆大鹏 / 路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 历史与文学解释者，连接休达、莎士比亚、灾害史、英语教育和AI时代语言学习；来源对中文姓氏写法不一。
 - [Strait of Gibraltar / 直布罗陀海峡](entities/StraitOfGibraltar.md) — Maritime passage whose North Africa-Iberia geography gives Ceuta and Gibraltar strategic value.
 - [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
 - [Iberian Peninsula / 伊比利亚半岛](entities/IberianPeninsula.md) — Regional setting connecting Spain, Portugal, al-Andalus, Reconquista, and Ceuta's North African crossing field.
@@ -13146,7 +13147,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [甄寻 / Zhen Xun (Xin official)](entities/ZhenXunXinOfficial.md) — Xin fuming user whose marriage claim toward Wang Mang's daughter triggers arrest, flight, confession, and purge.
 - [王皇后（汉平帝皇后） / Empress Wang of Han Pingdi](entities/EmpressWangPingdi.md) — Wang Mang's daughter and former Han Pingdi empress whose selection, bride-price, reproductive omen use, remarriage refusal, and self-immolation mark Xin's dynastic identity rupture.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
-- [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
+- [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — 《祥瑞》作者，以汉代合法性、中文系经历与跨学科学习讨论历史和人文教育。
 - [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
 - [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed through omen-backed seizure, office paralysis, diplomatic blame transfer, reform stress, extraction, unsupported frontier intervention, information failure, and revolt.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose delegated routine authority, marriage approval, household environment, and grants helped Wang Mang's pre-usurpation ascent while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
@@ -14243,7 +14244,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hayao Miyazaki / 宫崎骏](entities/HayaoMiyazaki.md) — Animation director used as a comparison point for brave girl protagonists and otherworld fantasy after Alice.
 - [《千与千寻》 / Spirited Away](entities/SpiritedAway.md) — Miyazaki otherworld film compared with Alice through child agency under strange rules.
 - [《黑客帝国》 / The Matrix](entities/TheMatrix.md) — Cyberpunk Alice afterlife and Campbellian call/refusal example that turns rabbit-hole imagery and red/blue-pill choice into a reality-transition metaphor.
-- [《桃花源记》 / Peach Blossom Spring](entities/PeachBlossomSpring.md) — Chinese otherworld-portal comparison for rabbit holes, caves, and threshold crossings.
+- [《桃花源记》 / Peach Blossom Spring](entities/PeachBlossomSpring.md) — 既是异世界入口比较，也是区分开放探索与复制他人路线的文学隐喻。
 - [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
 - [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
 - [Lewis Henry Morgan](entities/LewisHenryMorgan.md) — 19th-century anthropology figure connected to Bachofen and later debates over kinship and patriarchal historical contingency.
@@ -16993,6 +16994,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Modern Disciplinary Fragmentation / 现代学科分割](concepts/ModernDisciplinaryFragmentation.md) — 现代专业化带来研究深度，也把跨文学、历史、哲学、政治与语言的整全对象分割进不同院系。
 - [杨乃武与小白菜案 / Yang Naiwu and Xiao Baicai Case](concepts/YangNaiwuXiaoBaicaiCase.md) — 由传闻、刑讯和层级照准固化，又经家属申诉、贵人援助、媒体监督与京城复审纠正的晚清冤案。
 - [Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错](concepts/WrongfulConvictionPersistenceCorrection.md) — 比较偏见与机构自保如何固化弱案，以及家属、内部异议、精英通道、媒体和政治时机如何促成纠错。
 - [Frontier Settler Defense / 移民实边式边防](concepts/FrontierSettlerDefense.md) — 以筑城、迁居补偿、家庭与社区再生产、地方编组和训练，把长期定居者转化为边境生产与防御能力的制度设计。
@@ -22571,7 +22573,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成](concepts/MainlandSoutheastAsiaRiverValleyStateFormation.md) — EP267 concept for mountains and north-south river valleys shaping ethnic, linguistic, and political zones.
 - [Angkor Hydraulic Empire / 吴哥水利帝国](concepts/AngkorHydraulicEmpire.md) — EP267 synthesis of Tonle Sap flood pulses, reservoirs, dry-season irrigation, rice surplus, labor, temples, and sacred kingship.
 - [Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业](concepts/MekongDeltaColonialCanalAgriculture.md) — EP267 downstream water-engineering case where French colonial canals made rice abundance while increasing climate and saltwater-intrusion exposure.
-- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — Choosing majors through foundations, real problem contact, AI collaboration, career cognition, person-fit, problem ownership, and transferable judgment rather than current heat.
+- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — 以基础、真实问题、AI协作、职业认知、个人适配、责任、兴趣与可调整性替代热门专业预测。
 - [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
 - [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.
 - [Medical AI Education / 医学AI教育](concepts/MedicalAIEducation.md) — EP266 medical-teaching branch where AI supports case reasoning, simulation, process assessment, and error correction while doctors retain responsibility.
@@ -25470,7 +25472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ransomware Business Continuity](concepts/RansomwareBusinessContinuity.md) — Operational resilience problem where ransomware disables orders, inventory, logistics, ERP, customer service, and recovery workflows.
 - [Offline Backup Recovery Drills](concepts/OfflineBackupRecoveryDrills.md) — Backup discipline focused on isolated copies and rehearsed restoration rather than untested backup claims.
 - [Personal Security Tiering](concepts/PersonalSecurityTiering.md) — Risk-based personal security frame matching passwords, backups, hardware keys, identity isolation, and device discipline to target value.
-- [Self-Directed Learning](concepts/SelfDirectedLearning.md) — Student capacity built from willingness, ability, tools, and belief, with AI useful only when it supports real understanding.
+- [Self-Directed Learning](concepts/SelfDirectedLearning.md) — 由意愿、能力、工具、信念、先行尝试和反馈构成，使学习者能跨课程与职业持续调整。
 - [Learning Experience Design](concepts/LearningExperienceDesign.md) — Education product discipline using short loops, animation, purpose cues, empathy, AI support, and data iteration to lower the threshold for real thinking.
 - [AI Shortcut Risk](concepts/AIShortcutRisk.md) — Risk that AI gives faster answers while bypassing the cognitive struggle that builds durable learning.
 - [Cognitive Surrender](concepts/CognitiveSurrender.md) — Pattern where users defer to AI reasoning or answers before forming independent judgment.
@@ -25646,7 +25648,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Water And Fire Education](concepts/WaterFireEducation.md) — Contrast between industrial water education that fills containers and AI-era fire education that ignites personal will and talent.
 - [Long-Form Conversation](concepts/LongFormConversation.md) — Interview method where time, trust, side paths, and rough thinking reveal a person's judgment and lived experience.
 - [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
-- [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
+- [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — 不以即时建议、收入、预测或绩效作为理解、阅读、观察与爱好的唯一价值标准。
 - [Non-Instrumental Literary Reading](concepts/NonInstrumentalLiteraryReading.md) — Reading fiction and classics as experience, emotional repair, possible-life exploration, and moral inquiry rather than only extractable utility.
 - [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to add visual understanding, editorial freedom, expert access, and distribution while preserving a coherent audio experience.
 - [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
