@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2630
+topic_total_pages: 2632
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -538,6 +538,9 @@ topic_concepts:
   - key: "FrontierViolenceSpectacle"
     title: "Frontier Violence Spectacle"
     url: "/wiki/concepts/frontierviolencespectacle/"
+  - key: "GenderedAuthorshipVisibility"
+    title: "Gendered Authorship Visibility / 性别化作者可见性"
+    url: "/wiki/concepts/genderedauthorshipvisibility/"
   - key: "GenderedHistoriographicalDesireFraming"
     title: "Gendered Historiographical Desire Framing / 性别化史书欲望叙事"
     url: "/wiki/concepts/genderedhistoriographicaldesireframing/"
@@ -5172,6 +5175,9 @@ topic_sources:
   - key: "128-rasputin-glt1290733613"
     title: "128. Rasputin"
     url: "/wiki/sources/128-rasputin-glt1290733613/"
+  - key: "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent"
+    title: "13 东西方的女作家：皮桑与蔡文姬"
+    url: "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
   - key: "131-burgundy-europes-forgotten-superpower-glt6941072856"
     title: "131. Burgundy: Europe's Forgotten Superpower"
     url: "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"

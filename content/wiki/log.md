@@ -32765,3 +32765,11 @@ Added source `14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwe
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 13 东西方的女作家：皮桑与蔡文姬
+
+Added source `13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent`; created [[ChristineDePizan|Christine de Pizan / 克里斯蒂娜·德·皮桑]] and [[GenderedAuthorshipVisibility|性别化作者可见性]]; resynthesized [[CaiWenji|蔡文姬]] from its complete preserved two-source inventory before appending the new source once; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]] from its complete preserved twenty-one-source inventory before appending the new source once. Core synthesis: premodern women could participate in professional, political, and literary authorship, while education, patronage, relation-based naming, disputed attribution, preservation, and later canon formation shaped whether that participation remained visible. The new source qualifies the simpler Cai Wenji capture sequence and the emotionally weighted Cao Cao ransom motive in Hanji 1116; her route, Xiongnu household history, children and return terms, Ye literary participation, work attribution, and reception remain source-scoped or contested. Christine's first-professional-woman-writer status, political influence, translated titles, and military thought likewise require specialist verification. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,102 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

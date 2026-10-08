@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9987
+wiki_total_pages: 9988
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "GenderedAsianStereotypes"
     title: "Gendered Asian Stereotypes / 亚裔性别化刻板印象"
     url: "/wiki/concepts/genderedasianstereotypes/"
+  - key: "GenderedAuthorshipVisibility"
+    title: "Gendered Authorship Visibility / 性别化作者可见性"
+    url: "/wiki/concepts/genderedauthorshipvisibility/"
   - key: "GenderedCreatorConfidence"
     title: "Gendered Creator Confidence"
     url: "/wiki/concepts/genderedcreatorconfidence/"

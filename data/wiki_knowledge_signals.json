@@ -31960,9 +31960,9 @@
       "url": "/wiki/entities/caimao/"
     },
     "CaiWenji": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
@@ -31977,9 +31977,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6/"
+        },
+        {
+          "episode_file": "lsNUDVgvJpmM09dVFONofvaDwenT [lsNUDVgvJpmM09dVFONofvaDwenT].md",
+          "key": "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent",
+          "show": "怪东西Weird History",
+          "title": "13 东西方的女作家：皮桑与蔡文姬",
+          "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/caiwenji/"
     },
     "CaiYangLateHan": {
@@ -42289,6 +42296,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/christielamond/"
+    },
+    "ChristineDePizan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsNUDVgvJpmM09dVFONofvaDwenT [lsNUDVgvJpmM09dVFONofvaDwenT].md",
+          "key": "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent",
+          "show": "怪东西Weird History",
+          "title": "13 东西方的女作家：皮桑与蔡文姬",
+          "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/christinedepizan/"
     },
     "ChristmasTruce1914": {
       "episode_count": 1,
@@ -93076,6 +93099,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/genderedasianstereotypes/"
+    },
+    "GenderedAuthorshipVisibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsNUDVgvJpmM09dVFONofvaDwenT [lsNUDVgvJpmM09dVFONofvaDwenT].md",
+          "key": "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent",
+          "show": "怪东西Weird History",
+          "title": "13 东西方的女作家：皮桑与蔡文姬",
+          "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/genderedauthorshipvisibility/"
     },
     "GenderedChastityHonorCoercion": {
       "episode_count": 1,
@@ -250669,9 +250708,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -250819,6 +250858,13 @@
           "show": "怪东西Weird History",
           "title": "14 这样的肉你敢吃吗？东西方的食品安全丑闻。315特别节目",
           "url": "/wiki/sources/14-zheyang-de-rou-ni-gan-chi-ma-dongxifang-de-shipin-anquan-chouwen-315-tebie-jiemu-lkagyyokjnnfxtovnqpfg4cxsjov/"
+        },
+        {
+          "episode_file": "lsNUDVgvJpmM09dVFONofvaDwenT [lsNUDVgvJpmM09dVFONofvaDwenT].md",
+          "key": "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent",
+          "show": "怪东西Weird History",
+          "title": "13 东西方的女作家：皮桑与蔡文姬",
+          "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
         }
       ],
       "updated": "2026-10-09",

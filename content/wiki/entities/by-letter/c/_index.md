@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12796
+wiki_total_pages: 12797
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "ChristinaTosi"
     title: "Christina Tosi"
     url: "/wiki/entities/christinatosi/"
+  - key: "ChristineDePizan"
+    title: "Christine de Pizan / 克里斯蒂娜·德·皮桑"
+    url: "/wiki/entities/christinedepizan/"
   - key: "ChristopherClark"
     title: "Christopher Clark"
     url: "/wiki/entities/christopherclark/"

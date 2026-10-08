@@ -491,6 +491,10 @@
     "title": "13.悲伤的力量：谈谈丧亲之痛",
     "url": "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"
   },
+  "13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent": {
+    "title": "13 东西方的女作家：皮桑与蔡文姬",
+    "url": "/wiki/sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent/"
+  },
   "13-stephen-fry-and-troy-glt5875934078": {
     "title": "13. Stephen Fry and Troy",
     "url": "/wiki/sources/13-stephen-fry-and-troy-glt5875934078/"
@@ -18615,6 +18619,10 @@
     "title": "Christina Tosi",
     "url": "/wiki/entities/christinatosi/"
   },
+  "ChristineDePizan": {
+    "title": "Christine de Pizan / 克里斯蒂娜·德·皮桑",
+    "url": "/wiki/entities/christinedepizan/"
+  },
   "ChristmasTruce1914": {
     "title": "Christmas Truce of 1914",
     "url": "/wiki/concepts/christmastruce1914/"
@@ -34542,6 +34550,10 @@
   "GenderedAsianStereotypes": {
     "title": "Gendered Asian Stereotypes / 亚裔性别化刻板印象",
     "url": "/wiki/concepts/genderedasianstereotypes/"
+  },
+  "GenderedAuthorshipVisibility": {
+    "title": "Gendered Authorship Visibility / 性别化作者可见性",
+    "url": "/wiki/concepts/genderedauthorshipvisibility/"
   },
   "GenderedChastityHonorCoercion": {
     "title": "贞节荣誉的性别化强制 / Gendered Chastity Honor Coercion",
