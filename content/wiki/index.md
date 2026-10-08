@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者](sources/yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov.md) — 张玮玮以白银厂矿生活、野孩子与北京独立音乐现场、作品成名、父亲去世和电子转向串起九十年代社会变迁与中年创作重建。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr.md) — 刘遂在郦寄、栾布合军灌邯郸后自杀；公孙爵经刘武为刘志申辩，使战后处置呈现惩罚、赦免、改封、复国与削地并用，姓名、程序和封地数字保留来源边界。
 - [《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”](sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef.md) — 刘濞因内部猜疑和资历偏见否决两套战略，周丘借符节与地方关系短暂扩军；吴楚崩溃后，刘濞又因盟友利益重估被诱杀，日期、姓名与“东海王”称谓保留来源边界。
 - [《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌](sources/zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq.md) — 晁错削藩与危机处置使诸侯怨恨和朝廷阻力集中于一身；袁盎以诛晁错、赦吴楚、还削地反击，景帝将其作为政治牺牲，但后续并未因此止战。
@@ -4119,6 +4120,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [张玮玮 / Zhang Weiwei](entities/ZhangWeiweiMusician.md) — 白银出生、经野孩子与北京独立音乐现场成长，并以《沙木黎》完成电子转向的音乐人。
+- [郭龙 / Guo Long](entities/GuoLongMusician.md) — 张玮玮从少年冲突到长期合作、反复分合与重新和解的朋友和音乐伙伴。
+- [野孩子 / Wild Children](entities/WildChildrenBand.md) — 以纪律性排练、非正式照护和合酒吧连接创作、生活与北京独立音乐现场的乐队共同体。
 - [赵王刘遂 / Liu Sui, King of Zhao (Western Han)](entities/LiuSuiZhaoKingWesternHan.md) — 七国之乱尾声退守邯郸，城墙在汉军引水攻城后崩塌并自杀的赵王。
 - [郦寄 / Li Ji (Western Han)](entities/LiJiWesternHan.md) — 吕氏危机中参与北军权力转移、七国之乱时长期围攻邯郸并与栾布合军的西汉将领。
 - [公孙爵 / Gongsun Jue (Western Han)](entities/GongsunJueWesternHan.md) — 以济北坚守、拖延吴军及忠王信心为由说服梁王替刘志求情的齐人说客。
@@ -16893,6 +16897,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [Folk Music as Narrative Practice](concepts/FolkMusicAsNarrativePractice.md) — 将民谣理解为承载生活、地方语言、人物、记忆和口头变体的叙事实践，而非固定的木吉他音色。
+- [Independent Music Scene as Infrastructure](concepts/IndependentMusicSceneAsInfrastructure.md) — 将排练空间、场地、生计、照护、导师与高密度协作视为持续创作所需的基础设施。
+- [Creative Reinvention Through New Tools](concepts/CreativeReinventionThroughNewTools.md) — 创作者在旧方法失效后借陌生工具、媒介和学习状态重建表达能力的过程。
 - [Status-Based Advice Dismissal / 身份资历式建议否决](concepts/StatusBasedAdviceDismissal.md) — 以年龄、资历、声誉或圈内地位替代对建议假设、证据、成本与执行条件的实质检验。
 - [Relief Pressure and Strategic Plan Protection / 救援压力下的战略坚守](concepts/StrategicPlanProtectionUnderReliefPressure.md) — 已定战役机制面对盟军求救和上级临时命令时，如何以持续证据、后勤行动和风险控制区分战略坚守与任性抗命。
 - [叛乱平定后的追责 / Post-Rebellion Accountability](concepts/PostRebellionAccountability.md) — 军事胜利后依据密谋、授权、程序与实际行为区分参与并决定投降、惩罚及制度处置的治理过程。

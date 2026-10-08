@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12720
+wiki_total_pages: 12723
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "GuoJinglong"
     title: "郭静龙"
     url: "/wiki/entities/guojinglong/"
+  - key: "GuoLongMusician"
+    title: "郭龙 / Guo Long"
+    url: "/wiki/entities/guolongmusician/"
   - key: "GenlyAi"
     title: "金利·艾 / Genly Ai"
     url: "/wiki/entities/genlyai/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12720
+wiki_total_pages: 12723
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "WarOfFaith"
     title: "追风者"
     url: "/wiki/entities/waroffaith/"
+  - key: "WildChildrenBand"
+    title: "野孩子 / Wild Children"
+    url: "/wiki/entities/wildchildrenband/"
   - key: "WenYiduo"
     title: "闻一多 / Wen Yiduo"
     url: "/wiki/entities/wenyiduo/"

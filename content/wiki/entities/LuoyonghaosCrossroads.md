@@ -18,7 +18,8 @@ sources:
   - cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii
   - yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo
   - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
-last_updated: 2026-10-07
+  - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,6 +34,8 @@ The one-to-one interviews follow creators and operators through concrete choices
 The Cui Jian interview adds an artist-audience negotiation mode: Luo speaks as a longtime fan while [[CuiJian|崔健]] answers from present artistic judgment. The [[YangLiStandup|杨笠]] interview adds a biographical recovery mode for a person flattened by controversy. Tour mechanics, cold rooms, family distance, career precarity, bereavement, privacy, and future work do not erase the public dispute; they restore the craft and life contexts needed to distinguish heterogeneous reception from total-person projection.
 
 The 《不开玩笑》 crossover adds a self-reflexive format discussion. [[SongFangjin|宋方金]] defines podcasting through [[LongFormConversationEmergence|long-information collision and emergence]], while the panel itself moves from failed ventures and creative ambition through ADHD, moving, production labor, film, AI, and retirement. Its discussion of video reach also separates distribution opportunity from studio polish and content quality.
+
+The [[ZhangWeiweiMusician|张玮玮]] interview deepens the show's music-oral-history mode. More than three decades of childhood, migration, survival work, band practice, venue ecology, authorship, grief, and electronic learning let a creator profile become a history of the social infrastructure around creation. The episode also demonstrates the show's willingness to hold artistic encouragement beside concrete challenge when Luo questions a concept album's potentially rigid structure and urges attention to AI tools.
 
 ## Key Characteristics
 - Long-form interview venue centered on biography, work methods, public judgment, and the logic behind choices.
@@ -50,18 +53,21 @@ The 《不开玩笑》 crossover adds a self-reflexive format discussion. [[Song
 - Artist-audience disagreement: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] uses old arrangements, concert participation, live-release access, AI music, albums, and studio economics to test who governs a living work.
 - Controversy and biographical context: [[yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo]] uses touring, stage anxiety, family history, grief, harassment, and future plans to distinguish comic reception from a complete judgment of the performer.
 - Format reflection and experimentation: [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] connects long-form emergence, video reach, simple production, failed ventures, ADHD, moving, and creative labor.
+- Music biography as social history: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] connects factory-compound change, migration, rehearsal, venue ecology, livelihood, authorship, bereavement, audience reception, electronic learning, and AI pressure.
 
 ## Qualifications
-Fifteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, and technological claims retain the qualifications of their individual source notes.
+Sixteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, music-historical, and technological claims retain the qualifications of their individual source notes.
 
 ## What Changed
 - Added a self-reflexive podcast-form branch centered on long-form emergence, video reach, and production constraint.
 - Extended the panel mode from value dilemmas into lived experimentation, failure, attention, moving, and invisible creative labor.
+- Deepened the music-interview branch from artist-audience disagreement into biography as social and scene history.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer across the bounded source set.
 - [[CuiJian|崔健]] - guest whose interview adds music, artistic authority, and audience nostalgia to the show's range.
 - [[YangLiStandup|杨笠]] - guest whose interview adds stand-up craft, public controversy, grief, and lifelong creation to the show's range.
+- [[ZhangWeiweiMusician|张玮玮]] - guest whose interview adds factory-compound memory, independent-music infrastructure, and electronic reinvention.
 - [[ShougongGeng|手工耿]] - creator-craft guest used to test utility, comedy, and art.
 - [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]] - founder and company case for engineering-led EV production.
 - [[WongJing|王晶]] - guest anchoring Hong Kong film-industry oral history.
@@ -74,3 +80,4 @@ Fifteen sources do not establish the show's complete catalog, editorial mission,
 - [[ComedyPublicReceptionBoundary]] - reception framework developed through the Yang Li interview.
 - [[LongFormConversationEmergence]] - format theory articulated inside the crossover conversation.
 - [[CostlyLifeExperimentation]] - theme joining failed ventures, creative ambition, and continued action without success guarantees.
+- [[IndependentMusicSceneAsInfrastructure]] - framework surfaced by the Zhang interview's rehearsal, care, livelihood, venue, and network history.

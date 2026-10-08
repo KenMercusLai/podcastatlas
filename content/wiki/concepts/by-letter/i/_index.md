@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9927
+wiki_total_pages: 9930
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "IndependentMacAppCraft"
     title: "Independent Mac App Craft"
     url: "/wiki/concepts/independentmacappcraft/"
+  - key: "IndependentMusicSceneAsInfrastructure"
+    title: "Independent Music Scene as Infrastructure"
+    url: "/wiki/concepts/independentmusicsceneasinfrastructure/"
   - key: "IndependentOfficialAudit"
     title: "Independent Official Audit / 独立考核地方官"
     url: "/wiki/concepts/independentofficialaudit/"

@@ -17,7 +17,8 @@ sources:
   - cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii
   - yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo
   - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
-last_updated: 2026-10-07
+  - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,6 +33,8 @@ The smartphone-history source makes Luo a case for both the cultural power and o
 As an interviewer, Luo is persistent, category-driven, and willing to embody the audience's objection. With [[ShougongGeng|手工耿]], he separates entertainment, playful function, and practical function; in comedy panels he converts jokes into status, money, relationship, emotional, and technology dilemmas; with film guests he presses production and market constraints; with [[CaiKangyong|蔡康永]] he exposes his own anxiety about aging and AI. The Cui Jian interview adds a mature fan's challenge around artistic authority and nostalgia. The [[YangLiStandup|杨笠]] interview adds a more protective biographical mode: Luo still presses controversy and audience impact, but also gives career formation, family grief, stage anxiety, and creative persistence enough room to complicate the public label.
 
 The “折腾” conversation makes continued experimentation an explicit life theme. Luo separates intense creative desire from demonstrated talent, revisits the capital and operational cost of smartphone entrepreneurship, and describes another technology company and a future stand-up tour as preferable to passive retirement. His account of hospital-diagnosed ADHD, medication limits, and severe launch-event preparation failure adds functional detail while preserving the existing professional-assessment boundary.
+
+The [[ZhangWeiweiMusician|张玮玮]] interview adds oral-history depth to the music branch. Luo follows one artist from factory-compound childhood through survival work, independent-scene apprenticeship, authorship, bereavement, electronic reinvention, audience reconciliation, and AI pressure. He supports Zhang's new direction while warning that an over-neat decade-by-decade album concept could constrain the work, extending his interviewer role from audience advocate into a critic of premature formal closure.
 
 ## Key Characteristics
 - Founder and presenter whose Smartisan history shows both the force and execution limits of taste-led consumer technology.
@@ -49,19 +52,22 @@ The “折腾” conversation makes continued experimentation an explicit life t
 - Self-disclosure and public expression: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] and [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] use ADHD, baldness, review response, anger, blocking, dissent contact, and Smartisan failure judgment to test responsibility and rebuttal.
 - AI, aging, and mortality: [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] show his AI fear, cross-model verification advice, companionship ambivalence, and mortality-facing self-reflection.
 - Continued experimentation and functional ADHD detail: [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] connects technology ambition, abandoned music and film paths, future stand-up plans, moving, hospital diagnosis, medication history, and launch-event preparation failure.
+- Music oral history and creative renewal: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] has Luo connect Zhang's biography to 1990s social change, independent-scene infrastructure, popular reception, electronic reinvention, and AI pressure while questioning an overly rigid future-album concept.
 
 ## Qualifications
-The evidence mixes one secondary smartphone history with self-presented interviews and comedy panels. Debt and business-loss figures, medical and treatment comments, genetic-test interpretations, relationship choices, conflict stories, AI forecasts, retirement beliefs, concert preferences, and personal memories remain source-scoped. The sources illuminate recurring public roles but do not establish a complete or neutral biography.
+The evidence mixes one secondary smartphone history with self-presented interviews and comedy panels. Debt and business-loss figures, medical and treatment comments, genetic-test interpretations, relationship choices, conflict stories, AI forecasts, retirement beliefs, concert preferences, music-history recollections, and personal memories remain source-scoped. The sources illuminate recurring public roles but do not establish a complete or neutral biography.
 
 ## What Changed
 - Made continued experimentation explicit as a profile through technology ambition, failed creative routes, and a planned stand-up tour.
 - Added functional detail to Luo's diagnosed-ADHD account without expanding it into medical guidance.
+- Added music oral history as a mode that joins biography, social change, creative method, reception, and technological pressure.
 
 ## Relationships
 - [[Smartisan]] - company through which Luo's founder taste and execution limits enter the evidence set.
 - [[LuoyonghaosCrossroads|罗永浩的十字路口]] - show where Luo's interviewer and moderator roles are most visible.
 - [[CuiJian|崔健]] - guest whose present-tense artistic practice Luo tests from the perspective of a longtime listener.
 - [[YangLiStandup|杨笠]] - guest whose public controversy Luo reframes through stage craft, biography, grief, and continuing creation.
+- [[ZhangWeiweiMusician|张玮玮]] - guest whose music life Luo frames through 1990s change, scene apprenticeship, reinvention, and audience communication.
 - [[ShougongGeng|手工耿]] - guest whose objects Luo frames through utility, comedy, craft, and art.
 - [[CaiKangyong|蔡康永]] - guest whose calm around aging and death contrasts with Luo's anxious self-disclosure.
 - [[ArtisticContinuityAgainstNostalgia]] - concept sharpened by Luo's demand for familiar arrangements and Cui's refusal to be frozen by them.
