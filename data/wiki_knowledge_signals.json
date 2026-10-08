@@ -118845,6 +118845,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/insularpaintolerancetraining/"
     },
+    "InsulatedPrivilegeMoralCorrosion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/insulatedprivilegemoralcorrosion/"
+    },
     "InsuranceClaimsAssistancePlatforms": {
       "episode_count": 2,
       "show_count": 2,
@@ -140855,9 +140871,9 @@
       "url": "/wiki/entities/liudanyankingwesternhan/"
     },
     "LiuDanZhaoPrinceWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
@@ -140865,15 +140881,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/liudanzhaoprincewesternhan/"
     },
     "LiuDeHejianKingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》268｜河间献王刘德，如何与《诗经》结缘？（2） [lsE66EaCIjdfcYjk76aso6Vzp6B_].md",
@@ -140895,6 +140918,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》267｜实事求是，谁第一个提出来的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-267-shishiqiushi-shui-diyige-ti-chulaide-lgabh7x_akbgdbyrjupmsfaz4qzm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
       "updated": "2026-10-08",
@@ -141920,9 +141950,9 @@
       "url": "/wiki/entities/liupenglijidongkingwesternhan/"
     },
     "LiuPengzuZhaoKingWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
@@ -141958,9 +141988,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》285｜他帮助汉武帝大一统，为何反被灭族？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/liupengzuzhaokingwesternhan/"
     },
     "LiuPenziEasternHan": {
@@ -142407,9 +142444,9 @@
       "url": "/wiki/entities/liushangeasternhan/"
     },
     "LiuShengZhongshanKingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？ [lnSPG6EKToHoR19yHTCqUlhl4cvT].md",
@@ -142431,6 +142468,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》252｜一群吃瓜群众，如何险杀汉武帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-252-yiqun-chigua-qunzhong-ruhe-xiansha-hanwudi-lndyhnpi9ygvvrh-h1vnxocs3oap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
       "updated": "2026-10-08",
@@ -144027,6 +144071,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/liuyulukingwesternhan/"
+    },
+    "LiuYuanHejianKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liuyuanhejiankingwesternhan/"
     },
     "LiuYuanqiLateHan": {
       "episode_count": 1,
@@ -202822,9 +202882,9 @@
       "url": "/wiki/concepts/royalkintreasonlawboundary/"
     },
     "RoyalKinshipPenaltyMitigation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
@@ -202846,6 +202906,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
       "updated": "2026-10-08",
@@ -207806,9 +207873,9 @@
       "url": "/wiki/concepts/selfcontrolstrategytoolkit/"
     },
     "SelfDeprecatingPoliticalSurvival": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦 [lgWTUqTUg5Bh90qoHwiskccX77hY].md",
@@ -207823,9 +207890,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2） [lgf_fSsPUort2u2ZGipQnDjy77pG].md",
+          "key": "zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
     },
     "SelfDirectedStateShifting": {

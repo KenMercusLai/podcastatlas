@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3195
+topic_total_pages: 3196
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4915,6 +4915,9 @@ topic_concepts:
   - key: "PaternalLocalOfficeEthic"
     title: "父母官式地方官伦理 / Paternal Local Office Ethic"
     url: "/wiki/concepts/paternallocalofficeethic/"
+  - key: "InsulatedPrivilegeMoralCorrosion"
+    title: "特权隔绝式道德腐蚀 / Moral Corrosion Through Insulated Privilege"
+    url: "/wiki/concepts/insulatedprivilegemoralcorrosion/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"

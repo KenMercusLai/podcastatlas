@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
   - zizhi-tongjian-hanji-284-daoxing-nishi-de-zhufuyan-jiexiao-tancai-de-zhenxiang-2-lgrsvv0srpnkuflnumvnpgtam5a3
   - zizhi-tongjian-hanji-285-ta-bangzhu-hanwudi-da-yitong-weihe-fan-bei-miezu-lrmpubvjtwsqiujvii6wjj32e8ea
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg
+last_updated: 2026-10-08
 ---
 
 ## Overview
@@ -24,7 +25,7 @@ Hanji 338-2 supplies a later accusation pattern. The episode says Zhang Tang's s
 
 Hanji 382-1 presents Liu Pengzu as a royal father caught between a damaging heir and central authority. [[JiangChongWesternHan|江充]], then Jiang Qi, enters his circle because Jiang's sister marries Liu Dan. After Jiang accuses Liu Dan in Chang'an, Liu Pengzu calls him an unreliable fugitive and then offers to serve on the frontier to save his son. The episode says the plea changes the outcome from death to demotion.
 
-Hanji 382-2 adds a later household and succession profile. Liu Pengzu is described as skilled at using Han law to trap officials, with successive Zhao-household officials rarely lasting long. After [[LiuJianJiangduKingWesternHan|刘建]] dies, he obtains Nuo Ji and has [[LiuNaoziWesternHan|刘淖子]] with her. When Liu Pengzu dies without a settled successor, Wudi rejects Liu Naozi as desire-heavy and establishes [[LiuChangWushiHouWesternHan|武始侯刘昌]] instead.
+Hanji 382-2 adds a later household and succession profile. Liu Pengzu is described as skilled at using Han law to trap officials, with successive Zhao-household officials rarely lasting long. Hanji 237 part 2 sharpens the local-governance effect: senior appointees reportedly cannot remain for two years, lesser cases end in punishment and greater cases in death, while Liu Pengzu's night patrols make travelers avoid staying in Handan. After [[LiuJianJiangduKingWesternHan|刘建]] dies, he obtains Nuo Ji and has [[LiuNaoziWesternHan|刘淖子]] with her. When Liu Pengzu dies without a settled successor, Wudi rejects Liu Naozi as desire-heavy and establishes [[LiuChangWushiHouWesternHan|武始侯刘昌]] instead.
 
 ## Key Characteristics
 
@@ -33,7 +34,7 @@ Hanji 382-2 adds a later household and succession profile. Liu Pengzu is describ
 - Reports Zhang Tang by treating unusually personal care for Lu Yezhu as evidence of concealed collusion.
 - Father of Liu Dan and early patron-context figure for Jiang Chong/Jiang Qi.
 - Offers frontier service as a plea to save Liu Dan from execution.
-- Described as harsh, legally cunning, and dangerous to officials serving in Zhao.
+- Described as harsh, legally cunning, dangerous to officials serving in Zhao, and personally active in night patrols.
 - Later obtains Nuo Ji, fathers Liu Naozi, and leaves an unsettled succession in which Liu Naozi is rejected and Liu Chang selected.
 
 ## Evidence
@@ -51,18 +52,20 @@ Royal family and plea:
 
 Governing style and later household:
 - [[zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy|Hanji 382-2]] describes Liu Pengzu as harsh and legally cunning, then says he obtains Nuo Ji and fathers Liu Naozi.
+- [[zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg|Hanji 237 part 2]] repeats the sub-two-year official tenure pattern and adds night patrols and traveler avoidance in Handan.
 
 Succession endpoint:
 - [[zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy|Hanji 382-2]] says Liu Pengzu dies before the Zhao successor is fixed, leading Wudi to reject Liu Naozi and choose Liu Chang.
 
 ## Qualifications
 
-This page is bounded to five compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 284's fear-and-preemption motive and Hanji 338-2's fiscal motive remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that every accusation was true. Hanji 285 confirms the report's political consequence in the episode sequence but does not independently validate the wrongful-death charge or show that Liu Pengzu controlled the final decision.
+This page is bounded to six compact episodes. It does not reconstruct Liu Pengzu's full reign, complete family, exact legal language, the full records of officials harmed in Zhao, or the legal procedure for succession. Hanji 284's fear-and-preemption motive and Hanji 338-2's fiscal motive remain source-scoped; neither proves that Liu Pengzu lacked other grievances or that every accusation was true. Hanji 285 confirms the report's political consequence in the episode sequence but does not independently validate the wrongful-death charge or show that Liu Pengzu controlled the final decision. The exact official tenures, punishments, patrol force, crime-control effect, and traveler response in Hanji 237 part 2 remain episode-attributed.
 
 ## What Changed
 
 - Completed the immediate aftermath of Liu Pengzu's report through Zhufu Yan's trial, renewed court pressure, and execution.
 - Kept the accusation's political effect distinct from proof of every charge or control over the final decision.
+- Added the local-governance consequence of official turnover and coercive night patrols without treating them as a general survey of Zhao administration.
 
 ## Relationships
 
@@ -79,3 +82,4 @@ This page is bounded to five compact episodes. It does not reconstruct Liu Pengz
 - [[LiuNaoziWesternHan]] - son whose desire reputation blocks his Zhao succession.
 - [[LiuChangWushiHouWesternHan]] - successor chosen after Liu Naozi is rejected.
 - [[DesireGovernanceFitness]] - succession criterion used to reject desire-heavy rule.
+- [[InsulatedPrivilegeMoralCorrosion]] - institutional-risk frame for coercive power inside an insulated royal fief.

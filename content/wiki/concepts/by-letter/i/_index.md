@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9920
+wiki_total_pages: 9921
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "InstitutionalReconstructionFromPrecedent"
     title: "旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent"
     url: "/wiki/concepts/institutionalreconstructionfromprecedent/"
+  - key: "InsulatedPrivilegeMoralCorrosion"
+    title: "特权隔绝式道德腐蚀 / Moral Corrosion Through Insulated Privilege"
+    url: "/wiki/concepts/insulatedprivilegemoralcorrosion/"
   - key: "ImperialBridePriceRitualPolitics"
     title: "皇后聘礼礼制政治 / Imperial Bride-Price Ritual Politics"
     url: "/wiki/concepts/imperialbridepriceritualpolitics/"

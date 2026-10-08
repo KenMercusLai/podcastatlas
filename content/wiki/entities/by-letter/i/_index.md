@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12700
+wiki_total_pages: 12701
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"

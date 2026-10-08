@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod
   - zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am
   - zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf
+  - zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg
 last_updated: 2026-10-08
 ---
 
@@ -25,6 +26,8 @@ The concept directly qualifies [[RuleOverKinshipPower|法度压过亲缘特权]]
 A distinct posthumous succession variant appears through [[LiuJiJiaodongKingWesternHan|胶东王刘寄]]. Liu Ji is implicated after the Huainan rebellion case but dies before naming an heir or receiving a completed judgment. The episode says [[HanWudi|汉武帝]] responds to kinship, childhood closeness, grief, and pity by preserving Jiaodong succession for Liu Xian and giving Liu Qing a separate Liu'an kingdom. This is not a demonstrated sentence commutation: death interrupts adjudication, and the observable mitigation lies in preserving and multiplying dynastic status after suspicion. [[zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am|Hanji 316-1]]
 
 [[LiuDuanWesternHan|胶西王刘端]] supplies a stronger impunity variant. Hanji 237 says officials repeatedly request punishment after household killings and lethal action against senior administrators, yet Wudi will not execute his elder brother. Unlike Liu Pengli, Liu Duan is not first stripped of kingdom and status; he remains king until dying without an heir. The case shows how mitigation can become non-enforcement during the offender's lifetime, shifting its costs onto local officials and household dependants rather than merely lowering a final sentence.
+
+Hanji 237 part 2 adds two boundary cases. [[LiuDanZhaoPrinceWesternHan|刘丹]] is eventually pardoned after a capital-level scandal, but pardon does not restore the heirship. [[LiuYuanHejianKingWesternHan|刘元]] first loses only two counties after coercing seven deaths, then is deposed after further retaliatory violence. These cases show that mitigation can be temporary and graduated: initial clemency preserves life or office, while later misconduct can still cross the threshold into removal.
 
 ## Key Claims
 
@@ -53,15 +56,19 @@ Posthumous succession preservation:
 Lifetime non-enforcement:
 - [[zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf|Hanji 237]] says officials repeatedly seek Liu Duan's execution, but Wudi spares his elder brother and Liu Duan remains king until dying without an heir.
 
+Pardon and graduated punishment:
+- [[zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg|Hanji 237 part 2]] says Liu Dan is eventually pardoned without demonstrated restoration and Liu Yuan first loses territory before later being deposed for further violence.
+
 ## Counterevidence & Qualifications
 
-The concept is grounded in three popular-history episodes and should not be generalized into a fixed Western Han sentencing or succession rule. The transmitted Liu Pengli account does not allocate causal weight among affection, dynastic reputation, inherited merit, precedent, and political calculation. Deposition, exile, and abolition of the kingdom remain major sanctions, so “mitigation” should not be read as acquittal. In Liu Ji's case, death precedes completed adjudication; the current source does not establish that his sons' grants formally overturned a conviction or what ordinary succession would otherwise have been. In Liu Duan's case, the detailed crimes, number of officials, poisoning method, punishment requests, and Wudi's motive remain episode-attributed; natural death and failure of succession are not delayed legal accountability. The later [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] case, in which Wudi approves a close relative's execution, is counterevidence to any claim that royal kin were always spared.
+The concept is grounded in four popular-history episodes and should not be generalized into a fixed Western Han sentencing or succession rule. The transmitted Liu Pengli account does not allocate causal weight among affection, dynastic reputation, inherited merit, precedent, and political calculation. Deposition, exile, and abolition of the kingdom remain major sanctions, so “mitigation” should not be read as acquittal. In Liu Ji's case, death precedes completed adjudication; the current source does not establish that his sons' grants formally overturned a conviction or what ordinary succession would otherwise have been. In Liu Duan's case, the detailed crimes, number of officials, poisoning method, punishment requests, and Wudi's motive remain episode-attributed; natural death and failure of succession are not delayed legal accountability. Liu Yuan's episode incorrectly assigns the later case to Wudi, so it supports the structure of graduated royal punishment but not a Wudi-specific conclusion. The later [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] case, in which Wudi approves a close relative's execution, is counterevidence to any claim that royal kin were always spared.
 
 ## What Changed
 
 - Added Liu Duan's lifetime non-enforcement as a stronger variant than sentence reduction or succession preservation.
 - Made the displaced cost explicit: protected rule leaves household dependants and local administrators exposed.
 - Kept sibling affection and low throne-threat perception as source explanations rather than settled doctrine.
+- Added pardon without restoration and limited territorial punishment followed by deposition as graduated mitigation outcomes.
 
 ## Related Concepts
 
@@ -73,3 +80,5 @@ The concept is grounded in three popular-history episodes and should not be gene
 - [[LiuWuLiangKingWesternHan|梁孝王刘武]] - father whose remembered service supplies the inherited-merit explanation.
 - [[LiuJiJiaodongKingWesternHan|胶东王刘寄]] - implicated prince whose sons retain or receive royal status after his death.
 - [[LiuDuanWesternHan|胶西王刘端]] - protected elder brother who remains king despite repeated punishment requests.
+- [[LiuDanZhaoPrinceWesternHan|赵太子刘丹]] - spared and later released without recovering the heirship.
+- [[LiuYuanHejianKingWesternHan|河间王刘元]] - initially retains kingship after territorial reduction but loses it after further violence.
