@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？](sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j.md) — 新垣平以望气、玉杯和祥瑞叙事获得文帝赏赐并影响祭祀、改元与建庙，最终由外部检举触发审讯败露；太阳异象机制和廷尉姓名保留来源边界。
 - [CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder](sources/all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770.md) — All-In interview with CZ on his immigrant and trading-systems background, Binance and BNB's launch, U.S. enforcement and prison, Giggle Academy, crypto privacy, and agent payments.
 - [《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？](sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj.md) — 晁错凭提前请罪与景帝背书化解申屠嘉的宗庙墙案；景帝首轮减笞与梁王刘武的财富、宾客和特殊礼遇又补出后续削藩及继承冲突的前奏。
 - [《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？](sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1.md) — 穆先生从甜酒礼节中断判断君臣关系已变并及时退出；刘濞则把削藩压力、诸侯串联、吴国动员、越地支援与吴楚合兵转成公开战争，但齐国反悔、济北受制也暴露联盟不稳。
@@ -4126,6 +4127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
 - [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
@@ -9770,7 +9772,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋和遗诏中的短丧薄葬限制公共负担，同时保留邓通厚宠这一资格条件。
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋和短丧薄葬限制公共负担，但邓通厚宠与新垣平祥瑞骗局也显示选择性恩宠和验证失误。
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -22991,7 +22993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Chicken-Bone Divination / 鸡骨占卜](concepts/ChickenBoneDivination.md) — Ritual system joining sacrifice, prepared bone-and-bamboo patterns, specialist interpretation, and textual transmission.
 - [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — 帝王死亡焦虑与不可核验神圣通道转化为海上搜索、迁驻、宫苑景观、赞助、保密与强制的模式。
-- [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, illness attribution, and failure reinterpretation can sustain or reopen influence.
+- [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, controlled prediction, staged proof, patronage, and failure reinterpretation sustain influence until an independent verification channel breaks the loop.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.

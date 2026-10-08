@@ -79814,9 +79814,9 @@
       "url": "/wiki/concepts/fangshiaccountabilitytrap/"
     },
     "FangshiFraudAndAuthority": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -79887,6 +79887,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？ [ljXpb9_Fn-JmATlg621chtClQn3j].md",
+          "key": "zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j/"
         }
       ],
       "updated": "2026-10-08",
@@ -141830,9 +141837,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -141868,6 +141875,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？ [ljXpb9_Fn-JmATlg621chtClQn3j].md",
+          "key": "zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j/"
         }
       ],
       "updated": "2026-10-08",
@@ -253840,6 +253854,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xinyelatehan/"
+    },
+    "XinyuanPingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？ [ljXpb9_Fn-JmATlg621chtClQn3j].md",
+          "key": "zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/xinyuanpingwesternhan/"
     },
     "Xiongnu": {
       "episode_count": 20,
