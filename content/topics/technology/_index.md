@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3378
+topic_total_pages: 3379
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3778,6 +3778,9 @@ topic_concepts:
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
+  - key: "RelationalContextCollapse"
+    title: "Relational Context Collapse / 关系语境坍缩"
+    url: "/wiki/concepts/relationalcontextcollapse/"
   - key: "RelationshipTechnologyEthics"
     title: "Relationship Technology Ethics / 亲密关系技术伦理"
     url: "/wiki/concepts/relationshiptechnologyethics/"

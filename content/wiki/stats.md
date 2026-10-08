@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10019
+- Concepts: 10022
 - Entities: 12841
-- Sources: 4139
-- Total wiki content pages: 27000
+- Sources: 4140
+- Total wiki content pages: 27004
 
 ## Links
-- Wiki link references: 634415
-- Unique wiki link targets: 27022
-- Missing targets: 28
+- Wiki link references: 634488
+- Unique wiki link targets: 27027
+- Missing targets: 29
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4139
-- Matched episodes: 4139
+- Source pages: 4140
+- Matched episodes: 4140
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -94,5 +94,7 @@ outputs: ["html"]
   - `content/wiki/concepts/SustainableGrowthPace.md`
 - `[[VerticalAIAgents]]`
   - `content/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md`
+- `[[Weibo]]`
+  - `content/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn.md`
 
 All wiki source pages resolve to episode pages.

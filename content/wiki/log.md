@@ -33076,3 +33076,11 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 299-哪个社交平台最烂？
+
+Added source `299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn`; created [[RelationalContextCollapse|关系语境坍缩]], [[PublicPersonaFlattening|公共人格压平]], and [[PlatformVocalMinorityDistortion|平台发声少数失真]]; resynthesized [[DushuBuchenglin|独树不成林]], [[AlgorithmicPublicAppearance|算法公共显现]], and [[JargonBoundaryMaking]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: concrete offline relationships provide identity, history, and audience-specific common ground, while public distribution can force one persona before heterogeneous audiences; visible platform culture may be consequential without representing silent users, and insider concepts become brittle when they cannot be translated, tested against counterexamples, or returned to complex reality. No settled contradiction was adopted. Platform demographics, comment quality, moderation effects, water armies, political tendencies, past controversies, and named internet doctrines remain episode-attributed; the host-as-invariant comparison is suggestive rather than controlled. Individual platform histories were kept closed because the source adds comparative reception experience rather than verified product or company history. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,140 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

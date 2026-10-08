@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10019
+wiki_total_pages: 10022
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "RelationalBorder"
     title: "Relational Border / 关系性边界"
     url: "/wiki/concepts/relationalborder/"
+  - key: "RelationalContextCollapse"
+    title: "Relational Context Collapse / 关系语境坍缩"
+    url: "/wiki/concepts/relationalcontextcollapse/"
   - key: "RelationalFateNetwork"
     title: "Relational Fate Network / 关系命运网络"
     url: "/wiki/concepts/relationalfatenetwork/"

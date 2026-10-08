@@ -11040,6 +11040,29 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/algorithmicopportunitydistribution/"
     },
+    "AlgorithmicPublicAppearance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/algorithmicpublicappearance/"
+    },
     "AlgorithmicRomanticCompatibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -66965,9 +66988,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -67045,9 +67068,16 @@
           "show": "独树不成林",
           "title": "302-国家应该立法禁止青少年使用社交媒体吗？",
           "url": "/wiki/sources/302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d/"
+        },
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -126741,9 +126771,9 @@
       "url": "/wiki/entities/jaredrutter/"
     },
     "JargonBoundaryMaking": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -126765,9 +126795,16 @@
           "show": "无时差研究所",
           "title": "EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？",
           "url": "/wiki/sources/ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7/"
+        },
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/jargonboundarymaking/"
     },
     "JasonCowley": {
@@ -188341,6 +188378,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/platformtrutharbitrationdilemma/"
     },
+    "PlatformVocalMinorityDistortion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/platformvocalminoritydistortion/"
+    },
     "Plato": {
       "episode_count": 5,
       "show_count": 4,
@@ -196499,6 +196552,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/publicillnesswriting/"
     },
+    "PublicPersonaFlattening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/publicpersonaflattening/"
+    },
     "PublicPrivateMarketDiscipline": {
       "episode_count": 2,
       "show_count": 1,
@@ -201894,6 +201963,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/relationalborder/"
+    },
+    "RelationalContextCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqH8pcpp387IlVL4HrcPQWUgUZVN [lqH8pcpp387IlVL4HrcPQWUgUZVN].md",
+          "key": "299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn",
+          "show": "独树不成林",
+          "title": "299-哪个社交平台最烂？",
+          "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/relationalcontextcollapse/"
     },
     "RelationalDisrespectPowerRisk": {
       "episode_count": 1,

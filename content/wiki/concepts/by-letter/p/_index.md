@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10019
+wiki_total_pages: 10022
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "PlatformTruthArbitrationDilemma"
     title: "Platform Truth-Arbitration Dilemma"
     url: "/wiki/concepts/platformtrutharbitrationdilemma/"
+  - key: "PlatformVocalMinorityDistortion"
+    title: "Platform Vocal-Minority Distortion / 平台发声少数失真"
+    url: "/wiki/concepts/platformvocalminoritydistortion/"
   - key: "PlatformAgentAccessConflict"
     title: "Platform-Agent Access Conflict"
     url: "/wiki/concepts/platformagentaccessconflict/"
@@ -2465,6 +2468,9 @@ wiki_pages:
   - key: "PublicOpinionLitigationStrategy"
     title: "Public Opinion Litigation Strategy"
     url: "/wiki/concepts/publicopinionlitigationstrategy/"
+  - key: "PublicPersonaFlattening"
+    title: "Public Persona Flattening / 公共人格压平"
+    url: "/wiki/concepts/publicpersonaflattening/"
   - key: "PublicProcurementAsMarketCatalyst"
     title: "Public Procurement As Market Catalyst"
     url: "/wiki/concepts/publicprocurementasmarketcatalyst/"

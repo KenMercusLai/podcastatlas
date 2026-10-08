@@ -2,26 +2,55 @@
 title: "Algorithmic Public Appearance / 算法公共显现"
 type: concept
 tags: [algorithms, public-sphere, arendt, identity, platforms]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]
-last_updated: 2026-08-06
+sources:
+  - 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja
+  - 299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn
+last_updated: 2026-10-09
+knowledge_schema: synthesis-v1
 ---
 
-# Algorithmic Public Appearance / 算法公共显现
+## Definition
 
-Algorithmic public appearance is [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]]'s [[HannahArendt|Arendtian]] lens for social platforms. The episode asks whether algorithmic public spaces let a person appear as "who" they are, or reduce them to "what" they are: gender, profession, creator identity, consumer segment, comment, tag, or data profile.
+Algorithmic public appearance is the question of whether platform-mediated public space lets a person appear through speech and action as a particular "who," or reduces them to a gender, profession, creator role, consumer segment, comment, label, or data profile.
 
-The concept is ambivalent. Algorithmic platforms can expand public space by giving niche creators and previously excluded speakers visibility. But the same systems can make appearance partial and performative because people adjust titles, covers, posting style, emotion, and even persona to satisfy invisible ranking and visible metrics.
+## Current Synthesis
+
+Platform visibility carries a democratic gain with a classification cost. Niche creators and excluded speakers can reach publics, yet profiles, rankings, metrics, inferred audiences, and engagement incentives make appearance partial and performative. A person adapts titles, covers, tone, and persona to systems whose rules are only partly visible.
+
+A relational layer remains even where algorithmic ranking is not isolated as the cause. [[RelationalContextCollapse]] and [[PublicPersonaFlattening]] can expose one creator voice to heterogeneous audiences that lack the identity and history of offline relationships. Public appearance is therefore shaped jointly by technical selection, interface feedback, platform culture, and the audience's compressed model of the speaker.
 
 ## Key Claims
-- Public appearance requires speech and action in front of others, not only classification by a system.
-- Platform labels, profiles, posts, and comments make people visible while also fragmenting them.
-- Likes and comment counts can make a partial audience reaction feel like a public verdict.
-- Creator self-presentation changes under platform regimes: stronger algorithmic ranking can make expression feel like pleasing an unseen ruler.
-- The value of algorithmic public space depends on the quality of appearance it enables, not only the number of people who can post.
 
-## Connections
-- [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]] — source thinker for who-ness, action, and public space.
-- [[CalculatedPublics]], [[PersonalizationAsSocialIdentity]], and [[AlgorithmicEntanglement]] — identity compression and self-presentation mechanisms.
-- [[PlatformAffordance]], [[PlatformFeedbackLoop]], and [[CreatorEvaluationPressure]] — visible response and creator behavior branch.
-- [[Xiaohongshu]], [[Xiaoyuzhou]], [[Douban]], and [[Twitter|X]] — platform examples used or implicated by the episode's public-space comparison.
-- [[CoffeehousePublicSphere]], [[SensationalMediaPublicSphere]], and [[NonfictionPublicness]] — adjacent publicness concepts already in the wiki.
+- Public appearance requires speech and action before others, not only classification by a system.
+- Platform visibility can broaden participation while still revealing only a partial or optimized self.
+- Likes, comment counts, labels, and local consensus cues can make a partial reaction feel like a total public verdict.
+- Creator self-presentation changes under ranking systems, audience metrics, comment norms, and cross-platform reward or punishment.
+- Consistency of conviction does not require identical tone or vocabulary across every relationship and audience.
+- Online familiarity does not establish full knowledge of the person behind a public persona.
+
+## Evidence
+
+- Classification and performance: [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] uses Hannah Arendt's distinction between "who" and "what" to examine profiles, tags, metrics, and creator adaptation.
+- Democratic opening: [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] recognizes that platform distribution can make niche creators and previously excluded voices visible.
+- Cross-platform reception: [[299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn]] reports that substantially the same creator and podcast material receive different identity labels, moral tests, and off-topic reactions across platforms.
+- Relationship boundary: [[299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn]] contrasts context-sensitive offline expression with the single public voice imposed by distribution to unknown audiences.
+
+## Counterevidence & Qualifications
+
+Neither source shows that algorithms alone cause persona flattening or that all public appearance was fuller before digital platforms. Creators exercise agency, audiences can form durable relationships, and public consistency supports accountability. The platform comparison is one creator's experience rather than a controlled test: audience composition, recommendation, moderation, format, circulation, and timing also vary.
+
+## What Changed
+
+- Added relational context loss and cross-platform reception to the earlier ranking-and-classification account.
+- Distinguished consistency of principle from forced uniformity of expression.
+- Migrated the page to the synthesis-first schema while preserving the original source inventory.
+
+## Related Concepts
+
+- [[RelationalContextCollapse]] - explains why unknown heterogeneous audiences lack the background of concrete relationships.
+- [[PublicPersonaFlattening]] - creator-level pressure to become one legible identity across contexts.
+- [[CalculatedPublics]] - inferred audience categories that shape self-understanding and content choices.
+- [[PersonalizationAsSocialIdentity]] - conversion of platform behavior into a shareable identity story.
+- [[PlatformAffordance]] - interface and distribution features that alter creator-audience relations.
+- [[CreatorEvaluationPressure]] - visible judgment signals that can feel like a total verdict.
+- [[PlatformVocalMinorityDistortion]] - gap between visible platform culture and the full user population.

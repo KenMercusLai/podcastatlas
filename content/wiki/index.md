@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [299-哪个社交平台最烂？](sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn.md) — 独树不成林以同一创作者的跨平台受众反应讨论关系语境坍缩、公共人格压平、发声少数失真与自我封闭的概念体系。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx.md) — 文帝罢周勃、刘章早逝与刘长锤杀审食其共同呈现新君巩固中的功臣和宗室压力；默许杀人与“一石二鸟”仍属节目推断。
 - [《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策](sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp.md) — 文帝以遣列侯、日食求谏和节用减役应对早期统治压力；贾山则指出君威本身会压抑直言，并要求把贤良方正用于朝议而非游猎。
 - [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm.md) — 标题虽指向贾谊与重农，正文实际讲袁盎劝文帝避险、以慎夫人座次维护嫡妾礼序，并以戚夫人结局警示宠爱越礼的政治风险。
@@ -17107,6 +17108,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Relational Context Collapse / 关系语境坍缩](concepts/RelationalContextCollapse.md) — 公共互联网交流丢失具体关系中的身份、共同历史、角色与受众别共识。
+- [Public Persona Flattening / 公共人格压平](concepts/PublicPersonaFlattening.md) — 一个人面向异质公众时被要求维持单一、稳定且可标签化的公开人格。
+- [Platform Vocal-Minority Distortion / 平台发声少数失真](concepts/PlatformVocalMinorityDistortion.md) — 高活跃、强硬或极端参与者塑造可见平台气质，但不必代表整体用户。
 - [粮食储备即国家能力 / Grain Reserves as State Capacity](concepts/GrainReservesAsStateCapacity.md) — 把粮食库存理解为家庭生存、救荒、军需与政治秩序的可调用能力。
 - [Historical Fiction as a Public Gateway / 历史小说作为公众入口](concepts/HistoricalFictionPublicGateway.md) — 小说、影视和游戏以人物与叙事降低历史进入门槛，但不因此替代史学或免除事实、文学与伦理批评。
 - [Personal-Network Military Organization / 私人网络型军事组织](concepts/PersonalNetworkMilitaryOrganization.md) — 以亲缘、地缘、师友和上下级依附组织招募与忠诚，在危机中提高凝聚力又制造中央控制风险。

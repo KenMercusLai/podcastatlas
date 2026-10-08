@@ -71649,6 +71649,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RelationalContextCollapse": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RelationshipFeedbackLoop": [
     {
       "key": "science",
