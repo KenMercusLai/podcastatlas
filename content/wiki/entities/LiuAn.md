@@ -18,6 +18,7 @@ sources:
   - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
   - zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is
   - zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d
+  - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
 last_updated: 2026-10-08
 ---
 
@@ -26,6 +27,8 @@ last_updated: 2026-10-08
 Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle, an earlier role as a sophisticated critic of costly southern expansion, and a political memory as a defeated royal conspirator. The rebellion case has a continuous source-scoped chain from omen-framed preparation through failed mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
 
 ## Current Profile
+
+The earliest current title layer appears after the death of Liu An's father [[LiuChangHuainanKing|刘长]]. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] says [[LiuHeng|汉文帝刘恒]] grants Liu An the title 阜陵侯 in 172 BCE amid popular criticism of Liu Chang's death. [[JiaYi|贾谊]] treats the grant as both apparent narrative concession and potential security risk. This supplies an early status-and-grievance setting for Liu An without proving that the grant caused his later conduct.
 
 The earliest current political episode qualifies the later image of Liu An as a self-directed strategist. [[zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d|Hanji 238]] says he intends to answer Wu's call during the Rebellion of the Seven States, but his chancellor volunteers for command, closes Huainan's gates after receiving it, and refuses the king's further orders. Liu An and the kingdom survive because a subordinate captures practical control and prevents action, not because the prince is shown choosing loyalty.
 
@@ -53,7 +56,7 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 
 ## Key Characteristics
 
-- Western Han prince and knowledge patron who can construct a sophisticated anti-overextension case yet later misjudge the feasibility of his own rebellion.
+- Western Han prince first shown receiving compensatory rank after his father's contested death, and later a knowledge patron who can construct a sophisticated anti-overextension case yet misjudge his own rebellion.
 - Prince whose first reported rebellion attempt is blocked when his chancellor takes military control and refuses his orders.
 - Ruler who avoids an immediate clash when an envoy signals restraint but treats a limited territorial sanction as a reason for renewed preparation.
 - Ruler depicted as rewarding favorable political intelligence and coercing disconfirming counsel by imprisoning an adviser's parents.
@@ -62,6 +65,10 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 - Royal leader unable to secure attendance from his own senior officials at the final mobilization attempt.
 
 ## Evidence
+
+Early grant and grievance setting:
+- [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] says Liu An is one of four sons granted marquis titles after popular criticism of Liu Chang's death.
+- [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] attributes to Jia Yi the warning that rank and resources can strengthen heirs who retain a paternal grievance; the later case does not establish direct causation.
 
 Knowledge compilation and later reception:
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] connects Liu An's circle to the Huainanzi's philosophical, technical, astronomical, and alchemical range and to later ascent legends.
@@ -94,10 +101,12 @@ Household fracture:
 
 The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for either rebellion episode. Hanji 238's intent, transfer of command, gate closure, chancellor disobedience, and central relief remain episode-attributed, but its mechanism sharply limits any claim that Liu An saved himself through loyal judgment. Hanji 254-255's terrain, governability, tribute, harvest, environmental, force, Qin-causation, exact-memorial, and settlement claims remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 254's description of Liu An as Jingdi's brother and Wudi's uncle conflicts with the preserved Liu Chang lineage and is not adopted. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
+Hanji 220's title, date, public-pressure sequence, Jia Yi warning, and account of Liu Heng's motive require comparison with transmitted texts. It supplies the earliest current grant and grievance context, not proof that Liu An already intended revenge or that the grant caused the later conspiracy.
+
 ## What Changed
 
-- Added the earlier Seven States episode in which Liu An intends to defect but loses practical command to his loyal chancellor.
-- Reframed his survival as institutional restraint imposed from below, not evidence of a voluntary loyal turn.
+- Added the 172 BCE 阜陵侯 grant and its setting in public criticism of Liu Chang's death.
+- Treated Jia Yi's warning as an early risk diagnosis rather than a deterministic explanation of Liu An's later conspiracy.
 
 ## Relationships
 
@@ -118,3 +127,6 @@ The current sources do not reconstruct Liu An's full biography, the Huainanzi's 
 - [[ChineseFolkReligionLayering|中国民间信仰层累]] - afterlife relationship through immortalization legend.
 - [[HistoricalCostPrecedentRemonstrance|历史成本先例式劝谏]] - method Liu An uses to connect southern-war precedent with current fiscal, human, and political risk.
 - [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - lower-cost frontier alternative proposed through envoy contact, titles, hostages, and tribute.
+- [[LiuHeng|汉文帝刘恒]] - uncle and grantor whose response to Liu Chang's death gives Liu An his earliest current title context.
+- [[JiaYi|贾谊]] - adviser who warns that the grant can join unresolved grievance to political capacity.
+- [[ReputationalRepairSecurityTradeoff|声誉修复与安全风险权衡]] - framework for the grant's simultaneous conciliatory and security effects.

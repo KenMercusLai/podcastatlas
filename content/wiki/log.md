@@ -32852,3 +32852,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（1）
+
+Added source `zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8`; created [[ReputationalRepairSecurityTradeoff|声誉修复与安全风险权衡]]; and resynthesized [[LiuHeng|汉文帝刘恒]], [[JiaYi|贾谊]], [[LiuChangHuainanKing|淮南王刘长]], [[LiuAn|刘安]], and [[LawEnforcementAgainstElitePrivilege|执法碰撞权贵特权]] from their complete preserved source inventories before appending the new source once. Core synthesis: the anti-abuse decree acknowledges private elite coercion but leaves coverage and enforcement uncertain; popular song turns Liu Chang's death into a legitimacy dispute; and grants to his sons can function as repair while also validating the hostile narrative and increasing grievance-bearing heirs' capacity. The self-starvation and illness accounts remain competing source narratives, while Liu Heng's illness, compensatory motive, decree implementation, and the grants' causal role in later rebellion remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,113 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

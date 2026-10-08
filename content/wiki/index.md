@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt.md) — 贾谊把储君教育视为国家风险预防，以环境和习惯解释人格形成，并区分礼教的事前塑造与法令的事后处置，同时保留法令的可预期与公正价值。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw.md) — 贾谊以“可杀不可辱”维护高官所代表的政治体面，又暴露逼迫自杀与压制申辩的风险，并以分封诸子削弱强大封国。
+- [《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（1）](sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8.md) — 权贵滥捕滥征禁令与刘长死后民谣共同暴露文帝仁政形象的制度和声誉压力；封赏刘长诸子既可修复关系，也被贾谊视为叙事与安全风险。
 - [《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？](sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy.md) — 缇萦以肉刑不可逆、使人无从改过为父请命，文帝由个案赦免转向废除黥劓刖等刑，但高额笞刑替代又留下致死风险。
 - [《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？](sources/zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td.md) — 晁错以农商激励倒置解释粮食不足，主张用爵位与赎罪换取边塞、郡县储粮，再以充足仓储支持减免田赋。
 - [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（1）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib.md) — 晁错以地形、训练、兵器、军种协同与选将责任比较汉匈所长，并借秦朝扩张、强征和民怨说明边防不能脱离国家承受力。
@@ -9536,7 +9537,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
-- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — 英布败后受封淮南的同姓替代王，后被简述为自立法令的失败谋反者，其死亡记忆成为刘安、刘赐政治冲突的家族背景。
+- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — 英布败后受封淮南的同姓替代王，其失败谋反、流放死亡、民谣争议与诸子受封共同形成刘安、刘赐政治冲突的家族记忆。
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
 - [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
 - [平原君朱建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — 先劝英布不要起兵，后借闳孺的近身渠道与自保动机劝阻惠帝杀审食其的风险调停者。
@@ -9892,7 +9893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋、短丧薄葬和纳谏纠错限制公共负担，但邓通厚宠与新垣平祥瑞骗局也显示选择性恩宠和验证失误。
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻负担、纳谏与限制权贵私刑塑造仁政，同时受选择性恩宠、祥瑞骗局及刘长死后声誉修复困境所限定。
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -9934,7 +9935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silk Road](entities/SilkRoad.md) — Illegal online marketplace used in the Loeb source to frame Ross Ulbricht's clemency and sentencing-proportionality case.
 - [Success Academies](entities/SuccessAcademies.md) — New York charter-school network Loeb names as the education-reform route into his broader opportunity and criminal-justice work.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
-- [贾谊 / Jia Yi](entities/JiaYi.md) — 以《过秦论》诊断拒谏与信息断流，并在《治安策》中讨论储君养成、礼法分工、高官体面和封国分权的西汉政论家。
+- [贾谊 / Jia Yi](entities/JiaYi.md) — 以《过秦论》诊断拒谏与信息断流，并在《治安策》及刘长诸子封赏争议中连接储君养成、礼法、高官体面、封国分权与怨恨资本的西汉政论家。
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
 - [李斯 / Li Si](entities/LiSi.md) — Qin minister whose arc runs from mouse philosophy and Qin entry through imperial policy design, Hu Hai's accession, coerced confession, and waist-chopping execution.
 - [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial arguing that Qin's historical success depended on foreign guest talent and that expulsion would strengthen enemy states.
@@ -11944,7 +11945,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale expansion, fiscal extraction, talent-channel opening and shortage, Wugu violence, late remorse, and final succession design.
-- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王；其谋反案现从彗星备战、雷被出逃延伸至方案膨胀、动员失败、供述清算与宗室扩散。
+- [Liu An / 刘安](entities/LiuAn.md) — 刘长死后在声誉修复中获封阜陵侯、后成为《淮南子》知识赞助者与谋反诸侯王；其案件延伸至方案膨胀、动员失败、供述清算与宗室扩散。
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used as a knowledge archive, a variant historical source, and an ironic capacity-and-self-knowledge frame for Liu An.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
@@ -19550,7 +19551,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Embodied Vulnerability Public Design / 身体脆弱性与公共设计](concepts/EmbodiedVulnerabilityPublicDesign.md) — Vulnerability frame linking bodies, injury, mortality, pregnancy, disability, class, respect, and environments that can manufacture exclusion.
 - [Good Life As Happy Together / 好的生活是 happy together](concepts/GoodLifeAsHappyTogether.md) — Xie Jin's relational good-life frame that rejects happiness built on extraction, waste, hierarchy, or other people's diminished lives.
 - [廷尉传召即赴死 / Court Summons as Death Sentence](concepts/CourtSummonsAsDeathSentence.md) — Court-politics pattern where formal transfer to judicial custody carries an unofficial expectation that a senior minister will self-kill before trial.
-- [执法碰撞权贵特权 / Law Enforcement Against Elite Privilege](concepts/LawEnforcementAgainstElitePrivilege.md) — Pattern where formal enforcement against elite privilege becomes punishable as disrespect toward the protected official.
+- [执法碰撞权贵特权 / Law Enforcement Against Elite Privilege](concepts/LawEnforcementAgainstElitePrivilege.md) — 从事前限制权贵亲属私捕滥征，到事后执法被改写为羞辱高官的正式规则—身份特权冲突。
+- [声誉修复与安全风险权衡 / Reputational Repair–Security Tradeoff](concepts/ReputationalRepairSecurityTradeoff.md) — 以爵位、财富或恢复身份回应舆论与亲族伤害时，修复名誉也可能强化仍有怨恨者的政治能力。
 - [女性亡国归咎叙事 / Women Blamed for Dynastic Collapse](concepts/WomenBlamedForDynasticCollapse.md) — Historiographical pattern that condenses ruler failure, male agency, and regime collapse into moralized dangerous-woman stories.
 - [神话化身世的史料边界 / Mythic Biography Source Caution](concepts/MythicBiographySourceCaution.md) — Source-critical rule for preserving legendary birth stories as reception evidence without treating them as verified biography.
 - [Grief Attachment Remapping](concepts/GriefAttachmentRemapping.md) — Grief model where closeness remains while the brain relearns space-time expectations after loss.

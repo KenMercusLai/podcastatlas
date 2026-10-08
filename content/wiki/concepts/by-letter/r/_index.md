@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9995
+wiki_total_pages: 9996
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "RespiratorySymptomTriage"
     title: "呼吸道症状分诊 / Respiratory Symptom Triage"
     url: "/wiki/concepts/respiratorysymptomtriage/"
+  - key: "ReputationalRepairSecurityTradeoff"
+    title: "声誉修复与安全风险权衡 / Reputational Repair–Security Tradeoff"
+    url: "/wiki/concepts/reputationalrepairsecuritytradeoff/"
   - key: "ROIMindsetCreativeSpillover"
     title: "大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover"
     url: "/wiki/concepts/roimindsetcreativespillover/"

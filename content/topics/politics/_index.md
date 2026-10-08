@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3220
+topic_total_pages: 3221
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4666,6 +4666,9 @@ topic_concepts:
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
+  - key: "ReputationalRepairSecurityTradeoff"
+    title: "声誉修复与安全风险权衡 / Reputational Repair–Security Tradeoff"
+    url: "/wiki/concepts/reputationalrepairsecuritytradeoff/"
   - key: "DiplomaticCostRiskAccounting"
     title: "外交成本风险核算 / Diplomatic Cost-Risk Accounting"
     url: "/wiki/concepts/diplomaticcostriskaccounting/"
