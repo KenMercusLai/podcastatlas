@@ -172416,9 +172416,9 @@
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
     "NewRulerCoalitionConstraint": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
@@ -172433,6 +172433,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1） [lhi5eWHuVbNDpPni122_Jd8vd8yg].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
         }
       ],
       "updated": "2026-10-09",
@@ -213216,6 +213223,36 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/secondhexicampaignwesternhan/"
+    },
+    "SecondInCommandRoleFit": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1） [lhi5eWHuVbNDpPni122_Jd8vd8yg].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/secondincommandrolefit/"
     },
     "SecondMexicanEmpire": {
       "episode_count": 1,
@@ -272306,9 +272343,9 @@
       "url": "/wiki/entities/zhongliyieasternhan/"
     },
     "ZhouBo": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -272379,6 +272416,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1） [lhi5eWHuVbNDpPni122_Jd8vd8yg].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
         }
       ],
       "updated": "2026-10-09",

@@ -14,12 +14,13 @@ sources:
   - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
+  - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-周勃 / Zhou Bo is a founding Han commander whose current profile spans officer morale, battlefield command, northern suppression, conflict and later cooperation with [[ChenPing|陈平]], the post-Lü restoration, and a late treason prosecution that exposes how residual merit could remain dangerous after formal retirement.
+周勃 / Zhou Bo is a founding Han commander whose current profile spans officer morale, battlefield command, northern suppression, conflict and later cooperation with [[ChenPing|陈平]], the post-Lü restoration, and an early Wen-reign retreat from central office that does not end the danger created by residual merit.
 
 ## Current Profile
 
@@ -29,17 +30,19 @@ The northern-campaign notes place Zhou Bo in the suppression of [[ChenXiRebellio
 
 Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he reportedly received visiting Hedong officials in armor and with an armed household because he feared being killed. A treason accusation then led to arrest, interrogation, prison humiliation, and a family bribe for procedural advice. The episode says intervention involving [[YuanAngWesternHan|袁盎]], [[BoZhaoWesternHan|薄昭]], and [[BaoJi|薄太后]] helped secure release; its larger interpretation is that Zhou Bo's surviving prestige after the Lü crisis made him a ruler-security problem even outside office.
 
-[[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] now supplies the institutional exit preceding that prosecution. In 177 BCE [[LiuHeng|汉文帝刘恒]] invokes the marquises' return to their fiefs, removes Zhou Bo as chancellor, appoints [[GuanYing|灌婴]], and reportedly folds the abolished grand-commandant function into the chancellorship. The host reads the move as fear of a founder who helped install the emperor; the removal and office change are the bounded evidence, while inner motive remains inferred.
+[[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg|Hanji 209 part 1]] supplies an earlier retreat from the right chancellorship. After Liu Heng shifts military command and major ministerial channels toward trusted former Dai personnel, he publicly asks Zhou Bo for judicial and fiscal totals that Zhou Bo cannot provide. Chen Ping instead distinguishes specialist data from chancellorial coordination. The host treats the exchange as a deliberate signal that Zhou Bo's information and operating power had narrowed, but the questions and answers do not prove that motive. Warned that restoration merit, prestige, and reward could become dangerous, Zhou Bo resigns and Chen Ping becomes sole chancellor.
+
+[[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] supplies the later institutional exit preceding prosecution. In 177 BCE Liu Heng invokes the marquises' return to their fiefs, removes Zhou Bo again as chancellor, appoints Guan Ying, and reportedly folds the abolished grand-commandant function into the chancellorship. The host reads the move as fear of a founder who helped install the emperor; the removal and office change are the bounded evidence, while inner motive remains inferred.
 
 ## Key Characteristics
 
-- Founding officer whose morale role begins in Liu Bang's constrained Hanzhong settlement.
-- Veteran commander with roles at Gaixia and in northern rebellion suppression.
+- Founding officer and veteran commander whose record spans morale work in the Hanzhong settlement, Gaixia, and northern rebellion suppression.
 - Both early accuser and later survival partner of Chen Ping.
 - Major participant in the post-Lü restoration of the Liu line.
 - Retired meritorious minister whose defensive behavior becomes material for a treason prosecution.
 - Prisoner whose experience exposes the gap between former military command and custodial power.
 - Accession-making chancellor whose ordered return to his fief marks the transition from indispensable restorer to politically exposed veteran.
+- Officeholder who responds to a narrowed information position and a warning about excessive prestige by resigning before his later return and dismissal.
 
 ## Evidence
 
@@ -56,16 +59,18 @@ Late accusation and imprisonment:
 - [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]] supplies the fear, armed reception, accusation, imprisonment, defense channels, and release.
 
 Removal from central office:
+- [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg|Hanji 209 part 1]] reports public judicial and fiscal questions, Zhou Bo's inability to answer, the surrounding transfer of military and ministerial channels, an outside warning, and his first resignation.
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] says Liu Heng removes Zhou Bo as chancellor under the marquis-return policy and appoints Guan Ying while reorganizing military responsibility.
 
 ## Qualifications
 
-The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
+The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 209 part 1 does not prove that Liu Heng staged the questions to humiliate Zhou Bo, that the reported six-of-nine personnel pattern was complete, or that one motive alone caused the resignation. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his later removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
 
 ## What Changed
 
-- Added the 177 BCE dismissal and fief return that precede Zhou Bo's later prosecution.
-- Distinguished the recorded institutional removal from the host's inferred imperial fear.
+- Added Zhou Bo's first resignation after public administrative questioning and a warning about the danger of accumulated prestige.
+- Distinguished military and information-channel transfer from the unproven claim that Liu Heng designed the exchange as humiliation.
+- Separated this first resignation from the later 177 BCE dismissal and return to the fief.
 
 ## Relationships
 
@@ -78,3 +83,5 @@ The source set is a sequence of popular-history episode notes, not a complete bi
 - [[TreasonAccusationTrap|谋反指控陷阱]] - accusation pattern activated by residual prestige and ambiguous conduct.
 - [[PowerExitTrap|权力退场困境]] - related pattern because loss of office does not remove political danger.
 - [[GuanYing|灌婴]] - successor chancellor in the office reorganization reported by Hanji 213 part 1.
+- [[NewRulerCoalitionConstraint|新君拥立联盟约束]] - consolidation pattern in which a new ruler gradually reduces dependence on accession-making veterans.
+- [[SecondInCommandRoleFit|二把手角色适配]] - contrasting role case because Chen Ping answers the same test and becomes sole chancellor.
