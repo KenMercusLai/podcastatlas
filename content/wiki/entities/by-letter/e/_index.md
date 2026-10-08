@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12701
+wiki_total_pages: 12703
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "EmpressDowagerDongLateHan"
     title: "董太后 / Empress Dowager Dong (late Han)"
     url: "/wiki/entities/empressdowagerdonglatehan/"
+  - key: "EmpressBoJingdiWesternHan"
+    title: "薄皇后 / Empress Bo of Emperor Jing (Western Han)"
+    url: "/wiki/entities/empressbojingdiwesternhan/"
   - key: "EmpressDengHuanLateHan"
     title: "邓皇后 / Empress Deng (Huan-era)"
     url: "/wiki/entities/empressdenghuanlatehan/"

@@ -17,6 +17,7 @@ sources:
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
   - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
   - zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is
+  - zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d
 last_updated: 2026-10-08
 ---
 
@@ -25,6 +26,8 @@ last_updated: 2026-10-08
 Liu An / 刘安 is a Western Han prince whose current wiki profile joins an intellectual afterlife as patron of the [[Huainanzi|《淮南子》]] circle, an earlier role as a sophisticated critic of costly southern expansion, and a political memory as a defeated royal conspirator. The rebellion case has a continuous source-scoped chain from omen-framed preparation through failed mobilization, insider disclosure, suicide before arrest, household punishment, abolition of Huainan, and investigation spreading to other royal relatives.
 
 ## Current Profile
+
+The earliest current political episode qualifies the later image of Liu An as a self-directed strategist. [[zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d|Hanji 238]] says he intends to answer Wu's call during the Rebellion of the Seven States, but his chancellor volunteers for command, closes Huainan's gates after receiving it, and refuses the king's further orders. Liu An and the kingdom survive because a subordinate captures practical control and prevents action, not because the prince is shown choosing loyalty.
 
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] presents Liu An's circle as a knowledge-compilation world spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy. Later storytelling converts the politically defeated prince into an immortal figure, so textual patronage, political catastrophe, and religious memory remain related but distinct layers.
 
@@ -51,12 +54,12 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 ## Key Characteristics
 
 - Western Han prince and knowledge patron who can construct a sophisticated anti-overextension case yet later misjudge the feasibility of his own rebellion.
+- Prince whose first reported rebellion attempt is blocked when his chancellor takes military control and refuses his orders.
 - Ruler who avoids an immediate clash when an envoy signals restraint but treats a limited territorial sanction as a reason for renewed preparation.
 - Ruler depicted as rewarding favorable political intelligence and coercing disconfirming counsel by imprisoning an adviser's parents.
 - Conspirator whose current source set depicts little princely or popular support before action.
 - Planner who overweights nominal manpower, passes, and analogies while underweighting leadership depletion, public incentives, and regime strength.
 - Royal leader unable to secure attendance from his own senior officials at the final mobilization attempt.
-- Prince whose inner circle produces early denunciation and late confession while unequal treatment of sons contributes to an internal rival-branch conflict.
 
 ## Evidence
 
@@ -71,11 +74,11 @@ Earlier centralization setting:
 - [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] uses Liu An's elite contacts and Chang'an activity to illustrate continuing vassal risk during adoption of the 推恩令.
 
 Strategic base and operational failure:
+- [[zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d|Hanji 238]] supplies the earlier Seven States case in which Liu An's own chancellor prevents intended participation after receiving military authority.
 - [[zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql|Hanji 294-2]] supplies the learned-prince profile, retainer circle, paternal grievance, comet warning, material preparation, sword-bout conflict, and blocked departure of Lei Bei.
 - [[zizhi-tongjian-hanji-295-doufu-de-famingzhe-jing-shi-zaofan-de-fanwang-libnwsqalvpzymlnbaewua4s6miw|Hanji 295]] supplies Lei Bei's appeal, Liu Qian's proposed envoy ambush, the envoy-induced stand-down, removal of two counties, renewed resentment, and Liu An's later secret alliance with Liu Ci.
 - [[zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug|Hanji 302-1]] supplies selective acceptance of intelligence, coercion of an adviser, comparative warning from Qin collapse and the Seven States, and Liu An's temporary retreat.
 - [[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] supplies the formal-investigation trigger, Liu An's pass-and-force plan, his Chen Sheng–Wu Guang analogy, and Wu Bei's leadership, popular-support, and regime-capacity rebuttal.
-- [[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] supplies Wu Bei's negative support assessment, the one-in-ten estimate, Liu An's changing schemes, and the failed summons of senior kingdom officials.
 - [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] interprets the resulting loss of initiative through “王犹豫，计未决” while preserving uncertainty about whether earlier action could have succeeded.
 
 Disclosure, punishment, and royal aftershock:
@@ -89,13 +92,12 @@ Household fracture:
 
 ## Qualifications
 
-The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 254-255's terrain, governability, tribute, harvest, environmental, force, Qin-causation, exact-memorial, and settlement claims remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 254's description of Liu An as Jingdi's brother and Wudi's uncle conflicts with the preserved Liu Chang lineage and is not adopted. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
+The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for either rebellion episode. Hanji 238's intent, transfer of command, gate closure, chancellor disobedience, and central relief remain episode-attributed, but its mechanism sharply limits any claim that Liu An saved himself through loyal judgment. Hanji 254-255's terrain, governability, tribute, harvest, environmental, force, Qin-causation, exact-memorial, and settlement claims remain episode-attributed; the advice's operational sophistication does not prove disinterested motive or universal pacifism. Hanji 254's description of Liu An as Jingdi's brother and Wudi's uncle conflicts with the preserved Liu Chang lineage and is not adopted. Hanji 279's court-network details do not establish that every contact formed part of a conspiracy. Hanji 294-2 through 304-2's preparations, dialogue, schemes, private motives, legal sequence, and identity normalizations remain source-scoped. The joined evidence of weak support qualifies the claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
 ## What Changed
 
-- Added the memorial's opening governability test: battlefield entry, durable administration, fiscal value, and recurring enforcement are separate questions.
-- Joined Hanji 254's intervention warning to Hanji 255's fuller cost chain and diplomatic alternative.
-- Preserved the source's incorrect Jingdi/Wudi kinship statement as a contradiction rather than changing the canonical lineage.
+- Added the earlier Seven States episode in which Liu An intends to defect but loses practical command to his loyal chancellor.
+- Reframed his survival as institutional restraint imposed from below, not evidence of a voluntary loyal turn.
 
 ## Relationships
 

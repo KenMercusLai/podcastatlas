@@ -32277,3 +32277,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（1）
+
+Added source `zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d`; created disambiguated profiles for [[LiuBoJibeiKingWesternHan|济北王刘勃]] and [[EmpressBoJingdiWesternHan|薄皇后]]; and resynthesized [[LiuAn|淮南王刘安]] and [[LiuCiHengshanKingWesternHan|衡山王刘赐]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu An survives the Seven States crisis because his chancellor takes practical military control and refuses royal orders, not because Liu An independently chooses loyalty; Liu Ci's refusal to join this earlier rising materially qualifies any lifelong-rebel profile. The source's unnamed chancellor and Qucheng marquis were not promoted to speculative identity pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,039 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg.md) — 刘胜的享乐自保解释、刘彭祖的封国内控、刘丹的赦免与刘元的递进惩罚共同呈现宗室特权的问责边界，刘德则构成非决定论反例；亲缘与年代错误保留为明确矛盾。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf.md) — 刘余的孔壁古文发现构成相对温和的对照；刘建与刘端则分别显示谋反案终局和宗室保护下的长期地方问责失灵。
+- [《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（1）](sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-1-lvolhayetcfp4km8mewo9qr-aq0d.md) — 刘安拟响应吴国却被掌兵国相封城拒命，刘赐、刘勃的忠顺与改封形成对照；太子刘荣、胶东王刘彻及薄皇后被废补出景帝朝继承背景。
 - [Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV](sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725.md) — All-In episode on agent work intensification, private AI deployment, token budgets, prediction-market information asymmetry, U.S. debt risk, and Ferrari's first EV.
 - [《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死](sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le.md) — 袁盎遇刺案由修路争议追到梁王宫中；韩安国迫使刘武交出羊胜、公孙诡，田叔则在认定死罪后焚毁案卷，以牺牲证据和同等执法换取宗室、太后与朝廷的暂时和解。
 - [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
@@ -4107,6 +4108,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 ## Entities
+- [济北王刘勃 / Liu Bo, King of Jibei (Western Han)](entities/LiuBoJibeiKingWesternHan.md) — 七国之乱时坚守衡山、入朝受褒并改封济北的刘长之子，与常山王刘勃及昌邑王刘髆分列。
+- [薄皇后 / Empress Bo of Emperor Jing (Western Han)](entities/EmpressBoJingdiWesternHan.md) — 由薄太后安排婚配、成为景帝首任皇后，并在保护者去世后被废与幽居宫中的薄氏皇后。
 - [河间王刘元 / Liu Yuan, King of Hejian (Western Han)](entities/LiuYuanHejianKingWesternHan.md) — 河间献王刘德后裔，先因逼迫七名姬妾自杀而削县，后因报复杀害官员之母被废迁房陵，并在废位后继续施暴的西汉诸侯王。
 - [鲁共王刘余 / Liu Yu, King of Lu (Western Han)](entities/LiuYuLuKingWesternHan.md) — 因扩建宫室而与孔子旧宅壁中古文经典发现相连、同时保留营建扰民边界的西汉鲁王。
 - [临江王刘荣 / Liu Rong (Western Han)](entities/LiuRongWesternHan.md) — 被废太子因宫地案入狱并自杀，其死亡被节目放入刘彻继承安全与窦太后追责郅都的政治链条。
