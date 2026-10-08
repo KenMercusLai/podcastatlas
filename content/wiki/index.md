@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？](sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs.md) — 宁成从打击豪强、受罚逃亡到被重新起用并反成南阳豪强，呈现酷吏因皇权需求而被反复利用、失去保护又被同类替代的循环；官职、动机、道德排名与灭族程序保留来源边界。
 - [The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple](sources/the-most-effective-weight-training-cardio-nutrition-for-women-dr-lauren-colenso-semple-scim6891280189.md) — Huberman Lab interview arguing that progressive resistance, sufficient effort, recovery, and adherence generally transfer across sexes while cycle, menopause, fasting, cortisol, creatine, and hormone claims require outcome-level evidence and individual context.
 - [《资治通鉴·汉纪》253｜汉武帝：你们说的都对，但我就是不听](sources/zizhi-tongjian-hanji-253-hanwudi-nimen-shuo-de-dou-dui-dan-wo-jiushi-bu-ting-lhvsfcppigvfd0j2xdhqorxqvwb_.md) — 客栈误认延续微服游猎的身份风险；东方朔反对扩建上林苑、司马相如反对亲射猛兽，均获赏却未改变武帝决策，形成“赏谏不纳”的反馈边界。
 - [《资治通鉴·汉纪》254｜武帝决心伐越，淮南王为何不答应？](sources/zizhi-tongjian-hanji-254-wudi-juexin-fayue-huainanwang-weihe-bu-daying-lsr7lraeoex27iczogxjg-i7h_is.md) — 闽越攻南越并触发汉军救援后，刘安从地形、治理收益与无尽执法战争反对远征；窦太后去世后的田蚡荐人索地又显示外戚权势仍受皇权边界约束。
@@ -4086,6 +4087,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [郅都 / Zhi Du (Western Han)](entities/ZhiDuWesternHan.md) — 以边疆与京师强力执法、个人克制及刘荣事件中的政治暴露，构成宁成的对照型西汉酷吏。
 - [Lauren Colenso-Semple](entities/LaurenColensoSemple.md) — Exercise scientist who distinguishes sex-related context from evidence for fundamentally different training rules.
 - [上林苑 / Shanglin Park (Western Han)](entities/ShanglinParkWesternHan.md) — 汉武帝计划扩建的帝王苑囿，其土地测量与补偿方案因肥田、资源、税收、迁徙和游猎安全成本受到东方朔反对。
 - [石奋 / Shi Fen (Western Han)](entities/ShiFenWesternHan.md) — 以跨越朝廷与家庭的日常礼仪、间接纠错和持续示范塑造石氏谨慎家风的“万石君”。
@@ -4233,7 +4235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Willy Loman / 威利·洛曼](entities/WillyLoman.md) — Salesman whose belief in popularity and usefulness makes career failure an identity collapse.
 - [Biff Loman / 彼夫·洛曼](entities/BiffLoman.md) — Willy's elder son, moving from paternal worship and self-sabotage toward ordinary self-knowledge.
 - [Linda Loman / 林达·洛曼](entities/LindaLoman.md) — Caregiver who recognizes Willy's danger while protecting his dignity and the family's unstable story.
-- [宁成 / Ning Cheng (Western Han)](entities/NingChengWesternHan.md) — 以关隘暴虐闻名、后被义纵调查并灭族的西汉酷吏。
+- [宁成 / Ning Cheng (Western Han)](entities/NingChengWesternHan.md) — 从皇权反豪强工具、受罚逃亡与再起，到退职后反成南阳豪强并被义纵灭族的西汉酷吏。
 - [狄山 / Di Shan (Western Han)](entities/DiShanWesternHan.md) — 主张汉匈和亲、当廷攻击张汤，后在惩罚性能力测试中被派守边并迅速死于匈奴袭击的西汉博士。
 - [任常 / Ren Chang (Western Han)](entities/RenChangWesternHan.md) — 漠北战后主张要求匈奴臣服并奉命出使，却因朝觐要求触怒单于而被扣留的西汉官员。
 - [新丰 / Xinfeng (Western Han)](entities/XinfengHan.md) — 节目所述刘邦仿沛县营建、迁入故乡人群以恢复刘太公社区与蹴鞠生活的长安附近聚落。

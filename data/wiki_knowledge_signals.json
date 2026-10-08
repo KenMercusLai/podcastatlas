@@ -103092,9 +103092,9 @@
       "url": "/wiki/concepts/harryingofthenorth/"
     },
     "HarshOfficialInstrumentalRule": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
@@ -103109,9 +103109,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》288｜审老鼠的“坏孩子”，如何成为汉朝第一酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？ [lj9GNSyYvtA1g0FA1ASP0VR5XivS].md",
+          "key": "zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/harshofficialinstrumentalrule/"
     },
     "HarunAlRashid": {
@@ -167584,9 +167591,9 @@
       "url": "/wiki/entities/nineteeneightyfour/"
     },
     "NingChengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
@@ -167594,9 +167601,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
           "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？ [lj9GNSyYvtA1g0FA1ASP0VR5XivS].md",
+          "key": "zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/ningchengwesternhan/"
     },
     "Ningbo": {
@@ -261989,6 +262003,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhengluncuishi/"
+    },
+    "ZhiDuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？ [lj9GNSyYvtA1g0FA1ASP0VR5XivS].md",
+          "key": "zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhiduwesternhan/"
     },
     "ZhiJiWang": {
       "episode_count": 1,

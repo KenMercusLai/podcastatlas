@@ -32111,3 +32111,11 @@ Added source `644-the-fall-of-the-incas-empire-of-gold-part-1-glt4676536558`; cr
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？
+
+Added source `zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs`; created [[ZhiDuWesternHan|郅都]]; and resynthesized [[NingChengWesternHan|宁成]] and [[HarshOfficialInstrumentalRule|酷吏工具化统治]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ning's coercive ability makes him useful against strongmen and at court, survives punishment through later restoration, and ultimately converts into local magnate power before Yi Zong destroys his household; the cycle shows both the reuse and expendability of harsh officials. No settled contradiction was adopted. Office names and jurisdictions, dates, dialogue, personal motives, the host's moral ranking, forged-escape mechanics, post-retirement offenses, and household-extermination procedure remain source-scoped. Broad Han Jingdi, Han Wudi, Gongsun Hong, Zhang Tang, Yi Zong, Xiongnu, and show pages were kept closed because the bounded addition is represented in focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,018 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
