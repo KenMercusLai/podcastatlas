@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0.md) — 晁错以城堡、迁居补偿、家庭安置、邻里互保、基层编组与骑射训练，把应对匈奴机动袭扰从远方轮戍改造成长期边境社区建设。
 - [642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)](sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636.md) — The Rest Is History episode on Scipio's African invasion, Massinissa's alliance, Zama, Roman institutional recovery, the peace settlement, and the later careers of Hannibal, Scipio, and Cato.
 - [30 改变历史的关键会议：万湖会议 vs 白虎观会议](sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm.md) — 怪东西以万湖会议和白虎观会议比较权威、参与者、程序、文书与执行链如何把思想转成制度行动，同时明确两者不具有道德或制度等价性。
 - [31 狗胆包天：东西方的冒牌皇帝](sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi.md) — 怪东西以腓特烈二世、伪德米特里、普加乔夫、假光绪、假戾太子和朱三太子说明：身份真伪之外，继承裂缝、社会诉求、承认、舆论与组织决定冒名能否成为政治力量。
@@ -4210,7 +4211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [济北王刘志 / Liu Zhi, King of Jibei (Western Han)](entities/LiuZhiJibeiKingWesternHan.md) — 七国之乱后经公孙爵与梁王申辩免于连坐、改封淄川的诸侯王。
 - [田禄伯 / Tian Lubo (Western Han)](entities/TianLuboWesternHan.md) — 七国之乱中请求率五万人经长沙、淮南与武关另开战场，却因委兵可能引发背叛的疑虑而未获采纳的吴方将领。
 - [周丘 / Zhou Qiu (Western Han)](entities/ZhouQiuWesternHan.md) — 被刘濞轻视却借一枚符节、地方关系与强制手段迅速夺取下邳扩军，最终又随吴方主局崩溃而失去依托的门客。
-- [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 先凭私人召见、提前请罪与景帝背书化解重罪弹劾，后因削藩、危机处置与同僚孤立失去保护并被作为政治牺牲的西汉官员。
+- [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 从移民实边的制度设计、文帝选拔与景帝宠信走向削藩、政治孤立和牺牲，其死又未能终止七国之乱的西汉官员。
 - [赵涉 / Zhao She (Western Han adviser)](entities/ZhaoSheAdviserWesternHan.md) — 预判吴军会在险路设伏、建议周亚夫绕经蓝田与武关并获侦察验证的西汉军事顾问；与赵奢分列。
 - [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；吴方因猜疑与资历偏见收窄选项，周亚夫以绕伏、牵制、断粮和坚守制胜，刘濞被杀后再转入诸侯追责与中央收权。
 - [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。
@@ -16982,6 +16983,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Frontier Settler Defense / 移民实边式边防](concepts/FrontierSettlerDefense.md) — 以筑城、迁居补偿、家庭与社区再生产、地方编组和训练，把长期定居者转化为边境生产与防御能力的制度设计。
 - [Second Punic War / 第二次布匿战争](concepts/SecondPunicWar.md) — War synthesized through disputed triggers, Hannibal's coalition strategy, Roman survival and adaptation, Scipio's counter-invasion, Zama, and constrained Carthaginian survival.
 - [Meeting as Institutional Conversion / 会议的制度转化](concepts/MeetingAsInstitutionalConversion.md) — 权威、参与者、程序、记录与执行渠道把思想或政策方向转成持久组织行动的机制。
 - [Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗](concepts/AssassinationReprisalTradeoff.md) — 区分刺杀的目标移除与象征效果、制度存续，以及由地下网络、家属和平民承担的报复成本。

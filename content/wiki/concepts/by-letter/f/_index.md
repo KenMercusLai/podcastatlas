@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9956
+wiki_total_pages: 9957
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "FrontierModelVerifiedAccess"
     title: "Frontier Model Verified Access"
     url: "/wiki/concepts/frontiermodelverifiedaccess/"
+  - key: "FrontierSettlerDefense"
+    title: "Frontier Settler Defense / 移民实边式边防"
+    url: "/wiki/concepts/frontiersettlerdefense/"
   - key: "FrontierStrategyCostTypology"
     title: "Frontier Strategy Cost Typology / 边疆战略成本分型"
     url: "/wiki/concepts/frontierstrategycosttypology/"

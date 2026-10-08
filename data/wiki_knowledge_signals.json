@@ -37047,9 +37047,9 @@
       "url": "/wiki/concepts/channelnativeinternalcommunication/"
     },
     "ChaoCuoWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
@@ -37085,6 +37085,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2） [li4ia2aiJR2FF4u_ZWTX3dvL7jJ0].md",
+          "key": "zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0/"
         }
       ],
       "updated": "2026-10-08",
@@ -89022,6 +89029,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/frontierresourceintegration/"
+    },
+    "FrontierSettlerDefense": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2） [li4ia2aiJR2FF4u_ZWTX3dvL7jJ0].md",
+          "key": "zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/frontiersettlerdefense/"
     },
     "FrontierStrategyCostTypology": {
       "episode_count": 4,
