@@ -5905,6 +5905,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/accusationquotarefusal/"
     },
+    "AccusationResponseRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/accusationresponserestraint/"
+    },
     "AcetylcholineFocusSupport": {
       "episode_count": 5,
       "show_count": 1,
@@ -54267,9 +54283,9 @@
       "url": "/wiki/concepts/daoistalchemy/"
     },
     "DaoistNaturalWuwei": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧 [llAYNMqFl8WfwoR7cKkacdxommu9].md",
@@ -54284,9 +54300,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》456-2｜这两位圣人的论道，藏着人类的终极秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-456-2-zhe-liangwei-shengren-de-lundao-cangzhe-renlei-de-zhongji-mimi-lsjl6awahc0gyhtwh3tagh1utqx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/daoistnaturalwuwei/"
     },
     "DaoistObservingSameness": {
@@ -101073,9 +101096,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101097,9 +101120,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/hanjingdi/"
     },
     "HanLengEasternHan": {
@@ -161645,9 +161675,9 @@
       "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
     },
     "MoralSlanderReframing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
@@ -161669,9 +161699,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/moralslanderreframing/"
     },
     "MorganaticMarriage": {
@@ -244387,9 +244424,9 @@
       "url": "/wiki/entities/weituqiwesternhan/"
     },
     "WeiWanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！ [livm-UXNbSm0MKbrM-lVnozqNaiL].md",
@@ -244397,6 +244434,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》249｜董仲舒：我不是儒家的罪人！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-249-dongzhongshu-wo-bushi-rujia-de-zuiren-livm-uxnbsm0mkbrm-lvnozqnail/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
         }
       ],
       "updated": "2026-10-08",
@@ -262177,6 +262221,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhengluncuishi/"
     },
+    "ZhiBuyiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhibuyiwesternhan/"
+    },
     "ZhiDuWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -263215,9 +263275,9 @@
       "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYafu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -263232,9 +263292,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1） [lpQWSTeaKYNxL2ms1VYPqay1w5R5].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/zhouyafu/"
     },
     "ZhouYouwang": {

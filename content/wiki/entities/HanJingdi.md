@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s
   - zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5
+last_updated: 2026-10-08
 ---
 
 ## Overview
 
-汉景帝 / Emperor Jing of Han is currently a narrow Western Han entity whose wiki role spans succession-payoff reversals after [[LiuHeng|Emperor Wen]] and a court debate where Tang-Wu revolution logic becomes too dangerous to continue publicly.
+汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], containment of a dangerous legitimacy debate, and a late-reign combination of judicial leniency with suspicion toward [[ZhouYafu|周亚夫]].
 
 ## Current Profile
 
@@ -22,12 +23,15 @@ His more direct political-theory role is as the ruler before whom [[YuanGusheng|
 
 Hanji 279 adds Jing's centralization role through the Seven States rebellion. The episode says his direct territorial reductions trigger the uprising, but victory lets the court abolish most rebel kingdoms, remove territory from others, and retract princely appointment, taxation, and governing powers. That coercive and administrative shift becomes a necessary precondition for [[HanWudi|汉武帝]] to implement the [[TuiEnLing|推恩令]] with lower rebellion risk.
 
+Hanji 244 adds a late-reign governance contrast. Jing instructs officials to escalate doubtful criminal cases, protects lower adjudicators from fault when superiors correct them, demands lenient handling, and follows with a general amnesty. In the same source, [[ZhiBuyiWesternHan|直不疑]] is promoted to 御史大夫 while Zhou Yafu is described as having already lost imperial trust. The episode therefore shows lenient procedural policy coexisting with personalized court suspicion, without establishing that the two arise from one motive.
+
 ## Key Characteristics
 
 - Successor-ruler whose reign reverses earlier Emperor Wen patronage and fulfills source-scoped physiognomy predictions.
 - Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu.
 - Court arbiter who handles a dangerous legitimacy debate by closing rather than resolving the doctrine.
 - Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
+- Late-reign ruler associated with upward referral of doubtful cases, protection for corrected adjudicators, lenient judgment, and general amnesty.
 
 ## Evidence
 
@@ -40,12 +44,16 @@ Legitimacy-debate containment:
 Princely rollback:
 - [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] says Jing's削藩 helps trigger the Seven States rebellion and that victory permits wider territorial and administrative rollback before the 推恩令.
 
+Judicial leniency and late-reign appointments:
+- [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5|Hanji 244]] gives the doubtful-case escalation instruction, correction-without-fault rule, leniency demand, amnesty, and promotion of Zhi Buyi after Liu She's removal and Wei Wan's elevation.
+
 ## Qualifications
 
-This remains a narrow wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence, territorial disposition, and claimed removal of appointment, taxation, and governing powers are episode-attributed and require institutional comparison.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, drinking-policy details, appointments, “psychological blacklist,” and chopstick-banquet causality are likewise episode-attributed; its transcript stops before the banquet is narrated.
 
 ## What Changed
 
+- Added late-reign doubtful-case escalation, leniency, amnesty, and Zhi Buyi's promotion alongside the bounded Zhou Yafu conflict setup.
 - Added the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
 - Connected Jing's direct削藩 to both immediate rebellion risk and later lower-conflict centralization.
 
@@ -54,6 +62,7 @@ This remains a narrow wiki profile, not a full biography of Han Jingdi. The Xu F
 - [[LiuHeng|刘恒 / Emperor Wen of Han]] - predecessor and father whose Deng Tong patronage is reversed under Han Jingdi.
 - [[DengTong|邓通]] - court favorite whose wealth collapses after Emperor Wen's death.
 - [[ZhouYafu|周亚夫]] - powerful minister-general whose final suspicion and imprisonment occur in this source's Han Jingdi branch.
+- [[ZhiBuyiWesternHan|直不疑]] - low-profile official promoted to 御史大夫 in Jingdi's late reign.
 - [[XuFuPhysiognomist|许负]] - prediction figure whose story extends into Jing's reign.
 - [[YuanGusheng|袁固生]] - Confucian disputant whose Liu Bang question makes the court debate dangerous.
 - [[HuangShengWesternHan|黄生]] - disputant whose hierarchy argument triggers the self-reference problem.

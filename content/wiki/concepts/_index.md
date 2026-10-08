@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9908
+wiki_total_pages: 9909
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "AccusationQuotaRefusal"
     title: "Accusation Quota Refusal / 诬陷指标拒绝"
     url: "/wiki/concepts/accusationquotarefusal/"
+  - key: "AccusationResponseRestraint"
+    title: "Accusation Response Restraint / 诬陷回应克制"
+    url: "/wiki/concepts/accusationresponserestraint/"
   - key: "AcetylcholineFocusSupport"
     title: "Acetylcholine Focus Support"
     url: "/wiki/concepts/acetylcholinefocussupport/"

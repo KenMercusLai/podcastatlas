@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5.md) — 景帝宽刑与疑案上报构成制度背景，直不疑以赔付误拿和不辩不存在的嫂嫂诬告展示回应克制；不辩的适用边界、黄老动机、地震数据与周亚夫筷子故事均保留来源边界。
 - [《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子](sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77.md) — 董仲舒把君主正心、礼乐教化、太学育才、反复策问与地方官德行连成教育先于刑罚的治理链；标题所称“养儿子”及最后的柔性进谏答案因转录中断保留来源边界。
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（1）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-1-lnbdqi1evkkfbajdmhh_l5m70n0z.md) — 汉武帝以贤良方正、直言极谏与策问打开求贤通道，董仲舒由经学进入国家政策场域；“首届公务员考试”、名次、人数及独尊儒术因果保留来源边界。
 - [《资治通鉴·汉纪》248｜董仲舒如何改变中华民族的命运？（2）](sources/zizhi-tongjian-hanji-248-dongzhongshu-ruhe-gaibian-zhonghua-minzu-de-mingyun-2-lrjy7ozds7peyu6x3iwufety2zvt.md) — 董仲舒把举荐问责、能力考试、德行定职、制度纠偏、官吏不与民争生计和“大一统”连成治国方案；消费类比与两千年因果保留来源边界。
@@ -4091,6 +4092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 
 ## Entities
+- [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
 - [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
 - [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
 - [郅都 / Zhi Du (Western Han)](entities/ZhiDuWesternHan.md) — 以边疆与京师强力执法、个人克制及刘荣事件中的政治暴露，构成宁成的对照型西汉酷吏。
@@ -16831,6 +16833,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
 
 ## Concepts
+- [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
 - [举荐问责式选才 / Recommendation-Accountability Talent Selection](concepts/RecommendationAccountabilityTalentSelection.md) — 让高级官员发现并推荐人才，再以被荐者表现反向奖惩举荐人，并与能力考试、德行考察和职位配置结合的选才机制。
 - [官吏不与民争生计 / Official Noncompetition with Popular Livelihoods](concepts/OfficialLivelihoodNoncompetition.md) — 以公共俸禄和职位义务约束官吏利用权势参与生产经营、挤压普通家庭生计的角色伦理。
 - [教化先于刑法 / Moral Education Before Punishment](concepts/MoralEducationBeforePunishment.md) — 以君主和官吏示范、学校育才、礼乐风俗与地方落实在上游塑造行为，同时保留刑法的威慑和问责角色。

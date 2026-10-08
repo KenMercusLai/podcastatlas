@@ -32149,3 +32149,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）
+
+Added source `zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5`; created [[ZhiBuyiWesternHan|直不疑]] and [[AccusationResponseRestraint|诬陷回应克制]]; and resynthesized [[HanJingdi|汉景帝]], [[ZhouYafu|周亚夫]], [[WeiWanWesternHan|魏绾]], [[DaoistNaturalWuwei|道家自然无为]], and [[MoralSlanderReframing|道德诬陷焦点转移]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jingdi's doubtful-case escalation and leniency instruction form the institutional background, while Zhi Buyi's compensation under a mistaken theft charge and nonresponse to an impossible sexual accusation define restraint as a conditional alternative to active evidentiary reframing. No settled contradiction was adopted. Silence is not promoted as universal workplace advice; offices, decree wording, dates, drinking rules, earthquake data, motives, dialogue, and Huang-Lao causation remain source-scoped, and the promised chopstick-banquet story remains unresolved because the transcript stops before narrating it. Liu She, Shangyong, and the broad show page were kept closed because their bounded additions are represented in the source and focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,023 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

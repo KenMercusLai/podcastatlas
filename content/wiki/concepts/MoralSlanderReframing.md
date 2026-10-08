@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8
   - zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj
   - zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,10 +23,12 @@ The concept now has both a defensive and an offensive form. In [[zizhi-tongjian-
 
 An intermediate court-conflict form appears when [[WangShangChancellorWesternHan|乐昌侯王商]] tries to impeach a [[WangFengWesternHan|王凤]] associate in [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]]. The response does not rebut official responsibility on the merits. It moves through [[GengDingWesternHan|耿定]] to alleged sexual misconduct and possible involvement in a killing. Chengdi's initial refusal shows that evidentiary skepticism can constrain the tactic even when continuing power pressure later removes the target.
 
+[[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5|Hanji 244]] supplies a contrasting response through [[ZhiBuyiWesternHan|直不疑]]. Faced with an accusation of adultery with a sister-in-law who cannot exist if he has no elder brother, Zhi reportedly does not ask the emperor to adjudicate his reputation. This [[AccusationResponseRestraint|restraint]] is not itself reframing, but it clarifies the response spectrum: a target may rebut, redirect, wait for evidence, or refuse to grant the smear further attention, with different risks in different institutions.
+
 ## Key Claims
 
 - A private-morality accusation can redirect attention away from role evidence or political interest.
-- Defensive reframing returns the decision-maker to relevant criteria without claiming that all character questions are irrelevant.
+- Defensive responses range from active reframing toward relevant criteria to deliberate non-engagement, and those strategies carry different evidentiary and institutional risks.
 - Offensive reframing makes political punishment easier to accept by attaching it to a culturally powerful moral stigma.
 - Accusation bundles are stronger than isolated rumors because public-security and private-character claims appear to validate one another.
 - Biographical counterevidence can qualify a moral label without proving that every attributed saying or act is false.
@@ -40,13 +43,15 @@ An intermediate court-conflict form appears when [[WangShangChancellorWesternHan
 - Counter-biographical test: [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] contrasts the label with Kong Rong's pear story, youthful responsibility-taking, and reported grief for his mother.
 - Outcome asymmetry: [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]]'s reframing preserves and strengthens Chen Ping's appointment, while [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]]'s accusation framing helps legitimate Kong Rong's execution and household destruction.
 - Retaliatory timing and evidentiary resistance: [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]] places Geng Ding's private-conduct claims after Wang Shang refuses to abandon the Yang Rong impeachment and says Chengdi initially treats the allegations as too uncertain.
+- Non-engagement contrast: [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5|Hanji 244]] says Zhi Buyi declines imperial self-defense against an impossible sexual allegation, distinguishing refusal to engage from Chen Ping and Wei Wuzhi's active return to role evidence.
 
 ## Counterevidence & Qualifications
 
-The concept does not mean that all moral allegations are fabricated, that private conduct never bears on office, or that useful people should be immune from ethical judgment. Chen Ping still answers the gift-taking charge, Hanji 1090 does not prove every saying attributed to Kong Rong is false, and Hanji 515 does not prove Geng Ding's claims false. The narrower claim is procedural: moral stigma becomes unreliable when it replaces relevant evidence, hides the political trigger, or expands punishment beyond proportion. The podcast accounts are interpretive source notes rather than complete legal dossiers.
+The concept does not mean that all moral allegations are fabricated, that private conduct never bears on office, or that useful people should be immune from ethical judgment. Chen Ping still answers the gift-taking charge, Hanji 1090 does not prove every saying attributed to Kong Rong is false, and Hanji 515 does not prove Geng Ding's claims false. Hanji 244 also does not establish that silence is universally superior to rebuttal. The narrower claim is procedural: moral stigma becomes unreliable when it replaces relevant evidence, hides the political trigger, or expands punishment beyond proportion. The podcast accounts are interpretive source notes rather than complete legal dossiers.
 
 ## What Changed
 
+- Hanji 244 adds deliberate non-engagement as a contrast case, clarifying that accusation restraint and evidentiary reframing are distinct strategies.
 - Hanji 1090 adds the offensive form: political conflict redirected into an “unfilial” character judgment that supports execution.
 - Hanji 515 adds a retaliatory court form in which private scandal displaces an official-accountability dispute but initially meets imperial evidence skepticism.
 - The concept now distinguishes defensive return to relevant criteria from power-driven moral stigmatization.
@@ -59,3 +64,4 @@ The concept does not mean that all moral allegations are fabricated, that privat
 - [[CaseExpansionPoliticalPurge|案件扩大化政治清洗]] - adjacent pattern where associations and private scandal widen a political case.
 - [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]] - downstream expansion when punishment reaches household members.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - reputation resource that can protect a target or motivate efforts to destroy the target's public character.
+- [[AccusationResponseRestraint|诬陷回应克制]] - neighboring non-engagement strategy that may refuse the accusation's frame rather than redirect it.
