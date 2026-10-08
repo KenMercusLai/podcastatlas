@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86.md) — 季布以“一誉而召、一毁而去”直指文帝任官摇摆；贾谊因诸侯归国主张触动王侯与功臣利益，被外放长沙，其“保护性贬谪”仍属节目推断。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8.md) — 张释之从久滞骑郎经袁盎举荐进入文帝身边，以啬夫任官、司马门拦太子梁王和霸陵谈棺三事，分别校正口才识人、宗室越礼与厚葬防盗的判断。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip.md) — 标题虽指向审食其，正文实际讲匈奴右贤王入寇、刘兴居因诛吕后分配失衡而叛乱，以及文帝以军事部署和限期赦免瓦解济北叛军。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3.md) — 周勃退居封国后因武装戒备被控谋反、下狱受辱并获释；薄太后反驳其谋反逻辑，贾谊为旧日政敌求情，而季布受命暗杀说仅属节目推演。
@@ -17079,6 +17080,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility](concepts/CourtHearsayAppointmentVolatility.md) — 未经核验的褒贬替代稳定判断时，召用与退回会同时损害用人质量和君主可信度。
+- [新君拥立联盟约束 / New-Ruler Coalition Constraint](concepts/NewRulerCoalitionConstraint.md) — 新君名义居首却仍依赖拥立功臣与宗室联盟，改革偏好因而不等于即时执行能力。
 - [口才替代能力式识人偏差 / Eloquence Bias in Official Selection](concepts/EloquenceBiasInOfficialSelection.md) — 把一次流利作答误当成更广泛任职能力的识人偏差；张释之以迟钝长者和秦亡信息失真反对单一口才信号。
 - [宫门礼制的身份中立执行 / Status-Neutral Palace Gate Enforcement](concepts/StatusNeutralPalaceGateEnforcement.md) — 先对储君与诸侯执行宫门规则并形成正式指控，再由授权赦免另行解除，使高位身份不自动抹去程序。
 - [限期赦免式叛军分化 / Deadline Amnesty for Rebellion Fragmentation](concepts/DeadlineAmnestyRebellionFragmentation.md) — 以大军到达前投降即免罪的期限安排，改变追随者收益并孤立叛乱首领。

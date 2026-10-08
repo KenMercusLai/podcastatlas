@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10008
+wiki_total_pages: 10010
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "NominalOfficePracticalPowerMismatch"
     title: "名位—实权错位 / Nominal Office–Practical Power Mismatch"
     url: "/wiki/concepts/nominalofficepracticalpowermismatch/"
+  - key: "NewRulerCoalitionConstraint"
+    title: "新君拥立联盟约束 / New-Ruler Coalition Constraint"
+    url: "/wiki/concepts/newrulercoalitionconstraint/"
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"

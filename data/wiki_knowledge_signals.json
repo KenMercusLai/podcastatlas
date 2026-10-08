@@ -51346,6 +51346,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
+    "CourtHearsayAppointmentVolatility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/courthearsayappointmentvolatility/"
+    },
     "CourtIntimacyAsPoliticalResource": {
       "episode_count": 7,
       "show_count": 2,
@@ -127672,9 +127688,9 @@
       "url": "/wiki/entities/jianwesternhan/"
     },
     "JiBu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2） [lpQTexVXjrBRPjGbw5HrGmHl9ApK].md",
@@ -127696,6 +127712,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
         }
       ],
       "updated": "2026-10-09",
@@ -128122,9 +128145,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -128195,6 +128218,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
         }
       ],
       "updated": "2026-10-09",
@@ -171727,6 +171757,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
+    },
+    "NewRulerCoalitionConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/newrulercoalitionconstraint/"
     },
     "NewYorkCity": {
       "episode_count": 6,
@@ -266241,9 +266287,9 @@
       "url": "/wiki/entities/zhangbueasternhan/"
     },
     "ZhangCang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -266272,6 +266318,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
+          "key": "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
         }
       ],
       "updated": "2026-10-08",

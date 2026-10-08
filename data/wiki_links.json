@@ -21639,6 +21639,10 @@
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
   },
+  "CourtHearsayAppointmentVolatility": {
+    "title": "毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility",
+    "url": "/wiki/concepts/courthearsayappointmentvolatility/"
+  },
   "CourtIntimacyAsPoliticalResource": {
     "title": "宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource",
     "url": "/wiki/concepts/courtintimacyaspoliticalresource/"
@@ -59726,6 +59730,10 @@
   "NewRightPolicyNetwork": {
     "title": "New Right Policy Network",
     "url": "/wiki/concepts/newrightpolicynetwork/"
+  },
+  "NewRulerCoalitionConstraint": {
+    "title": "新君拥立联盟约束 / New-Ruler Coalition Constraint",
+    "url": "/wiki/concepts/newrulercoalitionconstraint/"
   },
   "NewRulerReformSignaling": {
     "title": "New Ruler Reform Signaling / 新君改革铺垫信号",
@@ -103138,6 +103146,10 @@
   "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8": {
     "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
+  },
+  "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86": {
+    "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
   },
   "zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3": {
     "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
