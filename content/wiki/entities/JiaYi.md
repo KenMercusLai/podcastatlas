@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw
   - zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw
+  - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-贾谊 / Jia Yi is an early Western Han writer whose current wiki profile spans [[GuoQinLun|《过秦论》]] as a reusable diagnosis of Qin's collapse and [[ZhianCe|《治安策》]] as a program for official dignity, shame-based self-command, and gradual reduction of concentrated royal power. The sources present him as both a historical critic and an institutional thinker, while preserving coercive risks inside his honor-centered politics.
+贾谊 / Jia Yi is an early Western Han writer whose current wiki profile spans [[GuoQinLun|《过秦论》]] as a reusable diagnosis of Qin's collapse and [[ZhianCe|《治安策》]] as a program for heir formation, preventive ritual education, official dignity, and gradual reduction of concentrated royal power. The sources present him as both a historical critic and an institutional thinker, while preserving coercive and causal limits inside the program attributed to him.
 
 ## Current Profile
 
@@ -20,17 +21,21 @@ last_updated: 2026-10-09
 
 A governance layer appears in [[zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1|Hanji 337]]. The host says [[SimaQian|司马迁]] quotes Jia Yi at length in the Qin account to show that a ruler who rejects advice makes loyal ministers afraid to remonstrate and capable advisers afraid to plan, so disorder can grow without reaching the center. Placed beside [[YanYiWesternHan|颜异]]'s 腹诽 case, Jia Yi becomes not only an evaluator of historical elites but a source for the feedback-collapse mechanism linking punished dissent to political blindness.
 
+The first Hanji 219 episode extends that preventive reasoning to succession. It attributes to 《治安策》 an heir-formation model in which ritual begins in infancy and upright tutors, guards, and companions curate what the crown prince repeatedly sees, hears, and does. The Qi-Chu language and Hu-Yue custom analogies make habit the mechanism: environment can become second nature. [[QinErshi|胡亥 / 秦二世]] under [[ZhaoGao|赵高]] is the negative mirror, with legal interrogation and severe punishment presented as a curriculum that normalizes violent rule. [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]]
+
+The same episode distinguishes [[RitualPreventionAndLegalResponse|ritual prevention from legal response]]. It does not discard reward, punishment, predictable rules, or impartial enforcement; it argues that they become visible after conduct occurs, while ritual teaching works earlier on intention and habituation. The comparison of long-lived Xia-Shang-Zhou rule with short-lived Qin supplies the episode's historical test, but not proof that this one variable determines dynastic lifespan.
+
 The institutional program of 《治安策》 adds a second axis to Jia Yi's current profile. Its “可杀不可辱” argument says accountability for senior officials should preserve the dignity of the offices and ruler they represent: dismissal or death can remain possible, but public mutilation, binding, beating, and abuse by low prison officers make political hierarchy itself contemptible. Ritualized handling is meant to cultivate shame, self-respect, and officials who act from principle rather than fear alone. [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219]]
 
 The episode also supplies two limits. First, honor-centered procedure can become coercive when accused officials are expected to kill themselves and attempts at defense are treated as insults to imperial dignity. Second, it attributes to Jia Yi a proposal to divide strong kingdoms through grants to royal sons; [[LiuHeng|汉文帝刘恒]] is said not to have implemented it promptly enough, and the later [[RebellionOfTheSevenStatesWesternHan|七国之乱]] becomes the retrospective warning. The proposal is an early fragmentation logic, not the later formal [[TuiEnLing|推恩令]].
 
 ## Key Characteristics
 
-- Early Western Han writer interpreted through the political problem of Qin's rapid collapse.
-- Authorial figure attached to 《过秦论》 and its explanation of Qin failure.
-- Positive evaluator of the Four Lords in contrast with later centralization-minded critics.
+- Early Western Han writer whose 《过秦论》 and 《治安策》 are presented as linked diagnoses of Qin failure and Han risk.
+- Positive evaluator of the Four Lords whose judgment contrasts with later centralization-minded critics and illustrates historical standpoint.
 - Diagnostician of rejected advice as a mechanism that silences loyal and capable officials.
-- Historiographical bridge through which later writers can criticize present governance by discussing Qin.
+- Advocate, in the supplied reading, of forming the heir through curated tutors, companions, ritual, and repeated conduct.
+- Thinker who gives ritual a preventive priority while retaining a role for predictable and impartial law.
 - Advocate of protecting high office from degrading punishment while retaining accountability.
 - Designer of a royal-territory fragmentation proposal that anticipates, but is not identical to, the later 推恩令.
 
@@ -51,15 +56,20 @@ Official dignity and its coercive boundary:
 Fragmenting concentrated royal power:
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219]] attributes to Jia Yi a proposal to grant territories to a prince's sons, reducing the parent kingdom's strength while avoiding only openly punitive confiscation.
 
+Heir formation and preventive governance:
+- [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] attributes to Jia Yi a system of early ritual, upright tutors, worthy companions, and continuous environmental formation for the crown prince.
+- [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] contrasts preventive ritual teaching with law's reactive judgment while still crediting fair and predictable rewards and punishments.
+
 ## Qualifications
 
-The three sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument through Sima Qian and the podcast host; it does not establish the exact quotation boundary, prove that Sima Qian intended a covert criticism of Han Wudi, or show that rejected advice alone explains Qin's fall. Hanji 219's quoted formulations, penal and ritual procedures, later suicide effects, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Its official-dignity program is not treated as simply humane because the source itself records the risk of coerced death and denied defense.
+The four sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument through Sima Qian and the podcast host; it does not establish the exact quotation boundary, prove that Sima Qian intended a covert criticism of Han Wudi, or show that rejected advice alone explains Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparisons, later suicide effects, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Heir environment and ritual priority are mechanisms proposed by the source, not single-cause proof of dynastic duration; the official-dignity program is also not simply humane because the second episode records coerced death and denied defense.
 
 ## What Changed
 
-- Expanded Jia Yi from Qin historical criticism into 《治安策》's official-dignity and kingdom-fragmentation program.
-- Preserved coerced suicide and suppressed defense as qualifications on the honor-centered model.
-- Distinguished Jia Yi's early division proposal from the later formal 推恩令.
+- Added 《治安策》's infancy-to-succession model of curated tutors, companions, ritual, and habituation.
+- Added the source's preventive-ritual/reactive-law distinction without treating it as rejection of law.
+- Preserved the Three Dynasties–Qin comparison as an episode-level causal argument rather than settled proof.
+- Retained official dignity, its coercive boundary, and kingdom fragmentation from part 2.
 
 ## Relationships
 
@@ -73,3 +83,5 @@ The three sources do not provide a full biography, textual history, or systemati
 - [[MinisterialDignityProtection|九卿体面保护]] - later institutional analogue for preserving office dignity during discipline.
 - [[TuiEnLing|推恩令]] - later systematic fragmentation policy whose logic resembles, but is not identical to, Jia Yi's proposal.
 - [[LiuHeng|汉文帝刘恒]] - ruler whom the episode credits with valuing Jia Yi but not promptly implementing the partition proposal.
+- [[CrownPrinceTutorPublicInterest|太子师傅公器化]] - later cases that share Jia Yi's public-responsibility model of heir education.
+- [[RitualPreventionAndLegalResponse|礼教预防与法令处置]] - governance distinction attributed to Jia Yi between forming conduct and judging completed conduct.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt.md) — 贾谊把储君教育视为国家风险预防，以环境和习惯解释人格形成，并区分礼教的事前塑造与法令的事后处置，同时保留法令的可预期与公正价值。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw.md) — 贾谊以“可杀不可辱”维护高官所代表的政治体面，又暴露逼迫自杀与压制申辩的风险，并以分封诸子削弱强大封国。
 - [《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？](sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy.md) — 缇萦以肉刑不可逆、使人无从改过为父请命，文帝由个案赦免转向废除黥劓刖等刑，但高额笞刑替代又留下致死风险。
 - [《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？](sources/zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td.md) — 晁错以农商激励倒置解释粮食不足，主张用爵位与赎罪换取边塞、郡县储粮，再以充足仓储支持减免田赋。
@@ -4182,7 +4183,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
-- [《治安策》 / Zhian Ce](entities/ZhianCe.md) — 贾谊讨论高官体面、礼法自律及分封诸子以削弱强大封国的政治奏章。
+- [《治安策》 / Zhian Ce](entities/ZhianCe.md) — 贾谊以储君养成、礼教预防、高官体面和分封诸子回应政权长期风险的政治奏章。
 - [淳于缇萦 / Chunyu Tiying](entities/ChunyuTiying.md) — 以身体不可复原、受刑者无从改过为父请命，并在节目叙事中触发文帝刑制改革的西汉少女。
 - [淳于意 / Chunyu Yi](entities/ChunyuYi.md) — 被押赴长安受肉刑、因女儿缇萦上书而获赦，并成为一般刑制改革触发个案的齐国故吏。
 - [Heloise / Héloïse](entities/Heloise.md) — Medieval intellectual, abbess, and correspondent whose thinking on intention, marriage, vocation, and devotion complicates her familiar role in Abelard's tragic romance.
@@ -9933,7 +9934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silk Road](entities/SilkRoad.md) — Illegal online marketplace used in the Loeb source to frame Ross Ulbricht's clemency and sentencing-proportionality case.
 - [Success Academies](entities/SuccessAcademies.md) — New York charter-school network Loeb names as the education-reform route into his broader opportunity and criminal-justice work.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
-- [贾谊 / Jia Yi](entities/JiaYi.md) — 以《过秦论》评价战国四公子，并把拒谏、群臣噤声与政治信息断流连成秦亡诊断的西汉政论家。
+- [贾谊 / Jia Yi](entities/JiaYi.md) — 以《过秦论》诊断拒谏与信息断流，并在《治安策》中讨论储君养成、礼法分工、高官体面和封国分权的西汉政论家。
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
 - [李斯 / Li Si](entities/LiSi.md) — Qin minister whose arc runs from mouse philosophy and Qin entry through imperial policy design, Hu Hai's accession, coerced confession, and waist-chopping execution.
 - [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial arguing that Qin's historical success depended on foreign guest talent and that expulsion would strengthen enemy states.
@@ -20231,7 +20232,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission](concepts/EarlyChineseBuddhismCourtTransmission.md) — Pattern where Buddhist foreign contact, elite practice, imperial dream, envoy mission, scriptures, monks, and temple institution become court-legible transmission.
 - [宗室退权自保 / Royal Kin Power Withdrawal](concepts/RoyalKinPowerWithdrawal.md) — Court-survival pattern where a trusted royal kinsman reduces office exposure and capital proximity before favor becomes suspicion.
 - [高位谨慎自保 / High-Status Caution Self-Protection](concepts/HighStatusCautionSelfProtection.md) — Court-survival pattern where reversible rank, wealth, and access require low display, disciplined speech, controlled documents, and careful association.
-- [太子师傅公器化 / Crown-Prince Tutor Public Interest](concepts/CrownPrinceTutorPublicInterest.md) — Succession-education principle that the heir's teachers and close household access are realm-serving public roles rather than maternal-family appointments.
+- [太子师傅公器化 / Crown-Prince Tutor Public Interest](concepts/CrownPrinceTutorPublicInterest.md) — 储君的师友、近侍与日常环境属于公共责任，应按国家继承需要而非亲族便利、私人偏好或强制性教育来安排。
+- [礼教预防与法令处置 / Ritual Prevention and Legal Response](concepts/RitualPreventionAndLegalResponse.md) — 区分礼教对意念与习惯的事前塑造和法令对已发生行为的奖惩，同时保留公正、可预期执法的必要性。
 - [政绩述职造假 / Administrative Performance Fraud](concepts/AdministrativePerformanceFraud.md) — Governance failure where reported achievements are exaggerated or fabricated because promotion and reward depend on centrally assessed performance claims.
 - [尊重式冲突降温 / Respect-Based Conflict De-escalation](concepts/RespectBasedConflictDeescalation.md) — Conflict tactic where credible recognition of a rival's competence or dignity reduces status-driven hostility.
 - [Promotion-Status Relationship Rupture / 升职后的关系破裂](concepts/PromotionStatusRelationshipRupture.md) — Pattern where promotion, rank, or wealth changes turn familiar peers into painful comparison targets and practical rivals.

@@ -52865,9 +52865,9 @@
       "url": "/wiki/entities/crownprincerudolf/"
     },
     "CrownPrinceTutorPublicInterest": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -52889,9 +52889,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1） [liKaoMMQtr0C2LUIJqr-FUM2uHjt].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/crownprincetutorpublicinterest/"
     },
     "CrownPrinceVoluntaryWithdrawal": {
@@ -127726,9 +127733,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -127750,6 +127757,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1） [liKaoMMQtr0C2LUIJqr-FUM2uHjt].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
         }
       ],
       "updated": "2026-10-09",
@@ -204674,6 +204688,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/ritualobjectlegendformation/"
     },
+    "RitualPreventionAndLegalResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1） [liKaoMMQtr0C2LUIJqr-FUM2uHjt].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/ritualpreventionandlegalresponse/"
+    },
     "RitualRenunciationPoliticalCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -269686,9 +269716,9 @@
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhianCe": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
@@ -269696,6 +269726,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1） [liKaoMMQtr0C2LUIJqr-FUM2uHjt].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
         }
       ],
       "updated": "2026-10-09",

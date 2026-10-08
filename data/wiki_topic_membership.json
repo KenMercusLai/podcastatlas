@@ -72606,6 +72606,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RitualPreventionAndLegalResponse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RitualRecognitionOfMilitaryPower": [
     {
       "key": "history",
@@ -105026,6 +105033,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt": [
     {
       "key": "politics",
       "label": "Politics",

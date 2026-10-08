@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3218
+topic_total_pages: 3220
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4993,6 +4993,9 @@ topic_concepts:
   - key: "RitualAgrarianFrontierIntegration"
     title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
     url: "/wiki/concepts/ritualagrarianfrontierintegration/"
+  - key: "RitualPreventionAndLegalResponse"
+    title: "礼教预防与法令处置 / Ritual Prevention and Legal Response"
+    url: "/wiki/concepts/ritualpreventionandlegalresponse/"
   - key: "SocialBaseCollapseVsEliteRebellion"
     title: "社会根基崩塌与精英叛乱之别 / Social-Base Collapse versus Elite Rebellion"
     url: "/wiki/concepts/socialbasecollapsevseliterebellion/"
@@ -9381,6 +9384,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt"
+    title: "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）"
+    url: "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
   - key: "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77"
     title: "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子"
     url: "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"

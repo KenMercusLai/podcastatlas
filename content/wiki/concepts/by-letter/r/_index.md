@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9994
+wiki_total_pages: 9995
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "RitualAgrarianFrontierIntegration"
     title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
     url: "/wiki/concepts/ritualagrarianfrontierintegration/"
+  - key: "RitualPreventionAndLegalResponse"
+    title: "礼教预防与法令处置 / Ritual Prevention and Legal Response"
+    url: "/wiki/concepts/ritualpreventionandlegalresponse/"
   - key: "RitualRenunciationPoliticalCapital"
     title: "礼让辞封式政治资本 / Ritual Renunciation as Political Capital"
     url: "/wiki/concepts/ritualrenunciationpoliticalcapital/"

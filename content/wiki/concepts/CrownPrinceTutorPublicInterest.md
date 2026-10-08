@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf
   - zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd
   - zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -16,7 +17,9 @@ last_updated: 2026-09-14
 
 ## Current Synthesis
 
-The concept now has Western and Eastern Han versions plus a late-Wudi negative case. In [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]], [[SimaGuang|司马光]] criticizes [[HanWudi|汉武帝]] for building Bowang Yuan and letting [[LiuJuCrownPrinceWesternHan|卫太子刘据]] gather guests according to his own taste. The critique treats heir education as a public responsibility: even a crown prince with freedom and status should be surrounded by upright teachers and friends rather than left to a mixed private guest environment.
+The concept now has an early normative foundation, Western and Eastern Han appointment cases, and a late-Wudi negative case. [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] attributes to [[JiaYi|贾谊]] a model beginning in infancy: ritual, senior and junior tutors, upright guards, worthy companions, and continuous exposure to correct speech and conduct are meant to turn the heir's environment into durable character. [[QinErshi|胡亥 / 秦二世]] under [[ZhaoGao|赵高]] is presented as the negative mirror.
+
+In [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]], [[SimaGuang|司马光]] criticizes [[HanWudi|汉武帝]] for building Bowang Yuan and letting [[LiuJuCrownPrinceWesternHan|卫太子刘据]] gather guests according to his own taste. The critique treats heir education as a public responsibility: even a crown prince with freedom and status should be surrounded by upright teachers and friends rather than left to a mixed private guest environment.
 
 In [[zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd|Hanji 419]], [[XuGuanghanWesternHan|徐广汉]] asks [[EmperorXuanOfHan|汉宣帝]] to have [[XuShunWesternHan|徐顺]] oversee crown prince [[HanYuandi|刘奭]]'s household. Xuan does not answer directly; he asks [[ShuGuangShuShouWesternHan|疏广]], who says the crown prince is the state's heir, already has taifu and shaofu, and should be surrounded by worthy people of the realm rather than tied too closely to the Xu maternal family.
 
@@ -28,8 +31,8 @@ The concept is a personnel-selection and access boundary. It does not deny that 
 
 ## Key Claims
 
-- The crown prince's teacher is a public role because the heir is being prepared for the realm.
-- The heir's guest and friend environment can be treated as a public-interest matter when it shapes character before succession.
+- The crown prince's teachers and daily environment are public responsibilities because the heir is being prepared for the realm.
+- Early and repeated exposure to speech, conduct, ritual, companions, and punishment models is presented as character formation before succession.
 - Maternal kinship and high office can make a candidate plausible but cannot by themselves settle the appointment.
 - Household oversight near the crown prince can be treated like tutor selection when it changes who shapes the heir's daily environment.
 - A useful tutor must be able to correct the ruler and support the heir, not merely belong to the right family.
@@ -37,6 +40,11 @@ The concept is a personnel-selection and access boundary. It does not deny that 
 - The negative Han Wudi/Liu Ju case shows that permissive access without curated upright companionship can later be read as ruler-side educational failure.
 
 ## Evidence
+
+Jia Yi's infancy-to-succession model:
+- [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] attributes to 《治安策》 a system of taishi, taifu, taibao, junior tutors, upright guards, and worthy companions around the crown prince.
+- [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] uses language and custom analogies to say repeated environment can become habitual character.
+- [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] presents Hu Hai's instruction under Zhao Gao as the negative case of a coercive curriculum.
 
 Bowang Yuan negative case:
 - [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] says Han Wudi built Bowang Yuan and allowed Liu Ju to associate with guests according to his own preferences.
@@ -58,13 +66,13 @@ Yin-family tutor candidate:
 
 ## Counterevidence & Qualifications
 
-This concept should not be read as a blanket claim that maternal relatives are always unfit or that all broad guest access is inherently corrupting. Hanji 728 does not attack Yin Shi's personal ability, Hanji 419 does not prove Xu Guanghan's request was openly disloyal, and Hanji 387-2 gives Sima Guang's retrospective moral critique rather than a full causal proof that Liu Ju's guest circle caused the Wugu catastrophe. The narrow claim is that succession education and close household access have to be justified as public roles, and kinship convenience or private preference is insufficient when the role shapes the future ruler.
+This concept should not be read as a blanket claim that maternal relatives are always unfit or that all broad guest access is inherently corrupting. Hanji 728 does not attack Yin Shi's personal ability, Hanji 419 does not prove Xu Guanghan's request was openly disloyal, and Hanji 387-2 gives Sima Guang's retrospective moral critique rather than a full causal proof that Liu Ju's guest circle caused the Wugu catastrophe. Hanji 219 part 1 idealizes Three Dynasties practice and does not prove that education alone explains Hu Hai's rule or Qin's fall. The narrow claim is that succession education and close household access have to be justified as public roles, and kinship convenience, private preference, or a coercive instructional environment is insufficient when the role shapes the future ruler.
 
 ## What Changed
 
-- Added Hanji 387-2's negative Bowang Yuan case, where Sima Guang criticizes Han Wudi for letting Liu Ju's guest environment follow private preference instead of curated upright companionship.
-- Added Hanji 419's Western Han Xu-family request and Shu Guang response, broadening the concept from tutor appointment to crown-prince educational access.
-- Preserved Hanji 728's Zhang Yi, Yin Shi, and Huan Rong crown-prince tutor appointment scene as the Eastern Han version.
+- Added Hanji 219 part 1's infancy-to-succession model of tutors, companions, ritual, and repeated environment.
+- Added Hu Hai under Zhao Gao as the source's negative coercive-curriculum case.
+- Preserved the later Bowang Yuan, Xu-family, and Yin-family cases as appointment and access tests.
 
 ## Related Concepts
 
@@ -80,3 +88,5 @@ This concept should not be read as a blanket claim that maternal relatives are a
 - [[OfficialSelectionChannelCompetition|选官方式竞争]] - broader appointment-selection concept that asks which channel should dominate a role.
 - [[OuterRelativePreventiveRestraint|外戚预防性约束]] - related preventive limit on maternal-family power.
 - [[ImperialTeacherHonorRitual|帝王尊师礼制]] - later teacher-honor ritual branch connected through Huan Rong.
+- [[JiaYi|贾谊]] and [[ZhianCe|《治安策》]] - thinker and text supplying the earliest normative foundation in the current evidence inventory.
+- [[RitualPreventionAndLegalResponse|礼教预防与法令处置]] - adjacent principle explaining why heir formation is treated as prevention before misconduct.
