@@ -2224,6 +2224,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "185-agatha-christie-glt9092045420": [
     {
       "key": "history",
@@ -55302,6 +55309,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MajorInvestmentDecisionFramework": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "MajorLeagueBaseball": [

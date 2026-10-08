@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9969
+wiki_total_pages: 9972
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "MajorDepressionMultisystemModel"
     title: "Major Depression Multisystem Model"
     url: "/wiki/concepts/majordepressionmultisystemmodel/"
+  - key: "MajorInvestmentDecisionFramework"
+    title: "Major Investment Decision Framework / 重大投资决策框架"
+    url: "/wiki/concepts/majorinvestmentdecisionframework/"
   - key: "MajorEventAttentionConversion"
     title: "Major-Event Attention Conversion"
     url: "/wiki/concepts/majoreventattentionconversion/"

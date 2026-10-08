@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9969
+wiki_total_pages: 9972
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "RefillableBeautyPackaging"
     title: "Refillable Beauty Packaging / 美妆替换芯包装"
     url: "/wiki/concepts/refillablebeautypackaging/"
+  - key: "RefinancingLagCreditTransmission"
+    title: "Refinancing-Lag Credit Transmission / 再融资滞后信用传导"
+    url: "/wiki/concepts/refinancinglagcredittransmission/"
   - key: "ReflectiveChoiceFormation"
     title: "Reflective Choice Formation / 反思式选择能力"
     url: "/wiki/concepts/reflectivechoiceformation/"

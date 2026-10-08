@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2215
+topic_total_pages: 2217
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1984,6 +1984,9 @@ topic_concepts:
   - key: "MainContradictionAllocation"
     title: "Main Contradiction Allocation / 主要矛盾式资产配置"
     url: "/wiki/concepts/maincontradictionallocation/"
+  - key: "MajorInvestmentDecisionFramework"
+    title: "Major Investment Decision Framework / 重大投资决策框架"
+    url: "/wiki/concepts/majorinvestmentdecisionframework/"
   - key: "MalthusianTrap"
     title: "Malthusian Trap / 马尔萨斯陷阱"
     url: "/wiki/concepts/malthusiantrap/"
@@ -5895,6 +5898,9 @@ topic_sources:
   - key: "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1"
     title: "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」"
     url: "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+  - key: "184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt"
+    title: "184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘"
+    url: "/wiki/sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

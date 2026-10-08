@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9969
+wiki_total_pages: 9972
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "LongDistanceTradeFriction"
     title: "Long-Distance Trade Friction"
     url: "/wiki/concepts/longdistancetradefriction/"
+  - key: "LongDurationBondDefense"
+    title: "Long-Duration Bond Defense / 长久期债券防守配置"
+    url: "/wiki/concepts/longdurationbonddefense/"
   - key: "LongDurationEnduranceStandard"
     title: "Long-Duration Endurance Standard / 长时间耐力标准"
     url: "/wiki/concepts/longdurationendurancestandard/"

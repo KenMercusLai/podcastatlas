@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘](sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt.md) — 起朱楼宴宾客 third-quarter investment review on late-cycle allocation, refinancing-lag credit risk, a five-step major-decision framework, and a bounded overseas long-duration bond sleeve.
 - [22 东西方的疯王：尼禄与汉灵帝会是知己吗？](sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r.md) — 怪东西以尼禄与汉灵帝比较艺术、表演、政治能力、私人欲望与公共责任，并区分精神疾病、暴虐、无能和后世污名。
 - [23 张向荣&陆大鹏：如何学古文，如何学英语](sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq.md) — 怪东西以英语、德语和文言文对照语境化学习、广泛阅读、跨媒介输入、注释本、文化常识与容忍部分不理解的方法。
 - [24 东西方的饭局：最后的晚餐与兰亭雅集](sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp.md) — 怪东西以最后的晚餐与兰亭雅集比较服务、背叛、悔悟、圣餐、无常、诗书艺术与有限生命的意义，同时保留福音史实和《兰亭集序》文本形成的边界。
@@ -17006,6 +17007,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Major Investment Decision Framework / 重大投资决策框架](concepts/MajorInvestmentDecisionFramework.md) — Five-step process connecting objectives, instrument fit, worst-case and fallback analysis, product choice, and staged implementation.
+- [Long-Duration Bond Defense / 长久期债券防守配置](concepts/LongDurationBondDefense.md) — Risk-budgeted bond sleeve separating liquid duration, maturity cash flow, and spending-currency matching.
+- [Refinancing-Lag Credit Transmission / 再融资滞后信用传导](concepts/RefinancingLagCreditTransmission.md) — Delayed corporate stress as low-coupon debt matures and must be refinanced at higher rates.
 - [Contextual Language Learning / 语境化语言学习](concepts/ContextualLanguageLearning.md) — 通过有意义的句子、故事、真实媒介、文化情境与跨媒介复现习得词汇、结构、理解和表达的方法。
 - [Last Supper](concepts/LastSupper.md) — 耶稣被捕前的最后一餐传统，将洗脚、饼酒、背叛、否认与彼此相爱连接为服务、记忆和脆弱性的叙事。
 - [Eucharist](concepts/Eucharist.md) — 源于最后晚餐饼酒语言、延续为基督教纪念与共融仪式，同时存在真实临在、象征和精神参与等教义分歧。
