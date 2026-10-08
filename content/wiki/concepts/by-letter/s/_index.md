@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9988
+wiki_total_pages: 9991
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "StateResourceMonopoly"
     title: "State Resource Monopoly / 资源垄断式国家统制"
     url: "/wiki/concepts/stateresourcemonopoly/"
+  - key: "StateSurnameStandardization"
+    title: "State Surname Standardization / 国家推动的固定姓氏标准化"
+    url: "/wiki/concepts/statesurnamestandardization/"
   - key: "StateSurvivalKinshipDutyConflict"
     title: "State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突"
     url: "/wiki/concepts/statesurvivalkinshipdutyconflict/"

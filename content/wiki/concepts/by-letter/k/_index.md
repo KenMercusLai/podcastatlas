@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 9988
+wiki_total_pages: 9991
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "KingdomOfGodEschatology"
     title: "Kingdom of God Eschatology"
     url: "/wiki/concepts/kingdomofgodeschatology/"
+  - key: "KinshipEncodingInPersonalNames"
+    title: "Kinship Encoding in Personal Names / 姓名中的亲属关系编码"
+    url: "/wiki/concepts/kinshipencodinginpersonalnames/"
   - key: "KinshipLegitimacyDiplomacy"
     title: "Kinship Legitimacy Diplomacy / 同源合法性外交"
     url: "/wiki/concepts/kinshiplegitimacydiplomacy/"

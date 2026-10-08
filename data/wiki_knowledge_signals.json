@@ -118452,9 +118452,9 @@
       "url": "/wiki/concepts/imperialmoralaudit/"
     },
     "ImperialNameTaboo": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳” [lhJp6ZtaJzpXbO2mrLnR_N3mzatB].md",
@@ -118462,9 +118462,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb/"
+        },
+        {
+          "episode_file": "luwYjjaVdSketSBZhtBGyqv5p_Nm [luwYjjaVdSketSBZhtBGyqv5p_Nm].md",
+          "key": "12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm",
+          "show": "怪东西Weird History",
+          "title": "12 东西方取名的艺术",
+          "url": "/wiki/sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/imperialnametaboo/"
     },
     "ImperialPatronDependency": {
@@ -133957,6 +133964,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
+    },
+    "KinshipEncodingInPersonalNames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luwYjjaVdSketSBZhtBGyqv5p_Nm [luwYjjaVdSketSBZhtBGyqv5p_Nm].md",
+          "key": "12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm",
+          "show": "怪东西Weird History",
+          "title": "12 东西方取名的艺术",
+          "url": "/wiki/sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/kinshipencodinginpersonalnames/"
     },
     "KinshipPoliticalCutting": {
       "episode_count": 1,
@@ -168163,6 +168186,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/nakba/"
     },
+    "NamingSystemsAsSocialInstitutions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luwYjjaVdSketSBZhtBGyqv5p_Nm [luwYjjaVdSketSBZhtBGyqv5p_Nm].md",
+          "key": "12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm",
+          "show": "怪东西Weird History",
+          "title": "12 东西方取名的艺术",
+          "url": "/wiki/sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/namingsystemsassocialinstitutions/"
+    },
     "NanJiHe": {
       "episode_count": 3,
       "show_count": 1,
@@ -190692,6 +190731,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/precallqualification/"
+    },
+    "PreQinSurnameClanIdentity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！ [lns7JT-KbV3QUNm66HZlTdgugbcO].md",
+          "key": "zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco/"
+        },
+        {
+          "episode_file": "luwYjjaVdSketSBZhtBGyqv5p_Nm [luwYjjaVdSketSBZhtBGyqv5p_Nm].md",
+          "key": "12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm",
+          "show": "怪东西Weird History",
+          "title": "12 东西方取名的艺术",
+          "url": "/wiki/sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/preqinsurnameclanidentity/"
     },
     "PreReformBritishElectoralRepresentation": {
       "episode_count": 1,
@@ -223835,6 +223897,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/stateparamilitaryauthoritysplit/"
+    },
+    "StateSurnameStandardization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luwYjjaVdSketSBZhtBGyqv5p_Nm [luwYjjaVdSketSBZhtBGyqv5p_Nm].md",
+          "key": "12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm",
+          "show": "怪东西Weird History",
+          "title": "12 东西方取名的艺术",
+          "url": "/wiki/sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/statesurnamestandardization/"
     },
     "StatecraftGenerationRelay": {
       "episode_count": 1,

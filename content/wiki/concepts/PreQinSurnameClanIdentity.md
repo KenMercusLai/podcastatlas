@@ -2,26 +2,54 @@
 title: "Pre-Qin Surname-Clan Identity / 先秦姓氏身份"
 type: concept
 tags: [identity, kinship, nobility, source-criticism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco
+  - 12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm
+last_updated: 2026-10-09
+knowledge_schema: synthesis-v1
 ---
 
-# Pre-Qin Surname-Clan Identity / 先秦姓氏身份
+## Definition
 
-Pre-Qin surname-clan identity / 先秦姓氏身份 is the identity-reading frame [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]] uses to interpret [[ChangpingJun|昌平君]] as Xiong Qi. The host distinguishes 姓 from 氏: 姓 regulates marriage boundaries, while 氏 marks noble rank, branch identity, and political status.
+Pre-Qin surname-clan identity is a source-critical framework for interpreting 姓 and 氏 as historically changing markers of marriage boundary, descent group, branch, rank, fief, office, or political affiliation rather than as simple equivalents of a modern hereditary surname.
 
-The concept matters because the episode treats "熊启" as evidence rather than decoration. If Xiong is a Chu royal clan marker, then Changping Jun's late rebellion is not simply a Qin official defecting under pressure; it becomes the action of a Qin court insider whose name, kinship, and remembered status tie him to [[ChuState|楚国]].
+## Current Synthesis
 
-The source also uses this identity frame as a guardrail against flattening Warring States names into modern surname logic. A name form can carry information about marriage, rank, branch, and interstate legitimacy, but it still needs to be checked against received sources and later narrative motives.
+[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] uses the conventional distinction—姓 for marriage group and 氏 for noble branch or status—to read [[ChangpingJun|昌平君]] as Xiong Qi and to make his name evidence for Chu royal affiliation. That reading changes his later conduct from the defection of an ordinary Qin official into a kinship and interstate-legitimacy problem.
+
+[[12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm|Weird History episode 12]] broadens and qualifies the model. It presents the familiar “large 姓 divided into 氏 branches” explanation as useful for some Western Zhou and Warring States material, but also introduces an alternative account in which 氏 may be older and Western Zhou rulers reorganized existing groups through enfeoffment and granted 姓. The stable judgment is therefore methodological: name forms can preserve political identity, but the categories' origin, sequence, and consistency remain disputed.
 
 ## Key Claims
-- 姓 and 氏 should not be read as modern surnames in a simple one-to-one way.
-- Clan-name evidence can identify noble or royal affiliation, especially when ordinary commoners would not normally carry such a marker.
-- Reading a name politically can change the interpretation of later conduct, as with Changping Jun's move from Qin chancellor to Chu resistance figure.
-- Name evidence is useful but not self-sufficient; it must be paired with source comparison and chronology.
 
-## Connections
-- [[ChangpingJun|昌平君]] and [[MiWan|楚考烈王]] - source case for Xiong Qi's Chu royal identity.
-- [[ChuState|楚国]], [[QinState|秦国]], [[HuayangFuren|华阳夫人]], and [[QinZhaoxiangwang|秦昭襄王]] - kinship and court-marriage frame.
-- [[TextualVariantPoliticalStakes|史书异文政治重量]] and [[HistoricalDetectiveReasoning|historical detective reasoning]] - guardrails for turning name evidence into historical inference.
-- [[EvidenceBoundHistoricalRevision|evidence-bound historical revision]] - broader method for treating a reconstructed identity as plausible without making it unmarked baseline fact.
+- Pre-Qin 姓 and 氏 should not be mapped one-to-one onto the modern surname category.
+- The conventional model links 姓 to marriage boundaries and 氏 to branch, rank, fief, office, residence, or ancestor.
+- Clan-name evidence can alter political interpretation by revealing noble or royal affiliation, as in the Changping Jun reconstruction.
+- The origin and chronological priority of 姓 and 氏 remain disputed; later systematic definitions may not describe every early period consistently.
+- Name evidence is useful but not self-sufficient and must be tested against chronology, textual variants, genealogy, and later narrative motives.
+
+## Evidence
+
+Political identity from a name:
+- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] treats Xiong Qi's name as evidence for Changping Jun's Chu royal connection and integrates that reading with Qin-Chu court kinship and his later rebellion.
+
+Historical variability of the categories:
+- [[12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm|Weird History episode 12]] describes fiefs, residence, office, and ancestry as sources of 氏 and explains the later convergence of 姓 and 氏.
+- [[12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm|Weird History episode 12]] presents the “氏 first, Western Zhou-created 姓” proposal as an alternative to the received model rather than resolving the scholarly dispute.
+
+## Counterevidence & Qualifications
+
+The Changping Jun identification remains a source-grounded reconstruction, not an independently settled baseline. The new episode is a broad popular-history survey and says its presenter has not mastered the full debate. Claims about oracle-bone vocabulary, the number and antiquity of recorded 姓, Western Zhou policy, and particular ancient name analyses require direct comparison with specialist scholarship and primary texts.
+
+## What Changed
+
+- Added a second source that widens the concept beyond the Changping Jun case.
+- Qualified the conventional 姓-before-氏 branching model with an explicitly contested alternative chronology.
+- Migrated the page to the synthesis-v1 structured contract.
+
+## Related Concepts
+
+- [[NamingSystemsAsSocialInstitutions]] - places pre-Qin categories inside the broader history of naming rules.
+- [[KinshipEncodingInPersonalNames]] - explains how name components can carry descent or branch information without being modern surnames.
+- [[TextualVariantPoliticalStakes]] - shows why competing name and genealogy readings can change political interpretation.
+- [[HistoricalDetectiveReasoning]] - supplies the method for testing name evidence against chronology and sources.
+- [[EvidenceBoundHistoricalRevision]] - keeps plausible identity reconstruction distinct from settled fact.

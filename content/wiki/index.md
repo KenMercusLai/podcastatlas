@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 东西方取名的艺术](sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm.md) — 怪东西比较中国姓氏、名、字、号、避讳与罗马、俄语、冰岛、阿拉伯和西班牙语姓名体系，将姓名解释为亲属关系、等级、宗教、国家治理与自我呈现的社会制度。
 - [《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？](sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd.md) — 冯唐以李牧和魏尚说明边将需要实权、资源与可信赏罚；文帝由愤怒转向追问，认错后赦免魏尚并任用冯唐。
 - [15 亚历山大大帝的糟糕原生家庭：《天堂之火》](sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq.md) — 怪东西以《天堂之火》讨论亚历山大的王室家庭、君主教育、边缘身份与文化融合，并限定历史小说的现代心理投射。
 - [16 东西方的宰相](sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp.md) — 怪东西以决策参与、官僚统领、资源控制与责任关系比较中外宰相和政府首脑，说明职衔与译名不能替代对制度实权的考察。
@@ -17027,6 +17028,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christine de Pizan / 克里斯蒂娜·德·皮桑](entities/ChristineDePizan.md) — 中世纪法国职业女作家，以宫廷写作讨论女性教育、文学偏见、君主伦理、和平与战争约束。
 
 ## Concepts
+- [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。
+- [State Surname Standardization / 国家推动的固定姓氏标准化](concepts/StateSurnameStandardization.md) — 国家以法律和登记稳定姓氏、提高人口可识别性，同时可能推动现代化、同化、去殖民化或民族身份重塑。
+- [Kinship Encoding in Personal Names / 姓名中的亲属关系编码](concepts/KinshipEncodingInPersonalNames.md) — 比较父名、母名、双姓、复姓、字辈和联名如何记录父母、祖先、婚姻、支系或世代，而不预设固定家族姓。
 - [Historical Fiction Psychological Projection / 历史小说心理投射](concepts/HistoricalFictionPsychologicalProjection.md) — Evidence boundary separating emotionally plausible invented interiority from recovered psychology of the distant past.
 - [Historical Legend Accretion / 历史传说的层累形成](concepts/HistoricalLegendAccretion.md) — 以文本年代、体裁、技术替换、地点附着和道德重心迁移区分传说的文化效力与事件史证据。
 - [Contextual Meaning of Cannibalism / 食人行为的语境意义](concepts/CannibalismContextualMeaning.md) — Separates survival, ritual, aggression, medicine, devotion, pathology, colonial labeling, and metaphor before cross-cultural judgment.

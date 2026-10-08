@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9988
+wiki_total_pages: 9991
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
     url: "/wiki/concepts/namingpowersocialchange/"
+  - key: "NamingSystemsAsSocialInstitutions"
+    title: "Naming Systems as Social Institutions / 姓名制度作为社会制度"
+    url: "/wiki/concepts/namingsystemsassocialinstitutions/"
   - key: "NarcissisticRelationalControl"
     title: "Narcissistic Relational Control / 自恋式关系控制"
     url: "/wiki/concepts/narcissisticrelationalcontrol/"
