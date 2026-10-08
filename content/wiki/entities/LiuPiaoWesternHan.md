@@ -7,15 +7,18 @@ sources:
   - zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-2-loajctyv6no5zfho92kces8pbiel
   - zizhi-tongjian-hanji-270-chenajiao-mishi-hougong-zhizhong-ta-weihe-duchong-nvguan-2-lllzlb2knjj0ovmuc8tiid34m0gp
   - zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr
+  - zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp
 last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-馆陶长公主刘嫖 / Liu Piao is presented as a Western Han imperial princess whose kinship and earlier succession support help place [[EmpressChenAjiaoWesternHan|陈阿娇]] beside Liu Che, but whose demands and later attack on [[WeiQingHanGeneral|卫青]] also make her a constraint and adversary in the young [[HanWudi|汉武帝]]'s court. Her wealth and direct access later allow her to transform [[DongYanWesternHan|董偃]] from a young household dependent into a publicly recognized companion, while Chen's deposition shows that access can secure reassurance without reversing imperial decisions. The first supplied Hanji 271 episode calls her “刘飘”; this page uses the transmitted name 刘嫖.
+馆陶长公主刘嫖 / Liu Piao is presented as a Western Han imperial princess whose marriage brokerage and direct access shift the heir coalition from [[LiuRongWesternHan|刘荣]] toward Liu Che, helping place [[EmpressChenAjiaoWesternHan|陈阿娇]] beside the future emperor. Her demands and later attack on [[WeiQingHanGeneral|卫青]] also make her a constraint and adversary in the young [[HanWudi|汉武帝]]'s court. Her wealth and access later allow her to transform [[DongYanWesternHan|董偃]] from a young household dependent into a publicly recognized companion, while Chen's deposition shows that access can secure reassurance without reversing imperial decisions. The sources sometimes call her “刘飘”; this page uses the transmitted name 刘嫖.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp|Hanji 239 part 1]] now supplies the alliance-switch mechanism behind the earlier succession-support claim. Liu Piao first proposes marrying Chen Ajiao to Crown Prince Liu Rong; after [[ConsortLiJingdiWesternHan|丽姬]] refuses, she aligns with [[EmpressDowagerWangWesternHan|王娡]] around an Ajiao-Liu Che match and reportedly uses repeated sibling access to criticize Li and praise Liu Che. This makes Liu Piao a marriage broker and advocate rather than a merely symbolic relative, while the episode's private motives, exact bargaining, and causal weight remain source-scoped.
 
 [[zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr|Hanji 251]] and [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf|Hanji 271]] identify Liu Piao as the daughter of Emperor Wen and Empress Dou, the sister of Emperor Jing, and both aunt and mother-in-law to Han Wudi. Both credit her with helping Liu Che reach the throne. Hanji 251 says her continuing demands burden the new emperor and that Wang urges him to conceal displeasure while his authority remains insecure; Hanji 271 later treats her daughter's deposition and her husband's death as a loss of political position that does not remove her wealth or family access.
 
@@ -33,7 +36,7 @@ Hanji 270 supplies the immediate daughter-deposition bridge. Liu Piao reportedly
 
 ## Key Characteristics
 
-- Imperial kinship, earlier succession support, and the Chen marriage give her direct access and make her a powerful ally whom the newly enthroned Wudi initially avoids confronting openly.
+- Imperial kinship and marriage brokerage let her transfer advocacy from Liu Rong to Liu Che, making her an ally whom the newly enthroned Wudi initially avoids confronting openly.
 - Exceptional household wealth sustains education, luxury, gifts, and a large patronage setting outside formal office.
 - She converts private intimacy into public status through a carefully staged imperial audience.
 - Her low ritual posture during the presentation manages the risk of asking the emperor to tolerate a norm-breaking relationship.
@@ -44,6 +47,7 @@ Hanji 270 supplies the immediate daughter-deposition bridge. Liu Piao reportedly
 ## Evidence
 
 Kinship, wealth, and changing position:
+- [[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp|Hanji 239 part 1]] says Liu Piao changes marriage partners after Li's refusal and then uses access to Jingdi to criticize Li and praise Liu Che.
 - [[zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr|Hanji 251]] says Liu Piao's succession support and daughter's marriage make her too dangerous for Wudi to confront openly while his authority is still insecure.
 - [[zizhi-tongjian-hanji-271-xihan-mishi-wudi-yuemu-yu-yangzi-de-bulunlian-1-loeg6lrncynofm27ekpgtjkodrwf|Hanji 271]] identifies Liu Piao's imperial relationships, credits her with helping Liu Che's accession, and says her daughter's deposition reduces her political standing while inherited wealth remains.
 
@@ -64,15 +68,12 @@ Daughter's deposition:
 
 ## Qualifications
 
-The current profile rests on four short, story-driven summaries from one podcast series. Exact succession support, demands, household orders, rescue mechanics, promotion causation, inheritance, family details, ages, dialogue, curriculum, and psychological accounts of grief are not independently established here. “养子” does not prove a formal adoption, and the claim that later princess favorite-keeping began with her is not a settled institutional first. Hanji 270's claim that Dong Yan distracted her from defending Chen and deprived her of moral leverage is likewise interpretive. Her 116 BCE death, fourteen-year separation from her husband, will, preference among family members, and burial at Baling also require primary-source checking.
+The current profile rests on five short, story-driven summaries from one podcast series. Exact succession support, the first rejected proposal, demands, household orders, rescue mechanics, promotion causation, inheritance, family details, ages, dialogue, curriculum, and psychological accounts of resentment or grief are not independently established here. “养子” does not prove a formal adoption, and the claim that later princess favorite-keeping began with her is not a settled institutional first. Hanji 239's one-refusal pivot and Hanji 270's claim that Dong Yan distracted her from defending Chen are interpretive causal compressions. Her 116 BCE death, fourteen-year separation from her husband, will, preference among family members, and burial at Baling also require primary-source checking.
 
 ## What Changed
 
-- Qualified her successful presentation of Dong Yan with a later ceremonial-space limit.
-- Added the reported death and burial request without adopting the episode's grief causation or family-emotion narrative as fact.
-- Added the earlier Chen-deposition scene as a limit case: direct access secures reassurance but not reversal.
-- Added the earlier succession-broker and insecure-reign constraint layer.
-- Added the Wei Qing seizure-and-rescue reversal while keeping motive and mechanics source-scoped.
+- Replaced generic “succession support” with the reported Liu Rong-to-Liu Che marriage-alliance switch.
+- Added direct praise-and-criticism advocacy while keeping exact bargaining, motive, and causal weight source-scoped.
 
 ## Relationships
 
@@ -81,6 +82,8 @@ The current profile rests on four short, story-driven summaries from one podcast
 - [[WeiQingHanGeneral|卫青]] - rival-household target whose rescue and subsequent promotion make coercion backfire.
 - [[GongsunAoWesternHan|公孙敖]] - Wei Qing's friend and reported rescuer from Liu Piao's men.
 - [[HanWudi|汉武帝]] - nephew and son-in-law whose acknowledgment converts her private arrangement into protected social status.
+- [[ConsortLiJingdiWesternHan|丽姬]] - rejected marriage counterpart whose refusal turns Liu Piao from a potential ally into an opponent.
+- [[PalaceMarriageSuccessionCoalition|宫廷婚姻—储位联盟]] - mechanism by which her marriage brokerage reallocates access and succession advocacy.
 - [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - explains how her kinship, wealth, and intimacy become patronage resources.
 - [[ImperialAcknowledgmentInformalStatus|帝王承认与非正式身份]] - captures the ceremonial authorization strategy used in Dong Yan's presentation.
 - [[CourtCeremonialSpaceBoundary|宫廷礼制空间的公私边界]] - limits how far her private arrangement can enter a state ceremonial setting.

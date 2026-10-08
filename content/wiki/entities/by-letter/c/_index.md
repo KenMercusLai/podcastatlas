@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12704
+wiki_total_pages: 12705
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "ChineseProfessionalFootballLeague"
     title: "中足联 / Chinese Professional Football League"
     url: "/wiki/entities/chineseprofessionalfootballleague/"
+  - key: "ConsortLiJingdiWesternHan"
+    title: "丽姬（汉景帝） / Consort Li (Emperor Jing)"
+    url: "/wiki/entities/consortlijingdiwesternhan/"
   - key: "ChengshiCountyLateHan"
     title: "乘氏县 / Chengshi County (Late Han)"
     url: "/wiki/entities/chengshicountylatehan/"

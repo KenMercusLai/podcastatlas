@@ -48058,6 +48058,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/consortheirsecurityspiral/"
     },
+    "ConsortLiJingdiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/consortlijingdiwesternhan/"
+    },
     "ConsortOmenBlameTransfer": {
       "episode_count": 2,
       "show_count": 1,
@@ -71691,9 +71707,9 @@
       "url": "/wiki/entities/empressbojingdiwesternhan/"
     },
     "EmpressChenAjiaoWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》270｜陈阿娇秘史：后宫之中，她为何独宠女官？（2） [llLZLb2KNJj0oVMuC8tIid34m0gp].md",
@@ -71715,6 +71731,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
         }
       ],
       "updated": "2026-10-08",
@@ -72160,9 +72183,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerWangWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -72226,6 +72249,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》238｜ 七国之乱，淮南王刘安如何转危为安？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhuanweiweian-2-lpik9exsirvyrppu8c9i89iqjncr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
         }
       ],
       "updated": "2026-10-08",
@@ -142114,9 +142144,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuPiaoWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》271｜西汉秘史：武帝岳母与养子的不伦恋（1） [loeG6LrNcYnoFM27EkPGtjkOdrwF].md",
@@ -142145,6 +142175,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
         }
       ],
       "updated": "2026-10-08",
@@ -142437,9 +142474,9 @@
       "url": "/wiki/entities/liurenchengstandup/"
     },
     "LiuRongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -142447,6 +142484,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
         }
       ],
       "updated": "2026-10-08",
@@ -176330,6 +176374,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/palacemarriagefamilymobility/"
+    },
+    "PalaceMarriageSuccessionCoalition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1） [ljDAaSdScQWIe1IshMa3nwVgzhQp].md",
+          "key": "zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/palacemarriagesuccessioncoalition/"
     },
     "PalacePerformerFavorMobility": {
       "episode_count": 1,

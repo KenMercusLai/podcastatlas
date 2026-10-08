@@ -32292,3 +32292,10 @@ Added source `zizhi-tongjian-hanji-238-qiguo-zhiluan-huainanwang-liuan-ruhe-zhua
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）
+
+Added source `zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp`; created [[ConsortLiJingdiWesternHan|丽姬]] and [[PalaceMarriageSuccessionCoalition|宫廷婚姻—储位联盟]]; and resynthesized [[LiuPiaoWesternHan|馆陶长公主刘嫖]], [[EmpressDowagerWangWesternHan|王娡]], [[EmpressChenAjiaoWesternHan|陈阿娇]], and [[LiuRongWesternHan|刘荣]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: after Li rejects Liu Piao's proposed Chen Ajiao-Liu Rong match, Liu Piao transfers marriage support and court advocacy to Wang and Liu Che; Jingdi's reported household-protection test and Wang's alleged ministerial status-request maneuver then add trust and harem-interference concerns to the pre-demotion chain. The “金屋” promise is retained as political marriage memory rather than proof of romantic motive or single-cause succession. No settled contradiction was adopted. Names, childhood stories, dreams, chronology, speeches, ministerial agency, secret instruction, private motives, Li's death, and the complete cause of Liu Rong's deposition remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,041 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

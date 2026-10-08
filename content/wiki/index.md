@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死](sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le.md) — 袁盎遇刺案由修路争议追到梁王宫中；韩安国迫使刘武交出羊胜、公孙诡，田叔则在认定死罪后焚毁案卷，以牺牲证据和同等执法换取宗室、太后与朝廷的暂时和解。
 - [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
 - [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5.md) — 王娡立后与幼年刘彻立储被放入母系家族经营中解释；郅都则以威慑权贵、拒绝私请和阻止景帝为宠妃冒险，区分酷吏的强制效用、个人克制与角色忠诚，具体年代、动机和轶事保留来源边界。
+- [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（1）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-1-ljdaasdscqwie1ishma3nwvgzhqp.md) — 刘嫖在丽姬拒绝陈阿娇—刘荣婚配后转向王娡与刘彻；婚姻联盟、宫廷游说和家庭安全判断共同进入废储链，“金屋”、梦兆、密谋细节与单因果解释保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs.md) — 周亚夫先后反对废太子、无功封外戚和给匈奴降人封侯，在原则、亲族利益与招降策略的连续冲突中失去景帝及太后支持，最终称病罢朝并被免相；具体因果、日期和政策效果保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg.md) — 标题虽称周亚夫，正文实际叙述梁孝王刘武失宠、去世及梁国一分为五；景帝以对子女的优封安抚窦太后，同时分散封国力量，死亡因果、数字、动机与盗墓细节保留来源边界。
 - [《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？](sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j.md) — 景帝在灾异、边患与歉收中把节粮、抑奢、农桑示范和地方问责相连；四万钱赀选是承担任官成本的财产资格门槛，仍受身份、品行与才能筛选，并非直接买官。
@@ -4109,6 +4110,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 ## Entities
+- [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
 - [臧儿 / Zang Er (Western Han)](entities/ZangErWesternHan.md) — 王娡之母，被节目呈现为以家族记忆、相面预言与关系渠道推动女儿离开初婚并进入太子宫的母系策略者。
 - [济北王刘勃 / Liu Bo, King of Jibei (Western Han)](entities/LiuBoJibeiKingWesternHan.md) — 七国之乱时坚守衡山、入朝受褒并改封济北的刘长之子，与常山王刘勃及昌邑王刘髆分列。
 - [薄皇后 / Empress Bo of Emperor Jing (Western Han)](entities/EmpressBoJingdiWesternHan.md) — 由薄太后安排婚配、成为景帝首任皇后，并在保护者去世后被废与幽居宫中的薄氏皇后。
@@ -16867,6 +16869,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
+- [宫廷婚姻—储位联盟 / Palace Marriage-Succession Coalition](concepts/PalaceMarriageSuccessionCoalition.md) — 皇室子女婚配通过成人中介、宫廷接触、继承游说与未来家庭安全预期，重组储位竞争联盟的机制。
 - [特权隔绝式道德腐蚀 / Moral Corrosion Through Insulated Privilege](concepts/InsulatedPrivilegeMoralCorrosion.md) — inherited wealth, weak accountability, and constrained purpose can amplify elite indulgence and coercion without making moral decline inevitable.
 - [Agent Token Budgeting](concepts/AgentTokenBudgeting.md) — Management practice for evaluating agent inference spend against accepted work, task risk, review cost, and business outcomes.
 - [证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise](concepts/EvidenceSuppressionDynasticCompromise.md) — 私下承认受保护宗室可能有罪，却主动切断通向最终惩罚的证据链，以法律可信度和档案真相换取短期王朝稳定。
