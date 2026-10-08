@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg
+  - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs
 last_updated: 2026-10-08
 ---
 
@@ -22,16 +23,18 @@ The same prestige also creates immediate political danger. After the rebellion, 
 
 Han Anguo's intervention preserves the distinction between explanation and excuse. Through [[LiuPiaoWesternHan|馆陶长公主刘嫖]], he presents Liu Wu's behavior as excessive boasting about imperial and dowager affection rather than non-subject ambition. Jingdi accepts the less threatening reading, but Han still warns Liu Wu that continued dependence on sibling feeling can lead to destruction.
 
+[[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs|Hanji 242 part 1]] backfills Liu Wu's conflict with [[ZhouYafu|周亚夫]]. The episode links their hostility to Zhou's refusal to relieve Liang immediately during the Seven States crisis and says Liu Wu later criticizes Zhou whenever he visits Chang'an, using Dowager Dou's access to deepen the chancellor's isolation. The account establishes continued political opposition inside this podcast sequence, while the exact wartime grievance, frequency, wording, and causal effect remain bounded.
+
 [[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg|Hanji 242]] supplies the terminal layer. It says Jingdi refuses Liu Wu a longer Chang'an stay because the emperor fears his access to Dowager Dou, then connects their broken trust to the failed heir project and Yuan Ang's assassination. After Liu Wu dies, Jingdi gives kingships to all five sons and county estates to five daughters. The settlement preserves visible favor but divides Liang's concentrated power, making Liu Wu's afterlife a bridge from [[KinshipProtocolBoundary|亲情名分边界]] to the later logic of [[TuiEnLing|推恩令]].
 
 The same source uses reported treasure, armaments, imperial-style display, and a monumental rock-cut tomb to explain why Jingdi could view Liang as more than a private family household. Those quantities, Liu Wu's death from grief, and the tomb-plunder narrative remain source-scoped rather than becoming settled biography.
 
 ## Key Characteristics
 
-- Son of Empress Dowager Dou and younger full brother of Han Jingdi.
-- Western Han ruler of Liang credited with prolonged resistance during the Rebellion of the Seven States.
+- Son of Empress Dowager Dou, younger full brother of Han Jingdi, and ruler of Liang credited with prolonged resistance during the Rebellion of the Seven States.
 - Royal actor whose emperor-like protocol is treated as an overreach capable of triggering sovereign suspicion.
 - Beneficiary of Han Anguo's motive-reframing mediation and target of his warning about legal and rank limits.
+- Prince whose wartime grievance against Zhou Yafu continues through criticism before Dowager Dou.
 - Prince whose succession grievance, wealth, military resources, and dowager access deepen Jingdi's late suspicion in the episode's account.
 - Father of five sons whose posthumous enfeoffment preserves honor while fragmenting Liang, including Liu Pengli of Jidong.
 - Father whose remembered service later mitigates Liu Pengli's punishment.
@@ -45,6 +48,9 @@ Rebellion-era service:
 Court overreach and mediation:
 - [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw|Hanji 266]] says Liu Wu adopts emperor-like protocol, angers Jingdi, benefits from Han Anguo's indirect mediation, and receives a warning that affection cannot indefinitely protect improper conduct.
 
+Conflict with Zhou Yafu:
+- [[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs|Hanji 242 part 1]] connects Liu Wu's wartime grievance to repeated criticism of Zhou before Dowager Dou as the chancellor loses protection.
+
 Final distrust and divided inheritance:
 - [[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg|Hanji 242]] says Jingdi limits Liu Wu's capital stay, places his death after succession conflict and Yuan Ang's assassination, and divides Liang among five sons while providing county estates to five daughters.
 
@@ -56,14 +62,12 @@ Inherited political credit:
 
 ## Qualifications
 
-This remains a bounded profile rather than a full biography. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242's court-stay rule, Yuan Ang sequence, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
+This remains a bounded profile rather than a full biography. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242 part 1's immediate-relief dispute, repeated dowager-channel criticism, and causal role in Zhou's dismissal require comparison. Part 2's court-stay rule, Yuan Ang sequence, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
 
 ## What Changed
 
-- Extended the post-rebellion crisis into final distrust, death, and the posthumous division of Liang.
-- Added the dual effect of honoring all children while dispersing concentrated territorial power.
-- Added wealth, armaments, and monumental burial only as source-scoped context for Jingdi's threat perception.
-- Preserved military credit as both an immediate prestige source and later inherited clemency capital.
+- Added Liu Wu's wartime grievance and repeated dowager-channel criticism as a mechanism weakening Zhou Yafu's court position.
+- Distinguished continued opposition from proof that Liu Wu determined Zhou's dismissal or later prosecution.
 
 ## Relationships
 
@@ -72,6 +76,7 @@ This remains a bounded profile rather than a full biography. The precise siege, 
 - [[LiuPiaoWesternHan|馆陶长公主刘嫖]] - imperial-family intermediary through whom Han's explanation reaches Jingdi and the dowager.
 - [[LiuPengliJidongKingWesternHan|济东王刘彭离]] - son whose requested execution is mitigated in part through the father's remembered service.
 - [[EmpressDowagerDouWesternHan|窦太后]] - mother whose favor supports Liu Wu in life and whose grief drives the posthumous settlement.
+- [[ZhouYafu|周亚夫]] - commander and chancellor whose wartime policy leaves a continuing political grievance in the episode's account.
 - [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]] - pattern through which Liu Wu's merit is presented as benefiting his son.
 - [[KinshipProtocolBoundary|亲情名分边界]] - principle showing why family favor can soften conflict without canceling princely duty.
 - [[TuiEnLing|推恩令]] - later systematic analogue for territorial fragmentation through grants to multiple royal sons.
