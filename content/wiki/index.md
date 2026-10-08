@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip.md) — 标题虽指向审食其，正文实际讲匈奴右贤王入寇、刘兴居因诛吕后分配失衡而叛乱，以及文帝以军事部署和限期赦免瓦解济北叛军。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3.md) — 周勃退居封国后因武装戒备被控谋反、下狱受辱并获释；薄太后反驳其谋反逻辑，贾谊为旧日政敌求情，而季布受命暗杀说仅属节目推演。
 - [094 回归文学！《红楼梦》不是悼明之作](sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv.md) — 纸醉金迷FM以可证伪性、整体语境和反向套用检验悼明读法，并分析秘密知识、民族情绪与短视频碎片化如何推动单一答案传播。
 - [《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）](sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx.md) — 刘长从封国内越权走向谋反、流放与绝食死亡；节目以“宠杀”解释文帝宽纵，但直接意图证据不足，薄昭亲属关系也存在明确误述。
@@ -4196,6 +4197,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [刘兴居 / Liu Xingju (Western Han)](entities/LiuXingjuWesternHan.md) — 诛吕后分配失衡背景下起兵、因限期赦免与军事进逼而败亡的济北王。
+- [齐王刘襄 / Liu Xiang (King of Qi)](entities/LiuXiangQiKingWesternHan.md) — 吕后死后在齐地率先起兵并被刘章期待继位，其功劳与落选构成齐王支系后续不满的背景。
+- [城阳王刘章 / Liu Zhang (King of Chengyang)](entities/LiuZhangChengyangKingWesternHan.md) — 在京诛吕产、支持刘襄继位并在后续分封中受封城阳的西汉宗室。
+- [刘兴居济北叛乱 / Liu Xingju's Jibei Rebellion](entities/JibeiRebellionWesternHan.md) — 文帝外出时爆发、由军事部署和对追随者的限期赦免共同压垮的同姓王叛乱。
 - [中行说 / Zhonghang Yue](entities/ZhonghangYue.md) — 被迫随翁主和亲使团出塞后投匈，并把汉朝物资、行政与外交知识转化为单于战略能力的西汉宦官。
 - [贾山 / Jia Shan (Western Han)](entities/JiaShanWesternHan.md) — 以货币能够购买财富和地位为前提，把民间铸币解释为分享君主财富分配权的西汉劝谏者。
 - [KK / AI Director](entities/KKAIDirector.md) — 从 4A 广告转向 AI 影像、坚持故事内核与“在现场”经验输入的《蒙古斯》创作者。
@@ -17072,6 +17077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [限期赦免式叛军分化 / Deadline Amnesty for Rebellion Fragmentation](concepts/DeadlineAmnestyRebellionFragmentation.md) — 以大军到达前投降即免罪的期限安排，改变追随者收益并孤立叛乱首领。
 - [纵容式政治清除 / Indulgence as Political Elimination](concepts/IndulgenceAsPoliticalElimination.md) — 将选择性宽纵、对手越界与后续合法化清除连接为意图假说，同时区分可预见风险、政治受益与直接设计证据。
 - [生活方式依赖与战略自主 / Lifestyle Dependency and Strategic Autonomy](concepts/LifestyleDependencyStrategicAutonomy.md) — 外来物资若替代本地可持续习惯并形成供应依赖，可能以较低成本转化为政治影响与能力削弱。
 - [风俗治理与文书行政 / Custom Governance Beyond Paper Administration](concepts/CustomGovernanceBeyondPaperAdministration.md) — 区分事后处理文书案件与事前塑造角色责任、社会风俗和日常行为的治理能力，并保留礼制层级可能压制纠错的边界。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12820
+wiki_total_pages: 12824
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "JianXuanWesternHan"
     title: "减宣 / Jian Xuan (Western Han)"
     url: "/wiki/entities/jianxuanwesternhan/"
+  - key: "JibeiRebellionWesternHan"
+    title: "刘兴居济北叛乱 / Liu Xingju's Jibei Rebellion"
+    url: "/wiki/entities/jibeirebellionwesternhan/"
   - key: "JuXin"
     title: "剧辛 / Ju Xin"
     url: "/wiki/entities/juxin/"

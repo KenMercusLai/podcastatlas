@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12820
+wiki_total_pages: 12824
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "LiuXingZhongshanKingWesternHan"
     title: "刘兴 / Liu Xing, Zhongshan King (Western Han)"
     url: "/wiki/entities/liuxingzhongshankingwesternhan/"
+  - key: "LiuXingjuWesternHan"
+    title: "刘兴居 / Liu Xingju (Western Han)"
+    url: "/wiki/entities/liuxingjuwesternhan/"
   - key: "LiuGangEasternHan"
     title: "刘刚 / Liu Gang (Eastern Han)"
     url: "/wiki/entities/liugangeasternhan/"
@@ -1709,6 +1712,9 @@ wiki_pages:
   - key: "LadyWuSunJian"
     title: "吴夫人 / Lady Wu (Sun Jian)"
     url: "/wiki/entities/ladywusunjian/"
+  - key: "LiuZhangChengyangKingWesternHan"
+    title: "城阳王刘章 / Liu Zhang (King of Chengyang)"
+    url: "/wiki/entities/liuzhangchengyangkingwesternhan/"
   - key: "LouGuiLateHan"
     title: "娄圭 / Lou Gui (Late Han)"
     url: "/wiki/entities/louguilatehan/"
@@ -2675,6 +2681,9 @@ wiki_pages:
   - key: "LiuHongQiKingWesternHan"
     title: "齐王刘弘 / Liu Hong, Qi King (Western Han)"
     url: "/wiki/entities/liuhongqikingwesternhan/"
+  - key: "LiuXiangQiKingWesternHan"
+    title: "齐王刘襄 / Liu Xiang (King of Qi)"
+    url: "/wiki/entities/liuxiangqikingwesternhan/"
   - key: "Lingguan"
     title: "龄官 / Lingguan"
     url: "/wiki/entities/lingguan/"

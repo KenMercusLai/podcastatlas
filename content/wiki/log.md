@@ -32962,3 +32962,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）
+
+Added source `zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip`; created [[LiuXingjuWesternHan|刘兴居]], [[LiuXiangQiKingWesternHan|齐王刘襄]], [[LiuZhangChengyangKingWesternHan|城阳王刘章]], [[JibeiRebellionWesternHan|刘兴居济北叛乱]], and [[DeadlineAmnestyRebellionFragmentation|限期赦免式叛军分化]]. Core synthesis: an under-rewarded anti-Lü royal branch and a mistaken reading of Liu Heng's northern movement supply the rebellion's background, while capital security, a punitive army, and a pardon deadline separate Jibei followers' survival interests from Liu Xingju's fate. No settled contradiction was adopted. The source's title/body mismatch is explicit: the title promises Shen Yiji, while the body contains no Shen Yiji narrative. “匈奴韩国右贤王” and “张世芝” are treated as transcription problems; the deaths of Liu Xiang and Liu Zhang, promised kingdoms, force figures, chronology, tax relief, exact edict, and the pardon’s decisive effect remain source-scoped. Broad [[LiuHeng|汉文帝刘恒]], [[GuanYing|灌婴]], [[ChaiWu|柴武]], [[Xiongnu|匈奴]], [[PardonAsStatePower]], and show pages were kept closed because the bounded addition is represented in the focused source, figures, event, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,126 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
