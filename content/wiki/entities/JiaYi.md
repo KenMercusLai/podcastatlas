@@ -16,6 +16,7 @@ sources:
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86
   - zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1
+  - zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq
 last_updated: 2026-10-09
 ---
 
@@ -24,6 +25,10 @@ last_updated: 2026-10-09
 贾谊 / Jia Yi is an early Western Han writer whose current wiki profile spans [[GuoQinLun|《过秦论》]] as a reusable diagnosis of Qin's collapse, [[LunJiZhuShu|《论积贮疏》]] as an argument for livelihood and reserve capacity, and [[ZhianCe|《治安策》]] as a program for diagnosing latent crisis, forming heirs and custom, preserving official dignity, and reducing concentrated royal power. The sources present him as both a historical critic and an institutional thinker, while preserving coercive, evidentiary, and causal limits inside the program attributed to him.
 
 ## Current Profile
+
+Hanji 210 part 2 adds the biographical entry point to Jia Yi's court career. It says his literary reputation was established in Henan by eighteen, that [[WuGongHenanWesternHan|河南郡守吴公]] patronized and recommended him after becoming廷尉, and that he entered Liu Heng's court as a young博士 before rising to太中大夫 within a year. His ability to formulate arguments that older scholars would not voice made him valuable, but the episode also treats rapid promotion as personal favor that may have bypassed normal procedure. [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq|Hanji 210 part 2]]
+
+The same source supplies an early reform program: change the calendar, official color, institutions, office names, ritual, music, and inherited Qin law to establish an explicit Han settlement. It does not reject the program solely on substance. Instead, it questions timing because Liu Heng was newly enthroned after the Lü crisis and still faced founding veterans and powerful princes. This makes Jia Yi's early profile a tension between analytical breadth and political sequencing, anticipating the later [[NewRulerCoalitionConstraint|coalition resistance]] to his princely policy.
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] presents Jia Yi as more favorable to the Four Lords than [[YangXiong|扬雄]] or [[SimaGuang|司马光]]. The episode explains the difference through [[HistoriographicalPresentism|史评当代性]]: writing closer to Qin's sudden collapse, Jia Yi can treat aristocratic patrons who gathered talent and resisted Qin as useful counterweights, whereas later writers are more alert to overmighty ministers and weakened ruler control.
 
@@ -56,7 +61,7 @@ Hanji 212 adds an agrarian and logistical branch through 《论积贮疏》. Jia
 ## Key Characteristics
 
 - Early Western Han writer whose 《过秦论》 and 《治安策》 diagnose Qin failure, apparent peace, latent Han risk, and the limits of document-only government.
-- Positive evaluator of the Four Lords whose judgment contrasts with later centralization-minded critics and illustrates historical standpoint.
+- Precocious court entrant whose local sponsorship, debate skill, and rapid promotion joined genuine talent to risks of personal favor and weak sequencing.
 - Diagnostician of rejected advice as a mechanism that silences loyal and capable officials.
 - Advocate, in the supplied reading, of forming the heir through curated tutors, companions, ritual, and repeated conduct.
 - Thinker who gives ritual a preventive priority while retaining a role for predictable and impartial law.
@@ -112,15 +117,21 @@ Livelihood and reserve capacity:
 - [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1|Hanji 212]] attributes to Jia Yi a chain from insufficient food and clothing through weakened moral order to social and political instability.
 - [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1|Hanji 212]] uses drought and frontier war to make household and public stores the material basis of relief, military supply, and regime resilience.
 
+Recruitment, promotion, and reform timing:
+- [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq|Hanji 210 part 2]] attributes Jia Yi's route from Henan reputation to court office to Wu Gong's patronage and recommendation, followed by rapid promotion under Liu Heng.
+- [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq|Hanji 210 part 2]] contrasts his comprehensive Han institutional program with the coalition and security constraints of Liu Heng's first year.
+
 ## Qualifications
 
-The twelve sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 218 part 1 deepens the partition argument but does not prove that kingdom scale alone determines rebellion, that its counterfactual lives would have changed, or that reserved future kingdoms could be administered without new disputes. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison. Hanji 215 part 1 does not establish the full opposition coalition, prove that return-to-fief policy was the sole cause of Jia Yi's removal, or document Liu Heng's protective intent; its character judgment and 《吊屈原赋》 context remain episode-attributed. Hanji 212's memorial wording, chronology, reserve conditions, social outcomes, occupational prescription, policy influence, imperial response, speech-law account, and causal claims require textual and historical comparison; the importance of reserves does not prove that suppressing crafts and commerce maximizes food security.
+Hanji 210 part 2's ages, curriculum, Zhang Cang relationship, recommendation sequence, offices, promotion rules, and reform details require comparison with transmitted histories; the source's judgment that Jia Yi was politically immature addresses timing but does not independently disprove each reform.
+
+The thirteen sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 218 part 1 deepens the partition argument but does not prove that kingdom scale alone determines rebellion, that its counterfactual lives would have changed, or that reserved future kingdoms could be administered without new disputes. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison. Hanji 215 part 1 does not establish the full opposition coalition, prove that return-to-fief policy was the sole cause of Jia Yi's removal, or document Liu Heng's protective intent; its character judgment and 《吊屈原赋》 context remain episode-attributed. Hanji 212's memorial wording, chronology, reserve conditions, social outcomes, occupational prescription, policy influence, imperial response, speech-law account, and causal claims require textual and historical comparison; the importance of reserves does not prove that suppressing crafts and commerce maximizes food security.
 
 ## What Changed
 
-- Added 《论积贮疏》 as the agrarian and logistical branch of Jia Yi's preventive statecraft.
-- Connected household and public reserves to relief, military supply, and regime resilience.
-- Separated the durable reserve-capacity argument from the stronger occupational claim that craft and commercial labor should be redirected into farming.
+- Added Jia Yi's Henan reputation, Wu Gong sponsorship, court entry, and rapid promotion as the beginning of his political career.
+- Added comprehensive Han institutional reform as an early program distinct from his later memorial branches.
+- Qualified intellectual brilliance with the episode's political-timing critique under a newly settled ruler.
 
 ## Relationships
 
@@ -154,3 +165,5 @@ The twelve sources do not provide a full biography, textual history, or systemat
 - [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later institutional arrangement combining mint monopoly, copper control, and standardization.
 - [[LunJiZhuShu|《论积贮疏》]] - memorial carrying Jia Yi's food-security and accumulation argument.
 - [[GrainReservesAsStateCapacity|粮食储备即国家能力]] - material-capacity principle distilled from the memorial's famine and war scenarios.
+- [[WuGongHenanWesternHan|河南郡守吴公]] - local patron and recommender who provides Jia Yi's reported route into Liu Heng's court.
+- [[HanInheritsQinSystem|汉承秦制]] - institutional inheritance that Jia Yi's proposed Han settlement sought to revise.

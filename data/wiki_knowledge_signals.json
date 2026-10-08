@@ -128398,9 +128398,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -128485,6 +128485,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2） [loT-wjAsnC4EsI34rV8cS6P7G1iq].md",
+          "key": "zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq/"
         }
       ],
       "updated": "2026-10-09",
@@ -172173,9 +172180,9 @@
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
     "NewRulerCoalitionConstraint": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
@@ -172183,6 +172190,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2） [loT-wjAsnC4EsI34rV8cS6P7G1iq].md",
+          "key": "zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq/"
         }
       ],
       "updated": "2026-10-09",
@@ -256371,6 +256385,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/wufeipeng/"
+    },
+    "WuGongHenanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2） [loT-wjAsnC4EsI34rV8cS6P7G1iq].md",
+          "key": "zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/wugonghenanwesternhan/"
     },
     "WuHanEasternHan": {
       "episode_count": 12,

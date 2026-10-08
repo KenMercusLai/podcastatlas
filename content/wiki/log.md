@@ -33042,3 +33042,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）
+
+Added source `zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq`; created [[WuGongHenanWesternHan|河南郡守吴公]]; and resynthesized [[JiaYi|贾谊]] and [[NewRulerCoalitionConstraint|新君拥立联盟约束]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wu Gong's sponsorship, court debate ability, and Liu Heng's rapid promotion establish Jia Yi's early political entry, while his proposed calendar, color, institutional, legal, ritual, and music reforms reveal a gap between intellectual scope and the coalition capacity of a ruler newly installed after the Lü crisis. No settled contradiction was adopted. The title/body mismatch is explicit: the title promises Zhao Tuo's 《报文帝书》, while the body contains only a closing preview of the correspondence. Ages, curriculum, teacher relationship, offices, promotion rules, reform details, and political-timing judgments remain source-scoped. Broad [[LiuHeng|汉文帝刘恒]], [[ZhangCang|张苍]], [[HanInheritsQinSystem|汉承秦制]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and show pages were kept closed because the bounded additions are represented in the focused source, person, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,136 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
