@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9918
+wiki_total_pages: 9919
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "EconomicCulturalCenterSouthwardShift"
     title: "经济文化中心南移 / Economic-Cultural Center Southward Shift"
     url: "/wiki/concepts/economicculturalcentersouthwardshift/"
+  - key: "EvidenceSuppressionDynasticCompromise"
+    title: "证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise"
+    url: "/wiki/concepts/evidencesuppressiondynasticcompromise/"
   - key: "EmbodiedHouseholdRitualDiscipline"
     title: "身体力行式家礼教化 / Embodied Household Ritual Discipline"
     url: "/wiki/concepts/embodiedhouseholdritualdiscipline/"

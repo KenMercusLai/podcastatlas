@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3194
+topic_total_pages: 3195
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5032,6 +5032,9 @@ topic_concepts:
   - key: "XihaiExileAdministrativeBurden"
     title: "西海郡流放和法令增殖 / Xihai Exile Administrative Burden"
     url: "/wiki/concepts/xihaiexileadministrativeburden/"
+  - key: "EvidenceSuppressionDynasticCompromise"
+    title: "证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise"
+    url: "/wiki/concepts/evidencesuppressiondynasticcompromise/"
   - key: "ImperialEdictImplementationResistance"
     title: "诏令执行阻抗 / Imperial Edict Implementation Resistance"
     url: "/wiki/concepts/imperialedictimplementationresistance/"

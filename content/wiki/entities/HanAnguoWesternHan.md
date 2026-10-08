@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm
   - zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr
   - zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb
+  - zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le
 last_updated: 2026-10-08
 ---
 
@@ -21,6 +22,10 @@ last_updated: 2026-10-08
 [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw|Hanji 266]] supplies the earlier Liang court layer. After [[LiuWuLiangKingWesternHan|梁孝王刘武]]'s service in the Rebellion of the Seven States, his prestige reportedly expands into emperor-like protocol and angers [[HanJingdi|汉景帝]]. When both Jingdi and Empress Dowager Dou refuse to receive the envoy, Han Anguo reaches the imperial family through [[LiuPiaoWesternHan|馆陶长公主刘嫖]]. He reframes Liu Wu's excess as a boastful display of being loved by emperor and dowager rather than disloyal ambition. The account treats this interpretation as sufficient to lower Jingdi's threat perception and reopen direct contact.
 
 That defense is not a denial of fault. Han also warns Liu Wu that continued reliance on brotherly affection can bring ruin because a vassal prince remains bound by rank, law, and duty. His political strength therefore lies in holding several truths together: the prince needs protection from an escalatory reading, the emperor needs reassurance about loyalty, and the family relationship needs a public boundary. Part 1 also links him to “死灰复燃” through a reported prison exchange in which the jailer [[TianJiaJailerWesternHan|田甲]] answers Han's threat of revived fortunes by saying he would urinate on the rekindled ash.
+
+[[zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le|Hanji 241]] shows the harder form of that same boundary work after [[YuanAngWesternHan|袁盎]] is murdered. When the investigation traces the suspects to Liang and 羊胜 and 公孙诡 hide inside Liu Wu's palace, Han cries and kneels before the prince but does not offer motive reframing. He cites [[LiuRongWesternHan|刘荣]]'s fate to argue that imperial lineage did not save even an emperor's son and that Dowager Dou cannot protect Liu Wu forever. Liu Wu then orders the two advisers to die and surrenders their bodies.
+
+Across the two Liang cases, Han's mediation is conditional rather than uniformly defensive. Ceremonial overreach can be de-escalated through a less threatening interpretation; lethal obstruction requires the protected prince to abandon subordinates and acknowledge sovereign law. The episode does not establish that Han's intervention alone resolves the wider case, which later depends on Zou Yang's advocacy and Tian Shu's destruction of evidence.
 
 [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-2-ltzr_gqioz9ftrqzbs7gyced90fm|Hanji 266 part 2]] completes that reversal. Empress Dowager Dou reportedly prompts Liu Wu to appoint Han to Liang's civil-administration office. Tian Jia flees, returns after Han threatens his family, and is spared after Han repeats the earlier taunt. The episode treats the sequence as evidence of both asymmetry and restraint: Han uses fear to compel an accounting, but stops short of punishment once his superiority is clear.
 
@@ -40,7 +45,7 @@ Part 2 says Han opposes offensive war against the Xiongnu even though Wudi conti
 
 ## Key Characteristics
 
-- Court mediator who reduces perceived threat without denying improper conduct and insists that royal affection cannot cancel law, rank, or princely duty.
+- Court mediator who matches the intervention to the breach: motive reframing for ceremonial overreach, but surrender of protected suspects after political murder.
 - Qualified judge who holds military merit, proportionality, and adverse allegations together without pretending the evidence yields a simple factional answer.
 - Official linked to “死灰复燃” who compels his former jailer to return but ultimately declines retaliation after regaining power.
 - Morally mixed political actor portrayed as fair, broad-minded, practical, and able to recognize upright talent, but also money-seeking and willing to cultivate powerful patrons.
@@ -52,6 +57,7 @@ Part 2 says Han opposes offensive war against the Xiongnu even though Wudi conti
 
 Court mediation and boundary-setting:
 - [[zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw|Hanji 266]] says Han uses Liu Piao as an indirect channel, reframes Liu Wu's conduct as pride in family favor, restores Jingdi's willingness to receive him, and warns the prince against continued reliance on affection.
+- [[zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le|Hanji 241]] says Han uses Liu Rong's death and the finite reach of dowager protection to make Liu Wu surrender the two advisers hidden in his palace.
 
 Qualified judgment and high-office restraint:
 - [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-1-lil81vjxn5mait2wapdx_t4wy5hr|Hanji 265 part 1]] says Han presents both Guan Fu's service and the accusations against him, distinguishes drunken speech from appended capital liability, and leaves the final decision to Wudi.
@@ -76,17 +82,17 @@ Frontier intelligence failure and displacement:
 
 ## Qualifications
 
-These five short podcast summaries do not form a complete biography. Hanji 265 part 1 does not establish the truth of the allegations against Guan Fu, the precise legal standard, whether Han's balanced answer reflected principle, caution, or both, or the exact private exchange with Tian Fen. Hanji 266's exact prison dialogue, first-use attribution for the idiom, restoration process, threat to Tian Jia's family, pardon motive, audience sequence, speeches, rewards, character judgments, injury, office sequence, and policy disagreement require comparison with transmitted records. The claim that Liu Wu lacked dangerous ambition is persuasive reframing inside the story, not independently established intent; the claim that disability disqualified Han from the chancellorship is the host's explanation rather than a verified appointment rule. Hanji 260 does not establish exact speeches, force totals, command rank, faction-balancing motive, or the Mayi operation's outcome. Hanji 275's deception, demobilization mechanics, roughly seven-hundred-man remnant, losses, emotions, reassignment purpose, illness, death timing, and Sima Qian characterization remain episode-attributed. “Being discarded by the era” is an interpretive frame, not proof that cautious administration or political balancing became useless throughout Wudi's reign.
+These six short podcast summaries do not form a complete biography. Hanji 241's search delay, discovery of the hiding place, kneeling speech, use of Liu Rong's precedent, Liu Wu's response, suicides, and surrender remain episode-attributed; it does not prove Han controlled the later clemency settlement. Hanji 265 part 1 does not establish the truth of the allegations against Guan Fu, the precise legal standard, whether Han's balanced answer reflected principle, caution, or both, or the exact private exchange with Tian Fen. Hanji 266's exact prison dialogue, first-use attribution for the idiom, restoration process, threat to Tian Jia's family, pardon motive, audience sequence, speeches, rewards, character judgments, injury, office sequence, and policy disagreement require comparison with transmitted records. The claim that Liu Wu lacked dangerous ambition is persuasive reframing inside the story, not independently established intent; the claim that disability disqualified Han from the chancellorship is the host's explanation rather than a verified appointment rule. Hanji 260 does not establish exact speeches, force totals, command rank, faction-balancing motive, or the Mayi operation's outcome. Hanji 275's deception, demobilization mechanics, roughly seven-hundred-man remnant, losses, emotions, reassignment purpose, illness, death timing, and Sima Qian characterization remain episode-attributed. “Being discarded by the era” is an interpretive frame, not proof that cautious administration or political balancing became useless throughout Wudi's reign.
 
 ## What Changed
 
-- Grounded Han's opposition to the Mayi operation in logistics, timing, distance, and force-condition analysis rather than temperament alone.
-- Added Wudi's reported decision to place a strategic dissenter over the force after choosing the opposing policy.
-- Qualified the later era-mismatch story by showing that caution remained institutionally useful inside the aggressive turn.
+- Added Han's second Liang intervention, where political murder requires surrender of protected suspects rather than benign motive reframing.
+- Distinguished family-sensitive mediation from exoneration and from the later evidence-destruction settlement.
+- Strengthened the profile's core claim that Han adapts persuasion to sovereign, legal, family, and threat conditions.
 
 ## Relationships
 
-- [[LiuWuLiangKingWesternHan|梁孝王刘武]] - prince whom Han protects from an escalatory reading while warning him to respect rank and law.
+- [[LiuWuLiangKingWesternHan|梁孝王刘武]] - prince whom Han first protects from an escalatory reading and later compels to surrender murder suspects.
 - [[HanJingdi|汉景帝]] - ruler whose threat perception Han lowers through an indirect family channel.
 - [[LiuPiaoWesternHan|馆陶长公主刘嫖]] - intermediary who carries Han's explanation into the imperial family.
 - [[KinshipProtocolBoundary|亲情名分边界]] - framework for Han's combination of family-sensitive persuasion and public-role correction.

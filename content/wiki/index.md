@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死](sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le.md) — 袁盎遇刺案由修路争议追到梁王宫中；韩安国迫使刘武交出羊胜、公孙诡，田叔则在认定死罪后焚毁案卷，以牺牲证据和同等执法换取宗室、太后与朝廷的暂时和解。
 - [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
 - [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5.md) — 王娡立后与幼年刘彻立储被放入母系家族经营中解释；郅都则以威慑权贵、拒绝私请和阻止景帝为宠妃冒险，区分酷吏的强制效用、个人克制与角色忠诚，具体年代、动机和轶事保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs.md) — 周亚夫先后反对废太子、无功封外戚和给匈奴降人封侯，在原则、亲族利益与招降策略的连续冲突中失去景帝及太后支持，最终称病罢朝并被免相；具体因果、日期和政策效果保留来源边界。
@@ -4104,7 +4105,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [临江王刘荣 / Liu Rong (Western Han)](entities/LiuRongWesternHan.md) — 被废太子因宫地案入狱并自杀，其死亡被节目放入刘彻继承安全与窦太后追责郅都的政治链条。
-- [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 以宋宣公旁支继承旧事劝阻窦太后立梁王，并在本期片头被指与梁国相关的遇刺案相连。
+- [邹阳 / Zou Yang (Western Han)](entities/ZouYangWesternHan.md) — 梁国说客，以王氏家族自利建立说情渠道，再借舜与象的兄弟故事缓和景帝对刘武的怒气。
+- [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 先以宋宣公旧事劝阻窦太后立梁王，后因反对梁国修路等事遭到梁王近臣组织的刺杀，完整王命仍受毁卷与来源边界限制。
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
 - [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
 - [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
@@ -4156,7 +4158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vero Biosciences](entities/VeroBiosciences.md) — Company presented as combining organ-age signatures with clinical and wearable data in an iterative prevention workflow.
 - [宝姐 / Baojie (Zhe Bing guest)](entities/BaoJieZheBing.md) — 以乳腺癌发现、手术恢复和阿福使用经验说明老年患者如何在医生、AI与家庭陪伴之间分配信任与求助。
 - [龙城之战 / Longcheng Campaign (Western Han)](entities/LongchengCampaignWesternHan.md) — 卫青在129 BCE四路出击中以纵深机动与加速突袭取得的唯一胜果，局部战果与战略转折解释分开保存。
-- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 能并置相反证据、调和宫廷冲突并以退让维护官职体面的西汉旧臣；复起后克制报复却又贪财，晚年因误信俘虏和过早撤军进一步失势。
+- [韩安国 / Han Anguo (Western Han)](entities/HanAnguoWesternHan.md) — 能按越界程度调整调解方式：礼仪危机中重释动机，袁盎遇刺后则迫使梁王交出受庇护的主谋；晚年又有边疆判断失误。
 - [严安 / Yan An (Western Han)](entities/YanAnWesternHan.md) — 以奢靡竞争、谋生转移和秦代战争成本警告民力透支与秩序风险的西汉上书者。
 - [徐乐 / Xu Le (Western Han)](entities/XuLeWesternHan.md) — 以陈胜和七国之乱区分社会根基崩塌与精英叛乱，并主张在关东困苦转为群体骚动前调整政策的西汉上书者。
 - [郭解 / Guo Jie (Western Han)](entities/GuoJieWesternHan.md) — 能以声望调解纠纷、却因追随者暴力与法外生杀权威成为中央集权风险；班固据此区分个人美德与制度授权。
@@ -4272,7 +4274,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
 - [颜异 / Yan Yi (Western Han)](entities/YanYiWesternHan.md) — 反对白鹿皮币后因沉默与“微反唇”被推定腹诽、由张汤奏论死的西汉九卿。
 - [济东王刘彭离 / Liu Pengli, King of Jidong (Western Han)](entities/LiuPengliJidongKingWesternHan.md) — 因长期夜间劫杀百余人被废为庶人、流放上庸，却因宗室身份未按廷臣请求处死的西汉诸侯王。
-- [梁孝王刘武 / Liu Wu, King Xiao of Liang (Western Han)](entities/LiuWuLiangKingWesternHan.md) — 七国之乱中守梁有功，其功绩后来被节目解释为儿子刘彭离获免死的重要政治信用。
+- [梁孝王刘武 / Liu Wu, King Xiao of Liang (Western Han)](entities/LiuWuLiangKingWesternHan.md) — 从七国之乱功臣走向继承野心、礼仪越界与袁盎刺杀案；毁卷和请罪保住性命与表面亲情，却未恢复景帝信任。
 - [李敢 / Li Gan (Western Han)](entities/LiGanWesternHan.md) — 李广之子与霍去病旧部，因父死袭击卫青，后在甘泉宫狩猎中被霍去病射杀。
 - [杨可 / Yang Ke (Western Han)](entities/YangKeWesternHan.md) — 汉武帝朝告缗执行者，其属吏被义纵抓捕后引发抗诏问责与义纵之死。
 - [Charles Edward Stuart](entities/CharlesEdwardStuart.md) — Stuart claimant whose 1745 campaign, defeat, escape, and memory shaped the Hebridean tour.
@@ -9387,7 +9389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周昌 / Zhou Chang](entities/ZhouChang.md) — Western Han minister who opposes replacing Liu Ying and is later sent to Zhao as Liu Ruyi's constrained protector.
 - [赵尧 / Zhao Yao](entities/ZhaoYao.md) — Official who recommends Zhou Chang as Liu Ruyi's Zhao protector and succeeds him as yushi dafu.
 - [谢公 / Xie Gong](entities/XieGong.md) — Zhong dafu sent by Liu Bang to test Guan Gao's testimony and report whether Zhang Ao was innocent.
-- [田叔 / Tian Shu (early Han)](entities/TianShuHan.md) — Zhang Ao retainer who voluntarily follows him to Chang'an under prisoner-like degradation after the Zhao case breaks open.
+- [田叔 / Tian Shu (early Han)](entities/TianShuHan.md) — 从自愿追随被捕张敖的赵国忠臣成长为朝廷调查者，在梁王死罪案中以焚毁证据换取法律与宗室亲情的政治妥协。
 - [孟叔 / Meng Shu (early Han)](entities/MengShuHan.md) — Zhang Ao follower paired with Tian Shu as a visible retainer-loyalty signal during the Zhao arrest.
 - [曲逆 / Quni County](entities/QuniCounty.md) — County Liu Bang praises after Baideng and grants to Chen Ping as the Quni marquisate.
 - [贯高 / Guan Gao](entities/GuanGao.md) — Zhao minister who joins the plot to kill Liu Bang after Zhang Ao is humiliated at Handan.
@@ -16855,6 +16857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
+- [证据切断式宗室妥协 / Evidence-Suppression Dynastic Compromise](concepts/EvidenceSuppressionDynasticCompromise.md) — 私下承认受保护宗室可能有罪，却主动切断通向最终惩罚的证据链，以法律可信度和档案真相换取短期王朝稳定。
 - [旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk](concepts/CollateralSuccessionDisorderRisk.md) — 旁支继承把竞争性血统、承诺与恢复要求转移给后代，从而可能把一次立储选择延长为多代冲突。
 - [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
@@ -20042,7 +20045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Surrender-governance failure where a submitted leader, group, or city is betrayed, producing tactical gain but credibility damage.
 - [临机边疆裁量 / Emergency Frontier Discretion](concepts/EmergencyFrontierDiscretion.md) — Distance-driven frontier decision pattern where field action before formal authorization may solve an urgent crisis while requiring later reward-precedent control.
 - [祥瑞怀疑式进谏 / Omen Skepticism Remonstrance](concepts/OmenSkepticismRemonstrance.md) — Court-speech pattern where favorable omen narratives are challenged as possible warnings about governance and palace order.
-- [亲情名分边界 / Kinship Protocol Boundary](concepts/KinshipProtocolBoundary.md) — Court-governance principle that royal affection remains safe only when kept inside hierarchy, ritual form, fiscal limits, guest restrictions, office boundaries, and territorial distance.
+- [亲情名分边界 / Kinship Protocol Boundary](concepts/KinshipProtocolBoundary.md) — 宗室亲情只有留在君臣、礼法、刑事执法、财政、居处与权力距离边界内才可持续；公开和解并不等于恢复政治信任。
 - [Office Worker Labor Organizing](concepts/OfficeWorkerLaborOrganizing.md) — Collective conversion of clerical and administrative workplace grievances into demands over pay, promotion, dignity, leave, child care, and bargaining power.
 - [Gendered Office Hierarchy](concepts/GenderedOfficeHierarchy.md) — Workplace pattern where feminized clerical roles sit below male-dominated managerial authority, promotion control, and credit.
 - [Culture-Led Labor Organizing](concepts/CultureLedLaborOrganizing.md) — Use of songs, films, comedy, television, and public performance to turn dispersed workplace frustrations into collective recognition and action.
@@ -20892,7 +20895,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — 孔融案例中血统、文名与道德声望未能转化为治理、纳谏、权力判断或生存校准能力的落差。
-- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
+- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — 对宗室、家奴、门客或姻亲的可见执法可强化公共规则，但刘武案显示惩办近臣不代表法律能抵达受保护的权力中心。
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, distinguishing 192 CE Qingzhou population conversion from 196 CE Xudu institutional implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.

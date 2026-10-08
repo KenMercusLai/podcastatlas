@@ -71938,9 +71938,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerDouWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -71983,6 +71983,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -76081,6 +76088,22 @@
       ],
       "updated": "2026-08-05",
       "url": "/wiki/concepts/evidenceovertestimony/"
+    },
+    "EvidenceSuppressionDynasticCompromise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/evidencesuppressiondynasticcompromise/"
     },
     "EvolutionaryMatingStrategies": {
       "episode_count": 1,
@@ -100933,9 +100956,9 @@
       "url": "/wiki/entities/hanaidi/"
     },
     "HanAnguoWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》275｜打破匈奴不败神话，卫青如何做到的？（2） [lpN6t8p8d0IuMsD7gabohtevXxQO].md",
@@ -100971,6 +100994,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》260｜马邑之谋，汉武帝反击匈奴第一战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-260-mayi-zhimou-hanwudi-fanji-xiongnu-diyizhan-luji7sarjbc2y4l8ljsnilld8xjb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -101372,9 +101402,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101459,6 +101489,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -131514,9 +131551,9 @@
       "url": "/wiki/concepts/kinshippressurepoliticalreversal/"
     },
     "KinshipProtocolBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感 [lr-6TZFFmWDtZIdKf3Y8uLE35QF7].md",
@@ -131552,6 +131589,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -142501,9 +142545,9 @@
       "url": "/wiki/entities/liuwenqingherebellatehan/"
     },
     "LiuWuLiangKingWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
@@ -142539,6 +142583,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -202852,9 +202903,9 @@
       "url": "/wiki/concepts/rulebounddetectiveplotinnovation/"
     },
     "RuleOverKinshipPower": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
@@ -202890,6 +202941,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-06",
@@ -231314,6 +231372,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tianshenglatehan/"
     },
+    "TianShuHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2） [lutKaPDiJRGPwfRZ3sAAOwXTk_i2].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/tianshuhan/"
+    },
     "TianXinWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -257719,9 +257807,9 @@
       "url": "/wiki/entities/yuananeasternhan/"
     },
     "YuanAngWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -257729,6 +257817,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
         }
       ],
       "updated": "2026-10-08",
@@ -265760,6 +265855,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zoupeixuan/"
+    },
+    "ZouYangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》241｜ 梁孝王刘武：看我如何花样作死 [lqbLlfh9nPH_vvu9EMZHsXDfJ1lE].md",
+          "key": "zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zouyangwesternhan/"
     },
     "Zubaydah": {
       "episode_count": 1,

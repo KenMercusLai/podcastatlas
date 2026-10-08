@@ -32245,3 +32245,11 @@ Added source `zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-w
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死
+
+Added source `zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le`; created [[ZouYangWesternHan|邹阳]] and [[EvidenceSuppressionDynasticCompromise|证据切断式宗室妥协]]; migrated and resynthesized [[TianShuHan|田叔]]; and resynthesized [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[YuanAngWesternHan|袁盎]], [[HanAnguoWesternHan|韩安国]], [[HanJingdi|汉景帝]], [[EmpressDowagerDouWesternHan|窦太后]], [[KinshipProtocolBoundary|亲情名分边界]], and [[RuleOverKinshipPower|法度压过亲缘特权]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hanji 241 fills Hanji 240's explicit assassination gap with a road grievance, adviser-led attacks, investigation, palace concealment, and surrender of the protected suspects; Han Anguo adapts mediation to the severity of the breach; and Tian Shu privately preserves the capital-guilt judgment while destroying the evidence needed to punish the prince. The outcome is not acquittal or equal enforcement: public brotherhood returns, but shared-carriage trust does not. No settled contradiction was adopted. Liu Wu's exact command, the destroyed record, route and impact of the road, victim and attacker counts, speeches, private motives, intervention sequence, legal authority, submission choreography, carriage practice, and Tian Shu's appointment remain source-scoped. 羊胜、公孙诡、王信、毛兰, and the broad show page were kept closed because their bounded roles are represented in the focused source, figure, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,035 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

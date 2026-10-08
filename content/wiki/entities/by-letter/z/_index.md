@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12698
+wiki_total_pages: 12699
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1742,6 +1742,9 @@ wiki_pages:
   - key: "ZouState"
     title: "邹国 / Zou State"
     url: "/wiki/entities/zoustate/"
+  - key: "ZouYangWesternHan"
+    title: "邹阳 / Zou Yang (Western Han)"
+    url: "/wiki/entities/zouyangwesternhan/"
   - key: "ZhiShouEasternHan"
     title: "郅寿 / Zhi Shou (Eastern Han)"
     url: "/wiki/entities/zhishoueasternhan/"

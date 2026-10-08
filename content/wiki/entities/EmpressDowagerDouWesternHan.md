@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs
   - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
+  - zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le
 last_updated: 2026-10-08
 ---
 
@@ -25,6 +26,8 @@ The two Hanji 242 notes supply the earlier family-power layer. [[zizhi-tongjian-
 
 [[zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg|Part 2]] says Dou's support had made Liu Wu a plausible alternative heir, while Jingdi later restricts Liu Wu's access to her because he fears renewed criticism or influence. After Liu Wu dies, Dou blames Jingdi and refuses food; Jingdi responds by granting kingships to all five sons and county estates to five daughters. Her grief therefore has public consequences, but the resulting settlement also fragments Liang rather than restoring its concentrated strength.
 
+[[zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le|Hanji 241]] shows that influence during the Yuan Ang murder crisis. Dou's distress at the prospect of Liu Wu's execution becomes one side of Tian Shu's argument for burning the Liang records. Tian then tells her that Liu Wu knew nothing and that the guilty advisers are dead; the episode says she resumes eating and recovers. Her grief does not itself adjudicate the case, but its anticipated force reshapes what evidence is allowed to survive and what public account the court adopts.
+
 [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-1-lgewf4qfarqfjfgp50nss2vf_7y|Hanji 263]] presents Dou as the dominant senior authority during Han Jingdi's early reign and as a continuing constraint after Wudi's accession. Dou Ying's military service and connection to her make his household an important access point in Chang'an. Tian Fen's conspicuous service to Dou Ying can therefore function as indirect proximity to Dou's political network.
 
 After Han Jingdi's death, Dou becomes grand empress dowager while [[EmpressDowagerWangWesternHan|王太后]] becomes empress dowager. The episode distinguishes Dou's senior status and governing experience from Wang's closer relationship to her son Wudi. It then places Dou Ying and Tian Fen's appointments inside this layered structure, but does not quantify Dou's exact role in either decision.
@@ -36,7 +39,7 @@ The later conflict shows the negative side of patronage dependence. [[zizhi-tong
 ## Key Characteristics
 
 - Senior Western Han dowager with authority extending across the Jingdi-Wudi transition.
-- Mother, grandmother, and senior dowager whose family grief and preference affect punishment, succession, access, kin enfeoffment, and the posthumous division of Liang.
+- Mother, grandmother, and senior dowager whose family grief and preference affect punishment, evidence survival, succession, access, kin enfeoffment, and the division of Liang.
 - Political patronage center connected to Dou Ying's status and household network.
 - Higher in formal and experienced authority than Empress Dowager Wang in the episode's account.
 - Constraint on the young Han Wudi's early freedom of decision.
@@ -54,18 +57,17 @@ The later conflict shows the negative side of patronage dependence. [[zizhi-tong
 - Policy conflict and succession: [[zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu|Hanji 263 part 2]] connects the consultation challenge, removal of aligned officials, Dou Ying's deeper estrangement, Dou's death, and the Wang-backed reversal.
 - Lost protection: [[zizhi-tongjian-hanji-265-dongchaotingbian-ruhe-yanbian-cheng-jieduandazhan-2-lvu23osgv46nn3rbgque1mbhmpgw|Hanji 265 part 2]] contrasts Dou Ying's lack of Dowager Dou protection with Tian Fen's continued Wang-family backing.
 - Grief, punishment, and accepted remonstrance: [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] says Dou's Liu Rong grievance defeats Jingdi's attempt to spare Zhi Du, while Yuan Ang's Song analogy persuades her to abandon the immediate Liu Wu succession push.
+- Murder-case settlement: [[zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le|Hanji 241]] says Tian Shu treats the risk of Dou's collapse as a reason to destroy the case record and then reassures her through a public account centered on the dead advisers.
 
 ## Qualifications
 
-The current profile rests on six compact podcast summaries and is not a complete biography or institutional history. Hanji 240's prison responsibility, exact grievance, Zhi Du charge and execution mechanism, Yuan Ang speech, Song precedent, and reasons for Dou's changed position remain episode-attributed. Hanji 242 part 1's Wang Xin request, founding-rule wording, Zhou's effect on the decision, Dou's reaction, and Liu Wu's lobbying remain source-attributed; it does not establish that kin preference alone determined her view of Zhou. Part 2's succession sequence, court-stay rules, accusation against Jingdi, refusal to eat, consultation, grant details, and claim that Dou missed the anti-concentration effect are likewise bounded. “Effective number one,” the scope of approval power, the proposal's exact wording and procedure, the reasons for removals and later appointments, the precise balance between the two dowagers and Wudi, and the timing or mechanism by which Dou Ying loses her protection also require broader evidence.
+The current profile rests on seven compact podcast summaries and is not a complete biography or institutional history. Hanji 240's prison responsibility, exact grievance, Zhi Du charge and execution mechanism, Yuan Ang speech, Song precedent, and reasons for Dou's changed position remain episode-attributed. Hanji 241's distress, refusal to eat, Tian Shu's forecast, destroyed records, public report, and recovery remain episode-attributed; the account does not prove Dou ordered evidence destruction or knew the private judgment of Liu Wu's guilt. Hanji 242 part 1's Wang Xin request, founding-rule wording, Zhou's effect on the decision, Dou's reaction, and Liu Wu's lobbying remain source-attributed; it does not establish that kin preference alone determined her view of Zhou. Part 2's succession sequence, court-stay rules, accusation against Jingdi, refusal to eat, consultation, grant details, and claim that Dou missed the anti-concentration effect are likewise bounded. “Effective number one,” the scope of approval power, the proposal's exact wording and procedure, the reasons for removals and later appointments, the precise balance between the two dowagers and Wudi, and the timing or mechanism by which Dou Ying loses her protection also require broader evidence.
 
 ## What Changed
 
-- Added Wang Xin's proposed enfeoffment as a case where senior-dowager family preference reaches beyond her own Dou lineage.
-- Added Liu Wu's criticism of Zhou as evidence that access to the dowager can become a ministerial-risk channel.
-- Distinguished Zhou's successful policy objection from the unresolved question of how much it caused Dou's later hostility.
-- Added Liu Rong's death as the grievance through which Dou converts family loss into Zhi Du's political exposure.
-- Added Yuan Ang's successful succession remonstrance as evidence that her family preference could yield to a multigenerational state-risk argument.
+- Added the Yuan Ang murder settlement as a case where anticipated dowager grief changes evidence survival and public attribution.
+- Distinguished Dou's political force from direct authorship of Tian Shu's evidence-destruction decision.
+- Connected the temporary reassurance in Hanji 241 to the later grief-driven territorial settlement after Liu Wu's death.
 
 ## Relationships
 
@@ -79,3 +81,5 @@ The current profile rests on six compact podcast summaries and is not a complete
 - [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]] - later rivalry whose initial conditions emerge from overlapping Dou- and Wang-family influence.
 - [[LiuRongWesternHan|临江王刘荣]] - grandson whose custodial death drives Dou's demand against Zhi Du.
 - [[YuanAngWesternHan|袁盎]] - official whose Song analogy persuades her to step back from the Liu Wu succession project.
+- [[TianShuHan|田叔]] - investigator who uses a public innocence account to relieve her distress after privately judging Liu Wu guilty.
+- [[EvidenceSuppressionDynasticCompromise|证据切断式宗室妥协]] - mechanism through which anticipated family grief alters the surviving legal record.
