@@ -127726,9 +127726,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -127743,9 +127743,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/jiayi/"
     },
     "JiaYueting": {
@@ -144236,9 +144243,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144330,6 +144337,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
         }
       ],
       "updated": "2026-10-09",
@@ -163674,9 +163688,9 @@
       "url": "/wiki/entities/miniso/"
     },
     "MinisterialDignityProtection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？ [ln_DW3xohNMpAVkPu_bdvaSViETv].md",
@@ -163684,9 +163698,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》813丨古代的高官竟也会被殴打？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/ministerialdignityprotection/"
     },
     "MinistryOfAgricultureAndRuralAffairs": {
@@ -240277,9 +240298,9 @@
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
     "TuiEnLing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -240294,9 +240315,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/tuienling/"
     },
     "TuileriesInsurrection": {
@@ -269656,6 +269684,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/zhizuijinmifm/"
+    },
+    "ZhianCe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2） [lhdbII3Duf3KgPWWPMiLVUogYJVw].md",
+          "key": "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhiance/"
     },
     "ZhipuAI": {
       "episode_count": 8,

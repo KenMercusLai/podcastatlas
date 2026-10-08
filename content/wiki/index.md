@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw.md) — 贾谊以“可杀不可辱”维护高官所代表的政治体面，又暴露逼迫自杀与压制申辩的风险，并以分封诸子削弱强大封国。
 - [《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？](sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy.md) — 缇萦以肉刑不可逆、使人无从改过为父请命，文帝由个案赦免转向废除黥劓刖等刑，但高额笞刑替代又留下致死风险。
 - [《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？](sources/zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td.md) — 晁错以农商激励倒置解释粮食不足，主张用爵位与赎罪换取边塞、郡县储粮，再以充足仓储支持减免田赋。
 - [《资治通鉴·汉纪》222｜晁错向文帝提出的三大奇谋，到底有多牛？（1）](sources/zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib.md) — 晁错以地形、训练、兵器、军种协同与选将责任比较汉匈所长，并借秦朝扩张、强征和民怨说明边防不能脱离国家承受力。
@@ -4181,6 +4182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [《治安策》 / Zhian Ce](entities/ZhianCe.md) — 贾谊讨论高官体面、礼法自律及分封诸子以削弱强大封国的政治奏章。
 - [淳于缇萦 / Chunyu Tiying](entities/ChunyuTiying.md) — 以身体不可复原、受刑者无从改过为父请命，并在节目叙事中触发文帝刑制改革的西汉少女。
 - [淳于意 / Chunyu Yi](entities/ChunyuYi.md) — 被押赴长安受肉刑、因女儿缇萦上书而获赦，并成为一般刑制改革触发个案的齐国故吏。
 - [Heloise / Héloïse](entities/Heloise.md) — Medieval intellectual, abbess, and correspondent whose thinking on intention, marriage, vocation, and devotion complicates her familiar role in Abelard's tragic romance.
