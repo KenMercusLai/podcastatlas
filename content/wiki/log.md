@@ -32387,3 +32387,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）
+
+Added source `zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg`; created [[YingGaoWesternHan|应高]]; migrated and resynthesized [[WuKingdomEarlyHan|汉初吴国]]; and resynthesized [[LiuBiWuKing|刘濞]], [[ChaoCuoWesternHan|晁错]], [[LiuAngJiaoxiKingWesternHan|胶西王刘昂]], and [[RebellionOfTheSevenStatesWesternHan|七国之乱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 吴国的铜盐、财税减免、服役补贴、赏赐和拒捕构成刘濞的资源与自治基础；晁错不是声称削藩可避免战争，而是以“不削亦反、早削祸小”论证时机；连续削地随后由应高转译成共同生存威胁，并与“诛晁错”口号、军事目标、分地承诺和刘濞亲自确认共同构成联盟。刘昂的后期辩解因此受到其前期主动扩盟行为的限定。No settled contradiction was adopted; inevitability, fiscal details, names, speeches, routes, coalition scope, and territorial promises remain source-scoped. Broad [[HanJingdi|汉景帝]], [[DouYingWesternHan|窦婴]], and [[SameSurnameKingEnfeoffment|同姓王分封]] pages were read for context but kept closed because focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,053 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

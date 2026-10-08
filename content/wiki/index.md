@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg.md) — 吴国铜盐、轻税与拒捕构成刘濞的资源和自治基础；晁错以“早削祸小”推动连续削地，应高再把诸侯恐惧、诛晁错口号、军事方案和分地承诺组合成七国联盟。
 - [《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？](sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46.md) — 文帝病逝后的遗诏以短丧、薄葬、限动员和不扰民延续其节俭政风；与文景之治的因果、细节和中断的长沙王纪事保留来源边界。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj.md) — 景帝酒后许诺刘武继位，被窦婴以父子相传之制当场制止；刘贤之死、棺柩往返、不朝与使者被扣又补出刘濞由丧子受辱到暂获文帝安抚的早期怨恨链。
 - [音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者](sources/yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov.md) — 张玮玮以白银厂矿生活、野孩子与北京独立音乐现场、作品成名、父亲去世和电子转向串起九十年代社会变迁与中年创作重建。
@@ -4122,6 +4123,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [应高 / Ying Gao (Western Han)](entities/YingGaoWesternHan.md) — 受刘濞派遣，以共同威胁、诛晁错口号、军事计划和分地承诺说服胶西王刘昂加入联盟的吴国使者。
 - [刘贤 / Liu Xian, Crown Prince of Wu (Western Han)](entities/LiuXianWuCrownPrinceWesternHan.md) — 在长安酒后棋局冲突中被太子刘启打死、其棺柩往返成为吴王刘濞长期怨恨起点的吴国太子。
 - [张玮玮 / Zhang Weiwei](entities/ZhangWeiweiMusician.md) — 白银出生、经野孩子与北京独立音乐现场成长，并以《沙木黎》完成电子转向的音乐人。
 - [郭龙 / Guo Long](entities/GuoLongMusician.md) — 张玮玮从少年冲突到长期合作、反复分合与重新和解的朋友和音乐伙伴。

@@ -10,16 +10,21 @@ sources:
   - zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq
   - zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef
   - zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr
+  - zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-七国之乱 / the Rebellion of the Seven States is a Western Han royal uprising whose current evidence connects [[HanJingdi|汉景帝]]'s direct territorial reductions, the Wu-led military coalition, the defense of loyal or wavering kingdoms, and a severe postwar settlement that further reduced princely autonomy.
+七国之乱 / the Rebellion of the Seven States is a Western Han royal uprising whose current evidence connects Wu's resource base, [[HanJingdi|汉景帝]]'s direct territorial reductions, deliberate coalition recruitment, the Wu-led campaign, and a differentiated postwar settlement that further reduced princely autonomy.
 
 ## Current Profile
 
-The current synthesis separates trigger, attempted political concession, operational defeat, accountability, and institutional afterlife. [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] says Jingdi's reductions help trigger the rising and that victory allows the court to abolish most rebel kingdoms, reduce others, and retract royal control over appointments, taxation, and government. This altered coercive balance later makes [[TuiEnLing|推恩令]] safer to implement.
+The current synthesis separates capacity, trigger, coalition formation, attempted political concession, operational defeat, accountability, and institutional afterlife. [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] attributes to [[WuKingdomEarlyHan|吴国]] a copper, salt, fiscal, patronage, and fugitive-protection base capable of supporting resistance. [[ChaoCuoWesternHan|晁错]] argues that [[LiuBiWuKing|刘濞]] will rebel whether or not territory is reduced and that earlier action limits scale; successive reductions against Chu, Zhao, and Jiaoxi then convert structural tension into an immediate shared threat.
+
+The same source supplies the missing coalition mechanism. [[YingGaoWesternHan|应高]] persuades [[LiuAngJiaoxiKingWesternHan|刘昂]] by joining fear of sequential reduction to the “诛晁错” slogan, campaign objectives, and a promise of territorial division. Liu Ang accepts despite internal warnings and recruits additional eastern kingdoms. This makes the uprising neither a spontaneous response nor a single grievance: resource capacity, anticipated loss, political framing, operational planning, material incentive, and interpersonal confirmation all matter.
+
+[[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] supplies the institutional afterlife: victory allows the court to abolish most rebel kingdoms, reduce others, and retract royal control over appointments, taxation, and government. This altered coercive balance later makes [[TuiEnLing|推恩令]] safer to implement.
 
 [[zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq|Hanji 233]] now supplies the political crisis before the failed concession. [[ChaoCuoWesternHan|晁错]]'s reductions concentrate the kingdoms' public grievance on one minister, while his personal-campaign advice, attempt to prosecute Yuan Ang, and weak colleague support make him expendable inside the capital. [[YuanAngWesternHan|袁盎]] proposes execution, pardon, and restoration of reduced territory; Jingdi accepts after deliberation, seeking to answer the rebel slogan and stabilize the court even though peace is not assured.
 
@@ -33,19 +38,23 @@ The transition from battle to accountability remains equally important. [[zizhi-
 
 ## Key Characteristics
 
-- Same-surname royal uprising associated in the current evidence with direct territorial reduction under Han Jingdi.
+- Same-surname royal uprising enabled by Wu's attributed resources and autonomy and triggered by direct territorial reduction under Han Jingdi.
+- Coalition deliberately assembled through shared-threat rhetoric, a public anti-Chao slogan, campaign planning, territorial incentive, and personal confirmation.
 - Crisis in which an external rebel slogan and internal court resistance make the most visible policy advocate a political sacrifice.
 - Crisis not ended by the execution of Chao Cuo, because Liu Bi's conduct and claim have moved beyond the stated grievance.
 - Conflict in which rebel-side mistrust and status-filtered advice narrow options while court-side logistics and refusal of immediate battle break the Wu-Chu force.
 - Crisis that tests not only open rebels but kingdoms that negotiate, hesitate, or refuse participation.
-- Military victory that creates the coercive conditions for administrative rollback and later territorial fragmentation.
-- Settlement in which punishment, pardon, restoration, reassignment, and abolition vary with conduct, perceived intent, and dynastic policy.
+- Military victory and differentiated settlement that combine administrative rollback with punishment, pardon, restoration, reassignment, and abolition.
 
 ## Evidence
 
 Trigger and institutional afterlife:
+- [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] gives Wu's capacity, Chao's timing logic, the Chu-Zhao-Jiaoxi reduction sequence, and Dou Ying's dissent.
 - [[zizhi-tongjian-hanji-233-chaocuo-bei-yaozhan-jielouchu-zhichang-zhong-de-daji-lql1pwomxc2t-e6x-cdityt1hwxq|Hanji 233]] connects Chao's territorial reductions to princely backlash and gives Yuan's proposed execution-pardon-restoration package plus Jingdi's deliberation.
 - [[zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh|Hanji 279]] links Jingdi's削藩 to the rising and says victory enables abolition, territorial reduction, and the withdrawal of royal governing powers before the Wudi-era 推恩令.
+
+Coalition formation:
+- [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] gives Ying Gao's recruitment of Liu Ang, the military and territorial offer, Liu Bi's confirmation visit, ministerial warnings, and Liu Ang's outreach to additional kingdoms.
 
 Military defeat and local resistance:
 - [[zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr|Hanji 234]] gives Zhou's agreed Liang-and-logistics plan, route change, refusal of immediate relief, supply cutoff, fortified non-battle, and final pursuit after hunger and failed assault.
@@ -61,20 +70,21 @@ Postwar accountability:
 
 ## Qualifications
 
-The page currently rests on six popular-history episode summaries rather than a complete military, legal, or institutional history. The exact reduction measures, coalition membership, chronology, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, proposed rebel routes, Liu Bi's claim and death, Zhou Yafu's command sequence, Liang's costs, Zhou Qiu's mobilization, the Qi and Zhao sieges, hydraulic breach, negotiations, surrender instruments, legal procedure, family punishments, pardons, restorations, reassignment, and scope of administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes across every kingdom. Hanji 235's impossible “2月30日,” 刘驹／刘居 variation, unnamed “桓,” and “东海王落望” identity remain unresolved. Its workplace analogy does not replace campaign structure, and neither rejected proposal is proven to have been a winning alternative.
+The page currently rests on seven popular-history episode summaries rather than a complete military, legal, or institutional history. Wu's fiscal system and popular support, Chao's inevitability counterfactual, exact reduction measures, coalition membership, chronology, speeches, territorial promises, army sizes, Chao Cuo decision and execution, Yuan Ang's proposal, court opinion, envoys, proposed routes, Liu Bi's claim and death, Zhou Yafu's command sequence, Liang's costs, Zhou Qiu's mobilization, the Qi and Zhao sieges, hydraulic breach, negotiations, surrender instruments, legal procedure, punishments, pardons, restorations, reassignment, and administrative rollback require primary-source comparison. “Seven States” should not imply uniform motives, behavior, or outcomes. Hanji 235's corrupted date and identity variants remain unresolved, and no rejected proposal is proven to have been a winning alternative.
 
 ## What Changed
 
-- Completed the military sequence with Zhao's prolonged defense and the hydraulic fall of Handan.
-- Replaced a punishment-only settlement picture with differentiated pardon, restoration, reassignment, and abolition.
-- Added Jibei as evidence that strategic conduct and effects could qualify surface-level implication.
-- Connected the immediate postwar map and smaller grants to the longer rollback of princely power.
+- Added Wu's resource and autonomy base as precondition rather than treating削藩 as the whole cause.
+- Added deliberate coalition formation through Ying Gao, Liu Ang, military planning, and territorial incentives.
+- Clarified “诛晁错” as a mobilizing slogan whose scope is narrower than the coalition's attributed conduct and aims.
 
 ## Relationships
 
 - [[HanJingdi|汉景帝]] - emperor whose削藩 is presented as a trigger and whose victory expands central control.
 - [[ChaoCuoWesternHan|晁错]] - centralizing adviser whose visible ownership of削藩 becomes the rebels' declared grievance and the court's attempted sacrifice.
 - [[LiuBiWuKing|吴王刘濞]] - leading royal rebel whose death marks military collapse in the episode.
+- [[WuKingdomEarlyHan|吴国]] - resource and territorial base that gives the leading rebel practical capacity.
+- [[YingGaoWesternHan|应高]] - envoy who translates separate royal fears into a coalition offer.
 - [[ZhouYafu|周亚夫]] - commander credited with supply interdiction rather than immediate decisive battle.
 - [[ZhaoSheAdviserWesternHan|赵涉]] - adviser whose ambush warning changes Zhou's route before the main campaign.
 - [[TianLuboWesternHan|田禄伯]] - rebel commander whose proposed separate theater is rejected before execution.
