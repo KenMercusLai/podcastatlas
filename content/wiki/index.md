@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王](sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7.md) — 以欧根亲王与汉武帝时代将领群像说明军事成就同时受能力、信任、资源、组织、联盟、派系保护与史家书写影响。
 - [How a Meta AI prompt changed one mom’s approach to online privacy](sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128.md) — Marketplace Tech interview on networked family privacy, machine-speed aggregation of scattered personal data, child-identification limits, app permissions, and restricted family sharing.
 - [How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden](sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356.md) — Huberman Lab interview on polygenic behavioral risk, adolescence, developmental individuality, genetic essentialism, responsibility, punishment, and forgiveness.
 - [36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人](sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr.md) — 怪东西以富格尔、沈万三和胡雪岩比较巨商如何把财富转成政治影响，又如何被权力依赖、危机与后世叙事重塑。
@@ -4144,6 +4145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [Prince Eugene of Savoy / 欧根亲王](entities/PrinceEugeneOfSavoy.md) — 效力哈布斯堡的跨国贵族、战场统帅、军事管理者与联盟协作者。
 - [Kathryn Paige Harden](entities/KathrynPaigeHarden.md) — Behavioral geneticist connecting adolescent development and polygenic risk to anti-essentialist responsibility and punishment.
 - [雅各布·富格尔 / Jacob Fugger](entities/JacobFugger.md) — 以矿业、银行、教会融资和哈布斯堡信贷把商业资本转成帝国政治影响的奥格斯堡巨商。
 - [沈万三 / Shen Wansan](entities/ShenWansan.md) — 史实稀薄而传说庞大的富商符号，集中体现财富、皇权与历史记忆的张力。
@@ -16960,6 +16962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Political Conditions of Military Achievement / 军事成就的政治条件](concepts/MilitaryAchievementPoliticalConditions.md) — 将统帅能力与政治分配的信任、资源、容错、保护、联盟和历史声誉联系起来的框架。
 - [Networked Family Privacy](concepts/NetworkedFamilyPrivacy.md) — Family-privacy framework in which exposure is jointly produced across relatives, friends, groups, archives, and platforms.
 - [AI Data Aggregation Privacy Risk](concepts/AIDataAggregationPrivacyRisk.md) — Privacy risk created when AI rapidly connects scattered personal facts that were previously costly to assemble.
 - [Polygenic Behavior Risk](concepts/PolygenicBehaviorRisk.md) — Framework separating many-variant behavioral liability from single-gene, individual-destiny, and moral-identity claims.

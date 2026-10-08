@@ -100878,9 +100878,9 @@
       "url": "/wiki/concepts/habitualurineretentionrisk/"
     },
     "HabsburgDynasty": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -100916,6 +100916,13 @@
           "show": "怪东西Weird History",
           "title": "36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人",
           "url": "/wiki/sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr/"
+        },
+        {
+          "episode_file": "lruI-_l197inCKifeSlrLH9IwyU7 [lruI-_l197inCKifeSlrLH9IwyU7].md",
+          "key": "35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7",
+          "show": "怪东西Weird History",
+          "title": "35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王",
+          "url": "/wiki/sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7/"
         }
       ],
       "updated": "2026-10-08",
@@ -161023,6 +161030,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/militaryaioversightcompression/"
     },
+    "MilitaryAchievementPoliticalConditions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lruI-_l197inCKifeSlrLH9IwyU7 [lruI-_l197inCKifeSlrLH9IwyU7].md",
+          "key": "35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7",
+          "show": "怪东西Weird History",
+          "title": "35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王",
+          "url": "/wiki/sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/militaryachievementpoliticalconditions/"
+    },
     "MilitaryDisasterMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -189992,6 +190015,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/princeandrew/"
+    },
+    "PrinceEugeneOfSavoy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lruI-_l197inCKifeSlrLH9IwyU7 [lruI-_l197inCKifeSlrLH9IwyU7].md",
+          "key": "35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7",
+          "show": "怪东西Weird History",
+          "title": "35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王",
+          "url": "/wiki/sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/princeeugeneofsavoy/"
     },
     "PrinceHallFreemasonry": {
       "episode_count": 1,
@@ -248414,9 +248453,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -248466,6 +248505,13 @@
           "show": "怪东西Weird History",
           "title": "37 东西方的外交官：二战期间的苏联驻英大使 vs解忧公主与冯嫽",
           "url": "/wiki/sources/37-dongxifang-de-waijiaoguan-erzhan-qijian-de-sulian-zhuying-dashi-vs-jieyou-gongzhu-yu-fengliao-lrbw_agbcowlx95bw2ddj9fulntm/"
+        },
+        {
+          "episode_file": "lruI-_l197inCKifeSlrLH9IwyU7 [lruI-_l197inCKifeSlrLH9IwyU7].md",
+          "key": "35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7",
+          "show": "怪东西Weird History",
+          "title": "35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王",
+          "url": "/wiki/sources/35-dongxifang-de-mingjiang-hanwudi-huixia-qunxing-vs-aodili-zhanshen-ougenqinwang-lrui-_l197inckifeslrlh9iwyu7/"
         }
       ],
       "updated": "2026-10-08",

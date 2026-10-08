@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12762
+wiki_total_pages: 12763
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -911,6 +911,9 @@ wiki_pages:
   - key: "PrinceAndrew"
     title: "Prince Andrew"
     url: "/wiki/entities/princeandrew/"
+  - key: "PrinceEugeneOfSavoy"
+    title: "Prince Eugene of Savoy / 欧根亲王"
+    url: "/wiki/entities/princeeugeneofsavoy/"
   - key: "PrinceGroup"
     title: "Prince Group"
     url: "/wiki/entities/princegroup/"

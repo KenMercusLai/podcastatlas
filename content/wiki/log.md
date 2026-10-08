@@ -32559,3 +32559,10 @@ Added source `tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 35 东西方的名将：汉武帝麾下群星vs 奥地利战神欧根亲王
+
+Added the source, Prince Eugene, and the political-conditions-of-military-achievement synthesis; updated the Weird History and Habsburg profiles while preserving source-scoped military and historiographical qualifications. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,075 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

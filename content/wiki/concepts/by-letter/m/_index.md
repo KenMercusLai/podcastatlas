@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9949
+wiki_total_pages: 9950
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "MythologyForEngland"
     title: "Mythology for England"
     url: "/wiki/concepts/mythologyforengland/"
+  - key: "MilitaryAchievementPoliticalConditions"
+    title: "Political Conditions of Military Achievement / 军事成就的政治条件"
+    url: "/wiki/concepts/militaryachievementpoliticalconditions/"
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"
