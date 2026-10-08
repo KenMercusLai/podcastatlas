@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12687
+wiki_total_pages: 12691
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "AmazonPrime"
     title: "Amazon Prime"
     url: "/wiki/entities/amazonprime/"
+  - key: "AmazonPrimeVideo"
+    title: "Amazon Prime Video"
+    url: "/wiki/entities/amazonprimevideo/"
   - key: "AmazonWebServices"
     title: "Amazon Web Services"
     url: "/wiki/entities/amazonwebservices/"

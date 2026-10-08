@@ -2,31 +2,47 @@
 title: "Aviation Fuel Surcharge / 航空燃油附加费"
 type: concept
 tags: [aviation, pricing, energy, regulation, china]
-sources: [shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
-last_updated: 2026-08-16
+sources:
+  - shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014
+  - mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131
+  - guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123
+last_updated: 2026-10-08
+knowledge_schema: synthesis-v1
 ---
 
 # Aviation Fuel Surcharge / 航空燃油附加费
 
-Aviation fuel surcharge is the airline-side extra charge explained in [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]]. The source distinguishes it from the [[CivilAviationDevelopmentFund|civil aviation development fund]]: the surcharge is paid to airlines, while the development fund is a government fund for civil aviation infrastructure and subsidies.
+## Definition
+An aviation fuel surcharge is an airline-collected, regulated extra charge that passes part of jet-fuel cost pressure into the passenger's total ticket price.
 
-In the Chinese domestic-route mechanism described by the episode, airlines may charge a fuel surcharge when aviation fuel exceeds a benchmark price, given in the source as 5,000 yuan per metric ton. [[CivilAviationAdministrationOfChina|CAAC]] and the [[NationalDevelopmentAndReformCommission|National Development and Reform Commission]] set monthly upper limits for routes below and above 800 km, while international-route surcharges are set by airlines and filed with CAAC in advance.
+## Current Synthesis
+The detailed explainer distinguishes China's domestic fuel surcharge from the [[CivilAviationDevelopmentFund|civil aviation development fund]]. The surcharge goes to airlines, uses monthly upper limits for distance bands, and references fuel prices, exchange rates, distribution spread, and prior fuel consumption. Airlines still absorb part of cost increases, so the mechanism is partial pass-through rather than full reimbursement.
 
-The source emphasizes that the formula is not an arbitrary oil-price markup. It references the previous month's Singapore jet-fuel spot average, exchange rates, the [[ChinaNationalAviationFuel|China National Aviation Fuel]] distribution spread, and a unit collection rate based on the prior year's average domestic-airline fuel burn.
-
-[[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds a concrete adjustment example. The episode says several airlines notified online travel platforms that from August 5, 2026, domestic routes above 800 km would fall to 70 yuan and routes at or below 800 km would charge 40 yuan, marking the third domestic fuel-surcharge cut since June.
+The later roundup sources show the charge moving in both directions. One reports an August 2026 cut to RMB 40 for routes at or below 800 km and RMB 70 above 800 km; the newest reports an October rise to RMB 50 and RMB 90 as oil prices and supply risk increased. The current synthesis is therefore a dynamic regulated adjustment with a direct passenger-demand tradeoff.
 
 ## Key Claims
-- The surcharge is a regulated partial response to [[CommodityPriceExposure|commodity price exposure]], not simply a hidden profit line.
-- Domestic caps create a standardized passenger-facing charge even though each airline's fuel efficiency and route mix differ.
-- The surcharge can rise and fall with energy markets; the episode says there were long periods when Chinese domestic tickets carried no fuel surcharge.
-- The mechanism is bounded by [[AviationFuelCostPassThrough]] rules because airlines still absorb part of fuel-price increases.
-- A surcharge cut can lower passengers' all-in travel cost, but the source still frames airline demand as exposed to high-speed rail, self-driving alternatives, and total-price sensitivity.
+- The surcharge is paid to airlines and differs from the government-managed civil aviation development fund.
+- Domestic caps use different bands for routes at or below 800 km and longer routes.
+- The mechanism passes through only part of fuel-price pressure.
+- Surcharge levels can rise or fall as fuel-market inputs change.
+- Higher charges can protect carrier economics while weakening passenger demand.
 
-## Connections
-- [[CivilAviationAdministrationOfChina]] and [[NationalDevelopmentAndReformCommission]] - regulators that set domestic upper limits in the source.
-- [[ChinaNationalAviationFuel]] - distribution-spread input named in the formula.
-- [[CivilAviationDevelopmentFund]] - contrasted extra ticket charge.
-- [[AviationFuelCostPassThrough]] - cost-sharing boundary around the surcharge.
-- [[BudgetAirlineCostSqueeze]], [[PriceElasticity]], and [[AirlineUnbundling]] - adjacent airline-pricing concepts.
-- [[CommodityPriceExposure]] - fuel-price context reinforced by the 声动早咖啡 adjustment example.
+## Evidence
+- **Mechanism and distinction:** [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] explains the money flow, benchmark, formula inputs, distance bands, and required airline absorption.
+- **Downward adjustment:** [[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] reports an August 2026 cut to RMB 40 and RMB 70.
+- **Upward adjustment:** [[guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123]] reports an October 2026 rise to RMB 50 and RMB 90 amid oil-price and inventory pressure.
+- **Demand tradeoff:** [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] says higher all-in ticket prices can weaken willingness to travel even as the surcharge offsets carrier costs.
+
+## Counterevidence & Qualifications
+The surcharge dates, levels, cost shares, benchmark, formula, and brokerage coverage estimates are source-scoped and can change. International routes follow a different filing process. Conflict and inventory explanations in the newest roundup do not isolate the causal contribution of each formula input.
+
+## What Changed
+- Migrated the concept to synthesis-v1 while preserving the original source order.
+- Added the October reversal from the earlier reported cut to a higher RMB 50/RMB 90 schedule.
+
+## Related Concepts
+- [[CivilAviationDevelopmentFund]] - separate government-fund charge on tickets.
+- [[AviationFuelCostPassThrough]] - cost-sharing boundary between airlines and passengers.
+- [[CommodityPriceExposure]] - jet-fuel input risk behind surcharge changes.
+- [[PriceElasticity]] - passenger-demand response to higher all-in fares.
+- [[AirlineUnbundling]] - adjacent fee logic that should not be conflated with regulated fuel charges.

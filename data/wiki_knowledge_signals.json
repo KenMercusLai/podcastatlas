@@ -11785,6 +11785,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/amazonprime/"
     },
+    "AmazonPrimeVideo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/amazonprimevideo/"
+    },
     "AmazonWebServices": {
       "episode_count": 6,
       "show_count": 2,
@@ -20883,6 +20899,36 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/averybrundage/"
+    },
+    "AviationFuelSurcharge": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "商业小样46 ｜ 买机票时，为什么总要多交两笔钱？ [1005487014].md",
+          "key": "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014",
+          "show": "商业就是这样",
+          "title": "商业小样46 | 买机票时，为什么总要多交两笔钱？",
+          "url": "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
+        },
+        {
+          "episode_file": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？ [1004213131].md",
+          "key": "mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131",
+          "show": "声动早咖啡",
+          "title": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？",
+          "url": "/wiki/sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/aviationfuelsurcharge/"
     },
     "AviationGeneralHospital": {
       "episode_count": 1,
@@ -53057,6 +53103,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/dcstephenson/"
     },
+    "DFIRetailGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/dfiretailgroup/"
+    },
     "DRASTIC": {
       "episode_count": 1,
       "show_count": 1,
@@ -69525,9 +69587,9 @@
       "url": "/wiki/entities/emmanuelmacron/"
     },
     "EmmyAwards": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏 [1015756412].md",
@@ -69535,9 +69597,16 @@
           "show": "声动早咖啡",
           "title": "图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏",
           "url": "/wiki/sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/emmyawards/"
     },
     "EmotionAcceptanceSignalAction": {
@@ -86042,6 +86111,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/francisgrasso/"
+    },
+    "FrancisHalzen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/francishalzen/"
     },
     "FrancisScottKey": {
       "episode_count": 1,
@@ -132748,6 +132833,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/lcubelifestyle/"
     },
+    "LGElectronics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/lgelectronics/"
+    },
     "LIVGolf": {
       "episode_count": 1,
       "show_count": 1,
@@ -162693,6 +162794,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/multiagentcollaboration/"
     },
+    "MultiCityItineraryTravel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/multicityitinerarytravel/"
+    },
     "MultiEvidenceDisasterReconstruction": {
       "episode_count": 2,
       "show_count": 1,
@@ -169515,9 +169632,9 @@
       "url": "/wiki/entities/nurembergrally1934/"
     },
     "NutritionLabelSugarTraps": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -169532,9 +169649,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/nutritionlabelsugartraps/"
     },
     "NutritionMentalHealth": {
@@ -173162,9 +173286,9 @@
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
     "Optogenetics": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1806352008 [SCIM1806352008].md",
@@ -173172,9 +173296,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/optogenetics/"
     },
     "OracleBoneDivination": {
@@ -177071,6 +177202,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/patagoniaregion/"
+    },
+    "PatentCrossLicensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/patentcrosslicensing/"
     },
     "PatentForamenOvaleEvaluationAndClosure": {
       "episode_count": 2,
@@ -191943,9 +192090,9 @@
       "url": "/wiki/entities/quakers/"
     },
     "Qualcomm": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31 [2d6bfcec-31c3-4ef2-981f-6dc2864cf92d].md",
@@ -191953,9 +192100,16 @@
           "show": "What's Next｜科技早知道",
           "title": "当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31",
           "url": "/wiki/sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/qualcomm/"
     },
     "QualityValueInvesting": {
@@ -192372,6 +192526,36 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/quliwesternregions/"
+    },
+    "Qunar": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "困在系统里的酒店，你不知道的携程垄断练成史 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [困在系统里的酒店，你不知道的携程垄断练成史-1].md",
+          "key": "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun",
+          "show": "科技乱炖",
+          "title": "困在系统里的酒店，你不知道的携程垄断练成史",
+          "url": "/wiki/sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun/"
+        },
+        {
+          "episode_file": "EP91 订房订票定江山，携程51亿为傲慢买单 [lovHfkZ4RkLv1iK_uQYESwRdf3uw].md",
+          "key": "ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw",
+          "show": "一劳永逸",
+          "title": "EP91 订房订票定江山，携程51亿为傲慢买单",
+          "url": "/wiki/sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/qunar/"
     },
     "QunfangNoodleHouse": {
       "episode_count": 1,
@@ -212651,6 +212835,29 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/skippingplyometricprogression/"
     },
+    "Skydance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/skydance/"
+    },
     "SlanderSuspicionFeedbackCollapse": {
       "episode_count": 3,
       "show_count": 1,
@@ -218299,6 +218506,57 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/starwars/"
+    },
+    "Starbucks": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "EP35 降薪不降质？中产阶级最后的倔强 [lkYiK124V1nNB-4dGLyoRF7_Oc43].md",
+          "key": "ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43",
+          "show": "一劳永逸",
+          "title": "EP35 降薪不降质？中产阶级最后的倔强",
+          "url": "/wiki/sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/starbucks/"
     },
     "StargardtDisease": {
       "episode_count": 1,
@@ -243338,6 +243596,43 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/warmfreshwaternasalexposurerisk/"
+    },
+    "WarnerBrosDiscovery": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "tech_20251212_1212_MP_TECH_pod_128 [tech_20251212_1212_MP_TECH_pod_128].md",
+          "key": "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
+          "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉 [1021649123].md",
+          "key": "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123",
+          "show": "声动早咖啡",
+          "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+          "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/warnerbrosdiscovery/"
     },
     "WarrenCommission": {
       "episode_count": 3,

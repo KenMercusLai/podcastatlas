@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12687
+wiki_total_pages: 12691
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "LexisNexis"
     title: "LexisNexis"
     url: "/wiki/entities/lexisnexis/"
+  - key: "LGElectronics"
+    title: "LG Electronics"
+    url: "/wiki/entities/lgelectronics/"
   - key: "LiAuto"
     title: "Li Auto / 理想汽车"
     url: "/wiki/entities/liauto/"

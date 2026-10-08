@@ -12862,6 +12862,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AmazonPrimeVideo": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AmazonWebServices": [
     {
       "key": "technology",
@@ -36432,6 +36439,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FrancisHalzen": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FrancisScottKey": [
     {
       "key": "politics",
@@ -50634,6 +50648,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LGElectronics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LIVGolf": [
     {
       "key": "culture",
@@ -64062,6 +64083,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PatentCrossLicensing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PaternalLocalOfficeEthic": [
@@ -98786,6 +98814,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5": [

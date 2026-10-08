@@ -4,40 +4,46 @@ type: entity
 tags: [media, television, awards, united-states]
 sources:
   - tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412
-last_updated: 2026-09-17
+  - guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
 # Emmy Awards
 
 ## Overview
-The Emmy Awards are the main U.S. television honors. The wiki uses them as an industry indicator: who wins shows which companies still fund prestigious television, and how many titles are eligible shows how much the industry is still producing.
+The Emmy Awards are major U.S. television honors used in the wiki as an indicator of prestige-content investment, industry output, and now the migration of live awards distribution from broadcast rotation to streaming.
 
 ## Current Profile
-The current source covers the 2026 cycle, where [[Apple]] took 28 awards and became the first company outside [[HBO]], [[Netflix]], and Disney's FX to lead since 2003. At the same time, eligible titles fell to 212, roughly 40% below four years earlier, so the episode reads the ceremony as a signal of concentrated prestige spending during an industry-wide content contraction.
+The 2026 awards source says [[Apple]] led with 28 wins while eligible titles fell to 212, roughly 40% below four years earlier. This makes the ceremony a signal of concentrated prestige spending during broader content contraction, while awards success remains distinct from viewing scale and profitability.
+
+The newest source shifts attention from winners to distribution. It reports that [[AmazonPrimeVideo|Amazon Prime Video]] will stream the ceremony globally from 2027 without requiring a Prime subscription, replacing the long-running ABC-CBS-Fox-NBC rotation. The ceremony therefore sits at the intersection of prestige, live-event reach, advertising, and platform acquisition.
 
 ## Key Characteristics
-- Annual U.S. television awards whose leaderboard tracks which funders still invest in prestige production.
-- Eligibility volume works as a proxy for total scripted output.
-- Long dominance by HBO, Netflix, and FX, now interrupted by a hardware-and-services company.
-- Marketing, talent-recruitment, and brand-legitimacy value for streaming services.
-- Award outcomes that can diverge from audience scale and commercial performance.
+- Annual U.S. television awards whose leaderboard tracks prestige investment.
+- Eligibility volume provides a rough signal of total television output.
+- Awards outcomes can diverge from audience scale and commercial performance.
+- Live distribution is moving from rotating broadcast networks to a global streaming service.
+- Free access can make the ceremony an advertising and ecosystem-entry product.
 
 ## Evidence
-- 2026 leader - [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports Apple's 28 wins and the first non-HBO, non-Netflix, non-FX leadership since 2003.
-- Output contraction - [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] cites 212 eligible titles, down about 40% from four years earlier, as studios cut content spending.
-- Prestige spending split - [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] contrasts Apple's continued investment in well-cast, high-budget projects with retrenchment elsewhere.
+- **Prestige leadership:** [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports Apple's 28 wins and the first non-HBO, non-Netflix, non-FX leadership since 2003.
+- **Output contraction:** [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] cites 212 eligible titles, about 40% below four years earlier.
+- **Rights shift:** [[guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123]] reports Prime Video's global rights from 2027 and access without a Prime subscription.
+- **Distribution context:** [[guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123]] contrasts Prime Video with decades of rotation among ABC, CBS, Fox, and NBC.
 
 ## Qualifications
-Award counts and eligibility figures come from cited media reporting in the episode and are not independently verified here. Awards measure industry peer judgment, not viewership, subscriber growth, or profitability.
+Award counts, eligibility figures, viewing shares, rights scope, access rules, and dates come from cited reporting in compact podcast sources and are not independently verified here. Awards measure industry recognition, not subscriber growth, watch time, or profit; streaming rights do not by themselves prove durable audience migration.
 
 ## What Changed
-- Created the Emmy Awards as a wiki node for tracking television prestige spending and output volume.
+- Added the reported 2027 move from rotating broadcast coverage to global Prime Video streaming.
+- Expanded the entity from an awards-spending indicator into a live-distribution case.
 
 ## Relationships
-- [[Apple]] - winner whose awards lead is the source's headline.
-- [[AppleTVPlus]] - streaming service whose content strategy the awards are used to illustrate.
-- [[HBO]] - historic awards incumbent named in the source.
-- [[Netflix]] - historic awards incumbent named in the source.
-- [[TheWaltDisneyCompany]] - owner of FX, the third incumbent named in the source.
-- [[StreamingContentTreadmill]] - concept connecting awards pressure to continuous content spend.
+- [[Apple]] - 2026 awards leader in the earlier source.
+- [[AppleTVPlus]] - service whose prestige strategy the awards illustrate.
+- [[AmazonPrimeVideo]] - reported future global ceremony distributor.
+- [[HBO]] - historic awards incumbent.
+- [[Netflix]] - historic awards incumbent and streaming-scale comparison.
+- [[StreamingContentTreadmill]] - content-spending pressure reflected in eligibility and awards competition.
+- [[StreamingConsolidation]] - broader platform concentration context around distribution rights.

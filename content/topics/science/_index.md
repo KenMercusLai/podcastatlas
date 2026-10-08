@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1473
+topic_total_pages: 1474
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2762,6 +2762,9 @@ topic_entities:
   - key: "FrancisGalton"
     title: "Francis Galton / 弗朗西斯·高尔顿"
     url: "/wiki/entities/francisgalton/"
+  - key: "FrancisHalzen"
+    title: "Francis Halzen"
+    url: "/wiki/entities/francishalzen/"
   - key: "GabrielCrossley"
     title: "Gabriel Crossley"
     url: "/wiki/entities/gabrielcrossley/"

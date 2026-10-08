@@ -4091,6 +4091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files](sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730.md) — All-In debate separating elite-network suspicion, media mythology, document auditing, and guilt by association.
 
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
+- [国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉](sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123.md) — 声动早咖啡 roundup on multi-city holiday travel, Skydance-Warner integration, Nobel science, Apple-LG smart-home devices, Nike restructuring, Emmy streaming, Huawei-Qualcomm patents, aviation surcharges, and Starbucks labeling.
 
 ## Entities
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
@@ -6144,7 +6145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Swisse / 斯维斯](entities/Swisse.md) — Marketing-led Australian supplement brand, acquired by 合生元 in 2015, whose Chinese demand first appeared through daigou.
 - [Therapeutic Goods Administration / TGA](entities/TherapeuticGoodsAdministration.md) — Australian regulator that assigns AUST numbers and splits supplements between self-assessed listed and pre-market-assessed registered tracks.
 - [Apple TV+](entities/AppleTVPlus.md) — Apple's subscription streaming service used as the source's awards-leadership-versus-audience-scale case.
-- [Emmy Awards](entities/EmmyAwards.md) — U.S. television awards used to track which funders still back prestige production and how much output remains.
+- [Emmy Awards](entities/EmmyAwards.md) — U.S. television awards tracking prestige investment, output contraction, and a reported shift from broadcast rotation to global Prime Video streaming.
 - [Kim Kardashian](entities/KimKardashian.md) — Celebrity founder of Skims whose personal visibility is treated as consumer-brand attention infrastructure.
 - [Luxihe / 泸溪河](entities/Luxihe.md) — Chinese bakery chain professionalizing management and testing a new store model as the category reshuffles.
 - [Nihon Kotsu / 日本交通](entities/NihonKotsu.md) — Tokyo taxi operator partnering with Waymo on the planned commercial robotaxi service while keeping fleet operations.
@@ -13700,7 +13701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Angel Reese](entities/AngelReese.md) — Women's basketball visibility signal used by the source to frame streaming attention and audience growth.
 - [Larry Ellison](entities/LarryEllison.md) — Oracle founder whose database wealth, pledged equity, guarantees, and Trump access bridge enterprise software, media ownership, and AI infrastructure.
 - [David Ellison](entities/DavidEllison.md) — Skydance founder and Paramount leader whose media role is extended by the Ellison family capital and regulatory-access story.
-- [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed franchise production into Paramount and Warner Bros. Discovery consolidation.
+- [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed production into debt-heavy Paramount and source-reported Warner Bros. Discovery control.
 - [Oracle](entities/Oracle.md) — Enterprise database and AI cloud company extended here from database lock-in into Stargate, U.S. TikTok, and political-regulatory leverage.
 - [IBM](entities/IBM.md) — Incumbent computing company whose relational-database research becomes the opportunity Oracle commercializes in the episode.
 - [Top Gun: Maverick](entities/TopGunMaverick.md) — Skydance franchise hit used as David Ellison's credibility proof before larger media-control deals.
@@ -15012,7 +15013,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
 - [John Ternus](entities/JohnTernus.md) — Apple engineering leader treated by source evidence as Tim Cook's successor and then source-described CEO, with hardware credibility and continuity pressures.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI device work and Ferrari's LoveFrom-supported EV design challenge.
-- [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
+- [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose assets moved from rival bids to source-reported Skydance acquisition, debt, and production commitments.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
 - [McDonald's](entities/McDonalds.md) — Fast-food company used by episode 155 to explain Coca-Cola refill economics, marginal consumption, and targeted restaurant marketing.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
@@ -15828,7 +15829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Home Inns](entities/HomeInns.md) — Hotel-chain branch connected to Ji Qi and Ctrip's early movement from booking demand toward lodging supply.
 - [Hanting Hotel](entities/HantingHotel.md) — Ji Qi's post-Home Inns hotel venture and predecessor context for Huazhu Group.
 - [Huazhu Group](entities/HuazhuGroup.md) — Hotel-chain group used to contrast large supplier bargaining power with individual hotel and homestay dependence on OTAs.
-- [Qunar](entities/Qunar.md) — Travel-search and price-comparison competitor used in the Ctrip episode's OTA competition and consolidation history.
+- [Qunar](entities/Qunar.md) — Travel-search and price-comparison platform spanning OTA competition history and current multi-city holiday booking data.
 - [Zhuang Chenchao](entities/ZhuangChenchao.md) — Qunar founder used to explain travel price-comparison search and mobile pressure on Ctrip before later consolidation.
 - [Elong](entities/Elong.md) — OTA competitor and Expedia-linked China travel platform in the episode's consolidation history.
 - [Tongcheng Travel](entities/TongchengTravel.md) — OTA competitor and later Tencent/Ctrip-linked platform representing ground-sales and partnership routes into travel booking.
@@ -16290,7 +16291,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private space company now covered through IPO valuation risk, reusable rockets, Starlink, Starship, manufacturing culture, and AI infrastructure scenarios.
 - [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
-- [Starbucks](entities/Starbucks.md) — Coffee retailer discussed through CPG distribution, China premium-everyday tension, and source-scoped China supply-chain rumor denial.
+- [Starbucks](entities/Starbucks.md) — Coffee retailer spanning CPG distribution, China localization, Asian franchise control, and a no-added-sugar versus sugar-free label dispute.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, Claude Code, and skill-selection friction.
@@ -16641,7 +16642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫龙 / Weilong](entities/Weilong.md) — Luohe snack company that scaled辣条 through packaging, brand marketing, capital, and later vegetable-snack diversification.
 - [平江 / Pingjiang](entities/Pingjiang.md) — Hunan county presented as modern辣条's origin cluster and a case of crisis-driven food-industry upgrading.
 - [张子龙 / Zhang Zilong](entities/ZhangZilong.md) — Malawangzi second-generation employee whose public account connects brand visibility to unresolved operating apprenticeship.
-- [Qualcomm / 高通](entities/Qualcomm.md) — Semiconductor and platform company presented as linking edge-AI hardware, model deployment, and prospective device interoperability.
+- [Qualcomm / 高通](entities/Qualcomm.md) — Semiconductor and platform company linking edge-AI interoperability with a reported Huawei patent cross-license and patent acquisition.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 - [Nanjing Massacre / 南京大屠杀](entities/NanjingMassacre.md) — Japanese mass murder, sexual violence, plunder, and terror after the December 1937 occupation of Nanjing.
@@ -16832,6 +16833,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Tracey](entities/MichaelTracey.md) — Journalist challenging maximalist Epstein narratives through claim definition, legal precision, and incentive analysis.
 - [Kevin Bass](entities/KevinBass.md) — Citizen document analyst using AI-assisted retrieval to audit Reid Hoffman's public Epstein account.
 - [Prince Andrew](entities/PrinceAndrew.md) — British royal figure discussed through a reported official-information allegation and Epstein association.
+- [Francis Halzen](entities/FrancisHalzen.md) — Physicist presented by the source through Antarctic high-energy neutrino detection and the 2026 Nobel physics award.
+- [LG Electronics](entities/LGElectronics.md) — Consumer-electronics company reported as Apple's manufacturing and service partner for smart-home devices.
+- [Amazon Prime Video](entities/AmazonPrimeVideo.md) — Amazon streaming service reported as the global Emmy ceremony home from 2027.
+- [DFI Retail Group](entities/DFIRetailGroup.md) — Asian retail operator reported to take control of Starbucks franchise operations across seven markets and more than 1,100 stores.
 
 ## Concepts
 - [Accusation Response Restraint / 诬陷回应克制](concepts/AccusationResponseRestraint.md) — 不让每一项误解或恶意指控立即支配行动的克制策略，其适用性取决于证据、权力、制度与他人风险。
@@ -17208,7 +17213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ghost Belief as Cultural History](concepts/GhostBeliefAsCulturalHistory.md) — Method that studies what changing societies ask ghosts to mean without confusing cultural value with supernatural proof.
 - [Media Technology and Ghost Culture](concepts/MediaTechnologyGhostCulture.md) — Framework for how newspapers, image and broadcast media, horror film, and digital communication reshape haunting stories and evidence.
 - [Anglo-German Relations](concepts/AngloGermanRelations.md) — Long-run relationship cycling through kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, and European power politics.
-- [Optogenetics](concepts/Optogenetics.md) — Causal research method using genetically delivered light-sensitive proteins to control selected cells and test circuit function.
+- [Optogenetics](concepts/Optogenetics.md) — Causal neural-circuit method now also linked to source-reported 2026 Nobel recognition while retaining translation limits.
 - [Dissociation Circuit Inference](concepts/DissociationCircuitInference.md) — Cross-species evidence ladder connecting subjective dissociation, activity patterns, homologous regions, and causal animal intervention.
 - [AI Accountability Audit Chain](concepts/AIAccountabilityAuditChain.md) — Governance sequence linking internal controls, independent auditors, board oversight, public representations, and possible existing-law enforcement.
 - [Strategic Compute Capacity](concepts/StrategicComputeCapacity.md) — National capacity to supply, secure, allocate, and operate the chips, power, data centers, networks, and defensive systems required for AI.
@@ -20270,7 +20275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Added and Free Sugar Distinction / 添加糖与游离糖区分](concepts/AddedFreeSugarDistinction.md) — Public nutrition distinction covering added sugars plus free sugars in honey, syrup, juice, and concentrated juice.
 - [Liquid Sugar Risk / 液体糖风险](concepts/LiquidSugarRisk.md) — Beverage-format risk where juice, sweet drinks, milk tea, flavored coffee, and sweetened dairy can deliver sugar quickly and repeatedly.
 - [Low-GI Marketing Trap / 低GI营销陷阱](concepts/LowGIMarketingTrap.md) — Warning that low-GI claims can hide total sugar, fat, fructose, serving size, and whole-product composition.
-- [Nutrition Label Sugar Traps / 营养标签糖陷阱](concepts/NutritionLabelSugarTraps.md) — Consumer label-literacy frame for zero-sucrose, natural, sour-drink, hidden-sugar, carbohydrate-panel, functional-food, and threshold claims.
+- [Nutrition Label Sugar Traps / 营养标签糖陷阱](concepts/NutritionLabelSugarTraps.md) — Label-literacy frame separating zero sucrose, no added sugar, naturally occurring sugar, total carbohydrate, health halos, and threshold claims.
 - [Functional Food Regulatory Identity / 功能食品监管身份](concepts/FunctionalFoodRegulatoryIdentity.md) — Consumer-literacy frame for identifying whether a product is a drug, special medical food, special dietary food, blue-hat health food, ordinary food, or market-defined functional food before trusting its promised function.
 - [Targeted Supplement Need Assessment / 针对性补剂需求判断](concepts/TargetedSupplementNeedAssessment.md) — Decision frame for judging supplements by real nutritional gap, disease or life-stage context, diet, exercise load, medication interactions, and professional guidance.
 - [Functional Food Marketing Claim Skepticism / 功能食品营销宣称警惕](concepts/FunctionalFoodMarketingClaimSkepticism.md) — Claim-screening frame for natural, medical-grade, nano, high-absorption, anti-inflammatory, natural-statin, collagen, and white-person-TCM marketing language.
@@ -23461,7 +23466,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airline Loyalty Program Moat](concepts/AirlineLoyaltyProgramMoat.md) — Competitive advantage created by frequent-flyer programs, credit cards, corporate relationships, and route-network scale.
 - [Budget Airline Cost Squeeze](concepts/BudgetAirlineCostSqueeze.md) — Pressure on low-fare airlines when input costs rise and price-sensitive travelers cut discretionary flying.
 - [Civil Aviation Development Fund / 民航发展基金](concepts/CivilAviationDevelopmentFund.md) — Chinese government fund collected from passengers and airlines for aviation infrastructure, air-traffic systems, routes, and airport subsidies.
-- [Aviation Fuel Surcharge / 航空燃油附加费](concepts/AviationFuelSurcharge.md) — Regulated airline-side surcharge that partially passes jet-fuel cost pressure into passenger airfare.
+- [Aviation Fuel Surcharge / 航空燃油附加费](concepts/AviationFuelSurcharge.md) — Regulated partial jet-fuel cost pass-through shown moving from an August cut to a source-reported October rise.
 - [Aviation Fuel Cost Pass-Through](concepts/AviationFuelCostPassThrough.md) — Cost-sharing problem where fuel surcharges offset only part of aviation fuel-price increases and may still weaken demand.
 - [Airline Market Price Discipline](concepts/AirlineMarketPriceDiscipline.md) — Fare pressure created when a low-cost carrier forces incumbents to offer cheaper options.
 - [Airline Bailout Politics](concepts/AirlineBailoutPolitics.md) — Policy question of whether public rescue can preserve airline competition rather than reward customer satisfaction.
@@ -26811,5 +26816,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Astrology Decision-Making](concepts/FinancialAstrologyDecisionMaking.md) — Use of astrological advice in investment and corporate choices despite weak evidence of predictive value.
 - [Epstein Evidence Dispute](concepts/EpsteinEvidenceDispute.md) — Framework separating documented facts, pattern-level suspicion, claim-specific proof, and unresolved theory in Epstein-file interpretation.
 - [Association Evidence Boundary](concepts/AssociationEvidenceBoundary.md) — Evidentiary distinction among contact, misleading disclosure, facilitation, knowledge, and participation in wrongdoing.
+- [Multi-City Itinerary Travel / 多城串游](concepts/MultiCityItineraryTravel.md) — Holiday travel pattern combining stays in two or more cities through longer breaks, transport connectivity, crowd avoidance, and local experiences.
+- [Patent Cross-Licensing / 专利交叉许可](concepts/PatentCrossLicensing.md) — Reciprocal patent-use mechanism distinguished from outright transfer of selected intellectual-property assets.
 
 ## Syntheses

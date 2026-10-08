@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9910
+wiki_total_pages: 9912
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "PastoralMissionSubversionAmbiguity"
     title: "Pastoral Mission-Subversion Ambiguity"
     url: "/wiki/concepts/pastoralmissionsubversionambiguity/"
+  - key: "PatentCrossLicensing"
+    title: "Patent Cross-Licensing / 专利交叉许可"
+    url: "/wiki/concepts/patentcrosslicensing/"
   - key: "PatentForamenOvaleEvaluationAndClosure"
     title: "Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵"
     url: "/wiki/concepts/patentforamenovaleevaluationandclosure/"

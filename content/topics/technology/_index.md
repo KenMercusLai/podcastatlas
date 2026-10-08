@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3365
+topic_total_pages: 3368
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3442,6 +3442,9 @@ topic_concepts:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "PatentCrossLicensing"
+    title: "Patent Cross-Licensing / 专利交叉许可"
+    url: "/wiki/concepts/patentcrosslicensing/"
   - key: "PatientAIUse"
     title: "Patient AI Use"
     url: "/wiki/concepts/patientaiuse/"
@@ -6407,6 +6410,9 @@ topic_entities:
   - key: "LexisNexis"
     title: "LexisNexis"
     url: "/wiki/entities/lexisnexis/"
+  - key: "LGElectronics"
+    title: "LG Electronics"
+    url: "/wiki/entities/lgelectronics/"
   - key: "LiBeibin"
     title: "Li Beibin"
     url: "/wiki/entities/libeibin/"
@@ -9930,6 +9936,9 @@ topic_sources:
   - key: "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f"
     title: "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23"
     url: "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+  - key: "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123"
+    title: "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉"
+    url: "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
   - key: "tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412"
     title: "图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏"
     url: "/wiki/sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9910
+wiki_total_pages: 9912
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "MultiAgentCollaboration"
     title: "Multi-Agent Collaboration"
     url: "/wiki/concepts/multiagentcollaboration/"
+  - key: "MultiCityItineraryTravel"
+    title: "Multi-City Itinerary Travel / 多城串游"
+    url: "/wiki/concepts/multicityitinerarytravel/"
   - key: "MultiEvidenceDisasterReconstruction"
     title: "Multi-Evidence Disaster Reconstruction"
     url: "/wiki/concepts/multievidencedisasterreconstruction/"

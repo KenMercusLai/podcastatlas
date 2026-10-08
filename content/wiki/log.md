@@ -32165,3 +32165,11 @@ Added source `zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉
+
+Added source `guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123`; created [[FrancisHalzen]], [[LGElectronics]], [[AmazonPrimeVideo]], [[DFIRetailGroup]], [[MultiCityItineraryTravel]], and [[PatentCrossLicensing]]; and resynthesized [[Qunar]], [[Skydance]], [[WarnerBrosDiscovery]], [[Starbucks]], [[AviationFuelSurcharge]], [[NutritionLabelSugarTraps]], [[Optogenetics]], [[EmmyAwards]], and [[Qualcomm]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: longer breaks, denser transport, and crowd-avoidance preferences support multi-city itineraries; no added sugar is not the same claim as literal sugar absence; and media, franchise, streaming, patent, and airline-cost updates all involve control or cost transfer with material qualifications. The Warner transaction is treated as a source-reported chronological advance rather than independently verified closure, and the Starbucks lawsuit remains an allegation plus company response rather than a legal finding. Nobel recognition, deal values, sales figures, rights terms, license scope, surcharge levels, and store counts remain source-scoped. Broad Apple, Nike, Amazon, Huawei, Paramount, and AITO pages were kept closed because the bounded additions are represented in focused source, entity, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,025 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

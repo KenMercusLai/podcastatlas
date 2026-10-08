@@ -8163,6 +8163,10 @@
     "title": "Amazon Prime",
     "url": "/wiki/entities/amazonprime/"
   },
+  "AmazonPrimeVideo": {
+    "title": "Amazon Prime Video",
+    "url": "/wiki/entities/amazonprimevideo/"
+  },
   "AmazonWebServices": {
     "title": "Amazon Web Services",
     "url": "/wiki/entities/amazonwebservices/"
@@ -22443,6 +22447,10 @@
     "title": "DEA Exemption Process",
     "url": "/wiki/concepts/deaexemptionprocess/"
   },
+  "DFIRetailGroup": {
+    "title": "DFI Retail Group",
+    "url": "/wiki/entities/dfiretailgroup/"
+  },
   "DJI": {
     "title": "DJI / 大疆",
     "url": "/wiki/entities/dji/"
@@ -32566,6 +32574,10 @@
   "FrancisGrasso": {
     "title": "Francis Grasso",
     "url": "/wiki/entities/francisgrasso/"
+  },
+  "FrancisHalzen": {
+    "title": "Francis Halzen",
+    "url": "/wiki/entities/francishalzen/"
   },
   "FrancisScottKey": {
     "title": "Francis Scott Key",
@@ -47595,6 +47607,10 @@
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
   },
+  "LGElectronics": {
+    "title": "LG Electronics",
+    "url": "/wiki/entities/lgelectronics/"
+  },
   "LIVGolf": {
     "title": "LIV Golf",
     "url": "/wiki/entities/livgolf/"
@@ -57539,6 +57555,10 @@
     "title": "MultiCard",
     "url": "/wiki/entities/multicard/"
   },
+  "MultiCityItineraryTravel": {
+    "title": "Multi-City Itinerary Travel / 多城串游",
+    "url": "/wiki/concepts/multicityitinerarytravel/"
+  },
   "MultiEvidenceDisasterReconstruction": {
     "title": "Multi-Evidence Disaster Reconstruction",
     "url": "/wiki/concepts/multievidencedisasterreconstruction/"
@@ -62502,6 +62522,10 @@
   "PatekPhilippe": {
     "title": "Patek Philippe",
     "url": "/wiki/entities/patekphilippe/"
+  },
+  "PatentCrossLicensing": {
+    "title": "Patent Cross-Licensing / 专利交叉许可",
+    "url": "/wiki/concepts/patentcrosslicensing/"
   },
   "PatentForamenOvaleEvaluationAndClosure": {
     "title": "Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵",
@@ -96838,6 +96862,10 @@
   "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f": {
     "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
     "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+  },
+  "guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123": {
+    "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
+    "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
   },
   "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5": {
     "title": "汉洋：为什么做《蜉蝣天地》",

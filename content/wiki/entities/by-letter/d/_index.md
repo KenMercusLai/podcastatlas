@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12687
+wiki_total_pages: 12691
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "Devin"
     title: "Devin"
     url: "/wiki/entities/devin/"
+  - key: "DFIRetailGroup"
+    title: "DFI Retail Group"
+    url: "/wiki/entities/dfiretailgroup/"
   - key: "DharmendraPradhan"
     title: "Dharmendra Pradhan"
     url: "/wiki/entities/dharmendrapradhan/"

@@ -5,38 +5,45 @@ knowledge_schema: synthesis-v1
 tags: [semiconductors, ai, edge-ai, mobile, platforms]
 sources:
   - dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d
-last_updated: 2026-09-30
+  - guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123
+last_updated: 2026-10-08
 ---
 
 # Qualcomm / 高通
 
 ## Overview
-Qualcomm is the semiconductor and platform company at the center of the source's 2026 Snapdragon Summit account, where it presents phones, PCs, glasses, earbuds, pendants, rings, and other endpoints as parts of a distributed personal-AI system.
+Qualcomm is a semiconductor and platform company represented through a distributed edge-AI strategy and a newly reported patent cross-license with [[Huawei]].
 
 ## Current Profile
-The source depicts Qualcomm trying to expand beyond supplying mobile chips into coordinating hardware acceleration, model deployment, developer tools, and device interoperability. Its proposed advantage is breadth across terminal categories: Snapdragon-class devices can divide sensing, local inference, connectivity, and interaction while the phone continues to carry identity, private context, payment, permissions, and heavier edge compute. The ambition remains prospective because cross-brand memory continuity and open interoperability require participation from device makers, operating systems, and applications that Qualcomm does not control alone.
+The Snapdragon Summit source depicts Qualcomm expanding beyond mobile-chip supply toward coordination of hardware acceleration, model deployment, developer tools, and device interoperability. Phones, PCs, glasses, earbuds, pendants, and rings can divide sensing and interaction while the phone retains identity, private context, payments, permissions, and heavier edge compute. The cross-brand system remains prospective because Qualcomm does not control every device maker, operating system, or application.
+
+Qualcomm's current profile also has an intellectual-property layer: broad [[PatentCrossLicensing|patent cross-licensing]] with Huawei across 5G, computing, and AI, alongside a reported acquisition of some Huawei U.S. patents. This separates reciprocal permission to use portfolios from outright transfer of selected assets.
 
 ## Key Characteristics
-- Supplies CPU, NPU, sensing, and connectivity capabilities for phones, PCs, and emerging AI devices.
-- Frames the phone as a coordination and compute hub rather than the only future AI interface.
-- Promotes a remember-understand-act roadmap for personal agents using persistent multimodal context.
-- Seeks interoperability first among Snapdragon devices and eventually through broader industry standards.
-- Uses software and developer infrastructure, including the source-reported [[ModularAI|Modular]] acquisition, to make models easier to deploy across hardware.
+- Supplies CPU, NPU, sensing, and connectivity capabilities across device categories.
+- Frames the phone as a coordination hub rather than the sole AI interface.
+- Promotes a remember-understand-act roadmap for personal agents.
+- Seeks model-deployment and interoperability leverage through software and standards.
+- Uses licensing and patent acquisition to manage overlapping technology portfolios.
 
 ## Evidence
-- **Distributed-device platform:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] describes summit demonstrations spanning glasses, PCs, phones, earbuds, pendants, and rings.
-- **Personal-agent roadmap:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] attributes the remember-understand-act sequence and proactive travel-plan example to Qualcomm's presentation.
-- **Interoperability and software:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] reports work on Snapdragon-device interoperability and presents Modular's stack as a model-deployment layer.
+- **Distributed-device platform:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] describes summit demonstrations across phones, PCs, glasses, audio devices, pendants, and rings.
+- **Agent roadmap:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] attributes the remember-understand-act sequence and proactive task examples to Qualcomm.
+- **Interoperability and software:** [[dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d]] reports Snapdragon interoperability work and presents [[ModularAI|Modular]] as a model-deployment layer.
+- **Patent agreement:** [[guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123]] reports cross-licensing with Huawei plus acquisition of selected Huawei U.S. patents.
 
 ## Qualifications
-The profile is based on one summit report containing company demonstrations, executive interviews, and commentary rather than independent adoption, performance, privacy, or interoperability tests. The episode gives no implementation detail for an open cross-brand standard. Product timing, shipment forecasts, acquisition valuation, and comparisons with CUDA remain source-scoped.
+The summit profile relies on company demonstrations and commentary rather than independent adoption, performance, privacy, or interoperability tests. The patent source does not provide covered patents, standards-essential status, royalties, term, geography, closing conditions, or purchase valuation. Both strategy branches remain source-scoped.
 
 ## What Changed
-- Created a profile of Qualcomm's proposed shift from chip supplier toward a cross-device edge-AI platform.
+- Added the reported Huawei cross-license and selected U.S. patent acquisition.
+- Connected Qualcomm's platform strategy to intellectual-property access and ownership.
 
 ## Relationships
-- [[ModularAI|Modular]] - software-infrastructure company the source says Qualcomm acquired to strengthen cross-hardware model deployment.
-- [[SmartphoneAIHub]] - device-coordination thesis supported by Qualcomm's phone-centered architecture.
-- [[CrossDevicePersonalMemory]] - continuity problem Qualcomm's proposed interoperability must address.
-- [[RememberUnderstandActLoop]] - personal-agent progression presented at the summit.
-- [[NeuralProcessingUnits]] - local acceleration layer used for multimodal perception and inference.
+- [[Huawei]] - reported cross-license counterparty and patent seller.
+- [[PatentCrossLicensing]] - reciprocal IP-access mechanism in the newest source.
+- [[ModularAI|Modular]] - software infrastructure tied to model deployment across hardware.
+- [[SmartphoneAIHub]] - phone-centered coordination thesis.
+- [[CrossDevicePersonalMemory]] - continuity problem for Qualcomm's distributed-device vision.
+- [[RememberUnderstandActLoop]] - agent progression presented at the summit.
+- [[NeuralProcessingUnits]] - local acceleration layer for perception and inference.
