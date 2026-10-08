@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3221
+topic_total_pages: 3222
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9390,6 +9390,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt"
     title: "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）"
     url: "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"
+  - key: "zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj"
+    title: "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）"
+    url: "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
   - key: "zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77"
     title: "《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子"
     url: "/wiki/sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77/"

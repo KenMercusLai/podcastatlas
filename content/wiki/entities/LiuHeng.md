@@ -19,6 +19,7 @@ sources:
   - zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
+  - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj
 last_updated: 2026-10-09
 ---
 
@@ -60,6 +61,8 @@ A sharper boundary now qualifies the receptive-ruler profile. Liu Heng is presen
 
 An earlier kinship crisis adds a different limit to the benevolent and receptive profile. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] reports a decree against private arrest and levies by specified elite relatives and senior officials, but leaves enforcement and coverage uncertain. After [[LiuChangHuainanKing|刘长]] dies following exile, popular song recasts the event as intolerable conflict between brothers. Liu Heng's later grants to Liu Chang's sons can be read as repair, yet Jia Yi warns that they may validate the wrongful-death narrative and equip aggrieved heirs. The source therefore shows Liu Heng regulating elite coercion while also making a reputation-sensitive settlement whose security effects remain contested.
 
+The case of Liu Heng's maternal uncle [[BoZhaoWesternHan|薄昭]] supplies a completed law-and-kinship test. After Bo Zhao reportedly kills an imperial envoy, Liu Heng avoids direct execution but compels suicide through escalating social and ritual pressure, then personally mourns him and preserves family succession. [[SimaGuang|司马光]] treats the refusal to exempt close kin as necessary to public law, while [[LiDeyu|李德裕]] emphasizes the cost imposed on the living [[BaoJi|薄太后]]. [[CaoPi|曹丕]] moves the judgment upstream: granting an imperial uncle military authority created the avoidable accountability trap. The case therefore strengthens Liu Heng's equal-law profile while qualifying the method and exposing a preventive appointment failure. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]]
+
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
@@ -68,7 +71,7 @@ An earlier kinship crisis adds a different limit to the benevolent and receptive
 - Agrarian and light-burden ruler who reportedly accepts a staged grain-reserve plan linking frontier supply and local stores to eventual farm-tax relief.
 - Receptive and lenient ruler who can turn some remonstrance or individual petitions into policy, but can also value advice without timely implementation or reject a warning about reputation-driven royal grants; selective patronage, omen capture, and severe substitutes further qualify the profile.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
-- Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and pairs disaster response with reduced extraction and court use.
+- Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and ultimately subjects a maternal uncle to capital accountability, though only after kin appointment creates the dilemma.
 
 ## Evidence
 
@@ -120,15 +123,19 @@ Elite restraint and kinship-reputation repair:
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] reports Liu Heng's restriction on private arrest and levies by specified elite relatives and senior officials, without establishing enforcement or complete coverage.
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] places popular criticism of Liu Chang's death before grants to his sons and attributes to Jia Yi a warning about narrative admission and future revenge capacity.
 
+Kin-neutral punishment and preventive failure:
+- [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] says Liu Heng compels Bo Zhao's suicide after the imperial uncle kills an envoy, then mourns him and preserves succession for Bo Zhao's son.
+- [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] attributes to Sima Guang a defense of law applied across kinship and to Cao Pi the upstream criticism that imperial uncles should receive support without public authority.
+
 ## Qualifications
 
-This is a bounded profile assembled from fifteen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions likewise require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, and severe penal substitutes.
+This is a bounded profile assembled from sixteen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220 part 1's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Part 2's detailed killing motive, suicide-pressure sequence, mourning performance, posthumous arrangement, and attributed judgments likewise remain episode- or annotation-scoped; equal-law value does not settle whether the coercive method was ritually or procedurally sound. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, Bo Zhao's prior empowerment, and severe penal substitutes.
 
 ## What Changed
 
-- Added the anti-abuse decree and its source-reported coverage and enforcement limits.
-- Added the public criticism–royal grant sequence while keeping Liu Heng's illness and compensatory motive source-scoped.
-- Extended the receptive-ruler boundary from delayed partition to rejection of Jia Yi's warning about grievance-bearing heirs.
+- Added Bo Zhao's compelled suicide as evidence that close kin did not receive full exemption from a capital offense.
+- Qualified that legal signal with the indirect coercive method, the dowager's family cost, and Liu Heng's posthumous accommodation.
+- Moved the institutional judgment upstream by identifying Bo Zhao's earlier military empowerment as a preventable appointment failure.
 
 ## Relationships
 
@@ -169,5 +176,7 @@ This is a bounded profile assembled from fifteen popular-history podcast notes, 
 - [[TuiEnLing|推恩令]] - later systematic analogue to the royal-territory fragmentation logic not promptly implemented here.
 - [[RebellionOfTheSevenStatesWesternHan|七国之乱]] - later crisis used by Hanji 219 to judge the cost of delay.
 - [[LiuChangHuainanKing|淮南王刘长]] - brother whose death following exile creates the episode's public-legitimacy crisis.
+- [[BoZhaoWesternHan|薄昭]] - maternal uncle whose offense, compelled suicide, mourning, and succession accommodation test law against kinship.
 - [[LawEnforcementAgainstElitePrivilege|执法碰撞权贵特权]] - concept extended by Liu Heng's attempt to restrict private coercion by elite households and officials.
+- [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] - preventive frame showing why granting Bo Zhao authority made later accountability costly.
 - [[ReputationalRepairSecurityTradeoff|声誉修复与安全风险权衡]] - captures Jia Yi's warning that conciliatory grants can repair reputation while increasing an aggrieved heir's capacity.

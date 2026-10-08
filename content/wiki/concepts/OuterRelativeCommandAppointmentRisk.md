@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
   - zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh
   - zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -26,6 +27,8 @@ The campaign result complicates but does not erase the warning. Ma Fang defeats 
 
 The concept therefore separates eventual merit from structural risk. A relative or favored consort-family member can succeed in the field and still enter through distorted selection or make the accountability environment less clean, especially when command is expected to generate the merit that legitimizes a private reward or when officials must evaluate someone whose punishment may damage the ruler's family ties.
 
+The completed Western Han failure sequence appears through [[BoZhaoWesternHan|薄昭]]. Liu Heng's maternal uncle reportedly receives military authority, grows arrogant enough to kill an imperial envoy, and is then compelled to commit suicide. The ruler mourns him and protects succession, while the episode's three judgments separate stages of the problem: [[LiDeyu|李德裕]] foregrounds the dowager's family loss, [[SimaGuang|司马光]] defends kin-neutral law and faults inadequate prior guidance, and [[CaoPi|曹丕]] argues that support without authority would have prevented the trap. Unlike the Wei Qing and Ma Fang cases, this one supplies both severe abuse and terminal accountability, though its detailed narrative remains source-scoped. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]]
+
 ## Key Claims
 
 - The danger of heavy in-law appointment is a law-versus-kinship dilemma, not merely presumed incompetence.
@@ -33,8 +36,8 @@ The concept therefore separates eventual merit from structural risk. A relative 
 - Command can be used prospectively to manufacture the merit needed to legitimize a favored relative's later title.
 - Formal compliance with a merit rule does not protect the state if private favor determines who gets the chance to command.
 - Kin-enabled access and real capability can coexist; appointment-risk analysis must separate unequal opportunity from a conclusion of incompetence.
-- Field success can coexist with distorted accountability around subordinates and monitors.
-- Geng Gong's removal after offending Ma Fang illustrates anticipated-preference risk without proving direct retaliation.
+- Field success can coexist with distorted accountability around subordinates and monitors; Geng Gong's removal after offending Ma Fang illustrates anticipated-preference risk without proving direct retaliation.
+- Once serious wrongdoing occurs, punishment can restore some legal credibility but cannot undo the appointment design that made family duty and public accountability collide.
 
 ## Evidence
 
@@ -46,16 +49,18 @@ The concept therefore separates eventual merit from structural risk. A relative 
 - Appointment despite warning: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Zhangdi does not accept the warning and sends Ma Fang as acting chariot-and-cavalry general against the Qiang.
 - Success with structural residue: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] records Ma Fang's victories over Buqiao, showing that the warning is not simply about battlefield incapacity.
 - Distorted subordinate accountability: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Geng Gong is impeached after having offended Ma Fang and after a monitor guesses Ma Fang's view.
+- Completed accountability trap: [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] links Bo Zhao's military authority and imperial kinship to later arrogance, killing an envoy, compelled suicide, maternal grief, and posthumous accommodation.
+- Preventive judgment: [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] attributes to Cao Pi the distinction between supporting an imperial uncle and delegating power to him.
 
 ## Counterevidence & Qualifications
 
-Hanji 372-2 does not independently prove that Li Guangli lacked all military ability, that favorite-family advancement was the war's only cause, or that military merit was an exceptionless legal requirement. Its durable contribution is the selection-and-legitimation risk identified by the episode and attributed to Sima Guang. Hanji 274 stops before Longcheng combat and does not independently prove Wudi's private reasoning, ministerial dialogue, or Wei Qing's later success; it is used here only for the appointment controversy and the coexistence of access and claimed capability. Hanji 749 does not show Ma Fang failing in battle; on the contrary, it reports major victories and surrender. It also does not prove that Ma Fang ordered Geng Gong's impeachment. The concept should therefore be kept structural: kinship or consort-family command can distort entry and accountability even when the appointee may be capable or later succeeds.
+Hanji 372-2 does not independently prove that Li Guangli lacked all military ability, that favorite-family advancement was the war's only cause, or that military merit was an exceptionless legal requirement. Its durable contribution is the selection-and-legitimation risk identified by the episode and attributed to Sima Guang. Hanji 274 stops before Longcheng combat and does not independently prove Wudi's private reasoning, ministerial dialogue, or Wei Qing's later success; it is used here only for the appointment controversy and the coexistence of access and claimed capability. Hanji 749 does not show Ma Fang failing in battle; on the contrary, it reports major victories and surrender, and it does not prove that Ma Fang ordered Geng Gong's impeachment. Hanji 220 part 2 supplies a completed abuse-and-punishment case, but the drinking motive, exact office, suicide procedure, and attributed commentaries require textual comparison. The concept should therefore be kept structural: kinship or consort-family command can distort entry and accountability even when the appointee may be capable, later succeeds, or is ultimately punished.
 
 ## What Changed
 
-- Added Wei Qing's contested first command as a case where kin-enabled opportunity and plausible capability coexist.
-- Sharpened the distinction between structural selection risk and a claim that every outer-relative appointee is incompetent.
-- Preserved the pre-battle evidence boundary: Hanji 274 does not itself establish the Longcheng result.
+- Added Bo Zhao as the first current case that completes the sequence from kin appointment to severe abuse and terminal accountability.
+- Separated three stages of judgment: family cost after punishment, equal-law enforcement at the offense stage, and prevention at appointment.
+- Preserved the source-layer boundary between the terse killing-of-an-envoy record and the expanded motive and coercion story.
 
 ## Related Concepts
 
@@ -67,3 +72,4 @@ Hanji 372-2 does not independently prove that Li Guangli lacked all military abi
 - [[KnownMisconductNonPunishment]] - related accountability boundary where protected people face rebuke or avoidance instead of legal consequence.
 - [[TopDownExemplarGovernance]] - connected because exempting kin from appointment standards undermines visible leadership example.
 - [[PrivateFavorAppointmentErosion|私恩任官侵蚀]] - upstream selection mechanism when closeness rather than tested fit shapes who receives public command.
+- [[BoZhaoWesternHan|薄昭]] - completed failure case where imperial kinship, delegated authority, serious abuse, and compelled punishment converge.

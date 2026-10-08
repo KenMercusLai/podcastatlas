@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12810
+wiki_total_pages: 12811
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1580,6 +1580,9 @@ wiki_pages:
   - key: "BaoJi"
     title: "薄姬 / Lady Bo"
     url: "/wiki/entities/baoji/"
+  - key: "BoZhaoWesternHan"
+    title: "薄昭 / Bo Zhao (Western Han)"
+    url: "/wiki/entities/bozhaowesternhan/"
   - key: "BoJingSanlianCulture"
     title: "薄静 / Bo Jing"
     url: "/wiki/entities/bojingsanlianculture/"

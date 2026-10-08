@@ -22867,6 +22867,36 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/banza/"
     },
+    "BaoJi": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖 [lr0h-kfEGUvATatTnJ--MZ8fgVnC].md",
+          "key": "zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2） [lplkV_tU9YXH-YS565EBs4uNt7NJ].md",
+          "key": "zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/baoji/"
+    },
     "BaoJieZheBing": {
       "episode_count": 1,
       "show_count": 1,
@@ -27598,6 +27628,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/boronglatehan/"
+    },
+    "BoZhaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2） [lplkV_tU9YXH-YS565EBs4uNt7NJ].md",
+          "key": "zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/bozhaowesternhan/"
     },
     "BobHawke": {
       "episode_count": 1,
@@ -144285,9 +144331,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144393,6 +144439,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2） [lplkV_tU9YXH-YS565EBs4uNt7NJ].md",
+          "key": "zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
         }
       ],
       "updated": "2026-10-09",
@@ -178896,9 +178949,9 @@
       "url": "/wiki/concepts/outerrelativebalanceunderimperialpower/"
     },
     "OuterRelativeCommandAppointmentRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -178920,9 +178973,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》274｜从骑奴到将军，卫青是如何逆袭的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-274-cong-qinu-dao-jiangjun-weiqing-shi-ruhe-nixi-de-llgairjhid8rskv4jzx0yyijhmnc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2） [lplkV_tU9YXH-YS565EBs4uNt7NJ].md",
+          "key": "zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/outerrelativecommandappointmentrisk/"
     },
     "OuterRelativeCourtPower": {

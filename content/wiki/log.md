@@ -32862,3 +32862,15 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）
+
+Added source `zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj`; created [[BoZhaoWesternHan|薄昭]]; migrated and resynthesized [[BaoJi|薄姬 / 薄太后]] from her complete preserved two-source inventory before appending the new source once; and resynthesized [[LiuHeng|汉文帝刘恒]] and [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Bo Zhao's compelled suicide makes kin-neutral accountability visible, but Li Deyu's filial objection, Sima Guang's equal-law defense, and Cao Pi's preventive critique operate at different stages; the upstream institutional failure was entrusting public authority to close kin before punishment became unavoidable. No settled contradiction was adopted. The sparse dynastic notice is separated from the annotation's drinking-grudge story, and the victim identity, motive, exact offices, coercive procedure, dialogue, dates, succession arrangement, and attributed judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,114 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links, while semantic lint remains unavailable because LiteLLM lacks a provider-qualified model configuration.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
