@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2601
+topic_total_pages: 2602
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6063,6 +6063,9 @@ topic_sources:
   - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
     title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
     url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+  - key: "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd"
+    title: "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）"
+    url: "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
   - key: "42-the-wild-west-glt7464073840"
     title: "42. The Wild West"
     url: "/wiki/sources/42-the-wild-west-glt7464073840/"

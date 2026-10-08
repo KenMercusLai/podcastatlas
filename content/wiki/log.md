@@ -32466,3 +32466,11 @@ Added source `advice-line-with-nick-green-of-thrive-market-7764e494-e791-48db-b9
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）
+
+Added source `42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd`; created [[InstitutionalReformAsPowerReallocation|制度变法即权力重分配]]; migrated and resynthesized [[ZiChan|子产]] and [[ZhengState|郑国]] from their complete preserved evidence inventories; and resynthesized [[Cleisthenes]], [[Solon]], [[Athens]], [[AthenianDemocracy]], and [[WeirdHistoryPodcast|怪东西 Weird History]] before appending the new source once. Core synthesis: both reform programs weaken inherited aristocratic control, but Zi Chan shifts land, population, levies, and law toward ruler-centered state capacity while Cleisthenes shifts identity, representation, and office access toward a bounded citizen polity. Reform gains remain inseparable from new duties, exclusion, factional interest, coercion, and incomplete ancient evidence. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic; age-gated global compaction refreshed the validated artifacts across 4,063 sources, 799 overview paragraphs, and nine topics. Identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

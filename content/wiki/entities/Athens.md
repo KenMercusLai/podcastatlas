@@ -9,7 +9,8 @@ sources:
   - 334-athens-and-the-birth-of-democracy-glt2496707123
   - 224-roman-holidays-glt9939678940
   - 99-thermopylae-salamis-episode-2-glt9857497334
-last_updated: 2026-10-01
+  - 42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The origin source presents Athens as an aristocrat-dominated and divided communi
 
 Cleisthenes reorganizes Attica into demes and cross-regional tribes that weaken lineage monopolies and create overlapping civic loyalties. The arrangement is framed through [[AthenianAutochthony]], [[Theseus]], Athena, Erechtheus, Delphic selection, and ancestral heroes, making Athens a sacred community of land, descent, ritual, and generations rather than a modern electorate. Women sustain descent and cult without voting, while metics and enslaved people remain outside the demos.
 
+The comparative evidence makes civic redesign operate as a transfer of power. Ten territorial tribes replace four kinship tribes; selection by lot and the Council of Five Hundred widen access and representation; and ostracism offers a preventive defense against renewed tyranny. These institutions weaken aristocratic monopolies without removing elite competition, exclusion, or the risk that defensive procedures can be used against prominent citizens.
+
 The Marathon prehistory source then presents Athens as a recent revolutionary democracy. The city entangles itself with Persia by offering earth and water while seeking help against neighbors. After Athens no longer needs Persian support, Hippias appears in Sardis and Persian officials order his return; Athens refuses and becomes receptive to [[Aristagoras]]' appeal for help in the [[IonianRevolt]].
 
 That intervention makes Athens a target. Twenty Athenian ships join Eretria and the Ionians, march inland, and help burn [[Sardis]]. The battle source then presents Athens as a city whose future is genuinely endangered by a punitive [[AchaemenidEmpire|Persian]] expedition backed by Hippias. [[Miltiades]] leads the Athenians to block the road from Marathon to Athens, and the city's survival depends on both battlefield victory and rapid return before the Persian fleet can exploit possible betrayal.
@@ -39,7 +42,7 @@ Athens's Roman afterlife turned the city into a destination. Historical associat
 
 ## Key Characteristics
 
-- Athens's democratic origin combines legal compromise, popularized tyranny, aristocratic rivalry, Spartan intervention, popular resistance, and Cleisthenic design through demes and tribes.
+- Athens's democratic origin combines legal compromise, popularized tyranny, aristocratic rivalry, Spartan intervention, popular resistance, and Cleisthenic redesign through demes, tribes, selection by lot, and a larger council.
 - Autochthony, cult, women's ritual and descent roles, and the exclusion of metics and enslaved people define a sacred but bounded demos.
 - Its earlier offer of earth and water and later Ionian intervention turn Athens from a compromised Persian client into a direct target of Darius's retaliation.
 - Persian-war survival moves from the internal and external danger at Marathon to the evacuation and physical destruction of the city in 480 BC.
@@ -50,6 +53,7 @@ Athens's Roman afterlife turned the city into a destination. Historical associat
 ## Evidence
 
 - Political transformation and civic structure: [[334-athens-and-the-birth-of-democracy-glt2496707123]] follows Solon, Peisistratus, Hippias, Cleisthenes, the Acropolis crowd, demes, tribes, autochthony, ritual, and exclusions.
+- Institutional power transfer: [[42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd]] connects territorial tribes, allotment, the Council of Five Hundred, assembly procedure, and ostracism to reduced hereditary control.
 - Democratic context and Persian entanglement: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] says Athens expelled Hippias, established democracy, earlier offered earth and water to Persia, and then refused to restore Hippias.
 - Ionian intervention: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] says Athens sent twenty ships, joined the Sardis raid, withdrew after Persian cavalry damage, and ignored later appeals.
 - Marathon survival: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] says defeat could have meant Athens's destruction, enslavement, or exile, while Hippias and possible betrayal made the danger political as well as military.
@@ -63,16 +67,17 @@ Athens's Roman afterlife turned the city into a destination. Historical associat
 
 ## Qualifications
 
-The current page remains source-scoped to an origin reconstruction, Persian- and Roman-war crisis clusters, and a Roman cultural afterlife. Early chronology, Cleisthenes' motives, the age of autochthony, and the views of excluded people are difficult to recover from scarce or mythic evidence. The page does not synthesize all classical Athens, philosophy, drama, architecture, empire, or later urban life. Marathon and Salamis counterfactuals, earlier Persian submission, details of the 480 BC evacuation and destruction, the 86 BC "end of independence" claim, and the finishing-school analogy remain the respective episodes' interpretations.
+The current page remains source-scoped to origin reconstructions, Persian- and Roman-war crisis clusters, and a Roman cultural afterlife. Early chronology, Cleisthenes' motives, the age of autochthony, the precise operation or attribution of ostracism, and the views of excluded people are difficult to recover from scarce or mythic evidence. The page does not synthesize all classical Athens, philosophy, drama, architecture, empire, or later urban life. Marathon and Salamis counterfactuals, earlier Persian submission, details of the 480 BC evacuation and destruction, the 86 BC "end of independence" claim, and the finishing-school analogy remain the respective episodes' interpretations.
 
 ## What Changed
 
-- Added the 480 BC evacuation, burning of Athens and the Acropolis, and naval recovery at Salamis.
-- Distinguished physical loss of the city from continuity through the people and fleet.
+- Added selection by lot, the Council of Five Hundred, and ostracism to the democratic-origin sequence.
+- Reframed Cleisthenic redesign as a transfer away from kinship monopolies without treating it as universal equality.
 
 ## Relationships
 
 - [[AthenianDemocracy]] - political order whose recent formation and survival the Marathon sources treat as contingent.
+- [[InstitutionalReformAsPowerReallocation]] - comparative frame for Athens's shift from kinship organization toward territorial citizenship.
 - [[Cleisthenes]] - reformer who reorganizes Attica and appeals to the demos.
 - [[AthenianAutochthony]] - sacred claim that roots Athenian membership in Attic soil and ancestry.
 - [[Solon]] - lawgiver whose mixed reform precedes tyranny and democracy.

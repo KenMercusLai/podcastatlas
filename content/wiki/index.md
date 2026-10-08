@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）](sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd.md) — 怪东西以子产与克里斯提尼对照土地、人口、军赋、成文法、地域部落、抽签、议事会与陶片放逐，解释变法如何削弱血缘贵族并重分配国家或公民权力。
 - [Advice Line with Nick Green of Thrive Market](sources/advice-line-with-nick-green-of-thrive-market-7764e494-e791-48db-b95a-2d18994139a0.md) — How I Built This episode on scalable focus, mission-compatible economics, recurring demand, aligned advocates, and trust-based distribution for assistive technology.
 - [《资治通鉴·汉纪》228｜从富可敌国到饿死街头，邓通经历了什么？](sources/zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc.md) — 邓通由文帝梦兆与近身宠爱获得官位、铜山和铸钱权，受申屠嘉礼法约束却由文帝救回；景帝继位后查办越界铸钱、没产追债，馆陶长公主救济亦未能阻止其贫饿而死。
 - [43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震](sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps.md) — 怪东西以华县与里斯本地震对照建筑暴露、复合死亡、信息网络、救灾秩序、城市重建与启蒙思想，并保留著名数字及“首次科学研究”等来源边界。
@@ -4139,7 +4140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Danny Walsh](entities/DannyWalsh.md) — Peak State Coffee founder weighing debt, equity, and disciplined organic growth.
 - [Voiceback](entities/Voiceback.md) — Assistive voice-cloning app moving from free downloads to paid validation and trusted referral channels.
 - [Rhea Jain](entities/RheaJain.md) — Voiceback founder using lived experience, clinical outreach, and user advisers to develop assistive communication.
-- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害事件、制度响应、知识生产与思想史的历史播客。
+- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较连接灾害机制、制度响应、政治变法、知识生产与思想史的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
@@ -10011,7 +10012,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [召忽 / Shao Hu](entities/ShaoHu.md) — Gongzi Jiu loyalist whose death contrasts with Guan Zhong's survival and later reform role.
 - [姜太公 / 姜子牙 / Jiang Taigong](entities/JiangTaigong.md) — Founding ruler of Qi, Zhou Wenwang's late-recognized adviser, and source-scoped ancestor figure in Lu Buwei's lineage claim.
 - [管仲 / Guan Zhong](entities/GuanZhong.md) — Qi minister whose economic and administrative statecraft is praised while remaining limited by person-dependent, non-ritual durability.
-- [子产 / Zi Chan](entities/ZiChan.md) — Zheng statesman used by Zhouji 75-1 to contrast personal kindness with bridge-building, institutions, and small-state strategic judgment.
+- [子产 / Zi Chan](entities/ZiChan.md) — 郑国执政者，以小国战略判断、乡校议政、土地与军赋改革、铸刑书及宽猛相济连接公共制度、国家能力与改革代价。
 - [《管子》 / Guanzi](entities/GuanziText.md) — Pre-Qin statecraft text cited for Guan Zhong's luxury-consumption economic circulation branch.
 - [和氏璧 / He Shi Bi](entities/HeShiBi.md) — Jade treasure whose origin, Zhao possession, Qin exchange proposal, and intact return structure Zhouji 74.
 - [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy and minister who returns He Shi Bi, prevents humiliation at Mianchi, and avoids Lian Po to preserve Zhao's paired deterrent against Qin.
@@ -10379,7 +10380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵国 / Zhao State](entities/ZhaoState.md) — Warring States polity whose arc now runs through Hu Fu Qi She, Zhao She, Shangdang, Changping, and post-Changping rupture.
 - [赵烈侯 / Marquis Lie of Zhao](entities/ZhaoLiehou.md) — Zhao ruler whose death leads to Zhao Wuhou's installation.
 - [赵武侯 / Marquis Wu of Zhao](entities/ZhaoWuhou.md) — Zhao Liehou's younger brother and successor in the source.
-- [郑国 / Zheng State](entities/ZhengState.md) — Buffer state between Jin and Chu whose internal assassinations anchor Zhouji 07's political-violence thread.
+- [郑国 / Zheng State](entities/ZhengState.md) — 晋楚之间的小国，以子产制度变法回应外压与宗族权力，后经派系暴力、领土侵蚀与韩国的跨代推进而亡。
 - [郑文公 / Duke Wen of Zheng](entities/ZhengWenGong.md) — Ruler cited as a comparison case for using bandits as political killers.
 - [子阳 / Ziyang of Zheng](entities/ZiyangZheng.md) — Zheng prime minister whose killing and factional aftermath illustrate escalating Warring States political violence.
 - [郑康公 / Duke Kang of Zheng](entities/ZhengKangGong.md) — Zheng ruler installed after Ziyang's faction kills the prior ruler.
@@ -13192,7 +13193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samnites / 萨莫奈人](entities/Samnites.md) — Italian people whose hostility to Sulla turns into the final anti-Sullan attack on Rome and massacre after Colline Gate.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
-- [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
+- [Athens / 雅典](entities/Athens.md) — Greek city synthesized through legal compromise, tyranny, territorial democracy, Persian-war survival, Sullan destruction, and Roman cultural afterlife.
 - [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Foundational Iranian imperial order whose conquest, ideology, Greek wars, defeat, and selective inheritance frame its long political life.
 - [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
 - [Thucydides](entities/Thucydides.md) — Greek historian whose contingent treatment of war and power is distinguished from deterministic modern “trap” readings.
@@ -16620,8 +16621,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ark of the Covenant](entities/ArkOfTheCovenant.md) — Biblical sacred chest whose roles as covenant container, divine meeting place, dangerous power, and missing relic generated enduring theological and cultural traditions.
 - [Kebra Nagast](entities/KebraNagast.md) — Ethiopian dynastic text linking the Queen of Sheba, Solomon, Menelik, the Ark, and Solomonic royal legitimacy.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
-- [Cleisthenes](entities/Cleisthenes.md) — Athenian constitutional designer joining popular appeal, territorial reorganization, ancestral legitimation, and crowd-enabled reform.
-- [Solon](entities/Solon.md) — Athenian lawgiver whose anti-exploitation and written-law settlement preserves elite officeholding while preparing later reform.
+- [Cleisthenes](entities/Cleisthenes.md) — Athenian constitutional designer joining popular appeal, territorial tribes, allotment, council reform, ostracism, ancestral legitimation, and crowd-enabled change.
+- [Solon](entities/Solon.md) — Athenian lawgiver whose written-law, council, assembly, and jury settlement widens participation while preserving graded elite power.
 - [Peisistratus](entities/Peisistratus.md) — Athenian tyrant who stabilizes personal rule through popular measures, patronage, festivals, and building before dynastic decline.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
@@ -16929,6 +16930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [Institutional Reform as Power Reallocation / 制度变法即权力重分配](concepts/InstitutionalReformAsPowerReallocation.md) — Comparative framework in which changes to land, population, law, civic identity, and office selection redistribute practical power rather than merely announce policy.
 - [Scalable Core Before Expansion](concepts/ScalableCoreBeforeExpansion.md) — Sequence that proves a focused product, paid model, retention pattern, and acquisition path before adding complexity or capital.
 - [Mission-Economics Alignment](concepts/MissionEconomicsAlignment.md) — Principle that mission is more durable when it also creates customer or operating value.
 - [Trust-Dense Distribution](concepts/TrustDenseDistribution.md) — Growth through credible users, professionals, and communities close to the customer's moment of need.
@@ -19241,7 +19243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [后宫灾异归咎转移 / Consort Omen Blame Transfer](concepts/ConsortOmenBlameTransfer.md) — Omen-politics pattern redirecting disaster responsibility from outer relatives or rulers toward harem favoritism, jealousy, and heir anxiety.
 - [Harem Fiscal Discipline](concepts/HaremFiscalDiscipline.md) — Court-finance pattern where harem spending cuts translate disaster, succession, and faction pressure into discipline of consort status and household agency.
 - [Battle of Marathon](concepts/BattleOfMarathon.md) — 490 BC battle treated as Athenian containment, cavalry-window attack, tactical risk, city-saving return march, and later memory object.
-- [Athenian Democracy](concepts/AthenianDemocracy.md) — Marathon-contingency concept for Athens' fragile democratic and cultural future under Persian and tyrant-restoration threat.
+- [Athenian Democracy](concepts/AthenianDemocracy.md) — Bounded civic order built through territorial tribes, popular action, allotment, council and assembly institutions, naval mobilization, and repeated anti-tyranny and imperial tests.
 - [Greco-Persian War Memory](concepts/GrecoPersianWarMemory.md) — Later interpretation of Marathon and related conflicts as freedom-versus-despotism memory, qualified by source and empire context.
 - [Ionian Revolt](concepts/IonianRevolt.md) — Pre-Marathon revolt linking Miletian elite politics, Athenian intervention, Sardis, Miletus, and Darius's retaliation.
 - [Achaemenid Imperial Order Ideology](concepts/AchaemenidImperialOrderIdeology.md) — Persian order-versus-lie frame used by the episode to explain Darius's imperial legitimacy and punishment logic.

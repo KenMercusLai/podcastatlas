@@ -18993,9 +18993,9 @@
       "url": "/wiki/concepts/athenianautochthony/"
     },
     "AthenianDemocracy": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -19031,15 +19031,22 @@
           "show": "The Rest Is History",
           "title": "98. Thermopylae & Salamis Episode 1",
           "url": "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/atheniandemocracy/"
     },
     "Athens": {
-      "episode_count": 6,
-      "show_count": 1,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -19082,9 +19089,16 @@
           "show": "The Rest Is History",
           "title": "99. Thermopylae & Salamis Episode 2",
           "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
@@ -43453,9 +43467,9 @@
       "url": "/wiki/concepts/cleanofficialpowerboundary/"
     },
     "Cleisthenes": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2496707123 [GLT2496707123].md",
@@ -43463,9 +43477,16 @@
           "show": "The Rest Is History",
           "title": "334: Athens and the Birth of Democracy",
           "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/cleisthenes/"
     },
     "ClementAttlee": {
@@ -119330,6 +119351,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/institutionalreconstructionfromprecedent/"
+    },
+    "InstitutionalReformAsPowerReallocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/institutionalreformaspowerreallocation/"
     },
     "InstitutionalTrustAIAdoption": {
       "episode_count": 1,
@@ -217374,9 +217411,9 @@
       "url": "/wiki/entities/solomonnorthup/"
     },
     "Solon": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2496707123 [GLT2496707123].md",
@@ -217384,9 +217421,16 @@
           "show": "The Rest Is History",
           "title": "334: Athens and the Birth of Democracy",
           "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/solon/"
     },
     "SomatizationAsBodyAlarm": {
@@ -247536,9 +247580,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -247546,6 +247590,13 @@
           "show": "怪东西Weird History",
           "title": "43 东西方的地震：1556年嘉靖大地震 vs 1755年里斯本大地震",
           "url": "/wiki/sources/43-dongxifang-de-dizhen-1556nian-jiajing-dadizhen-vs-1755nian-lisiben-dadizhen-lqz5aznr86rd4a8xawybzotkkaps/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
         }
       ],
       "updated": "2026-10-08",
@@ -264982,6 +265033,57 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/zhengshiliang/"
     },
+    "ZhengState": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲 [lmEeh8T6doBgzrKOouaTO9vHJJuj].md",
+          "key": "zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》08丨一代名将吴起惨死（3） [ltcA_IKuZO9Ej7a0LFrGWV2_wulB].md",
+          "key": "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（1） [lvkp-jU7PF5z5CZ3tHoJv3S2Fkyx].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（2） [lhNGST3xsnYJRMZH1CvheocVVSQm].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1） [lq3T7lwPmQ1oYB8zmmmn2tYwnu8d].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhengstate/"
+    },
     "ZhengXingEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -267471,6 +267573,29 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhuyacommandery/"
+    },
+    "ZiChan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲 [lmEeh8T6doBgzrKOouaTO9vHJJuj].md",
+          "key": "zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj/"
+        },
+        {
+          "episode_file": "lvJN1O0AavCjhSM7gak9WPd9-Drd [lvJN1O0AavCjhSM7gak9WPd9-Drd].md",
+          "key": "42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd",
+          "show": "怪东西Weird History",
+          "title": "42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）",
+          "url": "/wiki/sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zichan/"
     },
     "ZiMiEasternHan": {
       "episode_count": 1,

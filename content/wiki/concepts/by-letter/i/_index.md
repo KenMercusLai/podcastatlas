@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9937
+wiki_total_pages: 9938
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "InstitutionalPolicyPluralism"
     title: "Institutional Policy Pluralism"
     url: "/wiki/concepts/institutionalpolicypluralism/"
+  - key: "InstitutionalReformAsPowerReallocation"
+    title: "Institutional Reform as Power Reallocation / 制度变法即权力重分配"
+    url: "/wiki/concepts/institutionalreformaspowerreallocation/"
   - key: "InstitutionalSectarianDiscrimination"
     title: "Institutional Sectarian Discrimination"
     url: "/wiki/concepts/institutionalsectariandiscrimination/"
