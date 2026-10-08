@@ -38980,6 +38980,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chengdurongcheng/"
     },
+    "ChengshiJiushiZheyang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "城市就是这样21｜ 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市 [1001770066].md",
+          "key": "chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066",
+          "show": "商业就是这样",
+          "title": "城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066/"
+        },
+        {
+          "episode_file": "城市就是这样22｜中国的“中位数城市”是哪座？ [1021674577].md",
+          "key": "chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577",
+          "show": "商业就是这样",
+          "title": "城市就是这样22 | 中国的“中位数城市”是哪座？",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/chengshijiushizheyang/"
+    },
     "Chenliu": {
       "episode_count": 6,
       "show_count": 1,
@@ -42429,6 +42452,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/citystoragesystems/"
+    },
+    "CityTypeSampling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "城市就是这样22｜中国的“中位数城市”是哪座？ [1021674577].md",
+          "key": "chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577",
+          "show": "商业就是这样",
+          "title": "城市就是这样22 | 中国的“中位数城市”是哪座？",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/citytypesampling/"
     },
     "CivilConstitutionOfTheClergy": {
       "episode_count": 1,
@@ -55733,6 +55772,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/davidbuss/"
+    },
+    "DavidFishman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "城市就是这样22｜中国的“中位数城市”是哪座？ [1021674577].md",
+          "key": "chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577",
+          "show": "商业就是这样",
+          "title": "城市就是这样22 | 中国的“中位数城市”是哪座？",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/davidfishman/"
     },
     "DavidGarrick": {
       "episode_count": 1,
@@ -139143,6 +139198,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/lineageruledurability/"
+    },
+    "Linfen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "城市就是这样22｜中国的“中位数城市”是哪座？ [1021674577].md",
+          "key": "chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577",
+          "show": "商业就是这样",
+          "title": "城市就是这样22 | 中国的“中位数城市”是哪座？",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/linfen/"
     },
     "LingCaoLateHan": {
       "episode_count": 1,
@@ -237320,6 +237391,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/urbandisorderexplanationconflict/"
+    },
+    "UrbanFieldInterviewing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "城市就是这样22｜中国的“中位数城市”是哪座？ [1021674577].md",
+          "key": "chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577",
+          "show": "商业就是这样",
+          "title": "城市就是这样22 | 中国的“中位数城市”是哪座？",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/urbanfieldinterviewing/"
     },
     "UrbanGuerrillaArmedPropaganda": {
       "episode_count": 1,

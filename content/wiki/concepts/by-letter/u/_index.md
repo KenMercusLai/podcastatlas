@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9914
+wiki_total_pages: 9916
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "UrbanEverydayFiction"
     title: "Urban Everyday Fiction"
     url: "/wiki/concepts/urbaneverydayfiction/"
+  - key: "UrbanFieldInterviewing"
+    title: "Urban Field Interviewing / 城市田野访谈"
+    url: "/wiki/concepts/urbanfieldinterviewing/"
   - key: "UrbanGuerrillaArmedPropaganda"
     title: "Urban Guerrilla Armed Propaganda"
     url: "/wiki/concepts/urbanguerrillaarmedpropaganda/"

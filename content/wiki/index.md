@@ -4095,6 +4095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策](sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8.md) — 刘安以民生、地理、疫病、后勤和秦代先例反对南征，并以使者、册封、质子和朝贡提出低成本替代方案。
 - [国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉](sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123.md) — 声动早咖啡 roundup on multi-city holiday travel, Skydance-Warner integration, Nobel science, Apple-LG smart-home devices, Nike restructuring, Emmy streaming, Huawei-Qualcomm patents, aviation surcharges, and Starbucks labeling.
+- [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 ## Entities
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
@@ -16843,6 +16844,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thermidorian Coup](entities/ThermidorianCoup.md) — Contingent 9 Thermidor overthrow joining survivor coalition, Convention recovery, failed Commune resistance, and reaction against the Terror.
 - [Jean-Lambert Tallien](entities/JeanLambertTallien.md) — Threatened Convention deputy whose organizing and parliamentary intervention helped bring down Robespierre.
 - [François Hanriot](entities/FrancoisHanriot.md) — Paris National Guard commander whose retreat from the Convention surrendered the Commune's strongest Thermidorian opportunity.
+- [David Fishman](entities/DavidFishman.md) — Energy professional and city writer combining rankings, administrative research, travel, and bounded resident interviews to study Chinese cities.
+- [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
@@ -26826,5 +26829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Association Evidence Boundary](concepts/AssociationEvidenceBoundary.md) — Evidentiary distinction among contact, misleading disclosure, facilitation, knowledge, and participation in wrongdoing.
 - [Multi-City Itinerary Travel / 多城串游](concepts/MultiCityItineraryTravel.md) — Holiday travel pattern combining stays in two or more cities through longer breaks, transport connectivity, crowd avoidance, and local experiences.
 - [Patent Cross-Licensing / 专利交叉许可](concepts/PatentCrossLicensing.md) — Reciprocal patent-use mechanism distinguished from outright transfer of selected intellectual-property assets.
+- [City-Type Sampling / 城市类型抽样](concepts/CityTypeSampling.md) — Comparative method using rankings to select cases while grounding representativeness in plural regional, historical, industrial, and administrative city types.
+- [Urban Field Interviewing / 城市田野访谈](concepts/UrbanFieldInterviewing.md) — Choice-centered resident interviewing that connects work, housing, children, and mobility decisions to urban structure without treating anecdotes as population estimates.
 
 ## Syntheses

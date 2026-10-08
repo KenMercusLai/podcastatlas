@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9914
+wiki_total_pages: 9916
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "CityOwnedGroceryPolitics"
     title: "City-Owned Grocery Politics"
     url: "/wiki/concepts/cityownedgrocerypolitics/"
+  - key: "CityTypeSampling"
+    title: "City-Type Sampling / 城市类型抽样"
+    url: "/wiki/concepts/citytypesampling/"
   - key: "CivicAudienceEtiquette"
     title: "Civic Audience Etiquette"
     url: "/wiki/concepts/civicaudienceetiquette/"
