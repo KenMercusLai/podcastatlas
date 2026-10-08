@@ -32673,3 +32673,11 @@ Added source `24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgo
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 23 张向荣&陆大鹏：如何学古文，如何学英语
+
+Added source `23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq`; created [[ContextualLanguageLearning|语境化语言学习]]; migrated and resynthesized [[ClassicalProseReading|古文阅读]]; and resynthesized [[SelfDirectedLearning]], [[LuDapeng|陆大鹏]], [[ZhangXiangrong|张向荣]], and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: English, German, and classical Chinese can all be learned through meaningful context, interest-led extensive reading, repeated cross-media exposure, selective lookup, and accumulated cultural knowledge, while their communicative goals remain distinct. The title identifies 张向荣, but the internal summary repeatedly identifies 张大白; the wiki preserves this attribution conflict and does not merge the entities. Resource recommendations, textbook judgments, difficulty rankings, memorization benefits, and broad learning-method claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,090 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

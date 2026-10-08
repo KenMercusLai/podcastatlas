@@ -20,7 +20,8 @@ sources:
   - 26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz
   - 25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az
   - 24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp
-last_updated: 2026-10-08
+  - 23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,11 +29,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, interpreters, diplomats, commanders, regents, chivalric archetypes, wartime assassinations, royal impostors, intimate power around female rulers, and culturally consequential meals, as well as episodes that join literary and disciplinary history to contemporary life questions.
+怪东西 Weird History is a history podcast represented through comparative episodes on disasters, reformers, colonial captives, influential outsiders, interpreters, diplomats, commanders, regents, chivalric archetypes, wartime assassinations, royal impostors, intimate power, and culturally consequential meals, as well as episodes that join literary and disciplinary history to contemporary education, reading, and language-learning questions.
 
 ## Current Profile
 
-In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official source compares [[LiSi|李斯]] and [[RobertHart|赫德]] through elite mobility, imported state capacity, political trust, and sovereignty. The interpreter source connects [[Malinche]] and the [[MacartneyEmbassy|Macartney Embassy]] through relay interpretation, coercion, institutional language, and the political uses of ambiguity. The [[Middlemarch]] source adds a book-discussion mode. Episode 37 compares [[IvanMaisky|Ivan Maisky]] and [[FengLiaoWesternHan|Feng Liao]] through [[EmbeddedDiplomaticIntermediation|embedded diplomatic intermediation]]. Episode 35 compares [[PrinceEugeneOfSavoy|Prince Eugene]] with Western Han commanders through [[MilitaryAchievementPoliticalConditions|the political conditions of military achievement]]. Episode 34 compares [[HunyadiJanos|Hunyadi János]] and [[Zaifeng|Zaifeng]] through [[RegencyAuthorityConversion|the conversion of delegated office into practical authority]]. Episode 33 compares historical youxia, literary wuxia, knights, samurai, ronin, bogatyrs, and modern heroes through [[ChivalricArchetypeComparison|shared virtues and divergent institutions]]. Episode 32 compares the killings of [[ReinhardHeydrich]] and [[ChenLu|陈箓]] through [[AssassinationReprisalTradeoff|symbolic resistance and distributed reprisal costs]]. Episode 31 compares returning-ruler legends, successful pretenders, mass rebellion, press-amplified rumor, and recurring dynastic banners through [[ClaimantImpostorCrisisHandling|claimant crisis handling]] and [[ClaimantPoliticsAndPublicSpectacle|claimant political usability]]. Episode 28 compares [[CatherineII|Catherine II]], [[GrigoryPotemkin|Potemkin]], [[WuZetian|武则天]], and Chinese elite women through [[CourtIntimacyAsPoliticalResource|intimate access as political resource]] and [[GenderedHistoriographicalDesireFraming|gendered historical memory]]. Episode 27 uses the formation of Chinese and English departments, the hosts' educational experience, and [[PeachBlossomSpring|Peach Blossom Spring]] to discuss specialization, language learning, AI, and major-choice uncertainty. Episode 26 reads [[GunterGrass|Günter Grass]] and [[TheFlounder|《比目鱼》]] through Danzig/Gdańsk, cooking, gendered power, fairy-tale rewriting, and the double edge of progress. Episode 25 compares monetized rank, office, nobility, military commission, and church position through [[RankSaleDisasterFinance|fiscal status sale]] and [[OfficeSaleLegitimacyDamage|office-sale legitimacy damage]], while separating institutional defects from the ability of individual purchasers. Episode 24 compares the [[LastSupper]] and [[LantingGathering|Lanting Gathering]] through ritual remembrance, narrative vulnerability, artistic reception, and [[MortalityBoundedMeaning|mortality-bounded meaning]], while preserving their historical and institutional difference. Across the seventeen episodes, the show uses comparison, close reading, or disciplinary history to expose mechanisms while preserving divergent institutions, mixed motives, literary polyphony, and evidence limits.
+In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] join event narrative to buildings, communications, relief, political legitimacy, scientific inquiry, urban planning, and intellectual history. The reform source compares [[ZiChan|子产]] and [[Cleisthenes]] through land, population, law, civic identity, and office design. The captive-rulers source uses British Asian military networks and [[SymbolicAuthorityExile|political exile]] to connect figures with very different powers and responsibilities. The guest-official and interpreter sources compare imported expertise, political trust, sovereignty, and mediated language. The [[Middlemarch]] source adds a book-discussion mode. Episodes 37 through 31 range across diplomacy, command, regency, chivalric traditions, assassination, and claimant politics; episode 28 examines intimate access and gendered historical memory. Episode 27 joins disciplinary history to AI-era education and revisable major choice. Episode 26 reads [[TheFlounder|《比目鱼》]] through place, cooking, gendered power, and progress; episode 25 distinguishes saleable rank from governing office; episode 24 compares the [[LastSupper]] and [[LantingGathering|Lanting Gathering]] through ritual memory and mortality. Episode 23 adds a practical comparison of English, German, and classical-Chinese learning through [[ContextualLanguageLearning|authentic context]], interest-led reading, multiple media, annotation, and tolerance of partial understanding. Across the eighteen episodes, the show uses comparison, close reading, disciplinary history, or reflective practice to expose mechanisms while preserving divergent institutions, mixed motives, literary polyphony, and evidence limits.
 
 ## Key Characteristics
 
@@ -42,7 +43,7 @@ In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] jo
 - Extends historically specific terms cautiously into cross-period mechanisms such as [[GuestOfficialGovernance|guest-official governance]].
 - Treats translation, literary relationships, military reputation, and political violence as products of institutions, resources, and mediation.
 - Separates shared archetypes, tactics, and legitimacy mechanisms from different political systems while reading difficult literature through conflicting voices and material details rather than a single doctrine.
-- Compares religious narrative and literary-artistic memory through shared human questions without treating distinct traditions as equivalents.
+- Compares religious narrative, literary-artistic memory, and language-learning practice through shared questions without treating distinct traditions or learning environments as equivalents.
 
 ## Evidence
 
@@ -64,15 +65,16 @@ In the earthquake source, [[LuDapeng|陆大鹏]] and [[ZhangDabai|张大白]] jo
 - Literary polyphony: [[26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz]] connects Danzig/Gdańsk history, fairy-tale rewriting, pregnancy, recipes, gendered power, and technological desire while refusing a single verdict on Grass or the novel.
 - Fiscal and status comparison: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az]] distinguishes purchasable honor, eligibility, inactive title, and active office while comparing revenue, mobility, competence, and legitimacy across China and Europe.
 - Meal, memory, and mortality comparison: [[24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp]] compares the Last Supper and Lanting through love, betrayal, repentance, impermanence, ritual, art, and later reception while explicitly retaining historical uncertainty.
+- Language-learning comparison: [[23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq]] joins modern and classical languages through authentic materials, situated vocabulary, extensive reading, cultural context, and learner interest while keeping their goals distinct.
 
 ## Qualifications
 
-This profile is bounded to seventeen episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, curriculum, employment, translation, diplomatic, military, regency, literary-ranking, comparative-chivalry, assassination, claimant-identity, relationship, paternity, casualty, price, revenue-share, office-sale, Gospel-historicity, Eucharistic, textual-authenticity, biographical, reception, interpretive, and motive claims require specialist verification.
+This profile is bounded to eighteen episodes. It does not establish the show's full format, release history, creators, or editorial method. Quantitative, priority, attribution, institutional, curriculum, employment, language-learning, translation, diplomatic, military, regency, literary-ranking, comparative-chivalry, assassination, claimant-identity, relationship, paternity, casualty, price, revenue-share, office-sale, Gospel-historicity, Eucharistic, textual-authenticity, biographical, reception, interpretive, and motive claims require specialist verification. Episode 23's title names Zhang Xiangrong while its internal summary names Zhang Dabai; the mismatch remains unresolved.
 
 ## What Changed
 
-- Added culturally consequential meals as a comparison mode joining political context, close reading, ritual, art, and mortality.
-- Clarified that thematic comparison can identify shared questions while preserving theological, institutional, and evidentiary difference.
+- Added a reflective-practice mode comparing modern-language learning with classical-Chinese reading.
+- Recorded the episode's conflicting Zhang Xiangrong / Zhang Dabai attribution rather than merging the entities.
 
 ## Relationships
 
@@ -118,3 +120,5 @@ This profile is bounded to seventeen episodes. It does not establish the show's 
 - [[OfficeSaleLegitimacyDamage]] - institutional risk when payment determines real office or creates extraction pressure.
 - [[LastSupper]] and [[LantingGathering|兰亭雅集]] - paired meals whose distinct afterlives anchor the new comparison.
 - [[MortalityBoundedMeaning]] - shared existential question developed through love, remembrance, art, and finite life.
+- [[ContextualLanguageLearning]] - shared learning mechanism developed through English, German, and classical-Chinese practice.
+- [[ClassicalProseReading]] - classical-language branch emphasizing annotation, cultural context, and sustained reading.

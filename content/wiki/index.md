@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [23 张向荣&陆大鹏：如何学古文，如何学英语](sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq.md) — 怪东西以英语、德语和文言文对照语境化学习、广泛阅读、跨媒介输入、注释本、文化常识与容忍部分不理解的方法。
 - [24 东西方的饭局：最后的晚餐与兰亭雅集](sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp.md) — 怪东西以最后的晚餐与兰亭雅集比较服务、背叛、悔悟、圣餐、无常、诗书艺术与有限生命的意义，同时保留福音史实和《兰亭集序》文本形成的边界。
 - [25 东西方的卖官鬻爵](sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az.md) — 怪东西比较秦汉鬻爵、明清捐纳、法国袍服贵族、哈布斯堡授爵、英国军衔买卖与圣职交易，区分财政、流动、能力和合法性效应。
 - [26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史](sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz.md) — 怪东西以但泽历史、九月怀孕结构、烹饪、童话改写和性别争论解读《比目鱼》，将进步保留为创造与毁灭并存的多义过程。
@@ -17004,6 +17005,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Contextual Language Learning / 语境化语言学习](concepts/ContextualLanguageLearning.md) — 通过有意义的句子、故事、真实媒介、文化情境与跨媒介复现习得词汇、结构、理解和表达的方法。
 - [Last Supper](concepts/LastSupper.md) — 耶稣被捕前的最后一餐传统，将洗脚、饼酒、背叛、否认与彼此相爱连接为服务、记忆和脆弱性的叙事。
 - [Eucharist](concepts/Eucharist.md) — 源于最后晚餐饼酒语言、延续为基督教纪念与共融仪式，同时存在真实临在、象征和精神参与等教义分歧。
 - [兰亭雅集 / Lanting Gathering](concepts/LantingGathering.md) — 353年以曲水流觞、赋诗和《兰亭集序》连接欢聚、无常、艺术转化、后世经典化与文本不确定性的聚会。
@@ -23208,7 +23210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Senryu Aging Humor / 银发川柳式老年幽默](concepts/SenryuAgingHumor.md) — Comic-poetry frame where elders use short jokes to name bodily decline, medical routines, loneliness, family friction, and death without losing dignity.
 - [Elder Technology Exclusion / 老年技术排除](concepts/ElderTechnologyExclusion.md) — Accessibility frame for how smartphones, online services, payment flows, ticketing, and support systems can exclude older people.
 - [Respect For Elders Tradition / 敬老传统](concepts/RespectForEldersTradition.md) — Ethical and historical frame separating elder care, respect for experience, family/state order, and automatic age authority.
-- [Classical Prose Reading / 古文阅读](concepts/ClassicalProseReading.md) — Reading frame that reopens classical prose as scenes, reasoning, emotion, and power judgment rather than exam recitation.
+- [Classical Prose Reading / 古文阅读](concepts/ClassicalProseReading.md) — 以注释本、历史文化语境、整体理解和持续阅读进入古文，而不把它缩减为考试语法或仿古炫技。
 - [Restrained Emotion In Classical Writing / 古典文本中的克制情感](concepts/RestrainedEmotionInClassicalWriting.md) — Aesthetic frame where objects, spaces, silence, and understatement carry deep feeling.
 - [Textbook Excerpt Flattening / 教材删节造成的文本扁平化](concepts/TextbookExcerptFlattening.md) — Risk that school excerpts and deletions shift a work's emotional or intellectual center.
 - [Subjectivity Through Failure / 失败中的主体性](concepts/SubjectivityThroughFailure.md) — Agency frame where failed ideals can still matter when pursued with responsibility and "尽吾志".

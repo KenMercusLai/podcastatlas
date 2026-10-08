@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9968
+wiki_total_pages: 9969
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2246,6 +2246,9 @@ wiki_pages:
   - key: "ContextualExplanationWithoutExoneration"
     title: "Contextual Explanation Without Exoneration"
     url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
+  - key: "ContextualLanguageLearning"
+    title: "Contextual Language Learning / 语境化语言学习"
+    url: "/wiki/concepts/contextuallanguagelearning/"
   - key: "ContextualMonarchicalSuccess"
     title: "Contextual Monarchical Success"
     url: "/wiki/concepts/contextualmonarchicalsuccess/"

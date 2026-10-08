@@ -43564,6 +43564,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/classicalexaminationorthodoxy/"
     },
+    "ClassicalProseReading": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气 [940236576].md",
+          "key": "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576",
+          "show": "蜜獾吃书",
+          "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
+          "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
+        },
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/classicalprosereading/"
+    },
     "ClassicalReceptionAmbivalence": {
       "episode_count": 1,
       "show_count": 1,
@@ -49496,6 +49519,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
+    },
+    "ContextualLanguageLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/contextuallanguagelearning/"
     },
     "ContextualMonarchicalSuccess": {
       "episode_count": 4,
@@ -149075,9 +149114,9 @@
       "url": "/wiki/entities/lucuilatehan/"
     },
     "LuDapeng": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -149113,9 +149152,16 @@
           "show": "怪东西Weird History",
           "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
           "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        },
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/ludapeng/"
     },
     "LuFangEasternHan": {
@@ -210907,9 +210953,9 @@
       "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
     },
     "SelfDirectedLearning": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
@@ -210938,9 +210984,16 @@
           "show": "怪东西Weird History",
           "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
           "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        },
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/selfdirectedlearning/"
     },
     "SelfDirectedStateShifting": {
@@ -249562,9 +249615,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -249684,9 +249737,16 @@
           "show": "怪东西Weird History",
           "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
           "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        },
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/weirdhistorypodcast/"
     },
     "WeismannBarrier": {
@@ -264881,9 +264941,9 @@
       "url": "/wiki/entities/zhangwuhuasportsmedicine/"
     },
     "ZhangXiangrong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -264898,9 +264958,16 @@
           "show": "怪东西Weird History",
           "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
           "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        },
+        {
+          "episode_file": "liO8qP_QOS0ymkS7Qw2SPAuoJwkq [liO8qP_QOS0ymkS7Qw2SPAuoJwkq].md",
+          "key": "23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq",
+          "show": "怪东西Weird History",
+          "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
+          "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zhangxiangrong/"
     },
     "ZhangXianzhong": {
