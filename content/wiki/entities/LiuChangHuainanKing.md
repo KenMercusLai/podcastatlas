@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-294-2-yi-chang-bijian-yinbao-de-jingtian-daan-lpqd6by5nn9k8p28m30yrzxanxql
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
   - zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx
+  - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
 last_updated: 2026-10-09
 ---
 
@@ -26,6 +27,10 @@ The bounded sources show an institutional reversal across generations. [[zizhi-t
 
 The host interprets the preceding leniency as [[IndulgenceAsPoliticalElimination|纵容式政治清除]] designed to make Liu Chang removable. The joined evidence supports repeated indulgence, weak supervision, escalating violations, and a foreseeable fatal risk, but not direct proof that Liu Heng intended the rebellion or death. Liu Heng's commutation, stated plan to recall a reformed brother, grief, punishment of route officials, burial arrangements, and grants to the sons remain compatible with both strategic repair and genuine loss of control.
 
+The earlier family grievance includes a severe pre-rebellion offense. Liu Chang's mother dies after giving birth in confinement, and he later blames [[ShenYiji|审食其]] for failing to obtain Lu Zhi's intervention. He visits Shen Yiji with a concealed hammer, kills him with an attendant's help, surrenders, and receives Liu Heng's pardon. The source treats filial revenge as the public explanation but argues that Shen Yiji was not the principal cause and that the pardon deepened Liu Chang's sense of impunity. [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]]
+
+The host additionally claims that Liu Heng tacitly permitted the homicide to remove a potentially dangerous accession witness and discredit a rival brother. That “one stone, two birds” theory extends the later indulgence thesis backward, but benefit, leniency, and missing judicial review do not establish coordination or prior intent.
+
 ## Key Characteristics
 
 - Liu-family replacement appointed to Huainan after Ying Bu's rebellion.
@@ -33,8 +38,8 @@ The host interprets the preceding leniency as [[IndulgenceAsPoliticalElimination
 - Royal ruler described source-scopedly as rejecting Han law in favor of his own rules.
 - Failed rebel whose autonomous rule, warning, conspiracy, arrest, and commuted sentence are now narrated rather than only retrospectively compressed.
 - Father whose death becomes an anti-court grievance around Liu An and whose sons Liu An and Liu Ci are both presented as later royal conspirators.
-- Dead prince whose treatment becomes public song, reputational pressure on Liu Heng, and the setting for grants to four sons.
-- Prince whose sealed-cart death was explicitly predicted as a risk by Yuan Ang, without proving that Liu Heng intended the result.
+- Dead prince whose sealed-cart death was predicted by Yuan Ang and whose treatment becomes public song, reputational pressure on Liu Heng, and the setting for grants to four sons, without proving intended death.
+- Royal killer pardoned after Shen Yiji's death, an earlier indulgence case whose private-revenge and political explanations remain disputed.
 
 ## Evidence
 
@@ -51,14 +56,17 @@ Death narrative and public afterlife:
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] records popular song framing the death as failed brotherly tolerance and says Liu Heng subsequently grants titles to all four sons.
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] preserves both the program's self-starvation account and Jia Yi's illness-after-commuted-exile defense.
 
+Maternal grievance and Shen Yiji's killing:
+- [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] links Liu Chang's grievance to his mother's confinement and death, then describes the concealed-hammer attack, decapitation, surrender, and pardon.
+
 ## Qualifications
 
-These five popular-history notes still do not form a complete biography. Hanji 217 part 1 supplies the fullest crisis sequence, but its laws, offices, offenses, conspiracy, foreign contacts, transport procedure, speeches, and private motives require textual comparison. Its “宠杀 / 捧杀” thesis infers design from leniency, escalation, foreseeable risk, and political benefit; no direct plan or intent evidence is supplied. Hanji 220's illness defense remains in tension with the starvation account, so medical causation stays unresolved. Hanji 294-2's claim that Liu Chang was enfeoffed under Emperor Wen conflicts with Hanji 187's explicit initial appointment under Liu Bang; the latter remains canonical. The implied family pattern and later rebellions do not establish inherited psychology or make the grants a sufficient cause.
+These six popular-history notes still do not form a complete biography. Hanji 213 part 1 does not establish that Shen Yiji was legally responsible for the mother's death, that Liu Heng authorized the killing, or that Liu Chang's ceremonial access proves exceptional personal intimacy with the emperor. Hanji 217 part 1 supplies the fullest later crisis sequence, but its laws, offices, offenses, conspiracy, foreign contacts, transport procedure, speeches, and private motives require textual comparison. Its “宠杀 / 捧杀” thesis infers design from leniency, escalation, foreseeable risk, and political benefit; no direct plan or intent evidence is supplied. Hanji 220's illness defense remains in tension with the starvation account, so medical causation stays unresolved. Hanji 294-2's claim that Liu Chang was enfeoffed under Emperor Wen conflicts with Hanji 187's explicit initial appointment under Liu Bang; the latter remains canonical. The implied family pattern and later rebellions do not establish inherited psychology or make the grants a sufficient cause.
 
 ## What Changed
 
-- Added the autonomous-rule, warning-letter, conspiracy, arrest, commutation, sealed-cart, and death sequence.
-- Kept deliberate “宠杀” as a source-scoped intent hypothesis while strengthening the evidence for foreseeability and failed supervision.
+- Added the maternal grievance, killing of Shen Yiji, surrender, and pardon as the earliest current evidence of serious indulged violence.
+- Extended the “纵容式政治清除” hypothesis backward while keeping tacit permission and coordinated design unproven.
 
 ## Relationships
 
@@ -74,3 +82,5 @@ These five popular-history notes still do not form a complete biography. Hanji 2
 - [[BoZhaoWesternHan|薄昭]] - imperial uncle used to deliver the warning that precedes Liu Chang's rebellion plan.
 - [[IndulgenceAsPoliticalElimination|纵容式政治清除]] - host's disputed explanation of leniency as a route to justified removal.
 - [[ReputationalRepairSecurityTradeoff|声誉修复与安全风险权衡]] - concept linking the sons' compensation to unresolved grievance and future capacity.
+- [[ShenYiji|审食其]] - displaced revenge target killed by Liu Chang for alleged failure to help his mother.
+- [[LuZhi|吕雉]] - foster mother and ruler whom the episode treats as a more direct decision-maker in the maternal grievance.

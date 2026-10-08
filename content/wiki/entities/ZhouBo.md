@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj
   - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
+  - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
 last_updated: 2026-10-09
 ---
 
@@ -28,6 +29,8 @@ The northern-campaign notes place Zhou Bo in the suppression of [[ChenXiRebellio
 
 Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he reportedly received visiting Hedong officials in armor and with an armed household because he feared being killed. A treason accusation then led to arrest, interrogation, prison humiliation, and a family bribe for procedural advice. The episode says intervention involving [[YuanAngWesternHan|袁盎]], [[BoZhaoWesternHan|薄昭]], and [[BaoJi|薄太后]] helped secure release; its larger interpretation is that Zhou Bo's surviving prestige after the Lü crisis made him a ruler-security problem even outside office.
 
+[[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] now supplies the institutional exit preceding that prosecution. In 177 BCE [[LiuHeng|汉文帝刘恒]] invokes the marquises' return to their fiefs, removes Zhou Bo as chancellor, appoints [[GuanYing|灌婴]], and reportedly folds the abolished grand-commandant function into the chancellorship. The host reads the move as fear of a founder who helped install the emperor; the removal and office change are the bounded evidence, while inner motive remains inferred.
+
 ## Key Characteristics
 
 - Founding officer whose morale role begins in Liu Bang's constrained Hanzhong settlement.
@@ -36,6 +39,7 @@ Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he rep
 - Major participant in the post-Lü restoration of the Liu line.
 - Retired meritorious minister whose defensive behavior becomes material for a treason prosecution.
 - Prisoner whose experience exposes the gap between former military command and custodial power.
+- Accession-making chancellor whose ordered return to his fief marks the transition from indispensable restorer to politically exposed veteran.
 
 ## Evidence
 
@@ -51,15 +55,17 @@ Veteran politics and Chen Ping:
 Late accusation and imprisonment:
 - [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]] supplies the fear, armed reception, accusation, imprisonment, defense channels, and release.
 
+Removal from central office:
+- [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] says Liu Heng removes Zhou Bo as chancellor under the marquis-return policy and appoints Guan Ying while reorganizing military responsibility.
+
 ## Qualifications
 
-The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
+The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
 
 ## What Changed
 
-- Added Zhou Bo's late fear, treason prosecution, prison treatment, defense, and release.
-- Reframed retirement as continuing political exposure rather than a clean exit from power.
-- Migrated the page to the synthesis-first entity schema while preserving prior evidence order.
+- Added the 177 BCE dismissal and fief return that precede Zhou Bo's later prosecution.
+- Distinguished the recorded institutional removal from the host's inferred imperial fear.
 
 ## Relationships
 
@@ -71,3 +77,4 @@ The source set is a sequence of popular-history episode notes, not a complete bi
 - [[JiBu|季布]] - Hedong governor in the episode's explicitly speculative covert-action theory.
 - [[TreasonAccusationTrap|谋反指控陷阱]] - accusation pattern activated by residual prestige and ambiguous conduct.
 - [[PowerExitTrap|权力退场困境]] - related pattern because loss of office does not remove political danger.
+- [[GuanYing|灌婴]] - successor chancellor in the office reorganization reported by Hanji 213 part 1.

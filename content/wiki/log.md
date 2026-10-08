@@ -33066,3 +33066,13 @@ Added source `zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhilu
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）
+
+Added source `zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx`; and resynthesized [[LiuHeng|汉文帝刘恒]], [[ZhouBo|周勃]], [[ShenYiji|审食其]], [[LiuChangHuainanKing|淮南王刘长]], [[LiuZhangChengyangKingWesternHan|城阳王刘章]], [[IndulgenceAsPoliticalElimination|纵容式政治清除]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Zhou Bo's dismissal, Liu Zhang's unexplained early death, and Liu Chang's pardoned killing of Shen Yiji place founding merit, royal prestige, and selective enforcement inside Liu Heng's consolidation problem; comparison of 《史记》 and 《资治通鉴》 shifts responsibility for Liu Chang's mother's death back toward Liu Bang's knowledge, while the tacit-permission, accession-witness, and “one stone, two birds” theories remain unproven. No settled contradiction was adopted. Offices, dates, command transfer, homicide procedure, ceremonial access, exact speeches, weapon, responsibility, death causation, and private motives remain episode-attributed or require direct textual comparison. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,139 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

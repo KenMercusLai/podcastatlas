@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx.md) — 文帝罢周勃、刘章早逝与刘长锤杀审食其共同呈现新君巩固中的功臣和宗室压力；默许杀人与“一石二鸟”仍属节目推断。
 - [《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策](sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp.md) — 文帝以遣列侯、日食求谏和节用减役应对早期统治压力；贾山则指出君威本身会压抑直言，并要求把贤良方正用于朝议而非游猎。
 - [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm.md) — 标题虽指向贾谊与重农，正文实际讲袁盎劝文帝避险、以慎夫人座次维护嫡妾礼序，并以戚夫人结局警示宠爱越礼的政治风险。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（2）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq.md) — 标题虽指向赵佗《报文帝书》，正文实际讲贾谊经吴公举荐入朝、快速升迁及改正朔服色礼乐等主张，并以文帝初年的功臣诸侯格局质疑全面改制时机。

@@ -120532,9 +120532,9 @@
       "url": "/wiki/concepts/individualizedriskresponsibility/"
     },
     "IndulgenceAsPoliticalElimination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1） [lglv6Qnnmxlvr9Qnles6ZEOytmJx].md",
@@ -120542,6 +120542,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-09",
@@ -144372,9 +144379,9 @@
       "url": "/wiki/entities/liuchangduxianghoueasternhan/"
     },
     "LiuChangHuainanKing": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征 [lvjAfoTLnvMYQMWaEAv3noVZ1dOX].md",
@@ -144410,6 +144417,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-1-lglv6qnnmxlvr9qnles6zeoytmjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-09",
@@ -145142,9 +145156,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -145285,6 +145299,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》211｜文帝刘恒请谏，贾山献治乱策",
           "url": "/wiki/sources/zizhi-tongjian-hanji-211-wendi-liuheng-qingjian-jiashan-xian-zhiluan-ce-loc6cjf-qgkz5jgjckeur4h3wo7qp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-09",
@@ -148289,9 +148310,9 @@
       "url": "/wiki/entities/liuzhang/"
     },
     "LiuZhangChengyangKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -148299,6 +148320,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-09",
@@ -216552,9 +216580,9 @@
       "url": "/wiki/entities/shenwansan/"
     },
     "ShenYiji": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -216576,6 +216604,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-05",
@@ -234773,6 +234808,36 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/textualjudgmentevidencematching/"
+    },
+    "TextualOmissionAttributionShift": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1） [ltkz7bwQgkcQEssdfbN9Unf5E05l].md",
+          "key": "zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是 [ljUOmE_XEA6SJv4HHZmRr0b0-1Hg].md",
+          "key": "zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/textualomissionattributionshift/"
     },
     "TextualSurvivalThroughRecopying": {
       "episode_count": 2,
@@ -271937,9 +272002,9 @@
       "url": "/wiki/entities/zhongliyieasternhan/"
     },
     "ZhouBo": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -272003,6 +272068,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1） [loI3nR4qFrtsSqayN-8Qb7yJx1XX].md",
+          "key": "zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
         }
       ],
       "updated": "2026-10-09",

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, chengyang, prince, anti-lu]
 sources:
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip
+  - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
 last_updated: 2026-10-09
 ---
 
@@ -18,6 +19,8 @@ last_updated: 2026-10-09
 
 Within the episode, Liu Zhang matters both as an anti-Lü contributor and as lost support for Liu Xingju. His death helps explain the latter's sense of exposure, but the host's suggestion that Liu Heng's pressure contributed to the death is not independently supported.
 
+The additional age evidence says Liu Zhang dies at twenty-three, two years after Liu Xiang, while the transmitted narrative does not explain the cause. The host places the early death inside Liu Heng's consolidation field, but absence of detail is not affirmative evidence of coercion or killing. [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]]
+
 ## Key Characteristics
 
 - Capital participant in the violent removal of the Lü faction.
@@ -25,6 +28,7 @@ Within the episode, Liu Zhang matters both as an anti-Lü contributor and as los
 - Recipient of Chengyang in the post-crisis territorial settlement.
 - Political support whose death leaves Liu Xingju more isolated.
 - Subject of an unproven pressure-related death interpretation in the episode.
+- Prince whose reported death at twenty-three remains causally unexplained.
 
 ## Evidence
 
@@ -34,14 +38,17 @@ Capital action and settlement:
 Connection to the rebellion:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] makes Liu Zhang's death one part of Liu Xingju's later isolation and fear.
 
+Early death and evidence boundary:
+- [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]] gives the reported age and sequence after Liu Xiang while explicitly acknowledging that the cause is not recorded in detail.
+
 ## Qualifications
 
-This profile relies on one structured podcast summary. Exact anti-Lü actions, promised and final grants, chronology, kinship details, and the cause of death require comparison with transmitted histories. No evidence in the source establishes that Liu Heng ordered or intentionally caused Liu Zhang's death.
+This profile relies on two structured podcast summaries from the same program. Exact anti-Lü actions, promised and final grants, chronology, kinship details, age, and cause of death require comparison with transmitted histories. Neither missing detail nor political benefit establishes that Liu Heng ordered, pressured, or intentionally caused Liu Zhang's death.
 
 ## What Changed
 
-- Created a semantically suffixed page to avoid collision with [[LiuZhang|刘璋]] of Yi province.
-- Kept the pressure-related death theory source-scoped rather than adopting it as biography.
+- Added the reported age and succession of family deaths while preserving the unknown-cause boundary.
+- Rejected the move from unexplained death to political causation without positive evidence.
 
 ## Relationships
 
