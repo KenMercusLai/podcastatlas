@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜「希尔顿们」入驻县域市场，国际中端连锁酒店为何加速扩张？](sources/kafeidou-xierdunmen-ruzhu-xianyu-shichang-guoji-zhongduan-liansuo-jiudian-weihe-jiasu-kuozhang-1022026144.md) — 声动早咖啡 episode on select-service hotels, franchise-led county expansion, reverse tourism, aging-property conversion, seasonality, and domestic-chain competition.
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd.md) — 陈平让周勃居相位之首以承认诛吕之功并降低自身暴露，袁盎促文帝重立君臣礼数，文帝同时废除亲属连坐并确立刘启的太子次序。
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i.md) — 标题虽指向陈平，正文实际讲窦皇后姐弟相认、师友式外戚预防及文帝初政的赈恤与贡物节制；代王后四子疑云保留为节目推测。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso.md) — 赵佗以吕后时期的禁贸、扣使与毁墓杀亲传闻解释决裂，接受文帝恢复关系后去除对外帝号、重申臣属进贡，同时以土地甲士和高祖旧约维护南越实力与自治边界。
@@ -4217,6 +4218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Hilton Garden Inn / 希尔顿花园](entities/HiltonGardenInn.md) — Hilton upper-midscale select-service brand used to expand through franchising and existing-property conversion in China.
 - [慎夫人 / Shen Furen (Western Han)](entities/ShenFurenWesternHan.md) — 文帝宠妃；当前来源以避让皇后座次、接受袁盎劝谏和克制物质展示解释其宫廷自保。
 - [吴公 / Wu Gong (Henan commandery governor)](entities/WuGongHenanWesternHan.md) — 河南郡守与廷尉，节目称其赏识并举荐青年贾谊，为地方才名进入文帝朝廷提供关键通道。
 - [《论积贮疏》 / Memorial on Accumulation and Storage](entities/LunJiZhuShu.md) — 贾谊把衣食、农业生产与粮食储备连接到救荒、军需和政权韧性的西汉奏疏。
@@ -17114,6 +17116,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Select-Service Hotel Model / 精选服务酒店模式](concepts/SelectServiceHotelModel.md) — Hotel format that retains high-frequency guest functions while reducing full-service facility and staffing burdens.
+- [County Hotel Chain Expansion / 县域连锁酒店扩张](concepts/CountyHotelChainExpansion.md) — Lower-tier hotel growth driven by redirected tourism demand, renovation-ready stock, and franchise systems, constrained by seasonality and competition.
 - [主动让位式风险转移 / Strategic Position Yielding](concepts/StrategicPositionYielding.md) — 通过让出正式位次承认他人功劳，同时保留参与能力并降低自身在权力过渡中的可见风险。
 - [Relational Context Collapse / 关系语境坍缩](concepts/RelationalContextCollapse.md) — 公共互联网交流丢失具体关系中的身份、共同历史、角色与受众别共识。
 - [Public Persona Flattening / 公共人格压平](concepts/PublicPersonaFlattening.md) — 一个人面向异质公众时被要求维持单一、稳定且可标签化的公开人格。

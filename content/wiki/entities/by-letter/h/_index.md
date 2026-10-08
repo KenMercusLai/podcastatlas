@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12841
+wiki_total_pages: 12842
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "HillhouseCapital"
     title: "Hillhouse Capital / 高瓴资本"
     url: "/wiki/entities/hillhousecapital/"
+  - key: "HiltonGardenInn"
+    title: "Hilton Garden Inn / 希尔顿花园"
+    url: "/wiki/entities/hiltongardeninn/"
   - key: "HiltonWorldwide"
     title: "Hilton Worldwide"
     url: "/wiki/entities/hiltonworldwide/"
