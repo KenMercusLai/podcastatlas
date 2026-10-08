@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？](sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei.md) — 梁怀王刘揖死后，贾谊主张保留并强化梁、淮阳作为牵制强藩的地理缓冲；节目又把刘揖之死、太傅自责与理想破灭作为贾谊早逝的直接解释。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt.md) — 贾谊把储君教育视为国家风险预防，以环境和习惯解释人格形成，并区分礼教的事前塑造与法令的事后处置，同时保留法令的可预期与公正价值。
 - [《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（2）](sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw.md) — 贾谊以“可杀不可辱”维护高官所代表的政治体面，又暴露逼迫自杀与压制申辩的风险，并以分封诸子削弱强大封国。
 - [《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（1）](sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8.md) — 权贵滥捕滥征禁令与刘长死后民谣共同暴露文帝仁政形象的制度和声誉压力；封赏刘长诸子既可修复关系，也被贾谊视为叙事与安全风险。
@@ -4185,6 +4186,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [梁怀王刘揖 / Liu Yi, King Huai of Liang (Western Han)](entities/LiuYiLiangKingWesternHan.md) — 坠马早逝且无子的西汉梁王，其死亡同时触发封国重置与太傅贾谊的长期自责。
+- [梁国 / Liang Kingdom (Western Han)](entities/LiangKingdomWesternHan.md) — 贾谊主张保留并强化、用以牵制齐赵等东方强藩的西汉宗室封国。
 - [《治安策》 / Zhian Ce](entities/ZhianCe.md) — 贾谊以储君养成、礼教预防、高官体面和分封诸子回应政权长期风险的政治奏章。
 - [淳于缇萦 / Chunyu Tiying](entities/ChunyuTiying.md) — 以身体不可复原、受刑者无从改过为父请命，并在节目叙事中触发文帝刑制改革的西汉少女。
 - [淳于意 / Chunyu Yi](entities/ChunyuYi.md) — 被押赴长安受肉刑、因女儿缇萦上书而获赦，并成为一般刑制改革触发个案的齐国故吏。
@@ -17052,6 +17055,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer](concepts/StrategicRoyalKingdomBuffer.md) — 以较可信宗室封国的地理和军事实力牵制更强诸侯，同时保留缓冲者自身坐大的长期风险。
 - [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为由废除黥劓刖等刑，同时检验替代刑是否仍造成同等永久伤害。
 - [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
 - [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。

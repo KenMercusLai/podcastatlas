@@ -20,6 +20,7 @@ sources:
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8
   - zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj
+  - zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei
 last_updated: 2026-10-09
 ---
 
@@ -63,6 +64,8 @@ An earlier kinship crisis adds a different limit to the benevolent and receptive
 
 The case of Liu Heng's maternal uncle [[BoZhaoWesternHan|薄昭]] supplies a completed law-and-kinship test. After Bo Zhao reportedly kills an imperial envoy, Liu Heng avoids direct execution but compels suicide through escalating social and ritual pressure, then personally mourns him and preserves family succession. [[SimaGuang|司马光]] treats the refusal to exempt close kin as necessary to public law, while [[LiDeyu|李德裕]] emphasizes the cost imposed on the living [[BaoJi|薄太后]]. [[CaoPi|曹丕]] moves the judgment upstream: granting an imperial uncle military authority created the avoidable accountability trap. The case therefore strengthens Liu Heng's equal-law profile while qualifying the method and exposing a preventive appointment failure. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]]
 
+The Liang succession adds a case in which Liu Heng does convert Jia Yi's strategic advice into action. After [[LiuYiLiangKingWesternHan|梁怀王刘揖]] dies childless, Jia Yi warns that abolishing [[LiangKingdomWesternHan|Liang]] would weaken the court's position against stronger eastern princes. Liu Heng reportedly moves [[LiuWuLiangKingWesternHan|刘武]] from Huaiyang to Liang while retaining Dai's northern placement because of Xiongnu pressure. This qualifies the earlier “valued but delayed” picture: Liu Heng does not promptly adopt every structural recommendation, but he can implement a selective royal-buffer arrangement when succession opens a concrete decision point. [[zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei|Hanji 221]]
+
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
@@ -71,7 +74,7 @@ The case of Liu Heng's maternal uncle [[BoZhaoWesternHan|薄昭]] supplies a com
 - Agrarian and light-burden ruler who reportedly accepts a staged grain-reserve plan linking frontier supply and local stores to eventual farm-tax relief.
 - Receptive and lenient ruler who can turn some remonstrance or individual petitions into policy, but can also value advice without timely implementation or reject a warning about reputation-driven royal grants; selective patronage, omen capture, and severe substitutes further qualify the profile.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
-- Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and ultimately subjects a maternal uncle to capital accountability, though only after kin appointment creates the dilemma.
+- Crisis ruler who solicits relief proposals, respects delegated military procedure, subjects a maternal uncle to capital accountability, and can reposition a trusted royal kingdom as a geographic buffer when succession opens a concrete decision point.
 
 ## Evidence
 
@@ -127,15 +130,18 @@ Kin-neutral punishment and preventive failure:
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] says Liu Heng compels Bo Zhao's suicide after the imperial uncle kills an envoy, then mourns him and preserves succession for Bo Zhao's son.
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj|Hanji 220 part 2]] attributes to Sima Guang a defense of law applied across kinship and to Cao Pi the upstream criticism that imperial uncles should receive support without public authority.
 
+Selective royal-buffer implementation:
+- [[zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei|Hanji 221]] says Liu Heng accepts Jia Yi's warning after Liu Yi's death, moves Liu Wu to Liang, and retains Dai's ruler because the Xiongnu frontier still requires that placement.
+
 ## Qualifications
 
-This is a bounded profile assembled from sixteen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220 part 1's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Part 2's detailed killing motive, suicide-pressure sequence, mourning performance, posthumous arrangement, and attributed judgments likewise remain episode- or annotation-scoped; equal-law value does not settle whether the coercive method was ritually or procedurally sound. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, Bo Zhao's prior empowerment, and severe penal substitutes.
+This is a bounded profile assembled from seventeen popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy, and the Chen Ping sources make Liu Heng the endpoint of a restoration story without reconstructing his accession in full. Hanji 219's memorial wording, partition proposal, imperial response, and Seven States counterfactual remain source-scoped. Hanji 220 part 1's decree wording, enforcement, popular-song reach, illness claim, grant motive, and revenge forecast require textual comparison; later rebellion does not prove that the grants alone caused it. Part 2's detailed killing motive, suicide-pressure sequence, mourning performance, posthumous arrangement, and attributed judgments likewise remain episode- or annotation-scoped; equal-law value does not settle whether the coercive method was ritually or procedurally sound. Hanji 221's succession rule, territorial transfers, policy motive, Dai exception, and Seven States validation likewise require comparison with transmitted histories and geography. Hanji 223's grain mechanism and outcomes, Hanji 224's petition and replacement penalties, Hanji 225's frontier and omen sequences, Hanji 226's exposure and punishment, Hanji 227's crisis and appointment claims, the two Hanji 228 patronage and military cases, and Hanji 229's death instructions require comparison with transmitted, legal, archaeological, or quantitative evidence as appropriate. Rank exchange is not demonstrated sale of governing office; abolition of named mutilations is not the end of bodily coercion; solicitation is not proof of relief outcomes; and the restraint portrait remains qualified by Deng Tong, Xinyuan Ping, Bo Zhao's prior empowerment, and severe penal substitutes.
 
 ## What Changed
 
-- Added Bo Zhao's compelled suicide as evidence that close kin did not receive full exemption from a capital offense.
-- Qualified that legal signal with the indirect coercive method, the dowager's family cost, and Liu Heng's posthumous accommodation.
-- Moved the institutional judgment upstream by identifying Bo Zhao's earlier military empowerment as a preventable appointment failure.
+- Added Liu Heng's adoption of the Liang-Huaiyang strategic direction after Liu Yi's death.
+- Distinguished selective royal-buffer implementation from the broader kingdom-fragmentation proposal he had delayed.
+- Preserved the Dai exception as evidence that frontier geography constrained royal reassignment.
 
 ## Relationships
 
@@ -180,3 +186,6 @@ This is a bounded profile assembled from sixteen popular-history podcast notes, 
 - [[LawEnforcementAgainstElitePrivilege|执法碰撞权贵特权]] - concept extended by Liu Heng's attempt to restrict private coercion by elite households and officials.
 - [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] - preventive frame showing why granting Bo Zhao authority made later accountability costly.
 - [[ReputationalRepairSecurityTradeoff|声誉修复与安全风险权衡]] - captures Jia Yi's warning that conciliatory grants can repair reputation while increasing an aggrieved heir's capacity.
+- [[LiuYiLiangKingWesternHan|梁怀王刘揖]] - son whose childless death creates the Liang succession decision.
+- [[LiangKingdomWesternHan|西汉梁国]] - kingdom Liu Heng preserves through reassignment rather than abolition.
+- [[StrategicRoyalKingdomBuffer|宗室封国战略缓冲]] - policy logic behind the Liang-Huaiyang arrangement.

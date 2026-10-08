@@ -32874,3 +32874,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？
+
+Added source `zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei`; created [[LiuYiLiangKingWesternHan|梁怀王刘揖]], [[LiangKingdomWesternHan|西汉梁国]], and [[StrategicRoyalKingdomBuffer|宗室封国战略缓冲]]; and resynthesized [[JiaYi|贾谊]] and [[LiuHeng|汉文帝刘恒]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jia Yi's response to princely risk includes a spatial design in which selected royal kingdoms remain strong enough to buffer more dangerous eastern princes, while Liu Yi's accidental death links the policy problem to Jia Yi's self-blame, failed tutorship, and prolonged grief. No settled contradiction was adopted; territorial details, implementation, retrospective Seven States validation, psychological diagnosis, and death causation remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,115 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

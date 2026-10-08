@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9996
+wiki_total_pages: 9997
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2633,6 +2633,9 @@ wiki_pages:
   - key: "SongSuccessionLegitimacyCrisis"
     title: "宋初继承合法性危机 / Song Succession Legitimacy Crisis"
     url: "/wiki/concepts/songsuccessionlegitimacycrisis/"
+  - key: "StrategicRoyalKingdomBuffer"
+    title: "宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer"
+    url: "/wiki/concepts/strategicroyalkingdombuffer/"
   - key: "StateCommercialMonopolyExtraction"
     title: "官营商业垄断式汲取 / State Commercial Monopoly Extraction"
     url: "/wiki/concepts/statecommercialmonopolyextraction/"

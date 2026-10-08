@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12811
+wiki_total_pages: 12813
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2204,6 +2204,9 @@ wiki_pages:
   - key: "LiangShangLateHan"
     title: "梁商 / Liang Shang (late Han)"
     url: "/wiki/entities/liangshanglatehan/"
+  - key: "LiangKingdomWesternHan"
+    title: "梁国 / Liang Kingdom (Western Han)"
+    url: "/wiki/entities/liangkingdomwesternhan/"
   - key: "LiangState"
     title: "梁国 / Liang State"
     url: "/wiki/entities/liangstate/"
@@ -2219,6 +2222,9 @@ wiki_pages:
   - key: "LiangBingLateHan"
     title: "梁并 / Liang Bing (late Han)"
     url: "/wiki/entities/liangbinglatehan/"
+  - key: "LiuYiLiangKingWesternHan"
+    title: "梁怀王刘揖 / Liu Yi, King Huai of Liang (Western Han)"
+    url: "/wiki/entities/liuyiliangkingwesternhan/"
   - key: "LiangSicheng"
     title: "梁思成"
     url: "/wiki/entities/liangsicheng/"

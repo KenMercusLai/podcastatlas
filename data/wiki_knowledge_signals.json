@@ -127779,9 +127779,9 @@
       "url": "/wiki/entities/jiayanwesternhan/"
     },
     "JiaYi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
@@ -127817,6 +127817,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？ [ll-7Nmh4sxxkc1kVTgRw4xcoVSeI].md",
+          "key": "zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
         }
       ],
       "updated": "2026-10-09",
@@ -141270,6 +141277,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liangjinlatehan/"
     },
+    "LiangKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？ [ll-7Nmh4sxxkc1kVTgRw4xcoVSeI].md",
+          "key": "zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liangkingdomwesternhan/"
+    },
     "LiangQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -144331,9 +144354,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144446,6 +144469,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》220｜民间歌谣讽刺文帝“假仁义”，刘恒反应古怪（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-2-lplkv_tu9yxh-ys565ebs4unt7nj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？ [ll-7Nmh4sxxkc1kVTgRw4xcoVSeI].md",
+          "key": "zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
         }
       ],
       "updated": "2026-10-09",
@@ -146983,6 +147013,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuyibeixianghoulatehan/"
+    },
+    "LiuYiLiangKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？ [ll-7Nmh4sxxkc1kVTgRw4xcoVSeI].md",
+          "key": "zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuyiliangkingwesternhan/"
     },
     "LiuYiPingyuanWangLateHan": {
       "episode_count": 1,
@@ -225859,6 +225905,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/strategicplanprotectionunderreliefpressure/"
+    },
+    "StrategicRoyalKingdomBuffer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？ [ll-7Nmh4sxxkc1kVTgRw4xcoVSeI].md",
+          "key": "zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》221｜千古叹贾生，什么造成了贾谊的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/strategicroyalkingdombuffer/"
     },
     "StrategicVisibilityScrutinyTradeoff": {
       "episode_count": 1,
