@@ -9,12 +9,13 @@ sources:
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
   - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
+  - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], containment of a dangerous legitimacy debate, and a late-reign combination of judicial leniency, agrarian priority, and suspicion toward [[ZhouYafu|周亚夫]].
+汉景帝 / Emperor Jing of Han is a Western Han ruler whose current wiki profile spans centralization, succession-payoff reversals after [[LiuHeng|Emperor Wen]], containment of a dangerous legitimacy debate, and a late-reign contrast between general judicial leniency and personalized severity toward [[ZhouYafu|周亚夫]].
 
 ## Current Profile
 
@@ -26,15 +27,17 @@ Hanji 279 adds Jing's centralization role through the Seven States rebellion. Th
 
 Hanji 244 adds a late-reign governance contrast. Jing instructs officials to escalate doubtful criminal cases, protects lower adjudicators from fault when superiors correct them, demands lenient handling, and follows with a general amnesty. In the same source, [[ZhiBuyiWesternHan|直不疑]] is promoted to 御史大夫 while Zhou Yafu is described as having already lost imperial trust. The episode therefore shows lenient procedural policy coexisting with personalized court suspicion, without establishing that the two arise from one motive.
 
+Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or rebuke Zhou in the host's reading, then orders adjudication after Zhou's son's burial-armor purchase is reported. The resulting case reportedly moves from burial goods to rebellion and answers Zhou's defense with the claim that he could rebel underground. The page treats this as evidence of selective or personalized severity within the episode's account, but not as proof that Jing scripted the charge, torture, or death in advance.
+
 [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] closes the reign with an agrarian order and a retrospective outcome ledger. Jing calls farming the basis of food and clothing, directs local authorities to promote cultivation and sericulture, and threatens severe punishment when officials divert popular labor into gold and jewel extraction. Ban Gu's Wen-Jing retrospective then credits frugality and recovery with household sufficiency and abundant public stores while also recording land concentration, rural strongmen, purchased political access, and elite luxury. This makes Jing a contributor to [[WenJingProsperityTradeoff|文景之治的繁荣代价]], not evidence that aggregate abundance eliminated unequal power.
 
 ## Key Characteristics
 
 - Successor-ruler whose reign reverses earlier Emperor Wen patronage and fulfills source-scoped physiognomy predictions.
-- Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu.
+- Ruler associated with suspicion and punishment around powerful or favored men such as Deng Tong and Zhou Yafu, with motive and procedure kept source-scoped.
 - Court arbiter who handles a dangerous legitimacy debate by closing rather than resolving the doctrine.
 - Centralizing ruler whose suppression of the Seven States and rollback of royal powers prepare the Wudi-era 推恩令.
-- Late-reign ruler associated with upward referral of doubtful cases, protection for corrected adjudicators, lenient judgment, and general amnesty.
+- Late-reign ruler whose general leniency instruction is placed beside a hostile, expansive prosecution of Zhou Yafu.
 - Dying ruler whose final order reasserts agrarian production and official accountability while the Wen-Jing retrospective pairs abundance with concentration.
 
 ## Evidence
@@ -51,17 +54,21 @@ Princely rollback:
 Judicial leniency and late-reign appointments:
 - [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5|Hanji 244]] gives the doubtful-case escalation instruction, correction-without-fault rule, leniency demand, amnesty, and promotion of Zhi Buyi after Liu She's removal and Wei Wan's elevation.
 
+Personalized court test and prosecution:
+- [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a|Hanji 244 part 2]] gives the utensil-withholding banquet, Jing's order to try the burial-goods case, the prosecution's rebellion theory, and Zhou's prison death; premeditated killing remains the host's inference.
+
 Agrarian closing policy and Wen-Jing outcome:
 - [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] gives the final farming and sericulture order, punishment for labor diversion into precious-material extraction, Liu Che's accession, and Ban Gu's paired abundance-and-concentration assessment.
 
 ## Qualifications
 
-This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, drinking-policy details, appointments, “psychological blacklist,” and chopstick-banquet causality are likewise episode-attributed; its transcript stops before the banquet is narrated. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped, while its prosperity statistics do not by themselves establish distribution.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are episode-attributed. General leniency and Zhou's case establish a tension in the supplied account, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
 
 ## What Changed
 
+- Completed the Zhou Yafu branch and sharpened the contrast between general leniency policy and personalized severity without asserting premeditated killing.
+- Added banquet ritual, ambiguous burial goods, and expansive prosecution as distinct stages rather than one undifferentiated personality story.
 - Added Jingdi's final agrarian order and the bounded Wen-Jing outcome of public abundance alongside land concentration and local strongman power.
-- Added late-reign doubtful-case escalation, leniency, amnesty, and Zhi Buyi's promotion alongside the bounded Zhou Yafu conflict setup.
 - Added the defeat of the Seven States and princely-power rollback as the coercive precondition for the 推恩令.
 - Connected Jing's direct削藩 to both immediate rebellion risk and later lower-conflict centralization.
 
@@ -69,7 +76,7 @@ This remains a bounded wiki profile, not a full biography of Han Jingdi. The Xu 
 
 - [[LiuHeng|刘恒 / Emperor Wen of Han]] - predecessor and father whose Deng Tong patronage is reversed under Han Jingdi.
 - [[DengTong|邓通]] - court favorite whose wealth collapses after Emperor Wen's death.
-- [[ZhouYafu|周亚夫]] - powerful minister-general whose final suspicion and imprisonment occur in this source's Han Jingdi branch.
+- [[ZhouYafu|周亚夫]] - powerful minister-general subjected to a banquet test and later prosecuted after trust has deteriorated.
 - [[ZhiBuyiWesternHan|直不疑]] - low-profile official promoted to 御史大夫 in Jingdi's late reign.
 - [[XuFuPhysiognomist|许负]] - prediction figure whose story extends into Jing's reign.
 - [[YuanGusheng|袁固生]] - Confucian disputant whose Liu Bang question makes the court debate dangerous.

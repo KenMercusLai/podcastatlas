@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2597
+topic_total_pages: 2596
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1234,9 +1234,6 @@ topic_concepts:
   - key: "RitualizedCommandAppointment"
     title: "Ritualized Command Appointment / 仪式化拜将留才"
     url: "/wiki/concepts/ritualizedcommandappointment/"
-  - key: "RitualizedMinisterHumiliation"
-    title: "Ritualized Minister Humiliation / 礼节化臣属羞辱"
-    url: "/wiki/concepts/ritualizedministerhumiliation/"
   - key: "RiverCrossingDeception"
     title: "River Crossing Deception / 渡河欺敌"
     url: "/wiki/concepts/rivercrossingdeception/"

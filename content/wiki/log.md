@@ -32173,3 +32173,11 @@ Added source `guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）
+
+Added source `zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a`; resynthesized [[ZhouYafu|周亚夫]], [[HanJingdi|汉景帝]], [[RigidIdealismPoliticalRisk|刚直理想主义的政治风险]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the completed chain runs from an ambiguous banquet hierarchy test through family misconduct and reported burial armor to an expansive rebellion accusation and prison self-starvation. No settled contradiction was adopted. Jingdi's general leniency policy and Zhou's hostile prosecution remain a qualified policy-versus-personalized-enforcement tension; imperial premeditation, exact armor law, torture and dialogue, personality-only causation, and physiognomic fulfillment remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,026 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

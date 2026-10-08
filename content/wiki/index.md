@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a.md) — 无箸赐肉、随葬甲盾、工人检举与“地下谋反”式审讯补完周亚夫死亡链；节目的人格归因、景帝预谋、法律细节与相面应验均保留来源边界。
 - [《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）](sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5.md) — 景帝宽刑与疑案上报构成制度背景，直不疑以赔付误拿和不辩不存在的嫂嫂诬告展示回应克制；不辩的适用边界、黄老动机、地震数据与周亚夫筷子故事均保留来源边界。
 - [《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝](sources/zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k.md) — 景帝临终重申农业与民力边界，刘彻即位使王娡母族进入新朝；班固的文景回顾又把仓廪府库充盈与土地兼并、豪强及奢侈并置，具体年代、数字和人物心理保留来源边界。
 - [《资治通鉴·汉纪》247｜董仲舒：汉武帝，我教你如何养儿子](sources/zizhi-tongjian-hanji-247-dongzhongshu-hanwudi-wo-jiao-ni-ruhe-yang-erzi-lp_re0k2i0x9r0xe9mgd4enbdu77.md) — 董仲舒把君主正心、礼乐教化、太学育才、反复策问与地方官德行连成教育先于刑罚的治理链；标题所称“养儿子”及最后的柔性进谏答案因转录中断保留来源边界。
@@ -9545,8 +9546,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
-- [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
-- [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、宽刑与临终重农并置，其治下积累构成文景繁荣及内部集中问题的承接点。
+- [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 西汉将相，其军功、刚直判断、失去帝王信任、随葬甲盾案与狱中绝食构成不能简化为性格宿命的政治结局。
+- [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、普遍宽刑、对周亚夫的个案严厉与临终重农并置，承接文景繁荣及内部集中问题。
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
 - [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
@@ -21252,7 +21253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Warring States War Brutalization / 战国战争残酷化](concepts/WarringStatesWarBrutalization.md) — Late-Warring-States warfare pattern where conquest expands into tomb destruction, city flooding, starvation, prisoner killing, and administrative absorption.
 - [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a regime makes merit, public credit, follower loyalty, reward rank, or internal leverage politically threatening after victory.
 - [Political Credit Appropriation / 善行君恩化](concepts/PoliticalCreditAppropriation.md) — Court tactic that absorbs a subordinate's visible virtue into ruler authority by reframing it as royal instruction or benevolence.
-- [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — Status-pressure pattern where ruler-minister ritual, dress, posture, and repetition become humiliation without a formal charge.
+- [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — 宫廷以服饰、姿态、饮食器具及含混礼仪迫使臣属表态，使无正式罪名的场景也能成为等级与服从测试。
 - [Loyal Minister Exit Ethic / 忠臣去国的退场伦理](concepts/LoyalMinisterExitEthic.md) — Le Yi's model of leaving a dangerous old court without slandering the old patron or turning new patronage into revenge.
 - [Fire-Ox Night Raid / 火牛阵夜袭](concepts/FireOxNightRaid.md) — Tian Dan's Jimo tactic combining cattle, fire, blades, night attack, false surrender, and prior psychological setup to break Yan.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.
@@ -26787,7 +26788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods](concepts/FemaleMarriageAgencyHistoricalVariation.md) — Historically variable remarriage, divorce, and intimate choice shaped by period norms, status, resources, and unequal exit costs.
 - [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — 宠幸与亲密接触可转化为赏赐、官位、信息和可见性，也会受换宠、强势宫廷角色、劝谏与礼制空间边界限制。
 
-- [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
+- [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — 刚直与独立不等于有效行动；权力不对称、角色转换、敌意解释与他人承担的代价共同决定政治风险。
 
 - [组织公平感与退出判断 / Organizational Fairness and Exit Judgment](concepts/OrganizationalFairnessExitJudgment.md) — 区分职场委屈、组织评价逻辑、剩余发展空间与体面退出方式的判断框架。
 - [Revolutionary Political Religion](concepts/RevolutionaryPoliticalReligion.md) — Sacred grounding of revolutionary rights and virtue through belief, ritual, calendar, civic spectacle, and internalized moral observation.

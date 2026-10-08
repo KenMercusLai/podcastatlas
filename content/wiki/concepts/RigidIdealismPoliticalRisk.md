@@ -6,7 +6,8 @@ tags: [politics, idealism, remonstrance, risk, discretion, western-han]
 sources:
   - zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva
   - zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -15,11 +16,11 @@ last_updated: 2026-10-05
 
 ## Current Synthesis
 
-The power-asymmetry branch is clearest through [[WangZhangWesternHan|王章]]. His refusal to become [[WangFengWesternHan|王凤]]'s dependent, earlier conflict with [[ShiXianWesternHan|石显]], and attempt to bypass a controlled memorial route establish real integrity. Yet effectiveness depends on conditions beyond courage: Wang Feng controls appointments and document flow, [[HanChengdi|汉成帝]] is politically weak, and [[WangZhangWifeWesternHan|王章之妻]] recognizes that the household will bear the cost of a low-probability confrontation.
+The power-asymmetry branch is clearest through [[WangZhangWesternHan|王章]] and [[ZhouYafu|周亚夫]]. Wang Zhang's refusal to become [[WangFengWesternHan|王凤]]'s dependent and attempt to bypass a controlled memorial route establish real integrity, but Wang Feng controls appointments and documents while [[HanChengdi|汉成帝]] is weak. Zhou's branch adds role transfer: battlefield directness and principled opposition may coexist with poor adaptation to court ritual, accumulated ruler resentment, and prosecutorial vulnerability.
 
 The discretion branch is clearest through [[ZhaoYuWesternHan|赵禹]]. Refusing hospitality and requests can protect impartiality, but strict textual legality, harshness toward self and others, and unwillingness to hear alternatives can make clean principle unfit for complex responsibility. The gendered-honor branch widens the cost test: consistency is especially suspect when institutions convert bodily suffering or death into proof of virtue.
 
-The synthesis is not that compromise is always wiser, that direct remonstrance is futile, or that relationship distance is wrong. Moral purpose and independence remain valuable, but neither removes the need to judge leverage, timing, institutional access, principal reliability, context, proportion, and who actually bears the cost.
+The synthesis is not that compromise is always wiser, direct remonstrance is futile, or every political death is self-caused. Moral purpose and independence remain valuable, but neither removes the need to judge leverage, timing, role, institutional access, principal reliability, context, proportion, and who bears the cost. Zhou's prosecution especially warns against converting a hostile ruler, family misconduct, ambiguous objects, and expansive legal interpretation into a simple morality tale about stubbornness.
 
 ## Key Claims
 
@@ -29,6 +30,7 @@ The synthesis is not that compromise is always wiser, that direct remonstrance i
 - Strict independence can reduce favoritism while still producing bad judgment if context, listening, and proportion disappear.
 - Household members and socially subordinate groups may bear costs that the praised actor or institution discounts.
 - Strategic flexibility and discretion can preserve moral agency without requiring moral surrender.
+- A trait rewarded in military command may become hazardous in court, but role mismatch does not erase coercion or prove that the victim caused the prosecution.
 
 ## Evidence
 
@@ -44,13 +46,17 @@ Impartiality without discretion:
 Suffering as moral proof:
 - [[zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq|Hanji 347-1]] closes by criticizing chastity honor that converts widowhood, injury, disfigurement, or death into exemplary virtue.
 
+Battlefield-to-court role mismatch:
+- [[zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a|Hanji 244 part 2]] presents Zhou's directness across succession, military, enfeoffment, banquet, and investigation scenes as politically costly, while the same source also supplies external mechanisms of danger: damaged trust, a worker's report, ambiguous burial goods, and a hostile rebellion theory.
+
 ## Counterevidence & Qualifications
 
-The concept rests on moralized podcast accounts and should not become a rule that frank speech, impartiality, self-sacrifice, or principled refusal is irrational. Wang Zhang's sealed memorial shows strategic adaptation, and Hanji 518 does not prove a safer route could have corrected Wang Feng's power. Zhao Yu's relationship distance can be an anti-corruption safeguard; Hanji 347-1 supplies no case-by-case demonstration that a particular legal decision was wrong. The chastity branch is only an introduction and does not establish prevalence, enforcement mechanism, or individual agency.
+The concept rests on moralized podcast accounts and should not become a rule that frank speech, impartiality, self-sacrifice, or principled refusal is irrational. Wang Zhang's sealed memorial shows strategic adaptation, and Hanji 518 does not prove a safer route could have corrected Wang Feng's power. Zhao Yu's relationship distance can be an anti-corruption safeguard; Hanji 347-1 supplies no case-by-case demonstration that a particular legal decision was wrong. Hanji 244 part 2 cannot isolate Zhou's personality from Jingdi's choices, court alliances, family misconduct, evidentiary ambiguity, or judicial coercion. The chastity branch is only an introduction and does not establish prevalence, enforcement mechanism, or individual agency.
 
 ## What Changed
 
-- Added discretion, listening, and proportion to the effectiveness test.
+- Added role transfer between battlefield and court while rejecting personality-only causation.
+- Added hostile institutional interpretation as a constraint that strategic flexibility may not overcome.
 - Added Zhao Yu as a case where independence has both anti-favoritism value and rigidity risk.
 - Extended transferred-cost analysis from political households to gendered honor systems without treating the brief chastity introduction as a complete history.
 
@@ -62,3 +68,4 @@ The concept rests on moralized podcast accounts and should not become a rule tha
 - [[CourtFeedbackCollapse]] - institutional failure that makes truthful correction dangerous or inaccessible.
 - [[StatusConditionedRiskTaking]] - related test of how office, backing, and audience change an action's risk.
 - [[GenderedChastityHonorCoercion]] - extends the cost test to honor systems that praise women's suffering as fidelity.
+- [[RitualizedMinisterHumiliation]] - court etiquette can turn visible irritation into evidence of failed submission.

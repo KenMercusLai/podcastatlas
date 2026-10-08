@@ -101188,9 +101188,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101226,6 +101226,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》246｜金屋藏娇的鼻祖，终于当上了皇帝",
           "url": "/wiki/sources/zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2） [lvMhp96-dcHL52UXPym-PRofPB1A].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a/"
         }
       ],
       "updated": "2026-10-08",
@@ -199278,9 +199285,9 @@
       "url": "/wiki/concepts/righteousnessoverprofit/"
     },
     "RigidIdealismPoliticalRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
@@ -199295,9 +199302,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2） [lvMhp96-dcHL52UXPym-PRofPB1A].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/rigididealismpoliticalrisk/"
     },
     "RiliBaqianwanBeltHook": {
@@ -199627,6 +199641,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/ritualizedgriefcontinuation/"
+    },
+    "RitualizedMinisterHumiliation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》81丨历史早期PUA记实录（1） [ljxBN4GZNUOHEGzYEe0-tUDi9z-y].md",
+          "key": "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2） [lvMhp96-dcHL52UXPym-PRofPB1A].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/ritualizedministerhumiliation/"
     },
     "RitualizedSocialBoundary": {
       "episode_count": 2,
@@ -263614,9 +263651,9 @@
       "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYafu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -263638,6 +263675,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-1-lpqwsteakynxl2ms1vypqay1w5r5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2） [lvMhp96-dcHL52UXPym-PRofPB1A].md",
+          "key": "zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》244｜被诬与嫂私通，直不疑为啥不辩解？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-244-beiwu-yu-sao-sitong-zhibuyi-weisha-bubianjie-2-lvmhp96-dchl52uxpym-prof-pb1a/"
         }
       ],
       "updated": "2026-10-08",
