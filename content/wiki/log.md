@@ -32229,3 +32229,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）
+
+Added source `zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5`; resynthesized [[HanJingdi|汉景帝]], [[EmpressDowagerWangWesternHan|王太后（王娡）]], [[ZhiDuWesternHan|郅都]], and [[HarshOfficialInstrumentalRule|酷吏工具化统治]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wang Zhi's elevation as empress and the child Liu Che's installation as crown prince form an episode-attributed maternal-family succession phase; Zhi Du's elite-deterring enforcement is paired with reported refusal of gifts and private requests, while his Shanglin remonstrance treats resistance to an immediate imperial signal as protection of the ruler's institutional role. No settled contradiction was adopted. Dates, ages, names, family agency, marriage sequencing, offices, punishment practice, correspondence conduct, dialogue, reward, frontier deterrence, disaster measurements, and the boar incident remain source-scoped; private cleanliness is not treated as proof of lawful or proportionate coercion. The broad Han Wudi, Dowager Dou, Shanglin Park, royal-daughter, and show pages were kept closed because their bounded additions are represented in the source and focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,033 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

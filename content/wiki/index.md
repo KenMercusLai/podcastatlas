@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5.md) — 王娡立后与幼年刘彻立储被放入母系家族经营中解释；郅都则以威慑权贵、拒绝私请和阻止景帝为宠妃冒险，区分酷吏的强制效用、个人克制与角色忠诚，具体年代、动机和轶事保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs.md) — 周亚夫先后反对废太子、无功封外戚和给匈奴降人封侯，在原则、亲族利益与招降策略的连续冲突中失去景帝及太后支持，最终称病罢朝并被免相；具体因果、日期和政策效果保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg.md) — 标题虽称周亚夫，正文实际叙述梁孝王刘武失宠、去世及梁国一分为五；景帝以对子女的优封安抚窦太后，同时分散封国力量，死亡因果、数字、动机与盗墓细节保留来源边界。
 - [《资治通鉴·汉纪》245｜汉景帝时期，当官为什么要倒贴钱？](sources/zizhi-tongjian-hanji-245-hanjingdi-shiqi-dangguan-weishenme-yao-daotieqian-lpyc0otmtfn9520s3cgx9pt9ng1j.md) — 景帝在灾异、边患与歉收中把节粮、抑奢、农桑示范和地方问责相连；四万钱赀选是承担任官成本的财产资格门槛，仍受身份、品行与才能筛选，并非直接买官。
@@ -4104,7 +4105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
 - [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
 - [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
-- [郅都 / Zhi Du (Western Han)](entities/ZhiDuWesternHan.md) — 以边疆与京师强力执法、个人克制及刘荣事件中的政治暴露，构成宁成的对照型西汉酷吏。
+- [郅都 / Zhi Du (Western Han)](entities/ZhiDuWesternHan.md) — 以边疆与京师强力执法、拒绝私请、阻止皇帝冒险及刘荣事件中的政治暴露，构成宁成的对照型西汉酷吏。
 - [Lauren Colenso-Semple](entities/LaurenColensoSemple.md) — Exercise scientist who distinguishes sex-related context from evidence for fundamentally different training rules.
 - [上林苑 / Shanglin Park (Western Han)](entities/ShanglinParkWesternHan.md) — 汉武帝计划扩建的帝王苑囿，其土地测量与补偿方案因肥田、资源、税收、迁徙和游猎安全成本受到东方朔反对。
 - [石奋 / Shi Fen (Western Han)](entities/ShiFenWesternHan.md) — 以跨越朝廷与家庭的日常礼仪、间接纠错和持续示范塑造石氏谨慎家风的“万石君”。
@@ -4136,7 +4137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 汉景帝至汉武帝初年的资深权力中心，窦婴早期地位及田蚡经窦婴间接接近权力的关键背景。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
 - [灌夫 / Guan Fu (Western Han)](entities/GuanFuWesternHan.md) — 军功与地方横暴指控并存，宴席斥骂田蚡后引发窦婴营救、朝廷斗争与最终族诛的西汉人物。
-- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 刘彻即位后升为皇太后并见证母族受封，以母子亲近为田蚡提供进身通道，后又监控廷议并直接支持弟弟。
+- [王太后（王娡） / Empress Dowager Wang (Western Han)](entities/EmpressDowagerWangWesternHan.md) — 由立后与幼年刘彻立储进入继承政治，刘彻即位后又以母子亲近和母族受封为田蚡提供进身、复起与直接支持通道。
 - [薛泽 / Xue Ze (Western Han)](entities/XueZeWesternHan.md) — 因韩安国坠马失相而获任丞相、被节目解释为以少作为和无大过在汉武帝朝保全性命的西汉官员。
 - [田甲 / Tian Jia (Han Anguo's Jailer)](entities/TianJiaJailerWesternHan.md) — 曾在狱中羞辱韩安国、在其复起后逃亡请罪并最终获免的梁国狱吏；与既有田假明确区分。
 - [河间献王刘德 / Liu De, King Xian of Hejian (Western Han)](entities/LiuDeHejianKingWesternHan.md) — 以跨地求书、留本抄写、集体校理、献书献乐与“献”谥获得文化声望，却在节目解释中因同姓王身份与影响力触发汉武帝猜忌的西汉诸侯王。
