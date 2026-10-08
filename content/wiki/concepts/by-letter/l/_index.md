@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9965
+wiki_total_pages: 9968
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "LargeCompanyRiskIncentives"
     title: "Large Company Risk Incentives"
     url: "/wiki/concepts/largecompanyriskincentives/"
+  - key: "LastSupper"
+    title: "Last Supper"
+    url: "/wiki/concepts/lastsupper/"
   - key: "LastChanceEcologicalWitnessing"
     title: "Last-Chance Ecological Witnessing"
     url: "/wiki/concepts/lastchanceecologicalwitnessing/"
@@ -1004,6 +1007,9 @@ wiki_pages:
   - key: "LyuBuFactionalBalance"
     title: "Lü Bu Factional Balance / 吕布集团派系平衡"
     url: "/wiki/concepts/lyubufactionalbalance/"
+  - key: "LantingGathering"
+    title: "兰亭雅集 / Lanting Gathering"
+    url: "/wiki/concepts/lantinggathering/"
   - key: "LayeredLocalEliteDemobilization"
     title: "分层式地方武力拆解 / Layered Local Elite Demobilization"
     url: "/wiki/concepts/layeredlocalelitedemobilization/"

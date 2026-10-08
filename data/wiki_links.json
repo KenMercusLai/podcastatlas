@@ -1651,6 +1651,10 @@
     "title": "239. Young Churchill: Born to Lead (Part 1)",
     "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
   },
+  "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp": {
+    "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+    "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+  },
   "24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441": {
     "title": "24.捍卫雅各布：相信你是我唯一的执念",
     "url": "/wiki/sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441/"
@@ -9602,6 +9606,10 @@
   "ApolloProgram": {
     "title": "Apollo Program",
     "url": "/wiki/entities/apolloprogram/"
+  },
+  "ApostlePeter": {
+    "title": "Peter the Apostle",
+    "url": "/wiki/entities/apostlepeter/"
   },
   "AppLovin": {
     "title": "AppLovin",
@@ -29115,6 +29123,10 @@
     "title": "Euan Roger",
     "url": "/wiki/entities/euanroger/"
   },
+  "Eucharist": {
+    "title": "Eucharist",
+    "url": "/wiki/concepts/eucharist/"
+  },
   "EuclidHall": {
     "title": "Euclid Hall",
     "url": "/wiki/entities/euclidhall/"
@@ -48339,6 +48351,14 @@
     "title": "蓝田 / Lantian (Late Qin)",
     "url": "/wiki/entities/lantianlateqin/"
   },
+  "LantingGathering": {
+    "title": "兰亭雅集 / Lanting Gathering",
+    "url": "/wiki/concepts/lantinggathering/"
+  },
+  "LantingjiXu": {
+    "title": "《兰亭集序》 / Lantingji Xu",
+    "url": "/wiki/entities/lantingjixu/"
+  },
   "LaoAi": {
     "title": "嫪毐 / Lao Ai",
     "url": "/wiki/entities/laoai/"
@@ -48466,6 +48486,10 @@
   "LastMileRobotDelivery": {
     "title": "Last-Mile Robot Delivery",
     "url": "/wiki/concepts/lastmilerobotdelivery/"
+  },
+  "LastSupper": {
+    "title": "Last Supper",
+    "url": "/wiki/concepts/lastsupper/"
   },
   "LateAntiqueFirstPersonEvidence": {
     "title": "Late Antique First-Person Evidence",
@@ -86786,6 +86810,10 @@
   "WangXiuLateHan": {
     "title": "王修 / Wang Xiu (late Han)",
     "url": "/wiki/entities/wangxiulatehan/"
+  },
+  "WangXizhi": {
+    "title": "王羲之 / Wang Xizhi",
+    "url": "/wiki/entities/wangxizhi/"
   },
   "WangXuedi": {
     "title": "王雪迪 / Wang Xuedi",

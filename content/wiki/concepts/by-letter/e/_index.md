@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9965
+wiki_total_pages: 9968
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "ETNCreditRisk"
     title: "ETN Credit Risk"
     url: "/wiki/concepts/etncreditrisk/"
+  - key: "Eucharist"
+    title: "Eucharist"
+    url: "/wiki/concepts/eucharist/"
   - key: "EuclideanProofTraining"
     title: "Euclidean Proof Training / 欧几里得式证明训练"
     url: "/wiki/concepts/euclideanprooftraining/"

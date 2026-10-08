@@ -16803,6 +16803,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/apolloprogram/"
     },
+    "ApostlePeter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/apostlepeter/"
+    },
     "AppLovin": {
       "episode_count": 1,
       "show_count": 1,
@@ -76111,6 +76127,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/euanroger/"
     },
+    "Eucharist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/eucharist/"
+    },
     "EugeneMcCarthy": {
       "episode_count": 2,
       "show_count": 1,
@@ -126096,9 +126128,9 @@
       "url": "/wiki/entities/jessicathompson/"
     },
     "Jesus": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -126120,9 +126152,16 @@
           "show": "The Rest Is History",
           "title": "175. Crucifixion (Part 1)",
           "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/jesus/"
     },
     "JetLagJetAgeEmbodiment": {
@@ -130584,9 +130623,9 @@
       "url": "/wiki/entities/juanpujol/"
     },
     "JudasIscariot": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -130594,9 +130633,16 @@
           "show": "The Rest Is History",
           "title": "206. Historical Love Island",
           "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/judasiscariot/"
     },
     "JudeanRevolt66To73": {
@@ -135690,6 +135736,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/langxingdingsheng/"
     },
+    "LantingGathering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/lantinggathering/"
+    },
+    "LantingjiXu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/lantingjixu/"
+    },
     "LaoMaiSspai": {
       "episode_count": 1,
       "show_count": 1,
@@ -135866,6 +135944,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lastmilerobotdelivery/"
+    },
+    "LastSupper": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4776258433 [GLT4776258433].md",
+          "key": "288-jesus-christ-the-history-part-2-glt4776258433",
+          "show": "The Rest Is History",
+          "title": "288: Jesus Christ: The History (Part 2)",
+          "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/lastsupper/"
     },
     "LateAntiqueFirstPersonEvidence": {
       "episode_count": 1,
@@ -148974,9 +149075,9 @@
       "url": "/wiki/entities/lucuilatehan/"
     },
     "LuDapeng": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -149005,6 +149106,13 @@
           "show": "怪东西Weird History",
           "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
           "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
       "updated": "2026-10-08",
@@ -164892,9 +165000,9 @@
       "url": "/wiki/entities/morocco/"
     },
     "MortalityBoundedMeaning": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7619753889 [SCIM7619753889].md",
@@ -164916,9 +165024,16 @@
           "show": "Huberman Lab",
           "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
           "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
     "MortalityTransition": {
@@ -247007,6 +247122,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/wangxiulatehan/"
     },
+    "WangXizhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/wangxizhi/"
+    },
     "WangXuedi": {
       "episode_count": 2,
       "show_count": 1,
@@ -249431,9 +249562,9 @@
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -249546,6 +249677,13 @@
           "show": "怪东西Weird History",
           "title": "25 东西方的卖官鬻爵",
           "url": "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
       "updated": "2026-10-08",
@@ -263382,9 +263520,9 @@
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
     },
     "ZhangDabai": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -263406,6 +263544,13 @@
           "show": "怪东西Weird History",
           "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
           "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
+        },
+        {
+          "episode_file": "lraEKM_BgoWhg1wXysfSHcwoz5XP [lraEKM_BgoWhg1wXysfSHcwoz5XP].md",
+          "key": "24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp",
+          "show": "怪东西Weird History",
+          "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
+          "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
         }
       ],
       "updated": "2026-10-08",

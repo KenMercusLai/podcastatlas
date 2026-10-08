@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [24 东西方的饭局：最后的晚餐与兰亭雅集](sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp.md) — 怪东西以最后的晚餐与兰亭雅集比较服务、背叛、悔悟、圣餐、无常、诗书艺术与有限生命的意义，同时保留福音史实和《兰亭集序》文本形成的边界。
 - [25 东西方的卖官鬻爵](sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az.md) — 怪东西比较秦汉鬻爵、明清捐纳、法国袍服贵族、哈布斯堡授爵、英国军衔买卖与圣职交易，区分财政、流动、能力和合法性效应。
 - [26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史](sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz.md) — 怪东西以但泽历史、九月怀孕结构、烹饪、童话改写和性别争论解读《比目鱼》，将进步保留为创造与毁灭并存的多义过程。
 - [27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择](sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc.md) — 怪东西从中文系与英语系的形成、课程和个人经验讨论学科分割、AI时代语言学习、兴趣、自学与可调整的专业选择。
@@ -4158,6 +4159,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [王羲之 / Wang Xizhi](entities/WangXizhi.md) — 东晋书法家与兰亭雅集组织者，其《兰亭集序》传统连接聚会、无常意识、书法经典化与文本真伪问题。
+- [Peter the Apostle](entities/ApostlePeter.md) — 在最后晚餐与受难叙事中由忠诚承诺走向三次否认、痛哭与后续悔悟传统的门徒。
+- [Judas Iscariot](entities/JudasIscariot.md) — 最后晚餐和被捕叙事中的背叛者，其预言、撒旦影响与选择引出自由意志问题。
+- [《兰亭集序》 / Lantingji Xu](entities/LantingjiXu.md) — 传统归于王羲之、由春景欢聚转入衰老死亡，并经摹本和唐代推崇经典化的文学书法作品。
 - [Günter Grass / 君特·格拉斯](entities/GunterGrass.md) — German writer and artist whose Danzig-centered political fiction and public moral role are complicated by his delayed Waffen-SS disclosure.
 - [The Flounder / 《比目鱼》](entities/TheFlounder.md) — Grass novel joining nine months, nine historical eras, cooking, fairy-tale rewriting, gendered power, and ambivalent progress.
 - [Danzig / Gdańsk / 但泽—格但斯克](entities/DanzigGdansk.md) — Baltic port and changing sovereignty-memory site central to Grass's biography and fiction.
@@ -16999,6 +17004,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Last Supper](concepts/LastSupper.md) — 耶稣被捕前的最后一餐传统，将洗脚、饼酒、背叛、否认与彼此相爱连接为服务、记忆和脆弱性的叙事。
+- [Eucharist](concepts/Eucharist.md) — 源于最后晚餐饼酒语言、延续为基督教纪念与共融仪式，同时存在真实临在、象征和精神参与等教义分歧。
+- [兰亭雅集 / Lanting Gathering](concepts/LantingGathering.md) — 353年以曲水流觞、赋诗和《兰亭集序》连接欢聚、无常、艺术转化、后世经典化与文本不确定性的聚会。
 - [Cooking as Civilizational Labor / 烹饪作为文明劳动](concepts/CookingAsCivilizationalLabor.md) — 将食物获取、烹调、喂养与食谱传递视为支撑战争、思想、阶级和历史生活的基础劳动。
 - [Progress as Creative and Destructive Force / 进步的创造—毁灭双重性](concepts/ProgressAsCreativeDestructiveForce.md) — 同一欲望、知识与技术能力既改善生活，也可能扩大征服、战争、污染和成本转移的后果框架。
 - [Modern Disciplinary Fragmentation / 现代学科分割](concepts/ModernDisciplinaryFragmentation.md) — 现代专业化带来研究深度，也把跨文学、历史、哲学、政治与语言的整全对象分割进不同院系。

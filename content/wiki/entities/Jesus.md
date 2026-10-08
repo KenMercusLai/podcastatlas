@@ -6,7 +6,8 @@ sources:
   - 288-jesus-christ-the-history-part-2-glt4776258433
   - 287-jesus-christ-the-mystery-part-1-glt4572965796
   - 175-crucifixion-part-1-glt5186420966
-last_updated: 2026-10-01
+  - 24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Jesus is the first-century Jewish teacher and central figure of Christianity reconstructed historically across [[287-jesus-christ-the-mystery-part-1-glt4572965796]], [[288-jesus-christ-the-history-part-2-glt4776258433]], and [[175-crucifixion-part-1-glt5186420966]]. The combined evidence accepts his existence, association with [[JohnTheBaptist]], public ministry, Jerusalem conflict, and crucifixion while separating those judgments from disputed Gospel details and the supernatural meaning of resurrection claims.
+Jesus is the first-century Jewish teacher and central figure of Christianity reconstructed historically across [[287-jesus-christ-the-mystery-part-1-glt4572965796]], [[288-jesus-christ-the-history-part-2-glt4776258433]], and [[175-crucifixion-part-1-glt5186420966]], with [[24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp]] adding a source-bounded literary reading of his final meal and Passion. The combined evidence accepts his existence, association with [[JohnTheBaptist]], public ministry, Jerusalem conflict, and crucifixion while separating those judgments from disputed Gospel details and the supernatural meaning of resurrection claims.
 
 ## Current Profile
 
@@ -24,6 +25,8 @@ His [[KingdomOfGodEschatology|Kingdom of God]] was not described as an armed sta
 
 The crucifixion episode strengthens the execution anchor and clarifies its social meaning. The kingly charge made Jesus legible as a royal challenger to Caesar, while scourging, mockery, the titulus, execution outside the city, and the possibility of unusual tomb burial fit known Roman practice with varying confidence. [[RomanCrucifixionAsPublicHumiliation]] made the death not merely painful but deliberately degrading; [[CrossSymbolicInversion]] describes how followers made that shame central to divine victory rather than suppressing it.
 
+Within the [[LastSupper]] and immediate Passion narrative, foot washing, bread and wine, the command to love, [[JudasIscariot|Judas]]'s betrayal, [[ApostlePeter|Peter]]'s denial, and Gethsemane form a sequence joining service, remembrance, fear, failure, and repentance. This literary interpretation adds ethical texture without raising every narrated detail to the confidence level of the execution itself.
+
 ## Key Characteristics
 
 - Historically anchored by existence, baptism or close association with John, and Roman crucifixion on a kingly charge that did not require proof of conventional armed rebellion.
@@ -32,7 +35,7 @@ The crucifixion episode strengthens the execution anchor and clarifies its socia
 - Preached judgment and the imminent Kingdom of God while claiming unusual authority within it.
 - Used the twelve disciples, Jerusalem entry, and kingly language in ways the episode reads as messianic.
 - Engaged socially marginal people without presenting a modern socialist or conventional revolutionary program.
-- Became the object of rapid resurrection belief and exalted devotion after a humiliating public death.
+- Became the object of rapid resurrection belief and exalted devotion after a humiliating public death, while the Last Supper tradition portrays him through service, embodied remembrance, the command to love, and acknowledged vulnerability.
 
 ## Evidence
 
@@ -42,16 +45,16 @@ The crucifixion episode strengthens the execution anchor and clarifies its socia
 - Jerusalem conflict: [[288-jesus-christ-the-history-part-2-glt4776258433]] treats the donkey entry and temple incident as actions that heightened concern among temple and Roman authorities.
 - Death and afterlife: [[288-jesus-christ-the-history-part-2-glt4776258433]] joins crucifixion, early Last Supper tradition, followers' reported experiences, resurrection belief, and exalted titles.
 - Crucifixion practice and political charge: [[175-crucifixion-part-1-glt5186420966]] uses Pauline, Gospel, non-Christian, archaeological, and Roman comparative evidence to strengthen the execution core while qualifying individual Passion details.
+- Final meal and vulnerability: [[24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp]] reads foot washing, bread and wine, love, betrayal, denial, and Gethsemane as literary and ethical elements while withholding a theological judgment.
 
 ## Qualifications
 
-This is a source-bounded historical profile, not a theological ruling or a complete account of Jesus scholarship. The episodes dispute or qualify much of the Nativity reconstruction, Gospel authorship and transmission, ministry length, particular sayings, intentions, and Passion details. Josephus's Jesus passage is partly interpolated, and archaeological or comparative Roman context cannot authenticate an individual narrative detail. The exact soldiers, mockery, procession, words, darkness, burial circumstances, and willingness attributed to Jesus carry different levels of confidence. Historical method can examine testimony, memory, political context, and the emergence of belief but cannot adjudicate the supernatural truth of resurrection.
+This is a source-bounded historical and literary profile, not a theological ruling or a complete account of Jesus scholarship. The episodes dispute or qualify much of the Nativity reconstruction, Gospel authorship and transmission, ministry length, particular sayings, intentions, and Passion details. Josephus's Jesus passage is partly interpolated, and archaeological or comparative Roman context cannot authenticate an individual narrative detail. Foot washing, Judas's agency, Peter's exact denial sequence, Gethsemane wording, the soldiers, mockery, procession, darkness, burial circumstances, and willingness attributed to Jesus carry different levels of confidence. Historical method can examine testimony, memory, political context, and the emergence of belief but cannot adjudicate the supernatural truth of resurrection or denominational Eucharistic doctrine.
 
 ## What Changed
 
-- Strengthened crucifixion as the most secure biographical anchor through Pauline, Gospel, and non-Christian attestation.
-- Clarified the kingly charge as Roman political logic without converting Jesus into a conventional armed rebel.
-- Added public humiliation and early reinterpretation of shame as central to the death's historical afterlife.
+- Added a literary and ethical reading of the Last Supper centered on service, remembrance, love, vulnerability, and fallible discipleship.
+- Kept individual meal and Passion scenes below the confidence level of the historically secure crucifixion core.
 
 ## Relationships
 
@@ -64,4 +67,6 @@ This is a source-bounded historical profile, not a theological ruling or a compl
 - [[EarlyChristianExaltation]] - post-death belief that transformed execution into an exalted religious claim.
 - [[RomanCrucifixionAsPublicHumiliation]] - social and political logic of the punishment imposed on him.
 - [[CrossSymbolicInversion]] - transformation of his execution from servile shame into a sign of divine victory.
+- [[LastSupper]] - final-meal tradition joining service, bread and wine, betrayal, denial, and the command to love.
+- [[Eucharist]] - continuing ritual interpretation of the meal's bread-and-wine language.
 - [[December25ChristmasDating]] - related analysis of uncertainty around his birth date and later Christmas chronology.

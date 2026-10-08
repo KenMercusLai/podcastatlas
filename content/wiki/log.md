@@ -32665,3 +32665,11 @@ Added source `25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az`; resy
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 24 东西方的饭局：最后的晚餐与兰亭雅集
+
+Added source `24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp`; created [[WangXizhi|王羲之]], [[ApostlePeter|Peter the Apostle]], [[LantingjiXu|《兰亭集序》]], [[LastSupper]], [[Eucharist]], and [[LantingGathering|兰亭雅集]]; and resynthesized [[JudasIscariot|Judas Iscariot]], [[Jesus]], [[MortalityBoundedMeaning]], [[LuDapeng|陆大鹏]], [[ZhangDabai|张大白]], and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Last Supper turns impending death toward service, love, ritual remembrance, and narratives of betrayal, fear, and repentance, while Lanting turns transient pleasure, aging, and death toward poetry, calligraphy, and responsible attention to present life. No settled contradiction was adopted. The cross-cultural comparison is thematic rather than institutional equivalence; individual Gospel scenes, Judas's agency, denominational Eucharistic summaries, Lanting political purpose, banquet anecdotes, and the authorship, formation, and transmission of the received 《兰亭集序》 remain source-scoped or disputed. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,089 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12787
+wiki_total_pages: 12790
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1964,6 +1964,9 @@ wiki_pages:
   - key: "AlfredDouglas"
     title: "Lord Alfred Douglas / 波西"
     url: "/wiki/entities/alfreddouglas/"
+  - key: "ApostlePeter"
+    title: "Peter the Apostle"
+    url: "/wiki/entities/apostlepeter/"
   - key: "AnacreonticSong"
     title: "The Anacreontic Song"
     url: "/wiki/entities/anacreonticsong/"
