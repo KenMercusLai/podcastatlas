@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？](sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj.md) — 晁错凭提前请罪与景帝背书化解申屠嘉的宗庙墙案；景帝首轮减笞与梁王刘武的财富、宾客和特殊礼遇又补出后续削藩及继承冲突的前奏。
 - [《资治通鉴·汉纪》232｜吴王刘濞凭什么敢发起七国之乱？](sources/zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1.md) — 穆先生从甜酒礼节中断判断君臣关系已变并及时退出；刘濞则把削藩压力、诸侯串联、吴国动员、越地支援与吴楚合兵转成公开战争，但齐国反悔、济北受制也暴露联盟不稳。
 - [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg.md) — 吴国铜盐、轻税与拒捕构成刘濞的资源和自治基础；晁错以“早削祸小”推动连续削地，应高再把诸侯恐惧、诛晁错口号、军事方案和分地承诺组合成七国联盟。
 - [《资治通鉴·汉纪》229｜汉文帝之死遗诏藏着什么秘密？](sources/zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46.md) — 文帝病逝后的遗诏以短丧、薄葬、限动员和不扰民延续其节俭政风；与文景之治的因果、细节和中断的长沙王纪事保留来源边界。
@@ -4124,6 +4125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 试图以宗庙外墙案诛杀晁错，却因对方提前入宫请罪并获景帝背书而失去弹劾先机的西汉丞相。
 - [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
 - [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
 - [应高 / Ying Gao (Western Han)](entities/YingGaoWesternHan.md) — 受刘濞派遣，以共同威胁、诛晁错口号、军事计划和分地承诺说服胶西王刘昂加入联盟的吴国使者。
@@ -4137,7 +4139,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [济北王刘志 / Liu Zhi, King of Jibei (Western Han)](entities/LiuZhiJibeiKingWesternHan.md) — 七国之乱后经公孙爵与梁王申辩免于连坐、改封淄川的诸侯王。
 - [田禄伯 / Tian Lubo (Western Han)](entities/TianLuboWesternHan.md) — 七国之乱中请求率五万人经长沙、淮南与武关另开战场，却因委兵可能引发背叛的疑虑而未获采纳的吴方将领。
 - [周丘 / Zhou Qiu (Western Han)](entities/ZhouQiuWesternHan.md) — 被刘濞轻视却借一枚符节、地方关系与强制手段迅速夺取下邳扩军，最终又随吴方主局崩溃而失去依托的门客。
-- [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 推动削藩、忠于中央却在权力边界、危机优先级与同僚支持上失去保护，最终被景帝作为政治牺牲处死的西汉官员。
+- [晁错 / Chao Cuo (Western Han)](entities/ChaoCuoWesternHan.md) — 先凭私人召见、提前请罪与景帝背书化解重罪弹劾，后因削藩、危机处置与同僚孤立失去保护并被作为政治牺牲的西汉官员。
 - [赵涉 / Zhao She (Western Han adviser)](entities/ZhaoSheAdviserWesternHan.md) — 预判吴军会在险路设伏、建议周亚夫绕经蓝田与武关并获侦察验证的西汉军事顾问；与赵奢分列。
 - [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；吴方因猜疑与资历偏见收窄选项，周亚夫以绕伏、牵制、断粮和坚守制胜，刘濞被杀后再转入诸侯追责与中央收权。
 - [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [legal-history, punishment, harm-reduction, western-han, administration]
 sources:
   - zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r
+  - zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj
 last_updated: 2026-10-08
 ---
 
@@ -14,13 +15,14 @@ last_updated: 2026-10-08
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r|Hanji 243]] presents [[HanJingdi|汉景帝]]'s reform as more than a numerical sentence reduction. Three hundred strokes become two hundred and two hundred become one hundred, while the court also regulates bamboo dimensions and surface, confines blows to the buttocks, and bars switching executioners during the punishment. In the episode's account, these constraints seek to make survival and freedom from disability more likely without abolishing flogging.
+The current evidence presents [[HanJingdi|汉景帝]]'s reform as a sequence rather than one isolated decree. [[zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj|Hanji 230]] says five hundred strokes become three hundred and three hundred become two hundred after the abolition of mutilating punishments had left some nominal substitutes lethally severe. [[zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r|Hanji 243]] then presents a further reduction from three hundred to two hundred and from two hundred to one hundred, while also regulating bamboo dimensions and surface, confining blows to the buttocks, and barring a change of executioner. The joined sequence seeks to reduce both formal dose and execution variance without abolishing flogging.
 
 The source also voices a deterrence concern: if death is uncommon and flogging becomes less destructive, some people may fear punishment less. That remains a hypothesis rather than a demonstrated outcome because the episode provides no comparison of crime, enforcement, or recidivism before and after the reform.
 
 ## Key Claims
 
 - Sentence quantity and execution design jointly determine the bodily severity of corporal punishment.
+- Harm reduction can proceed in stages, with later rules revising both the remaining sentence counts and the execution method.
 - Standardization can constrain discretionary harm while leaving the underlying coercive institution intact.
 - Harm reduction is distinct from abolition because the state continues to authorize deliberate bodily injury.
 - Claims that humane reform weakens deterrence require behavioral evidence rather than severity alone.
@@ -28,6 +30,7 @@ The source also voices a deterrence concern: if death is uncommon and flogging b
 ## Evidence
 
 Numerical and procedural reduction:
+- [[zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj|Hanji 230]] supplies the earlier numerical stage from five hundred/three hundred strokes to three hundred/two hundred.
 - [[zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r|Hanji 243]] reports lower stroke counts plus specifications for the bamboo implement, bodily target, and continuity of the executioner.
 
 Deterrence qualification:
@@ -35,11 +38,12 @@ Deterrence qualification:
 
 ## Counterevidence & Qualifications
 
-The current evidence is a short popular-history summary rather than a legal-text collation. Exact terminology, dates, dimensions, administrative compliance, injury rates, and causal effects remain source-scoped. Standardizing flogging may reduce variance without making it safe, proportionate, or fairly imposed, and a formal rule does not prove consistent implementation.
+The current evidence consists of two short popular-history summaries rather than a legal-text collation. Their adjacent count sequences are treated as successive Jingdi reforms because the later starting counts match the earlier ending counts, but exact terminology, dates, dimensions, administrative compliance, injury rates, and causal effects remain source-scoped. Standardizing flogging may reduce variance without making it safe, proportionate, or fairly imposed, and a formal rule does not prove consistent implementation.
 
 ## What Changed
 
-- Created a narrow legal-history concept separating harm reduction within corporal punishment from abolition and from unsupported deterrence claims.
+- Added the earlier five-hundred/three-hundred to three-hundred/two-hundred reduction stage.
+- Reframed the reform as iterative dose reduction followed by tighter procedural control.
 
 ## Related Concepts
 

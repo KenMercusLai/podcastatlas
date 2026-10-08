@@ -36807,9 +36807,9 @@
       "url": "/wiki/concepts/channelnativeinternalcommunication/"
     },
     "ChaoCuoWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》233｜晁错被腰斩，揭露出职场中的大忌 [lqL1PwOMxC2T-e6X-CditYt1HWxQ].md",
@@ -36831,6 +36831,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
+          "key": "zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj/"
         }
       ],
       "updated": "2026-10-08",
@@ -49692,9 +49699,9 @@
       "url": "/wiki/concepts/coronationmassmediatransformation/"
     },
     "CorporalPunishmentHarmReduction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》243｜ 百人吓退三千敌军，李广如何做到的？ [lp6A-9RZznikoUO5XbknZ8yWaZ1R].md",
@@ -49702,6 +49709,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》243｜百人吓退三千敌军，李广如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-243-bairen-xiatui-sanqian-dijun-liguang-ruhe-zuodao-de-lp6a-9rzznikouo5xbknz8ywaz1r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
+          "key": "zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj/"
         }
       ],
       "updated": "2026-10-08",
@@ -143281,9 +143295,9 @@
       "url": "/wiki/entities/liuwuchukingwesternhan/"
     },
     "LiuWuLiangKingWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
@@ -143333,6 +143347,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
+          "key": "zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj/"
         }
       ],
       "updated": "2026-10-08",
@@ -211763,6 +211784,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/shentugangeasternhan/"
+    },
+    "ShentuJiaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
+          "key": "zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/shentujiawesternhan/"
     },
     "ShentuPanLateHan": {
       "episode_count": 3,
