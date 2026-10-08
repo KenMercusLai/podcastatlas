@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目](sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979.md) — 声东击西十周年骑行节目，以景山至三里屯路线连接北京的遗产保护、街道治理、商业重组、亮马河更新与规划不确定性。
 - [184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘](sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt.md) — 起朱楼宴宾客 third-quarter investment review on late-cycle allocation, refinancing-lag credit risk, a five-step major-decision framework, and a bounded overseas long-duration bond sleeve.
 - [22 东西方的疯王：尼禄与汉灵帝会是知己吗？](sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r.md) — 怪东西以尼禄与汉灵帝比较艺术、表演、政治能力、私人欲望与公共责任，并区分精神疾病、暴虐、无能和后世污名。
 - [23 张向荣&陆大鹏：如何学古文，如何学英语](sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq.md) — 怪东西以英语、德语和文言文对照语境化学习、广泛阅读、跨媒介输入、注释本、文化常识与容忍部分不理解的方法。
@@ -4162,6 +4163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [宋壮壮 / Song Zhuangzhuang](entities/SongZhuangzhuang.md) — 地都会城市观察者，以骑行路线连接北京街头变化、遗产运行、公共空间与规划判断。
 - [王羲之 / Wang Xizhi](entities/WangXizhi.md) — 东晋书法家与兰亭雅集组织者，其《兰亭集序》传统连接聚会、无常意识、书法经典化与文本真伪问题。
 - [Peter the Apostle](entities/ApostlePeter.md) — 在最后晚餐与受难叙事中由忠诚承诺走向三次否认、痛哭与后续悔悟传统的门徒。
 - [Judas Iscariot](entities/JudasIscariot.md) — 最后晚餐和被捕叙事中的背叛者，其预言、撒旦影响与选择引出自由意志问题。
@@ -17007,6 +17009,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Urban Route Field Observation / 城市路线式观察](concepts/UrbanRouteFieldObservation.md) — Uses a deliberately traversed path to connect visible places, remembered earlier states, and policy context into a spatial account of change.
+- [Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划](concepts/AdaptiveUrbanPlanningUnderUncertainty.md) — Keeps collective direction while limiting dependence on precise long-range forecasts and preserving capacity for revision.
+- [Living Heritage Operational Tradeoff / 活态遗产运行权衡](concepts/LivingHeritageOperationalTradeoff.md) — Negotiation among material conservation, everyday public use, mobility, tourism, and continuing memory at active historic sites.
+- [Ecological Public Space Renewal / 生态型公共空间更新](concepts/EcologicalPublicSpaceRenewal.md) — Sequence linking environmental repair, pedestrian continuity, landscape work, and post-build civic operation.
+- [Urban Governance and Commercial Recomposition / 城市治理后的商业重组](concepts/UrbanGovernanceCommercialRecomposition.md) — Pattern where spatial controls displace or formalize commerce before demand returns in altered places, scales, and rules.
 - [Major Investment Decision Framework / 重大投资决策框架](concepts/MajorInvestmentDecisionFramework.md) — Five-step process connecting objectives, instrument fit, worst-case and fallback analysis, product choice, and staged implementation.
 - [Long-Duration Bond Defense / 长久期债券防守配置](concepts/LongDurationBondDefense.md) — Risk-budgeted bond sleeve separating liquid duration, maturity cash flow, and spending-currency matching.
 - [Refinancing-Lag Credit Transmission / 再融资滞后信用传导](concepts/RefinancingLagCreditTransmission.md) — Delayed corporate stress as low-coupon debt matures and must be refinanced at higher rates.

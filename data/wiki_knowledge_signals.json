@@ -6794,6 +6794,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/adaptationreceptionmemory/"
     },
+    "AdaptiveUrbanPlanningUnderUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/adaptiveurbanplanningunderuncertainty/"
+    },
     "AddedFreeSugarDistinction": {
       "episode_count": 2,
       "show_count": 2,
@@ -24889,9 +24905,9 @@
       "url": "/wiki/entities/beidicommandery/"
     },
     "Beijing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
@@ -24899,9 +24915,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/beijing/"
     },
     "BeijingAndingHospital": {
@@ -67426,6 +67449,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/ecologicalinterventiongovernance/"
+    },
+    "EcologicalPublicSpaceRenewal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/ecologicalpublicspacerenewal/"
     },
     "EcologicalTimekeeping": {
       "episode_count": 1,
@@ -146926,6 +146965,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/liverpoolmanchesterrailway/"
     },
+    "LivingHeritageOperationalTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/livingheritageoperationaltradeoff/"
+    },
     "LivingKidneyDonationTransplantBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -214229,9 +214284,9 @@
       "url": "/wiki/entities/shenduwesternhan/"
     },
     "ShengdongJixi": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
@@ -214288,9 +214343,16 @@
           "show": "起朱楼宴宾客",
           "title": "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶",
           "url": "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+        },
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/shengdongjixi/"
     },
     "ShengdongZaokafei": {
@@ -219954,6 +220016,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
+    },
+    "SongZhuangzhuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/songzhuangzhuang/"
     },
     "SongguoShike": {
       "episode_count": 1,
@@ -241791,6 +241869,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/urbanfieldinterviewing/"
     },
+    "UrbanGovernanceCommercialRecomposition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/urbangovernancecommercialrecomposition/"
+    },
     "UrbanGuerrillaArmedPropaganda": {
       "episode_count": 1,
       "show_count": 1,
@@ -241822,6 +241916,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/urbannightlifespatiallayering/"
+    },
+    "UrbanRouteFieldObservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/urbanroutefieldobservation/"
     },
     "UrbanVI": {
       "episode_count": 1,
@@ -257850,9 +257960,9 @@
       "url": "/wiki/entities/xutalatehan/"
     },
     "XuTao": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！ [431629439].md",
@@ -257902,9 +258012,16 @@
           "show": "声东击西",
           "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
           "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
+        },
+        {
+          "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
+          "key": "406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979",
+          "show": "声东击西",
+          "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+          "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/xutao/"
     },
     "XuXianzhe": {

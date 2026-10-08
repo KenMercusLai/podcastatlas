@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9972
+wiki_total_pages: 9977
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "LivestreamPersonaLabor"
     title: "Livestream Persona Labor / 直播人设劳动"
     url: "/wiki/concepts/livestreampersonalabor/"
+  - key: "LivingHeritageOperationalTradeoff"
+    title: "Living Heritage Operational Tradeoff / 活态遗产运行权衡"
+    url: "/wiki/concepts/livingheritageoperationaltradeoff/"
   - key: "LivingKidneyDonationTransplantBoundary"
     title: "Living Kidney Donation and Transplant Boundary / 活体肾捐献与移植边界"
     url: "/wiki/concepts/livingkidneydonationtransplantboundary/"

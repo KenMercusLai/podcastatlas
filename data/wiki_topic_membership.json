@@ -11309,6 +11309,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AdaptiveUrbanPlanningUnderUncertainty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AddictionRelatedRewardPlasticity": [
     {
       "key": "science",
@@ -87419,6 +87426,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UrbanGovernanceCommercialRecomposition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UrbanNicheSports": [

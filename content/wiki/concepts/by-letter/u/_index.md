@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9972
+wiki_total_pages: 9977
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "UrbanFieldInterviewing"
     title: "Urban Field Interviewing / 城市田野访谈"
     url: "/wiki/concepts/urbanfieldinterviewing/"
+  - key: "UrbanGovernanceCommercialRecomposition"
+    title: "Urban Governance and Commercial Recomposition / 城市治理后的商业重组"
+    url: "/wiki/concepts/urbangovernancecommercialrecomposition/"
   - key: "UrbanGuerrillaArmedPropaganda"
     title: "Urban Guerrilla Armed Propaganda"
     url: "/wiki/concepts/urbanguerrillaarmedpropaganda/"
@@ -266,6 +269,9 @@ wiki_pages:
   - key: "UrbanNightlifeSpatialLayering"
     title: "Urban Nightlife Spatial Layering / 城市夜生活空间叠层"
     url: "/wiki/concepts/urbannightlifespatiallayering/"
+  - key: "UrbanRouteFieldObservation"
+    title: "Urban Route Field Observation / 城市路线式观察"
+    url: "/wiki/concepts/urbanroutefieldobservation/"
   - key: "UrbanWildlifeCoexistence"
     title: "Urban Wildlife Coexistence / 城市野生动物共存"
     url: "/wiki/concepts/urbanwildlifecoexistence/"

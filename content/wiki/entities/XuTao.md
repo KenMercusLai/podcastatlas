@@ -1,7 +1,7 @@
 ---
 title: "徐涛"
 type: entity
-tags: [host, media, ai-user, aviation, politics]
+tags: [host, media, ai-user, aviation, politics, cities]
 knowledge_schema: synthesis-v1
 sources:
   - trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439
@@ -11,7 +11,8 @@ sources:
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7
   - 405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc
-last_updated: 2026-09-20
+  - 406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979
+last_updated: 2026-10-09
 ---
 
 # 徐涛
@@ -30,6 +31,8 @@ Episode 398 adds Xu Tao as a comparative U.S.-politics interlocutor. He connects
 
 Episode 405 adds a historical-geography conversation with [[SongNianshen|宋念申]]. Xu Tao begins from his outsider experience of Xita, tests whether clearer borders create greater safety, and helps move the discussion from the Tumen-Yalu borderlands through identity documents, colonial partition, political economy, and disciplinary categories.
 
+Episode 406 makes movement through [[Beijing]] itself the interview structure. Riding with [[SongZhuangzhuang|宋壮壮]], Xu Tao connects remembered neighborhood use and visible street change to heritage, public space, commerce, and the limits of long-range planning.
+
 ## Key Characteristics
 - Shengdong Huopo team member whose morning listening routine helps position Shengdong Zaokafei.
 - 声东击西 host for AI infrastructure and vibe-coding conversations.
@@ -37,7 +40,7 @@ Episode 405 adds a historical-geography conversation with [[SongNianshen|宋念�
 - Aviation roundtable host connecting place, history, cities, and passenger experience.
 - Platform-governance interviewer connecting legal caution, internal platform evidence, and youth social-media product responsibility.
 - U.S.-politics co-host connecting sports rules, white South African migrant labor, and identity-based grievance narratives.
-- Historical-geography interviewer connecting ordinary place perception to borders, identity, colonial inheritance, and knowledge categories.
+- Place-led interviewer connecting ordinary spatial perception to borders, urban change, identity, heritage, and institutional categories.
 
 ## Evidence
 - Morning audio routine: [[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] names Xu Tao as a team member whose morning routine includes listening to podcasts and checking plants.
@@ -47,6 +50,7 @@ Episode 405 adds a historical-geography conversation with [[SongNianshen|宋念�
 - Social-media regulation host role: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] has Xu Tao discuss U.S. lawsuits, internal Meta documents, product-design liability, and why she became less hesitant about regulation after examining litigation materials.
 - U.S. politics and migration role: [[398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7]] has Xu Tao frame the World Cup red-card controversy through American exceptionalism and push the South African worker story back toward immigration, race, and field-reporting method.
 - Border and historical method: [[405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc]] has Xu Tao use his Xita visit and border questions to connect lived space, state classification, colonial inheritance, and interdisciplinarity.
+- Urban field conversation: [[406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979]] has Xu Tao use a Beijing cycling route to connect concrete street changes with planning, public-space, heritage, and commercial questions.
 
 ## Qualifications
 The page is source-bound and does not attempt a full biography. It should not infer Xu Tao's complete professional role, editorial authority, or personal views beyond the episodes represented here. The social-media regulation, Mississippi, and border-history sources record episode-level judgments, not complete accounts of her views on technology regulation, U.S. politics, migration, international law, or colonialism.
@@ -56,7 +60,7 @@ The page is source-bound and does not attempt a full biography. It should not in
 - Added the aviation live-roundtable host role.
 - Reframed Xu Tao's page around translation of complex systems rather than only AI usage.
 - Added the social-media regulation host role and her source-described shift toward product-design responsibility.
-- Added the U.S. politics, Mississippi migrant-labor, and Northeast Asian border-history conversations.
+- Added the U.S. politics and Mississippi migrant-labor conversation, plus place-led work on Northeast Asian borders and Beijing urban change.
 
 ## Relationships
 - [[ShengdongJixi]] - show context where Xu Tao hosts the AI and aviation conversations.
@@ -73,3 +77,6 @@ The page is source-bound and does not attempt a full biography. It should not in
 - [[WhiteVictimhoodNarrative]] - race-and-privilege frame Xu Tao helps articulate.
 - [[SongNianshen]] - historian interviewed about borders and modernity.
 - [[RelationalBorder]] - border method developed through their Xita and Tumen-Yalu discussion.
+- [[SongZhuangzhuang]] - co-rider and urban-observation guest in the Beijing route episode.
+- [[UrbanRouteFieldObservation]] - place-led method extended from border perception into longitudinal city observation.
+- [[AdaptiveUrbanPlanningUnderUncertainty]] - planning judgment developed in the Beijing episode.

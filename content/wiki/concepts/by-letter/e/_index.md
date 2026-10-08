@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9972
+wiki_total_pages: 9977
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "EcologicalMemory"
     title: "Ecological Memory"
     url: "/wiki/concepts/ecologicalmemory/"
+  - key: "EcologicalPublicSpaceRenewal"
+    title: "Ecological Public Space Renewal / 生态型公共空间更新"
+    url: "/wiki/concepts/ecologicalpublicspacerenewal/"
   - key: "EcologicalTimekeeping"
     title: "Ecological Timekeeping"
     url: "/wiki/concepts/ecologicaltimekeeping/"

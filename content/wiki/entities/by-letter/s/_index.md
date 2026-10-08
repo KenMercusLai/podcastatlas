@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12790
+wiki_total_pages: 12791
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2429,6 +2429,9 @@ wiki_pages:
   - key: "SongState"
     title: "宋国 / Song State"
     url: "/wiki/entities/songstate/"
+  - key: "SongZhuangzhuang"
+    title: "宋壮壮 / Song Zhuangzhuang"
+    url: "/wiki/entities/songzhuangzhuang/"
   - key: "SongELateHan"
     title: "宋娥 / Song E (late Han)"
     url: "/wiki/entities/songelatehan/"

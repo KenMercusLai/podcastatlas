@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3212
+topic_total_pages: 3214
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -34,6 +34,9 @@ topic_concepts:
   - key: "ActivistInvestorPressure"
     title: "Activist Investor Pressure"
     url: "/wiki/concepts/activistinvestorpressure/"
+  - key: "AdaptiveUrbanPlanningUnderUncertainty"
+    title: "Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划"
+    url: "/wiki/concepts/adaptiveurbanplanningunderuncertainty/"
   - key: "AdministrativeArchiveCapture"
     title: "Administrative Archive Capture / 行政档案接管"
     url: "/wiki/concepts/administrativearchivecapture/"
@@ -4276,6 +4279,9 @@ topic_concepts:
   - key: "UrbanDisorderExplanationConflict"
     title: "Urban Disorder Explanation Conflict"
     url: "/wiki/concepts/urbandisorderexplanationconflict/"
+  - key: "UrbanGovernanceCommercialRecomposition"
+    title: "Urban Governance and Commercial Recomposition / 城市治理后的商业重组"
+    url: "/wiki/concepts/urbangovernancecommercialrecomposition/"
   - key: "UrbanWildlifeCoexistence"
     title: "Urban Wildlife Coexistence / 城市野生动物共存"
     url: "/wiki/concepts/urbanwildlifecoexistence/"

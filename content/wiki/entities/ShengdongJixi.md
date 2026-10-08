@@ -1,7 +1,7 @@
 ---
 title: "声东击西"
 type: entity
-tags: [podcast, media, china, aviation, ai, humanitarian-aid, politics, field-reporting]
+tags: [podcast, media, china, aviation, ai, humanitarian-aid, politics, field-reporting, cities]
 knowledge_schema: synthesis-v1
 sources:
   - jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429
@@ -12,7 +12,8 @@ sources:
   - 398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7
   - 405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc
   - 184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5
-last_updated: 2026-09-28
+  - 406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979
+last_updated: 2026-10-09
 ---
 
 # 声东击西
@@ -25,7 +26,9 @@ last_updated: 2026-09-28
 
 Across the bounded sources, 声东击西 functions as a conversational bridge between specialist systems and everyday experience. [[XuTao|徐涛]]'s episodes translate AI infrastructure, agent workflows, aviation networks, food-aid operations, platform law, migrant labor, and historical borders through interviews and field-grounded examples rather than a single narrow beat.
 
-The latest crossover adds co-founder [[ZhangJingShengdongJixi|张晶]] and makes the show's own media practice an object of inquiry. Her reporting and podcast experience connects overlooked-person documentation, voice, long-form reasoning, listener relationship, professional community, and hidden production labor to the pressures of recommendation feeds and AI summaries. This deepens the project's current profile from cross-domain translation into explicit reflection on what communication is for.
+The Zhang Jing crossover adds co-founder [[ZhangJingShengdongJixi|张晶]] and makes the show's own media practice an object of inquiry. Her reporting and podcast experience connects overlooked-person documentation, voice, long-form reasoning, listener relationship, professional community, and hidden production labor to the pressures of recommendation feeds and AI summaries. This deepens the project's current profile from cross-domain translation into explicit reflection on what communication is for.
+
+Episode 406 adds route-based urban observation. [[XuTao|徐涛]] and [[SongZhuangzhuang|宋壮壮]] use a Beijing bike ride to translate long-range planning into streets, bridges, shops, waterways, and public use, while keeping both improvements and displacement visible.
 
 ## Key Characteristics
 
@@ -35,6 +38,7 @@ The latest crossover adds co-founder [[ZhangJingShengdongJixi|张晶]] and makes
 - Public-affairs coverage spanning humanitarian aid, platform responsibility, migration, identity, borders, and law.
 - Long-form media practice that values reasoning, voice, relationship, and overlooked subjects alongside efficient information transfer.
 - Flexible use of studio conversations, crossovers, branded live events, and first-person field accounts.
+- Place-led formats that use routes and physical sites to connect institutional change with everyday experience.
 
 ## Evidence
 
@@ -43,6 +47,7 @@ The latest crossover adds co-founder [[ZhangJingShengdongJixi|张晶]] and makes
 - Platform and political accountability: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] connects youth harm to product design and liability; [[398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7]] tests racialized migration narratives against Mississippi labor reporting.
 - Historical and methodological breadth: [[405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc]] moves from neighborhood and borderland memory to colonial categories, international law, and interdisciplinary inquiry.
 - Media self-reflection: [[184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5]] has Zhang Jing connect reporting, podcasting, creator operations, algorithms, AI compression, and communication as shared participation.
+- Urban route reporting: [[406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979]] connects Beijing's planning direction with visible heritage, mobility, commerce, ecological repair, and public-space change.
 
 ## Qualifications
 
@@ -52,6 +57,7 @@ This profile reflects only the ingested sources, not the show's full catalog, au
 
 - Added Zhang Jing's media-practice account to the show's existing cross-domain translation profile.
 - Added explicit creator-side reflection on recommendation, AI summaries, long-form relationship, and hidden production labor.
+- Added route-based urban observation as another field-grounded translation format.
 
 ## Relationships
 
@@ -64,3 +70,5 @@ This profile reflects only the ingested sources, not the show's full catalog, au
 - [[AgentReliabilityVerification]] - AI-infrastructure and human-judgment branch.
 - [[CommunicationRitualParticipation]] - latest source's account of communication beyond information transfer.
 - [[SupplyLedPublicInterestDocumentation]] - journalism and memory value articulated by Zhang Jing.
+- [[SongZhuangzhuang]] - urban-observation guest on the Beijing cycling route.
+- [[UrbanRouteFieldObservation]] - method used to connect planning with visible city change.

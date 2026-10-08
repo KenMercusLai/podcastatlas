@@ -32697,3 +32697,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | #406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目
+
+Added source `406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979`; created [[SongZhuangzhuang|宋壮壮]], [[UrbanRouteFieldObservation|城市路线式观察]], [[AdaptiveUrbanPlanningUnderUncertainty|不确定性下的弹性城市规划]], [[LivingHeritageOperationalTradeoff|活态遗产运行权衡]], [[EcologicalPublicSpaceRenewal|生态型公共空间更新]], and [[UrbanGovernanceCommercialRecomposition|城市治理后的商业重组]]; and resynthesized [[XuTao|徐涛]], [[ShengdongJixi|声东击西]], and [[Beijing]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a traversable route makes decade-scale planning visible in heritage access, street greenery, commercial displacement and return, river connectivity, and rebuilt consumption districts, while the mismatch between long construction cycles and unforeseen shocks supports planning with greater humility and adaptability. No settled contradiction was adopted. Heritage and ecological gains coexist with reduced informal access, standardized streetscapes, and displaced businesses; exact dates, design intent, planning causation, visitor patterns, and commercial effects remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,093 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

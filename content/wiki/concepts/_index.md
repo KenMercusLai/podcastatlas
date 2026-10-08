@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9972
+wiki_total_pages: 9977
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "AdaptivePortfolioDesign"
     title: "Adaptive Portfolio Design"
     url: "/wiki/concepts/adaptiveportfoliodesign/"
+  - key: "AdaptiveUrbanPlanningUnderUncertainty"
+    title: "Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划"
+    url: "/wiki/concepts/adaptiveurbanplanningunderuncertainty/"
   - key: "ADCEngineeringOptimization"
     title: "ADC Engineering Optimization"
     url: "/wiki/concepts/adcengineeringoptimization/"
