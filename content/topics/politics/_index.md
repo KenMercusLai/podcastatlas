@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3225
+topic_total_pages: 3227
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3784,9 +3784,6 @@ topic_concepts:
   - key: "SingaporeServiceControlGovernance"
     title: "Singapore Service-Control Governance / 新加坡服务—管控型治理"
     url: "/wiki/concepts/singaporeservicecontrolgovernance/"
-  - key: "SituationalCharacterTests"
-    title: "Situational Character Tests / 五观识人法"
-    url: "/wiki/concepts/situationalcharactertests/"
   - key: "SixStateRestorationAntiQinStrategy"
     title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
     url: "/wiki/concepts/sixstaterestorationantiqinstrategy/"
@@ -4810,6 +4807,9 @@ topic_concepts:
   - key: "MourningMingReading"
     title: "悼明读法 / Mourning Ming Reading"
     url: "/wiki/concepts/mourningmingreading/"
+  - key: "SituationalCharacterTests"
+    title: "情境式识人考察 / Situational Character Tests"
+    url: "/wiki/concepts/situationalcharactertests/"
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"
@@ -4930,6 +4930,9 @@ topic_concepts:
   - key: "PreventiveFrontierGovernance"
     title: "治未病式边疆治理 / Preventive Frontier Governance"
     url: "/wiki/concepts/preventivefrontiergovernance/"
+  - key: "LegalPenaltyStabilityAgainstSovereignAnger"
+    title: "法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger"
+    url: "/wiki/concepts/legalpenaltystabilityagainstsovereignanger/"
   - key: "LegalComplexityDiscretionPower"
     title: "法律繁密与裁量权力 / Legal Complexity Discretion Power"
     url: "/wiki/concepts/legalcomplexitydiscretionpower/"
@@ -9396,6 +9399,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs"
+    title: "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）"
+    url: "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs/"
   - key: "zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt"
     title: "《资治通鉴·汉纪》219｜贾谊的《治安策》，藏着国家兴衰的秘密（1）"
     url: "/wiki/sources/zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt/"

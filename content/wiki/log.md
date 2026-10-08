@@ -32983,6 +32983,14 @@ Added source `zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-09] ingest | 《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）
+
+Added source `zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs`; created [[LegalPenaltyStabilityAgainstSovereignAnger|法定刑阶约束君怒]]; resynthesized [[ZhangShizhiWesternHan|张释之]] from its complete preserved evidence inventory; migrated [[Liutao|《六韬》]] to `synthesis-v1`; and extended [[SituationalCharacterTests|情境式识人考察]] from its complete bounded input with the 《六韬·六守》 branch. Core synthesis: Zhang's startled-horse and ancestral-temple cases keep adjudicated punishment predictable and proportionate despite imperial pressure, while the six-condition talent framework tests 仁、义、忠、信、勇、谋 through changed incentives and pressure. No settled contradiction was adopted. Exact locations, amounts, objects, offense classes, speeches, dowager mediation, Zhou Yafu's relationship, “社稷之臣” attribution, 《六韬》 wording, authorship, and dating remain source-scoped; “法律面前人人平等” is retained as a modernizing interpretation rather than proof of a modern constitutional regime. Broad [[LiuHeng|汉文帝刘恒]], [[ZhouYafu|周亚夫]], [[JiangTaigong|姜太公]], and general law pages were kept closed because the bounded additions are represented in the focused source, figure, text, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,129 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

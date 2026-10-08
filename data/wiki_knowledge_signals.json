@@ -138816,6 +138816,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
     },
+    "LegalPenaltyStabilityAgainstSovereignAnger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2） [liXKic0BkZJC0EHyUpeolNQMuxs-].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/legalpenaltystabilityagainstsovereignanger/"
+    },
     "LegalServicesAIEconomics": {
       "episode_count": 2,
       "show_count": 2,
@@ -148136,6 +148152,36 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/liuhepagoda/"
+    },
+    "Liutao": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书 [lqwjO13ZzfGTNdpAjzPUVrb2h4l2].md",
+          "key": "zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》30丨苏秦的“开挂”人生 [lkmn-FrUuKDXgkDdx7Zb4Lc3O9bW].md",
+          "key": "zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》30丨苏秦的“开挂”人生",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2） [liXKic0BkZJC0EHyUpeolNQMuxs-].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liutao/"
     },
     "LiveHumanFeeling": {
       "episode_count": 6,
@@ -218946,9 +218992,9 @@
       "url": "/wiki/entities/sittingbull/"
     },
     "SituationalCharacterTests": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
@@ -218984,6 +219030,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2） [liXKic0BkZJC0EHyUpeolNQMuxs-].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs/"
         }
       ],
       "updated": "2026-08-28",
@@ -267563,9 +267616,9 @@
       "url": "/wiki/entities/zhangshipinglatehan/"
     },
     "ZhangShizhiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
@@ -267580,6 +267633,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2） [liXKic0BkZJC0EHyUpeolNQMuxs-].md",
+          "key": "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs/"
         }
       ],
       "updated": "2026-10-09",

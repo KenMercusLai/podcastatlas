@@ -52079,6 +52079,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LegalPenaltyStabilityAgainstSovereignAnger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LegalRiskAcquirerFit": [
     {
       "key": "economics",
@@ -105134,6 +105141,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10010
+wiki_total_pages: 10011
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "LateHanWudiDisplacementCrisis"
     title: "汉武帝晚年流民危机 / Late Han Wudi Displacement Crisis"
     url: "/wiki/concepts/latehanwudidisplacementcrisis/"
+  - key: "LegalPenaltyStabilityAgainstSovereignAnger"
+    title: "法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger"
+    url: "/wiki/concepts/legalpenaltystabilityagainstsovereignanger/"
   - key: "LegalComplexityDiscretionPower"
     title: "法律繁密与裁量权力 / Legal Complexity Discretion Power"
     url: "/wiki/concepts/legalcomplexitydiscretionpower/"

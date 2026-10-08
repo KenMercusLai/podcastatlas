@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs.md) — 张释之以惊驾罚金与盗庙玉环两案拒绝随文帝君怒加刑，并借刑罚层级维护法律公信；节目另以《六韬》“六守”说明情境式识人。
 - [《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）](sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86.md) — 季布以“一誉而召、一毁而去”直指文帝任官摇摆；贾谊因诸侯归国主张触动王侯与功臣利益，被外放长沙，其“保护性贬谪”仍属节目推断。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（1）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-1-lqlbul2drksmqgmligaelawflsvq8.md) — 张释之从久滞骑郎经袁盎举荐进入文帝身边，以啬夫任官、司马门拦太子梁王和霸陵谈棺三事，分别校正口才识人、宗室越礼与厚葬防盗的判断。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip.md) — 标题虽指向审食其，正文实际讲匈奴右贤王入寇、刘兴居因诛吕后分配失衡而叛乱，以及文帝以军事部署和限期赦免瓦解济北叛军。
@@ -4199,7 +4200,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
-- [张释之 / Zhang Shizhi (Western Han)](entities/ZhangShizhiWesternHan.md) — 经袁盎举荐获得近臣通道，以不凭口才取人、宫门规则不避储君诸侯和薄葬防盗进谏形成制度型直臣画像。
+- [张释之 / Zhang Shizhi (Western Han)](entities/ZhangShizhiWesternHan.md) — 从反对口才替代能力、宫门规则不避储君诸侯和薄葬防盗，延伸到廷尉量刑不随君怒加码的制度型直臣。
 - [刘兴居 / Liu Xingju (Western Han)](entities/LiuXingjuWesternHan.md) — 诛吕后分配失衡背景下起兵、因限期赦免与军事进逼而败亡的济北王。
 - [齐王刘襄 / Liu Xiang (King of Qi)](entities/LiuXiangQiKingWesternHan.md) — 吕后死后在齐地率先起兵并被刘章期待继位，其功劳与落选构成齐王支系后续不满的背景。
 - [城阳王刘章 / Liu Zhang (King of Chengyang)](entities/LiuZhangChengyangKingWesternHan.md) — 在京诛吕产、支持刘襄继位并在后续分封中受封城阳的西汉宗室。
@@ -10303,7 +10304,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [函谷关 / Hangu Pass](entities/HanguPass.md) — 兼具秦国东门、合纵成效试金石、关中入口和汉代可移动行政边界功能的战略关隘。
 - [临淄 / Linzi](entities/Linzi.md) — Qi regional capital and campaign node spanning Warring States prosperity/Jixia, Chu-Han persuasion and kingship, and Geng Yan's Eastern Han tactical capture.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
-- [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
+- [《六韬》 / Six Secret Teachings](entities/Liutao.md) — 兼具军事战略、张良受书和《阴符》辨析三条来源脉络，并由《文韬·六守》扩展出财富、尊位、托付、出使、危险与做事六项识人测试。
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
 - [韩宣惠王 / King Xuanhui of Han](entities/HanXuanhuiwang.md) — Han successor after Han Zhaohou's death in the Zhouji 29 succession cluster.
 - [谬刘 / Miu Liu](entities/MiuLiu.md) — Han adviser who warns Han Xuanhui Wang against appointing two joint chief ministers.
@@ -17080,6 +17081,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger](concepts/LegalPenaltyStabilityAgainstSovereignAnger.md) — 以法定、可预期且有层级的量刑抵抗君主因恐惧、尊严或孝道展示而临时加刑。
 - [毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility](concepts/CourtHearsayAppointmentVolatility.md) — 未经核验的褒贬替代稳定判断时，召用与退回会同时损害用人质量和君主可信度。
 - [新君拥立联盟约束 / New-Ruler Coalition Constraint](concepts/NewRulerCoalitionConstraint.md) — 新君名义居首却仍依赖拥立功臣与宗室联盟，改革偏好因而不等于即时执行能力。
 - [口才替代能力式识人偏差 / Eloquence Bias in Official Selection](concepts/EloquenceBiasInOfficialSelection.md) — 把一次流利作答误当成更广泛任职能力的识人偏差；张释之以迟钝长者和秦亡信息失真反对单一口才信号。
@@ -21718,7 +21720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
-- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Framework for judging character through behavior under changing conditions, including office, wealth, loss, pressure, selective speech, etiquette, delegation, and correction.
+- [情境式识人考察 / Situational Character Tests](concepts/SituationalCharacterTests.md) — 以李克“五观”和《六韬》“六守”为两套子框架，通过财富、权位、压力、托付、任务与日常行为观察品格和角色适配。
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court-access mechanism in which intermediaries make talent or candidacy actionable, while hostile and counterfeit variants show why access cannot substitute for evaluation.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.

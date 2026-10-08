@@ -1,5 +1,5 @@
 ---
-title: "Situational Character Tests / 五观识人法"
+title: "情境式识人考察 / Situational Character Tests"
 type: concept
 tags: [governance, leadership, talent, character, pre-qin-history, late-han]
 sources:
@@ -8,17 +8,20 @@ sources:
   - zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q
   - zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh
   - zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv
+  - zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Situational character tests / 五观识人法 is the personnel-judgment frame where character is inferred from conduct under changing conditions: ordinary relationships, wealth, office, constraint, poverty, success, delegation risk, loss, humiliation, correction, selective speech, and unplanned etiquette.
+情境式识人考察 / situational character tests is the personnel-judgment frame where character and role fitness are inferred from conduct under changing conditions: relationships, wealth, status, entrusted work, missions, danger, poverty, success, loss, correction, selective speech, and unplanned etiquette.
 
 ## Current Synthesis
 
 The formal framework comes from [[LiKe|李克]]'s advice to [[WeiWenhou|魏文侯]] in Zhouji 06. Li Ke does not simply name the correct chancellor; he tells the ruler to observe whom a person is close to in ordinary life, whom they associate with after becoming wealthy, whom they recommend after gaining office, what they refuse to do when trapped, and what they refuse to take when poor. The point is that reputation should be tested across conditions rather than accepted as a label.
+
+The parallel six-condition scheme comes from [[zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs|Hanji 214 part 2]] through [[Liutao|《六韬·文韬·六守》]]. In the episode's rendering, access to wealth, honor, entrusted affairs, external missions, danger, and practical tasks tests 仁、义、忠、信、勇、谋. Unlike Li Ke's five observations, this scheme maps each condition to a named virtue or competence, but both replace untested reputation with behavior under changed incentives and pressure.
 
 Later sources broaden the same logic. Hanji 965 turns success itself into a test through [[WangYunLateHan|王允]]: power, money, or fame reveal whether humility, listening, and proportion survive changed status. Hanji 1029 gives a delegation version through [[SunCe|孙策]] and [[TaishiCi|太史慈]], where character reading authorizes a risky mission because promise-keeping matters more than physical control.
 
@@ -27,17 +30,18 @@ Hanji 860 and Hanji 861 add a teacher-centered version through [[GuoTaiLateHan|�
 ## Key Claims
 
 - Personnel judgment should observe behavior across ordinary, wealthy, promoted, desperate, and poor conditions.
+- The 《六韬》 branch maps wealth, honor, trust, missions, danger, and practical work to six distinct virtues or capacities rather than collapsing them into one reputation score.
 - Later success can function as a character test when power changes how a person hears advice and treats others.
 - Risky delegation can be justified when prior conduct supports trust in promise-keeping and recognition.
-- Small incidents can reveal character when they show a person's response to irreversible loss or humiliation.
-- Topic choice, bodily comportment, and household allocation can reveal judgment when they are read in context.
+- Small incidents can reveal character through responses to loss or humiliation, topic choice, bodily comportment, and household allocation when read in context.
 - Corrective mentorship tests whether fault hardens into resentment or can turn into self-examination.
-- The framework supports [[TalentReferralQuality|荐才层级质量]] because recommendation behavior reveals the kind of people a candidate brings into power.
+- Recommendation behavior and task performance reveal different dimensions of role fitness, so no single signal should stand in for the whole person.
 
 ## Evidence
 
 - Five-condition framework: [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v|Zhouji 06 part 1]] has Li Ke advise Wei Wenhou to judge people by relationships, associates after wealth, referrals after promotion, refusals under duress, and refusals under poverty.
 - Referral quality: [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v|Zhouji 06 part 1]] compares Di Huang's useful recommendations with Wei Cheng's ability to attract teacher-level figures such as Zi Xia, Tian Zifang, and Duan Ganmu.
+- Six-condition virtue and competence map: [[zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs|Hanji 214 part 2]] says wealth tests 仁, honor tests 义, entrusted affairs test 忠, missions test 信, danger tests 勇, and practical work tests 谋.
 - Success as test: [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] uses Wang Yun after Dong Zhuo's death to argue that changed power exposes whether humility and situation judgment endure.
 - Delegation trust: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] says Sun Ce trusts Taishi Ci's mission return because he reads promise-keeping and recognition across prior encounters.
 - Selective speech as test: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] has Guo Tai interpret Xu Zhi's refusal to discuss court affairs with Mao Rong as discerning restraint rather than failure.
@@ -48,13 +52,13 @@ Hanji 860 and Hanji 861 add a teacher-centered version through [[GuoTaiLateHan|�
 
 ## Counterevidence & Qualifications
 
-The concept is a judgment aid, not a guarantee. Hanji 861's Huang Yun thread and Hanji 965's Wang Yun thread both warn that early praise or past merit can fail under later conditions. Hanji 860's small-scene readings also require context: silence, posture, or household choices can be misread if detached from circumstance. Situational testing can become abusive if a test's form is detached from the source's moral-literary setting; the wiki records the logic of observed conduct, not a blanket endorsement of humiliation or manipulation.
+The concept is a judgment aid, not a guarantee. Hanji 861's Huang Yun thread and Hanji 965's Wang Yun thread both warn that early praise or past merit can fail under later conditions. Hanji 860's small-scene readings also require context: silence, posture, or household choices can be misread if detached from circumstance. Hanji 214 part 2 reports the “六守” mapping but does not validate it as a predictive instrument or explain how a ruler can create the test conditions without inviting corruption, coercion, or unnecessary danger. Situational testing can become abusive when observation turns into manipulation; the wiki records the source traditions' logic, not a blanket endorsement of engineered temptation or humiliation.
 
 ## What Changed
 
-- The page is now migrated to `synthesis-v1` and treats Hanji 861 as a teacher-centered extension of situational character judgment.
-- Character testing now includes responses to irreversible loss, humiliation, and corrective trust, not only office-selection and delegation cases.
-- Hanji 860 adds selective speech, unplanned etiquette, and filial allocation as small-scene evidence.
+- Added the 《六韬·六守》 branch and its six-condition mapping of behavior to 仁、义、忠、信、勇、谋.
+- Broadened the title from “五观识人法” to the umbrella “情境式识人考察” so Li Ke's five observations and the 《六韬》 six tests remain distinct sub-frameworks.
+- Added the boundary between observing naturally revealed conduct and manufacturing coercive tests.
 
 ## Related Concepts
 
@@ -64,3 +68,4 @@ The concept is a judgment aid, not a guarantee. Hanji 861's Huang Yun thread and
 - [[TalentVirtueDistinction|才德之分]] - neighboring talent-evaluation problem where ability and moral reliability diverge.
 - [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - adjacent public test of whether respect survives status pressure.
 - [[EmptyReputationRealityGap|空誉违实]] - failure mode where reputation outruns tested conduct.
+- [[Liutao|《六韬》]] - text supplying the six-condition wealth, status, trust, mission, danger, and task branch.
