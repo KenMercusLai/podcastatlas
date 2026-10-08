@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2621
+topic_total_pages: 2622
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5436,6 +5436,9 @@ topic_sources:
   - key: "209-londinium-part-1-glt8659020002"
     title: "209. Londinium (Part 1)"
     url: "/wiki/sources/209-londinium-part-1-glt8659020002/"
+  - key: "21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso"
+    title: "21 东西方的死刑：从十字架到炮决"
+    url: "/wiki/sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso/"
   - key: "21-the-history-of-the-future-glt7103118075"
     title: "21. The History of the Future"
     url: "/wiki/sources/21-the-history-of-the-future-glt7103118075/"

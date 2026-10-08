@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [21 东西方的死刑：从十字架到炮决](sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso.md) — 怪东西比较中西死刑方法，将处决区分为剥夺生命、身份羞辱、身体毁坏、公开震慑与政治展示，并保留史料、文学和殖民凝视的证据边界。
 - [#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目](sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979.md) — 声东击西十周年骑行节目，以景山至三里屯路线连接北京的遗产保护、街道治理、商业重组、亮马河更新与规划不确定性。
 - [184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘](sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt.md) — 起朱楼宴宾客 third-quarter investment review on late-cycle allocation, refinancing-lag credit risk, a five-step major-decision framework, and a bounded overseas long-duration bond sleeve.
 - [22 东西方的疯王：尼禄与汉灵帝会是知己吗？](sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r.md) — 怪东西以尼禄与汉灵帝比较艺术、表演、政治能力、私人欲望与公共责任，并区分精神疾病、暴虐、无能和后世污名。
@@ -17009,6 +17010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Capital Punishment as Political Spectacle / 死刑作为政治景观](concepts/CapitalPunishmentAsPoliticalSpectacle.md) — Uses execution place, audience, duration, bodily treatment, and aftermath to communicate authority and terror beyond the condemned person's death.
+- [Execution Status and Body Integrity / 处刑身份与身体完整性](concepts/ExecutionStatusAndBodyIntegrity.md) — Compares how execution methods encode rank, honor, disgrace, bodily wholeness, and burial dignity across legal cultures.
 - [Urban Route Field Observation / 城市路线式观察](concepts/UrbanRouteFieldObservation.md) — Uses a deliberately traversed path to connect visible places, remembered earlier states, and policy context into a spatial account of change.
 - [Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划](concepts/AdaptiveUrbanPlanningUnderUncertainty.md) — Keeps collective direction while limiting dependence on precise long-range forecasts and preserving capacity for revision.
 - [Living Heritage Operational Tradeoff / 活态遗产运行权衡](concepts/LivingHeritageOperationalTradeoff.md) — Negotiation among material conservation, everyday public use, mobility, tourism, and continuing memory at active historic sites.

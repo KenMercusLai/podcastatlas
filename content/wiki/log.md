@@ -32705,3 +32705,11 @@ Added source `406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-sh
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 21 东西方的死刑：从十字架到炮决
+
+Added source `21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso`; created [[CapitalPunishmentAsPoliticalSpectacle|死刑作为政治景观]] and [[ExecutionStatusAndBodyIntegrity|处刑身份与身体完整性]]; and resynthesized [[CapitalPunishmentRetributionProblem]], [[GuillotineReformSpectacleParadox]], [[RomanCrucifixionAsPublicHumiliation]], [[CorporalPunishmentHarmReduction|肉刑执行减害]], and [[PublicCorpseHumiliation|公开尸体羞辱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: historical execution often joined death to status degradation, bodily destruction, kin liability, public warning, and political display, while more rapid, equal, reliable, or hidden methods changed administration and spectacle without settling abolition or state authority. No settled contradiction was adopted. Cross-regional similarity is not institutional equivalence; the episode's 2021 country count is time-bounded, and technical mechanics, dates, numbers, motives, literary punishments, colonial representations, and modern-use claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,094 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

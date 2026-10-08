@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9977
+wiki_total_pages: 9979
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "CapitalMarketShellStory"
     title: "Capital Market Shell Story"
     url: "/wiki/concepts/capitalmarketshellstory/"
+  - key: "CapitalPunishmentAsPoliticalSpectacle"
+    title: "Capital Punishment as Political Spectacle / 死刑作为政治景观"
+    url: "/wiki/concepts/capitalpunishmentaspoliticalspectacle/"
   - key: "CapitalPunishmentRetributionProblem"
     title: "Capital Punishment Retribution Problem"
     url: "/wiki/concepts/capitalpunishmentretributionproblem/"

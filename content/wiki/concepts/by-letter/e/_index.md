@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9977
+wiki_total_pages: 9979
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "ExchangeableCapability"
     title: "Exchangeable Capability / 可交换能力"
     url: "/wiki/concepts/exchangeablecapability/"
+  - key: "ExecutionStatusAndBodyIntegrity"
+    title: "Execution Status and Body Integrity / 处刑身份与身体完整性"
+    url: "/wiki/concepts/executionstatusandbodyintegrity/"
   - key: "ExecutiveFunction"
     title: "Executive Function"
     url: "/wiki/concepts/executivefunction/"
