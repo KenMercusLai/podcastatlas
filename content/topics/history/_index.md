@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2620
+topic_total_pages: 2621
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5469,6 +5469,9 @@ topic_sources:
   - key: "219-justinian-making-rome-great-again-part-2-glt2369595847"
     title: "219. Justinian: Making Rome Great Again (Part 2)"
     url: "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+  - key: "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r"
+    title: "22 东西方的疯王：尼禄与汉灵帝会是知己吗？"
+    url: "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
   - key: "22-weird-wars-glt2360848948"
     title: "22. Weird Wars"
     url: "/wiki/sources/22-weird-wars-glt2360848948/"

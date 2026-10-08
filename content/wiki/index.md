@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [22 东西方的疯王：尼禄与汉灵帝会是知己吗？](sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r.md) — 怪东西以尼禄与汉灵帝比较艺术、表演、政治能力、私人欲望与公共责任，并区分精神疾病、暴虐、无能和后世污名。
 - [23 张向荣&陆大鹏：如何学古文，如何学英语](sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq.md) — 怪东西以英语、德语和文言文对照语境化学习、广泛阅读、跨媒介输入、注释本、文化常识与容忍部分不理解的方法。
 - [24 东西方的饭局：最后的晚餐与兰亭雅集](sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp.md) — 怪东西以最后的晚餐与兰亭雅集比较服务、背叛、悔悟、圣餐、无常、诗书艺术与有限生命的意义，同时保留福音史实和《兰亭集序》文本形成的边界。
 - [25 东西方的卖官鬻爵](sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az.md) — 怪东西比较秦汉鬻爵、明清捐纳、法国袍服贵族、哈布斯堡授爵、英国军衔买卖与圣职交易，区分财政、流动、能力和合法性效应。

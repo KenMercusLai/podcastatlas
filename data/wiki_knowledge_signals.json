@@ -71632,6 +71632,309 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorhuanofhan/"
     },
+    "EmperorLingOfHan": {
+      "episode_count": 42,
+      "show_count": 2,
+      "source_note_count": 42,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
+          "key": "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
+          "key": "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》899丨好清斗贪官",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
+          "key": "zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》902丨控制情绪是人生必修课 [ljYNYlVdLSDTjF4ES9jmIlAV863b].md",
+          "key": "zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》902丨控制情绪是人生必修课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
+          "key": "zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》905丨富贵如何险中求？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？ [lvc3WEDriFdZdU_yv1QHOCl8usS2].md",
+          "key": "zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者 [lqih1DradHzI0mipxSaieDD52dLJ].md",
+          "key": "zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
+          "key": "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府 [lp2fvuYb8AMPzoEYR7Znztnr0fgK].md",
+          "key": "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
+          "key": "zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》911丨古代公务员也能包分配？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？ [lhSgiPxwC17PaHc-R6Jl7xDyrS2A].md",
+          "key": "zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
+          "key": "zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？ [lmZudJq5zFkfSUKMhDeIuMESM9qu].md",
+          "key": "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
+          "key": "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
+          "key": "zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死 [lj1dk4QdgcaGo9eLR7ctuVre3zIC].md",
+          "key": "zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？ [lsXIqNEYyEOd6AeeQxuhs517PN1X].md",
+          "key": "zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝 [liFZh-GohPqNmdzNnfV72tNDQf8H].md",
+          "key": "zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》927丨做生意的最高境界是什么？ [lnGFBjN6Xui9K_9LP-IHdQKhpBpR].md",
+          "key": "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》927丨做生意的最高境界是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利 [lgup21LsA-U1yKAIyaBCko2vHP0O].md",
+          "key": "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？ [lvwZeL782wCxS1lPt3Rg2vmKdy29].md",
+          "key": "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
+          "key": "zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》935丨人活一口气，难成的是自己 [lmy8tyRTTV_gJvKe7Sdi6dx_OOpW].md",
+          "key": "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》935丨人活一口气，难成的是自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？ [lmL_kUyC7yYS2IJH2KT46PWNUgAR].md",
+          "key": "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？ [lp7PRzsMAg9oOKq7eOiSvSmnm5Aw].md",
+          "key": "zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
+          "key": "zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？ [lk6IdoGWMC54Nk1Sdfc5wOnYVGbB].md",
+          "key": "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb/"
+        },
+        {
+          "episode_file": "lsqM_wmzkgNQXq7jrtQshw6Ifw2R [lsqM_wmzkgNQXq7jrtQshw6Ifw2R].md",
+          "key": "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r",
+          "show": "怪东西Weird History",
+          "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
+          "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/emperorlingofhan/"
+    },
     "EmperorMingOfHan": {
       "episode_count": 14,
       "show_count": 1,
@@ -109348,9 +109651,9 @@
       "url": "/wiki/concepts/historicalreenactmentpolitics/"
     },
     "HistoricalReputationConstruction": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3313769671 [GLT3313769671].md",
@@ -109386,9 +109689,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》286｜惨被误解千年，朱买臣休妻的反转真相（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f/"
+        },
+        {
+          "episode_file": "lsqM_wmzkgNQXq7jrtQshw6Ifw2R [lsqM_wmzkgNQXq7jrtQshw6Ifw2R].md",
+          "key": "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r",
+          "show": "怪东西Weird History",
+          "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
+          "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalStructureAgencyCausation": {
@@ -117752,9 +118062,9 @@
       "url": "/wiki/concepts/imperialpatrondependency/"
     },
     "ImperialPerformancePolitics": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7241559003 [GLT7241559003].md",
@@ -117762,9 +118072,16 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "lsqM_wmzkgNQXq7jrtQshw6Ifw2R [lsqM_wmzkgNQXq7jrtQshw6Ifw2R].md",
+          "key": "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r",
+          "show": "怪东西Weird History",
+          "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
+          "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/imperialperformancepolitics/"
     },
     "ImperialPetitionOffenseRisk": {
@@ -169184,9 +169501,9 @@
       "url": "/wiki/entities/nepal/"
     },
     "Nero": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -169222,9 +169539,16 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "lsqM_wmzkgNQXq7jrtQshw6Ifw2R [lsqM_wmzkgNQXq7jrtQshw6Ifw2R].md",
+          "key": "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r",
+          "show": "怪东西Weird History",
+          "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
+          "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/nero/"
     },
     "NervousSystemStateFlexibility": {
@@ -174061,9 +174385,9 @@
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
     },
     "OfficeSaleLegitimacyDamage": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？ [lvwit_RZrKScn5A3h6wblNTxpPsO].md",
@@ -174092,9 +174416,16 @@
           "show": "怪东西Weird History",
           "title": "25 东西方的卖官鬻爵",
           "url": "/wiki/sources/25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az/"
+        },
+        {
+          "episode_file": "lsqM_wmzkgNQXq7jrtQshw6Ifw2R [lsqM_wmzkgNQXq7jrtQshw6Ifw2R].md",
+          "key": "22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r",
+          "show": "怪东西Weird History",
+          "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
+          "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/officesalelegitimacydamage/"
     },
     "OfficeSequencePowerReallocation": {

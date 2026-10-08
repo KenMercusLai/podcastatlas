@@ -32681,3 +32681,11 @@ Added source `23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_q
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 22 东西方的疯王：尼禄与汉灵帝会是知己吗？
+
+Added source `22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r`; resynthesized [[Nero]], [[EmperorLingOfHan|汉灵帝]], [[ImperialPerformancePolitics]], [[HistoricalReputationConstruction]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: “mad king” is not a diagnosis, and both rulers show that artistic talent and political intelligence can coexist with coercion, public-to-private conversion, captured feedback, and failure of public responsibility. The comparison remains analytical rather than institutional equivalence; medical labels, motives, dialogue, fiscal effects, Olympic details, and hostile court anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,091 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

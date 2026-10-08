@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29
   - zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj
   - 25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az
-last_updated: 2026-10-08
+  - 22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ knowledge_schema: synthesis-v1
 [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] shows that the same damage can occur without voluntary purchase. [[SimaZhiLateHan|司马直]] is charged an entry fee for [[JuluCommanderyLateHan|巨鹿郡]] and treats the post as a demand to become an extractor. [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] supplies the reputational case: [[CuiLieLateHan|崔烈]] obtains the situ office through payment and palace mediation, but the transaction destroys much of the prestige that previously made him plausible for high office.
 
 [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] provides the necessary comparative boundary. Purchasable honor, student identity, noble status, or eligibility is not always an active office; buyers can be capable, and widened entry can loosen inherited monopoly. Those qualifications do not make payment a good competence test. Legitimacy damage is strongest when money selects officeholders, creates a recoverable sunk cost, or makes public authority appear to be private property.
+
+[[22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r|Weird History episode 22]] returns the mechanism to [[EmperorLingOfHan|汉灵帝]]'s wider governing profile. Office sale was not an isolated fiscal expedient: forced charges on normally appointed officials, proceeds entering the emperor's private store, home-region building, and palace amusement collectively blurred public office, state revenue, and household property. The episode therefore strengthens the patrimonial interpretation without changing the category boundary supplied by episode 25.
 
 ## Key Claims
 
@@ -40,6 +43,7 @@ knowledge_schema: synthesis-v1
 - Purchased prestige and public judgment: [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] reports Cui Lie's five-million-cash route to the situ office and the resulting “stink” judgment.
 - Category boundary: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] distinguishes rank, honor, student status, noble status, inactive title, appointment eligibility, military commission, and active governing post across unlike systems.
 - Individual-capacity qualification: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] uses later achievements by named purchasers to separate criticism of the channel from judgment of every officeholder.
+- Wider governing context: [[22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r|Weird History episode 22]] connects office pricing and compulsory appointment fees to Emperor Ling's private treasury and treatment of state resources as personal property.
 
 ## Counterevidence & Qualifications
 
@@ -51,6 +55,7 @@ The late-Han sources are podcast accounts rather than a complete administrative 
 - Added a strict boundary between governing office and purchasable rank, honor, eligibility, or inactive title.
 - Added capable purchasers and widened elite entry as qualifications to person-level judgments.
 - Preserved recoupment pressure and public credibility as the core institutional harms.
+- Added the broader public-to-private conversion context around Emperor Ling's appointment market.
 
 ## Related Concepts
 

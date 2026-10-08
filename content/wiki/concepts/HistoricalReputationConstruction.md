@@ -8,7 +8,8 @@ sources:
   - 36-our-greatest-prime-minister-glt9826873277
   - 35-the-prime-ministers-world-cup-glt6124252189
   - zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f
-last_updated: 2026-10-07
+  - 22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,6 +30,8 @@ Reputation construction is therefore neither a single fabrication nor the passiv
 Popular voting is another active reputation mechanism. Vague criteria let voters rank achievement, moral character, political temperament, current controversy, familiarity, and emotional allegiance at once. The first round shows vivid persona defeating administrative substance, recent controversy overwhelming electoral success, and concise schoolbook associations outperforming diffuse constitutional importance. [[35-the-prime-ministers-world-cup-glt6124252189]] The later rounds add living political constituencies: [[ClementAttlee|Attlee]] benefits from the symbolic force of the [[NHS]] and Labour memory; Gladstone survives without an equivalent Liberal constituency through reform and moral seriousness; Lloyd George's achievements are discounted by misconduct; and Churchill's heroic international status becomes inseparable from culture-war dispute. [[36-our-greatest-prime-minister-glt9826873277]]
 
 Popular theatre supplies a more intimate route to the same effect. [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f|Hanji 286 part 1]] contrasts its reading of [[CuiShiZhuMaichenWife|崔氏]] as a spouse exhausted by hardship and incompatible expectations with the “马前泼水” plot, where she becomes a status-seeking abandoner who returns after [[ZhuMaichenWesternHan|朱买臣]] gains office. The poured-water test, rejected reunion, and shame death compress disputed relationship history into a memorable moral verdict. The source does not trace that transmission fully, but it shows how dramatic causality can displace a thinner historical record in public memory.
+
+The “mad king” label is another form of compression. [[22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r|Weird History episode 22]] uses Charles VI, Henry VI, George III, Sima Zhong, [[Nero]], and [[EmperorLingOfHan|汉灵帝]] to show that psychiatric illness, cognitive incapacity, cruelty, eccentricity, political failure, and successor defamation are not interchangeable. The label remains memorable precisely because it hides those distinctions; responsible revision must reopen them without erasing documented violence or institutional damage.
 
 ## Key Claims
 
@@ -51,15 +54,16 @@ Popular theatre supplies a more intimate route to the same effect. [[zizhi-tongj
 - Platform and present controversy: [[35-the-prime-ministers-world-cup-glt6124252189]] makes Twitter audience skew explicit and uses Blair and Thatcher to show recent controversy reorganizing retrospective judgment.
 - Participatory ranking and living constituencies: [[36-our-greatest-prime-minister-glt9826873277]] links tournament outcomes to moral reputation, political archetype, party memory, current controversy, and the NHS as a durable symbol.
 - Dramatic moral compression: [[zizhi-tongjian-hanji-286-canbei-wujie-qiannian-zhumaichen-xiuqi-de-fanzhuan-zhenxiang-1-lpvzvzomh6u6zbr1ispaiycenl3f|Hanji 286 part 1]] contrasts an incompatibility reading of Cui's departure with the later water-pouring reunion test and punitive ending.
+- Diagnostic and moral compression: [[22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r|Weird History episode 22]] shows “mad king” collapsing illness, incapacity, cruelty, eccentric conduct, and political propaganda into one durable category.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. The Cui revision is itself an episode interpretation based on an unfinished summary, not direct proof of every household fact or private motive. Nor can the causal weight of any single dynasty, author, monument, performance, party, institution, current event, platform, or audience be established from these episodes alone. Material or earlier textual evidence does not automatically defeat later texts, and popularity, familiarity, or vividness does not establish benevolence, guilt, or comparative greatness.
+The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution; Emperor Ling's office sale and private extraction remain institutional failures even if he was intelligent and cultured. The Cui revision is itself an episode interpretation based on an unfinished summary, not direct proof of every household fact or private motive. Nor can the causal weight of any single dynasty, author, monument, performance, party, institution, current event, platform, or audience be established from these episodes alone. Material or earlier textual evidence does not automatically defeat later texts, popularity does not establish benevolence, and retrospective labels cannot supply psychiatric diagnoses.
 
 ## What Changed
 
-- Added popular performance and repeatable judgment scenes as mechanisms that can moralize ambiguous private history.
-- Added the need to treat revisionist retellings as interpretations rather than automatic exoneration.
+- Added “mad king” as a diagnostic-and-moral compression that must be decomposed claim by claim.
+- Added the boundary that source criticism and recognition of ruler ability do not erase documented coercion or institutional damage.
 
 ## Related Concepts
 
