@@ -7,7 +7,8 @@ sources:
   - how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639
   - how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503
   - science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820
-last_updated: 2026-10-02
+  - essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The practical move is not forced optimism. [[ElissaEpel]] emphasizes believable 
 The solo Huberman episode adds [[AliCrum]]'s stress-is-enhancing framing and pairs it with [[GrowthMindset]]. The combined logic is sequential: ability can change, errors can guide a next action, and manageable arousal can be interpreted as the body mobilizing resources for that action. This synergy remains conditional on genuine resources and does not convert chronic overload or danger into productive challenge.
 
 The direct Crum interview adds a value-and-action sequence: acknowledge stress instead of denying it, welcome its connection to something one cares about, and utilize the mobilized response toward the relevant goal. Workplace and Navy SEAL examples suggest that stress mindset can predict or influence symptoms and performance, but they do not make combat, poverty, cancer, or other adversity beneficial.
+
+The condensed Epel episode reinforces credibility as the gate. A racing heart can be read as resource mobilization only when the person can plausibly connect the arousal to skill, support, purpose, or a workable goal; the lion-and-gazelle image does not make equal activation physiologically or situationally equivalent.
 
 ## Key Claims
 - Threat and challenge are presented as different stress-response patterns, not just different labels for the same feeling.
@@ -47,14 +50,15 @@ The direct Crum interview adds a value-and-action sequence: acknowledge stress i
 - Workplace intervention - [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] reports fewer stress-related symptoms and better performance after UBS employees watched stress-enhancing rather than stress-debilitating material.
 - High-demand selection - [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] reports that a more stress-enhancing mindset among Navy SEAL recruits predicted completion, obstacle-course speed, and peer ratings.
 - Goal-directed sequence - [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] defines stress around adversity in goal-related efforts and proposes acknowledging, welcoming, and utilizing the response.
+- Credible stress shields - [[essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268]] uses personally believable scripts and the lion-versus-gazelle metaphor to distinguish energized pursuit from threat under high arousal.
+- Condensed outcome boundary - [[essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268]] reports better problem-solving, positive emotion, recovery, inflammation markers, and telomere associations while omitting the methods needed for universal causal claims.
 
 ## Counterevidence & Qualifications
 Reappraisal should not be used to deny real danger, coercion, combat, trauma, discrimination, poverty, cancer, illness, sleep disruption, or material constraint. The sources imply that scripts must be believable and resources must be real; uncontrollable chronic stressors may call for acceptance, support, recovery, treatment, or environmental change rather than challenge framing. The workplace study is an intervention report, whereas the Navy SEAL findings described here are predictive and do not establish causality. Physiology, inflammation, telomere, cortisol, DHEA, blood-flow, and intervention-effect claims remain source-scoped without complete methods in these episode notes.
 
 ## What Changed
-- Added the acknowledge-welcome-utilize sequence linking stress to values and goal-directed action.
-- Added workplace intervention and Navy SEAL predictive evidence while separating causal from correlational claims.
-- Extended the adversity boundary to combat, poverty, cancer, treatment, and environmental change.
+- Reinforced personally credible resource reminders as the gate for challenge reappraisal.
+- Added the lion-versus-gazelle distinction while keeping performance, inflammation, recovery, and telomere findings source-scoped.
 
 ## Related Concepts
 - [[StressResponseRecovery]] - broader stress-response and recovery umbrella.

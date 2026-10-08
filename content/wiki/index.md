@@ -4134,6 +4134,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [302-国家应该立法禁止青少年使用社交媒体吗？](sources/302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d.md) — 独树不成林 episode on Jonathan Haidt, Australia's under-16 social-media law, coordinated age norms, phone-free schools, childhood restoration, and unequal access to offline alternatives.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
+- [Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268.md) — Condensed Huberman Lab interview on stress recovery, threat-versus-challenge appraisal, purposeful difficulty, biological-aging evidence, radical acceptance, uncertainty tolerance, and narrative meaning.
 
 ## Entities
 - [马戛尔尼 / George Macartney](entities/GeorgeMacartney.md) — 率领1793年访华使团、其外交要求与科学礼品意义均受翻译塑造的英国使节。

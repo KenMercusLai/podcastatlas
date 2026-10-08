@@ -5,7 +5,8 @@ tags: [stress, acceptance, emotion, resilience]
 sources:
   - control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803
   - default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195
-last_updated: 2026-10-07
+  - essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The Epel source uses radical acceptance for non-negotiable chronic stressors suc
 The practical image is “dropping the rope”: when effort is spent pulling against a wall that will not move, releasing the struggle can free energy for presence, care, boundaries, recovery, or small available actions. Vizcaíno's acute survival account converges on the same distinction from a radically different setting: he says ceasing futile struggle in the ocean let him relax, read the current, preserve energy, and notice a path toward shore.
 
 The combined synthesis is response reallocation, not passivity. Some conditions can be changed, some cannot, and some contain both layers at once. Acceptance concerns the constraint that is currently real; action concerns the remaining margin. The chronic-stress source supplies the broader practice frame, while the survival source remains autobiographical and does not prove that acceptance, gratitude, or altered consciousness caused rescue.
+
+The condensed Epel episode makes this an explicit decision rule: “muscle” through a problem when effort can produce a result, and release when the obstacle is effectively a wall. Radical acceptance is repeated rather than final because attention can return to wishing, worrying, and attempted control even when the external condition has not changed.
 
 ## Key Claims
 - Radical acceptance is used for chronic stressors that cannot be directly solved or removed.
@@ -37,13 +40,15 @@ The combined synthesis is response reallocation, not passivity. Some conditions 
 - Dropping-the-rope image - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] uses the rope-and-brick-wall image to describe stopping futile effort against unchangeable reality.
 - Remaining action - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] gives loving presence and small acts of care as examples of what may remain possible.
 - Acute survival analogy - [[default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195]] has [[AlvaroVizcaino|Álvaro Vizcaíno]] describe stopping futile struggle, relaxing in the water, reading the current, and redirecting remaining energy toward shore.
+- Repeated decision practice - [[essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268]] presents acceptance as repeatedly loosening one's grip and sorting productive effort from an immovable wall.
 
 ## Counterevidence & Qualifications
 Acceptance should not be used to normalize abuse, prevent help-seeking, or avoid action where action is possible. The sources treat flexible response selection as the core: work when effort is productive, release when facing a wall, and preserve support and safety boundaries. Vizcaíno's spiritual and causal interpretation is first-person testimony, and his use of “surrender” is internally unstable because he later reserves that word for choosing not to act.
 
 ## What Changed
-- Added an acute survival analogy that separates accepting an immovable condition from using the remaining margin for action.
-- Preserved the chronic-stress source as the broader practice frame and kept the survival mechanism autobiographical.
+- Added the explicit work-when-effective, release-at-the-wall decision rule.
+- Clarified radical acceptance as a repeated attention practice rather than a one-time conclusion.
+- Retained the distinction between chronic-practice evidence and autobiographical survival analogy.
 
 ## Related Concepts
 - [[StressResponseRecovery]] - broader stress-recovery framework.

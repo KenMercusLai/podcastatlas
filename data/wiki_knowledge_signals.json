@@ -68999,9 +68999,9 @@
       "url": "/wiki/entities/elisabethmarieofaustria/"
     },
     "ElissaEpel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -69009,9 +69009,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/elissaepel/"
     },
     "EliteCrisisBurdenSharing": {
@@ -195170,9 +195177,9 @@
       "url": "/wiki/concepts/racializedancestralclaimmaking/"
     },
     "RadicalAcceptanceChronicStress": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -195187,9 +195194,16 @@
           "show": "Tomorrow, Today",
           "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/radicalacceptancechronicstress/"
     },
     "RadiographerClinicalResponsibility": {
@@ -222934,9 +222948,9 @@
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
     "StressBiologicalAging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -222944,9 +222958,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/stressbiologicalaging/"
     },
     "StressEatingRewardLoop": {
@@ -222973,9 +222994,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -223011,9 +223032,16 @@
           "show": "Huberman Lab",
           "title": "Master Stress: Tools for Managing Stress & Anxiety",
           "url": "/wiki/sources/scim8789190900-scim8789190900/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/stressresponserecovery/"
     },
     "StressUrinaryIncontinence": {
@@ -232661,9 +232689,9 @@
       "url": "/wiki/entities/thomasvenner/"
     },
     "ThreatChallengeStressReappraisal": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -232692,9 +232720,16 @@
           "show": "Huberman Lab",
           "title": "Science of Mindsets for Health & Performance | Dr. Alia Crum",
           "url": "/wiki/sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
     },
     "ThreeDayWeekUK1974": {
@@ -238767,9 +238802,9 @@
       "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
     },
     "UncertaintyToleranceResilience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -238777,9 +238812,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM5466682268 [SCIM5466682268].md",
+          "key": "essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268",
+          "show": "Huberman Lab",
+          "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+          "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/uncertaintytoleranceresilience/"
     },
     "UnconsciousComplexRepetition": {

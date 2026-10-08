@@ -32497,3 +32497,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel
+
+Added source `essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268`; resynthesized [[ElissaEpel]], [[StressResponseRecovery]], [[ThreatChallengeStressReappraisal]], [[StressBiologicalAging]], [[RadicalAcceptanceChronicStress]], and [[UncertaintyToleranceResilience]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: stress outcomes depend on recovery as well as exposure; subjective calm can coexist with bodily vigilance; credible challenge appraisal can make manageable arousal useful; and resilient coping requires acting where effort can work while repeatedly releasing futile control over immovable constraints. No settled contradiction was adopted. Inflammation, telomere, mitochondrial, hippocampal, mood, anxiety, depression, and long-term-health claims remain source-scoped because the condensed episode omits full methods, effect sizes, replication evidence, and causal identification. Broad [[HubermanLab]], [[AndrewHuberman]], and [[RuminationVsReflection]] pages were linked for context but kept closed because the focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,067 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
