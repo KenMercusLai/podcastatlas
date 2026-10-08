@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf.md) — 刘余的孔壁古文发现构成相对温和的对照；刘建与刘端则分别显示谋反案终局和宗室保护下的长期地方问责失灵。
 - [Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV](sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725.md) — All-In episode on agent work intensification, private AI deployment, token budgets, prediction-market information asymmetry, U.S. debt risk, and Ferrari's first EV.
 - [《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死](sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le.md) — 袁盎遇刺案由修路争议追到梁王宫中；韩安国迫使刘武交出羊胜、公孙诡，田叔则在认定死罪后焚毁案卷，以牺牲证据和同等执法换取宗室、太后与朝廷的暂时和解。
 - [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
@@ -4105,6 +4106,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 ## Entities
+- [鲁共王刘余 / Liu Yu, King of Lu (Western Han)](entities/LiuYuLuKingWesternHan.md) — 因扩建宫室而与孔子旧宅壁中古文经典发现相连、同时保留营建扰民边界的西汉鲁王。
 - [临江王刘荣 / Liu Rong (Western Han)](entities/LiuRongWesternHan.md) — 被废太子因宫地案入狱并自杀，其死亡被节目放入刘彻继承安全与窦太后追责郅都的政治链条。
 - [邹阳 / Zou Yang (Western Han)](entities/ZouYangWesternHan.md) — 梁国说客，以王氏家族自利建立说情渠道，再借舜与象的兄弟故事缓和景帝对刘武的怒气。
 - [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 先以宋宣公旧事劝阻窦太后立梁王，后因反对梁国修路等事遭到梁王近臣组织的刺杀，完整王命仍受毁卷与来源边界限制。

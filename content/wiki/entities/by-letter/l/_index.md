@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12699
+wiki_total_pages: 12700
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2576,6 +2576,9 @@ wiki_pages:
   - key: "LuGonggong"
     title: "鲁共公 / Duke Gong of Lu"
     url: "/wiki/entities/lugonggong/"
+  - key: "LiuYuLuKingWesternHan"
+    title: "鲁共王刘余 / Liu Yu, King of Lu (Western Han)"
+    url: "/wiki/entities/liuyulukingwesternhan/"
   - key: "LuCountyChuHan"
     title: "鲁县 / Lu County (Chu-Han)"
     url: "/wiki/entities/lucountychuhan/"
