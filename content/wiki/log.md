@@ -32307,3 +32307,11 @@ Added source `essentials-the-science-of-love-desire-attachment-scim2867774522`; 
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 302-国家应该立法禁止青少年使用社交媒体吗？
+
+Added source `302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d`; resynthesized [[DushuBuchenglin|独树不成林]], [[JonathanHaidt|Jonathan Haidt]], [[TheAnxiousGeneration|The Anxious Generation]], [[SocialMediaAgeBans]], and [[PhoneBasedChildhoodDisplacement]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Haidt's four norms operate as collective-action and replacement infrastructure rather than private screen abstinence, while Australia's early account-removal success must be separated from later evidence about continued use, time spent, privacy, and evasion. No settled contradiction was adopted; account closures, false positives, youth support, mental-health mechanisms, sex differences, and the seven-part AI-era diagnosis remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,043 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

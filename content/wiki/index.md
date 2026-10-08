@@ -4110,6 +4110,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉](sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123.md) — 声动早咖啡 roundup on multi-city holiday travel, Skydance-Warner integration, Nobel science, Apple-LG smart-home devices, Nike restructuring, Emmy streaming, Huawei-Qualcomm patents, aviation surcharges, and Starbucks labeling.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
+- [302-国家应该立法禁止青少年使用社交媒体吗？](sources/302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d.md) — 独树不成林 episode on Jonathan Haidt, Australia's under-16 social-media law, coordinated age norms, phone-free schools, childhood restoration, and unequal access to offline alternatives.
+
 ## Entities
 - [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
 - [臧儿 / Zang Er (Western Han)](entities/ZangErWesternHan.md) — 王娡之母，被节目呈现为以家族记忆、相面预言与关系渠道推动女儿离开初婚并进入太子宫的母系策略者。

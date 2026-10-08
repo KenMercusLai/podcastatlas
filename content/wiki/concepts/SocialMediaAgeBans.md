@@ -8,7 +8,8 @@ sources:
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym
   - home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e
-last_updated: 2026-09-24
+  - 302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d
+last_updated: 2026-10-08
 ---
 
 # Social Media Age Bans
@@ -20,6 +21,8 @@ Social media age bans are laws or proposals that block children below a threshol
 The complete evidence treats youth social-media age bans as a child-safety policy with four separable questions: what services and account functions are covered, whether exclusion changes use, how age is established, and whether regulation makes platforms safer. The international branch in [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]], [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]], and [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] distinguishes account restrictions from a general internet ban and presents bans as possible norm-setting and family-coordination tools even when enforcement is incomplete.
 
 [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] materially weakens confidence in near-term exclusion. The episode cites research finding that about 85% of affected Australian under-16s still used the same platforms three months after restrictions began, with little change in time use among 12- and 13-year-olds. Teenagers reported easy evasion through false ages, shared accounts, and relatives' details. This conflicts with an earlier source-scoped estimate of a 20%-40% usage decline, so current effectiveness evidence is contested rather than settled.
+
+[[302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d]] preserves an earlier optimistic implementation snapshot: cross-party backing, platform cooperation, 4.5 million account closures, few reported adult false positives, and claimed youth support. Read against later use evidence, it sharpens the measurement problem. Political support, platform compliance, removed accounts, false positives, evasion, time use, and mental-health outcomes are distinct indicators that can move differently.
 
 The strongest current judgment is that a legal default may still create friction and change norms over time, but a ban should not be judged by account removals alone. Stronger enforcement can turn the policy into identity infrastructure, while a blanket ban can let platforms claim that safety design is unnecessary because children should not be present. Conditional access tied to safety criteria, as described for Canada, better aligns exclusion pressure with [[SocialMediaDesignRegulation]].
 
@@ -36,18 +39,17 @@ The strongest current judgment is that a legal default may still create friction
 - Scope and policy spread - [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]], [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]], and [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] describe international adoption and distinguish account restrictions from closing the open web.
 - Norms and family coordination - [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] compares imperfect enforcement with tobacco and alcohol rules; [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] adds the parent collective-action argument.
 - Early Australian outcomes - [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] cites roughly 85% continued use, unchanged time use for younger teenagers, and easy account evasion, while [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] preserves an earlier 20%-40% decline estimate.
+- Implementation chronology - [[302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d]] records early cross-party support, platform cooperation, account removals, low claimed false positives, and youth approval, providing a baseline whose operational success does not settle later behavioral outcomes.
 - Enforcement and privacy - [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] and [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] connect bans to ID uploads, facial scans, behavioral inference, accuracy limits, data breaches, and government access.
 - Product incentives - [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] contrasts blanket exclusion with Canada's proposed safety-criteria model and reports broader platform safety changes under legal pressure.
 
 ## Counterevidence & Qualifications
-The early Australian figures come from different sources, measures, samples, and moments, and the wiki cannot reconcile them into one causal estimate. A short-run failure to reduce use does not disprove the Australian government's longer-run cultural-norm theory. Conversely, account-removal totals do not prove reduced exposure. Bans can suppress lawful youth speech and community access, while stronger enforcement can impose identity and biometric burdens on all users. Young interviewees' confidence in their own safety knowledge is relevant testimony but not by itself evidence that platform risks are small.
+The early Australian figures come from different sources, measures, samples, and moments, and the wiki cannot reconcile them into one causal estimate. The 4.5 million closure figure can include multiple accounts per child and is not commensurate with self-reported continued use or time-use measures. A short-run failure to reduce use does not disprove the Australian government's longer-run cultural-norm theory. Conversely, account-removal totals, political consensus, and youth approval do not prove reduced exposure or improved health. Bans can suppress lawful youth speech and community access, while stronger enforcement can impose identity and biometric burdens on all users.
 
 ## What Changed
-- Downgraded near-term effectiveness from provisional optimism to contested after the cited 85% continued-use result.
-- Added false ages, shared accounts, and relatives' details as observed evasion routes.
-- Separated account-removal metrics from actual use, time use, and long-term norm change.
-- Added the incentive risk that blanket exclusion may weaken pressure for safer product design.
-- Added conditional access tied to platform safety criteria as an alternative policy design.
+- Added the early Australian implementation baseline of cross-party backing, platform cooperation, account closures, low claimed false positives, and youth support.
+- Strengthened the distinction among political legitimacy, operational account removal, actual use, time use, and health outcomes.
+- Preserved the current contested-effectiveness judgment despite the source's early optimism.
 
 ## Related Concepts
 - [[OnlineAgeVerification]] - age bans require an age-assurance or account-control layer.
