@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2622
+topic_total_pages: 2623
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5403,6 +5403,9 @@ topic_sources:
   - key: "2-civil-war-glt5809911007"
     title: "2. Civil War"
     url: "/wiki/sources/2-civil-war-glt5809911007/"
+  - key: "20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf"
+    title: "20 东西方的强力皇后：吕后与狄奥多拉"
+    url: "/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf/"
   - key: "20-china-glt4329327216"
     title: "20. China"
     url: "/wiki/sources/20-china-glt4329327216/"

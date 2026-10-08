@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-09] ingest | 19 张向荣、陆大鹏：两位80后作家年少时读过的好书
+
+Added source `19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs`; created [[ReadingToWritingPractice]]; and resynthesized [[ChildhoodReadingEcology]], [[ImperfectActionPractice]], [[LuDapeng|陆大鹏]], [[ZhangXiangrong|张向荣]], and [[ZhangDabai|张大白]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: libraries, family shelves, periodicals, comics, peer circulation, postal ordering, and used-book markets form a mixed childhood reading ecology, while translation, imitation, submissions, editorial feedback, reviews, and progressively longer completed work turn reading inputs into practiced craft. No settled contradiction was adopted. The title identifies 张向荣 while the internal summary identifies 张大白, repeating an existing metadata conflict; title-grounded and summary-grounded claims remain separate, and the entities were not merged. Book memories, editions, publication history, career claims, media-market decline, and AI translation forecasts remain source-scoped. The broad Weird History show page was kept closed because the bounded additions are represented in the focused source, people, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,096 sources across 799 overview paragraphs and nine topics.
+
 ## [2026-10-09] ingest | 184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘
 
 Added source `184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt`; created [[MajorInvestmentDecisionFramework|重大投资决策框架]], [[LongDurationBondDefense|长久期债券防守配置]], and [[RefinancingLagCreditTransmission|再融资滞后信用传导]]; and migrated and resynthesized [[LateBullMarketLossRisk|牛市后期亏钱风险]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: market-stage judgment should set a risk anchor rather than pretend to call the exact top, while a consequential allocation should begin with objectives, translate failure into portfolio damage, separate product functions, and use staged triggers. The host's overseas long-duration bond sleeve is personal and conditional, not a universal model portfolio. No settled contradiction was adopted. The new long-duration allocation revises the host's earlier personal avoidance of TLT-like duration exposure, while inflation, rate, fiscal, currency, credit-timing, return, study, and product assumptions remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,092 sources across 799 overview paragraphs and nine topics.
@@ -32694,10 +32698,6 @@ Added source `22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-09] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-09] ingest | #406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目
 
 Added source `406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979`; created [[SongZhuangzhuang|宋壮壮]], [[UrbanRouteFieldObservation|城市路线式观察]], [[AdaptiveUrbanPlanningUnderUncertainty|不确定性下的弹性城市规划]], [[LivingHeritageOperationalTradeoff|活态遗产运行权衡]], [[EcologicalPublicSpaceRenewal|生态型公共空间更新]], and [[UrbanGovernanceCommercialRecomposition|城市治理后的商业重组]]; and resynthesized [[XuTao|徐涛]], [[ShengdongJixi|声东击西]], and [[Beijing]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a traversable route makes decade-scale planning visible in heritage access, street greenery, commercial displacement and return, river connectivity, and rebuilt consumption districts, while the mismatch between long construction cycles and unforeseen shocks supports planning with greater humility and adaptability. No settled contradiction was adopted. Heritage and ecological gains coexist with reduced informal access, standardized streetscapes, and displaced businesses; exact dates, design intent, planning causation, visitor patterns, and commercial effects remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,093 sources across 799 overview paragraphs and nine topics.
@@ -32709,6 +32709,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] ingest | 21 东西方的死刑：从十字架到炮决
 
 Added source `21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso`; created [[CapitalPunishmentAsPoliticalSpectacle|死刑作为政治景观]] and [[ExecutionStatusAndBodyIntegrity|处刑身份与身体完整性]]; and resynthesized [[CapitalPunishmentRetributionProblem]], [[GuillotineReformSpectacleParadox]], [[RomanCrucifixionAsPublicHumiliation]], [[CorporalPunishmentHarmReduction|肉刑执行减害]], and [[PublicCorpseHumiliation|公开尸体羞辱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: historical execution often joined death to status degradation, bodily destruction, kin liability, public warning, and political display, while more rapid, equal, reliable, or hidden methods changed administration and spectacle without settling abolition or state authority. No settled contradiction was adopted. Cross-regional similarity is not institutional equivalence; the episode's 2021 country count is time-bounded, and technical mechanics, dates, numbers, motives, literary punishments, colonial representations, and modern-use claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,094 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 20 东西方的强力皇后：吕后与狄奥多拉
+
+Added source `20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf`; and resynthesized [[Theodora]], [[LuZhi|吕雉]], and [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: female rulers' palace morality and coercive violence must remain visible, but should not displace analysis of political partnership, crisis leadership, institutional continuity, taxation, diplomacy, public burden, and the winner-shaped construction of historical memory. No settled contradiction was adopted. Lu-family documentary loss, young-emperor legitimacy, Modu's intent, policy causation, Theodora's early biography, Nika speech, reform authorship, refuge conditions, and Procopius's motive remain source-scoped or disputed; the comparison does not establish Western Han-Byzantine institutional equivalence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,095 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-09] lint | Wiki health check
 

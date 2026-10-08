@@ -22,12 +22,13 @@ sources:
   - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
   - zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j
   - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
-last_updated: 2026-09-02
+  - 20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf
+last_updated: 2026-10-09
 ---
 
 ## Overview
 
-Lu Zhi / 吕雉 is synthesized as Liu Bang's wife, Western Han founding empress, succession-protection actor, regency power center, and later target of contested historical memory. The older bounded evidence follows her from [[LuGongLiuBangFatherInLaw|吕公]]'s marriage decision through Chu captivity, heqin-family resistance, crown-prince protection, Han Xin's killing, and post-Liu-Bang fear. [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] adds a posthumous memory layer: a historical-record tradition that the [[ChimeiRebellion|赤眉]] violated Western Han imperial mausoleums and allegedly humiliated Lu Zhi's corpse, while the host leaves the exact truth uncertain.
+Lu Zhi / 吕雉 is synthesized as Liu Bang's wife, Western Han founding partner, succession-protection actor, regency ruler, perpetrator of severe palace violence, and later target of contested historical memory. The bounded evidence follows her from [[LuGongLiuBangFatherInLaw|吕公]]'s marriage decision through Chu captivity, heqin-family resistance, crown-prince protection, Han Xin's killing, post-Liu-Bang government, and a source-scoped later tradition about violation of her corpse. The current judgment keeps dynastic stabilization, policy, family defense, coercion, and later winner-shaped memory visible at the same time.
 
 ## Current Profile
 
@@ -41,17 +42,21 @@ The Han Xin episodes make Lu Zhi a capital-security actor with contested moral s
 
 The regency and fear evidence shows Lu Zhi as the expected post-Liu-Bang authority. Chen Ping's survival under her depends on information timing and tactical cooperation, Wang Ling's resistance to Lu-family kingship marks the boundary of her power, and Lu Wan's later explanation treats her as the feared eliminator of non-Liu kings and merit ministers. Hanji 191 remains evidence of Lu Wan's fear and political interpretation, not independent proof of every accusation.
 
+Weird History episode 20 broadens that regency profile beyond elite fear. It treats the Hui and young-emperor years as a roughly fifteen-year transition in which founding ministers, Liu princes, and Lu-family interests were held in a workable balance while taxes were reduced and some Qin legal restrictions, including the book-prohibition tradition, were removed. It also reads Lu-family resources as part of Liu Bang's founding coalition and the later extermination of the Lu clan as a reason to question a victor's simple “disorder suppressed” narrative. These are source-attributed revisions, not proof that every Lu appointment was defensive or every later account was fabricated.
+
+The same source makes the moral limit explicit. The killing of [[LiuRuyi|刘如意]], the deaths or coercion of other Liu princes, and the “human swine” punishment of [[QiJi|戚姬 / 戚夫人]] cannot be dissolved into family protection. Lu Zhi's pragmatic response to [[MaoDunChanyu|冒顿单于]] and the relative domestic stability attributed to her rule enlarge the governing record; they do not excuse private or palace cruelty. Her placement in Shiji and Hanshu and her later exclusion from imperial earth-sacrifice memory show why political defeat can continue to organize a ruler's afterlife.
+
 Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged Chimei violation of her corpse, if treated as tradition rather than established fact, shows how later regime collapse could weaponize Western Han tombs, bodies, and dynastic memory. The wiki therefore keeps this layer tied to [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]] and [[PublicCorpseHumiliation|尸体公开羞辱]] without turning the allegation into a settled biography claim.
 
 ## Key Characteristics
 
-- Marriage-alliance figure whose household tie to Liu Bang begins as Lu Gong's political investment.
-- Wartime hostage and family-security figure during the Chu-Han struggle.
+- Founding-family actor whose marriage alliance and wartime hostage exposure tie Lu-family resources to Liu Bang's rise.
 - Maternal and dynastic protector of Princess Lu Yuan, Liu Ying, and the legitimate empress branch.
 - Capital-security actor whose role in Han Xin's killing is powerful but evidentially contested.
 - Regency power center whose authority shapes Chen Ping, Wang Ling, Zhou Bo, and Lu Wan's later calculations.
-- Feared post-Liu-Bang actor in non-Liu king and merit-minister politics.
-- Posthumous memory figure whose alleged Chimei-era corpse humiliation remains source-scoped.
+- Ruler associated by the newest source with transition stability, tax relief, selected legal repeal, and pragmatic Xiongnu diplomacy.
+- Coercive dynastic defender whose killings and torture remain morally irreducible to family security.
+- Historical-memory figure shaped by anti-Lu victory narratives, later ritual exclusion, and an uncertain Chimei-era corpse-humiliation tradition.
 
 ## Evidence
 
@@ -70,18 +75,20 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 - Regency power: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] contrasts Wang Ling's resistance to Lu-family kingship with Chen Ping and Zhou Bo's tactical ambiguity under Lu Zhi.
 - Capital survival: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] shows Chen Ping surviving by managing Fan Kuai information and his position before Lu Zhi.
 - Fear evidence: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] records Lu Wan's fear that Lu Zhi will eliminate remaining non-Liu kings and merit ministers.
+- Regency governance and violence: [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Weird History episode 20]] joins stability, tax reduction, legal repeal, and Modu diplomacy to the killings of rival princes and the torture of Qi Ji.
+- Founding partnership and memory: [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Weird History episode 20]] argues that Lu-family resources mattered to Liu Bang's rise and that post-Lu succession and ritual arrangements shaped her later reputation.
 - Posthumous memory: [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] records the Chimei mausoleum-looting and Lu Hou corpse-violation tradition while marking its exact factual status as uncertain.
 
 ## Qualifications
 
-Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear of Lu Zhi and should not be used as independent proof that every accusation was true. Hanji 687 records a later tradition about Lu Zhi's corpse but explicitly leaves the exact event uncertain; that material belongs to historical memory and tomb/corpse-violation violence unless more evidence appears.
+Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear and should not prove every accusation. Weird History episode 20 is a comparative popular-history interpretation rather than independent verification of lost Lu-family records, young-emperor legitimacy, specific policy causation, Modu's intent, or the claim that Lu Zhi's regency caused the later Wen-Jing settlement. Its corrective to gendered and victor-shaped memory cannot erase recorded killings and torture. Hanji 687 leaves the corpse-violation report uncertain, so that material remains historical-memory evidence rather than settled biography.
 
 ## What Changed
 
-- Migrated the page into the synthesis-v1 entity schema.
-- Added Hanji 687 as Lu Zhi's source-scoped posthumous memory and tomb/corpse-violation layer.
-- Compressed the earlier source-by-source biography into a current profile organized by role.
-- Preserved the evidence inventory exactly and appended the new source.
+- Expanded the regency judgment from court fear and survival politics to include source-attributed stability, tax, legal, and diplomatic governance.
+- Reframed Lu Zhi as a founding partner supported by Lu-family resources while keeping the degree of that contribution uncertain.
+- Made palace cruelty an explicit non-exculpatory limit on the family-defense interpretation.
+- Added post-Lu legitimacy, textual placement, and ritual exclusion as mechanisms shaping her historical memory.
 
 ## Relationships
 
@@ -100,3 +107,6 @@ Lu Zhi's current page is a synthesis of bounded source notes, not a full biograp
 - [[PublicCorpseHumiliation|尸体公开羞辱]] - concept relationship because the alleged corpse violation is post-mortem bodily degradation.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - policy relationship because Lu Zhi blocks one implementation while the policy survives through substitution.
 - [[CrownPrinceCommandRisk|太子挂帅风险]] - military-succession relationship because Lu Zhi opposes using Liu Ying as crisis commander.
+- [[Theodora]] - comparative female ruler whose political partnership, violence, governance, and hostile reception illuminate Lu Zhi's contested memory.
+- [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]] - interpretive relationship because private morality and palace cruelty can dominate without exhausting the governing record.
+- [[HistoricalMemoryContest]] - memory relationship because post-Lu succession, official historiography, and ritual exclusion shaped durable legitimacy judgments.

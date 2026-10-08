@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9979
+wiki_total_pages: 9980
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "ReadingSilentSpeech"
     title: "Reading Silent Speech"
     url: "/wiki/concepts/readingsilentspeech/"
+  - key: "ReadingToWritingPractice"
+    title: "Reading-to-Writing Practice"
+    url: "/wiki/concepts/readingtowritingpractice/"
   - key: "ReaganomicsPoliticalEconomy"
     title: "Reaganomics Political Economy"
     url: "/wiki/concepts/reaganomicspoliticaleconomy/"

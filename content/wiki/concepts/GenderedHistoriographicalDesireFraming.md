@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b
   - zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy
   - 28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0
-last_updated: 2026-10-08
+  - 20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -20,6 +21,8 @@ The Zhao Ji sources establish the concept's layered reading rule. [[Shiji|《史
 
 [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|Weird History episode 28]] extends the problem comparatively. Accounts of [[CatherineII|Catherine II]] and [[WuZetian|武则天]] can foreground lovers so strongly that coup alliances, officeholding, military command, religious legitimation, regional administration, and durable governing partnerships become secondary. Chinese stories about princesses and elite wives can also repeat sexual-disorder motifs as moral criticism of politically suspect households.
 
+The female-ruler comparison between [[Theodora]] and [[LuZhi|吕雉]] shows that the problem extends beyond lovers. Procopius's sexualized invective and the textual and ritual afterlife of Lu Zhi allow private morality, cruelty inside the ruling household, and gendered character labels to crowd out crisis leadership, legal change, taxation, diplomacy, transition stability, and public burden. The corrective is not acquittal: Nika's massacre and Lu Zhi's killings remain evidence, but neither should silently stand in for the entire governing record. [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Weird History episode 20]] supplies this comparative case.
+
 The concept therefore requires two simultaneous checks: preserve real consequences of intimate patronage, and inspect why the narrative selects, labels, and moralizes a powerful woman's relationships differently from those of powerful men. It is a method of evidence separation, not automatic exoneration.
 
 ## Key Claims
@@ -30,6 +33,7 @@ The concept therefore requires two simultaneous checks: preserve real consequenc
 - The labels “lover” or “male favorite” can conceal office, command, religious authority, coalition support, or long-term administrative work.
 - Repeated sexual motifs across biographies may perform moral and factional criticism, so resemblance requires source criticism rather than automatic acceptance.
 - Individual female sovereignty does not by itself establish broader female emancipation or modern feminist politics.
+- Palace conduct, public governance, and later political memory require separate evidence before they are recombined into a ruler judgment.
 
 ## Evidence
 
@@ -43,16 +47,18 @@ Public roles hidden by sexual labels:
 Selective moralization:
 - [[28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0|Episode 28]] argues that traditional histories often record powerful women's relationships more vividly than male elites' private lives and notes repeated elite-wife-and-servant story structures as possible moralizing templates.
 
+Female rulers and whole-reign judgment:
+- [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Episode 20]] compares Procopius's conflicting Theodora portraits with Shiji, Hanshu, and later ritual treatment of Lu Zhi, then separates sexual or palace reputation from governance and public outcomes without denying coercion.
+
 ## Counterevidence & Qualifications
 
-Gendered framing does not prove that every sexual report is false, that every favorite was an effective statesman, or that intimate patronage lacked harmful consequences. Qinji 108-2 and 108-3 contain interpretive psychological reconstruction; episode 28 compresses many biographies and institutions across regions and centuries. The secret-marriage, paternity, private-motive, partner-status, and repeated-story hypotheses remain source-scoped. The method asks readers to distinguish evidence, public function, narrative selection, and moral rhetoric before reaching judgment.
+Gendered framing does not prove that every sexual report is false, that every favorite was an effective statesman, that intimate patronage lacked harmful consequences, or that public stability excuses palace violence. Qinji 108-2 and 108-3 contain interpretive psychological reconstruction; episodes 28 and 20 compress biographies and institutions across regions and centuries. The secret-marriage, paternity, private-motive, partner-status, lost-record, policy-attribution, and repeated-story hypotheses remain source-scoped. Theodora and Lu Zhi are not institutionally equivalent, and a gendered-memory critique must retain Nika's repression and Lu Zhi's killings. The method asks readers to distinguish evidence, public function, narrative selection, political afterlife, and moral rhetoric before reaching judgment.
 
 ## What Changed
 
-- Expanded the concept from Zhao Ji's desire-centered memory to comparative accounts of female sovereigns and elite women.
-- Added the problem of public office and governing work disappearing behind the “male favorite” label.
-- Added repeated sexual-story motifs as a source-critical warning rather than proof of fabrication.
-- Separated individual female rule from claims about broad feminist transformation.
+- Extended the concept from desire and lovers to whole-reign judgments of female rulers.
+- Added the explicit separation of palace conduct, public governance, and later political memory.
+- Preserved violence as a non-exculpatory boundary while widening the evidence considered.
 
 ## Related Concepts
 
@@ -61,3 +67,4 @@ Gendered framing does not prove that every sexual report is false, that every fa
 - [[PalaceScandalPowerConsolidation|宫廷丑闻式收权]] - shows how a sexual scandal can become an opportunity for political consolidation.
 - [[CourtWomenHistoriography|宫廷女性史学]] - broader problem of how women near courts enter and survive in the record.
 - [[HistoricalFemaleRoleModelCaution|历史女性榜样化警惕]] - guards against replacing sexual condemnation with equally flattening modern celebration.
+- [[HistoricalMemoryContest]] - explains how later victors, textual organization, and ritual institutions stabilize one version of a powerful woman's reputation.

@@ -40227,6 +40227,57 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/childeharoldspilgrimage/"
     },
+    "ChildhoodReadingEcology": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？ [lmWyJ84WfDGnlgsoVKihULfAIpLU].md",
+          "key": "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu",
+          "show": "Talk三联",
+          "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+          "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+        },
+        {
+          "episode_file": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦” [liNmjqt_n-Sa5sArpqGdXgtoeEjT].md",
+          "key": "144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt",
+          "show": "起朱楼宴宾客",
+          "title": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”",
+          "url": "/wiki/sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt/"
+        },
+        {
+          "episode_file": "168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】 [953669535].md",
+          "key": "168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535",
+          "show": "蜜獾吃书",
+          "title": "168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】",
+          "url": "/wiki/sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535/"
+        },
+        {
+          "episode_file": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗 [980330792].md",
+          "key": "182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792",
+          "show": "蜜獾吃书",
+          "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
+          "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
+        },
+        {
+          "episode_file": "177.小时候的书，怎么就那么好看！ [971996036].md",
+          "key": "177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036",
+          "show": "蜜獾吃书",
+          "title": "177.小时候的书，怎么就那么好看！",
+          "url": "/wiki/sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036/"
+        },
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/childhoodreadingecology/"
+    },
     "ChildrensHistoryNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -93006,9 +93057,9 @@
       "url": "/wiki/concepts/genderedfashionsafetyblame/"
     },
     "GenderedHistoriographicalDesireFraming": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示 [lthiqKpc0nbNlKxhCmiVufVgl25B].md",
@@ -93030,9 +93081,16 @@
           "show": "怪东西Weird History",
           "title": "28 东西方的面首：从薛怀义到波将金",
           "url": "/wiki/sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0/"
+        },
+        {
+          "episode_file": "li_aj7G59s6I-oFYKS-0i39kocpf [li_aj7G59s6I-oFYKS-0i39kocpf].md",
+          "key": "20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf",
+          "show": "怪东西Weird History",
+          "title": "20 东西方的强力皇后：吕后与狄奥多拉",
+          "url": "/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/genderedhistoriographicaldesireframing/"
     },
     "GenderedLaborVisibility": {
@@ -117377,6 +117435,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
+    },
+    "ImperfectActionPractice": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "129.如何成为真正的不完美主义者，浑身是劲儿！ [799220151].md",
+          "key": "129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151",
+          "show": "蜜獾吃书",
+          "title": "129.如何成为真正的不完美主义者，浑身是劲儿！",
+          "url": "/wiki/sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151/"
+        },
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/imperfectactionpractice/"
     },
     "ImperialAbdicationLanguageBoundary": {
       "episode_count": 2,
@@ -149578,9 +149659,9 @@
       "url": "/wiki/entities/lucuilatehan/"
     },
     "LuDapeng": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -149623,6 +149704,13 @@
           "show": "怪东西Weird History",
           "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
           "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
+        },
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
         }
       ],
       "updated": "2026-10-09",
@@ -149901,9 +149989,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 18,
-      "show_count": 1,
-      "source_note_count": 18,
+      "episode_count": 19,
+      "show_count": 2,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -150030,9 +150118,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "li_aj7G59s6I-oFYKS-0i39kocpf [li_aj7G59s6I-oFYKS-0i39kocpf].md",
+          "key": "20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf",
+          "show": "怪东西Weird History",
+          "title": "20 东西方的强力皇后：吕后与狄奥多拉",
+          "url": "/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/luzhi/"
     },
     "LuZhiLateHan": {
@@ -197775,6 +197870,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/readingsilentspeech/"
     },
+    "ReadingToWritingPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/readingtowritingpractice/"
+    },
     "ReaganomicsPoliticalEconomy": {
       "episode_count": 1,
       "show_count": 1,
@@ -233857,9 +233968,9 @@
       "url": "/wiki/entities/theodorheuss/"
     },
     "Theodora": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -233888,9 +233999,16 @@
           "show": "The Rest Is History",
           "title": "206. Historical Love Island",
           "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        },
+        {
+          "episode_file": "li_aj7G59s6I-oFYKS-0i39kocpf [li_aj7G59s6I-oFYKS-0i39kocpf].md",
+          "key": "20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf",
+          "show": "怪东西Weird History",
+          "title": "20 东西方的强力皇后：吕后与狄奥多拉",
+          "url": "/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/theodora/"
     },
     "Theophano": {
@@ -264166,9 +264284,9 @@
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
     },
     "ZhangDabai": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -264197,6 +264315,13 @@
           "show": "怪东西Weird History",
           "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
           "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        },
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
         }
       ],
       "updated": "2026-10-08",
@@ -265527,9 +265652,9 @@
       "url": "/wiki/entities/zhangwuhuasportsmedicine/"
     },
     "ZhangXiangrong": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -265551,6 +265676,13 @@
           "show": "怪东西Weird History",
           "title": "23 张向荣&陆大鹏：如何学古文，如何学英语",
           "url": "/wiki/sources/23-zhangxiangrong-ludapeng-ruhe-xue-guwen-ruhe-xue-yingyu-lio8qp_qos0ymks7qw2spauojwkq/"
+        },
+        {
+          "episode_file": "lshs4l5LTU0AurmfHTYhkTQKK7bS [lshs4l5LTU0AurmfHTYhkTQKK7bS].md",
+          "key": "19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs",
+          "show": "怪东西Weird History",
+          "title": "19 张向荣、陆大鹏：两位80后作家年少时读过的好书",
+          "url": "/wiki/sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs/"
         }
       ],
       "updated": "2026-10-09",

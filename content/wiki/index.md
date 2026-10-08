@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [19 张向荣、陆大鹏：两位80后作家年少时读过的好书](sources/19-zhangxiangrong-ludapeng-liangwei-80hou-zuojia-nianshaoshi-duguo-de-haoshu-lshs4l5ltu0aurmfhtyhktqkk7bs.md) — 怪东西从图书馆、报刊、漫画、科普和旧书收藏追踪80后童年阅读生态，并连接翻译、投稿、评论、原创写作与先行动再拆解问题的实践路径。
+- [20 东西方的强力皇后：吕后与狄奥多拉](sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf.md) — 怪东西以吕后与狄奥多拉比较女性统治、危机领导、宫廷暴力、公共治理与性别化历史书写，并保留史料立场和跨制度类比的边界。
 - [21 东西方的死刑：从十字架到炮决](sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso.md) — 怪东西比较中西死刑方法，将处决区分为剥夺生命、身份羞辱、身体毁坏、公开震慑与政治展示，并保留史料、文学和殖民凝视的证据边界。
 - [#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目](sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979.md) — 声东击西十周年骑行节目，以景山至三里屯路线连接北京的遗产保护、街道治理、商业重组、亮马河更新与规划不确定性。
 - [184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘](sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt.md) — 起朱楼宴宾客 third-quarter investment review on late-cycle allocation, refinancing-lag credit risk, a five-step major-decision framework, and a bounded overseas long-duration bond sleeve.
@@ -5087,7 +5089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Professional Fighters League](entities/ProfessionalFightersLeague.md) — MMA organization linked to MVP and positioned in the source as a challenger to UFC economics.
 - [Hagia Sophia](entities/HagiaSophia.md) — Justinianic church joining Roman engineering, Christian sacred authority, and post-Nika monumental reconstruction.
 - [Justinian I](entities/JustinianI.md) — Eastern Roman emperor whose restoration joined law and building to destructive war, plague, and the civic ending of Roman Italy.
-- [Theodora](entities/Theodora.md) — Eastern Roman empress remembered through political partnership, religious patronage, women's reform traditions, and hostile testimony.
+- [Theodora](entities/Theodora.md) — Eastern Roman empress whose political partnership, Nika resolve, women's reform traditions, coercive setting, and sexualized hostile memory resist a single moral category.
 - [Belisarius](entities/Belisarius.md) — Justinian's leading general, victor over the Vandals and politically exposed commander of the Italian campaign.
 - [Procopius](entities/Procopius.md) — Historian whose public praise and secret invective create a central source-critical problem for Justinian's reign.
 - [Bath](entities/Bath.md) — Georgian spa destination joining hot-water medicine, architecture, entertainment, and managed fashionable sociability.
@@ -9780,7 +9782,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桓楚 / Huan Chu](entities/HuanChu.md) — Fugitive used as the pretext for Xiang Liang to bring armed Xiang Yu into Yin Tong's meeting.
 - [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
-- [吕雉 / Lu Zhi](entities/LuZhi.md) — Liu Bang's wife, Western Han founding empress, regency and capital-security actor, now also carrying a source-scoped Chimei mausoleum-violation memory.
+- [吕雉 / Lu Zhi](entities/LuZhi.md) — Western Han founding partner and regency ruler whose stabilization, policy, dynastic violence, diplomacy, and contested political memory require joint judgment.
 - [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base and Pei Gong uprising setting, later expanded by Hanji 1009 as Liu Bei's Xiaopei regrouping point.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
@@ -17010,6 +17012,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Reading-to-Writing Practice](concepts/ReadingToWritingPractice.md) — Pathway through which reading becomes demonstrated craft via imitation, translation, submission, editorial feedback, and progressively longer completed work.
 - [Capital Punishment as Political Spectacle / 死刑作为政治景观](concepts/CapitalPunishmentAsPoliticalSpectacle.md) — Uses execution place, audience, duration, bodily treatment, and aftermath to communicate authority and terror beyond the condemned person's death.
 - [Execution Status and Body Integrity / 处刑身份与身体完整性](concepts/ExecutionStatusAndBodyIntegrity.md) — Compares how execution methods encode rank, honor, disgrace, bodily wholeness, and burial dignity across legal cultures.
 - [Urban Route Field Observation / 城市路线式观察](concepts/UrbanRouteFieldObservation.md) — Uses a deliberately traversed path to connect visible places, remembered earlier states, and policy context into a spatial account of change.
@@ -21362,7 +21365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historiographical Presentism / 史评当代性](concepts/HistoriographicalPresentism.md) — Source-reading pattern where Sima Qian, Jia Yi, Yang Xiong, Sima Guang, and Zhu Xi evaluate the same Warring States figures through their own political anxieties.
 - [Pregnancy Succession Substitution / 孕身继承替换](concepts/PregnancySuccessionSubstitution.md) — Court-succession mechanism where a woman already pregnant by one man is introduced to a childless ruler so the child can be recognized as the ruler's heir.
 - [Palace Scandal Power Consolidation / 宫廷丑闻式收权](concepts/PalaceScandalPowerConsolidation.md) — Qinji 108-3 pattern where Lao Ai's palace scandal becomes a legitimacy crisis that lets Ying Zheng purge a faction, discipline Zhao Ji, and remove Lu Buwei.
-- [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution from Qinji 108-2 and 108-3 about reading Zhao Ji through desire, scandal, and male embarrassment without erasing political consequences.
+- [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution separating sexual and palace reputation, public governance, coercive consequences, and later political memory when reading powerful women.
 - [赴死式直谏 / Death-Defying Remonstrance](concepts/DeathDefyingRemonstrance.md) — High-risk court feedback pattern where willingness to die makes direct criticism speakable, from Sima Zhi and Liu Tao to Mao Jiao and Luan Bu.
 - [末次合纵失败 / Terminal Hezong Failure](concepts/TerminalHezongFailure.md) — Pattern where the final anti-Qin hezong campaign still assembles states but cannot reverse Qin, with later drought-year fragmentation showing the failure's afterlife.
 - [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.
