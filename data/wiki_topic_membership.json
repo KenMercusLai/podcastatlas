@@ -43006,6 +43006,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HistoricalFictionPublicGateway": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HistoricalGreatness": [
     {
       "key": "history",
@@ -94203,6 +94210,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ZengGuofanNovel": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ZengHanXinOfficial": [

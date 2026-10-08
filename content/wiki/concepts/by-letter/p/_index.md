@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10015
+wiki_total_pages: 10018
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "PersonalEnterpriseMemoryOwnership"
     title: "Personal-Enterprise Memory Ownership"
     url: "/wiki/concepts/personalenterprisememoryownership/"
+  - key: "PersonalNetworkMilitaryOrganization"
+    title: "Personal-Network Military Organization / 私人网络型军事组织"
+    url: "/wiki/concepts/personalnetworkmilitaryorganization/"
   - key: "PersonalistImperialSpectacle"
     title: "Personalist Imperial Spectacle"
     url: "/wiki/concepts/personalistimperialspectacle/"

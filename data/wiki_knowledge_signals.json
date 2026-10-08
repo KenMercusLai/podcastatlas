@@ -49885,6 +49885,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/contestedmonumentreattribution/"
     },
+    "ContextBoundSuccessNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/contextboundsuccessnarrative/"
+    },
     "ContextDependentBiomedicalInterventions": {
       "episode_count": 2,
       "show_count": 1,
@@ -110103,9 +110119,9 @@
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
     "HistoricalFictionHistoricalImagination": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2461510190 [GLT2461510190].md",
@@ -110120,6 +110136,13 @@
           "show": "怪东西Weird History",
           "title": "15 亚历山大大帝的糟糕原生家庭：《天堂之火》",
           "url": "/wiki/sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq/"
+        },
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
         }
       ],
       "updated": "2026-10-09",
@@ -110140,6 +110163,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/historicalfictionpsychologicalprojection/"
+    },
+    "HistoricalFictionPublicGateway": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
+        },
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/historicalfictionpublicgateway/"
     },
     "HistoricalFiguresAsRealityTVArchetypes": {
       "episode_count": 3,
@@ -185474,6 +185520,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/personalmemoryidentityresolution/"
     },
+    "PersonalNetworkMilitaryOrganization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/personalnetworkmilitaryorganization/"
+    },
     "PersonalRedemptionStructuralLimit": {
       "episode_count": 1,
       "show_count": 1,
@@ -232335,6 +232397,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/tanggaozong/"
     },
+    "TangHaoming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/tanghaoming/"
+    },
     "TangHengLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -248335,6 +248413,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/wangfulatehan/"
     },
+    "WangFuzhi": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/wangfuzhi/"
+    },
     "WangGenWesternHan": {
       "episode_count": 8,
       "show_count": 1,
@@ -258101,6 +258209,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/xianfengemperor/"
     },
+    "XiangArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/xiangarmy/"
+    },
     "XiangBiao": {
       "episode_count": 1,
       "show_count": 1,
@@ -265998,9 +266122,9 @@
       "url": "/wiki/entities/zaohaowu/"
     },
     "ZengGuofan": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
@@ -266036,10 +266160,33 @@
           "show": "忽左忽右",
           "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
           "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        },
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zengguofan/"
+    },
+    "ZengGuofanNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo67k333NPm5m668-DMjiqtChvzA [lo67k333NPm5m668-DMjiqtChvzA].md",
+          "key": "9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza",
+          "show": "怪东西Weird History",
+          "title": "9 历史小说内外的曾国藩",
+          "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zengguofannovel/"
     },
     "ZengHanXinOfficial": {
       "episode_count": 1,

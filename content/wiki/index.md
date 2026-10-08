@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [9 历史小说内外的曾国藩](sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza.md) — 怪东西借唐浩明《曾国藩》讨论历史小说的公众入口、史实与虚构边界，并把曾国藩的湘军组织、儒学资源和成功学接受放回具体历史条件。
 - [Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve](sources/02026-heggli-keats-csank-podcast-v2.md) — Long Now episode connecting NEVCAN's ten-minute mountain observations, bristlecone paleoclimate records, long-term scientific stewardship, and Jonathan Keats's variable living calendar and public clock.
 - [300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？](sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld.md) — 独树不成林从公众知名度、课堂选读、专门研究、金句摘录与一战传播之间的落差，提出《查拉图斯特拉如是说》的读者与整体解释问题。
 - [《资治通鉴·汉纪》214｜铁面张释之：怼皇帝拦太子（2）](sources/zizhi-tongjian-hanji-214-tiemian-zhangshizhi-dui-huangdi-lan-taizi-2-lixkic0bkzjc0ehyupeolnqmuxs.md) — 张释之以惊驾罚金与盗庙玉环两案拒绝随文帝君怒加刑，并借刑罚层级维护法律公信；节目另以《六韬》“六守”说明情境式识人。
@@ -4202,6 +4203,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 
 ## Entities
+- [唐浩明 / Tang Haoming](entities/TangHaoming.md) — 以通俗易读、人物塑造和战争道德视野三个维度接受评析的《曾国藩》作者。
+- [《曾国藩》 / Zeng Guofan (novel)](entities/ZengGuofanNovel.md) — 唐浩明以曾国藩与湘军为中心、兼具历史入口和改革年代成功叙事接受史的历史小说三部曲。
+- [湘军 / Xiang Army](entities/XiangArmy.md) — 以私人关系、待遇、纪律、父爱式照顾和儒家思想动员形成凝聚力、又引发中央猜忌的晚清军事组织。
 - [Anne Heggli](entities/AnneHeggli.md) — Observational hydrometeorologist connecting NEVCAN field maintenance and quality control to durable climate evidence and reliable model use.
 - [Adam Csank](entities/AdamCsank.md) — Paleoclimatologist linking direct environmental monitoring to calibrated tree-ring evidence and changing ecological growth limits.
 - [NEVCAN](entities/NevCAN.md) — Eight-station Great Basin elevation transect joining ten-minute weather, snow, soil, and energy observations to bristlecone records.
@@ -8561,7 +8565,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆南 / Southern Jingzhou (late Han)](entities/SouthernJingzhouLateHan.md) — Disambiguated late-Han southern Jingzhou zone whose commanderies can attach to Cao Cao against Liu Biao.
 - [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
-- [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
+- [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — 既作为吕布、刘表的后世评论者出现，也通过十九世纪刊刻、湖南士人网络和选择性阐释获得更大影响的明清思想家。
 - [庞统 / Pang Tong](entities/PangTong.md) — 经庞德公、司马徽评价而获得声誉，又体现刘表未能整合荆州人才的谋士。
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
 - [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
@@ -9764,7 +9768,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
 - [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-Liang king whose rear pressure helps defeat Xiang Yu and whose execution produces Luan Bu's merit-holder trust warning.
 - [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose arc now runs from Chenliu access and strategy to Qi persuasion at Linzi and the danger created by Han Xin's unsynchronized attack.
-- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
+- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — 连接湘军私人网络组织、晚清经世传承、多系儒学、自我修养、人物识别与情境化成功叙事的争议人物。
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — 由文帝梦兆、近身照料和个人宠爱获得官位、铜山及铸钱权，却在景帝继位后被免官、查办、没产并贫饿而死的西汉宠臣。
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 以绕伏、断粮、坚守和识破佯攻建立七国之乱军功，后因连续政策冲突失去帝王信任并在随葬甲盾案中绝食而死的西汉将相。
@@ -17088,6 +17092,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Historical Fiction as a Public Gateway / 历史小说作为公众入口](concepts/HistoricalFictionPublicGateway.md) — 小说、影视和游戏以人物与叙事降低历史进入门槛，但不因此替代史学或免除事实、文学与伦理批评。
+- [Personal-Network Military Organization / 私人网络型军事组织](concepts/PersonalNetworkMilitaryOrganization.md) — 以亲缘、地缘、师友和上下级依附组织招募与忠诚，在危机中提高凝聚力又制造中央控制风险。
+- [Context-Bound Success Narrative / 情境约束下的成功叙事](concepts/ContextBoundSuccessNarrative.md) — 区分可借鉴的日常实践与资源、职位、网络、危机和历史机会共同造成的可见成就。
 - [Long-Term Environmental Monitoring](concepts/LongTermEnvironmentalMonitoring.md) — Sustained measurement, maintenance, quality control, and stewardship that preserve evidence for slow change and unforeseen future questions.
 - [Tree-Ring Proxy Calibration](concepts/TreeRingProxyCalibration.md) — Use of direct environmental and physiological observations to interpret how annual tree growth records climate conditions.
 - [Chronodiversity](concepts/Chronodiversity.md) — Recognition of plural living and environmental times alongside standardized human clocks and calendars.
@@ -18412,7 +18419,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joint Supplement and Treatment Boundary / 关节补剂与治疗边界](concepts/JointSupplementTreatmentBoundary.md) — Distinguishes nutritional or symptom support from claims to diagnose, regenerate, or treat damaged joints, cartilage, and bone.
 - [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which recognition, media, ritual signs, grievance, organization, or armed coalition make a disputed identity politically useful.
 - [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — One historical-fiction method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
-- [Historical Fiction and Historical Imagination](concepts/HistoricalFictionHistoricalImagination.md) — Plural framework joining evidence, worldview, voice, imaginative truth, public memory, and ethical proximity in fiction about the past.
+- [Historical Fiction and Historical Imagination](concepts/HistoricalFictionHistoricalImagination.md) — 以分离的证据、世界观、公众入口、文学执行和道德复杂性标准评价多种历史小说方法。
 - [Food-System Nutrition Responsibility](concepts/FoodSystemNutritionResponsibility.md) — Shared-responsibility frame connecting dietary agency to knowledge, access, affordability, product design, institutional defaults, and external costs.
 - [Calorie Metabolic Non-Equivalence](concepts/CalorieMetabolicNonEquivalence.md) — Distinction between gross food energy and the energy absorbed, processed, signaled, stored, or made available to the microbiome after ingestion.
 - [Postwar Caribbean British Settlement](concepts/PostwarCaribbeanBritishSettlement.md) — Process by which temporary migration, return plans, relationships, children, and recognition developed into durable British settlement.

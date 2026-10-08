@@ -33010,3 +33010,11 @@ Added source `02026-heggli-keats-csank-podcast-v2`; created [[AnneHeggli]], [[Ad
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 9 历史小说内外的曾国藩
+
+Added source `9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza`; created [[TangHaoming|唐浩明]], [[ZengGuofanNovel|《曾国藩》]], [[XiangArmy|湘军]], [[HistoricalFictionPublicGateway|历史小说作为公众入口]], [[PersonalNetworkMilitaryOrganization|私人网络型军事组织]], and [[ContextBoundSuccessNarrative|情境约束下的成功叙事]]; resynthesized [[ZengGuofan|曾国藩]] and [[HistoricalFictionHistoricalImagination|历史小说与历史想象]] from their complete preserved evidence inventories; and migrated and resynthesized [[WangFuzhi|王夫之]] from its complete bounded input before appending the new source once. Core synthesis: historical fiction can be a useful public gateway without becoming scholarship or escaping literary criticism; the Xiang Army's personal networks, incentives, discipline, paternal care, and Confucian mobilization created crisis capacity together with central-control risk; and Zeng's portable routines cannot be detached from household resources, office, war, networks, coercion, and historical opportunity. No settled contradiction was adopted. Literary rankings, assassination and rebellion claims, massacres, political leaders' uses of Zeng, intellectual lineages, regional reception, and motives remain source-scoped or require direct historical verification. Broad [[WeirdHistoryPodcast|怪东西 Weird History]], host, [[TaipingRebellion|太平天国运动]], [[ZhuXi|朱熹]], and [[WangYangming|王阳明]] pages were kept closed because the bounded additions are represented in the focused source, figure, work, organization, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,132 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

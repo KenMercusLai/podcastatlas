@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12830
+wiki_total_pages: 12833
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "TangJie"
     title: "唐杰 / Tang Jie"
     url: "/wiki/entities/tangjie/"
+  - key: "TangHaoming"
+    title: "唐浩明 / Tang Haoming"
+    url: "/wiki/entities/tanghaoming/"
   - key: "TangTao"
     title: "唐涛 / 唐唐 / Tang Tao"
     url: "/wiki/entities/tangtao/"

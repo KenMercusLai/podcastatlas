@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10015
+wiki_total_pages: 10018
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "HistoricalFictionHistoricalImagination"
     title: "Historical Fiction and Historical Imagination"
     url: "/wiki/concepts/historicalfictionhistoricalimagination/"
+  - key: "HistoricalFictionPublicGateway"
+    title: "Historical Fiction as a Public Gateway / 历史小说作为公众入口"
+    url: "/wiki/concepts/historicalfictionpublicgateway/"
   - key: "HistoricalFictionFactualConstraint"
     title: "Historical Fiction Factual Constraint"
     url: "/wiki/concepts/historicalfictionfactualconstraint/"

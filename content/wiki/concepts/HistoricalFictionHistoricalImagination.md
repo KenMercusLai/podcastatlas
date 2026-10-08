@@ -5,6 +5,7 @@ tags: [historical-fiction, literature, public-memory, historical-method]
 sources:
   - 14-historical-fiction-glt2461510190
   - 15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq
+  - 9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -13,48 +14,50 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Historical fiction and historical imagination describe how invented narrative makes the past experientially available through character, voice, atmosphere, causation, and moral distance while remaining accountable to evidence and ethical context in more than one possible way.
+Historical fiction and historical imagination describe how invented narrative makes the past experientially available through character, voice, atmosphere, causation, and moral distance while remaining accountable to evidence, ethical context, and its public effects in more than one possible way.
 
 ## Current Synthesis
 
-[[14-historical-fiction-glt2461510190]] rejects a single accuracy scale for judging fiction about the past. Archival constraint, pastiche, declared anachronism, fantasy, and counterfactual construction can all work when their method is coherent and when research serves lived narrative rather than becoming an inventory of period objects.
+No single accuracy scale covers the field. Archival constraint, pastiche, declared anachronism, fantasy, and counterfactual construction can all work when method is coherent and research sustains lived narrative rather than becoming an inventory of objects. The harder test is whether institutions, danger, belief, status, language, and moral assumptions govern what characters can understand and do. [[14-historical-fiction-glt2461510190]]
 
-The harder test is whether the work makes historical difference causally present. Institutions, danger, belief, status, language, and moral assumptions should govern what characters can understand and do. Fiction also acts downstream: a powerful novel can become the public's default French Revolution, medieval England, antebellum South, or frontier West, then survive as both a story about an earlier period and an artifact of the era that wrote it.
+The same work can succeed and fail along different dimensions. [[FireFromHeaven|《天堂之火》]] produces persuasive Macedonian atmosphere and royal formation while using precise family psychology that sparse evidence cannot verify; Tang Haoming's trilogy can be accessible and relatively even-handed about wrongdoing while remaining weak in characterization and dramatic structure. Material world, institutional pressure, narrative insight, recovered interiority, public entry, and literary execution therefore require separate judgments. [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] [[9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza]]
 
-[[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] makes the framework more internally plural through one author. [[FireFromHeaven|《天堂之火》]] can create a persuasive Macedonian atmosphere and make royal formation emotionally legible while also using detailed family psychology that the record cannot verify. Historical imagination should therefore be assessed claim by claim: material world, institutional pressure, narrative insight, and recovered interiority do not share one evidentiary status.
+Documentary density changes the available freedom: famous public figures constrain known actions and public expectations more tightly than invented or ordinary protagonists, without removing the need to imagine speech, private life, and motive. Fiction also need not issue a final verdict on a contested person; it can present a bounded side while keeping competing interpretations visible.
 
 ## Key Claims
 
 - Historical fiction can provide an emotionally durable entry into historical inquiry.
-- Imaginative truth can arise through several declared methods, not only strict realist reconstruction.
-- Past mental worlds matter more than decorative period detail alone.
-- Research should enable action, voice, and atmosphere rather than overwhelm them, while fiction's public reach can harden simplified historical images.
-- Older novels reveal the political and moral assumptions of their own production and reception.
-- Ethical obligations intensify when fiction approaches living people, recent trauma, or mass atrocity.
-- A single work can reconstruct institutions convincingly while projecting modern psychological precision onto evidence-poor lives.
+- Imaginative truth can arise through several coherent methods, not only strict realist reconstruction.
+- Past mental worlds and causal institutions matter more than decorative period detail alone.
+- Documentary density and public familiarity narrow invention around famous figures without eliminating the need for imagined speech, private life, and motive.
+- Research should enable action, voice, and atmosphere rather than overwhelm them, while fiction's reach can harden simplified historical images.
+- A single work can reconstruct institutions convincingly, project unsupported psychology, offer moral range, and still fail at character or structure.
+- Ethical obligations intensify near living people, recent trauma, mass atrocity, and histories of large-scale violence.
 
 ## Evidence
 
-- **Gateway and distance:** [[14-historical-fiction-glt2461510190]] connects childhood reading, Rosemary Sutcliff, Mary Renault, and the demand to leave present assumptions behind.
-- **Plural methods:** [[14-historical-fiction-glt2461510190]] compares Mantel's present tense, Lindsay Davis's anachronism, ancient-voice ventriloquism, *Game of Thrones*, and alternate history.
-- **Memory formation:** [[14-historical-fiction-glt2461510190]] uses Dickens, Scott, *Gone with the Wind*, and *The Virginian* to show novels fixing popular images of historical periods.
-- **Ethical and evidentiary limits:** [[14-historical-fiction-glt2461510190]] distinguishes ordinary invention from the stronger responsibilities surrounding living subjects, recent events, and the Holocaust.
-- **Reconstruction and projection:** [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] praises Renault's atmosphere and family-power insight while withholding historical status from precise ancient interiority.
+- Gateway, plural methods, and memory: [[14-historical-fiction-glt2461510190]] connects historical interest to fiction while comparing realism, anachronism, fantasy, counterfactuals, and public-memory formation.
+- Reconstruction and projection: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] praises Renault's atmosphere and family-power insight while withholding historical status from precise ancient interiority.
+- Famous-figure constraint: [[9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza]] contrasts invented or ordinary protagonists with novels centered on documented rulers and politicians.
+- Separable values: [[9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza]] criticizes characterization and pacing while crediting readability, social range, and refusal of a fully one-sided war narrative.
+- Nonfinal judgment: [[9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza]] argues that fiction can disclose one face of a disputed person without claiming to settle the historical verdict.
 
 ## Counterevidence & Qualifications
 
-Atmosphere is not proof of accuracy, deliberate anachronism can still flatten the past, and a compelling worldview may reproduce prejudice or myth. The sources offer conversational criticism rather than systematic theory, textual scholarship, or reception study; judgments about influence, conservatism, authenticity, gender portrayal, and individual novels remain source-scoped. Plural methods do not eliminate the need to distinguish institutional plausibility, emotional insight, invented dialogue, and documented event.
+Atmosphere is not proof of accuracy, accessibility is not proof of quality, and declared invention can still flatten the past. Conversely, strict factual research may produce inert exposition, and psychologically invented scenes may disclose power relations without becoming direct evidence. The sources provide conversational criticism rather than systematic genre theory, textual scholarship, or reception research; evaluations of particular novels, influence, authenticity, balance, and authorial purpose remain source-scoped.
 
 ## What Changed
 
-- Added the possibility that persuasive historical atmosphere and modernized psychological projection coexist within one work.
-- Made claim-level evidentiary status part of evaluating historical imagination.
+- Added the tighter invention problem created by famous, well-documented protagonists.
+- Separated gateway value, literary execution, evidentiary responsibility, and moral complexity.
+- Added nonfinal judgment as a legitimate function when fiction addresses a persistently contested figure.
 
 ## Related Concepts
 
-- [[HistoricalFictionFactualConstraint]] - archival fidelity is one method within the broader field.
-- [[HistoricalWorldviewReconstruction]] - supplies the criterion that past social logic should govern the drama.
-- [[FictionAsHistoricalEvidence]] - reads novels as evidence about imagination, norms, and reception rather than direct event transcripts.
+- [[HistoricalFictionFactualConstraint]] - archival fidelity is one method and becomes especially visible around documented people.
+- [[HistoricalFictionPublicGateway]] - separates accessibility and interest formation from scholarly or literary rank.
+- [[HistoricalWorldviewReconstruction]] - asks whether past social logic governs the drama.
+- [[HistoricalFictionPsychologicalProjection]] - distinguishes useful invented interiority from recovered historical psychology.
+- [[FictionAsHistoricalEvidence]] - reads novels as evidence about imagination, norms, and reception rather than event transcripts.
 - [[HistoricalMemoryContest]] - explains how literary images become public historical common sense.
 - [[HistoricalCounterfactualReasoning]] - separates disciplined causal tests from the freer but related work of alternate-history fiction.
-- [[HistoricalFictionPsychologicalProjection]] - distinguishes useful invented interiority from recovered historical psychology.

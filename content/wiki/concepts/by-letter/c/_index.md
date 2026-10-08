@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10015
+wiki_total_pages: 10018
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2237,6 +2237,9 @@ wiki_pages:
   - key: "ContextFlywheel"
     title: "Context Flywheel"
     url: "/wiki/concepts/contextflywheel/"
+  - key: "ContextBoundSuccessNarrative"
+    title: "Context-Bound Success Narrative / 情境约束下的成功叙事"
+    url: "/wiki/concepts/contextboundsuccessnarrative/"
   - key: "ContextDependentBiomedicalInterventions"
     title: "Context-Dependent Biomedical Interventions"
     url: "/wiki/concepts/contextdependentbiomedicalinterventions/"

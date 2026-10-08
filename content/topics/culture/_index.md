@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3258
+topic_total_pages: 3260
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1549,6 +1549,9 @@ topic_concepts:
   - key: "HistoricalFictionHistoricalImagination"
     title: "Historical Fiction and Historical Imagination"
     url: "/wiki/concepts/historicalfictionhistoricalimagination/"
+  - key: "HistoricalFictionPublicGateway"
+    title: "Historical Fiction as a Public Gateway / 历史小说作为公众入口"
+    url: "/wiki/concepts/historicalfictionpublicgateway/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
@@ -6938,6 +6941,9 @@ topic_entities:
   - key: "CaoYinAndKangxi"
     title: "《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor"
     url: "/wiki/entities/caoyinandkangxi/"
+  - key: "ZengGuofanNovel"
+    title: "《曾国藩》 / Zeng Guofan (novel)"
+    url: "/wiki/entities/zengguofannovel/"
   - key: "AdventuresOfPinocchio"
     title: "《木偶奇遇记》 / The Adventures of Pinocchio"
     url: "/wiki/entities/adventuresofpinocchio/"
