@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-221-qiangu-tan-jiasheng-shenme-zaocheng-le-jiayi-de-beiju-ll-7nmh4sxxkc1kvtgrw4xcovsei
   - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag
   - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
+  - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm
 last_updated: 2026-10-09
 ---
 
@@ -32,6 +33,8 @@ The same episode distinguishes [[RitualPreventionAndLegalResponse|ritual prevent
 The institutional program of 《治安策》 adds a second axis to Jia Yi's current profile. Its “可杀不可辱” argument says accountability for senior officials should preserve the dignity of the offices and ruler they represent: dismissal or death can remain possible, but public mutilation, binding, beating, and abuse by low prison officers make political hierarchy itself contemptible. Ritualized handling is meant to cultivate shame, self-respect, and officials who act from principle rather than fear alone. [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219]]
 
 The episode also supplies two limits. First, honor-centered procedure can become coercive when accused officials are expected to kill themselves and attempts at defense are treated as insults to imperial dignity. Second, it attributes to Jia Yi a proposal to divide strong kingdoms through grants to royal sons; [[LiuHeng|汉文帝刘恒]] is said not to have implemented it promptly enough, and the later [[RebellionOfTheSevenStatesWesternHan|七国之乱]] becomes the retrospective warning. The proposal is an early fragmentation logic, not the later formal [[TuiEnLing|推恩令]].
+
+Hanji 218 part 1 now supplies the full diagnosis behind that proposal. Jia Yi treats rebellion as a problem of institutional capacity rather than surname or personal virtue: large kingdoms give rulers room for ambition, while small territories make law and ritual more effective. Changsha's survival and counterfactuals involving [[HanXin|韩信]], [[PengYue|彭越]], and meritorious marquises illustrate the claim. His answer is repeated partition of Qi, Zhao, Chu, and other large kingdoms among royal descendants, with temporarily vacant kingdoms administered from the center until heirs exist. The infant-emperor and empty-throne images make resilience the standard: political order should remain safe without depending entirely on a strong incumbent. [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm|Hanji 218 part 1]]
 
 A more immediate application of Jia Yi's princely-risk reasoning appears after popular song criticizes [[LiuChangHuainanKing|刘长]]'s death and Liu Heng grants titles to Liu Chang's sons. Jia Yi argues that the gesture can look like an admission of wrongful punishment and can give grievance-bearing heirs status and resources. His analysis joins narrative legitimacy to material security: a concession can repair one political problem while enlarging another. [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]]
 
@@ -67,6 +70,7 @@ Official dignity and its coercive boundary:
 
 Fragmenting concentrated royal power:
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219]] attributes to Jia Yi a proposal to grant territories to a prince's sons, reducing the parent kingdom's strength while avoiding only openly punitive confiscation.
+- [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm|Hanji 218 part 1]] grounds that proposal in a scale-based theory of rebellion and specifies repeated division, temporary central administration of vacant kingdoms, and resilience beyond the ruler's personal ability.
 
 Reputation repair and grievance capacity:
 - [[zizhi-tongjian-hanji-220-minjian-geyao-fengci-wendi-jia-renyi-liuheng-fanying-guguai-1-liuajl1w1byd6m_hjy0obirtmlu8|Hanji 220]] attributes to Jia Yi the warning that granting titles to Liu Chang's sons can make the court appear to concede wrongful punishment.
@@ -90,13 +94,13 @@ Minting incentives and material control:
 
 ## Qualifications
 
-The eight sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison; the source supports a policy argument, not precise economic measurement or proof of outcome.
+The nine sources do not provide a full biography, textual history, or systematic account of Jia Yi's political thought. Qinji 109-2 gives a comparative historiographical reading rather than proving that early-Han context fully explains his praise of the Four Lords. Hanji 337 paraphrases a selected 《过秦论》 argument without establishing the exact quotation boundary, Sima Qian's private intent, or rejected advice as a sufficient explanation of Qin's fall. The two Hanji 219 episodes' quotations, offices, ritual and penal procedures, reign-length comparison, partition proposal, imperial response, and Seven States counterfactual require comparison with 《治安策》 and transmitted histories. Hanji 218 part 1 deepens the partition argument but does not prove that kingdom scale alone determines rebellion, that its counterfactual lives would have changed, or that reserved future kingdoms could be administered without new disputes. Hanji 220's reported memorial, historical analogies, grants, imperial response, and revenge forecast likewise require textual comparison; later conflicts involving Liu Chang's sons do not prove that titles caused rebellion. Hanji 221's territorial design, implementation, later validation, tutoring relationship, psychological account, and death causation also remain source-scoped. Heir environment and ritual priority remain proposed mechanisms rather than single-cause proof, and the official-dignity program is not simply humane because the sources also record coerced death and denied defense. Hanji 218 part 2's diplomatic hierarchy, production ratios, social examples, Shang Yang comparison, and Three Dynasties-Qin causal frame remain source-scoped. Hanji 216's coin weights, price and case counts, labor effects, legal mechanics, imperial response, and copper-control proposal likewise require textual and numismatic comparison; the source supports a policy argument, not precise economic measurement or proof of outcome.
 
 ## What Changed
 
-- Added private-minting analysis in which law can manufacture profitable offenses rather than merely suppress them.
-- Distinguished a bare ban from upstream copper control and linked coin policy to agricultural labor and market authority.
-- Preserved weights, price examples, crime totals, and effects as source-scoped rather than measured outcomes.
+- Reframed strong-prince danger as a product of kingdom scale and institutional capacity rather than surname or personal virtue alone.
+- Added repeated partition, temporary central administration of vacant kingdoms, and weak-ruler resilience to the territorial program.
+- Preserved personal-fate counterfactuals and guaranteed-stability language as source-scoped rather than demonstrated outcomes.
 
 ## Relationships
 
@@ -109,6 +113,7 @@ The eight sources do not provide a full biography, textual history, or systemati
 - [[ZhianCe|《治安策》]] - memorial carrying Jia Yi's official-dignity and kingdom-fragmentation arguments in Hanji 219.
 - [[MinisterialDignityProtection|九卿体面保护]] - later institutional analogue for preserving office dignity during discipline.
 - [[TuiEnLing|推恩令]] - later systematic fragmentation policy whose logic resembles, but is not identical to, Jia Yi's proposal.
+- [[SameSurnameKingEnfeoffment|同姓王分封]] - royal-territorial system whose trust advantage Jia Yi treats as insufficient when kingdoms remain too large.
 - [[LiuHeng|汉文帝刘恒]] - ruler whom the episode credits with valuing Jia Yi but not promptly implementing the partition proposal.
 - [[CrownPrinceTutorPublicInterest|太子师傅公器化]] - later cases that share Jia Yi's public-responsibility model of heir education.
 - [[RitualPreventionAndLegalResponse|礼教预防与法令处置]] - governance distinction attributed to Jia Yi between forming conduct and judging completed conduct.

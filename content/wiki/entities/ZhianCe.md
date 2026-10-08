@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw
   - zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt
   - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag
+  - zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm
 last_updated: 2026-10-09
 ---
 
@@ -21,6 +22,8 @@ Part 1 presents political prevention as formation before crisis. The crown princ
 Part 2 reads “可杀不可辱” as an institutional claim. Ministers close to the ruler may be removed or killed, but public mutilation, binding, beating, and abuse by low prison officers can damage the dignity of the offices and sovereign order they represent. Ritual restraint is meant to cultivate shame, self-respect, and officials capable of principled service. [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219 part 2]]
 
 The source also gives the doctrine a coercive boundary. If accusation requires a minister to preserve imperial dignity by committing suicide, the same honor system can suppress defense and punish insistence on clarification. On territorial policy, the episode attributes to Jia Yi a proposal to grant a prince's sons their own territories, weakening the parent kingdom without presenting the measure only as confiscation. This is an intellectual precursor to later fragmentation policy, not the same enactment as [[TuiEnLing|推恩令]].
+
+Hanji 218 part 1 adds the proposal's institutional logic and implementation outline. Large kingdoms are said to generate dangerous capacity regardless of whether their rulers are of a different surname or belong to the Liu house; Changsha's survival is associated partly with limited scale. The remedy is to divide Qi, Zhao, Chu, and other large kingdoms repeatedly among descendants, while the center temporarily administers reserved kingdoms when heirs are not yet available. The stated test is resilience under an infant or merely symbolic ruler, shifting the memorial's focus from confidence in a good emperor to a structure capable of surviving weak leadership. [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm|Hanji 218 part 1]]
 
 Hanji 218 part 2 adds the crisis map that precedes those remedies. Frontier accommodation is described as inverted authority, military mobilization as detached from real danger, and luxury consumption as outrunning productive labor until hunger makes crime control implausible. The memorial's institutional answer then reaches beyond court ritual: routine paperwork cannot replace [[CustomGovernanceBeyondPaperAdministration|the formation of custom]], and stable role distinctions among rulers, officials, superiors, subordinates, and kin are treated as a vessel that must be built before midstream danger arrives. [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag|Hanji 218 part 2]]
 
@@ -45,6 +48,7 @@ Coercive boundary:
 
 Kingdom fragmentation:
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-2-lhdbii3duf3kgpwwpmilvuogyjvw|Hanji 219]] attributes to Jia Yi a proposal to grant territories to royal sons so the parent kingdom retains less concentrated power.
+- [[zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm|Hanji 218 part 1]] adds a scale-based theory of royal rebellion, repeated division of large kingdoms, temporary administration of vacant grants, and weak-ruler resilience as the program's target.
 
 Heir formation and ritual prevention:
 - [[zizhi-tongjian-hanji-219-jiayi-de-zhian-ce-cangzhe-guojia-xingshuai-de-mimi-1-likaommqtr0c2luijqr-fum2uhjt|Hanji 219 part 1]] presents tutors, companions, speech, conduct, and ritual as a continuous environment for forming the crown prince before succession.
@@ -56,13 +60,13 @@ Latent crisis and social order:
 
 ## Qualifications
 
-The current page rests on three compact popular-history episodes, not a complete reading, textual history, or edition comparison of the memorial. Ancient quotations, offices, ritual and penal procedure, later effects, and the relationship between Jia Yi's proposal and subsequent policy require primary-text comparison. The Three Dynasties–Qin comparison does not prove that heir education or ritual-law balance alone determines dynastic longevity. The claim that delayed partition contributed to the Seven States rebellion is likewise a bounded causal interpretation, not proof that prompt adoption would have prevented it. Praise attributed to [[ZengGuofan|曾国藩]] and [[MaoZedong|毛泽东]] records later reception but does not independently validate every policy claim. Hanji 218 part 2's tribute framing, production ratios, family examples, and Qin comparison remain source-scoped, and the episode does not prove that ritual-custom policy alone determines dynastic duration.
+The current page rests on four compact popular-history episodes, not a complete reading, textual history, or edition comparison of the memorial. Ancient quotations, offices, ritual and penal procedure, later effects, and the relationship between Jia Yi's proposal and subsequent policy require primary-text comparison. The Three Dynasties–Qin comparison does not prove that heir education or ritual-law balance alone determines dynastic longevity. The claim that delayed partition contributed to the Seven States rebellion is likewise a bounded causal interpretation, not proof that prompt adoption would have prevented it. Hanji 218 part 1 does not establish kingdom scale as the sole cause of rebellion, validate its counterfactual biographies, or test the administrative and succession costs of reserved future kingdoms. Praise attributed to [[ZengGuofan|曾国藩]] and [[MaoZedong|毛泽东]] records later reception but does not independently validate every policy claim. Hanji 218 part 2's tribute framing, production ratios, family examples, and Qin comparison remain source-scoped, and the episode does not prove that ritual-custom policy alone determines dynastic duration.
 
 ## What Changed
 
-- Added the memorial's latent-crisis chain from frontier pressure and military drift to luxury, hunger, and crime.
-- Added custom formation and role clarity as governance functions beyond routine paperwork.
-- Preserved the economic ratios and Qin comparison as source-scoped causal rhetoric.
+- Added kingdom scale and concentrated capacity as the mechanism behind the memorial's princely-risk diagnosis.
+- Expanded the remedy from a brief grant-to-sons proposal into repeated partition plus temporary central administration of vacant kingdoms.
+- Made resilience under weak or infant rulers, rather than confidence in a capable incumbent, the institutional test.
 
 ## Relationships
 
@@ -70,6 +74,7 @@ The current page rests on three compact popular-history episodes, not a complete
 - [[MinisterialDignityProtection|九卿体面保护]] - later institutional analogue for protecting senior-office dignity during discipline.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - broader framework explaining why bodily treatment and procedure affect political hierarchy.
 - [[TuiEnLing|推恩令]] - later systematic analogue for fragmenting concentrated kingdoms through grants to additional sons.
+- [[SameSurnameKingEnfeoffment|同姓王分封]] - broader royal-territorial order whose kinship basis does not remove scale-driven autonomy risk.
 - [[RebellionOfTheSevenStatesWesternHan|七国之乱]] - later crisis used by the episode to evaluate the cost of delayed kingdom reduction.
 - [[LiuHeng|汉文帝刘恒]] - ruler said to have valued the memorial without promptly carrying out the partition proposal.
 - [[CrownPrinceTutorPublicInterest|太子师傅公器化]] - later institutional cases consistent with the memorial's treatment of heir education as a public responsibility.

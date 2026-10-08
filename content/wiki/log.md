@@ -32922,3 +32922,11 @@ Added source `zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（1）
+
+Added source `zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm`; resynthesized [[JiaYi|贾谊]], [[ZhianCe|《治安策》]], and [[TuiEnLing|推恩令]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jia Yi treats strong-prince danger as a product of kingdom scale and concentrated institutional capacity rather than surname or personal virtue alone; repeated partition, temporary central administration of reserved kingdoms, and resilience under an infant or weak ruler form the preventive design. No settled contradiction was adopted: the program complements selective royal buffers, remains distinct from the later formal 推恩令, and its personal-fate counterfactuals and guaranteed-stability language remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,121 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

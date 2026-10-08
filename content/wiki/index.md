@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？](sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4.md) — 贾谊以犯罪激励、币重分裂、弃农采铜和禁令利润说明惩罚不足，贾山从主权反对私铸；文帝却授邓通铜山铸钱，吴王刘濞也以铜盐形成财政自主。
+- [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（1）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-1-ls_ve3iwzfqmbgemyv-gpjunrcrm.md) — 贾谊把强藩叛乱解释为封国规模与制度能力问题，主张反复分割齐、赵、楚等大国，以小国易制和弱君主下仍可维持的制度韧性取代对个人忠诚的依赖。
 - [《资治通鉴·汉纪》218｜贾谊为什么被称为千古第一政治奇才？（2）](sources/zizhi-tongjian-hanji-218-jiayi-weihe-bei-chengwei-qiangu-diyi-zhengzhi-qicai-2-lgeecnyc_wqgig49ftcsnztsnwag.md) — 贾谊从汉匈“倒悬”、武备松弛和奢靡失衡诊断太平表象下的危机，并以风俗治理、角色秩序和预先建制回应文书行政与事后刑罚的边界。
 - [AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者](sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u.md) — KK 与山音以《蒙古斯》和《阿明的一天》说明 AI 如何压缩影像执行、重组剪辑中心工作流，同时把创作瓶颈推向生活经验、审美判断与最终责任。
 - [301-阿伦特如何痛骂茨威格？](sources/301-alunte-ruhe-tongma-ciweige-lomjmj7qrvog9yldxcmf3rk3kepf.md) — 独树不成林重构阿伦特对《昨日的世界》的批评，将茨威格的黄金时代记忆解释为由名望、阶层和国际精英网络保护、却无法替代政治判断与国家成员资格的文化世界。
