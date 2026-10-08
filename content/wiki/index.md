@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？](sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj.md) — 文帝在灾荒粮缺中自责问策、以和亲应对边患；张苍因荐人牟利指控离相，其学术、报恩与长寿轶事得到补全，申屠嘉则在避嫌外戚的考量下接任。
 - [《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？](sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3.md) — 公孙臣以土德和黄龙预言取得文帝任用并使张苍失势，晁错凭对策获擢，新垣平则以望气开启后续骗局；标题未提供新垣结衣本人族谱证据。
 - [《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？](sources/zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j.md) — 新垣平以望气、玉杯和祥瑞叙事获得文帝赏赐并影响祭祀、改元与建庙，最终由外部检举触发审讯败露；太阳异象机制和廷尉姓名保留来源边界。
 - [CZ's Untold Story: The Rise, Fall, and Redemption of Binance's Founder](sources/all-in-with-chamath-jason-sacks-friedberg-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder-40056770.md) — All-In interview with CZ on his immigrant and trading-systems background, Binance and BNB's launch, U.S. enforcement and prison, Giggle Academy, crypto privacy, and agent payments.
@@ -4133,7 +4134,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
 - [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
-- [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 试图以宗庙外墙案诛杀晁错，却因对方提前入宫请罪并获景帝背书而失去弹劾先机的西汉丞相。
+- [申屠嘉 / Shentu Jia (Western Han)](entities/ShentuJiaWesternHan.md) — 文帝为避外戚任相观感而选中的廉直老臣，后因晁错提前请罪并获景帝背书而失去弹劾先机。
+- [窦广国 / Dou Guangguo (Western Han)](entities/DouGuangguoWesternHan.md) — 被汉文帝认为有德有才却因外戚任相的偏私观感而未获任命的候选人。
 - [楚王刘戊 / Liu Wu, King of Chu (Western Han)](entities/LiuWuChuKingWesternHan.md) — 从忽略旧臣礼遇、压制劝谏走向与吴国合兵叛乱的西汉楚王。
 - [穆先生 / Master Mu (Western Han)](entities/MuXianshengWesternHan.md) — 从甜酒礼节的中断判断君臣道义已变，并在公开迫害出现前退出楚国宫廷的旧臣。
 - [应高 / Ying Gao (Western Han)](entities/YingGaoWesternHan.md) — 受刘濞派遣，以共同威胁、诛晁错口号、军事计划和分地承诺说服胶西王刘昂加入联盟的吴国使者。
@@ -4237,7 +4239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
-- [张苍 / Zhang Cang](entities/ZhangCang.md) — 在小说讨论中连接旧贵族经验与秦中央任职经验、承载郡县与分封比较的人物。
+- [张苍 / Zhang Cang](entities/ZhangCang.md) — 横跨小说制度讨论与汉廷史事的秦汉官员，现有画像涵盖水德争议、罢相问责、律历算学、报恩与长寿轶事。
 - [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
 - [《天涯·明月·刀》 / The Horizon, the Moon, the Saber](entities/TianyaMingyueDaoGuLong.md) — 古龙小说，以名人榜、代理身份、孔雀翎和普通归宿讨论欲望、衰老、恐惧与放下。
 - [《借尸还魂》 / Borrowed Corpse Returns the Soul](entities/BorrowedCorpseReturnsSoulGuLong.md) — 古龙楚留香小说，以伪超自然身份谜案、婚约逃离、刺客组织与不败即胜的决斗连接悬疑和心理战。

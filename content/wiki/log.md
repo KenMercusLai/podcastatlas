@@ -32435,3 +32435,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？
+
+Added source `zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj`; created [[DouGuangguoWesternHan|窦广国]]; migrated and resynthesized [[WangLingHanMinister|王陵]]; and resynthesized [[ZhangCang|张苍]], [[ShentuJiaWesternHan|申屠嘉]], [[LiuHeng|汉文帝刘恒]], and [[ImperialSelfCriticismEdict|帝王自责诏]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 文帝把灾荒粮缺转成公开自责与问策，以和亲应对边境损失，并在相位更替中因外戚偏私观感放弃窦广国、任用申屠嘉；张苍的失势背景与荐人牟利的明示罢相罪名得到区分，其秦汉档案、律历度量衡、算学、王陵救命报恩及长寿轶事被纳入分层证据。No settled contradiction was adopted. 灾荒诊断、边境伤亡、和亲条款、任相私议、张苍学术归属、寿命与私生活细节均保留来源边界。Broad [[Xiongnu|匈奴]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[RecommendationAccountabilityTalentSelection|举荐问责式选才]] pages were linked for context but kept closed because focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; changed-page and synthesis validation follow rendering.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

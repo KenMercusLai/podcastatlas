@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup
   - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
   - zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1
+  - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
 last_updated: 2026-09-14
 ---
 
@@ -25,17 +26,19 @@ Hanji 737 grounds the criticism-publication branch through Mingdi after a solar 
 
 Hanji 389-2 adds a Western Han military-fiscal branch through [[HanWudi|汉武帝]]'s [[LuntaiSelfCriticismPolicyTurn|轮台罪己诏 policy turn]]. The episode treats the edict as unusually strong because self-blame changes decisions: Wudi rejects added levies, distant Luntai屯田, and a covert chanyu-assassination proposal, then directs officials toward less harsh governance, agriculture, horse recovery, and local supply planning.
 
+Hanji 227 adds an earlier Western Han food-crisis branch through [[LiuHeng|汉文帝刘恒]]. Crop failure, flood, drought, epidemic, and grain shortage lead him to ask publicly whether official stipends, commerce, brewing, or livestock consumption contribute to scarcity and to require senior officials and scholars to submit useful proposals without concealment. The episode establishes responsibility-taking and agenda opening, but not which proposals were adopted or whether scarcity improved.
+
 The concept is narrower than general receptivity. [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] asks whether advice changes policy or punishment; imperial self-criticism names the public rhetorical and institutional move by which the ruler makes criticism safe enough to circulate or makes responsibility public enough to authorize a turn. In Hanji 737, the source emphasizes responsibility-taking through criticism publication. In Hanji 389-2, the source emphasizes responsibility-taking through refusal of further harmful policy.
 
 ## Key Claims
 
 - Omen politics can open a feedback channel when a ruler treats abnormal signs as warnings about concrete burdens.
-- Auspicious signs can be handled through humility and anti-flattery rules rather than simple triumphal praise.
+- Auspicious signs can be handled through humility and anti-flattery rules rather than triumphal praise, keeping memorial language within stated limits.
 - Confidential criticism becomes stronger when the ruler reads it and circulates it rather than suppressing it.
 - Self-blame turns ministerial accusation into imperial responsibility, lowering retaliation risk and raising reform pressure.
-- Anti-flattery discipline helps keep omen politics from inflating memorial praise beyond the ruler's stated standards.
 - The move can address concrete administrative failures, including corruption, construction burdens, spending, taxation, and anger.
 - The strongest cases join speech to policy refusal or repair, as in halted construction or the Luntai rejection of renewed frontier burdens.
+- An edict may still be institutionally meaningful before an outcome is known when it broadens diagnosis and authorizes candid proposals, but this is weaker evidence than documented policy repair.
 
 ## Evidence
 
@@ -49,22 +52,24 @@ The concept is narrower than general receptivity. [[ReceptiveRemonstranceGoverna
 - Failure inventory: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] lists failures involving people, corrupt officials, palace construction, spending, taxation, and anger.
 - Luntai policy refusal: [[zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1|Hanji 389-2]] says Han Wudi rejects an added border levy, distant Luntai屯田, and a prisoner-based plan to assassinate the Xiongnu chanyu.
 - Luntai recovery program: [[zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1|Hanji 389-2]] says the edict turns toward stopping harmful projects, forbidding harsh official conduct, encouraging farming, rebuilding horse resources, and requiring local frontier-supply plans.
+- Food-crisis diagnosis and proposal request: [[zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj|Hanji 227]] says Liu Heng names harvest and public-health shocks, questions multiple grain-use channels, and asks officials and scholars to report beneficial measures without concealment.
 
 ## Counterevidence & Qualifications
 
-The page does not prove that every criticized failure was fixed after an edict, nor that an auspicious or abnormal sign means governance actually improved. Hanji 735 is stronger on concrete burden relief in the North Palace case than on durable temperament change, since the same source still describes Mingdi as harsh. Hanji 389-2 is strong on stated policy refusal and recovery direction, but the source does not independently verify how fully harmful policies stopped afterward. Later sources should test whether self-criticism leads to measurable policy change, becomes ritualized language without effect, or competes with punitive ruler behavior in the same reign.
+The page does not prove that every criticized failure was fixed after an edict, nor that an auspicious or abnormal sign means governance improved. Hanji 735 is stronger on concrete burden relief in the North Palace case than on durable temperament change, since the same source still describes Mingdi as harsh. Hanji 389-2 is strong on stated policy refusal and recovery direction, but does not independently verify how fully harmful policies stopped. Hanji 227 establishes open diagnosis and proposal solicitation but supplies no resulting measure or outcome. Later sources should test whether self-criticism leads to measurable policy change, becomes ritualized language without effect, or competes with punitive ruler behavior in the same reign.
 
 ## What Changed
 
-- Added Hanji 735 as the earliest branch: Tianchuan-star remonstrance, halted North Palace construction, expense cuts, apology, and eclipse self-warning.
-- Preserved Hanji 736 as an auspicious-omen branch where Mingdi turns a treasure-cauldron report into humility and anti-flattery discipline.
-- Preserved Hanji 737's solar-eclipse criticism-publication and Mingdi self-blame branch.
-- Added Hanji 389-2's Western Han Luntai branch, where self-criticism is tied to rejecting renewed frontier burdens and turning toward recovery policy.
+- Added Liu Heng's earlier food-crisis branch: named shocks, public self-questioning, and unconcealed proposal solicitation.
+- Distinguished agenda opening from stronger evidence of adopted policy or measured relief.
+- Preserved Mingdi's stopped-construction, anti-flattery, and criticism-publication branches.
+- Preserved the Luntai branch where self-criticism is tied to concrete policy refusal and recovery direction.
 
 ## Related Concepts
 
 - [[EmperorMingOfHan|汉明帝]] - source ruler whose eclipse response grounds the concept.
 - [[HanWudi|汉武帝]] - Western Han ruler whose Luntai edict adds a war-cost and policy-turn branch.
+- [[LiuHeng|汉文帝刘恒]] - earlier Western Han ruler whose shortage edict adds diagnosis and proposal solicitation.
 - [[LuntaiSelfCriticismPolicyTurn]] - concrete Western Han case where self-blame is paired with policy refusal and recovery instructions.
 - [[ZhongliYiEasternHan|钟离意]] - official who turns an omen frame into stopped construction and public-burden correction.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - broader omen category that the treasure-cauldron response disciplines rather than simply amplifies.

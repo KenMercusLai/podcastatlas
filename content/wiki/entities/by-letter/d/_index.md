@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12733
+wiki_total_pages: 12734
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "DouXianEasternHan"
     title: "窦宪 / Dou Xian (Eastern Han)"
     url: "/wiki/entities/douxianeasternhan/"
+  - key: "DouGuangguoWesternHan"
+    title: "窦广国 / Dou Guangguo (Western Han)"
+    url: "/wiki/entities/douguangguowesternhan/"
   - key: "DouJingEasternHan"
     title: "窦景 / Dou Jing (Eastern Han)"
     url: "/wiki/entities/doujingeasternhan/"

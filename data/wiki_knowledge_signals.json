@@ -63752,6 +63752,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dougueasternhan/"
     },
+    "DouGuangguoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/douguangguowesternhan/"
+    },
     "DouGuiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -117156,9 +117172,9 @@
       "url": "/wiki/concepts/imperialritualdistance/"
     },
     "ImperialSelfCriticismEdict": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
@@ -117187,6 +117203,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王",
           "url": "/wiki/sources/zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
         }
       ],
       "updated": "2026-09-14",
@@ -141881,9 +141904,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -141933,6 +141956,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
         }
       ],
       "updated": "2026-10-08",
@@ -211920,9 +211950,9 @@
       "url": "/wiki/entities/shentugangeasternhan/"
     },
     "ShentuJiaWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？ [ltWM5ZfPDAU5p-LMsnnr8wYNFZQJ].md",
@@ -211930,6 +211960,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-230-shentujia-yu-sha-chaocuo-weihe-fan-bei-qisi-ltwm5zfpdau5p-lmsnnr8wynfzqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
         }
       ],
       "updated": "2026-10-08",
@@ -243807,6 +243844,36 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/wanglinxincrownprince/"
     },
+    "WangLingHanMinister": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心 [ljyV8Bow4Rj1L5ThS3zNx2eVgVtm].md",
+          "key": "zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/wanglinghanminister/"
+    },
     "WangLingXinPrince": {
       "episode_count": 1,
       "show_count": 1,
@@ -260644,9 +260711,9 @@
       "url": "/wiki/entities/zhangbueasternhan/"
     },
     "ZhangCang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -260668,9 +260735,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？ [liu5ugZ2BdS9E0rgl9XytK0a4pvJ].md",
+          "key": "zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/zhangcang/"
     },
     "ZhangChangNanyangLateHan": {

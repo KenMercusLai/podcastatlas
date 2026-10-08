@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46
   - zizhi-tongjian-hanji-226-zhuangshen-nonggui-de-xinyuanping-shi-ruhe-bei-hanwendi-shipo-de-ljxpb9_fn-jmatlg621chtclqn3j
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
+  - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
 last_updated: 2026-10-08
 ---
 
@@ -34,17 +35,19 @@ The episode's exposure sequence qualifies its own title: Liu Heng does not indep
 
 At the close of the reign, [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] attributes Liu Heng's death in 157 BCE to illness, not palace violence, and reads his will as governance at the boundary of death: mourning is shortened, ordinary marriage, sacrifice, drinking, and meat consumption are not broadly prohibited, mass attendance and military display are avoided, Baling's terrain is left unchanged, and palace women are sent home.
 
+A late-reign crisis and appointment layer extends the restraint profile from spending and burial into feedback solicitation, frontier risk management, and perceived impartiality in senior selection. Liu Heng responds to harvest failure, flood, drought, epidemic, and grain shortage with public self-questioning about consumption and administration, then asks senior officials and scholars to submit useful relief proposals without concealment. After damaging Xiongnu raids, he again seeks bounded de-escalation through heqin. When [[ZhangCang|张苍]] leaves the chancellorship, Liu Heng reportedly declines the capable [[DouGuangguoWesternHan|窦广国]] because appointing the empress's brother may look partial and selects [[ShentuJiaWesternHan|申屠嘉]] instead. [[zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj|Hanji 227]] does not establish that the resulting policies were effective.
+
 The same source links those instructions to refusal of a costly terrace, plain clothing and furnishings, ceramic burial goods, receptiveness to remonstrance, lenient correction, agricultural priority, and lighter public burdens. The strongest bounded judgment is continuity between life and will: frugal death arrangements constrain both court display and social disruption. The broader claim that these choices made households rich and founded Wen-Jing prosperity remains a retrospective causal interpretation rather than a measured result.
 
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
 - Narrative fulfillment figure in Xu Fu's Bao Ji prophecy and active patron in the Deng Tong prediction branch.
-- Ruler whose reported death instructions turn mourning, burial, mobilization, and palace-household arrangements into burden-limiting policy.
-- Frugality exemplar whose refusal of a costly terrace and restriction of personal display are presented as continuous with Baling restraint.
+- Ruler whose reported death instructions, terrace refusal, and restricted personal display turn mourning, burial, mobilization, and consumption into burden-limiting policy.
 - Agrarian and light-burden ruler credited by the episode with helping create Wen-Jing recovery.
 - Receptive and lenient ruler in the source's anecdotes, qualified by selective personal patronage and a willingness to let omen claims shape ritual and chronology before external correction.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
+- Crisis ruler who publicly solicits relief proposals and treats perceived kin favoritism as an appointment constraint.
 
 ## Evidence
 
@@ -63,6 +66,10 @@ Omen capture, exposure, and correction:
 
 Remonstrance and policy talent:
 - [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] says Liu Heng uses an examination to solicit direct counsel, promotes Chao Cuo for the preferred answer, and esteems later memorials even when he does not fully adopt them.
+- [[zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj|Hanji 227]] says he turns food crisis into public self-questioning and an invitation for unconcealed relief proposals.
+
+Frontier and appointment restraint:
+- [[zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj|Hanji 227]] links damaging Xiongnu raids to renewed heqin and says Liu Heng passes over Dou Guangguo because visible outer-relative favoritism could damage trust, appointing Shentu Jia instead.
 
 Death, burial, and public burden:
 - [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] reports death after illness, short mourning, relaxed social prohibitions, limited attendance and display, unchanged Baling terrain, and the return of palace women to their families.
@@ -70,14 +77,14 @@ Death, burial, and public burden:
 
 ## Qualifications
 
-This is a bounded profile assembled from seven popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, Five Colored Emperor altar history, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged and its ancestry-title hook remain unsupported. Hanji 226's dates, age, rewards, ritual details, solar event, chronology change, interrogation, and punishment require source comparison; its title overstates personal detection because the body begins exposure with an outside accusation, and its “张世芝” name form is not normalized. Hanji 229's dates, age, will wording, mourning schedule, burial form, grave goods, terrace cost, wealth comparison, clothing anecdotes, remonstrance examples, official identities, agricultural effects, and prosperity claims also require primary-text, archaeological, and quantitative comparison. Its portrait of coherent lifelong frugality is qualified by the Deng Tong and Xinyuan Ping patronage branches. The closing Changsha notice is truncated, so it cannot sustain a complete transition narrative.
+This is a bounded profile assembled from eight popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
 
 ## What Changed
 
-- Backfilled the yellow-dragon decision that shifts court authority from Zhang Cang to Gongsun Chen.
-- Added Five Colored Emperor sacrifice and Xinyuan Ping's first temple-producing claim.
-- Added Chao Cuo's examination-based promotion as a contrasting access channel.
-- Reframed receptiveness as productive for remonstrance but risky when omen claims lack independent verification.
+- Added disaster self-questioning and open solicitation of relief proposals.
+- Added renewed heqin as a bounded response to damaging frontier raids.
+- Added the decision to pass over Dou Guangguo on perceived-favoritism grounds and appoint Shentu Jia.
+- Extended the restraint synthesis from consumption and burial to feedback, frontier risk, and appointment legitimacy.
 
 ## Relationships
 
@@ -90,6 +97,8 @@ This is a bounded profile assembled from seven popular-history podcast notes, no
 - [[GongsunChenWesternHan|公孙臣]] - earth-virtue advocate whose yellow-dragon prediction Liu Heng treats as confirmed.
 - [[ZhangCang|张苍]] - water-virtue minister whose influence declines after Liu Heng accepts the rival sign.
 - [[ChaoCuoWesternHan|晁错]] - remonstrant promoted through examination and valued for policy proposals.
+- [[DouGuangguoWesternHan|窦广国]] - capable outer-relative candidate reportedly passed over to avoid the appearance of favoritism.
+- [[ShentuJiaWesternHan|申屠嘉]] - veteran chosen as chancellor after Zhang Cang's departure.
 - [[ChenPing|陈平]] - political survivor whose post-Lu usefulness continues under Liu Heng.
 - [[ZhouBo|周勃]] - restoration actor in the sources that place Liu Heng on the throne.
 - [[HanJingdi|汉景帝]] - son and successor who inherits the Wen-era settlement.
@@ -97,4 +106,6 @@ This is a bounded profile assembled from seven popular-history podcast notes, no
 - [[WenJingProsperityTradeoff|文景之治的繁荣代价]] - later outcome frame whose recovery side the episode connects to Liu Heng's policies.
 - [[FangshiFraudAndAuthority|方士骗术与权威]] - authority pattern that explains how staged proof and exclusive interpretation entered Liu Heng's court decisions.
 - [[OccultDecisionCapture|术数俘获式决策失控]] - decision-risk frame for allowing omen claims to substitute for prior independent verification.
+- [[ImperialSelfCriticismEdict|帝王自责诏]] - feedback pattern extended by the food-crisis edict's public self-questioning.
+- [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - frontier de-escalation instrument used again after damaging raids.
 - [[WesternHanDynasty|Western Han]] - dynasty ruled by Liu Heng from the post-Lu settlement to the Jingdi succession.
