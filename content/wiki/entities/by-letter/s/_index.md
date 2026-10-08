@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12775
+wiki_total_pages: 12777
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "ScipioAemilianus"
     title: "Scipio Aemilianus / 小西庇阿"
     url: "/wiki/entities/scipioaemilianus/"
+  - key: "ScipioAfricanus"
+    title: "Scipio Africanus / 大西庇阿"
+    url: "/wiki/entities/scipioafricanus/"
   - key: "ScoffBook"
     title: "Scoff: A History of Food and Class in Britain"
     url: "/wiki/entities/scoffbook/"

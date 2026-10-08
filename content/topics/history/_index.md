@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2613
+topic_total_pages: 2615
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1267,6 +1267,9 @@ topic_concepts:
   - key: "ScriptAsSocialHistory"
     title: "Script As Social History"
     url: "/wiki/concepts/scriptassocialhistory/"
+  - key: "SecondPunicWar"
+    title: "Second Punic War / 第二次布匿战争"
+    url: "/wiki/concepts/secondpunicwar/"
   - key: "SecrecyDrivenHistoricalMyth"
     title: "Secrecy-Driven Historical Myth"
     url: "/wiki/concepts/secrecydrivenhistoricalmyth/"
@@ -6543,6 +6546,9 @@ topic_sources:
   - key: "64-hitler-with-ian-kershaw-part-2-glt5766781968"
     title: "64. Hitler, with Ian Kershaw - part 2"
     url: "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+  - key: "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636"
+    title: "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)"
+    url: "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
   - key: "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622"
     title: "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)"
     url: "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"

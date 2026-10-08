@@ -3499,6 +3499,10 @@
     "title": "64. Hitler, with Ian Kershaw - part 2",
     "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
   },
+  "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636": {
+    "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+    "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+  },
   "643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622": {
     "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
     "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
@@ -12006,6 +12010,10 @@
   "BattleOfWakefield": {
     "title": "Battle of Wakefield",
     "url": "/wiki/concepts/battleofwakefield/"
+  },
+  "BattleOfZama": {
+    "title": "Battle of Zama / 扎马战役",
+    "url": "/wiki/entities/battleofzama/"
   },
   "Battlecode": {
     "title": "Battlecode",
@@ -73267,6 +73275,10 @@
     "title": "Scipio Aemilianus / 小西庇阿",
     "url": "/wiki/entities/scipioaemilianus/"
   },
+  "ScipioAfricanus": {
+    "title": "Scipio Africanus / 大西庇阿",
+    "url": "/wiki/entities/scipioafricanus/"
+  },
   "ScoffBook": {
     "title": "Scoff: A History of Food and Class in Britain",
     "url": "/wiki/entities/scoffbook/"
@@ -73538,6 +73550,10 @@
   "SecondOpiumWar": {
     "title": "第二次鸦片战争 / Second Opium War",
     "url": "/wiki/entities/secondopiumwar/"
+  },
+  "SecondPunicWar": {
+    "title": "Second Punic War / 第二次布匿战争",
+    "url": "/wiki/concepts/secondpunicwar/"
   },
   "SecondRenaissance": {
     "title": "Second Renaissance",

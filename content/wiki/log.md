@@ -32602,3 +32602,11 @@ Added source `30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)
+
+Added source `642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636`; created [[ScipioAfricanus|Scipio Africanus]], [[BattleOfZama|Battle of Zama]], and [[SecondPunicWar|Second Punic War]]; and resynthesized [[HannibalBarca|Hannibal Barca]], [[QuintusFabiusMaximus|Quintus Fabius Maximus]], [[Massinissa]], [[CatoTheElder|Cato the Elder]], [[Polybius]], and [[Carthage]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Scipio reverses Hannibal's theater-choice strategy by invading Africa, while Massinissa's realignment, Roman-Numidian cavalry, anti-elephant preparation, and a battle-hardened replacement system turn Zama into both a coalition victory and the expression of accumulated Roman institutional adaptation. No settled contradiction was adopted. Scipio's deceptive camp negotiations qualify a simple Roman-versus-Carthaginian moral contrast; Polybius's admiration for Hannibal coexists with his Scipionic connections; and the commanders' meeting, Sophonisba narrative, casualty and elephant totals, speeches, motives, reforms, accusations, and death scenes remain episode-attributed or source-scoped. Broad [[RomanRepublic]] and show pages were kept closed because the bounded additions are represented in the focused commander, battle, war, polity, and source pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,081 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan remains outside this focused ingest.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9955
+wiki_total_pages: 9956
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "SecondOpinionStrategy"
     title: "Second Opinion Strategy / 第二意见策略"
     url: "/wiki/concepts/secondopinionstrategy/"
+  - key: "SecondPunicWar"
+    title: "Second Punic War / 第二次布匿战争"
+    url: "/wiki/concepts/secondpunicwar/"
   - key: "SecondRenaissance"
     title: "Second Renaissance"
     url: "/wiki/concepts/secondrenaissance/"

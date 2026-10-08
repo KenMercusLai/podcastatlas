@@ -24034,6 +24034,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/battleofwakefield/"
     },
+    "BattleOfZama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/battleofzama/"
+    },
     "BattlefieldFeintAndLure": {
       "episode_count": 7,
       "show_count": 1,
@@ -35323,9 +35339,9 @@
       "url": "/wiki/concepts/carrierpigeoncommunication/"
     },
     "Carthage": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -35368,6 +35384,13 @@
           "show": "The Rest Is History",
           "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
           "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
       "updated": "2026-10-08",
@@ -35835,9 +35858,9 @@
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "CatoTheElder": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7699509622 [GLT7699509622].md",
@@ -35845,6 +35868,13 @@
           "show": "The Rest Is History",
           "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
           "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
       "updated": "2026-10-08",
@@ -103691,9 +103721,9 @@
       "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
     "HannibalBarca": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -103722,9 +103752,16 @@
           "show": "The Rest Is History",
           "title": "424. Carthage vs. Rome: Total War (Part 4)",
           "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/hannibalbarca/"
     },
     "HannibalicOperationalDeception": {
@@ -155997,9 +156034,9 @@
       "url": "/wiki/concepts/massacreoftheinnocents/"
     },
     "Massinissa": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7699509622 [GLT7699509622].md",
@@ -156007,6 +156044,13 @@
           "show": "The Rest Is History",
           "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
           "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
       "updated": "2026-10-08",
@@ -186294,9 +186338,9 @@
       "url": "/wiki/entities/polysimulator/"
     },
     "Polybius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7699509622 [GLT7699509622].md",
@@ -186304,6 +186348,13 @@
           "show": "The Rest Is History",
           "title": "643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)",
           "url": "/wiki/sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
       "updated": "2026-10-08",
@@ -195293,9 +195344,9 @@
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
     },
     "QuintusFabiusMaximus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -195303,9 +195354,16 @@
           "show": "The Rest Is History",
           "title": "570. Hannibal: The Invasion of Italy (Part 3)",
           "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/quintusfabiusmaximus/"
     },
     "QuintusLutatiusCatulus": {
@@ -208813,6 +208871,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/scipioaemilianus/"
     },
+    "ScipioAfricanus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/scipioafricanus/"
+    },
     "ScoffBook": {
       "episode_count": 1,
       "show_count": 1,
@@ -209491,6 +209565,43 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/secondopiumwar/"
+    },
+    "SecondPunicWar": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT8313087633 [GLT8313087633].md",
+          "key": "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633",
+          "show": "The Rest Is History",
+          "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
+          "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
+        },
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        },
+        {
+          "episode_file": "GLT1285518636 [GLT1285518636].md",
+          "key": "642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636",
+          "show": "The Rest Is History",
+          "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
+          "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/secondpunicwar/"
     },
     "SecondTriumvirate": {
       "episode_count": 1,

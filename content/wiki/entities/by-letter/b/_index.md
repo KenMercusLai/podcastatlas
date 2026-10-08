@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12775
+wiki_total_pages: 12777
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "BattleOfValmy"
     title: "Battle of Valmy"
     url: "/wiki/entities/battleofvalmy/"
+  - key: "BattleOfZama"
+    title: "Battle of Zama / 扎马战役"
+    url: "/wiki/entities/battleofzama/"
   - key: "Battlecode"
     title: "Battlecode"
     url: "/wiki/entities/battlecode/"
