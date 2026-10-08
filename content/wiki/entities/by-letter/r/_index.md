@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12747
+wiki_total_pages: 12750
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "RedCliffsBattle"
     title: "赤壁之战 / Battle of Red Cliffs"
     url: "/wiki/entities/redcliffsbattle/"
+  - key: "RobertHart"
+    title: "赫德 / Robert Hart"
+    url: "/wiki/entities/roberthart/"
   - key: "RuanJianing"
     title: "阮佳宁 / Ruan Jianing"
     url: "/wiki/entities/ruanjianing/"

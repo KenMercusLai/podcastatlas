@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2603
+topic_total_pages: 2604
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5994,6 +5994,9 @@ topic_sources:
   - key: "4-were-all-so-17th-century-glt1251829896"
     title: "4. We’re all so 17th Century"
     url: "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"
+  - key: "40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m"
+    title: "40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）"
+    url: "/wiki/sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m/"
   - key: "40-history-as-entertainment-glt9519276470"
     title: "40. History as Entertainment"
     url: "/wiki/sources/40-history-as-entertainment-glt9519276470/"

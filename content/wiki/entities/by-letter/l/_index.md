@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12747
+wiki_total_pages: 12750
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2519,6 +2519,9 @@ wiki_pages:
   - key: "LiuYanFulingKingEasternHan"
     title: "阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)"
     url: "/wiki/entities/liuyanfulingkingeasternhan/"
+  - key: "LayOsbornFlotilla"
+    title: "阿思本舰队事件 / Lay-Osborn Flotilla"
+    url: "/wiki/entities/layosbornflotilla/"
   - key: "LuDapeng"
     title: "陆大鹏 / 路大鹏 / Lu Dapeng"
     url: "/wiki/entities/ludapeng/"

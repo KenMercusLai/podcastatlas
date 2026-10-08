@@ -4312,6 +4312,13 @@
       "url": "/topics/history/"
     }
   ],
+  "40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366": [
     {
       "key": "culture",
@@ -40346,6 +40353,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GuestOfficialGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GuestRiteSubmissionDiplomacy": [
     {
       "key": "politics",
@@ -72280,6 +72294,13 @@
     }
   ],
   "RobertGuest": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RobertHart": [
     {
       "key": "politics",
       "label": "Politics",

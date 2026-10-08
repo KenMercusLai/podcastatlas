@@ -2563,6 +2563,10 @@
     "title": "40. History as Entertainment",
     "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
   },
+  "40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m": {
+    "title": "40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）",
+    "url": "/wiki/sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m/"
+  },
   "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366": {
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
@@ -36555,6 +36559,10 @@
     "title": "Guest Expulsion Order / 逐客令",
     "url": "/wiki/concepts/guestexpulsionorder/"
   },
+  "GuestOfficialGovernance": {
+    "title": "客卿式外来精英治理 / Guest-Official Governance",
+    "url": "/wiki/concepts/guestofficialgovernance/"
+  },
   "GuestRiteSubmissionDiplomacy": {
     "title": "宾礼式臣服外交 / Guest-Rite Submission Diplomacy",
     "url": "/wiki/concepts/guestritesubmissiondiplomacy/"
@@ -41598,6 +41606,10 @@
   "ImperialLogisticalSpectacle": {
     "title": "Imperial Logistical Spectacle",
     "url": "/wiki/concepts/imperiallogisticalspectacle/"
+  },
+  "ImperialMaritimeCustoms": {
+    "title": "中国海关总税务司署 / Chinese Imperial Maritime Customs Service",
+    "url": "/wiki/entities/imperialmaritimecustoms/"
   },
   "ImperialMarriageInspection": {
     "title": "Imperial Marriage Inspection / 皇室婚前身体检视",
@@ -48482,6 +48494,10 @@
   "LawyerState": {
     "title": "Lawyer State / 律师国家",
     "url": "/wiki/concepts/lawyerstate/"
+  },
+  "LayOsbornFlotilla": {
+    "title": "阿思本舰队事件 / Lay-Osborn Flotilla",
+    "url": "/wiki/entities/layosbornflotilla/"
   },
   "LayeredDepthDefense": {
     "title": "Layered Depth Defense / 纵深分层防御",
@@ -70954,6 +70970,10 @@
   "RobertGuest": {
     "title": "Robert Guest",
     "url": "/wiki/entities/robertguest/"
+  },
+  "RobertHart": {
+    "title": "赫德 / Robert Hart",
+    "url": "/wiki/entities/roberthart/"
   },
   "RobertHooke": {
     "title": "Robert Hooke / 罗伯特·胡克",

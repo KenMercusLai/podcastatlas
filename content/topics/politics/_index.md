@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3200
+topic_total_pages: 3202
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4696,6 +4696,9 @@ topic_concepts:
   - key: "EffectMeasuredPersonnelSelection"
     title: "实效考察式用人 / Effect-Measured Personnel Selection"
     url: "/wiki/concepts/effectmeasuredpersonnelselection/"
+  - key: "GuestOfficialGovernance"
+    title: "客卿式外来精英治理 / Guest-Official Governance"
+    url: "/wiki/concepts/guestofficialgovernance/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
@@ -8237,6 +8240,9 @@ topic_entities:
   - key: "JiaBiaoLateHan"
     title: "贾彪 / Jia Biao (late Han)"
     url: "/wiki/entities/jiabiaolatehan/"
+  - key: "RobertHart"
+    title: "赫德 / Robert Hart"
+    url: "/wiki/entities/roberthart/"
   - key: "ZhaoYanLateHan"
     title: "赵俨 / Zhao Yan (late Han)"
     url: "/wiki/entities/zhaoyanlatehan/"

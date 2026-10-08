@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9939
+wiki_total_pages: 9940
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "GrandViewGardenYouthUtopia"
     title: "大观园青春乌托邦 / Grand View Garden Youth Utopia"
     url: "/wiki/concepts/grandviewgardenyouthutopia/"
+  - key: "GuestOfficialGovernance"
+    title: "客卿式外来精英治理 / Guest-Official Governance"
+    url: "/wiki/concepts/guestofficialgovernance/"
   - key: "GuestRiteSubmissionDiplomacy"
     title: "宾礼式臣服外交 / Guest-Rite Submission Diplomacy"
     url: "/wiki/concepts/guestritesubmissiondiplomacy/"

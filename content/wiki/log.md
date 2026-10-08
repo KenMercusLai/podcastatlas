@@ -32482,3 +32482,10 @@ Added source `41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yeming
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）
+
+Added source `40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m`; created [[RobertHart|赫德]], [[ImperialMaritimeCustoms|中国海关总税务司署]], [[LayOsbornFlotilla|阿思本舰队事件]], and [[GuestOfficialGovernance|客卿式外来精英治理]]; updated [[WeirdHistoryPodcast|怪东西]], [[ZhangDabai|张大白]], and [[LiSi|李斯]] from their complete preserved evidence inventories. Core synthesis: rulers can convert outsider expertise into state capacity, but imported talent remains exposed to factional distrust, coercive uses, principal-agent failure, and sovereignty conflict. The source does not make Qin 客卿 and Qing customs office institutionally equivalent, and it leaves the 《史记》 forged-edict account and 《赵正书》 deathbed-choice account unresolved. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,065 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

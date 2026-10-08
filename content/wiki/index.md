@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [40 跨国当官的“客卿”：李斯（秦朝丞相） vs 赫德（大清皇家海关总税务司）](sources/40-kuaguo-dangguan-de-keqing-lisi-qinchao-chengxiang-vs-hede-daqing-huangjia-haiguan-zongshuiwusi-luulmw-t1-oe2-klv64-f6nk-fgc3em-m.md) — 怪东西以李斯与赫德对照外来人才、国家能力、政治信任与主权边界，并保留《史记》与《赵正书》的继位叙事冲突。
 - [41 同被英国俘虏，同客死异乡：两广总督叶名琛与莫卧儿末代皇帝](sources/41-tongbei-yingguo-fulu-tong-kesi-yixiang-liangguang-zongdu-yemingchen-yu-mowoer-modai-huangdi-lt2jwc0wbce-shs0q2zdzvygqxu3.md) — 怪东西对照叶明琛与巴哈杜尔·沙二世，连接第二次鸦片战争、1857年印度大起义、殖民强权误判与象征权威的政治流放。
 - [42 东西方的变法维新：子产（“苟利国家生死以”背后的男人） vs 克里斯提尼（雅典民主之父）](sources/42-dongxifang-de-bianfa-weixin-zichan-gouli-guojia-shengsiyi-beihou-de-nanren-vs-kelisitini-yadian-minzhu-zhifu-lvjn1o0aavcjhsm7gak9wpd9-drd.md) — 怪东西以子产与克里斯提尼对照土地、人口、军赋、成文法、地域部落、抽签、议事会与陶片放逐，解释变法如何削弱血缘贵族并重分配国家或公民权力。
 - [Advice Line with Nick Green of Thrive Market](sources/advice-line-with-nick-green-of-thrive-market-7764e494-e791-48db-b95a-2d18994139a0.md) — How I Built This episode on scalable focus, mission-compatible economics, recurring demand, aligned advocates, and trust-based distribution for assistive technology.
@@ -4134,6 +4135,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [赫德 / Robert Hart](entities/RobertHart.md) — 长期主持中国海关总税务司署、连接行政建设与主权争议的英国籍清朝官员。
+- [中国海关总税务司署 / Chinese Imperial Maritime Customs Service](entities/ImperialMaritimeCustoms.md) — 以外籍人员、规则与口岸网络增强晚清财政行政能力、同时引出控制权问题的机构。
+- [阿思本舰队事件 / Lay-Osborn Flotilla](entities/LayOsbornFlotilla.md) — 清廷出资购舰却无法接受其指挥安排的晚清军购与主权冲突。
 - [叶明琛 / Ye Mingchen](entities/YeMingchen.md) — 兼具行政能力、残酷镇压、情报误判与殖民囚徒身后争议的晚清两广总督。
 - [巴哈杜尔·沙二世 / Bahadur Shah II](entities/BahadurShahII.md) — 无实权却保有文化与王朝威望、在1857年起义后被审判并流放的莫卧儿末代皇帝。
 - [第二次鸦片战争 / Second Opium War](entities/SecondOpiumWar.md) — 以亚罗号争端、广州陷落、清廷内乱约束及英法殖民升级为核心的1856—1860年战争。
@@ -16935,6 +16939,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [客卿式外来精英治理 / Guest-Official Governance](concepts/GuestOfficialGovernance.md) — 比较政权如何借助外来专才提升能力，并承受信任、代理与主权风险。
 - [象征权威的政治流放 / Political Exile of Symbolic Authority](concepts/SymbolicAuthorityExile.md) — 将失去实权但仍可被名号、礼仪与记忆动员的人物移离本土政治网络的统治策略。
 - [Institutional Reform as Power Reallocation / 制度变法即权力重分配](concepts/InstitutionalReformAsPowerReallocation.md) — Comparative framework in which changes to land, population, law, civic identity, and office selection redistribute practical power rather than merely announce policy.
 - [Scalable Core Before Expansion](concepts/ScalableCoreBeforeExpansion.md) — Sequence that proves a focused product, paid model, retention pattern, and acquisition path before adding complexity or capital.
