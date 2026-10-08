@@ -46690,9 +46690,9 @@
       "url": "/wiki/concepts/comfortledfootweardemand/"
     },
     "CommandAuthorityBottleneck": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
@@ -46707,9 +46707,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》659丨有些核心人才不要轻易动",
           "url": "/wiki/sources/zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？ [linYnX-dnZ0RRptlaFz__fCh4CGd].md",
+          "key": "zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/commandauthoritybottleneck/"
     },
     "CommandContinuityDamageControl": {
@@ -83035,6 +83042,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fengshilatehan/"
+    },
+    "FengTangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？ [linYnX-dnZ0RRptlaFz__fCh4CGd].md",
+          "key": "zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/fengtangwesternhan/"
     },
     "FengTouQuan": {
       "episode_count": 12,
@@ -144008,9 +144031,9 @@
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHeng": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -144081,9 +144104,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》228｜周亚夫将文帝拒于营外，刘恒的表现令人意外",
           "url": "/wiki/sources/zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？ [linYnX-dnZ0RRptlaFz__fCh4CGd].md",
+          "key": "zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/liuheng/"
     },
     "LiuHongQiKingWesternHan": {
@@ -198622,9 +198652,9 @@
       "url": "/wiki/concepts/recenthistoryperspective/"
     },
     "ReceptiveRemonstranceGovernance": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -198681,9 +198711,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？ [linYnX-dnZ0RRptlaFz__fCh4CGd].md",
+          "key": "zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/receptiveremonstrancegovernance/"
     },
     "ReciprocalCareAndDignity": {
@@ -250206,6 +250243,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/weishanwesternhan/"
+    },
+    "WeiShangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？ [linYnX-dnZ0RRptlaFz__fCh4CGd].md",
+          "key": "zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/weishangwesternhan/"
     },
     "WeiTengLateHan": {
       "episode_count": 1,

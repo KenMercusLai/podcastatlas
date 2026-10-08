@@ -6,7 +6,8 @@ tags: [military, state-capacity, command, bureaucracy]
 sources:
   - zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce
   - zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -21,6 +22,8 @@ The pattern is not simple decentralization advocacy. It names a mismatch between
 
 The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]]. Tian Kuang succeeds precisely by acting before approval: he mobilizes Yiping's adult men, distributes stored weapons, and posts rules. Wang Mang first tolerates the breach because it works, but later recalls him when his field success becomes threatening, showing how a bottleneck can reappear after central suspicion removes the person who bypassed it.
 
+An earlier Western Han branch adds an incentive-and-resource variant. [[FengTangWesternHan|冯唐]] argues that celebrated generals cannot be used effectively if they lack authority over frontier resources and rewards, then points to [[WeiShangWesternHan|魏尚]]'s imprisonment over six overreported enemy heads. This broadens the bottleneck beyond prior approval: field authority also becomes unusable when audit and punishment are so disproportionate that successful commanders cannot confidently convert performance into recognized merit. [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]]
+
 ## Key Claims
 
 - Command discretion has to match the speed and uncertainty of the campaign.
@@ -28,6 +31,7 @@ The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[
 - Excessive request-and-approval loops can preserve central control while destroying field responsiveness.
 - A successful bypass of the bottleneck remains vulnerable if the center later punishes or removes the actor who created field capacity.
 - The failure is institutional, not only a defect in a commander's personal courage or intelligence.
+- Resource and reward authority are part of command capacity; formal freedom to maneuver is insufficient if the commander cannot provision troops or credibly recognize performance.
 
 ## Evidence
 
@@ -36,14 +40,18 @@ The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[
 - Approval bottleneck: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says generals have to ask for instructions instead of acting with full authority.
 - Local bypass: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang stabilizes Yiping by mobilizing local men and weapons without prior permission.
 - Central reassertion: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang later removes Tian Kuang because his success and merit become threatening.
+- Frontier resource authority: [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]] attributes Li Mu's effectiveness to control over local revenue, provisioning, rewards, training, and field decisions.
+- Punishment bottleneck: [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]] says Wei Shang's six-head reporting discrepancy erases rank and produces imprisonment despite claimed frontier success.
 
 ## Counterevidence & Qualifications
 
-This concept does not prove that unrestricted commanders would have saved Xin's campaign. Hanji 660-2 supports the narrower claim that Yan You identified a mismatch between field responsibility and available authority. Hanji 659 supports only a local example of unauthorized action working temporarily; it does not prove Tian Kuang could have permanently settled Qingzhou, Xuzhou, or Qi. Other failures include official-army abuse, famine, relief corruption, information suppression, and public-sentiment collapse.
+This concept does not prove that unrestricted commanders would have saved Xin's campaign or that field success should be exempt from audit. Hanji 660-2 supports the narrower claim that Yan You identified a mismatch between field responsibility and available authority. Hanji 659 supports only a local example of unauthorized action working temporarily; it does not prove Tian Kuang could have permanently settled Qingzhou, Xuzhou, or Qi. Hanji 225-1 supplies a narrated proportionality case, but its Li Mu analogy, Wei Shang performance, reporting discrepancy, and legal sequence require textual comparison. Other failures include official-army abuse, famine, relief corruption, information suppression, public-sentiment collapse, inaccurate reporting, and uncontrolled local power.
 
 ## What Changed
 
-- Added Hanji 659's Tian Kuang layer as a successful but politically vulnerable local bypass of late-Xin command bottlenecks.
+- Added Hanji 225-1's Western Han resource, reward, and disproportionate-punishment variant.
+- Extended command capacity beyond permission to act into provisioning and credible troop incentives.
+- Preserved audit and central-control risks as qualifications rather than treating unlimited delegation as the remedy.
 
 ## Related Concepts
 
@@ -54,3 +62,6 @@ This concept does not prove that unrestricted commanders would have saved Xin's 
 - [[OfficialArmyPredationBackfire|官军扰民反噬]] - parallel military-state failure in the same episode.
 - [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - adjacent command-structure risk.
 - [[XunzianCommandRestraint|五权三制]] - broader command-discipline frame that includes judgment and authority.
+- [[FengTangWesternHan|冯唐]] - remonstrant who diagnoses the Western Han command mismatch.
+- [[WeiShangWesternHan|魏尚]] - frontier governor whose punishment shows the audit-and-incentive variant of the bottleneck.
+- [[MeritBasedRewardPunishment|因功赏罚]] - adjacent principle governing whether field performance and error receive proportionate treatment.

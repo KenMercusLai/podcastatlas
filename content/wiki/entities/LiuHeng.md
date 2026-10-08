@@ -14,7 +14,8 @@ sources:
   - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
   - zizhi-tongjian-hanji-228-cong-fukediguo-dao-esi-jietou-dengtong-jingli-le-shenme-lkmzg6gconp5mfpq72jsdm_yw-fc
   - zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9
-last_updated: 2026-10-08
+  - zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd
+last_updated: 2026-10-09
 ---
 
 ## Overview
@@ -45,13 +46,15 @@ The same source links those instructions to refusal of a costly terrace, plain c
 
 Two late-reign crisis tests extend Liu Heng's restraint profile from private frugality and feedback solicitation to respect for delegated operational authority and immediate burden reduction. During the Xiongnu emergency, he accepts being stopped at [[ZhouYafu|周亚夫]]'s fortified camp, follows its entry and movement rules, receives armored military ritual without treating it as an insult, and judges the constraint as evidence of preparedness. During drought and locust damage, he reportedly suspends tribute, opens restricted natural resources, cuts palace consumption and staffing, releases grain, and revives grain-for-rank exchange. The combined evidence supports the governing pattern without proving the measures' effectiveness. [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]]
 
+An earlier frontier case now makes the corrective mechanism more explicit. After [[FengTangWesternHan|冯唐]] publicly says that Liu Heng could not use even Lian Po or Li Mu, the emperor first leaves in anger but later asks for the reasoning. Feng Tang connects command discretion and soldier support to [[WeiShangWesternHan|魏尚]]'s imprisonment for six overreported enemy heads. Liu Heng admits error, pardons and restores Wei Shang, and appoints Feng Tang. [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]] therefore strengthens the receptive profile while preserving an important distinction: the virtue lies in reopening inquiry and changing policy after anger, not in never feeling affronted.
+
 ## Key Characteristics
 
 - Post-Lu restoration ruler whose accession is the endpoint of a dangerous court transition.
 - Narrative fulfillment figure in Xu Fu's Bao Ji prophecy and active patron in the Deng Tong prediction branch.
 - Ruler whose reported death instructions, terrace refusal, and restricted personal display turn mourning, burial, mobilization, and consumption into burden-limiting policy.
 - Agrarian and light-burden ruler credited by the episode with helping create Wen-Jing recovery.
-- Receptive and lenient ruler in the source's anecdotes, qualified by selective personal patronage that can rescue a favorite without wholly preventing formal discipline and by a willingness to let omen claims shape ritual and chronology before external correction.
+- Receptive and lenient ruler who can reopen inquiry after anger and reverse a personnel error, qualified by selective personal patronage and by a willingness to let omen claims shape ritual and chronology before external correction.
 - Patron who opens both omen-based and examination-based access, with sharply different verification quality.
 - Crisis ruler who solicits relief proposals, treats perceived kin favoritism as an appointment constraint, accepts military procedure against his own convenience, and pairs disaster response with reduced extraction and court use.
 
@@ -86,15 +89,20 @@ Military delegation and disaster response:
 - [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] contrasts Liu Heng's unimpeded passage through Bashang and Jimen with his acceptance of Xiliu's formal entry, no-galloping, and military-ritual rules.
 - [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] links drought and locust damage to suspended tribute, opened resource access, reduced palace use and staffing, granary relief, and grain-for-rank exchange.
 
+Remonstrance converted into frontier personnel correction:
+- [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]] says Liu Heng resumes a conversation after Feng Tang's public provocation, hears the command-authority and reward critique, admits error, pardons Wei Shang, and appoints Feng Tang.
+- [[zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd|Hanji 225-1]] says Liu Heng rejects sacrificial prayers that reserve blessing for the emperor alone, extending the self-restraining public-responsibility frame.
+
 ## Qualifications
 
-This is a bounded profile assembled from ten popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. The two Hanji 228 notes require separate handling: the Deng Tong episode's dream, wordplay, offices, rewards, intimate care, court procedure, minting scope, and motives remain source-scoped, while the Xiliu episode's camp comparison, dialogue, ritual, appointment sequence, disaster measures, and effects require textual and quantitative comparison. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
+This is a bounded profile assembled from eleven popular-history podcast notes, not a complete biography or independent evaluation of the reign. The Xu Fu material records narrative prophecy fulfillment without validating physiognomy. The Chen Ping sources make Liu Heng the endpoint of a restoration story but do not reconstruct his selection, accession coalition, or early administration in full. Hanji 225-1's invasion sequence, command theory, Wei Shang case, dialogue, appointments, and sacrificial edict require textual comparison; its title also compresses real initial anger into the later corrective outcome. Hanji 225-2's dragon report, chronology, appointments, ritual details, examination process, and policy characterization require source comparison; its suggestion that the dragon was staged remains unsupported. Hanji 226's dates, rewards, ritual details, solar event, chronology change, investigation, and punishment require source comparison, and its title overstates personal detection. Hanji 227's disaster inventory, shortage diagnosis, raid losses, heqin terms, dismissal charge, private appointment deliberation, and character judgments require comparison; solicitation does not establish policy adoption or relief outcomes. The two Hanji 228 notes require separate handling: the Deng Tong episode's dream, wordplay, offices, rewards, intimate care, court procedure, minting scope, and motives remain source-scoped, while the Xiliu episode's camp comparison, dialogue, ritual, appointment sequence, disaster measures, and effects require textual and quantitative comparison. Hanji 229's will, mourning, burial, frugality, agricultural effects, and prosperity claims also require textual, archaeological, and quantitative comparison. The restraint portrait remains qualified by Deng Tong and Xinyuan Ping patronage.
 
 ## What Changed
 
-- Added Xiliu as a case where Liu Heng reinforces delegated command by accepting procedures that constrain the imperial convoy.
-- Extended late-reign restraint from feedback solicitation and funeral policy to concrete drought-and-locust burden reduction.
-- Preserved the central qualification that procedural respect and public frugality coexist with selective patronage and earlier omen capture.
+- Added Feng Tang's rebuke as the clearest current case of Liu Heng reopening inquiry after anger and converting criticism into personnel correction.
+- Connected Wei Shang's pardon to the same delegated-command profile later visible at Xiliu.
+- Added the sacrificial-prayer order as a further self-restraint claim while keeping its wording and implementation source-scoped.
+- Preserved the central qualification that receptivity and public frugality coexist with selective patronage and earlier omen capture.
 
 ## Relationships
 
@@ -121,4 +129,8 @@ This is a bounded profile assembled from ten popular-history podcast notes, not 
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - frontier de-escalation instrument used again after damaging raids.
 - [[ZhouYafu|周亚夫]] - commander whose Xiliu rules Liu Heng accepts and praises during a frontier emergency.
 - [[WartimeCampCommandAuthority|战备营垒指挥权]] - delegated-authority pattern strengthened when Liu Heng submits his own convoy to formal camp procedure.
+- [[FengTangWesternHan|冯唐]] - remonstrant whose criticism Liu Heng converts into a pardon and appointment after initially reacting with anger.
+- [[WeiShangWesternHan|魏尚]] - frontier governor whose punishment and restoration test Liu Heng's reward, audit, and command judgment.
+- [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - pattern strengthened by the move from uncomfortable speech to admitted error and concrete reversal.
+- [[CommandAuthorityBottleneck|将权掣肘]] - frontier failure mode Feng Tang uses to explain why famous generals alone cannot solve institutional command weakness.
 - [[WesternHanDynasty|Western Han]] - dynasty ruled by Liu Heng from the post-Lu settlement to the Jingdi succession.

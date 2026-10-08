@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？](sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd.md) — 冯唐以李牧和魏尚说明边将需要实权、资源与可信赏罚；文帝由愤怒转向追问，认错后赦免魏尚并任用冯唐。
 - [15 亚历山大大帝的糟糕原生家庭：《天堂之火》](sources/15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq.md) — 怪东西以《天堂之火》讨论亚历山大的王室家庭、君主教育、边缘身份与文化融合，并限定历史小说的现代心理投射。
 - [16 东西方的宰相](sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp.md) — 怪东西以决策参与、官僚统领、资源控制与责任关系比较中外宰相和政府首脑，说明职衔与译名不能替代对制度实权的考察。
 - [17 东西方的长城](sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp.md) — 怪东西以中国、罗马、丹麦、朝鲜和波斯长距离防线说明长城是兼具预警、通行、税收、定居、交流与象征功能的边疆系统，并追踪烽火戏诸侯和孟姜女传说的层累形成。
@@ -4172,6 +4173,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [13 东西方的女作家：皮桑与蔡文姬](sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent.md) — 怪东西以克里斯蒂娜·德·皮桑与蔡文姬比较女性公共写作、教育、战争经验、关系命名与文学正典中的可见性，并保留蔡文姬生平及作品归属的证据边界。
 
 ## Entities
+- [冯唐 / Feng Tang (Western Han)](entities/FengTangWesternHan.md) — 以李牧和魏尚之事批评边将授权与赏罚失衡，并促成文帝纠错的西汉直谏官员。
+- [魏尚 / Wei Shang (Western Han)](entities/WeiShangWesternHan.md) — 因云中养兵与六级首误报争议成为边功、审计和比例惩罚测试的西汉郡守。
 - [Mary Renault / 玛丽·瑞瑙特](entities/MaryRenault.md) — Historical novelist whose ancient atmosphere and invented interiority make her a case in both historical distance and psychological projection.
 - [Fire from Heaven / 《天堂之火》](entities/FireFromHeaven.md) — Renault novel imagining Alexander's childhood, royal education, family coercion, and succession struggle.
 - [孟姜女 / Meng Jiangnü](entities/MengJiangnu.md) — 从杞梁妻礼制故事经哀哭、秦代迁移、筑墙埋夫、哭倒长城与忠贞教化层层形成的传说人物。
@@ -9874,7 +9877,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋和短丧薄葬限制公共负担，但邓通厚宠与新垣平祥瑞骗局也显示选择性恩宠和验证失误。
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — 吕后之后被拥立的汉文帝，以节俭、轻徭薄赋、短丧薄葬和纳谏纠错限制公共负担，但邓通厚宠与新垣平祥瑞骗局也显示选择性恩宠和验证失误。
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
