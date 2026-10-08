@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2612
+topic_total_pages: 2613
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5709,6 +5709,9 @@ topic_sources:
   - key: "3-is-trump-caesar-or-nixon-glt4982990068"
     title: "3. Is Trump Caesar or Nixon?"
     url: "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+  - key: "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm"
+    title: "30 改变历史的关键会议：万湖会议 vs 白虎观会议"
+    url: "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
   - key: "30-a-royal-row-glt5120507213"
     title: "30. A Royal Row"
     url: "/wiki/sources/30-a-royal-row-glt5120507213/"

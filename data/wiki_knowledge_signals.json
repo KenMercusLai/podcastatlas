@@ -7117,9 +7117,9 @@
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
     "AdolfEichmann": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
@@ -7148,9 +7148,16 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
@@ -21959,9 +21966,9 @@
       "url": "/wiki/entities/baidu/"
     },
     "BaihuGuanConference": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
@@ -21969,9 +21976,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-08",
       "url": "/wiki/entities/baihuguanconference/"
     },
     "BaijiaWeiji": {
@@ -22587,6 +22601,43 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/banzhiwesternhan/"
+    },
+    "BanalityOfEvil": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
+          "key": "103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789",
+          "show": "蜜獾吃书",
+          "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
+          "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
+        },
+        {
+          "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
+          "key": "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925",
+          "show": "蜜獾吃书",
+          "title": "05.她来自马里乌波尔：“如果你看见过我曾见到的。”",
+          "url": "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+        },
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/banalityofevil/"
     },
     "BanditMutualReportingPacification": {
       "episode_count": 1,
@@ -116882,9 +116933,9 @@
       "url": "/wiki/concepts/imperialclanfiscalburden/"
     },
     "ImperialClassicsConsensusBuilding": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
@@ -116899,9 +116950,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292/"
+        },
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
     "ImperialConnectivityDiseaseRisk": {
@@ -157642,6 +157700,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/mediumspecificadaptationsalience/"
     },
+    "MeetingAsInstitutionalConversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/meetingasinstitutionalconversion/"
+    },
     "MegHirschberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -196243,9 +196317,9 @@
       "url": "/wiki/entities/raskassa/"
     },
     "RationalizedStateViolence": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
@@ -196274,9 +196348,16 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/rationalizedstateviolence/"
     },
     "RaulSendic": {
@@ -246891,6 +246972,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/wangxiancity/"
+    },
+    "WannseeConference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltUaquUhRwIRGv2EgIhRK4VuO7cM [ltUaquUhRwIRGv2EgIhRK4VuO7cM].md",
+          "key": "30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm",
+          "show": "怪东西Weird History",
+          "title": "30 改变历史的关键会议：万湖会议 vs 白虎观会议",
+          "url": "/wiki/sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/wannseeconference/"
     },
     "WantWantChina": {
       "episode_count": 1,

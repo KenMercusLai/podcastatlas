@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9954
+wiki_total_pages: 9955
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "MediumSpecificAdaptationSalience"
     title: "Medium-Specific Adaptation Salience / 媒介特定的改编显著性"
     url: "/wiki/concepts/mediumspecificadaptationsalience/"
+  - key: "MeetingAsInstitutionalConversion"
+    title: "Meeting as Institutional Conversion / 会议的制度转化"
+    url: "/wiki/concepts/meetingasinstitutionalconversion/"
   - key: "MegaCapConcentrationRisk"
     title: "Mega-Cap Concentration Risk"
     url: "/wiki/concepts/megacapconcentrationrisk/"

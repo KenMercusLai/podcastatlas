@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [30 改变历史的关键会议：万湖会议 vs 白虎观会议](sources/30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm.md) — 怪东西以万湖会议和白虎观会议比较权威、参与者、程序、文书与执行链如何把思想转成制度行动，同时明确两者不具有道德或制度等价性。
 - [31 狗胆包天：东西方的冒牌皇帝](sources/31-goudan-baotian-dongxifang-de-maopai-huangdi-lubr4wdmia6ejeds3aurbqwliimi.md) — 怪东西以腓特烈二世、伪德米特里、普加乔夫、假光绪、假戾太子和朱三太子说明：身份真伪之外，继承裂缝、社会诉求、承认、舆论与组织决定冒名能否成为政治力量。
 - [32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓](sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz.md) — 怪东西以类人猿行动与上海刺杀陈箓案比较二战中的象征性抵抗、行动偶然性、情报组织政治及由地下网络和平民承担的报复代价。
 - [33 东西方的侠客：从春秋战国到中世纪欧洲](sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl.md) — 怪东西从汉代游侠、中央集权与私人权威的冲突出发，区分历史游侠和文学武侠，并比较侠客、骑士、浪人、博加特耶尔及现代英雄原型。
@@ -4149,6 +4150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [38 《米德尔马契》：英伦乡村爱情、理想破灭、如何过真实生活](sources/38-mideermaqie-yinglun-xiangcun-aiqing-lixiang-pomie-ruhe-guo-zhenshi-shenghuo-lte-eogr0nzaqwkfgyfcduwc4gtt.md) — 怪东西读书节目以婚姻错配、改革理想、阶层、宗教和职业制度解读《米德尔马契》的外省生活。
 
 ## Entities
+- [Wannsee Conference / 万湖会议](entities/WannseeConference.md) — 1942年把纳粹灭绝政策转化为跨部门法律、外交、警务、运输、财产与杀戮协调的会议。
 - [Frederick II, Holy Roman Emperor / 神圣罗马皇帝腓特烈二世](entities/FrederickIIHolyRomanEmperor.md) — 死后回归传说、冒名者与“沉睡皇帝”传统使其理想化君主身份持续具有政治可用性。
 - [False Dmitry I / 伪德米特里一世](entities/FalseDmitryI.md) — 借王朝绝嗣、社会危机、外国支持与公众承认从可疑身份登上俄国皇位的冒名者。
 - [Yemelyan Pugachev / 叶梅利扬·普加乔夫](entities/YemelyanPugachev.md) — 冒充彼得三世、把土地自由诉求与王权身份结合为大规模起义，同时留下严重暴力记录的哥萨克首领。
@@ -16977,6 +16979,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Meeting as Institutional Conversion / 会议的制度转化](concepts/MeetingAsInstitutionalConversion.md) — 权威、参与者、程序、记录与执行渠道把思想或政策方向转成持久组织行动的机制。
 - [Assassination, Reprisal, and Symbolic Resistance / 刺杀、报复与象征性抵抗](concepts/AssassinationReprisalTradeoff.md) — 区分刺杀的目标移除与象征效果、制度存续，以及由地下网络、家属和平民承担的报复成本。
 - [侠客—骑士原型比较 / Chivalric Archetype Comparison](concepts/ChivalricArchetypeComparison.md) — 以共同的勇武和扶弱价值为起点，同时用身份、效忠、宗教、法律与生计区分侠客、骑士、浪人和相关英雄传统。
 - [历史游侠到文学武侠 / Historical Youxia to Literary Wuxia](concepts/HistoricalYouxiaToLiteraryWuxia.md) — 游侠作为体制外社会角色衰落后，其侠义价值被士大夫、文学与大众媒介选择性吸收和重塑。

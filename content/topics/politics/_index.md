@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3209
+topic_total_pages: 3210
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2518,6 +2518,9 @@ topic_concepts:
   - key: "MedievalWelshColonialRule"
     title: "Medieval Welsh Colonial Rule"
     url: "/wiki/concepts/medievalwelshcolonialrule/"
+  - key: "MeetingAsInstitutionalConversion"
+    title: "Meeting as Institutional Conversion / 会议的制度转化"
+    url: "/wiki/concepts/meetingasinstitutionalconversion/"
   - key: "MegaprojectSuccessConditions"
     title: "Megaproject Success Conditions / 超级工程成功条件"
     url: "/wiki/concepts/megaprojectsuccessconditions/"

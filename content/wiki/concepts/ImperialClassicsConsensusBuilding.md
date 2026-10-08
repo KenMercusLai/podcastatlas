@@ -6,7 +6,8 @@ tags: [classics, confucianism, governance, eastern-han, institutions]
 sources:
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292
-last_updated: 2026-09-13
+  - 30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm
+last_updated: 2026-10-08
 ---
 
 ## Definition
@@ -15,7 +16,7 @@ Imperial classics consensus building is the governance pattern in which the rule
 ## Current Synthesis
 [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] supplies a Western Han version: [[EmperorXuanOfHan|汉宣帝]] has scholars present differences in Five Classics interpretation, receives reports from [[XiaoWangzhiWesternHan|萧望之]] and others, decides personally, and authorizes selected standard interpretations with doctoral offices. [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] later grounds the concept in the [[BaihuGuanConference|Baihu Guan Conference]]. [[YangZhongEasternHan|Yang Zhong]] argues that scholars have become trapped in annotations and have lost sight of the Five Classics' larger meaning. [[EmperorZhangOfHan|Emperor Zhang]] answers by convening a formal court discussion, personally attending, and producing a recorded outcome.
 
-The concept sits between education, ideology, and administration. It is not merely textual scholarship because the court decides when interpretation becomes a state problem. It is not merely law or appointment policy because its tool is authoritative interpretation. The source makes Zhangdi's court a place where canonical learning is organized into governance consensus.
+The synthesis also traces an outward path from scholarly settlement to political ethics. The *Baihu Tongyi* is presented as addressing the emperor's status, major social relationships, and exceptions to universal subordination, with compilation attributed to [[BanGuEasternHan|Ban Gu]]. The concept therefore sits between education, ideology, law, and administration: court authority determines when interpretation becomes a state problem, how it is recorded, and which normative conclusions can travel beyond the conference.
 
 ## Key Claims
 - Classical disagreement becomes a state issue when it threatens shared meaning across officials and scholars.
@@ -23,6 +24,7 @@ The concept sits between education, ideology, and administration. It is not mere
 - A ruler-sponsored conference can transform scattered scholastic debate into official memory.
 - Imperial attendance and recording give textual interpretation administrative weight.
 - The Baihu Guan process is an Eastern Han example of governance through canonical standard setting.
+- Official interpretation can shape political status and relational norms, not only scholastic curricula.
 - Later examination and classics-standardization practices fit the same broad problem, though not the same institutional form.
 
 ## Evidence
@@ -31,13 +33,16 @@ The concept sits between education, ideology, and administration. It is not mere
 - Problem diagnosis: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] has [[YangZhongEasternHan|Yang Zhong]] warn that annotation-focused scholarship is losing the classics' main point.
 - Institutional response: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Zhang convenes officials and Confucian scholars at Baihu Guan to discuss Five Classics differences.
 - Official record: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] links the proceedings to `白虎议奏`, with Zhang personally attending and recording.
+- Doctrinal reach: [[30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm]] presents the meeting's received text as addressing imperial status, relational ethics, and recognized exceptions.
+- Compilation and implementation: [[30-gaibian-lishi-de-guanjian-huiyi-wanhu-huiyi-vs-baihuguan-huiyi-ltuaquuhrwirgv2egihrk4vuo7cm]] attributes compilation to Ban Gu and connects debate, imperial approval, written norms, and longer institutional influence.
 
 ## Counterevidence & Qualifications
-The current evidence establishes the process and its political meaning, not the substantive doctrinal results of the Five Classics debates. Hanji 463 is a selected-canon and doctoral-office case; Hanji 750 is a later conference-and-record case. The relation between these moments is analytical rather than a claim of direct institutional continuity.
+The current evidence establishes a process and selected reported doctrines, not a complete reconstruction of the debates. Hanji 463 is a selected-canon and doctoral-office case; Hanji 750 is a later conference-and-record case. Their relation is analytical rather than proof of direct institutional continuity. The precise relation among the meeting, `白虎议奏`, and the received *Baihu Tongyi*, and the legal force or long-run influence of individual formulations, remain source-scoped.
 
 ## What Changed
-- Created a concept for ruler-sponsored settlement of classical interpretation.
-- Added Hanji 463 as a Western Han standard-interpretation and doctoral-office variant before the Baihu Guan conference.
+- Extended the process from scholastic settlement into reported political and relational norms.
+- Added Ban Gu's attributed compilation role while preserving textual-transmission uncertainty.
+- Connected authoritative discussion to documentation and implementation without treating the result as a modern constitution.
 
 ## Related Concepts
 - [[BaihuGuanConference]] - event that supplies the current source case.
@@ -48,3 +53,4 @@ The current evidence establishes the process and its political meaning, not the 
 - [[XipingStoneClassics]] - related later effort to stabilize classical texts materially.
 - [[OfficialLearningMonopoly]] - broader state control over authorized learning.
 - [[LiAsPoliticalOrder]] - ideological background for treating textual order as political order.
+- [[MeetingAsInstitutionalConversion]] - broader mechanism by which authority, procedure, record, and implementation give a meeting durable force.
