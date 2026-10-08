@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
   - zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46
   - zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9
+  - zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td
 last_updated: 2026-10-08
 ---
 
@@ -18,6 +19,8 @@ The Wen-Jing prosperity tradeoff / 文景之治的繁荣代价 is the distinctio
 
 [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] supplies the Wen-era policy and conduct side of the recovery story. [[LiuHeng|汉文帝]] is presented as limiting court construction and display, protecting ordinary life even during imperial mourning, emphasizing agriculture, and reducing corvée and taxation. [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] adds a crisis-time mechanism: during drought and locust damage, the ruler reportedly suspends tribute, opens restricted natural resources, reduces palace consumption and staffing, releases grain, and exchanges grain for rank. The episodes treat these measures as foundations for later Wen-Jing prosperity, but neither offers quantitative causal decomposition or outcome measurement.
 
+[[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] supplies the policy logic behind grain-for-rank. Chao Cuo proposes converting private surplus into frontier stores, then local reserves, and only then reducing agricultural taxation; Liu Heng reportedly adopts the frontier measure and later halves the year's farm tax. The sequence connects security stockpiles to burden relief, but it also distributes rank and legal privilege and does not establish who supplied grain, who received the benefit, whether targets were reached, or how prices changed.
+
 [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] supplies the retrospective outcome ledger: early Han removes burdensome rules, Liu Heng governs frugally, [[HanJingdi|汉景帝]] preserves the settlement, households become more self-sufficient, and state grain and coin reserves accumulate. Material recovery expands both private security and the future state's room for action.
 
 The source refuses to equate those aggregates with equal welfare or durable equilibrium. Wealth can buy political relationships and land, strongmen can dominate local society, and imperial kin and senior officials can turn abundance into competitive display. [[HanWudi|汉武帝]] therefore inherits fiscal capacity together with concentration and elite-demand pressures; the episode's claim that his achievements later consume the inheritance is a source-scoped transition, not proof of an automatic boom-and-bust law.
@@ -26,7 +29,7 @@ The source refuses to equate those aggregates with equal welfare or durable equi
 
 - Low intervention, frugality, and time can convert postwar scarcity into household sufficiency and state reserves.
 - Limiting court consumption, ceremonial disruption, taxes, and corvée is presented as part of the recovery mechanism, not merely as private virtue.
-- Crisis relief can temporarily reduce extraction, widen subsistence access, cut court use, release public grain, and mobilize private grain through rank incentives.
+- Crisis relief can reduce extraction, cut court use, release public grain, and mobilize private grain through a frontier-to-local reserve sequence intended to support farm-tax relief, although that design does not itself prove broad or equal benefit.
 - Full granaries and treasuries measure aggregate capacity but do not establish equal distribution or freedom from coercion.
 - Accumulated private wealth can become land concentration, political access, and local strongman power.
 - Elite competition can convert surplus into status display and norm-breaking luxury.
@@ -38,6 +41,7 @@ Recovery and state capacity:
 - [[zizhi-tongjian-hanji-229-hanwendi-zhisi-yizhao-cangzhe-shenme-mimi-llbjcytwknuqimvdtfdlule4bd46|Hanji 229]] connects Liu Heng's frugality, agrarian priority, light taxation and corvée, and non-disruptive funeral rules to the foundations of Wen-Jing recovery.
 - [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] contrasts early-Han scarcity with later household sufficiency, full stores, decaying coin strings, and surplus grain.
 - [[zizhi-tongjian-hanji-228-zhouyafu-jiang-wendi-ju-yu-yingwai-liuheng-de-biaoxian-lingren-yiwai-lg4dt0ojthk1rvvma4prssxyx6w9|Hanji 228 Xiliu]] adds suspended tribute, opened mountain-and-water access, reduced palace expenditure and staffing, granary relief, and grain-for-rank exchange during drought and locust damage.
+- [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] adds Chao Cuo's frontier-first and local-second reserve targets, intended tax-remission endpoint, and Liu Heng's reported half-tax remission.
 
 Distribution and coercion:
 - [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] places land annexation, rural strongmen, wealth-based political ties, and elite luxury inside the same prosperous period.
@@ -47,12 +51,13 @@ Succession burden:
 
 ## Counterevidence & Qualifications
 
-The page currently rests on three related popular-history episodes, not on a complete fiscal or social history of the Western Han. Hanji 228 Xiliu and Hanji 229 supply policies and character anecdotes but do not quantify implementation, relief coverage, or causal effects; grain-for-rank exchange may mobilize supply while distributing status and future fiscal claims unevenly. Hanji 246 supplies a retrospective outcome account without isolating mechanisms. Abundance and concentration are compatible observations, but the sources do not measure prevalence, regional variation, household distribution, prices, taxation, landholding, or the condition of every social group. The transition from prosperity to Wudi-era depletion remains a retrospective moral frame; war, disaster, construction, court expenditure, extraction, and institutional choice require separate evidence.
+The page currently rests on four related popular-history episodes, not on a complete fiscal or social history of the Western Han. Hanji 223, Hanji 228 Xiliu, and Hanji 229 supply policies and character anecdotes but do not quantify implementation, relief coverage, price effects, or causal outcomes; grain-for-rank and penal redemption may mobilize supply while distributing status, legal privilege, and future fiscal claims unevenly. Hanji 246 supplies a retrospective outcome account without isolating mechanisms. Abundance and concentration are compatible observations, but the sources do not measure prevalence, regional variation, household distribution, prices, taxation, landholding, or the condition of every social group. The transition from prosperity to Wudi-era depletion remains a retrospective moral frame; war, disaster, construction, court expenditure, extraction, and institutional choice require separate evidence.
 
 ## What Changed
 
-- Added the late-Wen drought-and-locust response as a concrete crisis-time burden-reduction and grain-mobilization mechanism.
-- Kept relief measures distinct from measured outcomes and qualified grain-for-rank exchange as a distributional tradeoff.
+- Added the frontier-store to local-granary sequence and intended farm-tax relief endpoint.
+- Distinguished rank and penal-redemption incentives from active office sale.
+- Kept reserve design and reported tax remission distinct from measured prosperity outcomes.
 
 ## Related Concepts
 

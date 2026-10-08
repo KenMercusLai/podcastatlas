@@ -32813,3 +32813,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 《资治通鉴·汉纪》223｜晁错为什么要劝文帝卖官换粮食？
+
+Added source `zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td`; resynthesized [[ChaoCuoWesternHan|晁错]], [[LiuHeng|汉文帝刘恒]], [[HeavyAgricultureLightCommercePolicy|重农轻商政策]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], and [[WenJingProsperityTradeoff|文景之治的繁荣代价]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chao Cuo treats grain shortage as an incentive, reserve, frontier-logistics, and tax-burden problem; his proposed exchange monetizes rank and penal redemption rather than demonstrated governing office, directs grain first to frontier stores and then local granaries, and states farm-tax relief as the endpoint. No settled contradiction was adopted. The title's “卖官” is broader than the supplied evidence, while farmer and merchant conditions, price effects, delivery volumes, rank and redemption rules, storage attainment, and tax outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,108 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

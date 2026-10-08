@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29
   - zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc
   - 25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az
+  - zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td
 last_updated: 2026-10-08
 ---
 
@@ -26,6 +27,8 @@ The concept spans Qin, Western Han, multiple Eastern Han stress layers, and a br
 
 [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] supplies the longitudinal qualification: a temporary fiscal device can become a routine revenue line and expand from low honor to appointment eligibility or real office. Status sale can mobilize resources and widen elite entry without automatically transferring power, but repetition spends symbolic capital and erodes the boundary among honor, reward, office access, and purchase.
 
+An early Western Han design shows that grain-for-rank is not merely an undifferentiated emergency receipt. [[ChaoCuoWesternHan|晁错]] reportedly directs contributions first to frontier stores, then to commandery and county granaries, with a stated endpoint of reduced agricultural taxation after reserve targets are met; penal redemption is bundled with rank as a second incentive. [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] therefore broadens the concept from disaster cashflow to logistics and burden redistribution, while the title's “卖官” remains too broad for evidence that does not transfer an active office.
+
 ## Key Claims
 
 - Rank sale turns status into a fiscal asset when ordinary taxes, requisitions, and transport systems are too strained or slow.
@@ -33,8 +36,8 @@ The concept spans Qin, Western Han, multiple Eastern Han stress layers, and a br
 - Purchasable rank or identity is not always equivalent to full governing office, but it still monetizes public honor and access.
 - Western Han 武功爵 evidence approaches the appointment pipeline when a specified grade receives priority, although priority is not automatic office.
 - Repetition can normalize an emergency instrument, lower scarcity value, and shift status sale toward appointment legitimacy damage.
-- Buyers may seek privilege, respectability, family honor, or eligibility rather than governing power.
-- Fiscal function, social mobility, and actual office control must therefore be evaluated separately.
+- Buyers may seek privilege, respectability, family honor, or eligibility rather than governing power, so fiscal function, social mobility, and actual office control must be evaluated separately.
+- Grain-for-rank can be staged around specific frontier and local storage targets and linked to later tax relief rather than treated only as generic emergency revenue.
 
 ## Evidence
 
@@ -45,16 +48,17 @@ The concept spans Qin, Western Han, multiple Eastern Han stress layers, and a br
 - Political-disorder layer: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] reports sale of Guannei marquis status during multi-front late-Han disorder.
 - Emergency-to-routine transition: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] compares early grain-for-rank and war finance with later formal donation schedules, while distinguishing titles and appointment eligibility from active posts.
 - Buyer-side motive: [[25-dongxifang-de-maiguan-yujue-lmii9eps9s3-goytbo0vkdv7c8az|Weird History episode 25]] says purchasers could seek legal privilege, dress, ceremony, family honor, social standing, or a route into service.
+- Logistics and burden sequence: [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] gives frontier-first delivery, local reserve targets, penal redemption, and intended farm-tax reduction under Liu Heng.
 
 ## Counterevidence & Qualifications
 
-The source set does not prove that every purchaser received governing authority. Some categories are status, guard, military-merit, student, honorific, noble, or court-adjacent identities rather than full administrative office. Hanji 299-2 reports appointment priority, not automatic appointment, and does not establish the complete grade structure, buyer population, revenue, duration, enforcement, or outcomes. The comparative episode ranges across unlike institutions and leaves prices, fiscal shares, privileges, and career effects unverified. The strongest current claim is that fiscal pressure monetizes honor and access; the [[OfficeSaleLegitimacyDamage|office-sale legitimacy]] claim becomes stronger only when payment demonstrably controls appointment or creates extraction pressure.
+The source set does not prove that every purchaser received governing authority. Some categories are status, guard, military-merit, student, honorific, noble, or court-adjacent identities rather than full administrative office. Hanji 223 supports rank and legal redemption, not “office sale”; it does not establish delivery volume, actual storage attainment, price effects, who captured the gain, or whether tax relief followed as proposed. Hanji 299-2 reports appointment priority, not automatic appointment, and does not establish the complete grade structure, buyer population, revenue, duration, enforcement, or outcomes. The comparative episode ranges across unlike institutions and leaves prices, fiscal shares, privileges, and career effects unverified. The strongest current claim is that fiscal pressure monetizes honor and access; the [[OfficeSaleLegitimacyDamage|office-sale legitimacy]] claim becomes stronger only when payment demonstrably controls appointment or creates extraction pressure.
 
 ## What Changed
 
-- Extended the pattern from emergency episodes to the risk of routine, formally priced status revenue.
-- Added buyer-side motives such as privilege, respectability, family honor, and appointment eligibility.
-- Strengthened the boundary between purchasable status and active governing office.
+- Added a frontier-to-local reserve sequence and intended farm-tax relief endpoint.
+- Added penal redemption as a parallel incentive for grain contribution.
+- Reaffirmed that the Hanji 223 case monetizes rank and legal privilege, not demonstrated governing office.
 
 ## Related Concepts
 

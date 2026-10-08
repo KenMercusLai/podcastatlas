@@ -11,18 +11,21 @@ sources:
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
   - zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0
   - zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib
+  - zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-晁错 / Chao Cuo is a Western Han policy adviser whose current evidence begins with terrain-specific combined-arms reasoning and a detailed frontier-settlement proposal under [[LiuHeng|汉文帝]], continues through examination-based promotion and privileged access, and ends with his territorial-reduction program, political isolation, execution, and the failure of that sacrifice to stop the [[RebellionOfTheSevenStatesWesternHan|Seven States rebellion]].
+晁错 / Chao Cuo is a Western Han policy adviser whose current evidence joins terrain-specific combined-arms reasoning, frontier settlement, grain-security incentive design, examination-based promotion, and later territorial centralization; it ends with his political isolation, execution, and the failure of that sacrifice to stop the [[RebellionOfTheSevenStatesWesternHan|Seven States rebellion]].
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] supplies the earliest current strategic layer. Chao makes terrain, training, weapons, formation, command, and ruler selection one responsibility chain. He concedes [[Xiongnu|Xiongnu]] advantages in mountain movement, mounted archery, and hardship while identifying Han advantages in plains maneuver, stronger missiles and armor, organized formations, and close combat. His proposed response is not to erase the difference but to equip submitted frontier peoples, place them under trusted commanders, and combine their difficult-ground role with Han chariots and archers on plains. The same memorial uses Qin's northern and southern expansion as a negative cost precedent, joining environmental mismatch, widening forced service, unrewarded death, continuing taxes, resentment, and political danger.
 
 [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0|Hanji 222 part 2]] moves from force design to durable frontier institutions. Chao diagnoses a mismatch between fast, observant Xiongnu raiders and expensive distant levies that arrive slowly and never acquire deep local knowledge. His [[FrontierSettlerDefense|frontier settler defense]] proposal asks the court to prepare strategic fortified towns, houses, tools, tax relief, food, clothing, pardons, ranks, medical and ritual services, family support, nested local organization, trusted leaders, rewards, and riding-and-archery training. Together, the two parts show Chao treating defense as a combined problem of comparative force strengths, terrain, incentives, settlement persistence, administration, and combat readiness rather than courage or troop numbers alone. Liu Heng reportedly praises the military memorial and adopts recruitment for frontier settlement.
+
+[[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] extends the same systems method from people and fortifications to food. Chao links state stability to cultivation and reserves, then argues that irregular levies, forced low-price sales, debt, and merchant bargaining power make the law's nominal preference for farmers ineffective. Grain-for-rank and penal redemption are intended to raise grain's practical value, pull surplus toward frontier stores, then fill local granaries and permit farm-tax relief. The source supports monetized rank and legal privilege, not demonstrated sale of governing office, and does not measure implementation or effects.
 
 [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] then places Chao inside formal court advancement. Liu Heng solicits direct remonstrance through an examination, prefers Chao's answer, and promotes him from crown-prince household office to中大夫. Chao submits more than thirty memorials, including proposals to reduce princely territories and change laws; the emperor does not fully adopt them but values his ability.
 
@@ -37,6 +40,7 @@ last_updated: 2026-10-09
 ## Key Characteristics
 
 - Systems-oriented adviser who joins terrain-specific force integration, command responsibility, frontier fortification, migration support, welfare, incentives, local organization, and training into one defensive design.
+- Food-security strategist who joins farmer incentives, private surplus, frontier and local granaries, rank exchange, penal redemption, and tax relief into one reserve-building sequence.
 - Examination-selected remonstrant promoted by Emperor Wen and later favored by Jingdi through privileged access.
 - Strategist who frames削藩 as earlier, smaller rebellion versus later, larger rebellion rather than peace versus war.
 - Visible owner of coercive centralization on whom royal resentment and the coalition slogan concentrate.
@@ -48,6 +52,9 @@ last_updated: 2026-10-09
 Institutional frontier design:
 - [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-1-ltnuvnfzxxtjuseowqpggdvn_wib|Hanji 222 part 1]] gives Chao's terrain-and-force comparison, responsibility chain, submitted-frontier-troop proposal, and Qin cost warning.
 - [[zizhi-tongjian-hanji-222-chaocuo-xiang-wendi-tichu-de-sanda-qimou-daodi-you-duo-niu-2-li4ia2aijr2ff4u_zwtx3dvl7jj0|Hanji 222 part 2]] gives Chao's diagnosis of rotating levies and his integrated fortified-settlement, support, reward, leadership, and training proposal.
+
+Food security and incentive design:
+- [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] attributes to Chao the agrarian incentive diagnosis, grain-for-rank and redemption proposal, ordered granary targets, and intended tax-relief endpoint.
 
 Selection, access, and protection:
 - [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] gives Liu Heng's examination, Chao's promotion, and his broader memorial practice.
@@ -62,21 +69,23 @@ Crisis exposure and failed sacrifice:
 
 ## Qualifications
 
-The profile rests on seven popular-history notes rather than independent primary-source collation. Hanji 222 part 1 supports an attributed memorial, comparative assessment, and proposed force design, not verified implementation, voluntariness, unit identity, force ratio, or combat results. Its wording, troop categories, military comparisons, imperial reply, Qin levy sequence, and causal path to revolt remain episode-attributed. Part 2 supports a detailed proposal and an imperial recruitment order, not verified settlement scale, durable implementation, combat effectiveness, fiscal cost, or voluntariness; its unit sizes, benefits, offices, attack forecast, and later crown-prince relationship remain bounded as well.
+The profile rests on eight popular-history notes rather than independent primary-source collation. Hanji 222 part 1 supports an attributed memorial, comparative assessment, and proposed force design, not verified implementation, voluntariness, unit identity, force ratio, or combat results. Its wording, troop categories, military comparisons, imperial reply, Qin levy sequence, and causal path to revolt remain episode-attributed. Part 2 supports a detailed proposal and an imperial recruitment order, not verified settlement scale, durable implementation, combat effectiveness, fiscal cost, or voluntariness; its unit sizes, benefits, offices, attack forecast, and later crown-prince relationship remain bounded as well. Hanji 223 supports an attributed memorial and policy sequence, not verified farmer or merchant conditions, delivery volume, price response, rank distribution, redemption scope, granary achievement, or tax effect; “卖官” overstates evidence limited to rank and legal privilege.
 
 Chao's削藩 inevitability and scale prediction is a strategic counterfactual, not a demonstrable result. The exact memorials, royal conduct, resource systems, offenses, reductions, court debate, wall and temple geography, legal exposure, military advice, prosecution attempt, execution, and imperial motives remain bounded. The host's workplace frame may illuminate exposure and coalition failure but cannot replace the institutional conflict between central authority and royal autonomy.
 
 ## What Changed
 
-- Added the force-design layer before settlement: Chao compares Han and Xiongnu strengths by terrain and proposes differentiated units under integrated command.
-- Extended his state-capacity reasoning backward through the Qin precedent, where expansionary mobilization can convert battlefield policy into civilian and regime risk.
-- Reframed his profile from削藩 specialist to a broader institutional designer concerned with terrain, command, incentives, administration, and durable local capacity.
-- Preserved the later judgment that coherent strategy did not protect him from concentrated political exposure or make his execution an effective peace settlement.
+- Added grain security as a third policy layer beside force design and settler defense.
+- Connected rank and redemption incentives to ordered frontier and local reserve targets rather than treating them as generic “office sale.”
+- Added eventual farm-tax relief as the stated endpoint while keeping implementation and effects unmeasured.
+- Preserved the later judgment that broad policy design did not protect Chao from concentrated political exposure.
 
 ## Relationships
 
 - [[LiuHeng|汉文帝刘恒]] - ruler who reportedly adopts frontier recruitment and later promotes Chao after an examination.
 - [[FrontierSettlerDefense]] - frontier institution that reveals Chao's systems-oriented policy design before削藩.
+- [[RankSaleDisasterFinance|鬻爵赈灾融资]] - resource-conversion mechanism Chao adapts to grain supply and reserve building.
+- [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - agrarian hierarchy that Chao says requires material incentives rather than nominal legal preference.
 - [[TerrainConstrainedCombinedArms]] - battlefield interaction model reflected in Chao's terrain-specific division of military roles.
 - [[HistoricalCostPrecedentRemonstrance]] - warning method Chao uses when turning Qin expansion into a state-capacity ledger.
 - [[Xiongnu]] - mobile opponent whose raid pattern motivates Chao's permanent local-defense proposal.
