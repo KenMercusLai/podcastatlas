@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3374
+topic_total_pages: 3375
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3664,6 +3664,9 @@ topic_concepts:
   - key: "ProgrammedLoveAuthenticity"
     title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
     url: "/wiki/concepts/programmedloveauthenticity/"
+  - key: "ProgressAsCreativeDestructiveForce"
+    title: "Progress as Creative and Destructive Force / 进步的创造—毁灭双重性"
+    url: "/wiki/concepts/progressascreativedestructiveforce/"
   - key: "ProjectDrivenAICurriculum"
     title: "Project-Driven AI Curriculum"
     url: "/wiki/concepts/projectdrivenaicurriculum/"

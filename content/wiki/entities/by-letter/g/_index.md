@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12784
+wiki_total_pages: 12787
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "GyirongPort"
     title: "Gyirong Port"
     url: "/wiki/entities/gyirongport/"
+  - key: "GunterGrass"
+    title: "Günter Grass / 君特·格拉斯"
+    url: "/wiki/entities/guntergrass/"
   - key: "Gracchi"
     title: "The Gracchi / 格拉古兄弟"
     url: "/wiki/entities/gracchi/"

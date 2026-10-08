@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1477
+topic_total_pages: 1478
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1726,6 +1726,9 @@ topic_concepts:
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
+  - key: "ProgressAsCreativeDestructiveForce"
+    title: "Progress as Creative and Destructive Force / 进步的创造—毁灭双重性"
+    url: "/wiki/concepts/progressascreativedestructiveforce/"
   - key: "ProgressTrackingSelfAssessment"
     title: "Progress Tracking Self-Assessment"
     url: "/wiki/concepts/progresstrackingselfassessment/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2617
+topic_total_pages: 2619
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -307,6 +307,9 @@ topic_concepts:
   - key: "ContextualExplanationWithoutExoneration"
     title: "Contextual Explanation Without Exoneration"
     url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
+  - key: "CookingAsCivilizationalLabor"
+    title: "Cooking as Civilizational Labor / 烹饪作为文明劳动"
+    url: "/wiki/concepts/cookingascivilizationallabor/"
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
@@ -2429,6 +2432,9 @@ topic_entities:
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"
+  - key: "TheFlounder"
+    title: "The Flounder / 《比目鱼》"
+    url: "/wiki/entities/theflounder/"
   - key: "TheGreatCrash1929"
     title: "The Great Crash 1929 / 《1929年大崩盘》"
     url: "/wiki/entities/thegreatcrash1929/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3240
+topic_total_pages: 3244
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -829,6 +829,9 @@ topic_concepts:
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"
+  - key: "CookingAsCivilizationalLabor"
+    title: "Cooking as Civilizational Labor / 烹饪作为文明劳动"
+    url: "/wiki/concepts/cookingascivilizationallabor/"
   - key: "CopyrightPlatformConflict"
     title: "Copyright Platform Conflict"
     url: "/wiki/concepts/copyrightplatformconflict/"
@@ -2479,6 +2482,9 @@ topic_concepts:
   - key: "ProgrammedLoveAuthenticity"
     title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
     url: "/wiki/concepts/programmedloveauthenticity/"
+  - key: "ProgressAsCreativeDestructiveForce"
+    title: "Progress as Creative and Destructive Force / 进步的创造—毁灭双重性"
+    url: "/wiki/concepts/progressascreativedestructiveforce/"
   - key: "ProjectBasedScienceLearning"
     title: "Project-Based Science Learning / 项目式科学学习"
     url: "/wiki/concepts/projectbasedsciencelearning/"
@@ -4529,6 +4535,9 @@ topic_entities:
   - key: "GuoPu"
     title: "Guo Pu / 郭璞"
     url: "/wiki/entities/guopu/"
+  - key: "GunterGrass"
+    title: "Günter Grass / 君特·格拉斯"
+    url: "/wiki/entities/guntergrass/"
   - key: "HGWells"
     title: "H. G. Wells / H. G. 威尔斯"
     url: "/wiki/entities/hgwells/"
@@ -8814,6 +8823,9 @@ topic_sources:
   - key: "255-qatar-a-history-glt4853394229"
     title: "255. Qatar: A History"
     url: "/wiki/sources/255-qatar-a-history-glt4853394229/"
+  - key: "26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz"
+    title: "26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史"
+    url: "/wiki/sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz/"
   - key: "27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc"
     title: "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择"
     url: "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"

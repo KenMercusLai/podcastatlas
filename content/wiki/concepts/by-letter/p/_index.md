@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9963
+wiki_total_pages: 9965
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2096,6 +2096,9 @@ wiki_pages:
   - key: "ProgrammedLoveAuthenticity"
     title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
     url: "/wiki/concepts/programmedloveauthenticity/"
+  - key: "ProgressAsCreativeDestructiveForce"
+    title: "Progress as Creative and Destructive Force / 进步的创造—毁灭双重性"
+    url: "/wiki/concepts/progressascreativedestructiveforce/"
   - key: "ProgressDataVisualization"
     title: "Progress Data Visualization"
     url: "/wiki/concepts/progressdatavisualization/"

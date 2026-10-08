@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史](sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz.md) — 怪东西以但泽历史、九月怀孕结构、烹饪、童话改写和性别争论解读《比目鱼》，将进步保留为创造与毁灭并存的多义过程。
 - [27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择](sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc.md) — 怪东西从中文系与英语系的形成、课程和个人经验讨论学科分割、AI时代语言学习、兴趣、自学与可调整的专业选择。
 - [28 东西方的面首：从薛怀义到波将金](sources/28-dongxifang-de-mianshou-cong-xuehuaiyi-dao-bojiangjin-lkuahrvj2vxdgkkf7n0prtfw3pl0.md) — 怪东西比较俄国与中国权势女性的伴侣，区分私人亲密、政变联盟、官职、军权、宗教合法性与性别化历史书写。
 - [29 东西方的冤案：德雷福斯、杨乃武和小白菜](sources/29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8.md) — 怪东西以德雷福斯案与杨乃武、小白菜案比较偏见、伪证、刑讯、官僚自保、媒体监督与不完整的司法纠错。
@@ -4156,6 +4157,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valley of the shadow of debt: bond-market jitters](sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac.md) — Economist Podcasts episode on rich-world bond yields, Reflect Orbital's mirror-satellite proposal, and the moderation dilemma in The Social Reckoning.
 
 ## Entities
+- [Günter Grass / 君特·格拉斯](entities/GunterGrass.md) — German writer and artist whose Danzig-centered political fiction and public moral role are complicated by his delayed Waffen-SS disclosure.
+- [The Flounder / 《比目鱼》](entities/TheFlounder.md) — Grass novel joining nine months, nine historical eras, cooking, fairy-tale rewriting, gendered power, and ambivalent progress.
+- [Danzig / Gdańsk / 但泽—格但斯克](entities/DanzigGdansk.md) — Baltic port and changing sovereignty-memory site central to Grass's biography and fiction.
 - [Catherine II / 叶卡捷琳娜二世](entities/CatherineII.md) — Russian ruler whose intimate networks intersected with accession, diplomacy, military support, and delegated government.
 - [Grigory Potemkin / 格里戈里·波将金](entities/GrigoryPotemkin.md) — Catherine II's intimate partner and durable southern military-administrative collaborator.
 - [杨乃武 / Yang Naiwu](entities/YangNaiwu.md) — 因传闻、官员旧怨与刑讯被卷入投毒冤案，后经家属申诉和外部支持获释却未完全恢复身份与生活的晚清举人。
@@ -16994,6 +16998,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Social Reckoning](entities/TheSocialReckoning.md) — Aaron Sorkin film dramatizing Frances Haugen's Facebook disclosures and the unresolved platform-moderation dilemma.
 
 ## Concepts
+- [Cooking as Civilizational Labor / 烹饪作为文明劳动](concepts/CookingAsCivilizationalLabor.md) — 将食物获取、烹调、喂养与食谱传递视为支撑战争、思想、阶级和历史生活的基础劳动。
+- [Progress as Creative and Destructive Force / 进步的创造—毁灭双重性](concepts/ProgressAsCreativeDestructiveForce.md) — 同一欲望、知识与技术能力既改善生活，也可能扩大征服、战争、污染和成本转移的后果框架。
 - [Modern Disciplinary Fragmentation / 现代学科分割](concepts/ModernDisciplinaryFragmentation.md) — 现代专业化带来研究深度，也把跨文学、历史、哲学、政治与语言的整全对象分割进不同院系。
 - [杨乃武与小白菜案 / Yang Naiwu and Xiao Baicai Case](concepts/YangNaiwuXiaoBaicaiCase.md) — 由传闻、刑讯和层级照准固化，又经家属申诉、贵人援助、媒体监督与京城复审纠正的晚清冤案。
 - [Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错](concepts/WrongfulConvictionPersistenceCorrection.md) — 比较偏见与机构自保如何固化弱案，以及家属、内部异议、精英通道、媒体和政治时机如何促成纠错。

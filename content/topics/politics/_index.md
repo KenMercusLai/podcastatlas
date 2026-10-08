@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3211
+topic_total_pages: 3212
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6092,6 +6092,9 @@ topic_entities:
   - key: "GustavoPetro"
     title: "Gustavo Petro"
     url: "/wiki/entities/gustavopetro/"
+  - key: "GunterGrass"
+    title: "Günter Grass / 君特·格拉斯"
+    url: "/wiki/entities/guntergrass/"
   - key: "HGWells"
     title: "H. G. Wells / H. G. 威尔斯"
     url: "/wiki/entities/hgwells/"

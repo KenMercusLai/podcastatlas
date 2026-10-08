@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12784
+wiki_total_pages: 12787
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "Danu"
     title: "Danu / 达努"
     url: "/wiki/entities/danu/"
+  - key: "DanzigGdansk"
+    title: "Danzig / Gdańsk / 但泽—格但斯克"
+    url: "/wiki/entities/danziggdansk/"
   - key: "DarcyRaisedNutrition"
     title: "Darcy (Raised Nutrition)"
     url: "/wiki/entities/darcyraisednutrition/"
