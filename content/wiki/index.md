@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）](sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc.md) — 标题虽指向周勃，正文实际讲文帝以修墓优亲、撤军让步、战争成本与名分压力推动赵佗重回汉朝等级秩序。
 - [蒋奇明&双雪涛×罗永浩！如何成为飞行家](sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz.md) — 《飞行家》主创以小说人物的银幕外化、东北方言的身体节奏、舞台与影视训练、职业转向和短视频注意力连接改编、表演与创作者风险。
 - [299-哪个社交平台最烂？](sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn.md) — 独树不成林以同一创作者的跨平台受众反应讨论关系语境坍缩、公共人格压平、发声少数失真与自我封闭的概念体系。
 - [《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）](sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx.md) — 文帝罢周勃、刘章早逝与刘长锤杀审食其共同呈现新君巩固中的功臣和宗室压力；默许杀人与“一石二鸟”仍属节目推断。

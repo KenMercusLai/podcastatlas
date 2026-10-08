@@ -151519,6 +151519,57 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/lugonglatehan/"
     },
+    "LuJia": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土 [lps0moshDfVOSNYHtdhrKdVsWIBH].md",
+          "key": "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2） [liEbzrDrvo1OkoNpdjvrJATUwx9i].md",
+          "key": "zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度 [loeoQCcRfWbMtR634ukYAU9xYkqy].md",
+          "key": "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？ [ltwwBn9rzEqZziMmXXfihB9_DrJ1].md",
+          "key": "zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2） [lvtIEVJRCLB1lXXXxr6K_q7krYto].md",
+          "key": "zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2） [llj5lVHytwo7USh06YKs6qc0wHQC].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/lujia/"
+    },
     "LuKuanDogBloodCase": {
       "episode_count": 1,
       "show_count": 1,
@@ -200719,9 +200770,9 @@
       "url": "/wiki/concepts/reclusionauthenticityassessment/"
     },
     "RecognitionBackedFrontierDiplomacy": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -200764,9 +200815,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》255｜一人可抵十万军，淮南王刘安的怀夷之策",
           "url": "/wiki/sources/zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2） [llj5lVHytwo7USh06YKs6qc0wHQC].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
     },
     "RecognitionDrivenWorkplaceConformity": {
@@ -270142,9 +270200,9 @@
       "url": "/wiki/entities/zhaotenglatehan/"
     },
     "ZhaoTuo": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -270173,9 +270231,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2） [llj5lVHytwo7USh06YKs6qc0wHQC].md",
+          "key": "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zhaotuo/"
     },
     "ZhaoWanWesternHan": {

@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua
   - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
   - zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8
-last_updated: 2026-10-08
+  - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,15 +30,17 @@ Hanji 255 supplies the explicit lower-cost theory before the Minyue settlement. 
 
 Hanji 256 adds a divided-recognition variant after coercion has already changed the local regime. A Han expedition induces [[YuShanDongyueKing|余善]] and other Minyue elites to kill [[MinyueKingYing|闽越王郢]]. Han Wudi first recognizes [[YaoKingChouMinyue|越繇王丑]] for inherited ritual continuity, then recognizes Yu Shan as Dongyue king because Yu Shan's following makes Chou's sole rule impractical and renewed war would cost more. Recognition can therefore distribute legitimacy across lineage and effective power rather than insist on one fully controllable ruler.
 
+Hanji 209 adds a repair variant after an earlier recognition settlement has broken down. [[LiuHeng|汉文帝刘恒]] prepares a renewed mission by repairing [[ZhaoTuo|赵佗]]'s ancestral graves, honoring his relatives, and reportedly withdrawing a border force. The letter delivered by [[LuJia|陆贾]] offers noninterference south of the Five Ridges and argues that war impoverishes both sides, while holding the line that Han and Nanyue cannot both claim outward imperial equality. Recognition-backed diplomacy can therefore restore a damaged hierarchy by combining pre-negotiation benevolence, latent kinship leverage, cost framing, local autonomy, and a nonnegotiable status boundary.
+
 ## Key Claims
 
 - Formal recognition can function as pressure when backed by credible force, family leverage, or outside-threat management.
 - The recognized ruler is not necessarily absorbed administratively; the goal is submitted hierarchy without immediate costly occupation.
 - Envoy rhetoric matters because it turns identity, kinship, honor, fear, and advantage into reasons to accept recognition.
 - Recognition settlements can preserve local dignity enough that submission is cheaper than resistance while exchanging titles and continuity for hostages, tribute, or acknowledged hierarchy.
-- Title-making can be more diplomatic than administrative when effective local control remains uncertain.
 - Recognition can divide inherited ritual legitimacy from effective local authority when neither can be ignored cheaply.
 - A rebel frontier king may be restored when replacement would push local support toward an outside power.
+- A broken recognition relationship can be repaired by conceding local autonomy while reasserting the center's exclusive imperial rank.
 
 ## Evidence
 
@@ -49,16 +52,17 @@ Hanji 256 adds a divided-recognition variant after coercion has already changed 
 - Local-support constraint: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo returns and still has support inside his kingdom, making simple replacement by the hostage prince Beijun less stabilizing.
 - Divided Minyue-Dongyue settlement: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Han first recognizes Chou's inherited ritual claim and then Yu Shan's effective local power rather than pay for another expedition.
 - Proposed conquest substitute: [[zizhi-tongjian-hanji-255-yiren-ke-di-shiwan-jun-huainanwang-liuan-de-huaiyi-zhice-lq1xob3iigegjaez9_zz5ddbzjy8|Hanji 255]] says Liu An pairs envoy contact and rewards with restored succession, seals, titles, hostages, and tribute to avoid invasion and occupation costs.
+- Post-rupture repair: [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc|Hanji 209]] combines grave repair, kin honors, troop withdrawal, war-cost argument, southern autonomy, restored exchange, and rejection of a two-emperor order.
 
 ## Counterevidence & Qualifications
 
-Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. Hanji 255 supplies a proposed policy, not proof that it could have settled this crisis without mobilization; Hanji 256 instead shows coercive pressure inducing local regime change before recognition completes the settlement. The latter also does not prove that Han designed a stable constitutional counterweight or controlled either recognized ruler's daily government. The concept applies when formal recognition organizes frontier status inside a hierarchy and makes settlement cheaper than resistance, exile, outside alignment, or renewed invasion.
+Recognition is not proof of moral approval or full control. Zhao Tuo remains locally powerful after submission, and Hanji 191 warns that title-making may be nominal. Hanji 209 stops before Zhao Tuo's reply and does not prove that the relatives were formal hostages; its leverage reading remains interpretive. Hanji 839 is even sharper: Aluoduo has harmed Han forces, so restoration is a risk calculation aimed at preventing Northern Xiongnu leverage. Hanji 255 supplies a proposed policy, not proof that it could have settled this crisis without mobilization; Hanji 256 instead shows coercive pressure inducing local regime change before recognition completes the settlement. The latter also does not prove that Han designed a stable constitutional counterweight or controlled either recognized ruler's daily government. The concept applies when formal recognition organizes frontier status inside a hierarchy and makes settlement cheaper than resistance, exile, outside alignment, or renewed invasion.
 
 ## What Changed
 
-- Added Liu An's explicit theory of recognition as a lower-cost substitute for invasion and occupation.
-- Qualified the substitution claim: Hanji 256 shows that credible mobilization may still be part of the bargaining mechanism.
-- Joined proposed settlement design to its sequel's divided recognition of lineage and effective local power.
+- Added the post-rupture repair variant: material reassurance and autonomy concessions can restore hierarchy without immediate reconquest.
+- Distinguished acceptable local self-government from the nonnegotiable outward claim to coequal imperial status.
+- Added kin and ancestral-site policy as dual-use reassurance and latent leverage, while keeping the hostage reading qualified.
 
 ## Related Concepts
 
