@@ -32371,3 +32371,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）
+
+Added source `zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj`; created [[LiuXianWuCrownPrinceWesternHan|刘贤]]; and resynthesized [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[DouYingWesternHan|窦婴]], [[LiuBiWuKing|刘濞]], and [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]] from their preserved evidence inventories before appending the new source once. Core synthesis: 景帝酒后许诺并非正式立储，却在刘武的欣喜与窦太后的支持下形成可延续的旁支继承期待；窦婴以父子相传的制度边界当场制止并承担失职、失去宫廷通道的代价。刘贤之死、棺柩往返、刘濞长期不朝、吴使被扣与文帝赦使优老，则把七国之乱的前史补成个人丧痛、公开羞辱、礼制退出、强制审查与暂时安抚的累积链，而非以单一事件替代削藩、封国自主和联盟政治。广义 [[HanJingdi|汉景帝]]、[[EmpressDowagerDouWesternHan|窦太后]]、[[LiuHeng|汉文帝]]、[[RebellionOfTheSevenStatesWesternHan|七国之乱]]与节目页仅读取作上下文，因聚焦页已承载新增判断而保持关闭。自动 `wiki/overview.md` 仅作为上下文读取，未在下游 synthesis 硬边界下手工改写。Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,051 sources across 799 overview paragraphs and nine topics. Changed-page identity, knowledge schema, whitespace, index, log, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

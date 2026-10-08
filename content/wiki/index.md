@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）](sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj.md) — 景帝酒后许诺刘武继位，被窦婴以父子相传之制当场制止；刘贤之死、棺柩往返、不朝与使者被扣又补出刘濞由丧子受辱到暂获文帝安抚的早期怨恨链。
 - [音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者](sources/yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov.md) — 张玮玮以白银厂矿生活、野孩子与北京独立音乐现场、作品成名、父亲去世和电子转向串起九十年代社会变迁与中年创作重建。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（2）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-2-lisudlhjt_yawpyv4i8chvxl37cr.md) — 刘遂在郦寄、栾布合军灌邯郸后自杀；公孙爵经刘武为刘志申辩，使战后处置呈现惩罚、赦免、改封、复国与削地并用，姓名、程序和封地数字保留来源边界。
 - [《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”](sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef.md) — 刘濞因内部猜疑和资历偏见否决两套战略，周丘借符节与地方关系短暂扩军；吴楚崩溃后，刘濞又因盟友利益重估被诱杀，日期、姓名与“东海王”称谓保留来源边界。
@@ -4120,6 +4121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
+- [刘贤 / Liu Xian, Crown Prince of Wu (Western Han)](entities/LiuXianWuCrownPrinceWesternHan.md) — 在长安酒后棋局冲突中被太子刘启打死、其棺柩往返成为吴王刘濞长期怨恨起点的吴国太子。
 - [张玮玮 / Zhang Weiwei](entities/ZhangWeiweiMusician.md) — 白银出生、经野孩子与北京独立音乐现场成长，并以《沙木黎》完成电子转向的音乐人。
 - [郭龙 / Guo Long](entities/GuoLongMusician.md) — 张玮玮从少年冲突到长期合作、反复分合与重新和解的朋友和音乐伙伴。
 - [野孩子 / Wild Children](entities/WildChildrenBand.md) — 以纪律性排练、非正式照护和合酒吧连接创作、生活与北京独立音乐现场的乐队共同体。

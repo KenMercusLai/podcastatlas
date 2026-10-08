@@ -45323,9 +45323,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "CollateralSuccessionDisorderRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -45333,6 +45333,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1） [lluZ1OXFQrAzahRdAS5SL5YboUWj].md",
+          "key": "zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
         }
       ],
       "updated": "2026-10-08",
@@ -63964,9 +63971,9 @@
       "url": "/wiki/entities/douxianeasternhan/"
     },
     "DouYingWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -64002,6 +64009,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》263｜为了升官，人可以多卑微？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-263-weile-shengguan-ren-keyi-duo-beiwei-2-lvwimzpphquwycrfu-2r6z_r3mqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1） [lluZ1OXFQrAzahRdAS5SL5YboUWj].md",
+          "key": "zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
         }
       ],
       "updated": "2026-10-08",
@@ -140607,9 +140621,9 @@
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -140631,6 +140645,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》235｜刘濞之死揭露职场生存“潜规则”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-235-liubi-zhisi-jielu-zhichang-shengcun-qian-guize-lp1wxe_buqe_zrilsfwsfzqoa2ef/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1） [lluZ1OXFQrAzahRdAS5SL5YboUWj].md",
+          "key": "zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
         }
       ],
       "updated": "2026-10-08",
@@ -143149,9 +143170,9 @@
       "url": "/wiki/entities/liuwenqingherebellatehan/"
     },
     "LiuWuLiangKingWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
@@ -143194,6 +143215,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1） [lluZ1OXFQrAzahRdAS5SL5YboUWj].md",
+          "key": "zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
         }
       ],
       "updated": "2026-10-08",
@@ -143253,6 +143281,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/liuxianlatehan/"
+    },
+    "LiuXianWuCrownPrinceWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1） [lluZ1OXFQrAzahRdAS5SL5YboUWj].md",
+          "key": "zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》231｜汉景帝酒后竟造就乌龙传位事件（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liuxianwucrownprincewesternhan/"
     },
     "LiuXiang": {
       "episode_count": 8,

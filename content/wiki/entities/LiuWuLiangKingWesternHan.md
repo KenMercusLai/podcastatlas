@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs
   - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
   - zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le
+  - zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj
 last_updated: 2026-10-08
 ---
 
 ## Overview
 
-梁孝王刘武 / Liu Wu is a Western Han vassal king, son of [[EmpressDowagerDouWesternHan|窦太后]] and younger full brother of [[HanJingdi|汉景帝]]. His current profile runs from Rebellion-of-the-Seven-States service and exceptional favor through succession ambition, protocol overreach, damaged imperial trust, death, and the division of Liang among five sons.
+梁孝王刘武 / Liu Wu is a Western Han vassal king, son of [[EmpressDowagerDouWesternHan|窦太后]] and younger full brother of [[HanJingdi|汉景帝]]. His current profile begins with an informal imperial succession promise, then runs through Rebellion-of-the-Seven-States service, collateral-heir ambition, protocol overreach, damaged trust, death, and the division of Liang among five sons.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj|Hanji 231 part 1]] now supplies the earliest current succession layer. Before designating a crown prince, Jingdi reportedly tells Liu Wu during a drinking banquet that the throne will pass to him. Liu Wu formally declines but is pleased, and their mother welcomes the prospect. [[DouYingWesternHan|窦婴]] immediately objects that Han succession should pass from father to son. The statement is not treated as a completed designation, but it explains why Liu Wu's later aspiration can rest on remembered imperial speech and family approval rather than appearing from nowhere.
 
 The supplied sources credit Liu Wu's Liang forces with important resistance during the Rebellion of the Seven States. [[zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod|Hanji 338-1]] says Liang holds out for more than three months and buys time for the central counterattack. The episode then shows that remembered service outlives him: when officials seek execution of his son [[LiuPengliJidongKingWesternHan|刘彭离]] for more than one hundred known killings, the host treats Liu Wu's contribution, together with royal kinship, as part of [[HanWudi|汉武帝]]'s choice of deposition and exile instead.
 
@@ -39,7 +42,7 @@ The episode nevertheless stops short of a completed legal judgment. [[ZouYangWes
 
 ## Key Characteristics
 
-- Son of Empress Dowager Dou, younger full brother of Han Jingdi, and ruler of Liang credited with prolonged resistance during the Rebellion of the Seven States.
+- Son of Empress Dowager Dou and younger full brother of Han Jingdi whose collateral-heir expectation begins with a reported banquet promise before a crown prince is named.
 - Royal actor whose emperor-like protocol is treated as an overreach capable of triggering sovereign suspicion.
 - Beneficiary of Han Anguo's motive-reframing mediation and target of his warning about legal and rank limits.
 - Prince whose wartime grievance against Zhou Yafu continues through criticism before Dowager Dou.
@@ -48,6 +51,9 @@ The episode nevertheless stops short of a completed legal judgment. [[ZouYangWes
 - Father whose remembered service later mitigates Liu Pengli's punishment.
 
 ## Evidence
+
+Early succession expectation:
+- [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj|Hanji 231 part 1]] attributes the promise to Jingdi, Liu Wu's formal refusal and private pleasure, the dowager's approval, and Dou Ying's father-to-son objection.
 
 Rebellion-era service:
 - [[zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod|Hanji 338-1]] credits Liang's resistance with supporting suppression of the Rebellion of the Seven States.
@@ -74,14 +80,15 @@ Succession warning and assassination boundary:
 
 ## Qualifications
 
-This remains a bounded profile rather than a full biography. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 240's exceptional privileges, advisers' roles, succession intent, Song analogy, return order, and chronology require comparison. Hanji 241 supplies a fuller assassination mechanism but not a surviving complete order or judgment: the road, victims, attackers, speeches, royal knowledge, palace search, suicides, Wang-family intercession, destroyed records, submission choreography, and carriage practice remain episode-attributed. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242 part 1's immediate-relief dispute, repeated dowager-channel criticism, and causal role in Zhou's dismissal require comparison. Part 2's court-stay rule, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
+This remains a bounded profile rather than a full biography. Hanji 231's intoxication, wording, Liu Wu's inner reaction, dowager response, succession law, and remonstrance aftermath remain episode-attributed; the promise is not a completed edict or designation. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 240's exceptional privileges, advisers' roles, succession intent, Song analogy, return order, and chronology require comparison. Hanji 241 supplies a fuller assassination mechanism but not a surviving complete order or judgment: the road, victims, attackers, speeches, royal knowledge, palace search, suicides, Wang-family intercession, destroyed records, submission choreography, and carriage practice remain episode-attributed. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242 part 1's immediate-relief dispute, repeated dowager-channel criticism, and causal role in Zhou's dismissal require comparison. Part 2's court-stay rule, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
 
 ## What Changed
 
-- Filled the earlier Yuan Ang assassination gap with a road grievance, adviser-led attacks, palace concealment, and surrender of the suspects.
-- Narrowed culpability carefully: Tian Shu's capital-guilt judgment and Liu Wu's protection are recorded, but no complete surviving royal order is claimed.
-- Added the difference between public reconciliation and restored trust through Liu Wu's submission and Jingdi's later carriage distance.
-- Identified the final outcome as evidence-suppression compromise rather than acquittal or equal enforcement.
+- Backfilled the reported banquet promise that gives Liu Wu's later succession expectation an origin in imperial speech and maternal approval.
+- Distinguished an expectation-producing promise from a completed legal designation.
+- Preserved the later Yuan Ang assassination and evidence-suppression settlement as a separate escalation after the succession route is checked.
+- Kept public reconciliation distinct from restored trust through Liu Wu's submission and Jingdi's later carriage distance.
+- Retained the final division of Liang as honor combined with anti-concentration.
 
 ## Relationships
 
@@ -99,3 +106,4 @@ This remains a bounded profile rather than a full biography. The precise siege, 
 - [[ZouYangWesternHan|邹阳]] - advocate who secures an indirect family clemency channel through Wang Xin.
 - [[EvidenceSuppressionDynasticCompromise|证据切断式宗室妥协]] - mechanism that prevents the murder case from becoming a completed royal prosecution.
 - [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]] - multigenerational conflict mechanism used against Liu Wu's succession claim.
+- [[DouYingWesternHan|窦婴]] - official whose father-to-son objection blocks the banquet promise from passing without institutional challenge.
