@@ -32237,3 +32237,11 @@ Added source `zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yin
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！
+
+Added source `zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi`; created [[LiuRongWesternHan|临江王刘荣]], [[YuanAngWesternHan|袁盎]], and [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]]; and resynthesized [[HanJingdi|汉景帝]], [[ZhiDuWesternHan|郅都]], [[EmpressDowagerDouWesternHan|窦太后]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], and [[HarshOfficialInstrumentalRule|酷吏工具化统治]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Rong's custodial suicide is kept separate from the host's stronger claim that Jingdi cleared the way for Liu Che; Zhi Du's fate shows that continuing usefulness to the emperor does not guarantee survival after senior-family grievance destroys coalition protection; and Yuan Ang's Song analogy identifies the multigenerational danger of collateral succession. No settled contradiction was adopted. The title's “杀了我的鹰” image, the complete Yuan Ang assassination plot, exact legal procedures, private motives, speeches, and chronology are not established by the supplied transcript. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,034 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

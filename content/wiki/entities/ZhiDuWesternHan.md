@@ -6,6 +6,7 @@ tags: [person, western-han, harsh-official, military, legal-history]
 sources:
   - zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs
   - zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5
+  - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
 last_updated: 2026-10-08
 ---
 
@@ -21,7 +22,9 @@ last_updated: 2026-10-08
 
 The Shanglin wild-boar story adds a different kind of official resistance. When Jingdi signals that Zhi Du should rescue Consort Jia and then prepares to enter danger himself, Zhi Du refuses the first signal and stops the second action by ranking the emperor's obligation to the state, ancestral temples, and dowager above one favored consort. Dowager Dou's reported reward makes this disobedience legible as dynastic protection rather than simple insubordination. The story supports a bounded distinction between loyalty to immediate preference and loyalty to the ruler's institutional role.
 
-The episode's larger distinction is between severity as a governing instrument and unbounded predation. Zhi Du can still be coercive, but competence, restraint, and an asserted public purpose keep him from being equated with Ning. His involvement around Liu Rong's death then shows the danger of zealous enforcement near the imperial family, although the supplied account is too compressed to settle responsibility or the exact manner of Zhi Du's own death.
+The episode's larger distinction is between severity as a governing instrument and unbounded predation. Zhi Du can still be coercive, but competence, restraint, and an asserted public purpose keep him from being equated with Ning.
+
+[[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] now makes the political exposure concrete. Zhi Du imprisons former crown prince [[LiuRongWesternHan|刘荣]] and refuses him writing tools; after Liu Rong dies by suicide, [[EmpressDowagerDouWesternHan|窦太后]] treats the detention as a dynastic grievance. When a later [[Xiongnu|匈奴]]-related countermeasure puts Zhi Du in legal jeopardy, Jingdi seeks to spare him but the dowager presses for execution. The episode therefore moves Zhi from foreshadowed vulnerability to an attributed death sequence while leaving the legal charge, imperial direction, and division of responsibility unresolved.
 
 ## Key Characteristics
 
@@ -29,7 +32,7 @@ The episode's larger distinction is between severity as a governing instrument a
 - Jinan official who cooperates with Ning Cheng in suppressing powerful local families before becoming zhongwei.
 - Capital enforcer whose fear reputation among nobles and imperial kin is paired with reported refusal of gifts and private requests.
 - Remonstrant who places emperor and dynastic security above an immediate signal to protect a favored consort.
-- Official whose involvement around Liu Rong's death later exposes the political risk of coercion near the ruling house.
+- Official whose detention of Liu Rong and later execution show that a coercive agent can lose protection when imperial-family grief changes the political balance.
 
 ## Evidence
 
@@ -45,16 +48,19 @@ Ruler-security remonstrance:
 
 Political exposure:
 - [[zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs|Hanji 250]] links excessive zeal and Liu Rong's death to Zhi Du's removal from the capital sequence.
+- [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] reports Liu Rong's imprisonment and suicide, Dowager Dou's grievance, the Yanmen and Xiongnu setting, Jingdi's attempted pardon, and the dowager's successful demand for execution.
 
 ## Qualifications
 
-This profile rests on two short popular-history accounts. They do not establish Zhi Du's full biography, exact offices and dates, frontier campaigns, Jinan division of responsibility, punishment record, property, correspondence practice, the literal details of the wild-boar incident, Dowager Dou's reward, his relationship to Liu Rong's death, or the process and manner of his own death. The favorable moral contrast with Ning Cheng and the reported elite fear should not be read as proof that Zhi Du's coercion was lawful, proportionate, or harmless.
+This profile rests on three short popular-history accounts. They do not establish Zhi Du's full biography, exact offices and dates, frontier campaigns, Jinan division of responsibility, punishment record, property, correspondence practice, the literal details of the wild-boar incident, Dowager Dou's reward, the legal basis and prison procedure in Liu Rong's case, imperial instructions, the Xiongnu countermeasure, or the process and manner of his own death. The favorable moral contrast with Ning Cheng and the reported elite fear should not be read as proof that Zhi Du's coercion was lawful, proportionate, or harmless.
 
 ## What Changed
 
 - Added the earlier zhongwei portrait joining elite fear to reported refusal of gifts, visits, and private requests.
 - Added ruler-security remonstrance as a distinct form of loyalty that can resist an immediate imperial signal.
 - Preserved the boundary between personal cleanliness and proof of lawful or proportionate enforcement.
+- Replaced the earlier foreshadowing with the episode-attributed Liu Rong detention and Zhi Du execution sequence.
+- Added loss of political protection after dynastic grief as a second limit on harsh-official usefulness.
 
 ## Relationships
 
@@ -64,3 +70,4 @@ This profile rests on two short popular-history accounts. They do not establish 
 - [[ShanglinParkWesternHan|上林苑]] - setting where Zhi Du's institutional loyalty is tested against immediate consort favor.
 - [[Xiongnu|匈奴]] - frontier opponent used to establish Zhi Du's military capacity.
 - [[HarshOfficialInstrumentalRule|酷吏工具化统治]] - institutional context in which coercive effectiveness makes officials useful but politically exposed.
+- [[LiuRongWesternHan|临江王刘荣]] - former crown prince whose imprisonment and suicide turn Zhi Du into the dowager's target.

@@ -15,6 +15,7 @@ sources:
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs
   - zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5
+  - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
 last_updated: 2026-10-08
 ---
 
@@ -48,6 +49,8 @@ Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or
 
 [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] closes the reign with an agrarian order and a retrospective outcome ledger. Jing calls farming the basis of food and clothing, directs local authorities to promote cultivation and sericulture, and threatens severe punishment when officials divert popular labor into gold and jewel extraction. Ban Gu's Wen-Jing retrospective then credits frugality and recovery with household sufficiency and abundant public stores while also recording land concentration, rural strongmen, purchased political access, and elite luxury. This makes Jing a contributor to [[WenJingProsperityTradeoff|文景之治的繁荣代价]], not evidence that aggregate abundance eliminated unequal power.
 
+The earlier succession-and-coercion crisis places former crown prince [[LiuRongWesternHan|刘荣]] under prosecution for palace-land encroachment, imprisonment by [[ZhiDuWesternHan|郅都]], and suicide after [[DouYingWesternHan|窦婴]] covertly supplies writing tools. The host assigns Jing major responsibility and reads the death as protection for Liu Che, but does not establish a direct killing order. Jing later seeks to spare Zhi Du from a frontier-related case, only to yield to [[EmpressDowagerDouWesternHan|窦太后]]'s grievance. In the Liang branch, [[YuanAngWesternHan|袁盎]]'s warning about collateral succession helps keep Liu Wu from replacing Jing's descendant line. [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]]
+
 ## Key Characteristics
 
 - Successor-ruler whose reign reverses earlier Emperor Wen patronage and fulfills source-scoped physiognomy predictions.
@@ -56,7 +59,7 @@ Part 2 sharpens that contrast. Jing uses a banquet without chopsticks to test or
 - Penal reformer who reduces flogging counts and constrains implementation while leaving corporal punishment in force.
 - Late-reign ruler whose general leniency instruction is placed beside a hostile, expansive prosecution of Zhou Yafu.
 - Late-reign ruler who joins agrarian labor protection and local accountability to a wealth-gated selection route, then closes with a final farming order and a Wen-Jing retrospective pairing abundance with concentration.
-- Ruler whose empress-and-heir settlement and acceptance of a security remonstrance expose both family succession politics and a limit on immediate personal preference.
+- Ruler whose empress-and-heir settlement, treatment of the former crown prince, accepted security remonstrance, and failed attempt to spare Zhi Du expose family succession politics and limits on immediate imperial preference.
 
 ## Evidence
 
@@ -91,15 +94,21 @@ Agrarian closing policy and Wen-Jing outcome:
 Succession settlement and ruler-security remonstrance:
 - [[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5|Hanji 239 part 2]] pairs Wang Zhi's elevation with Liu Che's installation as crown prince and says Jing accepts Zhi Du's argument against risking himself for Consort Jia.
 
+Former-heir death and divided family authority:
+- [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] reports Liu Rong's prosecution and suicide, attributes succession-protection responsibility to Jing as host interpretation, and says Jing cannot overcome Dowager Dou's demand that Zhi Du be executed.
+- [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] says Yuan Ang's historical warning helps stop the dowager-backed Liu Wu succession route, preserving Jing's descendant line without proving Jing's own role in that remonstrance.
+
 ## Qualifications
 
-This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 239 part 2's dates, offices, Liu Che's age, succession causation, family motives, boar incident, dialogue, reward, and inference from one accepted remonstrance remain source-scoped. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 242 part 1's succession procedure, Wang Xin compact, surrendered leaders, chronology, motives, dismissal mechanism, and frontier results remain episode-attributed; the source does not decide the policy tradeoff between rewarding defection and guarding loyalty norms. Hanji 242 part 2's court-stay rule, assassination sequence, family dialogue, Liu Wu's cause of death, exact grants, and Jing's anti-concentration intent are likewise bounded; a one-house succession settlement should not be collapsed into the later 推恩令. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are bounded. General leniency and Zhou's case establish a tension, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 245's disasters, battle, grain rule, ritual example, tax effect, local accountability chain, “资算四得官” wording, threshold, exclusions, service costs, and talent examples require comparison; an asset gate is not evidence that wealth automatically bought office. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
+This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 239 part 2's dates, offices, Liu Che's age, succession causation, family motives, boar incident, dialogue, reward, and inference from one accepted remonstrance remain source-scoped. Hanji 240's land charge, prison procedure, Liu Rong's final message and suicide, Jing's direct instructions, succession-protection motive, Zhi Du case and attempted pardon, dowager pressure, and Liang succession intervention require comparison; the source supports a political-responsibility interpretation, not proof of a direct killing order. Hanji 243's exact punishment terminology, chronology, bamboo dimensions, implementation, injury effects, and deterrence tradeoff require primary-text and outcome comparison; formal standardization does not prove consistent compliance. The Xu Fu prediction branch is source-scoped and does not verify physiognomy as a method. Hanji 392-3 records the host's compact account of the Tang-Wu debate and its taboo outcome. Hanji 279's rebellion sequence and institutional rollback require comparison. Hanji 242 part 1's succession procedure, Wang Xin compact, surrendered leaders, chronology, motives, dismissal mechanism, and frontier results remain episode-attributed; the source does not decide the policy tradeoff between rewarding defection and guarding loyalty norms. Hanji 242 part 2's court-stay rule, assassination sequence, family dialogue, Liu Wu's cause of death, exact grants, and Jing's anti-concentration intent are likewise bounded; a one-house succession settlement should not be collapsed into the later 推恩令. Hanji 244's decree wording, dates, appointments, “psychological blacklist,” banquet intent, armor law, interrogation, torture, accumulated grievances, and “刻薄寡恩” judgment are bounded. General leniency and Zhou's case establish a tension, not proof of systematic hypocrisy or direct imperial authorship of every prosecutorial act. Hanji 245's disasters, battle, grain rule, ritual example, tax effect, local accountability chain, “资算四得官” wording, threshold, exclusions, service costs, and talent examples require comparison; an asset gate is not evidence that wealth automatically bought office. Hanji 246's edict wording, chronology, fiscal imagery, and causal link from occupational change to harvest weakness remain source-scoped.
 
 ## What Changed
 
 - Added the paired elevation of Wang Zhi and Liu Che as a succession settlement while keeping maternal agency and imperial motive qualified.
 - Added Zhi Du's accepted security remonstrance as a bounded case where dynastic obligation overrides immediate consort favor.
 - Connected Zhou Yafu's chancellorship to the episode's personnel sequence without changing the later cumulative-trust-loss judgment.
+- Added Liu Rong's death as an episode-attributed succession-clearing crisis without converting political responsibility into a proven direct killing order.
+- Added Jing's failed effort to spare Zhi Du as evidence that the emperor's preference could be defeated by senior-dowager grievance.
 
 ## Relationships
 
@@ -121,3 +130,5 @@ This remains a bounded wiki profile, not a full biography of Han Jingdi. Hanji 2
 - [[CorporalPunishmentHarmReduction|肉刑执行减害]] - reform pattern joining fewer blows to tighter execution constraints while preserving the punishment itself.
 - [[AssetQualifiedOfficialEntry|赀选式财产资格入仕]] - late-reign selection route that uses household wealth as an entry and service-cost gate without making wealth sufficient for appointment.
 - [[ZhiDuWesternHan|郅都]] - coercive official whose security remonstrance Jing accepts in the Shanglin anecdote.
+- [[LiuRongWesternHan|临江王刘荣]] - former crown prince whose prosecution and suicide the host reads through Liu Che's succession security.
+- [[YuanAngWesternHan|袁盎]] - remonstrant whose historical analogy blocks the dowager-backed collateral succession route.

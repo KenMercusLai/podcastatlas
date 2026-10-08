@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-288-shen-laoshu-de-huai-haizi-ruhe-chengwei-hanchao-diyi-kuli-ltglqpdnj-9u2igdtuccds5z8lpn
   - zizhi-tongjian-hanji-250-ningcheng-pingshenme-chengwei-zuizha-de-kuli-lj9gnsyyvta1g0fa1asp0vr5xivs
   - zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5
+  - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
 last_updated: 2026-10-08
 ---
 
@@ -25,6 +26,8 @@ The concept also separates visible calm from lawful order. Wang recruits coerciv
 
 Finally, harsh officials remain expendable instruments rather than autonomous sovereigns, but removal does not necessarily end their coercive power. Ning is punished after Jing's death, restored by Wudi, and later becomes a Nanyang magnate before Yi destroys his household. Yi is later executed when his action conflicts with imperial告缗 policy, and Wang's later profile ends in corruption charges and suicide. Utility can explain promotion and reuse without guaranteeing protection; the same accumulated office power can also survive as local wealth and intimidation after formal service ends.
 
+[[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] sharpens expendability through Zhi Du. The same official earlier rewarded for protecting the ruler's institutional life imprisons [[LiuRongWesternHan|刘荣]] and becomes the object of [[EmpressDowagerDouWesternHan|窦太后]]'s grief after the former crown prince's suicide. Jingdi's later wish to pardon him does not preserve him when senior-family authority presses for execution. An instrumental official can therefore remain useful to one principal yet lose the coalition protection that makes usefulness survivable.
+
 ## Key Claims
 
 - Large-scale official violence requires an enabling chain of authorization, staffing, information, transport, and enforcement.
@@ -33,7 +36,7 @@ Finally, harsh officials remain expendable instruments rather than autonomous so
 - A harsh official's personal cruelty and institutional usefulness can reinforce each other without being identical explanations, while some useful officials may resist immediate commands or private enrichment.
 - Legal expertise, ideological presentation, and patronage ties can make coercion more useful by translating current ruler preference into apparently regular adjudication.
 - Political demand can restore a previously punished coercive agent when the ruler still values the capacity and merely changes the posting or scope.
-- Instrumental promotion does not make the official secure; the same system can discard or punish an agent whose utility, alignment, or protection ends, while accumulated power may persist as local magnate capacity.
+- Instrumental promotion does not make the official secure; the same system can discard or punish an agent whose utility, alignment, or coalition protection ends, even while a current ruler still values him, and accumulated power may persist as local magnate capacity.
 
 ## Evidence
 
@@ -59,15 +62,20 @@ Post-office conversion:
 Private restraint and bounded disobedience:
 - [[zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5|Hanji 239 part 2]] pairs Zhi Du's reported refusal of gifts and requests with his refusal to risk the emperor for one favored consort.
 
+Coalition-protection loss:
+- [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] says Zhi Du's detention of Liu Rong creates a dowager grievance and that Jingdi's attempted pardon later fails against her demand for execution.
+
 ## Counterevidence & Qualifications
 
-The concept currently rests on four structured podcast notes and should not be generalized into a claim that every harsh-official action was centrally ordered in detail. Hanji 239 part 2's epithet, punishment practice, incorruptibility, correspondence conduct, boar incident, reward, and frontier claims require comparison; refusal of gifts does not prove lawful enforcement. Hanji 288's claim that Zhang matched punishment and mercy to Wudi's wishes does not document every case or eliminate other legal, institutional, and personal causes; its childhood mouse trial cannot establish developmental causation. Hanji 330's exact approval turnaround, blank-authorization hypothesis, victim totals, office sequence, and inner motives require primary-text comparison. Hanji 250 does not establish Ning's complete appointments, the legal grounds for punishment or restoration, whether Wudi changed only his posting after Gongsun Hong's warning, how public office became private magnate power, or the exact offenses behind Yi Zong's prosecution. Reduced visible crime may reflect some real suppression alongside terror; the sources do not provide independent measures that separate deterrence, underreporting, displacement, and silence. The contrast between Zhi Du, Zhang Tang, and Ning also shows that “harsh official” is not a sufficient moral or administrative diagnosis on its own.
+The concept currently rests on five structured podcast notes and should not be generalized into a claim that every harsh-official action was centrally ordered in detail. Hanji 239 part 2's epithet, punishment practice, incorruptibility, correspondence conduct, boar incident, reward, and frontier claims require comparison; refusal of gifts does not prove lawful enforcement. Hanji 240 does not establish the lawfulness of Liu Rong's detention, Jingdi's exact instruction, Zhi Du's independent responsibility, the Xiongnu countermeasure, the charge leading to execution, or the formal balance between emperor and dowager. Hanji 288's claim that Zhang matched punishment and mercy to Wudi's wishes does not document every case or eliminate other legal, institutional, and personal causes; its childhood mouse trial cannot establish developmental causation. Hanji 330's exact approval turnaround, blank-authorization hypothesis, victim totals, office sequence, and inner motives require primary-text comparison. Hanji 250 does not establish Ning's complete appointments, the legal grounds for punishment or restoration, whether Wudi changed only his posting after Gongsun Hong's warning, how public office became private magnate power, or the exact offenses behind Yi Zong's prosecution. Reduced visible crime may reflect some real suppression alongside terror; the sources do not provide independent measures that separate deterrence, underreporting, displacement, and silence. The contrast between Zhi Du, Zhang Tang, and Ning also shows that “harsh official” is not a sufficient moral or administrative diagnosis on its own.
 
 ## What Changed
 
 - Added Zhi Du's combination of fear-producing enforcement, reported private restraint, and ruler-security remonstrance.
 - Distinguished instrumental usefulness from total obedience: resistance to an immediate signal may preserve the ruler's institutional interest.
 - Preserved the boundary that personal cleanliness does not prove lawful or proportionate coercion.
+- Added Zhi Du's Liu Rong detention and execution as the concrete end of the previously foreshadowed exposure.
+- Distinguished continuing ruler utility from the broader coalition protection needed for an agent to survive.
 
 ## Related Concepts
 

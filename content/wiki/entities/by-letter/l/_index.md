@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12696
+wiki_total_pages: 12698
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1163,6 +1163,9 @@ wiki_pages:
   - key: "LinwuJun"
     title: "临武君 / Linwu Jun"
     url: "/wiki/entities/linwujun/"
+  - key: "LiuRongWesternHan"
+    title: "临江王刘荣 / Liu Rong (Western Han)"
+    url: "/wiki/entities/liurongwesternhan/"
   - key: "Linfen"
     title: "临汾 / Linfen"
     url: "/wiki/entities/linfen/"

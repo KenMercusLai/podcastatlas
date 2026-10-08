@@ -45179,6 +45179,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "CollateralSuccessionDisorderRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/collateralsuccessiondisorderrisk/"
+    },
     "CollectiveWaterManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -71922,9 +71938,9 @@
       "url": "/wiki/entities/empressdowagerdoumiao/"
     },
     "EmpressDowagerDouWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》265｜东朝廷辩，如何演变成揭短大战？（2） [lvu23osgV46NN3RbGqUE1mbhmpgw].md",
@@ -71960,6 +71976,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
         }
       ],
       "updated": "2026-10-08",
@@ -101349,9 +101372,9 @@
       "url": "/wiki/entities/hanjilatehan/"
     },
     "HanJingdi": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -101429,6 +101452,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
         }
       ],
       "updated": "2026-10-08",
@@ -103452,9 +103482,9 @@
       "url": "/wiki/concepts/harryingofthenorth/"
     },
     "HarshOfficialInstrumentalRule": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
@@ -103483,6 +103513,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
         }
       ],
       "updated": "2026-10-08",
@@ -142087,6 +142124,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/liurenchengstandup/"
     },
+    "LiuRongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liurongwesternhan/"
+    },
     "LiuShangEasternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -142448,9 +142501,9 @@
       "url": "/wiki/entities/liuwenqingherebellatehan/"
     },
     "LiuWuLiangKingWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
@@ -142479,6 +142532,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
         }
       ],
       "updated": "2026-10-08",
@@ -257658,6 +257718,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuananeasternhan/"
     },
+    "YuanAngWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/yuanangwesternhan/"
+    },
     "YuanBiXinPalaceAttendant": {
       "episode_count": 1,
       "show_count": 1,
@@ -262993,9 +263069,9 @@
       "url": "/wiki/entities/zhibuyiwesternhan/"
     },
     "ZhiDuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》250｜甯成凭什么称为最渣的酷吏？ [lj9GNSyYvtA1g0FA1ASP0VR5XivS].md",
@@ -263010,6 +263086,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
+          "key": "zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi/"
         }
       ],
       "updated": "2026-10-08",

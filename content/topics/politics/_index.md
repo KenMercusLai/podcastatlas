@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3193
+topic_total_pages: 3194
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4816,6 +4816,9 @@ topic_concepts:
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"
+  - key: "CollateralSuccessionDisorderRisk"
+    title: "旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk"
+    url: "/wiki/concepts/collateralsuccessiondisorderrisk/"
   - key: "UnsupportedFrontierIntervention"
     title: "无支撑边疆干预 / Unsupported Frontier Intervention"
     url: "/wiki/concepts/unsupportedfrontierintervention/"

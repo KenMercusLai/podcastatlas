@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9917
+wiki_total_pages: 9918
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3215,6 +3215,9 @@ wiki_pages:
   - key: "CourtTransitionBlameManagement"
     title: "新君清算中的责任安排 / Court Transition Blame Management"
     url: "/wiki/concepts/courttransitionblamemanagement/"
+  - key: "CollateralSuccessionDisorderRisk"
+    title: "旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk"
+    url: "/wiki/concepts/collateralsuccessiondisorderrisk/"
   - key: "ChunDianArgot"
     title: "春点 / Chun Dian Argot"
     url: "/wiki/concepts/chundianargot/"

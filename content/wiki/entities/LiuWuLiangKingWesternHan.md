@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-266-sihui-furan-yu-yi-pao-niao-de-gushi-1-lrdhzy9cykdnjgoi90h95atugnxw
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg
   - zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs
+  - zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi
 last_updated: 2026-10-08
 ---
 
@@ -29,13 +30,15 @@ Han Anguo's intervention preserves the distinction between explanation and excus
 
 The same source uses reported treasure, armaments, imperial-style display, and a monumental rock-cut tomb to explain why Jingdi could view Liang as more than a private family household. Those quantities, Liu Wu's death from grief, and the tomb-plunder narrative remain source-scoped rather than becoming settled biography.
 
+The earlier succession-remonstrance layer says Liu Wu's service, exceptional privileges, and the encouragement of Yang Sheng and Gongsun Gui make him receptive to imperial succession, while [[YuanAngWesternHan|袁盎]] uses the Song Xuangong precedent to warn [[EmpressDowagerDouWesternHan|窦太后]] that moving from the emperor's descendant line to a brother can create repeated conflict between branches. The episode says the dowager sends Liu Wu back to Liang. Its opening also links Liu Wu to Yuan Ang's later assassination, but the supplied body does not narrate the murder plot or adjudication. [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]]
+
 ## Key Characteristics
 
 - Son of Empress Dowager Dou, younger full brother of Han Jingdi, and ruler of Liang credited with prolonged resistance during the Rebellion of the Seven States.
 - Royal actor whose emperor-like protocol is treated as an overreach capable of triggering sovereign suspicion.
 - Beneficiary of Han Anguo's motive-reframing mediation and target of his warning about legal and rank limits.
 - Prince whose wartime grievance against Zhou Yafu continues through criticism before Dowager Dou.
-- Prince whose succession grievance, wealth, military resources, and dowager access deepen Jingdi's late suspicion in the episode's account.
+- Prince whose succession ambition, advisers, wealth, military resources, dowager access, and asserted connection to Yuan Ang's assassination deepen Jingdi's late suspicion, with the murder mechanism unresolved.
 - Father of five sons whose posthumous enfeoffment preserves honor while fragmenting Liang, including Liu Pengli of Jidong.
 - Father whose remembered service later mitigates Liu Pengli's punishment.
 
@@ -60,14 +63,20 @@ Wealth and coercive capacity:
 Inherited political credit:
 - [[zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod|Hanji 338-1]] invokes Liu Wu's service when explaining why Han Wudi does not execute Liu Pengli despite officials' request.
 
+Succession warning and assassination boundary:
+- [[zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi|Hanji 240]] says Yuan Ang's collateral-succession warning sends Liu Wu back to Liang and opens with a later assassination connection that the episode does not fully narrate.
+
 ## Qualifications
 
-This remains a bounded profile rather than a full biography. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242 part 1's immediate-relief dispute, repeated dowager-channel criticism, and causal role in Zhou's dismissal require comparison. Part 2's court-stay rule, Yuan Ang sequence, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
+This remains a bounded profile rather than a full biography. The precise siege, duration, military contribution, Liang administration, and wider relationship with Jingdi require broader evidence. Hanji 240's exceptional privileges, advisers' roles, succession intent, Song analogy, return order, Yuan Ang assassination connection, and chronology require comparison; the opening assertion does not establish the full murder plot. Hanji 266's court protocol, audience sequence, words, motives, rewards, and successful-causation story remain episode-attributed; Han Anguo's defense is a strategic interpretation, not independent proof that Liu Wu had no succession ambition. Hanji 242 part 1's immediate-relief dispute, repeated dowager-channel criticism, and causal role in Zhou's dismissal require comparison. Part 2's court-stay rule, Yuan Ang sequence, death-by-grief account, speeches, division intent, wealth and weapon totals, gold conversion, tomb dimensions, and plunder history require primary and archaeological comparison. Hanji 338-1's causal link between the father's merit and the son's clemency is an interpretation of Wudi's refusal to execute, not a surviving formal judgment quoted in full.
 
 ## What Changed
 
 - Added Liu Wu's wartime grievance and repeated dowager-channel criticism as a mechanism weakening Zhou Yafu's court position.
 - Distinguished continued opposition from proof that Liu Wu determined Zhou's dismissal or later prosecution.
+- Added the earlier Yuan Ang remonstrance as the point where maternal favor fails to secure collateral succession.
+- Added Yang Sheng and Gongsun Gui as episode-attributed advisers without creating thin canonical pages.
+- Kept the announced Yuan Ang assassination connection separate from a fully evidenced murder mechanism.
 
 ## Relationships
 
@@ -80,3 +89,5 @@ This remains a bounded profile rather than a full biography. The precise siege, 
 - [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]] - pattern through which Liu Wu's merit is presented as benefiting his son.
 - [[KinshipProtocolBoundary|亲情名分边界]] - principle showing why family favor can soften conflict without canceling princely duty.
 - [[TuiEnLing|推恩令]] - later systematic analogue for territorial fragmentation through grants to multiple royal sons.
+- [[YuanAngWesternHan|袁盎]] - succession opponent whose historical analogy checks the dowager's support and whose later assassination is linked to Liang by the episode opening.
+- [[CollateralSuccessionDisorderRisk|旁支继承的连锁内乱风险]] - multigenerational conflict mechanism used against Liu Wu's succession claim.

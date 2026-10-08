@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》240｜汉景帝哭诉：匈奴和太后，杀了我的鹰！](sources/zizhi-tongjian-hanji-240-hanjingdi-kusu-xiongnu-he-taihou-sha-le-wode-ying-lvl4t-2etswvi3ts9gbvor5dh8mi.md) — 刘荣狱死使郅都从景帝的强力工具转为窦太后的报复目标，袁盎则以宋国五世之乱劝退梁王继承方案；标题“杀鹰”与刺杀案细节未在正文展开。
 - [《资治通鉴·汉纪》239｜别被骗了！金屋藏娇背后的阴谋真相（2）](sources/zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yinmou-zhenxiang-2-lg8d6yo8as42wgn_ebamgidyrkc5.md) — 王娡立后与幼年刘彻立储被放入母系家族经营中解释；郅都则以威慑权贵、拒绝私请和阻止景帝为宠妃冒险，区分酷吏的强制效用、个人克制与角色忠诚，具体年代、动机和轶事保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs.md) — 周亚夫先后反对废太子、无功封外戚和给匈奴降人封侯，在原则、亲族利益与招降策略的连续冲突中失去景帝及太后支持，最终称病罢朝并被免相；具体因果、日期和政策效果保留来源边界。
 - [《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（2）](sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-2-lvwwjv0w-widjjzafmweqdoepydg.md) — 标题虽称周亚夫，正文实际叙述梁孝王刘武失宠、去世及梁国一分为五；景帝以对子女的优封安抚窦太后，同时分散封国力量，死亡因果、数字、动机与盗墓细节保留来源边界。
@@ -4102,6 +4103,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [城市就是这样22 | 中国的“中位数城市”是哪座？](sources/chengshi-jiushi-zheyang-22-zhongguo-de-zhongweishu-chengshi-shi-nazuo-1021674577.md) — 城市就是这样 episode with David Fishman on the failed search for one median Chinese city, Linfen as a northern post-industrial type, mixed-method city research, urban interviews, ghost-city time lags, administrative geography, and AI-assisted source retrieval.
 
 ## Entities
+- [临江王刘荣 / Liu Rong (Western Han)](entities/LiuRongWesternHan.md) — 被废太子因宫地案入狱并自杀，其死亡被节目放入刘彻继承安全与窦太后追责郅都的政治链条。
+- [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 以宋宣公旁支继承旧事劝阻窦太后立梁王，并在本期片头被指与梁国相关的遇刺案相连。
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
 - [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
 - [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
@@ -16852,6 +16855,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [临汾 / Linfen](entities/Linfen.md) — Shanxi city recast from a ranking-derived national median proxy into a qualified northern resource-dependent, post-industrial case.
 
 ## Concepts
+- [旁支继承的连锁内乱风险 / Collateral Succession Disorder Risk](concepts/CollateralSuccessionDisorderRisk.md) — 旁支继承把竞争性血统、承诺与恢复要求转移给后代，从而可能把一次立储选择延长为多代冲突。
 - [Asset-Qualified Official Entry / 赀选式财产资格入仕](concepts/AssetQualifiedOfficialEntry.md) — 以家庭财产验证入仕资格并承担任官成本、同时保留身份品行与才能筛选的选官通道，区别于直接买官。
 - [疑兵式心理威慑 / Ambiguity-Based Deterrent Bluff](concepts/AmbiguityBasedDeterrentBluff.md) — 弱势兵力以反常镇定和可疑暴露诱使对手推断存在隐藏支援，从不确定性中制造不战威慑。
 - [肉刑执行减害 / Corporal Punishment Harm Reduction](concepts/CorporalPunishmentHarmReduction.md) — 在保留肉刑的前提下，同时降低刑量并规范刑具、施打部位与执行程序，以减少死亡和残疾风险。
