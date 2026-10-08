@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [10 被阉割的爱人 & 牛郎织女：情人节特辑](sources/10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p.md) — 怪东西以圣瓦伦丁、阿伯拉尔与埃洛伊斯、七夕和牛郎织女说明爱情节日与爱情故事如何通过传说、文学、劳动礼俗、商业和时代伦理逐层形成。
 - [11 压岁钱与圣诞礼物的起源](sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq.md) — 怪东西比较压岁钱与圣诞礼物，将节庆赠礼放进历法、祭祀、货币、家庭教育、文学、慈善与商业的长期流变中。
 - [12 东西方取名的艺术](sources/12-dongxifang-quming-de-yishu-luwyjjavdsketsbzhtbgyqv5p_nm.md) — 怪东西比较中国姓氏、名、字、号、避讳与罗马、俄语、冰岛、阿拉伯和西班牙语姓名体系，将姓名解释为亲属关系、等级、宗教、国家治理与自我呈现的社会制度。
 - [《资治通鉴·汉纪》225-1｜冯唐羞辱文帝，刘恒为何不怒反喜？](sources/zizhi-tongjian-hanji-225-1-fengtang-xiuru-wendi-liuheng-weihe-bu-nu-fan-xi-linynx-dnz0rrptlafz__fch4cgd.md) — 冯唐以李牧和魏尚说明边将需要实权、资源与可信赏罚；文帝由愤怒转向追问，认错后赦免魏尚并任用冯唐。
@@ -4175,6 +4176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [13 东西方的女作家：皮桑与蔡文姬](sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent.md) — 怪东西以克里斯蒂娜·德·皮桑与蔡文姬比较女性公共写作、教育、战争经验、关系命名与文学正典中的可见性，并保留蔡文姬生平及作品归属的证据边界。
 
 ## Entities
+- [Heloise / Héloïse](entities/Heloise.md) — Medieval intellectual, abbess, and correspondent whose thinking on intention, marriage, vocation, and devotion complicates her familiar role in Abelard's tragic romance.
 - [《压岁钱》 (1937 film)](entities/LuckyMoneyFilm1937.md) — 以一枚压岁银元的流转连接上海阶层生活、国家危机与货币变化的社会电影。
 - [冯唐 / Feng Tang (Western Han)](entities/FengTangWesternHan.md) — 以李牧和魏尚之事批评边将授权与赏罚失衡，并促成文帝纠错的西汉直谏官员。
 - [魏尚 / Wei Shang (Western Han)](entities/WeiShangWesternHan.md) — 因云中养兵与六级首误报争议成为边功、审计和比例惩罚测试的西汉郡守。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12800
+wiki_total_pages: 12801
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "HelmuthVonMoltkeTheYounger"
     title: "Helmuth von Moltke the Younger"
     url: "/wiki/entities/helmuthvonmoltketheyounger/"
+  - key: "Heloise"
+    title: "Heloise / Héloïse"
+    url: "/wiki/entities/heloise/"
   - key: "HemantTaneja"
     title: "Hemant Taneja"
     url: "/wiki/entities/hemanttaneja/"

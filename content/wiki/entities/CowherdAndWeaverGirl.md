@@ -5,6 +5,7 @@ tags: [legend, folklore, mythology, astronomy]
 sources:
   - 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062
   - zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89
+  - 10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,9 @@ Cowherd and Weaver Girl / 牛郎织女 is the celestial pair at the center of [[
 
 ## Current Profile
 
-[[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062|Episode 152]] argues that the modern story is not one unchanged ancient narrative. Early 牵牛 material can evoke ritual cattle service, 河鼓 star groups, guard or military imagery, debt to the celestial emperor, and poetic star positions before becoming the rural 牛郎 of popular retelling. The hidden-clothing marriage plot belongs to the wider [[SwanMaidenMotif]] and should be analytically separated from the star pair divided by the Milky Way.
+[[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062|Episode 152]] argues that the modern story is not one unchanged ancient narrative. Early 牵牛 material can evoke ritual cattle service, 河鼓 star groups, guard or military imagery, debt to the celestial emperor, and poetic star positions before becoming the rural 牛郎 of popular retelling. [[10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p|Weird History episode 10]] adds a textual sequence from *Shijing* star names and Qin marriage omens through Han personification, Han-Jin longing and reunion, the Southern Dynasties neglected-weaving separation story, and later magpie-bridge and Queen Mother elements.
+
+The hidden-clothing marriage plot belongs to the wider [[SwanMaidenMotif]] and should be analytically separated from the star pair divided by the Milky Way. The newer source connects that plot to *Soushen Ji* bird-woman and Dong Yong traditions before later retellings recombine poor mortal, hostile relatives, hidden clothing, children, divine prohibition, and annual reunion. These layers also remain ethically available for revision: contemporary readers can question the theft and forced marriage instead of treating every inherited element as timeless romance.
 
 A monumental landscape layer appears in [[zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89|Hanji 317]]. Stone figures of 牵牛 and 织女 stand east and west of [[KunmingPoolWesternHan|Kunming Pool]], with the water representing the Milky Way. The figures make an early celestial pairing materially visible in an imperial setting, but they do not prove that the complete later romance originated only in Chang'an.
 
@@ -33,9 +36,11 @@ Together the sources support [[MythicSourceLayering]]: astronomy, ritual office,
 
 Layered star and narrative formation:
 - [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062|Episode 152]] separates early star references and variable 牵牛 roles from the later familiar romance.
+- [[10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p|Weird History episode 10]] traces personification, longing, annual reunion, neglected weaving, magpie bridge, and divine-separation elements across successive textual periods.
 
 Portable marriage motif:
 - [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062|Episode 152]] compares the hidden-clothing marriage plot with the wider [[SwanMaidenMotif]] and notes its ethical difficulty in modern readings.
+- [[10-bei-yange-de-airen-niulang-zhinv-qingrenjie-teji-lvnjfdt54qvkejizu1wxyju2uc2p|Weird History episode 10]] follows Dong Yong, the bird woman, Seventh Fairy, and later Cowherd-Weaver materials as partially merging narrative reservoirs.
 
 Monumental celestial pairing:
 - [[zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89|Hanji 317]] describes 牵牛 and 织女 stone figures on opposite sides of Kunming Pool, with the water symbolizing the Milky Way.
@@ -45,7 +50,7 @@ Later ritual afterlife:
 
 ## Qualifications
 
-Episode 152 presents a folklore synthesis with explicit uncertainty around early texts, star identities, motif transmission, and regional practice. Similar story units and historical contact routes can guide inquiry without proving one direct line of borrowing. The stolen-garment plot also raises coercion concerns that should not be softened by treating the whole tradition as a timeless romance.
+The two folklore syntheses retain uncertainty around early texts, star identities, motif transmission, and regional practice. Similar story units and historical contact routes can guide inquiry without proving one direct line of borrowing. The stolen-garment plot also raises coercion concerns that should not be softened by treating the whole tradition as a timeless romance. Dates, cited text wording, and precise points of fusion remain episode-scoped.
 
 Hanji 317 is a compact episode summary rather than an archaeological report. Its statue dating, original placement, measurements, temple history, and claims of material “proof” require specialist verification. Even if the figures and layout are securely Western Han, they demonstrate an early celestial and monumental association, not exclusive authorship of every later narrative layer. The title's “birthplace” claim therefore remains source-scoped rather than replacing the layered model.
 
@@ -54,6 +59,7 @@ Hanji 317 is a compact episode summary rather than an archaeological report. Its
 - Added the Kunming Pool stone figures as an imperial monumental and material layer of the celestial pairing.
 - Narrowed the new source's birthplace claim so it does not erase the tradition's multiple textual, ritual, and motif layers.
 - Migrated the page to the synthesis-first schema while preserving its prior evidence inventory.
+- Added a more explicit textual sequence and the fusion of Dong Yong, bird-woman, and later Cowherd-Weaver materials.
 
 ## Relationships
 
