@@ -32331,3 +32331,11 @@ Added source `zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengl
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | 《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？
+
+Added source `zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr`; created [[ZhaoSheAdviserWesternHan|赵涉]] and [[StrategicPlanProtectionUnderReliefPressure|救援压力下的战略坚守]]; and resynthesized [[RebellionOfTheSevenStatesWesternHan|七国之乱]], [[ZhouYafu|周亚夫]], [[LiuBiWuKing|刘濞]], and [[YuanAngWesternHan|袁盎]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: killing Chao Cuo does not end the rising; Liu Bi's detention of the mission and rival title show open escalation, while Zhou protects an initially approved Liang-and-logistics design through route correction, supply interdiction, fortified non-battle, camp composure, and feint recognition despite relief pressure. This is bounded plan preservation, not a general license for command disobedience; Liang's losses and grievance remain part of the judgment. No settled contradiction was adopted. Route, ambush, speeches, command sequence, troop movements, night panic, feint, dates, and modern leadership analogies remain source-scoped. Zhao She is separated from [[ZhaoShe|赵奢]] by a stable semantic suffix. Broad [[HanJingdi|汉景帝]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], [[HanAnguoWesternHan|韩安国]], and other minor figures were kept closed because focused pages carry the bounded additions without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,046 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

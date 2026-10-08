@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？](sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr.md) — 晁错之死未使刘濞退兵；周亚夫绕开伏击、让梁国牵制吴楚、切断粮道并顶住救援压力，以坚守和追击完成平叛，具体军令、路线与战场细节保留来源边界。
 - [《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）](sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp.md) — 七国之乱由军事胜利进入清算：齐国密约受查、刘昂的“诛晁错”辩解被无诏无符与攻击拒叛邻国的事实驳回，韩颓当据此执行招降与处置；姓名、谱系及程序细节保留来源边界。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（2）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-2-lgf_fsspuort2u2zgipqndjy77pg.md) — 刘胜的享乐自保解释、刘彭祖的封国内控、刘丹的赦免与刘元的递进惩罚共同呈现宗室特权的问责边界，刘德则构成非决定论反例；亲缘与年代错误保留为明确矛盾。
 - [《资治通鉴·汉纪》237｜娶母淫妹，汉景帝儿孙有多荒唐？（1）](sources/zizhi-tongjian-hanji-237-qumu-yinmei-hanjingdi-ersun-you-duo-huangtang-1-lhiknwiq7jj0ysumzxd319s766qf.md) — 刘余的孔壁古文发现构成相对温和的对照；刘建与刘端则分别显示谋反案终局和宗室保护下的长期地方问责失灵。
@@ -4115,7 +4116,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [643. Rome's Greatest Enemy: Carthage Destroyed (Part 4)](sources/643-romes-greatest-enemy-carthage-destroyed-part-4-glt7699509622.md) — The Rest Is History episode on Roman enemy memory, Massinissa and Cato, coerced disarmament, the Third Punic War, and Carthage's destruction in 146 BC.
 
 ## Entities
-- [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发、周亚夫断粮制胜并在战后转入诸侯追责与中央收权的西汉宗室叛乱。
+- [赵涉 / Zhao She (Western Han adviser)](entities/ZhaoSheAdviserWesternHan.md) — 预判吴军会在险路设伏、建议周亚夫绕经蓝田与武关并获侦察验证的西汉军事顾问；与赵奢分列。
+- [七国之乱 / Rebellion of the Seven States (Western Han)](entities/RebellionOfTheSevenStatesWesternHan.md) — 景帝削藩触发，杀晁错未能止战；周亚夫以绕伏、牵制、断粮和坚守制胜，战后再转入诸侯追责与中央收权。
 - [胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)](entities/LiuAngJiaoxiKingWesternHan.md) — 七国之乱败后以“诛晁错”自辩，却因无诏无符及攻击拒叛邻国而无法免责的胶西王。
 - [韩颓当 / Han Tuidang (Western Han)](entities/HanTuidangWesternHan.md) — 奉诏处置七国之乱败王，并以授权、程序和实际攻击行为驳斥刘昂辩解的西汉将领。
 - [丽姬（汉景帝） / Consort Li (Emperor Jing)](entities/ConsortLiJingdiWesternHan.md) — 刘荣之母；节目把拒绝刘嫖联姻、未能承诺善待其他后宫家庭及立后奏请风波连为其失势前的联盟与信任危机。
@@ -4126,7 +4128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁共王刘余 / Liu Yu, King of Lu (Western Han)](entities/LiuYuLuKingWesternHan.md) — 因扩建宫室而与孔子旧宅壁中古文经典发现相连、同时保留营建扰民边界的西汉鲁王。
 - [临江王刘荣 / Liu Rong (Western Han)](entities/LiuRongWesternHan.md) — 被废太子因宫地案入狱并自杀，其死亡被节目放入刘彻继承安全与窦太后追责郅都的政治链条。
 - [邹阳 / Zou Yang (Western Han)](entities/ZouYangWesternHan.md) — 梁国说客，以王氏家族自利建立说情渠道，再借舜与象的兄弟故事缓和景帝对刘武的怒气。
-- [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 先以宋宣公旧事劝阻窦太后立梁王，后因反对梁国修路等事遭到梁王近臣组织的刺杀，完整王命仍受毁卷与来源边界限制。
+- [袁盎 / Yuan Ang (Western Han)](entities/YuanAngWesternHan.md) — 出使吴国拒绝投降并因旧恩获助逃生，后以宋宣公旧事劝阻立梁王，又因反对梁国修路等事遭到刺杀。
 - [直不疑 / Zhi Buyi (Western Han)](entities/ZhiBuyiWesternHan.md) — 以两则受诬不急辩白的轶事和低调守成的黄老式官风见于汉景帝时期的西汉官员。
 - [魏绾 / Wei Wan (Western Han)](entities/WeiWanWesternHan.md) — 武帝初年提出按学术与言论倾向筛除部分荐举者的丞相，其建议与董仲舒角色保持区分。
 - [申公 / Shen Gong (Western Han)](entities/ShenGongWesternHan.md) — 赵绾、王臧之师，以隆重礼遇入朝并以“重实行”回应治乱之问的鲁地老儒。
@@ -9380,7 +9382,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
 - [商山四皓 / Shangshan Sihao](entities/ShangshanSiHao.md) — Four elderly recluses whose public support for Liu Ying makes Liu Bang abandon the final crown-prince replacement attempt.
-- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — Liu Bang's nephew appointed king of early Han Wu after Ying Bu's defeat and the Jing-to-Wu reorganization.
+- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — 从刘邦平定英布后任命的同姓吴王，发展为拒绝退兵、自称东帝并领导吴楚联军对抗中央的诸侯王。
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
@@ -9578,7 +9580,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
-- [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 西汉将相，其军功、刚直判断、失去帝王信任、随葬甲盾案与狱中绝食构成不能简化为性格宿命的政治结局。
+- [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 以绕伏、断粮、坚守和识破佯攻建立七国之乱军功，后因连续政策冲突失去帝王信任并在随葬甲盾案中绝食而死的西汉将相。
 - [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、普遍宽刑、对周亚夫的个案严厉与临终重农并置，承接文景繁荣及内部集中问题。
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
@@ -16881,6 +16883,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 
 ## Concepts
+- [Relief Pressure and Strategic Plan Protection / 救援压力下的战略坚守](concepts/StrategicPlanProtectionUnderReliefPressure.md) — 已定战役机制面对盟军求救和上级临时命令时，如何以持续证据、后勤行动和风险控制区分战略坚守与任性抗命。
 - [叛乱平定后的追责 / Post-Rebellion Accountability](concepts/PostRebellionAccountability.md) — 军事胜利后依据密谋、授权、程序与实际行为区分参与并决定投降、惩罚及制度处置的治理过程。
 - [宫廷婚姻—储位联盟 / Palace Marriage-Succession Coalition](concepts/PalaceMarriageSuccessionCoalition.md) — 皇室子女婚配通过成人中介、宫廷接触、继承游说与未来家庭安全预期，重组储位竞争联盟的机制。
 - [特权隔绝式道德腐蚀 / Moral Corrosion Through Insulated Privilege](concepts/InsulatedPrivilegeMoralCorrosion.md) — inherited wealth, weak accountability, and constrained purpose can amplify elite indulgence and coercion without making moral decline inevitable.

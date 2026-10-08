@@ -140473,6 +140473,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/liubei/"
     },
+    "LiuBiWuKing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/liubiwuking/"
+    },
     "LiuBiao": {
       "episode_count": 16,
       "show_count": 1,
@@ -195091,9 +195114,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RebellionOfTheSevenStatesWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？ [lk0WSSRgq0aC9uapfxc2pv9Fn7HH].md",
@@ -195108,6 +195131,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》236｜七国之乱平定，汉景帝杀疯了（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-236-qiguo-zhiluan-pingding-hanjingdi-shafengle-1-lqjhb97x2uki9m2dxwnqmobbgp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
         }
       ],
       "updated": "2026-10-08",
@@ -221360,6 +221390,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/strategicpersonaldeference/"
+    },
+    "StrategicPlanProtectionUnderReliefPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/strategicplanprotectionunderreliefpressure/"
     },
     "StrategicVisibilityScrutinyTradeoff": {
       "episode_count": 1,
@@ -258502,9 +258548,9 @@
       "url": "/wiki/entities/yuananeasternhan/"
     },
     "YuanAngWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -258519,6 +258565,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》241｜梁孝王刘武：看我如何花样作死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-241-liangxiaowang-liuwu-kan-wo-ruhe-huayang-zuosi-lqbllfh9nph-vvu9emzhsxdfj1le/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
         }
       ],
       "updated": "2026-10-08",
@@ -262558,6 +262611,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhaoraolatehan/"
     },
+    "ZhaoSheAdviserWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/zhaosheadviserwesternhan/"
+    },
     "ZhaoShiqiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -264926,9 +264995,9 @@
       "url": "/wiki/entities/zhouxielatehan/"
     },
     "ZhouYafu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
@@ -264964,6 +265033,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》242｜ 从丞相到免官，周亚夫犯了职场大忌！（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-242-cong-chengxiang-dao-mianguan-zhouyafu-fanle-zhichang-daji-1-lu6ohybs3wq9p9z-rmzj-j5vjcrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？ [li6IQHTUxGQ5XWGbn_vb7LLjGYxR].md",
+          "key": "zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》234｜周亚夫战场打脸汉景帝，哪来的胆子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-234-zhouyafu-zhanchang-dalian-hanjingdi-na-lai-de-danzi-li6iqhtuxgq5xwgbn_vb7lljgyxr/"
         }
       ],
       "updated": "2026-10-08",

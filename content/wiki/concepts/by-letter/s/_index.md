@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9925
+wiki_total_pages: 9926
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ScienceFictionNewWave"
     title: "New Wave Science Fiction / 科幻新浪潮"
     url: "/wiki/concepts/sciencefictionnewwave/"
+  - key: "StrategicPlanProtectionUnderReliefPressure"
+    title: "Relief Pressure and Strategic Plan Protection / 救援压力下的战略坚守"
+    url: "/wiki/concepts/strategicplanprotectionunderreliefpressure/"
   - key: "SaaSCapitalStructureReset"
     title: "SaaS Capital Structure Reset"
     url: "/wiki/concepts/saascapitalstructurereset/"
