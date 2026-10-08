@@ -59964,9 +59964,9 @@
       "url": "/wiki/concepts/developmentalauthoritarianlegitimacy/"
     },
     "DevelopmentalIndividuality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -59974,9 +59974,16 @@
           "show": "Huberman Lab",
           "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
           "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        },
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/developmentalindividuality/"
     },
     "DeviceFormFactorFragmentation": {
@@ -92670,10 +92677,33 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/genesismission/"
     },
+    "GeneticCulpabilityProblem": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "24.捍卫雅各布：相信你是我唯一的执念 [576218441].md",
+          "key": "24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441",
+          "show": "蜜獾吃书",
+          "title": "24.捍卫雅各布：相信你是我唯一的执念",
+          "url": "/wiki/sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441/"
+        },
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/geneticculpabilityproblem/"
+    },
     "GeneticDeterminismMindsetEffects": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2045300705 [SCIM2045300705].md",
@@ -92681,9 +92711,16 @@
           "show": "Huberman Lab",
           "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
           "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        },
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/geneticdeterminismmindseteffects/"
     },
     "GeneticLineupPrivacyRisk": {
@@ -131440,6 +131477,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/kateaha/"
     },
+    "KathrynPaigeHarden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/kathrynpaigeharden/"
+    },
     "KathyHochul": {
       "episode_count": 3,
       "show_count": 2,
@@ -163931,9 +163984,9 @@
       "url": "/wiki/concepts/moralpressureadjudication/"
     },
     "MoralResponsibilityUnderDeterminism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -163948,9 +164001,16 @@
           "show": "Huberman Lab",
           "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        },
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-08",
       "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
     },
     "MoralSlanderReframing": {
@@ -185862,6 +185922,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/polybius/"
+    },
+    "PolygenicBehaviorRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9105075356 [SCIM9105075356].md",
+          "key": "how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356",
+          "show": "Huberman Lab",
+          "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+          "url": "/wiki/sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/polygenicbehaviorrisk/"
     },
     "Polymarket": {
       "episode_count": 10,
