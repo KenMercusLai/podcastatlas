@@ -4,7 +4,8 @@ type: concept
 tags: [relationships, attachment, perception, bond-maintenance]
 sources:
   - the-science-of-love-desire-and-attachment-scim1112390541
-last_updated: 2026-10-02
+  - essentials-the-science-of-love-desire-attachment-scim2867774522
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Positive partner idealization is the episode's “positive delusion” frame: co
 
 The source treats some idealization as potentially adaptive rather than automatically irrational. A partner becomes associated with warmth, calm, desire, shared narrative, and valued bodily states, helping the bond feel particular rather than interchangeable. This is a relationship-maintenance hypothesis, not evidence that inaccurate beliefs are always healthy.
 
-The boundary appears through the Gottman discussion. Positive interpretation and admiration can support a bond, while contempt converts perceived difference into superiority and disgust. Idealization must therefore remain compatible with reality testing, accountability, autonomy, and safety; it cannot justify ignoring harm or making one person the sole regulator of the other's state.
+The boundary appears through the Gottman discussion. Positive interpretation and admiration can support a bond, while contempt converts perceived difference into superiority and disgust. Idealization must therefore remain compatible with reality testing, accountability, autonomy, and safety; it cannot justify ignoring harm or making one person the sole regulator of the other's state. The Essentials edit restates this contrast without independently validating the prediction claim.
 
 ## Key Claims
 
@@ -30,17 +31,17 @@ The boundary appears through the Gottman discussion. Positive interpretation and
 
 ## Evidence
 
-- Unique valuation: [[the-science-of-love-desire-and-attachment-scim1112390541]] describes “positive delusion” as a predictor of long-term attachment.
-- Body-state association: [[the-science-of-love-desire-and-attachment-scim1112390541]] links partner valuation with access to valued autonomic states.
-- Negative counterpart: [[the-science-of-love-desire-and-attachment-scim1112390541]] contrasts bond-supporting interpretation with criticism, defensiveness, stonewalling, and especially contempt.
+- Unique valuation: [[the-science-of-love-desire-and-attachment-scim1112390541]] and [[essentials-the-science-of-love-desire-attachment-scim2867774522]] describe “positive delusion” as a predictor of long-term attachment.
+- Body-state association: [[the-science-of-love-desire-and-attachment-scim1112390541]] and [[essentials-the-science-of-love-desire-attachment-scim2867774522]] link partner valuation with access to valued autonomic states.
+- Negative counterpart: [[the-science-of-love-desire-and-attachment-scim1112390541]] and [[essentials-the-science-of-love-desire-attachment-scim2867774522]] contrast bond-supporting interpretation with criticism, defensiveness, stonewalling, and especially contempt.
 
 ## Counterevidence & Qualifications
 
-The source note does not supply effect sizes, measurement details, causal direction, or the boundary between adaptive positive bias and denial. Admiration does not require factual distortion, exclusivity, dependence, or tolerance of coercion, violence, chronic disrespect, or incompatibility. A partner's uniqueness is an experienced relationship judgment, not proof of objective superiority.
+The overlapping full and Essentials source notes do not supply effect sizes, measurement details, causal direction, or the boundary between adaptive positive bias and denial. Admiration does not require factual distortion, exclusivity, dependence, or tolerance of coercion, violence, chronic disrespect, or incompatibility. A partner's uniqueness is an experienced relationship judgment, not proof of objective superiority.
 
 ## What Changed
 
-- Established a bounded account of positive partner bias as bond maintenance while preserving reality-testing and safety limits.
+- No material change to the bounded account; the Essentials edit repeats the bond-maintenance claim and safety limits.
 
 ## Related Concepts
 

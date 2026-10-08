@@ -5,7 +5,8 @@ tags: [relationships, communication, conflict, psychology]
 sources:
   - vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv
   - the-science-of-love-desire-and-attachment-scim1112390541
-last_updated: 2026-10-02
+  - essentials-the-science-of-love-desire-attachment-scim2867774522
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ The Culture Limited episode uses the four horsemen as a compact warning vocabula
 
 Contempt is the hinge in the source's account. Criticism, defensiveness, and stonewalling can all damage repair, but contempt most directly attacks the respect and admiration that intimate repair needs. That makes the concept a bridge between communication practice and deeper relationship valuation.
 
-The Huberman episode independently repeats the four-pattern set and places it beside empathy, autonomic coordination, and positive partner interpretation. It again treats contempt as the strongest breakup or divorce warning while not supplying the study design or enough detail to convert that ranking into an individual prediction.
+The full Huberman episode independently repeats the four-pattern set and places it beside empathy, autonomic coordination, and positive partner interpretation. Its later Essentials edit condenses the same material rather than adding another independent source. Both treat contempt as the strongest breakup or divorce warning while not supplying the study design or enough detail to convert that ranking into an individual prediction.
 
 ## Key Claims
 - Criticism becomes dangerous when it attacks the person rather than naming a specific problem.
@@ -36,13 +37,13 @@ The Huberman episode independently repeats the four-pattern set and places it be
 - Contempt boundary: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] associates contempt with mockery, sarcasm, and a high-low posture.
 - Defensiveness and stonewalling: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] describes defensiveness as pushing responsibility onto the other person and stonewalling as avoiding communication.
 - Habit and prediction: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] says the horsemen become relationship-breakdown signals once they become communication habits.
-- Independent episode summary: [[the-science-of-love-desire-and-attachment-scim1112390541]] repeats all four patterns and emphasizes contempt within a broader attachment and empathy account.
+- Independent Huberman account: [[the-science-of-love-desire-and-attachment-scim1112390541]] repeats all four patterns and emphasizes contempt within a broader attachment and empathy account; [[essentials-the-science-of-love-desire-attachment-scim2867774522]] is its condensed restatement.
 
 ## Counterevidence & Qualifications
-The concept is a public-facing relationship warning frame, not a diagnostic label for a partner, an individual probability calculator, or a substitute for couple therapy. The sources do not supply prediction-study methods, base rates, effect sizes, or applicability across relationship forms. It should not be used to flatten coercion, abuse, fear, or safety risks into symmetrical "communication problems."
+The concept is a public-facing relationship warning frame, not a diagnostic label for a partner, an individual probability calculator, or a substitute for couple therapy. The full and Essentials Huberman notes overlap and should not be counted as separate corroboration. The sources do not supply prediction-study methods, base rates, effect sizes, or applicability across relationship forms. It should not be used to flatten coercion, abuse, fear, or safety risks into symmetrical "communication problems."
 
 ## What Changed
-- Added independent repetition of the four patterns and preserved contempt as a qualified strongest-warning claim.
+- No material change to the judgment; the Essentials edit repeats the four patterns and the qualified contempt warning.
 
 ## Related Concepts
 - [[GottmanMethod]] - source framework that contains the four horsemen.

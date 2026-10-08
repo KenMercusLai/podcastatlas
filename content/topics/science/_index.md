@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1474
+topic_total_pages: 1475
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3918,6 +3918,9 @@ topic_sources:
   - key: "essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420"
     title: "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang"
     url: "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+  - key: "essentials-the-science-of-love-desire-attachment-scim2867774522"
+    title: "Essentials: The Science of Love, Desire & Attachment"
+    url: "/wiki/sources/essentials-the-science-of-love-desire-attachment-scim2867774522/"
   - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
     title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"

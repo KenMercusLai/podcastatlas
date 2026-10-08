@@ -8,7 +8,8 @@ sources:
   - the-science-of-love-desire-and-attachment-scim1112390541
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
   - the-science-of-emotions-relationships-scim6339543648
-last_updated: 2026-10-02
+  - essentials-the-science-of-love-desire-attachment-scim2867774522
+last_updated: 2026-10-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,7 +25,7 @@ Security does not mean continuous perfect synchrony. Misattunement is expected; 
 
 Perel adds an adult-couple application: present conflict may reactivate older relational learning, and partners can organize around fears of abandonment or suffocation. This strengthens the case for attending to bodily state and repeated interaction without treating childhood as destiny or using attachment language to erase present conduct.
 
-The two solo Huberman episodes add the Strange Situation lineage, autonomic coordination, shared prediction, and a more explicit plasticity claim. Secure, avoidant, ambivalent or resistant, and disorganized patterns are presented as tendencies visible in separation and reunion, but not as permanent identities. Infant-caregiver bonding is described as mutual regulation of breathing, heart rate, pupil state, touch, and predictable shared ritual; adult romantic attachment can reuse this early regulatory machinery while later relationships, self-regulation, and repeated co-regulation alter how it is expressed.
+The solo Huberman material adds the Strange Situation lineage, autonomic coordination, shared prediction, and a more explicit plasticity claim. Secure, avoidant, ambivalent or resistant, and disorganized patterns are presented as tendencies visible in separation and reunion, but not as permanent identities. Infant-caregiver bonding is described as mutual regulation of breathing, heart rate, pupil state, touch, and predictable shared ritual; adult romantic attachment can reuse this early regulatory machinery while later relationships, self-regulation, and repeated co-regulation alter how it is expressed. The later Essentials edit condenses the same account and is not independent evidence.
 
 The earlier emotion-and-relationships episode sharpens the developmental starting point: an infant first experiences bodily need without a mature explanation, signals distress, and gradually links internal state to caregiver response. Gaze, vocalization, affect, touch, and reunion reliability form observable channels of that learning, while written language becomes an additional later bonding channel. This supports the regulation model without proving that any single infancy pattern determines adult personality.
 
@@ -43,16 +44,15 @@ The earlier emotion-and-relationships episode sharpens the developmental startin
 - Rupture and repair: [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] treats re-attunement after mismatch as a core feature of good-enough caregiving.
 - Later plasticity: [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] argues that therapy and vulnerable, trustworthy relationships can create emotionally significant experiences that revise established patterns.
 - Adult-couple extension: [[how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809]] connects recurring conflict to implicit memory and to abandonment/suffocation fears that can change across relationships.
-- Classification and plasticity: [[the-science-of-love-desire-and-attachment-scim1112390541]] uses [[MaryAinsworth|Mary Ainsworth]]'s separation-and-reunion categories while emphasizing that secure and insecure tendencies can change.
+- Classification and plasticity: [[the-science-of-love-desire-and-attachment-scim1112390541]] and its condensed [[essentials-the-science-of-love-desire-attachment-scim2867774522|Essentials edit]] use [[MaryAinsworth|Mary Ainsworth]]'s separation-and-reunion categories while emphasizing that secure and insecure tendencies can change.
 - Autonomic and cognitive coordination: [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] describes infant-caregiver regulation through bodily timing, touch, and predictable shared narrative, then extends those systems to adult bonds.
 - Early need-response learning: [[the-science-of-emotions-relationships-scim6339543648]] links infant bodily need, signaling, caregiver response, gaze, voice, affect, touch, separation, and reunion while warning against fixed adult labels.
 
 ## Counterevidence & Qualifications
-The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
+The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. The full love-and-attachment episode and its Essentials edit are overlapping provenance, not separate confirmation. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
 
 ## What Changed
-- Made internal-need-to-caregiver-response learning explicit as the developmental foundation of affect regulation.
-- Added gaze, vocalization, affect, touch, and reunion reliability as complementary bonding channels while preserving the plasticity boundary.
+- No material change to the synthesis; the Essentials edit restates the secure self-regulation/co-regulation balance and plasticity boundary.
 
 ## Related Concepts
 - [[EmotionalCoRegulationFit]] - adult support-fit branch of interactive regulation.

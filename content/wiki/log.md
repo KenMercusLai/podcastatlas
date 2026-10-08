@@ -32299,3 +32299,11 @@ Added source `zizhi-tongjian-hanji-239-bie-beipianle-jinwu-cangjiao-beihoude-yin
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | Essentials: The Science of Love, Desire & Attachment
+
+Added source `essentials-the-science-of-love-desire-attachment-scim2867774522`; resynthesized [[MaryAinsworth]], [[AttachmentAffectRegulation]], [[AutonomicRomanticCoordination]], [[PositivePartnerIdealization]], [[RelationshipFourHorsemen]], [[RelationshipSelfExpansion]], and [[LibidoMultisystemRegulation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: secure attachment combines co-regulation with the capacity to self-soothe, while love, desire, partner valuation, conflict, self-expansion, and libido depend on interacting developmental, autonomic, relational, hormonal, and motivational systems rather than one brain area or one chemical lever. No settled contradiction was adopted. This Essentials episode substantially condenses [[the-science-of-love-desire-and-attachment-scim1112390541|the full-length episode]], so it is overlapping provenance rather than independent corroboration; predictive attachment and contempt claims, autonomic and neuroimaging mechanisms, narrative synchrony, and maca, Tongkat Ali, tribulus, hormone, dopamine, and dosage remarks remain source-scoped. The broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused pages carry the bounded addition without redundant recomposition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,042 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
