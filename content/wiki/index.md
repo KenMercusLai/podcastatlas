@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd.md) — 陈平让周勃居相位之首以承认诛吕之功并降低自身暴露，袁盎促文帝重立君臣礼数，文帝同时废除亲属连坐并确立刘启的太子次序。
 - [《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）](sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso.md) — 赵佗以吕后时期的禁贸、扣使与毁墓杀亲传闻解释决裂，接受文帝恢复关系后去除对外帝号、重申臣属进贡，同时以土地甲士和高祖旧约维护南越实力与自治边界。
 - [《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）](sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg.md) — 文帝以代国旧臣重组军权、九卿与信息渠道后公开问政；周勃请辞、陈平论丞相统筹职责，显示新君收权、功臣退场与专业分工的交叠。
 - [《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）](sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc.md) — 标题虽指向周勃，正文实际讲文帝以修墓优亲、撤军让步、战争成本与名分压力推动赵佗重回汉朝等级秩序。
@@ -17112,6 +17113,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [主动让位式风险转移 / Strategic Position Yielding](concepts/StrategicPositionYielding.md) — 通过让出正式位次承认他人功劳，同时保留参与能力并降低自身在权力过渡中的可见风险。
 - [Relational Context Collapse / 关系语境坍缩](concepts/RelationalContextCollapse.md) — 公共互联网交流丢失具体关系中的身份、共同历史、角色与受众别共识。
 - [Public Persona Flattening / 公共人格压平](concepts/PublicPersonaFlattening.md) — 一个人面向异质公众时被要求维持单一、稳定且可标签化的公开人格。
 - [Platform Vocal-Minority Distortion / 平台发声少数失真](concepts/PlatformVocalMinorityDistortion.md) — 高活跃、强硬或极端参与者塑造可见平台气质，但不必代表整体用户。

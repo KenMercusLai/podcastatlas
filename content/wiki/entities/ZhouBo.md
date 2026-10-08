@@ -15,6 +15,7 @@ sources:
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
   - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg
+  - zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd
 last_updated: 2026-10-09
 ---
 
@@ -28,6 +29,8 @@ The earlier sources place Zhou Bo among [[LiuBang|刘邦]]'s old officers: he em
 
 The northern-campaign notes place Zhou Bo in the suppression of [[ChenXiRebellion|陈豨之乱]], including Mayi and wider Dai-region operations. They conflict over whether Zhou Bo or [[FanKuai|樊哙]] killed Chen Xi, so that credit remains source-scoped.
 
+[[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] now supplies the immediate post-accession status settlement. [[ChenPing|陈平]] asks to rank below Zhou because Zhou's anti-Lü merit is greater, after which Zhou becomes right chancellor and receives further reward. The episode then shows the liability of that visibility: Liu Heng's deferential leave-taking encourages Zhou's pride until [[YuanAngWesternHan|袁盎]] argues that merit does not erase ruler-minister hierarchy. Liu Heng adopts a more solemn posture, and Zhou becomes apprehensive. The conduct and change in ritual are supported within the source; Chen's intent to shift danger onto Zhou remains interpretive.
+
 Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he reportedly received visiting Hedong officials in armor and with an armed household because he feared being killed. A treason accusation then led to arrest, interrogation, prison humiliation, and a family bribe for procedural advice. The episode says intervention involving [[YuanAngWesternHan|袁盎]], [[BoZhaoWesternHan|薄昭]], and [[BaoJi|薄太后]] helped secure release; its larger interpretation is that Zhou Bo's surviving prestige after the Lü crisis made him a ruler-security problem even outside office.
 
 [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg|Hanji 209 part 1]] supplies an earlier retreat from the right chancellorship. After Liu Heng shifts military command and major ministerial channels toward trusted former Dai personnel, he publicly asks Zhou Bo for judicial and fiscal totals that Zhou Bo cannot provide. Chen Ping instead distinguishes specialist data from chancellorial coordination. The host treats the exchange as a deliberate signal that Zhou Bo's information and operating power had narrowed, but the questions and answers do not prove that motive. Warned that restoration merit, prestige, and reward could become dangerous, Zhou Bo resigns and Chen Ping becomes sole chancellor.
@@ -37,7 +40,7 @@ Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he rep
 ## Key Characteristics
 
 - Founding officer and veteran commander whose record spans morale work in the Hanzhong settlement, Gaixia, and northern rebellion suppression.
-- Both early accuser and later survival partner of Chen Ping.
+- Both early accuser and later survival partner of Chen Ping, whose concession places Zhou in the senior and more visible chancellorial position.
 - Major participant in the post-Lü restoration of the Liu line.
 - Retired meritorious minister whose defensive behavior becomes material for a treason prosecution.
 - Prisoner whose experience exposes the gap between former military command and custodial power.
@@ -54,6 +57,10 @@ Command and campaign record:
 Veteran politics and Chen Ping:
 - [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] and [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] present the veteran complaint and its skeptical re-reading.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] and [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|part 4]] supply later cooperation across lethal transitions.
+- [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] gives Chen's public merit rationale for yielding precedence and the resulting chancellorial order.
+
+Merit and ruler-minister hierarchy:
+- [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] reports Liu Heng's deferential send-off, Zhou's visible pride, Yuan Ang's correction, and the emperor's subsequent restoration of a more solemn court posture.
 
 Late accusation and imprisonment:
 - [[zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-2-lkwoq2iiy2qkc3alfdyht_cxl5n3|Hanji 215 part 2]] supplies the fear, armed reception, accusation, imprisonment, defense channels, and release.
@@ -64,13 +71,13 @@ Removal from central office:
 
 ## Qualifications
 
-The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 209 part 1 does not prove that Liu Heng staged the questions to humiliate Zhou Bo, that the reported six-of-nine personnel pattern was complete, or that one motive alone caused the resignation. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his later removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
+The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 208 part 1 does not prove that Chen yielded precedence chiefly to transfer risk, that Liu Heng's initial courtesy alone caused Zhou's pride, or that Yuan Ang's status distinction exhausts Zhou's service. Hanji 209 part 1 does not prove that Liu Heng staged the questions to humiliate Zhou Bo, that the reported six-of-nine personnel pattern was complete, or that one motive alone caused the resignation. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his later removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
 
 ## What Changed
 
-- Added Zhou Bo's first resignation after public administrative questioning and a warning about the danger of accumulated prestige.
-- Distinguished military and information-channel transfer from the unproven claim that Liu Heng designed the exchange as humiliation.
-- Separated this first resignation from the later 177 BCE dismissal and return to the fief.
+- Added the initial senior chancellorial settlement based on Zhou Bo's anti-Lü merit.
+- Added Yuan Ang's intervention and the ritual reset that turns visible merit into renewed hierarchical caution.
+- Kept Chen Ping's risk-transfer motive separate from the observable concession of precedence.
 
 ## Relationships
 
@@ -85,3 +92,5 @@ The source set is a sequence of popular-history episode notes, not a complete bi
 - [[GuanYing|灌婴]] - successor chancellor in the office reorganization reported by Hanji 213 part 1.
 - [[NewRulerCoalitionConstraint|新君拥立联盟约束]] - consolidation pattern in which a new ruler gradually reduces dependence on accession-making veterans.
 - [[SecondInCommandRoleFit|二把手角色适配]] - contrasting role case because Chen Ping answers the same test and becomes sole chancellor.
+- [[StrategicPositionYielding|主动让位式风险转移]] - Chen Ping's concession makes Zhou's merit and political visibility coincide.
+- [[ImperialRitualDistance|君臣礼制距离]] - court posture through which Liu Heng reasserts hierarchy after initial deference.

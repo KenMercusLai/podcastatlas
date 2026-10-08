@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10023
+wiki_total_pages: 10024
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1529,9 +1529,6 @@ wiki_pages:
   - key: "CollaborationVsCollusion"
     title: "Collaboration vs. Collusion"
     url: "/wiki/concepts/collaborationvscollusion/"
-  - key: "CollateralPunishmentAndGuiltByAssociation"
-    title: "Collateral Punishment And Guilt By Association"
-    url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
   - key: "CollectibleDropScarcity"
     title: "Collectible Drop Scarcity"
     url: "/wiki/concepts/collectibledropscarcity/"
@@ -3290,6 +3287,9 @@ wiki_pages:
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"
+  - key: "CollateralPunishmentAndGuiltByAssociation"
+    title: "牵连与连坐 / Collateral Punishment and Guilt by Association"
+    url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
   - key: "CoreStandingGroundPreservation"
     title: "立身之本保全 / Core Standing-Ground Preservation"
     url: "/wiki/concepts/corestandinggroundpreservation/"

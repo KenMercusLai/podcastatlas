@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86
   - zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-2-lot-wjasnc4esi34rv8cs6p7g1iq
   - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg
+  - zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd
 last_updated: 2026-10-09
 ---
 
@@ -24,15 +25,17 @@ The same constraint appears earlier as a sequencing problem. Jia Yi's proposed c
 
 Constraint can also decline as a ruler builds alternative command, personnel, and information channels. In [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg|Hanji 209 part 1]], Liu Heng places trusted former Dai associates in military and senior ministerial roles, then publicly questions accession-maker [[ZhouBo|周勃]] about data now held by specialist offices. Zhou Bo's resignation follows, while [[ChenPing|陈平]] preserves a role by explaining the chancellor's coordinating value. The staffing and resignation are evidence of institutional rebalancing; deliberate humiliation and full “hollowing out” remain the host's interpretation.
 
+[[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] supplies the immediately preceding status-management layer. Chen Ping lets Zhou Bo occupy the senior chancellorial position in recognition of anti-Lü merit, while Liu Heng initially performs unusual deference toward Zhou. [[YuanAngWesternHan|袁盎]] then argues that merit must not erase imperial hierarchy, and Liu Heng resets court demeanor. The sequence shows coalition constraint being managed first through rank, reward, and ritual before the later personnel and information rebalancing; Chen's risk-transfer motive remains inferred.
+
 ## Key Claims
 
 - Formal accession does not immediately produce independent control over the coalition that secured it.
 - Reformers become vulnerable when their proposals simultaneously threaten royal access and veteran interests.
 - A ruler's nonimplementation can reflect coalition capacity as well as disagreement or indifference.
-- Reassignment can reduce immediate conflict while also removing expertise from the decision center.
-- Claims that removal was protective require evidence distinct from the observable fact of removal.
+- Reassignment can reduce immediate conflict while removing expertise, and claims that it was protective require evidence distinct from the observable fact of removal.
 - A coherent long-term institutional program can still fail as immediate policy when reform scope exceeds a new ruler's coalition capacity.
 - Coalition constraint can ease when the ruler develops parallel command, personnel, and information channels rather than confronting accession-makers all at once.
+- Rank, reward, and court ritual can manage an accession coalition before formal office reduction becomes feasible.
 
 ## Evidence
 
@@ -48,14 +51,18 @@ Comprehensive reform and sequencing:
 Institutional rebalancing:
 - [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg|Hanji 209 part 1]] links trusted military and ministerial appointments, specialist control of operational data, public questioning, and Zhou Bo's resignation as a source-scoped sequence of reduced ruler dependence.
 
+Status and ritual management:
+- [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] links Chen Ping's concession, Zhou Bo's reward and visible pride, Yuan Ang's remonstrance, and Liu Heng's more solemn posture before later institutional rebalancing.
+
 ## Counterevidence & Qualifications
 
-The episodes supply political reconstructions, not direct proof of every actor's motive. They do not establish a complete list of opponents, the princes' exact residence and alliance structure, or whether Liu Heng's later decision was protective, tactical, or simply a retreat. Hanji 210 part 2 does not prove that every proposed reform was premature, that formal procedure prohibited Jia Yi's rapid promotion, or that coalition constraint alone explains nonadoption. Hanji 209 part 1 does not independently verify the six-of-nine staffing ratio, prove that the public questions were staged humiliation, or exclude administrative competence and voluntary caution as explanations for Zhou Bo's resignation. The concept therefore captures a plausible sequencing mechanism while keeping specific intentions and counterfactuals source-scoped.
+The episodes supply political reconstructions, not direct proof of every actor's motive. They do not establish a complete list of opponents, the princes' exact residence and alliance structure, or whether Liu Heng's later decision was protective, tactical, or simply a retreat. Hanji 208 part 1 does not prove that Chen Ping yielded rank primarily to transfer danger, that Liu Heng's early courtesy caused Zhou's pride, or that the ritual reset alone altered the coalition balance. Hanji 210 part 2 does not prove that every proposed reform was premature, that formal procedure prohibited Jia Yi's rapid promotion, or that coalition constraint alone explains nonadoption. Hanji 209 part 1 does not independently verify the six-of-nine staffing ratio, prove that the public questions were staged humiliation, or exclude administrative competence and voluntary caution as explanations for Zhou Bo's resignation. The concept therefore captures a plausible sequencing mechanism while keeping specific intentions and counterfactuals source-scoped.
 
 ## What Changed
 
-- Added the reverse mechanism: a ruler can reduce accession-coalition dependence by building alternative command, personnel, and information channels.
-- Kept the observable staffing-and-resignation sequence separate from the host's “hollowing out” and humiliation interpretation.
+- Added rank, reward, and ritual as early tools for managing the accession coalition before office reduction.
+- Connected Chen Ping's concession and Yuan Ang's remonstrance to the later personnel-and-information rebalancing.
+- Preserved the boundary between observable status changes and inferred private strategies.
 
 ## Related Concepts
 
@@ -65,3 +72,5 @@ The episodes supply political reconstructions, not direct proof of every actor's
 - [[TransitionFitOverMerit|过渡期适任优先于功劳]] - adjacent succession logic in which political stabilization temporarily outweighs maximal reform capacity.
 - [[HanInheritsQinSystem|汉承秦制]] - inherited institutional baseline that makes the scope and sequencing of early-Han reform politically consequential.
 - [[SecondInCommandRoleFit|二把手角色适配]] - adjacent role-allocation problem because Chen Ping preserves coordinating value while specialist authority moves elsewhere.
+- [[StrategicPositionYielding|主动让位式风险转移]] - minister-side response that lowers visibility without abandoning government.
+- [[ImperialRitualDistance|君臣礼制距离]] - ruler-side use of embodied hierarchy to limit the public meaning of veteran merit.

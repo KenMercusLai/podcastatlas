@@ -33116,3 +33116,11 @@ Added source `zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）
+
+Added source `zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd`; created [[StrategicPositionYielding|主动让位式风险转移]]; resynthesized [[ZhouBo|周勃]], [[YuanAngWesternHan|袁盎]], [[NewRulerCoalitionConstraint|新君拥立联盟约束]], [[SecondInCommandRoleFit|二把手角色适配]], and [[ImperialRitualDistance|君臣礼制距离]] from their complete preserved evidence inventories before appending the new source once; and migrated and resynthesized [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]] from its complete bounded input. Core synthesis: Chen Ping's concession of chancellorial precedence publicly recognizes Zhou Bo's anti-Lü merit while plausibly lowering Chen's exposure; Yuan Ang's remonstrance and Liu Heng's ritual reset show a new ruler managing accession veterans through rank, reward, and embodied hierarchy before later office rebalancing; and the repeal of innocent-kin penalties makes individualized responsibility an explicit counter-principle to collective liability. No settled contradiction was adopted. Chen Ping's risk-transfer intent, Liu Heng's precise fear, the four-sons teaser, exact offices and dates, legal scope, and succession dialogue remain source-scoped. “沈义济” was normalized to [[ShenYiji|审食其]] from its office and relationship context rather than made a duplicate identity. Broad [[LiuHeng|汉文帝刘恒]], [[ChenPing|陈平]], and [[HanJingdi|汉景帝]] pages were kept closed because the bounded additions are represented in focused entity and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,145 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

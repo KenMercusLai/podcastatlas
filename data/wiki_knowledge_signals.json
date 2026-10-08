@@ -46316,6 +46316,78 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "CollateralPunishmentAndGuiltByAssociation": {
+      "episode_count": 9,
+      "show_count": 2,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
+          "key": "zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
+          "key": "zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》907丨所有的病都是你的心病",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩 [liuPvALcgHtaS2iBFyJrTDz6CTG7].md",
+          "key": "zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣 [lh23XJ9QXvubj5rLFA9FXMDdGbiu].md",
+          "key": "zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言 [lveaQKLo7OnCMQUdGmDk7l03qhSF].md",
+          "key": "zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1） [lgmjaPC2eecEfbDsHnPenzFcv6GA].md",
+          "key": "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga/"
+        },
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
+    },
     "CollateralSuccessionDisorderRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -119603,9 +119675,9 @@
       "url": "/wiki/concepts/imperialrisedeclinecycle/"
     },
     "ImperialRitualDistance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -119627,6 +119699,13 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
         }
       ],
       "updated": "2026-10-01",
@@ -172430,9 +172509,9 @@
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
     "NewRulerCoalitionConstraint": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1） [lpQ3wokREphGsJYlhpgNJ4H_vA86].md",
@@ -172454,6 +172533,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
         }
       ],
       "updated": "2026-10-09",
@@ -213253,9 +213339,9 @@
       "url": "/wiki/entities/secondhexicampaignwesternhan/"
     },
     "SecondInCommandRoleFit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
@@ -213277,6 +213363,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
         }
       ],
       "updated": "2026-10-09",
@@ -227566,6 +227659,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/strategicplanprotectionunderreliefpressure/"
+    },
+    "StrategicPositionYielding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/strategicpositionyielding/"
     },
     "StrategicRoyalKingdomBuffer": {
       "episode_count": 1,
@@ -265908,9 +266017,9 @@
       "url": "/wiki/entities/yuananeasternhan/"
     },
     "YuanAngWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》240｜ 汉景帝哭诉：匈奴和太后，杀了我的鹰！ [lvl4T-2eTswvI3tS9gBvor5Dh8Mi].md",
@@ -265953,6 +266062,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-1-ln6bbls0skoqrhutd3rm-kznfpjm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
         }
       ],
       "updated": "2026-10-09",
@@ -272378,9 +272494,9 @@
       "url": "/wiki/entities/zhongliyieasternhan/"
     },
     "ZhouBo": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -272458,6 +272574,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1） [lmW61vRIwSknNYeX3cdrbdLuSafD].md",
+          "key": "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
         }
       ],
       "updated": "2026-10-09",
