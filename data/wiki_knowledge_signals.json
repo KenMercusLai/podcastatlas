@@ -2151,6 +2151,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/aicybersecurityvaluationgap/"
     },
+    "AIDataAggregationPrivacyRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261008_1008_MP_TECH_pod_128 [tech_20261008_1008_MP_TECH_pod_128].md",
+          "key": "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+          "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/aidataaggregationprivacyrisk/"
+    },
     "AIDataBrokerDemand": {
       "episode_count": 1,
       "show_count": 1,
@@ -131569,6 +131585,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/kaytye/"
     },
+    "KayleeRobbins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261008_1008_MP_TECH_pod_128 [tech_20261008_1008_MP_TECH_pod_128].md",
+          "key": "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+          "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/kayleerobbins/"
+    },
     "Kearney": {
       "episode_count": 1,
       "show_count": 1,
@@ -159015,6 +159047,50 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/messagerelaypoliticalpower/"
     },
+    "MetaAI": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260219_0219_MP_TECH_pod_128 [tech_20260219_0219_MP_TECH_pod_128].md",
+          "key": "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's big bet on superintelligence",
+          "url": "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261008_1008_MP_TECH_pod_128 [tech_20261008_1008_MP_TECH_pod_128].md",
+          "key": "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+          "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/metaai/"
+    },
     "MetaAwarenessResponseSpace": {
       "episode_count": 1,
       "show_count": 1,
@@ -168490,6 +168566,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/netscape/"
+    },
+    "NetworkedFamilyPrivacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261008_1008_MP_TECH_pod_128 [tech_20261008_1008_MP_TECH_pod_128].md",
+          "key": "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+          "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/concepts/networkedfamilyprivacy/"
     },
     "NetworkedMovementIdentity": {
       "episode_count": 1,
@@ -234357,6 +234449,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/tinnitussignalboundary/"
+    },
+    "Tinybeans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261008_1008_MP_TECH_pod_128 [tech_20261008_1008_MP_TECH_pod_128].md",
+          "key": "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+          "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-08",
+      "url": "/wiki/entities/tinybeans/"
     },
     "Tiresias": {
       "episode_count": 1,

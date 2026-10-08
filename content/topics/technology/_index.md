@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3370
+topic_total_pages: 3372
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -367,6 +367,9 @@ topic_concepts:
   - key: "AICybersecurityValuationGap"
     title: "AI Cybersecurity Valuation Gap"
     url: "/wiki/concepts/aicybersecurityvaluationgap/"
+  - key: "AIDataAggregationPrivacyRisk"
+    title: "AI Data Aggregation Privacy Risk"
+    url: "/wiki/concepts/aidataaggregationprivacyrisk/"
   - key: "AIDataBrokerDemand"
     title: "AI Data Broker Demand"
     url: "/wiki/concepts/aidatabrokerdemand/"
@@ -9339,6 +9342,9 @@ topic_sources:
   - key: "tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128"
     title: "Here's how to prep for a job interview with AI"
     url: "/wiki/sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128/"
+  - key: "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128"
+    title: "How a Meta AI prompt changed one mom’s approach to online privacy"
+    url: "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
   - key: "tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128"
     title: "How AI nudify apps are proliferating on social media"
     url: "/wiki/sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128/"

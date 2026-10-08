@@ -32551,3 +32551,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-08] ingest | How a Meta AI prompt changed one mom’s approach to online privacy
+
+Added source `tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128`; created [[KayleeRobbins]], [[Tinybeans]], [[NetworkedFamilyPrivacy]], and [[AIDataAggregationPrivacyRisk]]; and migrated and resynthesized [[MetaAI|Meta AI]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: family privacy is jointly produced across relatives, friends, groups, and platforms, while AI changes practical exposure by assembling scattered personal details within seconds; prospective restraint, app-permission limits, and restricted family sharing reduce risk but cannot retract every existing fragment. No settled contradiction was adopted. Meta's statement that the interaction “missed the mark,” the information's exact provenance, the retrieval or inference mechanism, the reported fix, and the episode's “Muse” product naming remain source-scoped or unresolved. Broad [[Meta]], [[Facebook]], and [[MarketplaceTech]] pages were kept closed because the bounded addition is represented in the focused source, person, product, and privacy pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,074 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

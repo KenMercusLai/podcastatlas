@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12760
+wiki_total_pages: 12762
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "KayTye"
     title: "Kay Tye"
     url: "/wiki/entities/kaytye/"
+  - key: "KayleeRobbins"
+    title: "Kaylee Robbins"
+    url: "/wiki/entities/kayleerobbins/"
   - key: "Kearney"
     title: "Kearney"
     url: "/wiki/entities/kearney/"

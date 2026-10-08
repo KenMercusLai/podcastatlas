@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12760
+wiki_total_pages: 12762
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "TingWong"
     title: "Ting Wong"
     url: "/wiki/entities/tingwong/"
+  - key: "Tinybeans"
+    title: "Tinybeans"
+    url: "/wiki/entities/tinybeans/"
   - key: "Tipsy"
     title: "Tipsy"
     url: "/wiki/entities/tipsy/"

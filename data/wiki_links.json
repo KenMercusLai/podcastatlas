@@ -4579,6 +4579,10 @@
     "title": "AI Cybersecurity Valuation Gap",
     "url": "/wiki/concepts/aicybersecurityvaluationgap/"
   },
+  "AIDataAggregationPrivacyRisk": {
+    "title": "AI Data Aggregation Privacy Risk",
+    "url": "/wiki/concepts/aidataaggregationprivacyrisk/"
+  },
   "AIDataBrokerDemand": {
     "title": "AI Data Broker Demand",
     "url": "/wiki/concepts/aidatabrokerdemand/"
@@ -46799,6 +46803,10 @@
     "title": "Kay Tye",
     "url": "/wiki/entities/kaytye/"
   },
+  "KayleeRobbins": {
+    "title": "Kaylee Robbins",
+    "url": "/wiki/entities/kayleerobbins/"
+  },
   "KeZiHost": {
     "title": "柯子",
     "url": "/wiki/entities/kezihost/"
@@ -59126,6 +59134,10 @@
   "NetscapePlatformEcosystem": {
     "title": "Netscape Platform Ecosystem",
     "url": "/wiki/concepts/netscapeplatformecosystem/"
+  },
+  "NetworkedFamilyPrivacy": {
+    "title": "Networked Family Privacy",
+    "url": "/wiki/concepts/networkedfamilyprivacy/"
   },
   "NetworkedMovementIdentity": {
     "title": "Networked Movement Identity",
@@ -82463,6 +82475,10 @@
     "title": "Tinnitus Signal Boundary",
     "url": "/wiki/concepts/tinnitussignalboundary/"
   },
+  "Tinybeans": {
+    "title": "Tinybeans",
+    "url": "/wiki/entities/tinybeans/"
+  },
   "Tipsy": {
     "title": "Tipsy",
     "url": "/wiki/entities/tipsy/"
@@ -99710,6 +99726,10 @@
   "tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128": {
     "title": "AI spending takes center stage ahead of midterms",
     "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+  },
+  "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128": {
+    "title": "How a Meta AI prompt changed one mom’s approach to online privacy",
+    "url": "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

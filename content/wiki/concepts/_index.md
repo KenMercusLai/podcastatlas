@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9947
+wiki_total_pages: 9949
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "AICybersecurityValuationGap"
     title: "AI Cybersecurity Valuation Gap"
     url: "/wiki/concepts/aicybersecurityvaluationgap/"
+  - key: "AIDataAggregationPrivacyRisk"
+    title: "AI Data Aggregation Privacy Risk"
+    url: "/wiki/concepts/aidataaggregationprivacyrisk/"
   - key: "AIDataBrokerDemand"
     title: "AI Data Broker Demand"
     url: "/wiki/concepts/aidatabrokerdemand/"

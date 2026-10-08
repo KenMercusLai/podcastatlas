@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How a Meta AI prompt changed one mom’s approach to online privacy](sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128.md) — Marketplace Tech interview on networked family privacy, machine-speed aggregation of scattered personal data, child-identification limits, app permissions, and restricted family sharing.
 - [How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden](sources/how-genes-shape-your-risk-taking-morals-dr-kathryn-paige-harden-scim9105075356.md) — Huberman Lab interview on polygenic behavioral risk, adolescence, developmental individuality, genetic essentialism, responsibility, punishment, and forgiveness.
 - [36 重塑历史的巨商：“买下一个皇帝”的富格尔vs红顶商人](sources/36-zhongsu-lishi-de-jushang-maixia-yige-huangdi-de-fugeer-vs-hongding-shangren-lidk1s7asdtc0tzgprcb1ghnkixr.md) — 怪东西以富格尔、沈万三和胡雪岩比较巨商如何把财富转成政治影响，又如何被权力依赖、危机与后世叙事重塑。
 - [095 春节档上映？深入解析《镖人》原著：最好的武侠漫](sources/095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy.md) — 纸醉金迷FM从隋末大漠、赏金猎人结构、刀马的行为侠义、漫画叙事节奏及动画和电影的媒介差异解析《镖人》。
@@ -16955,8 +16956,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hasdrubal (Third Punic War) / 哈斯德鲁巴（第三次布匿战争）](entities/HasdrubalThirdPunicWar.md) — Final Carthaginian commander presented as both an effective defender and coercive siege ruler.
 - [George Eliot / 乔治·艾略特](entities/GeorgeEliot.md) — 以《米德尔马契》把外省婚姻、女性志向与政治、医疗、宗教和经济变迁连接起来的作家、翻译家与评论家。
 - [Middlemarch / 《米德尔马契》](entities/Middlemarch.md) — 通过婚姻、职业、阶层与改革描写1829—1832年前后英国外省生活的小说。
+- [Kaylee Robbins](entities/KayleeRobbins.md) — Parent and creator whose Meta AI experience prompted stricter child-identification, upload, permission, and family-sharing boundaries.
+- [Tinybeans](entities/Tinybeans.md) — Restricted family photo-sharing and journaling service used by Kaylee Robbins under a disclosed paid partnership.
 
 ## Concepts
+- [Networked Family Privacy](concepts/NetworkedFamilyPrivacy.md) — Family-privacy framework in which exposure is jointly produced across relatives, friends, groups, archives, and platforms.
+- [AI Data Aggregation Privacy Risk](concepts/AIDataAggregationPrivacyRisk.md) — Privacy risk created when AI rapidly connects scattered personal facts that were previously costly to assemble.
 - [Polygenic Behavior Risk](concepts/PolygenicBehaviorRisk.md) — Framework separating many-variant behavioral liability from single-gene, individual-destiny, and moral-identity claims.
 - [Merchant Political-Power Conversion / 巨商的财富—权力转换](concepts/MerchantPoliticalPowerConversion.md) — 私人财富经由信贷、军需、职位、特权和精英关系转成政治影响，同时增加对权力的依赖与风险暴露。
 - [Wartime Camp Command Authority / 战备营垒指挥权](concepts/WartimeCampCommandAuthority.md) — 战备营垒通过正式入营、行动与军礼规则维持即时指挥可信度，而最高文官权力以接受程序而非索取个人豁免强化授权。
