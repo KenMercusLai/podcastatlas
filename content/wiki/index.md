@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》212｜贾谊《论积贮疏》与重农主张（2）](sources/zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1.md) — 贾谊把粮食积贮连接到灾荒救济、军需、社会秩序与政权安全；文帝籍田、减租和废除言论罪的因果归属保留来源边界。
 - [9 历史小说内外的曾国藩](sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza.md) — 怪东西借唐浩明《曾国藩》讨论历史小说的公众入口、史实与虚构边界，并把曾国藩的湘军组织、儒学资源和成功学接受放回具体历史条件。
 - [Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve](sources/02026-heggli-keats-csank-podcast-v2.md) — Long Now episode connecting NEVCAN's ten-minute mountain observations, bristlecone paleoclimate records, long-term scientific stewardship, and Jonathan Keats's variable living calendar and public clock.
 - [300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？](sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld.md) — 独树不成林从公众知名度、课堂选读、专门研究、金句摘录与一战传播之间的落差，提出《查拉图斯特拉如是说》的读者与整体解释问题。
@@ -4205,6 +4206,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [《论积贮疏》 / Memorial on Accumulation and Storage](entities/LunJiZhuShu.md) — 贾谊把衣食、农业生产与粮食储备连接到救荒、军需和政权韧性的西汉奏疏。
 - [Hasdrubal Barca / 哈斯德鲁巴·巴卡](entities/HasdrubalBarca.md) — Hannibal's brother whose Spanish command and attempted reinforcement of Italy end in defeat and death at the Metaurus.
 - [Mago Barca / 马戈·巴卡](entities/MagoBarca.md) — Hannibal's younger brother, defeated by Scipio at Ilipa before continuing resistance in northern Italy.
 - [Battle of Ibera / 伊贝拉战役](entities/BattleOfIbera.md) — Roman victory that blocks Hasdrubal's first attempt to reinforce Hannibal after Cannae.
@@ -17099,6 +17101,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [粮食储备即国家能力 / Grain Reserves as State Capacity](concepts/GrainReservesAsStateCapacity.md) — 把粮食库存理解为家庭生存、救荒、军需与政治秩序的可调用能力。
 - [Historical Fiction as a Public Gateway / 历史小说作为公众入口](concepts/HistoricalFictionPublicGateway.md) — 小说、影视和游戏以人物与叙事降低历史进入门槛，但不因此替代史学或免除事实、文学与伦理批评。
 - [Personal-Network Military Organization / 私人网络型军事组织](concepts/PersonalNetworkMilitaryOrganization.md) — 以亲缘、地缘、师友和上下级依附组织招募与忠诚，在危机中提高凝聚力又制造中央控制风险。
 - [Context-Bound Success Narrative / 情境约束下的成功叙事](concepts/ContextBoundSuccessNarrative.md) — 区分可借鉴的日常实践与资源、职位、网络、危机和历史机会共同造成的可见成就。

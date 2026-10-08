@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10018
+wiki_total_pages: 10019
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "GraceDebtLoyaltyPressure"
     title: "恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure"
     url: "/wiki/concepts/gracedebtloyaltypressure/"
+  - key: "GrainReservesAsStateCapacity"
+    title: "粮食储备即国家能力 / Grain Reserves as State Capacity"
+    url: "/wiki/concepts/grainreservesasstatecapacity/"
   - key: "GenderedConsortScapegoating"
     title: "红颜祸水式替罪叙事 / Gendered Consort Scapegoating"
     url: "/wiki/concepts/genderedconsortscapegoating/"

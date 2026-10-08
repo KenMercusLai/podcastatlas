@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12838
+wiki_total_pages: 12839
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "LiaozhaiZhiyi"
     title: "《聊斋志异》"
     url: "/wiki/entities/liaozhaizhiyi/"
+  - key: "LunJiZhuShu"
+    title: "《论积贮疏》 / Memorial on Accumulation and Storage"
+    url: "/wiki/entities/lunjizhushu/"
   - key: "LongevitySwordGuLong"
     title: "《长生剑》 / The Longevity Sword"
     url: "/wiki/entities/longevityswordgulong/"

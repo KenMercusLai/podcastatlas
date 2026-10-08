@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui
   - zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k
   - zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -33,6 +34,8 @@ The late-[[HanJingdi|汉景帝]] branch broadens the policy from merchant status
 
 The same hierarchy can fail when symbolic status and material incentives diverge. Chao Cuo argues that law may honor farmers while real returns still leave cultivators exposed to irregular levies, forced sales, debt, and land loss and allow merchants to profit from storage and urgent demand. His proposed correction is not status rhetoric alone: grain deliveries earn rank or penal redemption, fill frontier and local stores, and are intended eventually to support lower farm taxes. [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] strengthens the claim that agrarian preference needs material incentives, while its negative merchant account remains an attributed political argument rather than a complete account of exchange.
 
+Hanji 212 adds Jia Yi's earlier reserve-security rationale. [[LunJiZhuShu|《论积贮疏》]] links a small producer base and thin household and state stores to famine, military-supply failure, disorder, and rebellion, then proposes redirecting craft and commercial labor toward farming. This strengthens the case for agriculture as food-security infrastructure but also sharpens the qualification: [[GrainReservesAsStateCapacity|reserve capacity]] depends on production, yet tools, storage, transport, and exchange are themselves partly nonfarm functions. The policy question is therefore how to secure staple production and reserves, not whether every secondary livelihood can be removed without cost.
+
 ## Key Claims
 
 - The policy raises agriculture as the favored productive base while lowering merchants' social and political standing.
@@ -41,7 +44,7 @@ The same hierarchy can fail when symbolic status and material incentives diverge
 - Ming fabric restrictions show that anti-merchant hierarchy can be enforced through family-level status coding, not only occupational law.
 - Merchants can be devalued even though they lower trade, storage, and circulation costs for producers and buyers.
 - Anti-merchant hierarchy can push wealth-seeking toward political access and become concrete through monopoly, special taxation, confiscation, and rewarded denunciation.
-- Agrarian priority can constrain officials who divert labor from subsistence production and can address adverse farmer incentives through rank, legal relief, public reserves, and eventual tax reduction.
+- Agrarian priority can constrain labor diversion and address adverse farmer incentives, but reserve security also depends on nonfarm tools, storage, transport, and exchange.
 
 ## Evidence
 
@@ -55,16 +58,17 @@ The same hierarchy can fail when symbolic status and material incentives diverge
 - Later elite suspicion: [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] cites Wang Anshi's complaint against merchants as a Song comparison showing persistent distrust despite commercial tax revenue.
 - Agrarian labor protection: [[zizhi-tongjian-hanji-246-jinwu-cangjiao-de-bizu-zhongyu-dangshang-le-huangdi-li5x4mkncdcoxb_xacynjh1wc__k|Hanji 246]] records Jingdi's final farming and sericulture instruction and punishment for officials who mobilize popular labor to extract gold and jewels.
 - Incentive correction: [[zizhi-tongjian-hanji-223-chaocuo-weishenme-yao-quan-wendi-maiguan-huan-liangshi-lhiu5jwfmng46zjxjga652pd5_td|Hanji 223]] says Chao Cuo responds to the gap between legal status and actual return through grain-for-rank, penal redemption, reserve targets, and intended tax relief.
+- Reserve-security rationale: [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1|Hanji 212]] connects thin production and stores to famine, military failure, disorder, and rebellion.
+- Occupational transfer: [[zizhi-tongjian-hanji-212-jiayi-lun-jizhu-shu-yu-zhongnong-zhuzhang-2-lpdh1bl4etefwusbbl2q4ytmrda1|Hanji 212]] attributes to Jia Yi a proposal to move craft and commercial workers into cultivation and says Liu Heng later performs imperial plowing and remits half the year's land tax.
 
 ## Counterevidence & Qualifications
 
-The page does not claim that all commerce was uniformly suppressed or that merchants lacked wealth. Hanji 179 explicitly says commerce is difficult to stop by decree, while Hanji 400-2 focuses on status and visible discrimination rather than market mechanics. Hanji 223's account of merchant hoarding, price advantage, political access, and farmer dispossession is Chao Cuo's attributed argument; it does not measure prevalence or negate merchants' transport, storage, and circulation functions. Hanji 246's claim that occupational movement toward commerce weakened harvests is not quantified, and its labor-protection rule should not be collapsed into every later anti-merchant measure. Hanji 396-5 makes a broad comparative economic-history argument about China, Europe, GDP, and the Macartney embassy; those claims remain source-scoped until supported by more specialized sources. Hanji 396-3 gives a compressed account of Han Wudi policy and a Song comparison, so exact law, enforcement, regional variation, commodity scope, and periodization remain open.
+The page does not claim that all commerce was uniformly suppressed or that merchants lacked wealth. Hanji 179 explicitly says commerce is difficult to stop by decree, while Hanji 400-2 focuses on status and visible discrimination rather than market mechanics. Hanji 223's account of merchant hoarding, price advantage, political access, and farmer dispossession is Chao Cuo's attributed argument; it does not measure prevalence or negate merchants' transport, storage, and circulation functions. Hanji 212's reserve argument does not establish that moving all craftspeople and merchants into farming would increase net food security, because agricultural tools, storage, transport, and exchange also use specialized labor. Its memorial wording, occupational categories, policy influence, imperial response, and effects remain source-scoped. Hanji 246's claim that occupational movement toward commerce weakened harvests is not quantified, and its labor-protection rule should not be collapsed into every later anti-merchant measure. Hanji 396-5 makes a broad comparative economic-history argument about China, Europe, GDP, and the Macartney embassy; those claims remain source-scoped until supported by more specialized sources. Hanji 396-3 gives a compressed account of Han Wudi policy and a Song comparison, so exact law, enforcement, regional variation, commodity scope, and periodization remain open.
 
 ## What Changed
 
-- Added the gap between nominal agrarian status and actual farmer incentives.
-- Added grain-for-rank, penal redemption, reserve building, and intended tax relief as a material incentive package.
-- Kept Chao Cuo's merchant critique distinct from a complete account of exchange infrastructure.
+- Added Jia Yi's famine, military-supply, and regime-security rationale for agrarian priority.
+- Distinguished the need for staple production and reserves from the stronger claim that every nonfarm livelihood should be redirected into cultivation.
 
 ## Related Concepts
 
@@ -78,3 +82,4 @@ The page does not claim that all commerce was uniformly suppressed or that merch
 - [[PowerDominatedWealthInsecurity|权力笼罩下的财富不安全]] - political-economy consequence when office protects wealth better than commerce.
 - [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] - coercive enforcement mechanism that turns hidden merchant wealth into an informant target.
 - [[WenJingProsperityTradeoff|文景之治的繁荣代价]] - adjacent outcome frame separating accumulated abundance from distribution and local power.
+- [[GrainReservesAsStateCapacity|粮食储备即国家能力]] - food-security objective that agrarian priority seeks to support but cannot supply through status hierarchy alone.
