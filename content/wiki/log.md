@@ -33018,3 +33018,11 @@ Added source `9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Essentials: The Science & Practice of Movement | Ido Portal
+
+Added source `essentials-the-science-practice-of-movement-ido-portal-scim7334257872`; resynthesized [[IdoPortal]] and [[MovementPracticeAsAwareness]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: ordinary walking, posture, vision, hearing, exercise variation, and interpersonal distance can become researcher-like movement practice, while adaptable mastery moves beyond brittle repetition without discarding technique and close-contact exploration requires agreement and non-forcing. No settled contradiction was adopted. Because this Essentials edition condenses the already represented 2022 interview, it is treated as convergent provenance rather than independent replication; visual-state, anatomical, biomechanical, regulatory, and training-effect claims remain source-scoped. Broad [[HubermanLab]], [[AndrewHuberman]], [[MindBodyUnion]], and general neuroscience pages were kept closed because the bounded addition is represented in the focused source, person, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,133 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

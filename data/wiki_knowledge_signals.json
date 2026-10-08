@@ -117789,9 +117789,9 @@
       "url": "/wiki/concepts/idiosyncraticattraction/"
     },
     "IdoPortal": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -117806,9 +117806,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Practice of Movement | Ido Portal",
           "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
+        },
+        {
+          "episode_file": "SCIM7334257872 [SCIM7334257872].md",
+          "key": "essentials-the-science-practice-of-movement-ido-portal-scim7334257872",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/essentials-the-science-practice-of-movement-ido-portal-scim7334257872/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/idoportal/"
     },
     "IgnatiusDonnelly": {
@@ -167683,9 +167690,9 @@
       "url": "/wiki/concepts/mourningmingreading/"
     },
     "MovementPracticeAsAwareness": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -167714,9 +167721,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Practice of Movement | Ido Portal",
           "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
+        },
+        {
+          "episode_file": "SCIM7334257872 [SCIM7334257872].md",
+          "key": "essentials-the-science-practice-of-movement-ido-portal-scim7334257872",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/essentials-the-science-practice-of-movement-ido-portal-scim7334257872/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/movementpracticeasawareness/"
     },
     "MovementScreenScoring": {

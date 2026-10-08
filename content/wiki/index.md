@@ -4201,6 +4201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [13 东西方的女作家：皮桑与蔡文姬](sources/13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent.md) — 怪东西以克里斯蒂娜·德·皮桑与蔡文姬比较女性公共写作、教育、战争经验、关系命名与文学正典中的可见性，并保留蔡文姬生平及作品归属的证据边界。
 
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
+- [Essentials: The Science & Practice of Movement | Ido Portal](sources/essentials-the-science-practice-of-movement-ido-portal-scim7334257872.md) — Condensed Huberman Lab conversation on movement as open inquiry through everyday awareness, sensory variation, adaptable technique, improvisation, and consent-aware proximity practice.
 
 ## Entities
 - [唐浩明 / Tang Haoming](entities/TangHaoming.md) — 以通俗易读、人物塑造和战争道德视野三个维度接受评析的《曾国藩》作者。
