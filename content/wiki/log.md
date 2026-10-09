@@ -33463,3 +33463,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-a
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980`; created [[JakeLoosararian|Jake Loosararian]]; and resynthesized [[BrianArmstrong]], [[Coinbase]], [[GENIUSAct|GENIUS Act]], [[USDC]], [[Stablecoins]], [[RealWorldAssetTokenizationRisk]], [[AndrewFeldman]], [[Cerebras]], [[LowLatencyInferenceChip]], [[GeckoRobotics]], and [[IndustrialInspectionRobotics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: regulated crypto adoption depends on reserve, compliance, issuer-permission, and market-integrity boundaries; low-latency inference depends on memory, transport, power, cooling, and workload fit rather than chip speed alone; and paid industrial inspection can create proprietary physical-world data before general autonomous repair is mature. No settled contradiction was adopted. Political and regulatory characterizations, market sizes, bank adoption, Cerebras performance and demand, Gecko ROI, and repair timing remain participant- or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,190 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -7,41 +7,47 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880
   - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
   - e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0
-last_updated: 2026-09-20
+  - all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980
+last_updated: 2026-10-09
 ---
 
 # Cerebras
 
 ## Overview
-Cerebras is an AI-chip company whose wafer-scale, SRAM-rich architecture tries to reduce the physical distance and communication overhead that constrain large inference systems. The sources position it as a differentiated path for fast inference and model sovereignty rather than a universal replacement for general GPU clusters.
+Cerebras is an AI-chip and systems company whose wafer-scale, SRAM-rich architecture seeks to reduce the data-movement and communication overhead constraining inference and some training workloads.
 
 ## Current Profile
-The current profile combines product value with manufacturing constraints. Faster inference can compress long reasoning loops, reduce guardrail latency, and make open or customer-specific models more usable. The same wafer-scale integration that creates high internal bandwidth also concentrates yield, partial-good design, cooling, packaging, and system risk: a large defective region can damage the economics of an entire product rather than one small die.
+Cerebras's strongest case is product latency. When deep research, coding, guardrails, or reasoning chains require many serial calls, faster token generation can keep users in flow and make more complex workflows practical. The company sells both on-premise systems and cloud access, and the newest source names [[OpenAI]] and [[Cognition]] as customers or counterparties.
+
+The same integrated design that creates bandwidth also concentrates engineering and economic risk. Yield, defective-region routing, cooling, packaging, IO, memory capacity, system cost, power delivery, and workload fit determine whether wafer-scale speed becomes competitive token economics.
 
 ## Key Characteristics
 - Uses wafer-scale integration and substantial on-chip SRAM to shorten communication distance.
-- Targets high-speed inference where elapsed reasoning time and repeated model calls affect product usability.
-- Supports an open-model and customer-specific serving narrative alongside performance claims.
-- Requires fault-tolerant routing and partial-good design to work around defective regions on a wafer.
-- Carries manufacturing, cooling, IO, capacity, and cost limits that narrow its best-fit workloads.
+- Targets latency-sensitive inference, long reasoning loops, coding, and research workflows.
+- Offers on-premise systems and cloud consumption models.
+- Requires fault-tolerant routing and partial-good design around wafer defects.
+- Depends on power, cooling, memory, transport, software, and data-center execution beyond the processor itself.
+- Supports hardware diversity and open or customer-specific model serving rather than universal GPU replacement.
 
 ## Evidence
-- Reasoning-speed value: [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] links Cerebras inference speed to long reasoning loops, guardrails, open models, and model sovereignty.
-- Memory-hierarchy position: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] presents the wafer-scale SRAM route as useful for some workloads while preserving limits around capacity, IO, expansion, cost, and cooling.
-- Manufacturing qualification: [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] explains how whole-wafer yield, defective-core bypass, and system adaptation can offset some of the bandwidth benefit.
+- Reasoning and model-serving value: [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] links speed to long inference loops, guardrails, open models, and sovereignty.
+- Memory-hierarchy position: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] places wafer-scale SRAM within a hierarchy that still faces capacity, IO, cost, and cooling limits.
+- Manufacturing and economics: [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] explains decode bandwidth, wafer yield, defective-core bypass, packaging, power, and token-cost tradeoffs.
+- Products and deployment: [[all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980]] describes system pricing, cloud access, Cognition use, OpenAI capacity, cooling, power, and multi-year infrastructure delivery.
 
 ## Qualifications
-Company backlog, speed, yield, acceptable defect rates, wafer discard ratios, and token-cost comparisons remain source-scoped. The sources agree that Cerebras is differentiated but do not provide a common third-party benchmark against Groq, TPUs, GPUs, or HanaPino across the same models and service-level targets.
+System size, transistor count, comparative speed, pricing, purchase orders, megawatts, backlog, yield, and cost figures are source- or company-attributed. The sources do not supply a common independent benchmark against GPUs, TPUs, Groq, or HanaPino across identical models, batch sizes, latency targets, utilization, and total cost.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema.
-- Added wafer-scale yield and partial-good design as central economic qualifications.
-- Integrated the latency, memory-hierarchy, and manufacturing views into one current profile.
+- Added on-premise and cloud delivery models plus named workload examples.
+- Connected wafer-scale performance to power, cooling, and multi-year infrastructure execution.
+- Preserved manufacturing and workload-fit limits against the newest performance claims.
 
 ## Relationships
-- [[InferenceDecodeBandwidth]] - data-movement problem wafer-scale locality tries to reduce.
-- [[LowLatencyInferenceChip]] - performance category where Cerebras is used as a reasoning-speed case.
-- [[AIDataCenterMemoryHierarchy]] - hierarchy in which Cerebras moves more working data onto SRAM.
-- [[MemoryWall]] - broader bottleneck motivating wafer-scale integration.
-- [[AIChipSpecialization]] - specialization frame that explains both Cerebras's advantage and its workload limits.
-- [[HighBandwidthMemory]] - alternative near-compute memory route used by general accelerators.
+- [[AndrewFeldman]] - CEO articulating the company's architecture and market case.
+- [[LowLatencyInferenceChip]] - category where Cerebras is used as a reasoning-speed example.
+- [[InferenceDecodeBandwidth]] - data-movement bottleneck wafer-scale locality targets.
+- [[MemoryWall]] - broader constraint motivating SRAM-rich integration.
+- [[AIChipSpecialization]] - frame explaining both advantage and workload limits.
+- [[OpenAI]] - major capacity customer named in the Davos interview.
+- [[Cognition]] - coding-system customer used as a latency-sensitive example.

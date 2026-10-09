@@ -4260,6 +4260,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [639. Revolution in Iran: Death in the Desert (Part 4)](sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592.md) — The Rest Is History episode on the Iran hostage crisis, Operation Eagle Claw, Carter's defeat, Reagan's victory, and Khomeini's revolutionary consolidation.
 
 - [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
+- [Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!](sources/all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980.md) — All-In Davos interviews connecting regulated crypto, low-latency AI infrastructure, and industrial robotics through deployment, physical constraints, and ROI.
 
 ## Entities
 - [Mehmet Oz](entities/MehmetOz.md) — CMS administrator presenting an agenda around drug pricing, health-data access, rural technology, medical AI, and program integrity.
@@ -17202,6 +17203,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [赵新 / Zhao Xin (ZTE)](entities/ZhaoXinZTE.md) — ZTE portable Wi-Fi product director explaining mobile-broadband category fit, radio engineering, product segmentation, and user-scene definition.
 - [田肯 / Tian Ken (Western Han)](entities/TianKenWesternHan.md) — 以秦中与齐国的战略地理主张重地只授皇帝子弟，并为汉初同姓王分封提供早期论证的进言者。
+- [Jake Loosararian](entities/JakeLoosararian.md) — Gecko Robotics co-founder and CEO arguing that paid industrial inspection creates the missing physical-world data needed for useful industrial AI.
 
 ## Concepts
 - [Healthcare Payment Verification](concepts/HealthcarePaymentVerification.md) — Provider, beneficiary, site, and service checks designed to reduce improper healthcare payments while preserving due process and continuity of care.

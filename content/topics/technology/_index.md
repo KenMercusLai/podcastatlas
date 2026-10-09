@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3388
+topic_total_pages: 3390
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6161,6 +6161,9 @@ topic_entities:
   - key: "JakeHeller"
     title: "Jake Heller"
     url: "/wiki/entities/jakeheller/"
+  - key: "JakeLoosararian"
+    title: "Jake Loosararian"
+    url: "/wiki/entities/jakeloosararian/"
   - key: "JamesSteinberg"
     title: "James Steinberg"
     url: "/wiki/entities/jamessteinberg/"
@@ -9018,6 +9021,9 @@ topic_sources:
   - key: "coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384"
     title: "Coffer stop: AI may shrink tax base"
     url: "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980"
+    title: "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980/"
   - key: "community-led-saas-growth-how-ninety-hit-44m-arr"
     title: "Community-Led SaaS Growth: How Ninety Hit $44M ARR"
     url: "/wiki/sources/community-led-saas-growth-how-ninety-hit-44m-arr/"
