@@ -20142,6 +20142,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CableSasser": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CablewayAssetEconomics": [
     {
       "key": "technology",
@@ -65065,6 +65072,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PanicSoftware": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PaoWaimai": [
     {
       "key": "culture",
@@ -67224,6 +67238,13 @@
     }
   ],
   "Plaxo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Playdate": [
     {
       "key": "technology",
       "label": "Technology",

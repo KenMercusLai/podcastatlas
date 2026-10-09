@@ -4349,6 +4349,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi](sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093.md) — Huberman Lab interview on missed PCOS and endometriosis, fertility and AMH interpretation, perimenopause, and individualized breast-cancer risk.
 - [VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛](sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0.md) — 这病说来话长 episode on sleep as active nighttime maintenance, multidimensional quality, systemic effects, routine and environment changes, tracker anxiety, and clinical escalation.
 
+- [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
+
 ## Entities
 - [Georg Elser](entities/GeorgElser.md) — German carpenter whose independent November 1939 bomb plot missed Hitler by thirteen minutes and strengthened the regime in the short term.
 - [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.
@@ -17406,6 +17408,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
 - [Thaïs Aliabadi](entities/ThaisAliabadi.md) — OBGYN and surgeon focused on missed PCOS and endometriosis, fertility assessment, midlife hormone health, and breast-cancer risk.
 
+- [Amy Choi](entities/AmyChoi.md) — Playdate customer whose separately itemized $14.02 tariff payment was automatically returned after Panic recovered the duty.
+- [Cable Sasser](entities/CableSasser.md) — Panic CEO explaining the small company’s itemized tariff charge and decision to refund traceable customer payments.
+- [Panic](entities/PanicSoftware.md) — Software and Playdate company whose direct-sales records enabled matched consumer tariff refunds.
+- [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
+
 ## Concepts
 - [Phoney War](concepts/PhoneyWar.md) — Western lull joining Allied attritional caution to Hitler's fear of blockade, delay, and Allied rearmament.
 - [German Military Opposition to Hitler](concepts/GermanMilitaryOppositionToHitler.md) — Fragile 1939 officer opposition constrained by hierarchy, fear, uncertain legitimacy, and weak collective capacity.
@@ -27634,5 +27641,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Art-Film Deferred Legibility / 艺术电影的延迟可理解性](concepts/ArtFilmDeferredLegibility.md) — Use of initial ambiguity, slowness, or fragmentation as material whose structure and emotional force emerge through later recombination.
 - [Long-Take Temporal Embodiment / 长镜头的时间具身](concepts/LongTakeTemporalEmbodiment.md) — Continuous screen duration used to align spectator time with character action, space, performance, light, and emotional change.
 - [Personalized Film Industrialization / 个性化电影工业](concepts/PersonalizedFilmIndustrialization.md) — Production capacity organized to preserve distinctive authored systems instead of standardizing them.
+
+- [Consumer Tariff Refund Allocation](concepts/ConsumerTariffRefundAllocation.md) — How importer refunds can—or cannot—be connected back to customers who bore itemized or embedded tariff costs.
 
 ## Syntheses

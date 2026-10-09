@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3413
+topic_total_pages: 3416
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5249,6 +5249,9 @@ topic_entities:
   - key: "ByteDanceFLOW"
     title: "ByteDance FLOW"
     url: "/wiki/entities/bytedanceflow/"
+  - key: "CableSasser"
+    title: "Cable Sasser"
+    url: "/wiki/entities/cablesasser/"
   - key: "CadenceDesignSystems"
     title: "Cadence Design Systems / 楷登"
     url: "/wiki/entities/cadencedesignsystems/"
@@ -7049,6 +7052,9 @@ topic_entities:
   - key: "Pangram"
     title: "Pangram"
     url: "/wiki/entities/pangram/"
+  - key: "PanicSoftware"
+    title: "Panic"
+    url: "/wiki/entities/panicsoftware/"
   - key: "Paperboy"
     title: "Paperboy"
     url: "/wiki/entities/paperboy/"
@@ -7121,6 +7127,9 @@ topic_entities:
   - key: "Plaxo"
     title: "Plaxo"
     url: "/wiki/entities/plaxo/"
+  - key: "Playdate"
+    title: "Playdate"
+    url: "/wiki/entities/playdate/"
   - key: "Pluralsight"
     title: "Pluralsight"
     url: "/wiki/entities/pluralsight/"

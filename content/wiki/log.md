@@ -34159,3 +34159,11 @@ Added source `essentials-science-of-building-strong-social-bonds-with-family-fri
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Should we all be getting tariff refunds right now?
+
+Added source `should-we-all-be-getting-tariff-refunds-right-now`; created [[AmyChoi]], [[CableSasser]], [[PanicSoftware|Panic]], [[Playdate]], and [[ConsumerTariffRefundAllocation]]; and resynthesized [[MaureenThorson]], [[TariffRefundUncertainty]], and [[TariffConsumerPricePassThrough]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: government refund systems identify the importer that paid customs more readily than the consumer who bore an economic burden, while separate itemization, direct sales, order-level records, and reversible payments can make exact consumer repayment feasible. Embedded price changes, intermediaries, mixed pricing causes, and processing cost make allocation harder, leaving companies to choose among repayment, discounts, investment, shareholder benefit, or retention. No settled contradiction was adopted. The episode's later refund totals update rather than reverse the earlier uncertainty account and remain date- and scope-sensitive; Panic is an unusually traceable case rather than evidence of a general legal duty or scalable practice. Broad [[PlanetMoney]], [[Sony]], [[Microsoft]], [[Nintendo]], and [[FedEx]] profiles were kept closed because focused pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,277 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

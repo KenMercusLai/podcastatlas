@@ -2,18 +2,50 @@
 title: "Maureen Thorson"
 type: entity
 tags: [person, law, customs, tariffs]
-sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]
-last_updated: 2026-07-24
+knowledge_schema: synthesis-v1
+sources:
+  - the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what
+  - should-we-all-be-getting-tariff-refunds-right-now
+last_updated: 2026-10-10
 ---
 
 # Maureen Thorson
 
-Maureen Thorson appears in [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] as the customs lawyer explaining why the Supreme Court ruling did not automatically answer the refund question. Her role is to translate the ruling into [[TariffRefundUncertainty]] for businesses that paid the invalidated tariffs.
+## Overview
 
-The source uses her comments to separate importers from ordinary consumers. Importers may have customs records and procedural routes such as post summary correction or litigation, while consumers who only paid tariff-inflated prices at retail probably lack a direct refund path.
+Maureen Thorson is a customs lawyer who explains the legal and administrative consequences of the Supreme Court's invalidation of IEPA tariffs in two [[PlanetMoney]] episodes.
 
-## Connections
-- [[TariffRefundUncertainty]] - main concept her comments support.
-- [[Costco]], [[Toyota]], and [[Goodyear]] - companies named as refund-lawsuit examples.
-- [[SupremeCourt]] and [[IEPATariffAuthorityLimit]] - ruling and legal authority behind the refund question.
-- [[TariffRefundClaimsMarket]] - adjacent market that exists because ordinary refund recovery is slow and uncertain.
+## Current Profile
+
+Thorson translates the ruling into claimant and procedure questions. She distinguishes importers with customs records and possible correction, litigation, or portal routes from ordinary consumers who paid tariff-inflated retail prices but usually lack a direct government claim. Her later appearance also frames the scale and novelty of the unwind while separating importer recovery from private decisions about customer compensation.
+
+## Key Characteristics
+
+- Customs-law expert focused on refund procedure after invalidated tariffs.
+- Distinguishes legal payment at the border from downstream economic incidence.
+- Emphasizes the absence of a normal precedent for an unwind at this scale.
+- Keeps government repayment to importers separate from corporate allocation to consumers.
+
+## Evidence
+
+- **Procedure and standing:** [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] uses Thorson to explain importer correction and litigation routes and consumers' weaker position.
+- **Later refund administration:** [[should-we-all-be-getting-tariff-refunds-right-now]] uses her account of customs-record submission and the reported scale of payments.
+- **Consumer boundary:** both [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] and [[should-we-all-be-getting-tariff-refunds-right-now]] distinguish direct customs payers from retail customers.
+
+## Qualifications
+
+The episodes provide Thorson's public explanation rather than complete customs guidance or a final judicial and administrative record. Dollar totals and process status are date-sensitive, and her procedural account does not determine whether a company should voluntarily compensate customers.
+
+## What Changed
+
+- Added the later operational account of government refunds and customs-record submission.
+- Extended the claimant distinction into the separate consumer-allocation problem.
+- Migrated the profile to `synthesis-v1` using both bounded sources.
+
+## Relationships
+
+- [[TariffRefundUncertainty]] - central administrative problem her comments explain.
+- [[ConsumerTariffRefundAllocation]] - downstream issue that begins after importer recovery.
+- [[SupremeCourt]] - court whose ruling created the refund unwind.
+- [[IEPATariffAuthorityLimit]] - legal boundary behind the invalidated duties.
+- [[TariffRefundClaimsMarket]] - response to delayed and uncertain importer recovery.

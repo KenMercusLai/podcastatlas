@@ -8827,6 +8827,10 @@
     "title": "Amy Butcher / 艾米",
     "url": "/wiki/entities/amybutcher/"
   },
+  "AmyChoi": {
+    "title": "Amy Choi",
+    "url": "/wiki/entities/amychoi/"
+  },
   "AmyInvestmentABC": {
     "title": "Amy / 投资ABC",
     "url": "/wiki/entities/amyinvestmentabc/"
@@ -15339,6 +15343,10 @@
     "title": "Cable Network Resilience",
     "url": "/wiki/concepts/cablenetworkresilience/"
   },
+  "CableSasser": {
+    "title": "Cable Sasser",
+    "url": "/wiki/entities/cablesasser/"
+  },
   "CablewayAssetEconomics": {
     "title": "Cableway Asset Economics / 景区索道资产经济",
     "url": "/wiki/concepts/cablewayasseteconomics/"
@@ -21402,6 +21410,10 @@
   "ConsumerSleepHardwareSubscription": {
     "title": "Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅",
     "url": "/wiki/concepts/consumersleephardwaresubscription/"
+  },
+  "ConsumerTariffRefundAllocation": {
+    "title": "Consumer Tariff Refund Allocation",
+    "url": "/wiki/concepts/consumertariffrefundallocation/"
   },
   "ConsumerTrendSpotting": {
     "title": "Consumer Trend Spotting",
@@ -63959,6 +63971,10 @@
     "title": "Pangram",
     "url": "/wiki/entities/pangram/"
   },
+  "PanicSoftware": {
+    "title": "Panic",
+    "url": "/wiki/entities/panicsoftware/"
+  },
   "PanyangLocalForces": {
     "title": "番阳民帅 / Panyang Local Forces",
     "url": "/wiki/entities/panyanglocalforces/"
@@ -66218,6 +66234,10 @@
   "PlayStation": {
     "title": "PlayStation",
     "url": "/wiki/entities/playstation/"
+  },
+  "Playdate": {
+    "title": "Playdate",
+    "url": "/wiki/entities/playdate/"
   },
   "PlayerDevelopmentAnalytics": {
     "title": "Player Development Analytics",
@@ -101142,6 +101162,10 @@
   "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1": {
     "title": "手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”",
     "url": "/wiki/sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1/"
+  },
+  "should-we-all-be-getting-tariff-refunds-right-now": {
+    "title": "Should we all be getting tariff refunds right now?",
+    "url": "/wiki/sources/should-we-all-be-getting-tariff-refunds-right-now/"
   },
   "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc": {
     "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12998
+wiki_total_pages: 13002
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "Pangram"
     title: "Pangram"
     url: "/wiki/entities/pangram/"
+  - key: "PanicSoftware"
+    title: "Panic"
+    url: "/wiki/entities/panicsoftware/"
   - key: "Paperboy"
     title: "Paperboy"
     url: "/wiki/entities/paperboy/"
@@ -737,6 +740,9 @@ wiki_pages:
   - key: "Plaxo"
     title: "Plaxo"
     url: "/wiki/entities/plaxo/"
+  - key: "Playdate"
+    title: "Playdate"
+    url: "/wiki/entities/playdate/"
   - key: "PlayStation"
     title: "PlayStation"
     url: "/wiki/entities/playstation/"

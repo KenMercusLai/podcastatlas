@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10155
+wiki_total_pages: 10156
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2201,6 +2201,9 @@ wiki_pages:
   - key: "ConsumerSleepHardwareSubscription"
     title: "Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅"
     url: "/wiki/concepts/consumersleephardwaresubscription/"
+  - key: "ConsumerTariffRefundAllocation"
+    title: "Consumer Tariff Refund Allocation"
+    url: "/wiki/concepts/consumertariffrefundallocation/"
   - key: "ConsumerTrendSpotting"
     title: "Consumer Trend Spotting"
     url: "/wiki/concepts/consumertrendspotting/"
