@@ -11,7 +11,8 @@ sources:
   - 098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy
   - 097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6
   - 092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u
-last_updated: 2026-10-09
+  - 087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 
 The wuxia sources present Jin Yong as a writer who transformed philosophy, religion, poetry, medicine, folklore, and historical institutions into accessible action and political fiction. [[WuxiaIntertextualCraft]], [[HistoricalJianghuSpace]], and [[JinYongPoliticalReading]] explain how his fiction combines cultural inheritance with suspicion of faction, identity binaries, and power.
+
+The Confucian-culture episode adds an ethical grammar for that combination. [[JinYongConfucianEthics]] distinguishes benevolence, righteousness, fidelity, conscience, responsibility, and care for ordinary people from scholar identity, classical display, rigid ritual, and moral language used as a power instrument. Guo Jing, Xiao Feng, Yang Guo, Linghu Chong, Huang Rong, Chen Jialuo, Yue Buqun, and Huang Yaoshi become comparative tests of conduct rather than fixed representatives of orthodoxy or rebellion. “侠之大者，为国为民” consequently joins literary侠义 to people-centered public responsibility, while the source's modern conclusion subjects inherited ethics to freedom, equality, democracy, human rights, and law.
 
 The reclusion episode adds a recurring end-state to that political field. Many protagonists do not conquer Jianghu or settle into administration; they withdraw after love, defeat, danger, or achievement. [[JinYongReclusionFreedom]] interprets those endings as tests of whether a person can release rank, organizational identity, relationship compulsion, and external evaluation while retaining enough safety and material capacity to live. The source also gives the pattern a narrative function: withdrawal preserves moral or romantic completion without making domination the hero's reward.
 
@@ -35,8 +38,8 @@ The short go-culture preview adds a public-patronage layer. It presents Jin's go
 
 ## Key Characteristics
 
-- Converted wide cultural knowledge into popular literary form and, in the bounded go example, into an informal route toward another cultural practice.
-- Used historical settings and factional conflict to explore mobility, identity, and power.
+- Converted wide cultural knowledge into popular literary form and, in bounded examples, into both an informal route toward go culture and a narrative field for testing Confucian ethics.
+- Used historical settings, factional conflict, and character choices to explore mobility, identity, power, moral practice, and responsibility to ordinary people.
 - Repeatedly used withdrawal endings to test freedom from role, hierarchy, reputation, and attachment.
 - Operated at the intersection of fiction, newspaper publishing, and political commentary.
 - Served as an early career sponsor and editor for Lin Xingzhi.
@@ -48,6 +51,12 @@ The short go-culture preview adds a public-patronage layer. It presents Jin's go
 ### Literary craft and political structure
 
 - [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] connects martial arts, poisons, characters, religion, history, Song mobility, Ming control, and factional power through intertextual transformation.
+
+### Confucian ethics and ritual criticism
+
+- [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] contrasts Guo Jing and Xiao Feng's people-protecting conduct with Chen Jialuo and Yue Buqun's compromised or instrumental moral performance.
+- [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] uses Huang Rong, Huang Yaoshi, and Zhu Ziliu to separate classical knowledge and ritual form from benevolence, context-sensitive judgment, and urgent human need.
+- [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] frames “侠之大者，为国为民” as a modern fusion of侠义, Confucian public responsibility, and national consciousness rather than a timeless definition of侠.
 
 ### Reclusion and freedom
 
@@ -78,13 +87,14 @@ The short go-culture preview adds a public-patronage layer. It presents Jin's go
 
 ## Qualifications
 
-The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes. The go-culture source is a three-minute preview with transcription errors; it does not establish tournament roles, rank meaning, audience conversion, or the full destination of the reported publishing proceeds.
+The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The Confucian episode ranges across intellectual history, classical interpretation, gender, war, kinship, and law; its character readings and modern translation are arguments rather than a definitive moral system, and its historical claims remain source-scoped. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes. The go-culture source is a three-minute preview with transcription errors; it does not establish tournament roles, rank meaning, audience conversion, or the full destination of the reported publishing proceeds.
 
 ## What Changed
 
-- Added go culture as a bounded example of fiction and adaptation creating informal cultural exposure.
-- Added reported tournament promotion with Nie Weiping, honorary amateur recognition, and material support.
-- Narrowed the publishing-proceeds claim and preserved the preview's missing evidence rather than inferring scale or effect.
+- Added an ethical reading that separates enacted Confucian virtues from scholar status, classical display, and rigid ritual.
+- Added people protection and opposition to aggression as the moral center of “侠之大者，为国为民.”
+- Preserved conflicts among kinship, justice, loyalty, surrender, resistance, and civilian protection rather than forcing one rule.
+- Qualified the reading as a conversational interpretation and modern reconstruction, not settled authorial intent or intellectual history.
 
 ## Relationships
 
@@ -102,3 +112,4 @@ The literary sources are selective podcast interpretations rather than a full st
 - [[FictionalCharacterTypingBoundary]] - safeguard for comparing recurring character choices without assigning definitive personality identities.
 - [[NieWeiping]] - go champion linked to Jin through reported friendship, event promotion, and cultural advocacy.
 - [[WeiqiCulturalPromotion]] - framework for Jin's reported narrative, public, event, recognition, and funding contributions to go.
+- [[JinYongConfucianEthics]] - ethical framework distinguishing conduct-centered benevolence and responsibility from ritualized or instrumental moral form.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [087 金庸小说与儒家文化](sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8.md) — 纸醉金迷FM以金庸人物区分儒家精神与僵化礼教，连接知行合一、护民反战、亲情与公义及儒家价值的现代转化。
 - [VOL.188《疯狂动物城2》背后藏着的“成年人心理课”](sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c.md) — 这病说来话长借电影台词讨论家庭角色错位、亲职化、责任边界、留下与离开的自主性，以及对休息和不必坚强的心理许可。
 - [The Beatles: The British Invasion, with Conan O’Brien (Part 2)](sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398.md) — The Rest Is History follows the Beatles from touring's end through studio reinvention, psychedelia, managerial loss, Apple, Get Back, Abbey Road, and breakup.
 - [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](sources/lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx.md) — 罗永浩对谈严俊杰，连接县城自学、MiniMax 创业、多模态 AGI、模型即产品、岗位融合、国际化商业化与 AI 价值分配。
@@ -17339,6 +17340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [金庸小说的儒家伦理 / Jin Yong Confucian Ethics](concepts/JinYongConfucianEthics.md) — 以道德实践而非身份或经典知识区分儒家精神与僵化礼教，并把护民责任、情法冲突与现代法治纳入同一框架。
 - [家庭角色与责任边界 / Family Role Responsibility Boundary](concepts/FamilyRoleResponsibilityBoundary.md) — Role-, choice-, and harm-sensitive distinction between care, ordinary obligation, and transferred adult burden.
 - [归属中的自主选择 / Autonomous Belonging Choice](concepts/AutonomousBelongingChoice.md) — Framework treating staying near family or place as potentially agentic without romanticizing constraint.
 - [进步压力与休息许可 / Progress Pressure and Permission to Rest](concepts/ProgressPressureRestPermission.md) — Distinction between value-aligned growth and compulsory advancement that makes rest feel like moral failure.

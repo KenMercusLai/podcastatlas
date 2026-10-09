@@ -113881,9 +113881,9 @@
       "url": "/wiki/concepts/historicalworldviewreconstruction/"
     },
     "HistoricalYouxiaToLiteraryWuxia": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhvDbhUuBIf6tT1qWSXnehP1Y7Cl [lhvDbhUuBIf6tT1qWSXnehP1Y7Cl].md",
@@ -113891,9 +113891,16 @@
           "show": "怪东西Weird History",
           "title": "33 东西方的侠客：从春秋战国到中世纪欧洲",
           "url": "/wiki/sources/33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl/"
+        },
+        {
+          "episode_file": "lvKORB4Jx57hTHqHsTjP0pHRJx_8 [lvKORB4Jx57hTHqHsTjP0pHRJx_8].md",
+          "key": "087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8",
+          "show": "纸醉金迷FM",
+          "title": "087 金庸小说与儒家文化",
+          "url": "/wiki/sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/historicalyouxiatoliterarywuxia/"
     },
     "HistoriographicalFounderCriteria": {
@@ -133357,9 +133364,9 @@
       "url": "/wiki/entities/jinxiaolin/"
     },
     "JinYong": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -133416,10 +133423,33 @@
           "show": "纸醉金迷FM",
           "title": "092 金庸小说与围棋文化·聂卫平与金庸",
           "url": "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
+        },
+        {
+          "episode_file": "lvKORB4Jx57hTHqHsTjP0pHRJx_8 [lvKORB4Jx57hTHqHsTjP0pHRJx_8].md",
+          "key": "087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8",
+          "show": "纸醉金迷FM",
+          "title": "087 金庸小说与儒家文化",
+          "url": "/wiki/sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/jinyong/"
+    },
+    "JinYongConfucianEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvKORB4Jx57hTHqHsTjP0pHRJx_8 [lvKORB4Jx57hTHqHsTjP0pHRJx_8].md",
+          "key": "087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8",
+          "show": "纸醉金迷FM",
+          "title": "087 金庸小说与儒家文化",
+          "url": "/wiki/sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/jinyongconfucianethics/"
     },
     "JinYongReclusionFreedom": {
       "episode_count": 1,

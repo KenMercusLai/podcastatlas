@@ -33953,3 +33953,10 @@ Added source `vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xin
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 087 金庸小说与儒家文化
+
+Added source `087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8`; created [[JinYongConfucianEthics|金庸小说的儒家伦理]]; and resynthesized [[JinYong|金庸]] and [[HistoricalYouxiaToLiteraryWuxia|历史游侠到文学武侠]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode separates enacted benevolence, responsibility, fidelity, conscience, and people-centered侠义 from scholar status, classical display, rigid ritual, and moral language used as power; its modern translation retains self-cultivation and relational duty while requiring freedom, equality, democracy, human rights, and law. No settled contradiction was adopted. Character judgments, authorial intention, classical interpretation, Qin and Hua-Yi history, gender analysis, and choices among kinship, justice, surrender, resistance, and civilian protection remain source-scoped or contested. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,251 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

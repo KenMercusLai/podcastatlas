@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [youxia, wuxia, literature, political-order, cultural-memory]
 sources:
   - 33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl
-last_updated: 2026-10-08
+  - 087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8
+last_updated: 2026-10-10
 ---
 
 ## Definition
@@ -20,6 +21,8 @@ The episode argues that the role does not simply vanish into literature. Central
 
 [[JinYong|金庸]]'s “为国为民” formulation is therefore an important reinterpretation rather than a timeless definition. [[GuLong|古龙]], film, fantasy, web fiction, and games continue the transformation by moving侠义 among mystery, romance, supernatural power, visual action, and interactive worlds. Continuity resides in recurring moral questions, not in an unchanged social type.
 
+The Jin Yong Confucianism episode specifies one route of reinterpretation. It begins from Han Fei's separation of literati and private-force challengers, then argues that new-school wuxia joins侠 action to the Confucian language of benevolence, righteousness, fidelity, conscience, and public responsibility. Guo Jing and Xiao Feng shift the test from ruler service or territorial glory toward protection of ordinary people, while the source also attributes part of the national frame to modern rescue and nation-building consciousness. [[JinYongConfucianEthics]] therefore describes a layered synthesis, not an ancient identity between儒 and侠.
+
 ## Key Claims
 
 - Historical youxia should not be inferred backward from the institutions, combat systems, or national missions of modern wuxia fiction.
@@ -27,6 +30,7 @@ The episode argues that the role does not simply vanish into literature. Central
 - Literary continuity works through selective moral inheritance rather than exact reproduction of historical status or organization.
 - Modern national, genre, and media frameworks change the meaning of侠义 even when they retain aid, courage, freedom, and responsibility.
 - The distinction helps preserve both the political danger of private force and the cultural appeal of action beyond inadequate institutions.
+- New-school wuxia can fuse侠 action with Confucian moral practice while still criticizing scholar status, rigid ritual, faction, and unconditional ruler loyalty.
 
 ## Evidence
 
@@ -38,14 +42,17 @@ Absorption and literary transformation:
 
 Modern reinterpretation:
 - [[33-dongxifang-de-xiake-cong-chunqiu-zhanguo-dao-zhongshiji-ouzhou-lhvdbhuubif6tt1qwsxnehp1y7cl|Weird History episode 33]] treats Jin Yong's national-service definition as a modern addition and describes the current genre as hybridizing rather than simply disappearing.
+- [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] connects “侠之大者，为国为民” to Confucian public responsibility, people protection, anti-aggression, and modern national consciousness.
+- [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] contrasts new-school protagonists' independent moral agency with earlier侠义 and公案 figures' closer dependence on officials and institutional authority.
 
 ## Counterevidence & Qualifications
 
-The supplied episode offers a long-range interpretive synthesis rather than a continuous institutional or literary history. It does not demonstrate a direct line from every Han youxia trait to scholar-official practice or from that practice to each later genre. “Absorption,” “decline,” and “transformation” may describe overlapping processes rather than a single succession. Claims about younger readers and genre decline are observations from the hosts, and the source does not establish readership or publishing trends. Historical and fictional uses of侠 remain internally diverse.
+The supplied episodes offer long-range interpretive syntheses rather than a continuous institutional or literary history. They do not demonstrate a direct line from every Han youxia trait to scholar-official practice, from that practice to each later genre, or from Confucian doctrine to Jin Yong's authorial intention. “Absorption,” “decline,” “transformation,” and “fusion” may describe overlapping processes rather than a single succession. Claims about earlier fiction's institutional dependence, New Culture influence, younger readers, and genre decline remain source-scoped. Historical and fictional uses of侠 remain internally diverse.
 
 ## What Changed
 
-- Created a boundary between historical youxia as a social-political role and literary wuxia as a changing moral and genre repertoire.
+- Added Confucian ethical practice and modern national consciousness as one layered route by which literary侠 acquires public duty.
+- Clarified that the儒侠 fusion is a new-school reinterpretation rather than an original identity or a proven linear inheritance.
 
 ## Related Concepts
 
@@ -54,3 +61,4 @@ The supplied episode offers a long-range interpretive synthesis rather than a co
 - [[ConsequenceSensitiveChivalry|后果敏感的侠义]] - normative test for whether righteous intent survives scrutiny of means and effects.
 - [[TraditionalWuxiaActionCraft|传统武侠动作设计]] - later screen and narrative craft that makes embodied combat part of the inherited genre.
 - [[WuxiaIntertextualCraft]] - literary mechanism by which later fiction recombines history, classics, religion, and folklore.
+- [[JinYongConfucianEthics]] - ethical transformation that joins侠 action to benevolence, conscience, people protection, and criticism of rigid ritual.

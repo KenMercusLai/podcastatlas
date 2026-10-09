@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 10131
+wiki_total_pages: 10132
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "JianghuVirtualKinship"
     title: "江湖虚拟血缘 / Jianghu Virtual Kinship"
     url: "/wiki/concepts/jianghuvirtualkinship/"
+  - key: "JinYongConfucianEthics"
+    title: "金庸小说的儒家伦理 / Jin Yong Confucian Ethics"
+    url: "/wiki/concepts/jinyongconfucianethics/"
   - key: "JinmaMenCourtLiteraryAccess"
     title: "金马门待诏 / Gold Horse Gate Court Literary Access"
     url: "/wiki/concepts/jinmamencourtliteraryaccess/"
