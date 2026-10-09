@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3264
+topic_total_pages: 3266
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3280,6 +3280,9 @@ topic_concepts:
   - key: "WeiJinStyleCulturalAfterlife"
     title: "Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效"
     url: "/wiki/concepts/weijinstyleculturalafterlife/"
+  - key: "WeiqiCulturalPromotion"
+    title: "Weiqi Cultural Promotion / 围棋文化推广"
+    url: "/wiki/concepts/weiqiculturalpromotion/"
   - key: "WeirdFiction"
     title: "Weird Fiction"
     url: "/wiki/concepts/weirdfiction/"
@@ -8556,6 +8559,9 @@ topic_sources:
   - key: "09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898"
     title: "09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？"
     url: "/wiki/sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898/"
+  - key: "092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u"
+    title: "092 金庸小说与围棋文化·聂卫平与金庸"
+    url: "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
   - key: "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65"
     title: "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》"
     url: "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"

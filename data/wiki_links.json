@@ -39,6 +39,10 @@
     "title": "09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？",
     "url": "/wiki/sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898/"
   },
+  "092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u": {
+    "title": "092 金庸小说与围棋文化·聂卫平与金庸",
+    "url": "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
+  },
   "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65": {
     "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
     "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
@@ -60275,6 +60279,10 @@
     "title": "聂腾飞",
     "url": "/wiki/entities/nietengfei/"
   },
+  "NieWeiping": {
+    "title": "聂卫平 / Nie Weiping",
+    "url": "/wiki/entities/nieweiping/"
+  },
   "NieWengyiWesternHan": {
     "title": "聂翁壹 / Nie Wengyi (Western Han)",
     "url": "/wiki/entities/niewengyiwesternhan/"
@@ -88398,6 +88406,10 @@
   "WeinanBattleLateHan": {
     "title": "渭南之战 / Battle of Weinan (Late Han)",
     "url": "/wiki/entities/weinanbattlelatehan/"
+  },
+  "WeiqiCulturalPromotion": {
+    "title": "Weiqi Cultural Promotion / 围棋文化推广",
+    "url": "/wiki/concepts/weiqiculturalpromotion/"
   },
   "WeirdFiction": {
     "title": "Weird Fiction",

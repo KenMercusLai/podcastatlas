@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [092 金庸小说与围棋文化·聂卫平与金庸](sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u.md) — 纸醉金迷FM以三分钟预告连接金庸、聂卫平、小说围棋书写、炎黄杯与出版收入支持，并纠正姓名、籍贯和版税去向的过强表述。
 - [VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样](sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y.md) — 急诊医生卫兵 / 魏兵解释危重优先分诊、危重风险排除、简洁病史、呼吸道疾病居家照护、低价值输液与分级就医边界。
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（1）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd.md) — 彭越因未亲征、部下劝反与告发先被废徙，后由吕雉带回并推动再诉，终遭灭族与尸体示众；蒯彻则以“各为其主”自辩获释。
 - [093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》](sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65.md) — 纸醉金迷FM以人质局、六剑阵、毒药误信与神水宫决战分析《画眉鸟》，赞赏“多出一柄剑”的系统破局并质疑水下终战的生理逻辑。
@@ -4255,6 +4256,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [639. Revolution in Iran: Death in the Desert (Part 4)](sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592.md) — The Rest Is History episode on the Iran hostage crisis, Operation Eagle Claw, Carter's defeat, Reagan's victory, and Khomeini's revolutionary consolidation.
 
 ## Entities
+- [聂卫平 / Nie Weiping](entities/NieWeiping.md) — 中国职业围棋手、国家队原总教练与文化推广者，本期以其和金庸的赛事及大众传播关系为中心。
 - [卫兵 / 魏兵 (Emergency Physician)](entities/WeiBingEmergencyPhysician.md) — VOL.194急诊医生，以危重优先、危重排除、低价值输液、科普责任与医生主导AI解释急诊边界。
 - [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
 - [水母阴姬 / Shui Mu Yin Ji](entities/ShuiMuYinJi.md) — 《画眉鸟》神水宫之主，将压倒性武力、毒药真相、隐秘依恋与相互留手集中于终局对手。
@@ -17188,6 +17190,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charlie Beckwith](entities/CharlieBeckwith.md) — Delta Force founder and Operation Eagle Claw planner whose elite-force confidence operated inside a tightly coupled rescue mission.
 
 ## Concepts
+- [Weiqi Cultural Promotion / 围棋文化推广](concepts/WeiqiCulturalPromotion.md) — 通过小说、影视、公众人物、赛事、荣誉与物质支持把围棋带出专业体系，同时区分曝光与可测参与效果。
 - [Low-Value Intravenous Infusion / 低价值静脉输液](concepts/LowValueIntravenousInfusion.md) — 以患者特定适应证区分必要静脉治疗与感冒、流感或“疏通血管”式安慰性输液，并计入穿刺、过敏、交叉感染与资源成本。
 - [Habit-Triggered System Disruption / 习惯触发式系统破局](concepts/HabitTriggeredSystemDisruption.md) — 以特定线索触发成员的熟练反应，使其个人动作与整体协调状态不相容的系统破局策略。
 - [Sincere False Belief / 诚实误信](concepts/SincereFalseBelief.md) — 区分诚实表达、主观经验、外部事实与因果解释，说明冲突证词不必等于蓄意说谎。

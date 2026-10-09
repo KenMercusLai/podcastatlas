@@ -130684,9 +130684,9 @@
       "url": "/wiki/entities/jinxiaolin/"
     },
     "JinYong": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -130736,9 +130736,16 @@
           "show": "纸醉金迷FM",
           "title": "097 金庸小说人物MBTI大盘点",
           "url": "/wiki/sources/097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6/"
+        },
+        {
+          "episode_file": "FvYIfftYReT8UZJEQlAX31KMTq9U [FvYIfftYReT8UZJEQlAX31KMTq9U].md",
+          "key": "092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u",
+          "show": "纸醉金迷FM",
+          "title": "092 金庸小说与围棋文化·聂卫平与金庸",
+          "url": "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/jinyong/"
     },
     "JinYongReclusionFreedom": {
@@ -174971,6 +174978,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/nietengfei/"
+    },
+    "NieWeiping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvYIfftYReT8UZJEQlAX31KMTq9U [FvYIfftYReT8UZJEQlAX31KMTq9U].md",
+          "key": "092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u",
+          "show": "纸醉金迷FM",
+          "title": "092 金庸小说与围棋文化·聂卫平与金庸",
+          "url": "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/nieweiping/"
     },
     "NieWengyiWesternHan": {
       "episode_count": 1,
@@ -256090,6 +256113,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/weinanbattlelatehan/"
+    },
+    "WeiqiCulturalPromotion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvYIfftYReT8UZJEQlAX31KMTq9U [FvYIfftYReT8UZJEQlAX31KMTq9U].md",
+          "key": "092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u",
+          "show": "纸醉金迷FM",
+          "title": "092 金庸小说与围棋文化·聂卫平与金庸",
+          "url": "/wiki/sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/weiqiculturalpromotion/"
     },
     "WeirdHistoryPodcast": {
       "episode_count": 23,

@@ -33416,3 +33416,11 @@ Added source `vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanqua
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 092 金庸小说与围棋文化·聂卫平与金庸
+
+Added source `092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u`; created [[NieWeiping|聂卫平]] and [[WeiqiCulturalPromotion|围棋文化推广]]; and resynthesized [[JinYong|金庸]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: popular fiction and adaptation can create informal exposure to go, while elite-player advocacy, tournaments, honorary recognition, and material support offer distinct promotional channels; the three-minute preview does not measure recruitment or explain the promised examples. The excerpt's “聂伟平” spelling and Taiwan attribution conflict with authoritative records and are rejected, while its claim that all royalties went to one go institution is narrowed to after-tax proceeds distributed among cultural institutions and go activities. Tournament roles, rank meaning, audience conversion, friendship detail, literary examples, and influence scale remain source-scoped. The broad show page was kept closed because the focused source, person, author, and concept capture the bounded addition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,184 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

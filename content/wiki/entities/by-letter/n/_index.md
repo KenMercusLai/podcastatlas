@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12876
+wiki_total_pages: 12877
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "NetEaseKaola"
     title: "网易考拉 / NetEase Kaola"
     url: "/wiki/entities/neteasekaola/"
+  - key: "NieWeiping"
+    title: "聂卫平 / Nie Weiping"
+    url: "/wiki/entities/nieweiping/"
   - key: "NieShangLateHan"
     title: "聂尚 / Nie Shang (Eastern Han)"
     url: "/wiki/entities/nieshanglatehan/"

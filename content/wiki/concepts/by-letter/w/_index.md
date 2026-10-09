@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10054
+wiki_total_pages: 10055
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "WeiJinStyleCulturalAfterlife"
     title: "Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效"
     url: "/wiki/concepts/weijinstyleculturalafterlife/"
+  - key: "WeiqiCulturalPromotion"
+    title: "Weiqi Cultural Promotion / 围棋文化推广"
+    url: "/wiki/concepts/weiqiculturalpromotion/"
   - key: "WeirdFiction"
     title: "Weird Fiction"
     url: "/wiki/concepts/weirdfiction/"

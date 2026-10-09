@@ -10,7 +10,8 @@ sources:
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 098-jinyong-qunxia-mbti-pandian-xiake-ye-fen-t-f-jren-pren-hui-pengzhuang-chu-shenme-llzlqwnxa3t6auj7qvox9gjdouy
   - 097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6
-last_updated: 2026-10-07
+  - 092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,9 +31,11 @@ The paired MBTI episodes add a comparative reading of character patterns across 
 
 Episode 504 adds the newspaper relationship. Jin recognized Lin's writing while Lin worked as a researcher at Ming Pao, gave him pen names and editorial opportunity, and benefited from his background research. Their later relationship combined newspaper competition, conflict over a rival financial publication, and open disagreement about Hong Kong constitutional arrangements. The source nevertheless presents mutual civility and recognition of cultural contribution as surviving public dispute.
 
+The short go-culture preview adds a public-patronage layer. It presents Jin's go scenes and adaptations as informal cultural entry points, associates him with [[NieWeiping|聂卫平]] in tournament promotion, mentions an honorary amateur sixth-dan rank, and connects his authorized mainland publishing income to cultural institutions and go activity. These claims broaden his profile beyond authorship and journalism, but the supplied excerpt does not quantify audience conversion or explain the events, rank, or relationship in detail.
+
 ## Key Characteristics
 
-- Converted wide cultural knowledge into popular literary form.
+- Converted wide cultural knowledge into popular literary form and, in the bounded go example, into an informal route toward another cultural practice.
 - Used historical settings and factional conflict to explore mobility, identity, and power.
 - Repeatedly used withdrawal endings to test freedom from role, hierarchy, reputation, and attachment.
 - Operated at the intersection of fiction, newspaper publishing, and political commentary.
@@ -68,16 +71,20 @@ Episode 504 adds the newspaper relationship. Jin recognized Lin's writing while 
 - [[097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6]] compares I/E and N/S while distinguishing chosen solitude, upbringing, trauma, social competence, abstraction, concrete attention, and idealized projection.
 - [[097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6]] preserves disagreement over Ren Yingying and the hosts' admitted N/S selection bias rather than converting their examples into a definitive taxonomy.
 
+### Go culture and public support
+
+- [[092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u]] presents fiction and adaptation as routes into go culture and associates Jin with Nie Weiping and the 炎黄杯.
+- [[092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u]] mentions an honorary amateur sixth-dan rank and mainland publishing proceeds directed toward cultural institutions and go activity, while preserving the stronger donation claim as disputed.
+
 ## Qualifications
 
-The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes.
+The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes. The go-culture source is a three-minute preview with transcription errors; it does not establish tournament roles, rank meaning, audience conversion, or the full destination of the reported publishing proceeds.
 
 ## What Changed
 
-- Extended the bounded personality-typing layer from T/F and J/P to I/E and N/S.
-- Distinguished similar outward solitude by chosen separation, upbringing, and trauma, and preserved social competence as separate from energy orientation.
-- Added abstraction, concrete attention, idealization, and analyst bias without treating any axis as a moral or competence ranking.
-- Preserved the existing literary-craft, political-reading, reclusion, adaptation, and newspaper relationship layers.
+- Added go culture as a bounded example of fiction and adaptation creating informal cultural exposure.
+- Added reported tournament promotion with Nie Weiping, honorary amateur recognition, and material support.
+- Narrowed the publishing-proceeds claim and preserved the preview's missing evidence rather than inferring scale or effect.
 
 ## Relationships
 
@@ -93,3 +100,5 @@ The literary sources are selective podcast interpretations rather than a full st
 - [[AdaptationReceptionMemory]] - reception framework for how broadcast access and formative viewing shape Jin Yong's screen canon.
 - [[JournalisticIndependenceAgainstFaction]] - adjacent press ethic visible in Lin and Jin's disagreements.
 - [[FictionalCharacterTypingBoundary]] - safeguard for comparing recurring character choices without assigning definitive personality identities.
+- [[NieWeiping]] - go champion linked to Jin through reported friendship, event promotion, and cultural advocacy.
+- [[WeiqiCulturalPromotion]] - framework for Jin's reported narrative, public, event, recognition, and funding contributions to go.
