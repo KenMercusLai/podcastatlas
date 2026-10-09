@@ -8,48 +8,52 @@ sources:
   - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u
   - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc
   - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
-last_updated: 2026-09-20
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi
+last_updated: 2026-10-10
 ---
 
-# 专才分工式领导力 / Specialist Delegation Leadership
-
 ## Definition
-专才分工式领导力 / specialist delegation leadership is the capacity to identify distinct strategic, logistical, advisory, and command skills; place them in usable roles; supply them with authority and resources; and retain responsibility for integrating their work. The leader's comparative advantage is coordination, not personal superiority in every specialist domain.
+
+专才分工式领导力 / specialist delegation leadership is the capacity to identify distinct specialist abilities, assign them usable roles and resources, supervise their performance, integrate their outputs, and retain accountability for the whole. The leader's comparative advantage is coordinated judgment, not personal superiority in every technical domain.
 
 ## Current Synthesis
-The concept begins with [[LiuBang|刘邦]]'s South Palace explanation in [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]]. Liu Bang says he is inferior to [[ZhangLiang|张良]] in strategy, [[XiaoHe|萧何]] in supply and administration, and [[HanXin|韩信]] in battlefield command, but can use all three. Leadership here is not generic humility: it is the ability to combine specialists into a state-making system, contrasted with [[XiangYu|项羽]]'s inability to use [[FanZeng|范增]] effectively.
 
-The two Hanji 174 sources show that delegation also requires political recognition. Liu Bang's “功人” defense of Xiao He and [[EQianqiu|鄂千秋]]'s comparison of durable supply with episodic combat translate less visible organizational work into reward rank. If the merit order recognizes only battlefield visibility, the system misprices the specialization that sustains it.
+The evidence now spans ruler doctrine, founding merit, crisis execution, and a pre-imperial teaching anecdote. [[LiuBang|刘邦]] explains Han victory by his ability to use [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] in strategy, administration, and command. The Hanji 174 pair shows that such a system also needs a reward language capable of recognizing invisible enabling work, otherwise visible combat crowds out logistics and organization.
 
-[[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] extends the pattern from retrospective victory explanation to live crisis design. [[SunQuan|孙权]] hears [[LuSu|鲁肃]] on ruler-specific surrender risk and [[ZhouYuLateHan|周瑜]] on legitimacy, force composition, terrain, climate, and disease; he then sends Zhou Yu and [[ChengPuLateHan|程普]] forward, assigns Lu Su a planning role, supplies troops and materiel, and retains responsibility for reinforcement. Delegation is therefore not abdication: specialist analysis, field execution, resource provision, and final political accountability remain distinct but connected.
+Hanji 1102 shows delegation in motion: [[SunQuan|孙权]] separates [[LuSu|鲁肃]]'s stakeholder-risk counsel, [[ZhouYuLateHan|周瑜]]'s operational assessment, Zhou Yu and [[ChengPuLateHan|程普]]'s field command, material support, and the ruler's reinforcement responsibility. Zhouji 05 part 3 supplies the most compact normative statement: [[TianZifang|田子方]] tells [[WeiWenhou|魏文侯]] that detecting a bad bell note is not the ruler's central task; selecting and supervising the responsible music official is.
 
 ## Key Claims
-- Leadership advantage can lie in coordinating specialists rather than outperforming them within their own domains.
-- Effective delegation requires role differentiation, usable authority, and sufficient resources, not praise alone.
-- Strategy, logistics, battlefield command, stakeholder-risk analysis, and political commitment are separable capacities that must still be integrated.
-- Invisible enabling work must be made legible in reward and status systems or visible frontline work will dominate the merit narrative.
-- Delegation does not remove leader accountability; the leader still chooses the objective, resolves conflicts, and owns reinforcement or failure.
-- A specialist system is fragile when the leader distrusts expertise, withholds resources, or cannot translate contributions into a coherent order.
+
+- Leadership advantage can lie in coordinating specialists rather than outperforming them in their own domains.
+- Delegation requires role differentiation, usable authority, resources, and review, not praise or task dumping alone.
+- Strategy, administration, logistics, technical craft, field command, and stakeholder judgment are separable but interdependent capacities.
+- The leader remains responsible for appointments, objectives, conflict resolution, reinforcement, evaluation, and failure.
+- Reward systems must make less visible enabling work legible or frontline visibility will distort merit.
+- Technical acuity can help supervision, but it becomes misallocated attention when it substitutes for managing the accountable specialist.
 
 ## Evidence
-- Specialist coordination: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] has Liu Bang distinguish Zhang Liang's strategy, Xiao He's administrative supply, and Han Xin's command while defining his own advantage as using all three.
-- Recognition of enabling work: [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174 part 1]] ranks Xiao He's state-sustaining work above visible pursuit; [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] has E Qianqiu make that ranking publicly intelligible against Cao Shen's combat merit.
-- Crisis role design: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] separates Lu Su's political-risk counsel, Zhou Yu's campaign assessment, Zhou Yu and Cheng Pu's field command, and Sun Quan's resource and reinforcement responsibility.
+
+- Coordinating superior specialists: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] has Liu Bang distinguish Zhang Liang's strategy, Xiao He's administration, and Han Xin's command while defining his own advantage as using all three.
+- Recognizing enabling work: [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174 part 1]] and [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|part 2]] rank Xiao He's durable state-preservation work against more visible battlefield merit and explain that ranking publicly.
+- Crisis role design: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] separates political-risk advice, campaign analysis, field command, supplies, and reinforcement responsibility before Red Cliffs.
+- Appointment over technical display: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] has Tian Zifang redirect Wei Wenhou from personally diagnosing bell pitch toward selecting and managing the music official.
 
 ## Counterevidence & Qualifications
-The sources are popular-history episodes and do not establish that every successful leader followed a formal delegation doctrine. Liu Bang's South Palace statement is also self-legitimating victory interpretation, while the Xiao He ranking occurs inside a contested founding reward order. Hanji 1102's exact titles, force numbers, dialogue, and modern leadership gloss remain source-scoped. Clear specialization can improve judgment, but it can also create coordination failures, distorted reporting, or principal-agent problems; final integration and accountability cannot simply be delegated away.
+
+The episodes do not establish a universal formal doctrine. Liu Bang's South Palace account is a self-legitimating victory explanation; the Xiao He ranking occurs inside a contested reward settlement; Hanji 1102's force counts, dialogue, and role labels remain source-scoped; and Tian Zifang's “君子不器” reading is the episode's management interpretation of an anecdote. Specialization can also create reporting distortion, coordination costs, dependency, and principal-agent problems, so delegation does not remove the need for domain literacy or independent verification.
 
 ## What Changed
-- Extended the concept from early-Han retrospective victory and reward logic to a live late-Han crisis decision.
-- Added political-risk counsel, force assessment, field command, resources, and reinforcement as distinct but integrated roles.
-- Clarified that delegation preserves rather than dissolves the leader's final accountability.
-- Migrated the page to the synthesis-first knowledge schema without changing its prior evidence inventory.
+
+- Added Tian Zifang's ruler-versus-music-official distinction as the concept's clearest appointment-and-supervision rule.
+- Clarified that technical skill is useful only when it supports, rather than replaces, accountable role design.
+- Extended the concept backward from Han and late-Han cases to early Warring States ruler education.
 
 ## Related Concepts
-- [[FoundingMeritHierarchy|建国功臣排序]] - translates differentiated specialist contributions into a politically accepted reward order.
-- [[MeritBasedRewardPunishment|因功赏罚]] - provides the recognition mechanism needed to sustain specialist trust.
-- [[OperationalGapOwnership|主动补组织短板]] - describes a subordinate voluntarily filling a missing role inside the delegated system.
-- [[UseStrengthsOverFaults|用人取长弃短]] - focuses on tolerating defects to use a person's strongest capability.
-- [[SecondInCommandRoleFit|二把手角色适配]] - narrows the broader delegation problem to matching a deputy with bounded duties.
-- [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]] - supplies the stakeholder-risk diagnosis that Sun Quan combines with military expertise.
-- [[DecisiveResourceCommitment|决断型资源投入]] - addresses whether a chosen specialist plan receives enough resources to remain credible.
+
+- [[FoundingMeritHierarchy|建国功臣排序]] - translates specialist contributions into an accepted reward order.
+- [[MeritBasedRewardPunishment|因功赏罚]] - sustains differentiated roles through credible recognition.
+- [[UseStrengthsOverFaults|用人取长弃短]] - focuses on using a person's strongest role despite bounded defects.
+- [[SecondInCommandRoleFit|二把手角色适配]] - applies role differentiation to deputies.
+- [[DecisiveResourceCommitment|决断型资源投入]] - asks whether a selected specialist plan receives enough resources.
+- [[HighMeritThreatManagement|功高不震主]] - addresses the hierarchy problem that can arise after delegated specialists succeed.
+- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - explains how leaders gain access to specialists worth delegating to.

@@ -1,39 +1,62 @@
 ---
 title: "魏武侯 / Marquis Wu of Wei"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-19
+sources:
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm
+  - zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll
+  - zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm
+  - zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi
+last_updated: 2026-10-10
 ---
 
-# 魏武侯 / Marquis Wu of Wei
+## Overview
 
-魏武侯 / Marquis Wu of Wei appears in [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] as [[WeiWenhou|魏文侯]]'s son and successor. The episode treats his accession as the third major notice in 397 BCE, after the solar eclipse and the [[NieZheng|聂政]] assassination.
+魏武侯 / Marquis Wu of Wei is [[WeiWenhou|魏文侯]]'s son and successor in the wiki's early [[WeiState|魏国]] chronology. Before accession, the supplementary sources identify him with crown prince Wei Ji and place him in the politically ambiguous administration of conquered [[ZhongshanState|中山国]]; his later reign combines interstate conflict, court manipulation, the loss of [[WuQi|吴起]], and an unresolved succession.
 
-His page is source-scoped. It anchors the transition of [[WeiState|魏国]] from the Wenhou generation into a new ruler's reign, without attempting a full biography.
+## Current Profile
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds a retrospective succession-recovery story from [[ZizhiTongjianBu|《资治通鉴补》]]. The episode says the future Wei Wuhou was sent by [[WeiWenhou|魏文侯]] to detached [[ZhongshanState|中山国]], a move the host reads as possible displacement from the heir track. [[ZhaoCangtang|赵苍唐]] then uses gifts, title etiquette, and [[Shijing|《诗经》]] allusions to get Wei Wenhou to summon him back and restore him as heir. The source transcript uses forms such as 魏姬, so this page keeps the identification with Wei Wuhou source-scoped.
+The current evidence links three phases. As crown prince Wei Ji, he is sent to Zhongshan, receives a sharp etiquette lesson from [[TianZifang|田子方]], and is later restored to the heir track through [[ZhaoCangtang|赵苍唐]]'s poetic and protocol-based persuasion. As ruler, he receives Wu Qi's warning that political virtue matters more than terrain, but his court becomes vulnerable to [[GongshuWeiChancellor|公叔]]'s marriage trap and drives Wu Qi toward Chu. At death, his failure to designate a successor turns domestic ambiguity into Han-Zhao intervention and near partition.
 
-[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] develops that reign through two court scenes. On the West River, Wei Wuhou praises natural barriers, and [[WuQi|吴起]] warns him through [[VirtueOverNaturalBarriers]] that the state's true security depends on virtue and internal political order. In the chancellor sequence, Wei Wuhou's recent accession creates the unstable context in which [[TianWenWeiChancellor|田文]] is judged more fitting than Wu Qi.
+## Key Characteristics
 
-The same source also makes Wei Wuhou vulnerable to court manipulation. [[GongshuWeiChancellor|公叔]]'s marriage-proposal test tries to turn Wu Qi's refusal of a princess into evidence that he lacks commitment to Wei.
+- Crown prince associated with Zhongshan governance before accession.
+- Learns that elevated status increases the danger of treating scholars contemptuously.
+- Successor whose early court must choose stability and role fit after a prestigious reign.
+- Ruler susceptible to factional manipulation around Wu Qi.
+- Participant in broad early Warring States conflict and unstable Zhongshan control.
+- Leaves no clear heir designation, exposing Wei to civil war and foreign intervention.
 
-[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] follows the consequence from Wu Qi's side: after recognizing the danger, Wu Qi fears Wei Wuhou may kill him and flees to [[ChuState|楚国]]. Wei Wuhou therefore becomes the ruler whose court politics push Wu Qi out of Wei and into the Chu reform arc.
+## Evidence
 
-[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] makes Wei Wuhou a ruler in broad conflict rather than only court politics. The episode places him in the Han-Zhao-Wei rescue of Yan, the fighting with Zhao and Qi, Chu's opportunistic pressure, and the detached Zhongshan problem around his brother [[WeiZhi|魏挚]].
+- Crown-prince phase: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] names Wei Ji as Wei Wenhou's son, Zhongshan appointee, and the prince rebuked by Tian Zifang; [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p|Zhouji 10 part 4]] source-scopes the identification with the future Wei Wuhou and narrates his restoration.
+- Accession and ruler profile: [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm|Zhouji 07 part 2]] records succession; [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll|Zhouji 08 part 1]] gives the West River warning, chancellor choice, and marriage trap.
+- Wu Qi's departure: [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm|Zhouji 08 part 2]] says Wu Qi fears for his life and flees to [[ChuState|楚国]].
+- Interstate setting: [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl|Zhouji 09]] places Wei Wuhou in broad war and Zhongshan's revival.
+- Succession failure: [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi|Zhouji 10 part 2]] records the unclear designation; [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf|part 3]] follows the civil war and failed Han-Zhao settlement.
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] closes Wei Wuhou's reign with [[SuccessionNonDesignationRisk]]. The source says he dies without clearly designating an heir, leaving [[LiangHuiWang|魏罃]] and [[GongzhongHuan|公中缓]] to fight and throwing [[WeiState|魏国]] into disorder; the host says this event is probably misplaced in the annalistic sequence.
+## Qualifications
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] shows the posthumous cost of that non-designation. The succession conflict gives [[HanState|韩国]] and [[ZhaoState|赵国]] an opening to defeat Wei, besiege [[Anyi|安邑]], and nearly redesign the state.
+The “魏击 / 魏姬” forms and their identification with Wei Wuhou are normalized cautiously across podcast and supplementary traditions; the current wiki treats them as the same crown-prince branch but does not claim the transcripts are textually clean. The chronology of his death and succession conflict is also explicitly flagged as possibly displaced. His page is a synthesis of selected court and war episodes, not a full reign biography.
 
-## Connections
-- [[WeiState|魏国]] - polity he rules.
-- [[WeiWenhou|魏文侯]] - predecessor and father in the source.
-- [[ZhaoCangtang|赵苍唐]], [[ZhongshanState|中山国]], [[Shijing|《诗经》]], [[PoetryAsElitePoliticalLanguage]], and [[PowerEtiquetteReading]] - Zhouji 10 part 4 restoration branch.
-- [[ZhouAnWang|周安王]] - annalistic reign frame.
-- [[WarringStatesPeriod|战国时期]] - period setting.
-- [[WuQi|吴起]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - early-reign court-politics branch.
-- [[ChuState|楚国]] and [[WarringStatesReformBacklash]] - downstream branch after Wu Qi's flight.
-- [[EarlyWarringStatesInterstateWar]], [[ZhongshanState|中山国]], and [[WeiZhi|魏挚]] - Zhouji 09 interstate-war and frontier-control branch.
-- [[LiangHuiWang|魏罃 / 梁惠王]], [[GongzhongHuan|公中缓]], [[SuccessionNonDesignationRisk]], and [[ChronicleChronologyDrift]] - Zhouji 10 part 2 succession-disorder branch.
-- [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 consequences of unresolved succession.
+## What Changed
+
+- Migrated the page to the synthesis-first schema while preserving all seven prior sources.
+- Added Wei Ji's encounter with Tian Zifang as a crown-prince lesson in rank and restraint.
+- Added the part 3 account of Zhongshan appointment as support for the earlier, source-scoped restoration tradition.
+- Integrated crown-prince formation, ruler vulnerability, and succession failure into one lifecycle profile.
+
+## Relationships
+
+- [[WeiWenhou|魏文侯]] - father and predecessor who sends him to Zhongshan and later restores him as heir in the supplementary branch.
+- [[TianZifang|田子方]] - scholar whose refusal to return a bow becomes a lesson in power restraint.
+- [[ZhongshanState|中山国]] - conquered territory tied to his pre-accession appointment and political displacement.
+- [[WuQi|吴起]] - commander driven from Wei by the court environment of Wei Wuhou's reign.
+- [[GongshuWeiChancellor|公叔]] - minister whose marriage test turns court politics against Wu Qi.
+- [[SuccessionNonDesignationRisk|未定继承人风险]] - central failure at the end of Wei Wuhou's reign.
+- [[LiangHuiWang|魏罃 / 梁惠王]] - eventual successor after the civil conflict.

@@ -33976,3 +33976,11 @@ Added source `624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893`
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）
+
+Added source `zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi`; and migrated and resynthesized [[WeiWenhou|魏文侯]], [[TianZifang|田子方]], [[LeYang|乐羊]], [[WeiWuhou|魏武侯]], [[HighMeritThreatManagement|功高不震主]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wei Wenhou's personnel system joins political protection during a long campaign with visible hierarchy repair after victory, while Tian Zifang defines rulership as appointing and supervising specialists and explains scholar confidence through credible exit in a competitive interstate talent market. No settled contradiction was adopted. The identification of 魏击 with the future Wei Wuhou, memorial contents, grant scope, dialogue wording, Zhongshan appointments, Le-family continuity, and the Qin-unification contrast remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,254 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

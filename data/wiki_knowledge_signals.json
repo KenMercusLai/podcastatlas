@@ -112395,9 +112395,9 @@
       "url": "/wiki/concepts/highintensityresistancetraining/"
     },
     "HighMeritThreatManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -112412,9 +112412,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
     "HighOfficeRefusalAsRiskAvoidance": {
@@ -142875,6 +142882,43 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/levieuxcordelier/"
+    },
+    "LeYang": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？ [lj6wi61OsaYTowgMdp8dTKRwB-si].md",
+          "key": "zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘 [ls13iXMBhFlepjGpeLxgu6IDJQA2].md",
+          "key": "zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/leyang/"
     },
     "LeaderPersonalExposure": {
       "episode_count": 3,
@@ -231667,9 +231711,9 @@
       "url": "/wiki/concepts/speakeasyexperiencedesign/"
     },
     "SpecialistDelegationLeadership": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2） [luet7GqKakO8Idt9o3Ccqq7CGpBt].md",
@@ -231698,9 +231742,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/specialistdelegationleadership/"
     },
     "SpecialtyRetailLogistics": {
@@ -246603,6 +246654,36 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/tianzichunwesternhan/"
     },
+    "TianZifang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1） [lmKXzbmwHW3NhuraPe_EEbydQCDl].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/tianzifang/"
+    },
     "TiananmenCrackdown1989": {
       "episode_count": 1,
       "show_count": 1,
@@ -260137,6 +260218,148 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/warrencommission/"
     },
+    "WarringStatesCareeristMobility": {
+      "episode_count": 19,
+      "show_count": 1,
+      "source_note_count": 19,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？ [lthw0FVVinmF6GHXPqUT60agSUeg].md",
+          "key": "zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国 [lj0222vW8IJbvj25IWFZh-QhVZr9].md",
+          "key": "zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？ [lmv-Fw-KGSuOKONssQ8bKbfVdsb_].md",
+          "key": "zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相 [lhFyb6HZcQkPBZDrwsxAjb7hHmHe].md",
+          "key": "zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》88丨你怎么看待凤凰男（2） [lpzyzIwW177YvvjkSmUIoA_p_1QI].md",
+          "key": "zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》88丨你怎么看待凤凰男（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》88丨你怎么看待凤凰男（1） [lpuXKDq_RVNiFUoneq212g53W5z5].md",
+          "key": "zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》88丨你怎么看待凤凰男（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？ [lse6QmQqHOyQDZQJl4qFUViOeIW0].md",
+          "key": "zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何 [ljw0lLToWxd4qZ75V-wcNlKwQSkv].md",
+          "key": "zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》59丨一朝君王一朝臣 [ljQ_qkUEiX0RNzFEkzuaDIcCE1bH].md",
+          "key": "zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》59丨一朝君王一朝臣",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王 [lsclFbWN06FGzooIpF5Up9sDkEDy].md",
+          "key": "zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》54丨我尊你是王，你当我是屁 [lvHCZ0Ban9FRLmWsHD9vcH-q7-Ie].md",
+          "key": "zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》54丨我尊你是王，你当我是屁",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮 [lvmO2cwbafCG2gnXLIuO18feWImK].md",
+          "key": "zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘 [ls13iXMBhFlepjGpeLxgu6IDJQA2].md",
+          "key": "zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的 [ltXgq6oxO1zLKKC6XqjO8_5HTNs4].md",
+          "key": "zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的 [lv2gc2wtCxuHUgFGixk7rbBHpA6x].md",
+          "key": "zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门 [lvV4_Bz8SM9sCEZcI_O_msaPKviL].md",
+          "key": "zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》38丨搞兼职的张仪不一般 [loBhCPz679Psy54K0IDuccqKFcrn].md",
+          "key": "zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》38丨搞兼职的张仪不一般",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/warringstatescareeristmobility/"
+    },
     "WarsOfTheRoses": {
       "episode_count": 4,
       "show_count": 2,
@@ -261326,6 +261549,136 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/weiwanwesternhan/"
+    },
+    "WeiWenhou": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2） [lk_D9uibhnEERfoL6z2rRLE_6yPm].md",
+          "key": "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1） [lmKXzbmwHW3NhuraPe_EEbydQCDl].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2） [lmfZo4SL9nD5Kz3mrxdl1dL9EFEI].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（2） [lhNGST3xsnYJRMZH1CvheocVVSQm].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4） [lhjZ_M12PeDKfsZxYZGqTjnPsN3P].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/weiwenhou/"
+    },
+    "WeiWuhou": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（2） [lhNGST3xsnYJRMZH1CvheocVVSQm].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》08丨一代名将吴起惨死（1） [lq5r3XE_3Y7aL9NkBC8KYhNtiplL].md",
+          "key": "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》08丨一代名将吴起惨死（2） [lvAqlGYCcRugfO0l_WuwF1mt1kcm].md",
+          "key": "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》09丨战国时代的世界大战 [losmuM91VjpqfyMYWelj60O7-VBL].md",
+          "key": "zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》09丨战国时代的世界大战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2） [lmnqfjmYdYgqNFec6XhZpixRALVI].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3） [lmHJ4Le2mWu1yHhL-qmuoQKfMHjf].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4） [lhjZ_M12PeDKfsZxYZGqTjnPsN3P].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3） [lqBR7I9s82pI1JpTiZS18GidsIPI].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/weiwuhou/"
     },
     "WeiXiangWesternHan": {
       "episode_count": 3,

@@ -1,44 +1,64 @@
 ---
 title: "魏文侯 / Marquis Wen of Wei"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, ruler, warring-states, wei-state]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-19
+sources:
+  - zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm
+  - zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v
+  - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl
+  - zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi
+last_updated: 2026-10-10
 ---
 
-# 魏文侯 / Marquis Wen of Wei
+## Overview
 
-[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds Wei Wenhou's formal identity in the [[ZizhiTongjian|《资治通鉴》]] opening notice. The episode identifies him as Wei Si, one of the three Jin grandees recognized by [[ZhouWeilieWang|周威烈王]], and previews him as the most capable and prestigious leader among the three.
+魏文侯 / Marquis Wen of Wei, identified as Wei Si, is the early [[WeiState|魏国]] ruler whose formal recognition by [[ZhouWeilieWang|周威烈王]] makes him part of the [[ThreeJinVassalRecognition|三晋受封]] settlement. The wiki's evidence presents him less as a single-policy ruler than as a builder of credibility, talent networks, and disciplined delegation.
 
-[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] directly develops that preview. The episode presents Wei Wenhou's first major quality as [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]: he honors [[ZiXia|子夏]] and [[TianZifang|田子方]] as teachers and salutes [[DuanGanmu|段干木]]'s residence even when Duan Ganmu avoids him.
+## Current Profile
 
-The same source adds Wei Wenhou's credibility image. His rainy hunting-appointment story becomes [[SmallTrustBuildsLargeTrust|小信诚则大信立]], where keeping a minor promise signals that the ruler's word can support larger political trust.
+Wei Wenhou's political strength rests on making relationships usable without dissolving hierarchy. He honors [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] as teachers; keeps small promises and applies the same rationale to Han and Zhao; asks [[LiKe|李克]] to compare chancellor candidates and evaluate [[WuQi|吴起]]; and allows specialist commanders and administrators to operate while retaining appointment and review authority.
 
-[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] returns to the same rainy appointment in [[SimaGuang|司马光]]'s four-example trust commentary. In this later use, Wei Wenhou is placed beside [[QiHuanGong|齐桓公]], [[JinWenGong|晋文公]], and [[XimuLixin|徙木立信]], making his small promise part of a broader argument about state credibility.
+The new Zhouji 05 part 3 evidence sharpens the superior-subordinate side. After [[LeYang|乐羊]] conquers [[ZhongshanState|中山国]], Wei Wenhou reveals the hostile memorials he had absorbed during the campaign, inducing Le Yang to return credit upward. In the music exchange, Tian Zifang tells him that a ruler's task is to appoint and supervise the music official, not personally become the specialist. These cases connect talent respect with hierarchy repair and accountable delegation rather than with passive admiration.
 
-The episode then extends the pattern to diplomacy. Wei Wenhou refuses both [[HanState|韩国]]'s request to attack [[ZhaoState|赵国]] and Zhao's request to attack Han, using the same Three Jin brotherhood rationale; the symmetry later makes Han and Zhao accept Wei as the elder-brother figure through [[SymmetricInterstateCredibility|对称外交信用]].
+## Key Characteristics
 
-[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] fills in the chancellor-selection question directly. Wei Wenhou asks [[LiKe|李克]] how to choose between [[WeiCheng|魏成]] and [[DiHuang|翟黄]], receives [[SituationalCharacterTests|five situational character tests]], and then decides on Wei Cheng.
+- Builds authority through credible small commitments and symmetrical interstate conduct.
+- Treats eminent scholars as teachers, making respectful access part of Wei's talent attraction.
+- Uses comparative personnel judgment, including situational character tests and referral quality.
+- Accepts role-fit use of flawed but scarce specialists such as Wu Qi.
+- Protects a commander through a long campaign, then restores hierarchy by making that protection visible after victory.
+- Distinguishes ruler accountability from specialist execution: appointment, supervision, and integration remain his work.
 
-The source turns Wei Wenhou's court into a [[TalentReferralQuality|referral-quality]] problem. Di Huang can name useful recommendations such as [[WuQi|吴起]], [[XimenBao|西门豹]], [[LeYang|乐羊]], and [[QuHoufu|屈侯鲋]], but Wei Cheng is linked to [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]], people Wei Wenhou treats as teachers rather than only usable ministers.
+## Evidence
 
-The same source also has Wei Wenhou consult Li Ke on whether to use Wu Qi. Li Ke's answer makes Wei Wenhou a ruler balancing [[TalentVirtueDistinction|talent-virtue risk]] against [[UseStrengthsOverFaults|role-fit military value]].
+- Formal position and succession: [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik|Zhouji 04]] identifies Wei Si in the Three Jin recognition; [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm|Zhouji 07 part 2]] records his death and [[WeiWuhou|魏武侯]]'s succession.
+- Credibility and talent respect: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl|Zhouji 05 part 1]] supplies the teacher relationships, rainy appointment, and mirrored Han-Zhao refusals; [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13 part 2]] reuses the appointment as a state-credibility example.
+- Personnel selection: [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v|Zhouji 06 part 1]] has Wei Wenhou consult Li Ke on Wei Cheng, Di Huang, and Wu Qi; [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei|Zhouji 06 part 2]] carries the branch into military leadership.
+- High-merit hierarchy repair: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] says Wei Wenhou shows Le Yang the anti-campaign memorials he had resisted, prompting the commander to acknowledge ruler support.
+- Delegation and family politics: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] uses Tian Zifang's music lesson to separate ruling from technical performance; [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p|Zhouji 10 part 4]] preserves the later Zhongshan heir-restoration supplement.
 
-[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] then returns to Wei Wenhou mainly through the episode title and [[WuQi|吴起]]'s military discipline, bridging the chancellor-selection topic into commander-soldier leadership and early Warring States chronology.
+## Qualifications
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds a more complicated family-politics scene through [[ZizhiTongjianBu|《资治通鉴补》]]. In this source, Wei Wenhou has sent the future [[WeiWuhou|魏武侯]] to [[ZhongshanState|中山国]], but [[ZhaoCangtang|赵苍唐]] uses gifts, title correction, and [[Shijing|《诗经》]] allusions to get Wei Wenhou to recognize the son's status and summon him back. Wei Wenhou's response is itself coded through clothing and timing, making him part of the source's [[PoetryAsElitePoliticalLanguage|poetic political language]] case.
+The corpus combines annalistic notices, supplementary stories, and modern management readings from podcast sources. Zhouji 10 part 4 explicitly treats the future Wei Wuhou identification and restoration story as source-scoped, while Zhouji 05 part 3's exact memorials, grant terms, dialogue, and Zhongshan appointments are not independently verified here. Respect, credibility, and delegation should therefore be read as the current synthesis of bounded episodes, not a complete reign history or proof of private motive.
 
-[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] supplies that later succession notice: Wei Wenhou dies in 397 BCE and his son [[WeiWuhou|魏武侯]] succeeds him.
+## What Changed
 
-## Connections
-- [[WeiState|魏国]] - state context.
-- [[ZhouWeilieWang|周威烈王]], [[HanJinghou|韩景侯]], [[ZhaoLiehou|赵烈侯]], and [[ThreeJinVassalRecognition]] - formal-recognition branch.
-- [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - talent-respect branch.
-- [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - main Zhouji 05 concepts and Zhouji 13 trust-commentary reuse.
-- [[QiHuanGong|齐桓公]], [[JinWenGong|晋文公]], and [[XimuLixin|徙木立信]] - other trust examples paired with Wei Wenhou in Zhouji 13 part 2.
-- [[LiKe|李克]], [[WeiCheng|魏成]], [[DiHuang|翟黄]], [[SituationalCharacterTests]], and [[TalentReferralQuality]] - chancellor-selection branch.
-- [[HanState|韩国]] and [[ZhaoState|赵国]] - states whose mirrored requests become the source's diplomacy case.
-- [[WuQi|吴起]] - military figure whose command is central to the episode.
-- [[WeiWuhou|魏武侯]] - successor in the Zhouji 07 part 2 source.
-- [[ZhaoCangtang|赵苍唐]], [[ZhongshanState|中山国]], [[Shijing|《诗经》]], and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 succession-recovery supplement.
-- [[WarringStatesPeriod|战国时期]] - historical setting.
+- Migrated the page to the synthesis-first schema while preserving its complete source inventory.
+- Added the Le Yang memorial-box exchange as a case of post-victory hierarchy repair.
+- Added Tian Zifang's music-official lesson as evidence that Wei Wenhou's leadership depended on supervising specialists rather than replacing them.
+- Clarified that talent respect, personnel judgment, and command discipline form one integrated ruler profile.
+
+## Relationships
+
+- [[WeiState|魏国]] - polity whose early authority and talent system Wei Wenhou develops.
+- [[LeYang|乐羊]] - commander protected during the Zhongshan campaign and contained after victory.
+- [[TianZifang|田子方]] - teacher who corrects Wei Wenhou's understanding of ruler versus specialist work.
+- [[LiKe|李克]] - adviser and administrator used for personnel judgment and Zhongshan governance.
+- [[WeiWuhou|魏武侯]] - son, Zhongshan appointee in the episode, and eventual successor.
+- [[HighMeritThreatManagement|功高不震主]] - captures the ruler's response to Le Yang's post-campaign pride.
+- [[SpecialistDelegationLeadership|专才分工式领导力]] - names the appointment, supervision, and integration logic made explicit by the music exchange.

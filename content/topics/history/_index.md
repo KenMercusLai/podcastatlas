@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2664
+topic_total_pages: 2665
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7074,6 +7074,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik"
     title: "《资治通鉴·周纪》04｜豫让 为智瑶复仇"
     url: "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+  - key: "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi"
+    title: "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）"
+    url: "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
   - key: "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl"
     title: "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
