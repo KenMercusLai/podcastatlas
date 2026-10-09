@@ -6,6 +6,7 @@ sources:
   - 404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466
   - 298-the-nazis-total-power-part-4-glt6097237943
   - 623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438
+  - 622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -26,7 +27,7 @@ After Hitler moved against [[ErnstRohm|Röhm]] and the [[Sturmabteilung|SA]] in 
 
 His role illustrates how the purge required more than Hitler's rage or personal authority: rival Nazi power centers had built police capacity that could turn factional decisions into coordinated state violence.
 
-The 1940 source extends the profile from police power into air command. Göring's Luftwaffe was essential to any [[OperationSeaLion]] plan, but the episode portrays him as unreliable and overconfident. German intelligence underestimated RAF strength and losses, while Göring shifted tactics from airfields toward mass raids and cities without breaking British air defence. His organizational power therefore coexisted with strategic failure.
+The two 1940 sources extend the profile from police power into air command. At Dunkirk, Göring assured Hitler that the Luftwaffe could destroy the trapped Allied forces without further panzer risk; the evacuation and reported exchange of aircraft losses turned that promise into an early failure. During the [[BattleOfBritain]], German intelligence underestimated RAF strength and losses, while Göring shifted tactics from airfields toward mass raids and cities without breaking British air defence. His organizational power therefore coexisted with recurrent overconfidence and strategic failure.
 
 ## Key Characteristics
 
@@ -36,6 +37,7 @@ The 1940 source extends the profile from police power into air command. Göring'
 - He prepared the Berlin target operation before the purge began.
 - He acted on Hitler's signal to widen the killings beyond the SA.
 - As Luftwaffe leader, he joined inflated confidence and faulty intelligence to unsuccessful tactical shifts against Britain.
+- His assurance that air power could finish the Dunkirk pocket helped support a halt the Luftwaffe failed to exploit decisively.
 
 ## Evidence
 
@@ -44,15 +46,17 @@ The 1940 source extends the profile from police power into air command. Göring'
 - Berlin action: [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466]] places him in charge after the “colibri” signal and identifies the wider target set.
 - Consolidation outcome: [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466]] presents his institutional power as part of the coalition that subordinated the SA.
 - Air-war command: [[623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438]] connects Göring to Sea Lion planning, poor intelligence, tactical shifts, heavy losses, and failure to destroy the RAF.
+- Dunkirk assurance: [[622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829]] connects Göring's promise to the halt order and the Luftwaffe's failure to prevent mass evacuation.
 
 ## Qualifications
 
-This profile covers Göring's police role in the 1933 seizure and 1934 purge plus a strategic outline of his 1940 air command, not his complete career, economic power, art plunder, or wartime responsibility. Institutional conservatism helps explain police collaboration but does not erase individual or command responsibility. Precise auxiliary numbers, arrest chains, private motives, responsibility for individual deaths, aircraft losses, intelligence estimates, and the reasons for Luftwaffe failure remain source-scoped.
+This profile covers Göring's police role in the 1933 seizure and 1934 purge plus a strategic outline of his 1940 air command, not his complete career, economic power, art plunder, or wartime responsibility. Institutional conservatism helps explain police collaboration but does not erase individual or command responsibility. Precise auxiliary numbers, arrest chains, private motives, responsibility for individual deaths, aircraft losses, intelligence estimates, his influence on Hitler's halt decision, and the reasons for Luftwaffe failure remain source-scoped.
 
 ## What Changed
 
 - Extended the profile from police capture and purge execution into Luftwaffe command during the Battle of Britain.
 - Added overconfidence, intelligence failure, and unsuccessful targeting changes as wartime command characteristics.
+- Extended that pattern backward to his Dunkirk assurance and failure to stop the evacuation.
 
 ## Relationships
 
@@ -65,3 +69,4 @@ This profile covers Göring's police role in the 1933 seizure and 1934 purge plu
 - [[LegalCoerciveDictatorshipConsolidation]] - mechanism joining his police power to street violence and formal emergency rule.
 - [[BattleOfBritain]] - air campaign in which the Luftwaffe under his command failed to defeat British air defence.
 - [[OperationSeaLion]] - invasion plan dependent on an air victory his command did not deliver.
+- [[DunkirkEvacuation]] - Allied rescue his Luftwaffe failed to prevent after his confident assurance.

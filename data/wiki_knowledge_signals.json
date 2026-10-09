@@ -38801,9 +38801,9 @@
       "url": "/wiki/entities/charlesdawson/"
     },
     "CharlesDeGaulle": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -38832,9 +38832,16 @@
           "show": "The Rest Is History",
           "title": "178. French Presidents: 1958-1981 (Part 1)",
           "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
+        },
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
@@ -49464,6 +49471,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/competencestatusmentalhealthblindspot/"
+    },
+    "CompiegneArmistice1940": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/compiegnearmistice1940/"
     },
     "ComplexDestinationTravelRisk": {
       "episode_count": 2,
@@ -69041,9 +69064,9 @@
       "url": "/wiki/entities/dune/"
     },
     "DunkirkEvacuation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2702093158 [GLT2702093158].md",
@@ -69058,9 +69081,16 @@
           "show": "The Rest Is History",
           "title": "11. Brexit",
           "url": "/wiki/sources/11-brexit-glt9171248177/"
+        },
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/dunkirkevacuation/"
     },
     "Dunstan": {
@@ -82981,9 +83011,9 @@
       "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
     },
     "FallOfFrance1940": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2702093158 [GLT2702093158].md",
@@ -82991,9 +83021,16 @@
           "show": "The Rest Is History",
           "title": "43. 1940",
           "url": "/wiki/sources/43-1940-glt2702093158/"
+        },
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/falloffrance1940/"
     },
     "FallOfSaigon": {
@@ -111857,9 +111894,9 @@
       "url": "/wiki/concepts/heritagetourismcommercialization/"
     },
     "HermannGoring": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -111881,6 +111918,13 @@
           "show": "The Rest Is History",
           "title": "623. The Nazis at War: Churchill's Finest Hour (Part 4)",
           "url": "/wiki/sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438/"
+        },
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
         }
       ],
       "updated": "2026-10-10",
@@ -164976,6 +165020,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
+    "MaximeWeygand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/maximeweygand/"
+    },
     "Maximian": {
       "episode_count": 1,
       "show_count": 1,
@@ -190076,6 +190136,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/paulmccartney/"
     },
+    "PaulReynaud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/paulreynaud/"
+    },
     "PaulRouse": {
       "episode_count": 3,
       "show_count": 1,
@@ -193520,6 +193596,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/philippefabredeglantine/"
+    },
+    "PhilippePetain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/philippepetain/"
     },
     "Philippines": {
       "episode_count": 3,
@@ -255630,6 +255722,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/vibriovulnificuswoundescalation/"
+    },
+    "VichyFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6447940829 [GLT6447940829].md",
+          "key": "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829",
+          "show": "The Rest Is History",
+          "title": "622. The Nazis at War: The Fall of France (Part 3)",
+          "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/vichyfrance/"
     },
     "VictimForgivenessAgency": {
       "episode_count": 2,

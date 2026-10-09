@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)](sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525.md) — The Rest Is History follows the Beatles from postwar Liverpool and Hamburg through Epstein, original songwriting, Beatlemania, civil-rights conduct, and the 1964 American breakthrough.
 - [623. The Nazis at War: Churchill's Finest Hour (Part 4)](sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438.md) — The Rest Is History on Britain's 1940 resistance, German air and invasion failures, the Blitz, and Hitler's turn toward Barbarossa.
+- [622. The Nazis at War: The Fall of France (Part 3)](sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829.md) — The Rest Is History on Dunkirk's Allied evacuation, continued French resistance, cabinet collapse, de Gaulle's departure, and Hitler's staged armistice revenge.
 - [《资治通鉴》00丨读史学经典，悟处世大道](sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7.md) — 系列导言，以司马光的编纂、编年体例与帝王之镜为起点，把《资治通鉴》转化为普通人理解人性、关系、判断及兴衰的长期阅读资源。
 - [《资治通鉴·周纪》01｜韩赵魏三家分晋](sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm.md) — 以周威烈王承认韩赵魏为诸侯为《资治通鉴》开篇，区分实际分晋与名分承认，并展开礼、分、名、名器及汤武革命的合法性边界。
 - [《资治通鉴·周纪》02｜将欲败之 必姑辅之](sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw.md) — 智果预警智瑶才高少仁，赵简子与尹铎预置晋阳退路，段规、任章则以割地诱导智瑶扩张、轻敌并制造共同敌人。
@@ -4338,6 +4339,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
 
 ## Entities
+- [Paul Reynaud](entities/PaulReynaud.md) — French prime minister whose effort to continue the war from abroad lost to the armistice faction in June 1940.
+- [Philippe Pétain](entities/PhilippePetain.md) — French marshal who sought the 1940 armistice and led the Vichy regime.
+- [Maxime Weygand](entities/MaximeWeygand.md) — French commander who judged the 1940 military position irretrievable and advocated an armistice.
+- [Vichy France](entities/VichyFrance.md) — French regime led by Pétain from the southern zone after the June 1940 armistice.
 - [智果 / Zhi Guo](entities/ZhiGuo.md) — 反对智瑶继位并警告公开羞辱会积累隐蔽报复的智氏谋臣。
 - [尹铎 / Yin Duo](entities/YinDuo.md) — 以减轻负担和修备把晋阳经营为赵氏预置退路的管理者。
 - [段规 / Duan Gui (Warring States)](entities/DuanGuiWarringStates.md) — 建议韩虎暂时割地、诱使智瑶把强索扩大到其他家族的韩氏总管。
@@ -17368,6 +17373,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Glen Jeffery](entities/GlenJeffery.md) — UCL neuroscience researcher connecting retinal aging, mitochondrial responses, systemic red-light hypotheses, and indoor spectral balance.
 
 ## Concepts
+- [Compiègne Armistice (1940)](concepts/CompiegneArmistice1940.md) — Settlement joining France's military and cabinet defeat to occupation, Vichy rule, and Hitler's staged revenge for 1918.
 - [Prepared Fallback Stronghold / 预置退路型堡垒](concepts/PreparedFallbackStronghold.md) — 在危机前克制抽取、积累民心并修备防御，使指定据点可在主路径崩溃时承接组织生存。
 - [Strategic Indulgence for Overextension / 姑辅式诱导过度扩张](concepts/StrategicIndulgenceOverextension.md) — 暂时满足强索以助长对手贪欲、轻敌和树敌，等待共同受害者形成反制机会的高风险策略。
 

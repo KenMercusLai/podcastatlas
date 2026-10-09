@@ -33843,6 +33843,10 @@ Added source `3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7yko
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-10] ingest | 622. The Nazis at War: The Fall of France (Part 3)
+
+Added source `622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829`; created [[PaulReynaud]], [[PhilippePetain]], [[MaximeWeygand]], [[VichyFrance]], and [[CompiegneArmistice1940]]; and resynthesized [[DunkirkEvacuation]], [[FallOfFrance1940]], [[CharlesDeGaulle]], and [[HermannGoring]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Dunkirk remained a military defeat but preserved multinational trained manpower through an RAF, naval, port, civilian-vessel, perimeter, and morale system; French resistance continued after the evacuation before battlefield pressure, refugee flight, fear of destruction and revolution, and cabinet division produced Pétain's armistice policy, Vichy, and de Gaulle's initially marginal external resistance. No settled contradiction was adopted. Halt-order causation, exact losses and totals, private motives, the feasibility of North African continuation, the Franco-British union counterfactual, and claims about morale or social sickness remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,265 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -34060,6 +34064,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] ingest | Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery
 
 Added source `using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474`; created [[GlenJeffery]] and [[IndoorLightSpectrumBalance]]; and resynthesized [[RedNearInfraredPhotobiomodulation]] and [[LightTherapyParameterMatching]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: brief, parameter-matched red or near-infrared exposure may influence age-related visual measures and can motivate a qualified systemic-signaling hypothesis, while disease stage, timing, spectral shape, target tissue, and device design prevent generalization to universal eye, metabolic, or whole-body treatment. The episode's LED critique is retained as a built-environment research hypothesis rather than a settled human public-health verdict. No settled contradiction was adopted. Mitochondrial-water mechanisms, glucose and cytokine effects, distant-tissue signaling, animal neuroprotection, Parkinsonian models, myopia, mitochondrial disease, LED population harm, and architectural benefits remain source-scoped or preliminary. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,264 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 36 unrelated pre-existing broken wikilinks.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-10] lint | Wiki health check
 

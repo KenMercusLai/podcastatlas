@@ -6275,6 +6275,13 @@
       "url": "/topics/history/"
     }
   ],
+  "622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438": [
     {
       "key": "history",
@@ -65596,6 +65603,13 @@
     }
   ],
   "PaulKruger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PaulReynaud": [
     {
       "key": "politics",
       "label": "Politics",

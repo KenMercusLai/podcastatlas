@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12971
+wiki_total_pages: 12975
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "PaulNewman"
     title: "Paul Newman"
     url: "/wiki/entities/paulnewman/"
+  - key: "PaulReynaud"
+    title: "Paul Reynaud"
+    url: "/wiki/entities/paulreynaud/"
   - key: "PaulRhode"
     title: "Paul Rhode"
     url: "/wiki/entities/paulrhode/"
@@ -584,6 +587,9 @@ wiki_pages:
   - key: "PhilippeFabreDEglantine"
     title: "Philippe Fabre d'Églantine"
     url: "/wiki/entities/philippefabredeglantine/"
+  - key: "PhilippePetain"
+    title: "Philippe Pétain"
+    url: "/wiki/entities/philippepetain/"
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"
