@@ -5,7 +5,8 @@ tags: [habits, behavior-change, automaticity, neuroscience]
 sources:
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2746317304-scim2746317304
-last_updated: 2026-10-02
+  - best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,14 +22,16 @@ The episode uses task bracketing to connect this practical model with basal-gang
 
 A complementary temporal-landmark interpretation in [[scim2746317304-scim2746317304]] treats repeated routines as ways to divide the day into recognizable functional phases and supply memory markers without requiring minute-perfect execution. This segmentation role can coexist with context independence because a sequence may organize time while its component behaviors remain adaptable.
 
+Entry-sequence design adds a life-season perspective. “Going to the gym” contains timing, clothing, transport, water, and many other small transitions; reducing friction means finding which of those steps prevents initiation. A five-minute version can train showing up before performance expands, and consistency can survive by changing form when work, family, or creative seasons change, as illustrated in [[best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637]].
+
 ## Key Claims
 - Habit strength combines lower initiation friction with reduced dependence on one cue, time, or place.
-- Procedural rehearsal can make the steps and entry point of a desired behavior more available before execution.
-- Task bracketing treats the beginning and end of a routine as learned boundaries that can cue the whole sequence.
-- Enjoyable linchpin habits can lower the practical cost of adjacent, harder behaviors.
+- Procedural rehearsal and learned task brackets can make a routine's entry, steps, and ending more available before execution.
+- Enjoyable linchpin habits and decomposition of hidden entry steps can lower the practical cost of adjacent, harder behaviors.
 - Early state-matched placement can support repetition, while later context variation tests whether the behavior has become flexible.
 - Sleep and recovery are presented as consolidation conditions rather than optional extras to repeated practice.
 - Repeated routines can act as flexible temporal landmarks that segment the day without requiring rigid clock-time precision.
+- Durable consistency can preserve a behavior's function while changing its duration, format, timing, or intensity across life seasons.
 
 ## Evidence
 - Strength criteria - [[the-science-of-making-breaking-habits-scim6848516659]] defines stronger habits through lower limbic friction and greater context independence.
@@ -37,12 +40,14 @@ A complementary temporal-landmark interpretation in [[scim2746317304-scim2746317
 - Placement and transfer - [[the-science-of-making-breaking-habits-scim6848516659]] initially matches difficult habits to more alert states, then recommends varying timing after the behavior becomes easier.
 - Consolidation - [[the-science-of-making-breaking-habits-scim6848516659]] places deep rest and sleep inside the learning process.
 - Temporal segmentation - [[scim2746317304-scim2746317304]] presents habits as dopamine-associated markers that divide the day into functional units while allowing approximate timing.
+- Entry sequence and flexible continuity - [[best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637]] uses a five-minute gym practice, hidden preparation steps, and Clear's changing writing formats to separate showing up from ideal performance.
 
 ## Counterevidence & Qualifications
-This framework comes from two public-neuroscience sources. “Limbic friction” and dopamine-linked time markers are practical labels rather than validated units of measurement, and basal-ganglia task bracketing does not by itself prove that one scheduling method causes automaticity or subjective-time change. The reported 18-to-254-day range undercuts any universal habit deadline. Identity, disability, caregiving, work schedules, clinical conditions, structural barriers, and the safety of the target behavior can matter more than timing or rehearsal.
+This framework comes from public-neuroscience and behavior-design sources. “Limbic friction” and dopamine-linked time markers are practical labels rather than validated units of measurement, and basal-ganglia task bracketing does not by itself prove that one scheduling method causes automaticity or subjective-time change. The reported 18-to-254-day range undercuts any universal habit deadline. A very small version can establish attendance without producing the training, learning, or health effect of a full practice. Identity, disability, caregiving, work schedules, clinical conditions, structural barriers, and the safety of the target behavior can matter more than timing or rehearsal.
 
 ## What Changed
-- Added flexible day segmentation as a temporal-landmark function of repeated routines.
+- Added hidden entry-step diagnosis and showing up as a trainable behavior.
+- Reframed long-run consistency as continuity that can change form across life seasons.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - state-timing framework used for initial habit placement.
@@ -52,3 +57,4 @@ This framework comes from two public-neuroscience sources. “Limbic friction”
 - [[Neuroplasticity]] - broader learning framework within which repeated behavior changes connections.
 - [[PostHabitReplacement]] - applies sequence disruption to an unwanted behavior after it occurs.
 - [[TimePerceptionAndNeurochemicalState]] - explains how temporal markers and memory density can shape remembered duration.
+- [[RapidHabitLapseRecovery]] - protects automaticity by shortening the interruption after a missed repetition.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Best Ways to Build Better Habits & Break Bad Ones | James Clear](sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637.md) — Huberman Lab interview on small starts, physical and digital friction, identity-based habits, social norms, flexible consistency, and rapid recovery after lapses.
 - [VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚](sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek.md) — 这病说来话长以中西医双视角区分鼻炎线索、暴露与结构病因、规范鼻喷和洗鼻操作，并建立鼻炎与哮喘的同一气道边界。
 - [《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？](sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he.md) — 胡亥惩罚报忧造成信息失真，陈胜多线扩张却处死葛婴，蒯彻则以优待投降者推动赵地招降。
 - [506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案](sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn.md) — 忽左忽右以托卡契夫案连接技术型人力情报、CIA 莫斯科线人处理、内部泄密、克格勃反间谍与局部情报效果的宏观因果边界。
@@ -4289,6 +4290,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [James Clear](entities/JamesClear.md) — Author and behavior-change writer connecting small starts, context design, identity, feedback, and adaptable consistency.
 - [襄疆 / Xiang Jiang](entities/XiangJiang.md) — 葛婴在外地拥立、后又为消除与陈胜王号冲突而杀死的楚王室后裔主张者。
 - [Adolf Tolkachev / 阿道夫·托卡契夫](entities/AdolfTolkachev.md) — Soviet radar engineer whose persistent self-volunteered CIA source work produced high-value technical intelligence before insider disclosures enabled his arrest.
 - [Edward Lee Howard / 爱德华·李·霍华德](entities/EdwardLeeHoward.md) — Former CIA officer whose training-derived disclosures reportedly focused the KGB search that identified Tolkachev.
@@ -17256,6 +17258,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Identity-Based Habit Change](concepts/IdentityBasedHabitChange.md) — Using repeated action as evidence for a chosen but revisable identity, with explicit transition and lapse boundaries.
+- [Rapid Habit Lapse Recovery](concepts/RapidHabitLapseRecovery.md) — Shortening the gap after a missed desired behavior without turning recovery into punishment or unsafe compensation.
 - [Unified Airway: Rhinitis and Asthma / 鼻炎哮喘同一气道](concepts/UnifiedAirwayRhinitisAsthma.md) — Treats allergic upper- and lower-airway disease as connected while preserving diagnostic, progression, and urgent-care boundaries.
 - [Nasal Treatment Technique Boundary / 鼻腔治疗操作边界](concepts/NasalTreatmentTechniqueBoundary.md) — Indication- and technique-aware boundary for nasal sprays, topical decongestants, saline irrigation, and comfort measures.
 - [Rhinitis Cause and Escalation Boundary / 鼻炎病因与升级就医边界](concepts/RhinitisCauseAndEscalationBoundary.md) — Separates symptom clues, exposures, adherence, anatomy, and escalation findings in recurrent nasal disease.
@@ -17950,7 +17954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Manzikert](concepts/BattleOfManzikert.md) — The 1071 defeat understood together with the succession war and Anatolian territorial losses that followed.
 - [Year of the Four Emperors](concepts/YearOfTheFourEmperors.md) — AD 69 succession crisis in which ritual, pedigree, army allegiance, and military victory competed.
 - [Hawaiian Monarchy under Foreign Pressure](concepts/HawaiianMonarchyForeignPressure.md) — Hawaiian royal adaptation through diplomacy, Christianity, and social institutions amid British and American influence.
-- [Habit Automaticity and Task Bracketing](concepts/HabitAutomaticityAndTaskBracketing.md) — Framework joining initiation friction, procedural rehearsal, sequence boundaries, and context independence.
+- [Habit Automaticity and Task Bracketing](concepts/HabitAutomaticityAndTaskBracketing.md) — Framework joining hidden entry steps, initiation friction, procedural rehearsal, sequence boundaries, context independence, and flexible continuity.
 - [Post-Habit Replacement](concepts/PostHabitReplacement.md) — Source-scoped practice of using an unwanted habit as the cue for an easy constructive next action.
 - [Free-Citizen Kidnapping into Slavery](concepts/FreeCitizenKidnappingIntoSlavery.md) — Mechanism by which violence, isolation, evidence asymmetry, and interstate sale could override a free Black person's lawful status.
 - [Slave-Narrative Moral Identification](concepts/SlaveNarrativeMoralIdentification.md) — Audience mechanism through which a familiar life story makes structural racial injustice emotionally immediate while exposing credibility inequality.
@@ -23215,7 +23219,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Career Exit Friction / 职业退出摩擦](concepts/CareerExitFriction.md) — Episode 154 frame for why income, title, institution, and external admiration can trap a person in a no-longer-fit career.
 - [Finance Platform Social Capital / 金融平台社会资本](concepts/FinancePlatformSocialCapital.md) — Episode 154 claim that strong early finance platforms compound through reputation, referrals, mentors, and client context while also creating political and exit risks.
 - [Telos Crisis / 目的危机](concepts/TelosCrisis.md) — Purpose-collapse state used by episode 154 to explain why a successful role can still feel empty.
-- [Habit Positive Feedback / 习惯正反馈](concepts/HabitPositiveFeedback.md) — Episode 154 correction to pure willpower stories, where sustainable habits depend on interest, competence, records, and felt benefit.
+- [Habit Positive Feedback / 习惯正反馈](concepts/HabitPositiveFeedback.md) — Reinforcement loop where interest, competence, visible progress, immediate satisfaction, and felt benefit support another repetition.
 - [Autonomy Under Information Flow / 信息流中的自主性](concepts/AutonomyUnderInformationFlow.md) — Episode 154 concern that phones, feeds, and AI answers can erode chosen attention and independent thought.
 - [China Equity-Real Economy Gap / 中国股市与实体经济落差](concepts/ChinaEquityRealEconomyGap.md) — Episode 153 frame for Chinese equity strength coexisting with property, employment, consumption, and demand weakness.
 - [Central Balance-Sheet Demand Support / 中央资产负债表托底](concepts/CentralBalanceSheetDemandSupport.md) — Episode 153 claim that China’s 2026 demand repair increasingly requires central-government balance-sheet support.
@@ -24191,7 +24195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Personal Cash-Flow Account](concepts/PersonalCashFlowAccount.md) — Household-finance account for inflows, recurring outflows, fixed monthly obligations, asset conversion, and retirement choice.
 - [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, body recomposition, and older-age independence.
 - [Sleep As Daily Health Account](concepts/SleepAsDailyHealthAccount.md) — Sleep-account frame where duration, regularity, staged architecture, and controllable light, temperature, caffeine, substance, supplement, schedule, and appetite-metabolism inputs shape next-day cognition, mood, and repair.
-- [Environment Over Willpower](concepts/EnvironmentOverWillpower.md) — Behavior-design principle that makes health and finance routines easier by arranging defaults, locations, schedules, and frictions.
+- [Environment Over Willpower](concepts/EnvironmentOverWillpower.md) — Behavior-design principle using physical, digital, temporal, and social conditions to change cues, friction, and norms before action.
 - [Carbon Removal](concepts/CarbonRemoval.md) — Climate-mitigation category for removing already-emitted CO2, with direct air capture as the episode's concrete case.
 - [Direct Air Capture](concepts/DirectAirCapture.md) — Carbon-removal technology that pulls CO2 from ambient air rather than from exhaust or smokestacks.
 - [Limestone Loop Carbon Capture](concepts/LimestoneLoopCarbonCapture.md) — Heirloom's repeated limestone/calcium-oxide process for binding atmospheric CO2.
@@ -25694,7 +25698,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Health Debt](concepts/FounderHealthDebt.md) — Startup-health analogy for accumulated physical problems caused by deferred self-care.
 - [At-Home Preventive Health](concepts/AtHomePreventiveHealth.md) — Service model that brings testing and measurements to busy people and creates repeat feedback loops.
 - [Service Marketplace Quality Control](concepts/ServiceMarketplaceQualityControl.md) — Operational challenge of standardizing human-delivered marketplace services.
-- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Low-friction behavior-change pattern using realistic routine attachments or minimum-resistance starts that can later progress with feedback.
+- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Low-friction pattern that trains initiation through realistic routine attachments or minimum-resistance starts before later progression.
 - [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
 - [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
 - [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.

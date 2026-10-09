@@ -25361,9 +25361,9 @@
       "url": "/wiki/concepts/behaviorbasedhumanreductionism/"
     },
     "BehaviorChangeBabySteps": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S2-AdoraCheung-v5 [TSR-S2-AdoraCheung-v5].md",
@@ -25378,9 +25378,16 @@
           "show": "这病说来话长",
           "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
           "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+        },
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/behaviorchangebabysteps/"
     },
     "BehavioralAgeInference": {
@@ -77562,6 +77569,43 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/environmentbasedagentbenchmarks/"
     },
+    "EnvironmentOverWillpower": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "154.四十岁感言：不做那只温水里的青蛙 [lg_QJ3P2lq-8sk_RN2Vk209Tq9X-].md",
+          "key": "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x",
+          "show": "起朱楼宴宾客",
+          "title": "154.四十岁感言：不做那只温水里的青蛙",
+          "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+        },
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/environmentoverwillpower/"
+    },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
       "episode_count": 4,
       "show_count": 1,
@@ -104326,9 +104370,9 @@
       "url": "/wiki/entities/habibaystartupembassyresident/"
     },
     "HabitAutomaticityAndTaskBracketing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6848516659 [SCIM6848516659].md",
@@ -104343,10 +104387,40 @@
           "show": "Huberman Lab",
           "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
           "url": "/wiki/sources/scim2746317304-scim2746317304/"
+        },
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/habitautomaticityandtaskbracketing/"
+    },
+    "HabitPositiveFeedback": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "154.四十岁感言：不做那只温水里的青蛙 [lg_QJ3P2lq-8sk_RN2Vk209Tq9X-].md",
+          "key": "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x",
+          "show": "起朱楼宴宾客",
+          "title": "154.四十岁感言：不做那只温水里的青蛙",
+          "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+        },
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/habitpositivefeedback/"
     },
     "HabitTriggeredSystemDisruption": {
       "episode_count": 1,
@@ -119770,6 +119844,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/idealtopracticeconversion/"
     },
+    "IdentityBasedHabitChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/identitybasedhabitchange/"
+    },
     "IdentityLevelPatternChange": {
       "episode_count": 1,
       "show_count": 1,
@@ -128412,6 +128502,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/jamescameron/"
+    },
+    "JamesClear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/jamesclear/"
     },
     "JamesConnolly": {
       "episode_count": 1,
@@ -203900,6 +204006,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/rapid/"
+    },
+    "RapidHabitLapseRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2778708637 [SCIM2778708637].md",
+          "key": "best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637",
+          "show": "Huberman Lab",
+          "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+          "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/rapidhabitlapserecovery/"
     },
     "RapidWeightLossSafetyBoundary": {
       "episode_count": 3,

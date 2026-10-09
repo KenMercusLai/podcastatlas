@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10095
+wiki_total_pages: 10097
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "RansomwareBusinessContinuity"
     title: "Ransomware Business Continuity"
     url: "/wiki/concepts/ransomwarebusinesscontinuity/"
+  - key: "RapidHabitLapseRecovery"
+    title: "Rapid Habit Lapse Recovery"
+    url: "/wiki/concepts/rapidhabitlapserecovery/"
   - key: "RapidWeightLossSafetyBoundary"
     title: "Rapid Weight-Loss Safety Boundary / 快速减重安全边界"
     url: "/wiki/concepts/rapidweightlosssafetyboundary/"

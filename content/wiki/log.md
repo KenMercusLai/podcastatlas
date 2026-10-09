@@ -33670,3 +33670,11 @@ Added source `vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-gein
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Best Ways to Build Better Habits & Break Bad Ones | James Clear
+
+Added source `best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637`; created [[JamesClear]], [[IdentityBasedHabitChange]], and [[RapidHabitLapseRecovery]]; and resynthesized [[HabitAutomaticityAndTaskBracketing]], [[BehaviorChangeBabySteps]], [[HabitPositiveFeedback]], and [[EnvironmentOverWillpower]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: durable habits are probability-shaping systems in which small entry behaviors, visible cues, reversible friction, useful feedback, identity evidence, social norms, and fast non-punitive recovery work together, while routines remain adaptable across life seasons. No settled contradiction was adopted. “Never miss twice,” public accountability, early-day scheduling, and the four laws remain practical heuristics rather than universal or clinical protocols; identity can become rigid, and disability, structural constraints, addiction, compulsive behavior, eating disorders, or other clinical conditions may require different support. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,216 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

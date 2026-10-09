@@ -5,7 +5,8 @@ tags: [behavior-change, health, product-design, habits]
 sources:
   - tsr-s2-adoracheung-v5
   - vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho
-last_updated: 2026-09-22
+  - best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,9 @@ Behavior change baby steps are deliberately small, concrete actions that fit cur
 ## Current Synthesis
 The concept now has both a service-design branch and a self-directed habit branch. [[tsr-s2-adoracheung-v5]] shows [[AdoraCheung]] translating preventive-health feedback into feasible routine attachments, such as turning an existing phone call into an outdoor walking call when a patient needs more sunlight. Small steps protect follow-through because medically sensible advice can still fail when it requires too much planning, identity change, or calendar space.
 
-The self-directed exercise example in [[vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho]] supplies a minimum-resistance mechanism through [[SuJianxin|苏见信（信）]]. He describes beginning exercise at home with as few as three or ten repetitions because a demanding first session could make him reject the activity, then increasing to twenty, thirty, or forty before adopting a regular gym plan. Across both branches, the smallest useful step is not the endpoint: it is an entry design that reduces aversion and makes feedback, repetition, and later progression possible.
+The self-directed exercise example in [[vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho]] supplies a minimum-resistance mechanism through [[SuJianxin|苏见信（信）]]. He describes beginning exercise at home with as few as three or ten repetitions because a demanding first session could make him reject the activity, then increasing to twenty, thirty, or forty before adopting a regular gym plan.
+
+[[best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637]] sharpens the distinction between an entry habit and its eventual performance dose. Clear's five-minute gym story treats showing up as the initial skill, while the four-laws framework makes cues visible, reduces hidden preparation friction, and adds immediate satisfaction. Across all three branches, the smallest useful step is not the endpoint: it is an entry design that reduces aversion and makes feedback, repetition, and later progression possible.
 
 ## Key Claims
 - A useful first action should be small enough to survive real constraints rather than represent an idealized full-life redesign.
@@ -26,20 +29,21 @@ The self-directed exercise example in [[vol-153-sujianxin-xin-xinshounianlai-de-
 - Baby steps are entry mechanisms, not permanent ceilings; progression should follow repetition, capability, and feedback.
 - Measurement or visible felt benefit can reinforce the routine after low friction gets it started.
 - The method works best when the action is safe, relevant to the goal, and adjustable to individual capacity.
+- The initial version can train arrival or initiation separately from the eventual duration, volume, or quality target.
 
 ## Evidence
 - Routine attachment: [[tsr-s2-adoracheung-v5]] describes translating health findings into a few realistic changes, including attaching outdoor walking to an existing call.
 - Time-scarcity fit: [[tsr-s2-adoracheung-v5]] frames small recommendations as a response to founders, executives, and working parents who may not sustain a large behavioral overhaul.
 - Minimum-resistance start: [[vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho]] has Su Jianxin begin home exercise with only a few repetitions specifically to avoid rejecting the activity.
 - Progression rather than stasis: [[vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho]] describes scaling repetitions before moving to a structured gym routine.
+- Showing up as a skill: [[best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637]] uses a five-minute gym limit and visible preparation cues to establish initiation before optimizing performance.
 
 ## Counterevidence & Qualifications
-Small steps can become avoidance if they never progress, do not address the real bottleneck, or are too weak to produce meaningful feedback. The sources do not establish a universal dose, progression schedule, or clinical behavior-change protocol. Exercise, diet, sleep, medication, rehabilitation, and disease-management actions can require professional assessment; a low-friction action is not automatically safe or sufficient.
+Small steps can become avoidance if they never progress, do not address the real bottleneck, or are too weak to produce meaningful feedback. Mastering arrival does not supply the physiological or learning dose of a full session. The sources do not establish a universal dose, progression schedule, or clinical behavior-change protocol. Exercise, diet, sleep, medication, rehabilitation, and disease-management actions can require professional assessment; a low-friction action is not automatically safe or sufficient.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving its original evidence source.
-- Added minimum resistance as an aversion-reduction mechanism for starting exercise.
-- Clarified that baby steps should support later progression rather than become a permanent ceiling.
+- Added the distinction between training the entry behavior and delivering the eventual performance dose.
+- Added visible cues and hidden-step reduction as supports for a small start.
 
 ## Related Concepts
 - [[EnvironmentOverWillpower]] - reduces friction through defaults, locations, schedules, and surroundings.
@@ -48,3 +52,4 @@ Small steps can become avoidance if they never progress, do not address the real
 - [[ExerciseLoadManagement]] - provides safety and progression boundaries for exercise applications.
 - [[SustainableHealthOptimization]] - keeps routines realistic under actual life constraints.
 - [[StateDependentSelfControl]] - explains why available capacity changes with sleep, hunger, stress, pain, and context.
+- [[HabitAutomaticityAndTaskBracketing]] - explains how a repeated entry sequence can become easier and more portable.
