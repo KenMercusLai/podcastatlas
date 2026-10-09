@@ -38739,9 +38739,9 @@
       "url": "/wiki/entities/charlesv/"
     },
     "CharlesVIIOfFrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -38749,9 +38749,16 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/charlesviioffrance/"
     },
     "CharlesVIOfFrance": {
@@ -69133,6 +69140,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/eccentricsprintcapacity/"
+    },
+    "EcclesiasticalTrialPoliticalLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/ecclesiasticaltrialpoliticallegitimacy/"
     },
     "Echomind": {
       "episode_count": 1,
@@ -109628,6 +109651,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/henryviii/"
     },
+    "HenryVIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/henryviofengland/"
+    },
     "HenryVOfEngland": {
       "episode_count": 8,
       "show_count": 1,
@@ -117611,9 +117650,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -117670,9 +117709,16 @@
           "show": "The Rest Is History",
           "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
           "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        },
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HunyadiJanos": {
@@ -131820,9 +131866,9 @@
       "url": "/wiki/entities/jizhoulatehan/"
     },
     "JoanOfArc": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6941072856 [GLT6941072856].md",
@@ -131830,9 +131876,16 @@
           "show": "The Rest Is History",
           "title": "131. Burgundy: Europe's Forgotten Superpower",
           "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        },
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/joanofarc/"
     },
     "JoannaStern": {
@@ -190579,6 +190632,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/picloram/"
+    },
+    "PierreCauchon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8113477235 [GLT8113477235].md",
+          "key": "635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235",
+          "show": "The Rest Is History",
+          "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
+          "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/pierrecauchon/"
     },
     "PierreCharlesVilleneuve": {
       "episode_count": 2,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [635. Joan of Arc: For Fear of the Flames (Part 4)](sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235.md) — The Rest Is History episode on Joan's politically charged ecclesiastical trial, abjuration, relapse, execution, French recovery, and rehabilitation.
 - [刘震云×罗永浩！有些玩笑含着泪也要开完](sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_.md) — 刘震云以《闲得玩笑》、县城人物、童年与写作经历连接日常哲学、含泪幽默、被掩埋的小痛苦、创作更新和读者时间伦理。
 - [6 喝得越少越文明？东西方的酒 & 酒文化](sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd.md) — 怪东西比较酿酒史、会饮、乡饮酒礼、宗教用酒、山东酒桌与俄罗斯酒政，区分自愿社交和文化意义与健康风险、等级强制及服从测试。
 - [Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs](sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935.md) — All-In debate on Iranian transition risk, data-center energy cost allocation, OpenAI-Cerebras capacity, California asset taxation, and Greenland strategy.
@@ -4275,6 +4276,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki](sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312.md) — Condensed Huberman Lab conversation on memory-encoding levers, hippocampal association, exercise-linked mood and cognition, body-to-brain signaling, brief meditation, sleep, and evidence boundaries.
 
 ## Entities
+- [Henry VI of England](entities/HenryVIOfEngland.md) — Child king whose inherited French claim made Joan of Arc's condemnation politically valuable.
+- [Pierre Cauchon](entities/PierreCauchon.md) — Bishop who led Joan of Arc's procedurally serious but politically bounded heresy prosecution.
 - [刘震云 / Liu Zhenyun](entities/LiuZhenyun.md) — 小说家，以日常哲学、普通人的隐痛、含泪幽默、创作不自我重复与读者时间责任解释其写作方法。
 - [《闲得玩笑》 / Xian De Wanxiao](entities/XianDeWanXiao.md) — 刘震云小说，以县城群像、知识与生活错位、家庭权力、含泪玩笑和“活扣”意象展开普通人的精神异彩。
 - [杜太白 / Du Taibai](entities/DuTaibai.md) — 《闲得玩笑》主人公，其文化知识、教师身份、家庭处境和生存追问持续受到日常生活的考验。
@@ -5076,7 +5079,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Philip the Bold](entities/PhilipTheBold.md) — Valois duke whose Flemish marriage established Burgundy's durable north-south economic and dynastic base.
 - [Charles the Bold](entities/CharlesTheBold.md) — Burgundian duke whose effort to connect his lands ended in defeat, death, and succession crisis at Nancy.
 - [Mary of Burgundy](entities/MaryOfBurgundy.md) — Burgundian heir whose Habsburg marriage preserved much of the northern inheritance.
-- [Joan of Arc](entities/JoanOfArc.md) — French military-religious figure captured by Burgundian troops and transferred to the English.
+- [Joan of Arc](entities/JoanOfArc.md) — French military-religious figure whose trial, execution, and rehabilitation made competing sacred and dynastic legitimacy visible.
 - [Order of the Golden Fleece](entities/OrderOfTheGoldenFleece.md) — Burgundian chivalric order projecting Philip the Good's quasi-royal status and surviving through Habsburg inheritance.
 - [A Christmas Carol](entities/AChristmasCarol.md) — Dickens's London ghost story joining childhood injury, financial isolation, festive warmth, social criticism, personal redemption, and adaptable fable.
 - [Rachel Morley](entities/RachelMorley.md) — Church-heritage interpreter using material details to connect British sites with wider cultural history.
@@ -6146,7 +6149,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jamil Zaki](entities/JamilZaki.md) — Stanford psychologist framing cynicism, trust, social forecasts, and political misperception through hopeful skepticism and evidence-updating experiments.
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
 - [Charles VI of France](entities/CharlesVIOfFrance.md) — French king whose incapacity, Bal des Ardents survival, and divided realm culminated in the Treaty of Troyes settlement.
-- [Charles VII of France](entities/CharlesVIIOfFrance.md) — Dauphin disinherited at Troyes whose survival and resistance kept French legitimacy contested.
+- [Charles VII of France](entities/CharlesVIIOfFrance.md) — Disinherited Dauphin who recovered France and used Joan of Arc's rehabilitation to consolidate royal legitimacy.
 - [Catherine of Valois](entities/CatherineOfValois.md) — French princess whose marriage and son supplied the dynastic bridge for Henry V's dual-monarchy project.
 - [John the Fearless](entities/JohnTheFearless.md) — Burgundian duke whose pressure aided Henry and whose murder drove a decisive alliance realignment.
 - [Philip the Good](entities/PhilipTheGood.md) — Burgundian duke whose political alliances and Van Eyck patronage joined dynastic strategy to court art and diplomacy.
@@ -7598,7 +7601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huaxizi / 花西子](entities/Huaxizi.md) — Chinese beauty brand whose Korean pop-up and store-channel entry illustrate Chinese beauty localization in Korea.
 - [Mingming Henmang / 鸣鸣很忙](entities/MingmingHenmang.md) — Chinese value snack chain used as evidence for discount-snack store growth and channel concentration.
 - [Wanchen Group / 万辰集团](entities/WanchenGroup.md) — Chinese value snack chain operator used as evidence for discount-snack revenue growth and consolidation.
-- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch spanning structural origins, Poitiers-era zenith and reversal, and Henry V's later high point.
+- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict spanning structural origins, repeated English high points, Joan of Arc, and final French recovery.
 - [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose chivalric statecraft, mobilization, raids, and victories produce large but unstable French gains.
 - [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
 - [Flanders](entities/Flanders.md) — Cloth-producing urban region whose English wool dependence shaped war strategy and whose wealth supported Van Eyck's artistic world.
@@ -17228,6 +17231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 ## Concepts
+- [Ecclesiastical Trial as Political Legitimacy](concepts/EcclesiasticalTrialPoliticalLegitimacy.md) — Framework for religious procedure that converts doctrinal judgment into dynastic legitimacy.
 - [Literature as Everyday Philosophy / 文学作为日常哲学](concepts/LiteratureAsEverydayPhilosophy.md) — 文学通过普通人的言语、关系、羞耻与难言问题揭示日常生活中已经存在的理由和价值冲突。
 - [Ordinary Pain as Literary Evidence / 日常微痛作为文学证据](concepts/OrdinaryPainAsLiteraryEvidence.md) — 将误解、未道歉、嘲笑和家庭小型压迫等易被忽略的伤害视为尊严、权力与世界理解方式的证据。
 - [Reader-Time Ethics / 读者时间伦理](concepts/ReaderTimeEthics.md) — 把读者有限注意力视为作者必须以意义、可读性和持久回报来正当化的资源。

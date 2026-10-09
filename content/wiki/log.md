@@ -33570,3 +33570,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 635. Joan of Arc: For Fear of the Flames (Part 4)
+
+Added source `635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235`; extended [[JoanOfArc]], [[CharlesVIIOfFrance]], and [[HundredYearsWar]] from their complete preserved evidence inventories; and created [[HenryVIOfEngland]], [[PierreCauchon]], and [[EcclesiasticalTrialPoliticalLegitimacy]]. The episode's central qualification is preserved: Joan's prosecution served Lancastrian political legitimacy while using substantial inquisitorial procedure, so it was neither neutral adjudication nor merely a crude theatrical sham. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,203 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 32 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

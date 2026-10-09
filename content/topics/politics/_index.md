@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3240
+topic_total_pages: 3241
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1273,6 +1273,9 @@ topic_concepts:
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"
+  - key: "EcclesiasticalTrialPoliticalLegitimacy"
+    title: "Ecclesiastical Trial as Political Legitimacy"
+    url: "/wiki/concepts/ecclesiasticaltrialpoliticallegitimacy/"
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"

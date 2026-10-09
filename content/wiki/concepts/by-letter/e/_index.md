@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10079
+wiki_total_pages: 10080
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "EccentricSprintCapacity"
     title: "Eccentric Sprint Capacity"
     url: "/wiki/concepts/eccentricsprintcapacity/"
+  - key: "EcclesiasticalTrialPoliticalLegitimacy"
+    title: "Ecclesiastical Trial as Political Legitimacy"
+    url: "/wiki/concepts/ecclesiasticaltrialpoliticallegitimacy/"
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"
