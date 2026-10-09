@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12922
+wiki_total_pages: 12925
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "Tristan"
     title: "Tristan"
     url: "/wiki/entities/tristan/"
+  - key: "TristanAndIsolde"
+    title: "Tristan and Isolde"
+    url: "/wiki/entities/tristanandisolde/"
   - key: "TristanBuckmaster"
     title: "Tristan Buckmaster"
     url: "/wiki/entities/tristanbuckmaster/"

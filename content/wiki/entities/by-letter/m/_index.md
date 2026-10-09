@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12922
+wiki_total_pages: 12925
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "MathildeDeLaMole"
     title: "Mathilde de La Mole / 马蒂尔德·德·拉莫尔"
     url: "/wiki/entities/mathildedelamole/"
+  - key: "MathildeWesendonck"
+    title: "Mathilde Wesendonck"
+    url: "/wiki/entities/mathildewesendonck/"
   - key: "Mathlib"
     title: "Mathlib"
     url: "/wiki/entities/mathlib/"

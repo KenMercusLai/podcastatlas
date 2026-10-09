@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [631. Wagner: LIVE at the Royal Albert Hall](sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401.md) — The Rest Is History live episode on Wagner's revolution and exile, total theatre, the Ring's power-and-love politics, Tristan and Isolde, and royal patronage.
 - [4 东西方的太监：从苏培盛到纳尔塞斯](sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4.md) — 怪东西跨文明比较宦官称谓、内外廷中介、皇权与继承杠杆、奴役和阉割暴力，并以李常杰和纳尔塞斯等人纠正单一刻板印象。
 - [《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！](sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2.md) — 秦始皇以巡游、祭祀和求仙回应死亡焦虑，却因回避身后议题迟迟未定储；病危时召扶苏的信件滞留赵高手中，蒙毅离场与李斯位阶焦虑共同铺垫沙丘继承危机。
 - [632. Joan of Arc: Warrior Maid (Part 1)](sources/632-joan-of-arc-warrior-maid-part-1-glt6592271090.md) — The Rest Is History episode on the Anglo-Burgundian high point, Orléans crisis, Joan's frontier upbringing, religious voices, and departure for the Dauphin.
@@ -11007,9 +11008,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Venezuelan Electoral Council](entities/VenezuelanElectoralCouncil.md) — Election institution named as a reform target before a credible Venezuelan transition vote.
 - [Venezuelan Supreme Court](entities/VenezuelanSupremeCourt.md) — Venezuelan judicial institution named as a reform target in the Caracas talks.
 - [Burger King](entities/BurgerKing.md) — Fast-food chain used as an example of attention and complaint-channel tactics during U.S. demand pressure.
-- [Richard Wagner](entities/RichardWagner.md) — Composer discussed through the Ring cycle, leitmotifs, total artwork, and politically compromised reception.
-- [Der Ring des Nibelungen / The Ring Cycle](entities/DerRingDesNibelungen.md) — Wagner's four-part music-drama cycle used to connect opera, myth, politics, and film-scoring influence.
-- [Bayreuth Festival](entities/BayreuthFestival.md) — Wagner performance context whose staging architecture is tied to the total-work-of-art idea.
+- [Richard Wagner](entities/RichardWagner.md) — Composer and theatrical system-builder whose formal innovation, antisemitism, institution-building, and contested reception remain inseparable.
+- [Der Ring des Nibelungen / The Ring Cycle](entities/DerRingDesNibelungen.md) — Wagner's four-part music drama joining total theatre and northern myth to contested readings of power, technology, love, and renunciation.
+- [Bayreuth Festival](entities/BayreuthFestival.md) — Purpose-built Wagnerian institution integrating architecture, audience attention, staging, machinery, patronage, and pilgrimage-like prestige.
+- [Tristan and Isolde](entities/TristanAndIsolde.md) — Wagner music drama of erotic longing, love, death, biographical association, and patronage-enabled performance.
+- [Ludwig II of Bavaria](entities/LudwigIIOfBavaria.md) — Young Bavarian king whose Wagner enthusiasm financed Tristan's first production and supported Bayreuth.
+- [Mathilde Wesendonck](entities/MathildeWesendonck.md) — Married figure whose relationship with Wagner links Tristan's creative context to intimacy and patronage.
 - [Bobbi Brown](entities/BobbiBrown.md) — Beauty founder and Advice Line guest connecting Bobbi Brown Cosmetics, Jones Road Beauty, product quality, testing discipline, and consumer-brand advice.
 - [Bobbi Brown Cosmetics](entities/BobbiBrownCosmetics.md) — Bobbi Brown's earlier beauty company context, used in the source as a contrast for second-time founder judgment.
 - [Jones Road Beauty](entities/JonesRoadBeauty.md) — Bobbi Brown's clean-makeup company launched after her non-compete expired, grounding the episode's beauty-brand advice.
@@ -22372,9 +22376,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oil Revenue Sanctions Leverage](concepts/OilRevenueSanctionsLeverage.md) — Bargaining power created when oil-dependent states can be pressured through licensing, blockade enforcement, buyer pressure, or revenue channels.
 - [Opposition Legitimacy Gap](concepts/OppositionLegitimacyGap.md) — Transition risk when negotiations exclude the opposition actor with the strongest popular mandate.
 - [Fast-Food Demand Reset](concepts/FastFoodDemandReset.md) — Demand-pressure pattern where price, health, safety, and household stress weaken fast-food traffic.
-- [Gesamtkunstwerk](concepts/Gesamtkunstwerk.md) — Wagnerian total-work-of-art concept joining poetry, music, staging, and spectacle.
+- [Gesamtkunstwerk](concepts/Gesamtkunstwerk.md) — Total-work-of-art system joining media, venue, machinery, financing, and audience attention.
 - [Leitmotif](concepts/Leitmotif.md) — Recurring musical-theme device linking Wagner's Ring to later film and franchise scoring.
-- [Ideologically Compromised Art](concepts/IdeologicallyCompromisedArt.md) — Interpretation problem where artistic power remains entangled with a creator's politics and later political adoption.
+- [Ideologically Compromised Art](concepts/IdeologicallyCompromisedArt.md) — Interpretation problem separating but relating creator ideology, work content, formal power, and later political adoption.
 - [Product-Led Brand Longevity](concepts/ProductLedBrandLongevity.md) — Consumer-brand durability pattern where product quality, repeat purchase, word of mouth, and disciplined extensions make a trend last.
 - [Founder-Led Live Selling](concepts/FounderLedLiveSelling.md) — Social-commerce pattern where customers buy through real-time founder presence, creating both intimacy and founder bottlenecks.
 - [Niche Origin Story Repositioning](concepts/NicheOriginStoryRepositioning.md) — Branding move from a narrow founding use case into a broader category promise while preserving the original story as proof.

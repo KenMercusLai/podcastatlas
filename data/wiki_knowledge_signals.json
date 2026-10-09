@@ -25129,6 +25129,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/bayeuxtapestry/"
     },
+    "BayreuthFestival": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/bayreuthfestival/"
+    },
     "BeauBrummell": {
       "episode_count": 2,
       "show_count": 1,
@@ -61837,6 +61860,29 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
     },
+    "DerRingDesNibelungen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/derringdesnibelungen/"
+    },
     "DerekAbbott": {
       "episode_count": 1,
       "show_count": 1,
@@ -91615,9 +91661,9 @@
       "url": "/wiki/entities/friedrichmerz/"
     },
     "FriedrichNietzsche": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "20.德米安：该隐的额头上，那神秘的印记 [567302734].md",
@@ -91653,6 +91699,13 @@
           "show": "独树不成林",
           "title": "300-尼采《查拉图斯特拉如是说》究竟是写给谁读的？",
           "url": "/wiki/sources/300-nicai-chalatustela-rushishuo-jiujing-shi-xie-gei-shui-du-de-frnozhatalzm23k6uqfda-jtaeld/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
         }
       ],
       "updated": "2026-10-09",
@@ -98177,6 +98230,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/geronimodeaguilar/"
+    },
+    "Gesamtkunstwerk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/gesamtkunstwerk/"
     },
     "Ghana": {
       "episode_count": 5,
@@ -120354,6 +120430,36 @@
       ],
       "updated": "2026-08-06",
       "url": "/wiki/concepts/ideologicaltotalizationrisk/"
+    },
+    "IdeologicallyCompromisedArt": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/ideologicallycompromisedart/"
     },
     "IdiosyncraticAttraction": {
       "episode_count": 1,
@@ -156158,6 +156264,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/ludwigerhard/"
     },
+    "LudwigIIOfBavaria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/ludwigiiofbavaria/"
+    },
     "LuffyMedicalChannel": {
       "episode_count": 1,
       "show_count": 1,
@@ -162977,6 +163099,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/maternalstatussuccessionleverage/"
+    },
+    "MathildeWesendonck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mathildewesendonck/"
     },
     "MatingConflictRisk": {
       "episode_count": 1,
@@ -210813,6 +210951,29 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/richardschwartz/"
     },
+    "RichardWagner": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/richardwagner/"
+    },
     "RichlandParish": {
       "episode_count": 1,
       "show_count": 1,
@@ -247814,6 +247975,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/trinovantes/"
+    },
+    "TristanAndIsolde": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7214350401 [GLT7214350401].md",
+          "key": "631-wagner-live-at-the-royal-albert-hall-glt7214350401",
+          "show": "The Rest Is History",
+          "title": "631. Wagner: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/tristanandisolde/"
     },
     "TristanBuckmaster": {
       "episode_count": 1,

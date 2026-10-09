@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12922
+wiki_total_pages: 12925
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "LudwigErhard"
     title: "Ludwig Erhard"
     url: "/wiki/entities/ludwigerhard/"
+  - key: "LudwigIIOfBavaria"
+    title: "Ludwig II of Bavaria"
+    url: "/wiki/entities/ludwigiiofbavaria/"
   - key: "LudwigWittgenstein"
     title: "Ludwig Wittgenstein / 维特根斯坦"
     url: "/wiki/entities/ludwigwittgenstein/"
