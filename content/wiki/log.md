@@ -34238,3 +34238,10 @@ Added source `vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-d
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 魔术大师刘谦×罗永浩！你所不知道的刘谦
+
+Added source `lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte`; created [[LiuQianMagician|刘谦]] with a semantic suffix to avoid collision with [[LiuQianHuainanCrownPrinceWesternHan|淮南太子刘迁]]; and resynthesized [[MagicAttentionMemoryDesign]], [[PerformerAudienceStateCoupling]], and [[ConsentBasedTheatricalDeception]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: magic becomes a present-tense impossible event when causal misdirection, apparent choice, story, participation, and shared astonishment align the audience with the performer; failure recovery is relational as well as technical; and theatrical deception remains bounded by consent, purpose, proportional danger, harm, spectator memory, and peer livelihood. No settled contradiction was adopted. Career history, health, industry conditions, audience response, influence, and performance incidents remain participant-reported, while practitioner psychology is not treated as controlled evidence. Broad [[LuoYonghao]] and [[LuoyonghaosCrossroads|罗永浩的十字路口]] profiles were kept closed because focused pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,287 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

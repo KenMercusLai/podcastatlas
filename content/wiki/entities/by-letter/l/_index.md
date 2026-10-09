@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13010
+wiki_total_pages: 13011
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1565,6 +1565,9 @@ wiki_pages:
   - key: "LiuDanLateHan"
     title: "刘诞 / Liu Dan (late Han)"
     url: "/wiki/entities/liudanlatehan/"
+  - key: "LiuQianMagician"
+    title: "刘谦 / Liu Qian (Magician)"
+    url: "/wiki/entities/liuqianmagician/"
   - key: "LiuXianWuCrownPrinceWesternHan"
     title: "刘贤 / Liu Xian, Crown Prince of Wu (Western Han)"
     url: "/wiki/entities/liuxianwucrownprincewesternhan/"

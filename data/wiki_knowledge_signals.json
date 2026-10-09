@@ -50652,9 +50652,9 @@
       "url": "/wiki/concepts/consentandbodyboundaryeducation/"
     },
     "ConsentBasedTheatricalDeception": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6818902310 [SCIM6818902310].md",
@@ -50662,9 +50662,16 @@
           "show": "Huberman Lab",
           "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
           "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
+        },
+        {
+          "episode_file": "lkmBNVq3I5S8rvzS22fyi2xhNbtE [lkmBNVq3I5S8rvzS22fyi2xhNbtE].md",
+          "key": "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte",
+          "show": "罗永浩的十字路口",
+          "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",
+          "url": "/wiki/sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/consentbasedtheatricaldeception/"
     },
     "ConsentViolationHorror": {
@@ -151812,6 +151819,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/liuqianhuainancrownprincewesternhan/"
     },
+    "LiuQianMagician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkmBNVq3I5S8rvzS22fyi2xhNbtE [lkmBNVq3I5S8rvzS22fyi2xhNbtE].md",
+          "key": "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte",
+          "show": "罗永浩的十字路口",
+          "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",
+          "url": "/wiki/sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/liuqianmagician/"
+    },
     "LiuQiangDonghaiKing": {
       "episode_count": 6,
       "show_count": 1,
@@ -161240,9 +161263,9 @@
       "url": "/wiki/entities/magdala/"
     },
     "MagicAttentionMemoryDesign": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6818902310 [SCIM6818902310].md",
@@ -161250,9 +161273,16 @@
           "show": "Huberman Lab",
           "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
           "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
+        },
+        {
+          "episode_file": "lkmBNVq3I5S8rvzS22fyi2xhNbtE [lkmBNVq3I5S8rvzS22fyi2xhNbtE].md",
+          "key": "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte",
+          "show": "罗永浩的十字路口",
+          "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",
+          "url": "/wiki/sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/magicattentionmemorydesign/"
     },
     "MagicHatBrewingCompany": {
@@ -192736,9 +192766,9 @@
       "url": "/wiki/concepts/performancesupplementhierarchy/"
     },
     "PerformerAudienceStateCoupling": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -192767,9 +192797,16 @@
           "show": "罗永浩的十字路口",
           "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
           "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        },
+        {
+          "episode_file": "lkmBNVq3I5S8rvzS22fyi2xhNbtE [lkmBNVq3I5S8rvzS22fyi2xhNbtE].md",
+          "key": "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte",
+          "show": "罗永浩的十字路口",
+          "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",
+          "url": "/wiki/sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
     "PeriaqueductalGray": {

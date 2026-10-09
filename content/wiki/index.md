@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [魔术大师刘谦×罗永浩！你所不知道的刘谦](sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte.md) — 刘谦以职业路径、现场作品、误导与强迫选择、失手恢复和保密伦理说明魔术如何把技术转化为观众亲历的不可能事件。
 - [VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了](sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md.md) — 这病说来话长由马浩宁的拉萨支援经历连接医疗能力转移、门诊停诊交接、同组复诊、线上随访与延误告知。
 - [617. Elizabeth I: Anne Boleyn's Bastard (Part 2)](sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242.md) — The Rest Is History on Elizabeth's childhood losses, humanist-Protestant education, the Thomas Seymour scandal, disciplined interrogation survival, and Edward VI's succession crisis.
 - [Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459.md) — Condensed Huberman Lab interview on respiratory rhythm, physiological sighs, slow-breathing pathways, fear-response evidence, and bounded magnesium claims.
@@ -4361,6 +4362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 
 ## Entities
+- [刘谦 / Liu Qian (Magician)](entities/LiuQianMagician.md) — Experience-centered magician and writer-director whose profile joins premium positioning, mass-media fame, live-show design, failure recovery, and audience-serving ethics.
 - [Katherine Ashley](entities/KatherineAshley.md) — Elizabeth I's learned evangelical governess, long-term attendant, and household protector compromised by Thomas Seymour's schemes.
 - [William Grindal](entities/WilliamGrindal.md) — Elizabeth I's Latin and Greek tutor and an early personal influence in her humanist-Protestant formation.
 - [Roger Ascham](entities/RogerAscham.md) — Humanist scholar who directed the later stage of Elizabeth I's formal classical education.
