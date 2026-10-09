@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12932
+wiki_total_pages: 12935
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "RichardTitmuss"
     title: "Richard Titmuss / 蒂特马斯"
     url: "/wiki/entities/richardtitmuss/"
+  - key: "RichardVonKrafftEbing"
+    title: "Richard von Krafft-Ebing"
+    url: "/wiki/entities/richardvonkrafftebing/"
   - key: "RichardWagner"
     title: "Richard Wagner"
     url: "/wiki/entities/richardwagner/"

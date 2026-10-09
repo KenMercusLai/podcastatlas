@@ -33866,3 +33866,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 627. Jack The Ripper: From Hell (Part 4)
+
+Added source `627-jack-the-ripper-from-hell-part-4-glt6270048402`; created [[MaryJaneKelly]], [[JosephBarnett]], [[RichardVonKrafftEbing]], and [[JackTheRipperMythFormation]]; and resynthesized [[JackTheRipper]], [[WTStead|W. T. Stead]], [[VictorianWomenPrecarity]], [[VictimStigmaInTrueCrime]], and [[SensationalMediaPublicSphere]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Mary Jane Kelly's recoverable rent, relationship, witness, and funeral history must remain distinct from her unverifiable earlier biography, while newspapers, literary doubles, medical suspicion, detective fantasy, and sexual-pathology categories made an unknown offender culturally legible as a modern serial killer. No settled contradiction was adopted. Kelly's origins, appearance, witness chronology, time of death, later-victim claims, medical expertise, diagnosis, motive, and reform effects remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,240 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

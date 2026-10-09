@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2657
+topic_total_pages: 2658
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"
+  - key: "627-jack-the-ripper-from-hell-part-4-glt6270048402"
+    title: "627. Jack The Ripper: From Hell (Part 4)"
+    url: "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
   - key: "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737"
     title: "628. Jack The Ripper: The Killer Unmasked (Part 5)"
     url: "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"

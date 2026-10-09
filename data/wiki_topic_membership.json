@@ -6261,6 +6261,13 @@
       "url": "/topics/history/"
     }
   ],
+  "627-jack-the-ripper-from-hell-part-4-glt6270048402": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737": [
     {
       "key": "history",
@@ -48128,6 +48135,13 @@
     }
   ],
   "JackTheRipperCaseClosed": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "JackTheRipperMythFormation": [
     {
       "key": "culture",
       "label": "Culture",

@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 10119
+wiki_total_pages: 10120
 wiki_pages:
+  - key: "JackTheRipperMythFormation"
+    title: "Jack the Ripper Myth Formation"
+    url: "/wiki/concepts/jacktherippermythformation/"
   - key: "JankyMVP"
     title: "Janky MVP"
     url: "/wiki/concepts/jankymvp/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3291
+topic_total_pages: 3292
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1762,6 +1762,9 @@ topic_concepts:
   - key: "IslandAdventureInversion"
     title: "Island Adventure Inversion / 荒岛冒险反写"
     url: "/wiki/concepts/islandadventureinversion/"
+  - key: "JackTheRipperMythFormation"
+    title: "Jack the Ripper Myth Formation"
+    url: "/wiki/concepts/jacktherippermythformation/"
   - key: "JapaneseAdaptiveCulturalSynthesis"
     title: "Japanese Adaptive Cultural Synthesis"
     url: "/wiki/concepts/japaneseadaptiveculturalsynthesis/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [627. Jack The Ripper: From Hell (Part 4)](sources/627-jack-the-ripper-from-hell-part-4-glt6270048402.md) — The Rest Is History reconstructs Mary Jane Kelly's uncertain life and murder, then traces how press, fiction, medicine, detection, and psychiatry made Jack the Ripper a modern myth.
 - [2 东西方的祥瑞与灾异：从恺撒到王莽](sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2.md) — 怪东西跨文明比较祥瑞、灾异、占卜与神圣王权，强调征兆的政治效力取决于阐释权、制度接受和责任分配，而非符号自身的固定意义。
 - [088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多](sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2.md) — 纸醉金迷FM以三世棺、地下影骨和顶部真身拆解献王墓的垂直宇宙结构，并讨论文化反转式恐怖与铁三角互补协作。
 - [628. Jack The Ripper: The Killer Unmasked (Part 5)](sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737.md) — The Rest Is History tests famous, conspiratorial, police-backed, and local Jack the Ripper suspects, favoring an unidentified local-worker profile while preserving the absence of proof.
@@ -14869,9 +14870,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Clements](entities/DavidClements.md) — Leadership coach credited by Kashish Gupta with the idea that founders may be the only people who can afford to be wrong.
 - [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
 - [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in a culturally influential but evidentially weak Jack the Ripper theory.
-- [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting suspect mythology, victim stigma, Victorian poverty, and policing practice.
+- [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting victim precarity, suspect mythology, policing failure, sensational media, and psychiatric legibility.
 - [《开膛手杰克结案报告》](entities/JackTheRipperCaseClosed.md) — Patricia Cornwell book that argues Walter Sickert was Jack the Ripper while exposing the limits of old forensic evidence.
 - [Mary Ann Nichols](entities/MaryAnnNichols.md) — Whitechapel victim whose biography grounds the episode's shift from murder spectacle to Victorian women's precarity.
+- [Mary Jane Kelly](entities/MaryJaneKelly.md) — Likely final canonical Whitechapel victim whose rent pressure, disputed biography, indoor murder, and public funeral concentrate the case's human and evidentiary uncertainty.
+- [Joseph Barnett](entities/JosephBarnett.md) — Mary Jane Kelly's former cohabiting partner and fish-market porter whose unemployment, testimony, identification, and funeral role illuminate her final circumstances.
+- [Richard von Krafft-Ebing](entities/RichardVonKrafftEbing.md) — Psychiatrist whose sexual classifications shaped later interpretation of identity, sadism, cruelty, and “lust murder.”
 - [Scotland Yard](entities/ScotlandYard.md) — London policing institution used by the episode to show how early investigative failures shaped later criminal-investigation discipline.
 - [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
 - [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
@@ -25307,7 +25311,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sacrificing Others Ethics](concepts/SacrificingOthersEthics.md) — Moral problem of assigning another person's severe cost, with autonomy, necessity, expendability, consent, and procedural fairness kept distinct.
 - [Anti-Heroic Resistance Narrative](concepts/AntiHeroicResistanceNarrative.md) — Story frame where resistance is distributed across ordinary people, communities, institutions, and compromised organizers rather than a chosen hero.
 - [Shi Jianqiao Revenge Case](concepts/ShiJianqiaoRevengeCase.md) — Event cluster around the 1935 assassination, trial, public sympathy, media remaking, and pardon.
-- [Sensational Media Public Sphere](concepts/SensationalMediaPublicSphere.md) — Popular crime news, theater, fiction, melodrama, and gossip as politically meaningful publicness beyond narrow rational debate.
+- [Sensational Media Public Sphere](concepts/SensationalMediaPublicSphere.md) — Popular crime news, theater, fiction, melodrama, and gossip as politically effective but evidentially unreliable public interpretation.
+- [Jack the Ripper Myth Formation](concepts/JackTheRipperMythFormation.md) — Process by which press, literary doubles, medical suspicion, detective fantasy, and psychiatry made an unknown killer culturally coherent.
 - [Private Revenge And Modern Law](concepts/PrivateRevengeModernLaw.md) — Conflict between filial/private vengeance and the modern state's claim over punishment and legal order.
 - [Filial Revenge Public Sympathy](concepts/FilialRevengePublicSympathy.md) — How daughterly revenge for a humiliated father became a morally compelling public narrative.
 - [Judicial Independence And Public Opinion](concepts/JudicialIndependencePublicOpinion.md) — Legal-professional anxiety that sympathy, media pressure, and party-state power would weaken courts.

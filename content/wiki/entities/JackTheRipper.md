@@ -6,6 +6,7 @@ sources:
   - 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604
   - 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465
   - 628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737
+  - 627-jack-the-ripper-from-hell-part-4-glt6270048402
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -18,11 +19,13 @@ Jack the Ripper is the unidentified perpetrator associated with the 1888 Whitech
 
 ## Current Profile
 
-The evidence supports only a broad working profile. [[628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737]] favors a local man familiar with Whitechapel, able to move at night, approach victims without immediate alarm, use a knife, and escape quickly. Regular employment and butchery or slaughterhouse experience could explain timing, bodily familiarity, knives, and blood, but this remains circumstantial rather than identifying.
+The evidence supports only a broad working profile. [[628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737]] favors a local man familiar with Whitechapel, able to move at night, approach victims without immediate alarm, use a knife, and escape quickly. Regular employment and butchery or slaughterhouse experience could explain timing, bodily familiarity, knives, and blood, but this remains circumstantial rather than identifying. [[627-jack-the-ripper-from-hell-part-4-glt6270048402]] adds that the indoor murder of [[MaryJaneKelly|Mary Jane Kelly]] allowed more privacy and time than earlier attacks, but witness claims, cries, and medical estimates do not identify the offender.
 
 Celebrity, royal, Masonic, medical, artistic, foreign-outsider, and forged-document theories repeatedly fail alibi, logistics, provenance, physical-capacity, behavioral, or method tests. The [[MacnaghtenMemorandum]] shows that police had named suspicions but no attachable proof. [[WalterSickert]], Aaron Kosminski, Montague John Druitt, Michael Ostrog, George Chapman, James Maybrick, Francis Tumblety, and Charles Lechmere therefore remain unequally plausible candidates rather than a solved roster.
 
-The unresolved identity does not make the case historically empty. [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] centers [[MaryAnnNichols]] and the risks faced by precarious women; [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] connects the murders to industrial London, policing weakness, gendered violence, and historical method. Together, the sources shift the governing question from “which famous man did it?” toward what the evidence can establish about victims, institutions, place, and uncertainty.
+The unresolved identity does not make the case historically empty. [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] centers [[MaryAnnNichols]] and the risks faced by precarious women; [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] connects the murders to industrial London, policing weakness, gendered violence, and historical method; and the Kelly episode reconstructs rent debt, relationship strain, public mourning, and an unverifiable biography. Together, the sources shift the governing question from “which famous man did it?” toward what the evidence can establish about victims, institutions, place, and uncertainty.
+
+The case is also a product of [[JackTheRipperMythFormation]]. Newspapers, [[WTStead|W. T. Stead]]'s police criticism, *Dr Jekyll and Mr Hyde*, medical theories, [[SherlockHolmes|Sherlock Holmes]], and [[RichardVonKrafftEbing|Richard von Krafft-Ebing]] made the unknown killer culturally legible as a hidden respectable monster, failed-detection challenge, medical suspect, and sexual psychopath. Those frameworks explain endurance and modernity without proving identity or motive.
 
 ## Key Characteristics
 
@@ -31,7 +34,8 @@ The unresolved identity does not make the case historically empty. [[50-kaitangs
 - Later letters, DNA claims, diaries, clothing, and other artifacts face serious provenance, contamination, and hoax problems.
 - The case exposed weaknesses in early evidence handling and became a pressure point in [[ModernCriminalInvestigationFormation]].
 - Victim biography and [[VictorianWomenPrecarity]] remain historically knowable even when offender attribution does not.
-- Royal and Masonic stories demonstrate how narrative proportionality can overpower mundane opportunity and capability.
+- Royal and Masonic stories, medical suspicion, and stage-villain imagery show how cultural scripts can overpower mundane opportunity and capability.
+- The Ripper's status as a “modern” serial killer depends partly on contemporary media and later psychiatric legibility, not simply chronological priority.
 
 ## Evidence
 
@@ -48,10 +52,15 @@ The unresolved identity does not make the case historically empty. [[50-kaitangs
 
 - [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] uses [[MaryAnnNichols]] to resist flattening the victims into a stigmatizing occupational label and connects the case to poverty, workhouses, housing loss, and immature investigative practice.
 - [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] shows how [[HistoricalDetectiveReasoning]] can recover industrial London, gendered danger, urban change, and police limits without solving the offender's identity.
+- [[627-jack-the-ripper-from-hell-part-4-glt6270048402]] restores Kelly's disputed biography, rent pressure, witness uncertainty, public mourning, and isolation at burial.
+
+### Cultural and psychiatric legibility
+
+- [[627-jack-the-ripper-from-hell-part-4-glt6270048402]] connects press narration, literary doubles, medical suspicion, detective fantasy, and sexual-pathology categories to the offender's cultural afterlife.
 
 ## Qualifications
 
-The canonical victim count, witness descriptions, anatomical knowledge, occupational pattern, individual alibis, suspect behavior, and reason the murders stopped remain disputed or source-dependent. A local-worker profile may fit better than celebrity theories while still describing many men. The source set contains podcast and book-discussion syntheses rather than a complete primary archive, so the wiki does not adopt a named culprit.
+The canonical victim count, witness descriptions, anatomical knowledge, occupational pattern, individual alibis, suspect behavior, time of Kelly's death, and reason the murders stopped remain disputed or source-dependent. A local-worker profile may fit better than celebrity theories while still describing many men. Medical or psychiatric frameworks can explain suspicion and later interpretation without establishing profession, diagnosis, or motive. The source set contains podcast and book-discussion syntheses rather than a complete primary archive, so the wiki does not adopt a named culprit.
 
 ## What Changed
 
@@ -59,11 +68,14 @@ The canonical victim count, witness descriptions, anatomical knowledge, occupati
 - Added the [[MacnaghtenMemorandum]] as evidence of police suspicion bounded by an explicit absence of proof.
 - Added the anonymous local butcher or slaughterhouse-worker profile as comparatively economical but non-identifying.
 - Made comparative suspect testing, rather than cumulative notoriety, the current attribution standard.
+- Added Kelly's indoor murder and the media-literary-medical formation of the Ripper myth while preserving the distinction between cultural explanation and offender evidence.
 
 ## Relationships
 
 - [[WalterSickert]] - famous artistic suspect whose attribution remains unsupported.
 - [[MaryAnnNichols]] - victim whose biography anchors the case in social history rather than spectacle.
+- [[MaryJaneKelly]] - likely final canonical victim whose uncertain life and indoor murder shaped the legend's culminating form.
+- [[JackTheRipperMythFormation]] - process that made an unknown offender culturally coherent through media, fiction, medicine, detection, and psychiatry.
 - [[ColdCaseSuspectEvaluation]] - framework for ranking suspects without converting fit into proof.
 - [[ContestedForensicAttribution]] - explains why old biological and documentary evidence cannot bear modern certainty automatically.
 - [[VictimStigmaInTrueCrime]] - resists reducing victims to labels that obscure their lives.

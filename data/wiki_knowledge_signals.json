@@ -128761,9 +128761,9 @@
       "url": "/wiki/entities/jackruby/"
     },
     "JackTheRipper": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -128785,10 +128785,33 @@
           "show": "The Rest Is History",
           "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
           "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/jacktheripper/"
+    },
+    "JackTheRipperMythFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/jacktherippermythformation/"
     },
     "JackieFisher": {
       "episode_count": 1,
@@ -135253,6 +135276,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/josephbanks/"
+    },
+    "JosephBarnett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/josephbarnett/"
     },
     "JosephBell": {
       "episode_count": 1,
@@ -162967,6 +163006,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/maryii/"
+    },
+    "MaryJaneKelly": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/maryjanekelly/"
     },
     "MaryOfBurgundy": {
       "episode_count": 1,
@@ -211626,6 +211688,36 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/richardschwartz/"
     },
+    "RichardVonKrafftEbing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        },
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/richardvonkrafftebing/"
+    },
     "RichardWagner": {
       "episode_count": 2,
       "show_count": 2,
@@ -220617,6 +220709,29 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/seniorcourtvetoreformretreat/"
+    },
+    "SensationalMediaPublicSphere": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
+          "key": "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038",
+          "show": "蜜獾吃书",
+          "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
+          "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/sensationalmediapublicsphere/"
     },
     "SensitivePersonnelRecommendationBoundary": {
       "episode_count": 1,
@@ -253754,6 +253869,36 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/victimforgivenessagency/"
     },
+    "VictimStigmaInTrueCrime": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案 [756562827].md",
+          "key": "113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827",
+          "show": "蜜獾吃书",
+          "title": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案",
+          "url": "/wiki/sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827/"
+        },
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/victimstigmaintruecrime/"
+    },
     "VictorBarker": {
       "episode_count": 1,
       "show_count": 1,
@@ -253872,6 +254017,36 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/victoriantourismformation/"
+    },
+    "VictorianWomenPrecarity": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/victorianwomenprecarity/"
     },
     "VideoPodcastAffordance": {
       "episode_count": 4,
@@ -255299,9 +255474,9 @@
       "url": "/wiki/concepts/wiplimitpersonalproductivity/"
     },
     "WTStead": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1273657377 [GLT1273657377].md",
@@ -255323,9 +255498,16 @@
           "show": "The Rest Is History",
           "title": "29. Americanisation",
           "url": "/wiki/sources/29-americanisation-glt9683168458/"
+        },
+        {
+          "episode_file": "GLT6270048402 [GLT6270048402].md",
+          "key": "627-jack-the-ripper-from-hell-part-4-glt6270048402",
+          "show": "The Rest Is History",
+          "title": "627. Jack The Ripper: From Hell (Part 4)",
+          "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/wtstead/"
     },
     "WahahaADCalciumMilk": {
