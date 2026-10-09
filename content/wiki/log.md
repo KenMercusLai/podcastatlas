@@ -33714,3 +33714,11 @@ Added source `4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·秦纪》119-4｜史上能称巨婴的君王—齐王建
+
+Added source `zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph`; created the disambiguated [[JimoDafuLateQi|即墨大夫（齐末）]] and [[LongPeaceReadinessAtrophy|长期和平战备退化]]; and resynthesized [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[HouSheng|后胜]], [[YongmenSima|雍门司马]], and [[DistantStateAppeasementTrap|远国安抚误读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Qi's forty-plus years of peace preserved people but also hardened Qin-friendly threat assumptions, narrowed its advice channel, and allowed readiness to decay; Yongmen Sima stopped one dangerous journey without producing a new strategy, while the late-Qi Jimo Dafu's exile-led restoration plan was courageous but operationally doubtful. No settled contradiction was adopted. The benefits and costs of long peace remain simultaneous; the Jimo Dafu force figures and carriage-blocking variant remain source-scoped; and the late-Qi officeholder is kept distinct from the Qi Wei Wang-era [[JimoDafu|即墨大夫]]. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,221 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

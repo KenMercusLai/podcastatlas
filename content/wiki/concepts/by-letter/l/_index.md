@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10098
+wiki_total_pages: 10099
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LongLivedStartupDecisions"
     title: "Long-Lived Startup Decisions"
     url: "/wiki/concepts/longlivedstartupdecisions/"
+  - key: "LongPeaceReadinessAtrophy"
+    title: "Long-Peace Readiness Atrophy / 长期和平战备退化"
+    url: "/wiki/concepts/longpeacereadinessatrophy/"
   - key: "LongRunUrbanSafetyTrend"
     title: "Long-Run Urban Safety Trend"
     url: "/wiki/concepts/longrunurbansafetytrend/"

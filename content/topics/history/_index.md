@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2648
+topic_total_pages: 2651
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -835,6 +835,9 @@ topic_concepts:
   - key: "LineageRuleDurability"
     title: "Lineage Rules and Elite Durability / 家规型士族延续"
     url: "/wiki/concepts/lineageruledurability/"
+  - key: "LongPeaceReadinessAtrophy"
+    title: "Long-Peace Readiness Atrophy / 长期和平战备退化"
+    url: "/wiki/concepts/longpeacereadinessatrophy/"
   - key: "LongTermAchievementDiscipline"
     title: "Long-Term Achievement Discipline / 长期成事纪律"
     url: "/wiki/concepts/longtermachievementdiscipline/"
@@ -3158,6 +3161,9 @@ topic_entities:
   - key: "JimoWarringStates"
     title: "即墨 / Jimo"
     url: "/wiki/entities/jimowarringstates/"
+  - key: "JimoDafuLateQi"
+    title: "即墨大夫（齐末） / Late-Qi Jimo Dafu"
+    url: "/wiki/entities/jimodafulateqi/"
   - key: "InstituteOfHistoryAndPhilology"
     title: "历史语言研究所 / 史语所"
     url: "/wiki/entities/instituteofhistoryandphilology/"
@@ -7884,6 +7890,9 @@ topic_sources:
   - key: "zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul"
     title: "《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后"
     url: "/wiki/sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul/"
+  - key: "zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph"
+    title: "《资治通鉴·秦纪》119-4｜史上能称巨婴的君王—齐王建"
+    url: "/wiki/sources/zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph/"
   - key: "zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0"
     title: "《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？"
     url: "/wiki/sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0/"

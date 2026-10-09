@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12918
+wiki_total_pages: 12919
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1547,6 +1547,9 @@ wiki_pages:
   - key: "JimoDafu"
     title: "即墨大夫 / Jimo Dafu"
     url: "/wiki/entities/jimodafu/"
+  - key: "JimoDafuLateQi"
+    title: "即墨大夫（齐末） / Late-Qi Jimo Dafu"
+    url: "/wiki/entities/jimodafulateqi/"
   - key: "JueJiHengshan"
     title: "厥姬 / Jue Ji (Hengshan Consort)"
     url: "/wiki/entities/juejihengshan/"

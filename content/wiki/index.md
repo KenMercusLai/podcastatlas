@@ -2803,6 +2803,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制](sources/zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv.md) — 芮淇讲透资治通鉴 episode on Wang Wan and Li Si's post-unification debate over princely enfeoffment versus empire-wide commandery-county rule, with later Xiang Yu, Liu Bang, and Han Wudi comparisons.
 - [《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念](sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq.md) — 芮淇讲透资治通鉴 episode on Qin's post-unification imperial title, 制/诏/朕 language monopoly, abolished谥法, numbered emperors, water-virtue legitimacy, black color, October year-start, number six, and law-punishment symbolism.
 - [《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？](sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0.md) — 芮淇讲透资治通鉴 episode on Qin's 221 BCE conquest of Qi, Qi Wang Jian's surrender and starvation, the casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense legitimacy narrative.
+- [《资治通鉴·秦纪》119-4｜史上能称巨婴的君王—齐王建](sources/zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph.md) — 芮淇讲透资治通鉴 episode on Qi Wang Jian's aborted Qin visit, Yongmen Sima's remonstrance, the late-Qi Jimo Dafu's restoration proposal, and military-readiness erosion after decades of peace.
 - [《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后](sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul.md) — 芮淇讲透资治通鉴 episode on Wang Ben's capture of Dai and Zhao Jia, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji setup, Jun Wang Hou's pro-Qin neutrality, Qi's forty-plus years of peace, and the Qin-Qi appeasement trap before Yongmen Sima's remonstrance.
 - [《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”](sources/zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e.md) — 芮淇讲透资治通鉴 episode on Ye Gong's warning about Bai Gong Sheng, the 479 BCE Chu rebellion, speech as moral diagnosis, Ye Gong's retreat, and Ye Gong Hao Long's reputation damage.
 - [《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密](sources/zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p.md) — 芮淇讲透资治通鉴 episode on Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke through renyi-grounded virtue.
@@ -10084,7 +10085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
 - [闽越 / Minyue](entities/Minyue.md) — 从刘邦册封无诸，经郢被杀及丑、余善分获承认，延伸到东越败亡后人口迁往江淮的东南越系政区。
 - [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery from Qin's southeastern expansion through Xiang takeover, Xu Sheng's Hanji 903 uprising, and Sun Ce's late-Han local base/title frame.
-- [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
+- [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Late-Qi remonstrant who makes Qi Wang Jian abandon his personal journey to Qin by grounding kingship in duty to the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
 - [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.
 - [子西 / Zi Xi (Chu)](entities/ZiXiChu.md) — Chu lingyin who recalls Bai Gong Sheng despite Ye Gong's warning and is killed in the resulting rebellion.
@@ -10203,7 +10204,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
 - [荥阳 / Yingyang](entities/YingyangWarringStates.md) — Qin-held Sanchuan point that later becomes Liu Bang's post-Pengcheng defensive concentration point and part of Li Shiqi's Yingyang-Chenggao-Aocang logistics argument.
 - [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose annotations press readers beyond face-value moral readings in the Guancheng and Xue Xuan scenes.
-- [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
+- [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded advice network reinforces non-intervention, false reassurance, and resistance to renewed war preparation.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
 - [周文王 / King Wen of Zhou](entities/ZhouWenwang.md) — Zhou ruler who recognizes Jiang Taigong, links the episode to Zhouyi systematization, and grounds the late-blooming talent branch.
 - [夏姬 / 夏太后 / Lady Xia](entities/XiaTaihou.md) — Qin Zhuangxiang Wang's biological mother, honored as Xia Taihou after his accession.
@@ -10334,8 +10335,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
 - [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
 - [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity, returned from Ju to Linzi after Tian Dan's counterattack and later corrected by Diao Bo for dishonoring Tian Dan.
-- [齐王建 / 田建 / King Jian of Qi](entities/QiWangJian.md) — Late Qi ruler whose cautious court and Hou Sheng's Qin-funded advice make Qi unreliable as an anti-Qin partner or absorber of Lu.
-- [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter and Qi Xiang Wang's queen, whose crisis marriage later faces family-ritual objection.
+- [齐王建 / 田建 / King Jian of Qi](entities/QiWangJian.md) — Final Qi ruler whose inherited peace, captured advice, readiness loss, indecision, surrender, and casualty-sparing legacy form a mixed judgment.
+- [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Qi queen and regent whose long peace preserves people but weakens collective defense and ends with an incomplete personnel handoff.
 - [太史角 / 太史敫 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head who shelters Tian Fazhang, then rejects his daughter's non-ritual marriage to the restored king.
 - [王孙古 / Wang Sun Gu](entities/WangSunGu.md) — Qi retainer who mobilizes revenge against Zhuo Chi after his mother's rebuke.
 - [莒 / Ju](entities/JuWarringStates.md) — Qi refuge and restoration base where Tian Fazhang hides and is installed as Qi Xiang Wang.
@@ -10598,6 +10599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵苍唐 / Zhao Cangtang](entities/ZhaoCangtang.md) — Retainer whose gifts, etiquette, and Shijing allusions help the future Wei Wuhou return from Zhongshan.
 - [齐威王 / King Wei of Qi](entities/QiWeiwang.md) — Qi ruler whose branch runs from contested chronology and official audits to Sun Bin's rescue strategies and Tian Ji's post-Maling accusation crisis.
 - [即墨大夫 / Jimo Dafu](entities/JimoDafu.md) — Qi local official with bad court gossip but strong local performance in Qi Wei Wang's secret audit.
+- [即墨大夫（齐末） / Late-Qi Jimo Dafu](entities/JimoDafuLateQi.md) — Unnamed late-Qi official whose exile-led anti-Qin restoration plan is courageous but militarily doubtful.
 - [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
 - [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
 - [宋剔成 / Song Ticheng](entities/SongTicheng.md) — Song Pi Gong's son and successor in the Zhou Lie Wang sixth-year notice.
@@ -21687,7 +21689,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Symbolic Standardization / 帝国符号标准化](concepts/ImperialSymbolicStandardization.md) — Qinji 120-2 frame for Qin's post-unification package of imperial title, document language, exclusive pronoun, numbered dynasty sequence, color, calendar, number, and water-virtue legitimacy.
 - [Casualty-Sparing Surrender / 保全生灵式投降](concepts/CasualtySparingSurrender.md) — Qinji 120-1 tradeoff where Qi Wang Jian's surrender destroys the state but avoids a destructive final war.
 - [Conquest Self-Defense Narrative / 兼并自卫叙事](concepts/ConquestSelfDefenseNarrative.md) — Qinji 120-1 legitimacy pattern where Qin recasts conquest of the six states as reluctant punishment and self-defense.
-- [Distant-State Appeasement Trap / 远国安抚误读](concepts/DistantStateAppeasementTrap.md) — Qinji 119-3 pattern where Qi mistakes Qin's far-state reassurance under 远交近攻 for durable diplomatic success.
+- [Distant-State Appeasement Trap / 远国安抚误读](concepts/DistantStateAppeasementTrap.md) — Late-Qi pattern where real short-term peace, captured advice, and Qin's conquest sequencing are misread as durable safety.
+- [Long-Peace Readiness Atrophy / 长期和平战备退化](concepts/LongPeaceReadinessAtrophy.md) — Late-Qi pattern where prolonged peace without preparation preserves lives but erodes usable military capacity and strategic responsiveness.
 - [Speech As Moral Diagnostic / 言语作为德行信号](concepts/SpeechAsMoralDiagnostic.md) — Qinji 119-2 frame that harmful or violent speech can reveal intention and should matter in moral and personnel judgment.
 - [叶公好龙 / Ye Gong Hao Long](concepts/YeGongHaolong.md) — Idiom whose hypocrite image is reassessed by Qinji 119-2 as a reputation-distorting moral anecdote about Ye Gong.
 - [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.

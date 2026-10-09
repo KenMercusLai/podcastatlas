@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3246
+topic_total_pages: 3247
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9714,6 +9714,9 @@ topic_sources:
   - key: "zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul"
     title: "《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后"
     url: "/wiki/sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul/"
+  - key: "zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph"
+    title: "《资治通鉴·秦纪》119-4｜史上能称巨婴的君王—齐王建"
+    url: "/wiki/sources/zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph/"
   - key: "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu"
     title: "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波"
     url: "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
