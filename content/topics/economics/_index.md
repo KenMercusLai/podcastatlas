@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2229
+topic_total_pages: 2231
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1069,6 +1069,9 @@ topic_concepts:
   - key: "EmployeeStockOptions"
     title: "Employee Stock Options / 员工期权"
     url: "/wiki/concepts/employeestockoptions/"
+  - key: "EmployeeFirstCorporateResponsibility"
+    title: "Employee-First Corporate Responsibility / 员工优先的企业社会责任"
+    url: "/wiki/concepts/employeefirstcorporateresponsibility/"
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
@@ -5654,6 +5657,9 @@ topic_entities:
   - key: "Haoge"
     title: "浩哥 / Haoge"
     url: "/wiki/entities/haoge/"
+  - key: "MikiWatanabe"
+    title: "渡边美树 / Miki Watanabe"
+    url: "/wiki/entities/mikiwatanabe/"
   - key: "MouYiling"
     title: "牟一凌 / Mou Yiling"
     url: "/wiki/entities/mouyiling/"

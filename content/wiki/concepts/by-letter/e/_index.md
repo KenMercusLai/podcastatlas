@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10149
+wiki_total_pages: 10153
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "EmployeeStockOptions"
     title: "Employee Stock Options / 员工期权"
     url: "/wiki/concepts/employeestockoptions/"
+  - key: "EmployeeFirstCorporateResponsibility"
+    title: "Employee-First Corporate Responsibility / 员工优先的企业社会责任"
+    url: "/wiki/concepts/employeefirstcorporateresponsibility/"
   - key: "EmployerPowerReassertion"
     title: "Employer Power Reassertion"
     url: "/wiki/concepts/employerpowerreassertion/"

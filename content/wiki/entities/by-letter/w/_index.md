@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12993
+wiki_total_pages: 12996
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "WuZhicai"
     title: "吾之才 / Wu Zhicai"
     url: "/wiki/entities/wuzhicai/"
+  - key: "WatamiGroup"
+    title: "和民集团 / Watami Group"
+    url: "/wiki/entities/watamigroup/"
   - key: "WadaSachiko"
     title: "和田幸子 / Wada Sachiko"
     url: "/wiki/entities/wadasachiko/"

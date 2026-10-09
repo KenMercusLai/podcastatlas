@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇番外｜进入大厂两个月，她选择了自杀](sources/2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc.md) — 日谈物语 reconstructs 森美菜's 72 days at 和民, coerced voluntary labor, severe sleep loss, ignored warnings, work-related-suicide recognition, and her parents' 2,736-day accountability campaign.
 - [085 《我和僵尸有个约会》：集灵异、僵尸、悬疑、爱情、奇幻于一体的童年经典](sources/085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz.md) — 纸醉金迷FM回顾《我和僵尸有个约会》的创作背景、红溪村起源、日本初春篇与三角关系，并以复生和阿秀讨论永生代价及转化同意。
 - [EP 27: AI and the Creative Arts: Innovation or Appropriation?](sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation.md) — Data Science With Sam episode with Andres Morales on creator compensation, lived experience, proof of process, meaningful human authority, and human-led creative AI.
 - [621. The Nazis at War: Blitzkrieg (Part 2)](sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512.md) — The Rest Is History on Norway, Churchill's accession, the Ardennes breakthrough, and Allied collapse before Dunkirk.
@@ -4345,6 +4346,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
 
 ## Entities
+- [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.
+- [和民集团 / Watami Group](entities/WatamiGroup.md) — Japanese hospitality group whose mission-driven culture, labor system, and response to Mori Mina's death are examined together.
+- [渡边美树 / Miki Watanabe](entities/MikiWatanabe.md) — Watami founder and former legislator associated with its dream-centered philosophy and contested responsibility for Mori Mina's death.
 - [Andres Morales](entities/AndresMorales.md) — RedMage founder and creative technologist advocating creator compensation, lived experience, and substantive human authority in creative AI.
 - [RedMage](entities/RedMage.md) — Andres Morales's creative-technology business context spanning technology, creativity, and community work.
 - [Haakon VII](entities/HaakonVII.md) — Norwegian king whose escape and refusal to authorize Quisling preserved legitimate resistance during the 1940 invasion.
@@ -17397,6 +17401,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
 
 ## Concepts
+- [Coerced Voluntary Labor / 强制性自愿劳动](concepts/CoercedVoluntaryLabor.md) — Work labeled optional but made costly to refuse through evaluation, promotion, belonging, scheduling, or livelihood consequences.
+- [Corporate Values as Labor Control / 企业价值观劳动控制](concepts/CorporateValuesLaborControl.md) — Use of mission, gratitude, dreams, family belonging, or growth to moralize employer-imposed sacrifice.
+- [Work-Related Suicide Recognition / 过劳自杀工伤认定](concepts/WorkRelatedSuicideRecognition.md) — Attribution of suicide to work-caused mental illness and cumulative burden through evidence of actual control and safety failure.
+- [Employee-First Corporate Responsibility / 员工优先的企业社会责任](concepts/EmployeeFirstCorporateResponsibility.md) — Principle that external social good cannot substitute for safe, lawful, and genuinely rejectable work inside the company.
 - [Immortality Transformation Consent / 永生转化同意](concepts/ImmortalityTransformationConsent.md) — 区分亲历永生代价所带来的警告权威，与替他人决定不可逆转化的正当权限。
 - [Norwegian Campaign (1940)](concepts/NorwegianCampaign1940.md) — Contest over iron ore and coastal position joining Norwegian resistance, Allied failure, German losses, and Churchill's accession.
 - [Blitzkrieg](concepts/Blitzkrieg.md) — Coordinated operational speed and concentration qualified against myths of uniform mechanization and inevitable German victory.

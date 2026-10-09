@@ -34120,3 +34120,10 @@ Added source `085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qi
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 2026秋季篇番外｜进入大厂两个月，她选择了自杀
+
+Added source `2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc`; created [[MoriMina|森美菜]], [[WatamiGroup|和民集团]], [[MikiWatanabe|渡边美树]], [[CoercedVoluntaryLabor|强制性自愿劳动]], [[CorporateValuesLaborControl|企业价值观劳动控制]], [[WorkRelatedSuicideRecognition|过劳自杀工伤认定]], and [[EmployeeFirstCorporateResponsibility|员工优先的企业社会责任]]; and resynthesized [[NittanWuyu|日谈物语]] and [[InternalizedOverwork|内化型过劳]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: staffing, minimal practical training, incompatible transport, assessment-linked study and volunteering, founder-centered values, and promotion scarcity turned nominal choice into controlled labor and severe sleep deprivation; records, unions, administrative review, media, and litigation then shifted the case from personal psychology to employer responsibility. No settled contradiction was adopted. Exact hours, workforce and retention figures, legal thresholds, business effects, motives, and the scale of doctrinal change remain source-scoped pending primary records. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,272 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

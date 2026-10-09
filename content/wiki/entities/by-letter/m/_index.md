@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12993
+wiki_total_pages: 12996
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2021,6 +2021,9 @@ wiki_pages:
   - key: "MoriBuichi"
     title: "森布一"
     url: "/wiki/entities/moribuichi/"
+  - key: "MoriMina"
+    title: "森美菜 / Mina Mori"
+    url: "/wiki/entities/morimina/"
   - key: "Missfresh"
     title: "每日优鲜 / Missfresh"
     url: "/wiki/entities/missfresh/"
@@ -2069,6 +2072,9 @@ wiki_pages:
   - key: "Mianchi"
     title: "渑池 / Mianchi"
     url: "/wiki/entities/mianchi/"
+  - key: "MikiWatanabe"
+    title: "渡边美树 / Miki Watanabe"
+    url: "/wiki/entities/mikiwatanabe/"
   - key: "ManChong"
     title: "满宠 / Man Chong"
     url: "/wiki/entities/manchong/"

@@ -1575,6 +1575,10 @@
     "title": "2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！",
     "url": "/wiki/sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1/"
   },
+  "2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc": {
+    "title": "2026秋季篇番外｜进入大厂两个月，她选择了自杀",
+    "url": "/wiki/sources/2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc/"
+  },
   "20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer": {
     "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "url": "/wiki/sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer/"
@@ -20075,6 +20079,10 @@
     "title": "Coerced Talent Legitimacy / 胁迫征士合法性",
     "url": "/wiki/concepts/coercedtalentlegitimacy/"
   },
+  "CoercedVoluntaryLabor": {
+    "title": "Coerced Voluntary Labor / 强制性自愿劳动",
+    "url": "/wiki/concepts/coercedvoluntarylabor/"
+  },
   "CoerciveActs": {
     "title": "Coercive Acts",
     "url": "/wiki/entities/coerciveacts/"
@@ -21774,6 +21782,10 @@
   "CorporateTrainingComplianceRitual": {
     "title": "Corporate Training Compliance Ritual",
     "url": "/wiki/concepts/corporatetrainingcomplianceritual/"
+  },
+  "CorporateValuesLaborControl": {
+    "title": "Corporate Values as Labor Control / 企业价值观劳动控制",
+    "url": "/wiki/concepts/corporatevalueslaborcontrol/"
   },
   "CorrectQuestionEpistemology": {
     "title": "Correct Question Epistemology / 正确提问的认识论",
@@ -28898,6 +28910,10 @@
   "EmployeeEquityCommunication": {
     "title": "Employee Equity Communication",
     "url": "/wiki/concepts/employeeequitycommunication/"
+  },
+  "EmployeeFirstCorporateResponsibility": {
+    "title": "Employee-First Corporate Responsibility / 员工优先的企业社会责任",
+    "url": "/wiki/concepts/employeefirstcorporateresponsibility/"
   },
   "EmployeeGraph": {
     "title": "Employee Graph",
@@ -57699,6 +57715,10 @@
     "title": "Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫",
     "url": "/wiki/entities/mikhailgorbachev/"
   },
+  "MikiWatanabe": {
+    "title": "渡边美树 / Miki Watanabe",
+    "url": "/wiki/entities/mikiwatanabe/"
+  },
   "MilanKundera": {
     "title": "Milan Kundera / 米兰·昆德拉",
     "url": "/wiki/entities/milankundera/"
@@ -58902,6 +58922,10 @@
   "MoriBuilding": {
     "title": "Mori Building / 森大厦",
     "url": "/wiki/entities/moribuilding/"
+  },
+  "MoriMina": {
+    "title": "森美菜 / Mina Mori",
+    "url": "/wiki/entities/morimina/"
   },
   "MoriOgai": {
     "title": "Mori Ogai / 森鸥外",
@@ -88835,6 +88859,10 @@
     "title": "Wat Tyler",
     "url": "/wiki/entities/wattyler/"
   },
+  "WatamiGroup": {
+    "title": "和民集团 / Watami Group",
+    "url": "/wiki/entities/watamigroup/"
+  },
   "Watchmen": {
     "title": "《守望者》 / Watchmen",
     "url": "/wiki/entities/watchmen/"
@@ -90382,6 +90410,10 @@
   "WorkFromHomeScam": {
     "title": "Work-From-Home Scam",
     "url": "/wiki/concepts/workfromhomescam/"
+  },
+  "WorkRelatedSuicideRecognition": {
+    "title": "Work-Related Suicide Recognition / 过劳自杀工伤认定",
+    "url": "/wiki/concepts/workrelatedsuiciderecognition/"
   },
   "WorkRestBoundary": {
     "title": "Work-Rest Boundary / 工作休假边界",

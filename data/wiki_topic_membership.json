@@ -32798,6 +32798,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "EmployeeFirstCorporateResponsibility": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmployeeGraph": [
     {
       "key": "technology",
@@ -59021,6 +59033,18 @@
     }
   ],
   "MikhailGorbachev": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MikiWatanabe": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -92084,6 +92108,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "WorkRelatedSuicideRecognition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WorkerBaseModelRouting": [

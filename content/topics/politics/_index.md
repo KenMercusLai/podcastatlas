@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3252
+topic_total_pages: 3255
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1366,6 +1366,9 @@ topic_concepts:
   - key: "EmployeeSeveranceAtShutdown"
     title: "Employee Severance at Shutdown"
     url: "/wiki/concepts/employeeseveranceatshutdown/"
+  - key: "EmployeeFirstCorporateResponsibility"
+    title: "Employee-First Corporate Responsibility / 员工优先的企业社会责任"
+    url: "/wiki/concepts/employeefirstcorporateresponsibility/"
   - key: "EncirclementReleaseCalculus"
     title: "Encirclement Release Calculus / 围困开口式风险权衡"
     url: "/wiki/concepts/encirclementreleasecalculus/"
@@ -4453,6 +4456,9 @@ topic_concepts:
   - key: "WitchcraftBeliefEvidenceThreshold"
     title: "Witchcraft Belief–Evidence Threshold"
     url: "/wiki/concepts/witchcraftbeliefevidencethreshold/"
+  - key: "WorkRelatedSuicideRecognition"
+    title: "Work-Related Suicide Recognition / 过劳自杀工伤认定"
+    url: "/wiki/concepts/workrelatedsuiciderecognition/"
   - key: "WorkingTowardsTheFuhrer"
     title: "Working Towards the Führer"
     url: "/wiki/concepts/workingtowardsthefuhrer/"
@@ -8258,6 +8264,9 @@ topic_entities:
   - key: "Mianchi"
     title: "渑池 / Mianchi"
     url: "/wiki/entities/mianchi/"
+  - key: "MikiWatanabe"
+    title: "渡边美树 / Miki Watanabe"
+    url: "/wiki/entities/mikiwatanabe/"
   - key: "DianKingdomWesternHan"
     title: "滇国 / Dian Kingdom (Western Han-era)"
     url: "/wiki/entities/diankingdomwesternhan/"

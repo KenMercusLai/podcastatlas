@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10149
+wiki_total_pages: 10153
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1424,6 +1424,9 @@ wiki_pages:
   - key: "CoercedTalentLegitimacy"
     title: "Coerced Talent Legitimacy / 胁迫征士合法性"
     url: "/wiki/concepts/coercedtalentlegitimacy/"
+  - key: "CoercedVoluntaryLabor"
+    title: "Coerced Voluntary Labor / 强制性自愿劳动"
+    url: "/wiki/concepts/coercedvoluntarylabor/"
   - key: "CoerciveCapitalRelocation"
     title: "Coercive Capital Relocation / 强制迁都"
     url: "/wiki/concepts/coercivecapitalrelocation/"
@@ -2432,6 +2435,9 @@ wiki_pages:
   - key: "CorporateTrainingComplianceRitual"
     title: "Corporate Training Compliance Ritual"
     url: "/wiki/concepts/corporatetrainingcomplianceritual/"
+  - key: "CorporateValuesLaborControl"
+    title: "Corporate Values as Labor Control / 企业价值观劳动控制"
+    url: "/wiki/concepts/corporatevalueslaborcontrol/"
   - key: "CorporateOwnedStartupConstraints"
     title: "Corporate-Owned Startup Constraints"
     url: "/wiki/concepts/corporateownedstartupconstraints/"

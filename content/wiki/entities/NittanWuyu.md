@@ -7,29 +7,30 @@ sources:
   - 2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky
   - 2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4
   - 2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1
+  - 2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-26
+last_updated: 2026-10-10
 ---
 
 # 日谈物语 / Nittan Wuyu
 
 ## Overview
 
-日谈物语 enters the wiki through four 2026 autumn excerpts: E01 announces the [[JapanAIDSBloodProductsIncident|日本艾滋血液药剂事件]], E02 announces the [[YokkaichiPollutionIncident|四日市公害事件]], E03 introduces a 2005 Japanese doctor's murder conviction as a medical-ethics problem, and E04 supplies release and travel announcements without reaching the juvenile-murder case in its title. The available sources present the show as a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
+日谈物语 enters the wiki through its 2026 autumn sequence. Four short excerpts announce public-health, environmental, medical-ethics, and juvenile-crime subjects, while the later full-length special reconstructs [[MoriMina|森美菜]]'s death at [[WatamiGroup|和民集团]] and the long campaign for labor accountability. The sources present a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
 
 ## Current Profile
 
-The current evidence is limited to short opening segments, but the pattern is consistent. The hosts say the new season will look more toward society and the world, using modern or near-modern historical events to think about present anxieties. E01 starts from medical public health; E02 briefly follows up on [[UnificationChurch|统一教会]] and [[HanHakJa|韩鹤子]] before introducing environmental pollution as a "serial murder case without a killer"; E03 responds to listener demand for more individual focus by beginning with one doctor and then announcing a wider discussion of disclosure, overtreatment, patient choice, and the legal-moral boundary. E04 adds a small but explicit distribution judgment: the host says a heavily prepared future episode should be free so more people can hear, share, and discuss it rather than treating payment as the only criterion. 日谈物语 is therefore better represented as case-based social history with a stated public-discussion aim than as a narrow true-crime format.
+The pattern announced by the short excerpts is demonstrated in the Watami special. The hosts move from one young worker's 72-day employment through staffing, training, transport, assessment, corporate ideology, mental-health warnings, workers' compensation, union support, litigation, consumer response, and legal reform. This is [[SocialHistoryCaseFraming|case-based social history]] rather than narrow true crime: an individual record remains central while institutions and the distribution of responsibility explain why harm occurred and how accountability became possible. E04's free-access announcement aligns with the later episode's public-education purpose.
 
 ## Key Characteristics
 
 - Uses host conversation and seasonal framing before entering the main case.
 - Presents cases as ways to see groups, social types, and lives inside special historical conditions.
 - Connects historical events to contemporary uncertainty and public reflection.
-- Builds the autumn season across public health, environmental diffuse harm, and medical ethics, including the announced [[JapanAIDSBloodProductsIncident|日本艾滋血液药剂事件]], [[YokkaichiPollutionIncident|四日市公害事件]], and a 2005 doctor-murder case.
+- Builds the autumn season across public health, environmental diffuse harm, medical ethics, and labor accountability.
 - Uses listener feedback to rebalance large social events with a more explicit individual-case entry point.
-- Balances light everyday opening material, old-topic follow-ups, and heavier public-health or social-history themes.
-- Can treat free access as an editorial-responsibility choice when the host believes a subject warrants wider discussion.
+- Balances light openings and follow-ups with heavy themes, and can use free access when a subject warrants wider discussion.
+- Uses documentary timelines and institutional pathways to separate personal tragedy from individualized blame.
 
 ## Evidence
 
@@ -40,15 +41,18 @@ The current evidence is limited to short opening segments, but the pattern is co
 - **Diffuse-harm topic evidence:** [[2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky]] names Yokkaichi pollution and describes the case as a "serial murder case without a killer" before the detailed case narrative begins.
 - **Individual medical-ethics evidence:** [[2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4]] says the show is responding to requests for more attention to individuals, then frames a doctor's murder conviction through disclosure duties, overtreatment, patient choice, and the gap between legal and ethical evaluation.
 - **Public-access evidence:** [[2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1]] says the October 10 program will be free because some subjects should reach more listeners and invite sharing and discussion rather than being evaluated only as paid content.
+- **Demonstrated case method:** [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] moves from [[MoriMina|森美菜]]'s notebooks and work conditions to [[CoercedVoluntaryLabor]], company responsibility, administrative review, unions, litigation, and social response.
+- **Interpretive restraint:** [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] acknowledges real Watami agriculture and public-purpose activity while arguing that these do not cancel employee-protection failures.
 
 ## Qualifications
 
-The current profile is source-limited. It does not establish the full history of 日谈物语, its regular format, or complete host roster. All four available autumn transcripts stop before their named main incidents are developed, so the show's substantive treatment of the blood-products, pollution, doctor-conviction, and Ishinomaki juvenile-murder cases remains unassessed. E03 does not name its defendant or describe the medical act, and E04 contains no case detail at all, so neither supports a stable case identity.
+The current profile does not establish the full history of 日谈物语, its regular format, or complete host roster. The first four autumn transcripts still stop before their named main incidents are developed, so the show's substantive treatment of those cases remains unassessed. The Watami special is a secondary narrative rather than a substitute for judgments, regulations, company filings, or family records, and its legal, numerical, causal, and business claims remain source-scoped.
 
 ## What Changed
 
-- Added the host's explicit view that public value can justify free distribution and wider discussion.
-- Extended the transcript-scope qualification to E04, whose excerpt does not reach the case named in its title.
+- Replaced an excerpt-only profile with evidence from a full case reconstruction.
+- Established labor institutions, documentary evidence, and accountability pathways as demonstrated parts of the show's method.
+- Preserved the incomplete-transcript boundary for E01-E04.
 
 ## Relationships
 
@@ -62,3 +66,7 @@ The current profile is source-limited. It does not establish the full history of
 - [[Hemophilia]] - disease used to enter the announced topic.
 - [[UnificationChurch]] - follow-up topic before the second case begins.
 - [[TravelAgencyItineraryOperations]] - adjacent route-design concept illustrated by E04's foliage-trip announcement.
+- [[MoriMina|森美菜]] - individual case through which the show examines structural overwork.
+- [[WatamiGroup|和民集团]] - employer whose operations and responsibility are reconstructed.
+- [[CorporateValuesLaborControl]] - institutional mechanism developed in the full special.
+- [[WorkRelatedSuicideRecognition]] - legal and social accountability path developed in the full special.

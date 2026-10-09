@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10149
+wiki_total_pages: 10153
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "WorkFromHomeScam"
     title: "Work-From-Home Scam"
     url: "/wiki/concepts/workfromhomescam/"
+  - key: "WorkRelatedSuicideRecognition"
+    title: "Work-Related Suicide Recognition / 过劳自杀工伤认定"
+    url: "/wiki/concepts/workrelatedsuiciderecognition/"
   - key: "WorkRestBoundary"
     title: "Work-Rest Boundary / 工作休假边界"
     url: "/wiki/concepts/workrestboundary/"
