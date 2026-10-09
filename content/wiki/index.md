@@ -4293,6 +4293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
+- [Saving your bacon: healthy-eating policy evolves](sources/saving-your-bacon-healthy-eating-policy-evolves-c9c345224eef22348330436199bbc82c.md) — Economist Podcasts episode on combined junk-food regulation, uncertainty around a Russian plague researcher's death, and Cyril Hilsum's practical display and semiconductor-laser inventions.
 
 ## Entities
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
@@ -17271,6 +17272,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
+- [Cyril Hilsum](entities/CyrilHilsum.md) — British scientist and inventor whose practical liquid-crystal and compact semiconductor-laser work connected materials research to everyday technology.
+- [Daria Shepolova](entities/DariaShepolova.md) — Russian plague researcher whose unexplained death became a bounded case in occupational causation, outbreak uncertainty, and institutional transparency.
+- [Irkutsk Anti-Plague Research Institute](entities/IrkutskAntiPlagueResearchInstitute.md) — Russian pathogen-research institute under scrutiny after Daria Shepolova's death, without current evidence of a military biological-weapons role.
 
 ## Concepts
 - [AI Regulation Public Opinion Gap](concepts/AIRegulationPublicOpinionGap.md) — Divergence between cross-party public demand for stronger AI safeguards and lighter or industry-led institutional responses.
@@ -27443,5 +27447,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Pleasing Consumption / 乐己消费](concepts/SelfPleasingConsumption.md) — Consumption and participation oriented toward personally felt comfort, embodiment, health, relationship, and meaning rather than imposed status or optimization.
 
 - [Addiction for Profit](concepts/AddictionForProfit.md) — Framework for markets whose revenue incentives favor heavy use, reinforcing product design, promotion, and expanded access.
+- [Junk-Food Regulation Portfolio](concepts/JunkFoodRegulationPortfolio.md) — Combined use of labels, marketing and placement limits, reformulation incentives, and taxes, with explicit loophole and equity boundaries.
+- [High-Consequence Biological Research Transparency](concepts/HighConsequenceBiologicalResearchTransparency.md) — Disclosure and verification standard separating precaution, occupational causation, outbreak confirmation, and weapons attribution.
+- [Applied Research Translation](concepts/AppliedResearchTranslation.md) — Movement from scientific properties and prototypes to stable, compact, useful technologies through engineering, collaboration, and institutional uptake.
 
 ## Syntheses

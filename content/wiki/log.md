@@ -33722,3 +33722,11 @@ Added source `zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-q
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Saving your bacon: healthy-eating policy evolves
+
+Added source `saving-your-bacon-healthy-eating-policy-evolves-c9c345224eef22348330436199bbc82c`; created [[CyrilHilsum]], [[DariaShepolova]], [[IrkutskAntiPlagueResearchInstitute]], [[JunkFoodRegulationPortfolio]], [[HighConsequenceBiologicalResearchTransparency]], and [[AppliedResearchTranslation]]. Core synthesis: food labels, marketing and placement restrictions, reformulation incentives, and taxes are more plausible as a complementary portfolio than as isolated obesity fixes; Russia's incomplete explanation of a plague researcher's death warrants scrutiny without proving occupational infection, outbreak, or weapons work; and Hilsum's display and laser work illustrates the engineering and institutional steps between scientific possibility and useful technology. No settled contradiction was adopted. Mexico and Chile policy effects, the Irkutsk medical and quarantine details, Russian weapons-program allegations, and Hilsum's priority, patent, and biographical claims remain source-scoped. Broad [[EconomistPodcasts]], [[Russia]], and [[UnitedKingdom]] profiles were kept closed because the focused new pages capture the episode's material judgment without duplicating their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,222 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

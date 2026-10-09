@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12919
+wiki_total_pages: 12922
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "IrishVolunteers"
     title: "Irish Volunteers"
     url: "/wiki/entities/irishvolunteers/"
+  - key: "IrkutskAntiPlagueResearchInstitute"
+    title: "Irkutsk Anti-Plague Research Institute"
+    url: "/wiki/entities/irkutskantiplagueresearchinstitute/"
   - key: "IronmanTriathlon"
     title: "Ironman / 铁人三项"
     url: "/wiki/entities/ironmantriathlon/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12919
+wiki_total_pages: 12922
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "DariaGeorgievich"
     title: "Daria Georgievich"
     url: "/wiki/entities/dariageorgievich/"
+  - key: "DariaShepolova"
+    title: "Daria Shepolova"
+    url: "/wiki/entities/dariashepolova/"
   - key: "DarianWoods"
     title: "Darian Woods"
     url: "/wiki/entities/darianwoods/"

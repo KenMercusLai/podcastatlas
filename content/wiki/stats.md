@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10099
-- Entities: 12919
-- Sources: 4221
-- Total wiki content pages: 27240
+- Concepts: 10102
+- Entities: 12922
+- Sources: 4222
+- Total wiki content pages: 27247
 
 ## Links
-- Wiki link references: 638281
-- Unique wiki link targets: 27263
-- Missing targets: 29
+- Wiki link references: 638365
+- Unique wiki link targets: 27274
+- Missing targets: 33
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4221
-- Matched episodes: 4221
+- Source pages: 4222
+- Matched episodes: 4222
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -52,12 +52,18 @@ outputs: ["html"]
   - `content/wiki/log.md`
 - `[[CodeReviewSkillShift]]`
   - `content/wiki/concepts/AIGeneratedPullRequestBurden.md`
+- `[[CommercializationExecution]]`
+  - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[CreatorEconomy]]`
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
+- `[[CrisisCommunicationFailure]]`
+  - `content/wiki/concepts/HighConsequenceBiologicalResearchTransparency.md`
 - `[[Hanshu]]`
   - `content/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf.md`
+- `[[InnovationDiffusion]]`
+  - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[IntrinsicMotivation]]`
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`
@@ -79,6 +85,8 @@ outputs: ["html"]
   - `content/wiki/concepts/FounderIdentityDiversification.md`
 - `[[RailwayNetworkEffects]]`
   - `content/wiki/concepts/TayBridgeDisaster.md`
+- `[[ResearchInfrastructure]]`
+  - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[SaidBoutou]]`
   - `content/wiki/log.md`
 - `[[Spanx]]`

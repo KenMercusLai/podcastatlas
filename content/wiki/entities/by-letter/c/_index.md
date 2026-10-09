@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12919
+wiki_total_pages: 12922
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1745,6 +1745,9 @@ wiki_pages:
   - key: "Cyclospora"
     title: "Cyclospora"
     url: "/wiki/entities/cyclospora/"
+  - key: "CyrilHilsum"
+    title: "Cyril Hilsum"
+    url: "/wiki/entities/cyrilhilsum/"
   - key: "CyrusTheGreat"
     title: "Cyrus the Great"
     url: "/wiki/entities/cyrusthegreat/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 10099
+wiki_total_pages: 10102
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "JungianSelfAndEgo"
     title: "Jungian Self and Ego"
     url: "/wiki/concepts/jungianselfandego/"
+  - key: "JunkFoodRegulationPortfolio"
+    title: "Junk-Food Regulation Portfolio"
+    url: "/wiki/concepts/junkfoodregulationportfolio/"
   - key: "JustinianicPlague"
     title: "Justinianic Plague"
     url: "/wiki/concepts/justinianicplague/"

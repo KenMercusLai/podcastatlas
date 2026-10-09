@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10099
+wiki_total_pages: 10102
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "HighConflictCommunicationToolkit"
     title: "High-Conflict Communication Toolkit"
     url: "/wiki/concepts/highconflictcommunicationtoolkit/"
+  - key: "HighConsequenceBiologicalResearchTransparency"
+    title: "High-Consequence Biological Research Transparency"
+    url: "/wiki/concepts/highconsequencebiologicalresearchtransparency/"
   - key: "HighContextIntimacyMiscommunication"
     title: "High-Context Intimacy Miscommunication / 高语境亲密误沟通"
     url: "/wiki/concepts/highcontextintimacymiscommunication/"
