@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10138
+wiki_total_pages: 10139
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "ThatcheriteMoralMarketPolitics"
     title: "Thatcherite Moral-Market Politics"
     url: "/wiki/concepts/thatcheritemoralmarketpolitics/"
+  - key: "TheBlitz"
+    title: "The Blitz"
+    url: "/wiki/concepts/theblitz/"
   - key: "TheUntimely"
     title: "The Untimely"
     url: "/wiki/concepts/theuntimely/"

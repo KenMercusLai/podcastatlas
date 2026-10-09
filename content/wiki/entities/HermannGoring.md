@@ -5,7 +5,8 @@ tags: [person, nazi, police, night-of-the-long-knives]
 sources:
   - 404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466
   - 298-the-nazis-total-power-part-4-glt6097237943
-last_updated: 2026-09-29
+  - 623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Hermann Göring was a senior Nazi leader whose capture of Prussian policing helped repress opposition in 1933 and made him a central operator in the later [[NightOfTheLongKnives|Night of the Long Knives]].
+Hermann Göring was a senior Nazi leader whose capture of Prussian policing helped repress opposition, whose purge role made political killing executable, and whose later Luftwaffe leadership exposed overconfidence and weak strategic judgment during the [[BattleOfBritain]].
 
 ## Current Profile
 
@@ -25,6 +26,8 @@ After Hitler moved against [[ErnstRohm|Röhm]] and the [[Sturmabteilung|SA]] in 
 
 His role illustrates how the purge required more than Hitler's rage or personal authority: rival Nazi power centers had built police capacity that could turn factional decisions into coordinated state violence.
 
+The 1940 source extends the profile from police power into air command. Göring's Luftwaffe was essential to any [[OperationSeaLion]] plan, but the episode portrays him as unreliable and overconfident. German intelligence underestimated RAF strength and losses, while Göring shifted tactics from airfields toward mass raids and cities without breaking British air defence. His organizational power therefore coexisted with strategic failure.
+
 ## Key Characteristics
 
 - He converted Prussian political policing into Nazi institutional power.
@@ -32,7 +35,7 @@ His role illustrates how the purge required more than Hitler's rage or personal 
 - He helped create the Gestapo through police and intelligence reorganization.
 - He prepared the Berlin target operation before the purge began.
 - He acted on Hitler's signal to widen the killings beyond the SA.
-- His role joined factional rivalry to operational state violence.
+- As Luftwaffe leader, he joined inflated confidence and faulty intelligence to unsuccessful tactical shifts against Britain.
 
 ## Evidence
 
@@ -40,15 +43,16 @@ His role illustrates how the purge required more than Hitler's rage or personal 
 - Police capacity: [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466]] connects Göring to the Nazification of Prussian policing and Gestapo formation.
 - Berlin action: [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466]] places him in charge after the “colibri” signal and identifies the wider target set.
 - Consolidation outcome: [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466]] presents his institutional power as part of the coalition that subordinated the SA.
+- Air-war command: [[623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438]] connects Göring to Sea Lion planning, poor intelligence, tactical shifts, heavy losses, and failure to destroy the RAF.
 
 ## Qualifications
 
-This profile covers Göring's police role in the 1933 seizure and 1934 purge across two episodes, not his complete career or later wartime responsibility. Institutional conservatism helps explain police collaboration but does not erase individual or command responsibility. Precise auxiliary numbers, arrest chains, private motives, and responsibility for individual deaths remain source-scoped.
+This profile covers Göring's police role in the 1933 seizure and 1934 purge plus a strategic outline of his 1940 air command, not his complete career, economic power, art plunder, or wartime responsibility. Institutional conservatism helps explain police collaboration but does not erase individual or command responsibility. Precise auxiliary numbers, arrest chains, private motives, responsibility for individual deaths, aircraft losses, intelligence estimates, and the reasons for Luftwaffe failure remain source-scoped.
 
 ## What Changed
 
-- Extended Göring's police profile backward from purge execution to the 1933 removal of scrutiny from Nazi paramilitaries and creation of SA-SS auxiliary police.
-- Clarified that captured state capacity joined party violence to repression before it enabled the 1934 killings.
+- Extended the profile from police capture and purge execution into Luftwaffe command during the Battle of Britain.
+- Added overconfidence, intelligence failure, and unsuccessful targeting changes as wartime command characteristics.
 
 ## Relationships
 
@@ -59,3 +63,5 @@ This profile covers Göring's police role in the 1933 seizure and 1934 purge acr
 - [[NightOfTheLongKnives]] - purge in which Göring directed the Berlin phase.
 - [[ReichstagFireDecree]] - emergency framework under which captured policing expanded mass repression.
 - [[LegalCoerciveDictatorshipConsolidation]] - mechanism joining his police power to street violence and formal emergency rule.
+- [[BattleOfBritain]] - air campaign in which the Luftwaffe under his command failed to defeat British air defence.
+- [[OperationSeaLion]] - invasion plan dependent on an air victory his command did not deliver.

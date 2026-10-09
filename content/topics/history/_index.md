@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2672
+topic_total_pages: 2673
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6627,6 +6627,9 @@ topic_sources:
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"
+  - key: "623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438"
+    title: "623. The Nazis at War: Churchill's Finest Hour (Part 4)"
+    url: "/wiki/sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438/"
   - key: "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893"
     title: "624. Jack The Ripper: History’s Darkest Mystery (Part 1)"
     url: "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"

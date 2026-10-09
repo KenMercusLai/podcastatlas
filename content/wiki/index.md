@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [623. The Nazis at War: Churchill's Finest Hour (Part 4)](sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438.md) — The Rest Is History on Britain's 1940 resistance, German air and invasion failures, the Blitz, and Hitler's turn toward Barbarossa.
 - [《资治通鉴》00丨读史学经典，悟处世大道](sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7.md) — 系列导言，以司马光的编纂、编年体例与帝王之镜为起点，把《资治通鉴》转化为普通人理解人性、关系、判断及兴衰的长期阅读资源。
 - [《资治通鉴·周纪》01｜韩赵魏三家分晋](sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm.md) — 以周威烈王承认韩赵魏为诸侯为《资治通鉴》开篇，区分实际分晋与名分承认，并展开礼、分、名、名器及汤武革命的合法性边界。
 - [《资治通鉴·周纪》02｜将欲败之 必姑辅之](sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw.md) — 智果预警智瑶才高少仁，赵简子与尹铎预置晋阳退路，段规、任章则以割地诱导智瑶扩张、轻敌并制造共同敌人。
@@ -17880,6 +17881,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Negotiation crisis and qualified choke point joining Churchill's authority to Britain's retained strategic capacity.
 - [Battle of Britain](concepts/BattleOfBritain.md) — Air campaign decisive for preserving Britain in the war even though German invasion capacity was independently weak.
 - [Operation Sea Lion](concepts/OperationSeaLion.md) — German invasion plan whose amphibious, naval, intelligence, landing, and sustainment means did not match its objective.
+- [The Blitz](concepts/TheBlitz.md) — Sustained German bombing campaign whose urban destruction failed to force Britain from the war.
 - [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving bodily violence, slave-supply mortality, disability, and survivor selection when a minority later gain office, income, status, or renewed agency.
 - [Eunuch Court Power](concepts/EunuchCourtPower.md) — Authority built from restricted-household access, ruler trust, inner/outer-court mediation, and possible leverage over succession.
 - [Castrati](concepts/Castrati.md) — Musical labor system joining childhood surgery, family investment, institutional demand, rare celebrity, and unequal outcomes.
