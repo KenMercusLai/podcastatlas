@@ -34198,3 +34198,11 @@ Added source `vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-y
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | How to Speak Clearly & With Confidence | Matt Abrahams
+
+Added source `how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695`; created [[MattAbrahams]], [[AudienceCenteredCommunication]], [[StructuredSpontaneousSpeaking]], and [[SpeakingAnxietyManagement]]. Core synthesis: communication should begin with audience needs and a know-feel-do goal; flexible structures, aloud rehearsal, variable practice, recording, and feedback support both prepared and spontaneous delivery; and speaking anxiety is best handled through a layered plan for preparation, regulation, audience focus, contingencies, and recovery. No settled contradiction was adopted. Evolutionary fear explanations, generational effects, neurodiversity, beta blockers, breathing, sleep tools, and other broad claims remain source-scoped, while severe anxiety and medication decisions retain a clinical boundary. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused new pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,282 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventory, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

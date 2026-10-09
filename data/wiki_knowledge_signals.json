@@ -20421,6 +20421,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/audiencebeforeproductmarketing/"
     },
+    "AudienceCenteredCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9739579695 [SCIM9739579695].md",
+          "key": "how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695",
+          "show": "Huberman Lab",
+          "title": "How to Speak Clearly & With Confidence | Matt Abrahams",
+          "url": "/wiki/sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/audiencecenteredcommunication/"
+    },
     "AudienceResponsiveDeepDivePodcasting": {
       "episode_count": 1,
       "show_count": 1,
@@ -165349,6 +165365,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/matingconflictrisk/"
     },
+    "MattAbrahams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9739579695 [SCIM9739579695].md",
+          "key": "how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695",
+          "show": "Huberman Lab",
+          "title": "How to Speak Clearly & With Confidence | Matt Abrahams",
+          "url": "/wiki/sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/mattabrahams/"
+    },
     "MattBallColorado": {
       "episode_count": 1,
       "show_count": 1,
@@ -233294,6 +233326,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/speakeasyexperiencedesign/"
     },
+    "SpeakingAnxietyManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9739579695 [SCIM9739579695].md",
+          "key": "how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695",
+          "show": "Huberman Lab",
+          "title": "How to Speak Clearly & With Confidence | Matt Abrahams",
+          "url": "/wiki/sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/speakinganxietymanagement/"
+    },
     "SpecialistDelegationLeadership": {
       "episode_count": 5,
       "show_count": 1,
@@ -237454,6 +237502,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/structuredgrievingpractice/"
+    },
+    "StructuredSpontaneousSpeaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9739579695 [SCIM9739579695].md",
+          "key": "how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695",
+          "show": "Huberman Lab",
+          "title": "How to Speak Clearly & With Confidence | Matt Abrahams",
+          "url": "/wiki/sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/structuredspontaneousspeaking/"
     },
     "StuartMcGill": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10159
+wiki_total_pages: 10162
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "SpeakeasyExperienceDesign"
     title: "Speakeasy Experience Design / 隐藏酒吧体验设计"
     url: "/wiki/concepts/speakeasyexperiencedesign/"
+  - key: "SpeakingAnxietyManagement"
+    title: "Speaking Anxiety Management"
+    url: "/wiki/concepts/speakinganxietymanagement/"
   - key: "SpecializedBuffetFormat"
     title: "Specialized Buffet Format / 细分自助餐"
     url: "/wiki/concepts/specializedbuffetformat/"
@@ -2222,6 +2225,9 @@ wiki_pages:
   - key: "StructuredGrievingPractice"
     title: "Structured Grieving Practice"
     url: "/wiki/concepts/structuredgrievingpractice/"
+  - key: "StructuredSpontaneousSpeaking"
+    title: "Structured Spontaneous Speaking"
+    url: "/wiki/concepts/structuredspontaneousspeaking/"
   - key: "StudentWorkerCoalitionLimits"
     title: "Student-Worker Coalition Limits"
     url: "/wiki/concepts/studentworkercoalitionlimits/"

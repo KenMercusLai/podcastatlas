@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Speak Clearly & With Confidence | Matt Abrahams](sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695.md) — Huberman Lab conversation on audience-first message design, structured spontaneity, aloud practice, feedback, speaking anxiety, and recovery under pressure.
 - [VOL.186这波流感太早、太猛？医生最新解读：真不一样了！](sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs.md) — 这病说来话长由子涵医生梳理流感症状、检测局限、高危与重症分诊、早期抗病毒评估、年度疫苗和分层预防。
 - [084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前](sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo.md) — 纸醉金迷FM以铜箱、蓝色玉蟾、痋婴和水龙晕串联献王墓前的连环防御，并区分云南文化地理语境与小说的风水科幻解释。
 - [619. Elizabeth I: The Virgin Queen (Part 4)](sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337.md) — The Rest Is History on Elizabeth's 1559 settlement, Cecil's Scottish strategy, marriage diplomacy, Dudley, and the unresolved succession crisis.
@@ -4356,6 +4357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 
 ## Entities
+- [Matt Abrahams](entities/MattAbrahams.md) — Stanford communication teacher emphasizing audience needs, flexible structure, aloud rehearsal, feedback, and recoverable performance.
 - [何同学 / He Tongxue](entities/HeTongxue.md) — video-first Chinese creator whose engineering-heavy work grew into a founder-dependent production studio.
 - [何同学工作室 / He Tongxue Studio](entities/HeTongxueStudio.md) — multidisciplinary entertainment-video studio balancing ambitious DIY production, delegation, commercial fit, and overseas localization.
 - [Georg Elser](entities/GeorgElser.md) — German carpenter whose independent November 1939 bomb plot missed Hitler by thirteen minutes and strengthened the regime in the short term.
@@ -17420,6 +17422,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Audience-Centered Communication](concepts/AudienceCenteredCommunication.md) — message design organized around listener relevance, usable understanding, clear guidance, and live feedback.
+- [Structured Spontaneous Speaking](concepts/StructuredSpontaneousSpeaking.md) — flexible scaffolds, aloud rehearsal, varied prompts, feedback, and recovery in place of exact-word memorization.
+- [Speaking Anxiety Management](concepts/SpeakingAnxietyManagement.md) — layered preparation and regulation plan addressing threat appraisal, bodily arousal, audience focus, and disruption recovery.
 - [Creator Studio Scaling / 创作者工作室规模化](concepts/CreatorStudioScaling.md) — transition from personal creator control to a specialized organization that can preserve quality through shared judgment and management.
 - [DIY Video Selection Logic / DIY视频选题逻辑](concepts/DIYVideoSelectionLogic.md) — project filter pairing a recognizable everyday need with an engineered visual spectacle.
 - [Creator Advertising Integration Constraint / 创作者广告融合约束](concepts/CreatorAdvertisingIntegrationConstraint.md) — alignment problem among sponsor product, creative premise, audience trust, client expectations, and studio economics.
