@@ -33810,3 +33810,11 @@ Added source `629-wwi-the-christmas-truce-glt5393732684`; created [[HenryWilliam
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under
+
+Added source `vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5`; created [[PostoperativeScarManagement]]; and resynthesized [[CosmeticWoundClosurePlanning]], [[ScarKeloidDistinction]], [[AnderMedicalAesthetics|Under / Ander]], and [[XiaolongWeightManagementGuest|小龙]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: scar care begins with closure but continues through maturation, sustainable silicone-based home care, surrounding-skin support, clinician-led escalation, and realistic acceptance; complete erasure is not promised. No settled contradiction was adopted. Intervention windows, mechanisms, product comparisons, and treatment sequencing remain source-scoped, and the Under / Ander identity link is explicitly qualified. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,233 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

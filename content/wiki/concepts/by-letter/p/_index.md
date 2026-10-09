@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10113
+wiki_total_pages: 10114
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "PosthumousPoliticalDestinyMyth"
     title: "Posthumous Political Destiny Myth"
     url: "/wiki/concepts/posthumouspoliticaldestinymyth/"
+  - key: "PostoperativeScarManagement"
+    title: "Postoperative Scar Management / 术后疤痕长期管理"
+    url: "/wiki/concepts/postoperativescarmanagement/"
   - key: "PostpartumDepressionRecognitionAndSupport"
     title: "Postpartum Depression Recognition and Support / 产后抑郁识别与支持"
     url: "/wiki/concepts/postpartumdepressionrecognitionandsupport/"

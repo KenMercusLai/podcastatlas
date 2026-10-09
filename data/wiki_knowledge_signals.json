@@ -13750,9 +13750,9 @@
       "url": "/wiki/concepts/andeancolonialforcedlabor/"
     },
     "AnderMedicalAesthetics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsP1XlzQ1IApC-QAlE-mZuTIgv0U [lsP1XlzQ1IApC-QAlE-mZuTIgv0U].md",
@@ -13760,9 +13760,16 @@
           "show": "这病说来话长",
           "title": "VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南",
           "url": "/wiki/sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u/"
+        },
+        {
+          "episode_file": "ls6P2qys1ytQveLyVmDCPL_39eb5 [ls6P2qys1ytQveLyVmDCPL_39eb5].md",
+          "key": "vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5",
+          "show": "这病说来话长",
+          "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
+          "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/andermedicalaesthetics/"
     },
     "AndingCiXinBook": {
@@ -52238,9 +52245,9 @@
       "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
     },
     "CosmeticWoundClosurePlanning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lskNMCaSVbogJgAdFBFOS7uJ2t59 [lskNMCaSVbogJgAdFBFOS7uJ2t59].md",
@@ -52248,9 +52255,16 @@
           "show": "这病说来话长",
           "title": "VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区",
           "url": "/wiki/sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59/"
+        },
+        {
+          "episode_file": "ls6P2qys1ytQveLyVmDCPL_39eb5 [ls6P2qys1ytQveLyVmDCPL_39eb5].md",
+          "key": "vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5",
+          "show": "这病说来话长",
+          "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
+          "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/cosmeticwoundclosureplanning/"
     },
     "CosmicCrisp": {
@@ -196875,6 +196889,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/posthumouspoliticaldestinymyth/"
     },
+    "PostoperativeScarManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls6P2qys1ytQveLyVmDCPL_39eb5 [ls6P2qys1ytQveLyVmDCPL_39eb5].md",
+          "key": "vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5",
+          "show": "这病说来话长",
+          "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
+          "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/postoperativescarmanagement/"
+    },
     "PostpartumDepressionRecognitionAndSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -217831,9 +217861,9 @@
       "url": "/wiki/concepts/scandinavianchristiankingship/"
     },
     "ScarKeloidDistinction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lskNMCaSVbogJgAdFBFOS7uJ2t59 [lskNMCaSVbogJgAdFBFOS7uJ2t59].md",
@@ -217841,9 +217871,16 @@
           "show": "这病说来话长",
           "title": "VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区",
           "url": "/wiki/sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59/"
+        },
+        {
+          "episode_file": "ls6P2qys1ytQveLyVmDCPL_39eb5 [ls6P2qys1ytQveLyVmDCPL_39eb5].md",
+          "key": "vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5",
+          "show": "这病说来话长",
+          "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
+          "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/scarkeloiddistinction/"
     },
     "ScarcityMindset": {
@@ -266510,9 +266547,9 @@
       "url": "/wiki/entities/xiaolangoncologysurgeon/"
     },
     "XiaolongWeightManagementGuest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -266527,9 +266564,16 @@
           "show": "这病说来话长",
           "title": "VOL.207 每天20分钟的「反焦虑」吃饭SOP，打工人请直接抄作业 ft.大物是也成员小龙",
           "url": "/wiki/sources/vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo/"
+        },
+        {
+          "episode_file": "ls6P2qys1ytQveLyVmDCPL_39eb5 [ls6P2qys1ytQveLyVmDCPL_39eb5].md",
+          "key": "vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5",
+          "show": "这病说来话长",
+          "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
+          "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/xiaolongweightmanagementguest/"
     },
     "Xiaomi": {
