@@ -7,36 +7,38 @@ sources:
   - zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm
   - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
   - zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l
+  - zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw
 last_updated: 2026-10-10
 ---
 
 # 智瑶 / Zhi Yao
 
 ## Overview
-Zhi Yao is the dominant Jin aristocrat defeated and killed at the [[BattleOfJinyang|Battle of Jinyang]]. Across the three sources, he is both a capable coercive strategist and a cautionary figure whose pressure on allies, rejection of counsel, and talent without virtue turn battlefield superiority into coalition collapse.
+Zhi Yao is the dominant Jin aristocrat defeated and killed at the [[BattleOfJinyang|Battle of Jinyang]]. Across the sources, he is both a capable coercive strategist and a cautionary figure whose inherited power, appetite for expansion, public humiliation of weaker houses, and rejection of counsel turn talent and battlefield superiority into coalition collapse.
 
 ## Current Profile
-Zhi Yao first extracts land from Wei and Han, then attacks [[ZhaoXiangzi|Zhao Wuxu]] when Zhao refuses. His water attack brings Jinyang near destruction, but his statement that water can destroy a state makes [[WeiJu|Wei Ju]] and [[HanKangzi|Han Hu]] fear the same fate. He dismisses [[ChiCi|Chi Ci]]'s diagnosis and discloses it to the suspected allies, helping the anti-Zhi conspiracy survive. The next episode makes this failure the basis of [[SimaGuang|Sima Guang]]'s [[TalentVirtueDistinction|talent-virtue distinction]], while a much later diplomatic letter reuses him as an example of an aggressor trusting partners whose interests may reverse.
+Before taking leadership, Zhi Yao is already described by [[ZhiGuo|Zhi Guo]] as unusually capable but deficient in benevolence. As leader he humiliates Han and demands land from Han and Wei; their advisers concede because each easy gain is expected to intensify his greed, confidence, and enemy-making. He then attacks [[ZhaoXiangzi|Zhao Wuxu]] when Zhao refuses. His water attack brings Jinyang near destruction, but his statement that water can destroy a state makes [[WeiJu|Wei Ju]] and [[HanKangzi|Han Hu]] fear the same fate. He dismisses [[ChiCi|Chi Ci]]'s diagnosis and discloses it to the suspected allies, helping the anti-Zhi conspiracy survive. Zhouji 04 makes the failure the basis of [[SimaGuang|Sima Guang]]'s [[TalentVirtueDistinction|talent-virtue distinction]], while a much later diplomatic letter reuses him as an example of an aggressor trusting partners whose interests may reverse.
 
 ## Key Characteristics
 - Militarily capable and willing to substitute hydraulic engineering for costly direct assault.
 - Coercive toward nominal allies, making their participation conditional and fearful.
+- Uses gifts and access-building tactically against others but fails to recognize concession as a tactic when Han and Wei use it against him.
 - Overconfident after earlier success and unwilling to accept adverse counsel.
 - Politically indiscreet when he repeats Chi Ci's warning to Wei and Han.
 - Remembered as the talent-without-virtue example whose ability magnifies strategic damage.
 
 ## Evidence
 - Coercion and siege capability: Zhouji 03 has Zhi Yao demand Zhao territory, assemble the three-house coalition, and flood Jinyang. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
+- Succession warning and escalation: Zhouji 02 has Zhi Guo object to his selection, records his humiliation of Han, and presents Han-Wei land concessions as deliberate encouragement of his overconfidence. [[zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw|Zhouji 02]]
 - Alliance blindness: the same note has his water remark frighten Wei and Han, his adviser correctly suspect them, and Zhi Yao disclose the warning rather than contain the risk. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
 - Moral and political afterlife: Zhouji 04 treats his defeat through talent exceeding virtue and follows his death into [[YuRang|Yu Rang]]'s revenge and the division of Zhi territory. [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik|Zhouji 04]]
 - Reusable warning: Zhouji 84 has [[Chunshenjun|Huang Xie]] cite Zhi Yao when warning Qin not to expose itself to temporary Han-Wei partners. [[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm|Zhouji 84]]
 
 ## Qualifications
-These notes all derive from one modern podcast series reading transmitted historical narratives. They establish the show's interpretation, not independent verification of dialogue, gestures, motives, flood mechanics, or the moral psychology assigned to Zhi Yao. His operational competence and political failure should be kept together; “talent without virtue” is Sima Guang's evaluative frame, not a complete biography.
+These notes all derive from one modern podcast series reading transmitted historical narratives. They establish the show's interpretation, not independent verification of dialogue, gestures, motives, city sizes, the Qiu You bell story, flood mechanics, or the moral psychology assigned to Zhi Yao. His operational competence and political failure should be kept together; “talent without virtue” is Sima Guang's evaluative frame, not a complete biography.
 
 ## What Changed
-- Added the Battle of Jinyang's siege and alliance-collapse mechanics before the previously recorded aftermath.
-- Migrated the profile to `synthesis-v1` while preserving its full source inventory.
+- Added the succession warning, public humiliation, early territorial coercion, and gift-first Qiu You strategy that precede the Jinyang coalition collapse.
 
 ## Relationships
 - [[ZhaoXiangzi]] - opponent whose refusal, defensive base, and counterattack end Zhi Yao's dominance.
@@ -45,4 +47,5 @@ These notes all derive from one modern podcast series reading transmitted histor
 - [[ChiCi]] - adviser whose accurate warning Zhi Yao rejects and compromises.
 - [[YuRang]] - retainer whose revenge project preserves Zhi Yao's posthumous importance.
 - [[TalentVirtueDistinction]] - moral-political framework built from his failure.
+- [[StrategicIndulgenceOverextension]] - describes why Han and Wei temporarily satisfy his demands.
 - [[PartitionOfJin]] - state-formation process accelerated by the destruction and division of his house.

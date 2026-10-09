@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10136
+wiki_total_pages: 10138
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2081,6 +2081,9 @@ wiki_pages:
   - key: "StrategicGoldAllocation"
     title: "Strategic Gold Allocation / 黄金战略底仓"
     url: "/wiki/concepts/strategicgoldallocation/"
+  - key: "StrategicIndulgenceOverextension"
+    title: "Strategic Indulgence for Overextension / 姑辅式诱导过度扩张"
+    url: "/wiki/concepts/strategicindulgenceoverextension/"
   - key: "StrategicIndustrialPolicy"
     title: "Strategic Industrial Policy"
     url: "/wiki/concepts/strategicindustrialpolicy/"

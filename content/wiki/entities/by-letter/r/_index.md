@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12966
+wiki_total_pages: 12970
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1142,6 +1142,9 @@ wiki_pages:
   - key: "RenLifeng"
     title: "任立峰 / 卷卷"
     url: "/wiki/entities/renlifeng/"
+  - key: "RenZhangWarringStates"
+    title: "任章 / Ren Zhang (Warring States)"
+    url: "/wiki/entities/renzhangwarringstates/"
   - key: "RenFangLateHan"
     title: "任芳 / Ren Fang (late Han)"
     url: "/wiki/entities/renfanglatehan/"

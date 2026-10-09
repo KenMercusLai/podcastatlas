@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》02｜将欲败之 必姑辅之](sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw.md) — 智果预警智瑶才高少仁，赵简子与尹铎预置晋阳退路，段规、任章则以割地诱导智瑶扩张、轻敌并制造共同敌人。
 - [《资治通鉴·周纪》03｜魏驹韩虎无间道](sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l.md) — 晋阳之战中，赵氏凭民心坚守，张孟谈以共同生存利益促成魏韩倒戈，并反用水攻消灭智氏。
 - [624. Jack The Ripper: History’s Darkest Mystery (Part 1)](sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893.md) — The Rest Is History frames Whitechapel as a Victorian social and media crisis, then reconstructs Polly Nichols’s cumulative precarity, uncertain final activity, murder, and identification.
 - [087 金庸小说与儒家文化](sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8.md) — 纸醉金迷FM以金庸人物区分儒家精神与僵化礼教，连接知行合一、护民反战、亲情与公义及儒家价值的现代转化。
@@ -4331,6 +4332,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
 
 ## Entities
+- [智果 / Zhi Guo](entities/ZhiGuo.md) — 反对智瑶继位并警告公开羞辱会积累隐蔽报复的智氏谋臣。
+- [尹铎 / Yin Duo](entities/YinDuo.md) — 以减轻负担和修备把晋阳经营为赵氏预置退路的管理者。
+- [段规 / Duan Gui (Warring States)](entities/DuanGuiWarringStates.md) — 建议韩虎暂时割地、诱使智瑶把强索扩大到其他家族的韩氏总管。
+- [任章 / Ren Zhang (Warring States)](entities/RenZhangWarringStates.md) — 建议魏驹以让地助长智瑶骄横并促成受压家族联合的魏氏谋臣。
 - [魏驹 / Wei Ju](entities/WeiJu.md) — 晋阳之战中从智氏联军转向魏韩赵反攻的魏氏领袖。
 - [张孟谈 / Zhang Mengtan](entities/ZhangMengtan.md) — 以“唇亡齿寒”把魏韩恐惧转化为秘密反智联盟的赵氏使者。
 - [絺疵 / Chi Ci](entities/ChiCi.md) — 准确识破魏韩异心、却因智瑶泄密而避祸出走的谋臣。
@@ -17356,6 +17361,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [Prepared Fallback Stronghold / 预置退路型堡垒](concepts/PreparedFallbackStronghold.md) — 在危机前克制抽取、积累民心并修备防御，使指定据点可在主路径崩溃时承接组织生存。
+- [Strategic Indulgence for Overextension / 姑辅式诱导过度扩张](concepts/StrategicIndulgenceOverextension.md) — 暂时满足强索以助长对手贪欲、轻敌和树敌，等待共同受害者形成反制机会的高风险策略。
 
 - [Battle of Jinyang / 晋阳之战](concepts/BattleOfJinyang.md) — 民心、围城水工、进谏失效与联盟反转共同决定的晋国内部决战。
 - [极端忠诚的威胁反转 / Extreme Loyalty Threat Paradox](concepts/ExtremeLoyaltyThreatParadox.md) — Pattern where unlimited sacrifice proves task commitment while making the actor appear dangerously unrestrained.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10136
+wiki_total_pages: 10138
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "PreoperativeAnesthesiaAssessment"
     title: "Preoperative Anesthesia Assessment / 术前麻醉评估"
     url: "/wiki/concepts/preoperativeanesthesiaassessment/"
+  - key: "PreparedFallbackStronghold"
+    title: "Prepared Fallback Stronghold / 预置退路型堡垒"
+    url: "/wiki/concepts/preparedfallbackstronghold/"
   - key: "PreparedHighValueFoodFormats"
     title: "Prepared High-Value Food Formats / 高价值食材即食化"
     url: "/wiki/concepts/preparedhighvaluefoodformats/"

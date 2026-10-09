@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2668
+topic_total_pages: 2670
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1120,6 +1120,9 @@ topic_concepts:
   - key: "PregnancySuccessionSubstitution"
     title: "Pregnancy Succession Substitution / 孕身继承替换"
     url: "/wiki/concepts/pregnancysuccessionsubstitution/"
+  - key: "PreparedFallbackStronghold"
+    title: "Prepared Fallback Stronghold / 预置退路型堡垒"
+    url: "/wiki/concepts/preparedfallbackstronghold/"
   - key: "PriceSignalResourceSteering"
     title: "Price-Signal Resource Steering / 价格信号调控物流"
     url: "/wiki/concepts/pricesignalresourcesteering/"
@@ -7074,6 +7077,9 @@ topic_sources:
   - key: "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+  - key: "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw"
+    title: "《资治通鉴·周纪》02｜将欲败之 必姑辅之"
+    url: "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
   - key: "zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l"
     title: "《资治通鉴·周纪》03｜魏驹韩虎无间道"
     url: "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"

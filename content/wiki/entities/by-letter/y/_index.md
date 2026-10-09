@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12966
+wiki_total_pages: 12970
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "YinXinNutritionGuest"
     title: "尹鑫 / Yin Xin (nutrition guest)"
     url: "/wiki/entities/yinxinnutritionguest/"
+  - key: "YinDuo"
+    title: "尹铎 / Yin Duo"
+    url: "/wiki/entities/yinduo/"
   - key: "YueWanrou"
     title: "岳宛柔 / Yue Wanrou"
     url: "/wiki/entities/yuewanrou/"

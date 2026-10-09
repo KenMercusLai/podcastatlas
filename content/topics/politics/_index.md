@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3250
+topic_total_pages: 3251
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3262,6 +3262,9 @@ topic_concepts:
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"
+  - key: "PreparedFallbackStronghold"
+    title: "Prepared Fallback Stronghold / 预置退路型堡垒"
+    url: "/wiki/concepts/preparedfallbackstronghold/"
   - key: "PresidentialAccessibilitySecurityTradeoff"
     title: "Presidential Accessibility-Security Tradeoff"
     url: "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"

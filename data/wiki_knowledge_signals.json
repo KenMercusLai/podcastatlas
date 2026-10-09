@@ -24350,9 +24350,9 @@
       "url": "/wiki/entities/battleofilipa/"
     },
     "BattleOfJinyang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》03｜魏驹韩虎无间道 [lkiwF0ZDnylmAqjGSIX-dkTxeA0l].md",
@@ -24360,6 +24360,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
         }
       ],
       "updated": "2026-10-10",
@@ -68562,6 +68569,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/duanguilatehan/"
     },
+    "DuanGuiWarringStates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/duanguiwarringstates/"
+    },
     "DuanHuizongWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -107018,9 +107041,9 @@
       "url": "/wiki/entities/hanjingdi/"
     },
     "HanKangzi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1） [lq3T7lwPmQ1oYB8zmmmn2tYwnu8d].md",
@@ -107035,6 +107058,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
         }
       ],
       "updated": "2026-10-10",
@@ -133981,6 +134011,36 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/jinniuroad/"
+    },
+    "Jinyang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1） [lnZzVPIeQtgaTMVGogZ3MSyHS60u].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人” [ls5NvUnmhAKVefd2OXn4ZDyOoB4L].md",
+          "key": "zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jinyang/"
     },
     "JiuLeNanyue": {
       "episode_count": 2,
@@ -199663,6 +199723,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
     },
+    "PreparedFallbackStronghold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/preparedfallbackstronghold/"
+    },
     "PresbyopiaCorrectionFitting": {
       "episode_count": 1,
       "show_count": 1,
@@ -209978,6 +210054,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/renzeping/"
+    },
+    "RenZhangWarringStates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/renzhangwarringstates/"
     },
     "RenZuoWarringStates": {
       "episode_count": 1,
@@ -235333,6 +235425,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/strategicgoldallocation/"
+    },
+    "StrategicIndulgenceOverextension": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/strategicindulgenceoverextension/"
     },
     "StrategicIntelligenceInterpretation": {
       "episode_count": 2,
@@ -261427,9 +261535,9 @@
       "url": "/wiki/entities/weijilatehan/"
     },
     "WeiJu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》03｜魏驹韩虎无间道 [lkiwF0ZDnylmAqjGSIX-dkTxeA0l].md",
@@ -261437,6 +261545,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
         }
       ],
       "updated": "2026-10-10",
@@ -273954,6 +274069,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/yinchengprincess/"
     },
+    "YinDuo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/yinduo/"
+    },
     "YinLaoshiZheBing": {
       "episode_count": 5,
       "show_count": 1,
@@ -279779,6 +279910,36 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhaojiandenanyue/"
     },
+    "ZhaoJianzi": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2） [lrLulW0B6V0FB2Xpr2i5iFeM1h4n].md",
+          "key": "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhaojianzi/"
+    },
     "ZhaoJinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -280206,9 +280367,9 @@
       "url": "/wiki/entities/zhaoxieasternhan/"
     },
     "ZhaoXiangzi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
@@ -280223,6 +280384,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
         }
       ],
       "updated": "2026-10-10",
@@ -281473,6 +281641,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/zhiduwesternhan/"
     },
+    "ZhiGuo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhiguo/"
+    },
     "ZhiJiWang": {
       "episode_count": 1,
       "show_count": 1,
@@ -281522,9 +281706,9 @@
       "url": "/wiki/entities/zhixilatehan/"
     },
     "ZhiYao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？ [llgh12EIsTEJIJSL6YildZkIxOCM].md",
@@ -281546,6 +281730,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》02｜将欲败之 必姑辅之 [lglK2_eu1uVegdaC8SJ6bFUwv1dw].md",
+          "key": "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
         }
       ],
       "updated": "2026-10-10",

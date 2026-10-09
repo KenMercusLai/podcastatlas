@@ -26971,6 +26971,10 @@
     "title": "段珪 / Duan Gui (late Han)",
     "url": "/wiki/entities/duanguilatehan/"
   },
+  "DuanGuiWarringStates": {
+    "title": "段规 / Duan Gui (Warring States)",
+    "url": "/wiki/entities/duanguiwarringstates/"
+  },
   "DuanHuizongWesternHan": {
     "title": "段会宗 / Duan Huizong",
     "url": "/wiki/entities/duanhuizongwesternhan/"
@@ -67367,6 +67371,10 @@
     "title": "Preoperative Anesthesia Assessment / 术前麻醉评估",
     "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
   },
+  "PreparedFallbackStronghold": {
+    "title": "Prepared Fallback Stronghold / 预置退路型堡垒",
+    "url": "/wiki/concepts/preparedfallbackstronghold/"
+  },
   "PreparedHighValueFoodFormats": {
     "title": "Prepared High-Value Food Formats / 高价值食材即食化",
     "url": "/wiki/concepts/preparedhighvaluefoodformats/"
@@ -71194,6 +71202,10 @@
   "RenZeping": {
     "title": "Ren Zeping / 任泽平",
     "url": "/wiki/entities/renzeping/"
+  },
+  "RenZhangWarringStates": {
+    "title": "任章 / Ren Zhang (Warring States)",
+    "url": "/wiki/entities/renzhangwarringstates/"
   },
   "RenZhengfei": {
     "title": "Ren Zhengfei",
@@ -79854,6 +79866,10 @@
   "StrategicGoldAllocation": {
     "title": "Strategic Gold Allocation / 黄金战略底仓",
     "url": "/wiki/concepts/strategicgoldallocation/"
+  },
+  "StrategicIndulgenceOverextension": {
+    "title": "Strategic Indulgence for Overextension / 姑辅式诱导过度扩张",
+    "url": "/wiki/concepts/strategicindulgenceoverextension/"
   },
   "StrategicIndustrialPolicy": {
     "title": "Strategic Industrial Policy",
@@ -93107,6 +93123,10 @@
     "title": "阴城公主 / Princess Yincheng",
     "url": "/wiki/entities/yinchengprincess/"
   },
+  "YinDuo": {
+    "title": "尹铎 / Yin Duo",
+    "url": "/wiki/entities/yinduo/"
+  },
   "YinJie": {
     "title": "殷姐",
     "url": "/wiki/entities/yinjie/"
@@ -95714,6 +95734,10 @@
   "ZhiDuWesternHan": {
     "title": "郅都 / Zhi Du (Western Han)",
     "url": "/wiki/entities/zhiduwesternhan/"
+  },
+  "ZhiGuo": {
+    "title": "智果 / Zhi Guo",
+    "url": "/wiki/entities/zhiguo/"
   },
   "ZhiJiWang": {
     "title": "主机网",
@@ -108898,6 +108922,10 @@
   "zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd": {
     "title": "《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？",
     "url": "/wiki/sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd/"
+  },
+  "zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw": {
+    "title": "《资治通鉴·周纪》02｜将欲败之 必姑辅之",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw/"
   },
   "zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l": {
     "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
