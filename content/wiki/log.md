@@ -33874,3 +33874,11 @@ Added source `627-jack-the-ripper-from-hell-part-4-glt6270048402`; created [[Mar
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控
+
+Added source `vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws`; created [[RoadRageAndDrivingEmotion|路怒与驾驶情绪]], [[CuiJiabinShanxi|崔嘉斌]], and [[ZhangYanshan|张衍山]]; and migrated [[Deindividuation|去个体化]] to the synthesis-first schema from its complete preserved evidence inventory before appending the new source once. Core synthesis: driving anger is not automatically pathology; risk emerges when traffic stress, perceived unfairness, accumulated life pressure, arousal, and reduced face-to-face accountability narrow attention or turn retaliation into unsafe action, while driver regulation and traffic-system design provide complementary prevention layers. No settled contradiction was adopted. Road rage is not treated as a standalone DSM-5 or ICD-10/11 diagnosis, the enclosed-car deindividuation account remains a qualified analogy, and the source's brain-region, breathing, scent, cold-air, personality, upbringing, and design claims remain source-scoped. 崔嘉斌 is disambiguated from the existing same-pinyin [[CuiJiabin|崔嘉宾]]. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,241 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

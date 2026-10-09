@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12935
+wiki_total_pages: 12937
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "ZhangYanHedongLateHan"
     title: "张衍 / Zhang Yan (Hedong-Hongnong actor)"
     url: "/wiki/entities/zhangyanhedonglatehan/"
+  - key: "ZhangYanshan"
+    title: "张衍山 / Zhang Yanshan"
+    url: "/wiki/entities/zhangyanshan/"
   - key: "ZhangHengLateHan"
     title: "张衡 / Zhang Heng (late Han)"
     url: "/wiki/entities/zhanghenglatehan/"

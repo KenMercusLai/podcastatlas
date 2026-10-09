@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10120
+wiki_total_pages: 10121
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "RNAInterferenceGeneSilencing"
     title: "RNA Interference Gene Silencing"
     url: "/wiki/concepts/rnainterferencegenesilencing/"
+  - key: "RoadRageAndDrivingEmotion"
+    title: "Road Rage and Driving Emotion / 路怒与驾驶情绪"
+    url: "/wiki/concepts/roadrageanddrivingemotion/"
   - key: "RoadsideAdvertisingSpectacle"
     title: "Roadside Advertising Spectacle"
     url: "/wiki/concepts/roadsideadvertisingspectacle/"

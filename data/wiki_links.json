@@ -22631,6 +22631,10 @@
     "title": "崔嘉宾 / Cui Jiabin",
     "url": "/wiki/entities/cuijiabin/"
   },
+  "CuiJiabinShanxi": {
+    "title": "崔嘉斌 / Cui Jiabin (Shanxi psychiatrist)",
+    "url": "/wiki/entities/cuijiabinshanxi/"
+  },
   "CuiJian": {
     "title": "崔健 / Cui Jian",
     "url": "/wiki/entities/cuijian/"
@@ -72219,6 +72223,10 @@
     "title": "道路考古 / Road Archaeology",
     "url": "/wiki/concepts/roadarchaeology/"
   },
+  "RoadRageAndDrivingEmotion": {
+    "title": "Road Rage and Driving Emotion / 路怒与驾驶情绪",
+    "url": "/wiki/concepts/roadrageanddrivingemotion/"
+  },
   "RoadsideAdvertisingSpectacle": {
     "title": "Roadside Advertising Spectacle",
     "url": "/wiki/concepts/roadsideadvertisingspectacle/"
@@ -94675,6 +94683,10 @@
     "title": "张杨 / Zhang Yang (late Han)",
     "url": "/wiki/entities/zhangyanglatehan/"
   },
+  "ZhangYanshan": {
+    "title": "张衍山 / Zhang Yanshan",
+    "url": "/wiki/entities/zhangyanshan/"
+  },
   "ZhangYanshouWesternHan": {
     "title": "张延寿 / Zhang Yanshou (Western Han)",
     "url": "/wiki/entities/zhangyanshouwesternhan/"
@@ -102578,6 +102590,10 @@
   "vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1": {
     "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
     "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+  },
+  "vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws": {
+    "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
+    "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
   },
   "vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq": {
     "title": "VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的",

@@ -54839,6 +54839,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/cuijiabin/"
     },
+    "CuiJiabinShanxi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrhAUfg_ZVbV4Wn86-vJh3q3N4ws [lrhAUfg_ZVbV4Wn86-vJh3q3N4ws].md",
+          "key": "vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws",
+          "show": "这病说来话长",
+          "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
+          "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/cuijiabinshanxi/"
+    },
     "CuiJian": {
       "episode_count": 2,
       "show_count": 2,
@@ -60572,6 +60588,36 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/deidentifiedemployerhealthanalytics/"
+    },
+    "Deindividuation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
+          "key": "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647",
+          "show": "蜜獾吃书",
+          "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
+          "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "lrhAUfg_ZVbV4Wn86-vJh3q3N4ws [lrhAUfg_ZVbV4Wn86-vJh3q3N4ws].md",
+          "key": "vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws",
+          "show": "这病说来话长",
+          "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
+          "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/deindividuation/"
     },
     "DelamuDocumentary": {
       "episode_count": 1,
@@ -212489,6 +212535,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/roadarchaeology/"
     },
+    "RoadRageAndDrivingEmotion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrhAUfg_ZVbV4Wn86-vJh3q3N4ws [lrhAUfg_ZVbV4Wn86-vJh3q3N4ws].md",
+          "key": "vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws",
+          "show": "这病说来话长",
+          "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
+          "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/roadrageanddrivingemotion/"
+    },
     "RoastBeefEnglishIdentity": {
       "episode_count": 2,
       "show_count": 1,
@@ -277029,6 +277091,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/zhangyanlatehan/"
+    },
+    "ZhangYanshan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrhAUfg_ZVbV4Wn86-vJh3q3N4ws [lrhAUfg_ZVbV4Wn86-vJh3q3N4ws].md",
+          "key": "vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws",
+          "show": "这病说来话长",
+          "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
+          "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhangyanshan/"
     },
     "ZhangYanshouWesternHan": {
       "episode_count": 1,

@@ -4312,6 +4312,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defining Healthy Masculinity & How to Build It | Terry Real](sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652.md) — Huberman Lab interview on masculinity as strength plus tenderness, internal worth, male friendship, relational joy, addiction, and practical conflict repair.
 - [Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836.md) — Condensed Huberman Lab interview on lifestyle-first hormone assessment, context-dependent testosterone and PCOS interpretation, TRT sleep and fertility risk, prolactin, and peptide safety.
 - [VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under](sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5.md) — 这病说来话长 episode on scar maturation, sustainable silicone care, surrounding-skin support, specialist escalation, and realistic visibility and acceptance goals.
+- [VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控](sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws.md) — 这病说来话长 episode on road rage as a driving-safety interaction among traffic stress, perceived unfairness, accumulated emotion, partial anonymity, regulation, and system design.
 
 ## Entities
 - [Macnaghten Memorandum](entities/MacnaghtenMemorandum.md) — 1894 police suspect memorandum whose three names preserve institutional suspicion while its no-proof concession limits attribution.
@@ -17306,6 +17307,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daria Shepolova](entities/DariaShepolova.md) — Russian plague researcher whose unexplained death became a bounded case in occupational causation, outbreak uncertainty, and institutional transparency.
 - [Irkutsk Anti-Plague Research Institute](entities/IrkutskAntiPlagueResearchInstitute.md) — Russian pathogen-research institute under scrutiny after Daria Shepolova's death, without current evidence of a military biological-weapons role.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
+- [崔嘉斌 / Cui Jiabin (Shanxi psychiatrist)](entities/CuiJiabinShanxi.md) — Shanxi psychiatric guest distinguishing ordinary driving anger from impairment and unsafe action; disambiguated from 崔嘉宾.
+- [张衍山 / Zhang Yanshan](entities/ZhangYanshan.md) — Shenzhen psychological therapist explaining road-rage triggers, mediated driving interaction, attention risk, and practical regulation.
 
 ## Concepts
 - [Cold-Case Suspect Evaluation](concepts/ColdCaseSuspectEvaluation.md) — Comparison of suspect alibi, access, geography, behavior, method, and provenance without turning narrative fit or plausibility into identification.
@@ -27499,5 +27502,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Applied Research Translation](concepts/AppliedResearchTranslation.md) — Movement from scientific properties and prototypes to stable, compact, useful technologies through engineering, collaboration, and institutional uptake.
 - [Relational Joy](concepts/RelationalJoy.md) — Deeper satisfaction built through mutual connection, ordinary presence, and good-enough contact rather than stimulation or peak experience alone.
 - [Internal Worth and Accountability](concepts/InternalWorthAccountability.md) — Distinguishes basic human worth from conduct evaluation so regret and repair need not become shame collapse.
+- [Road Rage and Driving Emotion / 路怒与驾驶情绪](concepts/RoadRageAndDrivingEmotion.md) — Driving-safety framework separating ordinary anger from impaired judgment and unsafe action across personal, road, and system conditions.
 
 ## Syntheses
