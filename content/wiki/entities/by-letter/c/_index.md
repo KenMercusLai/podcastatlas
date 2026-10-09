@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12851
+wiki_total_pages: 12854
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2090,6 +2090,9 @@ wiki_pages:
   - key: "CaoChunLateHan"
     title: "曹淳 / Cao Chun (late Han)"
     url: "/wiki/entities/caochunlatehan/"
+  - key: "CaoKuWesternHan"
+    title: "曹窋 / Cao Ku (Western Han)"
+    url: "/wiki/entities/caokuwesternhan/"
   - key: "CaoShaoLateHan"
     title: "曹绍 / Cao Shao (late Han)"
     url: "/wiki/entities/caoshaolatehan/"

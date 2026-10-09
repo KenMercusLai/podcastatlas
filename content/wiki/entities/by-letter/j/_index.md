@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12851
+wiki_total_pages: 12854
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1751,6 +1751,9 @@ wiki_pages:
   - key: "JiLing"
     title: "纪灵 / Ji Ling"
     url: "/wiki/entities/jiling/"
+  - key: "JiTongWesternHan"
+    title: "纪通 / Ji Tong (Western Han)"
+    url: "/wiki/entities/jitongwesternhan/"
   - key: "JumeiYoupin"
     title: "聚美优品 / Jumei Youpin"
     url: "/wiki/entities/jumeiyoupin/"
@@ -1829,6 +1832,9 @@ wiki_pages:
   - key: "JiaBaoyu"
     title: "贾宝玉 / Jia Baoyu"
     url: "/wiki/entities/jiabaoyu/"
+  - key: "JiaShouWesternHan"
+    title: "贾寿 / Jia Shou (Western Han)"
+    url: "/wiki/entities/jiashouwesternhan/"
   - key: "JiaShanWesternHan"
     title: "贾山 / Jia Shan (Western Han)"
     url: "/wiki/entities/jiashanwesternhan/"

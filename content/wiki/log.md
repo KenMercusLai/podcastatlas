@@ -33168,3 +33168,11 @@ Added source `zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）
+
+Added source `zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0`; created [[JiaShouWesternHan|贾寿]], [[CaoKuWesternHan|曹窋]], and the disambiguated [[JiTongWesternHan|纪通]]; and resynthesized [[ZhouBo|周勃]], [[LuLuWesternHan|吕禄]], [[LuChanWesternHan|吕产]], [[LiuZhangChengyangKingWesternHan|刘章]], [[LiJiWesternHan|郦寄]], and [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: outside pressure becomes control of the capital through an operational chain—Jia Shou's warning, Cao Ku's intelligence relay, Li Ji's trust-based persuasion, Lü Lu's surrender of the general's seal, Ji Tong's imperial tally, Zhou Bo's allegiance test, palace-gate closure, and Liu Zhang's killing of Lü Chan. No settled contradiction was adopted. Exact dates, offices, authorization, seals, tally procedure, troop totals, arm-baring response, dialogue, weather, combat, hiding place, intentions, and the viability of a safety-through-retreat bargain remain episode-attributed or source-scoped. Broad [[ChenPing|陈平]], [[GuanYing|灌婴]], [[LuXuWesternHan|吕媭]], and show pages were kept closed because the bounded additions are represented in the focused source, people, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,152 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

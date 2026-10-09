@@ -16,18 +16,21 @@ sources:
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
   - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-1-lhi5ewhuvbndppni122_jd8vd8yg
   - zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd
+  - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-周勃 / Zhou Bo is a founding Han commander whose current profile spans officer morale, battlefield command, northern suppression, conflict and later cooperation with [[ChenPing|陈平]], the post-Lü restoration, and an early Wen-reign retreat from central office that does not end the danger created by residual merit.
+周勃 / Zhou Bo is a founding Han commander whose current profile spans officer morale, battlefield command, northern suppression, conflict and later cooperation with [[ChenPing|陈平]], seizure of the Northern Army during the post-Lü restoration, and an early Wen-reign retreat from central office that does not end the danger created by residual merit.
 
 ## Current Profile
 
 The earlier sources place Zhou Bo among [[LiuBang|刘邦]]'s old officers: he embodies fighting morale after the Hanzhong demotion, joins veteran backlash against Chen Ping, and later commands the third line with [[ChaiWu|柴武]] at [[GaixiaBattle|垓下之战]]. The accusation against Chen Ping remains politically motivated and weakly grounded, while the later partnership includes delaying Fan Kuai's execution order and coordinating through the Lü-to-Liu transition.
 
 The northern-campaign notes place Zhou Bo in the suppression of [[ChenXiRebellion|陈豨之乱]], including Mayi and wider Dai-region operations. They conflict over whether Zhou Bo or [[FanKuai|樊哙]] killed Chen Xi, so that credit remains source-scoped.
+
+[[zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0|Hanji 206 part 2]] now gives Zhou Bo's anti-Lü merit an operational basis. After intelligence that Guan Ying, Qi, and Chu have aligned against the Lü family, Zhou Bo uses an imperial tally to enter the Northern Army once [[LiJiWesternHan|郦寄]] has persuaded [[LuLuWesternHan|吕禄]] to surrender the general's seal. He then requires a visible left-arm/right-arm allegiance choice, takes command, assigns [[LiuZhangChengyangKingWesternHan|刘章]] to palace action, and treats [[LuChanWesternHan|吕产]]'s death as the end of the immediate threat. The episode supports a coordinated command transfer but leaves the authorization, unanimity, and exact division of initiative source-bounded.
 
 [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] now supplies the immediate post-accession status settlement. [[ChenPing|陈平]] asks to rank below Zhou because Zhou's anti-Lü merit is greater, after which Zhou becomes right chancellor and receives further reward. The episode then shows the liability of that visibility: Liu Heng's deferential leave-taking encourages Zhou's pride until [[YuanAngWesternHan|袁盎]] argues that merit does not erase ruler-minister hierarchy. Liu Heng adopts a more solemn posture, and Zhou becomes apprehensive. The conduct and change in ritual are supported within the source; Chen's intent to shift danger onto Zhou remains interpretive.
 
@@ -41,7 +44,7 @@ Hanji 215 adds Zhou Bo's late vulnerability. After returning to his fief, he rep
 
 - Founding officer and veteran commander whose record spans morale work in the Hanzhong settlement, Gaixia, and northern rebellion suppression.
 - Both early accuser and later survival partner of Chen Ping, whose concession places Zhou in the senior and more visible chancellorial position.
-- Major participant in the post-Lü restoration of the Liu line.
+- Restoration commander who converts a surrendered seal, imperial tally, and visible troop-allegiance test into control of the Northern Army.
 - Retired meritorious minister whose defensive behavior becomes material for a treason prosecution.
 - Prisoner whose experience exposes the gap between former military command and custodial power.
 - Accession-making chancellor whose ordered return to his fief marks the transition from indispensable restorer to politically exposed veteran.
@@ -59,6 +62,9 @@ Veteran politics and Chen Ping:
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] and [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|part 4]] supply later cooperation across lethal transitions.
 - [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] gives Chen's public merit rationale for yielding precedence and the resulting chancellorial order.
 
+Post-Lü restoration command:
+- [[zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0|Hanji 206 part 2]] reports Zhou Bo's entry into the Northern Army with an imperial tally, the allegiance test, command consolidation, use of Liu Zhang in palace action, and assessment of Lü Chan's death as decisive.
+
 Merit and ruler-minister hierarchy:
 - [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] reports Liu Heng's deferential send-off, Zhou's visible pride, Yuan Ang's correction, and the emperor's subsequent restoration of a more solemn court posture.
 
@@ -71,18 +77,20 @@ Removal from central office:
 
 ## Qualifications
 
-The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 208 part 1 does not prove that Chen yielded precedence chiefly to transfer risk, that Liu Heng's initial courtesy alone caused Zhou's pride, or that Yuan Ang's status distinction exhausts Zhou's service. Hanji 209 part 1 does not prove that Liu Heng staged the questions to humiliate Zhou Bo, that the reported six-of-nine personnel pattern was complete, or that one motive alone caused the resignation. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his later removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
+The source set is a sequence of popular-history episode notes, not a complete biography. Campaign scale, speeches, motive, precise offices, the Chen Ping allegations, and competing Chen Xi death attributions remain bounded. Hanji 206 does not independently establish the imperial authorization, seal and tally procedure, unanimous troop response, exact command chain, or Zhou Bo's private assessment; it also depicts him as initially unable to enter the camp, so the success belongs to a coalition mechanism rather than unilateral force. Hanji 208 part 1 does not prove that Chen yielded precedence chiefly to transfer risk, that Liu Heng's initial courtesy alone caused Zhou's pride, or that Yuan Ang's status distinction exhausts Zhou's service. Hanji 209 part 1 does not prove that Liu Heng staged the questions to humiliate Zhou Bo, that the reported six-of-nine personnel pattern was complete, or that one motive alone caused the resignation. Hanji 213 part 1 does not establish that fear of Zhou Bo, rather than the stated fief policy or an administrative judgment, caused his later removal. Hanji 215 supports an accusation-and-release narrative but does not independently establish the accuser, every procedural detail, Liu Heng's inner belief, or a covert plan involving Ji Bu. Zhou Bo's armed caution may explain suspicion without proving rebellion.
 
 ## What Changed
 
-- Added the initial senior chancellorial settlement based on Zhou Bo's anti-Lü merit.
-- Added Yuan Ang's intervention and the ritual reset that turns visible merit into renewed hierarchical caution.
-- Kept Chen Ping's risk-transfer motive separate from the observable concession of precedence.
+- Added the command-transfer sequence that grounds Zhou Bo's anti-Lü merit in seizure of the Northern Army.
+- Connected seal, tally, allegiance test, and Liu Zhang's palace action while retaining the coalition character of the victory.
+- Preserved uncertainty around authorization, unanimity, dialogue, and private motive.
 
 ## Relationships
 
 - [[LiuBang|刘邦]] - founding ruler under whom Zhou Bo serves as officer and commander.
 - [[ChenPing|陈平]] - early target of complaint and later partner in restoration.
+- [[LiuZhangChengyangKingWesternHan|刘章]] - palace-side commander whose killing of Lü Chan completes Zhou Bo's immediate objective.
+- [[LuLuWesternHan|吕禄]] - Northern Army commander whose surrendered seal enables Zhou Bo's entry.
 - [[LiuHeng|汉文帝刘恒]] - successor ruler under whom Zhou Bo is accused, imprisoned, and pardoned.
 - [[BaoJi|薄姬 / 薄太后]] - senior royal whose intervention challenges the rebellion logic.
 - [[YuanAngWesternHan|袁盎]] - court defender in the late prosecution.

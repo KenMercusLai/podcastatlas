@@ -6,6 +6,7 @@ tags: [politics, succession, coalition, military-control, western-han]
 sources:
   - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
   - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv
+  - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0
 last_updated: 2026-10-09
 ---
 
@@ -19,6 +20,8 @@ last_updated: 2026-10-09
 
 The mechanism depends on more than shared hostility. Information must cross faction lines, the outside ruler must neutralize dissent within his own administration, and mobilization must be translated into a legitimacy claim capable of attracting other princes and ministers. The source calls this an anti-Lü restoration of Liu rule, but its announced doubts about the transmitted account require keeping the exact coordination and intentions provisional.
 
+[[zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0|Hanji 206 part 2]] supplies the conversion from external pressure to internal command. A report that Guan Ying, Qi, and Chu have aligned raises urgency; personal trust through [[LiJiWesternHan|郦寄]] detaches [[LuLuWesternHan|吕禄]] from the Northern Army; an imperial tally admits [[ZhouBo|周勃]]; a visible allegiance test consolidates the troops; and palace-gate control lets [[LiuZhangChengyangKingWesternHan|刘章]] isolate and kill [[LuChanWesternHan|吕产]]. The case therefore turns on a chain of access, authorization symbols, trust, information asymmetry, and selective force rather than on regional armies simply defeating the capital in open battle.
+
 The coalition also has a stopping problem. Once the capital side kills Lü Chan and controls the center, Liu Zhang tells Liu Xiang to demobilize, while Guan Ying rebukes Wei Bo for initiating regional war. The outside force's contribution therefore does not become control over the settlement: capital actors can end the emergency, judge the mobilizers, purge the defeated network, and choose a different ruler. [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]]
 
 ## Key Claims
@@ -27,7 +30,7 @@ The coalition also has a stopping problem. Once the capital side kills Lü Chan 
 - Marriage and household ties can become intelligence channels across rival political blocs.
 - An outside claimant needs internal allies in the capital and control of his own regional administration before public mobilization is credible.
 - Restoration language converts factional and dynastic interests into a wider call for coalition support.
-- Territorial grievance can reinforce mobilization without by itself proving the truth of every public accusation.
+- External pressure becomes decisive only when insiders use personal trust and authorization symbols to convert it into access, command transfer, and control of gates and armed units.
 - An outside mobilizer can be essential to pressure yet lose agenda-setting power once insiders secure the capital.
 - Demobilization and succession choice redistribute credit after victory, creating later grievance even when the coalition's immediate goal is achieved.
 
@@ -38,6 +41,9 @@ Capital coercive control:
 
 Information and inside-outside coordination:
 - [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] routes intelligence through Liu Zhang's wife and describes Liu Zhang and Liu Xingju as internal allies of Liu Xiang.
+
+Capital command conversion:
+- [[zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0|Hanji 206 part 2]] links the outside alliance report to Li Ji's persuasion, Lü Lu's surrender of the seal, Zhou Bo's entry and allegiance test, gate closure, and Liu Zhang's attack on Lü Chan.
 
 Regional command consolidation:
 - [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] says Wei Bo neutralizes Zhao Ping's opposition before Liu Xiang reassigns senior offices and raises troops.
@@ -50,12 +56,12 @@ Demobilization and settlement control:
 
 ## Counterevidence & Qualifications
 
-The concept rests on two linked popular-history episode summaries. Hanji 205 says its Shiji-derived narrative contains unresolved flaws but postpones their analysis. The sources therefore do not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, exact coordination, Wei Bo's motives, or that territorial grievance was Liu Xiang's decisive motive. Hanji 207's demobilization and candidate-selection account also does not show that the outside force had no bargaining power at all. The model describes the episode's political mechanism, not a universal law of succession.
+The concept rests on three linked popular-history episode summaries. Hanji 205 says its Shiji-derived narrative contains unresolved flaws but postpones their analysis. The sources therefore do not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, exact coordination, Wei Bo's motives, or that territorial grievance was Liu Xiang's decisive motive. Hanji 206 adds operational detail but does not independently verify seals, tallies, dialogue, unanimous troop response, palace authorization, weather, or combat. Hanji 207's demobilization and candidate-selection account also does not show that the outside force had no bargaining power at all. The model describes the episode's political mechanism, not a universal law of succession.
 
 ## What Changed
 
-- Added the demobilization phase and the distinction between contributing force and controlling the final succession settlement.
-- Connected post-victory credit redistribution to the Qi branch's later grievance without treating rebellion as inevitable.
+- Added the capital command-conversion phase linking external pressure to trust-based surrender, authorization symbols, troop allegiance, and gate control.
+- Clarified that the coalition succeeds through control of access and armed institutions before the outside army wins an open battle.
 
 ## Related Concepts
 

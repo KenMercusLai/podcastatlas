@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0.md) — 郦寄劝吕禄交出北军，周勃借符节入营并以袒臂验明军心；刘章随后在未央宫斩杀吕产，使军权争夺转入对吕氏集团的清算。
 - [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv.md) — 诛吕胜利从解除军权扩展为吕氏家族与惠帝诸子的清洗；齐军被令罢兵后，群臣又以外戚风险、名分和声望权衡，舍刘襄而迎立刘恒。
 - [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1.md) — 吕后死后吕禄、吕产控制南北军，刘章联络刘襄形成内外合击；刘襄先压倒赵平、重组齐国军政再举兵，史料疑点则留待后续。
 - [No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁](sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk.md) — 三五环年度群像复盘以掌控边界、过程导向、身体健康、AI陪伴、在场观察与持续积累连接多位创作者和从业者的2025年。
@@ -4222,8 +4223,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
-- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军，经郦寄介入失去军权并在胜方扩大清洗时与家族一同被杀的吕氏将领。
-- [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军，其死亡成为军事对抗转入吕氏家族全面清洗的节点。
+- [贾寿 / Jia Shou (Western Han)](entities/JiaShouWesternHan.md) — 自齐国归来后向吕产通报灌婴与齐楚合谋，其警告又被曹窋传给反吕大臣的郎中令。
+- [曹窋 / Cao Ku (Western Han)](entities/CaoKuWesternHan.md) — 旁听贾寿警报并转告陈平、周勃，随后协助封闭宫门阻止吕产入殿的平阳侯。
+- [纪通 / Ji Tong (Western Han)](entities/JiTongWesternHan.md) — 以符节和皇命名义帮助周勃进入北军的授权中介；与东汉祭肜区别。
+- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军，因信任郦寄而交出将印离营，随后在胜方扩大清洗时与家族一同被杀的吕氏将领。
+- [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军，北军易手后被阻于未央宫门外并遭刘章斩杀，其死亡成为全面清洗的节点。
 - [吕媭 / Lü Xu (Western Han)](entities/LuXuWesternHan.md) — 吕雉之妹、樊哙遗孀与女性列侯；曾攻讦陈平，后在诛吕清洗中被笞打致死。
 - [魏勃 / Wei Bo (Western Han)](entities/WeiBoWesternHan.md) — 帮助刘襄夺取齐国军权并举兵，却在胜后因擅自发动受灌婴斥责的反吕行动组织者。
 - [赵平 / Zhao Ping (Qi Chancellor)](entities/ZhaoPingQiChancellor.md) — 反对刘襄起兵、短暂围宫却失去兵权并自杀的齐相。
