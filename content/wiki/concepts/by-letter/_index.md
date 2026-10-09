@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10073
+wiki_total_pages: 10075
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1775,6 +1775,9 @@ wiki_pages:
   - key: "AlcoholRewardStressAdaptation"
     title: "Alcohol Reward-Stress Adaptation"
     url: "/wiki/concepts/alcoholrewardstressadaptation/"
+  - key: "AlcoholRitualSocialOrder"
+    title: "Alcohol Ritual and Social Order / 饮酒仪式与社会秩序"
+    url: "/wiki/concepts/alcoholritualsocialorder/"
   - key: "AlcoholSystemicDoseRisk"
     title: "Alcohol Systemic Dose Risk"
     url: "/wiki/concepts/alcoholsystemicdoserisk/"

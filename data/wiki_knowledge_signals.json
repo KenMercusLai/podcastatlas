@@ -10243,10 +10243,26 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/alcoholrewardstressadaptation/"
     },
-    "AlcoholSystemicDoseRisk": {
+    "AlcoholRitualSocialOrder": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljLbLocWonSLIQHGtuJvqICSdTGD [ljLbLocWonSLIQHGtuJvqICSdTGD].md",
+          "key": "6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd",
+          "show": "怪东西Weird History",
+          "title": "6 喝得越少越文明？东西方的酒 & 酒文化",
+          "url": "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/alcoholritualsocialorder/"
+    },
+    "AlcoholSystemicDoseRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8915337113 [SCIM8915337113].md",
@@ -10254,9 +10270,16 @@
           "show": "Huberman Lab",
           "title": "What Alcohol Does to Your Body, Brain & Health",
           "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
+        },
+        {
+          "episode_file": "ljLbLocWonSLIQHGtuJvqICSdTGD [ljLbLocWonSLIQHGtuJvqICSdTGD].md",
+          "key": "6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd",
+          "show": "怪东西Weird History",
+          "title": "6 喝得越少越文明？东西方的酒 & 酒文化",
+          "url": "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/alcoholsystemicdoserisk/"
     },
     "AlexBores": {
@@ -46000,6 +46023,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/coerciveacts/"
+    },
+    "CoerciveDrinkingHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljLbLocWonSLIQHGtuJvqICSdTGD [ljLbLocWonSLIQHGtuJvqICSdTGD].md",
+          "key": "6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd",
+          "show": "怪东西Weird History",
+          "title": "6 喝得越少越文明？东西方的酒 & 酒文化",
+          "url": "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/coercivedrinkinghierarchy/"
     },
     "CoerciveFrontierDeterrence": {
       "episode_count": 7,
@@ -238283,9 +238322,9 @@
       "url": "/wiki/entities/televisionbroadcastslimited/"
     },
     "TemperateDrinkingSelfControl": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思 [lnzXHRj2iULaHCcY2-Pkm-WPhDEi].md",
@@ -238300,9 +238339,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》264｜田蚡婚宴现场，如何成了灌夫的断头台",
           "url": "/wiki/sources/zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p/"
+        },
+        {
+          "episode_file": "ljLbLocWonSLIQHGtuJvqICSdTGD [ljLbLocWonSLIQHGtuJvqICSdTGD].md",
+          "key": "6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd",
+          "show": "怪东西Weird History",
+          "title": "6 喝得越少越文明？东西方的酒 & 酒文化",
+          "url": "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/temperatedrinkingselfcontrol/"
     },
     "TemperatureMinimumClockShifting": {

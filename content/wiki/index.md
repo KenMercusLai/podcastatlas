@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [6 喝得越少越文明？东西方的酒 & 酒文化](sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd.md) — 怪东西比较酿酒史、会饮、乡饮酒礼、宗教用酒、山东酒桌与俄罗斯酒政，区分自愿社交和文化意义与健康风险、等级强制及服从测试。
 - [Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs](sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935.md) — All-In debate on Iranian transition risk, data-center energy cost allocation, OpenAI-Cerebras capacity, California asset taxation, and Greenland strategy.
 - [636. Revolution in Iran: Fall of the Shah (Part 1)](sources/636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634.md) — The Rest Is History episode on the Shah's oil-funded modernization and repression, Carter's strategic misread, Khomeini's clerical networks, and the mourning cycle that accelerated revolution.
 - [Build Muscle & Strength & Forge Your Life Path | Dorian Yates](sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219.md) — Huberman Lab interview on Dorian Yates's low-volume high-intensity training, recovery, bodybuilding risk, competitive identity, retirement, and experiential health claims.
@@ -17222,6 +17223,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 ## Concepts
+- [Alcohol Ritual and Social Order / 饮酒仪式与社会秩序](concepts/AlcoholRitualSocialOrder.md) — Comparative framework for how serving, seating, speech, sacrifice, and restraint turn drinking into coordinated social meaning while remaining historically and institutionally distinct.
+- [Coercive Drinking Hierarchy / 强制饮酒与等级秩序](concepts/CoerciveDrinkingHierarchy.md) — Banquet mechanism in which toast order, speech demands, and unequal refusal costs convert hospitality into rank display and obedience testing.
 - [High-Intensity Resistance Training](concepts/HighIntensityResistanceTraining.md) — Low-volume resistance-training model coupling technical failure, measurable overload, and sufficient recovery.
 - [Anabolic Steroid Risk Boundary](concepts/AnabolicSteroidRiskBoundary.md) — Boundary separating competitive incentives and autobiographical use from safety, medical indication, and cosmetic self-experimentation.
 - [Clerical-Republican Dual Authority](concepts/ClericalRepublicDualAuthority.md) — Unequal state design joining elected and administrative institutions to superior clerical guardianship.

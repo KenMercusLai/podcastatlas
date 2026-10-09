@@ -6,7 +6,8 @@ tags: [alcohol, self-control, ethics, leadership, confucianism]
 sources:
   - zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei
   - zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p
-last_updated: 2026-10-08
+  - 6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -21,6 +22,8 @@ The negative court case shows why prior self-knowledge matters. [[GuanFuWesternH
 
 The combined judgment is narrower than “alcohol caused the disaster.” Self-control is a protective boundary because lowered restraint can make existing anger actionable, but the consequence scale depends on the surrounding power structure. In this case, rank reversal, prior hostility, imperial-family authority, and Tian Fen's ability to widen the charge explain why drunken misconduct becomes a capital political case.
 
+Self-command also depends on a social condition: it cannot be reduced to privately resisting temptation when superiors, hosts, or peers use banquet rules to impose repeated drinking. Responsible participation requires a protected ability to refuse, choose a non-alcoholic drink, or abstain without humiliation or retaliation. [[6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd|Weird History episode 6]]
+
 ## Key Claims
 
 - Moderation is a form of self-command: the relevant test is whether pleasure remains compatible with judgment and responsibility.
@@ -29,6 +32,7 @@ The combined judgment is narrower than “alcohol caused the disaster.” Self-c
 - Alcohol can amplify existing anger, humiliation, or loyalty without being the sole cause of the resulting conduct.
 - Hierarchy changes consequence scale: the same loss of restraint becomes more dangerous when it occurs before officials who can arrest, reclassify, or expand a case.
 - The norm does not erase personal agency or excuse misconduct, and it does not prove that every punishment imposed after intoxication is proportionate.
+- A self-control norm is incomplete unless the surrounding group protects refusal and does not convert rank or hospitality into compulsory exposure.
 
 ## Evidence
 
@@ -42,15 +46,19 @@ Foreseen loss of control:
 Conflict amplification under hierarchy:
 - [[zizhi-tongjian-hanji-264-tianfen-hunyan-xianchang-ruhe-chengle-guanfu-de-duantoutai-lux-kqkfsqpjldtocrk65j5pvl8p|Hanji 264]] links drinking with resentment over unequal deference, escalating insults, refusal to apologize, detention, and a widened accusation, while also supplying the prior political conflict that prevents a single-cause reading.
 
+Voluntary participation:
+- [[6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd|Weird History episode 6]] separates private, voluntary drinking from forced toasts and interprets some banquet sequences as rank confirmation or obedience testing.
+
 ## Counterevidence & Qualifications
 
-The current evidence consists of two interpretive podcast notes rather than clinical alcohol research or a complete primary-source dossier. Qinji 131-3's claims about historical figures and practical harms remain episode-attributed. Hanji 264 does not establish Guan Fu's intoxication level, whether sobriety would have prevented conflict, the exact words and procedure, the legal merits of Tian Fen's response, or whether apology would have changed the outcome. The concept supports prudent self-command and attention to foreseeable settings; it does not make victims responsible for another actor's disproportionate punishment, reduce political conflict to individual lifestyle, or imply that all drinking is harmful.
+The current evidence consists of three interpretive podcast notes rather than clinical alcohol research or a complete primary-source dossier. Qinji 131-3's claims about historical figures and practical harms remain episode-attributed. Hanji 264 does not establish Guan Fu's intoxication level, whether sobriety would have prevented conflict, the exact words and procedure, the legal merits of Tian Fen's response, or whether apology would have changed the outcome. Episode 6's Shandong account does not establish uniform regional practice or prevalence. The concept supports prudent self-command, protected refusal, and attention to foreseeable settings; it does not make victims responsible for another actor's disproportionate punishment, reduce political conflict to individual lifestyle, or equate all structured toasting with coercion.
 
 ## What Changed
 
 - Added Guan Fu's wedding confrontation as a negative case in which a person recognizes his own alcohol-related risk but enters the setting without maintaining control.
 - Qualified the moral lesson by separating intoxication as an amplifier from the prior grievance and power structure that made the consequences lethal.
 - Migrated the page to the synthesis-v1 evidence contract without removing or reordering its prior source.
+- Extended self-command from personal moderation to a socially protected right to refuse coerced drinking.
 
 ## Related Concepts
 
@@ -58,3 +66,5 @@ The current evidence consists of two interpretive podcast notes rather than clin
 - [[PoeticWineCulture|诗酒文化]] - constructive cultural branch that depends on enjoyment remaining compatible with agency and responsibility.
 - [[OuterRelativeBalanceUnderImperialPower|皇权下的外戚制衡]] - political structure that magnifies the consequences of Guan Fu's loss of restraint.
 - [[PowerContingentSocialTies|权势依附型交往]] - status-sensitive social behavior that helps create the banquet humiliation Guan Fu reacts to.
+- [[AlcoholRitualSocialOrder|饮酒仪式与社会秩序]] - broader field in which rules can support conviviality or encode status.
+- [[CoerciveDrinkingHierarchy|强制饮酒与等级秩序]] - social-pressure failure mode that personal willpower alone cannot solve.
