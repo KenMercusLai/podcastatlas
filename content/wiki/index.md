@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（2）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp.md) — 陈平、周勃把诛杀樊哙改为押送候决；刘邦死后陈平抢先入宫自保，周昌则以抗诏延缓刘如意入京，直至吕雉先调走保护者。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7.md) — 刘邦临终按曹参、王陵配陈平、周勃安排辅政梯队，随后刘盈即位、卢绾亡匈奴；樊哙死令则显示继承焦虑如何侵蚀开国旧谊。
 - [《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”](sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn.md) — 刘肥在宴席毒酒危机后以城阳郡和反常王太后名分向吕后示弱求生；萧何身后评价、九章律归属与宫廷动机保留来源边界。
 - [《资治通鉴·汉纪》196｜解析“萧规曹随”大智慧](sources/zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o.md) — 曹参把齐国验证过的黄老清静治理带入汉廷，以择人、宽察和制度连续维护战后恢复；其适用边界与文景因果保留来源限定。

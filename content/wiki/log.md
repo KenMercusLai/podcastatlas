@@ -33346,3 +33346,11 @@ Added source `zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（2）
+
+Added source `zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp`; resynthesized [[ZhouChang|周昌]], [[TacticalDelayRiskTransfer|延时转责式政治化解]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chen Ping and Zhou Bo convert Fan Kuai's execution into custody and transport, while Zhou Chang's repeated refusal protects Liu Ruyi only until Lu Zhi recalls the sole official protector; Liu Ying's close protection then supplies a second but still nonredundant safeguard. No settled contradiction was adopted. Hanji 150 part 4 and the new note are same-series retellings rather than independent corroboration, Hanji 194 part 1 supplies the later protection failure, and orders, dialogue, motives, offices, punishments, restoration, summons, illness, and palace mechanics remain episode-attributed. Broad [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[ChenPing|陈平]], [[ZhouBo|周勃]], [[FanKuai|樊哙]], and show pages were kept closed because the bounded additions are represented in the focused source, entity, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,175 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

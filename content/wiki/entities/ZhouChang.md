@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9
   - zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s
   - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx
+  - zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp
 last_updated: 2026-10-09
 ---
 
@@ -22,13 +23,15 @@ The same source turns his prestige into a protective assignment after [[ZhaoYao|
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182 part 1]] gives Zhou Chang a separate Zhao-region security role. He reports that Chen Xi's large retainer train, frontier troops, and distance from the center present a risk. Liu Bang begins an investigation that helps make Chen Xi fear return to court, so a prudent warning also becomes part of an [[InvestigationDrivenRebellionEscalation|investigation-driven rebellion escalation]].
 
-[[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the protection endpoint. After Lu Zhi reportedly poisons Liu Ruyi during a brief separation from Liu Ying, Zhou Chang claims illness and withdraws. This fulfills the earlier warning that one prestigious official could delay danger but could not guarantee the alternative heir's survival after Liu Bang's death; the motive for Zhou Chang's illness remains source-attributed.
+[[zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp|Hanji 193 part 2]] shows what that limited protection can still achieve. Zhou Chang repeatedly refuses Lu Zhi's summons for Liu Ruyi, invokes Liu Bang's entrustment, and openly identifies the feared killing. Lu Zhi then recalls Zhou Chang himself, keeps him in Chang'an, and renews the prince's summons after separating protector from protected. Liu Ying's personal proximity temporarily replaces Zhou Chang's official resistance.
+
+[[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the protection endpoint. After Lu Zhi reportedly poisons Liu Ruyi during a brief separation from Liu Ying, Zhou Chang claims illness and withdraws. Together, the sources show that one prestigious official can delay danger but cannot guarantee survival once the center can recall him and control palace access; the motive for Zhou Chang's illness remains source-attributed.
 
 ## Key Characteristics
 
 - Blunt remonstrant who can refuse a succession order even without polished speech.
 - Minister whose intervention earns visible gratitude from the threatened empress-crown-prince branch.
-- Personally prestigious but institutionally limited protector after reassignment from the central court to Zhao.
+- Personally prestigious but institutionally limited protector who delays summons until the central court removes him from Zhao.
 - Security reporter attentive to the political meaning of retainers, troops, and prolonged distance from the center.
 - Official whose warnings can have unintended escalatory effects once translated into investigation.
 - Failed single-point protector who withdraws after Liu Ruyi's reported killing.
@@ -38,6 +41,9 @@ The same source turns his prestige into a protective assignment after [[ZhaoYao|
 Succession remonstrance and Zhao reassignment:
 - [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] records Zhou Chang's refusal, Lu Zhi's thanks, Zhao Yao's recommendation, and the reassignment whose protective capacity the host questions.
 
+Active delay and forced removal:
+- [[zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp|Hanji 193 part 2]] reports repeated refusal of Liu Ruyi's summons, Zhou Chang's explicit threat diagnosis, and Lu Zhi's decision to recall the protector before renewing the prince's summons.
+
 Security warning and investigation:
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182 part 1]] says Zhou Chang reports Chen Xi's retainer display and frontier position, prompting an inquiry that contributes to escalation.
 
@@ -46,13 +52,12 @@ Protection endpoint:
 
 ## Qualifications
 
-The bounded sources are podcast summaries and do not establish Zhou Chang's complete career, his precise authority in Zhao, or whether another institutional arrangement could have saved Liu Ruyi. Hanji 182 part 1 does not make Zhou Chang responsible for Chen Xi's rebellion; it shows a warning entering an escalatory investigation sequence. Hanji 194 part 1 supplies no independent medical evidence or direct statement proving whether Zhou Chang's illness was genuine, strategic withdrawal, grief, protest, or fear.
+The bounded sources are podcast summaries and do not establish Zhou Chang's complete career, his precise authority in Zhao, or whether another institutional arrangement could have saved Liu Ruyi. Hanji 182 part 1 does not make Zhou Chang responsible for Chen Xi's rebellion; it shows a warning entering an escalatory investigation sequence. Hanji 193 part 2's summons, illness pretext, detention, and dialogue remain episode-attributed, while Hanji 194 part 1 supplies no independent medical evidence or direct statement proving whether Zhou Chang's later illness was genuine, strategic withdrawal, grief, protest, or fear.
 
 ## What Changed
 
-- Added the reported endpoint of Zhou Chang's protective assignment after Liu Ruyi's death.
-- Distinguished personal prestige and vigilance from durable institutional protection.
-- Migrated the page to synthesis-v1 without removing or reordering prior sources.
+- Added Zhou Chang's repeated refusal of summons and the center's removal of him before Liu Ruyi's recall.
+- Reframed his assignment as active but nonredundant protection rather than merely symbolic weakness.
 
 ## Relationships
 
