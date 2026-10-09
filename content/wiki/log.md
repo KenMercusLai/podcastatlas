@@ -34056,3 +34056,11 @@ Added source `the-beatles-the-band-that-changed-the-world-with-conan-obrien-part
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery
+
+Added source `using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474`; created [[GlenJeffery]] and [[IndoorLightSpectrumBalance]]; and resynthesized [[RedNearInfraredPhotobiomodulation]] and [[LightTherapyParameterMatching]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: brief, parameter-matched red or near-infrared exposure may influence age-related visual measures and can motivate a qualified systemic-signaling hypothesis, while disease stage, timing, spectral shape, target tissue, and device design prevent generalization to universal eye, metabolic, or whole-body treatment. The episode's LED critique is retained as a built-environment research hypothesis rather than a settled human public-health verdict. No settled contradiction was adopted. Mitochondrial-water mechanisms, glucose and cytokine effects, distant-tissue signaling, animal neuroprotection, Parkinsonian models, myopia, mitochondrial disease, LED population harm, and architectural benefits remain source-scoped or preliminary. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,264 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 36 unrelated pre-existing broken wikilinks.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

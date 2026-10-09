@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1500
+topic_total_pages: 1501
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2837,6 +2837,9 @@ topic_entities:
   - key: "GiovanniAldini"
     title: "Giovanni Aldini / 乔瓦尼·阿尔迪尼"
     url: "/wiki/entities/giovannialdini/"
+  - key: "GlenJeffery"
+    title: "Glen Jeffery"
+    url: "/wiki/entities/glenjeffery/"
   - key: "GottmanInstitute"
     title: "Gottman Institute / 哥特曼研究所"
     url: "/wiki/entities/gottmaninstitute/"

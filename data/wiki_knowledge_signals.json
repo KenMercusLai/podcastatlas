@@ -99563,6 +99563,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/glaucomascreeningandadherence/"
     },
+    "GlenJeffery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4265461474 [SCIM4265461474].md",
+          "key": "using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474",
+          "show": "Huberman Lab",
+          "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
+          "url": "/wiki/sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/glenjeffery/"
+    },
     "GlobalAIGovernanceFramework": {
       "episode_count": 3,
       "show_count": 2,
@@ -124148,6 +124164,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/individualizedriskresponsibility/"
     },
+    "IndoorLightSpectrumBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4265461474 [SCIM4265461474].md",
+          "key": "using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474",
+          "show": "Huberman Lab",
+          "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
+          "url": "/wiki/sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/indoorlightspectrumbalance/"
+    },
     "IndulgenceAsPoliticalElimination": {
       "episode_count": 2,
       "show_count": 1,
@@ -147517,9 +147549,9 @@
       "url": "/wiki/concepts/lightfoodcategoryreframing/"
     },
     "LightTherapyParameterMatching": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9179977381 [SCIM9179977381].md",
@@ -147534,9 +147566,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Light to Optimize Health",
           "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
+        },
+        {
+          "episode_file": "SCIM4265461474 [SCIM4265461474].md",
+          "key": "using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474",
+          "show": "Huberman Lab",
+          "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
+          "url": "/wiki/sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/lighttherapyparametermatching/"
     },
     "LightTouchFrontierGovernance": {
@@ -208429,9 +208468,9 @@
       "url": "/wiki/entities/redguards/"
     },
     "RedNearInfraredPhotobiomodulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9179977381 [SCIM9179977381].md",
@@ -208446,9 +208485,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Light to Optimize Health",
           "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
+        },
+        {
+          "episode_file": "SCIM4265461474 [SCIM4265461474].md",
+          "key": "using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474",
+          "show": "Huberman Lab",
+          "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
+          "url": "/wiki/sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/rednearinfraredphotobiomodulation/"
     },
     "Reddit": {

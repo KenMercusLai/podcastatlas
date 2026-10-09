@@ -4335,6 +4335,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard](sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429.md) — Huberman Lab interview on mitochondria as energy-transforming and information-processing systems linking finite energy allocation, stress, recovery, aging, and cautious intervention boundaries.
 - [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
 - [Essentials: The Science of Making & Breaking Habits](sources/essentials-the-science-of-making-breaking-habits-scim6067841582.md) — Condensed Huberman Lab episode on initiation friction, procedural rehearsal, task bracketing, state-matched placement, sleep consolidation, context independence, and post-habit replacement.
+- [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
 
 ## Entities
 - [智果 / Zhi Guo](entities/ZhiGuo.md) — 反对智瑶继位并警告公开羞辱会积累隐蔽报复的智氏谋臣。
@@ -17364,6 +17365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [崔嘉斌 / Cui Jiabin (Shanxi psychiatrist)](entities/CuiJiabinShanxi.md) — Shanxi psychiatric guest distinguishing ordinary driving anger from impairment and unsafe action; disambiguated from 崔嘉宾.
 - [张衍山 / Zhang Yanshan](entities/ZhangYanshan.md) — Shenzhen psychological therapist explaining road-rage triggers, mediated driving interaction, attention risk, and practical regulation.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
+- [Glen Jeffery](entities/GlenJeffery.md) — UCL neuroscience researcher connecting retinal aging, mitochondrial responses, systemic red-light hypotheses, and indoor spectral balance.
 
 ## Concepts
 - [Prepared Fallback Stronghold / 预置退路型堡垒](concepts/PreparedFallbackStronghold.md) — 在危机前克制抽取、积累民心并修备防御，使指定据点可在主路径崩溃时承接组织生存。
@@ -27577,5 +27579,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relational Joy](concepts/RelationalJoy.md) — Deeper satisfaction built through mutual connection, ordinary presence, and good-enough contact rather than stimulation or peak experience alone.
 - [Internal Worth and Accountability](concepts/InternalWorthAccountability.md) — Distinguishes basic human worth from conduct evaluation so regret and repair need not become shame collapse.
 - [Road Rage and Driving Emotion / 路怒与驾驶情绪](concepts/RoadRageAndDrivingEmotion.md) — Driving-safety framework separating ordinary anger from impaired judgment and unsafe action across personal, road, and system conditions.
+- [Indoor Light Spectrum Balance](concepts/IndoorLightSpectrumBalance.md) — Built-environment hypothesis evaluating light by spectral composition as well as brightness and efficiency, with explicit human-evidence and safety limits.
 
 ## Syntheses

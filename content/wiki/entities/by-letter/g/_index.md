@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12970
+wiki_total_pages: 12971
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "GlazerFamily"
     title: "Glazer Family"
     url: "/wiki/entities/glazerfamily/"
+  - key: "GlenJeffery"
+    title: "Glen Jeffery"
+    url: "/wiki/entities/glenjeffery/"
   - key: "GlennHall"
     title: "Glenn Hall"
     url: "/wiki/entities/glennhall/"
