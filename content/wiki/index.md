@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2 东西方的祥瑞与灾异：从恺撒到王莽](sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2.md) — 怪东西跨文明比较祥瑞、灾异、占卜与神圣王权，强调征兆的政治效力取决于阐释权、制度接受和责任分配，而非符号自身的固定意义。
 - [088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多](sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2.md) — 纸醉金迷FM以三世棺、地下影骨和顶部真身拆解献王墓的垂直宇宙结构，并讨论文化反转式恐怖与铁三角互补协作。
 - [628. Jack The Ripper: The Killer Unmasked (Part 5)](sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737.md) — The Rest Is History tests famous, conspiratorial, police-backed, and local Jack the Ripper suspects, favoring an unidentified local-worker profile while preserving the absence of proof.
 - [Transform Pain & Trauma Into Creative Expression | David Choe](sources/transform-pain-trauma-into-creative-expression-david-choe-scim4316318313.md) — Huberman Lab interview on art, shame, gambling, workaholism, self-sabotage, substituted compulsion, relational recovery, and choosing connection over legacy.

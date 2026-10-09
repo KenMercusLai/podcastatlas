@@ -33843,6 +33843,14 @@ Added source `transform-pain-trauma-into-creative-expression-david-choe-scim4316
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-10] ingest | 2 东西方的祥瑞与灾异：从恺撒到王莽
+
+Added source `2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2`; resynthesized [[AuspiciousOmenPolitics|祥瑞政治]] and [[PropheticAmbiguityAndInterpretation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: eclipses, comets, rare animals, storms, harvests, and enigmatic texts have no politically fixed meaning; interpreters assign their subject and valence, while rulers and institutions convert accepted readings into blame, ritual response, office, policy, victory, or dynastic legitimacy. No settled contradiction was adopted. Cross-civilizational similarities support mechanism-level comparison rather than common origin or institutional equivalence, and royal touch, Iranian radiance, sacred-animal, pre-Columbian, diffusion, motive, and supernatural-causation claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,238 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

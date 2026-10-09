@@ -20,7 +20,8 @@ sources:
   - zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78
   - zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
-last_updated: 2026-10-04
+  - 2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2
+last_updated: 2026-10-10
 ---
 
 ## Definition
@@ -37,6 +38,8 @@ Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastB
 
 Across the page, omen politics works best as a language of compression. A sign can condense uncertainty into confidence, transform ambition into Heaven-backed legitimacy, make an attack look prewritten, or memorialize a victory as cosmically timed. The same logic is unstable: when the claimant lacks virtue, competence, or durable capacity, omen rhetoric can backfire into skepticism, overreach, or retrospective blame.
 
+[[2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2|Weird History episode 2]] supplies the comparative extension. Its Roman, medieval European, Iranian, Egyptian, Southeast Asian, East Asian, and pre-Columbian examples suggest that the portable mechanism is not a shared sign dictionary but an interpretive contest: specialists and rulers attach an anomaly to a political subject, select a favorable or harmful valence, prescribe a response, and retrospectively stabilize the outcome. Octavian's recoding of Caesar's comet as apotheosis makes reversal especially clear, while the Han Chengdi eclipse dispute shows one event supporting rival blame targets.
+
 [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] makes cumulative sign production and career capture explicit. Wang Mang treats prophecy, a new well, stone animals, copper signs, memorial repetition, temple reception, and ritual recoding as a single accession proof chain. [[AiZhangXinOfficial|哀章]] then exploits the same system by fabricating a copper casket and writing himself into its ministerial list, showing that omen politics can allocate office as well as authorize rule.
 
 ## Key Claims
@@ -44,8 +47,8 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Auspicious signs are politically useful because they turn contingent choices, appointments, and symbolic-policy agendas into apparently Heaven-aligned action.
 - Omen politics can operate at many scales: personal advancement, purge cover, imperial travel, frontier war, diplomatic messaging, and dynastic replacement.
 - The interpreter has power; vague or flexible signs become consequential when a ruler, adviser, text, or artifact narrows their meaning.
-- Material media can carry omen politics, not just speeches and memorials.
-- Landscape events can be reclassified as favorable signs when interpreters choose a cosmological frame that makes disorder look useful.
+- A sign's valence can be reversed: inherited disaster symbolism does not prevent a politically successful interpreter from presenting the event as apotheosis, victory, or renewal.
+- Material media and landscape events can carry omen politics; interpreters can make objects, texts, or physical disorder look politically useful.
 - Submission reports and staged distant tribute can bundle praise, auspicious signs, frontier geography, and classical precedent so expansion appears to follow naturally from virtuous rule.
 - The same sign system that legitimates a ruler can later expose that ruler to judgment or create uncontrolled imitation if virtue, capacity, or interpretive monopoly fails.
 
@@ -64,6 +67,7 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Cumulative accession proof: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] joins prophecy, new-well, stone-animal, copper-sign, casket, temple, and ritual evidence into Wang Mang's formal accession narrative.
 - Self-appointment through signs: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] says Ai Zhang fabricates a Heaven-backed personnel list and includes himself with an office and title.
 - Forecast-confirmation and court displacement: [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the reported yellow dragon to Gongsun Chen's appointment, Zhang Cang's loss of influence, earth-virtue planning, and Five Colored Emperor ritual; it also links Xinyuan Ping's first qi claim to temple construction.
+- Comparative interpretation and valence reversal: [[2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2|Weird History episode 2]] connects Wang Mang's omen system, competing Han eclipse diagnoses, Roman augury, Caesar's comet, medieval battlefield signs, royal healing, and pharaonic symbols through control of interpretation rather than a universal omen vocabulary.
 
 ## Counterevidence & Qualifications
 
@@ -73,13 +77,14 @@ Hanji 632 reports sign interpretations and objects as political claims and does 
 
 The sources are evidence for political reasoning, not evidence that omens caused events. Hanji 607 supports the political function of the white-pheasant report but leaves Yuechang geography, local compliance, and Wang Mang's private instruction mechanics source-scoped. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang sources treat auspicious evidence as politically powerful but ultimately fragile. Hanji 623 supports the function of auspicious submission rhetoric but does not prove Qiang motives, report accuracy, or Wang Mang's inner belief. Hanji 642 supports a fuming backfire mechanism but does not prove Wang Mang's inner belief or every actor's conscious fraud. Hanji 651 keeps the river-change reading as court interpretation and policy flattery rather than proof of Xiongnu defeat; Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
 
+The comparative episode ranges widely and often summarizes examples rather than documenting them from primary texts. Its similarities support a mechanism-level comparison, not common origin or institutional equivalence; royal touch, Iranian radiance, sacred-animal, pre-Columbian, and East Asian diffusion claims remain source-scoped. The strongest new judgment is therefore narrow: signs gain or change political valence through interpretation, uptake, and retrospective narrative.
+
 ## What Changed
 
-- Added a Western Han forecast-confirmation case that reallocates office and symbolic-policy authority.
-- Added Xinyuan Ping's first qi-based temple order as the entry stage before the staged-proof sequel.
-- Distinguished supported political uptake from unverified supernatural truth and speculative fabrication.
-- Preserved cumulative accession and rewarded-sign backfire as later, larger-scale variants.
-- Preserved the distinction between omen rhetoric as political evidence and omen rhetoric as sole cause.
+- Extended the synthesis beyond China with comparative cases while keeping institutional equivalence and diffusion unproven.
+- Added valence reversal: Caesar's comet shows a conventionally harmful sign becoming favorable apotheosis propaganda.
+- Made interpretive competition explicit through the Han Chengdi eclipse's rival blame targets.
+- Preserved the boundary between politically effective interpretation and supernatural or causal proof.
 
 ## Related Concepts
 
@@ -94,3 +99,5 @@ The sources are evidence for political reasoning, not evidence that omens caused
 - [[HetuLuoshu]] - mythic-cosmological sign complex used in Hanji 651's river-change omen.
 - [[DynasticFiveVirtuesLegitimation|五德终始式王朝正统]] - supplies the phase-and-color framework made actionable by the yellow-dragon report.
 - [[BeliefActivatedPoliticalSigns|信念激活的政治符号]] - explains how acceptance produces real institutional consequences without proving the sign's attributed meaning.
+- [[PropheticAmbiguityAndInterpretation]] - comparative mechanism by which elastic signs retain authority through specialist and retrospective interpretation.
+- [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - gendered blame-redirection subtype illustrated by the Han Chengdi eclipse dispute.

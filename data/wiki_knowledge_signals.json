@@ -20543,9 +20543,9 @@
       "url": "/wiki/entities/auschwitzbirkenau/"
     },
     "AuspiciousOmenPolitics": {
-      "episode_count": 16,
-      "show_count": 2,
-      "source_note_count": 16,
+      "episode_count": 17,
+      "show_count": 3,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
@@ -20658,9 +20658,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3/"
+        },
+        {
+          "episode_file": "lstvdhoIfxNCjm9am0keb8KsUfK2 [lstvdhoIfxNCjm9am0keb8KsUfK2].md",
+          "key": "2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2",
+          "show": "怪东西Weird History",
+          "title": "2 东西方的祥瑞与灾异：从恺撒到王莽",
+          "url": "/wiki/sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/auspiciousomenpolitics/"
     },
     "Austerity": {
@@ -200637,9 +200644,9 @@
       "url": "/wiki/concepts/prophecytriggeredpolicy/"
     },
     "PropheticAmbiguityAndInterpretation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7103118075 [GLT7103118075].md",
@@ -200647,9 +200654,16 @@
           "show": "The Rest Is History",
           "title": "21. The History of the Future",
           "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        },
+        {
+          "episode_file": "lstvdhoIfxNCjm9am0keb8KsUfK2 [lstvdhoIfxNCjm9am0keb8KsUfK2].md",
+          "key": "2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2",
+          "show": "怪东西Weird History",
+          "title": "2 东西方的祥瑞与灾异：从恺撒到王莽",
+          "url": "/wiki/sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/propheticambiguityandinterpretation/"
     },
     "ProspectiveMemory": {

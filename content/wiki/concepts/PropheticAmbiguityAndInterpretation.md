@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [prophecy, divination, interpretation, authority]
 sources:
   - 21-the-history-of-the-future-glt7103118075
-last_updated: 2026-10-04
+  - 2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2
+last_updated: 2026-10-10
 ---
 
 # Prophetic Ambiguity and Interpretation
@@ -20,6 +21,8 @@ Prophetic ambiguity and interpretation is the mechanism by which difficult, elas
 
 Authority comes from a bundle: sacred setting, specialist status, access to information, memorable language, decision pressure, and retrospective interpretation. The same bundle can generate useful counsel, political flexibility, sincere belief, manipulation, or post hoc pattern matching; the concept therefore tracks a social mechanism, not proof of supernatural foresight.
 
+Political subject selection and valence reversal extend the mechanism beyond elastic wording. A Han eclipse can be made to accuse Empress Xu or Wang Feng, the willow-and-insect-writing omen associated with Sui Meng can be reassigned after Emperor Xuan's accession, and Caesar's comet can move from conventional danger to proof of apotheosis [[2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2|Weird History episode 2]]. Ambiguity therefore protects authority not only by postponing fulfillment, but by keeping open who the sign concerns and whether it is harmful or favorable.
+
 ## Key Claims
 
 - Ambiguous wording transfers part of predictive authority to the interpreter.
@@ -27,6 +30,7 @@ Authority comes from a bundle: sacred setting, specialist status, access to info
 - Information advantages can coexist with ritual authority and make an oracle appear practically insightful.
 - Some prophetic institutions guide crisis action or ritual rather than simply forecast events.
 - Vague language and later fabrication create a strong boundary between cultural influence and verified prediction.
+- Political interpreters can change a sign's subject and valence, turning the same event into accusation, vindication, disaster, or sacred approval.
 
 ## Evidence
 
@@ -42,14 +46,21 @@ Authority comes from a bundle: sacred setting, specialist status, access to info
 
 - [[21-the-history-of-the-future-glt7103118075]] says the Sibylline Books commonly advised Romans which rituals to perform in crisis, making prophecy a decision institution rather than a timetable alone.
 
+### Political reassignment
+
+- [[2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2|Weird History episode 2]] uses the Han Chengdi eclipse, Sui Meng's reinterpreted omen, Caesar's comet, and battlefield signs to show interpreters changing the target, valence, and retrospective fulfillment of ambiguous events.
+
 ## Counterevidence & Qualifications
 
 Ambiguity does not prove fraud: ancient audiences may have understood indirect divine speech as appropriate to the institution. Nor does information-network advantage explain every oracle. The episode compresses diverse Greek, Egyptian, Roman, and early-modern practices, and its claims about mechanisms and belief require specialist corroboration.
 
+The comparative omen episode is likewise broad. Its cases support the existence of interpretive flexibility, but do not establish that every reinterpretation was cynical, that all audiences accepted it, or that omen systems across civilizations shared an origin or institutional form.
+
 ## What Changed
 
-- Established ambiguity, specialist interpretation, information access, and retrospective fulfillment as one comparative mechanism.
-- Distinguished prophecy's cultural and decision authority from evidence that a prediction was supernaturally accurate.
+- Added subject reassignment and valence reversal to the ambiguity mechanism.
+- Extended the comparison from oracle language to eclipses, enigmatic writing, comets, and battlefield signs.
+- Preserved the distinction between political uptake, sincere belief, manipulation, and supernatural proof.
 
 ## Related Concepts
 
@@ -58,3 +69,5 @@ Ambiguity does not prove fraud: ancient audiences may have understood indirect d
 - [[ProphecyTriggeredPolicy]] - downstream pattern where interpreted prediction becomes state action.
 - [[FangshiFraudAndAuthority]] - adjacent authority problem involving specialists, signs, and political uptake.
 - [[FutureVisionsAsPresentAnxiety]] - wider frame for reading prediction through its contemporary uncertainty.
+- [[AuspiciousOmenPolitics|祥瑞政治]] - political-use layer in which flexible signs authorize office, policy, victory, or rule.
+- [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - subject-reassignment subtype that redirects an omen toward a vulnerable palace target.
