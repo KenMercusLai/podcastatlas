@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trump names his new AI task force the "Super Intelligence Force"](sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128.md) — Marketplace Tech on a new federal AI task force, data-center ratepayer bills, cross-party demand for stricter regulation, and the limits of industry self-policing.
 - [Best Ways to Build Better Habits & Break Bad Ones | James Clear](sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637.md) — Huberman Lab interview on small starts, physical and digital friction, identity-based habits, social norms, flexible consistency, and rapid recovery after lapses.
 - [VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚](sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek.md) — 这病说来话长以中西医双视角区分鼻炎线索、暴露与结构病因、规范鼻喷和洗鼻操作，并建立鼻炎与哮喘的同一气道边界。
 - [《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？](sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he.md) — 胡亥惩罚报忧造成信息失真，陈胜多线扩张却处死葛婴，蒯彻则以优待投降者推动赵地招降。
@@ -4290,6 +4291,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.
+- [Jay Clayton](entities/JayClayton.md) — Source-identified AI czar, intelligence director, and leader of the Superintelligence Force.
+- [Emile Michael](entities/EmileMichael.md) — Former Uber executive and AI investor named as a lead official on the Superintelligence Force.
+- [Scott Cooper](entities/ScottCooper.md) — Task-force lead and former Andreessen Horowitz employee in the episode's expertise-versus-conflict debate.
+- [Cristiano Lima Strong](entities/CristianoLimaStrong.md) — Technology-policy reporter connecting AI governance to elections, household power costs, security, and public opinion.
+- [Ratepayer Protection Act](entities/RatepayerProtectionAct.md) — Federal proposal requiring states to consider stronger data-center electricity-cost protections.
+- [Grid Savings Act](entities/GridSavingsAct.md) — Source-described stronger Democratic alternative for making data-center operators bear power costs.
 - [James Clear](entities/JamesClear.md) — Author and behavior-change writer connecting small starts, context design, identity, feedback, and adaptable consistency.
 - [襄疆 / Xiang Jiang](entities/XiangJiang.md) — 葛婴在外地拥立、后又为消除与陈胜王号冲突而杀死的楚王室后裔主张者。
 - [Adolf Tolkachev / 阿道夫·托卡契夫](entities/AdolfTolkachev.md) — Soviet radar engineer whose persistent self-volunteered CIA source work produced high-value technical intelligence before insider disclosures enabled his arrest.
@@ -17258,6 +17266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [AI Regulation Public Opinion Gap](concepts/AIRegulationPublicOpinionGap.md) — Divergence between cross-party public demand for stronger AI safeguards and lighter or industry-led institutional responses.
 - [Identity-Based Habit Change](concepts/IdentityBasedHabitChange.md) — Using repeated action as evidence for a chosen but revisable identity, with explicit transition and lapse boundaries.
 - [Rapid Habit Lapse Recovery](concepts/RapidHabitLapseRecovery.md) — Shortening the gap after a missed desired behavior without turning recovery into punishment or unsafe compensation.
 - [Unified Airway: Rhinitis and Asthma / 鼻炎哮喘同一气道](concepts/UnifiedAirwayRhinitisAsthma.md) — Treats allergic upper- and lower-airway disease as connected while preserving diagnostic, progression, and urgent-care boundaries.

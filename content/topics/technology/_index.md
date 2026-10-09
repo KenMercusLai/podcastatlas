@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3395
+topic_total_pages: 3400
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -871,6 +871,9 @@ topic_concepts:
   - key: "AIRecruitingSourcing"
     title: "AI Recruiting Sourcing"
     url: "/wiki/concepts/airecruitingsourcing/"
+  - key: "AIRegulationPublicOpinionGap"
+    title: "AI Regulation Public Opinion Gap"
+    url: "/wiki/concepts/airegulationpublicopiniongap/"
   - key: "AIRegulationInnovationCompatibility"
     title: "AI Regulation-Innovation Compatibility"
     url: "/wiki/concepts/airegulationinnovationcompatibility/"
@@ -5459,6 +5462,9 @@ topic_entities:
   - key: "Cresta"
     title: "Cresta"
     url: "/wiki/entities/cresta/"
+  - key: "CristianoLimaStrong"
+    title: "Cristiano Lima Strong"
+    url: "/wiki/entities/cristianolimastrong/"
   - key: "CropWizard"
     title: "Crop Wizard"
     url: "/wiki/entities/cropwizard/"
@@ -5696,6 +5702,9 @@ topic_entities:
   - key: "EmilMichael"
     title: "Emil Michael"
     url: "/wiki/entities/emilmichael/"
+  - key: "EmileMichael"
+    title: "Emile Michael"
+    url: "/wiki/entities/emilemichael/"
   - key: "Equinix"
     title: "Equinix"
     url: "/wiki/entities/equinix/"
@@ -7586,6 +7595,9 @@ topic_entities:
   - key: "SunoSpark"
     title: "Suno Spark"
     url: "/wiki/entities/sunospark/"
+  - key: "SuperintelligenceForce"
+    title: "Superintelligence Force"
+    url: "/wiki/entities/superintelligenceforce/"
   - key: "SurgeAI"
     title: "Surge AI"
     url: "/wiki/entities/surgeai/"
@@ -9768,6 +9780,9 @@ topic_sources:
   - key: "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128"
     title: "Trump and tech leaders agree to voluntary AI safety accord"
     url: "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+  - key: "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128"
+    title: "Trump names his new AI task force the \"Super Intelligence Force\""
+    url: "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
     title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"

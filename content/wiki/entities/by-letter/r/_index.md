@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12909
+wiki_total_pages: 12916
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "RasKassa"
     title: "Ras Kassa"
     url: "/wiki/entities/raskassa/"
+  - key: "RatepayerProtectionAct"
+    title: "Ratepayer Protection Act"
+    url: "/wiki/entities/ratepayerprotectionact/"
   - key: "RatingsCom"
     title: "Ratings.com"
     url: "/wiki/entities/ratingscom/"

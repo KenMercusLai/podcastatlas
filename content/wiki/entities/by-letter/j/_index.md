@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12909
+wiki_total_pages: 12916
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "JayBhattacharya"
     title: "Jay Bhattacharya"
     url: "/wiki/entities/jaybhattacharya/"
+  - key: "JayClayton"
+    title: "Jay Clayton"
+    url: "/wiki/entities/jayclayton/"
   - key: "JCET"
     title: "JCET / 长电科技"
     url: "/wiki/entities/jcet/"

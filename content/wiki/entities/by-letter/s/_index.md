@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12909
+wiki_total_pages: 12916
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "ScottBrennan"
     title: "Scott Brennan"
     url: "/wiki/entities/scottbrennan/"
+  - key: "ScottCooper"
+    title: "Scott Cooper"
+    url: "/wiki/entities/scottcooper/"
   - key: "ScottGalloway"
     title: "Scott Galloway"
     url: "/wiki/entities/scottgalloway/"
@@ -1826,6 +1829,9 @@ wiki_pages:
   - key: "SuperDry"
     title: "Super Dry"
     url: "/wiki/entities/superdry/"
+  - key: "SuperintelligenceForce"
+    title: "Superintelligence Force"
+    url: "/wiki/entities/superintelligenceforce/"
   - key: "Superman"
     title: "Superman"
     url: "/wiki/entities/superman/"

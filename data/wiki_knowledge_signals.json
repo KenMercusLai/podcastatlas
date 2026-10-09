@@ -1206,9 +1206,9 @@
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
     "AIBacklashPolitics": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 5,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -1293,9 +1293,16 @@
           "show": "Marketplace Tech",
           "title": "AI spending takes center stage ahead of midterms",
           "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/aibacklashpolitics/"
     },
     "AIBenchmarkGaming": {
@@ -3184,9 +3191,9 @@
       "url": "/wiki/concepts/aiindustrializationthreestages/"
     },
     "AIIndustrySelfRegulation": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -3229,9 +3236,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
+        },
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/aiindustryselfregulation/"
     },
     "AIIndustrySuperPACPolitics": {
@@ -4444,6 +4458,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/airegulationinnovationcompatibility/"
+    },
+    "AIRegulationPublicOpinionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/airegulationpublicopiniongap/"
     },
     "AIRegulatoryCaptureRisk": {
       "episode_count": 6,
@@ -53877,6 +53907,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/cristerowar/"
     },
+    "CristianoLimaStrong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/cristianolimastrong/"
+    },
     "CriticalPathMethodPersonalPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -57432,9 +57478,9 @@
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterCostShifting": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 5,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -57533,6 +57579,13 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
+        },
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
         }
       ],
       "updated": "2026-10-09",
@@ -72680,6 +72733,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/emilmichael/"
+    },
+    "EmileMichael": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/emilemichael/"
     },
     "EmilyBalcetis": {
       "episode_count": 4,
@@ -101633,6 +101702,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/greyfriarsbobby/"
     },
+    "GridSavingsAct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/gridsavingsact/"
+    },
     "GriefAttachmentRemapping": {
       "episode_count": 4,
       "show_count": 1,
@@ -129209,6 +129294,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/jaybhattacharya/"
+    },
+    "JayClayton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/jayclayton/"
     },
     "JealousyAndMateRetention": {
       "episode_count": 1,
@@ -204115,6 +204216,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/raskassa/"
     },
+    "RatepayerProtectionAct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/ratepayerprotectionact/"
+    },
     "RationalizedStateViolence": {
       "episode_count": 5,
       "show_count": 3,
@@ -217231,6 +217348,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/scottbrennan/"
+    },
+    "ScottCooper": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/scottcooper/"
     },
     "ScottGalloway": {
       "episode_count": 1,
@@ -235405,6 +235538,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/superherotalltalecontinuity/"
+    },
+    "SuperintelligenceForce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261009_1009_MP_TECH_pod_128 [tech_20261009_1009_MP_TECH_pod_128].md",
+          "key": "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
+          "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/superintelligenceforce/"
     },
     "SuperiorCreditConflictRisk": {
       "episode_count": 3,

@@ -10317,6 +10317,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIRegulationPublicOpinionGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIRegulatoryCaptureRisk": [
     {
       "key": "technology",
@@ -26310,6 +26322,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CristianoLimaStrong": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CristianoRonaldo": [
     {
       "key": "culture",
@@ -32343,6 +32362,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EmileMichael": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "EmilyEnglish": [
@@ -81728,6 +81754,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "SuperintelligenceForce": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SupersonicRegulatorySpeedLimit": [
     {
       "key": "economics",
@@ -103345,6 +103383,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3243
+topic_total_pages: 3246
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -226,6 +226,9 @@ topic_concepts:
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"
+  - key: "AIRegulationPublicOpinionGap"
+    title: "AI Regulation Public Opinion Gap"
+    url: "/wiki/concepts/airegulationpublicopiniongap/"
   - key: "AIRegulationInnovationCompatibility"
     title: "AI Regulation-Innovation Compatibility"
     url: "/wiki/concepts/airegulationinnovationcompatibility/"
@@ -7514,6 +7517,9 @@ topic_entities:
   - key: "SunMyungMoon"
     title: "Sun Myung Moon / 文鲜明"
     url: "/wiki/entities/sunmyungmoon/"
+  - key: "SuperintelligenceForce"
+    title: "Superintelligence Force"
+    url: "/wiki/entities/superintelligenceforce/"
   - key: "SupremeCourt"
     title: "Supreme Court"
     url: "/wiki/entities/supremecourt/"
@@ -9180,6 +9186,9 @@ topic_sources:
   - key: "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128"
     title: "Trump and tech leaders agree to voluntary AI safety accord"
     url: "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+  - key: "tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128"
+    title: "Trump names his new AI task force the \"Super Intelligence Force\""
+    url: "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
   - key: "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
     title: "Trump rejects AI's \"effective altruism\" movement"
     url: "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"

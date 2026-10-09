@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12909
+wiki_total_pages: 12916
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "GreyfriarsBobby"
     title: "Greyfriars Bobby"
     url: "/wiki/entities/greyfriarsbobby/"
+  - key: "GridSavingsAct"
+    title: "Grid Savings Act"
+    url: "/wiki/entities/gridsavingsact/"
   - key: "GrigoryPotemkin"
     title: "Grigory Potemkin / 格里戈里·波将金"
     url: "/wiki/entities/grigorypotemkin/"

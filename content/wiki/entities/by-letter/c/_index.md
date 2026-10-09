@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12909
+wiki_total_pages: 12916
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1631,6 +1631,9 @@ wiki_pages:
   - key: "CrispusAttucks"
     title: "Crispus Attucks"
     url: "/wiki/entities/crispusattucks/"
+  - key: "CristianoLimaStrong"
+    title: "Cristiano Lima Strong"
+    url: "/wiki/entities/cristianolimastrong/"
   - key: "CristianoRonaldo"
     title: "Cristiano Ronaldo"
     url: "/wiki/entities/cristianoronaldo/"
