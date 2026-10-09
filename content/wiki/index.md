@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [089 趣话《鬼吹灯》之云南虫谷（大结局）](sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n.md) — 纸醉金迷FM收束献王墓逃生，以藤术重复、尸洞解围和灵异规则评析《云南虫谷》，并由玉环、龙骨天书与西藏线索衔接《昆仑神宫》。
 - [No.214 低能量人的电池使用指南](sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn.md) — 三五环单口以“电池”模型连接注意力保护、切换与协同成本、状态匹配、动力和低成本可能性实验。
 - [631. Wagner: LIVE at the Royal Albert Hall](sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401.md) — The Rest Is History live episode on Wagner's revolution and exile, total theatre, the Ring's power-and-love politics, Tristan and Isolde, and royal patronage.
 - [4 东西方的太监：从苏培盛到纳尔塞斯](sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4.md) — 怪东西跨文明比较宦官称谓、内外廷中介、皇权与继承杠杆、奴役和阉割暴力，并以李常杰和纳尔塞斯等人纠正单一刻板印象。
@@ -4299,6 +4300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick](sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807.md) — Condensed Huberman Lab interview on measurement-led micronutrient use, omega-3 form and status, hormesis, and dose-bounded cold and heat exposure.
 
 ## Entities
+- [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
 - [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
 - [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.

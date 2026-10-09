@@ -7,23 +7,24 @@ sources:
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
   - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
+  - 089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-07
+last_updated: 2026-10-09
 ---
 
 # 《鬼吹灯》 / Ghost Blows Out the Light
 
 ## Overview
 
-《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to four [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes moving from the decision to seek the nine-story demon tower through the memory city, final ritual and retirement gesture.
+《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to five [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes extending from the end of [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] through the route, puzzles, final ritual and retirement gesture of [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]].
 
 ## Current Profile
 
-Across the supplied discussions, the first four books form a phase in which the protagonists' search for wealth becomes a test of observation, loyalty, practical interpretation, sacrifice, and life direction. The opening of 《昆仑神宫》 makes knowledge itself the route into danger: possession of the 雮尘珠 does not reveal how to lift the curse, so 龙骨天书, the 《十六字阴阳风水秘术》, 明叔's textual clues, Tibetan geography and a divinatory prompt must be combined before the party can even locate the demon tower.
+Across the supplied discussions, the first four books form a phase in which the protagonists' search for wealth becomes a test of observation, loyalty, practical interpretation, sacrifice, and life direction. The end of 《云南虫谷》 supplies the hinge: 献王's head may contain the 雮尘珠, while sixteen jade rings, the 龙骨天书, a Tibetan mural and 胡八一's Kunlun memory turn possession of an object into an unresolved decoding and travel problem. The opening of 《昆仑神宫》 then makes knowledge itself the route into danger: the 《十六字阴阳风水秘术》, 明叔's textual clues, Tibetan geography and a divinatory prompt must be combined before the party can locate the demon tower.
 
 The series' world feels culturally dense because real places, preserved-body history, archaeological material, geomancy, religious vocabulary and folklore sit beside invented trades, artifacts, lineages and monsters. The hosts repeatedly police that boundary: thirteen-whiskered porcelain cats and the described 背尸 profession may sound plausible beside 赶尸 stories, but their texture does not establish their historical existence. Once the expedition begins, complementary knowledge is distributed across a large party, and early deaths, poisoning, wolves and glacier terrain convert worldbuilding into attrition.
 
-The nine-story demon-tower sequence then makes the puzzle method explicit: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
+The bounded discussions also expose a recurring quality test. 《云南虫谷》 earns atmosphere through grotesque creatures and uncertain signals, but repeated vine-and-corpse attacks reduce novelty, while the nearly unstoppable “尸洞” and Shirley 杨's poisoning are removed by lightly prepared exceptions. The nine-story demon-tower sequence then supplies the stronger contrast: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
 
 The move into 恶罗海城 expands the same interpretive demand from traps to ontology. Hot food, active slaughter, changing external light, and normal watch movement first conflict, then become compatible when the city is explained as physically accessible fragments of remembered moments rather than the original ruin or a completely frozen timeline. The approach to [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]]'s ritual chamber then turns uncertain rules and a timer into moral pressure, exposing differences among 胡八一、胖子、Shirley 杨、明叔、阿香 over autonomy, kinship, and whether collective survival can justify selecting a victim.
 
@@ -35,6 +36,7 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 - Joins tomb-adventure plotting to Chinese folklore, geomancy, archaeology, religious vocabulary, and invented ritual systems while keeping historical texture distinct from verification.
 - Builds puzzle causality by converting conspicuous objects and folk devices into later survival rules.
+- Connects books through artifact and location chains, especially the 雮尘珠, jade rings, 龙骨天书 and Tibetan route.
 - Treats survival puzzles as tests of loyalty, interpretation, practical skill, and the distinction between bearing a cost oneself and imposing it on someone else.
 - Gives 胡八一 and 胖子 a field in which disrupted education, military experience, and specialist knowledge become useful.
 - Converts the pursuit of treasure into an eventual critique of private extraction and the desire surrounding valuable objects.
@@ -44,11 +46,13 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ### Layered lore and expedition formation
 
+- [[089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n]] links the end of the 云南 expedition to Tibetan and Kunlun clues while keeping the hosts' folklore and science claims source-scoped.
 - [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] follows the unresolved 雮尘珠, 明叔's crystal-corpse proposal, the 摸金 lineages, the westward divination and the nine-person party into the glacier.
 - [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] distinguishes real mummies, geography and circulating traditions from likely invented 背尸 and porcelain-cat lore.
 
 ### Planted mechanisms and speculative explanation
 
+- [[089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n]] contrasts an artifact chain that genuinely bridges books with repeated vine attacks and final rescues whose preparation the hosts find weak.
 - [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] follows blue and white crystals, wolf blood, the water-crystal corpse, ice/fire ghost insects, and the 雮尘珠 from background details into a connected solution system.
 - [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] distinguishes the embodied composite-memory 恶罗海城 from hallucination, an ordinary ruin, and complete time stoppage.
 
@@ -71,17 +75,18 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ## Qualifications
 
-This profile comes from four conversational episodes about one section of the first four books, not a complete reading of the series. Plot evaluations, ritual interpretation, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat 背尸 lore, fictional geomancy, divination outcomes, biological electricity, virtual space, memory materialization, monsters, or curse rules as historical or scientific evidence.
+This profile comes from five conversational episodes about the transition between the third and fourth books, not a complete reading of the series. Plot evaluations, ritual interpretation, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat 背尸 lore, fictional geomancy, divination outcomes, mirages, 太岁 medicine, biological electricity, virtual space, memory materialization, monsters, or curse rules as historical or scientific evidence.
 
 ## What Changed
 
-- Extended the bounded sequence backward to the decision, recruitment and route that lead to the nine-story demon tower.
-- Added reality-fiction source layering as a defining worldbuilding method with an explicit verification boundary.
-- Added complementary party formation and early expedition attrition before the tower sequence.
+- Extended the bounded sequence backward through 《云南虫谷》's ending and the artifact chain that motivates the Kunlun route.
+- Added the contrast between effective cross-book clue preparation and lightly prepared escape or cure mechanisms.
+- Added creature-motif repetition as a limit on otherwise inventive horror and adventure design.
 
 ## Relationships
 
 - [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] - fourth-book climax through which the first phase reaches closure.
+- [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] - third-book expedition whose ending supplies the objects and route into the final curse quest.
 - [[AdventureAsVocationalIdentity]] - explains how tomb raiding becomes purpose and competence rather than only a money-making scheme.
 - [[ThemePlotCoherence]] - framework used to assess whether the curse-breaking resolution earns its promised cost.
 - [[SacrificingOthersEthics]] - ethical frame for the difference between volunteering oneself and selecting a companion to die.

@@ -33754,3 +33754,11 @@ Added source `no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsq
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 089 趣话《鬼吹灯》之云南虫谷（大结局）
+
+Added source `089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n`; created [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]]; and resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]] and [[NarrativeSetupAndPayoff|叙事铺垫与回收]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's dense creatures, ambiguous horror and cross-book artifact chain are strongest when earlier details remain causally usable, while repeated vine attacks, the lightly prepared disappearance of the final corpse cavity and Shirley 杨's immediate cure weaken escalation and payoff. No settled contradiction was adopted. The episode's claims about lake-vision reincarnation searches, mirages, meat lingzhi, burial custom, geomancy, dining etiquette and local memory remain fictional, anecdotal, conversational or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,226 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

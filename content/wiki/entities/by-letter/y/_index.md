@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12925
+wiki_total_pages: 12926
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "YiQieJieQiyue"
     title: "《一切皆契约》"
     url: "/wiki/entities/yiqiejieqiyue/"
+  - key: "YunnanWormValleyGhostBlowsOutTheLight"
+    title: "《云南虫谷》 / Yunnan Worm Valley"
+    url: "/wiki/entities/yunnanwormvalleyghostblowsoutthelight/"
   - key: "YiMeiZhiMingDrama"
     title: "《以美之名》 / In the Name of Beauty"
     url: "/wiki/entities/yimeizhimingdrama/"

@@ -98402,9 +98402,9 @@
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
     "GhostBlowsOutTheLight": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -98433,9 +98433,16 @@
           "show": "纸醉金迷FM",
           "title": "103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险",
           "url": "/wiki/sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz/"
+        },
+        {
+          "episode_file": "ltn3TN440w4AiXuq8TisAbGSDk5N [ltn3TN440w4AiXuq8TisAbGSDk5N].md",
+          "key": "089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n",
+          "show": "纸醉金迷FM",
+          "title": "089 趣话《鬼吹灯》之云南虫谷（大结局）",
+          "url": "/wiki/sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/ghostblowsoutthelight/"
     },
     "GhostDance": {
@@ -174684,9 +174691,9 @@
       "url": "/wiki/concepts/narrativereframingaspoliticalattack/"
     },
     "NarrativeSetupAndPayoff": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrtg0wQayWenpzgpWzCCKEKKQLT- [lrtg0wQayWenpzgpWzCCKEKKQLT-].md",
@@ -174701,9 +174708,16 @@
           "show": "纸醉金迷FM",
           "title": "105 趣话《鬼吹灯》之昆仑神宫P2：九层妖塔与记忆之城",
           "url": "/wiki/sources/105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we/"
+        },
+        {
+          "episode_file": "ltn3TN440w4AiXuq8TisAbGSDk5N [ltn3TN440w4AiXuq8TisAbGSDk5N].md",
+          "key": "089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n",
+          "show": "纸醉金迷FM",
+          "title": "089 趣话《鬼吹灯》之云南虫谷（大结局）",
+          "url": "/wiki/sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/narrativesetupandpayoff/"
     },
     "Narses": {
@@ -273379,6 +273393,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
+    },
+    "YunnanWormValleyGhostBlowsOutTheLight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltn3TN440w4AiXuq8TisAbGSDk5N [ltn3TN440w4AiXuq8TisAbGSDk5N].md",
+          "key": "089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n",
+          "show": "纸醉金迷FM",
+          "title": "089 趣话《鬼吹灯》之云南虫谷（大结局）",
+          "url": "/wiki/sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/yunnanwormvalleyghostblowsoutthelight/"
     },
     "YuriAndropov": {
       "episode_count": 2,
