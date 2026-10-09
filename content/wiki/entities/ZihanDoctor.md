@@ -14,7 +14,8 @@ sources:
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
   - vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s
-last_updated: 2026-10-09
+  - vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -46,8 +47,10 @@ VOL.200 adds a direct reversibility and support-dependence test. 子涵 contrast
 
 VOL.193 adds her view of AI inside critical care. 子涵 describes ICU as a dense multi-device data environment in which AI could continuously aggregate signals, surface changes, support multidisciplinary discussion, and improve documentation quality. She does not frame the endpoint as a staffless ICU: disease-specific principles still have to be interpreted against a changing individual patient, while difficult decisions and communication remain clinician responsibilities.
 
+VOL.186 adds a seasonal-influenza teaching role. She separates abrupt systemic influenza patterns from milder common-cold patterns without treating symptoms as diagnosis, explains why a negative rapid antigen does not exclude infection, and connects vulnerable groups, deterioration, testing, early antiviral assessment, annual vaccination, and selected prophylaxis into one risk-based pathway. Exact surveillance numbers, cutoffs, and prescribing details remain source-scoped.
+
 ## Key Characteristics
-- Explains hantavirus through subtype, geography, host reservoir, transmission route, and clinical syndrome, distinguishing localized outbreak risk from broad community-transmission fear.
+- Explains infectious disease through pathogen, subtype, geography, host reservoir, transmission route, symptom overlap, testing limits, vulnerability, and clinical syndrome, distinguishing localized outbreak risk or a suggestive influenza pattern from confirmed diagnosis.
 - Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity, moderate eating, and a safety boundary against rapid-loss imitation.
 - Keeps clinical warning signs visible, especially respiratory distress after flu-like symptoms and hemorrhagic fever with renal syndrome signs such as high fever, "three reds and three pains," bleeding points, shock, and kidney injury.
 - Frames ICU as time- and organ-support for acute, potentially reversible disease rather than a terminal label, using a plausible path off advanced support as part of benefit judgment while retaining patient and surrogate values, distinguishing comfort-focused care in irreversible terminal decline, and treating AI as supervised data support rather than a staffless replacement.
@@ -70,13 +73,14 @@ VOL.193 adds her view of AI inside critical care. 子涵 describes ICU as a dens
 - ICU emergence and delirium: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] has 子涵 explain hallucination and delirium during recovery through medication, trauma, prolonged care, family absence, and misread environmental objects.
 - Reversibility and public explanation: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] has 子涵 connect ICU benefit to reversible disease, liberation from advanced support, honest family communication, exposure-aware cleaning, and one reported transfer decision.
 - ICU AI support: [[vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s|VOL.193]] has 子涵 describe continuous device-data aggregation, missed-change detection, multidisciplinary prompts, and note checking while retaining individual clinical judgment and communication.
+- Influenza recognition and prevention: [[vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs|VOL.186]] has 子涵 connect symptom pattern, antigen and nucleic-acid testing, vulnerable groups, severe-warning signs, early antiviral assessment, annual vaccination, and selected post-exposure prophylaxis without reducing the pathway to one symptom or result.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, infection-control, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, eating-disorder, medication, surgical, weight-management, occupational-health, or crisis guidance. Prolonged support dependence is not a universal stopping rule, and one listener's reported ICU decision is not outcome evidence. VOL.101's March 2024 semaglutide approval and dosing statements are historical source claims rather than current prescribing guidance. VOL.193 does not provide system specifications, validation results, alert performance, or outcome data for the ICU AI work it describes.
+The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, testing, treatment, prognosis, ICU admission, rehabilitation, infection-control, cleaning, vaccination, prophylaxis, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, eating-disorder, medication, surgical, weight-management, occupational-health, or crisis guidance. Prolonged support dependence is not a universal stopping rule, and one listener's reported ICU decision is not outcome evidence. VOL.101's March 2024 semaglutide approval and dosing statements are historical source claims rather than current prescribing guidance. VOL.186's surveillance figures, severity cutoffs, antiviral timing, prophylaxis criteria, and vaccine schedule are historical source claims rather than current individualized guidance. VOL.193 does not provide system specifications, validation results, alert performance, or outcome data for the ICU AI work it describes.
 
 ## What Changed
-- Added supervised AI aggregation and change detection to the ICU support model.
-- Preserved individualized judgment, multidisciplinary interpretation, communication, and validation as deployment boundaries.
+- Added influenza recognition, test-interpretation, risk-stratification, early-treatment, and prevention teaching.
+- Preserved surveillance figures, clinical cutoffs, and prescribing details as source-scoped rather than biographical or universal clinical facts.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where she appears as medical guest.
@@ -104,3 +108,5 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[ClinicianPublicEducationPractice]] - careful translation and listener-feedback loop represented by her account.
 - [[MedicalAIWorkflowIntegration]] - ICU data, multidisciplinary support, and documentation branch she describes.
 - [[HealthcareAIInfrastructure]] - data-system layer required by the proposed ICU AI partner.
+- [[InfluenzaHomeCareAndMedicationTriage]] - symptom, testing, vulnerability, treatment-timing, and escalation framework she explains in VOL.186.
+- [[LayeredRespiratoryInfectionPrevention]] - vaccination and complementary exposure-control framework she reinforces for influenza season.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.186这波流感太早、太猛？医生最新解读：真不一样了！](sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs.md) — 这病说来话长由子涵医生梳理流感症状、检测局限、高危与重症分诊、早期抗病毒评估、年度疫苗和分层预防。
 - [084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前](sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo.md) — 纸醉金迷FM以铜箱、蓝色玉蟾、痋婴和水龙晕串联献王墓前的连环防御，并区分云南文化地理语境与小说的风水科幻解释。
 - [619. Elizabeth I: The Virgin Queen (Part 4)](sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337.md) — The Rest Is History on Elizabeth's 1559 settlement, Cecil's Scottish strategy, marriage diplomacy, Dudley, and the unresolved succession crisis.
 - [何同学×罗永浩！青年何同学的骄傲与烦恼](sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh.md) — 何同学与罗永浩讨论视频创作、DIY选题、工作室规模化、广告融合、公众品牌风险、海外本地化与锤子TNT。

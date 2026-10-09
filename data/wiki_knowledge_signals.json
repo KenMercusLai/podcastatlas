@@ -125150,9 +125150,9 @@
       "url": "/wiki/concepts/inflationshapedconsumerhabits/"
     },
     "InfluenzaHomeCareAndMedicationTriage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -125167,9 +125167,16 @@
           "show": "这病说来话长",
           "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
           "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
+        },
+        {
+          "episode_file": "lo3To6VaoT9yFpmUP6-uCYFniybs [lo3To6VaoT9yFpmUP6-uCYFniybs].md",
+          "key": "vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs",
+          "show": "这病说来话长",
+          "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",
+          "url": "/wiki/sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/influenzahomecareandmedicationtriage/"
     },
     "InformalFemalePoliticalInfluence": {
@@ -143540,9 +143547,9 @@
       "url": "/wiki/concepts/layeredlocalelitedemobilization/"
     },
     "LayeredRespiratoryInfectionPrevention": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -143578,9 +143585,16 @@
           "show": "这病说来话长",
           "title": "VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事",
           "url": "/wiki/sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko/"
+        },
+        {
+          "episode_file": "lo3To6VaoT9yFpmUP6-uCYFniybs [lo3To6VaoT9yFpmUP6-uCYFniybs].md",
+          "key": "vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs",
+          "show": "这病说来话长",
+          "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",
+          "url": "/wiki/sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
     },
     "LayneNorton": {
@@ -285965,9 +285979,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -286045,9 +286059,16 @@
           "show": "这病说来话长",
           "title": "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案",
           "url": "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
+        },
+        {
+          "episode_file": "lo3To6VaoT9yFpmUP6-uCYFniybs [lo3To6VaoT9yFpmUP6-uCYFniybs].md",
+          "key": "vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs",
+          "show": "这病说来话长",
+          "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",
+          "url": "/wiki/sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {

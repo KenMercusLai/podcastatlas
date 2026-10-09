@@ -34190,3 +34190,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.186这波流感太早、太猛？医生最新解读：真不一样了！
+
+Added source `vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs`; resynthesized [[ZihanDoctor|子涵医生]], [[InfluenzaHomeCareAndMedicationTriage]], and [[LayeredRespiratoryInfectionPrevention]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: abrupt fever and systemic symptoms can raise influenza suspicion but cannot distinguish it reliably from COVID-19 or other infections; a positive rapid antigen supports diagnosis while a negative result does not exclude it; and vulnerability, deterioration, testing context, early antiviral assessment, annual vaccination, and complementary exposure controls belong to one decision pathway. No settled contradiction was adopted. Surveillance figures, circulating subtypes, exact severity cutoffs, blood-count and sputum interpretation, antiviral and prophylaxis criteria, and vaccine timing remain source-scoped 2025 public education rather than current individualized guidance. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,281 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
