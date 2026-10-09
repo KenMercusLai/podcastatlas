@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12885
+wiki_total_pages: 12887
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "UniversityOfAlberta"
     title: "University of Alberta"
     url: "/wiki/entities/universityofalberta/"
+  - key: "UniversityOfBologna"
+    title: "University of Bologna / 博洛尼亚大学"
+    url: "/wiki/entities/universityofbologna/"
   - key: "UniversityOfCaliforniaSanFrancisco"
     title: "University of California San Francisco"
     url: "/wiki/entities/universityofcaliforniasanfrancisco/"
@@ -284,6 +287,9 @@ wiki_pages:
   - key: "UniversityOfOttawa"
     title: "University Of Ottawa"
     url: "/wiki/entities/universityofottawa/"
+  - key: "UniversityOfOxford"
+    title: "University of Oxford / 牛津大学"
+    url: "/wiki/entities/universityofoxford/"
   - key: "UniversityOfPittsburgh"
     title: "University of Pittsburgh"
     url: "/wiki/entities/universityofpittsburgh/"

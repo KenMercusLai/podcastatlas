@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10064
+wiki_total_pages: 10066
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "UniversalRightsNationalSovereigntyTension"
     title: "Universal Rights and National Sovereignty Tension"
     url: "/wiki/concepts/universalrightsnationalsovereigntytension/"
+  - key: "UniversityInstitutionalPluralism"
+    title: "University Institutional Pluralism / 大学制度功能多元性"
+    url: "/wiki/concepts/universityinstitutionalpluralism/"
   - key: "UniversityOpportunityDensity"
     title: "University Opportunity Density"
     url: "/wiki/concepts/universityopportunitydensity/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3267
+topic_total_pages: 3269
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2002,6 +2002,9 @@ topic_concepts:
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"
+  - key: "MedievalUniversityGuildAutonomy"
+    title: "Medieval University Guild Autonomy / 中世纪大学行会自治"
+    url: "/wiki/concepts/medievaluniversityguildautonomy/"
   - key: "MediumSpecificAdaptationSalience"
     title: "Medium-Specific Adaptation Salience / 媒介特定的改编显著性"
     url: "/wiki/concepts/mediumspecificadaptationsalience/"
@@ -3193,6 +3196,9 @@ topic_concepts:
   - key: "UnderservedRomanceAudience"
     title: "Underserved Romance Audience"
     url: "/wiki/concepts/underservedromanceaudience/"
+  - key: "UniversityInstitutionalPluralism"
+    title: "University Institutional Pluralism / 大学制度功能多元性"
+    url: "/wiki/concepts/universityinstitutionalpluralism/"
   - key: "UniversityOpportunityDensity"
     title: "University Opportunity Density"
     url: "/wiki/concepts/universityopportunitydensity/"

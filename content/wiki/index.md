@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [7 寻根溯源：古代东西方的大学、博士、硕士和学士](sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx.md) — 怪东西从太学、国子监、科举与书院对照欧洲师生行会、大学自治、研究型大学和学位名称，说明大学同时承载教化、职业、流动、求知与学历筛选功能。
 - [Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555.md) — All-In interview on CMS drug pricing, supervised medical AI, patient-data interoperability, rural access, and payment verification.
 - [638. Revolution in Iran: The Hostage Crisis (Part 3)](sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579.md) — The Rest Is History episode on the Shah's admission to the United States, the Tehran embassy seizure, Khomeini's consolidation, hostage treatment, media ritual, and Carter's widening crisis.
 - [Science & Tools of Learning & Memory | Dr. David Eagleman](sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565.md) — Huberman Lab interview on goal-directed neuroplasticity, commitment devices, mental imagery, subjective time, sensory substitution, dreaming, reconstructive memory, and identity-gated empathy.
@@ -4263,6 +4264,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!](sources/all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980.md) — All-In Davos interviews connecting regulated crypto, low-latency AI infrastructure, and industrial robotics through deployment, physical constraints, and ROI.
 
 ## Entities
+- [University of Bologna / 博洛尼亚大学](entities/UniversityOfBologna.md) — Medieval legal-education and university-corporation case associated with jurist demand, credentialing, and negotiated privilege.
+- [University of Oxford / 牛津大学](entities/UniversityOfOxford.md) — Early English university formation case linked to scholar aggregation, town-gown conflict, and the migration associated with Cambridge.
 - [Mehmet Oz](entities/MehmetOz.md) — CMS administrator presenting an agenda around drug pricing, health-data access, rural technology, medical AI, and program integrity.
 - [Mehdi Bazargan](entities/MehdiBazargan.md) — Moderate Iranian interim prime minister whose resignation after the embassy seizure marked the hardliners' consolidation.
 - [David Eagleman](entities/DavidEagleman.md) — Neuroscientist and science communicator connecting plasticity, sensory substitution, time, memory, dreams, and group identity.
@@ -17206,6 +17209,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jake Loosararian](entities/JakeLoosararian.md) — Gecko Robotics co-founder and CEO arguing that paid industrial inspection creates the missing physical-world data needed for useful industrial AI.
 
 ## Concepts
+- [University Institutional Pluralism / 大学制度功能多元性](concepts/UniversityInstitutionalPluralism.md) — Universities as changing bundles of formation, inquiry, professional entry, mobility, community, and credential screening.
+- [Medieval University Guild Autonomy / 中世纪大学行会自治](concepts/MedievalUniversityGuildAutonomy.md) — Corporate capacity of teachers and students to govern membership, qualifications, bargaining, migration, and jurisdiction, with both protective and exclusionary effects.
 - [Healthcare Payment Verification](concepts/HealthcarePaymentVerification.md) — Provider, beneficiary, site, and service checks designed to reduce improper healthcare payments while preserving due process and continuity of care.
 - [Rural Healthcare Technology Access](concepts/RuralHealthcareTechnologyAccess.md) — Coordinated use of distributed care sites, telemedicine, pharmacies, AI-assisted tools, and delivery infrastructure to extend rural access.
 - [Patient-Controlled Health Data Interoperability](concepts/PatientControlledHealthDataInteroperability.md) — Practical patient ability to retrieve, move, combine, and govern health records across systems.

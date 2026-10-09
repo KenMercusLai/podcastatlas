@@ -69477,6 +69477,43 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/educationresourceequalizationsystemlimits/"
     },
+    "EducationSignalInflation": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽” [loWze7hAOmxBmQRrajpL51DVvXe7].md",
+          "key": "137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7",
+          "show": "起朱楼宴宾客",
+          "title": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”",
+          "url": "/wiki/sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7/"
+        },
+        {
+          "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
+          "key": "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262",
+          "show": "蜜獾吃书",
+          "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+          "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/educationsignalinflation/"
+    },
     "EdwardCarson": {
       "episode_count": 2,
       "show_count": 1,
@@ -120154,9 +120191,9 @@
       "url": "/wiki/concepts/imperialedictimplementationresistance/"
     },
     "ImperialExaminationOpportunityEquality": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
@@ -120185,9 +120222,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce/"
+        },
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/imperialexaminationopportunityequality/"
     },
     "ImperialFascistLeague": {
@@ -162578,6 +162622,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/medievalscottishsuccession/"
     },
+    "MedievalUniversityGuildAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/medievaluniversityguildautonomy/"
+    },
     "MedievalVisualPoliticalNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -168467,9 +168527,9 @@
       "url": "/wiki/concepts/modernchristmasreinvention/"
     },
     "ModernDisciplinaryFragmentation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhtmE10BoSQMSlNcRssyeSSqmQjc [lhtmE10BoSQMSlNcRssyeSSqmQjc].md",
@@ -168477,9 +168537,16 @@
           "show": "怪东西Weird History",
           "title": "27 中文系、英文系，还能行吗？——文史作家陆大鹏 & 张向荣聊大学专业选择",
           "url": "/wiki/sources/27-zhongwenxi-yingwenxi-hai-neng-xing-ma-wenshi-zuojia-ludapeng-zhangxiangrong-liao-daxue-zhuanye-xuanze-lhtme10bosqmslncrssyessqmqjc/"
+        },
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/moderndisciplinaryfragmentation/"
     },
     "ModernMassTourism": {
@@ -247969,6 +248036,38 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/universitycollegelondon/"
     },
+    "UniversityInstitutionalPluralism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/universityinstitutionalpluralism/"
+    },
+    "UniversityOfBologna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/universityofbologna/"
+    },
     "UniversityOfCaliforniaSanFrancisco": {
       "episode_count": 2,
       "show_count": 1,
@@ -247991,6 +248090,36 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
+    },
+    "UniversityOfCambridge": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260318_0318_MP_TECH_pod_128 [tech_20260318_0318_MP_TECH_pod_128].md",
+          "key": "tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The ethics of using AI to immortalize the dead",
+          "url": "/wiki/sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "89.剑桥夜攀者：让我们庄严地上房揭瓦 [710382629].md",
+          "key": "89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629",
+          "show": "蜜獾吃书",
+          "title": "89.剑桥夜攀者：让我们庄严地上房揭瓦",
+          "url": "/wiki/sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629/"
+        },
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/universityofcambridge/"
     },
     "UniversityOfChicago": {
       "episode_count": 1,
@@ -248062,6 +248191,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/universityofminnesota/"
+    },
+    "UniversityOfOxford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuHVvSKXXv3rzzfal-8iNSVUtvx [ltuHVvSKXXv3rzzfal-8iNSVUtvx].md",
+          "key": "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx",
+          "show": "怪东西Weird History",
+          "title": "7 寻根溯源：古代东西方的大学、博士、硕士和学士",
+          "url": "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/universityofoxford/"
     },
     "UniversityOfWashington": {
       "episode_count": 1,

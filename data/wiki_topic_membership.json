@@ -6848,6 +6848,13 @@
       "url": "/topics/history/"
     }
   ],
+  "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "70-childrens-history-glt3229015713": [
     {
       "key": "history",
@@ -57337,6 +57344,13 @@
       "url": "/topics/history/"
     }
   ],
+  "MedievalUniversityGuildAutonomy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MedievalWelshColonialRule": [
     {
       "key": "politics",
@@ -87678,6 +87692,13 @@
     }
   ],
   "UniversalMusicGroup": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "UniversityInstitutionalPluralism": [
     {
       "key": "culture",
       "label": "Culture",

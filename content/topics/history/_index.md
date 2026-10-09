@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2638
+topic_total_pages: 2639
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6798,6 +6798,9 @@ topic_sources:
   - key: "699-the-troubles-return-of-the-ira-part-3-glt9519811642"
     title: "699. The Troubles: Return of the IRA (Part 3)"
     url: "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+  - key: "7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx"
+    title: "7 寻根溯源：古代东西方的大学、博士、硕士和学士"
+    url: "/wiki/sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx/"
   - key: "7-the-lessons-of-history-glt2771707131"
     title: "7. The Lessons of History"
     url: "/wiki/sources/7-the-lessons-of-history-glt2771707131/"

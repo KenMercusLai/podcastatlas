@@ -2,30 +2,58 @@
 title: "Education Signal Inflation / 学历信号膨胀"
 type: concept
 tags: [education, labor-market, signaling, economics]
-sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-07
+sources:
+  - 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7
+  - 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262
+  - ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig
+  - 7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx
+last_updated: 2026-10-09
+knowledge_schema: synthesis-v1
 ---
 
 # Education Signal Inflation / 学历信号膨胀
 
-Education signal inflation is [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]]'s warning that degrees can become an escalating proof race. The episode treats education as a [[SignalDesign|signal]] to employers: it can suggest learning ability, discipline, understanding, obedience, and execution, even if it does not capture the whole person.
+## Definition
 
-The problem appears when many people use the same signal. If undergraduate credentials become common, people pursue more degrees to separate themselves; if everyone holds doctorates, doctoral study loses signaling power while the social cost of proving oneself rises.
+Education signal inflation is a credential arms race in which degrees or educational distinctions remain useful evidence of baseline ability or persistence but lose distinguishing power as participation expands, pushing people toward longer and costlier proof.
 
-[[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] adds a family-budget version through [[Japan]]. The source's discussion of SAPIX, cram school, private-school exams, extracurriculars, and private-school tuition shows how signal competition can move far earlier than college and turn child-rearing into [[EastAsianEducationCostPressure|long-run education-cost pressure]].
+## Current Synthesis
 
-[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds a vocational-education version. The opening of [[VocationalDegreeProgression|专升本 and vocational undergraduate routes]] can reduce early track lock-in, but the source also shows how students may treat [[VocationalEducation|vocational education]] as another credential ladder, weakening the employment and [[ProjectBasedVocationalLearning|hands-on learning]] value that school-enterprise programs are supposed to provide.
+The contract-theory source explains why degrees function as [[SignalDesign|signals]] under information asymmetry: employers may infer learning ability, discipline, comprehension, obedience, and execution even when a credential does not describe the whole person. Inflation begins when many candidates use the same proof, causing individuals to buy more education to preserve relative position while social proof costs rise.
+
+The Japan source moves the race into family budgets through cram school, private school, examinations, extracurriculars, and neighborhood sorting. The vocational source shows the same pressure inside practical education: progression routes widen mobility but can turn hands-on programs into another status ladder. The university-history source adds a long view in which mass access and scarce desirable jobs separate degree attainment from secure placement, while student life becomes more tightly organized around examination and employment.
 
 ## Key Claims
-- A credential can be valuable as a labor-market signal without proving total intelligence or human worth.
-- Signal inflation wastes time and resources when the extra education is mainly used to outrank others.
-- Individuals should consider signal cost and alternative proof mechanisms rather than treating longer schooling as automatically better.
-- Families can experience signal inflation as recurring spending years before labor-market entry, especially when school track and neighborhood sort status expectations.
-- Vocational students can gain mobility from further-study routes while still facing pressure to convert practical training into higher-status credentials.
 
-## Connections
-- [[DegreeAsTrustCredential]] - existing credential-trust page this source qualifies.
-- [[SignalDesign]] and [[InformationAsymmetryInContracts]] - why degrees function as signals.
-- [[HighlyEducatedUnemployment]], [[EducationalTrackingByTesting]], and [[MeritocraticArrogance]] - adjacent education-pressure and sorting pages.
-- [[EastAsianEducationCostPressure]], [[JapaneseFertilitySupportSystem]], and [[FertilitySubsidyLimits]] - family-policy and child-cost extension added by episode 137.
-- [[VocationalDegreeProgression]], [[VocationalEducation]], [[ProjectBasedVocationalLearning]], and [[SchoolEnterpriseCooperation]] - EP241's vocational-credential extension.
+- A credential can remain useful without proving total intelligence, capability, or human worth.
+- Inflation is relational: additional schooling may be individually rational even when it raises collective cost without adding proportional capability.
+- Credential competition can begin well before university through family spending and school-track positioning.
+- Further-study routes can widen mobility while diverting vocational education from skill formation and occupational learning.
+- Degree expansion does not itself create an equal expansion of stable, high-status work.
+- Alternative evidence such as projects, practice, portfolios, and occupational competence matters most when institutions can evaluate it credibly.
+
+## Evidence
+
+- Signaling mechanism: [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] treats education as evidence under information asymmetry and warns that widespread use creates escalating proof costs.
+- Household-cost mechanism: [[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] connects cram school, private education, exams, and extracurriculars to recurring family expenditure.
+- Vocational mechanism: [[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] shows progression pathways increasing choice while potentially pulling practice-oriented education back into credential competition.
+- Mass higher-education mechanism: [[7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx]] contrasts rare historical examination status with contemporary doctorate and postdoctoral training that no longer assures stable employment.
+
+## Counterevidence & Qualifications
+
+The concept does not imply that additional education is wasteful whenever credentials become common. Longer study may add real knowledge, research capacity, professional qualification, networks, or access. Historical comparisons between jinshi, juren, xiucai, elite undergraduates, and modern doctorates are rhetorical indicators of perceived scarcity, not equivalent population measures. Family and vocational evidence is source-specific, and the sources do not establish one universal rate or cause of inflation.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving its full evidence inventory.
+- Added mass higher education, doctoral employment insecurity, and campus employment-orientation as a long-run institutional layer.
+- Separated rhetorical historical comparisons from measurable equivalence.
+
+## Related Concepts
+
+- [[DegreeAsTrustCredential]] - explains why degrees can retain screening value despite inflation.
+- [[SignalDesign]] - wider framework for communicating hard-to-observe quality.
+- [[HighlyEducatedUnemployment]] - condition in which strong credentials fail to secure work.
+- [[EastAsianEducationCostPressure]] - household spending channel of signal competition.
+- [[VocationalDegreeProgression]] - mobility route that can also intensify credential incentives.
+- [[UniversityInstitutionalPluralism]] - places signaling beside learning, inquiry, formation, and community functions.

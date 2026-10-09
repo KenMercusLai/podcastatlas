@@ -7,7 +7,8 @@ sources:
   - 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g
   - 84-exams-glt6507641896
   - zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce
-last_updated: 2026-10-06
+  - 7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,15 +26,17 @@ The Warring States source supplies the counterfactual. [[FanJu|Fan Ju]] rises th
 
 [[LinYouyu|林幼玉]] sharpens the meaning of “opportunity.” Her exceptional Southern Song child-prodigy assessment shows that formal silence could leave room for individual female recognition, but a special title was not an ordinary route to office and did not make women a stable candidate class. Examination opportunity was therefore relatively open beyond heredity while still bounded by gender, education, custom, administrative discretion, and the political meaning of officeholding.
 
+Linking examination success to status and office also gave the route an education-system consequence: state and private education could orient themselves toward a scarce political pathway even while preserving ideals of moral cultivation and learning for oneself. Mobility and instrumentalization are therefore linked outcomes of the same route rather than mutually exclusive verdicts.
+
 ## Key Claims
 
 - Opportunity equality can be a real institutional innovation even before modern market society.
-- Institutions can change function as their environment changes.
 - 科举 was both achievement and constraint: it helped order agricultural society but could not generate the [[FreeMarketScientificLoop]].
 - Without exams, war and disorder can create mobility, but at a much higher social and moral cost.
 - National standardization can reduce some patronage while creating curriculum rigidity and credential competition.
 - Regional quotas and changing family composition show that formal access does not guarantee equal outcomes.
 - Public competition can widen opportunity among admitted candidates while leaving candidate membership itself gendered.
+- A public route into office can widen mobility while reorganizing education around examination, status, and a finite number of desirable positions.
 
 ## Evidence
 
@@ -42,16 +45,18 @@ The Warring States source supplies the counterfactual. [[FanJu|Fan Ju]] rises th
 - Scale and standardization: [[84-exams-glt6507641896]] describes written national administration, classical curriculum, regional quotas, Western influence, and the growth of candidate numbers.
 - Closure and congestion: [[84-exams-glt6507641896]] reports debate over narrowing successful-candidate backgrounds and connects scarce posts to [[EliteOverproduction]].
 - Gendered candidate access: [[zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce]] presents Lin Youyu's exceptional assessment and special title as recognition without a demonstrated durable female route into office.
+- Education-system orientation: [[7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx]] connects examination mobility to official formation, educational purpose, and the tension between learning for self-cultivation and learning as an occupational instrument.
 
 ## Counterevidence & Qualifications
 
-Opportunity equality here is relative to heredity, ad hoc patronage, or violent mobility, not a claim of equal candidate membership, preparation, or outcome. The sources do not resolve the long-run social composition of officeholders, the effectiveness of quotas, regional and period differences, or whether examination rigidity caused wider scientific and economic outcomes. The episode's Hong Xiuquan example cannot establish a general causal path from failure to rebellion. Lin Youyu's exceptional case does not prove general female eligibility or the episode's claimed direct transition to a universal ban.
+Opportunity equality here is relative to heredity, ad hoc patronage, or violent mobility, not a claim of equal candidate membership, preparation, or outcome. The sources do not resolve the long-run social composition of officeholders, the effectiveness of quotas, regional and period differences, or whether examination rigidity caused wider scientific and economic outcomes. The episode's Hong Xiuquan example cannot establish a general causal path from failure to rebellion. Lin Youyu's exceptional case does not prove general female eligibility or the episode's claimed direct transition to a universal ban. Comparisons between imperial degrees and modern university credentials illuminate perceived scarcity but do not establish demographic or institutional equivalence.
 
 ## What Changed
 
 - Added national scale, regional quotas, social-closure debate, standardized-form costs, and credential congestion.
 - Reframed examination equality as a real but bounded mobility mechanism rather than an equal-outcome system.
 - Added gendered candidate membership as a boundary prior to competition and rank.
+- Added the way an office-selection route can reorganize educational purpose around status and scarce positions.
 
 ## Related Concepts
 
@@ -62,3 +67,4 @@ Opportunity equality here is relative to heredity, ad hoc patronage, or violent 
 - [[EliteOverproduction]] - pressure created when candidate growth outruns official posts.
 - [[ModernizationAsCompoundGrowth]] - later development context in which the examination institution's limits become salient.
 - [[GenderedAccessToImperialExaminations]] - distinction between formal silence, exceptional recognition, and durable access for women.
+- [[UniversityInstitutionalPluralism]] - wider frame separating official selection from other educational functions.
