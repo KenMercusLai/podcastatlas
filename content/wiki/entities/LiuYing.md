@@ -12,12 +12,13 @@ sources:
   - zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj
   - zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno
   - zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi
+last_updated: 2026-10-09
 ---
 
 ## Overview
 
-Liu Ying / 刘盈 is [[LiuBang|刘邦]] and [[LuZhi|吕雉]]'s son, the founding [[WesternHanDynasty|西汉]] crown prince, and later Emperor Hui. The current source set follows him from endangered child through contested heir to a ruler whose gentleness and intimate court access became politically consequential.
+Liu Ying / 刘盈 is [[LiuBang|刘邦]] and [[LuZhi|吕雉]]'s son, the founding [[WesternHanDynasty|西汉]] crown prince, and later Emperor Hui. The current source set follows him from endangered child through contested heir to a ruler associated with relief and legal relaxation but constrained in marriage, succession, and court power by his mother.
 
 ## Current Profile
 
@@ -27,6 +28,8 @@ His mild temperament then becomes a succession liability in Liu Bang's eyes. Liu
 
 His reign adds a different political mechanism through [[HongRu|闳孺]]. The favorite's access lets [[PingyuanjunZhuJian|平原君朱建]] reach the emperor and avert the threatened killing of [[ShenYiji|审食其]]. That shows Liu Ying as persuadable through intimate access, but it does not establish that Hong Ru controlled policy or that a modern sexual-identity label applies.
 
+[[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] supplies the first bounded reign synthesis. Liu Ying grants tax relief to selected dutiful farming households, issues an amnesty at his cap ceremony, repeals Qin book restrictions, and tries to reduce the disruption caused by imperial travel between [[WeiyangPalace|未央宫]] and [[ChanglePalace|长乐宫]]. Yet the same source presents [[LuZhi|吕雉]] as arranging his marriage to his niece [[ZhangYanEmpressWesternHan|张嫣]] and controlling the child succession after his death. The joined profile is therefore neither an empty puppet nor an autonomous sovereign: Liu Ying can pursue relief and accept ritual advice, but his household and succession remain dominated by stronger maternal authority.
+
 ## Key Characteristics
 
 - His early biography is marked by battlefield vulnerability and rescue during the Pengcheng rout.
@@ -34,6 +37,7 @@ His reign adds a different political mechanism through [[HongRu|闳孺]]. The fa
 - His gentle temperament attracts Liu Bang's criticism but also becomes part of the ministerial case for protecting the established succession.
 - His heirship survives because institutional and reputational support outweighs Liu Bang's late personal preference.
 - As emperor, he is portrayed as responsive to Hong Ru's intimate mediation in a life-and-death dispute.
+- His reign combines tax relief, amnesty, legal relaxation, and concern about public disturbance with limited household and succession autonomy.
 - The trauma-based explanation for his later intimate choices is source-scoped psychological interpretation.
 
 ## Evidence
@@ -49,15 +53,20 @@ Crown-prince status and protection:
 Imperial mediation through favorite access:
 - [[zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt|Hanji 372-3]] says Hong Ru persuades Liu Ying not to kill Shen Yiji after Zhu Jian frames the danger to both emperor and favorite.
 
+Reign policy and constrained sovereignty:
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] associates Liu Ying with selective tax relief, amnesty, repeal of book restrictions, and a road intended to reduce disruption from palace travel.
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] attributes his niece marriage and the later child-ruler succession structure to Lu Zhi, making his domestic and dynastic autonomy sharply limited.
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] says Liu Ying accepts Shusun Tong's ritual objection and builds another Gaozu temple, while Sima Guang disputes the face-saving premise that a ruler must not acknowledge error.
+
 ## Qualifications
 
-The sources are podcast summaries and often mix chronicle material with host inference. Hanji 372-3's link between the human-swine trauma, Liu Ying's relationship to women, and his attachment to Hong Ru is not independently established. Its “boyfriend” language does not follow automatically from favorite status or co-sleeping formulas, and its corrupted “洪儒/沈逸季” names are normalized to 闳孺/审食其 from context.
+The sources are podcast summaries and often mix chronicle material with host inference. Hanji 372-3's link between the human-swine trauma, Liu Ying's relationship to women, and his attachment to Hong Ru is not independently established. Its “boyfriend” language does not follow automatically from favorite status or co-sleeping formulas, and its corrupted “洪儒/沈逸季” names are normalized to 闳孺/审食其 from context. Hanji 198 does not independently establish the spouses' exact ages, non-consummation, Zhang Yan's postmortem virginity, Liu Ying's mental health, alcohol use, cause of death, or every policy's personal authorship. Its dates, labor totals, disasters, ritual wording, and child parentage remain source-scoped.
 
 ## What Changed
 
-- Extended Liu Ying from a protected and contested heir into an emperor whose intimate court access could mediate a lethal decision.
-- Added a clear boundary between the episode's trauma-based interpretation and the observable political-access claim.
-- Migrated the page to the synthesis-v1 structure without changing the prior source inventory order.
+- Added a reign-level judgment that combines relief policy and legal relaxation with constrained domestic and succession authority.
+- Separated observable policy and ritual decisions from the source's unverified claims about marriage intimacy, mental health, and cause of death.
+- Preserved favorite access as a real political mechanism without adopting modern sexual labels or trauma causation.
 
 ## Relationships
 
@@ -69,3 +78,6 @@ The sources are podcast summaries and often mix chronicle material with host inf
 - [[ShenYiji|审食其]] - intended target whom Liu Ying spares after mediation.
 - [[CrownPrinceCommandRisk|太子挂帅风险]] - explains the asymmetric danger of sending the heir into command.
 - [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - explains how favorite proximity becomes a persuasion channel.
+- [[ZhangYanEmpressWesternHan|张嫣]] - niece-empress whose arranged marriage marks Liu Ying's limited household autonomy.
+- [[ShusunTong|叔孙通]] - ritual adviser whose road objection Liu Ying accepts through a face-preserving alternative.
+- [[CorrectableLeadershipError|犯错能改的领导力]] - Sima Guang's standard for judging the road-and-temple correction episode.

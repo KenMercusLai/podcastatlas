@@ -1,34 +1,75 @@
 ---
 title: "叔孙通 / Shusun Tong"
 type: entity
-tags: [person, ritual, chu-han, western-han]
-sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [person, ritual, chu-han, western-han, remonstrance]
+sources:
+  - zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz
+  - zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy
+  - zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf
+  - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi
+  - zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi
+last_updated: 2026-10-09
 ---
 
-# 叔孙通 / Shusun Tong
+## Overview
 
-叔孙通 / Shusun Tong enters the wiki through [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] as the doctor-scholar who prepares [[LiuBang|刘邦]]'s accession ceremony by drawing on Qin ritual precedent.
+叔孙通 / Shusun Tong is an early [[WesternHanDynasty|西汉]] ritual specialist who converts military victory into accession ceremony, palace hierarchy, succession norms, and ancestral-space advice. The current evidence treats his adaptability as politically useful but morally ambivalent: he can defend institutional continuity, yet his face-saving counsel can also protect rulerly infallibility at the expense of direct correction.
 
-The episode's point is not a full ritual biography. Shusun Tong marks the moment when military victory needs formal language: Liu Bang can be urged by kings to become emperor, but the new title still needs a ceremony that makes the transition visible to officials and the realm.
+## Current Profile
 
-Liu Bang's response also matters. He accepts the ritual function but rejects excessive complexity, asking for a simplified form. Shusun Tong therefore belongs to the source's practical founding sequence: ceremony is useful, but the founder still trims it to fit political temperament and timing.
+Shusun Tong first appears at [[LiuBang|刘邦]]'s accession. He draws on Qin precedent to design a ceremony that makes the new imperial title publicly legible, while Liu Bang trims excessive complexity. After rough merit-holders turn court banquets into drunken disorder, Shusun Tong combines older and Qin forms, trains officials, and builds a repeatable hierarchy for [[ChanglePalace|长乐宫]].
 
-[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] extends Shusun Tong from accession ceremony into ongoing court order. After Liu Bang cancels Qin's elaborate protocols, the episode says drunken merit-holders quarrel, shout, and even damage the palace with swords during banquets. Shusun Tong reads Liu Bang's disgust and proposes a royal ritual system to make superior and subordinate positions legible inside the palace.
+The completed ritual makes rank, entry, guards, toasts, silence, and censorial discipline visible. This is real institution-building: a wartime coalition becomes a court capable of signaling superior and subordinate roles. Yet [[YangXiong|扬雄]] and the episode's interpretation qualify the achievement through [[MotiveBasedTalentEvaluation|动机导向的才干评价]]: technical success may serve rulerly awe and court usability without restoring a higher Confucian moral order.
 
-The episode stresses his pragmatism. Shusun Tong says rites and music change by era, proposes combining ancient precedent with recent Qin forms, accepts Liu Bang's demand that the rites be easy to perform, and then trains more than one hundred officials and students outside the capital until Liu Bang judges the system workable.
+Shusun Tong's succession remonstrance shows that his flexibility has limits. When Liu Bang again considers replacing [[LiuYing|刘盈]] with [[LiuRuyi|刘如意]], he calls the crown prince the root of the realm and uses past succession disasters to oppose a late preference-driven change.
 
-[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] completes the ritual proposal at [[ChanglePalace|长乐宫]]. Shusun Tong's trained procedure orders kings, officials, guards, toasts, silence, and censorial discipline so effectively that Liu Bang feels imperial authority as a visible hierarchy. The same source also narrows the judgment against him: the ritual is useful statecraft, but [[YangXiong|扬雄]] and [[Fayan|《法言》]] make Shusun Tong a case for [[MotiveBasedTalentEvaluation|动机导向的才干评价]] because his talent serves court usability and rulerly awe more than a full Confucian restoration.
+A later road dispute under Liu Ying supplies a less favorable advice case. Shusun Tong correctly identifies that an elevated road crosses Liu Bang's ceremonial route and secures a remedy, but reportedly says a ruler must not visibly admit error, redirecting demolition into construction of another ancestral temple. [[SimaGuang|司马光]] rejects that premise. The joined judgment is that Shusun Tong is effective at preserving ritual order and a ruler's acceptance path, but face-saving can turn correction into institutionalized avoidance of acknowledged fault. [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]]
 
-[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] adds Shusun Tong's succession remonstrance. When [[LiuBang|刘邦]] tries again to replace [[LiuYing|刘盈]] with [[LiuRuyi|刘如意]], Shusun Tong uses the failures of disrupted or mishandled succession to argue that the crown prince is the root of the realm. The episode makes his flexibility bounded: the ritual specialist who adapted to Liu Bang's court still refuses to cooperate with a late heir change he sees as state-threatening.
+## Key Characteristics
 
-## Connections
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - death-facing remonstrance against replacing the crown prince.
-- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[LiAsPoliticalOrder|礼制政治秩序]], [[PowerEtiquetteReading|权力礼仪细读]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual as both administrative order and monarchic distance.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] - court hierarchy and ritual training after banquet disorder.
-- [[LiuBang|刘邦]] - ruler whose imperial accession Shusun Tong helps ritualize.
-- [[WesternHanDynasty|西汉]] - dynasty whose first imperial rite is being formed.
-- [[YangXiong|扬雄]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - critique of ritual talent that adapts to ruler demand without a higher public moral ambition.
-- [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]] - adjacent concept for formal recognition after military success.
-- [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - broader transition from victory to ruling order.
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] - source page.
+- Ritual technician who adapts inherited forms to a new dynasty and a ruler impatient with complexity.
+- Institution builder who converts rank theory into repeatable court procedure and discipline.
+- Pragmatist whose work preserves useful Qin forms rather than claiming a pure restoration of antiquity.
+- Succession remonstrant who treats the established crown prince as a state-order constraint on personal preference.
+- Adviser able to secure corrective action by protecting the ruler's dignity and public image.
+- Ambivalent moral figure because face-preserving usability can widen imperial distance or discourage open admission of error.
+
+## Evidence
+
+Accession and founding order:
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] says Shusun Tong draws on Qin precedent for Liu Bang's accession while the founder chooses a simplified form.
+
+Court procedure and hierarchy:
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] says Shusun Tong diagnoses postwar palace disorder, combines old and recent forms, and trains officials in a workable ritual system.
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] shows the completed Changle Palace procedure ordering kings, officials, guards, toasts, silence, and discipline.
+
+Succession boundary:
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] says Shusun Tong opposes Liu Bang's late effort to replace Liu Ying and frames the crown prince as the root of the realm.
+
+Face-saving correction and its limit:
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] says Shusun Tong identifies the ceremonial-road violation but advises Liu Ying not to acknowledge error through demolition, producing a substitute temple project.
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] presents Sima Guang's explicit criticism that teaching a ruler to appear faultless encourages concealment rather than correction.
+
+## Qualifications
+
+These sources are popular-history summaries rather than direct editions of the transmitted texts. Exact ritual sequences, quotations, offices, motives, and the road's location remain source-attributed. Shusun Tong's simplified rites can be both practical state-building and an increase in ruler-minister distance. His road advice does achieve a ritual remedy, so it is not mere flattery; the narrower criticism is that the reported “ruler has no error” premise makes public image compete with transparent correction.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving the complete prior source order.
+- Added the Liu Ying road-and-temple episode as a mixed case of accurate ritual advice and face-saving anti-correction.
+- Clarified that Shusun Tong's flexibility protects both institutional continuity and rulerly acceptance, with different moral results.
+
+## Relationships
+
+- [[LiuBang|刘邦]] - founder whose accession, court disorder, and succession preference define Shusun Tong's main institutional work.
+- [[LiuYing|刘盈]] - successor who accepts Shusun Tong's ritual objection through a substitute temple project.
+- [[ChanglePalace|长乐宫]] - court space where trained hierarchy becomes repeatable procedure.
+- [[LiAsPoliticalOrder|礼制政治秩序]] - broader principle implemented through accession, rank, succession, and ancestral-space rules.
+- [[ImperialRitualDistance|君臣礼制距离]] - ambivalent effect because orderly hierarchy also separates ruler and ministers.
+- [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]] - founding function that converts coalition victory into recognized imperial order.
+- [[FaceSavingRemonstrance|留面子式进谏包装]] - advice method used to make correction acceptable without exposing rulerly fault.
+- [[CorrectableLeadershipError|犯错能改的领导力]] - counter-standard that exposes the cost of treating admission as impermissible.
+- [[SimaGuang|司马光]] - later critic who rejects the premise that an emperor must appear free of error.
+- [[YangXiong|扬雄]] - critic who asks what moral order Shusun Tong's technical ability ultimately serves.

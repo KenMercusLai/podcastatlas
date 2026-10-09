@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2637
+topic_total_pages: 2636
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -307,9 +307,6 @@ topic_concepts:
   - key: "CookingAsCivilizationalLabor"
     title: "Cooking as Civilizational Labor / 烹饪作为文明劳动"
     url: "/wiki/concepts/cookingascivilizationallabor/"
-  - key: "CorrectableLeadershipError"
-    title: "Correctable Leadership Error / 犯错能改的领导力"
-    url: "/wiki/concepts/correctableleadershiperror/"
   - key: "CounterintelligenceRumorWedge"
     title: "Counterintelligence Rumor Wedge / 反间流言楔入"
     url: "/wiki/concepts/counterintelligencerumorwedge/"

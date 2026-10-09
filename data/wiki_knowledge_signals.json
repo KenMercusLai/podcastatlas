@@ -51104,6 +51104,36 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/corporatetrainingcomplianceritual/"
     },
+    "CorrectableLeadershipError": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2） [liQgicT85WH_BF4FN2bYtygMk_CA].md",
+          "key": "zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶 [lhy14PbF9ThcfdIAulCmf8DWcEF8].md",
+          "key": "zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/correctableleadershiperror/"
+    },
     "CorrectiveAdviceNonconversion": {
       "episode_count": 4,
       "show_count": 1,
@@ -145847,9 +145877,9 @@
       "url": "/wiki/entities/liugongeasternhan/"
     },
     "LiuGongYoungEmperorWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
@@ -145857,6 +145887,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
         }
       ],
       "updated": "2026-10-09",
@@ -146125,9 +146162,9 @@
       "url": "/wiki/entities/liuhongqikingwesternhan/"
     },
     "LiuHongYoungEmperorWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1） [lsrS42rb8-QreF1eEvQdnhe3muFV].md",
@@ -146149,6 +146186,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
         }
       ],
       "updated": "2026-10-09",
@@ -148819,9 +148863,9 @@
       "url": "/wiki/entities/liuyinfuchongduke/"
     },
     "LiuYing": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -148878,9 +148922,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/liuying/"
     },
     "LiuYingChuKingEasternHan": {
@@ -152719,9 +152770,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 2,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152883,6 +152934,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
         }
       ],
       "updated": "2026-10-09",
@@ -219839,6 +219897,50 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/shuodehaoting/"
     },
+    "ShusunTong": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度 [loeoQCcRfWbMtR634ukYAU9xYkqy].md",
+          "key": "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1） [liwkaYGJTYAfxXpDWzq9PDHUzROI].md",
+          "key": "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shusuntong/"
+    },
     "ShusunWujiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -270573,9 +270675,9 @@
       "url": "/wiki/entities/zhangxiu/"
     },
     "ZhangYanEmpressWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
@@ -270583,6 +270685,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单 [lkGewCB8AvFq_QY0jpqkdFM5t6WI].md",
+          "key": "zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
         }
       ],
       "updated": "2026-10-09",

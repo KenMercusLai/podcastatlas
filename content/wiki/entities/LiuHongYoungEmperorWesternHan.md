@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv
   - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd
   - zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw
+  - zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi
 last_updated: 2026-10-09
 ---
 
@@ -16,7 +17,7 @@ last_updated: 2026-10-09
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw|Hanji 200]] supplies Liu Hong's accession stage. After [[LiuGongYoungEmperorWesternHan|前少帝刘恭]] is deposed and killed, the Hengshan king Liu Yi is reportedly renamed Liu Hong and installed as the next young emperor. The episode says no new reign era is proclaimed because [[LuZhi|吕雉]] continues to govern, making his accession evidence of nominal rulership under regency control rather than an independent transfer of power.
+[[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] and [[zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw|Hanji 200]] supply Liu Hong's accession stage. After [[LiuGongYoungEmperorWesternHan|前少帝刘恭]] is deposed and killed, the ruler identified as Changshan or Hengshan king Liu Yi is reportedly renamed Liu Hong and installed as the next young emperor. Hanji 200 says no new reign era is proclaimed because [[LuZhi|吕雉]] continues to govern, making his accession evidence of nominal rulership under regency control rather than an independent transfer of power.
 
 [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]] presents Liu Hong as an incumbent isolated by [[ChenPing|陈平]], [[ZhouBo|周勃]], and the victorious anti-Lü ministers. They deny that he and the other Hui-era princes are biological sons of [[LiuYing|汉惠帝刘盈]], treat their continued existence as a future retaliation risk, and decide to remove the line before selecting Liu Heng. The source reports the claim but does not independently establish the princes' parentage or culpability.
 
@@ -35,6 +36,7 @@ last_updated: 2026-10-09
 
 Accession under regency:
 - [[zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw|Hanji 200]] says the Hengshan king Liu Yi is renamed Liu Hong, installed after Liu Gong, and given no new reign era while Lu Zhi continues to govern.
+- [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] gives the same replacement sequence but calls Liu Yi king of Changshan, preserving a title inconsistency within the bounded source set.
 
 Isolation and legitimacy denial:
 - [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]] says the winning ministers isolate Liu Hong, deny the Hui-era princes' biological legitimacy, and decide to kill them before installing a replacement.
@@ -47,12 +49,12 @@ Death after accession:
 
 ## Qualifications
 
-All three sources are structured popular-history summaries. Hanji 200 does not independently establish Liu Hong's prior title, renaming, accession procedure, chronology, or the legal significance of not changing the reign era. The later sources do not independently prove Liu Hong's parentage, personal knowledge, legal status, responsibility for Lü-family government, precise age, deposition procedure, confinement, or death order. The ministers' security interest may explain their actions without validating the biological claim or the killings.
+All four sources are structured popular-history summaries. Hanji 198 and 200 differ between Changshan and Hengshan for Liu Yi's prior title and do not independently establish the renaming, accession procedure, chronology, or legal significance of not changing the reign era. The later sources do not independently prove Liu Hong's parentage, personal knowledge, legal status, responsibility for Lü-family government, precise age, deposition procedure, confinement, or death order. The ministers' security interest may explain their actions without validating the biological claim or the killings.
 
 ## What Changed
 
-- Extended the profile backward to Liu Hong's installation after Liu Gong and the episode's claim that continued regency prevented a new reign era.
-- Retained the later legitimacy-denial, palace-removal, residual-recognition, and killing sequence.
+- Preserved the Changshan/Hengshan title inconsistency across the two accession summaries.
+- Retained the installation, legitimacy-denial, palace-removal, residual-recognition, and killing sequence with source boundaries.
 
 ## Relationships
 

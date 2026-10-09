@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单](sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi.md) — 惠帝的宽政与受制处境并存；叔孙通以礼制和面子重定道路纠错，司马光则明确反对“天子无过”。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-.md) — 吕雉的实际统治与正式帝号被明确区分；王陵援引白马之盟反对吕氏王号，陈平、周勃的顺从则保留为策略性解释。
 - [《资治通鉴·汉纪》200｜历史上第一次通货膨胀](sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw.md) — 吕后以八铢钱和关中金属管制回应轻钱与物价危机；“首次通胀”、平价效果、禁运目的及赵佗误判均保留来源边界。
 - [《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币](sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid.md) — 吕雉由八铢钱退向五分钱；节目以劣币驱逐良币、《二年律令》钱律和刘濞铜盐资源解释禁铸法令与实际执行能力之间的落差。
@@ -4237,8 +4238,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
-- [皇后张嫣 / Zhang Yan, Empress (Western Han)](entities/ZhangYanEmpressWesternHan.md) — 在吕后摄政的少帝安排中被视作刘恭之母、但并非其生母的西汉皇后。
-- [前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)](entities/LiuGongYoungEmperorWesternHan.md) — 在身世秘密与复仇威胁叙事后被吕雉囚禁、废黜并杀害的西汉儿童君主。
+- [皇后张嫣 / Zhang Yan, Empress (Western Han)](entities/ZhangYanEmpressWesternHan.md) — 被安排嫁给舅舅刘盈、后又被置于刘恭公开母亲位置的西汉皇后，其个人能动性仍不明。
+- [前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)](entities/LiuGongYoungEmperorWesternHan.md) — 被张嫣收养并在吕雉摄政下即位，后因身世秘密与复仇威胁叙事遭囚禁、废杀的儿童君主。
 - [赵幽王刘友 / Liu You (King of Zhao, Western Han)](entities/LiuYouZhaoKingWesternHan.md) — 吕后时期被召入长安、隔绝断粮而死的赵王，其姓名由相邻节目回顾识别。
 - [赵王刘恢 / Liu Hui (King of Zhao, Western Han)](entities/LiuHuiZhaoKingWesternHan.md) — 被改封赵王并置于吕氏婚姻与家庭监控中的西汉宗室。
 - [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 借内廷通道、吕禄封王与补偿性分封，为刘泽取得琅邪王爵并安排其及时离京的齐国政治经纪人。
@@ -4248,7 +4249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reed Montague](entities/ReedMontague.md) — Computational neuroscientist connecting temporal-difference learning, human dopamine-serotonin measurement, motivation, and machine reinforcement learning.
 - [宋昌 / Song Chang (Western Han)](entities/SongChangWesternHan.md) — 判断迎立可信、替刘恒探路并阻止私下议事，登基后接掌南北军的代国谋臣。
 - [张武 / Zhang Wu (Western Han)](entities/ZhangWuWesternHan.md) — 起初把长安迎立视为陷阱并主张观望，随后随行且获任宫门内卫的谨慎派代臣。
-- [少帝刘弘 / Liu Hong, Young Emperor (Western Han)](entities/LiuHongYoungEmperorWesternHan.md) — 在反吕胜方否定其血统后被逐出宫廷并杀害的年轻在位者；与武帝之子齐王刘弘区别。
+- [少帝刘弘 / Liu Hong, Young Emperor (Western Han)](entities/LiuHongYoungEmperorWesternHan.md) — 接替刘恭后仍受吕雉摄政，后来被反吕胜方否定血统、逐出宫廷并杀害的年轻在位者。
 - [贾寿 / Jia Shou (Western Han)](entities/JiaShouWesternHan.md) — 自齐国归来后向吕产通报灌婴与齐楚合谋，其警告又被曹窋传给反吕大臣的郎中令。
 - [曹窋 / Cao Ku (Western Han)](entities/CaoKuWesternHan.md) — 旁听贾寿警报并转告陈平、周勃，随后协助封闭宫门阻止吕产入殿的平阳侯。
 - [纪通 / Ji Tong (Western Han)](entities/JiTongWesternHan.md) — 以符节和皇命名义帮助周勃进入北军的授权中介；与东汉祭肜区别。
@@ -9701,7 +9702,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.
 - [南越 / Nanyue](entities/Nanyue.md) — 赵佗依托原秦岭南郡县建立、先经陆贾册封威慑纳入汉朝秩序，后在吕嘉抵抗下走向汉武帝大举征服的南方政权。
 - [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
-- [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's accession ritual and later trains officials in practical court hierarchy.
+- [叔孙通 / Shusun Tong](entities/ShusunTong.md) — 把军功政权转成礼仪秩序的制度技术者，也因“天子无过”式面子纠错暴露其适君逻辑的边界。
 - [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
 - [Xiang Xiang](entities/XiangXiang.md) — Xiang-family relative absorbed into Liu Bang's postwar order with marquisate and Liu surname.
 - [东城 / Dongcheng (Chu-Han)](entities/DongchengChuHan.md) — Xiang Yu's final tactical self-proof setting after Gaixia, where twenty-eight riders still break Han pursuit.
@@ -9775,7 +9776,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [睢水 / Sui River](entities/SuiRiver.md) — River casualty marker in the Pengcheng Battle pursuit, cited through "睢水为之不流."
 - [泗水 / Si River](entities/SiRiver.md) — Pengcheng/Xuzhou river node linking Qin Shi Huang's Jiuding search to the Pengcheng Battle pursuit geography.
 - [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch now covering its political setup, Qi distraction, Pengcheng capture, Xiang Yu's secret cavalry counterattack, and Liu Bang's escape.
-- [刘盈 / Liu Ying](entities/LiuYing.md) — 刘邦之子与汉惠帝，从彭城逃亡中的弱势儿童、受保护的储君，延伸为可经闳孺近身调停影响生死决定的皇帝。
+- [刘盈 / Liu Ying](entities/LiuYing.md) — 刘邦之子与汉惠帝，兼具宽政与纳谏行为，却在婚姻、宫廷和继嗣上长期受吕雉强势约束。
 - [鲁元公主 / Princess Lu Yuan](entities/LuYuanPrincess.md) — Liu Bang's daughter in the Pengcheng escape scene, paired with Liu Ying in the cart-flight account.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, later persuaded by Li Shiqi at Linzi before Han Xin's unsynchronized attack reopens the Qi front.
@@ -21753,7 +21754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.
 - [受任地方长官割据风险 / Appointed Governor Secession Risk](concepts/AppointedGovernorSecessionRisk.md) — Post-conquest governance risk where a centrally appointed local official uses terrain, resources, and delegated authority to attempt independent rule.
 - [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
-- [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
+- [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — 以孟子、项羽和“天子无过”三类案例区分实际纠错、归因自保与制度化面子维护。
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom stories against period fit, evidence, and reputation effects, from "二百五" to Ye Gong Hao Long.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian durable-rule claim now kept explicitly comparative: Liu Bang can massacre at Yingchuan yet gains advantage by shifting to pacification at Wan.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.

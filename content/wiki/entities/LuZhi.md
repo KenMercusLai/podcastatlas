@@ -27,6 +27,7 @@ sources:
   - zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid
   - zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw
   - zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-
+  - zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi
 last_updated: 2026-10-09
 ---
 
@@ -41,6 +42,8 @@ Lu Zhi first appears as the daughter through whom Lu Gong converts his judgment 
 The Chu-Han war evidence makes Lu Zhi's body and household politically exposed. She, Liu Taigong, and Shen Yiji are captured after Liu Bang's Pengcheng flight, and their later release through the Honggou settlement gives hostage recovery direct diplomatic weight. Her children [[LiuYing|刘盈]] and [[LuYuanPrincess|鲁元公主]] remain central to this household-security profile.
 
 The heqin and succession episodes make Lu Zhi a protector of the legitimate empress branch. She blocks sending Princess Lu Yuan to the Xiongnu while leaving the policy to proceed through a substitute princess, and she later treats Liu Ying's possible replacement by Liu Ruyi as an existential threat to her branch. Her plea during the Ying Bu crisis extends that protection into military staffing: the crown prince should not command Liu Bang's old generals in a crisis field.
+
+Hanji 198 shows that protection turning into control during Liu Ying's reign. Lu Zhi reportedly arranges the adult emperor's marriage to his young niece [[ZhangYanEmpressWesternHan|张嫣]], then structures the post-Hui succession around Zhang Yan's assigned motherhood of [[LiuGongYoungEmperorWesternHan|刘恭]]. This does not establish every intimate or parentage claim, but it adds marriage and heir production to the mechanisms by which maternal authority constrains the reigning son.
 
 The Han Xin episodes make Lu Zhi a capital-security actor with contested moral status. One source frames her seizure and killing of Han Xin in Changle Palace as a response to a reported plot against the empress and crown prince while Liu Bang is away. A later source complicates that by making the plot accusation less certain and reading possible Lu-family factional agency through Fan Kuai's channel. The current synthesis therefore treats her Han Xin role as both succession-protective and politically contested.
 
@@ -63,7 +66,7 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 ## Key Characteristics
 
 - Founding-family actor whose marriage alliance and wartime hostage exposure tie Lu-family resources to Liu Bang's rise.
-- Maternal and dynastic protector of Princess Lu Yuan, Liu Ying, and the legitimate empress branch.
+- Maternal and dynastic protector whose reported marriage and child-ruler arrangements also narrow Liu Ying and Zhang Yan's agency.
 - Capital-security actor whose role in Han Xin's killing is powerful but evidentially contested.
 - Regency power center whose authority shapes Chen Ping, Wang Ling, Zhou Bo, and Lu Wan's calculations and culminates in a contested military succession handoff.
 - Ruler associated with transition stability, tax relief, selected legal repeal, pragmatic Xiongnu diplomacy, and an attempted but capacity-limited coinage reform.
@@ -81,6 +84,7 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 - Policy workaround: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] shows the policy continuing through another woman styled as a legitimate elder princess, preserving Lu Yuan while not ending heqin.
 - Succession protection: [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] presents Lu Zhi as the endangered empress-branch actor when Liu Bang considers replacing Liu Ying with Liu Ruyi.
 - Crown-prince command risk: [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] has Lu Zhi plead against sending Liu Ying to command Liu Bang's generation of generals during the Ying Bu crisis.
+- Hui-reign marriage and succession control: [[zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi|Hanji 198]] attributes Liu Ying's marriage to Zhang Yan, Zhang Yan's assigned motherhood of Liu Gong, Liu Gong's installation, and the continuing regency structure to Lu Zhi.
 - Han Xin killing: [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] says Lu Zhi consults Xiao He, uses false victory news to summon the court, and has Han Xin seized and killed in Changle Palace.
 - Succession-protective reading: [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] reads the killing as removing a future danger to Lu Zhi and Liu Ying while Liu Bang is away.
 - Contesting the accusation: [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] makes the Han Xin rebellion accusation less certain and suggests possible Lu-family factional initiative.
@@ -100,21 +104,20 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 
 ## Qualifications
 
-Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 199 part 1's “first female emperor” language describes effective rule and does not establish formal accession, exhaustive priority over every earlier regent, the exact covenant text, or the ministers' private motives. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear and should not prove every accusation. Hanji 200 does not establish history's first inflation, the reported prices' comparability, the eight-zhu issue's effect, an exclusive purpose for metal restrictions, or every detail of Liu Gong's parentage and removal. Hanji 201 does not settle the private-minting prohibition date, precise coin standards, strict applicability of Gresham's Law, or the causal balance among market incentives, state capacity, and vassal resistance; its title's “longest-lived currency” claim is unsupported by the supplied body. Weird History episode 20 is a comparative popular-history interpretation rather than independent verification of lost Lu-family records, young-emperor legitimacy, specific policy causation, Modu's intent, or the claim that Lu Zhi's regency caused the later Wen-Jing settlement. Its corrective to gendered and victor-shaped memory cannot erase recorded killings and torture. Hanji 205 part 1 does not establish rabies, the exact clinical course, or the verbatim deathbed instructions. Hanji 687 leaves the corpse-violation report uncertain, so that material remains historical-memory evidence rather than settled biography.
+Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 198 does not independently establish Zhang Yan's exact age, the spouses' intimate conduct, Liu Gong and Liu Hong's parentage, or Lu Zhi's private motives; it supports a reported structure of marriage and succession control, not complete knowledge of every participant's agency. Hanji 199 part 1's “first female emperor” language describes effective rule and does not establish formal accession, exhaustive priority over every earlier regent, the exact covenant text, or the ministers' private motives. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear and should not prove every accusation. Hanji 200 does not establish history's first inflation, the reported prices' comparability, the eight-zhu issue's effect, an exclusive purpose for metal restrictions, or every detail of Liu Gong's parentage and removal. Hanji 201 does not settle the private-minting prohibition date, precise coin standards, strict applicability of Gresham's Law, or the causal balance among market incentives, state capacity, and vassal resistance; its title's “longest-lived currency” claim is unsupported by the supplied body. Weird History episode 20 is a comparative popular-history interpretation rather than independent verification of lost Lu-family records, young-emperor legitimacy, specific policy causation, Modu's intent, or the claim that Lu Zhi's regency caused the later Wen-Jing settlement. Its corrective to gendered and victor-shaped memory cannot erase recorded killings and torture. Hanji 205 part 1 does not establish rabies, the exact clinical course, or the verbatim deathbed instructions. Hanji 687 leaves the corpse-violation report uncertain, so that material remains historical-memory evidence rather than settled biography.
 
 ## What Changed
 
-- Extended Lu Zhi's monetary profile backward to the reported eight-zhu reform, price crisis, and Guanzhong metal controls, while rejecting the unsupported “first inflation” priority claim.
-- Added Liu Gong's removal and Liu Hong's accession as evidence of child-ruler succession control under the regency.
-- Added the final transfer of the northern and southern armies as Lu Zhi's attempt to preserve the young ruler and Lü-family position after her death.
-- Added the rabies explanation only as a retrospective diagnostic hypothesis, with missing exposure and clinical evidence made explicit.
-- Added the title-versus-power distinction and White Horse Covenant dispute while keeping “first female emperor” as an interpretive label rather than a formal title.
+- Extended the succession-control profile backward into Liu Ying's marriage and Liu Gong's initial installation.
+- Clarified that dynastic protection and household coercion operate together rather than canceling each other.
+- Retained the coinage, child-ruler replacement, final military handoff, death hypothesis, and memory disputes within explicit source boundaries.
 
 ## Relationships
 
 - [[LiuBang|刘邦]] - husband and founding ruler whose household, succession, and posthumous order shape Lu Zhi's political role.
 - [[LuGongLiuBangFatherInLaw|吕公]] - father whose marriage decision creates the Liu-Lu alliance.
 - [[LiuYing|刘盈]] - son and crown-prince branch Lu Zhi repeatedly protects.
+- [[ZhangYanEmpressWesternHan|张嫣]] - granddaughter and daughter-in-law placed in a reported kin marriage and assigned-motherhood succession arrangement.
 - [[LuYuanPrincess|鲁元公主]] - daughter whose proposed heqin marriage Lu Zhi blocks.
 - [[HanXin|韩信]] - military founder whose killing in Changle Palace is the central contested Lu Zhi security episode.
 - [[XiaoHe|萧何]] - adviser whose coordination with Lu Zhi enables the Han Xin trap.
