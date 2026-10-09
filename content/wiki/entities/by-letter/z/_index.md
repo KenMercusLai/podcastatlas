@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12844
+wiki_total_pages: 12850
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "ZhuGongdaoLateHan"
     title: "祝公道 / Zhu Gongdao (late Han)"
     url: "/wiki/entities/zhugongdaolatehan/"
+  - key: "ZhuWuWesternHan"
+    title: "祝午 / Zhu Wu (Western Han)"
+    url: "/wiki/entities/zhuwuwesternhan/"
   - key: "ZhuTengjiao"
     title: "祝腾娇 / Zhu Tengjiao"
     url: "/wiki/entities/zhutengjiao/"
@@ -1562,6 +1565,9 @@ wiki_pages:
   - key: "ZhaoQiLateHan"
     title: "赵岐 / Zhao Qi (late Han)"
     url: "/wiki/entities/zhaoqilatehan/"
+  - key: "ZhaoPingQiChancellor"
+    title: "赵平 / Zhao Ping (Qi Chancellor)"
+    url: "/wiki/entities/zhaopingqichancellor/"
   - key: "ZhaoPingjunWesternHan"
     title: "赵平君 / Zhao Pingjun"
     url: "/wiki/entities/zhaopingjunwesternhan/"

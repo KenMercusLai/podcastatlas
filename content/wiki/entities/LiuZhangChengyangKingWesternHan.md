@@ -6,6 +6,7 @@ tags: [person, western-han, chengyang, prince, anti-lu]
 sources:
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
+  - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
 last_updated: 2026-10-09
 ---
 
@@ -21,6 +22,8 @@ Within the episode, Liu Zhang matters both as an anti-Lü contributor and as los
 
 The additional age evidence says Liu Zhang dies at twenty-three, two years after Liu Xiang, while the transmitted narrative does not explain the cause. The host places the early death inside Liu Heng's consolidation field, but absence of detail is not affirmative evidence of coercion or killing. [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx|Hanji 213 part 1]]
 
+The pre-confrontation evidence identifies Liu Zhang's wife as a daughter of [[LuLuWesternHan|吕禄]] who passes him the alleged Lü coup plan. He then secretly contacts Liu Xiang, proposes that Liu Xiang mobilize from Qi, and positions himself with Liu Xingju as an internal ally. The account makes marriage a cross-faction intelligence channel, but the source itself postpones scrutiny of the narrative's weaknesses. [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]]
+
 ## Key Characteristics
 
 - Capital participant in the violent removal of the Lü faction.
@@ -29,11 +32,13 @@ The additional age evidence says Liu Zhang dies at twenty-three, two years after
 - Political support whose death leaves Liu Xingju more isolated.
 - Subject of an unproven pressure-related death interpretation in the episode.
 - Prince whose reported death at twenty-three remains causally unexplained.
+- Lü-family son-in-law whose household tie becomes an alleged intelligence channel for the anti-Lü coalition.
 
 ## Evidence
 
 Capital action and settlement:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] credits Liu Zhang with killing Lü Chan and says he received Chengyang rather than a previously expected Zhao grant.
+- [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] places him before the confrontation as the receiver of household intelligence and organizer linking Liu Xiang outside Chang'an to Liu Xingju inside.
 
 Connection to the rebellion:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] makes Liu Zhang's death one part of Liu Xingju's later isolation and fear.
@@ -43,12 +48,12 @@ Early death and evidence boundary:
 
 ## Qualifications
 
-This profile relies on two structured podcast summaries from the same program. Exact anti-Lü actions, promised and final grants, chronology, kinship details, age, and cause of death require comparison with transmitted histories. Neither missing detail nor political benefit establishes that Liu Heng ordered, pressured, or intentionally caused Liu Zhang's death.
+This profile relies on three structured podcast summaries from the same program. Exact anti-Lü actions, the alleged Lü plan, his wife's information and motives, promised and final grants, chronology, kinship details, age, and cause of death require comparison with transmitted histories. Hanji 205 part 2 announces source problems without specifying them. Neither missing detail nor political benefit establishes that Liu Heng ordered, pressured, or intentionally caused Liu Zhang's death.
 
 ## What Changed
 
-- Added the reported age and succession of family deaths while preserving the unknown-cause boundary.
-- Rejected the move from unexplained death to political causation without positive evidence.
+- Added Liu Zhang's Lü-family marriage, intelligence role, and inside-outside coordination before the capital action.
+- Preserved the source-critical boundary around both the alleged coup plan and his unexplained early death.
 
 ## Relationships
 
@@ -56,3 +61,6 @@ This profile relies on two structured podcast summaries from the same program. E
 - [[LiuXingjuWesternHan|济北王刘兴居]] - royal relative whose later isolation is linked to Liu Zhang's death.
 - [[LiuHeng|汉文帝刘恒]] - succession winner and ruler under whom Liu Zhang receives Chengyang.
 - [[JibeiRebellionWesternHan|刘兴居济北叛乱]] - later rebellion whose background includes Liu Zhang's contribution and death.
+- [[LuLuWesternHan|吕禄]] - father-in-law whose daughter is the reported intelligence channel.
+- [[LuChanWesternHan|吕产]] - Lü commander whom later sources say Liu Zhang kills.
+- [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] - coalition pattern in which Liu Zhang serves as a capital-side organizer.

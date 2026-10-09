@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3229
+topic_total_pages: 3230
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4837,6 +4837,9 @@ topic_concepts:
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"
+  - key: "PostRegencyInsideOutsideMobilization"
+    title: "摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization"
+    url: "/wiki/concepts/postregencyinsideoutsidemobilization/"
   - key: "ChroniclePolicyCompression"
     title: "政策制度记载压缩 / Chronicle Policy Compression"
     url: "/wiki/concepts/chroniclepolicycompression/"

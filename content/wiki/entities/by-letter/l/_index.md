@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12844
+wiki_total_pages: 12850
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "LuBuwei"
     title: "吕不韦 / Lu Buwei"
     url: "/wiki/entities/lubuwei/"
+  - key: "LuChanWesternHan"
+    title: "吕产 / Lü Chan (Western Han)"
+    url: "/wiki/entities/luchanwesternhan/"
   - key: "LuGongLiuBangFatherInLaw"
     title: "吕公 / Lu Gong"
     url: "/wiki/entities/lugongliubangfatherinlaw/"
@@ -1694,6 +1697,9 @@ wiki_pages:
   - key: "LuLiuliang"
     title: "吕留良 / Lu Liuliang"
     url: "/wiki/entities/luliuliang/"
+  - key: "LuLuWesternHan"
+    title: "吕禄 / Lü Lu (Western Han)"
+    url: "/wiki/entities/luluwesternhan/"
   - key: "LuShengHanGeneral"
     title: "吕胜 / Lu Sheng (Han)"
     url: "/wiki/entities/lushenghangeneral/"

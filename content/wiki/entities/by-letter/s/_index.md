@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12844
+wiki_total_pages: 12850
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2915,6 +2915,9 @@ wiki_pages:
   - key: "SkylandFoodCourt"
     title: "食通天 Skyland Food Court"
     url: "/wiki/entities/skylandfoodcourt/"
+  - key: "SiJunWesternHan"
+    title: "驷钧 / Si Jun (Western Han)"
+    url: "/wiki/entities/sijunwesternhan/"
   - key: "ShikanoYasuaki"
     title: "鹿野靖明"
     url: "/wiki/entities/shikanoyasuaki/"

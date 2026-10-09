@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1.md) — 吕后死后吕禄、吕产控制南北军，刘章联络刘襄形成内外合击；刘襄先压倒赵平、重组齐国军政再举兵，史料疑点则留待后续。
 - [No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁](sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk.md) — 三五环年度群像复盘以掌控边界、过程导向、身体健康、AI陪伴、在场观察与持续积累连接多位创作者和从业者的2025年。
 - [VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？](sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt.md) — 卢骁与严锋以急诊、神经外科和家属沟通案例说明初步判断为何会随病史、检查与专科协作修正，并限定 AI 与网络问诊的输入和临床边界。
 - [咖啡豆｜「希尔顿们」入驻县域市场，国际中端连锁酒店为何加速扩张？](sources/kafeidou-xierdunmen-ruzhu-xianyu-shichang-guoji-zhongduan-liansuo-jiudian-weihe-jiasu-kuozhang-1022026144.md) — 声动早咖啡 episode on select-service hotels, franchise-led county expansion, reverse tourism, aging-property conversion, seasonality, and domestic-chain competition.
@@ -4220,6 +4221,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军、并通过女儿婚姻与刘章阵营形成信息交叉的吕氏将领。
+- [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军、后成为诛吕行动目标的吕氏军政人物。
+- [魏勃 / Wei Bo (Western Han)](entities/WeiBoWesternHan.md) — 骗取赵平兵权、帮助刘襄控制齐国军政并获任将军的反吕行动组织者。
+- [赵平 / Zhao Ping (Qi Chancellor)](entities/ZhaoPingQiChancellor.md) — 反对刘襄起兵、短暂围宫却失去兵权并自杀的齐相。
+- [驷钧 / Si Jun (Western Han)](entities/SiJunWesternHan.md) — 刘襄舅父与反吕谋划者，赵平死后获任齐相。
+- [祝午 / Zhu Wu (Western Han)](entities/ZhuWuWesternHan.md) — 参与刘襄反吕谋划并在齐国重组后出任内史的官员。
 - [卢骁 / Lu Xiao (Emergency Physician)](entities/LuXiaoEmergencyPhysician.md) — VOL.195 急诊医生，讨论危重识别、分诊、专科交接、家属沟通与职业压力。
 - [严锋 / Yan Feng (Neurosurgeon)](entities/YanFengNeurosurgeon.md) — 浙大二院神经外科医生，讨论因果诊断、神经评估、手术风险与长期临床训练。
 - [Hilton Garden Inn / 希尔顿花园](entities/HiltonGardenInn.md) — Hilton upper-midscale select-service brand used to expand through franchising and existing-property conversion in China.
@@ -9642,7 +9649,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鄂千秋 / E Qianqiu](entities/EQianqiu.md) — Early Han merit-ranking interpreter who defends Xiao He's first-place reward over Cao Shen and is made Anping marquis.
 - [刘交 / Liu Jiao](entities/LiuJiao.md) — Liu Bang's younger brother made king of the early Han Chu kingdom after Han Xin's former Chu territory is split.
 - [刘喜 / Liu Xi (Dai king)](entities/LiuXiDaiKing.md) — Liu-family king of early Han Dai, used by Hanji 174 to show same-surname royal placement on the northern settlement map.
-- [刘肥 / Liu Fei (Qi king)](entities/LiuFeiQiKing.md) — Liu Bang's eldest son and early Han Qi king, disambiguated from the modern podcast host Liu Fei.
+- [刘肥 / Liu Fei (Qi king)](entities/LiuFeiQiKing.md) — 刘邦长子与汉初齐王，其大封国既提供平定英布的援军，也成为刘襄反吕动员的继承基础。
 - [荆国 / Jing Kingdom (early Han)](entities/JingKingdomEarlyHan.md) — Same-surname kingdom granted to Liu Jia from the Huai River southeast part of Han Xin's former Chu kingdom.
 - [楚国 / Chu Kingdom (early Han)](entities/ChuKingdomEarlyHan.md) — Same-surname kingdom granted to Liu Jiao from Xue, Donghai, Pengcheng, and related counties after Han Xin's demotion.
 - [代国 / Dai Kingdom (early Han)](entities/DaiKingdomEarlyHan.md) — Northern early Han kingdom granted to Liu Xi in Hanji 174, distinct from the earlier Dai polity.
@@ -17120,6 +17127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization](concepts/PostRegencyInsideOutsideMobilization.md) — 首都内应、跨阵营情报、地方军政整合与复辟名义共同作用于摄政终结后继承危机的动员机制。
 - [Emergency Diagnostic Revision / 急诊诊断修正](concepts/EmergencyDiagnosticRevision.md) — 急诊初步风险判断随时间线、旁证、连续观察、影像与专科知识而安全修正的协作框架。
 - [Select-Service Hotel Model / 精选服务酒店模式](concepts/SelectServiceHotelModel.md) — Hotel format that retains high-frequency guest functions while reducing full-service facility and staffing burdens.
 - [County Hotel Chain Expansion / 县域连锁酒店扩张](concepts/CountyHotelChainExpansion.md) — Lower-tier hotel growth driven by redirected tourism demand, renovation-ready stock, and franchise systems, constrained by seasonality and competition.

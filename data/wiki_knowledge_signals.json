@@ -145324,6 +145324,36 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/liufeijiangdukingwesternhan/"
     },
+    "LiuFeiQiKing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县 [lnoib0BvZ8w0ihvHxMTx19tR4JDZ].md",
+          "key": "zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1） [lnZzVPIeQtgaTMVGogZ3MSyHS60u].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liufeiqiking/"
+    },
     "LiuFuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -147386,9 +147416,9 @@
       "url": "/wiki/entities/liuxiang/"
     },
     "LiuXiangQiKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -147403,6 +147433,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
         }
       ],
       "updated": "2026-10-09",
@@ -147581,9 +147618,9 @@
       "url": "/wiki/entities/liuxingzhongshankingwesternhan/"
     },
     "LiuXingjuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -147591,6 +147628,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
         }
       ],
       "updated": "2026-10-09",
@@ -148700,9 +148744,9 @@
       "url": "/wiki/entities/liuzhang/"
     },
     "LiuZhangChengyangKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -148717,6 +148761,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
         }
       ],
       "updated": "2026-10-09",
@@ -151616,6 +151667,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/lubodewesternhan/"
     },
+    "LuChanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/luchanwesternhan/"
+    },
     "LuChongguoWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -151860,6 +151927,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/lukuandogbloodcase/"
+    },
+    "LuLuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/luluwesternhan/"
     },
     "LuPiEasternHan": {
       "episode_count": 1,
@@ -191710,6 +191793,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/postrebellionaccountability/"
     },
+    "PostRegencyInsideOutsideMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/postregencyinsideoutsidemobilization/"
+    },
     "PostRestorationMeritThreat": {
       "episode_count": 5,
       "show_count": 1,
@@ -219081,6 +219180,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/shyamsankar/"
+    },
+    "SiJunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/sijunwesternhan/"
     },
     "Sichuan": {
       "episode_count": 4,
@@ -252910,6 +253025,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/weibiaoeasternhan/"
     },
+    "WeiBoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/weibowesternhan/"
+    },
     "WeiBuhaiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -270548,6 +270679,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
     },
+    "ZhaoPingQiChancellor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhaopingqichancellor/"
+    },
     "ZhaoPingjunWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -274121,6 +274268,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/zhuweilegalscholar/"
+    },
+    "ZhuWuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhuwuwesternhan/"
     },
     "ZhuXiaodongYunsheng": {
       "episode_count": 1,

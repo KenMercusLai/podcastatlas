@@ -52695,6 +52695,10 @@
     "title": "吕不韦 / Lu Buwei",
     "url": "/wiki/entities/lubuwei/"
   },
+  "LuChanWesternHan": {
+    "title": "吕产 / Lü Chan (Western Han)",
+    "url": "/wiki/entities/luchanwesternhan/"
+  },
   "LuChenQinRebel": {
     "title": "吕臣 / Lu Chen (Qin Rebel)",
     "url": "/wiki/entities/luchenqinrebel/"
@@ -52766,6 +52770,10 @@
   "LuLiuliang": {
     "title": "吕留良 / Lu Liuliang",
     "url": "/wiki/entities/luliuliang/"
+  },
+  "LuLuWesternHan": {
+    "title": "吕禄 / Lü Lu (Western Han)",
+    "url": "/wiki/entities/luluwesternhan/"
   },
   "LuMaoshou": {
     "title": "鹿毛寿 / Lu Maoshou",
@@ -66147,6 +66155,10 @@
     "title": "叛乱平定后的追责 / Post-Rebellion Accountability",
     "url": "/wiki/concepts/postrebellionaccountability/"
   },
+  "PostRegencyInsideOutsideMobilization": {
+    "title": "摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization",
+    "url": "/wiki/concepts/postregencyinsideoutsidemobilization/"
+  },
   "PostRestorationMeritThreat": {
     "title": "Post-Restoration Merit Threat / 复国功臣威胁化",
     "url": "/wiki/concepts/postrestorationmeritthreat/"
@@ -75946,6 +75958,10 @@
   "Shybird": {
     "title": "Shybird",
     "url": "/wiki/entities/shybird/"
+  },
+  "SiJunWesternHan": {
+    "title": "驷钧 / Si Jun (Western Han)",
+    "url": "/wiki/entities/sijunwesternhan/"
   },
   "SiRiver": {
     "title": "泗水 / Si River",
@@ -87951,6 +87967,10 @@
     "title": "韦彪 / Wei Biao (Eastern Han)",
     "url": "/wiki/entities/weibiaoeasternhan/"
   },
+  "WeiBoWesternHan": {
+    "title": "魏勃 / Wei Bo (Western Han)",
+    "url": "/wiki/entities/weibowesternhan/"
+  },
   "WeiBoyang": {
     "title": "Wei Boyang / 魏伯阳",
     "url": "/wiki/entities/weiboyang/"
@@ -94235,6 +94255,10 @@
     "title": "Zhao Lusi / 赵露思",
     "url": "/wiki/entities/zhaolusi/"
   },
+  "ZhaoPingQiChancellor": {
+    "title": "赵平 / Zhao Ping (Qi Chancellor)",
+    "url": "/wiki/entities/zhaopingqichancellor/"
+  },
   "ZhaoPingRebel": {
     "title": "昭平 / Zhao Ping (Rebel)",
     "url": "/wiki/entities/zhaopingrebel/"
@@ -95262,6 +95286,10 @@
   "ZhuWeiLegalScholar": {
     "title": "Zhu Wei / 朱威 (legal scholar)",
     "url": "/wiki/entities/zhuweilegalscholar/"
+  },
+  "ZhuWuWesternHan": {
+    "title": "祝午 / Zhu Wu (Western Han)",
+    "url": "/wiki/entities/zhuwuwesternhan/"
   },
   "ZhuXi": {
     "title": "朱熹 / Zhu Xi",
@@ -103330,6 +103358,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1": {
+    "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
   },
   "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd": {
     "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",

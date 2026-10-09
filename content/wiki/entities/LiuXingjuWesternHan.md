@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, jibei, prince, rebellion]
 sources:
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip
+  - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
 last_updated: 2026-10-09
 ---
 
@@ -18,11 +19,14 @@ last_updated: 2026-10-09
 
 After Liu Xiang and Liu Zhang died, Liu Xingju reportedly interpreted Liu Heng's absence toward Taiyuan as an opportunity and rebelled. The center answered with both force and defection incentives: [[ChaiWu|柴武]] led the punitive army while a pardon was offered to Jibei officials and residents who surrendered before it arrived. The episode treats that offer as a cohesion-breaking mechanism preceding Liu Xingju's defeat and suicide.
 
+The earlier coalition evidence says Liu Zhang's message proposes that Liu Xiang mobilize from Qi while Liu Zhang and Liu Xingju act as internal support in Chang'an. It does not yet describe Liu Xingju's concrete action, so this is evidence of a reported plan rather than a complete operational record. [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]]
+
 ## Key Characteristics
 
 - Member of the Qi royal branch involved in the post-Lü political settlement.
 - Recipient of Jibei rather than the more valuable Liang reward the episode says had been promised.
 - Politically isolated after the deaths of Liu Xiang and Liu Zhang.
+- Reported capital-side participant in the initial inside-outside anti-Lü plan.
 - Rebel who acts on a mistaken reading of the emperor's northern movement.
 - Defeated after the court combines military mobilization with a time-limited pardon to his followers.
 
@@ -31,17 +35,20 @@ After Liu Xiang and Liu Zhang died, Liu Xingju reportedly interpreted Liu Heng's
 Settlement grievance and isolation:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] says Liu Xingju's branch received less than expected after helping remove the Lü faction and links later rebellion to the deaths of Liu Xiang and Liu Zhang.
 
+Initial coalition role:
+- [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] names Liu Xingju with Liu Zhang as intended internal support for Liu Xiang's external mobilization.
+
 Rebellion and collapse:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] says Liu Xingju rebelled while Liu Heng was away, then lost cohesion after the surrender pardon and died by suicide after defeat.
 
 ## Qualifications
 
-This profile rests on one structured podcast summary rather than a full biography or primary-source comparison. The promised kingdom, territorial valuation, Liu Xingju's inner motives, his information about Liu Heng's movement, force strengths, chronology, and the pardon edict's exact effect remain source-scoped. The deaths of Liu Xiang and Liu Zhang are not established as consequences of imperial pressure.
+This profile rests on two structured podcast summaries rather than a full biography or primary-source comparison. The promised kingdom, territorial valuation, exact anti-Lü action, Liu Xingju's inner motives, his information about Liu Heng's movement, force strengths, chronology, and the pardon edict's exact effect remain source-scoped. Hanji 205 part 2 announces but does not resolve weaknesses in the underlying account. The deaths of Liu Xiang and Liu Zhang are not established as consequences of imperial pressure.
 
 ## What Changed
 
-- Created a bounded profile linking the anti-Lü reward settlement to the Jibei rebellion.
-- Separated the episode's recorded defeat sequence from its psychological explanation of Liu Xingju's decision.
+- Added Liu Xingju's reported role as capital-side support in the initial anti-Lü coalition plan.
+- Preserved the distinction between planned participation, demonstrated action, and the later Jibei rebellion.
 
 ## Relationships
 
@@ -51,3 +58,4 @@ This profile rests on one structured podcast summary rather than a full biograph
 - [[ChaiWu|柴武]] - commander sent to suppress the rebellion.
 - [[JibeiRebellionWesternHan|刘兴居济北叛乱]] - failed uprising that ends Liu Xingju's career.
 - [[DeadlineAmnestyRebellionFragmentation|限期赦免式叛军分化]] - surrender mechanism used to separate his followers from him.
+- [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] - earlier coalition pattern in which he is assigned an internal role.
