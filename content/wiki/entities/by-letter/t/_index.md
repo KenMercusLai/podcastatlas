@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12956
+wiki_total_pages: 12957
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "TwoSigma"
     title: "Two Sigma"
     url: "/wiki/entities/twosigma/"
+  - key: "TwylaTharp"
+    title: "Twyla Tharp"
+    url: "/wiki/entities/twylatharp/"
   - key: "TylerShultz"
     title: "Tyler Shultz"
     url: "/wiki/entities/tylershultz/"

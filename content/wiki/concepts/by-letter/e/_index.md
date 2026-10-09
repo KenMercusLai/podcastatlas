@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10132
+wiki_total_pages: 10134
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "EmbodiedContextMemory"
     title: "Embodied Context & Memory / 具身上下文与记忆"
     url: "/wiki/concepts/embodiedcontextmemory/"
+  - key: "EmbodiedCreativeJudgment"
+    title: "Embodied Creative Judgment"
+    url: "/wiki/concepts/embodiedcreativejudgment/"
   - key: "EmbodiedDataPyramid"
     title: "Embodied Data Pyramid"
     url: "/wiki/concepts/embodieddatapyramid/"

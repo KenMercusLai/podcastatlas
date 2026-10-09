@@ -53611,6 +53611,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/creativerenewalthroughdefect/"
     },
+    "CreativeSpine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5167372935 [SCIM5167372935].md",
+          "key": "master-the-creative-process-twyla-tharp-scim5167372935",
+          "show": "Huberman Lab",
+          "title": "Master the Creative Process | Twyla Tharp",
+          "url": "/wiki/sources/master-the-creative-process-twyla-tharp-scim5167372935/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/creativespine/"
+    },
     "CreativeStateMatching": {
       "episode_count": 2,
       "show_count": 1,
@@ -72947,6 +72963,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/embodiedcontextmemory/"
+    },
+    "EmbodiedCreativeJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5167372935 [SCIM5167372935].md",
+          "key": "master-the-creative-process-twyla-tharp-scim5167372935",
+          "show": "Huberman Lab",
+          "title": "Master the Creative Process | Twyla Tharp",
+          "url": "/wiki/sources/master-the-creative-process-twyla-tharp-scim5167372935/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/embodiedcreativejudgment/"
     },
     "EmbodiedDataPyramid": {
       "episode_count": 6,
@@ -185943,9 +185975,9 @@
       "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
     "OutcomeIndependentCreativePractice": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5595688842 [SCIM5595688842].md",
@@ -185960,9 +185992,16 @@
           "show": "Huberman Lab",
           "title": "How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/how-to-access-your-creativity-rick-rubin-scim6664103159/"
+        },
+        {
+          "episode_file": "SCIM5167372935 [SCIM5167372935].md",
+          "key": "master-the-creative-process-twyla-tharp-scim5167372935",
+          "show": "Huberman Lab",
+          "title": "Master the Creative Process | Twyla Tharp",
+          "url": "/wiki/sources/master-the-creative-process-twyla-tharp-scim5167372935/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/outcomeindependentcreativepractice/"
     },
     "OutdoorFlowState": {
@@ -250665,6 +250704,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/tworoundpresidentialelection/"
+    },
+    "TwylaTharp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5167372935 [SCIM5167372935].md",
+          "key": "master-the-creative-process-twyla-tharp-scim5167372935",
+          "show": "Huberman Lab",
+          "title": "Master the Creative Process | Twyla Tharp",
+          "url": "/wiki/sources/master-the-creative-process-twyla-tharp-scim5167372935/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/twylatharp/"
     },
     "TyrannicideRepublicanDilemma": {
       "episode_count": 3,

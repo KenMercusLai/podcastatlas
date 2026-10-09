@@ -4323,8 +4323,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under](sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5.md) — 这病说来话长 episode on scar maturation, sustainable silicone care, surrounding-skin support, specialist escalation, and realistic visibility and acceptance goals.
 - [VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控](sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws.md) — 这病说来话长 episode on road rage as a driving-safety interaction among traffic stress, perceived unfairness, accumulated emotion, partial anonymity, regulation, and system design.
 - [Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard](sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429.md) — Huberman Lab interview on mitochondria as energy-transforming and information-processing systems linking finite energy allocation, stress, recovery, aging, and cautious intervention boundaries.
+- [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
 
 ## Entities
+- [Twyla Tharp](entities/TwylaTharp.md) — Choreographer whose practice joins schedule, bodily technique, internal standards, audience service, and adaptation across aging.
 - [《疯狂动物城2》 / Zootopia 2](entities/Zootopia2Film.md) — Animated-film reference point used by VOL.188 to discuss inherited burden, belonging, progress pressure, and becoming oneself.
 - [Brian Epstein](entities/BrianEpstein.md) — Beatles manager whose respectable public packaging and death reveal the band's dependence on a shared organizational center.
 - [George Harrison](entities/GeorgeHarrison.md) — Beatles musician whose Indian spiritual direction and Haight-Ashbury skepticism qualify simplified counterculture narratives.
@@ -17340,6 +17342,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [Creative Spine](concepts/CreativeSpine.md) — Organizing center that coordinates a work while allowing its route and details to emerge through practice.
+- [Embodied Creative Judgment](concepts/EmbodiedCreativeJudgment.md) — Use of trained bodily perception, technique, and real-world rehearsal as contextual evidence for creative decisions.
 - [金庸小说的儒家伦理 / Jin Yong Confucian Ethics](concepts/JinYongConfucianEthics.md) — 以道德实践而非身份或经典知识区分儒家精神与僵化礼教，并把护民责任、情法冲突与现代法治纳入同一框架。
 - [家庭角色与责任边界 / Family Role Responsibility Boundary](concepts/FamilyRoleResponsibilityBoundary.md) — Role-, choice-, and harm-sensitive distinction between care, ordinary obligation, and transferred adult burden.
 - [归属中的自主选择 / Autonomous Belonging Choice](concepts/AutonomousBelongingChoice.md) — Framework treating staying near family or place as potentially agentic without romanticizing constraint.
