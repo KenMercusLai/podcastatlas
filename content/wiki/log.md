@@ -33914,3 +33914,11 @@ Added source `1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg
+
+Added source `essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583`; and resynthesized [[JustinSonnenburg]], [[MicrobiomeEcologicalResilience]], and [[FermentedFoodResponsePersonalization]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: gut-microbiome change depends on both microbial availability and a supportive habitat, while diverse whole-plant fiber and live fermented foods follow different ecological routes and should not be converted into universal doses or repair protocols. No settled contradiction was adopted. The Essentials edit condenses the existing full Sonnenburg interview and is not independent replication; the mouse recovery experiment, short Stanford intervention, inflammatory markers, hygiene distinctions, sweetener and emulsifier effects, purified-fiber harms, and probiotic or cleanse judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,246 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

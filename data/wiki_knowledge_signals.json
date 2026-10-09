@@ -86461,9 +86461,9 @@
       "url": "/wiki/entities/ferdinandmaximilian/"
     },
     "FermentedFoodResponsePersonalization": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -86492,9 +86492,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Brain-Body Function & Health",
           "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        },
+        {
+          "episode_file": "SCIM9951617583 [SCIM9951617583].md",
+          "key": "essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/fermentedfoodresponsepersonalization/"
     },
     "FerrariLuce": {
@@ -136831,9 +136838,9 @@
       "url": "/wiki/entities/junxumiwusun/"
     },
     "JustinSonnenburg": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -136848,9 +136855,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Brain-Body Function & Health",
           "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        },
+        {
+          "episode_file": "SCIM9951617583 [SCIM9951617583].md",
+          "key": "essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/justinsonnenburg/"
     },
     "JustinianI": {
@@ -168512,9 +168526,9 @@
       "url": "/wiki/concepts/microrestlearningreplay/"
     },
     "MicrobiomeEcologicalResilience": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -168536,9 +168550,16 @@
           "show": "Huberman Lab",
           "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
           "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        },
+        {
+          "episode_file": "SCIM9951617583 [SCIM9951617583].md",
+          "key": "essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/microbiomeecologicalresilience/"
     },
     "MicronTechnology": {

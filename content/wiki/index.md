@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583.md) — Condensed Huberman Lab interview on microbiome resilience, whole-plant fiber, fermented-food evidence, calibrated hygiene, and the limits of cleanses, probiotics, and purified prebiotics.
 - [1 东西方历史的祖师爷：从希罗多德到司马迁](sources/1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867.md) — 怪东西以希罗多德、修昔底德、孔子、司马迁与班固比较探寻、政治分析、道德载道、作者判断和可传承形式，说明“史学之父”取决于所采用的奠基标准。
 - [626. Jack The Ripper: The Killer Strikes Again (Part 3)](sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076.md) — The Rest Is History reconstructs the double event, victim precarity, police overload, evidence-public-safety tradeoffs, and the media machinery that gave the unknown killer a public persona.
 - [导演大鹏×罗永浩！我这两辈子](sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt.md) — 罗永浩与大鹏回溯集安童年、搜狐与网络视频、电影作者转型、承诺伦理，以及票房、评分和奖项压力。

@@ -6,7 +6,8 @@ sources:
   - how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216
   - how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394
   - best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715
-last_updated: 2026-10-04
+  - essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -43,14 +44,14 @@ Intervention depends on state and purpose. The earlier solo synthesis discusses 
 - Disturbance and intervention context: [[how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394]] discusses antibiotics, stress, travel, illness, fasting, supplements, and fecal transfer as state-dependent inputs rather than universal repair protocols.
 - Cross-feeding and barrier context: [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] describes fiber-to-acetate-or-lactate-to-butyrate cross-feeding and links butyrate to colon-cell, tight-junction, satiety, and local-acidity support.
 - Fasting qualification: [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] says microbes may turn toward mucus substrates during fasting but argues that time restriction's metabolic benefits probably outweigh that risk for many people.
+- Condensed ecological restatement: [[essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583]] reiterates stable states, multigenerational diversity loss in mice, and recovery through organisms plus supportive diet while distinguishing garden exposure from higher-risk public settings.
 
 ## Counterevidence & Qualifications
-The sources are public education rather than full reviews of primary evidence. The strongest recovery example is a mouse experiment involving multigenerational diet and fecal transfer, so it cannot be translated directly into human treatment. Microbial diversity, inflammatory markers, butyrate production, metabolite detection, or community change are not interchangeable with durable clinical benefit. Early-life, sanitation, artificial-sweetener, emulsifier, fasting, mucus consumption, cerebrospinal-fluid, kidney-disease, probiotic, prebiotic, mood, and named-microbe neurotransmitter claims need study-specific evaluation. The solo episode's microbiome terminology and quantitative microbial-mass statements are retained as source-scoped simplifications.
+The sources are public education rather than full reviews of primary evidence. The full Sonnenburg interview and its Essentials edit are overlapping provenance, not independent support. The strongest recovery example is a mouse experiment involving multigenerational diet and fecal transfer, so it cannot be translated directly into human treatment. Microbial diversity, inflammatory markers, butyrate production, metabolite detection, or community change are not interchangeable with durable clinical benefit. Early-life, sanitation, artificial-sweetener, emulsifier, fasting, mucus consumption, cerebrospinal-fluid, kidney-disease, probiotic, prebiotic, mood, and named-microbe neurotransmitter claims need study-specific evaluation. The solo episode's microbiome terminology and quantitative microbial-mass statements are retained as source-scoped simplifications.
 
 ## What Changed
-- Added explicit microbial cross-feeding from fiber-derived substrates toward butyrate.
-- Connected short-chain fatty acids to colon-cell and barrier support without treating metabolites as clinical outcomes.
-- Preserved unresolved fasting evidence despite the new source's favorable time-restriction judgment.
+- Added the Essentials edit as overlapping support for the organisms-plus-habitat model, not independent replication.
+- Made the hygiene implication explicitly risk-calibrated rather than anti-sanitation.
 
 ## Related Concepts
 - [[FermentedFoodResponsePersonalization]] - human dietary-intervention branch showing that ecological responses vary by exposure and baseline state.
