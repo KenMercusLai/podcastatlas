@@ -33330,3 +33330,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”
+
+Added source `zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn`; created [[ChengyangCommandery|城阳郡]] and [[StatusReversalSurvivalBargain|名分倒置式求生]]; and resynthesized [[LiuFeiQiKing|刘肥]], [[LuYuanPrincess|鲁元公主]], and [[TangmuYi|汤沐邑]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: an honored banquet seat reportedly turns Liu Fei into a target, while the joined concession of Chengyang revenue and a reversed queen-mother title converts territorial capacity and kinship rank into a threat-reduction bargain; the second branch connects Xiao He's deathbed approval of Cao Shen to institutional continuity while retaining his legal, frugal, and Han Xin legacies as mixed and source-bounded. No settled contradiction was adopted. The poison plan, cup handling, Liu Ying's awareness, advice, motives, ceremony, “four sons” count, omens, dates, Nine Chapters authorship, household details, and dialogue remain episode-attributed or source-scoped; “recognizing his sister as mother” is treated as political-title shorthand rather than biological kinship. Broad [[LuZhi|吕雉]], [[LiuYing|汉惠帝刘盈]], [[XiaoHe|萧何]], [[CaoShen|曹参]], [[HanXin|韩信]], [[QiKingdomEarlyHan|齐国]], and show pages were kept closed because the bounded additions are represented in the focused source, people, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,173 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

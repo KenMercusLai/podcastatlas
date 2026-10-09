@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10045
+wiki_total_pages: 10046
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2606,6 +2606,9 @@ wiki_pages:
   - key: "SameSurnameKingEnfeoffment"
     title: "同姓王分封 / Same-Surname King Enfeoffment"
     url: "/wiki/concepts/samesurnamekingenfeoffment/"
+  - key: "StatusReversalSurvivalBargain"
+    title: "名分倒置式求生 / Status-Reversal Survival Bargain"
+    url: "/wiki/concepts/statusreversalsurvivalbargain/"
   - key: "SoreThroatEscalation"
     title: "咽喉疼痛升级就医 / Sore-Throat Escalation"
     url: "/wiki/concepts/sorethroatescalation/"

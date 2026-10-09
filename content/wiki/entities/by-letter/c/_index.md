@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12869
+wiki_total_pages: 12870
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1907,6 +1907,9 @@ wiki_pages:
   - key: "CityMart"
     title: "城市集市 / City Mart"
     url: "/wiki/entities/citymart/"
+  - key: "ChengyangCommandery"
+    title: "城阳郡 / Chengyang Commandery"
+    url: "/wiki/entities/chengyangcommandery/"
   - key: "Chenghuang"
     title: "城隍"
     url: "/wiki/entities/chenghuang/"

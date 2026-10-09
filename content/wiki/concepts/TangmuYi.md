@@ -1,27 +1,57 @@
 ---
 title: "汤沐邑 / Tangmu Yi"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [statecraft, ritual, aristocracy, pre-qin-history, warring-states, western-han, taxation]
-sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz
+  - zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f
+  - zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn
+last_updated: 2026-10-09
 ---
 
-# 汤沐邑 / Tangmu Yi
+## Definition
 
-汤沐邑 / Tangmu Yi enters the wiki through [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] as the reward form [[ZhaoDan|赵丹 / 赵孝成王]] considers for [[Xinlingjun|信陵君]] after the relief of [[Handan|邯郸]]. The episode glosses it as a polite form in which a city or county's tax revenue is assigned for the guest's bathing expenses.
+汤沐邑 / Tangmu Yi is a status-bearing territorial benefit whose meaning depends on context: it can assign local revenue to an honored recipient, mark a ruler's home place through exemption, or transfer commandery resources inside a political settlement.
 
-In this source, Tangmu Yi matters because it marks a retreat from overt political elevation. Zhao Xiaocheng Wang first considers five cities and stages a high guest ritual, but Xinlingjun's repeated humility makes the reward move toward a more deferential and indirect honor. The concept therefore sits inside [[PowerEtiquetteReading|权力礼仪细读]]: reward scale, label, and ritual form are all evidence of political rank management.
+## Current Synthesis
 
-[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] adds an early Western Han variation through [[LiuBang|刘邦]]'s return to [[PeiCounty|沛县]]. Liu Bang calls Pei his Tangmu place after defeating [[YingBu|英布 / 黥布]], but the episode's emphasis is not revenue assignment to the ruler; it is exemption of Pei's people, and then [[FengCounty|丰邑 / 丰县]], from rent, taxes, and corvee under [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]].
+The Warring States evidence presents Tangmu Yi as a reduced but still deferential reward. After [[Xinlingjun|信陵君]] saves [[Handan|邯郸]], [[ZhaoDan|赵丹 / 赵孝成王]] moves from five cities and near-equal guest ritual toward a bathing-estate form as Xinlingjun refuses dangerous elevation. The label therefore joins material value to rank management. [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f|Zhouji 97-2]]
+
+The early-Han sources show two different adaptations. [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] uses Tangmu language for [[LiuBang|刘邦]]'s home counties while emphasizing exemption of [[PeiCounty|沛县]] and [[FengCounty|丰邑 / 丰县]] from rent, taxes, and corvee rather than payment to a recipient. [[zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn|Hanji 195]] returns to beneficiary-directed revenue when [[LiuFeiQiKing|刘肥]] gives [[ChengyangCommandery|城阳郡]] to [[LuYuanPrincess|鲁元公主]], but now the grant is also part of a survival bargain with [[LuZhi|吕雉]].
 
 ## Key Claims
-- Hanji 188 shows Tangmu language being used for hometown exemption rather than only for assigning revenue to an honored recipient.
-- Tangmu Yi is not just material compensation; in this episode it is a status-management device.
-- A more indirect reward can preserve gratitude while reducing the danger of making a guest appear equal to a ruler.
-- The reward's meaning depends on the surrounding ritual scene, especially Xinlingjun's refusal of excessive guest elevation.
 
-## Connections
-- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[LiuBang|刘邦]], [[PeiCounty|沛县]], [[FengCounty|丰邑 / 丰县]], and [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - early Han hometown exemption variant.
-- [[ZhaoDan|赵丹 / 赵孝成王]], [[Xinlingjun|信陵君]], and [[Handan|邯郸]] - source actors and post-rescue setting.
-- [[PowerEtiquetteReading|权力礼仪细读]] - method for reading the reward's status meaning.
-- [[WarringStatesFourLords|战国四公子]] and [[FuChen|负臣]] - comparative reputation and post-rescue political risk.
+- Tangmu Yi combines economic benefit with public status rather than functioning as a purely fiscal label.
+- Its material mechanism can vary between revenue assignment, territorial benefit, and source-described exemption.
+- The political meaning comes from the surrounding relationship: reward, hometown memory, or submission.
+- An indirect territorial grant can manage rank more safely than overt elevation while still conveying large value.
+- Hanji 195 shows the form being used not only to honor a beneficiary but also to make the grantor's submission credible.
+
+## Evidence
+
+Reward and status restraint:
+- [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f|Zhouji 97-2]] places the bathing-estate form inside Zhao's retreat from over-elevating Xinlingjun after the relief of Handan.
+
+Hometown exemption:
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] applies Tangmu language to Liu Bang's hometown relationship while describing permanent tax and corvee exemption for Pei and Feng.
+
+Survival settlement:
+- [[zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn|Hanji 195]] says Liu Fei transfers Chengyang to Princess Lu Yuan as a bathing estate while also honoring her as queen mother.
+
+## Counterevidence & Qualifications
+
+The three podcast notes do not provide a complete legal history of Tangmu Yi or establish that the same fiscal mechanism operated in every period. Hanji 188's hometown exemption differs materially from revenue assigned to an elite beneficiary, and Hanji 195 does not specify the administrative implementation of Princess Lu Yuan's Chengyang benefit. The page therefore preserves contextual variation rather than forcing every use into one technical definition.
+
+## What Changed
+
+- Migrated the page to the synthesis-first schema from both preserved sources before adding Hanji 195.
+- Added Chengyang as a beneficiary-directed grant embedded in a political-survival settlement.
+- Reframed Tangmu Yi as a context-dependent combination of material benefit and rank signaling.
+
+## Related Concepts
+
+- [[PowerEtiquetteReading|权力礼仪细读]] - method for reading the rank consequences of territorial rewards and ceremonial form.
+- [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - early-Han exemption variant attached to Liu Bang's home counties.
+- [[StatusReversalSurvivalBargain|名分倒置式求生]] - settlement in which Chengyang's material transfer reinforces Liu Fei's symbolic submission.
+- [[SameSurnameKingEnfeoffment|同姓王分封]] - territorial structure that makes commandery-scale royal concessions possible.

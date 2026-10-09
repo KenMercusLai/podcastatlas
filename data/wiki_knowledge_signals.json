@@ -40193,6 +40193,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/chengshijiushizheyang/"
     },
+    "ChengyangCommandery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘” [lokAJlF0bhFT1b7Fo-HwazYQretn].md",
+          "key": "zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/chengyangcommandery/"
+    },
     "Chenliu": {
       "episode_count": 6,
       "show_count": 1,
@@ -145887,9 +145903,9 @@
       "url": "/wiki/entities/liufeijiangdukingwesternhan/"
     },
     "LiuFeiQiKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县 [lnoib0BvZ8w0ihvHxMTx19tR4JDZ].md",
@@ -145911,6 +145927,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘” [lokAJlF0bhFT1b7Fo-HwazYQretn].md",
+          "key": "zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn/"
         }
       ],
       "updated": "2026-10-09",
@@ -152981,6 +153004,64 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/luyezhuwesternhan/"
+    },
+    "LuYuanPrincess": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2） [lolUh53iYrZo4uCf3TTzMN3_otKV].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2） [lq9ecPjB4r-IJ0_e-Iu-EZFAVoWJ].md",
+          "key": "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1） [lrtpxLAK0DLyej8bozMmHdtFczno].md",
+          "key": "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘” [lokAJlF0bhFT1b7Fo-HwazYQretn].md",
+          "key": "zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/luyuanprincess/"
     },
     "LuYuxin": {
       "episode_count": 1,
@@ -228120,6 +228201,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/statusneutralpalacegateenforcement/"
     },
+    "StatusReversalSurvivalBargain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘” [lokAJlF0bhFT1b7Fo-HwazYQretn].md",
+          "key": "zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/statusreversalsurvivalbargain/"
+    },
     "StefanZweig": {
       "episode_count": 2,
       "show_count": 2,
@@ -235168,6 +235265,36 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/tanglongcoup/"
+    },
+    "TangmuYi": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县 [lnoib0BvZ8w0ihvHxMTx19tR4JDZ].md",
+          "key": "zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》97-2丨揭秘信陵君凭什么是四公子之首 [lodQnTthbil9o8EZppt66lywzD-f].md",
+          "key": "zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》97-2丨揭秘信陵君凭什么是四公子之首",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘” [lokAJlF0bhFT1b7Fo-HwazYQretn].md",
+          "key": "zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/tangmuyi/"
     },
     "TangyiFuWesternHan": {
       "episode_count": 2,
