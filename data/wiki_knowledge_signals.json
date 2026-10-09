@@ -46975,9 +46975,9 @@
       "url": "/wiki/entities/coinbase/"
     },
     "ColdExposureDoseAndSafety": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -47013,9 +47013,16 @@
           "show": "Huberman Lab",
           "title": "Using Deliberate Cold Exposure for Health and Performance",
           "url": "/wiki/sources/using-deliberate-cold-exposure-for-health-and-performance-scim1045909781/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdFluSupplementEvidenceBoundary": {
@@ -109092,9 +109099,9 @@
       "url": "/wiki/concepts/heartvalverepairreplacementdecision/"
     },
     "HeatExposureDoseAndSafety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -109116,9 +109123,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
           "url": "/wiki/sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/heatexposuredoseandsafety/"
     },
     "HeathIncomesPolicy": {
@@ -124980,9 +124994,9 @@
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
     "IntermittentChallengeHormesis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -125004,9 +125018,16 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
@@ -167559,9 +167580,9 @@
       "url": "/wiki/entities/microntechnology/"
     },
     "MicronutrientStatusMeasurement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -167569,9 +167590,16 @@
           "show": "Huberman Lab",
           "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/micronutrientstatusmeasurement/"
     },
     "MicroplasticExposureReduction": {
@@ -182124,9 +182152,9 @@
       "url": "/wiki/entities/omarbradley/"
     },
     "Omega3StatusAndFormBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -182141,9 +182169,16 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/omega3statusandformboundary/"
     },
     "OmenCodedRemonstrance": {
@@ -210383,9 +210418,9 @@
       "url": "/wiki/entities/rhodebeauty/"
     },
     "RhondaPatrick": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -210400,9 +210435,16 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "SCIM1556836807 [SCIM1556836807].md",
+          "key": "essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807",
+          "show": "Huberman Lab",
+          "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/rhondapatrick/"
     },
     "RichardCromwell": {

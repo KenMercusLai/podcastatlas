@@ -5,7 +5,8 @@ tags: [omega-3, epa, dha, supplements, biomarkers, nutrition]
 sources:
   - micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176
   - the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395
-last_updated: 2026-10-05
+  - essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Omega-3 status and form boundary is the distinction among ALA, EPA, DHA, food so
 The episode distinguishes plant ALA from marine EPA and DHA and notes that conversion from ALA is limited. It treats fish, roe, fish oil, krill oil, and microalgae oil as non-identical sources, while distinguishing triglyceride, ethyl-ester, and phospholipid forms. Form and meal context may affect absorption, and oxidation, contaminants, concentration, storage, and third-party testing affect product quality.
 
 The red-blood-cell omega-3 index is presented as a longer-term status measure rather than a direct record of a recent dose. Patrick links EPA and DHA to overlapping but distinct inflammatory, membrane, neurotransmitter, platelet, and brain-transport mechanisms. The newer source adds resolvins and protectins as inflammation-resolution mediators and emphasizes membrane fluidity, while reporting cardiovascular trials and a multi-intervention aging study. Those mechanisms, trials, observational mortality associations, mood findings, prescription use for high triglycerides, and APOE4 discussion do not collapse into one self-treatment dose or prove that a particular retail form is best for everyone.
+
+The Essentials edit condenses the first interview's form, quality, index, inflammation, and membrane claims. It adds provenance but should not be counted as a separate confirmation of the reported associations or dose threshold.
 
 ## Key Claims
 - ALA, EPA, and DHA are related omega-3 fatty acids but are not nutritionally or mechanistically interchangeable.
@@ -35,9 +38,10 @@ The red-blood-cell omega-3 index is presented as a longer-term status measure ra
 - Status and mechanisms - [[micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176]] connects the omega-3 index and red-blood-cell turnover with inflammatory mediators, membrane structure, serotonin-related pathways, and DHA transport.
 - Resolution and membranes - [[the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395]] connects EPA and DHA with resolvins, protectins, and cell-membrane fluidity.
 - Outcome scope - [[the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395]] reports cardiovascular trials, omega-3-index associations, and a combined omega-3, vitamin D, and resistance-training result without isolating one universal retail protocol.
+- Condensed provenance - [[essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807]] restates the full interview's form, quality, omega-3-index, inflammation, and membrane claims without independently confirming them.
 
 ## Counterevidence & Qualifications
-The structured notes do not expose full methods, effect sizes, product comparisons, or clinical eligibility criteria. Life-expectancy and sudden-death associations remain observational; mood, inflammation, aging-clock, and cancer findings are study-specific; and the APOE4 and phospholipid-DHA discussion does not establish a personalized prevention or treatment protocol. The reported 66% lower invasive-cancer result came from a combined intervention and cannot be assigned to omega-3 alone. Bleeding risk, medications, lipid disorders, pregnancy, allergy, contaminants, oxidation, and prescribed high-dose therapy require individualized medical context.
+The structured notes do not expose full methods, effect sizes, product comparisons, or clinical eligibility criteria, and the full interview plus Essentials edit are overlapping provenance. Life-expectancy and sudden-death associations remain observational; mood, inflammation, aging-clock, and cancer findings are study-specific; and the APOE4 and phospholipid-DHA discussion does not establish a personalized prevention or treatment protocol. The reported 66% lower invasive-cancer result came from a combined intervention and cannot be assigned to omega-3 alone. Bleeding risk, medications, lipid disorders, pregnancy, allergy, contaminants, oxidation, and prescribed high-dose therapy require individualized medical context.
 
 ## What Changed
 - Added inflammation-resolution and membrane-fluidity mechanisms.

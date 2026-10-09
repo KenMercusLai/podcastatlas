@@ -6,7 +6,8 @@ sources:
   - micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176
   - scim5583107634-scim5583107634
   - essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357
-last_updated: 2026-10-06
+  - essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Heat exposure dose and safety is a framework for evaluating sauna and hot-bath s
 ## Current Synthesis
 The sources connect deliberate heat with heat-shock proteins, blood flow, cardiovascular load, cortisol, growth hormone, dynorphin/endorphin signaling, FOXO3, sleep timing, and possible brain, muscle, and adipose effects. Finnish cohorts associate more frequent sauna use with lower cardiovascular and dementia-related outcomes, but they do not prove causality or establish one optimum across modalities and populations. Acute hormone or stress-marker changes likewise do not demonstrate durable clinical benefit, and the full deliberate-heat episode and its Essentials condensation are overlapping provenance rather than replication.
 
-Thermal dose includes temperature, duration, session structure, weekly frequency, adaptation, hydration, cooling transitions, modality, and personal risk. Repeated hot/cool bouts may produce a different response from continuous exposure, and adaptation can reduce an acute shock response. Hot baths can be accessible alternatives, while infrared saunas may deliver a different dose. Cardiovascular disease, hypotension, alcohol, pregnancy, fertility goals, older age, dehydration, medications, and impaired heat tolerance create material safety questions.
+Thermal dose includes temperature, duration, session structure, weekly frequency, adaptation, hydration, cooling transitions, modality, and personal risk. Repeated hot/cool bouts may produce a different response from continuous exposure, and adaptation can reduce an acute shock response. Hot baths can be accessible alternatives, while infrared saunas may deliver a different dose. Cardiovascular disease, hypotension, alcohol, pregnancy, fertility goals, older age, dehydration, medications, and impaired heat tolerance create material safety questions. The Essentials edit of Patrick's interview repeats the heat-shock, cardiovascular-association, and safety material from the full conversation and is overlapping provenance.
 
 ## Key Claims
 - Heat exposure is a dose defined by temperature, duration, frequency, modality, adaptation, and personal context.
@@ -38,9 +39,10 @@ Thermal dose includes temperature, duration, session structure, weekly frequency
 - Acute and observational outcomes - [[scim5583107634-scim5583107634]] separates cardiovascular and mental-health associations from acute cortisol, growth-hormone, heat-shock, and opioid-pathway responses.
 - Practical safety - [[scim5583107634-scim5583107634]] emphasizes conservative starting doses, hydration, heat-tolerance differences, pregnancy caution, and the danger of neuronal injury from overheating.
 - Condensed provenance - [[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357]] reinforces the goal-specific frequency distinction, post-heat cooling logic, hydration need, and hyperthermia boundary without independently confirming the full episode.
+- Interview condensation - [[essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807]] repeats the Patrick interview's heat-shock, exercise-overlap, cohort-association, duration, and medical-caution claims without independently confirming them.
 
 ## Counterevidence & Qualifications
-The supplied notes do not provide all cohort methods, confounder adjustment, absolute risks, randomized outcome evidence, or individualized contraindication criteria needed to turn associations into prescriptions. Heat-shock changes, opioid hypotheses, cortisol and growth-hormone responses, memory effects, BDNF, FOXO3, muscle preservation, sperm changes, toxin excretion, protein aggregation, mental-health associations, adipose browning, and longevity-gene findings vary in evidence type and remain source-scoped. The full and Essentials releases are not independent evidence. Symptoms, cardiovascular disease, fertility goals, pregnancy, medications, dehydration risk, and impaired heat tolerance require qualified guidance.
+The supplied notes do not provide all cohort methods, confounder adjustment, absolute risks, randomized outcome evidence, or individualized contraindication criteria needed to turn associations into prescriptions. Heat-shock changes, opioid hypotheses, cortisol and growth-hormone responses, memory effects, BDNF, FOXO3, muscle preservation, sperm changes, toxin excretion, protein aggregation, mental-health associations, adipose browning, and longevity-gene findings vary in evidence type and remain source-scoped. Each full episode and its Essentials release are overlapping provenance rather than independent evidence. Symptoms, cardiovascular disease, fertility goals, pregnancy, medications, dehydration risk, and impaired heat tolerance require qualified guidance.
 
 ## What Changed
 - Added the Essentials condensation as overlapping provenance rather than independent confirmation.
