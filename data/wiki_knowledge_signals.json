@@ -175040,9 +175040,9 @@
       "url": "/wiki/concepts/nomadicimperialformation/"
     },
     "NominalOfficePracticalPowerMismatch": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
@@ -175057,6 +175057,13 @@
           "show": "怪东西Weird History",
           "title": "16 东西方的宰相",
           "url": "/wiki/sources/16-dongxifang-de-zaixiang-lpor4-tu5o02vkbwd58e2tgl3rp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2） [luhQCH956L2lwf_N-KfyaSEYodpR].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr/"
         }
       ],
       "updated": "2026-10-09",
@@ -217998,9 +218005,9 @@
       "url": "/wiki/entities/shenwansan/"
     },
     "ShenYiji": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -218029,9 +218036,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2） [luhQCH956L2lwf_N-KfyaSEYodpR].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/shenyiji/"
     },
     "ShenYueFDE": {
@@ -251170,9 +251184,9 @@
       "url": "/wiki/entities/wanglinxincrownprince/"
     },
     "WangLingHanMinister": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
@@ -251194,9 +251208,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》227｜喝人奶续命百岁，养妻妾百人，他是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2） [luhQCH956L2lwf_N-KfyaSEYodpR].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/wanglinghanminister/"
     },
     "WangLingXinPrince": {

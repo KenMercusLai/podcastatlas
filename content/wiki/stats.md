@@ -13,20 +13,20 @@ outputs: ["html"]
 - Overview: 1
 - Concepts: 10037
 - Entities: 12865
-- Sources: 4162
-- Total wiki content pages: 27065
+- Sources: 4163
+- Total wiki content pages: 27066
 
 ## Links
-- Wiki link references: 635723
-- Unique wiki link targets: 27088
+- Wiki link references: 635764
+- Unique wiki link targets: 27089
 - Missing targets: 29
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4162
-- Matched episodes: 4162
+- Source pages: 4163
+- Matched episodes: 4163
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -57,7 +57,6 @@ outputs: ["html"]
 - `[[CreatorEconomy]]`
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
 - `[[Hanshu]]`
-  - `content/wiki/entities/ShenYiji.md`
   - `content/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf.md`
 - `[[IntrinsicMotivation]]`
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`

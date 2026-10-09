@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr.md) — 王陵以太傅高位被排出决策核心，陈平与审食其分掌外朝和内廷；个人动机、惠帝诸子身份与灾异象征保留来源边界。
 - [《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章](sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy.md) — 刘章以军法酒令公开震慑吕氏，陆贾则促成陈平与周勃联结；刘长母亲死因、人物动机与南越战事细节保留来源边界。
 - [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju.md) — 赵王刘友在吕氏婚姻中的家庭指控后被召入长安、拒见、围困断粮并以平民礼下葬；姓名来自相邻下集回顾，指控与细节保留来源边界。
 - [《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王](sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g.md) — 田子春先借张氏推动吕禄封赵王，再以封刘泽安抚刘氏与大臣，并催刘泽携诏离京避过追收。
