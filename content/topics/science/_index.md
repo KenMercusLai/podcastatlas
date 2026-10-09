@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1484
+topic_total_pages: 1485
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2455,6 +2455,9 @@ topic_concepts:
   - key: "ImperialDeathCauseInference"
     title: "帝王死因史料推断 / Imperial Death-Cause Inference"
     url: "/wiki/concepts/imperialdeathcauseinference/"
+  - key: "ImperialTreatmentTrustDilemma"
+    title: "帝王诊疗信任困境 / Imperial Treatment-Trust Dilemma"
+    url: "/wiki/concepts/imperialtreatmenttrustdilemma/"
   - key: "InnerDemonSymbolicReading"
     title: "心魔象征式解读 / Inner-Demon Symbolic Reading"
     url: "/wiki/concepts/innerdemonsymbolicreading/"

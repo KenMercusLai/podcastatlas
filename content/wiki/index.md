@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死](sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx.md) — 刘邦拒医被谨慎解释为继承斗争下的诊疗信任危机；白马之盟与正式诏书则以习俗和法律两条路径安抚开国政治联盟。
 - [《资治通鉴·汉纪》190｜萧何入狱](sources/zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm.md) — 萧何请求开放长安苑囿荒地供民耕种，却被刘邦解释为受贿与收买民心而下狱；王卫尉以宰相职责和萧何长期镇守关中的履历进谏，促成释放但未消除君臣不对称。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（2）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp.md) — 陈平、周勃把诛杀樊哙改为押送候决；刘邦死后陈平抢先入宫自保，周昌则以抗诏延缓刘如意入京，直至吕雉先调走保护者。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7.md) — 刘邦临终按曹参、王陵配陈平、周勃安排辅政梯队，随后刘盈即位、卢绾亡匈奴；樊哙死令则显示继承焦虑如何侵蚀开国旧谊。
@@ -17174,6 +17175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [帝王诊疗信任困境 / Imperial Treatment-Trust Dilemma](concepts/ImperialTreatmentTrustDilemma.md) — 宫廷诊疗渠道受政治对手控制时，善意治疗也可能因无法独立验证而失去可信度，但怀疑本身不构成谋害证据。
 - [临终辅政梯队安排 / Deathbed Ministerial Succession Planning](concepts/DeathbedMinisterialSuccessionPlanning.md) — 临终君主按政治阶段和能力互补安排连续辅政人选，同时保留后续联盟与执行条件对结果的决定作用。
 - [名分倒置式求生 / Status-Reversal Survival Bargain](concepts/StatusReversalSurvivalBargain.md) — 受威胁者以反常名分和物质让渡公开降低自身威胁的政治生存模式。
 - [萧规曹随式制度连续 / Xiao-Gui-Cao-Sui Institutional Continuity](concepts/XiaoGuiCaoSuiInstitutionalContinuity.md) — 继任者在既有制度足够健全且社会需要恢复时，以克制改制冲动来保护秩序的条件性治理选择。

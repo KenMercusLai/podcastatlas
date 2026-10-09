@@ -120557,6 +120557,22 @@
       "updated": "2026-08-23",
       "url": "/wiki/concepts/imperialtourpoliticaltheater/"
     },
+    "ImperialTreatmentTrustDilemma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死 [lozKWAvNGZ30qzYNcEpTeXt1QURX].md",
+          "key": "zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/imperialtreatmenttrustdilemma/"
+    },
     "ImperialVeritableRecords": {
       "episode_count": 1,
       "show_count": 1,
@@ -256374,9 +256390,9 @@
       "url": "/wiki/concepts/whitedeerskincurrency/"
     },
     "WhiteHorseCovenant": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2） [luhQCH956L2lwf_N-KfyaSEYodpR].md",
@@ -256391,6 +256407,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死 [lozKWAvNGZ30qzYNcEpTeXt1QURX].md",
+          "key": "zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx/"
         }
       ],
       "updated": "2026-10-09",

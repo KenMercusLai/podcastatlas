@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10047
+wiki_total_pages: 10048
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "ImperialSelfCriticismEdict"
     title: "帝王自责诏 / Imperial Self-Criticism Edict"
     url: "/wiki/concepts/imperialselfcriticismedict/"
+  - key: "ImperialTreatmentTrustDilemma"
+    title: "帝王诊疗信任困境 / Imperial Treatment-Trust Dilemma"
+    url: "/wiki/concepts/imperialtreatmenttrustdilemma/"
   - key: "IncognitoImperialHuntingRisk"
     title: "微服游猎治理风险 / Incognito Imperial Hunting Risk"
     url: "/wiki/concepts/incognitoimperialhuntingrisk/"

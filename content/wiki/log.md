@@ -33361,3 +33361,11 @@ Added source `zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm`
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死
+
+Added source `zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx`; created [[ImperialTreatmentTrustDilemma|帝王诊疗信任困境]]; and resynthesized [[WhiteHorseCovenant|白马之盟]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Liu Bang's refusal of a physician sent by Lu Zhi is preserved as a succession-driven trust hypothesis rather than proof of medical conspiracy, while the reported White Horse Covenant and contemporaneous edict pair oath custom with public legal-administrative assurance for the Liu house and founding merit coalition. No settled contradiction was adopted. Treatment motive, prognosis, malicious intent, covenant date, participants, wording, ceremony, legal status, edict relationship, and long-run effect remain source-scoped. Broad [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], and show pages were kept closed because the bounded additions are represented in the focused source and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,177 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
