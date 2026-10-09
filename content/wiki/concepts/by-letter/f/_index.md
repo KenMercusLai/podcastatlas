@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10128
+wiki_total_pages: 10131
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "FilialMourningAccessCredential"
     title: "守陵孝行进身凭证 / Filial Mourning Access Credential"
     url: "/wiki/concepts/filialmourningaccesscredential/"
+  - key: "FamilyRoleResponsibilityBoundary"
+    title: "家庭角色与责任边界 / Family Role Responsibility Boundary"
+    url: "/wiki/concepts/familyroleresponsibilityboundary/"
   - key: "FoundingMeritHierarchy"
     title: "建国功臣排序 / Founding Merit Hierarchy"
     url: "/wiki/concepts/foundingmerithierarchy/"

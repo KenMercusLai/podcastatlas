@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10128
+wiki_total_pages: 10131
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2852,6 +2852,9 @@ wiki_pages:
   - key: "PosthumousMeritVindication"
     title: "身后功过昭雪 / Posthumous Merit Vindication"
     url: "/wiki/concepts/posthumousmeritvindication/"
+  - key: "ProgressPressureRestPermission"
+    title: "进步压力与休息许可 / Progress Pressure and Permission to Rest"
+    url: "/wiki/concepts/progresspressurerestpermission/"
   - key: "PostalMonopolyPrivateExpressLegalization"
     title: "邮政专营与民营快递合法化"
     url: "/wiki/concepts/postalmonopolyprivateexpresslegalization/"

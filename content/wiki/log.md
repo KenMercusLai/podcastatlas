@@ -33946,3 +33946,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | VOL.188《疯狂动物城2》背后藏着的“成年人心理课”
+
+Added source `vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c`; created [[Zootopia2Film|《疯狂动物城2》]], [[FamilyRoleResponsibilityBoundary|家庭角色与责任边界]], [[AutonomousBelongingChoice|归属中的自主选择]], and [[ProgressPressureRestPermission|进步压力与休息许可]]; and resynthesized [[Parentification|亲职化]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: family care and social responsibility can coexist with refusal of transferred adult burdens; staying or leaving should be judged through agency and support rather than a single mobility ideal; and rest or temporary non-progress need not be moral failure. No settled contradiction was adopted. Film interpretation, the “second arrow,” therapy terminology, collective-unconscious and examination-history explanations, the news anecdote, and rebound metaphor remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,250 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

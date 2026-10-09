@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10128
+wiki_total_pages: 10131
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3035,6 +3035,9 @@ wiki_pages:
   - key: "AbnormalFindingFollowupContinuity"
     title: "异常发现随访连续性 / Abnormal Finding Follow-up Continuity"
     url: "/wiki/concepts/abnormalfindingfollowupcontinuity/"
+  - key: "AutonomousBelongingChoice"
+    title: "归属中的自主选择 / Autonomous Belonging Choice"
+    url: "/wiki/concepts/autonomousbelongingchoice/"
   - key: "AwaitingPunishmentPerformance"
     title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
     url: "/wiki/concepts/awaitingpunishmentperformance/"

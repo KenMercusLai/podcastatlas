@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12955
+wiki_total_pages: 12956
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "ZhianCe"
     title: "《治安策》 / Zhian Ce"
     url: "/wiki/entities/zhiance/"
+  - key: "Zootopia2Film"
+    title: "《疯狂动物城2》 / Zootopia 2"
+    url: "/wiki/entities/zootopia2film/"
   - key: "ZhushuJinian"
     title: "《竹书纪年》 / Bamboo Annals"
     url: "/wiki/entities/zhushujinian/"
