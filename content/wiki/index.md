@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [何同学×罗永浩！青年何同学的骄傲与烦恼](sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh.md) — 何同学与罗永浩讨论视频创作、DIY选题、工作室规模化、广告融合、公众品牌风险、海外本地化与锤子TNT。
 - [Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners](sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095.md) — Condensed Huberman Lab episode on social homeostasis, isolation, shared physiology, attachment, empathy modes, oxytocin, and bounded practices for connection.
 - [620. The Nazis at War: Hitler Strikes West (Part 1)](sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581.md) — The Rest Is History on the Phoney War, Hitler's economic and ideological urgency, army coup hesitation, and Georg Elser's failed bomb plot.
 - [2026秋季篇番外｜进入大厂两个月，她选择了自杀](sources/2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc.md) — 日谈物语 reconstructs 森美菜's 72 days at 和民, coerced voluntary labor, severe sleep loss, ignored warnings, work-related-suicide recognition, and her parents' 2,736-day accountability campaign.
@@ -4352,6 +4353,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 
 ## Entities
+- [何同学 / He Tongxue](entities/HeTongxue.md) — video-first Chinese creator whose engineering-heavy work grew into a founder-dependent production studio.
+- [何同学工作室 / He Tongxue Studio](entities/HeTongxueStudio.md) — multidisciplinary entertainment-video studio balancing ambitious DIY production, delegation, commercial fit, and overseas localization.
 - [Georg Elser](entities/GeorgElser.md) — German carpenter whose independent November 1939 bomb plot missed Hitler by thirteen minutes and strengthened the regime in the short term.
 - [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.
 - [和民集团 / Watami Group](entities/WatamiGroup.md) — Japanese hospitality group whose mission-driven culture, labor system, and response to Mori Mina's death are examined together.
@@ -17414,6 +17417,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Creator Studio Scaling / 创作者工作室规模化](concepts/CreatorStudioScaling.md) — transition from personal creator control to a specialized organization that can preserve quality through shared judgment and management.
+- [DIY Video Selection Logic / DIY视频选题逻辑](concepts/DIYVideoSelectionLogic.md) — project filter pairing a recognizable everyday need with an engineered visual spectacle.
+- [Creator Advertising Integration Constraint / 创作者广告融合约束](concepts/CreatorAdvertisingIntegrationConstraint.md) — alignment problem among sponsor product, creative premise, audience trust, client expectations, and studio economics.
 - [Phoney War](concepts/PhoneyWar.md) — Western lull joining Allied attritional caution to Hitler's fear of blockade, delay, and Allied rearmament.
 - [German Military Opposition to Hitler](concepts/GermanMilitaryOppositionToHitler.md) — Fragile 1939 officer opposition constrained by hierarchy, fear, uncertain legitimacy, and weak collective capacity.
 - [Coerced Voluntary Labor / 强制性自愿劳动](concepts/CoercedVoluntaryLabor.md) — Work labeled optional but made costly to refuse through evaluation, promotion, belonging, scheduling, or livelihood consequences.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10156
+wiki_total_pages: 10159
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2642,6 +2642,9 @@ wiki_pages:
   - key: "CreativityNetworkCoordination"
     title: "Creativity Network Coordination"
     url: "/wiki/concepts/creativitynetworkcoordination/"
+  - key: "CreatorAdvertisingIntegrationConstraint"
+    title: "Creator Advertising Integration Constraint / 创作者广告融合约束"
+    url: "/wiki/concepts/creatoradvertisingintegrationconstraint/"
   - key: "CreatorBusinessFlywheel"
     title: "Creator Business Flywheel"
     url: "/wiki/concepts/creatorbusinessflywheel/"
@@ -2675,6 +2678,9 @@ wiki_pages:
   - key: "CreatorReviewResponseBoundary"
     title: "Creator Review Response Boundary / 创作者评价回应边界"
     url: "/wiki/concepts/creatorreviewresponseboundary/"
+  - key: "CreatorStudioScaling"
+    title: "Creator Studio Scaling / 创作者工作室规模化"
+    url: "/wiki/concepts/creatorstudioscaling/"
   - key: "CreatorTrustAdvertising"
     title: "Creator Trust Advertising / 创作者信任广告"
     url: "/wiki/concepts/creatortrustadvertising/"

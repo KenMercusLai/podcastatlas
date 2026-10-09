@@ -3231,7 +3231,7 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 26,
+      "source_note_count": 27,
       "topic_matched_source_note_count": 18,
       "topics": [
         {
@@ -3260,6 +3260,13 @@
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
           "episode_count": 14
+        },
+        {
+          "key": "Smartisan",
+          "title": "Smartisan",
+          "url": "/wiki/entities/smartisan/",
+          "kind": "organization",
+          "episode_count": 2
         },
         {
           "key": "ShiLifen",

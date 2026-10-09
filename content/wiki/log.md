@@ -34167,3 +34167,10 @@ Added source `should-we-all-be-getting-tariff-refunds-right-now`; created [[AmyC
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 何同学×罗永浩！青年何同学的骄傲与烦恼
+
+Added source `liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh`; created [[HeTongxue|何同学]], [[HeTongxueStudio|何同学工作室]], [[CreatorStudioScaling|创作者工作室规模化]], [[DIYVideoSelectionLogic|DIY视频选题逻辑]], and [[CreatorAdvertisingIntegrationConstraint|创作者广告融合约束]]; and resynthesized [[Smartisan]] and [[CommercializationProtectsCreativeIdeals]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: He defines video rather than hardware as the studio's product; real-life need plus visual spectacle filters large DIY ideas; and studio scale turns founder taste into a bottleneck involving management, specialist talent, payroll, sponsor fit, public-brand risk, and a gradual player-to-coach transition. No settled contradiction was adopted. Costs, losses, staff, views, revenue, controversy impact, TNT buyer value, 5G effects, and overseas audience behavior remain participant-reported or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,278 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

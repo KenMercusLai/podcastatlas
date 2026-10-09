@@ -5,6 +5,7 @@ tags: [business, content, startups, creators]
 sources:
   - ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof
   - xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep
+  - liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -19,14 +20,16 @@ Commercialization protects creative ideals is the claim that reliable earned val
 
 [[MengJinghui|孟京辉]] supplies a repertoire branch. He says the word-of-mouth success and long performance life of 《恋爱的犀牛》 repaid a risky initial investment and became a standing economic base from which he could continue less market-led theatre work. Together, the sources distinguish commercialization that extracts from creative value from commercialization that stabilizes the capacity to keep creating.
 
+A creator-studio branch appears in [[HeTongxueStudio|何同学工作室]], where payroll and high project costs make monetization unavoidable, yet advertising often fails to fit the available premise and clients may expect unrepeatable breakout performance. Here, commercialization protects creative capacity only as a portfolio: some work earns, some establishes distinction, and neither role can safely absorb the other completely.
+
 ## Key Claims
 - Creative idealism can become fragile when a company depends on external financing instead of customer payment and operating profit.
 - Commercialization creates relationship costs because users, employees, and creators may experience ads, memberships, and merchandise as compromising purity.
 - Profit is not treated as the final purpose; it is treated as infrastructure for protecting the product and people around it.
 - A content company needs unique value before monetization can be legitimate; users should pay because the product creates something differentiated.
-- Overcorrection is possible when a previously idealistic company learns commercialization under crisis pressure.
+- Learning commercialization under crisis can produce overcorrection, especially when revenue tactics begin to replace the differentiated value they were meant to protect.
 - A durable work can become a repertoire asset whose repeated audience demand subsidizes future experimentation.
-- Financial protection does not prove artistic quality or justify every revenue tactic; the link depends on how earnings are used and whose costs they impose.
+- In a creator-led studio, commercial and flagship work may need distinct portfolio roles because sponsor fit and breakthrough performance cannot be guaranteed for every project.
 
 ## Evidence
 - Financing fragility: [[ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof]] says the 2021 macro and financing shift produced a larger crisis than 2015 and affected many employees and authors.
@@ -35,13 +38,14 @@ Commercialization protects creative ideals is the claim that reliable earned val
 - Protective role: [[ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof]] explicitly frames commercialization as necessary to protect the most important and beautiful products.
 - Overcorrection risk: [[ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof]] includes Chen's admission that some commercialization moves may have overcorrected while the company learned the capability.
 - Repertoire autonomy: [[xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep]] has Meng describe 《恋爱的犀牛》 as a word-of-mouth hit whose continuing performance and earnings reduced money anxiety and supported later freedom.
+- Creator-studio portfolio: [[liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh]] links staff responsibility and expensive unsponsored projects to selective advertising, weak product-topic fit, and the use of some information-value videos to sustain the organization.
 
 ## Counterevidence & Qualifications
-Neither source establishes which revenue choices are optimal or fairly distributed. Chen's case includes user and creator complaints, while Meng's production figures and causal account are autobiographical. The concept is not a blanket defense of monetization: it applies when earnings actually preserve creative capacity rather than replacing artistic judgment with extraction or demand chasing.
+The sources do not establish which revenue choices are optimal or fairly distributed. Chen's case includes user and creator complaints; Meng's production figures and causal account are autobiographical; and He's studio costs, losses, deal impact, and client expectations are self-reported. The concept is not a blanket defense of monetization: it applies when earnings actually preserve creative capacity rather than replacing artistic judgment with extraction or demand chasing.
 
 ## What Changed
-- Extended the concept from company survival into durable repertoire that can subsidize artistic experimentation.
-- Narrowed the judgment by distinguishing protective earnings from extraction or automatic market governance.
+- Added the creator-studio portfolio in which revenue work, costly flagship work, sponsor fit, and payroll must be balanced.
+- Clarified that commercial necessity does not make breakout audience performance repeatable.
 
 ## Related Concepts
 - [[KuaikanManhua]] - company case grounding the concept.
@@ -52,3 +56,5 @@ Neither source establishes which revenue choices are optimal or fairly distribut
 - [[EntertainmentIPFlywheel]] - related route where durable IP can support long-term revenue.
 - [[MengJinghui]] - theatre case in which a long-running work becomes a base for further experimentation.
 - [[LiveTheatreCoPresence]] - explains why the repertoire asset still requires renewed live production rather than passive replication.
+- [[HeTongxueStudio|何同学工作室]] - creator-studio case where payroll and costly production make revenue necessary.
+- [[CreatorAdvertisingIntegrationConstraint]] - explains why necessary monetization may still fail at the individual-project level.

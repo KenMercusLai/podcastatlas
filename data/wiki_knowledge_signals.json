@@ -48815,9 +48815,9 @@
       "url": "/wiki/concepts/commercialwealthdomesticmoralization/"
     },
     "CommercializationProtectsCreativeIdeals": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
@@ -48832,6 +48832,13 @@
           "show": "罗永浩的十字路口",
           "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
           "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        },
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
         }
       ],
       "updated": "2026-10-07",
@@ -54032,6 +54039,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/creativitynetworkcoordination/"
     },
+    "CreatorAdvertisingIntegrationConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/creatoradvertisingintegrationconstraint/"
+    },
     "CreatorBusinessFlywheel": {
       "episode_count": 1,
       "show_count": 1,
@@ -54208,6 +54231,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/creatorreviewresponseboundary/"
+    },
+    "CreatorStudioScaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/creatorstudioscaling/"
     },
     "CreatorTrustAdvertising": {
       "episode_count": 4,
@@ -56552,6 +56591,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/dfiretailgroup/"
+    },
+    "DIYVideoSelectionLogic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/diyvideoselectionlogic/"
     },
     "DRASTIC": {
       "episode_count": 1,
@@ -110024,6 +110079,38 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/hesongeasternhan/"
+    },
+    "HeTongxue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/hetongxue/"
+    },
+    "HeTongxueStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/hetongxuestudio/"
     },
     "HeWuWesternHan": {
       "episode_count": 5,
@@ -230050,9 +230137,9 @@
       "url": "/wiki/concepts/smartvehiclelivingspace/"
     },
     "Smartisan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -230067,6 +230154,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        },
+        {
+          "episode_file": "lipRfske7D5elPqDHIOrn-zTvXZH [lipRfske7D5elPqDHIOrn-zTvXZH].md",
+          "key": "liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh",
+          "show": "罗永浩的十字路口",
+          "title": "何同学×罗永浩！青年何同学的骄傲与烦恼",
+          "url": "/wiki/sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh/"
         }
       ],
       "updated": "2026-09-10",
