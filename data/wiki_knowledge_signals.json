@@ -11902,6 +11902,36 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/alternativeforgermany/"
     },
+    "AlternativeHeirProtectionFailure": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/alternativeheirprotectionfailure/"
+    },
     "AlternativePaymentStackConsolidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -147320,9 +147350,9 @@
       "url": "/wiki/entities/liurongwesternhan/"
     },
     "LiuRuyi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -147358,6 +147388,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
         }
       ],
       "updated": "2026-10-09",
@@ -148937,9 +148974,9 @@
       "url": "/wiki/entities/liuyinfuchongduke/"
     },
     "LiuYing": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -149010,6 +149047,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
         }
       ],
       "updated": "2026-10-09",
@@ -198902,9 +198946,9 @@
       "url": "/wiki/concepts/qatarismallstatesecuritystrategy/"
     },
     "QiJi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -198926,6 +198970,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
         }
       ],
       "updated": "2026-10-09",
@@ -205829,9 +205880,9 @@
       "url": "/wiki/entities/revelpharma/"
     },
     "RevengeProportionalityBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
@@ -205839,6 +205890,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
         }
       ],
       "updated": "2026-10-09",
@@ -274365,6 +274423,36 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/zhoubo/"
+    },
+    "ZhouChang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1） [lhE3H27wdbJu3cGSVUkDvgkri1a9].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1） [lsHNE8i33OdWazL7xWXNCuVFTgZx].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhouchang/"
     },
     "ZhouDangEasternHan": {
       "episode_count": 1,

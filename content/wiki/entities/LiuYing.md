@@ -14,6 +14,7 @@ sources:
   - zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt
   - zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi
   - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf
+  - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx
 last_updated: 2026-10-09
 ---
 
@@ -33,6 +34,8 @@ His reign adds a different political mechanism through [[HongRu|闳孺]]. The fa
 
 [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] reframes his response to the “human swine” atrocity as a contested moral-political problem. [[SimaGuang|司马光]] treats withdrawal from government and self-harm as “small love” without rulerly righteousness; the host instead stresses compassion, non-retaliation toward former succession rivals, filial constraint, and powerlessness before Lu Zhi. The source supports a real normative disagreement, not a settled diagnosis of despair or proof that withdrawal fulfilled imperial duty.
 
+[[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the event sequence and narrows any absolute withdrawal claim. It says Liu Ying tried to keep Liu Ruyi close, returned from a hunt to find him poisoned, and later broke down after Lu Zhi forced him to see Qi Ji. Yet the same episode first says he stopped attending government and then says he continued a measured seven-year reign with Xiao He and Cao Shen. The current profile therefore distinguishes serious trauma and constrained authority from total cessation of rule.
+
 ## Key Characteristics
 
 - His early biography is marked by battlefield vulnerability and rescue during the Pengcheng rout.
@@ -41,7 +44,7 @@ His reign adds a different political mechanism through [[HongRu|闳孺]]. The fa
 - His heirship survives because institutional and reputational support outweighs Liu Bang's late personal preference.
 - As emperor, he is portrayed as responsive to Hong Ru's intimate mediation in a life-and-death dispute.
 - His reign combines tax relief, amnesty, legal relaxation, and concern about public disturbance with limited household and succession autonomy.
-- His response to the human-swine atrocity is contested between rulerly-duty failure and humane but powerless resistance; trauma-based explanations remain source-scoped.
+- His response to the human-swine atrocity is contested between rulerly-duty failure and humane but powerless resistance; the same source series supports trauma and continued constrained rule, not a settled claim of total withdrawal.
 
 ## Evidence
 
@@ -63,10 +66,11 @@ Reign policy and constrained sovereignty:
 
 Compassion, withdrawal, and disputed duty:
 - [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] records Sima Guang's criticism and the host's opposing interpretation of Liu Ying's compassion, non-retaliation, withdrawal, and limited leverage over Lu Zhi.
+- [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] reports Liu Ruyi's death during a brief separation, Liu Ying's reaction to Qi Ji's condition, and the episode's own later qualification that he continued governing for seven years.
 
 ## Qualifications
 
-The sources are podcast summaries and often mix chronicle material with host inference. Hanji 194 part 2 does not establish whether Liu Ying's withdrawal was effective protest, incapacity, depression, or culpable neglect; its defense of him and Sima Guang's criticism remain competing judgments. Hanji 372-3's link between the human-swine trauma, Liu Ying's relationship to women, and his attachment to Hong Ru is not independently established. Its “boyfriend” language does not follow automatically from favorite status or co-sleeping formulas, and its corrupted “洪儒/沈逸季” names are normalized to 闳孺/审食其 from context. Hanji 198 does not independently establish the spouses' exact ages, non-consummation, Zhang Yan's postmortem virginity, Liu Ying's mental health, alcohol use, cause of death, or every policy's personal authorship. Its dates, labor totals, disasters, ritual wording, and child parentage remain source-scoped.
+The sources are podcast summaries and often mix chronicle material with host inference. Hanji 194 part 1 internally moves from total withdrawal to continued seven-year government, while part 2 does not establish whether reduced participation was effective protest, incapacity, depression, or culpable neglect; the host's defense and Sima Guang's criticism remain competing judgments. Part 1's ages, poisoning sequence, quoted protest, emotional diagnosis, and attribution of Huang-Lao continuity remain source-scoped. Hanji 372-3's link between the human-swine trauma, Liu Ying's relationship to women, and his attachment to Hong Ru is not independently established. Its “boyfriend” language does not follow automatically from favorite status or co-sleeping formulas, and its corrupted “洪儒/沈逸季” names are normalized to 闳孺/审食其 from context. Hanji 198 does not independently establish the spouses' exact ages, non-consummation, Zhang Yan's postmortem virginity, Liu Ying's mental health, alcohol use, cause of death, or every policy's personal authorship. Its dates, labor totals, disasters, ritual wording, and child parentage remain source-scoped.
 
 ## What Changed
 
@@ -74,6 +78,7 @@ The sources are podcast summaries and often mix chronicle material with host inf
 - Separated observable policy and ritual decisions from the source's unverified claims about marriage intimacy, mental health, and cause of death.
 - Preserved favorite access as a real political mechanism without adopting modern sexual labels or trauma causation.
 - Added the unresolved conflict between compassion, filial constraint, political powerlessness, and rulerly duty after the human-swine atrocity.
+- Qualified “abandoned government” by preserving the source's own later claim that Liu Ying continued a measured seven-year reign.
 
 ## Relationships
 

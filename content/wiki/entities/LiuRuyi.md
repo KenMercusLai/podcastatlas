@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
   - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv
   - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf
+  - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx
 last_updated: 2026-10-09
 ---
 
@@ -24,13 +25,15 @@ Liu Ruyi / 刘如意 is [[LiuBang|刘邦]] and [[QiJi|戚姬 / 戚夫人]]'s son
 
 [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] closes the active replacement chance when advisers and [[ShangshanSiHao|商山四皓]] make Liu Ying's support too strong to overturn. [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] then uses the failed succession threat to explain Lu Zhi's fear and later retaliation against Qi Ji and Liu Ruyi. This is explanatory context, not proof that the young prince independently created or deserved the conflict.
 
+[[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the terminal protection failure. Liu Ying reportedly keeps Liu Ruyi close, but leaves for a hunt when the younger prince does not wake; Lu Zhi then uses that short separation to send poisoned wine into his quarters. The source thereby turns institutional weakness into a concrete single-point failure, although ages, mechanics, and dialogue remain episode-attributed.
+
 ## Key Characteristics
 
 - Young Liu-family prince moved from Dai to Zhao as part of same-surname territorial replacement.
 - Favored son whom Liu Bang considers more like himself than the established crown prince.
 - Alternative-heir figure whose political significance exceeds his demonstrated agency.
 - Lacks a durable central court, military, or ministerial coalition.
-- Remains exposed after the replacement effort fails and paternal protection disappears.
+- Remains exposed after the replacement effort fails and paternal protection disappears; Liu Ying's personal vigilance cannot substitute for institutional security.
 
 ## Evidence
 
@@ -43,16 +46,18 @@ Alternative-heir exposure:
 
 Retaliatory aftermath:
 - [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] treats the earlier succession contest as the background to Lu Zhi's later hostility while preserving Liu Ruyi's limited agency.
+- [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] reports that Lu Zhi exploits a brief separation from Liu Ying to have Liu Ruyi poisoned and that Zhou Chang withdraws after the killing.
 
 ## Qualifications
 
-The bounded sources emphasize Liu Bang, Qi Ji, Lu Zhi, and senior advisers more than Liu Ruyi's own decisions. They do not establish an independent Liu Ruyi faction, his full role in the replacement plan, or his private intentions. Hanji 194 part 2's causal language about fear and resentment is a psychological interpretation and should not make a child prince responsible for the later torture of his mother or violence against him.
+The bounded sources emphasize Liu Bang, Qi Ji, Lu Zhi, and senior advisers more than Liu Ruyi's own decisions. They do not establish an independent Liu Ruyi faction, his full role in the replacement plan, or his private intentions. Hanji 194 part 2's causal language about fear and resentment is a psychological interpretation and should not make a child prince responsible for the later torture of his mother or violence against him. Part 1's stated ages, hunting chronology, poisoned-wine mechanics, coercion, and emotional reactions remain source-scoped.
 
 ## What Changed
 
 - Added the later retaliation context while keeping Liu Ruyi's limited agency explicit.
 - Reframed the page around the gap between political visibility and actual protective capacity.
 - Migrated the page to the synthesis-v1 evidence structure without removing or reordering prior sources.
+- Added the terminal protection-gap sequence and distinguished Liu Ying's personal care from durable institutional protection.
 
 ## Relationships
 

@@ -1,33 +1,63 @@
 ---
 title: "Alternative-Heir Protection Failure / 备位继承人保护失灵"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [succession, governance, court-politics, western-han]
-sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz
+  - zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s
+  - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx
+last_updated: 2026-10-09
 ---
 
-# Alternative-Heir Protection Failure / 备位继承人保护失灵
+## Definition
 
-Alternative-heir protection failure / 备位继承人保护失灵 is the succession pattern [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] derives from [[LiuBang|刘邦]]'s treatment of [[QiJi|戚姬 / 戚夫人]] and [[LiuRuyi|刘如意]]. Liu Bang considers replacing crown prince [[LiuYing|刘盈]] with Liu Ruyi, but cannot or does not complete the change. The favored branch is therefore visible enough to threaten [[LuZhi|吕雉]] and Liu Ying, yet not strong enough to rule.
+Alternative-heir protection failure / 备位继承人保护失灵 is the succession pattern in which a ruler makes a favored alternative heir politically visible but fails to supply the durable court, military, territorial, and procedural support needed to protect that branch after the ruler's authority disappears.
 
-The failure is not simply that the replacement plan does not happen. The source's sharper claim is that Liu Bang creates fear and resentment by raising the possibility, then gives the exposed branch only a narrow protection device: [[ZhouChang|周昌]] is sent to Zhao as chancellor after [[ZhaoYao|赵尧]] recommends a strong protector. In the host's reading, Zhou Chang's prestige cannot substitute for central court power, military command, or a real ministerial base.
+## Current Synthesis
 
-This concept is adjacent to [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]], but it focuses on the aftermath of an incomplete displacement. A ruler's affection can make an alternative heir dangerous to others; protection failure appears when the ruler then leaves that alternative branch dependent on personal favor or a single official rather than durable institutions.
+The bounded case begins when [[LiuBang|刘邦]] considers replacing crown prince [[LiuYing|刘盈]] with [[QiJi|戚姬 / 戚夫人]]'s son [[LiuRuyi|刘如意]]. The attempt makes the favored branch legible as a threat to [[LuZhi|吕雉]] and the established heir without building a front-court coalition capable of installing or defending Liu Ruyi.
 
-[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] adds the failed final push. Liu Bang still tries to move [[LiuRuyi|刘如意]] into [[LiuYing|刘盈]]'s place, but [[ZhangLiang|张良]] refuses to help, [[ShusunTong|叔孙通]] makes a state-root argument for preserving the crown prince, and [[ShangshanSiHao|商山四皓]] display Liu Ying's public scholar support. The failure is therefore no longer only thin protection for Liu Ruyi; it is an exposed favored branch after the established heir's coalition has visibly hardened.
+[[ZhouChang|周昌]]'s reassignment to Zhao is the main protective device. His rank and reputation may deter action while Liu Bang is alive, but he lacks central authority and independent military command. [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] increases the imbalance: the [[ShangshanSiHao|商山四皓]] make Liu Ying's support visible, Liu Bang abandons the replacement, and the favored branch remains exposed after the established heir coalition has hardened.
+
+[[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the endpoint. Liu Ying reportedly tries to protect Liu Ruyi through proximity, but a brief separation during a hunt opens the window in which Lu Zhi has him poisoned; Zhou Chang then withdraws. The joined lesson is that personal vigilance and one prestigious protector remain single points of failure when the exposed branch lacks institutional redundancy.
 
 ## Key Claims
-- Hanji 189 adds that once the established heir's support becomes publicly visible, a failed final replacement attempt can leave the favored branch even more exposed.
-- Raising an alternative heir can endanger that branch even if the formal heir is never replaced.
-- A protector appointed outside the central power core may signal concern without providing real security.
-- Personal favor is weaker than court, military, and factional support when succession becomes a survival contest.
-- The established heir branch may read a failed replacement attempt as evidence that it must neutralize future risk.
-- The concept differs from simple non-designation because the danger comes from an announced or attempted alternative, not silence.
 
-## Connections
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[LuZhi|吕雉]], [[ShusunTong|叔孙通]], and [[ShangshanSiHao|商山四皓]] - final failed replacement attempt after Liu Ying's support network becomes visible.
-- [[LiuBang|刘邦]], [[QiJi|戚姬 / 戚夫人]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], and [[LuZhi|吕雉]] - source case.
-- [[ZhouChang|周昌]], [[ZhaoYao|赵尧]], and [[ZhaoState|赵国]] - protective arrangement whose limits define the concept.
-- [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - upstream succession pressures.
-- [[AutocraticSuccession]], [[SuccessionNonDesignationRisk]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - adjacent succession and patron-dependence frames.
-- [[SameSurnameKingEnfeoffment|同姓王分封]] - Liu Ruyi's royal title becomes a platform for protection and exposure, not only territorial control.
+- Raising an alternative heir can endanger that branch even when formal replacement never occurs.
+- A failed final succession push can intensify exposure once the established heir's coalition becomes publicly visible.
+- A protector outside the central power core may signal concern without controlling court access, coercive force, or succession procedure.
+- Personal proximity can temporarily reduce danger but cannot substitute for redundant institutional protection.
+- Protection built around one ruler, one minister, or one routine can collapse during a brief absence or after the patron's death.
+- The pattern differs from simple non-designation because danger comes from an announced or attempted alternative, not from silence about the succession.
+
+## Evidence
+
+Creation of the exposed alternative branch:
+- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] records Liu Bang's preference, Qi Ji's advocacy, Zhou Chang's reassignment, and the absence of a durable court or military coalition for Liu Ruyi.
+
+Failed replacement after visible coalition formation:
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] shows Zhang Liang, Shusun Tong, and the Shangshan elders blocking the final attempt and making Liu Ying's entrenched support visible.
+
+Single-point protection collapse:
+- [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] reports that a brief separation from Liu Ying allows Liu Ruyi's poisoning and that Zhou Chang withdraws afterward.
+
+## Counterevidence & Qualifications
+
+The concept is currently grounded in one early-Han branch narrated by a single podcast series, not in a comparative sample. Liu Ruyi's reported death shows that the protective arrangement failed but does not prove that every alternative heir requires military power or that a different single official would have succeeded. The exact ages, hunting sequence, poison administration, Liu Ying's intentions, and Zhou Chang's reason for withdrawal remain source-scoped. The sources also do not establish that Liu Bang foresaw the terminal mechanism or deliberately left Liu Ruyi exposed.
+
+## What Changed
+
+- Extended the concept from predicted institutional weakness to the reported terminal failure.
+- Added personal proximity as a second single-point safeguard that can fail during a brief absence.
+- Clarified that protection requires redundancy across access, coercion, procedure, and coalition support.
+- Migrated the page to synthesis-v1 without removing or reordering prior sources.
+
+## Related Concepts
+
+- [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - upstream mechanism that makes the alternative branch politically threatening.
+- [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - broader category of private preference destabilizing succession.
+- [[SuccessionNonDesignationRisk]] - adjacent risk arising from an unset heir field rather than a visible failed alternative.
+- [[PatronSuccessionExposure|靠山更替暴露风险]] - parallel pattern in which safety disappears when a protecting patron exits.
+- [[SameSurnameKingEnfeoffment|同姓王分封]] - territorial office that gives Liu Ruyi status but not sufficient central protection.
+- [[RevengeProportionalityBoundary|复仇比例边界]] - downstream ethical limit relevant after succession exposure becomes retaliation.

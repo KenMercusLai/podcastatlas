@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx.md) — 刘如意在保护空档中被害、戚夫人遭人彘酷刑；节目对刘盈“完全停政”又作七年在位的自我限定，并把周昌退场作为单人保护失灵的终点。
 - [《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？](sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl.md) — 冒顿以挑衅国书试探吕后，樊哙主战、季布援引白登之围反驳；吕后以克制回信和礼物维持和亲，把尊严成本换成休养生息的时间。
 - [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf.md) — 人彘案被放回废立太子与宫廷恐惧中解释但不获开脱；节目以复仇比例边界重评吕雉暴行，并保存司马光与主播对刘盈责任的分歧。
 - [ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar Is Dropping](sources/all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525.md) — All-In debate on Minneapolis immigration enforcement, personal AI agents, Kimi K2.5, monetary dilution, asset ownership, and California fiscal politics.

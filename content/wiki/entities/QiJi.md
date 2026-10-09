@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz
   - zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s
   - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf
+  - zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx
 last_updated: 2026-10-09
 ---
 
@@ -21,6 +22,8 @@ Qi Ji / 戚姬, also called Qi Furen and identified by one source as Qi Yi / 戚
 [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] closes the replacement attempt. [[ShangshanSiHao|商山四皓]] make Liu Ying's support visible, Liu Bang concedes that the heir's “wings” are formed, and he warns Qi Ji that [[LuZhi|吕雉]] will dominate after him. The episode interprets Qi Ji's “鱼藻宫” naming as a further provocation, but the motive and effect remain source-scoped.
 
 [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] supplies the terminal violence: Lu Zhi has Qi Ji mutilated and displayed as a “human swine.” The source connects the atrocity to accumulated succession fear while explicitly refusing to excuse it. Qi Ji's profile therefore joins real participation in heir pressure, extreme institutional vulnerability, and victimization that exceeds any defensible [[RevengeProportionalityBoundary|revenge proportionality boundary]].
+
+The reported terminal sequence places Lu Zhi's attack on Qi Ji after Liu Ruyi has been poisoned, then describes deprivation of limbs and senses, display in a pig enclosure, and Liu Ying being made to witness the result. These details intensify the cruelty judgment but remain episode-attributed rather than independently verified anatomy or chronology.
 
 ## Key Characteristics
 
@@ -40,16 +43,18 @@ Final failure and exposure:
 
 Terminal violence:
 - [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf|Hanji 194 part 2]] describes the “human swine” punishment and treats prolonged torture as revenge beyond a defensible limit.
+- [[zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx|Hanji 194 part 1]] supplies the reported injury, display, and forced-witness sequence while emphasizing how compact historical wording can obscure prolonged suffering.
 
 ## Qualifications
 
-The sources do not establish Qi Ji's complete biography, a coherent political faction under her control, or her private understanding of the danger created by the succession campaign. The “鱼藻宫” interpretation is the host's reading. Hanji 194 part 2 supplies an ethical and psychological interpretation of her fate rather than independent verification of every injury, sequence, motive, or quoted statement.
+The sources do not establish Qi Ji's complete biography, a coherent political faction under her control, or her private understanding of the danger created by the succession campaign. The “鱼藻宫” interpretation is the host's reading. Hanji 194 parts 1 and 2 supply ethical and psychological interpretations rather than independent verification of every injury, sequence, survival interval, motive, or quoted statement; the title's “first” claim is also not established by the bounded evidence.
 
 ## What Changed
 
 - Added the terminal “human swine” violence while separating succession context from moral excuse.
 - Recast Qi Ji as both an active succession advocate and an institutionally exposed victim.
 - Migrated the page to the synthesis-v1 evidence structure without removing or reordering prior sources.
+- Added the reported post-Liu-Ruyi injury and display sequence while keeping its anatomical and chronological details source-scoped.
 
 ## Relationships
 
