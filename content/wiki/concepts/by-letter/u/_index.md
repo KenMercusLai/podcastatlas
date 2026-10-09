@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10092
+wiki_total_pages: 10095
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "UnifiedAdPlatform"
     title: "Unified Ad Platform"
     url: "/wiki/concepts/unifiedadplatform/"
+  - key: "UnifiedAirwayRhinitisAsthma"
+    title: "Unified Airway: Rhinitis and Asthma / 鼻炎哮喘同一气道"
+    url: "/wiki/concepts/unifiedairwayrhinitisasthma/"
   - key: "UnifiedRobotModels"
     title: "Unified Robot Models"
     url: "/wiki/concepts/unifiedrobotmodels/"

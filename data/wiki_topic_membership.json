@@ -60756,6 +60756,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NasalTreatmentTechniqueBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Nasdaq": [
     {
       "key": "economics",
@@ -72729,6 +72736,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RhinitisCauseAndEscalationBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RhondaConger": [
@@ -87659,6 +87673,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "UnifiedAirwayRhinitisAsthma": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "UnifiedEmpireWarScale": [

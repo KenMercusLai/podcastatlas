@@ -33662,3 +33662,11 @@ Added source `zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lko
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚
+
+Added source `vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek`; created [[RhinitisCauseAndEscalationBoundary|鼻炎病因与升级就医边界]], [[NasalTreatmentTechniqueBoundary|鼻腔治疗操作边界]], and [[UnifiedAirwayRhinitisAsthma|鼻炎哮喘同一气道]]; and resynthesized [[AllergyMedicationBoundary|过敏用药边界]], [[AllergyChronicManagement|过敏慢病管理]], and [[AllergyExposureEnvironmentManagement|过敏暴露环境管理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: recurrent rhinitis requires symptom-, exposure-, adherence-, structure-, and lower-airway-aware triage; intranasal therapy and irrigation depend on indication and technique; and allergic rhinitis and asthma should be coordinated without implying inevitable progression. No settled contradiction was adopted. The episode's preferred dosing time, duration ranges, broad absorption wording, TCM organ and constitution mechanisms, acupressure, hair-dryer heat, cold-water adaptation, steam, and food-therapy claims remain source-scoped, while persistent unilateral obstruction, bleeding, purulent discharge, headache, smell loss, pediatric sleep-breathing problems, or asthma symptoms tighten the assessment boundary. Broad [[ZheBingShuoLaiHuaChang|这病说来话长]] and [[Atang|阿汤]] profiles were kept closed because their existing medical-literacy descriptions already cover the episode's host and show roles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,215 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

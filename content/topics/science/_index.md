@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1490
+topic_total_pages: 1493
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1495,6 +1495,9 @@ topic_concepts:
   - key: "NarcolepsyWakeSleepBoundary"
     title: "Narcolepsy Wake-Sleep Boundary"
     url: "/wiki/concepts/narcolepsywakesleepboundary/"
+  - key: "NasalTreatmentTechniqueBoundary"
+    title: "Nasal Treatment Technique Boundary / 鼻腔治疗操作边界"
+    url: "/wiki/concepts/nasaltreatmenttechniqueboundary/"
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"
@@ -1900,6 +1903,9 @@ topic_concepts:
   - key: "RewardPredictionErrorLearning"
     title: "Reward Prediction Error Learning"
     url: "/wiki/concepts/rewardpredictionerrorlearning/"
+  - key: "RhinitisCauseAndEscalationBoundary"
+    title: "Rhinitis Cause and Escalation Boundary / 鼻炎病因与升级就医边界"
+    url: "/wiki/concepts/rhinitiscauseandescalationboundary/"
   - key: "RightHemisphereRelationalProcessing"
     title: "Right-Hemisphere Relational Processing"
     url: "/wiki/concepts/righthemisphererelationalprocessing/"
@@ -2371,6 +2377,9 @@ topic_concepts:
   - key: "UnexpectedApproachFortressAssault"
     title: "Unexpected-Approach Fortress Assault / 意外进路式要塞突袭"
     url: "/wiki/concepts/unexpectedapproachfortressassault/"
+  - key: "UnifiedAirwayRhinitisAsthma"
+    title: "Unified Airway: Rhinitis and Asthma / 鼻炎哮喘同一气道"
+    url: "/wiki/concepts/unifiedairwayrhinitisasthma/"
   - key: "UrgeDespiteRiskCircuit"
     title: "Urge Despite Risk Circuit"
     url: "/wiki/concepts/urgedespiteriskcircuit/"

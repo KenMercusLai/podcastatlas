@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10092
+wiki_total_pages: 10095
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "RFIDCheckout"
     title: "RFID Checkout"
     url: "/wiki/concepts/rfidcheckout/"
+  - key: "RhinitisCauseAndEscalationBoundary"
+    title: "Rhinitis Cause and Escalation Boundary / 鼻炎病因与升级就医边界"
+    url: "/wiki/concepts/rhinitiscauseandescalationboundary/"
   - key: "RideHailingSafetyOperations"
     title: "Ride-Hailing Safety Operations / 网约车安全运营"
     url: "/wiki/concepts/ridehailingsafetyoperations/"

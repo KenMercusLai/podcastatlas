@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚](sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek.md) — 这病说来话长以中西医双视角区分鼻炎线索、暴露与结构病因、规范鼻喷和洗鼻操作，并建立鼻炎与哮喘的同一气道边界。
 - [《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？](sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he.md) — 胡亥惩罚报忧造成信息失真，陈胜多线扩张却处死葛婴，蒯彻则以优待投降者推动赵地招降。
 - [506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案](sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn.md) — 忽左忽右以托卡契夫案连接技术型人力情报、CIA 莫斯科线人处理、内部泄密、克格勃反间谍与局部情报效果的宏观因果边界。
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx.md) — 陈冕复盘互联网产品生涯、Liblib 到 Lovart 的 AI 设计创业、工作流上游定位、速度与现金流，以及人类审美和创作职业的边界。
@@ -17255,6 +17256,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Unified Airway: Rhinitis and Asthma / 鼻炎哮喘同一气道](concepts/UnifiedAirwayRhinitisAsthma.md) — Treats allergic upper- and lower-airway disease as connected while preserving diagnostic, progression, and urgent-care boundaries.
+- [Nasal Treatment Technique Boundary / 鼻腔治疗操作边界](concepts/NasalTreatmentTechniqueBoundary.md) — Indication- and technique-aware boundary for nasal sprays, topical decongestants, saline irrigation, and comfort measures.
+- [Rhinitis Cause and Escalation Boundary / 鼻炎病因与升级就医边界](concepts/RhinitisCauseAndEscalationBoundary.md) — Separates symptom clues, exposures, adherence, anatomy, and escalation findings in recurrent nasal disease.
 - [Technical HUMINT Military Leverage / 技术型人力情报的军事杠杆](concepts/TechnicalHUMINTMilitaryLeverage.md) — Framework connecting insider technical access to changed engineering, procurement, doctrine, or military advantage without inflating local effects into regime-level causation.
 - [Human Taste Creative Boundary / 人类审美的创造边界](concepts/HumanTasteCreativeBoundary.md) — 区分可自动化的创意执行与审美判断、风格创新及其权利治理的动态边界。
 - [AI Workflow Upstream Positioning / AI 工作流上游定位](concepts/AIWorkflowUpstreamPositioning.md) — 从用户意图、新人群或新需求发起工作流，而非成为既有平台可替换的下游功能。

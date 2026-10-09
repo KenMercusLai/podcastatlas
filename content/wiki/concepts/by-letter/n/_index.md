@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10092
+wiki_total_pages: 10095
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "NASAMissionConcentration"
     title: "NASA Mission Concentration"
     url: "/wiki/concepts/nasamissionconcentration/"
+  - key: "NasalTreatmentTechniqueBoundary"
+    title: "Nasal Treatment Technique Boundary / 鼻腔治疗操作边界"
+    url: "/wiki/concepts/nasaltreatmenttechniqueboundary/"
   - key: "NationalAnthemPoliticalPlasticity"
     title: "National Anthem Political Plasticity"
     url: "/wiki/concepts/nationalanthempoliticalplasticity/"
