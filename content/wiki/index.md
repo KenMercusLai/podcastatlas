@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)](sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972.md) — The Rest Is History episode on Cannae's incomplete political conversion, Roman crisis discipline, Capua, and the siege of Syracuse.
 - [E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50.md) — 硅谷101 follow-up on Accio Work, real ecommerce task evaluation, model–harness–context architecture, model routing, long-horizon business execution, and retained human judgment.
 - [How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague](sources/scim3970994914-scim3970994914.md) — Huberman Lab interview on temporal-difference learning, dopamine-serotonin opponent dynamics, conscious-human neuromodulator measurement, delayed reward, and biological reinforcement learning's AI lineage.
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb.md) — 刘襄诱扣琅邪王刘泽并其兵，灌婴在荥阳停战避免助吕；长安内陈平、周勃则借郦寄与吕禄的私交谋取北军。
@@ -4227,6 +4228,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Syracuse / 叙拉古](entities/Syracuse.md) — Strategic Sicilian Greek city whose change of alignment leads to Archimedean defense and Roman conquest.
+- [Archimedes / 阿基米德](entities/Archimedes.md) — Syracusan mathematician and engineer whose machines delay the Roman siege while later legend adds a doubtful death ray.
+- [Marcus Claudius Marcellus / 马库斯·克劳狄乌斯·马塞勒斯](entities/MarcusClaudiusMarcellus.md) — Roman commander who adapts after failed assaults and captures Syracuse.
 - [Reed Montague](entities/ReedMontague.md) — Computational neuroscientist connecting temporal-difference learning, human dopamine-serotonin measurement, motivation, and machine reinforcement learning.
 - [宋昌 / Song Chang (Western Han)](entities/SongChangWesternHan.md) — 判断迎立可信、替刘恒探路并阻止私下议事，登基后接掌南北军的代国谋臣。
 - [张武 / Zhang Wu (Western Han)](entities/ZhangWuWesternHan.md) — 起初把长安迎立视为陷阱并主张观望，随后随行且获任宫门内卫的谨慎派代臣。
@@ -17142,6 +17146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Battle of Cannae / 坎尼会战](concepts/BattleOfCannae.md) — Hannibal's annihilating victory and the problem of converting battlefield destruction into Roman surrender or allied collapse.
 - [Business Agent Benchmark Gap](concepts/BusinessAgentBenchmarkGap.md) — Gap between general model benchmark scores and verified end-to-end completion of commercial work.
 - [Vertical Agent Architecture](concepts/VerticalAgentArchitecture.md) — Joint model, harness, and domain-context design for specialized production agents.
 - [Human Neuromodulator Measurement](concepts/HumanNeuromodulatorMeasurement.md) — Intraoperative and exploratory nasal approaches to tracking fast dopamine, serotonin, norepinephrine, and related signals in conscious humans.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10035
+wiki_total_pages: 10036
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "BattleOfBrunanburh"
     title: "Battle of Brunanburh"
     url: "/wiki/concepts/battleofbrunanburh/"
+  - key: "BattleOfCannae"
+    title: "Battle of Cannae / 坎尼会战"
+    url: "/wiki/concepts/battleofcannae/"
   - key: "BattleOfEdington"
     title: "Battle of Edington"
     url: "/wiki/concepts/battleofedington/"

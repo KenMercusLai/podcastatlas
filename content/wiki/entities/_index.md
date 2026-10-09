@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12859
+wiki_total_pages: 12862
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "ArchieHall"
     title: "Archie Hall"
     url: "/wiki/entities/archiehall/"
+  - key: "Archimedes"
+    title: "Archimedes / 阿基米德"
+    url: "/wiki/entities/archimedes/"
   - key: "Area51"
     title: "Area 51 / 51区"
     url: "/wiki/entities/area51/"

@@ -5,6 +5,7 @@ tags: [person, rome, second-punic-war, military-history]
 sources:
   - 642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636
   - 641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289
+  - 640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -16,6 +17,8 @@ knowledge_schema: synthesis-v1
 Scipio Africanus / 大西庇阿 is the Roman commander who removes Carthaginian power from Iberia, converts [[NewCarthage]] into a Roman war base, allies with [[Massinissa]], invades Africa, and defeats [[HannibalBarca]] at the [[BattleOfZama]].
 
 ## Current Profile
+
+The earliest episode evidence places the young Scipio among survivors after the [[BattleOfCannae]]. At Canusium, he is said to force officers considering flight to swear that they will not abandon Rome. The scene is mediated by Livy, but within the bounded profile it establishes a recurring pattern: personal confidence and public commitment are used to hold a military coalition together after apparent catastrophe.
 
 Scipio's rise joins military crisis to exceptional political authority. After Carthaginian forces kill his father and uncle in Spain, the 25-year-old private citizen receives the Spanish command by public vote despite lacking the age and office normally expected. His family name offers continuity, while youth, glamour, daily shaving, long hair, divine warnings, and Alexander-like stories create a charismatic style that attracts soldiers and unsettles Roman traditionalists.
 
@@ -31,7 +34,7 @@ His later career is less adaptable. Triumph, the name Africanus, wealth, and hig
 
 ## Key Characteristics
 
-- Gains exceptional command through popular legitimacy, family continuity, and wartime need.
+- Converts crisis confidence at Canusium into later exceptional command through popular legitimacy, family continuity, and wartime need.
 - Uses intelligence, surprise, land-sea coordination, and environmental knowledge to capture New Carthage.
 - Joins military preparation to charismatic and quasi-divine self-presentation.
 - Converts victory in Iberia into resources, prestige, and a new coalition with Massinissa.
@@ -41,6 +44,7 @@ His later career is less adaptable. Triumph, the name Africanus, wealth, and hig
 
 ## Evidence
 
+- Canusium oath: [[640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972]] recounts Scipio's threat and oath against officers considering abandonment after Cannae.
 - Exceptional rise and image: [[641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289]] connects Scipio's public election, age, family losses, appearance, temple practice, divine stories, and Alexander comparison.
 - Spanish theater choice: [[641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289]] traces the secret New Carthage plan, Laelius's fleet, lagoon crossing, city capture, resource gain, drilling, Ilipa, and Iberian realignment.
 - African strategy and opposition: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] connects Scipio's Spanish victories, consulship, African proposal, Fabius's resistance, and threatened popular appeal.
@@ -49,7 +53,7 @@ His later career is less adaptable. Triumph, the name Africanus, wealth, and hig
 
 ## Qualifications
 
-This profile is bounded to two podcast episodes and does not independently reconstruct every Spanish or African operation. Livy's portrait, serpent-birth story, divine inspiration, reported dreams and speeches, exact command authority, lagoon timing, force and casualty totals, acclamations, motives, negotiations, camp-burning plan, meeting with Hannibal, battle dialogue, financial accusations, destruction of records, and political withdrawal remain mediated by ancient narrative. Charismatic presentation could support authority without proving private belief or deliberate fabrication in every instance.
+This profile is bounded to three podcast episodes and does not independently reconstruct every Italian, Spanish, or African operation. The Canusium oath scene, Livy's portrait, serpent-birth story, divine inspiration, reported dreams and speeches, exact command authority, lagoon timing, force and casualty totals, acclamations, motives, negotiations, camp-burning plan, meeting with Hannibal, battle dialogue, financial accusations, destruction of records, and political withdrawal remain mediated by ancient narrative. Charismatic presentation could support authority without proving private belief or deliberate fabrication in every instance.
 
 ## What Changed
 
@@ -57,10 +61,12 @@ This profile is bounded to two podcast episodes and does not independently recon
 - Identified New Carthage as the intelligence-led capture that supplies resources and political momentum.
 - Connected Ilipa and Massinissa's realignment directly to the later African coalition.
 - Integrated military preparation with Scipio's Alexander-like and divine public image.
+- Extended the profile back to the Canusium crisis and its reported loyalty oath after Cannae.
 
 ## Relationships
 
 - [[HannibalBarca]] - rival whom the African invasion forces out of Italy and whom Scipio defeats at Zama.
+- [[BattleOfCannae]] - Roman catastrophe after which Scipio first appears as an enforcer of collective resolve.
 - [[NewCarthage]] - strategic city whose surprise capture transforms the Spanish campaign.
 - [[BattleOfIlipa]] - victory that removes effective Carthaginian field power from Iberia.
 - [[Massinissa]] - former opponent whose changed alignment supplies an African ally and decisive cavalry.

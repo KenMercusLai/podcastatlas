@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12859
+wiki_total_pages: 12862
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "SynthID"
     title: "SynthID"
     url: "/wiki/entities/synthid/"
+  - key: "Syracuse"
+    title: "Syracuse / 叙拉古"
+    url: "/wiki/entities/syracuse/"
   - key: "Syria"
     title: "Syria"
     url: "/wiki/entities/syria/"

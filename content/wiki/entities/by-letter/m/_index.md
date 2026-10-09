@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12859
+wiki_total_pages: 12862
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "MarcusBrutus"
     title: "Marcus Brutus / 马库斯·布鲁图斯"
     url: "/wiki/entities/marcusbrutus/"
+  - key: "MarcusClaudiusMarcellus"
+    title: "Marcus Claudius Marcellus / 马库斯·克劳狄乌斯·马塞勒斯"
+    url: "/wiki/entities/marcusclaudiusmarcellus/"
   - key: "MarcusLiciniusCrassus"
     title: "Marcus Licinius Crassus / 克拉苏"
     url: "/wiki/entities/marcusliciniuscrassus/"

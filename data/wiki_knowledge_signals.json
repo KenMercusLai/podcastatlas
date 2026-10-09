@@ -17532,6 +17532,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/archiehall/"
     },
+    "Archimedes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/archimedes/"
+    },
     "ArchitecturalArchiveResearch": {
       "episode_count": 1,
       "show_count": 1,
@@ -23764,6 +23780,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/battleofcablestreet/"
+    },
+    "BattleOfCannae": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/battleofcannae/"
     },
     "BattleOfCrecy": {
       "episode_count": 1,
@@ -105627,9 +105659,9 @@
       "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
     "HannibalBarca": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -105665,6 +105697,13 @@
           "show": "The Rest Is History",
           "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
           "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        },
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
         }
       ],
       "updated": "2026-10-08",
@@ -157440,6 +157479,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/marcusbrutus/"
     },
+    "MarcusClaudiusMarcellus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/marcusclaudiusmarcellus/"
+    },
     "MarcusLiciniusCrassus": {
       "episode_count": 4,
       "show_count": 2,
@@ -199608,9 +199663,9 @@
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
     },
     "QuintusFabiusMaximus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -199625,6 +199680,13 @@
           "show": "The Rest Is History",
           "title": "642. Rome's Greatest Enemy: Bloodbath in Africa (Part 3)",
           "url": "/wiki/sources/642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636/"
+        },
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
         }
       ],
       "updated": "2026-10-08",
@@ -213387,9 +213449,9 @@
       "url": "/wiki/entities/scipioaemilianus/"
     },
     "ScipioAfricanus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1285518636 [GLT1285518636].md",
@@ -213404,6 +213466,13 @@
           "show": "The Rest Is History",
           "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
           "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        },
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
         }
       ],
       "updated": "2026-10-09",
@@ -214126,9 +214195,9 @@
       "url": "/wiki/entities/secondopiumwar/"
     },
     "SecondPunicWar": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -214164,6 +214233,13 @@
           "show": "The Rest Is History",
           "title": "641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)",
           "url": "/wiki/sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289/"
+        },
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
         }
       ],
       "updated": "2026-10-09",
@@ -232688,6 +232764,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/syntheticprogressindicators/"
+    },
+    "Syracuse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9223169972 [GLT9223169972].md",
+          "key": "640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972",
+          "show": "The Rest Is History",
+          "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
+          "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/syracuse/"
     },
     "SystemDesignOverWillpower": {
       "episode_count": 1,
