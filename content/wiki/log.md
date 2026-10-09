@@ -34245,3 +34245,11 @@ Added source `lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh
+
+Added source `scim2057835571-scim2057835571`; created [[JenniferGroh]], [[CrossModalSpatialRemapping]], [[SensoryMotorThoughtSimulation]], and [[AcousticEnvironmentPerception]]; and resynthesized [[SelectiveAuditoryAttention]], [[MusicMemoryCueing]], and [[FlowEnvironmentDesign]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: perception actively reconciles sound-localization cues, gaze, visual source evidence, reflections, and context; thought may partly reuse sensory and motor systems; and attention can be shaped through location, sound, stopping points, and deliberate friction without assuming one universal protocol. No settled contradiction was adopted. Music evolution, thought simulation, altered-ear adaptation, personal focus practices, and functional interpretations of saccade-linked ear signals remain theoretical, personal, or source-scoped, and the supplied summary provides no study sizes or effect magnitudes. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because focused pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,288 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

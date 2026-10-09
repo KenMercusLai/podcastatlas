@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh](sources/scim2057835571-scim2057835571.md) — Huberman Lab interview on audiovisual spatial remapping, saccade-linked ear signals, room acoustics, sensory-motor thought, and deliberate attention environments.
 - [魔术大师刘谦×罗永浩！你所不知道的刘谦](sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte.md) — 刘谦以职业路径、现场作品、误导与强迫选择、失手恢复和保密伦理说明魔术如何把技术转化为观众亲历的不可能事件。
 - [VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了](sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md.md) — 这病说来话长由马浩宁的拉萨支援经历连接医疗能力转移、门诊停诊交接、同组复诊、线上随访与延误告知。
 - [617. Elizabeth I: Anne Boleyn's Bastard (Part 2)](sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242.md) — The Rest Is History on Elizabeth's childhood losses, humanist-Protestant education, the Thomas Seymour scandal, disciplined interrogation survival, and Edward VI's succession crisis.
@@ -4362,6 +4363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 
 ## Entities
+- [Jennifer Groh](entities/JenniferGroh.md) — Duke sensory neuroscientist studying how gaze, hearing, vision, and context are combined into spatial perception and thought.
 - [刘谦 / Liu Qian (Magician)](entities/LiuQianMagician.md) — Experience-centered magician and writer-director whose profile joins premium positioning, mass-media fame, live-show design, failure recovery, and audience-serving ethics.
 - [Katherine Ashley](entities/KatherineAshley.md) — Elizabeth I's learned evangelical governess, long-term attendant, and household protector compromised by Thomas Seymour's schemes.
 - [William Grindal](entities/WilliamGrindal.md) — Elizabeth I's Latin and Greek tutor and an early personal influence in her humanist-Protestant formation.
@@ -17433,6 +17435,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Cross-Modal Spatial Remapping](concepts/CrossModalSpatialRemapping.md) — Dynamic reconciliation of auditory location, gaze, visual source evidence, and saccade-linked ear signals.
+- [Sensory-Motor Thought Simulation](concepts/SensoryMotorThoughtSimulation.md) — Qualified hypothesis that thinking partly reuses perceptual and action systems.
+- [Acoustic Environment Perception](concepts/AcousticEnvironmentPerception.md) — How reflections, absorption, delay, and architecture shape spatial hearing and musical intelligibility.
 - [Medical Support Capacity Transfer / 医疗支援能力转移](concepts/MedicalSupportCapacityTransfer.md) — 以现场带教、当地能力、设备与持续交流衡量医疗支援能否留下可重复的临床能力。
 - [Outpatient Care Continuity and Handoff / 门诊连续性与交接](concepts/OutpatientCareContinuityAndHandoff.md) — 熟悉医生缺席或临时离开时，通过预告、同组交接、状态说明与协调路径维持治疗连续性。
 - [Tudor Humanist-Protestant Education](concepts/TudorHumanistProtestantEducation.md) — Royal formation joining classical languages, translation, reformist religion, courtly accomplishment, and disciplined political self-presentation.

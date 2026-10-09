@@ -11511,6 +11511,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AcousticEnvironmentPerception": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Acquired": [
     {
       "key": "culture",
@@ -26807,6 +26814,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CrossModalSpatialRemapping": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CrossNationalLearningDecline": [
@@ -76811,6 +76825,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SensoryMotorThoughtSimulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SensorySubstitution": [
     {
       "key": "science",
@@ -102345,6 +102366,13 @@
     }
   ],
   "scim1865244910-scim1865244910": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim2057835571-scim2057835571": [
     {
       "key": "science",
       "label": "Science",

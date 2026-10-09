@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1505
+topic_total_pages: 1508
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -547,6 +547,9 @@ topic_concepts:
   - key: "CrossDisciplinaryLiteratureSearch"
     title: "Cross-Disciplinary Literature Search"
     url: "/wiki/concepts/crossdisciplinaryliteraturesearch/"
+  - key: "CrossModalSpatialRemapping"
+    title: "Cross-Modal Spatial Remapping"
+    url: "/wiki/concepts/crossmodalspatialremapping/"
   - key: "CynicismAndHopefulSkepticism"
     title: "Cynicism and Hopeful Skepticism"
     url: "/wiki/concepts/cynicismandhopefulskepticism/"
@@ -2056,6 +2059,9 @@ topic_concepts:
   - key: "SensorySubstitution"
     title: "Sensory Substitution"
     url: "/wiki/concepts/sensorysubstitution/"
+  - key: "SensoryMotorThoughtSimulation"
+    title: "Sensory-Motor Thought Simulation"
+    url: "/wiki/concepts/sensorymotorthoughtsimulation/"
   - key: "SerotoninSocialWellbeingTools"
     title: "Serotonin Social Wellbeing Tools"
     url: "/wiki/concepts/serotoninsocialwellbeingtools/"
@@ -4194,6 +4200,9 @@ topic_sources:
   - key: "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546"
     title: "How Your Immune System Works & How to Improve It | Dr. Max Krummel"
     url: "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+  - key: "scim2057835571-scim2057835571"
+    title: "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh"
+    url: "/wiki/sources/scim2057835571-scim2057835571/"
   - key: "improve-flexibility-with-research-supported-stretching-protocols-scim4600343438"
     title: "Improve Flexibility with Research-Supported Stretching Protocols"
     url: "/wiki/sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438/"

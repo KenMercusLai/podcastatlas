@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10165
+wiki_total_pages: 10168
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "SensorySubstitution"
     title: "Sensory Substitution"
     url: "/wiki/concepts/sensorysubstitution/"
+  - key: "SensoryMotorThoughtSimulation"
+    title: "Sensory-Motor Thought Simulation"
+    url: "/wiki/concepts/sensorymotorthoughtsimulation/"
   - key: "SeparateCryptoReserveFund"
     title: "Separate Crypto Reserve Fund"
     url: "/wiki/concepts/separatecryptoreservefund/"

@@ -6318,6 +6318,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/achievementasadaptiveoverdrive/"
     },
+    "AcousticEnvironmentPerception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/acousticenvironmentperception/"
+    },
     "AcquiredProductMarketFit": {
       "episode_count": 1,
       "show_count": 1,
@@ -55056,6 +55072,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/crosslanguagerecommendationbias/"
     },
+    "CrossModalSpatialRemapping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/crossmodalspatialremapping/"
+    },
     "CrossNationalLearningDecline": {
       "episode_count": 1,
       "show_count": 1,
@@ -89245,6 +89277,50 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/flowclutchlearningdistinction/"
+    },
+    "FlowEnvironmentDesign": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻 [lpV4EGUMBXCJRxK3jYPehYXcqFUo].md",
+          "key": "ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo",
+          "show": "Talk三联",
+          "title": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻",
+          "url": "/wiki/sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo/"
+        },
+        {
+          "episode_file": "E161.脱离理性暴政，去尽情游戏吧！ [lppJQRfTyLxA6XUdZlHgBk1iYM6f].md",
+          "key": "e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f",
+          "show": "面基",
+          "title": "E161.脱离理性暴政，去尽情游戏吧！",
+          "url": "/wiki/sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f/"
+        },
+        {
+          "episode_file": "44.运气的诱饵：赌博成瘾，因为我们害怕自由 [619995308].md",
+          "key": "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308",
+          "show": "蜜獾吃书",
+          "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
+          "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+        },
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/flowenvironmentdesign/"
     },
     "FlowMasterPersonalWorkflow": {
       "episode_count": 1,
@@ -132156,6 +132232,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/jennifercoffee/"
+    },
+    "JenniferGroh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jennifergroh/"
     },
     "JenniferKing": {
       "episode_count": 1,
@@ -176129,9 +176221,9 @@
       "url": "/wiki/concepts/musiclanguageexpansion/"
     },
     "MusicMemoryCueing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
@@ -176139,9 +176231,16 @@
           "show": "这病说来话长",
           "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
           "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        },
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/musicmemorycueing/"
     },
     "MusicPracticeNeuroplasticity": {
@@ -222827,9 +222926,9 @@
       "url": "/wiki/concepts/selectiveanthemcanonization/"
     },
     "SelectiveAuditoryAttention": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -222844,9 +222943,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hearing, Balance & Accelerated Learning",
           "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        },
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/selectiveauditoryattention/"
     },
     "SelectiveNeuralStimulationPrecision": {
@@ -223526,6 +223632,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/sensitivepersonnelrecommendationboundary/"
+    },
+    "SensoryMotorThoughtSimulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2057835571 [SCIM2057835571].md",
+          "key": "scim2057835571-scim2057835571",
+          "show": "Huberman Lab",
+          "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+          "url": "/wiki/sources/scim2057835571-scim2057835571/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/sensorymotorthoughtsimulation/"
     },
     "SensorySubstitution": {
       "episode_count": 1,

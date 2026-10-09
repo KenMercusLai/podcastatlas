@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10165
+wiki_total_pages: 10168
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2882,6 +2882,9 @@ wiki_pages:
   - key: "CrossMarketNamingFriction"
     title: "Cross-Market Naming Friction"
     url: "/wiki/concepts/crossmarketnamingfriction/"
+  - key: "CrossModalSpatialRemapping"
+    title: "Cross-Modal Spatial Remapping"
+    url: "/wiki/concepts/crossmodalspatialremapping/"
   - key: "CrossNationalLearningDecline"
     title: "Cross-National Learning Decline"
     url: "/wiki/concepts/crossnationallearningdecline/"

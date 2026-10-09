@@ -6479,6 +6479,10 @@
     "title": "Achilles",
     "url": "/wiki/entities/achilles/"
   },
+  "AcousticEnvironmentPerception": {
+    "title": "Acoustic Environment Perception",
+    "url": "/wiki/concepts/acousticenvironmentperception/"
+  },
   "AcquaPanna": {
     "title": "Acqua Panna / 普纳",
     "url": "/wiki/entities/acquapanna/"
@@ -22650,6 +22654,10 @@
   "CrossMarketNamingFriction": {
     "title": "Cross-Market Naming Friction",
     "url": "/wiki/concepts/crossmarketnamingfriction/"
+  },
+  "CrossModalSpatialRemapping": {
+    "title": "Cross-Modal Spatial Remapping",
+    "url": "/wiki/concepts/crossmodalspatialremapping/"
   },
   "CrossNationalLearningDecline": {
     "title": "Cross-National Learning Decline",
@@ -45446,6 +45454,10 @@
   "JenniferCoffee": {
     "title": "珍妮花 / Jennifer",
     "url": "/wiki/entities/jennifercoffee/"
+  },
+  "JenniferGroh": {
+    "title": "Jennifer Groh",
+    "url": "/wiki/entities/jennifergroh/"
   },
   "JenniferJenkins": {
     "title": "Jennifer Jenkins",
@@ -75619,6 +75631,10 @@
     "title": "Sensory Hypersensitivity Accommodation / 感官超敏适配",
     "url": "/wiki/concepts/sensoryhypersensitivityaccommodation/"
   },
+  "SensoryMotorThoughtSimulation": {
+    "title": "Sensory-Motor Thought Simulation",
+    "url": "/wiki/concepts/sensorymotorthoughtsimulation/"
+  },
   "SensorySubstitution": {
     "title": "Sensory Substitution",
     "url": "/wiki/concepts/sensorysubstitution/"
@@ -101018,6 +101034,10 @@
   "scim1865244910-scim1865244910": {
     "title": "The Science of Hearing, Balance & Accelerated Learning",
     "url": "/wiki/sources/scim1865244910-scim1865244910/"
+  },
+  "scim2057835571-scim2057835571": {
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "url": "/wiki/sources/scim2057835571-scim2057835571/"
   },
   "scim2147325995-scim2147325995": {
     "title": "How to Control Your Metabolism by Thyroid & Growth Hormone",
