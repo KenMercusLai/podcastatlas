@@ -178467,9 +178467,9 @@
       "url": "/wiki/concepts/observabilitycostarchitecture/"
     },
     "ObservingSelfContinuity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -178484,9 +178484,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/observingselfcontinuity/"
     },
     "ObsessionCurryBarkerFilm": {
@@ -185950,9 +185957,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -186002,9 +186009,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/paulconti/"
     },
     "PaulEastwick": {
@@ -198683,9 +198697,9 @@
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationAsSupport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9741490707 [SCIM9741490707].md",
@@ -198693,9 +198707,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/psychiatricmedicationassupport/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
@@ -240363,9 +240384,9 @@
       "url": "/wiki/concepts/therapeuticstatelearning/"
     },
     "TherapyFitAndIntensity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9741490707 [SCIM9741490707].md",
@@ -240373,9 +240394,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/therapyfitandintensity/"
     },
     "TherapyInsightActionGap": {
@@ -244703,9 +244731,9 @@
       "url": "/wiki/concepts/traumacueresponse/"
     },
     "TraumaFunctionalRecognition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9741490707 [SCIM9741490707].md",
@@ -244713,9 +244741,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/traumafunctionalrecognition/"
     },
     "TraumaNarrativeIntegration": {
@@ -244784,9 +244819,9 @@
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TraumaWitnessingAndLanguage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9741490707 [SCIM9741490707].md",
@@ -244794,9 +244829,16 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM8622246247 [SCIM8622246247].md",
+          "key": "essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247",
+          "show": "Huberman Lab",
+          "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/traumawitnessingandlanguage/"
     },
     "TravelAgencyItineraryOperations": {

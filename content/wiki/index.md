@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247.md) — Huberman Lab Essentials condenses Paul Conti's functional trauma definition, language-and-witnessing approach, therapist-fit criteria, medication boundary, and supervised altered-state context.
 - [7 寻根溯源：古代东西方的大学、博士、硕士和学士](sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx.md) — 怪东西从太学、国子监、科举与书院对照欧洲师生行会、大学自治、研究型大学和学位名称，说明大学同时承载教化、职业、流动、求知与学历筛选功能。
 - [Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555.md) — All-In interview on CMS drug pricing, supervised medical AI, patient-data interoperability, rural access, and payment verification.
 - [638. Revolution in Iran: The Hostage Crisis (Part 3)](sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579.md) — The Rest Is History episode on the Shah's admission to the United States, the Tehran embassy seizure, Khomeini's consolidation, hostage treatment, media ritual, and Carter's widening crisis.

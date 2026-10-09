@@ -4,7 +4,8 @@ type: concept
 tags: [psychotherapy, rapport, treatment, mental-health]
 sources:
   - therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707
-last_updated: 2026-10-01
+  - essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Therapy fit and intensity is the source's framework for matching therapist rappo
 ## Current Synthesis
 The episode treats therapist selection as an active clinical judgment. Early sessions can function as an interview: does the therapist attend, understand, collaborate, and inspire enough trust for difficult work? Modality matters, but Conti favors clinicians who can draw flexibly from psychodynamic, cognitive-behavioral, dialectical, and other tools rather than treating one school as sufficient for everyone.
 
-Intensity is likewise contextual. Maintenance may require occasional contact, change-oriented work may need a regular cadence, and crisis, addiction, or suicidality may require intensive or higher-level care. The client contributes by preparing in a useful way, noticing after-effects, evaluating whether treatment helps, and discussing fit, method, or frequency rather than passively assuming assignment equals suitability.
+Intensity is likewise contextual. Maintenance may require occasional contact, change-oriented work may need a regular cadence, and crisis, addiction, or suicidality may require intensive or higher-level care. The client contributes by preparing in a useful way, noticing after-effects, evaluating whether treatment helps, and discussing fit, method, or frequency rather than passively assuming assignment equals suitability. The Essentials edit strongly foregrounds rapport and client ownership but is a recut of the same interview, not an independent treatment comparison.
 
 ## Key Claims
 - Rapport and felt collaboration are central selection criteria, not optional extras.
@@ -28,16 +29,15 @@ Intensity is likewise contextual. Maintenance may require occasional contact, ch
 - Crisis, suicidality, severe addiction, or destabilizing trauma work can require more support than ordinary outpatient self-directed work.
 
 ## Evidence
-- Rapport and method: [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] prioritizes trust, attention, collaboration, and adaptable use of psychodynamic, CBT, DBT, or other approaches.
-- Ownership: [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] describes early sessions as an interview and asks patients to notice whether therapy is helping.
+- Rapport and method: [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] and [[essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247]] prioritize trust, attention, collaboration, and adaptable use of psychodynamic, CBT, DBT, or other approaches.
+- Ownership: [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] describes early sessions as an interview, while [[essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247]] reiterates trying more than one therapist, monitoring progress, and raising concerns directly.
 - Intensity: [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] distinguishes maintenance, regular change-oriented sessions, and more intensive care for crisis or severe impairment.
 
 ## Counterevidence & Qualifications
 Rapport is necessary but does not by itself prove competence, ethics, diagnostic accuracy, or treatment effectiveness. Frequency and level-of-care claims are source-scoped and cannot substitute for assessment, evidence-based indications, availability, affordability, cultural fit, safeguarding, or emergency triage. Ending or changing therapy may be appropriate, but abrupt disengagement during acute risk can be dangerous without continuity planning.
 
 ## What Changed
-- Created a unified framework for therapist choice, method flexibility, client ownership, and treatment intensity.
-- Distinguished rapport from competence and ordinary outpatient work from higher-level care.
+- No material judgment change: the Essentials cut emphasizes rapport and ownership without adding comparative-outcome evidence.
 
 ## Related Concepts
 - [[TherapyRelationshipAndBoundaries]] - broader account of trust, care, role limits, and containment.
