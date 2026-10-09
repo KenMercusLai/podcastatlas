@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12937
+wiki_total_pages: 12944
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1463,6 +1463,9 @@ wiki_pages:
   - key: "JiangHuErNv"
     title: "《江湖儿女》 / Ash Is Purest White"
     url: "/wiki/entities/jianghuernv/"
+  - key: "JianbingManFilm"
+    title: "《煎饼侠》 / Jian Bing Man"
+    url: "/wiki/entities/jianbingmanfilm/"
   - key: "JiaguwenDeGushi"
     title: "《甲骨文的故事》"
     url: "/wiki/entities/jiaguwendegushi/"

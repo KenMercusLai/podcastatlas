@@ -19,7 +19,8 @@ sources:
   - yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo
   - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
   - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
-last_updated: 2026-10-08
+  - daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,13 +38,15 @@ The 《不开玩笑》 crossover adds a self-reflexive format discussion. [[Song
 
 The [[ZhangWeiweiMusician|张玮玮]] interview deepens the show's music-oral-history mode. More than three decades of childhood, migration, survival work, band practice, venue ecology, authorship, grief, and electronic learning let a creator profile become a history of the social infrastructure around creation. The episode also demonstrates the show's willingness to hold artistic encouragement beside concrete challenge when Luo questions a concept album's potentially rigid structure and urges attention to AI tools.
 
+The [[DapengDirector|大鹏]] interview adds a long film-career self-reckoning. Childhood poverty, music, a fraudulent record contract, portal labor, web video, commercial film, family experiment, ratings, awards, and public response become one continuous creator history. Luo's questioning is especially visible in disagreements over gratitude, contractual exit, whether early success was “easy mode,” and why large external achievement has not produced matching self-confidence.
+
 ## Key Characteristics
 - Long-form interview venue centered on biography, work methods, public judgment, and the logic behind choices.
 - Host-led framing that turns personal stories into explicit product, cultural, ethical, or artistic problems.
 - Product and production attention spanning materials, pricing, manufacturing, film, recording, release, and audience use.
 - Live-panel mode that uses comedy and counterfactuals to make sensitive social subjects speakable.
 - Self-disclosure mode that lets the host's own failures, fears, relationships, and preferences become contestable evidence.
-- Cross-domain range that now includes creator craft, EVs, social theory, film history, mortality, AI, music, and stand-up under public controversy.
+- Cross-domain range that now includes creator craft, EVs, social theory, film history, film authorship, mortality, AI, music, and stand-up under public controversy.
 - Self-reflexive interest in how long-form conversation, video distribution, production cost, and audience transition shape the show itself.
 
 ## Evidence
@@ -54,11 +57,13 @@ The [[ZhangWeiweiMusician|张玮玮]] interview deepens the show's music-oral-hi
 - Controversy and biographical context: [[yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo]] uses touring, stage anxiety, family history, grief, harassment, and future plans to distinguish comic reception from a complete judgment of the performer.
 - Format reflection and experimentation: [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] connects long-form emergence, video reach, simple production, failed ventures, ADHD, moving, and creative labor.
 - Music biography as social history: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] connects factory-compound change, migration, rehearsal, venue ecology, livelihood, authorship, bereavement, audience reception, electronic learning, and AI pressure.
+- Film biography as identity and evaluation history: [[daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt]] connects childhood, music, portal work, web video, contracts, commercial success, authorial development, criticism, awards, and legitimacy.
 
 ## Qualifications
-Sixteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, music-historical, and technological claims retain the qualifications of their individual source notes.
+Seventeen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, music-historical, film-industry, and technological claims retain the qualifications of their individual source notes.
 
 ## What Changed
+- Added a film-career self-reckoning mode that tests success against identity, promise, ratings, awards, and artistic belief.
 - Added a self-reflexive podcast-form branch centered on long-form emergence, video reach, and production constraint.
 - Extended the panel mode from value dilemmas into lived experimentation, failure, attention, moving, and invisible creative labor.
 - Deepened the music-interview branch from artist-audience disagreement into biography as social and scene history.
@@ -68,6 +73,7 @@ Sixteen sources do not establish the show's complete catalog, editorial mission,
 - [[CuiJian|崔健]] - guest whose interview adds music, artistic authority, and audience nostalgia to the show's range.
 - [[YangLiStandup|杨笠]] - guest whose interview adds stand-up craft, public controversy, grief, and lifelong creation to the show's range.
 - [[ZhangWeiweiMusician|张玮玮]] - guest whose interview adds factory-compound memory, independent-music infrastructure, and electronic reinvention.
+- [[DapengDirector|大鹏]] - guest whose interview adds internet-to-film authorship, career promise, public evaluation, and identity transition.
 - [[ShougongGeng|手工耿]] - creator-craft guest used to test utility, comedy, and art.
 - [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]] - founder and company case for engineering-led EV production.
 - [[WongJing|王晶]] - guest anchoring Hong Kong film-industry oral history.
@@ -81,3 +87,5 @@ Sixteen sources do not establish the show's complete catalog, editorial mission,
 - [[LongFormConversationEmergence]] - format theory articulated inside the crossover conversation.
 - [[CostlyLifeExperimentation]] - theme joining failed ventures, creative ambition, and continued action without success guarantees.
 - [[IndependentMusicSceneAsInfrastructure]] - framework surfaced by the Zhang interview's rehearsal, care, livelihood, venue, and network history.
+- [[CreatorIdentityTransition]] - framework sharpened by Dapeng's reporter-to-star and host-to-director experience.
+- [[BeliefGroundedStorytelling]] - film-craft principle articulated through Dapeng's character and genre judgments.

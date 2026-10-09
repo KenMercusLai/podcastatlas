@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12937
+wiki_total_pages: 12944
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1397,6 +1397,9 @@ wiki_pages:
   - key: "TheHeroWithAThousandFaces"
     title: "《千面英雄》 / The Hero with a Thousand Faces"
     url: "/wiki/entities/theherowithathousandfaces/"
+  - key: "TheReunionsFilm"
+    title: "《吉祥如意》 / The Reunions"
+    url: "/wiki/entities/thereunionsfilm/"
   - key: "TongwenSuanzhi"
     title: "《同文算指》 / Tongwen Suanzhi"
     url: "/wiki/entities/tongwensuanzhi/"
@@ -1541,6 +1544,9 @@ wiki_pages:
   - key: "TrueEducationKDrama"
     title: "《铁拳教育》 / True Education"
     url: "/wiki/entities/trueeducationkdrama/"
+  - key: "TheLycheeRoadFilm"
+    title: "《长安的荔枝》 / The Lychee Road (film)"
+    url: "/wiki/entities/thelycheeroadfilm/"
   - key: "TheSpyAndTheTraitor"
     title: "《间谍与叛徒》 / The Spy and the Traitor"
     url: "/wiki/entities/thespyandthetraitor/"

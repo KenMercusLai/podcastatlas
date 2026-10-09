@@ -12631,6 +12631,10 @@
     "title": "Belief As Last-Resort Support / 信仰作为最后退路",
     "url": "/wiki/concepts/beliefaslastresortsupport/"
   },
+  "BeliefGroundedStorytelling": {
+    "title": "Belief-Grounded Storytelling / 信念落地的叙事",
+    "url": "/wiki/concepts/beliefgroundedstorytelling/"
+  },
   "Belisarius": {
     "title": "Belisarius",
     "url": "/wiki/entities/belisarius/"
@@ -16166,6 +16170,10 @@
   "CareerPositioningThroughFit": {
     "title": "人生定位与适配 / Career Positioning Through Fit",
     "url": "/wiki/concepts/careerpositioningthroughfit/"
+  },
+  "CareerPromiseBeyondContract": {
+    "title": "Career Promise Beyond Contract / 超越退出条款的职业承诺",
+    "url": "/wiki/concepts/careerpromisebeyondcontract/"
   },
   "CareerSelfRescue": {
     "title": "Career Self-Rescue",
@@ -23590,6 +23598,14 @@
   "DaoistWaterVirtue": {
     "title": "Daoist Water Virtue / 道家水德",
     "url": "/wiki/concepts/daoistwatervirtue/"
+  },
+  "DapengDebade": {
+    "title": "《大鹏嘚吧嘚》 / Dapeng Debade",
+    "url": "/wiki/entities/dapengdebade/"
+  },
+  "DapengDirector": {
+    "title": "大鹏 / 董成鹏 / Dapeng (director)",
+    "url": "/wiki/entities/dapengdirector/"
   },
   "Daqi": {
     "title": "大琪",
@@ -45487,6 +45503,10 @@
     "title": "《谏逐客书》 / Jian Zhu Ke Shu",
     "url": "/wiki/entities/jianzhukeshu/"
   },
+  "JianbingManFilm": {
+    "title": "《煎饼侠》 / Jian Bing Man",
+    "url": "/wiki/entities/jianbingmanfilm/"
+  },
   "JianchengHouAo": {
     "title": "建成侯敖 / Ao, Marquis of Jiancheng",
     "url": "/wiki/entities/jianchenghouao/"
@@ -66771,6 +66791,10 @@
     "title": "Post-Success Arrogance / 得势后的骄傲",
     "url": "/wiki/concepts/postsuccessarrogance/"
   },
+  "PostTruthFilm": {
+    "title": "《保你平安》 / Post Truth",
+    "url": "/wiki/entities/posttruthfilm/"
+  },
   "PostUnificationWarInertia": {
     "title": "Post-Unification War Inertia / 统一后战争惯性",
     "url": "/wiki/concepts/postunificationwarinertia/"
@@ -75375,6 +75399,10 @@
     "title": "Severus Snape / 西弗勒斯·斯内普",
     "url": "/wiki/entities/severussnape/"
   },
+  "SewingMachineBandFilm": {
+    "title": "《缝纫机乐队》 / City of Rock",
+    "url": "/wiki/entities/sewingmachinebandfilm/"
+  },
   "SewingMachineCombination": {
     "title": "Sewing Machine Combination",
     "url": "/wiki/entities/sewingmachinecombination/"
@@ -82851,6 +82879,10 @@
     "title": "《运气的诱饵》",
     "url": "/wiki/entities/thelureofluck/"
   },
+  "TheLycheeRoadFilm": {
+    "title": "《长安的荔枝》 / The Lychee Road (film)",
+    "url": "/wiki/entities/thelycheeroadfilm/"
+  },
   "TheMatrix": {
     "title": "《黑客帝国》 / The Matrix",
     "url": "/wiki/entities/thematrix/"
@@ -82954,6 +82986,10 @@
   "TheRestIsHistory": {
     "title": "The Rest Is History",
     "url": "/wiki/entities/therestishistory/"
+  },
+  "TheReunionsFilm": {
+    "title": "《吉祥如意》 / The Reunions",
+    "url": "/wiki/entities/thereunionsfilm/"
   },
   "TheRollingStones": {
     "title": "The Rolling Stones",
@@ -97602,6 +97638,10 @@
   "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun": {
     "title": "当“印钞机”百度开始失血，是天灾还是人祸？",
     "url": "/wiki/sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun/"
+  },
+  "daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt": {
+    "title": "导演大鹏×罗永浩！我这两辈子",
+    "url": "/wiki/sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt/"
   },
   "dark-times-for-cubas-economic-experiment": {
     "title": "Dark times for Cuba's economic experiment",

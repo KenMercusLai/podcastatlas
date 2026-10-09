@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12937
+wiki_total_pages: 12944
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2063,6 +2063,9 @@ wiki_pages:
   - key: "Solaris"
     title: "《索拉里斯星》 / Solaris"
     url: "/wiki/entities/solaris/"
+  - key: "SewingMachineBandFilm"
+    title: "《缝纫机乐队》 / City of Rock"
+    url: "/wiki/entities/sewingmachinebandfilm/"
   - key: "SelfClarificationEdict"
     title: "《自明本志令》 / Self-Clarification Edict"
     url: "/wiki/entities/selfclarificationedict/"

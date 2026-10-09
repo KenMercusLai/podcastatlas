@@ -33882,3 +33882,11 @@ Added source `vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 导演大鹏×罗永浩！我这两辈子
+
+Added source `daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt`; created a disambiguated [[DapengDirector|大鹏 / 董成鹏]] profile, [[DapengDebade|《大鹏嘚吧嘚》]], five core film pages, [[CareerPromiseBeyondContract]], and [[BeliefGroundedStorytelling]]; and resynthesized [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[SohuVideo|搜狐视频]], [[CreatorIdentityTransition]], [[CreatorEvaluationPressure]], [[CreatorReviewResponseBoundary]], [[AuthorCommercialFilmBalance]], and [[InternetNativeFilmmakingPipeline]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Dapeng's path from music, portal labor, and self-produced web video into commercial and authored film joins cumulative craft with a persistent identity lag; success raises rather than resolves pressure from box office, ratings, public response, and awards. No settled contradiction was adopted. Dapeng and Luo's disagreement over contractual exit versus promise loyalty remains explicit, while compensation, box office, awards, production anecdotes, memories, and film judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,242 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10121
+wiki_total_pages: 10123
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "CareerOptionality"
     title: "Career Optionality"
     url: "/wiki/concepts/careeroptionality/"
+  - key: "CareerPromiseBeyondContract"
+    title: "Career Promise Beyond Contract / 超越退出条款的职业承诺"
+    url: "/wiki/concepts/careerpromisebeyondcontract/"
   - key: "CareerSelfRescue"
     title: "Career Self-Rescue"
     url: "/wiki/concepts/careerselfrescue/"

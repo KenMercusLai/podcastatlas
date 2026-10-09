@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [导演大鹏×罗永浩！我这两辈子](sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt.md) — 罗永浩与大鹏回溯集安童年、搜狐与网络视频、电影作者转型、承诺伦理，以及票房、评分和奖项压力。
 - [627. Jack The Ripper: From Hell (Part 4)](sources/627-jack-the-ripper-from-hell-part-4-glt6270048402.md) — The Rest Is History reconstructs Mary Jane Kelly's uncertain life and murder, then traces how press, fiction, medicine, detection, and psychiatry made Jack the Ripper a modern myth.
 - [2 东西方的祥瑞与灾异：从恺撒到王莽](sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2.md) — 怪东西跨文明比较祥瑞、灾异、占卜与神圣王权，强调征兆的政治效力取决于阐释权、制度接受和责任分配，而非符号自身的固定意义。
 - [088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多](sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2.md) — 纸醉金迷FM以三世棺、地下影骨和顶部真身拆解献王墓的垂直宇宙结构，并讨论文化反转式恐怖与铁三角互补协作。
@@ -4315,6 +4316,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控](sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws.md) — 这病说来话长 episode on road rage as a driving-safety interaction among traffic stress, perceived unfairness, accumulated emotion, partial anonymity, regulation, and system design.
 
 ## Entities
+- [大鹏 / 董成鹏 / Dapeng (director)](entities/DapengDirector.md) — Chinese actor-director whose path from music and portal video to feature authorship joins public sensitivity, commercial success, and persistent identity pressure.
+- [《大鹏嘚吧嘚》 / Dapeng Debade](entities/DapengDebade.md) — Sohu entertainment program whose integrated editorial and production workflow helped establish Dapeng's public creator identity.
+- [《煎饼侠》 / Jian Bing Man](entities/JianbingManFilm.md) — Dapeng's commercially large first feature, converting an established web persona into theatrical directing opportunity.
+- [《缝纫机乐队》 / City of Rock](entities/SewingMachineBandFilm.md) — Music- and hometown-rooted film treated by Dapeng as a deliberate step toward cinematic authorship.
+- [《吉祥如意》 / The Reunions](entities/TheReunionsFilm.md) — Family-based experimental film in which a planned authorship test was overtaken by an actual family death.
+- [《保你平安》 / Post Truth](entities/PostTruthFilm.md) — Comedy about rumor and justice that grounds Dapeng's belief in persistent help for an unrelated stranger.
+- [《长安的荔枝》 / The Lychee Road (film)](entities/TheLycheeRoadFilm.md) — Historical feature connecting mature execution, contested modern form, unused production labor, and award pressure.
 - [Macnaghten Memorandum](entities/MacnaghtenMemorandum.md) — 1894 police suspect memorandum whose three names preserve institutional suspicion while its no-proof concession limits attribution.
 - [David Choe](entities/DavidChoe.md) — Artist and media creator whose profile connects care and creative risk with shame-driven achievement, process addiction, self-sabotage, help-seeking, and recovery.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
@@ -17311,6 +17319,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张衍山 / Zhang Yanshan](entities/ZhangYanshan.md) — Shenzhen psychological therapist explaining road-rage triggers, mediated driving interaction, attention risk, and practical regulation.
 
 ## Concepts
+- [Career Promise Beyond Contract / 超越退出条款的职业承诺](concepts/CareerPromiseBeyondContract.md) — Distinction between using a lawful priced exit and treating an original term of service as a stricter relational promise.
+- [Belief-Grounded Storytelling / 信念落地的叙事](concepts/BeliefGroundedStorytelling.md) — Film-craft principle that creators and performers must believe characters and situations before genre technique can persuade an audience.
 - [Cold-Case Suspect Evaluation](concepts/ColdCaseSuspectEvaluation.md) — Comparison of suspect alibi, access, geography, behavior, method, and provenance without turning narrative fit or plausibility into identification.
 - [Workaholism as Socially Rewarded Addiction](concepts/WorkaholismAsSociallyRewardedAddiction.md) — Compulsive work used for escape, intensity, validation, or self-worth while productivity and service conceal harm and loss of choice.
 - [Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区](concepts/VerifiedPseudonymousWorkplaceCommunity.md) — Public nickname expression backed by private identity and employment verification, preserving workplace voice while retaining privacy and governance risks.

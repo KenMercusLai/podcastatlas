@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12937
+wiki_total_pages: 12944
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "DaChangXiaomin"
     title: "《大厂小民》"
     url: "/wiki/entities/dachangxiaomin/"
+  - key: "DapengDebade"
+    title: "《大鹏嘚吧嘚》 / Dapeng Debade"
+    url: "/wiki/entities/dapengdebade/"
   - key: "DingFengBoSuShi"
     title: "《定风波》 / Ding Feng Bo"
     url: "/wiki/entities/dingfengbosushi/"
@@ -1349,6 +1352,9 @@ wiki_pages:
   - key: "DaShiHua"
     title: "大食话 / Da Shi Hua"
     url: "/wiki/entities/dashihua/"
+  - key: "DapengDirector"
+    title: "大鹏 / 董成鹏 / Dapeng (director)"
+    url: "/wiki/entities/dapengdirector/"
   - key: "DazaiOsamu"
     title: "太宰治 / Osamu Dazai"
     url: "/wiki/entities/dazaiosamu/"
