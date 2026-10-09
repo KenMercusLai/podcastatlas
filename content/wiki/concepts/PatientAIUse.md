@@ -6,6 +6,7 @@ sources:
   - tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128
   - vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4
   - vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt
+  - vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -24,14 +25,16 @@ The current judgment is that useful patient AI prepares questions, organizes con
 
 VOL.195 makes the input problem concrete. A lay prompt such as “stomach pain” or “headache” can omit location, quality, timing, associated signs, medicines, exposures, and chronology. In acute care, the missing fact may not merely reduce answer quality; it can separate stroke from dissection, trauma from a preceding collapse, or unexplained coma from poisoning. AI therefore cannot certify safety from a sparse prompt, and an apparently coherent answer cannot replace physical examination, serial observation, collateral history, or specialty review.
 
+VOL.193 adds prompt sensitivity even outside a minimal symptom query. Age, sex, occupation, disease course, pathology, medicines, and user intent can change the response, while leading wording may pull a model toward the answer a user wants. Different systems or phrasings can also produce incompatible recommendations for consequential treatment questions. Cross-checking can expose instability, but agreement among models is not clinical validation; major decisions still return to qualified assessment and a clinician who can own the recommendation.
+
 ## Key Claims
 - Patients may use AI for diagnoses, treatment ideas, biopsy results, unfamiliar diseases, and emotionally charged family decisions.
 - AI answers can feel authoritative because they arrive quickly and are organized, even when they are missing clinical context.
-- The safest patient-facing pattern is not standalone AI diagnosis, but [[DoctorGuidedAIInterpretation]] inside a real medical relationship.
+- The safest patient-facing pattern is [[DoctorGuidedAIInterpretation]] inside a real medical relationship, with final responsibility retained by patients and clinicians rather than standalone AI diagnosis.
 - Guided questioning can help a patient describe onset, location, quality, severity, duration, and change more clearly.
 - Voice, readable emphasis, audio, and low-pressure repetition can widen access for some older users.
 - Sparse symptom prompts can omit the exact chronology, exposure, medicine, or physiological sign that changes an acute diagnosis.
-- Patient AI use extends [[AIHealthManagement]] into visit preparation and shared review while keeping final responsibility with patients and clinicians.
+- Leading wording and implied preference can steer a health answer, while different models can disagree even when users provide substantial clinical information.
 
 ## Evidence
 - Visible-use and clinician-review evidence: [[tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128]] recommends bringing serious AI-generated interpretations into medical visits rather than hiding them.
@@ -39,14 +42,15 @@ VOL.195 makes the input problem concrete. A lay prompt such as “stomach pain�
 - Older-user and repeated-question evidence: [[vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4]] describes Baojie's use of AI for reports, symptoms, recovery, food, activity, and sleep.
 - Escalation evidence: [[vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4]] explicitly keeps examinations and treatment with doctors and directs acute emergencies to 120.
 - Input-completeness evidence: [[vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt|VOL.195]] contrasts vague lay symptom prompts with clinically structured history and uses poisoning, trauma chronology, and stroke-mimic cases to show how omitted facts change the pathway.
+- Prompt-sensitivity and disagreement evidence: [[vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s|VOL.193]] compares differently worded postoperative questions and conflicting AI recommendations around breast-cancer treatment to show that wording, intent, model choice, and supplied context can redirect an answer.
 
 ## Counterevidence & Qualifications
-The sources do not supply independent accuracy, safety, privacy, outcome, or accessibility evaluation. Guided follow-up may collect more detail without collecting the right detail, remembered context may be incomplete or wrong, and reassuring language may delay care. Baojie's experience is one favorable family case and cannot represent users with cognitive impairment, sensory loss, limited language or device access, or less clinical support. VOL.195's acute cases are clinician recollections, not a comparative test of AI systems or proof that every patient prompt fails.
+The sources do not supply independent accuracy, safety, privacy, outcome, or accessibility evaluation. Guided follow-up may collect more detail without collecting the right detail, remembered context may be incomplete or wrong, and reassuring language may delay care. Baojie's experience is one favorable family case and cannot represent users with cognitive impairment, sensory loss, limited language or device access, or less clinical support. VOL.195's acute cases are clinician recollections, not a comparative test of AI systems or proof that every patient prompt fails. Asking multiple models or rephrasing a question may reveal instability, but correlated systems can repeat the same error and consensus does not establish clinical correctness.
 
 ## What Changed
-- Added acute-care input incompleteness as a distinct safety limit on patient AI.
-- Clarified that missing chronology, exposure, medicine, or physiology can change diagnosis rather than merely lower answer quality.
-- Added examination, serial observation, collateral history, and specialty review to the non-substitutable clinical layer.
+- Added leading-language and implied-preference effects to the patient-AI risk model.
+- Added model-to-model disagreement in consequential treatment questions.
+- Clarified that cross-checking can reveal instability but cannot substitute for clinical validation or accountable judgment.
 
 ## Related Concepts
 - [[DoctorGuidedAIInterpretation]] - clinical-review pattern for patient-generated AI output.

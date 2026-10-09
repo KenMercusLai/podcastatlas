@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3390
+topic_total_pages: 3391
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9825,6 +9825,9 @@ topic_sources:
   - key: "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo"
     title: "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授"
     url: "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+  - key: "vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s"
+    title: "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案"
+    url: "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
   - key: "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4"
     title: "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？"
     url: "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"

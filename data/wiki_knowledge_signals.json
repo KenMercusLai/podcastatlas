@@ -162351,6 +162351,43 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/medicalairobotcollaborationboundary/"
     },
+    "MedicalAIWorkflowIntegration": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "tech_20251222_1222_MP_TECH_pod_128 [tech_20251222_1222_MP_TECH_pod_128].md",
+          "key": "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Dr. AI will see you now",
+          "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "No.206 检索、送药、看病：互联网医疗这些年 ｜ 中国互联网故事22 [991273500].md",
+          "key": "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22",
+          "url": "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"
+        },
+        {
+          "episode_file": "ll8o6f9z0sFUyHNIUligGBv4S38S [ll8o6f9z0sFUyHNIUligGBv4S38S].md",
+          "key": "vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s",
+          "show": "这病说来话长",
+          "title": "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案",
+          "url": "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/medicalaiworkflowintegration/"
+    },
     "MedicalAestheticProviderVerification": {
       "episode_count": 4,
       "show_count": 1,
@@ -185744,9 +185781,9 @@
       "url": "/wiki/concepts/paternallocalofficeethic/"
     },
     "PatientAIUse": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20251222_1222_MP_TECH_pod_128 [tech_20251222_1222_MP_TECH_pod_128].md",
@@ -185768,6 +185805,13 @@
           "show": "这病说来话长",
           "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
           "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
+        },
+        {
+          "episode_file": "ll8o6f9z0sFUyHNIUligGBv4S38S [ll8o6f9z0sFUyHNIUligGBv4S38S].md",
+          "key": "vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s",
+          "show": "这病说来话长",
+          "title": "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案",
+          "url": "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
         }
       ],
       "updated": "2026-10-09",
@@ -268554,9 +268598,9 @@
       "url": "/wiki/entities/yinchengprincess/"
     },
     "YinLaoshiZheBing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -268585,9 +268629,16 @@
           "show": "这病说来话长",
           "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
           "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        },
+        {
+          "episode_file": "ll8o6f9z0sFUyHNIUligGBv4S38S [ll8o6f9z0sFUyHNIUligGBv4S38S].md",
+          "key": "vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s",
+          "show": "这病说来话长",
+          "title": "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案",
+          "url": "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {
@@ -278419,9 +278470,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -278492,9 +278543,16 @@
           "show": "这病说来话长",
           "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
           "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        },
+        {
+          "episode_file": "ll8o6f9z0sFUyHNIUligGBv4S38S [ll8o6f9z0sFUyHNIUligGBv4S38S].md",
+          "key": "vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s",
+          "show": "这病说来话长",
+          "title": "VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案",
+          "url": "/wiki/sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {

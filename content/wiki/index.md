@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案](sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s.md) — 这病说来话长 roundtable on patient prompt sensitivity, clinician-supervised AI, ICU and imaging workflows, documentation and training tradeoffs, and the continuing roles of individualized judgment, responsibility, and empathy.
 - [637. Revolution in Iran: Rise of the Ayatollah (Part 2)](sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163.md) — The Rest Is History episode on the Shah's collapse, Khomeini's ritual and media mobilization, clerical-republican rule, army neutrality, oil shock, and Carter's crisis of confidence.
 - [Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247.md) — Huberman Lab Essentials condenses Paul Conti's functional trauma definition, language-and-witnessing approach, therapist-fit criteria, medication boundary, and supervised altered-state context.
 - [7 寻根溯源：古代东西方的大学、博士、硕士和学士](sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx.md) — 怪东西从太学、国子监、科举与书院对照欧洲师生行会、大学自治、研究型大学和学位名称，说明大学同时承载教化、职业、流动、求知与学历筛选功能。
