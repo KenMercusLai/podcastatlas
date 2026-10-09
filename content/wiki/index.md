@@ -4332,6 +4332,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控](sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws.md) — 这病说来话长 episode on road rage as a driving-safety interaction among traffic stress, perceived unfairness, accumulated emotion, partial anonymity, regulation, and system design.
 - [Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard](sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429.md) — Huberman Lab interview on mitochondria as energy-transforming and information-processing systems linking finite energy allocation, stress, recovery, aging, and cautious intervention boundaries.
 - [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
+- [Essentials: The Science of Making & Breaking Habits](sources/essentials-the-science-of-making-breaking-habits-scim6067841582.md) — Condensed Huberman Lab episode on initiation friction, procedural rehearsal, task bracketing, state-matched placement, sleep consolidation, context independence, and post-habit replacement.
 
 ## Entities
 - [智果 / Zhi Guo](entities/ZhiGuo.md) — 反对智瑶继位并警告公开羞辱会积累隐蔽报复的智氏谋臣。

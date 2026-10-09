@@ -6,7 +6,8 @@ sources:
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2746317304-scim2746317304
   - best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637
-last_updated: 2026-10-09
+  - essentials-the-science-of-making-breaking-habits-scim6067841582
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Habit automaticity and task bracketing describe a behavior becoming easier to initiate, less dependent on one time or place, and increasingly cued as a bounded sequence with a recognizable beginning and end.
 
 ## Current Synthesis
-[[the-science-of-making-breaking-habits-scim6848516659]] separates habit strength from mere repetition. A stronger habit requires less “limbic friction”—the source's label for the activation cost created by tiredness, anxiety, distraction, or low motivation—and can survive changes in time and setting. Enjoyable linchpin habits may make adjacent actions easier, while procedural visualization rehearses the exact steps before action.
+[[the-science-of-making-breaking-habits-scim6848516659]] separates habit strength from mere repetition. A stronger habit requires less “limbic friction”—the source's label for the activation cost created by tiredness, anxiety, distraction, or low motivation—and can survive changes in time and setting. Enjoyable linchpin habits may make adjacent actions easier, while procedural visualization rehearses the exact steps before action. The later [[essentials-the-science-of-making-breaking-habits-scim6067841582|Essentials edit]] preserves this framework in condensed form, adding editorial continuity rather than independent confirmation.
 
 The episode uses task bracketing to connect this practical model with basal-ganglia activity around the opening and closing of a learned routine. It recommends initially placing demanding behaviors in a reliably alert state, then moving them across contexts once they feel more reflexive. The durable claim is that flexible automaticity matters more than obedience to one clock time; the proposed neural mechanism, phase windows, and 21-day build-and-test schedule remain source-scoped.
 
@@ -41,13 +42,13 @@ Entry-sequence design adds a life-season perspective. “Going to the gym” con
 - Consolidation - [[the-science-of-making-breaking-habits-scim6848516659]] places deep rest and sleep inside the learning process.
 - Temporal segmentation - [[scim2746317304-scim2746317304]] presents habits as dopamine-associated markers that divide the day into functional units while allowing approximate timing.
 - Entry sequence and flexible continuity - [[best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637]] uses a five-minute gym practice, hidden preparation steps, and Clear's changing writing formats to separate showing up from ideal performance.
+- Condensed provenance - [[essentials-the-science-of-making-breaking-habits-scim6067841582]] repeats the full episode's friction, procedural-rehearsal, task-bracketing, context-independence, sleep-consolidation, and 21-day practice claims without changing the current judgment.
 
 ## Counterevidence & Qualifications
 This framework comes from public-neuroscience and behavior-design sources. “Limbic friction” and dopamine-linked time markers are practical labels rather than validated units of measurement, and basal-ganglia task bracketing does not by itself prove that one scheduling method causes automaticity or subjective-time change. The reported 18-to-254-day range undercuts any universal habit deadline. A very small version can establish attendance without producing the training, learning, or health effect of a full practice. Identity, disability, caregiving, work schedules, clinical conditions, structural barriers, and the safety of the target behavior can matter more than timing or rehearsal.
 
 ## What Changed
-- Added hidden entry-step diagnosis and showing up as a trainable behavior.
-- Reframed long-run consistency as continuity that can change form across life seasons.
+- No current judgment changed; the Essentials edit adds overlapping provenance for initiation friction, context independence, procedural rehearsal, task bracketing, and sleep-supported consolidation.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - state-timing framework used for initial habit placement.

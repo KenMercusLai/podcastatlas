@@ -11,7 +11,8 @@ sources:
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - scim1705222315-scim1705222315
   - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
-last_updated: 2026-10-09
+  - essentials-the-science-of-making-breaking-habits-scim6067841582
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,7 +32,7 @@ The workspace-specific version in [[optimizing-workspace-for-productivity-focus-
 
 The [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|condensed workspace edit]] repeats that three-phase lighting sequence and the proposed early-alert versus later-creative distinction. It adds editorial continuity rather than independent confirmation, and its broad neurochemical phase labels remain source-scoped.
 
-A behavior-learning branch in [[the-science-of-making-breaking-habits-scim6848516659]] places higher-friction habits in a more alert early waking phase, lower-friction practices in a calmer later phase, and consolidation in the sleep phase. Yet durable habits should eventually become less clock- and context-dependent, so circadian placement is an initial support rather than the definition of success.
+A behavior-learning branch in [[the-science-of-making-breaking-habits-scim6848516659]] places higher-friction habits in a more alert early waking phase, lower-friction practices in a calmer later phase, and consolidation in the sleep phase. The later [[essentials-the-science-of-making-breaking-habits-scim6067841582|Essentials edit]] repeats this three-phase heuristic without independently confirming its exact windows or neurochemical explanation. Durable habits should eventually become less clock- and context-dependent, so circadian placement is an initial support rather than the definition of success.
 
 A cognitive-mode hypothesis in [[scim2746317304-scim2746317304]] proposes that earlier dopamine- and norepinephrine-associated states may suit precise, rule-bound work, while later serotonin-associated states may suit more fluid or creative work. This complements the workspace-phase model but remains probabilistic; sleep quality, chronotype, task demands, and observed performance take priority over a fixed schedule.
 
@@ -61,12 +62,13 @@ The January 2021 office-hours episode adds anticipatory plasticity and self-expe
 - Earlier state-to-task provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] matches alert focus to learning and implementation, lower arousal to exploration, and rest to recovery without making one clock schedule universal.
 - Anticipation and self-tracking - [[scim1705222315-scim1705222315]] says regular waking, exercise, sleep, and meal cues can become easier through anticipation and proposes tracking multiple outcomes while changing only one or two inputs at a time.
 - Condensed workspace provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats bright early-day, reduced later-day, and minimal nighttime light guidance without changing the task-fit judgment.
+- Condensed habit provenance - [[essentials-the-science-of-making-breaking-habits-scim6067841582]] repeats early high-friction placement, later lower-friction practice, sleep-phase consolidation, and eventual context variation without changing the current judgment.
 
 ## Counterevidence & Qualifications
 The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace releases. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The early episodes' caffeine, sodium, carbohydrate, evening-alertness, anticipatory-plasticity, food-neurotransmitter, and light-plasticity explanations are likewise source-scoped. State matching and consistent cues can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- No current judgment changed; the workspace Essentials edit adds overlapping provenance for phase-matched lighting and task selection.
+- No current judgment changed; the habits Essentials edit adds overlapping provenance for state-matched placement, sleep-supported consolidation, and later context independence.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

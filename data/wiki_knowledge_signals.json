@@ -56707,9 +56707,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -56766,9 +56766,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
           "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
+        },
+        {
+          "episode_file": "SCIM6067841582 [SCIM6067841582].md",
+          "key": "essentials-the-science-of-making-breaking-habits-scim6067841582",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/essentials-the-science-of-making-breaking-habits-scim6067841582/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DailyHydrationTiming": {
@@ -105532,9 +105539,9 @@
       "url": "/wiki/entities/habibaystartupembassyresident/"
     },
     "HabitAutomaticityAndTaskBracketing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6848516659 [SCIM6848516659].md",
@@ -105556,9 +105563,16 @@
           "show": "Huberman Lab",
           "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
           "url": "/wiki/sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637/"
+        },
+        {
+          "episode_file": "SCIM6067841582 [SCIM6067841582].md",
+          "key": "essentials-the-science-of-making-breaking-habits-scim6067841582",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/essentials-the-science-of-making-breaking-habits-scim6067841582/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/habitautomaticityandtaskbracketing/"
     },
     "HabitPositiveFeedback": {
@@ -197697,9 +197711,9 @@
       "url": "/wiki/concepts/postdisastertruthandresponsibility/"
     },
     "PostHabitReplacement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6848516659 [SCIM6848516659].md",
@@ -197707,9 +197721,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Making & Breaking Habits",
           "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        },
+        {
+          "episode_file": "SCIM6067841582 [SCIM6067841582].md",
+          "key": "essentials-the-science-of-making-breaking-habits-scim6067841582",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/essentials-the-science-of-making-breaking-habits-scim6067841582/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/posthabitreplacement/"
     },
     "PostHandoverHongKongGovernance": {

@@ -34032,3 +34032,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: The Science of Making & Breaking Habits
+
+Added source `essentials-the-science-of-making-breaking-habits-scim6067841582`; and resynthesized [[HabitAutomaticityAndTaskBracketing]], [[DailyCircadianPerformanceRoutine]], and [[PostHabitReplacement]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: initiation friction and context independence remain complementary measures of habit strength; broad daily state can support early repetition without defining durable automaticity; and an unwanted behavior can cue an easy constructive next action without proving that the original neural circuit has been rewritten. No settled contradiction was adopted. The 18-to-254-day range qualifies the 21-day exercise, while limbic friction, exact phase windows, neurotransmitter descriptions, procedural-visualization effects, task-bracketing mechanisms, sleep-dependent rewiring, and post-habit circuit remapping remain source-scoped. This Essentials cut substantially overlaps the full 2022 habits episode and therefore adds editorial provenance rather than independent corroboration. Broad [[AndrewHuberman]], [[HubermanLab]], [[Neuroplasticity]], identity, and feedback pages were kept closed because the focused source and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 4,261 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
