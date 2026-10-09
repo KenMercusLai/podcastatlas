@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10071
+wiki_total_pages: 10073
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1997,6 +1997,9 @@ wiki_pages:
   - key: "AmyloidHypothesisUncertainty"
     title: "Amyloid Hypothesis Uncertainty"
     url: "/wiki/concepts/amyloidhypothesisuncertainty/"
+  - key: "AnabolicSteroidRiskBoundary"
+    title: "Anabolic Steroid Risk Boundary"
+    url: "/wiki/concepts/anabolicsteroidriskboundary/"
   - key: "AnalgesicSelfCareEscalation"
     title: "Analgesic Self-Care Escalation / 止痛药自我用药升级边界"
     url: "/wiki/concepts/analgesicselfcareescalation/"

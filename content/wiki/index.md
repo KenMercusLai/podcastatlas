@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Build Muscle & Strength & Forge Your Life Path | Dorian Yates](sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219.md) — Huberman Lab interview on Dorian Yates's low-volume high-intensity training, recovery, bodybuilding risk, competitive identity, retirement, and experiential health claims.
 - [091 《天龙八部》之“四大恶人”篇：一念成魔](sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn.md) — 纸醉金迷FM separates the four villains' conduct, trauma, attachment, responsibility, and narrative function without converting sympathy into acquittal.
 - [VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案](sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s.md) — 这病说来话长 roundtable on patient prompt sensitivity, clinician-supervised AI, ICU and imaging workflows, documentation and training tradeoffs, and the continuing roles of individualized judgment, responsibility, and empathy.
 - [637. Revolution in Iran: Rise of the Ayatollah (Part 2)](sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163.md) — The Rest Is History episode on the Shah's collapse, Khomeini's ritual and media mobilization, clerical-republican rule, army neutrality, oil shock, and Carter's crisis of confidence.
@@ -4269,6 +4270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？](sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki.md) — 三五环 interview with Li Qian on integrated brand operations, psychological positioning, self-pleasing consumption, niche audience fit, and offline relationship depth after traffic advantages fade.
 
 ## Entities
+- [Dorian Yates](entities/DorianYates.md) — Six-time Mr. Olympia connecting logged high-intensity training, competitive risk, identity transition, and mentorship.
 - [段延庆 / Duan Yanqing](entities/DuanYanqing.md) — Dispossessed 《天龙八部》 prince whose identity-driven restoration combines serious harm, selected rules, and release through recovered paternity.
 - [叶二娘 / Ye Erniang](entities/YeErniang.md) — Bereaved 《天龙八部》 mother whose relational sacrifice and suffering coexist with grave harm to other families.
 - [岳老三 / 南海鳄神 / Yue Laosan](entities/YueLaosan.md) — Comic four-villain member whose simple code, promise-keeping, and loyalty to 段誉 acquire tragic force.
@@ -17218,6 +17220,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 ## Concepts
+- [High-Intensity Resistance Training](concepts/HighIntensityResistanceTraining.md) — Low-volume resistance-training model coupling technical failure, measurable overload, and sufficient recovery.
+- [Anabolic Steroid Risk Boundary](concepts/AnabolicSteroidRiskBoundary.md) — Boundary separating competitive incentives and autobiographical use from safety, medical indication, and cosmetic self-experimentation.
 - [Clerical-Republican Dual Authority](concepts/ClericalRepublicDualAuthority.md) — Unequal state design joining elected and administrative institutions to superior clerical guardianship.
 - [Shiite Ritual Revolutionary Mobilization](concepts/ShiiteRitualRevolutionaryMobilization.md) — Use of sacred calendar, mourning, sacrifice, and martyrdom narratives to coordinate revolutionary action.
 - [University Institutional Pluralism / 大学制度功能多元性](concepts/UniversityInstitutionalPluralism.md) — Universities as changing bundles of formation, inquiry, professional entry, mobility, community, and credential screening.

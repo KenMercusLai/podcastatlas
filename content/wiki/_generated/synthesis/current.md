@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-07
-as_of_overview_commit: 5456d000592b53a7add5d7c7f557f83981ea5ea3
+last_updated: 2026-10-08
+as_of_overview_commit: 6e1530db1ec874e70f9c48da383f91edce11c575
 summary: "Across technology, markets, institutions, history, health, culture, and work, durable value depends on capacity, evidence, implementation, accountability, and explicit limits."
-episode_count: 4063
-source_count: 4063
+episode_count: 4197
+source_count: 4197
 paragraph_count: 799
 topic_count: 9
 ---

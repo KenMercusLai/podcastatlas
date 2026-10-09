@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12891
+wiki_total_pages: 12892
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "DoorDash"
     title: "DoorDash"
     url: "/wiki/entities/doordash/"
+  - key: "DorianYates"
+    title: "Dorian Yates"
+    url: "/wiki/entities/dorianyates/"
   - key: "Dormouse"
     title: "Dormouse / 睡鼠"
     url: "/wiki/entities/dormouse/"

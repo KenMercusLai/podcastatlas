@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1488
+topic_total_pages: 1489
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -127,6 +127,9 @@ topic_concepts:
   - key: "AmyloidHypothesisUncertainty"
     title: "Amyloid Hypothesis Uncertainty"
     url: "/wiki/concepts/amyloidhypothesisuncertainty/"
+  - key: "AnabolicSteroidRiskBoundary"
+    title: "Anabolic Steroid Risk Boundary"
+    url: "/wiki/concepts/anabolicsteroidriskboundary/"
   - key: "AnchoringEffect"
     title: "Anchoring Effect / 锚定效应"
     url: "/wiki/concepts/anchoringeffect/"

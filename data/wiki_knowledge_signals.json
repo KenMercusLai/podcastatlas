@@ -13050,6 +13050,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/anqisheng/"
     },
+    "AnabolicSteroidRiskBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3305811219 [SCIM3305811219].md",
+          "key": "build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219",
+          "show": "Huberman Lab",
+          "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+          "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/anabolicsteroidriskboundary/"
+    },
     "AnacreonticSong": {
       "episode_count": 1,
       "show_count": 1,
@@ -19484,9 +19500,9 @@
       "url": "/wiki/concepts/atherosclerosispreventiontargets/"
     },
     "AthletePostRetirementIdentity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
@@ -19494,9 +19510,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
           "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        },
+        {
+          "episode_file": "SCIM3305811219 [SCIM3305811219].md",
+          "key": "build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219",
+          "show": "Huberman Lab",
+          "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+          "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
     "AthleteSponsorshipStrategy": {
@@ -65680,6 +65703,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
+    "DorianYates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3305811219 [SCIM3305811219].md",
+          "key": "build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219",
+          "show": "Huberman Lab",
+          "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+          "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/dorianyates/"
+    },
     "DostMuhammad": {
       "episode_count": 1,
       "show_count": 1,
@@ -110582,6 +110621,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/highcontextintimacymiscommunication/"
+    },
+    "HighIntensityResistanceTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3305811219 [SCIM3305811219].md",
+          "key": "build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219",
+          "show": "Huberman Lab",
+          "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+          "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/highintensityresistancetraining/"
     },
     "HighMeritThreatManagement": {
       "episode_count": 2,
@@ -231290,9 +231345,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -231356,9 +231411,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
+        },
+        {
+          "episode_file": "SCIM3305811219 [SCIM3305811219].md",
+          "key": "build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219",
+          "show": "Huberman Lab",
+          "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+          "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
