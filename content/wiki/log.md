@@ -33275,3 +33275,11 @@ Added source `zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvk
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）
+
+Added source `zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-`; created [[WhiteHorseCovenant|白马之盟]]; and resynthesized [[LuZhi|吕雉]] and [[WangLingHanMinister|王陵]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Lu Zhi's effective sovereignty is distinguished from formal assumption of the emperor title, while the 187 BCE chancellorial settlement and proposed posthumous honors for her father and Lu Ze turn the White Horse Covenant into a live conflict between inherited dynastic rules and regency power. Wang Ling's direct opposition is observable; Chen Ping and Zhou Bo's longer-run preservation strategy remains the host's retrospective interpretation. No settled contradiction is adopted. “China's first female emperor,” Shiji and chronology implications, covenant wording and origin, appointment design, debate language, private motives, and the modern self-depletion analogy remain source-scoped. Broad Chen Ping, Zhou Bo, Cao Shen, show, and regency pages were kept closed because the bounded addition is represented in the focused source, people, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,166 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

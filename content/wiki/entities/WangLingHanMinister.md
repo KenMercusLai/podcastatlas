@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
   - zizhi-tongjian-hanji-227-he-rennai-xuming-baisui-yang-qiqie-bairen-ta-shi-shui-liu5ugz2bds9e0rgl9xytk0a4pvj
   - zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr
+  - zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-09
 ---
@@ -19,7 +20,7 @@ last_updated: 2026-10-09
 
 [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] presents Wang Ling as a Pei County notable whose starting status is higher than Liu Bang's and whose tie to [[YongChi|雍齿]] helps explain why he does not immediately follow Liu Bang. After Han success in Guanzhong makes Liu Bang a stronger patron, Wang Ling becomes more willing to align with him. [[XiangYu|项羽]] then captures [[WangLingMother|王陵母亲]]; her suicide removes the hostage leverage, and the later destruction of her body drives Wang Ling more firmly toward Han in the episode's reading.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] extends him into early Western Han court politics. Wang Ling openly opposes [[LuZhi|吕雉]]'s move to make Lü-family members kings and is removed from the chancellor track, while [[ChenPing|陈平]] and [[ZhouBo|周勃]] preserve room to maneuver. He therefore becomes a contrast case for [[PoliticalSurvivalFirst|安全第一政治生存]]: principled opposition is legible but carries immediate office risk.
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] extends him into early Western Han court politics. [[zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-|Hanji 199 part 1]] adds the appointment and argument sequence: after [[CaoShen|曹参]] dies, Wang Ling becomes right chancellor, then invokes the [[WhiteHorseCovenant|White Horse Covenant]] against [[LuZhi|吕雉]]'s proposal to honor her father and [[LuZe|吕泽]] as kings. [[ChenPing|陈平]] and [[ZhouBo|周勃]] accommodate the immediate balance while saying that future preservation of the Liu state requires different capacities from direct remonstrance. Wang Ling therefore becomes a contrast case for [[PoliticalSurvivalFirst|安全第一政治生存]]: principled opposition is legible but carries immediate office risk, while the others' claimed long strategy remains source-attributed rather than proven intent.
 
 [[zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr|Hanji 199 part 2]] supplies the removal mechanism. After Wang Ling rejects posthumous royal honors for Lu Zhi's father and brother, he is appointed grand tutor to the young emperor. The source reads the high title as a practical demotion outside core decisions; Wang Ling responds with illness, is dismissed, returns to his fief, and withdraws from court. The sequence sharpens his profile from “opponent who lost office” into a case where formal promotion can mask exclusion from power.
 
@@ -44,6 +45,7 @@ Alignment and coercion:
 
 Court opposition:
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] contrasts Wang Ling's open opposition to Lü-family kingships with Chen Ping and Zhou Bo's survival-oriented flexibility.
+- [[zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-|Hanji 199 part 1]] reports Wang Ling's right-chancellor appointment after Cao Shen's death, his use of the [[WhiteHorseCovenant|White Horse Covenant]], and the post-court exchange over direct remonstrance versus longer-run preservation.
 - [[zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr|Hanji 199 part 2]] adds the proposal involving Lu Zhi's father and brother, the grand-tutor appointment, claimed illness, dismissal, and withdrawal.
 
 Intercession and reciprocity:
@@ -51,13 +53,15 @@ Intercession and reciprocity:
 
 ## Qualifications
 
-This four-source profile is not a complete biography. Hanji 148-2 leaves Wang Ling's early status, motives, exact military-political timing, hostage exchange, speeches, suicide, and corpse treatment episode-attributed. Hanji 150 part 3 does not reconstruct the full Lü-regency debate or every consequence of his opposition. Hanji 199 part 2's debate wording, appointment date, claim that the office was designed as retaliation, illness protest, removal procedure, return to the fief, and later withdrawal remain episode-attributed. Hanji 227 does not independently establish Zhang Cang's offense, sentencing procedure, Wang Ling's intercession, physical description, or later visit schedule and gifts. Reciprocal gratitude is a supported episode theme, not proof of every private motive.
+This five-source profile is not a complete biography. Hanji 148-2 leaves Wang Ling's early status, motives, exact military-political timing, hostage exchange, speeches, suicide, and corpse treatment episode-attributed. Hanji 150 part 3 does not reconstruct the full Lü-regency debate or every consequence of his opposition. Hanji 199 part 1 does not establish the exact White Horse Covenant text, appointment logic, courtroom wording, Lu Zhi's private intent, or that Chen Ping and Zhou Bo already possessed a settled later-restoration plan. Hanji 199 part 2's debate wording, appointment date, claim that the office was designed as retaliation, illness protest, removal procedure, return to the fief, and later withdrawal remain episode-attributed. Hanji 227 does not independently establish Zhang Cang's offense, sentencing procedure, Wang Ling's intercession, physical description, or later visit schedule and gifts. Reciprocal gratitude is a supported episode theme, not proof of every private motive.
 
 ## What Changed
 
 - Added the grand-tutor appointment as the concrete mechanism by which opposition led to practical exclusion.
 - Distinguished prestigious title from decision power without assuming that every grand-tutor appointment is a demotion.
 - Added Wang Ling's claimed illness, dismissal, and withdrawal as episode-attributed consequences.
+- Added the right-chancellor appointment and White Horse Covenant as the explicit institutional basis of his opposition.
+- Distinguished Wang Ling's observable remonstrance from retrospective claims about his colleagues' private long strategy.
 
 ## Relationships
 
@@ -73,3 +77,4 @@ This four-source profile is not a complete biography. Hanji 148-2 leaves Wang Li
 - [[AtrocityBackfireMobilization|暴行反噬式动员]] - framework for Xiang Yu's coercion producing firmer opposition.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - contrast frame that clarifies the immediate cost of Wang Ling's principled stance.
 - [[NominalOfficePracticalPowerMismatch|名位—实权错位]] - explains why the grand-tutor title can rise while practical court influence falls.
+- [[WhiteHorseCovenant|白马之盟]] - founding rule Wang Ling invokes against Lü-family royal honors.

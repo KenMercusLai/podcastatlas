@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-.md) — 吕雉的实际统治与正式帝号被明确区分；王陵援引白马之盟反对吕氏王号，陈平、周勃的顺从则保留为策略性解释。
 - [《资治通鉴·汉纪》200｜历史上第一次通货膨胀](sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw.md) — 吕后以八铢钱和关中金属管制回应轻钱与物价危机；“首次通胀”、平价效果、禁运目的及赵佗误判均保留来源边界。
 - [《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币](sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid.md) — 吕雉由八铢钱退向五分钱；节目以劣币驱逐良币、《二年律令》钱律和刘濞铜盐资源解释禁铸法令与实际执行能力之间的落差。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr.md) — 王陵以太傅高位被排出决策核心，陈平与审食其分掌外朝和内廷；个人动机、惠帝诸子身份与灾异象征保留来源边界。
@@ -17159,6 +17160,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [White Horse Covenant / 白马之盟](concepts/WhiteHorseCovenant.md) — 西汉开国封爵边界在吕氏王号争议中成为公开规范，但其执行依赖现实权力与大臣策略。
 - [早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap](concepts/EarlyHanCoinageEnforcementGap.md) — 区分严厉禁铸法令与中央实际控制铜材、铸造、流通和诸侯资源的能力。
 - [多方利益嵌入式政治经纪 / Interest-Embedded Political Brokerage](concepts/InterestEmbeddedPoliticalBrokerage.md) — 经纪人把客户目标嵌入君主、通道中介与潜在反对者的利益链，并通过顺序与时机把请求转化为问题解决方案。
 - [Battle of Cannae / 坎尼会战](concepts/BattleOfCannae.md) — Hannibal's annihilating victory and the problem of converting battlefield destruction into Roman surrender or allied collapse.

@@ -152719,9 +152719,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 2,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152876,6 +152876,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1） [lmaP8NkD8Om21u-uPTMzhHINslA-].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-/"
         }
       ],
       "updated": "2026-10-09",
@@ -251281,9 +251288,9 @@
       "url": "/wiki/entities/wanglinxincrownprince/"
     },
     "WangLingHanMinister": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
@@ -251312,6 +251319,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1） [lmaP8NkD8Om21u-uPTMzhHINslA-].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-/"
         }
       ],
       "updated": "2026-10-09",
@@ -255630,6 +255644,29 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/whitedeerskincurrency/"
+    },
+    "WhiteHorseCovenant": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2） [luhQCH956L2lwf_N-KfyaSEYodpR].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1） [lmaP8NkD8Om21u-uPTMzhHINslA-].md",
+          "key": "zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/whitehorsecovenant/"
     },
     "WhiteHorseTemple": {
       "episode_count": 1,
