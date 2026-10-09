@@ -5,6 +5,7 @@ tags: [political-development, authoritarianism, modernization, governance]
 sources:
   - 304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t
   - 44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou
+  - 636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -17,9 +18,9 @@ Authoritarian modernization is the attempt to transform economic and social inst
 
 ## Current Synthesis
 
-The Saudi case combines diversification, women’s public participation, entertainment, administrative centralization, and reduced clerical power with elite detention, war, repression, and no promise of democratization. The Pombal case adds an eighteenth-century historical comparison: education and fiscal reform, Lisbon reconstruction, industrial and commercial policy, and resistance to invasion coexisted with monopoly violence, colonial slave trading, noble executions, and the destruction of institutional rivals. Modernization and liberalization therefore cannot be treated as synonyms across either case.
+The Saudi case combines diversification, women’s public participation, entertainment, administrative centralization, and reduced clerical power with elite detention, war, repression, and no promise of democratization. The Pombal case adds an eighteenth-century comparison: education and fiscal reform, Lisbon reconstruction, industrial and commercial policy, and resistance to invasion coexisted with monopoly violence, colonial slave trading, noble executions, and the destruction of institutional rivals. The Pahlavi case adds oil-funded infrastructure, education, health, industry, land reform, and women's rights alongside SAVAK, court corruption, foreign dependence, and closed politics. Modernization and liberalization therefore cannot be treated as synonyms across any of the three cases.
 
-The arrangement can move quickly because power is centralized, but it also makes correction, accountability, delivery, and succession highly dependent on a narrow ruling relationship. In the Saudi case, economic underperformance may redirect legitimacy toward nationalism and security. In Pombal's case, reform capacity was inseparable from [[JoseIOfPortugal|José I]]'s protection and disappeared politically when Maria I succeeded him.
+The arrangement can move quickly because power is centralized, but it also makes correction, accountability, delivery, and succession highly dependent on a narrow ruling relationship. In the Saudi case, economic underperformance may redirect legitimacy toward nationalism and security. In Pombal's case, reform capacity was inseparable from [[JoseIOfPortugal|José I]]'s protection and disappeared politically when Maria I succeeded him. Under [[MohammadRezaPahlavi]], oil accelerated change so sharply that inflation, inequality, migration, educated youth, cultural dislocation, and clerical displacement became political pressures the authoritarian state could neither represent nor accurately interpret.
 
 ## Key Claims
 
@@ -29,6 +30,7 @@ The arrangement can move quickly because power is centralized, but it also makes
 - Coercive episodes reveal the boundary of reformist branding.
 - Performance shortfalls can redirect the regime toward nationalism and security rather than democratization.
 - Reform capacity can remain personally delegated and therefore fail to survive a succession that withdraws protection.
+- Rapid reform can create new expectations, displaced institutions, and concentrated urban grievances faster than closed political systems can absorb them.
 
 ## Evidence
 
@@ -37,15 +39,17 @@ The arrangement can move quickly because power is centralized, but it also makes
 - Failure response: [[304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t]] connects economic underperformance to renewed political signaling, nationalism, and security emphasis.
 - Historical reform-and-coercion case: [[44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou]] joins Pombal's education, fiscal, reconstruction, commercial, and defense record to monopoly repression, slave trading, exceptional trials, and Jesuit expulsion.
 - Succession boundary: [[44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou]] says Pombal's authority collapsed when José I died and Maria I removed him.
+- Revolutionary backlash: [[636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634]] connects the Shah's White Revolution and oil boom to expanded capacity and rights, but also to clerical displacement, inflation, inequality, migration, cultural alienation, repression, and revolutionary opposition.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every reform is merely cosmetic or that beneficiaries' expanded mobility, education, security, or employment are unreal. The two cases differ radically in period, institutions, political economy, empire, and available rights, so they support a family resemblance rather than one universal sequence. The Pombal source's economic results, casualty figures, motives, and causal claims require specialist corroboration.
+The concept does not imply that every reform is merely cosmetic or that beneficiaries' expanded mobility, education, health, security, employment, or political rights are unreal. The three cases differ radically in period, institutions, political economy, empire, religion, and available rights, so they support a family resemblance rather than one universal sequence. The Pombal and Pahlavi sources' economic results, casualty figures, motives, and causal claims require specialist corroboration; modernization alone does not prove that revolution or collapse was inevitable.
 
 ## What Changed
 
 - Added Pombal as a historical case joining administrative and educational reform to coercion, monopoly, and colonial slavery.
 - Added succession fragility when reform capacity rests on personal royal delegation.
+- Added Pahlavi Iran as a case where oil-speed transformation generated real gains and destabilizing social pressures under closed rule.
 
 ## Related Concepts
 
@@ -55,3 +59,5 @@ The concept does not imply that every reform is merely cosmetic or that benefici
 - [[Wahhabism]] - religious institution subordinated within the Saudi case.
 - [[MarquisDePombal]] - historical modernizer whose achievements and coercion remain inseparable in the new source.
 - [[CourtDependentMinisterialPower|君主依附型权臣权力]] - personal delegation mechanism that makes Pombal's reform authority powerful but nontransferable.
+- [[MohammadRezaPahlavi]] - oil-funded monarch whose reform-and-repression program became the new revolutionary-backlash case.
+- [[ShiiteRitualRevolutionaryMobilization]] - mechanism through which displaced authority and accumulated grievances gained a shared calendar and political language.

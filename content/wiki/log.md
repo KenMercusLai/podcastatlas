@@ -33531,3 +33531,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 636. Revolution in Iran: Fall of the Shah (Part 1)
+
+Added source `636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634`; resynthesized [[JimmyCarter]], [[MohammadRezaPahlavi]], [[RuhollahKhomeini]], [[MohammadMossadegh]], [[IranianCoup1953]], [[ShiiteRitualRevolutionaryMobilization]], and [[AuthoritarianModernization]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Shah's oil-funded modernization produced real infrastructure, education, health, land, and women's-rights gains while inflation, inequality, rapid migration, cultural displacement, foreign-dependence memories, corruption, and repression weakened legitimacy; clerical-bazaar networks and forty-day mourning cycles converted those pressures into repeated mobilization; and Carter's human-rights language remained constrained by strategic reliance on the Shah and court-centered intelligence. No settled contradiction was adopted. Cinema Rex responsibility, crowd and casualty totals, economic and demographic figures, motives, dialogue, and causal weights remain source-scoped or contested. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and no global-compaction gate; refreshed artifacts validate 4,198 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
