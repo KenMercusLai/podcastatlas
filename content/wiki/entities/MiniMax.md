@@ -2,52 +2,71 @@
 title: "MiniMax"
 type: entity
 tags: [company, ai, models]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-17
+sources:
+  - zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1
+  - zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588
+  - 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v
+  - duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe
+  - dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd
+  - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
+  - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
+  - lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx
+last_updated: 2026-10-10
+knowledge_schema: synthesis-v1
 ---
 
 # MiniMax
 
-[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds MiniMax through the public accusation side of the distillation debate. The source says [[Anthropic]] named MiniMax alongside [[DeepSeek]] and [[KimiK3|Kimi/Kimi K3]] in February, while emphasizing that public naming without full evidence should not be treated as proof of [[ModelDistillation]].
+## Overview
 
-MiniMax is the AI model company hosting the Developer Meetup captured in [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]]. [[YanJunjie]], its founder and CEO, describes the company through model iteration from M1 to M2/M2.7 and [[MiniMaxM3]], with AI coding, editing, token usage, and real engineering feedback serving as practical signals for model usefulness.
+MiniMax is represented as a Chinese AI model company founded by [[YanJunjie|严俊杰]]. Across the bounded evidence set, it combines language, speech, video, music, consumer products, APIs, and agent workflows around a long-horizon [[MultimodalAGIStrategy]], while later sources place coding, agents, model-harness feedback, cost, and commercialization at the center of execution.
 
-[[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds [[Adao]] and [[Zeying]] as MiniMax practitioners discussing MiniMax Agent, [[AgentHarness]], [[MultiAgentCollaboration]], and [[InterleavedThinking]] alongside [[HermesAgent]]. The source frames MiniMax as wanting its models to work well inside external agent frameworks such as Hermes Agent, [[OpenCloud]], and [[OpenClaw]], not only inside its own agent product.
+## Current Profile
 
-[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds MiniMax as a low-friction deployment example. A host uses a MiniMax deployment surface to publish an AI-generated HTML tool, but the platform's safety checks modify the script and introduce a first-run bug, illustrating that easy AI deployment still needs debugging and clear platform responsibility boundaries.
+The earliest direct founder account says MiniMax began before the ChatGPT breakout with three operating commitments: serve users rather than projects, build internationally, and remain foundation-driven. Its multimodal scope was intentional rather than an after-the-fact product expansion: individual modalities were expected to mature separately before deeper integration. Consumer products such as Talkie and Hailuo supplied reach, while video and API use supplied stronger revenue signals in the source's late-2025 account.
 
-[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds MiniMax to the domestic-model convergence story. The source says MiniMax, [[Kimi]], [[ZhipuAI]], and other Chinese model companies are increasingly moving toward the [[Anthropic]]-style high-value-task and agent/coding route rather than only broad consumer chat.
+The later developer sources show a company concentrating more heavily on coding and agentic work. M1 through M2/M2.7 and [[MiniMaxM3]] are discussed through token usage, editing, coding, real engineering feedback, and [[ModelHarnessCoEvolution]]. MiniMax practitioners describe harnesses as the tools, memory, permissions, feedback, and environment that let models perform work, and the broader domestic market places the company among model providers pursuing high-value tasks rather than consumer chat alone.
 
-[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds MiniMax as part of the 2026 model-side market heat. [[QuKai]] says Zhipu and MiniMax listings were read by some observers as a sign of peaking, but the broader episode treats model momentum as stronger than application momentum at that point.
+The company therefore has two connected but tension-bearing profiles: a broad multimodal AGI builder and a focused model company that must choose where capability, inference economics, open release, product reach, and paying demand justify scarce resources.
 
-[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds MiniMax through the source-named H3 multimodal model. The episode says H3 is open and can generate 15-second stereo video at roughly half the price of comparable products, placing MiniMax inside both [[VideoModels]] and [[AIInferenceCostStructure]] price competition.
+## Key Characteristics
 
-## Source Position
-- MiniMax is presented as trying to make developer-facing meetups a continuing activity rather than a one-off event.
-- Its M2/M2.7 work is described as focused on coding and editing rather than balanced coverage of every general chat scenario.
-- [[MiniMaxM3]] is treated as an ambitious next step whose usage is ahead of expectation while capability is still approaching the desired state.
-- The company frames models and harnesses/agents as mutually reinforcing paths toward higher intelligence.
-- In safety, finance, law, and other domains, MiniMax is expected to bring more domain experts into model development through [[DomainExpertAlignment]].
-- The Hermes Agent discussion says MiniMax M2.5/M2.7-class agentic capability helped the domestic OpenCloud/OpenClaw wave feel newly useful.
-- MiniMax is described as using model plus harness in model-development work, supporting the wiki's [[AgentSelfEvolution]] and [[ModelHarnessCoEvolution]] themes.
-- The company is also described as using internal digital employees to find open-source projects that can connect to MiniMax models.
-- The Keji Luandun OpenClaw episode uses MiniMax less as a model-company case and more as an example of low-threshold AI deployment where platform safety layers can change generated code.
-- Episode 136 treats MiniMax as part of a domestic model-company shift toward coding, agents, and high-value work.
-- The 42章经 recap uses MiniMax as part of the model-market heat that contrasts with the application-market trough.
-- The 声动早咖啡 source treats MiniMax H3 as an open multimodal video model competing on generated-video duration, audio, and price.
+- Multimodal foundation-model company spanning language, speech, video, music, and agentic workflows.
+- Internationally oriented business that treats real user payment and overseas competition as operating tests.
+- Foundation-driven organization that treats the model itself as a core product rather than only a backend feature.
+- Consumer-and-API operator using multiple routes to learn where model capability creates repeatable value.
+- Model-and-harness co-development practitioner, especially in coding and agent workflows.
+- Cost-constrained competitor that uses technical and organizational choices to compensate for a large resource gap with U.S. frontier labs.
 
-## Connections
-- [[YanJunjie]] — founder and CEO speaking for the company in the roundtable.
-- [[MiniMaxM3]] — model discussed through coding use, cost, and capability tradeoffs.
-- [[ModelHarnessCoEvolution]] — MiniMax view that model and agent/harness progress reinforce each other.
-- [[FrontierModelScaling]] — scaling discussion around 3T and 10T training.
-- [[AICodingVerification]] — engineering bottleneck identified as AI coding adoption grows.
-- [[AIInterpretabilityByAI]] — long-term intelligence and safety question raised by Yan.
-- [[Adao]] and [[Zeying]] — MiniMax speakers in the Hermes Agent roundtable.
-- [[HermesAgent]], [[OpenCloud]], and [[OpenClaw]] — external agent contexts MiniMax wants its models to support.
-- [[MultiAgentCollaboration]], [[InterleavedThinking]], and [[AgentSelfEvolution]] — themes added by the Hermes Agent source.
-- [[AICodingVerification]] and [[ProbabilisticSoftware]] — deployment and platform-safety boundary added by Keji Luandun.
-- [[Kimi]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model strategy frame added by episode 136.
-- [[AIApplicationMarketTrough]], [[ZhipuAI]], and [[AICommercializationPressure]] — mid-2026 model/application market split added by 42章经.
-- [[VideoModels]], [[Seedance]], [[AIVideoProductionWorkflow]], and [[AIInferenceCostStructure]] - H3 video-model and pricing branch added by 声动早咖啡.
-- [[ModelDistillationEvidence]], [[Anthropic]], [[DeepSeek]], and [[ChineseOpenWeightAIStrategy]] - LateTalk episode 179's source-scoped accusation branch.
+## Evidence
+
+- Founding strategy and multimodal scope - [[lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx]] says the company began with direct-to-user, international, and foundation-driven principles and pursued multiple modalities because it defines AGI through multimodal input and output.
+- Model iteration and high-value work - [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]] traces M1, M2/M2.7, and M3 through coding, editing, token use, scaling limits, and developer feedback; [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] places MiniMax in a wider Chinese shift toward coding, agents, and valuable tasks.
+- Harness and internal-work practice - [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] describes MiniMax model-plus-harness pipelines, multi-agent checking, and external framework compatibility; [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] supplies a more cautionary deployment case where safety modification introduces a bug.
+- Commercial and inference pressure - [[lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx]] distinguishes consumer usage from video/API revenue and treats overseas payment as a key test; [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] places the source-named H3 video model in price competition; [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] situates MiniMax on the stronger model side of a model/application market split.
+- Governance and contested provenance - [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] records that [[Anthropic]] publicly named MiniMax in a distillation debate while explicitly preserving the absence of complete public evidence.
+
+## Qualifications
+
+Most detailed operating claims come from MiniMax's founder, employees, meetup participants, or secondary podcast commentary rather than audited company records. Model rank, cost, revenue mix, user volume, generated-media volume, audiobook share, team size, milestones, internal tools, and competitive distance remain time-bounded and source-scoped. The public distillation accusation is not treated as proof, and a low-friction deployment example does not establish platform-wide reliability.
+
+## What Changed
+
+- Reframed MiniMax as a deliberate multimodal foundation company whose coding-and-agent focus is a later execution concentration, not a replacement identity.
+- Added direct-to-user, international, and foundation-driven principles to the current company profile.
+- Distinguished consumer reach from video/API revenue signals and preserved inference cost as a strategic constraint.
+- Made organizational integration, young internal talent, and model responsiveness part of the company's operating profile.
+- Converted the accumulated source-led chronology into a current synthesis while preserving all prior evidence.
+
+## Relationships
+
+- [[YanJunjie|严俊杰]] - founder and CEO whose two interviews supply the core strategy and operating accounts.
+- [[MiniMaxM3]] - later model discussed through coding, cost, capability, and developer workflow.
+- [[MultimodalAGIStrategy]] - long-horizon thesis connecting the company's language, speech, video, and music work.
+- [[ModelAsProduct]] - product thesis that places model capability ahead of the delivery interface.
+- [[AINativeRoleConvergence]] - organizational consequence visible in product, engineering, algorithm, sales, operations, and HR work.
+- [[ModelHarnessCoEvolution]] - feedback relationship between models and agent execution environments.
+- [[FrontierModelScaling]] - compute, data, architecture, and training-efficiency boundary on model growth.
+- [[AIInferenceCostStructure]] - constraint shaping model choice, pricing, modality economics, and scenario fit.
+- [[Adao]] and [[Zeying]] - MiniMax practitioners contributing the harness and agent evidence.
+- [[Anthropic]] - frontier-lab comparator and source of a public but unproven distillation accusation.

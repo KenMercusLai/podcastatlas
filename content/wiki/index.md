@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](sources/lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx.md) — 罗永浩对谈严俊杰，连接县城自学、MiniMax 创业、多模态 AGI、模型即产品、岗位融合、国际化商业化与 AI 价值分配。
 - [625. Jack The Ripper: Horror in Whitechapel (Part 2)](sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111.md) — The Rest Is History reconstructs Annie Chapman's murder, early police constraints, mass-market crime reporting, anti-Jewish panic, and the probable hoax that created the Jack the Ripper name.
 - [Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583.md) — Condensed Huberman Lab interview on microbiome resilience, whole-plant fiber, fermented-food evidence, calibrated hygiene, and the limits of cleanses, probiotics, and purified prebiotics.
 - [1 东西方历史的祖师爷：从希罗多德到司马迁](sources/1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867.md) — 怪东西以希罗多德、修昔底德、孔子、司马迁与班固比较探寻、政治分析、道德载道、作者判断和可传承形式，说明“史学之父”取决于所采用的奠基标准。
@@ -16676,7 +16677,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [明浩](entities/Minghao.md) — CreateWise cofounder whose podcast-production experience shaped its AI creator-tool direction.
 - [Mingwei](entities/Mingwei.md) — Hackathon contestant exploring anime-style heads as emotional interfaces for future embodied AI and agents.
 - [Mycontext](entities/Mycontext.md) — Open-source context-capture project using periodic screenshots, discussed as AirJelly's predecessor.
-- [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
+- [MiniMax](entities/MiniMax.md) — Chinese multimodal foundation-model company combining language, speech, video, music, consumer products, APIs, and agent workflows.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
 - [Motorola](entities/Motorola.md) — Early handset leader and later BYD battery-customer signal linking handset-era component demand to battery manufacturing know-how.
@@ -16789,7 +16790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小孙](entities/XiaoSun.md) — Post-2000 developer/founder case for self-directed work, CreateWise, career self-rescue, and digital-nomad community building.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
-- [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
+- [严俊杰 / Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO connecting multimodal AGI, model products, technical organization, commercialization, and value distribution.
 - [Ye Bowen](entities/YeBowen.md) — Student and independent developer who won the Xiaohongshu hackathon with Party Guitar.
 - [Yihao](entities/Yihao.md) — AirJelly angel investor discussing proactive AI, agent infrastructure, context hardware, and AI-native VC work.
 - [YORO](entities/YORO.md) — AI interactive film/game example connected to video models and interactive content platforms.
@@ -17331,6 +17332,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [Multimodal AGI Strategy / 多模态 AGI 路线](concepts/MultimodalAGIStrategy.md) — Staged strategy in which separately developed language, speech, video, and music capabilities are later integrated toward multimodal input and output.
+- [Model as Product / 模型即产品](concepts/ModelAsProduct.md) — AI-native thesis that model capability, behavior, cost, and tradeoffs form the product core while applications deliver and test it.
+- [AI-Native Role Convergence / AI 原生岗位融合](concepts/AINativeRoleConvergence.md) — Organizational shift in which AI broadens task scope across product, engineering, algorithm, design, and business roles without removing specialist accountability.
 - [Historiographical Founder Criteria / 史学奠基者标准](concepts/HistoriographicalFounderCriteria.md) — 将“史学之父”拆分为探寻、政治分析、道德教化、作者综合与制度可复制性等不同奠基标准。
 - [Career Promise Beyond Contract / 超越退出条款的职业承诺](concepts/CareerPromiseBeyondContract.md) — Distinction between using a lawful priced exit and treating an original term of service as a stricter relational promise.
 - [Belief-Grounded Storytelling / 信念落地的叙事](concepts/BeliefGroundedStorytelling.md) — Film-craft principle that creators and performers must believe characters and situations before genre technique can persuade an audience.

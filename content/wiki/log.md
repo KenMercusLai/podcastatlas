@@ -33930,3 +33930,11 @@ Added source `625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111`; c
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越
+
+Added source `lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx`; created [[MultimodalAGIStrategy|多模态 AGI 路线]], [[ModelAsProduct|模型即产品]], and [[AINativeRoleConvergence|AI 原生岗位融合]]; and resynthesized [[MiniMax]] and [[YanJunjie|严俊杰]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: MiniMax's later coding-and-agent concentration sits inside an earlier direct-user, international, foundation-driven multimodal strategy, while model capability becomes the product core and AI broadens role scope without eliminating specialist judgment or accountability. No settled contradiction was adopted. Company scale, model rank, cost advantage, revenue mix, usage volume, audiobook share, competitive distance, biographies, internal milestones, and AGI forecasts remain source-scoped founder claims. The title's 闫俊杰 spelling is preserved while the canonical person page follows the body spelling 严俊杰. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,248 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

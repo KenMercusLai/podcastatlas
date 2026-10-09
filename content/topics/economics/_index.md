@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2227
+topic_total_pages: 2228
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6354,6 +6354,9 @@ topic_sources:
   - key: "middlegarchs-are-the-new-oligarchs-32587514"
     title: "Middlegarchs are the new Oligarchs"
     url: "/wiki/sources/middlegarchs-are-the-new-oligarchs-32587514/"
+  - key: "lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx"
+    title: "MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越"
+    url: "/wiki/sources/lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390"
     title: "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"

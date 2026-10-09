@@ -9946,6 +9946,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AINativeRoleConvergence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AINativeSaaSThreat": [
     {
       "key": "technology",
@@ -59427,6 +59434,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ModelAsProduct": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ModelCapabilityPackaging": [
     {
       "key": "technology",
@@ -60326,6 +60340,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MultimodalAGIStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MultimodalAdultNeuroplasticity": [
@@ -101174,6 +101195,18 @@
     }
   ],
   "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx": [
     {
       "key": "technology",
       "label": "Technology",

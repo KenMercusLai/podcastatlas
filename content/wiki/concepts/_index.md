@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10124
+wiki_total_pages: 10127
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1703,6 +1703,9 @@ wiki_pages:
   - key: "AINativeNarrativeWorlds"
     title: "AI-Native Narrative Worlds"
     url: "/wiki/concepts/ainativenarrativeworlds/"
+  - key: "AINativeRoleConvergence"
+    title: "AI-Native Role Convergence / AI 原生岗位融合"
+    url: "/wiki/concepts/ainativeroleconvergence/"
   - key: "AINativeVirtualIdol"
     title: "AI-Native Virtual Idol / AI 原生虚拟偶像"
     url: "/wiki/concepts/ainativevirtualidol/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10124
+wiki_total_pages: 10127
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "ModelAsOperatingSystem"
     title: "Model As Operating System"
     url: "/wiki/concepts/modelasoperatingsystem/"
+  - key: "ModelAsProduct"
+    title: "Model as Product / 模型即产品"
+    url: "/wiki/concepts/modelasproduct/"
   - key: "ModelCapabilityPackaging"
     title: "Model Capability Packaging"
     url: "/wiki/concepts/modelcapabilitypackaging/"
@@ -1592,6 +1595,9 @@ wiki_pages:
   - key: "MultimodalAdultNeuroplasticity"
     title: "Multimodal Adult Neuroplasticity"
     url: "/wiki/concepts/multimodaladultneuroplasticity/"
+  - key: "MultimodalAGIStrategy"
+    title: "Multimodal AGI Strategy / 多模态 AGI 路线"
+    url: "/wiki/concepts/multimodalagistrategy/"
   - key: "MultimodalFunctionCenteredPainCare"
     title: "Multimodal Function-Centered Pain Care"
     url: "/wiki/concepts/multimodalfunctioncenteredpaincare/"
