@@ -6,7 +6,8 @@ sources:
   - vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo
   - vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5
   - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
-last_updated: 2026-09-21
+  - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The concept also keeps flexibility inside the system. Takeout can be improved by
 VOL.160 supplies a simpler entry point for people who do not want to calculate nutrients. Its palm guide combines roughly one palm of protein, one fist of staple carbohydrate, two fists of vegetables, and a thumb-sized amount of fat. The source also protects food form: fruit is preferred to juice, intact meals to liquid salads, and varied ordinary food to long-term reliance on powders, while those products can still serve unusual travel, recovery, or access constraints.
 
 VOL.117 adds an autobiographical anti-deprivation branch. [[XinXiaoqi|辛晓琪]] explicitly rejects skipping meals, retains grains and varied ordinary food, and treats stopping before overfullness as more sustainable than alternating restriction with rebound. [[ZihanDoctor|子涵医生]] interprets this as roughly seven-to-eight-tenths fullness, but the exact fullness scale, blood-glucose explanation, and pre-sleep hunger mechanism remain source-scoped rather than universal targets.
+
+VOL.192 broadens implementation from portioning to the surrounding food environment. Its three screening questions—whether an item resembles a food or a product, remains appealing without intense flavoring, and belongs in an everyday pattern—help shoppers choose defaults without calculating nutrients. At meals it adds visible individual portions, slower screen-free eating, regular meals, lighter cooking methods, and takeout requests for less oil and salt. These are heuristics, not purity rules: occasional enjoyment and accountable convenience food remain compatible with the pattern.
 
 ## Key Claims
 - Execution is the central bottleneck: dietary principles need meal-level routines, not only correct categories.
@@ -45,14 +48,14 @@ VOL.117 adds an autobiographical anti-deprivation branch. [[XinXiaoqi|辛晓琪]
 - Workday repair - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] suggests standardized fast meals, added salad, fruit, tomatoes, cucumber, saltiness checks, and snacks that prevent late-day hunger spikes.
 - Flexible boundaries - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] keeps alcohol, dessert, barbecue, and sweet drinks inside portion, frequency, substitution, and next-day training or activity decisions.
 - Anti-deprivation moderation - [[vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3]] retains meals, grains, and mixed foods while distinguishing comfortable moderation from both overfullness and starvation.
+- Recognizable-food and meal-environment heuristics - [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] adds food-versus-product and everyday-use questions, visible portions, screen-free slower eating, regular meals, simpler cooking, and lower-oil, lower-salt takeout repair.
 
 ## Counterevidence & Qualifications
-The sources are public podcast guidance, not clinical diet plans. The palm guide and fullness scale are convenient estimates rather than universal prescriptions, and the sources do not establish exact macronutrient ratios, calorie targets, fasting schedules, hunger targets, or therapeutic meal-replacement protocols. Diabetes, kidney disease, pregnancy, eating disorders, food allergies, elder frailty, adolescent growth, gastrointestinal disease, postoperative recovery, elite sport, medication use, budget, cooking access, and household constraints can change appropriate food choices and should remain individualized. CGM observations and broad longevity-mechanism claims do not replace clinical interpretation.
+The sources are public podcast guidance, not clinical diet plans. The palm guide, fullness scale, and food-versus-product questions are convenient estimates rather than universal prescriptions or validated processing tests, and the sources do not establish exact macronutrient ratios, calorie targets, fasting schedules, hunger targets, or therapeutic meal-replacement protocols. Diabetes, kidney disease, pregnancy, eating disorders, food allergies, elder frailty, adolescent growth, gastrointestinal disease, postoperative recovery, elite sport, medication use, budget, cooking access, and household constraints can change appropriate food choices and should remain individualized. CGM observations and broad longevity-mechanism claims do not replace clinical interpretation.
 
 ## What Changed
-- Added a palm-based meal estimate that preserves carbohydrate, protein, vegetables, and dietary fat without calorie calculation.
-- Added whole-food form and chewing as defaults while preserving temporary liquid- or powder-support use cases.
-- Added meal retention, comfortable partial fullness, and rebound avoidance as an anti-deprivation branch.
+- Added a three-question recognizable-food heuristic alongside visible portions, slower screen-free meals, and regular eating.
+- Extended takeout repair to cooking method, less oil and salt, mixed grains or tubers, smaller dishes, and practical self-cooking.
 
 ## Related Concepts
 - [[LifestyleWeightManagement]] - broader body-composition and metabolic-habit frame that this concept supports.

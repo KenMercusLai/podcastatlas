@@ -55443,9 +55443,9 @@
       "url": "/wiki/entities/daqin/"
     },
     "DaShiHua": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -55467,9 +55467,16 @@
           "show": "这病说来话长",
           "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",
           "url": "/wiki/sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/dashihua/"
     },
     "DaVinciSurgicalSystem": {
@@ -87682,9 +87689,9 @@
       "url": "/wiki/concepts/foodclassificationregulatoryconflict/"
     },
     "FoodPleasureEngineering": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -87699,15 +87706,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "FoodSystemNutritionResponsibility": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6504027968 [SCIM6504027968].md",
@@ -87729,9 +87743,16 @@
           "show": "Huberman Lab",
           "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
           "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/foodsystemnutritionresponsibility/"
     },
     "FoodValueContextAssessment": {
@@ -145479,9 +145500,9 @@
       "url": "/wiki/concepts/liquidbiopsyscreeningboundary/"
     },
     "LiquidSugarRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -145496,9 +145517,16 @@
           "show": "Huberman Lab",
           "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
           "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/liquidsugarrisk/"
     },
     "LiquidityDrivenVolatilityCascade": {
@@ -195567,9 +195595,9 @@
       "url": "/wiki/concepts/powerstructuretargeting/"
     },
     "PracticalBalancedEating": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lhMSV-HzbMzFYiUPaTzsKM1jblgo [lhMSV-HzbMzFYiUPaTzsKM1jblgo].md",
@@ -195591,9 +195619,16 @@
           "show": "这病说来话长",
           "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
           "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/practicalbalancedeating/"
     },
     "PracticalSugarControl": {
@@ -237524,9 +237559,9 @@
       "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -237548,9 +237583,16 @@
           "show": "Huberman Lab",
           "title": "Developing a Rational Approach to Supplementation for Health & Performance",
           "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/targetedsupplementneedassessment/"
     },
     "TariffDrivenOverseasLocalProduction": {
@@ -247850,9 +247892,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UltraProcessedFoodPragmaticBoundary": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -247888,9 +247930,16 @@
           "show": "Huberman Lab",
           "title": "How Hormones Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/scim1789507430-scim1789507430/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
@@ -271013,9 +271062,9 @@
       "url": "/wiki/entities/yuelaosan/"
     },
     "YueWanrou": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -271037,9 +271086,16 @@
           "show": "这病说来话长",
           "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",
           "url": "/wiki/sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5/"
+        },
+        {
+          "episode_file": "lqqv4XNtY947lc5iplU796ArPi0d [lqqv4XNtY947lc5iplU796ArPi0d].md",
+          "key": "vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d",
+          "show": "这病说来话长",
+          "title": "VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」",
+          "url": "/wiki/sources/vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/yuewanrou/"
     },
     "YueXiaYao": {

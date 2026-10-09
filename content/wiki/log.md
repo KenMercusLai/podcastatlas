@@ -33578,3 +33578,11 @@ Added source `635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235`; exte
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | VOL.192最新DGA颠覆认知：食品系统才是健康隐患，春节饮食避坑指南 ft.「大食话」
+
+Added source `vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d`; resynthesized [[YueWanrou|岳宛柔]], [[DaShiHua|大食话]], [[FoodSystemNutritionResponsibility]], [[UltraProcessedFoodPragmaticBoundary]], [[FoodPleasureEngineering]], [[PracticalBalancedEating]], [[LiquidSugarRisk]], and [[TargetedSupplementNeedAssessment]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: price, app delivery, late-night availability, office treats, institutional food, sensory design, weak satiation, and distracted eating shape dietary defaults, while recognizable-food questions, meal structure, cooking and takeout repair, and need-based supplements restore practical agency without additive panic or dietary perfectionism. No settled contradiction was adopted. Guideline statistics, protein and dairy quantities, omega-fat ratios, fructose, inflammation, breakfast and gallbladder, fermentation, plant milk, and disease-specific claims remain source-scoped public education rather than verified universal thresholds or individualized medical advice. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,204 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

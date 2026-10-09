@@ -8,7 +8,8 @@ sources:
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
   - scim1789507430-scim1789507430
-last_updated: 2026-10-03
+  - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ Controlled-feeding evidence attributed to Kevin Hall's NIH work strengthens the 
 
 The Lustig interview adds a more categorical metabolic and policy critique. It uses NOVA class four, added sugar, low fiber, emulsifiers, reward signaling, liver and mitochondrial effects, school-food defaults, and industry economics to argue that many ultra-processed products should not count as food. The page retains those mechanisms and system pressures as investigation and reformulation targets without adopting the categorical definition: product composition, dose, replacement, affordability, and evidence quality still matter.
 
+VOL.192 adds a low-friction consumer heuristic: ask whether the item still resembles a food, whether it remains appealing without intense flavoring, and whether it belongs in an everyday pattern. This is useful for interrupting automatic choices, but it is not a scientific processing classification. The same source explicitly separates lawful additive use from illegal or uncontrolled use and prefers accountable large producers when industrial food is purchased, reinforcing full-product, frequency, and supply-chain judgment over additive panic.
+
 ## Key Claims
 - Ultra-processed-food concern is broader than fear of one dye or additive.
 - Processing categories and nutrient quality overlap but are not identical.
@@ -35,7 +38,7 @@ The Lustig interview adds a more categorical metabolic and policy critique. It u
 - A blanket ban can remove affordable, practical foods before replacements exist.
 - Reformulation is plausible because companies already make some products differently across countries.
 - Policy and personal choices should ask what replaces a product, at what cost, and with what nutritional and behavioral effect.
-- Emulsifier effects remain source-scoped, while controlled feeding supports an intake effect without making every product equally causal; institutional defaults, labeling, reward design, and externalized costs make exposure a system problem as well as a consumer-choice problem.
+- Emulsifier effects remain source-scoped, while controlled feeding supports an intake effect without making every product equally causal; institutional defaults, delivery convenience, labeling, reward design, and externalized costs make exposure a system problem as well as a consumer-choice problem.
 
 ## Evidence
 - System framing: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] describes shelf life, low cost, convenience, and sensory appeal as a combined ultra-processed-food problem.
@@ -47,16 +50,14 @@ The Lustig interview adds a more categorical metabolic and policy critique. It u
 - Controlled-feeding evidence: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] and [[scim1789507430-scim1789507430]] describe a controlled inpatient comparison in which an ultra-processed diet increased spontaneous intake and weight gain despite substantial diet matching.
 - Mechanism uncertainty: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] names energy density, engineered macronutrient combinations, and lower food volume as possible explanations rather than a resolved causal pathway.
 - Metabolic and system critique: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] links added sugar, low fiber, emulsifiers, reward signaling, school procurement, affordability, labeling, and reformulation to the ultra-processed-food environment.
+- Everyday screening and additive boundary: [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] proposes food-versus-product, unflavored-palatability, and everyday-use questions while distinguishing legal additive use, illegal misuse, producer accountability, and habitual diet structure.
 
 ## Counterevidence & Qualifications
-The sources do not establish that every additive, product, or processing method is harmless, nor do they quantify causal effects across all NOVA categories. Convenience, affordability, nutrient composition, consumption frequency, eating rate, energy density, volume, and replacement foods must be assessed separately. Reformulation can improve products without making them equivalent to minimally processed staples. The full 2021 hunger episode and its later Essentials edit are overlapping provenance, not independent replication. Emulsifier and fructose mechanisms are too underspecified for class-wide avoidance advice, the condensed hunger and Knight sources do not provide the controlled trial's full sample, duration, diet matching, or effect sizes, and Lustig's claim that many class-four products are not food is retained as advocacy rather than a settled classification.
+The sources do not establish that every additive, product, or processing method is harmless, nor do they quantify causal effects across all NOVA categories. Convenience, affordability, nutrient composition, consumption frequency, eating rate, energy density, volume, and replacement foods must be assessed separately. VOL.192's intuitive questions are shopping heuristics, not validated classification or disease-risk tests. Reformulation can improve products without making them equivalent to minimally processed staples. The full 2021 hunger episode and its later Essentials edit are overlapping provenance, not independent replication. Emulsifier and fructose mechanisms are too underspecified for class-wide avoidance advice, the condensed hunger and Knight sources do not provide the controlled trial's full sample, duration, diet matching, or effect sizes, and Lustig's claim that many class-four products are not food is retained as advocacy rather than a settled classification.
 
 ## What Changed
-- Added a metabolic and food-system critique spanning sugar, fiber, reward, school defaults, labels, external costs, and reformulation.
-- Kept the categorical “not food” claim source-scoped and preserved replacement and affordability tests.
-- Added controlled-feeding evidence for greater spontaneous intake on an ultra-processed pattern, with the full 2021 hunger episode treated as underlying provenance for its later Essentials edit.
-- Kept energy density, volume, eating rate, and engineered combinations as unresolved mechanisms rather than universal product properties.
-- Preserved affordability, classification, reformulation, and replacement constraints on blanket bans.
+- Added three intuitive shopping questions while explicitly keeping them separate from scientific processing classification.
+- Added delivery convenience, accountable sourcing, and the distinction between lawful additives and misuse to the full-product judgment.
 
 ## Related Concepts
 - [[FoodPleasureEngineering]] - sensory-design mechanism that helps explain spontaneous overconsumption.

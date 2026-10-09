@@ -6,7 +6,8 @@ sources:
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
   - efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123
   - what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713
-last_updated: 2026-09-28
+  - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Personal responsibility is incomplete when healthier options are unavailable, un
 This does not erase individual agency. It changes the standard for judging it: advice must be usable under real household and institutional constraints, while reform should improve defaults, transparency, affordability, and product composition without assuming that every processed food, additive, or consumer has the same risk.
 
 Across the sources, price is policy-sensitive rather than natural. Subsidies, ingredient economics, neighborhood geography, and downstream healthcare costs can make unhealthy products cheap at purchase while shifting costs elsewhere. Pollan adds the vulnerability of a weak traditional food culture to marketing and argues that reform can build cross-partisan coalitions around concrete food, farming, and liability questions.
+
+VOL.192 makes the default-choice mechanism concrete for Chinese urban life: inexpensive milk tea and takeout, app delivery, late-night availability, office snacks, strong flavoring, and eating during entertainment can reduce friction and weaken awareness before an individual makes a deliberate nutrition decision. Its response remains joint rather than fatalistic—improve the environment and institutional defaults while using recognizable-food, meal-structure, cooking, takeout, and movement routines that restore practical agency.
 
 ## Key Claims
 - Knowledge and interpretable labeling are prerequisites for meaningful choice.
@@ -37,15 +40,14 @@ Across the sources, price is policy-sensitive rather than natural. Subsidies, in
 - Access and uncertainty - [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123]] connects neighborhood availability, subsidies, relative price, processing, additives, and incomplete long-term evidence.
 - Price and culture - [[what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713]] argues that corn- and soy-centered production, cheap processed inputs, and weak dietary tradition increase marketing leverage.
 - Coalition strategy - [[what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713]] presents food reform as capable of crossing political camps around selected policy goals.
+- Default convenience and agency - [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] links app delivery, cheap takeout and sweet drinks, marketing, institutional meals, and entertainment-linked eating to repeated exposure, then pairs system critique with cooking, takeout repair, meal structure, and daily movement.
 
 ## Counterevidence & Qualifications
-The supplied sources do not provide complete methods for their price-elasticity, food-desert, subsidy, cost, school-policy, reformulation, additive, chronic-disease, or coalition-effect claims. Engineered appeal does not prove addiction in every consumer, weak food tradition is not a complete national explanation, and systemic constraint does not eliminate personal variation or agency. Policy effects require independent evaluation for substitution, equity, implementation burden, unintended consequences, and long-term outcomes.
+The supplied sources do not provide complete methods for their price-elasticity, food-desert, subsidy, cost, school-policy, reformulation, additive, chronic-disease, or coalition-effect claims. VOL.192 uses a U.S. guideline as a conversational prompt rather than independently establishing its statistics or transferring them directly to China. Engineered appeal does not prove addiction in every consumer, weak food tradition is not a complete national explanation, and systemic constraint does not eliminate personal variation or agency. Policy effects require independent evaluation for substitution, equity, implementation burden, unintended consequences, and long-term outcomes.
 
 ## What Changed
-- Added dietary culture and ingredient economics to the account of marketing vulnerability.
-- Added cross-partisan coalition-building as a possible route to selected reforms.
-- Strengthened the distinction between checkout price and total social cost.
-- Preserved agency, replacement, and evidence boundaries.
+- Added app delivery, cheap takeout and sweet drinks, office snacks, institutional meals, and entertainment-linked eating as concrete default-choice mechanisms.
+- Added a paired response: system reform and practical household agency remain complements.
 
 ## Related Concepts
 - [[UltraProcessedFoodPragmaticBoundary]] - adds replacement, affordability, and product-context constraints to processing policy.

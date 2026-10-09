@@ -5,7 +5,8 @@ tags: [healthcare, nutrition, sugar, beverages]
 sources:
   - vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
-last_updated: 2026-09-27
+  - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The source makes liquid sugar the first practical reduction target. Fruit juice,
 This concept also clarifies the fruit-versus-juice distinction. Whole fruit includes cell walls, peel, fiber, volume, and chewing time. Juice and concentrated juice can deliver glucose and fructose quickly, and the episode treats excess fructose as a liver-metabolism and fatty-liver risk boundary when consumed heavily.
 
 The Lustig interview strengthens that distinction by treating fiber as an absorption barrier and microbiome substrate. Berries and intact fruit are not grouped with soda merely because both contain fructose; delivery matrix, dose, chewing, absorption pace, and repeated exposure matter. The source's strongest language about soda, diet soda, fructose toxicity, and universal avoidance remains advocacy rather than an individualized clinical rule.
+
+VOL.192 adds the habit layer: sweet drinks can become the default because plain water feels unrewarding, while low prices, milk-tea culture, office afternoon tea, coffee flavoring, and dessert pairing normalize repeated exposure. The problem is therefore not only the sugar molecule but a weak-satiety format embedded in convenience, reward, and social routines.
 
 ## Key Claims
 - Reducing liquid sugar is the episode's highest-priority sugar-control action.
@@ -36,13 +39,14 @@ The Lustig interview strengthens that distinction by treating fiber as an absorp
 - Fructose boundary: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] says excess fructose can burden liver metabolism and links fructose-glucose syrup drinks to fatty-liver and uric-acid risk concerns.
 - Fiber and matrix: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] distinguishes berries and intact fruit from soda or juice through fiber, food structure, absorption, microbiome exposure, and repeated dose.
 - Sweetener boundary: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] treats diet soda as preferable to sugared soda but worse than water and proposes later appetite or insulin effects; these study claims remain source-scoped.
+- Habit and social context: [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] links low satiety with milk tea, flavored coffee, office afternoon tea, dessert pairing, low prices, and difficulty accepting unsweetened water.
 
 ## Counterevidence & Qualifications
 The sources do not argue that fruit, all fermented drinks, or all dairy products are harmful. They do not establish one dose threshold across individuals. The risk claim is strongest for frequent, sweetened, quickly consumed beverages and for juice replacing whole fruit as a default habit. The Lustig summary does not provide full methods for the Copenhagen or Singapore sweetener studies, and its absolute rejection of zero-calorie soda should not be treated as individualized medical guidance.
 
 ## What Changed
-- Added fiber-barrier, microbiome, dose, and food-matrix reasons not to equate whole fruit with sweetened drinks.
-- Added a qualified non-caloric-sweetener branch without converting source advocacy into a universal rule.
+- Added convenience, reward, and social routine as mechanisms that turn weak-satiety drinks into repeated exposure.
+- Preserved the whole-fruit distinction and the dose-, frequency-, and individual-context boundary.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - broader self-management frame that prioritizes liquid sugar.
