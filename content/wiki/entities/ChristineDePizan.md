@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, writer, medieval-france, political-thought, women-authors]
 sources:
   - 13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent
+  - 632-joan-of-arc-warrior-maid-part-1-glt6592271090
 last_updated: 2026-10-09
 ---
 
@@ -20,6 +21,8 @@ last_updated: 2026-10-09
 
 Her gender argument also works through literary criticism. The source describes her intervention in the *Romance of the Rose* controversy and *The Book of the City of Ladies* as attacks on misogynistic binaries, exclusion from learned dialogue, and the assignment of courage or reason to men alone. This public voice remained historically situated: her preference for concentrated monarchy is tied to civil war and invasion rather than treated as a universally transferable model.
 
+The Joan episode places Christine's late silence and final poem inside the collapse and revival of the Valois cause. After Agincourt, civil war, and the [[TreatyOfTroyes|Treaty of Troyes]], she withdrew to an abbey; in 1429 she celebrated [[JoanOfArc|"La Pucelle"]] as an astonishing young woman driving enemies from France. The poem supplies contemporary evidence that Joan's emergence seemed extraordinary to an informed observer living through the crisis.
+
 ## Key Characteristics
 
 - Professional court writer whose literary production supported family dependants.
@@ -28,6 +31,7 @@ Her gender argument also works through literary criticism. The source describes 
 - Critic of misogynistic literary representation and women's exclusion from learned discourse.
 - Advocate for girls' education and for virtues and intellectual capacities not confined by gender.
 - Historically situated monarchist whose political preferences responded to fragmentation and invasion.
+- Contemporary poetic witness who interpreted Joan's victories as the revival of the French royal cause.
 
 ## Evidence
 
@@ -35,16 +39,16 @@ Her gender argument also works through literary criticism. The source describes 
 - Political and military authorship: [[13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent|Episode 13]] attributes to her works on royal counsel, justice, internal peace, legitimate war authority, military pay, prisoners, noncombatants, punishment, and judicial combat.
 - Gender and education: [[13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent|Episode 13]] uses the *Romance of the Rose* dispute and *The Book of the City of Ladies* to ground her criticism of stereotypes and defense of women's education and intellectual capacity.
 - Historical setting: [[13-dongxifang-de-nvzuojia-pisang-yu-caiwenji-lsnudvgvjpm09dvfonofvadwent|Episode 13]] links her arguments for peace and strong kingship to court faction, civil war, English invasion, and Joan of Arc's later military emergence.
+- Final poem and contemporary wonder: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] connects Christine's withdrawal after French disasters to her 1429 celebration of Joan as "La Pucelle."
 
 ## Qualifications
 
-This profile is bounded to one podcast summary rather than a full reading of Christine's corpus or specialist medieval scholarship. The claim that she was Europe's first professional woman writer, translated titles, chronology, political influence, theory of monarchy, treatment of military law, and precise relation to Joan of Arc remain source-attributed. Modern gender terminology can clarify parts of her argument but should not erase its Christian, courtly, and late-medieval political setting.
+This profile is bounded to two podcast summaries rather than a full reading of Christine's corpus or specialist medieval scholarship. The claim that she was Europe's first professional woman writer, translated titles, chronology, political influence, theory of monarchy, treatment of military law, circumstances of withdrawal, and precise relation to Joan of Arc remain source-attributed. The poem demonstrates contemporary celebration, not proof of Joan's supernatural claims or a complete measure of French opinion. Modern gender terminology can clarify parts of Christine's argument but should not erase its Christian, courtly, and late-medieval political setting.
 
 ## What Changed
 
-- Established Christine as a professional, political, military, and gender-critical author rather than only an emblem of women's writing.
-- Located her monarchism and peace arguments within French civil conflict and invasion.
-- Preserved patronage, translation, chronology, and “first woman professional writer” claims as source-bounded.
+- Added Christine's withdrawal after French disasters and her 1429 return to public poetry in praise of Joan.
+- Established the final poem as contemporary evidence of Joan's extraordinary reception rather than retrospective legend alone.
 
 ## Relationships
 
@@ -52,3 +56,4 @@ This profile is bounded to one podcast summary rather than a full reading of Chr
 - [[CaiWenji|蔡文姬]] - comparative writer whose distinct literary afterlife also depends on reconstruction from gendered records.
 - [[WeirdHistoryPodcast|怪东西 Weird History]] - source show presenting the cross-regional comparison.
 - [[HistoricalRecordAuthority|史官记录话语权]] - adjacent mechanism through which writing and preservation shape political and historical memory.
+- [[JoanOfArc]] - military-religious figure celebrated as "La Pucelle" in Christine's final poem.

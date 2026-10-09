@@ -7,6 +7,7 @@ sources:
   - 635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235
   - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
   - 633-joan-of-arc-saviour-of-france-part-2-glt5406937184
+  - 632-joan-of-arc-warrior-maid-part-1-glt6592271090
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,7 @@ Charles VII appears as the surviving Dauphin who escaped Burgundian Paris, survi
 
 After the deaths of his elder brothers, Charles became Dauphin amid the [[ArmagnacBurgundianCivilWar]]. He escaped south to Bourges when Burgundian forces seized Paris, leaving him politically weak but still able to represent an alternative French legitimacy.
 
-The Montereau killing made reconciliation with Burgundy far harder and helped push [[PhilipTheGood|Philip the Good]] toward England. The treaty excluded Charles, but his forces continued fighting, ensuring that [[HenryVOfEngland|Henry V]] never converted the settlement into uncontested rule.
+The Montereau killing made reconciliation with Burgundy far harder and helped push [[PhilipTheGood|Philip the Good]] toward England. The treaty excluded Charles, but his forces continued fighting, ensuring that [[HenryVOfEngland|Henry V]] never converted the settlement into uncontested rule. After Henry V and Charles VI died in 1422, the rival crown passed to the infant Henry VI under Bedford's regency while Charles remained uncrowned and widely called the Dauphin. [[YolandeOfAragon|Yolande of Aragon's]] support and the birth of his son preserved a dynastic future, but defeat at Verneuil and the exhaustion surrounding Orléans left his position precarious.
 
 By early 1429, the [[SiegeOfOrleans|Siege of Orléans]] threatened Charles's ability to hold the Loire and the south. He nevertheless treated Joan cautiously: court figures evaluated her, women examined her claimed virginity, and theologians at Poitiers tested her moral and spiritual standing before recommending that she be allowed to accompany soldiers. The source presents this as both religious scrutiny and a calculated response by a claimant with little strategic room, not simple credulity.
 
@@ -46,6 +47,7 @@ Charles initially remained silent after Joan's execution because association wit
 - Succession and escape: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Charles's elevation and flight to Bourges.
 - Montereau rupture: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] says the Dauphin was blamed after his servants killed John.
 - Continued claim: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] records both his disinheritance and continuing military resistance.
+- Uncrowned survival: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] connects Bedford's regency, Yolande's support, Charles's heir, Verneuil, and the Orléans crisis to his continuing but fragile claim.
 - Joan's authorization: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] connects Charles's danger at Orléans to court evaluation, Poitiers scrutiny, a requested sign, and permission for Joan to accompany troops.
 - Orléans reversal: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] makes the relief the first military proof through which Joan strengthened Charles's cause.
 - Mobilization and Reims: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] links Joan's reputation to recruitment, the Loire campaign, Troyes, and Charles's anointing.
@@ -56,12 +58,12 @@ Charles initially remained silent after Joan's execution because association wit
 
 ## Qualifications
 
-Responsibility and intent at Montereau remain uncertain even though political blame is clear. The sources do not reveal the sign Joan gave Charles or isolate religious belief from strategic desperation in his decision to authorize her. They also do not establish why he withheld full support at Paris, failed to ransom Joan, or remained silent after her capture; financial, diplomatic, strategic, personal, and legitimacy considerations may overlap. Nor was his later inquiry necessarily either purely self-interested or purely disinterested: correcting Joan's conviction and defending his anointed legitimacy were compatible purposes. The compressed chronology does not substitute for a full account of his reign.
+Responsibility and intent at Montereau remain uncertain even though political blame is clear. The sources do not quantify Yolande's influence, fully explain Charles's survival after Verneuil, reveal the sign Joan gave him, or isolate religious belief from strategic desperation in his decision to authorize her. They also do not establish why he withheld full support at Paris, failed to ransom Joan, or remained silent after her capture; financial, diplomatic, strategic, personal, and legitimacy considerations may overlap. Nor was his later inquiry necessarily either purely self-interested or purely disinterested: correcting Joan's conviction and defending his anointed legitimacy were compatible purposes. The compressed chronology does not substitute for a full account of his reign.
 
 ## What Changed
 
-- Added Charles's strategic danger, staged court evaluation, and Poitiers scrutiny before Joan's authorization.
-- Connected the relief of Orléans to the later recruitment, Loire, Troyes, and Reims sequence.
+- Added the infant rival monarchy, Yolande's dynastic support, Verneuil, and Charles's still-uncrowned status before Orléans.
+- Clarified how the Loire crisis narrowed his options before Joan's court and Poitiers examination.
 
 ## Relationships
 
@@ -76,3 +78,4 @@ Responsibility and intent at Montereau remain uncertain even though political bl
 - [[CharismaticWarLegitimacy]] - mechanism by which Joan's reputation helped mobilize his cause.
 - [[HenryVIOfEngland]] - child rival crowned in Paris after Joan's execution.
 - [[EcclesiasticalTrialPoliticalLegitimacy]] - mechanism first used against his claim and later reversed through rehabilitation.
+- [[YolandeOfAragon]] - mother-in-law and dynastic supporter who helped sustain his cause.

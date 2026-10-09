@@ -4,6 +4,7 @@ type: entity
 tags: [battle, france, hundred-years-war, medieval-history]
 sources:
   - 633-joan-of-arc-saviour-of-france-part-2-glt5406937184
+  - 632-joan-of-arc-warrior-maid-part-1-glt6592271090
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ The Siege of Orléans was the 1428-1429 English attempt to control a strategic L
 
 ## Current Profile
 
-The episode presents Orléans as a siege system rather than a sealed ring. English forces occupied dispersed fortresses around a large city, with Les Tourelles and the Augustinian priory controlling the damaged bridge and southern approach, but gaps remained in the east and north. Hunger, ammunition pressure, and low confidence made the city vulnerable without making English control complete.
+Orléans controlled a critical Loire crossing and protected the route into [[CharlesVIIOfFrance|Charles VII's]] remaining southern territories. By late 1428, failed relief efforts and Charles's exhausted resources made its possible fall appear capable of converting the [[TreatyOfTroyes|Troyes settlement]] into wider English control.
+
+The operational source presents Orléans as a siege system rather than a sealed ring. English forces occupied dispersed fortresses around a large city, with Les Tourelles and the Augustinian priory controlling the damaged bridge and southern approach, but gaps remained in the east and north. Hunger, ammunition pressure, and low confidence made the city vulnerable without making English control complete.
 
 The relief began as a supply operation. Joan's convoy reached the inconvenient south bank, barges moved provisions after the wind changed, and she entered the city with only part of the intended escort. The Bastard of Orléans then brought the larger force around the English positions, whose dispersion allowed French numbers to concentrate without the expected interception.
 
@@ -32,6 +35,7 @@ Joan pressed a more aggressive tempo than several experienced captains preferred
 
 ## Evidence
 
+- Strategic stakes: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] connects Loire access, failed French relief, exhausted Dauphinist resources, and contemporary expectations of wider English conquest to the siege's importance.
 - Siege structure and vulnerability: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] links English dispersion, the open eastern approach, bridge damage, supply shortages, and fortified positions to both danger and opportunity.
 - Relief and concentration: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] traces the convoy, barges, north-bank entry, return of French reinforcements, and English failure to block their concentration.
 - Assault sequence: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] follows the eastern fortress, Augustinian priory, Les Tourelles, bridge planks, Glasdale's death, and English withdrawal.
@@ -39,11 +43,11 @@ Joan pressed a more aggressive tempo than several experienced captains preferred
 
 ## Qualifications
 
-This profile rests on one narrative podcast summary rather than a complete military history. Force and casualty totals, the four-day formulation, reported speeches and letters, the changed wind, individual motives, and precise tactical sequence remain source-scoped. The source supports Joan as an accelerator and morale center, not as the sole planner or cause of victory; French reinforcements, English dispersion, local labor, supply, command experience, and infrastructure all mattered.
+This profile rests on two connected narrative podcast summaries rather than a complete military history. Claims that Orléans's fall would have delivered all France to England, along with force and casualty totals, the four-day formulation, reported speeches and letters, the changed wind, individual motives, and precise tactical sequence, remain source-scoped. The evidence supports Joan as an accelerator and morale center, not as the sole planner or cause of victory; French reinforcements, English dispersion, local labor, supply, command experience, and infrastructure all mattered.
 
 ## What Changed
 
-- Created an operational account separating Joan's morale and tempo effects from the material siege system that made relief possible.
+- Added the Loire crossing, failed relief efforts, and exhausted Valois resources that made Orléans the apparent breaking point before Joan arrived.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12916
+wiki_total_pages: 12917
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "YokohamaSpecieBank"
     title: "Yokohama Specie Bank / 横滨正金银行"
     url: "/wiki/entities/yokohamaspeciebank/"
+  - key: "YolandeOfAragon"
+    title: "Yolande of Aragon"
+    url: "/wiki/entities/yolandeofaragon/"
   - key: "Yondr"
     title: "Yondr"
     url: "/wiki/entities/yondr/"

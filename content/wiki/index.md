@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [632. Joan of Arc: Warrior Maid (Part 1)](sources/632-joan-of-arc-warrior-maid-part-1-glt6592271090.md) — The Rest Is History episode on the Anglo-Burgundian high point, Orléans crisis, Joan's frontier upbringing, religious voices, and departure for the Dauphin.
 - [Trump names his new AI task force the "Super Intelligence Force"](sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128.md) — Marketplace Tech on a new federal AI task force, data-center ratepayer bills, cross-party demand for stricter regulation, and the limits of industry self-policing.
 - [Best Ways to Build Better Habits & Break Bad Ones | James Clear](sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637.md) — Huberman Lab interview on small starts, physical and digital friction, identity-based habits, social norms, flexible consistency, and rapid recovery after lapses.
 - [VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚](sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek.md) — 这病说来话长以中西医双视角区分鼻炎线索、暴露与结构病因、规范鼻喷和洗鼻操作，并建立鼻炎与哮喘的同一气道边界。
@@ -4291,6 +4292,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
 - [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.
 - [Jay Clayton](entities/JayClayton.md) — Source-identified AI czar, intelligence director, and leader of the Superintelligence Force.
 - [Emile Michael](entities/EmileMichael.md) — Former Uber executive and AI investor named as a lead official on the Superintelligence Force.

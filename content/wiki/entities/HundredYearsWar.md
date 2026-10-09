@@ -14,6 +14,7 @@ sources:
   - 635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235
   - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
   - 633-joan-of-arc-saviour-of-france-part-2-glt5406937184
+  - 632-joan-of-arc-warrior-maid-part-1-glt6592271090
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -44,7 +45,9 @@ The 1415 sequence begins with a different imbalance from 1337. [[CharlesVIOfFran
 
 The later evidence shows Henry's dynastic claim becoming politically plausible after the victory. His conquest of [[Normandy]], the [[ArmagnacBurgundianCivilWar]], and [[JohnTheFearless|John the Fearless's]] murder enabled the [[TreatyOfTroyes|Treaty of Troyes]], which designated Henry heir to France. Yet the [[AngloFrenchDualMonarchy|dual monarchy]] remained contested by [[CharlesVIIOfFrance|the Dauphin]], and Henry's 1422 death transferred it to an infant.
 
-The Joan evidence carries that fragility into the war's final reversal. At the [[SiegeOfOrleans|Siege of Orléans]], English forces threatened a strategic Loire city but remained dispersed among fortified positions. A French supply and reinforcement operation exploited gaps, river access, local bridge work, and converging attacks. Joan did not replace experienced commanders; her religious discipline, banner, battlefield presence, persistence after wounds, and repeated pressure for attack concentrated morale and accelerated action. The relief converted an authorized prophetic claim into perceived proof without making charisma the sole cause.
+The pre-Orléans evidence makes the dual monarchy's apparent strength concrete. Henry V and Charles VI died within weeks in 1422, leaving [[JohnOfLancasterDukeOfBedford|Bedford]] to govern for the infant Henry VI while Burgundy remained allied with England. Charles was still uncrowned, the defeat at Verneuil had weakened his armies, and English control of the Loire crossing at Orléans threatened access to his remaining southern territory. Joan's mission emerged from this crisis rather than outside it: frontier violence, local faction, saints, chastity, and claimed voices developed into commands to reach Charles, relieve Orléans, and bring him to Reims.
+
+At the [[SiegeOfOrleans|Siege of Orléans]], English forces threatened a strategic Loire city but remained dispersed among fortified positions. A French supply and reinforcement operation exploited gaps, river access, local bridge work, and converging attacks. Joan did not replace experienced commanders; her religious discipline, banner, battlefield presence, persistence after wounds, and repeated pressure for attack concentrated morale and accelerated action. The relief converted an authorized prophetic claim into perceived proof without making charisma the sole cause.
 
 After Orléans, French success at Jargeau and Patay captured major English leaders and damaged a reputation for battlefield invincibility. Joan's sacred-chivalric authority helped attract men despite an empty treasury, while Troyes showed how the credible threat of assault and a reputation for divine mission could make enemy-aligned resistance collapse before battle.
 
@@ -84,6 +87,8 @@ Execution removed Joan but did not stabilize the dual monarchy. Burgundy reconci
 - Agincourt's moral boundary: [[489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192]] records the killing of prisoners during a perceived renewed threat.
 - Conquest and faction: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] links Normandy and Rouen to Armagnac-Burgundian division and pressure on Paris.
 - Dynastic high point and fragility: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Montereau, Burgundian alignment, Troyes, continued Dauphinist resistance, and infant succession.
+- Anglo-Burgundian high point: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] links Troyes, the deaths of Henry V and Charles VI, Bedford's regency, Verneuil, and Orléans to the apparent collapse of the Valois position.
+- Formation of Joan's mission: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] connects frontier violence, saints, voices, chastity, Vaucouleurs, male clothing, and the Reims objective to the strategic crisis.
 - Joan and rival sacral legitimacy: [[635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235]] connects her revelations and Charles VII's Reims coronation to the English need for a heresy conviction.
 - Orléans siege system and relief: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] connects dispersed English forts, French supply and reinforcement, river crossings, local bridge work, Joan's morale role, and converging assaults to the end of the siege.
 - Loire and Reims conversion: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] links recruitment, Jargeau, Patay, Troyes, and anointing to the collapse of English confidence and the public consolidation of Charles's claim.
@@ -94,13 +99,13 @@ Execution removed Joan but did not stabilize the dual monarchy. Burgundy reconci
 
 ## Qualifications
 
-Coverage remains discontinuous: it contains the origin, selected 1340-1347 operations, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, the 1415-1422 sequence, Joan's 1429-1431 campaign and trial, and the compressed recovery through 1456 rather than a continuous campaign history. Population, destruction, financial, fleet, route, force, arrow, casualty, ransom, prisoner, and crowd figures remain podcast claims rather than independently audited data. One source is internally inconsistent about the Calais siege dates. The evidence does not isolate Joan's personal effect from French resources, English dispersion and overextension, experienced commanders, logistics, local participation, politics, or Burgundian diplomacy; nor does it verify miraculous interpretation of events at Orléans or resolve the Garter chronology, Brétigny's implementation, either recovery's relative causes, Henry V's bargaining, or whether he could have sustained Troyes.
+Coverage remains discontinuous: it contains the origin, selected 1340-1347 operations, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, the 1415-1422 sequence, the political and religious prehistory to Orléans, Joan's 1429-1431 campaign and trial, and the compressed recovery through 1456 rather than a continuous campaign history. Population, destruction, financial, fleet, route, force, arrow, casualty, ransom, prisoner, and crowd figures remain podcast claims rather than independently audited data. One source is internally inconsistent about the Calais siege dates. The evidence does not establish uniform French acceptance of Troyes, the ontological source of Joan's voices, or her personal effect apart from French resources, English dispersion and overextension, experienced commanders, logistics, local participation, politics, and Burgundian diplomacy; nor does it verify miraculous interpretation of events at Orléans or resolve the Garter chronology, Brétigny's implementation, either recovery's relative causes, Henry V's bargaining, or whether he could have sustained Troyes.
 
 ## What Changed
 
-- Filled the Orléans operational gap through siege dispersion, supply, crossings, reinforcement, assault, and local participation.
-- Distinguished Joan's morale and tempo effects from sole command or a single-hero explanation of relief.
-- Connected Orléans proof to the later Loire, Reims, Paris, capture, and prosecution sequence.
+- Extended the 1422-1429 sequence through infant succession, Bedford's regency, Verneuil, and the strategic breaking point at Orléans.
+- Added Joan's frontier formation and the evolution of her voices as the prehistory to the existing campaign account.
+- Qualified Troyes as a contested settlement that some French subjects accepted through Burgundian loyalty, stability, or providential belief.
 
 ## Relationships
 

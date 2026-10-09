@@ -7,6 +7,7 @@ sources:
   - 635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235
   - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
   - 633-joan-of-arc-saviour-of-france-part-2-glt5406937184
+  - 632-joan-of-arc-warrior-maid-part-1-glt6592271090
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,9 @@ Joan of Arc is the French military-religious figure whose sacred and chivalric a
 
 ## Current Profile
 
-The sources place Joan inside Burgundy's shifting position in the [[HundredYearsWar|Hundred Years' War]]. Before Orléans, prophecy made a saving virgin culturally legible, while examination at court and Poitiers screened her claims for fraud, moral danger, and heterodoxy without proving their divine source. Charles's strategic weakness created room for authorization, and white armor, a banner, virgin identity, male military clothing, courage, and claimed voices made Joan a recognizable sacred-martial figure.
+The sources place Joan inside Burgundy's shifting position in the [[HundredYearsWar|Hundred Years' War]]. She grew up in a materially modest household at Domrémy, a pro-Dauphin village on a violent frontier where raids, burned churches, bells, and neighboring Burgundian allegiance made political division immediate. Her mother taught her core prayers; Joan described domestic spinning and sewing rather than the later shepherd-girl stereotype. Saints' stories, images, and devotion to Saint Michael, Saint Catherine, and Saint Margaret supplied the religious language through which she understood chastity, courage, warfare, and obedience.
+
+Joan said that voices beginning with spiritual instruction developed into commands to reach Charles, expel the English, relieve Orléans, and secure a coronation at Reims. Her vow of chastity, refusal of an arranged match, persistence before Robert de Baudricourt, refusal to claim healing power, and request for male clothing turned private conviction into a dangerous public mission. Before Orléans, prophecy made a saving virgin culturally legible, while later examination at court and Poitiers screened her claims for fraud, moral danger, and heterodoxy without proving their divine source. Charles's strategic weakness created room for authorization, and white armor, a banner, virgin identity, male military clothing, courage, and claimed voices made Joan a recognizable sacred-martial figure.
 
 At the [[SiegeOfOrleans|Siege of Orléans]], Joan accompanied a supply force rather than independently commanding an army. Experienced captains controlled routes, reinforcements, and assaults, but she repeatedly pressed them toward attack, stood with her banner in the battle line, and returned after wounds. French troops and townspeople, English dispersion, supplies, crossings, and converging attacks made victory possible; Joan's distinctive contribution was to focus confidence and make caution harder to sustain. The relief then turned her promise into perceived proof.
 
@@ -35,8 +38,8 @@ Joan's public abjuration prevented immediate execution and brought a sentence of
 
 ## Key Characteristics
 
+- Frontier-raised religious visionary whose piety, saints, bells, chastity, and experience of war shaped a political mission.
 - Religious and military supporter of Charles VII whose claimed revelations gave political action sacred authority.
-- Court- and church-tested claimant whose authorization reflected scrutiny, prophecy culture, and political need without resolving the source of her voices.
 - Chivalric and sacred public figure whose image, Orléans pressure for action, and battlefield presence affected recruitment and morale.
 - Mission-driven advocate of the Loire campaign and Reims coronation who pressed beyond the king's preferred pace.
 - Captive moved from Burgundian control into English imprisonment and ecclesiastical prosecution.
@@ -45,6 +48,7 @@ Joan's public abjuration prevented immediate execution and brought a sentence of
 
 ## Evidence
 
+- Background and mission: [[632-joan-of-arc-warrior-maid-part-1-glt6592271090]] connects Domrémy's frontier violence, household piety, saints, voices, chastity, Vaucouleurs persistence, and male clothing to Joan's departure for Charles.
 - Authorization and symbols: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] connects prophecy, court examination, Poitiers, male clothing, armor, sword, banner, and the sign requested by Charles.
 - Orléans contribution and limits: [[633-joan-of-arc-saviour-of-france-part-2-glt5406937184]] places Joan's religious discipline, battle-line presence, wounds, and pressure for attack beside commanders, reinforcements, townspeople, crossings, and English dispersion.
 - Image and mobilization: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] connects Joan's armor, banner, virgin holiness, Orléans reputation, recruitment, and advisory authority.
@@ -59,13 +63,13 @@ Joan's public abjuration prevented immediate execution and brought a sentence of
 
 ## Qualifications
 
-The sources do not resolve the ontological source of Joan's voices or isolate her causal effect from experienced captains, French resources, English dispersion and overextension, artillery, logistics, local politics, or Burgundian diplomacy. Poitiers authorization was not supernatural verification, and the Orléans account's prophecies, signs, changed wind, force totals, casualty figures, letters, dialogue, and tactical details remain source-scoped. The chroniclers cited in the Burgundy episode do not record what passed between Joan and Philip, and the later source cannot prove that Charles welcomed her capture or that Joan sought command for its own sake. Her reasons for abjuring and resuming male clothing may combine conviction, coercion, prison safety, fear, disappointment, and preference for death over perpetual confinement. Later witness stories and the 1456 reversal are politically and hagiographically charged.
+The sources do not resolve the ontological source of Joan's voices or isolate her causal effect from experienced captains, French resources, English dispersion and overextension, artillery, logistics, local politics, or Burgundian diplomacy. Trial testimony was translated into Latin under mortal pressure, while rehabilitation witnesses had retrospective and political agendas; reported childhood details, dialogue, saint identities, and the development of the voices therefore remain source-scoped. Poitiers authorization was not supernatural verification, and the Orléans account's prophecies, signs, changed wind, force totals, casualty figures, letters, dialogue, and tactical details remain source-scoped. The chroniclers cited in the Burgundy episode do not record what passed between Joan and Philip, and the later source cannot prove that Charles welcomed her capture or that Joan sought command for its own sake. Her reasons for abjuring and resuming male clothing may combine conviction, coercion, prison safety, fear, disappointment, and preference for death over perpetual confinement. Later witness stories and the 1456 reversal are politically and hagiographically charged.
 
 ## What Changed
 
-- Added court and Poitiers scrutiny as the authorization stage before Joan entered the campaign.
-- Reconstructed Orléans as a shared operational victory in which Joan supplied morale and pressure for action rather than sole command.
-- Clarified how the relief converted a claimed mission into perceived proof before later recruitment and Reims.
+- Extended Joan's profile backward into Domrémy's frontier violence, household piety, saints, bells, and domestic work.
+- Traced her voices from spiritual counsel into a concrete political and coronation mission.
+- Added Vaucouleurs persistence, chastity, refusal of healing claims, and male clothing as the bridge from private conviction to public action.
 
 ## Relationships
 
@@ -80,3 +84,4 @@ The sources do not resolve the ontological source of Joan's voices or isolate he
 - [[JohnOfLancasterDukeOfBedford]] - English regent who sought to convert her capture into a political-religious victory.
 - [[CharismaticWarLegitimacy]] - framework for her conversion of sacred-martial reputation into mobilization and legitimacy.
 - [[EcclesiasticalTrialPoliticalLegitimacy]] - framework joining procedural form to the political stakes of her case.
+- [[ChristineDePizan]] - contemporary writer whose final poem celebrated Joan's apparently providential emergence.
