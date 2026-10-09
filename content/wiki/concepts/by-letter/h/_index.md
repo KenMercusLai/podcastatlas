@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10061
+wiki_total_pages: 10064
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "HealthcarePayerHorizonMismatch"
     title: "Healthcare Payer Horizon Mismatch"
     url: "/wiki/concepts/healthcarepayerhorizonmismatch/"
+  - key: "HealthcarePaymentVerification"
+    title: "Healthcare Payment Verification"
+    url: "/wiki/concepts/healthcarepaymentverification/"
   - key: "HealthspanThreeDomains"
     title: "Healthspan Three Domains"
     url: "/wiki/concepts/healthspanthreedomains/"

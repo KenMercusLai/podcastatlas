@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10061
+wiki_total_pages: 10064
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "RuralCircularUseEconomy"
     title: "Rural Circular Use Economy / 乡村循环利用经济"
     url: "/wiki/concepts/ruralcircularuseeconomy/"
+  - key: "RuralHealthcareTechnologyAccess"
+    title: "Rural Healthcare Technology Access"
+    url: "/wiki/concepts/ruralhealthcaretechnologyaccess/"
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"

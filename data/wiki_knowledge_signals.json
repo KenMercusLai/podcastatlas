@@ -36932,6 +36932,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenovusenergy/"
     },
+    "CentersForMedicareAndMedicaidServices": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/centersformedicareandmedicaidservices/"
+    },
     "CentralAfricanRepublic": {
       "episode_count": 1,
       "show_count": 1,
@@ -99610,9 +99640,9 @@
       "url": "/wiki/concepts/governmentaipacesetting/"
     },
     "GovernmentBenefitFraudMatching": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
@@ -99627,9 +99657,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/governmentbenefitfraudmatching/"
     },
     "GovernmentDataSiloCollapse": {
@@ -107739,6 +107776,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/healthcarepayerhorizonmismatch/"
+    },
+    "HealthcarePaymentVerification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/healthcarepaymentverification/"
     },
     "HealthspanThreeDomains": {
       "episode_count": 1,
@@ -162593,6 +162646,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/mehmedii/"
     },
+    "MehmetOz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mehmetoz/"
+    },
     "MeiFuWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -169640,6 +169709,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/mosquitobiteprevention/"
+    },
+    "MostFavoredNationDrugPricing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/mostfavorednationdrugpricing/"
     },
     "MostValuablePromotions": {
       "episode_count": 1,
@@ -185366,6 +185465,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/patientaiuse/"
+    },
+    "PatientControlledHealthDataInteroperability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
     },
     "PatientLedRareDiseaseInfrastructure": {
       "episode_count": 1,
@@ -212021,6 +212136,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ruralcircularuseeconomy/"
+    },
+    "RuralHealthcareTechnologyAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/ruralhealthcaretechnologyaccess/"
     },
     "RuralKnifeCrimeGeography": {
       "episode_count": 1,

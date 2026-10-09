@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3385
+topic_total_pages: 3388
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3463,6 +3463,9 @@ topic_concepts:
   - key: "PatientAIUse"
     title: "Patient AI Use"
     url: "/wiki/concepts/patientaiuse/"
+  - key: "PatientControlledHealthDataInteroperability"
+    title: "Patient-Controlled Health Data Interoperability"
+    url: "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
   - key: "PaymentClearingNetwork"
     title: "Payment Clearing Network / 支付清算网络"
     url: "/wiki/concepts/paymentclearingnetwork/"
@@ -3937,6 +3940,9 @@ topic_concepts:
   - key: "RSIData"
     title: "RSI Data"
     url: "/wiki/concepts/rsidata/"
+  - key: "RuralHealthcareTechnologyAccess"
+    title: "Rural Healthcare Technology Access"
+    url: "/wiki/concepts/ruralhealthcaretechnologyaccess/"
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"
@@ -9048,6 +9054,9 @@ topic_sources:
   - key: "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128"
     title: "Dr. AI will see you now"
     url: "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555"
+    title: "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
   - key: "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf"
     title: "E155.似乎没什么人再提「AI 泡沫论」了"
     url: "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"

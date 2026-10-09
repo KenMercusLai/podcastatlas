@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555.md) — All-In interview on CMS drug pricing, supervised medical AI, patient-data interoperability, rural access, and payment verification.
 - [638. Revolution in Iran: The Hostage Crisis (Part 3)](sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579.md) — The Rest Is History episode on the Shah's admission to the United States, the Tehran embassy seizure, Khomeini's consolidation, hostage treatment, media ritual, and Carter's widening crisis.
 - [Science & Tools of Learning & Memory | Dr. David Eagleman](sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565.md) — Huberman Lab interview on goal-directed neuroplasticity, commitment devices, mental imagery, subjective time, sensory substitution, dreaming, reconstructive memory, and identity-gated empathy.
 - [092 金庸小说与围棋文化·聂卫平与金庸](sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u.md) — 纸醉金迷FM以三分钟预告连接金庸、聂卫平、小说围棋书写、炎黄杯与出版收入支持，并纠正姓名、籍贯和版税去向的过强表述。
@@ -4261,6 +4262,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
 
 ## Entities
+- [Mehmet Oz](entities/MehmetOz.md) — CMS administrator presenting an agenda around drug pricing, health-data access, rural technology, medical AI, and program integrity.
 - [Mehdi Bazargan](entities/MehdiBazargan.md) — Moderate Iranian interim prime minister whose resignation after the embassy seizure marked the hardliners' consolidation.
 - [David Eagleman](entities/DavidEagleman.md) — Neuroscientist and science communicator connecting plasticity, sensory substitution, time, memory, dreams, and group identity.
 - [Neosensory](entities/Neosensory.md) — Neurotechnology company translating sound into learned vibration patterns on a wrist-worn device.
@@ -17202,6 +17204,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田肯 / Tian Ken (Western Han)](entities/TianKenWesternHan.md) — 以秦中与齐国的战略地理主张重地只授皇帝子弟，并为汉初同姓王分封提供早期论证的进言者。
 
 ## Concepts
+- [Healthcare Payment Verification](concepts/HealthcarePaymentVerification.md) — Provider, beneficiary, site, and service checks designed to reduce improper healthcare payments while preserving due process and continuity of care.
+- [Rural Healthcare Technology Access](concepts/RuralHealthcareTechnologyAccess.md) — Coordinated use of distributed care sites, telemedicine, pharmacies, AI-assisted tools, and delivery infrastructure to extend rural access.
+- [Patient-Controlled Health Data Interoperability](concepts/PatientControlledHealthDataInteroperability.md) — Practical patient ability to retrieve, move, combine, and govern health records across systems.
 - [Ulysses Contract](concepts/UlyssesContract.md) — Commitment device through which the present self changes future access, incentives, or friction before temptation arrives.
 - [Sensory Substitution](concepts/SensorySubstitution.md) — Translation of information from one sensory channel into structured patterns learned through another.
 - [Mental Imagery Spectrum](concepts/MentalImagerySpectrum.md) — Variation from aphantasia to hyperphantasia without treating vivid internal pictures as necessary for visual creativity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10061
+wiki_total_pages: 10064
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "PatientSymbolizationProjection"
     title: "Patient Symbolization And Projection / 病人符号化与投射"
     url: "/wiki/concepts/patientsymbolizationprojection/"
+  - key: "PatientControlledHealthDataInteroperability"
+    title: "Patient-Controlled Health Data Interoperability"
+    url: "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
   - key: "PatientDerivedOrganoids"
     title: "Patient-Derived Organoids"
     url: "/wiki/concepts/patientderivedorganoids/"

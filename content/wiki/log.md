@@ -33455,3 +33455,11 @@ Added source `zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-nia
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555`; created [[MehmetOz|Mehmet Oz]], [[PatientControlledHealthDataInteroperability]], [[RuralHealthcareTechnologyAccess]], and [[HealthcarePaymentVerification]]; migrated and resynthesized [[CentersForMedicareAndMedicaidServices|CMS]] and [[MostFavoredNationDrugPricing]] from their complete preserved evidence inventories; and extended [[GovernmentBenefitFraudMatching]] before appending the new source once. Core synthesis: the episode joins drug-price pressure, patient-controlled records, clinician-supervised AI, distributed rural access, and service-level payment checks into an operational CMS agenda, while the wiki keeps technology inside clinical responsibility and enforcement inside due process. The source's GLP-1 prices are not collapsed into earlier figures because product, dosage form, payer, copay, duration, eligibility, and implementation status differ or remain unclear. Fraud totals, state and immigration allegations, staffing and savings claims, access figures, and economic projections remain source-scoped; aggressive stop-payment rhetoric is qualified by false-positive, provider-burden, privacy, appeal, and continuity-of-care risks. Broad show, host, Medicare, Medicaid, GLP-1, and legacy medical-AI pages were kept closed because focused pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,189 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

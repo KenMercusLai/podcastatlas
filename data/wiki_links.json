@@ -38695,6 +38695,10 @@
     "title": "Healthcare Payer Horizon Mismatch",
     "url": "/wiki/concepts/healthcarepayerhorizonmismatch/"
   },
+  "HealthcarePaymentVerification": {
+    "title": "Healthcare Payment Verification",
+    "url": "/wiki/concepts/healthcarepaymentverification/"
+  },
   "HealthspanThreeDomains": {
     "title": "Healthspan Three Domains",
     "url": "/wiki/concepts/healthspanthreedomains/"
@@ -55927,6 +55931,10 @@
     "title": "Mehmed II",
     "url": "/wiki/entities/mehmedii/"
   },
+  "MehmetOz": {
+    "title": "Mehmet Oz",
+    "url": "/wiki/entities/mehmetoz/"
+  },
   "MehmetSimsek": {
     "title": "Mehmet Simsek",
     "url": "/wiki/entities/mehmetsimsek/"
@@ -63654,6 +63662,10 @@
   "PatientAIUse": {
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
+  },
+  "PatientControlledHealthDataInteroperability": {
+    "title": "Patient-Controlled Health Data Interoperability",
+    "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
   },
   "PatientDerivedOrganoids": {
     "title": "Patient-Derived Organoids",
@@ -72854,6 +72866,10 @@
   "RuralCircularUseEconomy": {
     "title": "Rural Circular Use Economy / 乡村循环利用经济",
     "url": "/wiki/concepts/ruralcircularuseeconomy/"
+  },
+  "RuralHealthcareTechnologyAccess": {
+    "title": "Rural Healthcare Technology Access",
+    "url": "/wiki/concepts/ruralhealthcaretechnologyaccess/"
   },
   "RuralInfrastructureTransition": {
     "title": "Rural Infrastructure Transition / 乡村基础设施转折",
@@ -96290,6 +96306,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725": {
     "title": "Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555": {
+    "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702": {
     "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
