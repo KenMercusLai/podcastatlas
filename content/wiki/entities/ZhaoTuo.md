@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
   - zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc
   - zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso
+  - zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw
 last_updated: 2026-10-09
 ---
 
@@ -24,6 +25,8 @@ Hanji 184 and 185 trace Zhao Tuo's state-building. Ren Xiao advises him to seal 
 [[LiuBang|刘邦]] chooses recognition rather than immediate war. Lu Jia arrives with seal and tally, invokes Zhao Tuo's Central Plains origin, family and ancestral graves, and pairs those identity claims with the scale of Han victory. Zhao Tuo accepts the Han title hierarchy while retaining enough self-regard to imagine that he might have rivaled Liu Bang had he remained in the Central Plains. The settlement exemplifies [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]]: formal incorporation is achieved without direct occupation.
 
 Hanji 191 qualifies the settlement further. A South Sea kingship appears to carve Nanhai out of Zhao Tuo's field on paper, but the episode treats the arrangement as possibly nominal rather than proof of effective territorial removal.
+
+Hanji 200 supplies an earlier view of the Empress Lü rupture. Zhao Tuo reportedly reads restrictions on iron goods reaching Nanyue as hostile treatment and suspects that [[WuChenChangshaKing|长沙王吴臣]] wants Han help against him. The host instead connects a broader ban on gold, copper, and iron leaving Guanzhong to Lu Zhi's coinage and central-control policy. This makes the break partly a policy-perception conflict, but neither the measure's sole purpose nor Zhao Tuo's private reasoning is independently established.
 
 Hanji 349-2 extends Zhao Tuo's profile into the Empress Lü and Emperor Wen eras. It says discriminatory policy and trade or technology restrictions trigger his “Nanyue Wudi” title, while Emperor Wen's conciliatory letter later obtains an external return to royal status. The source nevertheless says Zhao Tuo retains imperial-style privilege inside Nanyue and preserves a “Nanyue Wudi” seal, making formal rank and internal practice diverge.
 
@@ -46,16 +49,18 @@ Hanji 210 part 1 supplies Zhao Tuo's answer. He attributes the rupture to Empres
 - Recognition setup: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] says Liu Bang recognizes Zhao Tuo and sends Lu Jia before war.
 - Formation and submission: [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] traces the Lingnan consolidation and Lu Jia's recognition-backed pressure.
 - Nominal territorial qualification: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] presents the South Sea kingship as a possibly paper-only carve-out.
+- Initial trade rupture: [[zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw|Hanji 200]] says Zhao Tuo interprets restrictions on iron goods as anti-Nanyue pressure and suspects Changsha, while the host reads them as part of a broader metal-control policy.
 - Imperial-title conflict and dual order: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] links the Wudi title to Empress Lü-era conflict and says Zhao Tuo later returns outwardly to royal status while retaining internal imperial privilege.
 - Reconciliation mechanism: [[zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc|Hanji 209]] joins grave repair, kin honors, force withdrawal, war-cost argument, southern autonomy, and the two-emperor boundary in Liu Heng's letter.
 - Reconciliation outcome: [[zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso|Hanji 210 part 1]] gives Zhao Tuo's causal defense, outward title removal, renewed submission and tribute, appeal to Liu Bang's precedent, and simultaneous display of Nanyue strength.
 
 ## Qualifications
 
-The sources are compact popular-history summaries rather than a complete biography or primary-text dossier. Hanji 191's South Sea kingship may describe nominal rather than effective territorial change. Hanji 349-2's discrimination, technology-barrier, title, seal, and internal-privilege claims remain episode-attributed; the evidence does not establish how consistently any dual order operated across Zhao Tuo's long reign. Hanji 209's hostage interpretation of his relatives and graves is the host's inference rather than an explicit detention or destruction threat. Hanji 210 part 1 completes the exchange but presents Zhao Tuo's own diplomatic defense: detained envoys, family harm, Changsha instigation, internal-only imperial usage, troop strength, motives, and the exact boundary between title renunciation and continuing internal privilege remain source-scoped.
+The sources are compact popular-history summaries rather than a complete biography or primary-text dossier. Hanji 191's South Sea kingship may describe nominal rather than effective territorial change. Hanji 200 does not establish the metal restriction's exact scope or sole purpose, Zhao Tuo's information, or that Changsha actually designed the policy. Hanji 349-2's discrimination, technology-barrier, title, seal, and internal-privilege claims remain episode-attributed; the evidence does not establish how consistently any dual order operated across Zhao Tuo's long reign. Hanji 209's hostage interpretation of his relatives and graves is the host's inference rather than an explicit detention or destruction threat. Hanji 210 part 1 completes the exchange but presents Zhao Tuo's own diplomatic defense: detained envoys, family harm, Changsha instigation, internal-only imperial usage, troop strength, motives, and the exact boundary between title renunciation and continuing internal privilege remain source-scoped.
 
 ## What Changed
 
+- Added the initial iron-goods restriction and Zhao Tuo's suspected Changsha threat as a bounded policy-perception conflict.
 - Completed the reconciliation sequence with Zhao Tuo's reply, outward title removal, renewed submission, and tribute promise.
 - Added Zhao Tuo's causal defense of the rupture while keeping its allegations source-attributed.
 - Clarified that concession is paired with a strength display and appeal to Liu Bang's earlier settlement.

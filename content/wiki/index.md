@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》200｜历史上第一次通货膨胀](sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw.md) — 吕后以八铢钱和关中金属管制回应轻钱与物价危机；“首次通胀”、平价效果、禁运目的及赵佗误判均保留来源边界。
 - [《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币](sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid.md) — 吕雉由八铢钱退向五分钱；节目以劣币驱逐良币、《二年律令》钱律和刘濞铜盐资源解释禁铸法令与实际执行能力之间的落差。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr.md) — 王陵以太傅高位被排出决策核心，陈平与审食其分掌外朝和内廷；个人动机、惠帝诸子身份与灾异象征保留来源边界。
 - [《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章](sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy.md) — 刘章以军法酒令公开震慑吕氏，陆贾则促成陈平与周勃联结；刘长母亲死因、人物动机与南越战事细节保留来源边界。
@@ -4235,6 +4236,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [皇后张嫣 / Zhang Yan, Empress (Western Han)](entities/ZhangYanEmpressWesternHan.md) — 在吕后摄政的少帝安排中被视作刘恭之母、但并非其生母的西汉皇后。
+- [前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)](entities/LiuGongYoungEmperorWesternHan.md) — 在身世秘密与复仇威胁叙事后被吕雉囚禁、废黜并杀害的西汉儿童君主。
 - [赵幽王刘友 / Liu You (King of Zhao, Western Han)](entities/LiuYouZhaoKingWesternHan.md) — 吕后时期被召入长安、隔绝断粮而死的赵王，其姓名由相邻节目回顾识别。
 - [赵王刘恢 / Liu Hui (King of Zhao, Western Han)](entities/LiuHuiZhaoKingWesternHan.md) — 被改封赵王并置于吕氏婚姻与家庭监控中的西汉宗室。
 - [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 借内廷通道、吕禄封王与补偿性分封，为刘泽取得琅邪王爵并安排其及时离京的齐国政治经纪人。

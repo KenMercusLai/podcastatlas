@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12865
+wiki_total_pages: 12867
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "ZhenHanXinOfficial"
     title: "甄邯 / Zhen Han"
     url: "/wiki/entities/zhenhanxinofficial/"
+  - key: "ZhangYanEmpressWesternHan"
+    title: "皇后张嫣 / Zhang Yan, Empress (Western Han)"
+    url: "/wiki/entities/zhangyanempresswesternhan/"
   - key: "ZhiBuyiWesternHan"
     title: "直不疑 / Zhi Buyi (Western Han)"
     url: "/wiki/entities/zhibuyiwesternhan/"

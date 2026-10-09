@@ -33268,3 +33268,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 《资治通鉴·汉纪》200｜历史上第一次通货膨胀
+
+Added source `zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw`; created [[LiuGongYoungEmperorWesternHan|前少帝刘恭]] and [[ZhangYanEmpressWesternHan|皇后张嫣]], and resynthesized [[LuZhi|吕雉]], [[LiuHongYoungEmperorWesternHan|少帝刘弘]], [[ZhaoTuo|赵佗]], and [[EarlyHanCoinageEnforcementGap|早期汉代铸币禁令执行缺口]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the eight-zhu issue and Guanzhong metal controls form an attempted stabilization and centralization stage, while Hanji 201 shows that design, material control, and harsh law did not guarantee circulation success. No settled contradiction was adopted. “History's first inflation,” reported prices, coin standards and price effects, the metal restriction's sole purpose, Zhao Tuo's interpretation, Liu Gong's parentage and removal details, and Lü Xu's “first female marquis” label remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

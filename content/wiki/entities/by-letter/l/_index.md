@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12865
+wiki_total_pages: 12867
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "LiJiChuHan"
     title: "利几 / Li Ji (Chu-Han)"
     url: "/wiki/entities/lijichuhan/"
+  - key: "LiuGongYoungEmperorWesternHan"
+    title: "前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)"
+    url: "/wiki/entities/liugongyoungemperorwesternhan/"
   - key: "LizanSports"
     title: "力赞体育 / Lizan Sports"
     url: "/wiki/entities/lizansports/"

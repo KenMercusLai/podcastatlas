@@ -68101,9 +68101,9 @@
       "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
     },
     "EarlyHanCoinageEnforcementGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
@@ -68111,6 +68111,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
           "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
         }
       ],
       "updated": "2026-10-09",
@@ -145839,6 +145846,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/liugongeasternhan/"
     },
+    "LiuGongYoungEmperorWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liugongyoungemperorwesternhan/"
+    },
     "LiuGuiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -146102,9 +146125,9 @@
       "url": "/wiki/entities/liuhongqikingwesternhan/"
     },
     "LiuHongYoungEmperorWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1） [lsrS42rb8-QreF1eEvQdnhe3muFV].md",
@@ -146119,6 +146142,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
         }
       ],
       "updated": "2026-10-09",
@@ -152689,9 +152719,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 2,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152839,6 +152869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
           "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
         }
       ],
       "updated": "2026-10-09",
@@ -270498,6 +270535,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
     },
+    "ZhangYanEmpressWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhangyanempresswesternhan/"
+    },
     "ZhangYanHedongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -271687,9 +271740,9 @@
       "url": "/wiki/entities/zhaotenglatehan/"
     },
     "ZhaoTuo": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -271732,6 +271785,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》210｜岭南史上第一文《报文帝书》（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-210-lingnan-shishang-diyi-wen-baowendi-shu-1-ltdb8eivlaosovnin7toa18mllso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀 [lgcmVKLcDKV-mTXv_Bei2WclVUqW].md",
+          "key": "zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》200｜历史上第一次通货膨胀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw/"
         }
       ],
       "updated": "2026-10-09",
