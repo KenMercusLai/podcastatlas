@@ -7,8 +7,9 @@ sources:
   - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
   - the-science-of-setting-achieving-goals-scim1292734289
   - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
+  - essentials-how-to-set-achieve-goals-scim4913225889
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-05
+last_updated: 2026-10-10
 ---
 
 # Motivational Visualization by State
@@ -21,7 +22,7 @@ In [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]], visualization
 
 A necessary boundary comes from research attributed to Gabrielle Oettingen in [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]], repeated in the condensed [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit: extended positive fantasy can simulate satisfaction and reduce readiness to act. Vision boards and desired-future imagery may clarify direction, but they need concrete plans, obstacle preparation, and an immediate behavioral bridge.
 
-A phase distinction further separates initiation from maintenance: successful-endpoint imagery may help initiation, whereas repeated attention to the consequences of failure is proposed for continued action in [[the-science-of-setting-achieving-goals-scim1292734289]]. Its claimed near-doubling in goal attainment is not promoted as an established effect because the supplied note omits methods and because repeated threat imagery can backfire.
+A phase distinction further separates initiation from maintenance: successful-endpoint imagery may help initiation, whereas repeated attention to the consequences of failure is proposed for continued action in [[the-science-of-setting-achieving-goals-scim1292734289]] and repeated by its condensed [[essentials-how-to-set-achieve-goals-scim4913225889]] edit. The claimed near-doubling in goal attainment is not promoted as an established effect because both notes omit methods, the edit is not independent evidence, and repeated threat imagery can backfire.
 
 The useful synthesis is diagnosis before intervention: first distinguish wanting the outcome from wanting today's action, then select or skip imagery accordingly. If imagery is used, it should lead directly into feasible action rather than become a substitute for it. The stronger physiological mechanism claims remain source-scoped.
 
@@ -40,14 +41,13 @@ The useful synthesis is diagnosis before intervention: first distinguish wanting
 - Failure branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] proposes brief consequence imagery when motivation is low.
 - Positive-fantasy boundary - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit distinguish identifying a desired future from generating the readiness and plan needed to pursue it.
 - Pursuit-phase distinction - [[the-science-of-setting-achieving-goals-scim1292734289]] separates endpoint imagery for starting from failure-consequence imagery for maintaining action.
+- Condensed provenance - [[essentials-how-to-set-achieve-goals-scim4913225889]] repeats the same pursuit-phase distinction and near-doubling claim without supplying methods or an independent comparison.
 
 ## Counterevidence & Qualifications
 The sources do not establish comparative effect sizes, optimal duration, durability, or which people may respond poorly. The claimed near-doubling from failure foreshadowing lacks full methods in the supplied note. Positive-imagery claims are not necessarily contradictory because one concerns brief imagery immediately coupled to an already-ready action and the other concerns fantasy that can substitute for preparation, but the boundary has not been directly tested here. Failure imagery could intensify anxiety, shame, rumination, trauma responses, or avoidance, and should not be treated as a mental-health intervention. Neither branch replaces task design, rest, social support, clinical care, or removal of structural barriers.
 
 ## What Changed
-- Added the proposed initiation-versus-maintenance distinction.
-- Kept the near-doubling claim source-scoped and strengthened the boundary against distress-amplifying failure rehearsal.
-- Classified the Essentials retelling as editorial continuity rather than independent evidence.
+- No current judgment changed; the new Essentials edit repeats the near-doubling claim but adds no methods or independent test.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - larger action-design framework in which the tool appears.

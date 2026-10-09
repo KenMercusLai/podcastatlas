@@ -5,7 +5,8 @@ tags: [meditation, attention, interoception, exteroception]
 sources:
   - how-meditation-works-science-based-effective-meditations-scim5642770846
   - the-science-of-setting-achieving-goals-scim1292734289
-last_updated: 2026-10-02
+  - essentials-how-to-set-achieve-goals-scim4913225889
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ Meditation attention-mode selection is a state-dependent framework for choosing 
 
 This is a selection heuristic, not a validated diagnostic test or rule that discomfort always means useful neuroplasticity. Attention varies with sleep, stress, setting, trauma, mood, and task. Practice should build voluntary range without intensifying excessive bodily vigilance, dissociation, panic, or other instability.
 
-The earlier [[the-science-of-setting-achieving-goals-scim1292734289]] gives the fuller space-time-bridging sequence: internal attention with eyes closed, the hand, a nearby point, the horizon, a panoramic field, and then a return inward. It frames the brief practice as flexibility between present sensation, distant goals, and intermediate scales; the later meditation episode correctly keeps it provisional.
+The earlier [[the-science-of-setting-achieving-goals-scim1292734289]] gives the fuller space-time-bridging sequence: internal attention with eyes closed, the hand, a nearby point, the horizon, a panoramic field, and then a return inward. Its condensed [[essentials-how-to-set-achieve-goals-scim4913225889]] edit repeats that sequence. Both frame the brief practice as flexibility between present sensation, distant goals, and intermediate scales; they form one editorial lineage, and the later meditation episode correctly keeps it provisional.
 
 ## Key Claims
 - Meditation practices differ partly by where they place attention, so their effects should not be assumed interchangeable.
@@ -34,13 +35,13 @@ The earlier [[the-science-of-setting-achieving-goals-scim1292734289]] gives the 
 - State-matched selection - [[how-meditation-works-science-based-effective-meditations-scim5642770846]] proposes checking the current bias and often training the less natural mode.
 - Flexibility practice - [[how-meditation-works-science-based-effective-meditations-scim5642770846]] presents space-time bridging as an early source-scoped exercise for moving from internal sensation through progressively wider external scales and back.
 - Sequence detail - [[the-science-of-setting-achieving-goals-scim1292734289]] describes the internal, hand, near-target, horizon, panoramic, and return progression and relates it to goal timescales.
+- Condensed sequence provenance - [[essentials-how-to-set-achieve-goals-scim4913225889]] repeats the progression without independently validating it.
 
 ## Counterevidence & Qualifications
 The sources do not establish a validated assessment, comparative trial showing that opposite-bias practice is superior, or a universal relationship between friction and beneficial plasticity. Their continuum and space-time-bridging model are partly Huberman's synthesis, and the proposed 90-second-to-three-minute dose is not an established optimum. People with visual impairment may require a sensory adaptation; people with trauma, dissociation, panic, mania, psychosis, severe insomnia, or meditation-related deterioration may need modified or professionally supported practice rather than stronger exposure to a difficult mode.
 
 ## What Changed
-- Added the complete source-described space-time-bridging sequence and goal-timescale rationale.
-- Preserved its provisional status and accessibility and mental-health boundaries.
+- No current judgment changed; the new Essentials edit repeats the sequence while its provisional and accessibility boundaries remain.
 
 ## Related Concepts
 - [[MeditationRefocusingPractice]] - return-to-object repetitions can train control within any selected attention mode.

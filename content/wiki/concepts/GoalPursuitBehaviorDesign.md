@@ -8,8 +8,9 @@ sources:
   - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
   - the-science-of-setting-achieving-goals-scim1292734289
   - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
+  - essentials-how-to-set-achieve-goals-scim4913225889
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-05
+last_updated: 2026-10-10
 ---
 
 # Goal Pursuit Behavior Design
@@ -24,7 +25,7 @@ Goal pursuit behavior design is the conversion of a desired end state into one p
 
 A perception-and-preparation layer comes from [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its condensed [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit. A distant outcome is divided into near targets; foreseeable obstacles receive rehearsed contingency responses; and progress is recorded because memory may undercount practice or improvement. Vision boards can help identify a desired direction, but positive fantasy is not execution and can reduce readiness when it makes success feel prematurely obtained.
 
-[[the-science-of-setting-achieving-goals-scim1292734289]] supplies an earlier systems view. Goal difficulty should be high enough to recruit effort without making success feel implausible; the number of major priorities should remain limited; and an overarching goal should be translated into concrete plans, intermediate milestones, and a recurring review interval. Its exact 85% learning ratio and weekly cadence are heuristics, not universal thresholds.
+[[the-science-of-setting-achieving-goals-scim1292734289]] supplies an earlier systems view, repeated in its condensed [[essentials-how-to-set-achieve-goals-scim4913225889]] edit. Goal difficulty should be high enough to recruit effort without making success feel implausible; the number of major priorities should remain limited; and an overarching goal should be translated into concrete plans, intermediate milestones, and a recurring review interval. Its exact 85% learning ratio and weekly cadence are heuristics, not universal thresholds, and the edit is overlapping provenance rather than independent support.
 
 The durable principle is behavioral specificity with flexibility. The episodes' exact time horizons, reminder practices, visualizations, visual-focus durations, reward pairings, and planning increments are tools to test, not requirements that define whether a goal is legitimate.
 
@@ -49,15 +50,13 @@ The durable principle is behavioral specificity with flexibility. The episodes' 
 - Progress visibility - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] use practice records to correct discouraging memory bias.
 - Difficulty and priority calibration - [[the-science-of-setting-achieving-goals-scim1292734289]] recommends moderately difficult goals and limiting simultaneous major priorities.
 - Plan-review loop - [[the-science-of-setting-achieving-goals-scim1292734289]] connects concrete action steps, intermediate milestones, and regular self-assessment.
+- Editorial continuity - [[essentials-how-to-set-achieve-goals-scim4913225889]] repeats the earlier solo episode's moderate-difficulty, concrete-action, milestone, and review framework.
 
 ## Counterevidence & Qualifications
 The sources supply toolkits, not comparative evidence that every component adds benefit or that 12 weeks, two-week planning, weekly review, an 85% success ratio, approach framing, slack, target narrowing, or reward pairing is optimal across goals. Positive fantasy may clarify values yet substitute for action if it creates premature satisfaction. Avoidance goals can be appropriate when a prohibited harm is the real target. Limited-priority advice should not erase caregiving, health, employment, or multiple unavoidable obligations. Low motivation can also reflect clinical or structural problems that scheduling, visualization, gaze control, or self-reward cannot resolve.
 
 ## What Changed
-- Added moderate-difficulty and limited-priority calibration.
-- Integrated intermediate milestones and recurring review into the execution loop.
-- Kept the 85% ratio and weekly cadence as source-scoped heuristics rather than universal prescriptions.
-- Classified the Essentials edit as overlapping provenance rather than an independent test of the toolkit.
+- No current judgment changed; the new Essentials edit adds overlapping provenance for the earlier solo framework rather than an independent test of it.
 
 ## Related Concepts
 - [[MotivationRewardEffortCalculation]] - explains why task value and perceived effort affect initiation and persistence.

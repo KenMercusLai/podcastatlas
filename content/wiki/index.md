@@ -4167,6 +4167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 - [Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571.md) — Huberman Lab interview on visual targeting, perceived effort, obstacle planning, positive-fantasy limits, and progress tracking.
+- [Essentials: How to Set & Achieve Goals](sources/essentials-how-to-set-achieve-goals-scim4913225889.md) — Condensed Huberman Lab solo episode on goal difficulty, concrete action, failure forecasting, milestone review, dopamine-linked updating, and visual attention.
 
 - [216. Pigeons](sources/216-pigeons-glt2770080110.md) — The Rest Is History episode on pigeon domestication, symbolism, communication, Operation Columba, wartime intelligence, fallback systems, and passenger-pigeon extinction.
 - [215. Stalingrad and the Red Army (Part 2)](sources/215-stalingrad-and-the-red-army-part-2-glt4269997308.md) — The Rest Is History episode on Soviet urban adaptation, Operation Uranus, the Sixth Army's collapse, Pavlov's House, and contested war memory.

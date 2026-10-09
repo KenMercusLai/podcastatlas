@@ -505,7 +505,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "SCIM5466682268 [SCIM5466682268].md",
-      "source_note_count": 346,
+      "source_note_count": 347,
       "topic_matched_source_note_count": 171,
       "topics": [
         {
@@ -570,18 +570,18 @@
           "episode_count": 5
         },
         {
+          "key": "EmilyBalcetis",
+          "title": "Emily Balcetis",
+          "url": "/wiki/entities/emilybalcetis/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "PeterAttia",
           "title": "Peter Attia",
           "url": "/wiki/entities/peterattia/",
           "kind": "person",
           "episode_count": 5
-        },
-        {
-          "key": "EmilyBalcetis",
-          "title": "Emily Balcetis",
-          "url": "/wiki/entities/emilybalcetis/",
-          "kind": "person",
-          "episode_count": 4
         },
         {
           "key": "KyleGillett",
