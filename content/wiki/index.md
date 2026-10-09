@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》01｜韩赵魏三家分晋](sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm.md) — 以周威烈王承认韩赵魏为诸侯为《资治通鉴》开篇，区分实际分晋与名分承认，并展开礼、分、名、名器及汤武革命的合法性边界。
 - [《资治通鉴·周纪》02｜将欲败之 必姑辅之](sources/zizhi-tongjian-zhouji-02-jiangyu-baizhi-bi-gufuzhi-lglk2_eu1uvegdac8sj6bfuwv1dw.md) — 智果预警智瑶才高少仁，赵简子与尹铎预置晋阳退路，段规、任章则以割地诱导智瑶扩张、轻敌并制造共同敌人。
 - [《资治通鉴·周纪》03｜魏驹韩虎无间道](sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l.md) — 晋阳之战中，赵氏凭民心坚守，张孟谈以共同生存利益促成魏韩倒戈，并反用水攻消灭智氏。
 - [624. Jack The Ripper: History’s Darkest Mystery (Part 1)](sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893.md) — The Rest Is History frames Whitechapel as a Victorian social and media crisis, then reconstructs Polly Nichols’s cumulative precarity, uncertain final activity, murder, and identification.

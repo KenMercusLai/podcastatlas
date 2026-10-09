@@ -1,35 +1,60 @@
 ---
 title: "Three Jin Vassal Recognition / 三晋受封"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [legitimacy, state-formation, pre-qin-history, zhou-dynasty]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
-last_updated: 2026-08-19
+sources:
+  - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn
+  - zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm
+last_updated: 2026-10-10
 ---
 
-# Three Jin Vassal Recognition / 三晋受封
+## Definition
 
-Three Jin vassal recognition / 三晋受封 is the formal-legitimacy threshold in [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]]. The episode explains the opening [[ZizhiTongjian|《资治通鉴》]] notice in which [[ZhouWeilieWang|周威烈王]] commands the Jin grandees [[WeiWenhou|魏斯 / 魏文侯]], [[ZhaoLiehou|赵籍 / 赵烈侯]], and [[HanJinghou|韩虔 / 韩景侯]] to become vassal rulers.
+Three Jin vassal recognition / 三晋受封 is the 403 BCE act by which [[ZhouWeilieWang|周威烈王]] recognized the leaders of Han, Zhao, and Wei as vassal rulers, turning earlier practical control inside [[JinState|晋国]] into public rank.
 
-The significance is not that Han, Zhao, and Wei suddenly become powerful on that day. The episode has already shown their power growing after [[ZhiYao|智瑶]]'s defeat and the division of Zhi lands. Recognition matters because the [[ZhouRoyalHouse|周王室]] bypasses the remaining [[JinState|晋国]] ruler and gives the three houses a title standing formally equal to Jin.
+## Current Synthesis
 
-This concept is a narrower part of [[PartitionOfJin|三家分晋]]. It marks the de jure conversion of power into rank, while the broader partition concept tracks earlier de facto control and later final extinction.
+Recognition matters precisely because it lags behind force. [[WeiWenhou|魏文侯]], [[ZhaoLiehou|赵烈侯]], and [[HanJinghou|韩景侯]] do not become powerful on the day of appointment; the Zhou act instead makes their status formally legible and places them alongside the Jin ruler whom their houses had hollowed out.
 
-[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] adds a post-recognition relationship layer. After Han, Zhao, and Wei have become distinct powers, [[WeiWenhou|魏文侯]]'s refusal to help either [[HanState|韩国]] or [[ZhaoState|赵国]] attack the other turns the formal Three Jin sibling language into [[SymmetricInterstateCredibility|对称外交信用]].
-
-[[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]] adds the precedent effect. [[TianHe|田和]]'s path to recognition in [[QiState|齐国]] is easier because [[ZhouRoyalHouse|周王室]] recognition of Han, Zhao, and Wei had already made formal approval of a practical power shift imaginable. The concept therefore now includes not only the 403 BCE event itself, but also its downstream effect on [[TianFamilyReplacementOfQi|田氏代齐]].
+The newest source makes this the normative opening of [[ZizhiTongjian|《资治通鉴》]]. In its Sima Guang-centered reading, the weak [[ZhouRoyalHouse|周王室]] retains meaningful authority over names and ranks, so recognition is not a neutral description of reality: it rewards a breach of ruler-minister hierarchy and creates a precedent. Later sources show the recognized Three Jin acting as distinct states and Tian He's Qi replacement following the newly opened route from practical control to Zhou-sanctioned title.
 
 ## Key Claims
-- Formal title recognition can lag behind actual power.
-- A weak royal house can still matter because its recognition changes the language of legitimacy.
-- Zhou recognition makes Han, Zhao, and Wei visible as states in the annalistic frame rather than merely Jin ministers.
-- The event explains why [[ZizhiTongjian|《资治通鉴》]] opens with a legitimacy decision instead of only with war.
-- The Zhouji 05 episode adds that formal Three Jin status can become practical hierarchy when Wei behaves consistently toward Han and Zhao.
-- Zhouji 07 part 3 adds that the precedent can travel: Tian He's bid for Qi recognition follows an already-opened route from practical control to Zhou-sanctioned rank.
 
-## Connections
-- [[ZhouWeilieWang|周威烈王]] and [[ZhouRoyalHouse|周王室]] - recognizing authority.
-- [[WeiWenhou|魏文侯]], [[ZhaoLiehou|赵烈侯]], and [[HanJinghou|韩景侯]] - recognized leaders.
-- [[JinState|晋国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[HanState|韩国]] - polity transformation.
-- [[PartitionOfJin|三家分晋]] - broader state-formation frame.
-- [[SymmetricInterstateCredibility]] and [[RenhePoliticalPower]] - Zhouji 05 relationship-management extension.
-- [[TianHe|田和]], [[QiState|齐国]], [[QiKangGong|齐康公]], and [[TianFamilyReplacementOfQi|田氏代齐]] - downstream precedent branch added by Zhouji 07 part 3.
+- Formal title recognition can lag behind actual power while still changing political legitimacy.
+- A materially weak royal house can retain consequential authority over public names and ranks.
+- The act converts three Jin ministerial houses into recognized state rulers without restoring the displaced Jin hierarchy.
+- The chronicle's decision to open here frames political order and legitimate naming as statecraft problems.
+- Recognition creates a precedent that later practical power holders, especially Tian He in Qi, can reuse.
+- Formal sibling status among the Three Jin can acquire practical content through consistent interstate conduct.
+
+## Evidence
+
+Recognition as conversion of force into rank:
+- [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik|Zhouji 04]] places recognition after Zhi's defeat and the earlier redistribution of power.
+- [[zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm|Zhouji 01]] interprets the king's grant as the decisive breach because the naming authority itself ratifies the former ministers.
+
+Post-recognition interstate conduct:
+- [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl|Zhouji 05]] shows Wei Wenhou refusing symmetrical Han and Zhao requests and turning Three Jin kin language into diplomatic credibility.
+
+Precedent effect:
+- [[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn|Zhouji 07 part 3]] presents Tian He's later recognition as easier to imagine after the Three Jin precedent.
+
+## Counterevidence & Qualifications
+
+These sources agree that recognition follows practical power, but the claim that it caused the collapse of the Zhou order is a normative causal interpretation, not a demonstrated single cause. Recognition also did not immediately eliminate Jin, whose residual polity survived until 376 BCE. The Tian He precedent is presented by the episode as a political pathway; it does not show that every later usurpation required or obtained Zhou approval.
+
+## What Changed
+
+- Added the distinction between descriptive recognition and active legitimation.
+- Made the precedent mechanism and the delayed survival of residual Jin explicit.
+
+## Related Concepts
+
+- [[PartitionOfJin|三家分晋]] - broader sequence containing the recognition threshold.
+- [[MingqiLegitimacy|名器合法性]] - explains why titles and visible rank retain force under weak central power.
+- [[LiAsPoliticalOrder|礼制政治秩序]] - role-order framework violated in the episode's Sima Guang reading.
+- [[TianFamilyReplacementOfQi|田氏代齐]] - later state replacement that reuses the recognition pathway.
+- [[SymmetricInterstateCredibility|对称外交信用]] - post-recognition behavior that gives practical content to Three Jin relations.

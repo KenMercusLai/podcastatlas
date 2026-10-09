@@ -189013,6 +189013,43 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/partisanshipaselectoralgravity/"
     },
+    "PartitionOfJin": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？ [lsZ0xK6-0WWZNKC62K_XKoxGZ-_r].md",
+          "key": "zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》09丨战国时代的世界大战 [losmuM91VjpqfyMYWelj60O7-VBL].md",
+          "key": "zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》09丨战国时代的世界大战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》01｜韩赵魏三家分晋 [lu9DEsX1V8h1WwFhVbQusOUtukQM].md",
+          "key": "zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》01｜韩赵魏三家分晋",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/partitionofjin/"
+    },
     "PartnerLedFintechDistribution": {
       "episode_count": 1,
       "show_count": 1,
@@ -241296,9 +241333,9 @@
       "url": "/wiki/entities/tangwenbin/"
     },
     "TangWuRevolutionLegitimacyTaboo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
@@ -241306,9 +241343,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》01｜韩赵魏三家分晋 [lu9DEsX1V8h1WwFhVbQusOUtukQM].md",
+          "key": "zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》01｜韩赵魏三家分晋",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/tangwurevolutionlegitimacytaboo/"
     },
     "TangXuanLateHan": {
@@ -246130,6 +246174,43 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/threeexcellenciesinnercourtjurisdiction/"
+    },
+    "ThreeJinVassalRecognition": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1） [lmKXzbmwHW3NhuraPe_EEbydQCDl].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（3） [lsBx8l7wXeioae2LwUWkKKutpDwN].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》01｜韩赵魏三家分晋 [lu9DEsX1V8h1WwFhVbQusOUtukQM].md",
+          "key": "zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》01｜韩赵魏三家分晋",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/threejinvassalrecognition/"
     },
     "ThreeParallelRiversLandscape": {
       "episode_count": 1,
@@ -282932,6 +283013,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhourongeasternhan/"
+    },
+    "ZhouWeilieWang": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》04｜豫让 为智瑶复仇 [ln34tYdHa6IQwlRGmW7iUGqFgFik].md",
+          "key": "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2） [lmfZo4SL9nD5Kz3mrxdl1dL9EFEI].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》01｜韩赵魏三家分晋 [lu9DEsX1V8h1WwFhVbQusOUtukQM].md",
+          "key": "zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》01｜韩赵魏三家分晋",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhouweiliewang/"
     },
     "ZhouXieLateHan": {
       "episode_count": 1,
