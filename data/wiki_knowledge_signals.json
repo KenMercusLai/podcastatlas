@@ -170130,9 +170130,9 @@
       "url": "/wiki/concepts/multilingualnationalanthemformation/"
     },
     "MultimodalAdultNeuroplasticity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -170147,9 +170147,16 @@
           "show": "Huberman Lab",
           "title": "Using Play to Rewire & Improve Your Brain",
           "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        },
+        {
+          "episode_file": "SCIM7483460058 [SCIM7483460058].md",
+          "key": "essentials-using-play-to-rewire-improve-your-brain-scim7483460058",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
     "MultimodalFunctionCenteredPainCare": {
@@ -186714,9 +186721,9 @@
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
     "PeriaqueductalGray": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -186745,9 +186752,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Controlling Aggression",
           "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
+        },
+        {
+          "episode_file": "SCIM7483460058 [SCIM7483460058].md",
+          "key": "essentials-using-play-to-rewire-improve-your-brain-scim7483460058",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/periaqueductalgray/"
     },
     "PerimenopauseBrainMetabolism": {
@@ -190255,9 +190269,9 @@
       "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
     },
     "PlayAsContingencyTesting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9321743392 [SCIM9321743392].md",
@@ -190265,9 +190279,16 @@
           "show": "Huberman Lab",
           "title": "Using Play to Rewire & Improve Your Brain",
           "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        },
+        {
+          "episode_file": "SCIM7483460058 [SCIM7483460058].md",
+          "key": "essentials-using-play-to-rewire-improve-your-brain-scim7483460058",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/playascontingencytesting/"
     },
     "PlaylistAsDiscoveryInterface": {

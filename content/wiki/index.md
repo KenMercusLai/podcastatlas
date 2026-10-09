@@ -4248,6 +4248,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [44 奸臣自己跳出来了！严嵩 vs 蓬巴尔侯爵](sources/44-jianchen-ziji-tiao-chulaile-yansong-vs-pengbaer-houjue-lmx4poxetwxy625kriodizxlubou.md) — 怪东西比较彭巴尔与严嵩的君主依附型权力：前者把改革、救灾与国防同垄断、奴隶贸易和镇压结合，后者主要把才智用于迎合、排斥政敌与家族经营；两者均在宠信或继承变化后迅速失势。
 - [Essentials: The Science & Practice of Movement | Ido Portal](sources/essentials-the-science-practice-of-movement-ido-portal-scim7334257872.md) — Condensed Huberman Lab conversation on movement as open inquiry through everyday awareness, sensory variation, adaptable technique, improvisation, and consent-aware proximity practice.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
+- [Essentials: Using Play to Rewire & Improve Your Brain](sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058.md) — Condensed Huberman Lab episode on low-stakes contingency testing, play signals, role flexibility, proposed PAG-opioid mechanisms, and movement-rich adult neuroplasticity.
 
 ## Entities
 - [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
