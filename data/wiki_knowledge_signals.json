@@ -114136,9 +114136,9 @@
       "url": "/wiki/concepts/historiographicalfoundercriteria/"
     },
     "HistoryAsLifeResource": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
@@ -114153,9 +114153,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
+        },
+        {
+          "episode_file": "《资治通鉴》00丨读史学经典，悟处世大道 [lh9oiN5FT1Vuc7cQiM1l1KduzZQ7].md",
+          "key": "zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴》00丨读史学经典，悟处世大道",
+          "url": "/wiki/sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/historyasliferesource/"
     },
     "HitlerMemoryAndMoralAnalogy": {

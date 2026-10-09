@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2671
+topic_total_pages: 2672
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8019,6 +8019,9 @@ topic_sources:
   - key: "zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd"
     title: "《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？"
     url: "/wiki/sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd/"
+  - key: "zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7"
+    title: "《资治通鉴》00丨读史学经典，悟处世大道"
+    url: "/wiki/sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7/"
   - key: "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf"
     title: "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面"
     url: "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
