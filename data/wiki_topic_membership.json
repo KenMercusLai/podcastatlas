@@ -5687,6 +5687,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "50-teenagers-glt9697541566": [
     {
       "key": "history",
@@ -53233,6 +53240,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "LifeStageDependentRereading": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LifeTimeVsMachineTime": [
     {
       "key": "technology",
@@ -84589,6 +84603,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheSorrowsOfYoungWerther": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheSpiderThread": [
     {
       "key": "culture",
@@ -94151,6 +94172,13 @@
     }
   ],
   "YouthPrecautionaryCulture": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "YouthVitalityUnderInstitutionalClosure": [
     {
       "key": "culture",
       "label": "Culture",

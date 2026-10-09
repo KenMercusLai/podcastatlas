@@ -33616,3 +33616,11 @@ Added source `090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-d
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 5 少年维特有出路吗？读书1：《少年维特之烦恼》
+
+Added source `5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w`; created [[JohannWolfgangVonGoethe|Johann Wolfgang von Goethe / 歌德]], [[TheSorrowsOfYoungWerther|《少年维特之烦恼》]], [[LifeStageDependentRereading|生命阶段依赖的重读]], and [[YouthVitalityUnderInstitutionalClosure|制度封闭下的青春生命力]]. Core synthesis: the novel's tragedy emerges from converging romantic, occupational, class, and temperamental constraints rather than failed love alone, while midlife rereading reveals vitality and social pressure that the speakers overlooked in youth. No settled contradiction was adopted. Goethe's biography and intent, Lotte's feelings, translation loss, reception claims, historical context, and modern workplace analogy remain source-scoped. Broad show and host profiles were kept closed because the focused source, author, novel, and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,209 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 10087
+wiki_total_pages: 10089
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "YouthTobaccoInitiationPrevention"
     title: "Youth Tobacco Initiation Prevention / 青少年烟草初始预防"
     url: "/wiki/concepts/youthtobaccoinitiationprevention/"
+  - key: "YouthVitalityUnderInstitutionalClosure"
+    title: "Youth Vitality under Institutional Closure / 制度封闭下的青春生命力"
+    url: "/wiki/concepts/youthvitalityunderinstitutionalclosure/"
   - key: "YouTubeMediaDominance"
     title: "YouTube Media Dominance"
     url: "/wiki/concepts/youtubemediadominance/"

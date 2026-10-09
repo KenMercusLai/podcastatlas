@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [5 少年维特有出路吗？读书1：《少年维特之烦恼》](sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w.md) — 怪东西重读《少年维特之烦恼》，以书信体、翻译损耗、生命阶段、爱情、官僚与阶级封闭重释维特的悲剧。
 - [090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！](sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x.md) — 纸醉金迷FM以五庄观、白骨岭和平顶山拆解稀缺声望、方案增项、应急替代、资源置换与避责式总结。
 - [遲來的性罪行法律改革，倖存者們想爭取甚麼？](sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c.md) — 端聞以倖存者經驗解釋香港性罪行法改、積極同意、真誠誤信抗辯、程序二次傷害與弱勢保障。
 - [634. Joan of Arc: Heroine in Chains (Part 3)](sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836.md) — The Rest Is History episode on Joan's Loire victories, Reims coronation mission, Paris failure, capture, and conversion of sacred-martial charisma into political legitimacy.
@@ -4282,6 +4283,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
 
 ## Entities
+- [Johann Wolfgang von Goethe / 歌德](entities/JohannWolfgangVonGoethe.md) — German author represented through the autobiographical transformation, form, language, and social interpretation of *The Sorrows of Young Werther*.
+- [《少年维特之烦恼》 / The Sorrows of Young Werther](entities/TheSorrowsOfYoungWerther.md) — 以书信亲密性、青春生命力及爱情、职业与阶级出口的同时收窄展开的歌德小说。
 - [性罪行法律改革關注組 / Hong Kong Sexual Offences Law Reform Concern Group](entities/HongKongSexualOffencesLawReformConcernGroup.md) — 以倖存者視角參與香港性罪行法改、公眾教育與條文批判的倡議團體。
 - [John of Lancaster, Duke of Bedford](entities/JohnOfLancasterDukeOfBedford.md) — English regent in France who answered Joan's military-symbolic threat through occult explanation and an ecclesiastical trial strategy.
 - [Henry VI of England](entities/HenryVIOfEngland.md) — Child king whose inherited French claim made Joan of Arc's condemnation politically valuable.
@@ -17241,6 +17244,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Life-Stage-Dependent Rereading / 生命阶段依赖的重读](concepts/LifeStageDependentRereading.md) — 后来经验或语言能力改变作品显著性、但不自动赋予终极解释权的重读机制。
+- [Youth Vitality under Institutional Closure / 制度封闭下的青春生命力](concepts/YouthVitalityUnderInstitutionalClosure.md) — 爱情、职业与阶级出口同时收窄，使充沛感受力和才华失去容纳空间的文学机制。
 - [Co-Produced Scarcity Prestige / 共谋式稀缺声望](concepts/CoProducedScarcityPrestige.md) — 供应者、把关者和获配者因共同受益于排他身份而维持稀缺叙事的机制。
 - [Contingency Patch Debt / 应急补丁债务](concepts/ContingencyPatchDebt.md) — 应急替代恢复眼前交付，却把身份、信任、关系或问责风险推向后续阶段。
 - [Hong Kong Sexual Offence Law Reform / 香港性罪行法律改革](concepts/HongKongSexualOffenceLawReform.md) — 整合罪名、同意、抗辯、兒童與弱勢保障及科技缺口的香港制度改革框架。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10087
+wiki_total_pages: 10089
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "LifeStageInsurancePlanning"
     title: "Life-Stage Insurance Planning"
     url: "/wiki/concepts/lifestageinsuranceplanning/"
+  - key: "LifeStageDependentRereading"
+    title: "Life-Stage-Dependent Rereading / 生命阶段依赖的重读"
+    url: "/wiki/concepts/lifestagedependentrereading/"
   - key: "LifeTaskDiscovery"
     title: "Life-Task Discovery"
     url: "/wiki/concepts/lifetaskdiscovery/"

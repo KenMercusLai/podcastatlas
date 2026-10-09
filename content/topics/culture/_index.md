@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3275
+topic_total_pages: 3279
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1837,6 +1837,9 @@ topic_concepts:
   - key: "LifeImitatesArt"
     title: "Life Imitates Art / 生活模仿艺术"
     url: "/wiki/concepts/lifeimitatesart/"
+  - key: "LifeStageDependentRereading"
+    title: "Life-Stage-Dependent Rereading / 生命阶段依赖的重读"
+    url: "/wiki/concepts/lifestagedependentrereading/"
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"
@@ -3355,6 +3358,9 @@ topic_concepts:
   - key: "YouthPrecautionaryCulture"
     title: "Youth Precautionary Culture / 青年预防性文化"
     url: "/wiki/concepts/youthprecautionaryculture/"
+  - key: "YouthVitalityUnderInstitutionalClosure"
+    title: "Youth Vitality under Institutional Closure / 制度封闭下的青春生命力"
+    url: "/wiki/concepts/youthvitalityunderinstitutionalclosure/"
   - key: "YouTubeMediaDominance"
     title: "YouTube Media Dominance"
     url: "/wiki/concepts/youtubemediadominance/"
@@ -6785,6 +6791,9 @@ topic_entities:
   - key: "ShiroAkutagawa"
     title: "《小白》 / Shiro"
     url: "/wiki/entities/shiroakutagawa/"
+  - key: "TheSorrowsOfYoungWerther"
+    title: "《少年维特之烦恼》 / The Sorrows of Young Werther"
+    url: "/wiki/entities/thesorrowsofyoungwerther/"
   - key: "Shangshu"
     title: "《尚书》 / Shangshu"
     url: "/wiki/entities/shangshu/"
@@ -9027,6 +9036,9 @@ topic_sources:
   - key: "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo"
     title: "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响"
     url: "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+  - key: "5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w"
+    title: "5 少年维特有出路吗？读书1：《少年维特之烦恼》"
+    url: "/wiki/sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w/"
   - key: "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320"
     title: "51.厌世？反人类？童话故事？…格列佛游记可深了去了"
     url: "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"

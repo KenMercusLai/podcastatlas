@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12900
+wiki_total_pages: 12902
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "TheLittlePrince"
     title: "《小王子》 / The Little Prince"
     url: "/wiki/entities/thelittleprince/"
+  - key: "TheSorrowsOfYoungWerther"
+    title: "《少年维特之烦恼》 / The Sorrows of Young Werther"
+    url: "/wiki/entities/thesorrowsofyoungwerther/"
   - key: "TheHappyPrince"
     title: "《快乐王子》 / The Happy Prince"
     url: "/wiki/entities/thehappyprince/"

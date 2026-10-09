@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12900
+wiki_total_pages: 12902
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "JohannVonStaupitz"
     title: "Johann von Staupitz"
     url: "/wiki/entities/johannvonstaupitz/"
+  - key: "JohannWolfgangVonGoethe"
+    title: "Johann Wolfgang von Goethe / 歌德"
+    url: "/wiki/entities/johannwolfgangvongoethe/"
   - key: "Johannesburg"
     title: "Johannesburg"
     url: "/wiki/entities/johannesburg/"
