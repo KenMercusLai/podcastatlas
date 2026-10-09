@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10117
+wiki_total_pages: 10118
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "WorkRoleTransitionRitual"
     title: "Work-Role Transition Ritual / 工作角色切换仪式"
     url: "/wiki/concepts/workroletransitionritual/"
+  - key: "WorkaholismAsSociallyRewardedAddiction"
+    title: "Workaholism as Socially Rewarded Addiction"
+    url: "/wiki/concepts/workaholismassociallyrewardedaddiction/"
   - key: "WorkerPhotographicArchive"
     title: "Worker Photographic Archive / 工人摄影档案"
     url: "/wiki/concepts/workerphotographicarchive/"

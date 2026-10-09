@@ -33826,3 +33826,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Transform Pain & Trauma Into Creative Expression | David Choe
+
+Added source `transform-pain-trauma-into-creative-expression-david-choe-scim4316318313`; created [[DavidChoe]] and [[WorkaholismAsSociallyRewardedAddiction]]; and resynthesized [[SeanParker]], [[AddictionAsAttemptedRelief]], [[GamblingEscalationLoop]], and [[RecoveryCommunityConnection]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: art, gambling, sex, work, travel, and media can function as real achievement and as avoidance, while recovery depends less on a polished transformation than on accepting care, telling the truth, setting limits, tolerating ordinary life, and rebuilding connection. No settled contradiction was adopted. Psychiatric labels, medical events, treatment effects, financial values, career anecdotes, timelines, and the equivalence of different behavioral compulsions remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,235 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

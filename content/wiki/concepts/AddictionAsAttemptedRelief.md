@@ -7,7 +7,8 @@ sources:
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
   - therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707
   - how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684
-last_updated: 2026-10-09
+  - transform-pain-trauma-into-creative-expression-david-choe-scim4316318313
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ Conti adds a trauma-linked qualification. Alcohol, cannabis, anger, negative fan
 
 Humphreys extends the functional inquiry by asking what a person likes about the substance or behavior. Use may supply oblivion, social ritual, relief from fear or trauma, or a way not to face painful realities. Stopping can therefore produce genuine grief and does not erase the conditions that made escape attractive. At the same time, repeated withdrawal relief can be misread as proof that nicotine, cannabis, or opioids are still helping; some apparent benefit may now be relief from a deficit the substance itself helps maintain.
 
+Choe adds a first-person avoidance and self-punishment layer. Constant motion through art, graffiti, gambling, sex, work, travel, media, and later collectible-card packs could all prevent still contact with shame, while gambling loss could itself supply the pain he was seeking. The account also shows substitution: removing one venue does not necessarily remove the emotional function or variable-reward loop. This strengthens the need to assess what the behavior does while preserving the boundary that broad functional similarity is not automatic clinical equivalence.
+
 ## Key Claims
 - Addictive behavior can begin as a workable short-term solution to an underlying difficult state.
 - Rapid relief can become organizing power, reversing the relationship between the person and the behavior.
@@ -34,7 +37,7 @@ Humphreys extends the functional inquiry by asking what a person likes about the
 - Assessment should examine control, preoccupation, abstinence difficulty, relationships, motivation, loneliness, and daily functioning.
 - Recovery has to replace the function of the addictive strategy as well as interrupt its use.
 - Intensity or enthusiasm alone does not establish addiction; impairment and loss of choice are central qualifications.
-- Progressive narrowing is a useful warning pattern, and recovery may involve grief for a ritual, social world, or coping function even when stopping is clearly beneficial.
+- Progressive narrowing and substitution are useful warning patterns: recovery may involve grief for a lost ritual or social world, and compulsion can migrate when avoidance, intensity, validation, or self-punishment remain available.
 
 ## Evidence
 - Relief function - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] describes alcohol, drugs, gambling, gaming, pornography, food, and other behaviors as ways people may seek connection, wholeness, escape, or state change.
@@ -45,13 +48,15 @@ Humphreys extends the functional inquiry by asking what a person likes about the
 - Trauma-linked soothing - [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] connects hidden guilt, shame, and trauma with substance use while distinguishing immediate state change from work on the underlying problem.
 - Function and grief - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] recommends asking what use provides and describes recovery as potentially losing a social ritual or friendship pattern.
 - Escape and withdrawal - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] connects heavy use with escape from trauma, suffering, fear, or relationship collapse and warns that withdrawal relief can masquerade as continuing benefit.
+- Motion and self-punishment - [[transform-pain-trauma-into-creative-expression-david-choe-scim4316318313]] describes art, gambling, sex, travel, media, and work as ways to avoid stillness, and says catastrophic gambling loss could satisfy a wish to hurt.
+- Substitution - [[transform-pain-trauma-into-creative-expression-david-choe-scim4316318313]] describes casino abstinence followed by a gambling-like loop around collectible-card packs after a valuable hit.
 
 ## Counterevidence & Qualifications
-This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, sugar intake, caffeine use, anger, or pornography consumption is addiction or trauma-driven. A behavior can serve a function without being safe, clinically addictive, or caused by one hidden wound. Brain-mechanism language should not become fatalism or remove accountability for harm to others. Acute withdrawal, psychiatric crisis, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
+This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, shopping, collectible purchasing, sugar intake, caffeine use, anger, or pornography consumption is addiction or trauma-driven. A behavior can serve a function without being safe, clinically addictive, or caused by one hidden wound. First-person similarity across behaviors does not prove identical mechanisms or treatment. Brain-mechanism language should not become fatalism or remove accountability for harm to others. Acute withdrawal, psychiatric crisis, suicidality, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
 
 ## What Changed
-- Added recovery grief, social ritual, and escape from painful reality to the functional account.
-- Distinguished original relief from relief of a withdrawal state partly maintained by continued use.
+- Added constant motion and self-punishment to the functions an addictive behavior may serve.
+- Added substitution across gambling, work, sex, media, and collectible-card rewards while preserving diagnostic boundaries.
 
 ## Related Concepts
 - [[RecoveryDistressTolerance]] - replacement capacity for experiencing the states addiction previously relieved.
@@ -61,3 +66,4 @@ This is a functional treatment frame, not a substitute for formal diagnostic cri
 - [[MachineGamblingAddiction]] - gambling-specific compulsive loop shaped by machine design.
 - [[DigitalSexualSubstituteRisk]] - pornography-specific substitution and intimacy risk.
 - [[AddictionRelatedRewardPlasticity]] - learned-cue process that can preserve pursuit after the original function changes.
+- [[WorkaholismAsSociallyRewardedAddiction]] - work-specific case where escape and compulsion can be protected by praise.

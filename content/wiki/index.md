@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Transform Pain & Trauma Into Creative Expression | David Choe](sources/transform-pain-trauma-into-creative-expression-david-choe-scim4316318313.md) — Huberman Lab interview on art, shame, gambling, workaholism, self-sabotage, substituted compulsion, relational recovery, and choosing connection over legacy.
 - [No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？](sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i.md) — 三五环对谈脉脉创始人林凡，讨论实名底座的昵称社区、职场人脉、招聘变化，以及由输出下限、容错率和任务拆解决定的 AI 任务替代边界。
 - [629. WWI: The Christmas Truce](sources/629-wwi-the-christmas-truce-glt5393732684.md) — The Rest Is History separates genuine but localized 1914 fraternization from organized-football and anti-war legend, showing humanity and continued commitment to fight coexisting.
 - [影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头](sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352.md) — 罗永浩的十字路口 interview with Insta360 founder Liu Jingkang on applied making, panoramic-camera workflows, hardware production, drones, AI imaging, competition, and creation under public-company responsibility.
@@ -4308,6 +4309,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under](sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5.md) — 这病说来话长 episode on scar maturation, sustainable silicone care, surrounding-skin support, specialist escalation, and realistic visibility and acceptance goals.
 
 ## Entities
+- [David Choe](entities/DavidChoe.md) — Artist and media creator whose profile connects care and creative risk with shame-driven achievement, process addiction, self-sabotage, help-seeking, and recovery.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
 - [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
 - [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
@@ -17297,6 +17299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Workaholism as Socially Rewarded Addiction](concepts/WorkaholismAsSociallyRewardedAddiction.md) — Compulsive work used for escape, intensity, validation, or self-worth while productivity and service conceal harm and loss of choice.
 - [Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区](concepts/VerifiedPseudonymousWorkplaceCommunity.md) — Public nickname expression backed by private identity and employment verification, preserving workplace voice while retaining privacy and governance risks.
 - [Professional-Network Career Capital / 职业人脉资本](concepts/ProfessionalNetworkCareerCapital.md) — Career value accumulated through maintained ties, visible competence, occupational reputation, and repeated contribution when open applications become less effective.
 - [AI Task-Substitution Reliability Boundary / AI 任务替代可靠性边界](concepts/AITaskSubstitutionReliabilityBoundary.md) — Task-level automation boundary shaped by output-floor reliability, error cost, reviewability, decomposition, and domain data rather than peak model capability alone.
