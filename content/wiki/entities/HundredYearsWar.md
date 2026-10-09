@@ -12,6 +12,7 @@ sources:
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
   - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
   - 635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235
+  - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -42,12 +43,16 @@ The 1415 sequence begins with a different imbalance from 1337. [[CharlesVIOfFran
 
 The later evidence shows Henry's dynastic claim becoming politically plausible after the victory. His conquest of [[Normandy]], the [[ArmagnacBurgundianCivilWar]], and [[JohnTheFearless|John the Fearless's]] murder enabled the [[TreatyOfTroyes|Treaty of Troyes]], which designated Henry heir to France. Yet the [[AngloFrenchDualMonarchy|dual monarchy]] remained contested by [[CharlesVIIOfFrance|the Dauphin]], and Henry's 1422 death transferred it to an infant.
 
-The Joan evidence carries that fragility into the war's final reversal. Her intervention and Charles VII's Reims coronation gave the French claim a sacred and political focus that [[HenryVIOfEngland|Henry VI]]'s regime tried to destroy through an ecclesiastical prosecution. Execution removed Joan but did not stabilize the dual monarchy. Burgundy reconciled with Charles in 1435, Paris returned in 1436, Normandy came under renewed attack in 1449, and Castillon in 1453 effectively ended the war with England retaining only Calais. Joan's 1456 rehabilitation then converted military recovery into a judgment about which kingship and wartime memory had prevailed.
+The Joan evidence carries that fragility into the war's final reversal. After Orléans, French success at Jargeau and Patay captured major English leaders and damaged a reputation for battlefield invincibility. Joan's sacred-chivalric authority helped attract men despite an empty treasury, while Troyes showed how the credible threat of assault and a reputation for divine mission could make enemy-aligned resistance collapse before battle.
+
+Charles VII's Reims anointing converted that momentum into visible sacred and political legitimacy. The failed assault on Paris then showed the limit of personal authority under inadequate royal backing, finance, supply, artillery, and diplomacy. Joan's later independent campaigning ended in Burgundian capture at Compiègne; Bedford and Cauchon sought to reverse Reims by turning her from divine messenger into heretic or sorcerer through an ecclesiastical proceeding.
+
+Execution removed Joan but did not stabilize the dual monarchy. Burgundy reconciled with Charles in 1435, Paris returned in 1436, Normandy came under renewed attack in 1449, and Castillon in 1453 effectively ended the war with England retaining only Calais. Joan's 1456 rehabilitation then converted military recovery into a judgment about which kingship and wartime memory had prevailed.
 
 ## Key Characteristics
 
 - Long conflict framed as lasting from 1337 to 1453, with current coverage spanning its origin, repeated English high points and reversals, the contested dual monarchy, Joan of Arc, and final French recovery.
-- Repeated interaction among dynastic claims, territorial law, factional alignment, and national mobilization rather than a single cause.
+- Repeated interaction among dynastic claims, territorial law, factional alignment, ritual legitimacy, and mobilization rather than a single cause.
 - Reversible asymmetry: early English battlefield supremacy fails under French state recovery, while later French factional collapse again creates English opportunity.
 - Battlefield effectiveness shaped by terrain, combined-arms coordination, command structure, and timing as much as force totals.
 - Elite chivalric institutions coexisting with deception, destructive raiding, ransom, and civilian harm.
@@ -77,19 +82,21 @@ The Joan evidence carries that fragility into the war's final reversal. Her inte
 - Conquest and faction: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] links Normandy and Rouen to Armagnac-Burgundian division and pressure on Paris.
 - Dynastic high point and fragility: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Montereau, Burgundian alignment, Troyes, continued Dauphinist resistance, and infant succession.
 - Joan and rival sacral legitimacy: [[635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235]] connects her revelations and Charles VII's Reims coronation to the English need for a heresy conviction.
+- Loire and Reims conversion: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] links recruitment, Jargeau, Patay, Troyes, and anointing to the collapse of English confidence and the public consolidation of Charles's claim.
+- Charisma's boundary: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] places Paris, court caution, independent campaigning, Compiègne, and planned prosecution against any single-hero explanation of French recovery.
 - Final reversal: [[635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235]] links Burgundian reconciliation, the recovery of Paris and Normandy, and Castillon to the collapse of the Lancastrian project.
 - Postwar judgment: [[635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235]] treats Joan's 1456 rehabilitation as a consequence of changed French power and legitimacy.
 - Memory split: both [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] and [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] hold heroic national memory beside captivity, pillage, mass death, and suffering.
 
 ## Qualifications
 
-Coverage remains discontinuous: it contains the origin, selected 1340-1347 operations, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, the 1415-1422 sequence, and Joan's trial through the 1456 rehabilitation rather than a continuous campaign history. Population, destruction, financial, fleet, route, force, arrow, casualty, ransom, prisoner, and crowd figures remain podcast claims rather than independently audited data. One source is internally inconsistent about the Calais siege dates. The evidence also does not resolve the Garter's foundation chronology, the exact implementation of Brétigny, the relative causes of either French recovery, the sincerity of Henry V's bargaining, whether he sought battle during the march, whether he could have sustained Troyes, or the full military sequence from Joan's intervention to Castillon.
+Coverage remains discontinuous: it contains the origin, selected 1340-1347 operations, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, the 1415-1422 sequence, Joan's 1429-1431 campaign and trial, and the compressed recovery through 1456 rather than a continuous campaign history. Population, destruction, financial, fleet, route, force, arrow, casualty, ransom, prisoner, and crowd figures remain podcast claims rather than independently audited data. One source is internally inconsistent about the Calais siege dates. The evidence does not isolate Joan's personal effect from French resources, English overextension, experienced commanders, local politics, or Burgundian diplomacy; nor does it resolve the Garter chronology, Brétigny's implementation, either recovery's relative causes, Henry V's bargaining, or whether he could have sustained Troyes.
 
 ## What Changed
 
-- Extended the war through Joan's prosecution, Burgundian reconciliation, French territorial recovery, and Castillon.
-- Added competing sacred legitimacy and posthumous rehabilitation to the mechanisms by which military outcomes were interpreted politically.
-- Reframed Joan's execution as a failed attempt to stabilize the inherited Lancastrian settlement rather than the end of her wartime significance.
+- Filled the operational bridge from Orléans through the Loire victories, Troyes, Reims, Paris, and Compiègne.
+- Added charismatic mobilization and morale effects while preserving finance, logistics, command, and faction as limiting conditions.
+- Connected Joan's capture and proposed prosecution directly to an English attempt to reverse Charles's Reims legitimacy.
 
 ## Relationships
 
@@ -126,5 +133,7 @@ Coverage remains discontinuous: it contains the origin, selected 1340-1347 opera
 - [[AngloFrenchDualMonarchy]] - intended structure of separate kingdoms under one crown.
 - [[SouthamptonPlot]] - domestic conspiracy showing the political stakes of Henry's campaign.
 - [[JoanOfArc]] - French military-religious figure whose mission and prosecution marked the dual monarchy's reversal.
+- [[CharismaticWarLegitimacy]] - mechanism connecting Joan's reputation to mobilization, morale, surrender, and coronation.
+- [[RoyalAnointingTradition]] - ritual mechanism converting the Reims campaign into consecrated kingship.
 - [[HenryVIOfEngland]] - child king who inherited the English claim and was crowned in Paris.
 - [[EcclesiasticalTrialPoliticalLegitimacy]] - relationship between Joan's church trial and the rival crowns' authority.

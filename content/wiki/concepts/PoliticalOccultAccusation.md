@@ -4,7 +4,8 @@ type: concept
 tags: [propaganda, witchcraft, religion, legitimacy, political-conflict]
 sources:
   - 174-merlin-magic-and-the-british-glt5141910845
-last_updated: 2026-10-01
+  - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ Political occult accusation is the use of witchcraft, sorcery, demonic alliance,
 
 ## Current Synthesis
 
-Occult accusation is flexible because it can arise from belief, strategy, or both. The episode's Joan of Arc example shows a constraint: attributing her victories to witchcraft could demonize her but also admit that English military failure required supernatural explanation. Reformation writers could redescribe Catholic sacrament and ritual as sorcery, turning doctrinal conflict into enemy magic.
+Occult accusation is flexible because it can arise from belief, strategy, or both. The Joan evidence now supplies both the general problem and a campaign-stage case. Attributing her victories to witchcraft could demonize her but also admit that English military failure required supernatural explanation. Bedford's use of that account after Orléans, the Loire defeats, and Reims appears sincere in the hosts' reading while also protecting the English regime from acknowledging deeper military and political weakness.
+
+Capture changed the accusation's institutional possibilities. Sorcery and demonic influence could move from an explanatory story into proposed church charges, with Cauchon's claimed jurisdiction offering a route from propaganda to a politically useful trial. Reformation writers could likewise redescribe Catholic sacrament and ritual as sorcery, turning doctrinal conflict into enemy magic.
 
 During the Civil Wars, Prince Rupert's dog could become a witch's familiar and [[OliverCromwell]] could be portrayed as having sold his soul. The source suggests that some Puritan accusations may have been sincere while Royalist claims could be more knowingly rhetorical, but the surviving political function is similar: occult language makes success suspicious and opposition morally absolute. Anti-James II stories about conjured winds and a listening hat add ridicule to fear.
 
@@ -27,6 +30,7 @@ During the Civil Wars, Prince Rupert's dog could become a witch's familiar and [
 - Confessional polemic can redescribe rival ritual as magic or devil worship.
 - Animals, objects, dates, weather, and repeated coincidences can be recruited as evidence-like propaganda symbols.
 - Sincere belief and cynical rhetoric can coexist within the same political campaign.
+- Capture and jurisdiction can convert occult stigmatization from battlefield explanation into a legal-religious prosecution strategy.
 - Occult accusation is evidence about conflict framing, not proof that the accused practiced magic.
 
 ## Evidence
@@ -34,6 +38,7 @@ During the Civil Wars, Prince Rupert's dog could become a witch's familiar and [
 ### Military and heresy framing
 
 - [[174-merlin-magic-and-the-british-glt5141910845]] says witchcraft was considered in Joan of Arc's prosecution but created an awkward explanation for English defeat, while heresy and cross-dressing became central.
+- [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] connects Bedford's witchcraft explanation to English losses and Cauchon's proposed charges after Joan's capture.
 
 ### Confessional recoding
 
@@ -45,11 +50,12 @@ During the Civil Wars, Prince Rupert's dog could become a witch's familiar and [
 
 ## Counterevidence & Qualifications
 
-The source does not establish a single level of sincerity across pamphleteers or audiences. Terms such as witchcraft, heresy, superstition, and sorcery carried changing legal and theological meanings. Propaganda circulation and memorable anecdotes do not demonstrate universal belief or direct political effect.
+The sources do not establish a single level of sincerity across rulers, clerics, pamphleteers, or audiences. Bedford's literal belief remains an interpretation, and the proposed 1430 charges should not be collapsed into the issues that ultimately carried the 1431 conviction. Terms such as witchcraft, heresy, superstition, and sorcery carried changing legal and theological meanings; accusation does not demonstrate universal belief, supernatural fact, or direct political effect.
 
 ## What Changed
 
-- Created a concept separating the political work of occult accusation from the truth of the underlying supernatural claim.
+- Added Bedford's response to Joan as a case where sincere-seeming belief and regime-protective explanation reinforce one another.
+- Extended the concept from propaganda into the attempted conversion of occult stigma into ecclesiastical prosecution.
 
 ## Related Concepts
 
@@ -58,3 +64,5 @@ The source does not establish a single level of sincerity across pamphleteers or
 - [[WitchcraftBeliefEvidenceThreshold]] - distinction between accepting witchcraft as possible and proving a particular accusation.
 - [[ReformationPrintCulture]] - media environment that scaled confessional polemic and enemy imagery.
 - [[PropagandaAesthetics]] - broader use of symbols and repeated form to organize political perception.
+- [[CharismaticWarLegitimacy]] - rival account of exceptional success that occult accusation attempts to delegitimize.
+- [[EcclesiasticalTrialPoliticalLegitimacy]] - institutional mechanism capable of translating stigma into dynastic judgment.

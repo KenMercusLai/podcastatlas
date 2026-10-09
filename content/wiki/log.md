@@ -33594,3 +33594,11 @@ Added source `how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-hump
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 634. Joan of Arc: Heroine in Chains (Part 3)
+
+Added source `634-joan-of-arc-heroine-in-chains-part-3-glt6235222836`; resynthesized [[JoanOfArc]], [[CharlesVIIOfFrance]], [[PhilipTheGood]], [[PierreCauchon]], [[HundredYearsWar]], [[ChivalricRomanceWarMemory]], [[RoyalAnointingTradition]], and [[PoliticalOccultAccusation]] from their complete preserved evidence inventories before appending the new source once; and created [[JohnOfLancasterDukeOfBedford]] and [[CharismaticWarLegitimacy]]. Core synthesis: Joan's sacred and chivalric credibility converted Orléans into recruitment, Loire momentum, enemy hesitation, and Charles VII's consecrated legitimacy at Reims, while Paris, finance, supply, diplomacy, royal caution, and Compiègne preserve the material and institutional limits of charisma. No settled contradiction was adopted. Charles's response to capture, Joan's motives, Bedford's degree of literal belief, reported speech, force and casualty totals, surrender causation, and the contents of Joan's voices remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,206 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

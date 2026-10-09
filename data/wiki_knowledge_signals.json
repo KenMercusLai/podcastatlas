@@ -38185,6 +38185,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
     },
+    "CharismaticWarLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/charismaticwarlegitimacy/"
+    },
     "Charlemagne": {
       "episode_count": 2,
       "show_count": 1,
@@ -38769,9 +38785,9 @@
       "url": "/wiki/entities/charlesv/"
     },
     "CharlesVIIOfFrance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -38786,6 +38802,13 @@
           "show": "The Rest Is History",
           "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
           "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
       "updated": "2026-10-09",
@@ -42574,9 +42597,9 @@
       "url": "/wiki/concepts/chivalricarchetypecomparison/"
     },
     "ChivalricRomanceWarMemory": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -42605,9 +42628,16 @@
           "show": "The Rest Is History",
           "title": "320: Hundred Years' War: The Black Prince (Part 3)",
           "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChivalricSacralization": {
@@ -117701,9 +117731,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -117767,6 +117797,13 @@
           "show": "The Rest Is History",
           "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
           "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
       "updated": "2026-10-09",
@@ -131917,9 +131954,9 @@
       "url": "/wiki/entities/jizhoulatehan/"
     },
     "JoanOfArc": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6941072856 [GLT6941072856].md",
@@ -131934,6 +131971,13 @@
           "show": "The Rest Is History",
           "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
           "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
       "updated": "2026-10-09",
@@ -133181,6 +133225,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/johnofgaunt/"
+    },
+    "JohnOfLancasterDukeOfBedford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/johnoflancasterdukeofbedford/"
     },
     "JohnOfWestwick": {
       "episode_count": 1,
@@ -190066,9 +190126,9 @@
       "url": "/wiki/entities/philipthebold/"
     },
     "PhilipTheGood": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -190090,9 +190150,16 @@
           "show": "The Rest Is History",
           "title": "131. Burgundy: Europe's Forgotten Superpower",
           "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/philipthegood/"
     },
     "PhilipVIOfFrance": {
@@ -190708,9 +190775,9 @@
       "url": "/wiki/entities/picloram/"
     },
     "PierreCauchon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8113477235 [GLT8113477235].md",
@@ -190718,6 +190785,13 @@
           "show": "The Rest Is History",
           "title": "635. Joan of Arc: For Fear of the Flames (Part 4)",
           "url": "/wiki/sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
       "updated": "2026-10-09",
@@ -192708,9 +192782,9 @@
       "url": "/wiki/concepts/politicalmilitaryerafit/"
     },
     "PoliticalOccultAccusation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5141910845 [GLT5141910845].md",
@@ -192718,9 +192792,16 @@
           "show": "The Rest Is History",
           "title": "174. Merlin, Magic and the British",
           "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/politicaloccultaccusation/"
     },
     "PoliticalPerformanceSincerity": {
@@ -212330,9 +212411,9 @@
       "url": "/wiki/concepts/royalanimalspectacle/"
     },
     "RoyalAnointingTradition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4746607803 [GLT4746607803].md",
@@ -212340,9 +212421,16 @@
           "show": "The Rest Is History",
           "title": "327: Coronations: The Deep History (Part 1)",
           "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        },
+        {
+          "episode_file": "GLT6235222836 [GLT6235222836].md",
+          "key": "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836",
+          "show": "The Rest Is History",
+          "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
+          "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/royalanointingtradition/"
     },
     "RoyalCaribbean": {

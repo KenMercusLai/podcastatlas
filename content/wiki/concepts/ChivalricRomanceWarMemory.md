@@ -7,7 +7,8 @@ sources:
   - 446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
-last_updated: 2026-09-29
+  - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,14 +30,16 @@ The later Hundred Years' War episode closes its first-phase arc by returning to 
 
 The Poitiers episode supplies the missing interior contradiction. [[EdwardIIIOfEngland|Edward III's]] new Camelot, the [[OrderOfTheGarter]], [[GeoffreyDeCharny|Geoffrey de Charny's]] chivalric authority, and the courtesy shown to captive [[JohnIIOfFrance|John II]] coexist with bribery, factional murder, settlement burning, ransom extraction, and the [[Chevauchee|chevauchée's]] indifference to peasant life. Chivalry is therefore not simply a later romantic filter; within the source it is an elite code capable of sacral beauty, tactical discipline, propaganda, and severe moral exclusion at the same time.
 
+Joan's campaign adds a different participant case. Her white armor, banner, courage, public devotion, and self-identification as the Maid made her resemble a knight from romance without claiming male identity or formal aristocratic status. The source interprets this less as calculated propaganda than as an intuitive inhabiting of a story contemporaries already recognized. Because Orléans and the Loire victories supplied proof, the image affected recruitment, morale, surrender, and coronation politics before later memory transformed it again.
+
 ## Key Claims
 
 - Chivalric romance makes war legible through honor, courage, adventure, and named feats.
-- Childhood and literary memory can preserve a glamorous war image long after the events.
 - Catastrophe-focused history reopens what romance leaves out: social destruction, pillage, disease, and long-term instability.
 - The Hundred Years' War's iconic battles and prolonged devastation make romance memory especially necessary to qualify when it turns elite violence into uncomplicated patriotic adventure.
 - Chivalric institutions can organize loyalty and battlefield conduct while excluding civilian suffering from their moral field.
 - Chivalric self-fashioning can operate as a practical leadership style even inside industrial war.
+- A romance-like persona can become operational authority when public symbols are joined to credible success.
 - A romance frame can survive strategic failure because it preserves named courage and honor rather than administrative durability.
 
 ## Evidence
@@ -51,15 +54,16 @@ The Poitiers episode supplies the missing interior contradiction. [[EdwardIIIOfE
 - Memory and collapse: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] places knighthood and honor beside rebellion, mercenary violence, taxation, Limoges, illness, and territorial loss.
 - Arthurian statecraft: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] places Edward's Camelot and the Garter beside military practices that erode the knightly ideal.
 - Code and exclusion: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] joins chivalric vows, honor, and royal courtesy to deception, destructive raiding, and neglected peasant suffering.
+- Joan's enacted romance: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] connects armor, banner, virgin holiness, courage, and public display to a knightly image with practical effects on followers and opponents.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in four popular-history podcast framings rather than a full literary or military-history corpus. It should not flatten Doyle, Tuchman, Froissart, medieval chivalry, or Custer into one position. The raid totals, Limoges account, and other atrocities remain source-scoped, Custer's theatricality does not make his battlefield ability unreal, and similarities across periods do not erase different institutions, technologies, or moral worlds.
+This concept is grounded in five popular-history podcast framings rather than a full literary or military-history corpus. It should not flatten Doyle, Tuchman, Froissart, medieval chivalry, Joan, or Custer into one position. The Joan source cannot prove which romances she knew, how deliberately she shaped her image, or how much surrender and recruitment resulted from reputation rather than material conditions. The raid totals, Limoges account, and other atrocities remain source-scoped, while similarities across periods do not erase different institutions, technologies, or moral worlds.
 
 ## What Changed
 
-- Added the internal contradiction between chivalric institutions and conduct toward civilians.
-- Added Arthurian kingship and rival English-French orders as active wartime statecraft, not only retrospective memory.
+- Added Joan as a case where a romance-like role shaped wartime conduct and authority before later memorialization.
+- Distinguished intuitive self-presentation from proven deliberate propaganda while preserving its practical political effects.
 
 ## Related Concepts
 
@@ -72,3 +76,4 @@ This concept is grounded in four popular-history podcast framings rather than a 
 - [[BattlefieldVictoryPoliticalControl]] - distinction between memorable victory and durable political outcome.
 - [[FreeCompaniesHundredYearsWar]] - coercive aftermath that chivalric battle memory can leave outside the frame.
 - [[Chevauchee]] - destructive campaign method exposing the code's exclusion of civilian suffering.
+- [[CharismaticWarLegitimacy]] - mechanism by which a recognizable heroic script can affect recruitment, morale, and legitimacy.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10081
+wiki_total_pages: 10082
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "CharismaticPoliticalMartyrdom"
     title: "Charismatic Political Martyrdom"
     url: "/wiki/concepts/charismaticpoliticalmartyrdom/"
+  - key: "CharismaticWarLegitimacy"
+    title: "Charismatic War Legitimacy"
+    url: "/wiki/concepts/charismaticwarlegitimacy/"
   - key: "CharteredCompanySovereignty"
     title: "Chartered-Company Sovereignty"
     url: "/wiki/concepts/charteredcompanysovereignty/"

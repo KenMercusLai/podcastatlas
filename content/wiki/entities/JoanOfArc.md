@@ -5,6 +5,7 @@ tags: [person, france, hundred-years-war, medieval-history]
 sources:
   - 131-burgundy-europes-forgotten-superpower-glt6941072856
   - 635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235
+  - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Joan of Arc is the French military-religious figure whose intervention restored momentum to [[CharlesVIIOfFrance|Charles VII]] before Burgundian capture, English-controlled imprisonment, an ecclesiastical heresy trial, execution, and posthumous rehabilitation.
+Joan of Arc is the French military-religious figure whose sacred and chivalric authority helped turn the relief of Orléans into an army, a Loire campaign, and [[CharlesVIIOfFrance|Charles VII's]] coronation before Burgundian capture, English-controlled imprisonment, execution, and posthumous rehabilitation.
 
 ## Current Profile
 
-The sources place Joan inside Burgundy's shifting position in the [[HundredYearsWar|Hundred Years' War]]. Her arrival at Chinon, role in relieving Orléans, and support for Charles VII's coronation challenged the Anglo-Burgundian settlement created after the [[TreatyOfTroyes|Treaty of Troyes]].
+The sources place Joan inside Burgundy's shifting position in the [[HundredYearsWar|Hundred Years' War]]. After Orléans, her white armor, banner, virgin identity, courage, and claimed voices made her a sacred-martial figure whose demonstrated success attracted men despite Charles's empty treasury. The Duke of Alençon was instructed to follow her advice; victories at Jargeau and Patay damaged English confidence, and the threat surrounding Troyes helped open the road to Reims.
+
+Charles's anointing on 17 July 1429 converted that campaign into visible dynastic legitimacy. Joan stood beside him with her banner and treated the coronation as completion of God's will. The failed September assault on Paris then exposed the boundary of [[CharismaticWarLegitimacy|charismatic war legitimacy]]: her reputation could not replace royal support, money, artillery, supply, diplomacy, or control of a fortified city.
+
+Her mission completed but her court role uncertain, Joan raised an independent company and continued fighting around Paris. A failed sortie at Compiègne on 23 May 1430 left her outside the closed gates and in Burgundian hands. Charles did not ransom her; [[JohnOfLancasterDukeOfBedford|Bedford]] and [[PierreCauchon|Cauchon]] instead prepared to turn capture into an ecclesiastical attack on the legitimacy she had helped create at Reims.
 
 Burgundian troops captured her near Compiègne. [[PhilipTheGood|Philip the Good]] later transferred her to the English, who confined her at Rouen while [[PierreCauchon|Pierre Cauchon]] led an ecclesiastical prosecution. The trial was politically indispensable to the Lancastrian claim but more procedurally serious than a crude performance: repeated interrogation turned Joan's voices, loyalty to private revelation, and male clothing into tests of orthodoxy and obedience.
 
@@ -26,15 +31,18 @@ Joan's public abjuration prevented immediate execution and brought a sentence of
 ## Key Characteristics
 
 - Religious and military supporter of Charles VII whose claimed revelations gave political action sacred authority.
-- Figure associated with the relief of Orléans and the Reims coronation.
+- Chivalric and sacred public figure whose image, Orléans success, and battlefield presence affected recruitment and morale.
+- Mission-driven advocate of the Loire campaign and Reims coronation who pressed beyond the king's preferred pace.
 - Challenge to the legitimacy of the Anglo-Burgundian and Lancastrian settlement.
 - Captive moved from Burgundian control into English imprisonment and ecclesiastical prosecution.
 - Unrepresented teenage defendant whose voices, church obedience, and male clothing became the central trial issues.
-- Penitent who abjured under threat, then resumed male dress and reaffirmed her voices before execution.
-- Condemned heretic whose posthumous rehabilitation followed French military and political recovery.
+- Condemned heretic whose abjuration, relapse, execution, and posthumous rehabilitation remain politically and evidentially contested.
 
 ## Evidence
 
+- Image and mobilization: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] connects Joan's armor, banner, virgin holiness, Orléans reputation, recruitment, and advisory authority.
+- Campaign and coronation: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] follows Loire victories, Troyes, Reims, and Joan's position beside the anointed king.
+- Limits and capture: [[634-joan-of-arc-heroine-in-chains-part-3-glt6235222836]] traces the Paris failure, uncertain court role, independent company, Compiègne sortie, and transfer toward Rouen.
 - French recovery: [[131-burgundy-europes-forgotten-superpower-glt6941072856]] links Joan to Chinon, Orléans, and Charles VII's coronation.
 - Burgundian capture: [[131-burgundy-europes-forgotten-superpower-glt6941072856]] places her seizure near Compiègne in Burgundian hands.
 - Transfer and political stakes: both [[131-burgundy-europes-forgotten-superpower-glt6941072856]] and [[635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235]] connect English control of Joan to an effort to delegitimate Charles.
@@ -44,13 +52,14 @@ Joan's public abjuration prevented immediate execution and brought a sentence of
 
 ## Qualifications
 
-The chroniclers cited in the Burgundy episode do not record what passed between Joan and Philip, so Van Loo's imagined confrontation remains speculation and economics should not be treated as Philip's only motive. The trial episode does not resolve the ontological source of Joan's voices, why she first abjured, or why she resumed male clothing; conviction, coercion, prison safety, fear, disappointment, and preference for death over perpetual confinement may overlap. Later witness stories and the 1456 reversal are politically and hagiographically charged rather than neutral access to every event.
+The sources do not resolve the ontological source of Joan's voices or isolate her causal effect from experienced captains, French resources, English overextension, artillery, local politics, and Burgundian diplomacy. The chroniclers cited in the Burgundy episode do not record what passed between Joan and Philip, and the new source cannot prove that Charles welcomed her capture or that Joan sought command for its own sake. Her reasons for abjuring and resuming male clothing may combine conviction, coercion, prison safety, fear, disappointment, and preference for death over perpetual confinement. Later witness stories and the 1456 reversal are politically and hagiographically charged.
 
 ## What Changed
 
-- Extended Joan's profile from capture into interrogation, abjuration, relapse, execution, and rehabilitation.
-- Qualified the show-trial frame by preserving both partisan political purpose and substantial inquisitorial procedure.
-- Made male clothing and the voices central legal-religious vulnerabilities rather than incidental biographical details.
+- Reconstructed how image, Orléans, recruitment, battlefield momentum, and Reims converted reputation into political force.
+- Added Paris and Compiègne as operational limits on charisma and royal support.
+- Clarified that Joan's uncertain post-mission role preceded independent campaigning and capture.
+- Connected Bedford and Cauchon's trial strategy directly to an attempt to reverse Reims's legitimacy effect.
 
 ## Relationships
 
@@ -61,4 +70,6 @@ The chroniclers cited in the Burgundy episode do not record what passed between 
 - [[France]] - kingdom whose contested crown structures her political significance.
 - [[PierreCauchon]] - bishop who directed her ecclesiastical prosecution.
 - [[HenryVIOfEngland]] - rival claimant whose regime benefited from her condemnation.
+- [[JohnOfLancasterDukeOfBedford]] - English regent who sought to convert her capture into a political-religious victory.
+- [[CharismaticWarLegitimacy]] - framework for her conversion of sacred-martial reputation into mobilization and legitimacy.
 - [[EcclesiasticalTrialPoliticalLegitimacy]] - framework joining procedural form to the political stakes of her case.

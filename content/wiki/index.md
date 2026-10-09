@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [634. Joan of Arc: Heroine in Chains (Part 3)](sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836.md) — The Rest Is History episode on Joan's Loire victories, Reims coronation mission, Paris failure, capture, and conversion of sacred-martial charisma into political legitimacy.
 - [635. Joan of Arc: For Fear of the Flames (Part 4)](sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235.md) — The Rest Is History episode on Joan's politically charged ecclesiastical trial, abjuration, relapse, execution, French recovery, and rehabilitation.
 - [刘震云×罗永浩！有些玩笑含着泪也要开完](sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_.md) — 刘震云以《闲得玩笑》、县城人物、童年与写作经历连接日常哲学、含泪幽默、被掩埋的小痛苦、创作更新和读者时间伦理。
 - [6 喝得越少越文明？东西方的酒 & 酒文化](sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd.md) — 怪东西比较酿酒史、会饮、乡饮酒礼、宗教用酒、山东酒桌与俄罗斯酒政，区分自愿社交和文化意义与健康风险、等级强制及服从测试。
@@ -4279,6 +4280,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
 
 ## Entities
+- [John of Lancaster, Duke of Bedford](entities/JohnOfLancasterDukeOfBedford.md) — English regent in France who answered Joan's military-symbolic threat through occult explanation and an ecclesiastical trial strategy.
 - [Henry VI of England](entities/HenryVIOfEngland.md) — Child king whose inherited French claim made Joan of Arc's condemnation politically valuable.
 - [Pierre Cauchon](entities/PierreCauchon.md) — Bishop who led Joan of Arc's procedurally serious but politically bounded heresy prosecution.
 - [刘震云 / Liu Zhenyun](entities/LiuZhenyun.md) — 小说家，以日常哲学、普通人的隐痛、含泪幽默、创作不自我重复与读者时间责任解释其写作方法。
@@ -17236,6 +17238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Charismatic War Legitimacy](concepts/CharismaticWarLegitimacy.md) — Conversion of sacred or heroic authority into mobilization, morale, enemy hesitation, and public political legitimacy under material constraints.
 - [Ecclesiastical Trial as Political Legitimacy](concepts/EcclesiasticalTrialPoliticalLegitimacy.md) — Framework for religious procedure that converts doctrinal judgment into dynastic legitimacy.
 - [Literature as Everyday Philosophy / 文学作为日常哲学](concepts/LiteratureAsEverydayPhilosophy.md) — 文学通过普通人的言语、关系、羞耻与难言问题揭示日常生活中已经存在的理由和价值冲突。
 - [Ordinary Pain as Literary Evidence / 日常微痛作为文学证据](concepts/OrdinaryPainAsLiteraryEvidence.md) — 将误解、未道歉、嘲笑和家庭小型压迫等易被忽略的伤害视为尊严、权力与世界理解方式的证据。
