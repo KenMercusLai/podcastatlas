@@ -7136,9 +7136,9 @@
       "url": "/wiki/concepts/administrativeboundaryrelocation/"
     },
     "AdministrativeInformationConformity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
@@ -7153,9 +7153,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》379-1｜汉武帝执法严苛，为何反而使盗贼越来越多",
           "url": "/wiki/sources/zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？ [lkOf-MyHHubvkSVL67I5MYJ1v3HE].md",
+          "key": "zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/administrativeinformationconformity/"
     },
     "AdministrativePerformanceFraud": {
@@ -39856,6 +39863,85 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/chenraoxinenvoy/"
+    },
+    "ChenSheng": {
+      "episode_count": 10,
+      "show_count": 1,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？ [lvS9ELvRJP_yPZ63W4CZpuHbSfB-].md",
+          "key": "zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！ [lm4kuZdpnqN_HIcYUVVB4P2wdUDm].md",
+          "key": "zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书 [lqwjO13ZzfGTNdpAjzPUVrb2h4l2].md",
+          "key": "zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心 [lnx4zS-vSi3zEoIxNQsKkpeXmR3_].md",
+          "key": "zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相 [lk1bKhqKWF9UPBbJ08pJKn8cSTyp].md",
+          "key": "zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是 [ljUOmE_XEA6SJv4HHZmRr0b0-1Hg].md",
+          "key": "zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功 [loCnaq-FO1fZtYUD5nghwktEams-].md",
+          "key": "zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！ [ljnhWcoUQu35RmvB-CNRZYzj2J6L].md",
+          "key": "zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？ [lkOf-MyHHubvkSVL67I5MYJ1v3HE].md",
+          "key": "zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/chensheng/"
     },
     "ChenShiLateHan": {
       "episode_count": 5,
@@ -95094,6 +95180,36 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/geyangpsychologicalastrologer/"
+    },
+    "GeYing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功 [loCnaq-FO1fZtYUD5nghwktEams-].md",
+          "key": "zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？ [lkOf-MyHHubvkSVL67I5MYJ1v3HE].md",
+          "key": "zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/geying/"
     },
     "GeckoRobotics": {
       "episode_count": 2,
@@ -264110,6 +264226,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiangbiao/"
+    },
+    "XiangJiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？ [lkOf-MyHHubvkSVL67I5MYJ1v3HE].md",
+          "key": "zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/xiangjiang/"
     },
     "XiangKaiLateHan": {
       "episode_count": 1,

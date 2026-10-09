@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？](sources/zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he.md) — 胡亥惩罚报忧造成信息失真，陈胜多线扩张却处死葛婴，蒯彻则以优待投降者推动赵地招降。
 - [506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案](sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn.md) — 忽左忽右以托卡契夫案连接技术型人力情报、CIA 莫斯科线人处理、内部泄密、克格勃反间谍与局部情报效果的宏观因果边界。
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx.md) — 陈冕复盘互联网产品生涯、Liblib 到 Lovart 的 AI 设计创业、工作流上游定位、速度与现金流，以及人类审美和创作职业的边界。
 - [5 少年维特有出路吗？读书1：《少年维特之烦恼》](sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w.md) — 怪东西重读《少年维特之烦恼》，以书信体、翻译损耗、生命阶段、爱情、官僚与阶级封闭重释维特的悲剧。
@@ -4287,6 +4288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [襄疆 / Xiang Jiang](entities/XiangJiang.md) — 葛婴在外地拥立、后又为消除与陈胜王号冲突而杀死的楚王室后裔主张者。
 - [Adolf Tolkachev / 阿道夫·托卡契夫](entities/AdolfTolkachev.md) — Soviet radar engineer whose persistent self-volunteered CIA source work produced high-value technical intelligence before insider disclosures enabled his arrest.
 - [Edward Lee Howard / 爱德华·李·霍华德](entities/EdwardLeeHoward.md) — Former CIA officer whose training-derived disclosures reportedly focused the KGB search that identified Tolkachev.
 - [The Billion Dollar Spy / 《亿万美元间谍》](entities/TheBillionDollarSpy.md) — Book frame for the Tolkachev case, military-technical intelligence value, Moscow tradecraft, and insider compromise.

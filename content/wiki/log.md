@@ -33654,3 +33654,11 @@ Added source `633-joan-of-arc-saviour-of-france-part-2-glt5406937184`; created [
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·秦纪》128-4｜他竟然是诸葛亮的祖先？
+
+Added source `zizhi-tongjian-qinji-128-4-ta-jingran-shi-zhugeliang-de-zuxian-lkof-myhhubvksvl67i5myj1v3he`; created [[XiangJiang|襄疆]]; and resynthesized [[GeYing|葛婴]], [[ChenSheng|陈胜]], and [[AdministrativeInformationConformity|行政信息圆美化]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hu Hai's punishment of accurate bad-news reporting teaches officials to minimize the rebellion; Zhang Chu's multi-front expansion creates a command-and-communication burden; and Chen Sheng's execution of Ge Ying after the unauthorized Xiang Jiang enthronement removes capacity while making initiative under uncertainty dangerous. No settled contradiction was adopted. The Zhu County-to-Zhuge surname genealogy and link to [[ZhugeLiang|诸葛亮]], Xiang Jiang's precise identity, force totals, dialogue, titles, and the closing Qin-force reference remain source-scoped. Broad pages for figures whose material is already captured by adjacent Qinji 128-5 evidence were kept closed to avoid duplicating an unchanged judgment. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,214 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
