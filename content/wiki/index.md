@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [625. Jack The Ripper: Horror in Whitechapel (Part 2)](sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111.md) — The Rest Is History reconstructs Annie Chapman's murder, early police constraints, mass-market crime reporting, anti-Jewish panic, and the probable hoax that created the Jack the Ripper name.
 - [Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583.md) — Condensed Huberman Lab interview on microbiome resilience, whole-plant fiber, fermented-food evidence, calibrated hygiene, and the limits of cleanses, probiotics, and purified prebiotics.
 - [1 东西方历史的祖师爷：从希罗多德到司马迁](sources/1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867.md) — 怪东西以希罗多德、修昔底德、孔子、司马迁与班固比较探寻、政治分析、道德载道、作者判断和可传承形式，说明“史学之父”取决于所采用的奠基标准。
 - [626. Jack The Ripper: The Killer Strikes Again (Part 3)](sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076.md) — The Rest Is History reconstructs the double event, victim precarity, police overload, evidence-public-safety tradeoffs, and the media machinery that gave the unknown killer a public persona.
@@ -14884,6 +14885,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
 - [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in a culturally influential but evidentially weak Jack the Ripper theory.
 - [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting victim precarity, suspect mythology, policing failure, sensational media, and psychiatric legibility.
+- [Annie Chapman](entities/AnnieChapman.md) — Whitechapel victim whose illness, separation, lodging insecurity, and bounded witness timeline connect social history to the offender profile.
+- [Frederick Abberline](entities/FrederickAbberline.md) — Experienced East End detective whose Chapman investigation distinguishes individual competence from immature forensic infrastructure.
 - [Elizabeth Stride](entities/ElizabethStride.md) — Double-event victim whose final circumstances are partly recoverable while same-offender attribution remains qualified.
 - [Catherine Eddowes](entities/CatherineEddowes.md) — Double-event victim whose biography, rapid murder, anatomical injuries, and apron trail sharpen but do not solve the Ripper case.
 - [Charles Warren](entities/CharlesWarren.md) — Metropolitan Police commissioner whose Goulston Street decision exposed the conflict between evidence preservation and immediate public-order risk.

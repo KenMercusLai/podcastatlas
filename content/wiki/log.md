@@ -33922,3 +33922,11 @@ Added source `essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonne
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 625. Jack The Ripper: Horror in Whitechapel (Part 2)
+
+Added source `625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111`; created [[AnnieChapman]] and [[FrederickAbberline]]; and resynthesized [[JackTheRipper]], [[MetropolitanPolice]], [[JackTheRipperMythFormation]], [[ModernCriminalInvestigationFormation]], [[SensationalMediaPublicSphere]], and [[VictorianWomenPrecarity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chapman's recoverable life and bounded witness timeline support a fast, locally knowledgeable offender profile without proving profession or identity, while mass literacy, cheap competitive newspapers, crowds, anti-Jewish scapegoating, and the probably hoaxed “Dear Boss” signature turned an unknown murderer into a named public character. No settled contradiction was adopted. Chapman's final activity and precise time of death, anatomical expertise, police competence, suspect attribution, and authorship of the letter remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,247 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

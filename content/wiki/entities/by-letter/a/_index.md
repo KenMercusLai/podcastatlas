@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12949
+wiki_total_pages: 12951
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "AnnetteGordonReed"
     title: "Annette Gordon-Reed"
     url: "/wiki/entities/annettegordonreed/"
+  - key: "AnnieChapman"
+    title: "Annie Chapman"
+    url: "/wiki/entities/anniechapman/"
   - key: "AnnieCrabill"
     title: "Annie Crabill"
     url: "/wiki/entities/anniecrabill/"

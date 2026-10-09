@@ -1,10 +1,11 @@
 ---
 title: "Metropolitan Police"
 type: entity
-tags: [police, uk, public-services, procurement]
+tags: [police, uk, public-services, investigation]
 sources:
   - right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f
-last_updated: 2026-09-02
+  - 625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,39 +13,49 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Metropolitan Police appears in the source as the British policing case where a proposed [[Palantir]] deal was blocked over procurement-process concerns despite claims that the technology would save staff time.
+The Metropolitan Police appears in the wiki through two widely separated institutional pressures: the limited staffing, forensic infrastructure, and public trust surrounding the 1888 Whitechapel investigation, and a modern dispute over procurement of [[Palantir]] software. Together they show police capacity as a combination of personnel, methods, information systems, legitimacy, and political accountability.
 
 ## Current Profile
 
-The page is source-scoped to one [[TheIntelligence]] episode. The Metropolitan Police is not profiled as a full institution; it is used to show how [[GovernmentEnterpriseProcurement]] and [[PublicServiceDataPlatformTradeoff]] collide when a controversial vendor offers operationally useful software through a process criticized as insufficiently open.
+In [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]], the force is presented as roughly 15,000 officers serving about six million people while the CID was only around a decade old. Investigators lacked blood testing, a fingerprint bureau, crime laboratories, and later scene methods. Experienced detectives such as [[FrederickAbberline|Frederick Abberline]] could narrow witness timelines and question plausible suspects, but darkness, marginal crime scenes, weak identification, rumors, political hostility, and press pressure limited what effort could establish.
 
-The episode reports that London mayor Sadiq Khan blocked a Palantir arrangement with the force because there was no open competition. It also reports Commissioner Sir Mark Rowley's warning that blocking the deal would cost productivity and require cuts to hundreds of frontline staff.
+In [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]], the institution instead illustrates [[GovernmentEnterpriseProcurement]]. London mayor Sadiq Khan reportedly blocked a Palantir arrangement because it lacked open competition, while Commissioner Sir Mark Rowley warned that losing the software would reduce productivity and require frontline cuts. The recurring issue is not whether capacity matters, but how operational capacity is built and governed without bypassing evidentiary or public legitimacy.
 
 ## Key Characteristics
 
-- British police force used as a public-service procurement case.
-- Institution where Palantir's data-processing usefulness is presented against open-competition concerns.
-- Example of how productivity claims can pressure political decision-makers during vendor-review disputes.
-- Public-sector buyer whose constraints differ from ordinary enterprise software purchasing because legitimacy and procurement process are part of the outcome.
+- British police force whose investigative capacity has depended on evolving staff, methods, records, laboratories, and data systems.
+- Institution whose 1888 Whitechapel work combined experienced local detectives with immature forensic infrastructure.
+- Public body exposed to press criticism, political hostility, public fear, and demands for visible results.
+- Modern buyer of data-processing tools whose productivity goals remain constrained by open-procurement obligations.
+- Case showing that institutional effort, individual competence, technical capacity, and successful outcomes are distinct measures.
 
 ## Evidence
 
-- Blocked deal: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] says Sadiq Khan blocked a Palantir deal with the Metropolitan Police because there had been no open competition.
-- Productivity claim: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] reports Sir Mark Rowley's warning that blocking the contract would reduce productivity and require frontline staff cuts.
-- Police-use example: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] also says police used Palantir to sort through 100,000 messages in a Romanian gang case.
+### Early investigative capacity
+
+- [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]] describes force-to-population strain, a young CID, missing fingerprint, blood-testing, and laboratory capabilities, difficult night scenes, and witness evidence that narrowed timing without identifying the offender.
+- [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]] presents arrests and questioning as responses to contemporary behavioral and occupational suspicions while recording alibis and false leads.
+
+### Modern data and procurement capacity
+
+- [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] says Sadiq Khan blocked a Palantir deal because there had been no open competition.
+- [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] reports Rowley's productivity warning and a case in which police used Palantir to sort 100,000 messages.
 
 ## Qualifications
 
-The page records the Metropolitan Police only as a procurement and data-system example. The source does not independently verify the size of the claimed productivity loss or evaluate alternative suppliers.
+The two sources do not provide a continuous institutional history and should not be treated as equivalent technology cases. The Victorian episode's force and population figures, judgments of police competence, and causal claims about unsolved crime remain source-scoped. The modern source does not independently verify the projected productivity loss or compare alternative suppliers. Institutional constraints explain limits without proving that every operational decision was sound.
 
 ## What Changed
 
-- Initial source-scoped page created for the Palantir public-service procurement case.
+- Expanded the profile from one modern procurement dispute to a cross-period account of investigative capacity and legitimacy.
+- Added the distinction between experienced personnel and immature forensic infrastructure in 1888.
+- Reframed information processing as a recurring police capacity whose governance differs across periods.
 
 ## Relationships
 
-- [[UnitedKingdom]] - national public-service context.
-- [[Palantir]] - vendor at the center of the blocked deal.
-- [[GovernmentEnterpriseProcurement]] - procurement concept illustrated by the case.
-- [[PublicServiceDataPlatformTradeoff]] - tradeoff between operational data integration and legitimacy concerns.
-- [[PublicSectorVendorDependence]] - risk category raised by the Palantir discussion.
+- [[FrederickAbberline]] - experienced detective illustrating individual skill within institutional limits.
+- [[JackTheRipper]] - unresolved Whitechapel case that exposed investigative and public-trust constraints.
+- [[ModernCriminalInvestigationFormation]] - framework for the development of evidence, witness, laboratory, and coordination systems.
+- [[Palantir]] - modern vendor at the center of the blocked software arrangement.
+- [[GovernmentEnterpriseProcurement]] - framework for reconciling operational usefulness with open and legitimate purchasing.
+- [[PublicServiceDataPlatformTradeoff]] - modern tension between integrated data capability and public accountability.

@@ -3647,6 +3647,10 @@
     "title": "62. Magna Carta",
     "url": "/wiki/sources/62-magna-carta-glt5613809659/"
   },
+  "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111": {
+    "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+    "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+  },
   "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076": {
     "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
     "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
@@ -9454,6 +9458,10 @@
   "AnnetteGordonReed": {
     "title": "Annette Gordon-Reed",
     "url": "/wiki/entities/annettegordonreed/"
+  },
+  "AnnieChapman": {
+    "title": "Annie Chapman",
+    "url": "/wiki/entities/anniechapman/"
   },
   "AnnieCrabill": {
     "title": "Annie Crabill",
@@ -33550,6 +33558,10 @@
   "FrederickAI": {
     "title": "Frederick AI",
     "url": "/wiki/entities/frederickai/"
+  },
+  "FrederickAbberline": {
+    "title": "Frederick Abberline",
+    "url": "/wiki/entities/frederickabberline/"
   },
   "FrederickBenteen": {
     "title": "Frederick Benteen",

@@ -15822,6 +15822,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/annettegordonreed/"
     },
+    "AnnieChapman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/anniechapman/"
+    },
     "AnnualFitnessPeriodization": {
       "episode_count": 1,
       "show_count": 1,
@@ -91418,6 +91434,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/frederickai/"
     },
+    "FrederickAbberline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/frederickabberline/"
+    },
     "FrederickBenteen": {
       "episode_count": 4,
       "show_count": 1,
@@ -129058,9 +129090,9 @@
       "url": "/wiki/entities/jackruby/"
     },
     "JackTheRipper": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -129096,15 +129128,22 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/jacktheripper/"
     },
     "JackTheRipperMythFormation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6270048402 [GLT6270048402].md",
@@ -129119,6 +129158,13 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
       "updated": "2026-10-10",
@@ -167609,9 +167655,9 @@
       "url": "/wiki/entities/metroland/"
     },
     "MetropolitanPolice": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -167619,9 +167665,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MetropolitanRailway": {
@@ -171406,9 +171459,9 @@
       "url": "/wiki/concepts/modernchristmasreinvention/"
     },
     "ModernCriminalInvestigationFormation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
@@ -171444,6 +171497,13 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
       "updated": "2026-10-10",
@@ -221172,9 +221232,9 @@
       "url": "/wiki/concepts/seniorcourtvetoreformretreat/"
     },
     "SensationalMediaPublicSphere": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
@@ -221196,6 +221256,13 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
       "updated": "2026-10-10",
@@ -254579,9 +254646,9 @@
       "url": "/wiki/concepts/victoriantourismformation/"
     },
     "VictorianWomenPrecarity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -254610,6 +254677,13 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT2555108111 [GLT2555108111].md",
+          "key": "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111",
+          "show": "The Rest Is History",
+          "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
+          "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
         }
       ],
       "updated": "2026-10-10",
