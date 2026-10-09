@@ -11,7 +11,8 @@ sources:
   - scim3608509346-scim3608509346
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - how-your-brain-works-changes-scim1534957507
-last_updated: 2026-10-04
+  - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The practical value of the block is environmental and attentional: choose the ha
 Timing is treated as adjustable. The episode proposes four to six hours after estimated temperature minimum as a possible high-focus window, yet explicitly says that people who already focus well immediately after waking should keep that schedule. The concept is therefore a protected-work design, not proof that every person has one exact 90-minute cognitive maximum.
 
 Workspace setup and interruption control become explicit in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]]. It normalizes a roughly six-minute focus warm-up, recommends a centered and elevated work target, and treats room orientation, phone separation, connectivity controls, and periodic panoramic viewing as supports for entry and re-entry rather than guarantees of uninterrupted concentration.
+
+The [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|condensed workspace edit]] preserves elevated target placement, panoramic visual breaks, and room-orientation boundaries but omits the explicit warm-up, phone-separation, and connectivity examples. This is editorial compression rather than a change to the work-block model.
 
 The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cycles as intentionally initiated work periods and suggests leaving two to four hours between demanding bouts, with one or two bouts per day as a realistic ceiling for many people. This adds a recovery and frequency hypothesis, not evidence that everyone shares one exact 90-minute depletion clock.
 
@@ -56,13 +59,13 @@ The first [[how-your-brain-works-changes-scim1534957507]] episode supplies the e
 - Bout frequency - [[scim2746317304-scim2746317304]] proposes two to four hours between demanding bouts and says many people can sustain one or two such bouts daily.
 - Capacity-expansion scope - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] distinguishes one or two demanding learning blocks from ordinary work across the rest of the day.
 - Earliest focus-cycle framing - [[how-your-brain-works-changes-scim1534957507]] presents a roughly 90-minute learning cycle with an effortful five- to ten-minute entry period.
+- Condensed workspace provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats elevated target placement, panoramic recovery, and physical interruption control without changing the flexible-duration judgment.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases are overlapping provenance. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace releases. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added the show's first 90-minute focus-cycle and warm-up framing.
-- Preserved the later judgment that duration and placement are flexible heuristics rather than universal limits.
+- No current judgment changed; the workspace Essentials edit adds overlapping environmental provenance while preserving flexible duration and placement.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.

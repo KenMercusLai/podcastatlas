@@ -6450,9 +6450,9 @@
       "url": "/wiki/concepts/activepoliticaldormancy/"
     },
     "ActiveWorkstationTaskTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5202577757 [SCIM5202577757].md",
@@ -6460,9 +6460,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/activeworkstationtasktradeoff/"
     },
     "ActorAIPerformanceBoundary": {
@@ -55900,9 +55907,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -55952,9 +55959,16 @@
           "show": "Huberman Lab",
           "title": "Using Science to Optimize Sleep, Learning & Metabolism",
           "url": "/wiki/sources/scim1705222315-scim1705222315/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DailyHydrationTiming": {
@@ -125060,9 +125074,9 @@
       "url": "/wiki/concepts/interrogationtortureconstraint/"
     },
     "InterruptionBoundaryDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5202577757 [SCIM5202577757].md",
@@ -125070,9 +125084,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/interruptionboundarydesign/"
     },
     "InterstateEconomicWarfare": {
@@ -217684,9 +217705,9 @@
       "url": "/wiki/concepts/sedatedgastrointestinalendoscopy/"
     },
     "SedentaryBehaviorInterruption": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lovI71tK_Wgo30v9myVD2F1GJdWU [lovI71tK_Wgo30v9myVD2F1GJdWU].md",
@@ -217722,9 +217743,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/sedentarybehaviorinterruption/"
     },
     "SeeGrowActionLearningLoop": {
@@ -227348,9 +227376,9 @@
       "url": "/wiki/concepts/sorenessrecoveryboundary/"
     },
     "SoundBasedStateRegulation": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -227393,9 +227421,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hearing, Balance & Accelerated Learning",
           "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/soundbasedstateregulation/"
     },
     "SoundLedComicDeception": {
@@ -238058,9 +238093,9 @@
       "url": "/wiki/concepts/taskbasedainativeorganization/"
     },
     "TaskSpecificWorkspaceDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5202577757 [SCIM5202577757].md",
@@ -238068,9 +238103,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/taskspecificworkspacedesign/"
     },
     "TaskSwitchingResidue": {
@@ -248350,9 +248392,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -248409,9 +248451,16 @@
           "show": "Huberman Lab",
           "title": "How Your Brain Works & Changes",
           "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
     "UltrasoundExamPreparationAndSafety": {
@@ -252234,9 +252283,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -252300,9 +252349,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
           "url": "/wiki/sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {
@@ -261347,9 +261403,9 @@
       "url": "/wiki/entities/workshopinternalcomms/"
     },
     "WorkstationPostureAdjustment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ln2jToWe4hYNTW1omuN5Q8_WjSH5 [ln2jToWe4hYNTW1omuN5Q8_WjSH5].md",
@@ -261364,9 +261420,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM9971680522 [SCIM9971680522].md",
+          "key": "essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+          "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/workstationpostureadjustment/"
     },
     "WorldCoffeeInGoodSpiritsChampionship": {

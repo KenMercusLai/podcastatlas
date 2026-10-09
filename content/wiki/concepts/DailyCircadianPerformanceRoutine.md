@@ -10,7 +10,8 @@ sources:
   - scim3608509346-scim3608509346
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - scim1705222315-scim1705222315
-last_updated: 2026-10-04
+  - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The original full-length account in [[scim3608509346-scim3608509346]] makes the 
 This is an example routine rather than a universal schedule. The source repeatedly allows people to keep a different work window when it already works and to adapt the sequence around real obligations. Its medical, supplement, nutrition, and exercise mechanisms therefore remain hypotheses or source-scoped guidance, while the durable synthesis is to coordinate strong daily cues and judge them by function rather than protocol compliance.
 
 The workspace-specific version in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] divides waking time into brighter early-day analytic conditions, dimmer and warmer later-day creative conditions, and a nighttime harm-reduction phase in which light is limited unless wakefulness is unavoidable. This reinforces day-night contrast while keeping cognitive timing probabilistic rather than universal.
+
+The [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|condensed workspace edit]] repeats that three-phase lighting sequence and the proposed early-alert versus later-creative distinction. It adds editorial continuity rather than independent confirmation, and its broad neurochemical phase labels remain source-scoped.
 
 A behavior-learning branch in [[the-science-of-making-breaking-habits-scim6848516659]] places higher-friction habits in a more alert early waking phase, lower-friction practices in a calmer later phase, and consolidation in the sleep phase. Yet durable habits should eventually become less clock- and context-dependent, so circadian placement is an initial support rather than the definition of success.
 
@@ -57,14 +60,13 @@ The January 2021 office-hours episode adds anticipatory plasticity and self-expe
 - Cognitive-mode timing - [[scim2746317304-scim2746317304]] proposes earlier precision work and later fluid or creative work while noting that disrupted sleep can blur the underlying daily-state pattern.
 - Earlier state-to-task provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] matches alert focus to learning and implementation, lower arousal to exploration, and rest to recovery without making one clock schedule universal.
 - Anticipation and self-tracking - [[scim1705222315-scim1705222315]] says regular waking, exercise, sleep, and meal cues can become easier through anticipation and proposes tracking multiple outcomes while changing only one or two inputs at a time.
+- Condensed workspace provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats bright early-day, reduced later-day, and minimal nighttime light guidance without changing the task-fit judgment.
 
 ## Counterevidence & Qualifications
-The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The early episodes' caffeine, sodium, carbohydrate, evening-alertness, anticipatory-plasticity, food-neurotransmitter, and light-plasticity explanations are likewise source-scoped. State matching and consistent cues can help repetition or task selection without proving that one clock window is necessary.
+The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace releases. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The early episodes' caffeine, sodium, carbohydrate, evening-alertness, anticipatory-plasticity, food-neurotransmitter, and light-plasticity explanations are likewise source-scoped. State matching and consistent cues can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- Added anticipatory plasticity across waking, exercise, meals, and sleep.
-- Added a one-or-two-variable self-tracking rule for distinguishing personal timing effects.
-- Preserved consistency as a learning aid rather than a demand for rigid schedule compliance.
+- No current judgment changed; the workspace Essentials edit adds overlapping provenance for phase-matched lighting and task selection.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

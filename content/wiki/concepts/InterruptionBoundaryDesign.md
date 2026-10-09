@@ -4,7 +4,8 @@ type: concept
 tags: [productivity, focus, interruptions, digital-wellbeing]
 sources:
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
-last_updated: 2026-10-02
+  - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Interruption boundary design is the deliberate use of room layout, body orientation, social signals, software controls, and physical device separation to reduce avoidable interruptions and the attention cost of returning to work.
 
 ## Current Synthesis
-[[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] treats interruptions as more than the minutes consumed by a visitor or notification. The larger cost is re-engaging the work target. The source therefore combines subtle boundaries—such as not orienting the workstation toward an inviting doorway—with stronger controls such as blocking software, disabled connectivity, airplane mode, or putting the phone in another location.
+[[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] treats interruptions as more than the minutes consumed by a visitor or notification. The larger cost is re-engaging the work target. The source therefore combines subtle boundaries—such as not orienting the workstation toward an inviting doorway—with stronger controls such as blocking software, disabled connectivity, airplane mode, or putting the phone in another location. Its [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|Essentials edit]] retains the room-orientation and limited-body-reorientation examples but omits most digital controls, a compression rather than a reversal.
 
 The useful principle is proportional friction. A boundary should be strong enough for the current distraction risk while preserving safety, accessibility, and necessary communication. Extreme concealment or total disconnection is an anecdotal option, not a universal standard or a substitute for realistic coordination with other people.
 
@@ -30,12 +31,13 @@ The useful principle is proportional friction. A boundary should be strong enoug
 - Layout boundary - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] warns that facing the workstation toward a doorway can invite interaction.
 - Digital boundary - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] lists blocking software, Wi-Fi shutdown, and airplane mode as escalating controls.
 - Physical separation - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] gives examples of placing a phone in a drawer, safe, or car during protected work.
+- Condensed social-boundary provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats brief acknowledgment without turning the body fully toward an interrupter.
 
 ## Counterevidence & Qualifications
-The source supplies anecdotes rather than comparative evidence for particular layouts or phone-separation methods. Emergency contact, caregiving, accessibility, workplace duties, shared environments, and organizational norms can make full disconnection inappropriate. Avoiding every interruption can also harm collaboration; the concept applies to bounded focus periods, not permanent social withdrawal.
+The two editorially overlapping releases supply anecdotes rather than comparative evidence for particular layouts or phone-separation methods. Emergency contact, caregiving, accessibility, workplace duties, shared environments, and organizational norms can make full disconnection inappropriate. Avoiding every interruption can also harm collaboration; the concept applies to bounded focus periods, not permanent social withdrawal.
 
 ## What Changed
-- Established interruption control as a layered environmental design problem rather than a willpower-only problem.
+- No current judgment changed; the Essentials edit adds overlapping provenance for the physical and social boundary branch.
 
 ## Related Concepts
 - [[UltradianDeepWorkBlock]] - protected interval that benefits from explicit interruption boundaries.

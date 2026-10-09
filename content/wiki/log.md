@@ -33631,3 +33631,10 @@ Added source `lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx`; resynt
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | Essentials: Optimizing Workspace for Productivity, Focus & Creativity
+
+Added source `essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522`; resynthesized [[TaskSpecificWorkspaceDesign]], [[InterruptionBoundaryDesign]], [[ActiveWorkstationTaskTradeoff]], [[DailyCircadianPerformanceRoutine]], [[VisualFocusEffortTool]], [[SoundBasedStateRegulation]], [[WorkstationPostureAdjustment]], [[SedentaryBehaviorInterruption]], and [[UltradianDeepWorkBlock]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: workspace design is a portable, task- and time-matched system spanning light, gaze, visual recovery, enclosure, sound, interruption boundaries, and posture variability rather than one universally optimal room. No current concept judgment or settled contradiction changed because this Essentials release condenses the earlier full workspace episode and supplies overlapping provenance rather than independent confirmation. Exact light windows, neurotransmitter explanations, window-filtering effects, gaze-alertness circuits, 45-to-5 visual rhythm, cathedral effect, sound-duration limit, 40 Hz outcomes, and half-day standing target remain source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,211 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

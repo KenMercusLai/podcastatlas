@@ -4282,6 +4282,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki](sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312.md) — Condensed Huberman Lab conversation on memory-encoding levers, hippocampal association, exercise-linked mood and cognition, body-to-brain signaling, brief meditation, sleep, and evidence boundaries.
 
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
+- [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
 - [Lovart](entities/Lovart.md) — 面向非专业用户承接专业设计需求、以无限画布和上下文交互为核心的 AI designer 产品。

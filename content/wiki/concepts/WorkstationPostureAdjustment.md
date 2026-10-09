@@ -5,7 +5,8 @@ tags: [healthcare, workplace-health, ergonomics, posture, rehabilitation]
 sources:
   - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
-last_updated: 2026-10-02
+  - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ VOL.89 treats the workstation as one modifiable part of a larger movement system
 These adjustments are not a cure or a demand for rigid posture. Chair design, cushions, lumbar supports, and screen placement can redistribute load, but they do not remove the effects of prolonged stillness or diagnose persistent pain. The durable approach combines an individually usable setup with position changes, walking, wrist or trunk movement, gradual mobility and strength work, and assessment when symptoms persist or radiate.
 
 An alertness rationale in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] favors placing the work target at nose level or somewhat above and avoiding reclined work. This complements but does not replace the rehabilitation source's fit-and-symptom rationale. An elevated screen is useful only when it remains readable, accessible, and tolerable for the individual's neck, eyes, body dimensions, and task.
+
+The [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|condensed workspace edit]] repeats eye-level or slightly elevated placement and avoidance of reclining. It adds editorial provenance rather than ergonomic measurement or independent evidence, so the rehabilitation source's individualized fit boundary remains controlling.
 
 ## Key Claims
 - Screen height and viewing distance should reduce avoidable forward-head positioning without forcing one identical setup on every worker.
@@ -36,12 +39,13 @@ An alertness rationale in [[optimizing-workspace-for-productivity-focus-creativi
 - Task asymmetry: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] uses multi-screen finance work, drawing, dentistry, and driving to show why setup and movement demands vary by occupation.
 - Movement boundary: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] pairs equipment changes with water breaks, standing, wrist movement, side bending, mobility work, and individualized rehabilitation.
 - Alertness branch: [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] links forward or slightly elevated gaze and upright posture to a more alert work state.
+- Condensed alertness provenance: [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats eye-level or slightly elevated material placement without specifying a universal ergonomic angle.
 
 ## Counterevidence & Qualifications
-The sources are public-education conversations, not comparative ergonomics trials, and they supply no universal measurements for screen height, desk distance, chair angle, cushion shape, break interval, or exercise dose. Comfort, alertness, and reduced reaching do not prove that a setup prevents disc disease, corrects structural alignment, or improves productivity. Vision needs, disability, pain diagnosis, body dimensions, job constraints, and equipment availability can change the appropriate configuration.
+The sources are public-education conversations, not comparative ergonomics trials, and they supply no universal measurements for screen height, desk distance, chair angle, cushion shape, break interval, or exercise dose. The full and Essentials workspace releases overlap editorially and do not constitute replication. Comfort, alertness, and reduced reaching do not prove that a setup prevents disc disease, corrects structural alignment, or improves productivity. Vision needs, disability, pain diagnosis, body dimensions, job constraints, and equipment availability can change the appropriate configuration.
 
 ## What Changed
-- Added an alertness rationale for elevated work targets while preserving ergonomic and symptom-fit limits.
+- No current judgment changed; the Essentials edit adds overlapping provenance for elevated targets while preserving ergonomic and symptom-fit limits.
 
 ## Related Concepts
 - [[SedentaryBehaviorInterruption]] - broader principle that regular movement outranks any static setup.

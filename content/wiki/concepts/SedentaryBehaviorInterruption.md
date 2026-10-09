@@ -8,7 +8,8 @@ sources:
   - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
-last_updated: 2026-10-02
+  - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ VOL.58 reinforces the simplest cadence for students and office workers: use clas
 
 The productivity comparison in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] favors alternating sitting and standing and reports that treadmill or cycling work improved attention and cognitive control relative to sitting in one young-adult study, while verbal memory worsened. Movement can therefore be integrated into work, but the task and outcome matter; active work is not uniformly superior to seated work.
 
+The [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522|workspace Essentials edit]] repeats a goal of standing for part of the workday and warns against excessive leaning or overly long standing bouts. It does not restate the active-workstation comparison, so it reinforces variability without independently supporting the cognitive tradeoff.
+
 ## Key Claims
 - Prolonged sitting is a multi-factor exposure that can affect several systems without being a sufficient diagnosis or single cause.
 - The most portable intervention is to interrupt fixed posture rather than search for one indefinitely maintainable “correct” posture.
@@ -48,13 +51,13 @@ The productivity comparison in [[optimizing-workspace-for-productivity-focus-cre
 - Workplace prompts and fit: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] combines water-break prompts, desk-based movement, screen and chair adjustment, lumbar support, and occupation-specific asymmetry with individualized rehabilitation.
 - Student and office cadence: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] uses class breaks and roughly hourly movement opportunities while treating desks, cushions, chairs, and foot supports as secondary aids.
 - Active-work tradeoff: [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] reports improved attention and cognitive control but worse verbal memory during treadmill or cycling work in one young-adult comparison.
+- Condensed posture-variability provenance: [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] recommends combining sitting and standing while avoiding a new prolonged fixed posture.
 
 ## Counterevidence & Qualifications
-The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, sitting-standing ratio, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, and one short active-workstation study does not establish long-term health or productivity benefit, so “stand or walk instead” is not the complete synthesis.
+The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, sitting-standing ratio, stocking prescription, or fertility threshold. The full and Essentials workspace releases overlap rather than replicate one another. Standing continuously can also create vascular strain, and one short active-workstation study does not establish long-term health or productivity benefit, so “stand or walk instead” is not the complete synthesis.
 
 ## What Changed
-- Added a task-specific active-workstation tradeoff: attention may improve while verbal memory worsens.
-- Preserved movement variability above any universal sitting-standing ratio.
+- No current judgment changed; the Essentials edit reinforces movement variability without independently supporting a universal sitting-standing ratio.
 
 ## Related Concepts
 - [[TravelThrombosisPrevention]] - calf-pump, hydration, movement, and compression branch for prolonged immobility.
