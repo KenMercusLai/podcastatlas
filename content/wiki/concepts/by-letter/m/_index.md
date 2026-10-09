@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10110
+wiki_total_pages: 10113
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "MissionFocusedCompany"
     title: "Mission-Focused Company"
     url: "/wiki/concepts/missionfocusedcompany/"
+  - key: "MissionLedCategoryAdjacency"
+    title: "Mission-Led Category Adjacency / 使命驱动的品类邻接"
+    url: "/wiki/concepts/missionledcategoryadjacency/"
   - key: "MissionaryFieldworkInfrastructure"
     title: "Missionary Fieldwork Infrastructure / 传教士田野基础设施"
     url: "/wiki/concepts/missionaryfieldworkinfrastructure/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10110
+wiki_total_pages: 10113
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "HardwareLottery"
     title: "Hardware Lottery"
     url: "/wiki/concepts/hardwarelottery/"
+  - key: "HardwarePrototypeToProductionGap"
+    title: "Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟"
+    url: "/wiki/concepts/hardwareprototypetoproductiongap/"
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"

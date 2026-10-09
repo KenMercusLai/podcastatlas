@@ -35684,6 +35684,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/captivityrepatriationfamilyseparation/"
     },
+    "CaptureNowReframeLater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/capturenowreframelater/"
+    },
     "CapturedOpponentTalentIncorporation": {
       "episode_count": 4,
       "show_count": 1,
@@ -108038,6 +108054,22 @@
       "updated": "2026-08-25",
       "url": "/wiki/concepts/hardwareinventoryrisk/"
     },
+    "HardwarePrototypeToProductionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/hardwareprototypetoproductiongap/"
+    },
     "HaremFiscalDiscipline": {
       "episode_count": 1,
       "show_count": 1,
@@ -124198,6 +124230,36 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/insilicomedicine/"
+    },
+    "Insta360": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+          "key": "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1",
+          "show": "疯投圈",
+          "title": "140. 大疆还能低空飞多久？",
+          "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
+        },
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/insta360/"
     },
     "InstantRetail": {
       "episode_count": 5,
@@ -149132,6 +149194,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
+    "LiuJingkang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/liujingkang/"
+    },
     "LiuJuCrownPrinceWesternHan": {
       "episode_count": 14,
       "show_count": 1,
@@ -169675,6 +169753,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/missioneconomicsalignment/"
+    },
+    "MissionLedCategoryAdjacency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/missionledcategoryadjacency/"
     },
     "MissionaryFieldworkInfrastructure": {
       "episode_count": 2,
@@ -195377,6 +195471,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/portwine/"
+    },
+    "PortableCreatorCameras": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+          "key": "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1",
+          "show": "疯投圈",
+          "title": "140. 大疆还能低空飞多久？",
+          "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
+        },
+        {
+          "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
+          "key": "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352",
+          "show": "罗永浩的十字路口",
+          "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
+          "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/portablecreatorcameras/"
     },
     "PortableDivinationSystems": {
       "episode_count": 2,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头](sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352.md) — 罗永浩的十字路口 interview with Insta360 founder Liu Jingkang on applied making, panoramic-camera workflows, hardware production, drones, AI imaging, competition, and creation under public-company responsibility.
 - [3 如何称呼东西方的帝王：从“恺撒”到“官家”](sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt.md) — 怪东西比较君主正式头衔、他称与自称，连接礼仪、继承、纪年、领地和翻译，并拒绝把中西制度强行一一对应。
 - [630. Tchaikovsky: LIVE at the Royal Albert Hall](sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309.md) — The Rest Is History live episode on Tchaikovsky's Russian and European formation, sexuality, marriage, patronage, celebrity, death, and resistance to reductive biography.
 - [089 趣话《鬼吹灯》之云南虫谷（大结局）](sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n.md) — 纸醉金迷FM收束献王墓逃生，以藤术重复、尸洞解围和灵异规则评析《云南虫谷》，并由玉环、龙骨天书与西藏线索衔接《昆仑神宫》。
@@ -4304,6 +4305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836.md) — Condensed Huberman Lab interview on lifestyle-first hormone assessment, context-dependent testosterone and PCOS interpretation, TRT sleep and fertility risk, prolactin, and peptide safety.
 
 ## Entities
+- [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
 - [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
 - [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
@@ -17291,6 +17293,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Capture Now, Reframe Later / 先记录后取景](concepts/CaptureNowReframeLater.md) — Panoramic-imaging workflow that records broadly first and moves viewpoint selection, composition, and camera movement into later software editing.
+- [Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟](concepts/HardwarePrototypeToProductionGap.md) — Operating distance between a working device demo and repeatable, reliable, supportable, economically viable mass production.
+- [Mission-Led Category Adjacency / 使命驱动的品类邻接](concepts/MissionLedCategoryAdjacency.md) — Expansion into a neighboring category when the same customer mission and transferable capabilities justify the risk under commercial and governance constraints.
 - [Monarchical Titulature and Address / 君主称号、称谓与自称](concepts/MonarchicalTitulatureAndAddress.md) — 将正式头衔、他称、历史称名与君主自称理解为继承、礼仪、领地和合法性的制度表达。
 - [Institutional-Title Translation / 制度称谓翻译](concepts/InstitutionalTitleTranslation.md) — 在选择熟悉译名之前比较政治职能、权威来源、继承关系、领地范围与原语用法。
 - [Artistic-Biographical Reductionism](concepts/ArtisticBiographicalReductionism.md) — Error of treating one life feature as a sufficient master explanation for an artist, creative process, and works.

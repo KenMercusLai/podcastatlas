@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3400
+topic_total_pages: 3403
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2455,6 +2455,9 @@ topic_concepts:
   - key: "HardwareLottery"
     title: "Hardware Lottery"
     url: "/wiki/concepts/hardwarelottery/"
+  - key: "HardwarePrototypeToProductionGap"
+    title: "Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟"
+    url: "/wiki/concepts/hardwareprototypetoproductiongap/"
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
@@ -3103,6 +3106,9 @@ topic_concepts:
   - key: "MinimalistEntrepreneurship"
     title: "Minimalist Entrepreneurship"
     url: "/wiki/concepts/minimalistentrepreneurship/"
+  - key: "MissionLedCategoryAdjacency"
+    title: "Mission-Led Category Adjacency / 使命驱动的品类邻接"
+    url: "/wiki/concepts/missionledcategoryadjacency/"
   - key: "MissionaryFieldworkInfrastructure"
     title: "Missionary Fieldwork Infrastructure / 传教士田野基础设施"
     url: "/wiki/concepts/missionaryfieldworkinfrastructure/"
@@ -10092,6 +10098,9 @@ topic_sources:
   - key: "dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun"
     title: "当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan"
     url: "/wiki/sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun/"
+  - key: "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352"
+    title: "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头"
+    url: "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
   - key: "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13"
     title: "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频"
     url: "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"

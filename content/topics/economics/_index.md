@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2225
+topic_total_pages: 2227
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1555,6 +1555,9 @@ topic_concepts:
   - key: "HardwareInventoryRisk"
     title: "Hardware Inventory Risk"
     url: "/wiki/concepts/hardwareinventoryrisk/"
+  - key: "HardwarePrototypeToProductionGap"
+    title: "Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟"
+    url: "/wiki/concepts/hardwareprototypetoproductiongap/"
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
@@ -6660,6 +6663,9 @@ topic_sources:
   - key: "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud"
     title: "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康"
     url: "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"
+  - key: "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352"
+    title: "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头"
+    url: "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
   - key: "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq"
     title: "所有净值曲线背后都是人，正态分布的普通人"
     url: "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"

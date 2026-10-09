@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3248
+topic_total_pages: 3249
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2611,6 +2611,9 @@ topic_concepts:
   - key: "MissionFocusedCompany"
     title: "Mission-Focused Company"
     url: "/wiki/concepts/missionfocusedcompany/"
+  - key: "MissionLedCategoryAdjacency"
+    title: "Mission-Led Category Adjacency / 使命驱动的品类邻接"
+    url: "/wiki/concepts/missionledcategoryadjacency/"
   - key: "MobilisationDiplomacyEscalationTrap"
     title: "Mobilisation-Diplomacy Escalation Trap"
     url: "/wiki/concepts/mobilisationdiplomacyescalationtrap/"
