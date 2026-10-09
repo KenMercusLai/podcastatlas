@@ -34174,3 +34174,11 @@ Added source `liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 619. Elizabeth I: The Virgin Queen (Part 4)
+
+Added source `619-elizabeth-i-the-virgin-queen-part-4-glt7930465337`; resynthesized [[ElizabethI|Elizabeth I]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[ElizabethanReligiousPragmatism]], [[TudorSuccessionCrisis]], [[VirginQueenImageStatecraft]], and [[MarriageDiplomacyAsStrategicOption]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the 1559 settlement had a clear Protestant institutional direction despite retained forms; Cecil joined concentrated administration to Scottish intervention; and Elizabeth used marriage ambiguity to preserve diplomatic leverage and sovereign autonomy while leaving succession dependent on her survival. No settled contradiction was adopted. Psychological motives, Philip II's protection, the private Dudley relationship, Amy Robsart's death, and Cecil's united-Protestant-Britain interpretation remain source-scoped. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,279 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

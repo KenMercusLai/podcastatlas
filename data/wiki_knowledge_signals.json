@@ -72919,9 +72919,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -72992,9 +72992,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
@@ -73157,9 +73164,9 @@
       "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
     },
     "ElizabethanReligiousPragmatism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -73167,9 +73174,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/elizabethanreligiouspragmatism/"
     },
     "EllisPark": {
@@ -164108,6 +164122,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/marriagedefaultcontract/"
     },
+    "MarriageDiplomacyAsStrategicOption": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/marriagediplomacyasstrategicoption/"
+    },
     "MarriageIdealizationMismatch": {
       "episode_count": 1,
       "show_count": 1,
@@ -164729,9 +164766,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -164767,9 +164804,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/maryqueenofscots/"
     },
     "MaryRenault": {
@@ -215068,9 +215112,9 @@
       "url": "/wiki/entities/robertcolls/"
     },
     "RobertDudley": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -215092,9 +215136,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/robertdudley/"
     },
     "RobertELee": {
@@ -252096,9 +252147,9 @@
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -252134,9 +252185,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
     "TuiEnLing": {
@@ -257528,9 +257586,9 @@
       "url": "/wiki/entities/virgil/"
     },
     "VirginQueenImageStatecraft": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -257538,9 +257596,16 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/virginqueenimagestatecraft/"
     },
     "VirtualCellWorldModel": {
@@ -265520,9 +265585,9 @@
       "url": "/wiki/entities/williambrydon/"
     },
     "WilliamCecil": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -265551,9 +265616,16 @@
           "show": "The Rest Is History",
           "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
           "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        },
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/williamcecil/"
     },
     "WilliamDalrymple": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [619. Elizabeth I: The Virgin Queen (Part 4)](sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337.md) — The Rest Is History on Elizabeth's 1559 settlement, Cecil's Scottish strategy, marriage diplomacy, Dudley, and the unresolved succession crisis.
 - [何同学×罗永浩！青年何同学的骄傲与烦恼](sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh.md) — 何同学与罗永浩讨论视频创作、DIY选题、工作室规模化、广告融合、公众品牌风险、海外本地化与锤子TNT。
 - [Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners](sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095.md) — Condensed Huberman Lab episode on social homeostasis, isolation, shared physiology, attachment, empathy modes, oxytocin, and bounded practices for connection.
 - [620. The Nazis at War: Hitler Strikes West (Part 1)](sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581.md) — The Rest Is History on the Phoney War, Hitler's economic and ideological urgency, army coup hesitation, and Georg Elser's failed bomb plot.

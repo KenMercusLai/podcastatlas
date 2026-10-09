@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2677
+topic_total_pages: 2678
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337"
+    title: "619. Elizabeth I: The Virgin Queen (Part 4)"
+    url: "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"
