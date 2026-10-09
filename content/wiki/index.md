@@ -2991,6 +2991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
 - [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
 - [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
+- [《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn.md) — 芮淇讲透资治通鉴 episode on Ren Zuo's direct criticism, Di Huang's face-saving repair, Zhongshan's family assignment, and Le Yang's extreme sacrifice turning loyalty into distrust.
 - [《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou containing Le Yang's post-conquest pride, Tian Zifang's specialist-delegation lesson, the crown prince's roadside rebuke, and Warring States scholar mobility.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p.md) — 芮淇讲透资治通鉴 episode on Wei Wuhou's restoration from Zhongshan, Zhao Cangtang's etiquette and Shijing-coded persuasion, the Zizhi Tongjian Bu supplement, and the political value of elite poetic literacy.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
@@ -10621,10 +10622,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [江乙 / Jiang Yi](entities/JiangYi.md) — Chu court figure whose parables against Zhao Xixu turn true-sounding counsel into political weaponry.
 - [李克 / Li Ke (Li Kui)](entities/LiKe.md) — Wei Wenhou adviser who gives five situational character tests and recommends using Wu Qi for military ability despite defects.
 - [魏成 / Wei Cheng](entities/WeiCheng.md) — Wei chancellor candidate whose attraction of teacher-level talent explains his advantage over Di Huang.
-- [翟黄 / Di Huang](entities/DiHuang.md) — Wei chancellor candidate who argues from his recommendations of Wu Qi, Ximen Bao, Le Yang, Li Ke, and Qu Houfu.
+- [翟黄 / Di Huang](entities/DiHuang.md) — Wei talent broker who combines consequential referrals with face-saving repair between an angry ruler and a direct critic.
 - [屈侯鲋 / Qu Houfu](entities/QuHoufu.md) — Teacher recommended by Di Huang for Wei Wenhou's son in the chancellor-selection episode.
 - [西门豹 / Ximen Bao](entities/XimenBao.md) — Official recommended by Di Huang for Ye, used as part of the referral-quality comparison.
-- [乐羊 / Le Yang](entities/LeYang.md) — Wei general whose Zhongshan campaign becomes Gan Mao's example of ruler trust deciding whether a long campaign survives slander.
+- [乐羊 / Le Yang](entities/LeYang.md) — Wei general whose Zhongshan conquest joins ruler support under slander to an extreme-sacrifice signal that wins reward but destroys trust.
 - [淳于髡 / Chunyu Kun](entities/ChunyuKun.md) — Qi speaker whose allusive remonstrance reaches Qi Wei Wang through the silent-bird riddle.
 - [陈聊 / Chen Liao](entities/ChenLiao.md) — Qi official who receives delegated affairs while Qi Wei Wang neglects government in the episode's crisis setup.
 - [龙甲 / Long Jia](entities/LongJia.md) — Wei general sent by Liang Hui Wang to build western defenses after Qin defeats Han at West Mountain.
@@ -10729,7 +10730,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander and reformer whose Wei military success, court vulnerability, and Chu state-building backlash drive the Ruiqi branch.
 - [《吴子》 / Wuzi](entities/Wuzi.md) — Military text associated with Wu Qi and the episode's "励士" morale branch.
 - [魏国 / Wei State](entities/WeiState.md) — Early Warring States power moving between Wu Qi's reforms, Three Jin wars, Shaoliang losses, and later Shang Yang-era rivalry.
-- [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Early Wei ruler developed through formal Three Jin recognition, respect for scholars, promise-keeping, Han-Zhao diplomatic restraint, and later death/succession notices.
+- [任作 / Ren Zuo (Warring States)](entities/RenZuoWarringStates.md) — Wei remonstrant whose criticism of the Zhongshan family assignment tests whether a ruler's court can keep negative feedback survivable.
+- [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Early Wei ruler whose credibility and talent system coexist with anger at criticism, family-centered frontier control, and bounded trust in extreme subordinates.
 - [子夏 / Zi Xia](entities/ZiXia.md) — Confucius disciple honored by Wei Wenhou as a teacher, making Confucian learning part of Wei's talent-attraction image.
 - [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
 - [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
@@ -17350,6 +17352,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+
+- [极端忠诚的威胁反转 / Extreme Loyalty Threat Paradox](concepts/ExtremeLoyaltyThreatParadox.md) — Pattern where unlimited sacrifice proves task commitment while making the actor appear dangerously unrestrained.
 - [Creative Spine](concepts/CreativeSpine.md) — Organizing center that coordinates a work while allowing its route and details to emerge through practice.
 - [Embodied Creative Judgment](concepts/EmbodiedCreativeJudgment.md) — Use of trained bodily perception, technique, and real-world rehearsal as contextual evidence for creative decisions.
 - [金庸小说的儒家伦理 / Jin Yong Confucian Ethics](concepts/JinYongConfucianEthics.md) — 以道德实践而非身份或经典知识区分儒家精神与僵化礼教，并把护民责任、情法冲突与现代法治纳入同一框架。

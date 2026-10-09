@@ -62892,6 +62892,29 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/deviceoriginphotoauthentication/"
     },
+    "DiHuang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1） [lk-6eJGMjhvuKQgTLZ2LOwU8QX_V].md",
+          "key": "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2） [lrpJtXKPFCcEbS-0pHXIoZjSv5rn].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/dihuang/"
+    },
     "DiShanWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -81962,6 +81985,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
+    },
+    "ExtremeLoyaltyThreatParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2） [lrpJtXKPFCcEbS-0pHXIoZjSv5rn].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/extremeloyaltythreatparadox/"
     },
     "ExtremistElectoralMachine": {
       "episode_count": 2,
@@ -142946,9 +142985,9 @@
       "url": "/wiki/entities/levieuxcordelier/"
     },
     "LeYang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？ [lj6wi61OsaYTowgMdp8dTKRwB-si].md",
@@ -142977,6 +143016,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2） [lrpJtXKPFCcEbS-0pHXIoZjSv5rn].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
         }
       ],
       "updated": "2026-10-10",
@@ -209871,6 +209917,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/renzeping/"
     },
+    "RenZuoWarringStates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2） [lrpJtXKPFCcEbS-0pHXIoZjSv5rn].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/renzuowarringstates/"
+    },
     "RenaMalik": {
       "episode_count": 1,
       "show_count": 1,
@@ -261636,9 +261698,9 @@
       "url": "/wiki/entities/weiwanwesternhan/"
     },
     "WeiWenhou": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2） [lk_D9uibhnEERfoL6z2rRLE_6yPm].md",
@@ -261695,6 +261757,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2） [lrpJtXKPFCcEbS-0pHXIoZjSv5rn].md",
+          "key": "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
         }
       ],
       "updated": "2026-10-10",

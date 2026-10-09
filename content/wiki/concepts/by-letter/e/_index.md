@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10134
+wiki_total_pages: 10135
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "EarlyHanCoinageEnforcementGap"
     title: "早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap"
     url: "/wiki/concepts/earlyhancoinageenforcementgap/"
+  - key: "ExtremeLoyaltyThreatParadox"
+    title: "极端忠诚的威胁反转 / Extreme Loyalty Threat Paradox"
+    url: "/wiki/concepts/extremeloyaltythreatparadox/"
   - key: "EcommerceExpressPriceWar"
     title: "电商快递价格战"
     url: "/wiki/concepts/ecommerceexpresspricewar/"

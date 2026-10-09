@@ -33992,3 +33992,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）
+
+Added source `zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn`; created [[RenZuoWarringStates|任作]] and [[ExtremeLoyaltyThreatParadox|极端忠诚的威胁反转]]; migrated [[DiHuang|翟黄]] to the synthesis-first schema; and resynthesized [[WeiWenhou|魏文侯]] and [[LeYang|乐羊]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: direct criticism becomes survivable when Di Huang gives Wei Wenhou a face-preserving route to recall Ren Zuo, while Le Yang's unlimited campaign sacrifice proves commitment yet makes him appear too unrestrained for continued trust. No settled contradiction was adopted. The “魏姬” identity, Zhongshan assignment motive, dialogue, campaign duration, son's identity, broth episode, adviser warning, and lasting distrust remain transcript-sensitive or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,256 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

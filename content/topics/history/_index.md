@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2665
+topic_total_pages: 2666
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7080,6 +7080,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl"
     title: "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
+  - key: "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn"
+    title: "《资治通鉴·周纪》05｜光彩夺目的魏文侯（2）"
+    url: "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-2-lrpjtxkpfccebs-0phxiozjsv5rn/"
   - key: "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v"
     title: "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v/"
