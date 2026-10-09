@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10148
+wiki_total_pages: 10149
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "ImmortalityQuestPolitics"
     title: "Immortality Quest Politics / 求仙政治"
     url: "/wiki/concepts/immortalityquestpolitics/"
+  - key: "ImmortalityTransformationConsent"
+    title: "Immortality Transformation Consent / 永生转化同意"
+    url: "/wiki/concepts/immortalitytransformationconsent/"
   - key: "ImmuneAgingMosaic"
     title: "Immune Aging Mosaic"
     url: "/wiki/concepts/immuneagingmosaic/"

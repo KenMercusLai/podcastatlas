@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [085 《我和僵尸有个约会》：集灵异、僵尸、悬疑、爱情、奇幻于一体的童年经典](sources/085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz.md) — 纸醉金迷FM回顾《我和僵尸有个约会》的创作背景、红溪村起源、日本初春篇与三角关系，并以复生和阿秀讨论永生代价及转化同意。
 - [EP 27: AI and the Creative Arts: Innovation or Appropriation?](sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation.md) — Data Science With Sam episode with Andres Morales on creator compensation, lived experience, proof of process, meaningful human authority, and human-led creative AI.
 - [621. The Nazis at War: Blitzkrieg (Part 2)](sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512.md) — The Rest Is History on Norway, Churchill's accession, the Ardennes breakthrough, and Allied collapse before Dunkirk.
 - [086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？](sources/086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible.md) — 纸醉金迷FM以佳佳大厦百鬼夜行篇讨论控制型母爱、顺从到共犯、道德原则与具体共情，并评析都市化灵异工具和规则一致性。
@@ -4350,12 +4351,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vidkun Quisling](entities/VidkunQuisling.md) — Norwegian fascist who supplied defense knowledge to Germany and attempted to head an occupation-backed government.
 - [Erich von Manstein](entities/ErichVonManstein.md) — German officer associated with the risky Ardennes plan that turned toward the Channel in May 1940.
 - [Heinz Guderian](entities/HeinzGuderian.md) — German armored commander associated with the Ardennes thrust and rapid Channel drive.
-- [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 以佳佳大厦篇连接都市邻里、家庭控制、僵尸鬼怪、现代化法器与道歉和解的香港灵异剧。
+- [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 融合抗战、僵尸、驱魔、调查、爱情与都市邻里，并以永生代价、家庭控制和规则一致性承载伦理讨论的香港灵异剧。
 - [阿平 / A Ping (My Date with a Vampire)](entities/APingMyDateWithAVampire.md) — 从具体善意与长期顺从走向包庇、强迫和复仇，又因母亲承认控制伤害而散去怨气的裁缝。
 - [平妈 / Ping Ma (My Date with a Vampire)](entities/PingMaMyDateWithAVampire.md) — 以牺牲和道德判断包装控制、死后升级为活尸杀戮并最终承认自身责任的母亲。
 - [P.P. (My Date with a Vampire)](entities/PPMyDateWithAVampire.md) — 遭职业污名与杀害，却最清楚辨认阿平自主性被剥夺并推动母子和解的邻居。
-- [马小玲 / Ma Xiaoling](entities/MaXiaoling.md) — 在佳佳大厦篇承担调查、驱魔、超度与群体协调，并体现都市化法术工具设计的驱魔人。
-- [况天佑 / Kuang Tianyou](entities/KuangTianyou.md) — 虽想远离暴露、灵异冲突和情感关系，仍以调查与僵尸能力反复保护住户的人物。
+- [马小玲 / Ma Xiaoling](entities/MaXiaoling.md) — 把家族驱魔使命转化为收费、旅行、便携法器和群体协调的现代职业驱魔人。
+- [况天佑 / Kuang Tianyou](entities/KuangTianyou.md) — 从1938年延续至现代、以非致命方式生存并在保护他人与尊重选择之间承受永生责任的僵尸警察。
+- [复生 / Fusheng (My Date with a Vampire)](entities/FushengMyDateWithAVampire.md) — 拥有数十年意识却困在儿童身体里，以渴望成长、衰老和死亡体现永生代价的角色。
+- [山本一夫 / Kazuo Yamamoto (My Date with a Vampire)](entities/YamamotoKazuoMyDateWithAVampire.md) — 把不死生命转化为财富、组织与支配野心，并暴露吸血和能力规则张力的反派。
 - [Paul Reynaud](entities/PaulReynaud.md) — French prime minister who moved from active early-war operations and breakthrough crisis to a failed effort to continue resistance abroad.
 - [Philippe Pétain](entities/PhilippePetain.md) — French marshal who sought the 1940 armistice and led the Vichy regime.
 - [Maxime Weygand](entities/MaximeWeygand.md) — French commander appointed amid the Channel breakthrough who failed to restore coordination and later advocated an armistice.
@@ -17394,10 +17397,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
 
 ## Concepts
+- [Immortality Transformation Consent / 永生转化同意](concepts/ImmortalityTransformationConsent.md) — 区分亲历永生代价所带来的警告权威，与替他人决定不可逆转化的正当权限。
 - [Norwegian Campaign (1940)](concepts/NorwegianCampaign1940.md) — Contest over iron ore and coastal position joining Norwegian resistance, Allied failure, German losses, and Churchill's accession.
 - [Blitzkrieg](concepts/Blitzkrieg.md) — Coordinated operational speed and concentration qualified against myths of uniform mechanization and inevitable German victory.
 - [Moral Principle–Empathy Gap / 道德原则与具体共情落差](concepts/MoralPrincipleEmpathyGap.md) — 抽象道德类别与对具体人的处境、尊严、动机及受害后果之间发生脱节的判断模式。
-- [Urbanized Supernatural Worldbuilding / 都市化灵异世界构建](concepts/UrbanizedSupernaturalWorldbuilding.md) — 将鬼怪、法器、阴间行政和轮回规则转译为现代城市物件、职业、建筑与交通系统的世界构建方式。
+- [Urbanized Supernatural Worldbuilding / 都市化灵异世界构建](concepts/UrbanizedSupernaturalWorldbuilding.md) — 将鬼怪、僵尸、法器和轮回规则转译为现代职业、客户、警务、商业、建筑与交通系统的世界构建方式。
 - [Compiègne Armistice (1940)](concepts/CompiegneArmistice1940.md) — Settlement joining France's military and cabinet defeat to occupation, Vichy rule, and Hitler's staged revenge for 1918.
 - [Prepared Fallback Stronghold / 预置退路型堡垒](concepts/PreparedFallbackStronghold.md) — 在危机前克制抽取、积累民心并修备防御，使指定据点可在主路径崩溃时承接组织生存。
 - [Strategic Indulgence for Overextension / 姑辅式诱导过度扩张](concepts/StrategicIndulgenceOverextension.md) — 暂时满足强索以助长对手贪欲、轻敌和树敌，等待共同受害者形成反制机会的高风险策略。

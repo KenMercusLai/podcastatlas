@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12991
+wiki_total_pages: 12993
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "FuzhuleiRuodiChanyu"
     title: "复株累若鞮单于 / Fuzhulei Ruodi Chanyu"
     url: "/wiki/entities/fuzhuleiruodichanyu/"
+  - key: "FushengMyDateWithAVampire"
+    title: "复生 / Fusheng (My Date with a Vampire)"
+    url: "/wiki/entities/fushengmydatewithavampire/"
   - key: "FoodRepublic"
     title: "大食代 / Food Republic"
     url: "/wiki/entities/foodrepublic/"

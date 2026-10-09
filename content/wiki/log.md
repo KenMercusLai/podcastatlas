@@ -34112,3 +34112,11 @@ Added source `ep-27-ai-and-the-creative-arts-innovation-or-appropriation`; creat
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 085 《我和僵尸有个约会》：集灵异、僵尸、悬疑、爱情、奇幻于一体的童年经典
+
+Added source `085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz`; created [[FushengMyDateWithAVampire|复生]], [[YamamotoKazuoMyDateWithAVampire|山本一夫]], and [[ImmortalityTransformationConsent|永生转化同意]]; and resynthesized [[MyDateWithAVampire|《我和僵尸有个约会》]], [[KuangTianyou|况天佑]], [[MaXiaoling|马小玲]], and [[UrbanizedSupernaturalWorldbuilding|都市化灵异世界构建]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the series turns jiangshi fiction into an urban mixture of wartime history, investigation, paid exorcism, romance, commerce, and apartment life; Kuang and Fusheng make immortality legible as arrested development, repeated concealment, and bereavement, while Yamamoto converts it into organization and domination. Kuang's refusal to transform 阿秀 remains deliberately unresolved between compassionate protection and substituted judgment. No settled contradiction was adopted. Casting motives, Jin Yong's reported appraisal, Jiangchen's intent, sequel explanations, the history and orthodoxy of 九字真言, power scaling, and character psychology remain source-scoped. The broad [[ZhiZuiJinMiFM|纸醉金迷FM]] profile was kept closed because the focused series and character pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,271 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12991
+wiki_total_pages: 12993
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "YinDuo"
     title: "尹铎 / Yin Duo"
     url: "/wiki/entities/yinduo/"
+  - key: "YamamotoKazuoMyDateWithAVampire"
+    title: "山本一夫 / Kazuo Yamamoto (My Date with a Vampire)"
+    url: "/wiki/entities/yamamotokazuomydatewithavampire/"
   - key: "YueWanrou"
     title: "岳宛柔 / Yue Wanrou"
     url: "/wiki/entities/yuewanrou/"
