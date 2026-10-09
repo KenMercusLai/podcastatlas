@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3410
+topic_total_pages: 3413
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4973,6 +4973,9 @@ topic_entities:
   - key: "AndrejKarpathy"
     title: "Andrej Karpathy"
     url: "/wiki/entities/andrejkarpathy/"
+  - key: "AndresMorales"
+    title: "Andres Morales"
+    url: "/wiki/entities/andresmorales/"
   - key: "AndrewDeck"
     title: "Andrew Deck"
     url: "/wiki/entities/andrewdeck/"
@@ -7235,6 +7238,9 @@ topic_entities:
   - key: "RadixARC"
     title: "Redix ARK / Radix ARC"
     url: "/wiki/entities/radixarc/"
+  - key: "RedMage"
+    title: "RedMage"
+    url: "/wiki/entities/redmage/"
   - key: "Revid"
     title: "Revid"
     url: "/wiki/entities/revid/"
@@ -9210,6 +9216,9 @@ topic_sources:
   - key: "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai"
     title: "EP 19: Navigating the Future of Workplace Health and Benefits with AI"
     url: "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+  - key: "ep-27-ai-and-the-creative-arts-innovation-or-appropriation"
+    title: "EP 27: AI and the Creative Arts: Innovation or Appropriation?"
+    url: "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
   - key: "ep-28-the-ai-revolution-redefining-healthcare-financing"
     title: "EP 28: The AI Revolution: Redefining Healthcare Financing"
     url: "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"

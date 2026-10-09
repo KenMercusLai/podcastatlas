@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 27: AI and the Creative Arts: Innovation or Appropriation?](sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation.md) — Data Science With Sam episode with Andres Morales on creator compensation, lived experience, proof of process, meaningful human authority, and human-led creative AI.
 - [621. The Nazis at War: Blitzkrieg (Part 2)](sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512.md) — The Rest Is History on Norway, Churchill's accession, the Ardennes breakthrough, and Allied collapse before Dunkirk.
 - [086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？](sources/086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible.md) — 纸醉金迷FM以佳佳大厦百鬼夜行篇讨论控制型母爱、顺从到共犯、道德原则与具体共情，并评析都市化灵异工具和规则一致性。
 - [The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)](sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525.md) — The Rest Is History follows the Beatles from postwar Liverpool and Hamburg through Epstein, original songwriting, Beatlemania, civil-rights conduct, and the 1964 American breakthrough.
@@ -4343,6 +4344,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
 
 ## Entities
+- [Andres Morales](entities/AndresMorales.md) — RedMage founder and creative technologist advocating creator compensation, lived experience, and substantive human authority in creative AI.
+- [RedMage](entities/RedMage.md) — Andres Morales's creative-technology business context spanning technology, creativity, and community work.
 - [Haakon VII](entities/HaakonVII.md) — Norwegian king whose escape and refusal to authorize Quisling preserved legitimate resistance during the 1940 invasion.
 - [Vidkun Quisling](entities/VidkunQuisling.md) — Norwegian fascist who supplied defense knowledge to Germany and attempted to head an occupation-backed government.
 - [Erich von Manstein](entities/ErichVonManstein.md) — German officer associated with the risky Ardennes plan that turned toward the Channel in May 1940.

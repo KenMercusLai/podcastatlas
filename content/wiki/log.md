@@ -34104,3 +34104,11 @@ Added source `621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512`; created [[H
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | EP 27: AI and the Creative Arts: Innovation or Appropriation?
+
+Added source `ep-27-ai-and-the-creative-arts-innovation-or-appropriation`; created [[AndresMorales]] and [[RedMage]]; and resynthesized [[AICreativeCollaboration]] and [[HumanAuthorshipPremium]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: creative AI is strongest when people remain authors, performers, curators, and accountable decision-makers; lived experience and proof of process can increase the value of human-made work, while nominal human review is insufficient without meaningful authority. No settled contradiction was adopted. Copyright legality, compensation mechanisms, platform-bias examples, ROI and job-loss claims, and five-year predictions remain source-scoped, while “AI cannot replicate lived experience” is treated as a claim about possession and grounding rather than a permanent output-quality limit. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,270 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

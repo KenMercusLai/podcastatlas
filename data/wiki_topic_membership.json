@@ -14046,6 +14046,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AndresMorales": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AndrewDeck": [
     {
       "key": "technology",
@@ -72133,6 +72140,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RedMage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RedPenLogic": [
     {
       "key": "culture",
@@ -99295,6 +99309,13 @@
     }
   ],
   "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-27-ai-and-the-creative-arts-innovation-or-appropriation": [
     {
       "key": "technology",
       "label": "Technology",

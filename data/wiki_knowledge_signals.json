@@ -2081,9 +2081,9 @@
       "url": "/wiki/concepts/aicoworkers/"
     },
     "AICreativeCollaboration": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -2119,9 +2119,16 @@
           "show": "十字路口Crossing",
           "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
           "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        },
+        {
+          "episode_file": "CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128 [CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a8394ac].md",
+          "key": "ep-27-ai-and-the-creative-arts-innovation-or-appropriation",
+          "show": "Data Science With Sam",
+          "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",
+          "url": "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
     "AICreativeProcessDatafication": {
@@ -13962,6 +13969,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/andreessenhorowitz/"
+    },
+    "AndresMorales": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128 [CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a8394ac].md",
+          "key": "ep-27-ai-and-the-creative-arts-innovation-or-appropriation",
+          "show": "Data Science With Sam",
+          "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",
+          "url": "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/andresmorales/"
     },
     "AndrewBogle": {
       "episode_count": 1,
@@ -119024,9 +119047,9 @@
       "url": "/wiki/concepts/humanauthorizedautonomousweapons/"
     },
     "HumanAuthorshipPremium": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
@@ -119041,9 +119064,16 @@
           "show": "Tomorrow, Today",
           "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        },
+        {
+          "episode_file": "CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128 [CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a8394ac].md",
+          "key": "ep-27-ai-and-the-creative-arts-innovation-or-appropriation",
+          "show": "Data Science With Sam",
+          "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",
+          "url": "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/humanauthorshippremium/"
     },
     "HumanCareAutomationBoundary": {
@@ -208932,6 +208962,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/redguards/"
+    },
+    "RedMage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128 [CF20B056BF62981D9ABD2EF31B865AC5~8584418_2026-08-10-214818-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a8394ac].md",
+          "key": "ep-27-ai-and-the-creative-arts-innovation-or-appropriation",
+          "show": "Data Science With Sam",
+          "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",
+          "url": "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/redmage/"
     },
     "RedNearInfraredPhotobiomodulation": {
       "episode_count": 3,
