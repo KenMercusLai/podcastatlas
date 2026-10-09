@@ -6917,9 +6917,9 @@
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
     "AddictionAsAttemptedRelief": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -6941,15 +6941,38 @@
           "show": "Huberman Lab",
           "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
           "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        },
+        {
+          "episode_file": "SCIM9003480684 [SCIM9003480684].md",
+          "key": "how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+          "url": "/wiki/sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/addictionasattemptedrelief/"
     },
-    "AddictionRelatedRewardPlasticity": {
+    "AddictionForProfit": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9003480684 [SCIM9003480684].md",
+          "key": "how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+          "url": "/wiki/sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/addictionforprofit/"
+    },
+    "AddictionRelatedRewardPlasticity": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2531622462 [SCIM2531622462].md",
@@ -6957,9 +6980,16 @@
           "show": "Huberman Lab",
           "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
           "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        },
+        {
+          "episode_file": "SCIM9003480684 [SCIM9003480684].md",
+          "key": "how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+          "url": "/wiki/sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/addictionrelatedrewardplasticity/"
     },
     "AdelaideOfItaly": {
@@ -135887,6 +135917,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/kebranagast/"
     },
+    "KeithHumphreys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9003480684 [SCIM9003480684].md",
+          "key": "how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+          "url": "/wiki/sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/keithhumphreys/"
+    },
     "KeithJoseph": {
       "episode_count": 2,
       "show_count": 1,
@@ -204514,9 +204560,9 @@
       "url": "/wiki/concepts/recordandreplay/"
     },
     "RecoveryCommunityConnection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -204538,9 +204584,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        },
+        {
+          "episode_file": "SCIM9003480684 [SCIM9003480684].md",
+          "key": "how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+          "url": "/wiki/sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/recoverycommunityconnection/"
     },
     "RecoveryDistressTolerance": {

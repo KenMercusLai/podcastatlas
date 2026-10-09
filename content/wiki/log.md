@@ -33586,3 +33586,11 @@ Added source `vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yin
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys
+
+Added source `how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684`; created [[KeithHumphreys]] and [[AddictionForProfit]]; and resynthesized [[AddictionRelatedRewardPlasticity]], [[AddictionAsAttemptedRelief]], and [[RecoveryCommunityConnection]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: addiction combines persistent harmful behavior, learned cue reactivity, attempted relief, and progressive life narrowing; recovery can use cue reduction, immediate incentives, peer accountability, clinical care, housing, and ordinary life change through multiple pathways; and commercial systems deserve scrutiny when revenue depends on heavy use or reinforcing design. No settled contradiction was adopted. Cannabis self-titration and psychosis claims remain qualified, while AA, contingency-management, GLP-1, TMS, civil-commitment, Medicaid, and numerical industry or epidemiology claims remain source-scoped pending direct evidence review. The broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, guest, and concept pages capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,205 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

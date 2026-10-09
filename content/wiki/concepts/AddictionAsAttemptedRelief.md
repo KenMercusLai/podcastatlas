@@ -6,7 +6,8 @@ sources:
   - tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
   - therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707
-last_updated: 2026-10-01
+  - how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The AMA adds a complementary narrowing frame: addiction progressively reduces th
 
 Conti adds a trauma-linked qualification. Alcohol, cannabis, anger, negative fantasies, overwork, or other rapid state changes can soothe shame, guilt, vigilance, or pain in the short term, but relief does not show that the strategy is safe or that trauma is the only cause. Durable recovery requires examining the underlying problem while preserving stabilization, diagnosis, and crisis boundaries.
 
+Humphreys extends the functional inquiry by asking what a person likes about the substance or behavior. Use may supply oblivion, social ritual, relief from fear or trauma, or a way not to face painful realities. Stopping can therefore produce genuine grief and does not erase the conditions that made escape attractive. At the same time, repeated withdrawal relief can be misread as proof that nicotine, cannabis, or opioids are still helping; some apparent benefit may now be relief from a deficit the substance itself helps maintain.
+
 ## Key Claims
 - Addictive behavior can begin as a workable short-term solution to an underlying difficult state.
 - Rapid relief can become organizing power, reversing the relationship between the person and the behavior.
@@ -31,7 +34,7 @@ Conti adds a trauma-linked qualification. Alcohol, cannabis, anger, negative fan
 - Assessment should examine control, preoccupation, abstinence difficulty, relationships, motivation, loneliness, and daily functioning.
 - Recovery has to replace the function of the addictive strategy as well as interrupt its use.
 - Intensity or enthusiasm alone does not establish addiction; impairment and loss of choice are central qualifications.
-- Progressive narrowing of pleasure and life participation is a useful warning pattern, while short-term soothing can explain persistence without establishing safety, diagnosis, or durable resolution.
+- Progressive narrowing is a useful warning pattern, and recovery may involve grief for a ritual, social world, or coping function even when stopping is clearly beneficial.
 
 ## Evidence
 - Relief function - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] describes alcohol, drugs, gambling, gaming, pornography, food, and other behaviors as ways people may seek connection, wholeness, escape, or state change.
@@ -40,13 +43,15 @@ Conti adds a trauma-linked qualification. Alcohol, cannabis, anger, negative fan
 - Positive replacement - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] says recovery must move beyond removal toward purpose, connection, pleasure, and a sustainable life.
 - Narrowing and agency boundary - [[ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235]] defines addiction through progressive narrowing and rejects simple lack-of-willpower explanations.
 - Trauma-linked soothing - [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] connects hidden guilt, shame, and trauma with substance use while distinguishing immediate state change from work on the underlying problem.
+- Function and grief - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] recommends asking what use provides and describes recovery as potentially losing a social ritual or friendship pattern.
+- Escape and withdrawal - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] connects heavy use with escape from trauma, suffering, fear, or relationship collapse and warns that withdrawal relief can masquerade as continuing benefit.
 
 ## Counterevidence & Qualifications
-This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, sugar intake, caffeine use, anger, or pornography consumption is addiction or trauma-driven. Brain-mechanism language should not become fatalism or remove accountability for harm. Acute withdrawal, psychiatric crisis, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
+This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, sugar intake, caffeine use, anger, or pornography consumption is addiction or trauma-driven. A behavior can serve a function without being safe, clinically addictive, or caused by one hidden wound. Brain-mechanism language should not become fatalism or remove accountability for harm to others. Acute withdrawal, psychiatric crisis, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
 
 ## What Changed
-- Added trauma-linked soothing while preserving multiple-cause and diagnosis boundaries.
-- Clarified that rapid state change can explain use without making it safe or curative.
+- Added recovery grief, social ritual, and escape from painful reality to the functional account.
+- Distinguished original relief from relief of a withdrawal state partly maintained by continued use.
 
 ## Related Concepts
 - [[RecoveryDistressTolerance]] - replacement capacity for experiencing the states addiction previously relieved.
@@ -55,3 +60,4 @@ This is a functional treatment frame, not a substitute for formal diagnostic cri
 - [[DopaminePeakTroughBaseline]] - adjacent reward-dynamics model for repeated high-intensity stimulation.
 - [[MachineGamblingAddiction]] - gambling-specific compulsive loop shaped by machine design.
 - [[DigitalSexualSubstituteRisk]] - pornography-specific substitution and intimacy risk.
+- [[AddictionRelatedRewardPlasticity]] - learned-cue process that can preserve pursuit after the original function changes.

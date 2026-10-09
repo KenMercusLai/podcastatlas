@@ -4276,6 +4276,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？](sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki.md) — 三五环 interview with Li Qian on integrated brand operations, psychological positioning, self-pleasing consumption, niche audience fit, and offline relationship depth after traffic advantages fade.
 - [Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki](sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312.md) — Condensed Huberman Lab conversation on memory-encoding levers, hippocampal association, exercise-linked mood and cognition, body-to-brain signaling, brief meditation, sleep, and evidence boundaries.
 
+- [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
+
 ## Entities
 - [Henry VI of England](entities/HenryVIOfEngland.md) — Child king whose inherited French claim made Joan of Arc's condemnation politically valuable.
 - [Pierre Cauchon](entities/PierreCauchon.md) — Bishop who led Joan of Arc's procedurally serious but politically bounded heresy prosecution.
@@ -17231,6 +17233,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jake Loosararian](entities/JakeLoosararian.md) — Gecko Robotics co-founder and CEO arguing that paid industrial inspection creates the missing physical-world data needed for useful industrial AI.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
+- [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
+
 ## Concepts
 - [Ecclesiastical Trial as Political Legitimacy](concepts/EcclesiasticalTrialPoliticalLegitimacy.md) — Framework for religious procedure that converts doctrinal judgment into dynastic legitimacy.
 - [Literature as Everyday Philosophy / 文学作为日常哲学](concepts/LiteratureAsEverydayPhilosophy.md) — 文学通过普通人的言语、关系、羞耻与难言问题揭示日常生活中已经存在的理由和价值冲突。
@@ -27382,5 +27386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Integrated Brand Operations / 品牌全链路操盘](concepts/IntegratedBrandOperations.md) — Upstream brand capability connecting social and customer insight to coherent product, service, price, channel, sales, and communication decisions.
 - [Psychological Positioning / 心理定位](concepts/PsychologicalPositioning.md) — Differentiation through identity, feeling, ritual, relationship, or context when grounded in real functional and operating value.
 - [Self-Pleasing Consumption / 乐己消费](concepts/SelfPleasingConsumption.md) — Consumption and participation oriented toward personally felt comfort, embodiment, health, relationship, and meaning rather than imposed status or optimization.
+
+- [Addiction for Profit](concepts/AddictionForProfit.md) — Framework for markets whose revenue incentives favor heavy use, reinforcing product design, promotion, and expanded access.
 
 ## Syntheses

@@ -6,7 +6,8 @@ sources:
   - tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
   - understanding-treating-addiction-dr-anna-lembke-scim9435481929
-last_updated: 2026-10-03
+  - how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,10 +25,12 @@ The AMA independently points listeners toward zero-cost 12-step communities and 
 
 A reward and time-horizon account explains another part of that value. Intense recovery communities can provide connection, intimacy, routine, and social reinforcement that compete with the addictive object, while [[AnnaLembke]]'s “one day at a time” frame converts an overwhelming lifelong commitment into a repeatable 24-hour practice. This does not make community participation itself a complete treatment or show that more intensity is always better; it explains why belonging and near-term commitments can stabilize recovery when isolation and distant planning are poor supports.
 
+Humphreys strengthens the alcohol-specific evidence claim: a Cochrane review is described as finding AA and twelve-step facilitation especially effective for abstinence, while evidence for illicit-drug groups is positive but less developed. He also broadens community beyond meetings. Recovery-oriented housing, fatherhood, exercise, changed friendships, and other ordinary life transitions can rebuild accountability and agency. The synthesis is therefore pluralist: community is a recurring mechanism across pathways, not proof that everyone must follow one program.
+
 ## Key Claims
 - Recovery is strengthened by recurring human connection rather than dependence on willpower alone.
 - Peer groups can provide belonging, accountability, examples, routine, and low-cost access to an initial recovery contact.
-- Group and program fit varies, so trying multiple meetings is more informative than judging a whole model from one room.
+- Group and program fit varies, and evidence strength does not transfer unchanged across alcohol-focused AA, other twelve-step groups, and non-meeting pathways.
 - Families and supporters may need their own communities and boundaries.
 - Offering to accompany someone can lower shame and the practical barrier to first contact.
 - Community should support building a meaningful life, not only surveillance of abstinence.
@@ -41,13 +44,15 @@ A reward and time-horizon account explains another part of that value. Intense r
 - Access corroboration - [[ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235]] directs listeners toward free 12-step communities and publicly available addiction-recovery resources.
 - Social reward - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] describes recovery communities as sources of connection, intimacy, accountability, and healthier reinforcement.
 - Practical time horizon - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] presents “one day at a time” as a manageable unit for sustained recovery practice.
+- Alcohol-specific evidence - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] describes a Cochrane review of AA and twelve-step facilitation as especially strong for abstinence outcomes.
+- Pathway plurality - [[how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684]] discusses varied meetings, recovery housing, parenthood, exercise, time away from drugs, and other life changes as possible routes that can restore agency.
 
 ## Counterevidence & Qualifications
-The sources do not establish that one mutual-help model is universally effective or sufficient for every severity level, co-occurring condition, culture, or access constraint. The AMA's reference to supportive Stanford research does not provide methods or effect sizes in the supplied note. Community intensity can also become unbalanced or unsuitable for a particular person. Peer support does not replace medically supervised withdrawal, psychiatric care, or individualized treatment when those are indicated.
+The sources do not establish that one mutual-help model is universally effective or sufficient for every severity level, co-occurring condition, culture, or access constraint. The AMA's reference to supportive Stanford research and Humphreys's summary of a Cochrane review do not provide methods or effect sizes in the supplied notes. Alcohol evidence should not be transferred unchanged to illicit drugs or behavioral addictions. Community intensity can also become unbalanced or unsuitable for a particular person. Peer support and recovery housing do not replace medically supervised withdrawal, psychiatric care, or individualized treatment when those are indicated.
 
 ## What Changed
-- Added social reward and day-sized commitment as mechanisms by which community can support recovery.
-- Preserved program-fit, balance, and clinical-escalation boundaries.
+- Added stronger alcohol-specific evidence and explicitly weaker transfer to other drugs.
+- Broadened recovery community to housing and ordinary life pathways while preserving program fit and clinical escalation.
 
 ## Related Concepts
 - [[AddictionAsAttemptedRelief]] - explains the relief and connection functions community may need to replace.
@@ -57,3 +62,4 @@ The sources do not establish that one mutual-help model is universally effective
 - [[SocializingDecline]] - broader social-isolation context that can weaken access to protective connection.
 - [[RecoveryTruthTellingAndAmends]] - honesty and repair practices often carried by accountable relationships.
 - [[PleasurePainBalanceAddiction]] - reward-adaptation model that community may help counter with lower-intensity social reinforcement.
+- [[AddictionForProfit]] - structural environment that recovery communities and treatment systems must operate within.
