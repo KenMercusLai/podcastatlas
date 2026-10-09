@@ -34214,3 +34214,11 @@ Added source `618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339`; cre
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman
+
+Added source `essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459`. This Essentials episode condenses the already-ingested full interview [[breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802]], restating [[RespiratoryRhythmGeneration]], [[PhysiologicalSigh]], gas-balance and brain-state pathways, mouse slow-breathing evidence, practical box breathing, and source-scoped magnesium-threonate claims. It adds source provenance and an accessible summary rather than independent replication, so stable concept and entity pages were not rewritten and their evidence inventories were not inflated. No settled contradiction was adopted. Mouse-to-human translation, depression-circuit disruption, gasping during overdose or sedation, protocol optimization, and magnesium cognition, longevity, absorption, and sleep claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,284 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventory, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459.md) — Condensed Huberman Lab interview on respiratory rhythm, physiological sighs, slow-breathing pathways, fear-response evidence, and bounded magnesium claims.
 - [618. Elizabeth I: The Shadow of the Tower (Part 3)](sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339.md) — The Rest Is History on Elizabeth's survival under Mary I, Wyatt's Rebellion, Tower imprisonment, Marian persecution, Foxe's memory, and the 1558 succession.
 - [How to Speak Clearly & With Confidence | Matt Abrahams](sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695.md) — Huberman Lab conversation on audience-first message design, structured spontaneity, aloud practice, feedback, speaking anxiety, and recovery under pressure.
 - [VOL.186这波流感太早、太猛？医生最新解读：真不一样了！](sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs.md) — 这病说来话长由子涵医生梳理流感症状、检测局限、高危与重症分诊、早期抗病毒评估、年度疫苗和分层预防。

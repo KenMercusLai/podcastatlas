@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1504
+topic_total_pages: 1505
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3915,6 +3915,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
     title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+  - key: "essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459"
+    title: "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman"
+    url: "/wiki/sources/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459/"
   - key: "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622"
     title: "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern"
     url: "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
