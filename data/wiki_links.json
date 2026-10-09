@@ -56479,6 +56479,10 @@
     "title": "Medical Social Work Discharge Coordination / 医疗社工与出院衔接",
     "url": "/wiki/concepts/medicalsocialworkdischargecoordination/"
   },
+  "MedicalSupportCapacityTransfer": {
+    "title": "Medical Support Capacity Transfer / 医疗支援能力转移",
+    "url": "/wiki/concepts/medicalsupportcapacitytransfer/"
+  },
   "MedicalTestingValidationIntegrity": {
     "title": "Medical Testing Validation Integrity",
     "url": "/wiki/concepts/medicaltestingvalidationintegrity/"
@@ -63446,6 +63450,10 @@
   "Outlive": {
     "title": "超越百岁 / Outlive",
     "url": "/wiki/entities/outlive/"
+  },
+  "OutpatientCareContinuityAndHandoff": {
+    "title": "Outpatient Care Continuity and Handoff / 门诊连续性与交接",
+    "url": "/wiki/concepts/outpatientcarecontinuityandhandoff/"
   },
   "OutputForcedInput": {
     "title": "Output-Forced Input",
@@ -103190,6 +103198,10 @@
   "vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1": {
     "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
     "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+  },
+  "vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md": {
+    "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
+    "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
   },
   "vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs": {
     "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",

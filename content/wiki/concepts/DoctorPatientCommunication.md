@@ -12,71 +12,53 @@ sources:
   - vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi
   - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
   - vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6
-last_updated: 2026-09-30
+  - vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
 # Doctor-Patient Communication
 
 ## Definition
-Doctor-patient communication is the practical cooperation pattern in which patients and clinicians exchange symptoms, constraints, questions, explanations, treatment response, and follow-up plans clearly enough for care to proceed.
+Doctor-patient communication is the clinical and institutional work of exchanging symptoms, constraints, reasoning, uncertainty, decisions, status changes, and follow-up routes clearly enough for care to proceed safely.
 
 ## Current Synthesis
-The wiki treats communication as clinical work, not bedside decoration. [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] gives the baseline: patients can make rushed visits more useful by naming the main symptom, duration, triggers, prior tests, allergies, medication effects, and treatment feedback. The same source also says patients should ask when terms are unclear and avoid replacing the clinical relationship with search-result arguments or false document requests.
+The source set treats communication as part of care rather than bedside decoration. Patients improve a pressured encounter by naming the main problem, timing, relevant history, medication effects, priorities, and real-life constraints; clinicians contribute structured questioning, intelligible terminology, material-risk explanation, a reasoned recommendation, and explicit limits. Neither search results nor public Q&A replaces examination, and a second opinion can be compatible with cooperation.
 
-In the menopause branch, communication becomes shared decision-making. Patients can bring six to twelve months of symptoms, name the current priority, and tell the doctor which advice cannot fit work, childcare, sleep, medication preferences, or life constraints. VOL.218 then gives the safety-netting version: patients can ask what the doctor currently suspects, what dangerous condition remains unexcluded, what changes require return or emergency care, and how reports will be received if they are delayed.
+Communication also has to survive the encounter. Written instructions, repetition, family participation, comparable records, report channels, critical-value calls, and safety-net questions help preserve information across time and people. In emergency or ICU settings, pacing can improve comprehension, but it cannot justify deception or transferring the entire professional decision burden to relatives.
 
-VOL.128 adds an inpatient and family-facing layer. Trauma prognosis may require explaining that technical success does not guarantee survival, discharge, or preserved function. Older patients may need instructions written on medicine boxes or records, repeated, and shared with adult children; respectful encouragement can reduce pressure, but it must not turn an uncertain outcome into a promise.
-
-VOL.118 adds communication when the patient cannot remember or speak. Sedation, restraints, tubes, and amnesia can make successful rescue feel like coercion on waking. In that setting, reassurance, touch, family explanation, and reconstruction of the treatment story are part of humane care, while [[NarrativeMedicine]] makes room for patient, family, and clinician perspectives that routine measurements do not capture.
-
-VOL.110 adds the remote-consultation and preference-sensitive branch. A short online answer may sound cold because the clinician lacks examination findings, drug and dose details, anesthesia method, or local protocol and must protect against a severe missed outcome. The same source treats second opinions as legitimate and asks clinicians to distinguish the patient's actual aim—less pain, lower cost, immediate intervention, or permission to wait—from the literal wording of “is there a better plan?”
-
-VOL.106 applies the same boundary to a listener Q&A: without examination or image review, the useful answer is a route rather than a verdict. Patients can describe whether chest tightness is worsening, preserve comparable scans, return to the treating surgeon for postoperative questions, and distinguish a finding under surveillance from a symptom needing its own workup. A grateful family story also shows how public medical communication can lower disorientation after diagnosis without promising access, outcomes, or personalized care.
-
-VOL.14 adds the time-critical family conversation. Full disclosure does not make relatives medically equipped to weigh conflicting cardiac, bleeding, organ-support, financial, and prognosis questions in minutes. A clinician should explain uncertainty and material risks while still offering a reasoned recommendation grounded in the patient's goals and the multidisciplinary view; avoiding all recommendation merely relocates professional responsibility onto the family.
-
-VOL.05 adds two communication channels under emergency pressure. Bad news may need paced, progressively clearer explanation so a family can absorb severity and likely consequences, while a stamped imaging report and direct critical-value call between clinicians preserve context that an informal bedside comment or patient relay may lose. The same episode shows why explanation must include system constraints: a failed add-on request can reflect a full scanner schedule or absent bed rather than hostility, but scarcity does not excuse opacity, missed deterioration, or withholding material information.
+VOL.185 adds an operational layer: patients need to know not only what the clinician thinks, but also what is happening when the clinician is absent or delayed. Advance cancellation, same-team handoff, prescription or test planning, real-time status updates, and a visible coordination route can prevent a scheduling disruption from becoming abandonment or unexplained loss of control.
 
 ## Key Claims
-- A useful visit opening names the main symptom, duration, and relevant changes before background narration.
-- Patients should ask about unfamiliar terms, likely diagnosis, still-unexcluded risks, return triggers, and report access instead of pretending to understand.
-- Patient feedback matters because treatment response, pain change, sleep, bowel function, side effects, and symptom progression cannot always be inferred from tests alone.
-- Real-life constraints and goals can be clinically relevant when treatment advice has to fit work, caregiving, sleep, medication fears, or priorities.
-- Second opinions are compatible with respect for clinicians, and comparing plans works best when the patient's goals, costs, pain tolerance, and uncertainty preferences are explicit.
-- Communication should preserve clinical and legal integrity by avoiding false diagnoses, hidden assumptions, unqualified care drift, adversarial search-result arguments, and context-free preliminary interpretations; under time pressure it should combine paced material-risk disclosure with a reasoned professional recommendation rather than treating information transfer as the whole decision.
-- Written instructions, repetition, and family participation can make care information more durable; after sedation or critical illness, the same support can reconstruct why invasive treatment occurred without dismissing the patient's fear or anger, while public Q&A is most useful when it states what cannot be decided remotely and turns uncertainty into observable changes, records to preserve, and an appropriate follow-up route.
+- Useful communication identifies the main symptom, timing, change, relevant history, treatment response, goals, and constraints.
+- Patients should be able to ask what is suspected, what remains unexcluded, what requires return, and how pending information will reach them.
+- Clinicians should combine uncertainty and risk disclosure with a reasoned recommendation rather than treating information transfer as the whole decision.
+- Written, repeated, family-supported, and system-routed communication can make plans more durable across handoffs.
+- Public, remote, or online communication is most useful when it states what cannot be decided and supplies an appropriate next route.
+- Planned clinician absence and unexpected delay require different communication, but both need an actionable continuation path.
+- Resource scarcity can explain queues or conservative routing without making opacity, missed reassessment, or every delay acceptable.
 
 ## Evidence
-- Visit inputs: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] emphasizes chief complaint, duration, history, allergies, prior tests, treatment effects, and honest feedback as inputs doctors need.
-- Shared decision-making: [[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] has menopause-care speakers recommend preparing symptom history, current priorities, fears, and constraints so advice can become usable.
-- Safety-net questions: [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] condenses the patient script into asking the current diagnostic tendency, unexcluded risks, urgent changes, and where or when to get reports.
-- Second opinions: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] and [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] both frame another professional opinion as reasonable when uncertainty or stakes warrant it.
-- Integrity boundaries: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] warns against false certificate or diagnosis pressure, while [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] warns against replacing qualified care with alternative treatments or health-product promises.
-- Prognosis and durable instructions: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] separates procedural success from whole-patient outcome and describes labels, written reminders, repetition, and family participation for older patients.
-- ICU reassurance and reconstruction: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] contrasts encouragement and bedside touch with a survivor's post-sedation misunderstanding, showing why invasive rescue may need later explanation.
-- Remote caution and preference-sensitive plans: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] links conservative online referral to missing clinical context and links plan comparison to the patient's actual goals and constraints.
-- Public Q&A boundaries: [[vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi]] uses nodule, chest-tightness, postoperative-pain, and pneumothorax questions to separate general direction from examination-, imaging-, and treating-team-dependent judgment.
-- Time-critical family decisions: [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c|VOL.14]] has the guest combine disclosure, multidisciplinary input, treatment goals, affordability, and a professional recommendation when relatives cannot independently absorb the full medical tradeoff within an emergency window.
-- Emergency explanation and reporting channels: [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6|VOL.05]] links paced bad-news communication, formal imaging reports, direct critical-value calls, and explanations of bed or scanner scarcity to the need to preserve context under pressure.
+- Visit preparation and shared decisions - [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] and [[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] connect symptom structure, terminology questions, treatment feedback, goals, and life constraints.
+- Safety-netting - [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] turns “observe” into a time window, warning signs, report route, and responsible follow-up.
+- Durable and humane explanation - [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] adds honest prognosis, written instructions, repetition, and family involvement, while [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] adds post-sedation explanation and narrative reconstruction.
+- Remote and public boundaries - [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] and [[vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi]] connect missing examination context with cautious routing, second opinions, record preservation, and preference-sensitive plans.
+- Emergency communication - [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c]] combines risk disclosure with a professional recommendation, while [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6]] adds paced bad news, formal reports, direct critical-value calls, and explanations of capacity constraints.
+- Absence and delay - [[vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md|VOL.185]] adds advance notice, same-team handoff, online follow-up, direct calls, and triage or outpatient-office escalation when a clinician is unavailable.
 
 ## Counterevidence & Qualifications
-Good communication cannot eliminate scarce appointments, beds, imaging slots, overloaded clinicians, disease uncertainty, severe complications, delirium, traumatic memories, or system handoff failures. The concept also should not shift all safety responsibility onto patients or family members. The sources make patient questions and family support useful because clinicians and institutions still need to give intelligible explanations, track reports, communicate critical results through reliable channels, offer recommendations where appropriate, respect patient agency, and preserve qualified care boundaries. Pacing difficult information should improve comprehension, not become deception or indefinite nondisclosure; recommendation is not coercion or a guarantee.
+Good communication cannot eliminate scarce appointments, beds, imaging slots, clinician overload, emergencies, disease uncertainty, traumatic memory, or handoff failure. It should not shift all safety responsibility onto patients and families. Pacing difficult information should improve comprehension, not conceal material facts; a professional recommendation is not coercion or a guarantee. VOL.185 reflects one clinician and hospital context, so its notification tools and escalation route are examples rather than universal policy.
 
 ## What Changed
-- Added paced bad-news explanation as a comprehension tool bounded against deception or indefinite nondisclosure.
-- Added formal reports and direct critical-value calls as context-preserving communication channels.
-- Added bed and scanner constraints as information clinicians may need to explain without treating scarcity as proof that every delay is justified.
+- Added clinician absence and delay as communication problems with distinct planned and urgent pathways.
+- Added same-team handoff, status displays, and outpatient coordination as institutional communication tools.
+- Clarified that explanation of competing emergency duties does not by itself justify every delay.
 
 ## Related Concepts
-- [[MedicalDiagnosticReasoning]] - communication supplies the input that diagnosis needs.
-- [[DiagnosticSafetyNetting]] - follow-up plan communicated after uncertain visits.
-- [[MissedDiagnosisRisk]] - safety risk reduced by clear symptoms, report routes, and return triggers.
-- [[SecondOpinionStrategy]] - communication method for seeking another qualified view.
-- [[MenopauseClinicalSharedDecision]] - life-constraint version of patient-doctor negotiation.
-- [[MedicalRiskManagement]] - safety frame shaped by incomplete information and unclear handoffs.
-- [[PatientAIUse]] - outside-information branch that becomes safer when made visible to clinicians.
-- [[ClinicalOutcomeUncertainty]] - prognosis boundary between an intervention and the patient's eventual course.
-- [[ClinicalTrustBuilding]] - relational pattern joining explanation, responsibility, encouragement, and continuity.
-- [[NarrativeMedicine]] - lived-experience and storytelling layer of clinical communication.
-- [[IntensiveCareAsTimeBuying]] - critical-care context where memory gaps and invasive support complicate understanding.
+- [[OutpatientCareContinuityAndHandoff]] - operational continuation when a familiar clinician is unavailable.
+- [[DiagnosticSafetyNetting]] - follow-up plan after uncertain diagnosis or early testing.
+- [[ClinicalTrustBuilding]] - relational effect of visible responsibility, explanation, and follow-through.
+- [[MedicalRiskManagement]] - safety frame shaped by incomplete information and competing duties.
+- [[OnlineMedicalConsultation]] - remote channel whose usefulness depends on scope and escalation boundaries.
+- [[SecondOpinionStrategy]] - qualified route for another interpretation under uncertainty.
+- [[NarrativeMedicine]] - lived-experience layer that ordinary clinical metrics may not preserve.

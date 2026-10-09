@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了](sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md.md) — 这病说来话长由马浩宁的拉萨支援经历连接医疗能力转移、门诊停诊交接、同组复诊、线上随访与延误告知。
 - [617. Elizabeth I: Anne Boleyn's Bastard (Part 2)](sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242.md) — The Rest Is History on Elizabeth's childhood losses, humanist-Protestant education, the Thomas Seymour scandal, disciplined interrogation survival, and Edward VI's succession crisis.
 - [Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459.md) — Condensed Huberman Lab interview on respiratory rhythm, physiological sighs, slow-breathing pathways, fear-response evidence, and bounded magnesium claims.
 - [618. Elizabeth I: The Shadow of the Tower (Part 3)](sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339.md) — The Rest Is History on Elizabeth's survival under Mary I, Wyatt's Rebellion, Tower imprisonment, Marian persecution, Foxe's memory, and the 1558 succession.
@@ -17430,6 +17431,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Medical Support Capacity Transfer / 医疗支援能力转移](concepts/MedicalSupportCapacityTransfer.md) — 以现场带教、当地能力、设备与持续交流衡量医疗支援能否留下可重复的临床能力。
+- [Outpatient Care Continuity and Handoff / 门诊连续性与交接](concepts/OutpatientCareContinuityAndHandoff.md) — 熟悉医生缺席或临时离开时，通过预告、同组交接、状态说明与协调路径维持治疗连续性。
 - [Tudor Humanist-Protestant Education](concepts/TudorHumanistProtestantEducation.md) — Royal formation joining classical languages, translation, reformist religion, courtly accomplishment, and disciplined political self-presentation.
 - [Audience-Centered Communication](concepts/AudienceCenteredCommunication.md) — message design organized around listener relevance, usable understanding, clear guidance, and live feedback.
 - [Structured Spontaneous Speaking](concepts/StructuredSpontaneousSpeaking.md) — flexible scaffolds, aloud rehearsal, varied prompts, feedback, and recovery in place of exact-word memorization.

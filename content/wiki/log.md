@@ -34230,3 +34230,11 @@ Added source `617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了
+
+Added source `vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md`; created [[MedicalSupportCapacityTransfer|医疗支援能力转移]] and [[OutpatientCareContinuityAndHandoff|门诊连续性与交接]]; and resynthesized [[MaHaoning|马浩宁]] and [[DoctorPatientCommunication]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sustainable medical support depends on supervised procedural detail, local skill, equipment and case context, and continued exchange rather than visiting surgery volume alone; when a familiar doctor is unavailable, advance notice, same-team handoff, bounded online follow-up, real-time status explanation, and a visible coordination route can preserve continuity. No settled contradiction was adopted. The title-level 麻/马 surname inconsistency was mapped to the established identity, while high-altitude oxygenation, regional disease, osteoporosis, equipment, volume, and warmth claims remain participant observations rather than general medical or regional-health facts. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,286 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

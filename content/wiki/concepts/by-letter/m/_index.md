@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10163
+wiki_total_pages: 10165
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "MedicalSocialWorkDischargeCoordination"
     title: "Medical Social Work Discharge Coordination / 医疗社工与出院衔接"
     url: "/wiki/concepts/medicalsocialworkdischargecoordination/"
+  - key: "MedicalSupportCapacityTransfer"
+    title: "Medical Support Capacity Transfer / 医疗支援能力转移"
+    url: "/wiki/concepts/medicalsupportcapacitytransfer/"
   - key: "MedicalTestingValidationIntegrity"
     title: "Medical Testing Validation Integrity"
     url: "/wiki/concepts/medicaltestingvalidationintegrity/"

@@ -65636,9 +65636,9 @@
       "url": "/wiki/concepts/donotresuscitatedecision/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -65702,9 +65702,16 @@
           "show": "这病说来话长",
           "title": "VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地",
           "url": "/wiki/sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6/"
+        },
+        {
+          "episode_file": "lvpDt_miz6qh-JKl6wrB0xw_w1Md [lvpDt_miz6qh-JKl6wrB0xw_w1Md].md",
+          "key": "vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md",
+          "show": "这病说来话长",
+          "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
+          "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DoctoralStudentIsolationMentalHealth": {
@@ -160257,9 +160264,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -160337,9 +160344,16 @@
           "show": "这病说来话长",
           "title": "VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生",
           "url": "/wiki/sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu/"
+        },
+        {
+          "episode_file": "lvpDt_miz6qh-JKl6wrB0xw_w1Md [lvpDt_miz6qh-JKl6wrB0xw_w1Md].md",
+          "key": "vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md",
+          "show": "这病说来话长",
+          "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
+          "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/mahaoning/"
     },
     "MaHeluoWesternHan": {
@@ -166750,6 +166764,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/medicalimagingcommunicationboundary/"
+    },
+    "MedicalSupportCapacityTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvpDt_miz6qh-JKl6wrB0xw_w1Md [lvpDt_miz6qh-JKl6wrB0xw_w1Md].md",
+          "key": "vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md",
+          "show": "这病说来话长",
+          "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
+          "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/medicalsupportcapacitytransfer/"
     },
     "MedicalTraineePsychosocialSafety": {
       "episode_count": 1,
@@ -187926,6 +187956,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/outlive/"
+    },
+    "OutpatientCareContinuityAndHandoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvpDt_miz6qh-JKl6wrB0xw_w1Md [lvpDt_miz6qh-JKl6wrB0xw_w1Md].md",
+          "key": "vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md",
+          "show": "这病说来话长",
+          "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
+          "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/outpatientcarecontinuityandhandoff/"
     },
     "OutsiderExperienceDiagnosticSkill": {
       "episode_count": 1,

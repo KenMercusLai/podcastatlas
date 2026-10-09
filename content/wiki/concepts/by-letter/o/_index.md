@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10163
+wiki_total_pages: 10165
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "OutlierDrivenAngelInvesting"
     title: "Outlier-Driven Angel Investing"
     url: "/wiki/concepts/outlierdrivenangelinvesting/"
+  - key: "OutpatientCareContinuityAndHandoff"
+    title: "Outpatient Care Continuity and Handoff / 门诊连续性与交接"
+    url: "/wiki/concepts/outpatientcarecontinuityandhandoff/"
   - key: "OutputQualityGates"
     title: "Output Quality Gates"
     url: "/wiki/concepts/outputqualitygates/"
