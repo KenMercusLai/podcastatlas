@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多](sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2.md) — 纸醉金迷FM以三世棺、地下影骨和顶部真身拆解献王墓的垂直宇宙结构，并讨论文化反转式恐怖与铁三角互补协作。
 - [628. Jack The Ripper: The Killer Unmasked (Part 5)](sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737.md) — The Rest Is History tests famous, conspiratorial, police-backed, and local Jack the Ripper suspects, favoring an unidentified local-worker profile while preserving the absence of proof.
 - [Transform Pain & Trauma Into Creative Expression | David Choe](sources/transform-pain-trauma-into-creative-expression-david-choe-scim4316318313.md) — Huberman Lab interview on art, shame, gambling, workaholism, self-sabotage, substituted compulsion, relational recovery, and choosing connection over legacy.
 - [No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？](sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i.md) — 三五环对谈脉脉创始人林凡，讨论实名底座的昵称社区、职场人脉、招聘变化，以及由输出下限、容错率和任务拆解决定的 AI 任务替代边界。
@@ -4315,7 +4316,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
 - [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
 - [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
-- [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。
+- [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以垂直墓葬宇宙、互补协作、高密度怪物、灵异暧昧和终局争议连接雮尘珠与昆仑路线。
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
 - [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
 - [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.
@@ -4582,7 +4583,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
-- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
+- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、垂直墓葬、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。

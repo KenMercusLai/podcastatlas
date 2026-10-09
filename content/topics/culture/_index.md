@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3290
+topic_total_pages: 3291
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8601,6 +8601,9 @@ topic_sources:
   - key: "08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994"
     title: "08.老妓抄：老妓不死，甚至不曾凋零"
     url: "/wiki/sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994/"
+  - key: "088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2"
+    title: "088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多"
+    url: "/wiki/sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2/"
   - key: "089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n"
     title: "089 趣话《鬼吹灯》之云南虫谷（大结局）"
     url: "/wiki/sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n/"
