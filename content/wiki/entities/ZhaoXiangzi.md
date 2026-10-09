@@ -2,22 +2,46 @@
 title: "赵襄子 / Zhao Xiangzi"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
-last_updated: 2026-08-18
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
+  - zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l
+last_updated: 2026-10-10
 ---
 
 # 赵襄子 / Zhao Xiangzi
 
-赵襄子 / Zhao Xiangzi, also named 赵无恤 / Zhao Wuxu, appears in [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] as the Zhao leader chosen by [[ZhaoJianzi|赵简子]] over [[ZhaoBolu|赵伯鲁]]. The episode says Zhao Wuxu best understood his father's strategic assignment, which justifies the succession despite violating the eldest-son expectation.
+## Overview
+Zhao Xiangzi, personal name Zhao Wuxu, is the Zhao leader who survives [[ZhiYao|Zhi Yao]]'s attack at [[Jinyang|Jinyang]], joins the counterstroke that destroys the Zhi house, and later shapes Zhao through conquest and an unconventional succession settlement.
 
-Zhao Xiangzi is shown as both capable and ruthless. He helps destroy [[ZhiYao|智瑶]], reportedly uses Zhi Yao's lacquered skull as a drinking vessel, and later conquers [[DaiState|代国]] by killing the Dai ruler, his brother-in-law, during a feast. The same source says this conquest causes Zhao Wuxu's sister to kill herself.
+## Current Profile
+The Battle of Jinyang shows Zhao Wuxu as a condition-sensitive defender. He refuses to rely on a recently burdened population at Changzi or an already stripped population at Handan and chooses Jinyang because earlier lenient rule has created cohesion. His refusal to surrender imposes terrible civilian costs, but the city holds long enough for [[ZhangMengtan|Zhang Mengtan]] to reverse Wei and Han. The sequel preserves a harsher profile: he reportedly turns Zhi Yao's skull into a drinking vessel, conquers Dai through kinship deception, and redirects succession back toward his displaced elder brother's line.
 
-His succession decision creates the episode's second Zhao problem. Instead of appointing one of his own five sons, he keeps his dead elder brother in mind, sends [[ZhaoBolu|赵伯鲁]]'s son [[DaiChengjun|代成君]] to Dai, and later designates Dai Chengjun's son [[ZhaoXianzi|赵献子]] as heir. [[ZhaoHuanzi|赵桓子]] briefly overturns that arrangement, but Zhao clan leaders restore Zhao Xianzi after Zhao Huanzi's death.
+## Key Characteristics
+- Selects a defensive base by social loyalty as well as walls and stores.
+- Accepts extreme siege risk rather than surrender Zhao's political future.
+- Uses diplomacy and a coordinated flood reversal to convert near defeat into victory.
+- Combines strategic competence with retaliatory and expansionist ruthlessness.
+- Treats succession as a clan-line obligation rather than a simple father-to-son transfer.
 
-## Connections
-- [[ZhaoState|赵国]] - polity branch shaped by Zhao Xiangzi.
-- [[ZhaoJianzi|赵简子]] and [[ZhaoBolu|赵伯鲁]] - father and displaced elder brother.
-- [[DaiState|代国]] and [[DaiChengjun|代成君]] - conquest and succession branch.
-- [[ZhiYao|智瑶]] and [[YuRang|豫让]] - revenge branch.
-- [[ZhaoHuanzi|赵桓子]], [[ZhaoXianzi|赵献子]], and [[ZhaoLiehou|赵烈侯]] - downstream succession.
-- [[PartitionOfJin|三家分晋]] - broader state-formation context.
+## Evidence
+- Defensive judgment and public support: Zhouji 03 contrasts Changzi, Handan, and Jinyang before the siege and ties Jinyang's resistance to Yin Duo's earlier leniency. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
+- Coalition reversal and counterattack: Zhang Mengtan secures Wei-Han cooperation, Zhao troops reverse the dike, and Zhao Wuxu leads the final attack on Zhi Yao. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
+- Ruthlessness and succession: Zhouji 04 narrates the skull vessel, the Dai conquest, the death of Zhao Wuxu's sister, and the attempt to restore Zhao Bolu's line through Zhao Xianzi. [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik|Zhouji 04]]
+
+## Qualifications
+The two notes come from consecutive episodes in one podcast series. Jinyang's reported starvation, dialogue, gestures, and tactics, as well as the skull-vessel and Dai-feast accounts, remain source-attributed narrative. The siege episode explicitly recognizes that continued resistance endangered civilians, so endurance should not be flattened into cost-free heroism.
+
+## What Changed
+- Added the prequel showing why Zhao Wuxu chose Jinyang and how the coalition reversal occurred.
+- Made the civilian-protection cost of his refusal to surrender explicit.
+- Migrated the profile to `synthesis-v1` while preserving its prior evidence.
+
+## Relationships
+- [[ZhaoJianzi]] - father whose earlier instructions guide the choice of Jinyang.
+- [[ZhiYao]] - attacking rival killed after the flood reversal.
+- [[ZhangMengtan]] - envoy who converts Wei-Han fear into a rescue coalition.
+- [[WeiJu]] - former attacker who joins Zhao's counterstroke.
+- [[HanKangzi]] - former attacker who joins Zhao's counterstroke.
+- [[YuRang]] - Zhi retainer whose revenge attempts make Zhao Wuxu their target.
+- [[PartitionOfJin]] - wider transition advanced by the victory over Zhi.

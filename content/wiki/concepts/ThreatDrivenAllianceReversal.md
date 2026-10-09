@@ -2,28 +2,46 @@
 title: "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转"
 type: concept
 tags: [alliance, strategy, psychology, late-han]
-sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu
+  - zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc
+  - zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l
+last_updated: 2026-10-10
 ---
 
 # Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转
 
-Threat-driven alliance reversal / 威胁感驱动的同盟反转 enters the wiki through [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]]. [[LyuBu|吕布]] had recently helped or mediated for [[LiuBei|刘备]], but when Liu Bei gathers more than ten thousand troops, the same relationship begins to look like a local security threat.
+## Definition
+Threat-driven alliance reversal is the change from cooperation to attack or defection when one participant interprets an ally's growing capacity, demonstrated weapon, or likely next move as a future danger to its own survival.
 
-The mechanism differs from ordinary alliance switching. Lü Bu does not merely discover a better patron or spoils offer; he reinterprets an ally's growth as a danger to his own territory, status, and future control. The episode's host frames this through threat perception and competition psychology, while the wiki keeps the psychological explanation source-scoped and records the political mechanism: stronger independent capacity can make yesterday's protected ally become today's target.
-
-The strategic cost is that the reversal pushes Liu Bei toward [[CaoCao|曹操]]. Lü Bu removes an immediate anxiety but worsens the larger field by converting a possible anti-Cao partner into a Cao-backed opponent. The concept therefore sits beside [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] and [[PowerBasedAllianceRepricing|实力重估式阵营转向]], but it names the protector's fear of an ally's rising force rather than coalition members' search for better payoff.
-
-[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] clarifies the earlier phase of the same Liu Bei-Lü Bu relationship. Before Lü Bu attacks Liu Bei out of threat perception, he has already betrayed Liu Bei for [[YuanShu|袁术]]'s promised grain and taken [[Xiapi|下邳]]. The wiki keeps that earlier move under [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] because its trigger is supply and opportunity rather than fear of Liu Bei's later troop growth.
+## Current Synthesis
+The evidence now contains opposite directional forms. In the Liu Bei-Lü Bu sequence, the stronger host attacks a growing subordinate ally and pushes him toward Cao Cao. At Jinyang, weaker coalition members defect from the dominant leader after his successful water attack demonstrates how he could eliminate them next. The shared mechanism is prospective threat, not current treachery: actors reprice the alliance around what a partner may soon be able and motivated to do.
 
 ## Key Claims
-- An alliance can reverse when one side's growth makes the former protector feel exposed.
-- The trigger is perceived future danger, not necessarily present betrayal.
-- A prior resource-driven betrayal can create the status inversion that later makes threat-driven reversal possible.
-- Short-term suppression can worsen the strategic field if the attacked ally seeks shelter from a stronger rival.
-- Threat perception can make a militarily strong actor choose a move that weakens his own future coalition options.
+- An alliance can reverse before present betrayal when future capacity becomes threatening.
+- Growth, territorial proximity, and demonstrated methods can all create the threat signal.
+- Stronger actors may attack an emerging ally, while weaker allies may defect preemptively from a dominant coalition leader.
+- Resource inducement and threat perception can occur in sequence but should remain analytically distinct.
+- Short-term security moves can worsen the strategic field by giving the target stronger partners.
+- Persuasion is most effective when it articulates a threat the listener already perceives.
 
-## Connections
-- [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]], [[LyuBu|吕布]], [[LiuBei|刘备]], and [[CaoCao|曹操]] - source case.
-- [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PowerBasedAllianceRepricing|实力重估式阵营转向]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent alliance-change frames.
-- [[PoliticalSurvivalFirst|安全第一政治生存]] - Liu Bei's ability to flee and accept a dangerous host after the reversal.
+## Evidence
+- Protector-against-growing-ally form: after Liu Bei rebuilds more than ten thousand troops, Lü Bu attacks him; Liu Bei then receives Cao Cao's protection, troops, and grain. [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]]
+- Distinct resource-driven prelude: Lü Bu had earlier taken Xiapi after Yuan Shu promised grain, so the first betrayal is better classified as inducement and scarcity rather than fear of Liu Bei's growth. [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]]
+- Weaker-allies-against-dominant-leader form: Zhi Yao's water attack and state-destruction remark make Wei Ju and Han Hu fear sequential elimination; Zhang Mengtan then secures their defection. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
+
+## Counterevidence & Qualifications
+All three notes come from one podcast series and narrate motive through historical storytelling. Troop figures, private fear, gestures, and dialogue remain source-scoped. Alliance reversal can also come from grain, office, insult, legitimacy, or immediate payoff; this concept applies only where anticipated danger is the central mechanism. Jinyang combines threat perception with coercion and self-preservation, while the Liu Bei case combines it with an already unstable relationship.
+
+## What Changed
+- Added Jinyang's weaker-member defection as the inverse of Lü Bu's attack on a growing ally.
+- Migrated the concept to `synthesis-v1` without collapsing earlier grain inducement into threat perception.
+
+## Related Concepts
+- [[GrainLeverageAllianceBetrayal]] - distinguishes resource inducement from prospective-danger reversal.
+- [[InterestStructuredAllianceFragility]] - provides the broader incentive structure in which threat repricing occurs.
+- [[PowerBasedAllianceRepricing]] - covers alignment changes after relative capability shifts.
+- [[InterestReframingPersuasion]] - explains how Zhang Mengtan voices an already-felt survival interest.
+- [[BattleOfJinyang]] - supplies the dominant-leader variant.
+- [[PoliticalSurvivalFirst]] - explains why threatened actors accept risky new partners.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12963
+wiki_total_pages: 12966
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "WeiCommanderyLateHan"
     title: "魏郡 / Wei Commandery (Late Han)"
     url: "/wiki/entities/weicommanderylatehan/"
+  - key: "WeiJu"
+    title: "魏驹 / Wei Ju"
+    url: "/wiki/entities/weiju/"
   - key: "WeiQiWarringStates"
     title: "魏齐 / Wei Qi (Warring States)"
     url: "/wiki/entities/weiqiwarringstates/"

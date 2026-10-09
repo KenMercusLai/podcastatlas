@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2666
+topic_total_pages: 2668
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -121,6 +121,9 @@ topic_concepts:
   - key: "BanditAssassinationAttribution"
     title: "Bandit Assassination Attribution / 盗贼行刺归因"
     url: "/wiki/concepts/banditassassinationattribution/"
+  - key: "BattleOfJinyang"
+    title: "Battle of Jinyang / 晋阳之战"
+    url: "/wiki/concepts/battleofjinyang/"
   - key: "BattleOfWakefield"
     title: "Battle of Wakefield"
     url: "/wiki/concepts/battleofwakefield/"
@@ -7071,6 +7074,9 @@ topic_sources:
   - key: "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+  - key: "zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l"
+    title: "《资治通鉴·周纪》03｜魏驹韩虎无间道"
+    url: "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
   - key: "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik"
     title: "《资治通鉴·周纪》04｜豫让 为智瑶复仇"
     url: "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12963
+wiki_total_pages: 12966
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2279,6 +2279,9 @@ wiki_pages:
   - key: "ChengJing"
     title: "程静 / Cheng Jing"
     url: "/wiki/entities/chengjing/"
+  - key: "ChiCi"
+    title: "絺疵 / Chi Ci"
+    url: "/wiki/entities/chici/"
   - key: "CangtingBattleLateHan"
     title: "苍亭之战 / Cangting Battle (late Han)"
     url: "/wiki/entities/cangtingbattlelatehan/"

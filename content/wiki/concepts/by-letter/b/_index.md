@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10135
+wiki_total_pages: 10136
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "BattleOfHastings"
     title: "Battle of Hastings"
     url: "/wiki/concepts/battleofhastings/"
+  - key: "BattleOfJinyang"
+    title: "Battle of Jinyang / 晋阳之战"
+    url: "/wiki/concepts/battleofjinyang/"
   - key: "BattleOfManzikert"
     title: "Battle of Manzikert"
     url: "/wiki/concepts/battleofmanzikert/"

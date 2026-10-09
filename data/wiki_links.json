@@ -12259,6 +12259,10 @@
     "title": "Battle of Ilipa / 伊利帕战役",
     "url": "/wiki/entities/battleofilipa/"
   },
+  "BattleOfJinyang": {
+    "title": "Battle of Jinyang / 晋阳之战",
+    "url": "/wiki/concepts/battleofjinyang/"
+  },
   "BattleOfLakeTrasimene": {
     "title": "Battle of Lake Trasimene / 特拉西梅诺湖战役",
     "url": "/wiki/entities/battleoflaketrasimene/"
@@ -17994,6 +17998,10 @@
   "ChhatralRinpoche": {
     "title": "Chhatral Rinpoche",
     "url": "/wiki/entities/chhatralrinpoche/"
+  },
+  "ChiCi": {
+    "title": "絺疵 / Chi Ci",
+    "url": "/wiki/entities/chici/"
   },
   "ChiZhaopingXinRebel": {
     "title": "池昭平 / Chi Zhaoping",
@@ -88959,6 +88967,10 @@
     "title": "魏咎 / Wei Jiu",
     "url": "/wiki/entities/weijiu/"
   },
+  "WeiJu": {
+    "title": "魏驹 / Wei Ju",
+    "url": "/wiki/entities/weiju/"
+  },
   "WeiKangWesternHan": {
     "title": "卫伉 / Wei Kang (Western Han)",
     "url": "/wiki/entities/weikangwesternhan/"
@@ -94606,6 +94618,10 @@
   "ZhangMengWesternHan": {
     "title": "张猛 / 张萌 / Zhang Meng (Western Han)",
     "url": "/wiki/entities/zhangmengwesternhan/"
+  },
+  "ZhangMengtan": {
+    "title": "张孟谈 / Zhang Mengtan",
+    "url": "/wiki/entities/zhangmengtan/"
   },
   "ZhangMiaoLateHan": {
     "title": "张邈 / Zhang Miao (Late Han)",
@@ -108882,6 +108898,10 @@
   "zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd": {
     "title": "《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？",
     "url": "/wiki/sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd/"
+  },
+  "zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l": {
+    "title": "《资治通鉴·周纪》03｜魏驹韩虎无间道",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l/"
   },
   "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik": {
     "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",

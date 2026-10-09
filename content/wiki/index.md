@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》03｜魏驹韩虎无间道](sources/zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l.md) — 晋阳之战中，赵氏凭民心坚守，张孟谈以共同生存利益促成魏韩倒戈，并反用水攻消灭智氏。
 - [624. Jack The Ripper: History’s Darkest Mystery (Part 1)](sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893.md) — The Rest Is History frames Whitechapel as a Victorian social and media crisis, then reconstructs Polly Nichols’s cumulative precarity, uncertain final activity, murder, and identification.
 - [087 金庸小说与儒家文化](sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8.md) — 纸醉金迷FM以金庸人物区分儒家精神与僵化礼教，连接知行合一、护民反战、亲情与公义及儒家价值的现代转化。
 - [VOL.188《疯狂动物城2》背后藏着的“成年人心理课”](sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c.md) — 这病说来话长借电影台词讨论家庭角色错位、亲职化、责任边界、留下与离开的自主性，以及对休息和不必坚强的心理许可。
@@ -4330,6 +4331,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
 
 ## Entities
+- [魏驹 / Wei Ju](entities/WeiJu.md) — 晋阳之战中从智氏联军转向魏韩赵反攻的魏氏领袖。
+- [张孟谈 / Zhang Mengtan](entities/ZhangMengtan.md) — 以“唇亡齿寒”把魏韩恐惧转化为秘密反智联盟的赵氏使者。
+- [絺疵 / Chi Ci](entities/ChiCi.md) — 准确识破魏韩异心、却因智瑶泄密而避祸出走的谋臣。
 - [Twyla Tharp](entities/TwylaTharp.md) — Choreographer whose practice joins schedule, bodily technique, internal standards, audience service, and adaptation across aging.
 - [《疯狂动物城2》 / Zootopia 2](entities/Zootopia2Film.md) — Animated-film reference point used by VOL.188 to discuss inherited burden, belonging, progress pressure, and becoming oneself.
 - [Brian Epstein](entities/BrianEpstein.md) — Beatles manager whose respectable public packaging and death reveal the band's dependence on a shared organizational center.
@@ -17353,6 +17357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [Battle of Jinyang / 晋阳之战](concepts/BattleOfJinyang.md) — 民心、围城水工、进谏失效与联盟反转共同决定的晋国内部决战。
 - [极端忠诚的威胁反转 / Extreme Loyalty Threat Paradox](concepts/ExtremeLoyaltyThreatParadox.md) — Pattern where unlimited sacrifice proves task commitment while making the actor appear dangerously unrestrained.
 - [Creative Spine](concepts/CreativeSpine.md) — Organizing center that coordinates a work while allowing its route and details to emerge through practice.
 - [Embodied Creative Judgment](concepts/EmbodiedCreativeJudgment.md) — Use of trained bodily perception, technique, and real-world rehearsal as contextual evidence for creative decisions.

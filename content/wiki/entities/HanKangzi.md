@@ -2,19 +2,43 @@
 title: "韩康子 / Han Kangzi"
 type: entity
 tags: [person, aristocrat, pre-qin, han-state]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-18
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d
+  - zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l
+last_updated: 2026-10-10
 ---
 
 # 韩康子 / Han Kangzi
 
-韩康子 / Han Kangzi appears in [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] as the early [[HanState|韩国]] lineage point from which the host begins the long road to destroying [[ZhengState|郑国]]. The source says Han's capital was at Pingyang in his era.
+## Overview
+Han Kangzi, identified as Han Hu in the Jinyang episode, is an early Han-lineage leader whose survival choice against Zhi Yao precedes the later multi-generational expansion of [[HanState|Han]].
 
-His source role is not biographical. He anchors the first generation in the episode's [[GenerationalFamilyStrategy|family-scale strategy]] frame, before [[HanWuzi|韩武子]] moves Han closer to Zheng.
+## Current Profile
+At Jinyang, Han Hu initially joins Zhi Yao's attack on Zhao under a coercive coalition. Zhi Yao's boast about water destroying a state makes Pingyang's exposure visible, and [[ZhangMengtan|Zhang Mengtan]]'s “唇亡齿寒” appeal converts that fear into a secret agreement with Zhao and Wei. A later episode uses Han Kangzi as the opening generation in Han's long strategy against Zheng, locating Han's capital at Pingyang before successors move closer to the target.
 
-## Connections
-- [[HanState|韩国]] - polity and lineage context.
-- [[HanWuzi|韩武子]] - successor generation in the source's strategy sequence.
-- [[ZhengState|郑国]] - eventual target.
-- [[StrategicCapitalRelocation]] - mechanism developed after his starting point.
+## Key Characteristics
+- Leads the Han house from a strategically exposed base at Pingyang.
+- Participates in Zhi Yao's coalition without sharing a durable survival interest.
+- Recognizes Zhao's destruction as a precedent that could be turned against Han.
+- Accepts covert coordination when secrecy makes reversal feasible.
+- Serves as an early lineage anchor for Han's later generational strategy.
 
+## Evidence
+- Alliance reversal: Zhouji 03 has Han Hu react to Zhi Yao's water remark, accept Zhang Mengtan's self-preservation argument, and join the two-wing attack on Zhi. [[zizhi-tongjian-zhouji-03-weiju-hanhu-wujiandao-lkiwf0zdnylmaqjgsix-dktxea0l|Zhouji 03]]
+- Lineage and geography: Zhouji 10 places Han Kangzi at Pingyang and begins the host's multi-generation account of Han's eventual conquest of Zheng with him. [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d|Zhouji 10]]
+
+## Qualifications
+The identification of the episode's Han Hu with Han Kangzi follows the established historical naming used by the wiki, but the source note itself foregrounds the personal name. The private dialogue, gestures, and exact decision sequence remain source-attributed narrative rather than independent access to motive.
+
+## What Changed
+- Added Han Hu as the Jinyang identity and the coalition reversal that preserves the Han house.
+- Migrated the page to `synthesis-v1` while retaining the later lineage-strategy evidence.
+
+## Relationships
+- [[WeiJu]] - co-conspirator against Zhi Yao.
+- [[ZhangMengtan]] - Zhao envoy who turns shared danger into agreement.
+- [[ZhiYao]] - coalition leader whose threat perception Han Kangzi reverses against him.
+- [[ZhaoXiangzi]] - former target who becomes the immediate survival partner.
+- [[HanState]] - successor polity whose lineage strategy begins with his generation in the source.
+- [[GenerationalFamilyStrategy]] - later interpretive frame that makes him a starting point.
