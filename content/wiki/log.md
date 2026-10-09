@@ -33400,3 +33400,11 @@ Added source `639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592`; 
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（1）
+
+Added source `zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd`; resynthesized [[PengYue|彭越]], [[KuaiChe|蒯彻 / 蒯通]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Peng Yue's missed personal mobilization, rejected rebellion proposal, accusation, initial exile, renewed prosecution, extermination, and corpse-paste distribution make his case a disputed verdict and a system-wide terror signal; Kuai Che's candid former-service defense provides a contrasting path to survival. The reported court finding and the episode's claim that no substantive rebellion is shown remain in explicit conflict, while dialogue, motives, legal procedure, and the precise evidence behind both accusations remain source-scoped. Broad Liu Bang, Lu Zhi, Han Xin, Chen Xi, and show pages were kept closed because the focused source, people, and concept capture the bounded additions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,182 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. Report returned in the session; no report file was saved.

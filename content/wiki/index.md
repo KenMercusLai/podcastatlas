@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（1）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd.md) — 彭越因未亲征、部下劝反与告发先被废徙，后由吕雉带回并推动再诉，终遭灭族与尸体示众；蒯彻则以“各为其主”自辩获释。
 - [093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》](sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65.md) — 纸醉金迷FM以人质局、六剑阵、毒药误信与神水宫决战分析《画眉鸟》，赞赏“多出一柄剑”的系统破局并质疑水下终战的生理逻辑。
 - [8 古代的“高速公路”：秦汉驰道与罗马大路](sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli.md) — 怪东西比较秦汉驰道与罗马道路网，将道路、桥梁、驿站、邮传、维护、路权与劳役合并为帝国统治基础设施，并保留宽度、速度和材料细节的证据边界。
 - [《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死](sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx.md) — 刘邦拒医被谨慎解释为继承斗争下的诊疗信任危机；白马之盟与正式诏书则以习俗和法律两条路径安抚开国政治联盟。

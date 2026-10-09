@@ -1,80 +1,85 @@
 ---
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox
+  - zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
+  - zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
+  - zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on
+  - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u
+  - zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx
+  - zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv
+  - zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd
+last_updated: 2026-10-09
 ---
 
 # Different-Surname King Suspicion / 异姓诸侯王猜忌
 
-Different-surname king suspicion / 异姓诸侯王猜忌 enters the wiki through [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] as the founding-order problem that appears once [[LiuBang|刘邦]] has become emperor. During the Chu-Han war, regional kings and high-merit commanders help assemble victory; after unification, the same autonomous territories, troops, prestige, and local networks become threats from the center's point of view.
+## Definition
 
-The source's first case is [[ZangTu|臧荼]]. He had become Yan king through [[XiangYu|项羽]]'s partition and later joined the public petition urging Liu Bang to accept the imperial title. The host reads his rebellion as unlikely to be a genuine bid for the empire; it is more plausibly a defensive reaction if he believed Liu Bang intended to remove him or reduce [[YanState|燕国]].
+Different-surname king suspicion / 异姓诸侯王猜忌 is the early Han governance problem in which regional rulers and commanders rewarded for wartime contribution become peacetime security threats because they retain territory, troops, prestige, and networks outside direct Liu-family control.
 
-The second case is [[LuWan|卢绾]]. Liu Bang's appointment of a lifelong intimate as the new Yan king looks rational because Yan is distant and near [[Xiongnu|匈奴]], but it also signals a shift from "reward the meritorious" toward "trust the personally known." The episode treats this as a dangerous message to other non-Liu kings: their title may depend less on formal loyalty than on how safe they look to the ruler.
+## Current Synthesis
 
-The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu kingship is already a post-victory containment problem; sheltering a former Chu general with local networks makes him look even harder for Liu Bang, [[LuZhi|吕雉]], and [[LiuYing|刘盈]] to control after succession.
+The sources show a repertoire rather than a single purge procedure: replacement by intimates or Liu-family kings, frontier relocation, protocol-based arrest, demotion, investigation, and military suppression. Suspicion can survive loss of kingship and attach to relationships or armed retainer networks. A specific conspiracy may justify intervention, but it can also be only the occasion for a broader centralizing direction.
 
-[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] supplies the next step: suspicion does not become open war because Han Xin is too strong to attack cheaply. [[ChenPing|陈平]] instead turns the vassal king's duty to appear before the emperor into [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], letting [[LiuBang|刘邦]] remove Han Xin's kingship after the [[ZhongliMo|钟离眜]] crisis without first fighting Chu.
-
-[[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] marks a boundary of the concept: removing different-surname kingship does not necessarily remove the suspicious residue. Han Xin is now only Huaiyin marquis, but his possible association with [[FanKuai|樊哙]] still matters because Fan Kuai carries old-follower, military, and [[LuZhi|吕雉]]-linked weight. The episode therefore extends the suspicion pattern from formal title and territory into post-demotion relationship management.
-
-[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds [[HanWangXin|韩王信]] as a different-surname king case without presenting him as an immediate rebel in this excerpt. Liu Bang moves him away from old Han territory toward the Taiyuan / [[Mayi|马邑]] frontier, where defense against [[Xiongnu|匈奴]] also places a capable non-Liu king outside the central-plains core. The pattern therefore includes relocation and frontier burdening, not only arrest, demotion, or replacement.
-
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] shows the suspicion pattern hardening after the fact. Han Wang Xin, already pushed by siege and fear of punishment into Xiongnu surrender in Hanji 175, is defeated by Liu Bang and flees into the Xiongnu camp. This does not prove that the original suspicion was correct; it shows how suspicion, frontier exposure, and enemy refuge can make later betrayal practically real.
-
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] adds [[ZhangAo|张敖]] as a different kind of case. Guan Gao's testimony clears Zhang Ao personally, so the source does not treat him as a proven rebel. But because his ministers actually plotted regicide, Liu Bang still removes the Zhao kingship and replaces him with [[LiuRuyi|刘如意]]. Suspicion here attaches to the court network around a non-Liu king even when the king's own guilt is denied.
-
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] turns that case into an explicit policy reading. The host argues that Zhang Ao's removal was probably not caused by Guan Gao alone; it fits the visible sequence of Liu Bang reducing or replacing different-surname kings such as [[ZangTu|臧荼]], [[HanXin|韩信]], [[HanWangXin|韩王信]], [[PengYue|彭越]], [[YingBu|英布]], and [[LuWan|卢绾]]. The Zhao plot is therefore a trigger and justification, not necessarily the root policy cause.
-
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] extends the pattern from kings and demoted kings into the high-command frontier official [[ChenXi|陈豨]]. Chen Xi is not introduced as a different-surname king at first; he becomes dangerous because he commands frontier troops, has old ties to [[HanXin|韩信]], and displays enough retainer power to alarm [[ZhouChang|周昌]]. The episode's investigation chain shows suspicion becoming active production of rebellion risk, later linked to the fates of Han Xin, [[PengYue|彭越]], [[HanWangXin|韩王信]], [[YingBu|英布]], and [[LuWan|卢绾]].
-
-[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] adds a counter-pressure inside the same suspicion pattern. The host argues that killing a demoted Han Xin could make other different-surname kings conclude that demotion or surrender only delayed death. In that reading, Liu Bang's interest in keeping Han Xin alive was not sentimental alone; it preserved [[DemotedVassalSafetySignal|降爵诸侯安全信号]] while the broader rollback of autonomous powerholders continued.
-
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] gives the Peng Yue aftermath that Hanji 180 part 2 had only listed as part of the different-surname king rollback. Through [[LuanBu|栾布]]'s speech, the source records the cost side of removing a great contributor: Peng Yue may be eliminated as a different-surname king, but if the case looks unjust, remaining merit-holders may read consolidation as arbitrary danger rather than order.
-
-[[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] shows exactly that fear transferring to [[YingBu|英布 / 黥布]]. [[PengYue|彭越]]'s corpse-paste reaches Huainan as a political warning, and Ying Bu begins secret preparations before any open Han attack. The later [[BenHe|奔鹤]] accusation and secret investigation trigger revolt because they are interpreted inside this suspicion field: for a remaining different-surname king, an inquiry can look less like fact-finding than the prelude to elimination.
-
-[[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] records the open-rebellion sequel. Ying Bu arrests Han envoys and raises troops because waiting after Han Xin and Peng Yue looks like waiting for death. [[XueGongHanAdviser|Xue Gong]]'s analysis makes this a comparative merit-holder problem: if two of the three comparable contributors have died, the remaining one rationally expects to be next. The episode therefore converts Hanji 186's suspicion trigger into a rebellion and campaign case.
-
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds the intimate-trust failure mode through [[LuWan|卢绾]]. Liu Bang had chosen a childhood companion for Yan because personal familiarity seemed safer than ordinary meritorious kingship, yet the same structure eventually pushes Lu Wan to preserve [[ChenXi|陈豨]] and Xiongnu channels through [[ZhangShengWesternHan|张胜]] and [[FanQiLuWanEnvoy|范齐]]. The case shows that friendship can delay suspicion, but it does not dissolve the structural fear around non-Liu territorial power.
+The main qualification is causal feedback. If submission, demotion, illness, or exile do not visibly preserve life, remaining powerholders may interpret inquiry as the prelude to elimination and rebel first. Hanji 184 part 1 makes this mechanism unusually concrete: Peng Yue is first exiled, then returned, reaccused, exterminated, and distributed as corpse-paste to other kings. The warning helps explain why Ying Bu prepares for war and why even Liu Bang's intimate Lu Wan later treats personal trust as insufficient protection. Central consolidation can therefore produce the disloyalty it claims to prevent.
 
 ## Key Claims
-- Hanji 191 adds the intimate-trust failure mode: even Liu Bang's closest non-Liu king can read the rollback of Han Xin, Peng Yue, and Ying Bu as a warning that personal history will not protect him.
-- Hanji 187 adds the open-rebellion stage: suspicion becomes action once the remaining king reads inquiry as the beginning of elimination.
-- Hanji 186 adds the receiver side of the Peng Yue warning: remaining different-surname kings may react to rollback before the center acts directly against them.
-- Hanji 184 adds the chilling-effect cost of rollback: eliminating a different-surname king can damage the broader founding-merit safety signal if the case looks unjust.
-- Hanji 183 adds a safety-signal constraint: a ruler rolling back different-surname kings may still need visible survivors so submission, demotion, or loss of title remains credible.
-- Hanji 182 adds a non-king extension: the same suspicion logic can attach to an armed frontier official before he claims a royal title.
-- Hanji 182 adds an investigation-production path: suspicion can help create the rebellion it seeks to prevent when the target reads inquiry and summons as traps.
-- Hanji 180 part 2 adds a policy-over-trigger distinction: a specific conspiracy can supply the occasion for removing a non-Liu king while the underlying direction comes from the center's broader rollback of different-surname kings.
-- Hanji 177 adds a self-confirming path: once a suspected king has defected under pressure, the center's fear becomes a military reality even if the original motive mix remains ambiguous.
-- Hanji 180 adds a network-risk path: a different-surname king can lose kingship because his ministers are dangerous even when testimony clears the king personally.
-- Hanji 174 adds relocation as a suspicion-management tool: a non-Liu king can be assigned frontier defense in a way that also limits his central-territory base.
-- Hanji 172 adds that different-surname king suspicion may be handled through protocol and summons, not only through immediate military suppression.
-- Hanji 173 adds that kingship removal may not end suspicion; the downgraded actor's visible associations can still be read as latent coalition risk.
-- Wartime delegation can turn into peacetime suspicion after the common enemy disappears.
-- A different-surname king is dangerous not only because he may rebel, but because he controls a named territory, local relationships, and a remembered military contribution outside direct palace control.
-- Replacing a king with a trusted intimate may improve local security while worsening system-wide trust.
-- Fear can become self-fulfilling: when actors believe loyalty will not protect them, even weak figures such as [[LiJiChuHan|利几]] may choose rebellion.
-- The pattern extends [[PowerExitTrap|权力退场困境]] from individual ministers to territorial kings.
 
-## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LuWan|卢绾]], [[LiuBang|刘邦]], [[ZhangShengWesternHan|张胜]], [[FanQiLuWanEnvoy|范齐]], [[ChenXi|陈豨]], [[Xiongnu|匈奴]], and [[YanState|燕国]] - personal intimacy failing against the different-surname king rollback logic.
-- [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[YingBu|英布 / 黥布]], [[XueGongHanAdviser|薛公 / Xue Gong (Han adviser)]], [[HanXin|韩信]], [[PengYue|彭越]], and [[LiuBang|刘邦]] - comparable-merit fear becomes open rebellion.
-- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]], [[YingBu|英布 / 黥布]], [[PengYue|彭越]], [[BenHe|奔鹤]], [[HuainanKingdomEarlyHan|淮南国]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - surviving king fear after Peng Yue's death and the accusation-investigation trigger.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LuanBu|栾布]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - Peng Yue's removal, public defense, and Liu-family replacement map.
-- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[DemotedVassalSafetySignal|降爵诸侯安全信号]], [[PunitiveSurrenderDeterrence|杀降纳降反噬]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - preservation of a demoted former king as a credibility signal inside anti-vassal rollback.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[ChenXi|陈豨]], [[HanXin|韩信]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - frontier official suspicion and rebellion escalation.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[ZhangAo|张敖]], [[ZangTu|臧荼]], [[HanXin|韩信]], [[HanWangXin|韩王信]], [[PengYue|彭越]], [[YingBu|英布]], and [[LuWan|卢绾]] - Zhang Ao removal read inside the broader anti-different-surname king sequence.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - suspicion becoming an active northern campaign problem after surrender.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[ZhangAo|张敖]], [[GuanGao|贯高]], [[TortureResistantExoneration|刑讯守口式申冤]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - personal exoneration paired with royal-title removal and Liu-family replacement.
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[HanWangXin|韩王信]], [[Mayi|马邑]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - frontier relocation of a capable non-Liu king.
-- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[ChenCountyChuHan|陈县]], [[Yunmengze|云梦泽]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - non-battle removal of a different-surname king after the rebellion report.
-- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[FanKuai|樊哙]], [[LuZhi|吕雉]], [[VeteranMeritCliqueSupervision|功臣旧将监督]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - suspicion persisting after demotion through risky association.
-- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
-- [[LiuBang|刘邦]], [[ZangTu|臧荼]], [[LuWan|卢绾]], [[LiJiChuHan|利几]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - main actors in the episode's suspicion chain.
-- [[YanState|燕国]], [[Xiongnu|匈奴]], and [[DaiState|代国]] - northern security geography around the Yan replacement.
-- [[PowerExitTrap|权力退场困境]], [[HostileTerritoryRoyalContainment|敌意封国安置]], [[ConcededKingshipStabilization|让封真王式稳局]], and [[CommandAuthorityRecapture|统帅权再收束]] - adjacent concepts for post-victory danger, title concession, and authority recovery.
-- [[MeritBasedRewardPunishment|因功赏罚]] and [[RewardAllocationBacklash|分配反噬]] - reward-order background that the early Han shift toward personal trust complicates.
+- Wartime delegation and reward create territorial actors whose useful autonomy becomes suspect once the common enemy disappears.
+- The center manages this risk through a range of tools, including kin replacement, relocation, summons, demotion, investigation, pardon offers, and force.
+- Guilt is not uniform: some cases include real plots or later defections, while others preserve direct disputes over whether the ruler personally rebelled.
+- Suspicion can become self-confirming when investigation or summons persuades the target that compliance is fatal.
+- Visible survival is a system-wide credibility signal; arbitrary-looking death makes surrender, demotion, and retirement less believable for everyone else.
+- Punishment aimed at one king can be designed as communication to all, but terror may trigger preemptive resistance rather than obedience.
+
+## Evidence
+
+### From wartime partner to removable ruler
+
+- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] introduces the post-founding shift through Zang Tu, Lu Wan, Han Xin, and the turn from meritorious reward toward personal trust.
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] shows ritual summons replacing costly direct war against Han Xin; [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] shows suspicion persisting after demotion through association risk.
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174 part 1]] and [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] connect Han Wang Xin's frontier relocation, surrender, and later armed reality without proving that the original suspicion was fully justified.
+
+### Trigger, guilt, and policy direction
+
+- Hanji 180 parts [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|1]] and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|2]] distinguish Zhang Ao's personal exoneration from the genuine danger of his ministers and from the broader policy direction that still removes his kingship.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182 part 1]] extends the pattern to Chen Xi, an armed frontier official whose investigation and fear help produce open rebellion.
+- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] argues that preserving a demoted Han Xin could have maintained a safety signal even while autonomous power was reduced.
+
+### Peng Yue warning and cascading fear
+
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd|Hanji 184 part 1]] narrates Peng Yue's missed personal summons, rejected rebellion proposal, accusation, initial exile, renewed accusation, extermination, and corpse-paste distribution while contesting the court's guilt finding.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184 part 2]] records Luan Bu's warning that an apparently unjust removal makes all merit-holders fear for themselves.
+- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] and [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] show Ying Bu receiving that warning, preparing secretly, reading investigation as fatal, and openly rebelling.
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] shows the same structure overcoming even Lu Wan's childhood intimacy with Liu Bang.
+
+## Counterevidence & Qualifications
+
+The concept is an interpretive pattern, not proof that every rebellion accusation was fabricated or that all centralization was irrational. Guan Gao's circle actually plots regicide, Han Wang Xin later fights with the Xiongnu, Chen Xi and Ying Bu openly rebel, and Lu Wan preserves covert enemy channels. Those outcomes can validate specific security concerns while still leaving room for feedback: relocation, investigation, and prior exemplary punishments may help create the choices later cited as confirmation. Peng Yue's case is especially contested because the reported court finding says guilt was established while Hanji 184 parts 1 and 2 argue that the narrated facts show illness, rejected rebellion advice, and accusation rather than an overt act. Private motive, verbatim dialogue, and a single coordinated anti-king policy are not independently established by these podcast notes.
+
+## What Changed
+
+- Added Peng Yue's pre-execution sequence, showing that exile initially existed as a possible nonlethal outcome before renewed prosecution.
+- Clarified exemplary bodily punishment as system-wide communication, not merely an individual penalty.
+- Strengthened the feedback judgment: terror intended to deter surviving kings can instead make preemptive rebellion look rational.
+- Preserved the explicit conflict between the reported legal verdict and the source's claim that no substantive rebellion is narrated.
+
+## Related Concepts
+
+- [[PowerExitTrap|权力退场困境]] - extends the problem from individual ministers to territorial rulers who cannot find a credible safe exit.
+- [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - describes how fact-finding can be read as an irreversible move toward elimination.
+- [[DemotedVassalSafetySignal|降爵诸侯安全信号]] - captures why visible survival after demotion matters to actors beyond the immediate case.
+- [[SameSurnameKingEnfeoffment|同姓王分封]] - supplies the kin-based replacement strategy used after non-Liu kings are removed.
+- [[FrontierVassalContainment|边境迁封式牵制]] - describes relocation that combines defense duty with spatial control of a suspect king.
+- [[PublicCorpseHumiliation|尸体公开羞辱]] - marks punishment that communicates sovereign dominance through the defeated body.
+- [[PardonAsStatePower]] - provides the selective counter-tool by which the center can restore obedience without universal destruction.

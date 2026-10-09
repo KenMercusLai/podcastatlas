@@ -1,59 +1,85 @@
 ---
 title: "彭越 / Peng Yue"
 type: entity
-tags: [person, qin, anti-qin, chu-han, military]
-sources: [zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [person, qin, anti-qin, chu-han, military, western-han]
+sources:
+  - zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
+  - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi
+  - zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv
+  - zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx
+  - zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz
+  - zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm
+  - zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l
+  - zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu
+  - zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj
+  - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
+  - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu
+  - zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd
+last_updated: 2026-10-09
 ---
+
 # 彭越 / Peng Yue
 
-彭越 / Peng Yue enters the wiki through [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] as the episode's "from fisher to king" figure. The source presents him as a Changyi local who once made a living fishing around Juye, then became a bandit under [[QinErshi|秦二世]]'s harsh rule.
+## Overview
 
-His first developed scene is organizational rather than royal. During the [[ChenSheng|陈胜]] and [[XiangLiang|项梁]] uprising wave, local young men gather around him and ask him to become leader. Peng Yue initially refuses, then agrees on the condition that everyone assemble at sunrise the next day and that latecomers will be killed.
+彭越 / Peng Yue is presented across the wiki as a Changyi fisher and local armed leader who turned mobile rear-area warfare into one of [[LiuBang|刘邦]]'s decisive advantages against [[XiangYu|项羽]], received Liang kingship after victory, and later became the clearest warning case in the early Han rollback of different-surname kings.
 
-When many arrive late, Peng Yue does not kill them all. He executes the last arrival, sets up a ritual platform, and declares the uprising. The episode treats the act as a harsh credibility signal: the group stops treating command as a joke and begins obeying. Peng Yue therefore becomes the source case for [[BanditToArmyDiscipline|盗匪成军纪律化]].
+## Current Profile
 
-By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than one thousand people by taking nearby territory and absorbing defeated soldiers from different states. He then brings his force to Liu Bang, making him a new ally in Liu Bang's separate campaign line after [[JuluBattle|巨鹿之战]].
+Peng Yue's career joins three different political capacities. He first makes an irregular group governable through harsh command discipline. During the Chu-Han war, he repeatedly cuts supply and compels Xiang Yu to divide attention, while bargaining for concrete territory before joining the final coalition. After victory, the same independent military record and territorial base that justified his reward make him difficult for the imperial center to trust.
 
-[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] shows Peng Yue as an independent armed pressure point after Xiang Yu's partition. He now has more than ten thousand troops around 巨野 and is not meaningfully settled by [[XiangYu|项羽]]. [[TianRong|田荣]] gives him a general's seal, uses him to defeat [[TianAn|田安]], and then sends him against Western Chu, where Peng Yue defeats Xiang Yu's dispatched force. His branch therefore extends from local discipline into [[RewardAllocationBacklash|reward allocation backlash]] as a military threat.
+The new Hanji 184 part 1 source sharpens his end-state. Its narrative does not show Peng Yue initiating rebellion: illness keeps him from appearing personally for the Chen Xi campaign, he sends troops, rejects a subordinate's proposal to rebel, and plans to apologize. An accusation nevertheless leads to arrest; Liu Bang first demotes and exiles him, but Lu Zhi returns him to Luoyang, argues that exile leaves a dangerous hero alive, and supports a renewed accusation. Execution, clan extermination, and corpse-paste distribution turn an individual case into a warning to all surviving vassal kings. Hanji 184 part 2 and Hanji 186 then show the warning's political cost through Luan Bu's protest and Ying Bu's fear-driven military preparation.
 
-[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] keeps Peng Yue in that pressure role. While [[LiuBang|刘邦]] publicly frames his Guanzhong move as restoring the [[HuaiwangAgreement|怀王之约]], Peng Yue's harassment inside Chu-linked territory helps divide [[XiangYu|项羽]]'s attention and gives Liu Bang more time before a direct western response.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] shows Peng Yue losing that pressure position after [[PengchengBattle|彭城之战]]. Once Liu Bang's coalition collapses, Peng Yue is described as defeated, stripped of territory, and moving around the river and Henan/Hua County area rather than holding a stable base. His branch therefore shifts from useful harassment to exposed survival after Liu Bang's strength is publicly damaged.
+- Local organizer who converts a loose anti-Qin following into an obedient force through a severe credibility signal.
+- Mobile commander whose attacks on Chu territory and transport routes repeatedly relieve pressure on Liu Bang's central front.
+- Coalition partner who joins decisive action through negotiated territorial reward rather than simple subordination.
+- Founding Liang king whose earned autonomy becomes a peacetime threat in the center's suspicion structure.
+- Accused powerholder for whom demotion, apology, and exile do not provide a durable route to safety.
+- Posthumous terror symbol whose bodily destruction frightens surviving merit-holders and helps produce further rebellion risk.
 
-[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] revalues Peng Yue inside [[XiayiPlan|下邑画策]]. [[ZhangLiang|张良]] names him as one of the usable forces because he is still tied to anti-Chu pressure with Qi and can strike [[XiangYu|项羽]]'s rear. The episode therefore turns Peng Yue's irregular pressure from a background nuisance into one leg of Liu Bang's multi-front recovery design.
+## Evidence
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds why Peng Yue's leg of the design becomes more important. [[HanXin|韩信]] proposes taking the north and then cutting [[XiangYu|项羽]]'s grain route from that direction, but [[LiuBang|刘邦]] repeatedly removes elite soldiers from Han Xin's army for the [[XingyangStandoff|荥阳相持]] front. The source says Liu Bang therefore turns to Peng Yue for the grain-route pressure, sending [[LiuJia|刘贾]] and [[LuWan|卢绾]] to support him.
+### Formation and command
 
-[[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] shows that pressure taking effect after [[YuanShengChuHan|袁先生 / 袁生]] draws Xiang Yu south. While Xiang Yu faces Liu Bang's fortified refusal to fight around Wan, Peng Yue moves toward the [[SuiRiver|睢水]] and cuts Chu logistics, leaving Xiang Yu with Liu Bang in front, Peng Yue behind, and food under pressure.
+- [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] traces Peng Yue from fishing and banditry near Changyi to disciplined command, using the execution of the last latecomer as the founding example of [[BanditToArmyDiscipline|盗匪成军纪律化]].
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] shows his independent force becoming a Qi-backed pressure point against Xiang Yu's settlement.
 
-[[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the preceding rhythm of that pressure. After losing ground in the wake of [[PengchengBattle|彭城之战]], Peng Yue resumes mobile attacks along the Yellow River, cuts Chu food routes, and defeats a Chu force around [[Xiapi|下邳]]. The episode uses him as the force that repeatedly pulls [[XiangYu|项羽]] away from [[Chenggao|成皋]], making rear harassment one cause of Xiang Yu's strategic exhaustion even when Xiang Yu keeps winning local battles.
+### Rear warfare and coalition leverage
 
-[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] supplies another concrete cycle. [[LiuBang|刘邦]] sends [[LiuJia|刘贾]] and [[LuWan|卢绾]] across the Yellow River with infantry and cavalry to reinforce Peng Yue. Peng Yue's force then takes Suiyang, Waihuang, and other cities, burns Chu food and transport assets, and again forces Xiang Yu to leave the Chenggao front. This strengthens Peng Yue's role as the rear-pressure leg of [[XiayiPlan|下邑画策]] and a practical instance of [[TransportCorridorSeverance|交通线切割]].
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148 part 2]], [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], and [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] follow his shift from harassment, through post-Pengcheng exposure, into Zhang Liang's multi-front recovery design.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155 part 2]] and Hanji 162 parts [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|1]], [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|2]], and [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|3]] document the reinforced supply-line attacks that repeatedly pull Xiang Yu away from Chenggao.
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]] records Peng Yue's delayed arrival until Liu Bang promises territory; [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] turns that wartime contribution into Liang kingship.
 
-[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]] turns Peng Yue's rear-pressure role into final coalition bargaining. When [[LiuBang|刘邦]] calls for the post-Honggou pursuit, Peng Yue does not arrive at the appointed time. [[ZhangLiang|张良]] says the problem is the lack of settled reward, so Liu Bang promises Peng Yue the Suiyang-to-Gucheng region and thereby pulls him into the final pressure that leads to [[GaixiaBattle|垓下之战]].
+### Accusation, death, and political aftershock
 
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] turns that promised and earned wartime position into formal kingship. After stripping [[HanXin|韩信]]'s military command and making him Chu king, Liu Bang names Peng Yue king of Liang over old Wei territory with capital at [[Dingtao|定陶]]. The episode frames the grant as recognition for Peng Yue's repeated anti-Chu work and as one part of the wider [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]].
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd|Hanji 184 part 1]] provides the complete accusation-to-execution chain and distinguishes the court's guilty finding from the host's judgment that no material rebellion is shown.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184 part 2]] records [[LuanBu|栾布]]'s public mourning and argument that killing an innocent contributor makes all merit-holders unsafe.
+- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] shows the corpse-paste warning reaching [[YingBu|英布 / 黥布]] and prompting secret preparation for war.
 
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] records Peng Yue's posthumous defense through [[LuanBu|栾布]]. Luan Bu publicly mourns beneath Peng Yue's displayed head, then argues before [[LiuBang|刘邦]] that Peng Yue did not rebel, had missed mobilization while ill, and had been indispensable from Pengcheng and Xingyang-Chenggao through [[GaixiaBattle|垓下之战]]. The episode therefore adds a legitimacy aftershock to Peng Yue's page: removing him may fit [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], but the perceived injustice makes Liu Bang face the danger that merit-holders will read the new order as unsafe.
+## Qualifications
 
-[[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] supplies one concrete recipient of that aftershock. The source says Han envoys send Peng Yue's corpse-paste to the vassal kings, and [[YingBu|英布 / 黥布]] is so shaken that he stops hunting, returns to [[HuainanKingdomEarlyHan|淮南国]], and secretly prepares for war. Peng Yue's death therefore becomes more than a closed punishment case: it actively feeds the next different-surname king's expectation that accusation and investigation will end in destruction.
+The current profile is a synthesis of popular-history episode notes, not an independent adjudication of Peng Yue's legal case. Hanji 184 part 1 reports that the court treated the accusation as established while the host argues that the narrated conduct does not show substantive rebellion; the wiki preserves that conflict. Illness, the rejected proposal, the fugitive official's accusation, the attendant's renewed accusation, Lu Zhi's motive, and the precise legal procedure all remain bounded to the supplied account. Peng Yue's wartime value does not itself prove later innocence, but the lack of a narrated overt act prevents the verdict from being restated as settled fact.
 
-## Connections
-- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]], [[YingBu|英布 / 黥布]], [[HuainanKingdomEarlyHan|淮南国]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - corpse-paste warning received by a surviving vassal king.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[LuanBu|栾布]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - posthumous defense and merit-holder fear after Peng Yue's execution.
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[Dingtao|定陶]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - Liang kingship after victory over Xiang Yu.
-- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[ZhangLiang|张良]], [[TerritorialRewardMobilization|许地会师式动员]], and [[GaixiaBattle|垓下之战]] - non-arrival until Liu Bang promises concrete territory for final participation.
-- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiuJia|刘贾]], [[LuWan|卢绾]], [[Chenggao|成皋]], and [[TransportCorridorSeverance|交通线切割]] - reinforced raids that capture cities, burn supplies, and pull Xiang Yu east.
-- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Xiapi|下邳]], [[Chenggao|成皋]], [[XiangYu|项羽]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - mobile rear pressure forcing Xiang Yu into exhausting theater shifts.
-- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[SuiRiver|睢水]], [[YuanShengChuHan|袁先生 / 袁生]], and [[TransportCorridorSeverance|交通线切割]] - rear logistics cutoff after Xiang Yu follows Liu Bang south.
-- [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
-- [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.
-- [[BanditToArmyDiscipline|盗匪成军纪律化]] - concept opened by Peng Yue's execution of the last latecomer and creation of command obedience.
-- [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider field in which local armed groups can attach to larger anti-Qin contenders.
-- [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] - source page for the fisher-to-commander branch.
-- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[TianAn|田安]], and [[XiangYu|项羽]] - Qi-backed pressure against the post-Qin settlement.
-- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] and [[HuaiwangAgreement|怀王之约]] - continuing pressure that helps delay Xiang Yu's western response to Liu Bang.
-- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-defeat loss of ground and wandering pressure-point status.
-- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]], [[XiayiPlan|下邑画策]], [[ZhangLiang|张良]], and [[YingBu|英布]] - rear-pressure role inside Liu Bang's post-Pengcheng recovery plan.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[LiuJia|刘贾]], [[LuWan|卢绾]], and [[XingyangStandoff|荥阳相持]] - delegated grain-route pressure after Han Xin's army is repeatedly drained.
+## What Changed
+
+- Added the full sequence from missed personal mobilization and rejected rebellion advice to accusation, initial exile, renewed prosecution, and execution.
+- Revised the end-state from a mainly posthumous Luan Bu defense to a direct comparison between the reported court verdict and the source's innocence judgment.
+- Made demotion and exile explicit as a failed exit route rather than treating execution as the first disposition.
+- Identified corpse-paste distribution as deliberate interstate intimidation whose later effect appears in Ying Bu's preparations.
+
+## Relationships
+
+- [[LiuBang|刘邦]] - coalition leader, rewarding emperor, and final approver of Peng Yue's execution and clan extermination.
+- [[LuZhi|吕雉]] - actor who returns the exiled Peng Yue to Luoyang and urges his elimination in Hanji 184 part 1.
+- [[LuanBu|栾布]] - old associate whose death-facing protest supplies Peng Yue's strongest posthumous defense.
+- [[YingBu|英布 / 黥布]] - surviving different-surname king frightened into military preparation by Peng Yue's death and corpse-paste warning.
+- [[XiangYu|项羽]] - opponent whose supply and rear areas Peng Yue repeatedly attacks.
+- [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - structural relationship linking wartime autonomy to peacetime elimination risk.
+- [[TransportCorridorSeverance|交通线切割]] - operational relationship because rear raids and supply destruction are Peng Yue's characteristic wartime contribution.
+- [[PowerExitTrap|权力退场困境]] - political relationship because submission, demotion, and exile fail to produce safety.
+- [[PublicCorpseHumiliation|尸体公开羞辱]] - coercive relationship because bodily destruction extends punishment into a warning for living rulers.

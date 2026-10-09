@@ -1,44 +1,73 @@
 ---
 title: "蒯彻 / Kuai Che"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, strategist, anti-qin, rebellion, chu-han]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr
+  - zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1
+  - zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb
+  - zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq
+  - zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7
+  - zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx
+  - zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd
+last_updated: 2026-10-09
 ---
 
 # 蒯彻 / Kuai Che
 
-蒯彻 / Kuai Che enters the wiki through [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] as the adviser who teaches [[WuChen|武臣]] to win territory by political signaling. The transcript renders him as "快徹"; this page uses the canonical 蒯彻 while keeping that wording source-scoped.
+## Overview
 
-Kuai Che's advice is that Wu Chen should not rely only on the sequence "fight first, win first, expand afterward." If one city sees surrender rewarded with rank and safety, nearby cities may imitate the choice. Wu Chen follows the advice by sending Kuai Che with vehicles, cavalry, and noble seals to receive Xu Gong.
+蒯彻 / Kuai Che, called 蒯通 in later Han-era narration, is a persuasion strategist who repeatedly turns political uncertainty into a choice architecture: reward can cause cities to surrender, ambiguous orders can justify continued attack, and a commander caught between rival rulers may need an independent position to survive.
 
-The result is the episode's main example of [[PoliticalSurrenderCascade|招降示范级联]]: more than thirty cities in old Yan and Zhao lands surrender without battle after seeing the model. Kuai Che's role is therefore not just tactical persuasion but the creation of a visible incentive template.
+## Current Profile
 
-[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] returns the same figure under the 蒯通 name. This page treats 蒯通 as the Han-source name/avoidance form for Kuai Che rather than creating a duplicate entity. In this later episode, Kuai Che advises [[HanXin|韩信]] not to halt the [[QiState|齐国]] campaign after [[LiShiqi|郦食其]] persuades [[TianGuangQiKing|田广]] to submit to Han.
+Kuai Che's advice is consistent across changing regimes. Under Wu Chen, he creates a public reward signal that induces surrender without battle. Under Han Xin, he exploits the absence of a stop order and competitive merit to keep the Qi campaign moving, then diagnoses Han Xin's larger post-victory danger: service to Liu Bang may end in fear and elimination once military usefulness declines. Han Xin rejects the three-way strategy, and Kuai Che protects himself by withdrawing and feigning madness.
 
-His argument has two layers. The procedural layer is that Han Xin was ordered to attack Qi and has not received a stop order from [[LiuBang|刘邦]]. The sharper psychological layer is [[StatusAnxietyPersuasion|位阶焦虑式说服]]: if one envoy can take more than seventy cities by speech, Han Xin's own campaign merit may look inferior. Kuai Che therefore becomes a recurring surrender-and-merit strategist, first using visible reward to make cities submit, then using merit anxiety to push a commander against an already-persuaded enemy.
+Hanji 184 part 1 adds the surviving adviser's confrontation with the victor. After Han Xin's execution, Liu Bang threatens to boil Kuai Che for having advised rebellion. Kuai Che does not deny the counsel; he argues that during Qin's collapse contenders served different masters and that loyalty to Han Xin was not retroactively loyalty to Liu Bang. His release makes him a counterpoint to Peng Yue: candid acknowledgment and a persuasive jurisdictional defense succeed where submission and denial do not.
 
-[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] shows the lethal consequence of that reframing. Han Xin accepts the argument, attacks Qi, and leaves Li Shiqi exposed as the apparent author of a false surrender promise. Kuai Che's reasoning therefore becomes a central driver of [[CommandSynchronizationFailure|军令同步失灵]]: he exploits the absence of a new stop order and turns procedural ambiguity into competitive urgency.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] brings Kuai Che back after [[WuShe|武涉]] fails to persuade [[HanXin|韩信]] into [[TripartiteBalanceStrategy|三分天下式制衡]]. The transcript ends just as Kuai Che begins with a physiognomic warning: viewed from the front, Han Xin seems fit only for marquis-level rank and remains unsafe; viewed from the back, he is贵不可言.
+- Incentive designer who uses visible reward and safety to produce cascading surrender.
+- Competitive persuader who converts procedural ambiguity and status anxiety into continued military action.
+- Strategic diagnostician who recognizes Han Xin's pivotal position between Chu and Han and his later exit trap.
+- High-risk counselor whose advice is often strategically sharp but can impose lethal costs on third parties.
+- Political survivor who exits after rejected counsel and later defends former service without disowning it.
 
-[[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] completes that argument. Kuai Che first turns Han Xin's military success into a strategic fact: Chu and Han are exhausted, [[LiuBang|刘邦]] and [[XiangYu|项羽]] both need him, and the outcome follows whichever side he helps. He then recasts [[QiState|齐国]] as the base for a three-way order, with Zhao and Yan following Han Xin and the westward move framed as rescue of the exhausted people.
+## Evidence
 
-When Han Xin answers through Liu Bang's chariot, clothing, food, and promotion, Kuai Che shifts from opportunity to danger. He uses [[ZhangEr|张耳]] and [[ChenYu|陈馀]] to argue that intense friendship can still collapse into lethal hostility, and [[WenZhongYue|文种]] under [[Goujian|越王勾践]] to argue that victory can make a great minister disposable. The episode leaves him as the adviser who names Han Xin's [[PowerExitTrap|权力退场困境]] most directly: return to Chu and be distrusted, remain with Han and be feared, or become an independent third pole.
+### Surrender and campaign incentives
 
-[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] shows the argument failing in practice. Kuai Che presses timing and danger one more time, but [[HanXin|韩信]] remains caught between gratitude, expected reward, and hesitation. With no further path, Kuai Che withdraws by feigning madness and turns to divination, making his exit a survival move after a rejected high-risk counsel.
+- [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] makes Kuai Che the architect of a surrender cascade: one rewarded city becomes a credible model for more than thirty others.
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162 part 3]] and [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] show him using the missing stop order and Li Shiqi's diplomatic success to push Han Xin into attacking Qi, with Li Shiqi's death exposing the cost of [[CommandSynchronizationFailure|军令同步失灵]].
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] gives Kuai Che's warning its grim afterlife. Han Xin's final regret that he did not follow Kuai Che makes the earlier three-way strategy look retrospectively correct from the standpoint of survival, even though Hanji 165-166 had already shown why the advice was morally and practically difficult in the moment. Kuai Che therefore becomes not only the adviser who names the exit trap, but the absent standard by which Han Xin's late timing failure is judged.
+### Three-way strategy and exit diagnosis
 
-## Connections
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[HanXin|韩信]], [[RetainerReciprocityEthic|士为知己者死]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - final regret after the ignored exit warning.
-- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[HanXin|韩信]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - final failed warning and feigned-madness withdrawal.
-- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[XiangYu|项羽]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], [[WenZhongYue|文种]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - completed warning that combines third-pole strategy, loyalty pressure, broken friendship, and post-victory minister danger.
-- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[HanXin|韩信]], [[WuShe|武涉]], and [[TripartiteBalanceStrategy|三分天下式制衡]] - re-entry after Wu She's failed warning.
-- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[HanXin|韩信]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], and [[QiState|齐国]] - later 蒯通 branch where he pushes Han Xin to attack Qi despite diplomatic submission.
-- [[StatusAnxietyPersuasion|位阶焦虑式说服]] - method used to make Li Shiqi's diplomatic merit feel threatening to Han Xin.
-- [[WuChen|武臣]] - commander who adopts the surrender strategy.
-- [[PoliticalSurrenderCascade|招降示范级联]] - concept this episode builds from Kuai Che's advice.
-- [[ZhaoState|赵国]] and [[YanState|燕国]] - old-state regions affected by the surrender cascade.
-- [[ZhangChuRegime|张楚政权]] and [[ChenSheng|陈胜]] - wider anti-Qin rebel setting.
-- [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - later consequence when Wu Chen's expanded base turns toward Zhao self-strengthening.
+- Hanji 165 parts [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|1]] and [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|2]] develop the physiognomic warning, Han Xin's balance-of-power leverage, and the argument that victory can make a great minister disposable.
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] records the failed final warning and Kuai Che's feigned-madness withdrawal; [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] gives the advice a retrospective afterlife through Han Xin's reported regret.
+
+### Defense before Liu Bang
+
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd|Hanji 184 part 1]] records Kuai Che admitting his advice, framing it as service to the master he then knew, and persuading Liu Bang to release him.
+
+## Qualifications
+
+The page treats 蒯彻 and 蒯通 as names for the same figure, following the existing source sequence rather than creating duplicate identities. His advice can be strategically coherent without being morally neutral: the Qi argument helps kill Li Shiqi, while the three-way proposal would have required Han Xin to abandon reciprocal loyalty and risk wider war. Han Xin's later regret does not prove that the rejected strategy would have succeeded. Hanji 184 part 1 presents Kuai Che's defense and release but does not independently establish the speech verbatim or a general legal rule protecting former-service advice.
+
+## What Changed
+
+- Added Kuai Che's arrest, threatened boiling, candid admission, and successful “each served his own master” defense.
+- Extended his profile from adviser and self-protective withdrawer to a survivor who can justify past counsel directly before the victorious ruler.
+- Added the contrast between Kuai Che's argumentative survival and Peng Yue's failed submission as a source-scoped interpretive point.
+
+## Relationships
+
+- [[HanXin|韩信]] - commander whose merit, strategic leverage, loyalty, and danger Kuai Che repeatedly reframes.
+- [[LiuBang|刘邦]] - victorious ruler who threatens Kuai Che and then accepts his former-service defense.
+- [[LiShiqi|郦食其]] - diplomat whose negotiated Qi settlement is undone after Kuai Che pushes continued attack.
+- [[WuChen|武臣]] - early patron who adopts Kuai Che's reward-based surrender strategy.
+- [[PoliticalSurrenderCascade|招降示范级联]] - persuasion relationship built from visible safety and reward.
+- [[StatusAnxietyPersuasion|位阶焦虑式说服]] - method used to make diplomatic success feel threatening to Han Xin's military standing.
+- [[TripartiteBalanceStrategy|三分天下式制衡]] - strategic relationship because Kuai Che urges Han Xin to become an independent third pole.
+- [[PowerExitTrap|权力退场困境]] - diagnostic relationship because he predicts that exceptional merit will become dangerous after victory.
