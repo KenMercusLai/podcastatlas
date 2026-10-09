@@ -34135,3 +34135,11 @@ Added source `female-hormone-health-pcos-endometriosis-fertility-breast-cancer-d
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛
+
+Added source `vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0`; resynthesized [[XiaolongWeightManagementGuest|小龙]], [[DabaNiuTeacher|大白牛]], [[SleepHealthQQRT]], [[SystemicSleepLossEffects]], [[SleepImmuneRepair]], and [[WearableHealthDataAnxiety]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sleep is active internal maintenance whose quality depends on continuity, regularity, timing, breathing, environment, substances, stimulation, and next-day function rather than hours or tracker scores alone; fragmented sleep can have cross-system effects, while persistent insomnia, gasping, suspected apnea, significant palpitations, or daytime impairment require qualified assessment. No settled contradiction was adopted. Sleep-cycle counts, deep-sleep interpretations, beta-amyloid and tau clearance, hormone timing, collagen, arrhythmia, cardiovascular-event, calcium-loss, age-related need, and catch-up-sleep claims remain source-scoped public education. The broad [[Atang|阿汤]] and [[ZheBingShuoLaiHuaChang|这病说来话长]] profiles were kept closed because the focused guest and sleep pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,274 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4345,6 +4345,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [导演毕赣×罗永浩！清醒、深刻、独一无二的造梦者](sources/daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhsut9wu8n73dbdyhps50ymyf9wa.md) — 罗永浩对谈毕赣，以凯里成长、三部长片、观看障碍、长镜头时间、演员安全感与个性化电影工业连接作者表达和观众距离。
 - [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
 - [Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi](sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093.md) — Huberman Lab interview on missed PCOS and endometriosis, fertility and AMH interpretation, perimenopause, and individualized breast-cancer risk.
+- [VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛](sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0.md) — 这病说来话长 episode on sleep as active nighttime maintenance, multidimensional quality, systemic effects, routine and environment changes, tracker anxiety, and clinical escalation.
 
 ## Entities
 - [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.

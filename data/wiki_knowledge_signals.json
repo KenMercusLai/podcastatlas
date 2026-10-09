@@ -56694,9 +56694,9 @@
       "url": "/wiki/entities/dayiculturelimited/"
     },
     "DabaNiuTeacher": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工 [lnau0sacX1jm1t_2LOCDc5NSZAKH].md",
@@ -56718,9 +56718,16 @@
           "show": "这病说来话长",
           "title": "VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜",
           "url": "/wiki/sources/vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/dabaniuteacher/"
     },
     "DacherKeltner": {
@@ -229068,9 +229075,9 @@
       "url": "/wiki/concepts/sleepdurationushape/"
     },
     "SleepHealthQQRT": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9752150487 [SCIM9752150487].md",
@@ -229092,15 +229099,22 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/sleephealthqqrt/"
     },
     "SleepImmuneRepair": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -229129,9 +229143,16 @@
           "show": "Huberman Lab",
           "title": "Using Your Nervous System to Enhance Your Immune System",
           "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/sleepimmunerepair/"
     },
     "SleepLossEmotionalReactivity": {
@@ -240836,9 +240857,9 @@
       "url": "/wiki/concepts/systemiclupuserythematosusmanagement/"
     },
     "SystemicSleepLossEffects": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9752150487 [SCIM9752150487].md",
@@ -240846,9 +240867,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/systemicsleeplosseffects/"
     },
     "SystemsEraGeneralship": {
@@ -262342,9 +262370,9 @@
       "url": "/wiki/concepts/weapontechnologyduellethality/"
     },
     "WearableHealthDataAnxiety": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
@@ -262380,9 +262408,16 @@
           "show": "Economist Podcasts",
           "title": "The mob rule: criminality consumes South Africa",
           "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
     },
     "WearableHealthInsight": {
@@ -270047,9 +270082,9 @@
       "url": "/wiki/entities/xiaolangoncologysurgeon/"
     },
     "XiaolongWeightManagementGuest": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -270071,6 +270106,13 @@
           "show": "这病说来话长",
           "title": "VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under",
           "url": "/wiki/sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5/"
+        },
+        {
+          "episode_file": "loKULk58QWR-7mrpB9PYqqchv-Z0 [loKULk58QWR-7mrpB9PYqqchv-Z0].md",
+          "key": "vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0",
+          "show": "这病说来话长",
+          "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
+          "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
         }
       ],
       "updated": "2026-10-10",

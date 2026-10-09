@@ -7,7 +7,8 @@ sources:
   - how-to-prevent-treat-colds-flu-scim6817932732
   - ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583
   - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
-last_updated: 2026-10-02
+  - vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,12 +28,14 @@ The winter AMA reinforces the practical association between inadequate sleep and
 
 The nervous-system episode adds sickness-related sleep and glymphatic clearance to the explanatory picture. Those mechanisms support prioritizing sleep during illness, but its suggestions about elevating the feet and short-term 5-HTP are not established immune treatments and remain clinically bounded.
 
+VOL.187 adds a general-audience maintenance account: nighttime sleep is described as a period when immune factors and cells coordinate for the following day's defense, while repeated fragmentation can reduce the opportunity for that work. The episode's broader repair metaphor is useful, but it does not identify a validated deep-sleep target or show that occasional sleep loss directly causes a specific infection.
+
 ## Key Claims
 - Sleep is presented as a biological state with immune-system consequences.
-- Some immune cells may return to bone marrow at night.
-- Neutrophils and other immune actors may populate tissues during sleep-linked repair processes.
+- Immune cells may redistribute at night, with some returning to bone marrow while neutrophils and other actors populate tissues during sleep-linked repair processes.
 - Tissue cleanup, repair, and lymphatic clearance are part of the episode's sleep-immunity frame.
 - Poor sleep is linked to increased vulnerability to illness in the source discussion.
+- Continuity and regularity may matter alongside duration because fragmented sleep can interrupt the broader recovery state.
 - The source does not convert sleep-immunity links into a precise individualized protocol.
 - Sleep is one contributor to vulnerability and symptom burden, not a guarantee against infection or a substitute for exposure prevention.
 
@@ -43,13 +46,14 @@ The nervous-system episode adds sickness-related sleep and glymphatic clearance 
 - Illness-load boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] treats sleep loss and intense training during malaise as avoidable stressors while keeping personal tracking observational.
 - Severity qualification: [[ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583]] associates sleep loss with feeling sicker while acknowledging that strain differences and other immune factors also shape outcomes.
 - Sickness sleep and clearance: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] links early illness, sleep-state change, and glymphatic clearance while presenting foot elevation and 5-HTP as tentative rather than routine protocols.
+- Public-health maintenance model: [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]] describes nighttime immune-cell and immune-factor activity within a wider repair process and warns that fragmented sleep can weaken recovery.
 
 ## Counterevidence & Qualifications
-The sources do not specify a validated sleep prescription for immune optimization. Percentage-of-sleep-need, early-symptom, exercise, travel, personal-pattern, illness-severity, glymphatic, foot-elevation, and serotonin-supplement claims remain source-scoped. The sources do not settle how sleep duration, continuity, circadian timing, pathogen strain, illness state, or individual baseline should change recommendations. Serotonergic supplements can have interactions and adverse effects and are not routine sleep or infection treatment.
+The sources do not specify a validated sleep prescription for immune optimization. Percentage-of-sleep-need, early-symptom, exercise, travel, personal-pattern, illness-severity, glymphatic, immune-cell timing, deep-sleep, foot-elevation, and serotonin-supplement claims remain source-scoped. The sources do not settle how sleep duration, continuity, circadian timing, pathogen strain, illness state, or individual baseline should change recommendations. Serotonergic supplements can have interactions and adverse effects and are not routine sleep or infection treatment.
 
 ## What Changed
-- Added sickness-related sleep and glymphatic clearance to the mechanistic frame.
-- Kept foot elevation and 5-HTP outside the established sleep-immunity core.
+- Added VOL.187's continuity-sensitive nighttime-maintenance explanation.
+- Preserved the boundary between a useful immune-repair model and a precise deep-sleep or infection-prevention prescription.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this concept narrows to immune repair.
