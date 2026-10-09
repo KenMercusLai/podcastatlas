@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案](sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn.md) — 忽左忽右以托卡契夫案连接技术型人力情报、CIA 莫斯科线人处理、内部泄密、克格勃反间谍与局部情报效果的宏观因果边界。
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx.md) — 陈冕复盘互联网产品生涯、Liblib 到 Lovart 的 AI 设计创业、工作流上游定位、速度与现金流，以及人类审美和创作职业的边界。
 - [5 少年维特有出路吗？读书1：《少年维特之烦恼》](sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w.md) — 怪东西重读《少年维特之烦恼》，以书信体、翻译损耗、生命阶段、爱情、官僚与阶级封闭重释维特的悲剧。
 - [090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！](sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x.md) — 纸醉金迷FM以五庄观、白骨岭和平顶山拆解稀缺声望、方案增项、应急替代、资源置换与避责式总结。
@@ -4285,6 +4286,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [Adolf Tolkachev / 阿道夫·托卡契夫](entities/AdolfTolkachev.md) — Soviet radar engineer whose persistent self-volunteered CIA source work produced high-value technical intelligence before insider disclosures enabled his arrest.
+- [Edward Lee Howard / 爱德华·李·霍华德](entities/EdwardLeeHoward.md) — Former CIA officer whose training-derived disclosures reportedly focused the KGB search that identified Tolkachev.
+- [The Billion Dollar Spy / 《亿万美元间谍》](entities/TheBillionDollarSpy.md) — Book frame for the Tolkachev case, military-technical intelligence value, Moscow tradecraft, and insider compromise.
 - [Lovart](entities/Lovart.md) — 面向非专业用户承接专业设计需求、以无限画布和上下文交互为核心的 AI designer 产品。
 - [Johann Wolfgang von Goethe / 歌德](entities/JohannWolfgangVonGoethe.md) — German author represented through the autobiographical transformation, form, language, and social interpretation of *The Sorrows of Young Werther*.
 - [《少年维特之烦恼》 / The Sorrows of Young Werther](entities/TheSorrowsOfYoungWerther.md) — 以书信亲密性、青春生命力及爱情、职业与阶级出口的同时收窄展开的歌德小说。
@@ -17247,6 +17251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Technical HUMINT Military Leverage / 技术型人力情报的军事杠杆](concepts/TechnicalHUMINTMilitaryLeverage.md) — Framework connecting insider technical access to changed engineering, procurement, doctrine, or military advantage without inflating local effects into regime-level causation.
 - [Human Taste Creative Boundary / 人类审美的创造边界](concepts/HumanTasteCreativeBoundary.md) — 区分可自动化的创意执行与审美判断、风格创新及其权利治理的动态边界。
 - [AI Workflow Upstream Positioning / AI 工作流上游定位](concepts/AIWorkflowUpstreamPositioning.md) — 从用户意图、新人群或新需求发起工作流，而非成为既有平台可替换的下游功能。
 - [Life-Stage-Dependent Rereading / 生命阶段依赖的重读](concepts/LifeStageDependentRereading.md) — 后来经验或语言能力改变作品显著性、但不自动赋予终极解释权的重读机制。

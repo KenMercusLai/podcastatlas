@@ -7440,6 +7440,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/adolfhitler/"
     },
+    "AdolfTolkachev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/adolftolkachev/"
+    },
     "AdoptedLondonIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -10350,6 +10366,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/alcoholsystemicdoserisk/"
+    },
+    "AldrichAmes": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/aldrichames/"
     },
     "AlexBores": {
       "episode_count": 1,
@@ -31913,9 +31952,9 @@
       "url": "/wiki/entities/chipsact/"
     },
     "CIA": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -31930,9 +31969,16 @@
           "show": "The Rest Is History",
           "title": "125. The CIA",
           "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/cia/"
     },
     "CIAIntelligenceCovertActionTension": {
@@ -46914,9 +46960,9 @@
       "url": "/wiki/concepts/coldwarsecurityloyaltypolitics/"
     },
     "ColdWarSpycraft": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -46938,9 +46984,16 @@
           "show": "The Rest Is History",
           "title": "37. Spies, with Ben Macintyre",
           "url": "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/coldwarspycraft/"
     },
     "ColemanRuiz": {
@@ -70184,6 +70237,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/edwardkeneally/"
     },
+    "EdwardLeeHoward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/edwardleehoward/"
+    },
     "EdwardSaid": {
       "episode_count": 2,
       "show_count": 1,
@@ -78335,9 +78404,9 @@
       "url": "/wiki/concepts/espionagefictionworldbuilding/"
     },
     "EspionageHistoricalImpact": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4382644548 [GLT4382644548].md",
@@ -78345,9 +78414,16 @@
           "show": "The Rest Is History",
           "title": "37. Spies, with Ben Macintyre",
           "url": "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/espionagehistoricalimpact/"
     },
     "EspressoCodeEditor": {
@@ -118589,9 +118665,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -118662,9 +118738,16 @@
           "show": "忽左忽右",
           "title": "497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后",
           "url": "/wiki/sources/497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HwangJini": {
@@ -135293,6 +135376,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/kfc/"
+    },
+    "KGB": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
+          "key": "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649",
+          "show": "蜜獾吃书",
+          "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
+          "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/kgb/"
     },
     "KKAIDirector": {
       "episode_count": 1,
@@ -229589,6 +229702,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/spynetworkentrapment/"
     },
+    "SpySourceProtection": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
+          "key": "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649",
+          "show": "蜜獾吃书",
+          "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
+          "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+        },
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/spysourceprotection/"
+    },
     "Sspai": {
       "episode_count": 1,
       "show_count": 1,
@@ -238636,6 +238779,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/techbubbleconditions/"
     },
+    "TechnicalHUMINTMilitaryLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/technicalhumintmilitaryleverage/"
+    },
     "TechnicalLeadershipForTechnologyCompanies": {
       "episode_count": 1,
       "show_count": 1,
@@ -239965,6 +240124,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/thebeatles/"
+    },
+    "TheBillionDollarSpy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvQmgp0K-6R7O0WhWBAkBUct8kVn [lvQmgp0K-6R7O0WhWBAkBUct8kVn].md",
+          "key": "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn",
+          "show": "忽左忽右",
+          "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+          "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/thebilliondollarspy/"
     },
     "TheCanterburyTales": {
       "episode_count": 1,

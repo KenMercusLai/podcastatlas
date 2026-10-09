@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12903
+wiki_total_pages: 12906
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "TheBeauCollective"
     title: "The Beau Collective"
     url: "/wiki/entities/thebeaucollective/"
+  - key: "TheBillionDollarSpy"
+    title: "The Billion Dollar Spy / 《亿万美元间谍》"
+    url: "/wiki/entities/thebilliondollarspy/"
   - key: "TheBlackParade"
     title: "The Black Parade"
     url: "/wiki/entities/theblackparade/"

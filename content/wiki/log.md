@@ -33638,3 +33638,11 @@ Added source `essentials-optimizing-workspace-for-productivity-focus-creativity-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案
+
+Added source `506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn`; created [[AdolfTolkachev|Adolf Tolkachev / 阿道夫·托卡契夫]], [[EdwardLeeHoward|Edward Lee Howard / 爱德华·李·霍华德]], [[TheBillionDollarSpy|The Billion Dollar Spy / 《亿万美元间谍》]], and [[TechnicalHUMINTMilitaryLeverage|Technical HUMINT Military Leverage / 技术型人力情报的军事杠杆]]; and resynthesized [[CIA]], [[KGB]], [[AldrichAmes|Aldrich Ames / 奥德里奇·艾姆斯]], [[ColdWarSpycraft]], [[SpySourceProtection]], [[EspionageHistoricalImpact]], and [[HuzuoHuyou|忽左忽右]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Tolkachev's persistent self-volunteered access reportedly created high military-technical leverage, but value depended on institutional use rather than page count; dissemination widened exposure risk; and Howard's domain-and-method disclosures reportedly initiated the KGB search while Ames later confirmed the case. No settled contradiction was adopted. The Tolkachev-as-KGB-dangle hypothesis, savings estimates, document totals, weapons effects, motives, meeting details, precise exposure sequence, and the cyanide decision remain disputed or source-scoped, while local intelligence effects are kept separate from the economic, political, reform, and nationalities causes of Soviet collapse. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,212 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

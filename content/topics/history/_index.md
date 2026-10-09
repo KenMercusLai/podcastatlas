@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2644
+topic_total_pages: 2645
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6456,6 +6456,9 @@ topic_sources:
   - key: "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569"
     title: "505. The French Revolution: The Shadow of the Guillotine (Part 3)"
     url: "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+  - key: "506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn"
+    title: "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案"
+    url: "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
   - key: "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163"
     title: "506. The French Revolution: Massacre at the Palace (Part 4)"
     url: "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"

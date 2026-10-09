@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10091
+wiki_total_pages: 10092
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "TechnicalDemoRetentionGap"
     title: "Technical Demo Retention Gap"
     url: "/wiki/concepts/technicaldemoretentiongap/"
+  - key: "TechnicalHUMINTMilitaryLeverage"
+    title: "Technical HUMINT Military Leverage / 技术型人力情报的军事杠杆"
+    url: "/wiki/concepts/technicalhumintmilitaryleverage/"
   - key: "TechnicalLeadershipForTechnologyCompanies"
     title: "Technical Leadership For Technology Companies"
     url: "/wiki/concepts/technicalleadershipfortechnologycompanies/"

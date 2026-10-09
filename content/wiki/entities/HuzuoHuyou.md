@@ -13,7 +13,8 @@ sources:
   - 504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih
   - 502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd
   - 497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3
-last_updated: 2026-10-04
+  - 506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 忽左忽右 is a Chinese podcast represented in the wiki through ecosystem history and long-form conversations on architecture, borderlands, theatre, warfare, governance, intellectual biography, media history, and engineering disaster.
 
 ## Current Profile
-The bounded sources show two related roles. In a podcast-ecosystem discussion, [[YangYi|杨一]] uses the show to explain early market education, personal voice, communities, services, events, and fragmented monetization. Its topic episodes turn books, places, people, current events, anniversaries, archives, and travel into long historical explanations: modern Shanghai architecture, Ceuta's imperial geography, Shakespearean political memory, Qin-Han warfare, Qing institutional decline, [[XuZhuoyun|许倬云]]'s life and public historiography, [[LinXingzhi|林行止]]'s relationship to Hong Kong financial media, Challenger as a coupled technical and organizational failure, and Singapore's separation from Malaysia as both a structural crisis and an elite-negotiated outcome.
+The bounded sources show two related roles. In a podcast-ecosystem discussion, [[YangYi|杨一]] uses the show to explain early market education, personal voice, communities, services, events, and fragmented monetization. Its topic episodes turn books, places, people, current events, anniversaries, archives, and travel into long historical explanations: modern Shanghai architecture, Ceuta's imperial geography, Shakespearean political memory, Qin-Han warfare, Qing institutional decline, [[XuZhuoyun|许倬云]]'s life and public historiography, [[LinXingzhi|林行止]]'s relationship to Hong Kong financial media, Challenger as a coupled technical and organizational failure, Singapore's separation from Malaysia as both a structural crisis and an elite-negotiated outcome, and [[AdolfTolkachev|Adolf Tolkachev]]'s technical espionage as a bounded case inside late-Cold-War institutional history.
 
 ## Key Characteristics
 - Emerged in a Chinese podcast market that still required listener and client education.
@@ -30,7 +31,7 @@ The bounded sources show two related roles. In a podcast-ecosystem discussion, [
 - Moves across cultural, architectural, military, institutional, borderland, and intellectual history.
 - Preserves uncertainty, source criticism, and narrator-position limits alongside accessible framing.
 - Uses individual careers to connect media institutions with wider economic, political, and cultural change.
-- Uses engineering disasters, archives, and historical sites to connect material events and familiar narratives with institutions, agency, public accountability, and present memory politics.
+- Uses engineering disasters, archives, historical sites, and espionage cases to connect material events and personal motives with institutions, agency, public accountability, and macrohistorical limits.
 
 ## Evidence
 - Ecosystem evidence: [[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] places the show in early Chinese podcast practice, creator community, brand services, and fragmented monetization.
@@ -43,16 +44,14 @@ The bounded sources show two related roles. In a podcast-ecosystem discussion, [
 - Media-history evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]] uses a former editor's account to connect Lin Xingzhi, 《信报》, economic explanation, advertiser pressure, and Hong Kong public culture.
 - Engineering-disaster evidence: [[502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd]] connects Challenger's technical mechanism with megaproject funding, public promises, warning escalation, and organizational culture.
 - Archive-and-state-formation evidence: [[497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3]] uses the Albatross File exhibition and Singapore travel to connect decolonization, ethnic politics, elite negotiation, national memory, and urban governance.
+- Espionage-history evidence: [[506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn]] connects Tolkachev's technical access, CIA handling, KGB counterintelligence, insider betrayal, and the boundary between local intelligence effects and Soviet collapse.
 
 ## Qualifications
-This is not a complete show catalog. The sources differ in purpose and narrator position, and the Xu Zhuoyun and Lin Xingzhi episodes rely substantially on close collaborators or editors rather than independently verified biography. Episodes 502 and 497 are secondary structured summaries rather than primary accident or diplomatic records. Host-name variants and episode metadata remain source-bounded; the Qing and Xu sources do not explicitly identify the host by name.
+This is not a complete show catalog. The sources differ in purpose and narrator position, and the Xu Zhuoyun and Lin Xingzhi episodes rely substantially on close collaborators or editors rather than independently verified biography. Episodes 502, 497, and 506 are secondary structured summaries rather than primary accident, diplomatic, or intelligence records. Host-name variants and episode metadata remain source-bounded; the Qing and Xu sources do not explicitly identify the host by name.
 
 ## What Changed
-- Added intellectual biography and public historiography to the show's bounded topic profile.
-- Added close-witness recollection as a format whose access benefits require explicit corroboration limits.
-- Added Hong Kong financial-media history and public knowledge translation to the show's bounded topic profile.
-- Added engineering disaster, organizational risk, and public-project accountability to the show's bounded topic profile.
-- Added archival reinterpretation, Southeast Asian state formation, and history-through-travel to the show's bounded profile.
+- Added Cold War intelligence history, source handling, and military-technical espionage to the bounded topic profile.
+- Added a scale-conscious distinction between operational intelligence effects and macrohistorical causation.
 
 ## Relationships
 - [[YangYi]] - early podcast practitioner associated with the show's launch and ecosystem role.
@@ -71,3 +70,5 @@ This is not a complete show catalog. The sources differ in purpose and narrator 
 - [[GoFeverOrganizationalRisk]] - organizational escalation pattern emphasized in the Challenger discussion.
 - [[AlbatrossFile]] - archive-exhibition used to revisit Singapore's founding narrative.
 - [[MalaysiaSingaporeSeparation]] - state-formation case examined through structure and elite agency.
+- [[AdolfTolkachev]] - technical espionage case anchoring episode 506.
+- [[TechnicalHUMINTMilitaryLeverage]] - framework separating reported document value from demonstrated military and historical effect.
