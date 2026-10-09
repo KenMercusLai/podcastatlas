@@ -5,6 +5,7 @@ tags: [police, uk, public-services, investigation]
 sources:
   - right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f
   - 625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111
+  - 624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ The Metropolitan Police appears in the wiki through two widely separated institu
 
 ## Current Profile
 
-In [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]], the force is presented as roughly 15,000 officers serving about six million people while the CID was only around a decade old. Investigators lacked blood testing, a fingerprint bureau, crime laboratories, and later scene methods. Experienced detectives such as [[FrederickAbberline|Frederick Abberline]] could narrow witness timelines and question plausible suspects, but darkness, marginal crime scenes, weak identification, rumors, political hostility, and press pressure limited what effort could establish.
+In the Whitechapel sources, the force is presented as roughly 15,000 officers serving about six million people while the CID was only around a decade old. Investigators lacked blood testing, a fingerprint bureau, crime laboratories, and later scene methods. Experienced detectives such as [[FrederickAbberline|Frederick Abberline]] could narrow witness timelines and question plausible suspects, but darkness, marginal crime scenes, weak identification, rumors, political hostility, and press pressure limited what effort could establish. [[624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893]] adds the Nichols discovery, patrol timing, workhouse-assisted identification, Warren’s resignation pressure, and royal calls for better lighting and detectives, showing that street infrastructure and governance were part of investigative capacity.
 
 In [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]], the institution instead illustrates [[GovernmentEnterpriseProcurement]]. London mayor Sadiq Khan reportedly blocked a Palantir arrangement because it lacked open competition, while Commissioner Sir Mark Rowley warned that losing the software would reduce productivity and require frontline cuts. The recurring issue is not whether capacity matters, but how operational capacity is built and governed without bypassing evidentiary or public legitimacy.
 
@@ -33,6 +34,7 @@ In [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]], the i
 
 ### Early investigative capacity
 
+- [[624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893]] connects Nichols’s discovery and identification to patrol, medical examination, workhouse records, public fear, lighting, detective capacity, and political accountability.
 - [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]] describes force-to-population strain, a young CID, missing fingerprint, blood-testing, and laboratory capabilities, difficult night scenes, and witness evidence that narrowed timing without identifying the offender.
 - [[625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111]] presents arrests and questioning as responses to contemporary behavioral and occupational suspicions while recording alibis and false leads.
 
@@ -43,13 +45,13 @@ In [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]], the i
 
 ## Qualifications
 
-The two sources do not provide a continuous institutional history and should not be treated as equivalent technology cases. The Victorian episode's force and population figures, judgments of police competence, and causal claims about unsolved crime remain source-scoped. The modern source does not independently verify the projected productivity loss or compare alternative suppliers. Institutional constraints explain limits without proving that every operational decision was sound.
+The sources do not provide a continuous institutional history, and the Victorian and modern cases should not be treated as equivalent technology problems. Victorian force and population figures, judgments of police competence, and causal claims about reform or resignation remain source-scoped. Better lighting, staffing, or records could improve capacity without guaranteeing detection. The modern source does not independently verify the projected productivity loss or compare alternative suppliers. Institutional constraints explain limits without proving that every operational decision was sound.
 
 ## What Changed
 
-- Expanded the profile from one modern procurement dispute to a cross-period account of investigative capacity and legitimacy.
-- Added the distinction between experienced personnel and immature forensic infrastructure in 1888.
-- Reframed information processing as a recurring police capacity whose governance differs across periods.
+- Added Nichols’s discovery and identification as examples of patrol, medical, and institutional-record capacity.
+- Added lighting, detective strength, royal pressure, and Warren’s resignation to the governance context.
+- Preserved institutional limitation as explanation rather than proof that every police decision was sound.
 
 ## Relationships
 

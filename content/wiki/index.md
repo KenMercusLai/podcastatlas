@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [624. Jack The Ripper: History’s Darkest Mystery (Part 1)](sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893.md) — The Rest Is History frames Whitechapel as a Victorian social and media crisis, then reconstructs Polly Nichols’s cumulative precarity, uncertain final activity, murder, and identification.
 - [087 金庸小说与儒家文化](sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8.md) — 纸醉金迷FM以金庸人物区分儒家精神与僵化礼教，连接知行合一、护民反战、亲情与公义及儒家价值的现代转化。
 - [VOL.188《疯狂动物城2》背后藏着的“成年人心理课”](sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c.md) — 这病说来话长借电影台词讨论家庭角色错位、亲职化、责任边界、留下与离开的自主性，以及对休息和不必坚强的心理许可。
 - [The Beatles: The British Invasion, with Conan O’Brien (Part 2)](sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398.md) — The Rest Is History follows the Beatles from touring's end through studio reinvention, psychedelia, managerial loss, Apple, Get Back, Abbey Road, and breakup.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2663
+topic_total_pages: 2664
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6621,6 +6621,9 @@ topic_sources:
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"
+  - key: "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893"
+    title: "624. Jack The Ripper: History’s Darkest Mystery (Part 1)"
+    url: "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
   - key: "625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111"
     title: "625. Jack The Ripper: Horror in Whitechapel (Part 2)"
     url: "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"

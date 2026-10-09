@@ -39296,9 +39296,9 @@
       "url": "/wiki/entities/charlesvoffrance/"
     },
     "CharlesWarren": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7980605076 [GLT7980605076].md",
@@ -39306,6 +39306,13 @@
           "show": "The Rest Is History",
           "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
           "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -129232,9 +129239,9 @@
       "url": "/wiki/entities/jackruby/"
     },
     "JackTheRipper": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -129277,15 +129284,22 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/jacktheripper/"
     },
     "JackTheRipperMythFormation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6270048402 [GLT6270048402].md",
@@ -129307,6 +129321,13 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -163454,6 +163475,29 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/maryainsworth/"
     },
+    "MaryAnnNichols": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/maryannnichols/"
+    },
     "MaryAnning": {
       "episode_count": 1,
       "show_count": 1,
@@ -167827,9 +167871,9 @@
       "url": "/wiki/entities/metroland/"
     },
     "MetropolitanPolice": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -167844,6 +167888,13 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -171712,9 +171763,9 @@
       "url": "/wiki/concepts/modernchristmasreinvention/"
     },
     "ModernCriminalInvestigationFormation": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
@@ -171757,6 +171808,13 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -221561,9 +221619,9 @@
       "url": "/wiki/concepts/seniorcourtvetoreformretreat/"
     },
     "SensationalMediaPublicSphere": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
@@ -221592,6 +221650,13 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -222136,9 +222201,9 @@
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
     "SexWorkEconomicSpectrum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9221135938 [GLT9221135938].md",
@@ -222146,6 +222211,13 @@
           "show": "The Rest Is History",
           "title": "24. Sex in the City",
           "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-04",
@@ -254865,9 +254937,9 @@
       "url": "/wiki/concepts/victimforgivenessagency/"
     },
     "VictimStigmaInTrueCrime": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案 [756562827].md",
@@ -254889,6 +254961,13 @@
           "show": "The Rest Is History",
           "title": "627. Jack The Ripper: From Hell (Part 4)",
           "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",
@@ -255014,9 +255093,9 @@
       "url": "/wiki/concepts/victoriantourismformation/"
     },
     "VictorianWomenPrecarity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -255052,6 +255131,13 @@
           "show": "The Rest Is History",
           "title": "625. Jack The Ripper: Horror in Whitechapel (Part 2)",
           "url": "/wiki/sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111/"
+        },
+        {
+          "episode_file": "GLT7829555893 [GLT7829555893].md",
+          "key": "624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893",
+          "show": "The Rest Is History",
+          "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
+          "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
         }
       ],
       "updated": "2026-10-10",

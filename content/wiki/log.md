@@ -33968,3 +33968,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 624. Jack The Ripper: History’s Darkest Mystery (Part 1)
+
+Added source `624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893`; migrated [[MaryAnnNichols]] to the synthesis-first schema; and resynthesized [[JackTheRipper]], [[CharlesWarren]], [[MetropolitanPolice]], [[JackTheRipperMythFormation]], [[ModernCriminalInvestigationFormation]], [[SensationalMediaPublicSphere]], [[VictorianWomenPrecarity]], [[VictimStigmaInTrueCrime]], and [[SexWorkEconomicSpectrum]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nichols’s recoverable life and uncertain final activity show cumulative vulnerability without justifying a categorical prostitution label, while Whitechapel’s real deprivation and projected “urban abyss” status made the murders a crisis of media, policing, public order, and imperial modernity as well as an unresolved crime. No settled contradiction was adopted. Tabrum’s inclusion, Nichols’s marital rupture and final activity, anatomical skill, offender occupation, police competence, and the causal role of reform or Warren’s decisions remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,253 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
