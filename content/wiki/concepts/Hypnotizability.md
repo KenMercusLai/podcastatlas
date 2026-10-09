@@ -4,7 +4,8 @@ type: concept
 tags: [hypnosis, attention, individual-differences, development, assessment]
 sources:
   - using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213
-last_updated: 2026-10-02
+  - essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Capacity and skill are distinct. Repeated practice may modestly change a measure
 
 The Spiegel eye-roll test is presented as a quick correlate: a person looks upward and closes the eyelids, and continued upward eye position is associated with higher hypnotizability. The episode offers a motor-control explanation, but this association is not equivalent to a complete clinical assessment, universal biological marker, or proof of treatment response.
 
+The Essentials edit repeats the adult prevalence estimates, the eye-roll demonstration, and the possibility that strong evaluative monitoring can interfere with absorption. Because it is derived from the full interview, it sharpens no estimate and provides no independent validation.
+
 ## Key Claims
 - Hypnotizability varies continuously across people and conditions response to [[ClinicalHypnosis]].
 - Childhood is described as a period of greater capacity, followed by substantial adult stability.
@@ -34,12 +37,13 @@ The Spiegel eye-roll test is presented as a quick correlate: a person looks upwa
 - Practice boundary - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] says practice may produce small score changes while improving practical use of existing capacity.
 - Eye-roll association - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] describes scleral visibility and retained upward gaze as correlates of response.
 - Clinical adaptation - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] recommends more explanation for lower-to-moderately responsive people.
+- Condensed restatement - [[essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179]] repeats the response distribution, eye-roll correlate, and evaluative-monitoring boundary without independent validation.
 
 ## Counterevidence & Qualifications
-The episode does not provide scale definitions, sample composition, uncertainty around prevalence estimates, cross-cultural validation, or diagnostic-performance statistics for the eye-roll test. A correlation of 0.7 indicates substantial but incomplete stability. Responsiveness in one setting does not prove benefit for every condition, and low hypnotizability does not imply poor attention, weak imagination, resistance, or inability to benefit from other treatments. The GABA and brain-connectivity findings remain associations rather than a complete biological explanation.
+Neither edit provides scale definitions, sample composition, uncertainty around prevalence estimates, cross-cultural validation, or diagnostic-performance statistics for the eye-roll test. A correlation of 0.7 indicates substantial but incomplete stability. Responsiveness in one setting does not prove benefit for every condition, and low hypnotizability does not imply poor attention, weak imagination, resistance, or inability to benefit from other treatments. The GABA and brain-connectivity findings remain associations rather than a complete biological explanation.
 
 ## What Changed
-- Created a graded trait-and-skill model that separates capacity, assessment, practice, and treatment outcome.
+- The Essentials edit leaves the graded trait-and-skill model unchanged and adds only overlapping provenance for prevalence, evaluation, and the eye-roll correlate.
 
 ## Related Concepts
 - [[ClinicalHypnosis]] - intervention whose delivery and likely response are conditioned by hypnotic capacity.

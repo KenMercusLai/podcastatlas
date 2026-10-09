@@ -34088,3 +34088,11 @@ Added source `daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhs
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel
+
+Added source `essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179`; and resynthesized [[DavidSpiegel]], [[Reveri]], [[ClinicalHypnosis]], and [[Hypnotizability]] from their complete preserved evidence inventories before appending the new source once. The Essentials edit preserves the full interview's control-centered account of hypnosis, neural correlates, controlled approach to stress, fear, trauma, pain, and sleep, variable hypnotic capacity, and licensed-care boundary. It is overlapping provenance rather than independent confirmation, so no settled contradiction or material change in clinical judgment was adopted. Neural mechanisms, prevalence estimates, the eye-roll association, condition-specific outcomes, and app effectiveness remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,268 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

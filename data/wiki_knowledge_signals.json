@@ -45912,9 +45912,9 @@
       "url": "/wiki/concepts/clinicalhistorydisclosure/"
     },
     "ClinicalHypnosis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9896599213 [SCIM9896599213].md",
@@ -45929,9 +45929,16 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM2804799179 [SCIM2804799179].md",
+          "key": "essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
+          "url": "/wiki/sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/clinicalhypnosis/"
     },
     "ClinicalLanguageComprehensionValidation": {
@@ -59366,9 +59373,9 @@
       "url": "/wiki/entities/davidsinclair/"
     },
     "DavidSpiegel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9896599213 [SCIM9896599213].md",
@@ -59376,9 +59383,16 @@
           "show": "Huberman Lab",
           "title": "Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
           "url": "/wiki/sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213/"
+        },
+        {
+          "episode_file": "SCIM2804799179 [SCIM2804799179].md",
+          "key": "essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
+          "url": "/wiki/sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/davidspiegel/"
     },
     "DavidStirling": {
@@ -120791,9 +120805,9 @@
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
     "Hypnotizability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9896599213 [SCIM9896599213].md",
@@ -120801,9 +120815,16 @@
           "show": "Huberman Lab",
           "title": "Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
           "url": "/wiki/sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213/"
+        },
+        {
+          "episode_file": "SCIM2804799179 [SCIM2804799179].md",
+          "key": "essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
+          "url": "/wiki/sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/hypnotizability/"
     },
     "IBDPatientEducationAndPeerSupport": {
@@ -212032,9 +212053,9 @@
       "url": "/wiki/concepts/revenuebeforecostoptimization/"
     },
     "Reveri": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9896599213 [SCIM9896599213].md",
@@ -212042,9 +212063,16 @@
           "show": "Huberman Lab",
           "title": "Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
           "url": "/wiki/sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213/"
+        },
+        {
+          "episode_file": "SCIM2804799179 [SCIM2804799179].md",
+          "key": "essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
+          "url": "/wiki/sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/reveri/"
     },
     "ReverseJointVentureEVGlobalization": {

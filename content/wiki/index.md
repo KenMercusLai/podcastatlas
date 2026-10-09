@@ -4339,6 +4339,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Making & Breaking Habits](sources/essentials-the-science-of-making-breaking-habits-scim6067841582.md) — Condensed Huberman Lab episode on initiation friction, procedural rehearsal, task bracketing, state-matched placement, sleep consolidation, context independence, and post-habit replacement.
 - [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
 - [导演毕赣×罗永浩！清醒、深刻、独一无二的造梦者](sources/daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhsut9wu8n73dbdyhps50ymyf9wa.md) — 罗永浩对谈毕赣，以凯里成长、三部长片、观看障碍、长镜头时间、演员安全感与个性化电影工业连接作者表达和观众距离。
+- [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
 
 ## Entities
 - [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 以佳佳大厦篇连接都市邻里、家庭控制、僵尸鬼怪、现代化法器与道歉和解的香港灵异剧。

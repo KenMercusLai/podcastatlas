@@ -5,7 +5,8 @@ tags: [hypnosis, attention, mind-body, pain, trauma, therapy]
 sources:
   - using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213
   - scim2452395341-scim2452395341
-last_updated: 2026-10-03
+  - essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Safety depends on scope. Hypnosis should not conceal an unexplained medical symp
 
 The earlier pain-and-pleasure episode adds a narrower self-hypnosis application for acute and chronic pain, presenting brief repeated practice as potentially useful for some people. It supplies early provenance for the tool, while the later [[DavidSpiegel]] interview provides the fuller account of hypnotizability, neural correlates, clinical settings, and safety.
 
+The Essentials edit condenses that full interview and preserves the same control-centered model, neural account, clinical examples, and referral boundary. It improves access to the framework but does not constitute independent evidence or change the current clinical judgment.
+
 ## Key Claims
 - Hypnosis is a focused-attention state and clinical tool, not inherently a loss of control.
 - Voluntary entry, exit, bodily regulation, imagery, and a defined goal distinguish the episode's clinical model.
@@ -41,13 +44,14 @@ The earlier pain-and-pleasure episode adds a narrower self-hypnosis application 
 - Pain and procedures - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] reports adult pain, cancer-support, and pediatric procedure trials with favorable outcomes.
 - Scope and safety - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] recommends trained licensed providers and evaluation of possible medical causes before symptom reduction.
 - Earlier pain application - [[scim2452395341-scim2452395341]] presents brief repeated self-hypnosis as a non-drug adjunct for selected acute or chronic pain.
+- Condensed corroboration - [[essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179]] restates the focused-attention, controlled-approach, variable-response, and licensed-care framework without adding an independent study base.
 
 ## Counterevidence & Qualifications
-The sources are condensed public explanations, not systematic reviews. Their overlap is provenance rather than independent confirmation. Exact adult and pediatric effect sizes, opioid reductions, complication differences, procedure-time changes, PTSD improvement, cancer-support outcomes, practice frequency, and acute-versus-chronic pain effects need verification against full studies. Brain connectivity and anterior-cingulate GABA associations do not by themselves establish a treatment mechanism. ADHD was not directly studied by Spiegel in the episode; OCD, benzodiazepine, breathing, performance, and EMDR interpretations remain conditional. State-dependent access can increase vividness without establishing historical truth, so [[MemoryContaminationRisk]] remains active. Hypnosis is not universally available because response varies, and stage demonstrations do not represent typical clinical practice.
+The sources are condensed public explanations, not systematic reviews. The full interview and Essentials edit overlap and therefore add provenance rather than independent confirmation. Exact adult and pediatric effect sizes, opioid reductions, complication differences, procedure-time changes, PTSD improvement, cancer-support outcomes, practice frequency, and acute-versus-chronic pain effects need verification against full studies. Brain connectivity and anterior-cingulate GABA associations do not by themselves establish a treatment mechanism. ADHD was not directly studied by Spiegel in the episode; OCD, benzodiazepine, breathing, performance, and EMDR interpretations remain conditional. State-dependent access can increase vividness without establishing historical truth, so [[MemoryContaminationRisk]] remains active. Hypnosis is not universally available because response varies, and stage demonstrations do not represent typical clinical practice.
 
 ## What Changed
-- Added the earlier pain-focused self-hypnosis account as provenance for brief repeated practice.
-- Preserved the later Spiegel interview as the fuller clinical, individual-response, and safety frame.
+- The Essentials edit leaves the current judgment unchanged because it condenses the already represented full interview.
+- Its shorter account reinforces voluntary control, individual response differences, and licensed-care boundaries as the durable frame.
 
 ## Related Concepts
 - [[Hypnotizability]] - individual capacity that conditions access to and response within hypnosis.
