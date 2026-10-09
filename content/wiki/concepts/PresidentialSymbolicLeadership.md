@@ -8,7 +8,8 @@ sources:
   - 310-ronald-reagan-and-the-american-dream-part-1-glt3254036306
   - 179-french-presidents-1981-2022-part-2-glt2206497694
   - 178-french-presidents-1958-1981-part-1-glt1396593896
-last_updated: 2026-10-01
+  - 639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ The French branch supplies an institutional comparison through [[178-french-pres
 
 Across both branches, performance can express genuine belief without guaranteeing factual accuracy, policy success, legal conduct, moral adequacy, or durable institutional health.
 
+The hostage-crisis branch in [[639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592]] contrasts moral responsibility with reassurance. [[JimmyCarter]] is presented as serious, personally burdened, and willing to accept blame for [[OperationEagleClaw]], yet exhaustion and repeated failure made him look unable to master events. [[RonaldReagan]] benefited from a public style better able to narrate recovery. Symbolic leadership therefore affects whether responsibility is read as integrity or weakness, but it cannot substitute for successful diplomacy, operations, or material conditions.
+
 ## Key Claims
 
 - Symbolic performance can make dignity, recovery, grief, order, and belonging emotionally legible.
@@ -34,6 +37,7 @@ Across both branches, performance can express genuine belief without guaranteein
 - Constitutional traditions can make symbolic embodiment an institutional demand rather than optional personal style.
 - Performance and sincerity can reinforce one another without guaranteeing factual reliability.
 - Strong presidential symbolism can coexist with policy failure, exclusion, corruption, scandal, or weakened intermediary institutions.
+- Moral seriousness and responsibility-taking do not automatically produce public confidence during prolonged crisis.
 
 ## Evidence
 
@@ -45,6 +49,7 @@ Across both branches, performance can express genuine belief without guaranteein
 ### Presidential confidence and resilience
 
 - [[312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229]] uses campaign imagery, Oval Office formality, assassination-attempt humor, national mourning, and the farewell address to ground symbolic authority.
+- [[639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592]] contrasts Carter's visible burden and acceptance of responsibility with Reagan's more effective reassurance during the hostage crisis and 1980 transition.
 
 ### Institutionalized grandeur
 
@@ -58,7 +63,7 @@ Across both branches, performance can express genuine belief without guaranteein
 
 ## Counterevidence & Qualifications
 
-The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. The French episodes' rankings and claims about what the public expects from presidents are deliberately subjective and anecdotal.
+The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. Carter's defeat cannot be reduced to demeanor or the hostage crisis, and Reagan's reassurance does not prove involvement in hostage-release timing. The French episodes' rankings and claims about what the public expects from presidents are deliberately subjective and anecdotal.
 
 ## What Changed
 
@@ -66,6 +71,7 @@ The sources do not establish that performance alone caused electoral victory, ec
 - Added the French contrast between grandeur, conspicuous ambition, ordinariness, secrecy, and party-system fragility.
 - Clarified that symbolic success can weaken institutions even when it strengthens the individual president.
 - Added early evidence that both attempted ordinariness and inherited aristocratic formality can fail when they conflict with the office's expected dignity.
+- Added the Carter-Reagan crisis contrast between responsibility-taking, visible mastery, and public reassurance.
 
 ## Related Concepts
 
@@ -74,4 +80,5 @@ The sources do not establish that performance alone caused electoral victory, ec
 - [[CorporateSpeakingPoliticalApprenticeship]] - repeated practice through which symbolic skill can become an electoral method.
 - [[HistoricalMemoryContest]] - struggle over which national stories become authoritative.
 - [[IranContraAffair]] - case where personal legitimacy and institutional accountability diverged.
+- [[IranHostageCrisis]] - case where prolonged captivity and failed rescue reshaped presidential authority and electoral narrative.
 - [[FarRightNormalization]] - reminder that symbolic and party-system choices can alter which challengers appear legitimate.

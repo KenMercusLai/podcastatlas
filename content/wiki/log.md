@@ -33392,3 +33392,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 639. Revolution in Iran: Death in the Desert (Part 4)
+
+Added source `639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592`; created [[CharlieBeckwith]], [[IranHostageCrisis]], and [[OperationEagleClaw]]; resynthesized [[JimmyCarter]] and [[RuhollahKhomeini]] from their complete preserved evidence inventories; and extended [[RonaldReagan]] and [[PresidentialSymbolicLeadership]] before appending the new source once to each inventory. Core synthesis: the hostage crisis joined revolutionary consolidation, failed diplomacy, recession, presidential symbolism, and electoral politics, while Eagle Claw shows how confidence in an elite assault can coexist with a brittle end-to-end mission architecture. No settled contradiction was adopted. The October Surprise allegation, Khomeini's prior knowledge, electoral causal weights, operational responsibility, dialogue, casualty estimates, motives, and counterfactual outcomes remain source-scoped or contested. Broad Iran, United States, and show pages were kept closed because the focused branch captures the bounded additions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,181 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

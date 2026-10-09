@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3237
+topic_total_pages: 3239
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2203,6 +2203,9 @@ topic_concepts:
   - key: "IranHorizontalEscalation"
     title: "Iran Horizontal Escalation / 伊朗横向升级"
     url: "/wiki/concepts/iranhorizontalescalation/"
+  - key: "IranHostageCrisis"
+    title: "Iran Hostage Crisis"
+    url: "/wiki/concepts/iranhostagecrisis/"
   - key: "IranNuclearMissileBargaining"
     title: "Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉"
     url: "/wiki/concepts/irannuclearmissilebargaining/"
@@ -8676,6 +8679,9 @@ topic_sources:
   - key: "61-california-glt2438679240"
     title: "61. California"
     url: "/wiki/sources/61-california-glt2438679240/"
+  - key: "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592"
+    title: "639. Revolution in Iran: Death in the Desert (Part 4)"
+    url: "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"

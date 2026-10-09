@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10051
+wiki_total_pages: 10053
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "OperationColdstore"
     title: "Operation Coldstore / 冷藏行动"
     url: "/wiki/concepts/operationcoldstore/"
+  - key: "OperationEagleClaw"
+    title: "Operation Eagle Claw"
+    url: "/wiki/concepts/operationeagleclaw/"
   - key: "OperationSeaLion"
     title: "Operation Sea Lion"
     url: "/wiki/concepts/operationsealion/"

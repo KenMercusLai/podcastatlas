@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10051
+wiki_total_pages: 10053
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "IranHorizontalEscalation"
     title: "Iran Horizontal Escalation / 伊朗横向升级"
     url: "/wiki/concepts/iranhorizontalescalation/"
+  - key: "IranHostageCrisis"
+    title: "Iran Hostage Crisis"
+    url: "/wiki/concepts/iranhostagecrisis/"
   - key: "IranNuclearMissileBargaining"
     title: "Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉"
     url: "/wiki/concepts/irannuclearmissilebargaining/"

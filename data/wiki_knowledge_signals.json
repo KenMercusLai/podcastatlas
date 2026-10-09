@@ -38710,6 +38710,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/charleszuker/"
     },
+    "CharlieBeckwith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/charliebeckwith/"
+    },
     "CharlotteCorday": {
       "episode_count": 2,
       "show_count": 2,
@@ -125133,6 +125149,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/iranhorizontalescalation/"
     },
+    "IranHostageCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/iranhostagecrisis/"
+    },
     "IranProsperityProject": {
       "episode_count": 1,
       "show_count": 1,
@@ -130365,9 +130397,9 @@
       "url": "/wiki/entities/jimcallaghan/"
     },
     "JimmyCarter": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -130375,6 +130407,13 @@
           "show": "The Rest Is History",
           "title": "206. Historical Love Island",
           "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        },
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
         }
       ],
       "updated": "2026-10-01",
@@ -180521,6 +180560,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/operationcolumba/"
     },
+    "OperationEagleClaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/operationeagleclaw/"
+    },
     "OperationFrequentWind": {
       "episode_count": 1,
       "show_count": 1,
@@ -194913,9 +194968,9 @@
       "url": "/wiki/concepts/presidentialimpeachment/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -194951,9 +195006,16 @@
           "show": "The Rest Is History",
           "title": "178. French Presidents: 1958-1981 (Part 1)",
           "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
+        },
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/presidentialsymbolicleadership/"
     },
     "PressureReleaseInfightingStrategy": {
@@ -210274,9 +210336,9 @@
       "url": "/wiki/entities/ronaldhutton/"
     },
     "RonaldReagan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -210319,9 +210381,16 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/ronaldreagan/"
     },
     "RongJunchuan": {
@@ -211125,6 +211194,43 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/rugbyworldcup1995/"
+    },
+    "RuhollahKhomeini": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
+          "key": "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd",
+          "show": "Talk三联",
+          "title": "EP251 伊朗困局：四十年战略选择的代价与现实",
+          "url": "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738 [default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738].md",
+          "key": "iran-protests-and-sanctions",
+          "show": "Planet Money",
+          "title": "Iran, protests, and sanctions",
+          "url": "/wiki/sources/iran-protests-and-sanctions/"
+        },
+        {
+          "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
+          "key": "77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187",
+          "show": "蜜獾吃书",
+          "title": "77.她是自由的野狗，她是法拉奇",
+          "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
+        },
+        {
+          "episode_file": "GLT6288433592 [GLT6288433592].md",
+          "key": "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592",
+          "show": "The Rest Is History",
+          "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
+          "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/ruhollahkhomeini/"
     },
     "RuijinHospital": {
       "episode_count": 1,

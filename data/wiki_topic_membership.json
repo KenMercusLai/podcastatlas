@@ -6205,6 +6205,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "64-bawangbieji-fengmo-yu-chenghuo-656094350": [
     {
       "key": "politics",
@@ -47445,6 +47457,13 @@
     }
   ],
   "IranHorizontalEscalation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "IranHostageCrisis": [
     {
       "key": "politics",
       "label": "Politics",

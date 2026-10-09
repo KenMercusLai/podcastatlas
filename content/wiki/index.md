@@ -4250,6 +4250,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 - [Essentials: Using Play to Rewire & Improve Your Brain](sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058.md) — Condensed Huberman Lab episode on low-stakes contingency testing, play signals, role flexibility, proposed PAG-opioid mechanisms, and movement-rich adult neuroplasticity.
 
+- [639. Revolution in Iran: Death in the Desert (Part 4)](sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592.md) — The Rest Is History episode on the Iran hostage crisis, Operation Eagle Claw, Carter's defeat, Reagan's victory, and Khomeini's revolutionary consolidation.
+
 ## Entities
 - [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
 - [水母阴姬 / Shui Mu Yin Ji](entities/ShuiMuYinJi.md) — 《画眉鸟》神水宫之主，将压倒性武力、毒药真相、隐秘依恋与相互留手集中于终局对手。
@@ -5218,7 +5220,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Margaret Mitchell](entities/MargaretMitchell.md) — Author whose family inheritance informs the episode's account of plantation-loss memory in Gone with the Wind.
 - [Hattie McDaniel](entities/HattieMcDaniel.md) — Oscar-winning actor whose landmark recognition coexisted with exclusion under segregation.
 - [Michael Gove](entities/MichaelGove.md) — Conservative politician whose dismissal during Johnson's July 2022 collapse is presented as evidence of grievance overriding administrative continuity.
-- [Jimmy Carter](entities/JimmyCarter.md) — United States president whose faith, farming background, marriage, and public sincerity are recast as a comic “sweet one” persona.
+- [Jimmy Carter](entities/JimmyCarter.md) — United States president represented through personal sincerity, hostage-crisis burden, Eagle Claw, responsibility-taking, and political defeat.
 - [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
 - [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
 - [Lola Montez](entities/LolaMontez.md) — Irish-born performer whose Spanish stage persona, transnational celebrity, Bavarian prominence, and scandals shaped her public image.
@@ -12107,7 +12109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
 - [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Conservative leader interpreted across contingent rise, 1981 crisis, Falklands recovery, Cold War decisions, and contested structural change.
-- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through performance, religious-moral language, contested policy, Cold War risk, rights diplomacy, and arms control.
+- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through performance, 1980 crisis politics, religious-moral language, contested policy, Cold War risk, rights diplomacy, and arms control.
 - [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Final Soviet leader whose Leninist renewal, political opening, arms control, and loss of authority joined idealism to partial-reform risk.
 - [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader joining preservationist reform, coercive discipline, and Operation RYAN's prior-confirming nuclear fear.
 - [Finland](entities/Finland.md) — Cold War border route and diplomatic-ambiguity setting for Operation Pimlico's extraction of Gordievsky.
@@ -14258,7 +14260,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eva Leila Pesaran](entities/EvaLeilaPesaran.md) — Political economist explaining how 1979 revolutionary debates and the hostage-crisis asset freeze hardened Iran's anti-Western economic identity.
 - [Esfandyar Batmanghelidj](entities/EsfandyarBatmanghelidj.md) — Iran economy researcher explaining pre-2012 diversification, modern retail, sanctions-driven growth break, and ordinary wage/currency pressure.
 - [Reza Pahlavi](entities/RezaPahlavi.md) — Exile political figure whose January 8 walking call becomes part of the episode's currency-triggered protest account.
-- [Ruhollah Khomeini](entities/RuhollahKhomeini.md) — Revolutionary leader used by the source to anchor Iran's post-1979 anti-Western economic self-reliance frame.
+- [Ruhollah Khomeini](entities/RuhollahKhomeini.md) — Iranian revolutionary leader represented through anti-Western self-reliance, clerical-administrative rule, social control, and hostage-crisis consolidation.
 - [Sarah Bond](entities/SarahBond.md) — Portland homeowner whose denied tree-removal permit and later fallen Douglas fir make tree-law property-rights conflict concrete.
 - [Portland, Oregon](entities/PortlandOregon.md) — City case where a large-tree removal denial, later storm damage, and retroactive permit demand frame urban canopy regulation from the homeowner side.
 - [Canton, Michigan](entities/CantonMichigan.md) — Township whose tree-protection ordinance and post-clear-cut fee demand became the episode's Sixth Circuit proportionality case.
@@ -17180,6 +17182,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏言 / Xia Yan](entities/XiaYanMing.md) — 先提携严嵩、后在河套政策与君主信任竞争中败于更顺从对手的明朝重臣。
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
+- [Charlie Beckwith](entities/CharlieBeckwith.md) — Delta Force founder and Operation Eagle Claw planner whose elite-force confidence operated inside a tightly coupled rescue mission.
+
 ## Concepts
 - [Habit-Triggered System Disruption / 习惯触发式系统破局](concepts/HabitTriggeredSystemDisruption.md) — 以特定线索触发成员的熟练反应，使其个人动作与整体协调状态不相容的系统破局策略。
 - [Sincere False Belief / 诚实误信](concepts/SincereFalseBelief.md) — 区分诚实表达、主观经验、外部事实与因果解释，说明冲突证词不必等于蓄意说谎。
@@ -18259,7 +18263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Corporate Speaking as Political Apprenticeship](concepts/CorporateSpeakingPoliticalApprenticeship.md) — Conversion of employer-funded broadcasting, travel, workplace contact, and repeated explanation into electoral skill and message.
 - [Iran-Contra Affair](concepts/IranContraAffair.md) — Executive-law and covert-policy failure linking Iran arms transfers, hostages, Contra funding, congressional restrictions, and concealment.
 - [Reaganomics Political Economy](concepts/ReaganomicsPoliticalEconomy.md) — Multi-causal framework for Reagan-era tax, regulation, spending, monetary, labor, deficit, and regional outcomes.
-- [Presidential Symbolic Leadership](concepts/PresidentialSymbolicLeadership.md) — Use of ceremony, narrative, demeanor, humor, and national imagery to build authority and political confidence.
+- [Presidential Symbolic Leadership](concepts/PresidentialSymbolicLeadership.md) — Use of ceremony, narrative, demeanor, responsibility, humor, and national imagery to build authority and political confidence.
 - [Climate History Causal Pluralism](concepts/ClimateHistoryCausalPluralism.md) — Method treating climate as consequential but mediated by institutions, resources, disease, inequality, and decisions.
 - [Environmental Proxy Evidence in History](concepts/EnvironmentalProxyHistoricalEvidence.md) — Use of ice cores, pollen, tree rings, genomes, and remote sensing to test and extend historical narratives.
 - [Climate Shock Institutional Resilience](concepts/ClimateShockInstitutionalResilience.md) — Capacity to sustain food, energy, health, infrastructure, and legitimate governance under environmental pressure.
@@ -27300,5 +27304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gendered Authorship Visibility / 性别化作者可见性](concepts/GenderedAuthorshipVisibility.md) — 区分女性实际写作参与与其在关系命名、作品归属、保存及文学正典中的后世可见性。
 
 - [君主依附型权臣权力 / Court-Dependent Ministerial Power](concepts/CourtDependentMinisterialPower.md) — 超越通常职权却依赖君主私人信任的二号人物权力，既可形成治理能力也可放大掠夺与镇压，并在换宠、衰老或继承时迅速失去保护。
+
+- [Iran Hostage Crisis](concepts/IranHostageCrisis.md) — Framework joining prolonged captivity to revolutionary consolidation, diplomacy, rescue risk, presidential authority, and electoral narrative.
+- [Operation Eagle Claw](concepts/OperationEagleClaw.md) — Failed 1980 rescue understood as a tightly coupled multi-stage operation with insufficient redundancy and integration.
 
 ## Syntheses
