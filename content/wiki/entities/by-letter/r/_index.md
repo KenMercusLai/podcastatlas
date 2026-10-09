@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13006
+wiki_total_pages: 13010
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "RogerLordOfTheFlies"
     title: "Roger / 罗杰（《蝇王》）"
     url: "/wiki/entities/rogerlordoftheflies/"
+  - key: "RogerAscham"
+    title: "Roger Ascham"
+    url: "/wiki/entities/rogerascham/"
   - key: "RogerBerkowitz"
     title: "Roger Berkowitz"
     url: "/wiki/entities/rogerberkowitz/"

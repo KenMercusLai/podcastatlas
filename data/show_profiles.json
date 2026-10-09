@@ -953,20 +953,20 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 653,
-      "topic_matched_source_note_count": 616,
+      "source_note_count": 654,
+      "topic_matched_source_note_count": 617,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 607
+          "source_note_count": 608
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 70
+          "source_note_count": 71
         },
         {
           "key": "politics",
@@ -994,7 +994,7 @@
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
           "kind": "person",
-          "episode_count": 12
+          "episode_count": 13
         },
         {
           "key": "LouisXVI",

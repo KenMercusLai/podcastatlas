@@ -6268,6 +6268,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339": [
     {
       "key": "history",
@@ -50840,6 +50852,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KatherineAshley": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "KatherineMaher": [
     {
       "key": "culture",
@@ -57490,6 +57509,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MatthewParker": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MatthewRoss": [
@@ -74174,6 +74200,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RogerAscham": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RogerLordOfTheFlies": [
     {
       "key": "culture",
@@ -87575,6 +87608,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TudorHumanistProtestantEducation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TudorRoyalMarriageStatecraft": [

@@ -37272,9 +37272,9 @@
       "url": "/wiki/entities/catherineofvalois/"
     },
     "CatherineParr": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -37282,6 +37282,13 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-03",
@@ -71776,9 +71783,9 @@
       "url": "/wiki/entities/edwardv/"
     },
     "EdwardVI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -71793,6 +71800,13 @@
           "show": "The Rest Is History",
           "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
           "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-09-29",
@@ -72935,9 +72949,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -73022,6 +73036,13 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-10",
@@ -73187,9 +73208,9 @@
       "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
     },
     "ElizabethanReligiousPragmatism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -73211,6 +73232,13 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-10",
@@ -138896,6 +138924,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/kateaha/"
     },
+    "KatherineAshley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/katherineashley/"
+    },
     "KathrynPaigeHarden": {
       "episode_count": 1,
       "show_count": 1,
@@ -165504,6 +165548,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/matthewmacdougall/"
+    },
+    "MatthewParker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/matthewparker/"
     },
     "MatthewWalker": {
       "episode_count": 7,
@@ -216070,6 +216130,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/rodneyrobinson/"
     },
+    "RogerAscham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/rogerascham/"
+    },
     "RogerBerkowitz": {
       "episode_count": 1,
       "show_count": 1,
@@ -247468,9 +247544,9 @@
       "url": "/wiki/entities/thomaspaine/"
     },
     "ThomasSeymour": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -247478,6 +247554,13 @@
           "show": "The Rest Is History",
           "title": "39. Elizabeth I",
           "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-03",
@@ -252273,6 +252356,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/tudorfemalesovereigntyconstraint/"
     },
+    "TudorHumanistProtestantEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/tudorhumanistprotestanteducation/"
+    },
     "TudorRoyalMarriageStatecraft": {
       "episode_count": 2,
       "show_count": 1,
@@ -252297,9 +252396,9 @@
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -252349,6 +252448,13 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-10",
@@ -257743,9 +257849,9 @@
       "url": "/wiki/entities/virgil/"
     },
     "VirginQueenImageStatecraft": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -257760,6 +257866,13 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
         }
       ],
       "updated": "2026-10-10",
@@ -265885,6 +265998,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/williamgolding/"
+    },
+    "WilliamGrindal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2585433242 [GLT2585433242].md",
+          "key": "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242",
+          "show": "The Rest Is History",
+          "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
+          "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/williamgrindal/"
     },
     "WilliamHastings": {
       "episode_count": 1,

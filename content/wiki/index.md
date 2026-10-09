@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [617. Elizabeth I: Anne Boleyn's Bastard (Part 2)](sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242.md) — The Rest Is History on Elizabeth's childhood losses, humanist-Protestant education, the Thomas Seymour scandal, disciplined interrogation survival, and Edward VI's succession crisis.
 - [Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman-scim8210269459.md) — Condensed Huberman Lab interview on respiratory rhythm, physiological sighs, slow-breathing pathways, fear-response evidence, and bounded magnesium claims.
 - [618. Elizabeth I: The Shadow of the Tower (Part 3)](sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339.md) — The Rest Is History on Elizabeth's survival under Mary I, Wyatt's Rebellion, Tower imprisonment, Marian persecution, Foxe's memory, and the 1558 succession.
 - [How to Speak Clearly & With Confidence | Matt Abrahams](sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695.md) — Huberman Lab conversation on audience-first message design, structured spontaneity, aloud practice, feedback, speaking anxiety, and recovery under pressure.
@@ -4359,6 +4360,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 
 ## Entities
+- [Katherine Ashley](entities/KatherineAshley.md) — Elizabeth I's learned evangelical governess, long-term attendant, and household protector compromised by Thomas Seymour's schemes.
+- [William Grindal](entities/WilliamGrindal.md) — Elizabeth I's Latin and Greek tutor and an early personal influence in her humanist-Protestant formation.
+- [Roger Ascham](entities/RogerAscham.md) — Humanist scholar who directed the later stage of Elizabeth I's formal classical education.
+- [Matthew Parker](entities/MatthewParker.md) — Anne Boleyn's former chaplain and a clerical link between her reformist circle and Elizabeth I's education.
 - [Matt Abrahams](entities/MattAbrahams.md) — Stanford communication teacher emphasizing audience needs, flexible structure, aloud rehearsal, feedback, and recoverable performance.
 - [何同学 / He Tongxue](entities/HeTongxue.md) — video-first Chinese creator whose engineering-heavy work grew into a founder-dependent production studio.
 - [何同学工作室 / He Tongxue Studio](entities/HeTongxueStudio.md) — multidisciplinary entertainment-video studio balancing ambitious DIY production, delegation, commercial fit, and overseas localization.
@@ -17425,6 +17430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Tudor Humanist-Protestant Education](concepts/TudorHumanistProtestantEducation.md) — Royal formation joining classical languages, translation, reformist religion, courtly accomplishment, and disciplined political self-presentation.
 - [Audience-Centered Communication](concepts/AudienceCenteredCommunication.md) — message design organized around listener relevance, usable understanding, clear guidance, and live feedback.
 - [Structured Spontaneous Speaking](concepts/StructuredSpontaneousSpeaking.md) — flexible scaffolds, aloud rehearsal, varied prompts, feedback, and recovery in place of exact-word memorization.
 - [Speaking Anxiety Management](concepts/SpeakingAnxietyManagement.md) — layered preparation and regulation plan addressing threat appraisal, bodily arousal, audience focus, and disruption recovery.

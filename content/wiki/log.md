@@ -34222,3 +34222,11 @@ Added source `essentials-breathing-for-mental-physical-health-performance-dr-jac
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 617. Elizabeth I: Anne Boleyn's Bastard (Part 2)
+
+Added source `617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242`; created [[KatherineAshley]], [[WilliamGrindal]], [[RogerAscham]], [[MatthewParker]], and [[TudorHumanistProtestantEducation]]; and resynthesized [[ElizabethI|Elizabeth I]], [[ThomasSeymour]], [[CatherineParr|Catherine Parr]], [[EdwardVI|Edward VI]], [[ElizabethanReligiousPragmatism]], [[VirginQueenImageStatecraft]], and [[TudorSuccessionCrisis]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: loss of maternal and dynastic status was followed by an unusually rich humanist-Protestant education; the Seymour household then forced Elizabeth to manage adult misconduct, reputation, and interrogation through evidentiary caution before Mary I's reign; and her modest Protestant maiden presentation supplied an early layer for later image statecraft. No settled contradiction was adopted. Links from childhood loss, Anne Boleyn's memory, the Seymour scandal, and education to later policy or unmarried rule remain interpretive; Elizabeth's feelings, Catherine Parr's exact understanding, disputed household testimony, and private motives remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,285 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

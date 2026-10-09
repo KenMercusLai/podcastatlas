@@ -10,6 +10,7 @@ sources:
   - 39-elizabeth-i-glt7302124935
   - 619-elizabeth-i-the-virgin-queen-part-4-glt7930465337
   - 618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339
+  - 617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -22,7 +23,9 @@ Tudor succession crisis is the dynastic-security pattern in which disputed legit
 
 ## Current Synthesis
 
-The crisis predates Elizabeth's accession. Edward VI's attempt to bypass both half-sisters places their shared illegitimacy against Henry VIII's statutory succession; Mary's victory restores hereditary and parliamentary legitimacy but cannot remove the political usefulness of alternative claimants. Wyatt's rising turns Jane into an intolerable captive and Elizabeth into a suspected replacement queen. Elizabeth survives because suspicion never becomes proof, while Mary's childlessness eventually makes the dangerous heir unavoidable.
+The crisis begins in Elizabeth's childhood rather than only at Edward VI's death. Anne Boleyn's execution made Elizabeth illegitimate and removed her princess title; Henry VIII later restored both daughters to the succession after Edward without repairing that status. Royal affection, household provision, education, and marriageability therefore operated inside a settlement that treated Elizabeth simultaneously as bastard and potential heir.
+
+Edward's final attempt to bypass both half-sisters places their shared illegitimacy against Henry's statutory succession. Mary's victory restores hereditary and parliamentary legitimacy but cannot remove the political usefulness of alternative claimants. Wyatt's rising turns Jane into an intolerable captive and Elizabeth into a suspected replacement queen. Elizabeth survives because suspicion never becomes proof, while Mary's childlessness eventually makes the dangerous heir unavoidable.
 
 At Elizabeth's accession, her legal illegitimacy remained unresolved, Parliament pressed her to marry, and Mary's Tudor blood, Catholic legitimacy, and French queenship offered a rival line. Elizabeth's 1562 smallpox then exposed the absence of an heir so sharply that Cecil proposed excluding Mary and giving the Privy Council emergency authority, which Elizabeth rejected as an invasion of sovereignty.
 
@@ -35,15 +38,16 @@ Mary's execution removed the strongest living Catholic claimant but did not crea
 ## Key Claims
 
 - Rival claimants become security threats when domestic factions or foreign powers can organize around their possible accession without proved personal participation.
+- Restoration to the succession without restoration of legitimacy can preserve an heir while leaving a future constitutional fault line.
 - Illness can turn an unresolved succession from constitutional uncertainty into immediate emergency planning.
-- Marriage could produce an heir while transferring influence to a husband and intensifying court or international conflict.
-- Unmarried rule preserved Elizabeth's autonomy but made her body and survival strategic assets.
+- Marriage could produce an heir while transferring influence to a husband; unmarried rule preserved Elizabeth's autonomy but made her body and survival strategic assets.
 - Mary's captivity left her claim actionable through marriage, correspondence, rebellion, and invasion planning.
 - Refusing an early designation preserved the reigning monarch's authority while prolonging uncertainty.
 - James VI's eventual succession emerged from blood, political signaling, and narrowed alternatives rather than one unambiguous public appointment.
 
 ## Evidence
 
+- Childhood settlement: [[617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242]] supplies Elizabeth's fall in status, Henry VIII's restoration of both daughters after Edward, and the continuing illegitimacy contradiction.
 - Accession and emergency planning: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] supplies unresolved legitimacy, parliamentary marriage pressure, Mary's French-backed claim, Elizabeth's smallpox, and Cecil's rejected council plan.
 - Marian prehistory: [[618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339]] supplies Wyatt's rising, Elizabeth's imprisonment without conclusive proof, Mary's childlessness, Cecil's secret planning, and the 1558 transfer.
 - Claimant captivity: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] supplies Mary's arrival, Norfolk's marriage plan, the Northern Rising, and Ridolfi.
@@ -54,13 +58,12 @@ Mary's execution removed the strongest living Catholic claimant but did not crea
 
 ## Counterevidence & Qualifications
 
-Jane's or Elizabeth's claimant value under Mary does not prove participation in Wyatt's plot, just as Mary Stuart's later claim made conspiracies coherent without proving equal involvement in every alleged plot. Ridolfi remains source-scoped because intelligence manufacture is possible. Cecil's emergency bill and its exact constitutional mechanics are reported through the episode rather than analyzed from the text. The accounts of Henry VIII's settlements, Arbella's support, and Elizabeth's deathbed signal are compressed and do not alone settle legal succession. Marriage avoidance also had overlapping causes.
+Jane's or Elizabeth's claimant value under Mary does not prove participation in Wyatt's plot, just as Mary Stuart's later claim made conspiracies coherent without proving equal involvement in every alleged plot. Ridolfi remains source-scoped because intelligence manufacture is possible. Cecil's emergency bill and its exact constitutional mechanics are reported through the episode rather than analyzed from the text. The accounts of Henry VIII's settlements, the continuing legal effect of illegitimacy, Arbella's support, and Elizabeth's deathbed signal are compressed and do not alone settle legal succession. Marriage avoidance also had overlapping causes.
 
 ## What Changed
 
-- Extended the crisis back through Edward's exclusion, Mary's accession, Wyatt's rising, and Elizabeth's imprisonment.
-- Added the principle that claimant usefulness and personal complicity are analytically distinct.
-- Connected Mary's failed heir production and Cecil's secret planning to the otherwise peaceful 1558 transfer.
+- Extended the crisis back to Elizabeth's childhood fall and restoration to the succession without restored legitimacy.
+- Added household provision, education, and marriageability as dynastic consequences before open claimant conflict.
 
 ## Related Concepts
 

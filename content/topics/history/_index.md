@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2679
+topic_total_pages: 2680
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242"
+    title: "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)"
+    url: "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
   - key: "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339"
     title: "618. Elizabeth I: The Shadow of the Tower (Part 3)"
     url: "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
