@@ -33440,3 +33440,10 @@ Added source `science-tools-of-learning-memory-dr-david-eagleman-scim5564931565`
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 638. Revolution in Iran: The Hostage Crisis (Part 3)
+
+Added source `638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579`; created [[MehdiBazargan]]; and resynthesized [[IranHostageCrisis]], [[JimmyCarter]], [[RuhollahKhomeini]], and [[MohammadRezaPahlavi]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a planned short student occupation became a prolonged crisis after Khomeini recognized its popular and institutional value, Bazargan's moderate government resigned, and nightly television plus yellow-ribbon ritual turned captivity into a continuing American test of national and presidential power. No settled contradiction was adopted. Khomeini's prior knowledge, student and clerical motives, responsibility for abuse, the medical and political necessity of admitting the Shah, media and election effects, dialogue, and counterfactual outcomes remain source-scoped or contested. Broad Iran, United States, and show pages were kept closed because the focused source, people, and hostage-crisis concept capture the bounded additions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,187 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -125377,9 +125377,9 @@
       "url": "/wiki/concepts/iranhorizontalescalation/"
     },
     "IranHostageCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6288433592 [GLT6288433592].md",
@@ -125387,6 +125387,13 @@
           "show": "The Rest Is History",
           "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
           "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        },
+        {
+          "episode_file": "GLT6844236579 [GLT6844236579].md",
+          "key": "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579",
+          "show": "The Rest Is History",
+          "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
+          "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
         }
       ],
       "updated": "2026-10-09",
@@ -130624,9 +130631,9 @@
       "url": "/wiki/entities/jimcallaghan/"
     },
     "JimmyCarter": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -130641,9 +130648,16 @@
           "show": "The Rest Is History",
           "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
           "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        },
+        {
+          "episode_file": "GLT6844236579 [GLT6844236579].md",
+          "key": "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579",
+          "show": "The Rest Is History",
+          "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
+          "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/jimmycarter/"
     },
     "JinLaoshiArtist": {
@@ -162547,6 +162561,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/meghanmarkle/"
     },
+    "MehdiBazargan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6844236579 [GLT6844236579].md",
+          "key": "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579",
+          "show": "The Rest Is History",
+          "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
+          "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mehdibazargan/"
+    },
     "MehmedII": {
       "episode_count": 1,
       "show_count": 1,
@@ -168577,9 +168607,9 @@
       "url": "/wiki/entities/mohammadmossadegh/"
     },
     "MohammadRezaPahlavi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
@@ -168594,9 +168624,16 @@
           "show": "The Rest Is History",
           "title": "154. The Most Disastrous Party in History",
           "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        },
+        {
+          "episode_file": "GLT6844236579 [GLT6844236579].md",
+          "key": "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579",
+          "show": "The Rest Is History",
+          "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
+          "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/mohammadrezapahlavi/"
     },
     "MohammedAbdelKrim": {
@@ -211710,9 +211747,9 @@
       "url": "/wiki/entities/rugbyworldcup1995/"
     },
     "RuhollahKhomeini": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
@@ -211741,6 +211778,13 @@
           "show": "The Rest Is History",
           "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
           "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        },
+        {
+          "episode_file": "GLT6844236579 [GLT6844236579].md",
+          "key": "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579",
+          "show": "The Rest Is History",
+          "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
+          "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
         }
       ],
       "updated": "2026-10-09",

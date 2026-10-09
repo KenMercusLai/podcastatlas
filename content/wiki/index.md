@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [638. Revolution in Iran: The Hostage Crisis (Part 3)](sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579.md) — The Rest Is History episode on the Shah's admission to the United States, the Tehran embassy seizure, Khomeini's consolidation, hostage treatment, media ritual, and Carter's widening crisis.
 - [Science & Tools of Learning & Memory | Dr. David Eagleman](sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565.md) — Huberman Lab interview on goal-directed neuroplasticity, commitment devices, mental imagery, subjective time, sensory substitution, dreaming, reconstructive memory, and identity-gated empathy.
 - [092 金庸小说与围棋文化·聂卫平与金庸](sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u.md) — 纸醉金迷FM以三分钟预告连接金庸、聂卫平、小说围棋书写、炎黄杯与出版收入支持，并纠正姓名、籍贯和版税去向的过强表述。
 - [VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样](sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y.md) — 急诊医生卫兵 / 魏兵解释危重优先分诊、危重风险排除、简洁病史、呼吸道疾病居家照护、低价值输液与分级就医边界。
@@ -4259,6 +4260,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
 
 ## Entities
+- [Mehdi Bazargan](entities/MehdiBazargan.md) — Moderate Iranian interim prime minister whose resignation after the embassy seizure marked the hardliners' consolidation.
 - [David Eagleman](entities/DavidEagleman.md) — Neuroscientist and science communicator connecting plasticity, sensory substitution, time, memory, dreams, and group identity.
 - [Neosensory](entities/Neosensory.md) — Neurotechnology company translating sound into learned vibration patterns on a wrist-worn device.
 - [Inner Cosmos](entities/InnerCosmos.md) — David Eagleman's neuroscience podcast, identified as a current public-science project.

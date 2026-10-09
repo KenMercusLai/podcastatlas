@@ -6212,6 +6212,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592": [
     {
       "key": "history",
@@ -57386,6 +57398,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MehdiBazargan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MehmetSimsek": [
