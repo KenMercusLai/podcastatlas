@@ -147517,9 +147517,9 @@
       "url": "/wiki/entities/liuxiang/"
     },
     "LiuXiangQiKingWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -147548,6 +147548,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1） [liOLyhn4i9_NuhXBM_srpoMOxAxB].md",
+          "key": "zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb/"
         }
       ],
       "updated": "2026-10-09",
@@ -148790,6 +148797,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/liuyundongpingkingwesternhan/"
+    },
+    "LiuZeLangyeKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1） [liOLyhn4i9_NuhXBM_srpoMOxAxB].md",
+          "key": "zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuzelangyekingwesternhan/"
     },
     "LiuZeQiRoyalWesternHan": {
       "episode_count": 1,
@@ -191953,9 +191976,9 @@
       "url": "/wiki/concepts/postrebellionaccountability/"
     },
     "PostRegencyInsideOutsideMobilization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
@@ -191977,6 +192000,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1） [liOLyhn4i9_NuhXBM_srpoMOxAxB].md",
+          "key": "zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb/"
         }
       ],
       "updated": "2026-10-09",

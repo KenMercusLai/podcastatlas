@@ -33184,3 +33184,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）
+
+Added source `zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb`; created the disambiguated [[LiuZeLangyeKingWesternHan|琅邪王刘泽]]; and resynthesized [[LiuXiangQiKingWesternHan|齐王刘襄]] and [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Qi's outside pressure is built through internal command consolidation, deceptive absorption of Langye's troops, and a wider restoration call, while Guan Ying's refusal to fight for the Lü faction turns non-engagement into pressure; in Chang'an, Chen Ping and Zhou Bo seek a personal channel through Li Ji to detach Lü Lu from the Northern Army. No settled contradiction was adopted. Liu Xiang's accession intent, Liu Ze's sincerity, the alleged Lü coup, proclamations, dialogue, troop movements, titles, and coordination remain episode-attributed. Broad [[ChenPing|陈平]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], [[LuLuWesternHan|吕禄]], [[LuChanWesternHan|吕产]], [[LiShang|郦商]], [[LiJiWesternHan|郦寄]], and show pages were kept closed because the bounded additions are represented in the focused source, person, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,154 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

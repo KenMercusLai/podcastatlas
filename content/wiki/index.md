@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb.md) — 刘襄诱扣琅邪王刘泽并其兵，灌婴在荥阳停战避免助吕；长安内陈平、周勃则借郦寄与吕禄的私交谋取北军。
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0.md) — 郦寄劝吕禄交出北军，周勃借符节入营并以袒臂验明军心；刘章随后在未央宫斩杀吕产，使军权争夺转入对吕氏集团的清算。
 - [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv.md) — 诛吕胜利从解除军权扩展为吕氏家族与惠帝诸子的清洗；齐军被令罢兵后，群臣又以外戚风险、名分和声望权衡，舍刘襄而迎立刘恒。
 - [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd.md) — 刘恒以多重探路、公开礼仪、清宫与亲信掌军把高风险迎立转化为实际接管；少帝刘弘等人的清除则延续继位合法性清洗。
@@ -6546,6 +6547,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
 - [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant whose succession grievance, first exposed rebellion, later anti-Huo coalition role, and suicide form a repeated-rebellion arc.
 - [刘泽 / Liu Ze, Qi Royal Descendant (Western Han)](entities/LiuZeQiRoyalWesternHan.md) — Qi royal descendant whose intended Linzi rising and attack on Jun Buyi are exposed and stopped before action.
+- [琅邪王刘泽 / Liu Ze (King of Langye, Western Han)](entities/LiuZeLangyeKingWesternHan.md) — 被齐王刘襄诱至临淄拘留并失去琅邪兵力，后借拥立话语争取脱身赴京的西汉诸侯王。
 - [马王爷 / Ma Wangye](entities/MaWangye.md) — three-eyed horse deity figure used by Hanji 390-2 to explain folklore around Jin Midi's palace vigilance.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose accession follows Lady Gouyi's death and whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
