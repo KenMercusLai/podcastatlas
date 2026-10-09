@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [626. Jack The Ripper: The Killer Strikes Again (Part 3)](sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076.md) — The Rest Is History reconstructs the double event, victim precarity, police overload, evidence-public-safety tradeoffs, and the media machinery that gave the unknown killer a public persona.
 - [导演大鹏×罗永浩！我这两辈子](sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt.md) — 罗永浩与大鹏回溯集安童年、搜狐与网络视频、电影作者转型、承诺伦理，以及票房、评分和奖项压力。
 - [627. Jack The Ripper: From Hell (Part 4)](sources/627-jack-the-ripper-from-hell-part-4-glt6270048402.md) — The Rest Is History reconstructs Mary Jane Kelly's uncertain life and murder, then traces how press, fiction, medicine, detection, and psychiatry made Jack the Ripper a modern myth.
 - [2 东西方的祥瑞与灾异：从恺撒到王莽](sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2.md) — 怪东西跨文明比较祥瑞、灾异、占卜与神圣王权，强调征兆的政治效力取决于阐释权、制度接受和责任分配，而非符号自身的固定意义。
@@ -14881,6 +14882,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
 - [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in a culturally influential but evidentially weak Jack the Ripper theory.
 - [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting victim precarity, suspect mythology, policing failure, sensational media, and psychiatric legibility.
+- [Elizabeth Stride](entities/ElizabethStride.md) — Double-event victim whose final circumstances are partly recoverable while same-offender attribution remains qualified.
+- [Catherine Eddowes](entities/CatherineEddowes.md) — Double-event victim whose biography, rapid murder, anatomical injuries, and apron trail sharpen but do not solve the Ripper case.
+- [Charles Warren](entities/CharlesWarren.md) — Metropolitan Police commissioner whose Goulston Street decision exposed the conflict between evidence preservation and immediate public-order risk.
+- [George Lusk](entities/GeorgeLusk.md) — Vigilance-committee leader and recipient of the unresolved “From Hell” letter and kidney fragment.
 - [《开膛手杰克结案报告》](entities/JackTheRipperCaseClosed.md) — Patricia Cornwell book that argues Walter Sickert was Jack the Ripper while exposing the limits of old forensic evidence.
 - [Mary Ann Nichols](entities/MaryAnnNichols.md) — Whitechapel victim whose biography grounds the episode's shift from murder spectacle to Victorian women's precarity.
 - [Mary Jane Kelly](entities/MaryJaneKelly.md) — Likely final canonical Whitechapel victim whose rent pressure, disputed biography, indoor murder, and public funeral concentrate the case's human and evidentiary uncertainty.

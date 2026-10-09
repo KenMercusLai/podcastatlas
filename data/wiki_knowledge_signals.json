@@ -36821,6 +36821,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/cathedralthinking/"
     },
+    "CatherineEddowes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/catherineeddowes/"
+    },
     "CatherineHoward": {
       "episode_count": 2,
       "show_count": 1,
@@ -39184,6 +39200,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/charlesvoffrance/"
+    },
+    "CharlesWarren": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/charleswarren/"
     },
     "CharlesXII": {
       "episode_count": 3,
@@ -72469,6 +72501,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/elizabethporter/"
     },
+    "ElizabethStride": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/elizabethstride/"
+    },
     "ElizabethTyler": {
       "episode_count": 1,
       "show_count": 1,
@@ -97812,6 +97860,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/georgelucas/"
+    },
+    "GeorgeLusk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/georgelusk/"
     },
     "GeorgeMacartney": {
       "episode_count": 1,
@@ -128950,9 +129014,9 @@
       "url": "/wiki/entities/jackruby/"
     },
     "JackTheRipper": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -128981,15 +129045,22 @@
           "show": "The Rest Is History",
           "title": "627. Jack The Ripper: From Hell (Part 4)",
           "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        },
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/jacktheripper/"
     },
     "JackTheRipperMythFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6270048402 [GLT6270048402].md",
@@ -128997,6 +129068,13 @@
           "show": "The Rest Is History",
           "title": "627. Jack The Ripper: From Hell (Part 4)",
           "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        },
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
         }
       ],
       "updated": "2026-10-10",
@@ -171268,6 +171346,50 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/modernchristmasreinvention/"
+    },
+    "ModernCriminalInvestigationFormation": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案 [756562827].md",
+          "key": "113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827",
+          "show": "蜜獾吃书",
+          "title": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案",
+          "url": "/wiki/sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827/"
+        },
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/moderncriminalinvestigationformation/"
     },
     "ModernDisciplinaryFragmentation": {
       "episode_count": 2,
@@ -220992,9 +221114,9 @@
       "url": "/wiki/concepts/seniorcourtvetoreformretreat/"
     },
     "SensationalMediaPublicSphere": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
@@ -221009,6 +221131,13 @@
           "show": "The Rest Is History",
           "title": "627. Jack The Ripper: From Hell (Part 4)",
           "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        },
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
         }
       ],
       "updated": "2026-10-10",
@@ -254378,9 +254507,9 @@
       "url": "/wiki/concepts/victoriantourismformation/"
     },
     "VictorianWomenPrecarity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
@@ -254402,6 +254531,13 @@
           "show": "The Rest Is History",
           "title": "627. Jack The Ripper: From Hell (Part 4)",
           "url": "/wiki/sources/627-jack-the-ripper-from-hell-part-4-glt6270048402/"
+        },
+        {
+          "episode_file": "GLT7980605076 [GLT7980605076].md",
+          "key": "626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076",
+          "show": "The Rest Is History",
+          "title": "626. Jack The Ripper: The Killer Strikes Again (Part 3)",
+          "url": "/wiki/sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076/"
         }
       ],
       "updated": "2026-10-10",
