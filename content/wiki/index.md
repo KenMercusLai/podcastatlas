@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Science & Tools of Learning & Memory | Dr. David Eagleman](sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565.md) — Huberman Lab interview on goal-directed neuroplasticity, commitment devices, mental imagery, subjective time, sensory substitution, dreaming, reconstructive memory, and identity-gated empathy.
 - [092 金庸小说与围棋文化·聂卫平与金庸](sources/092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u.md) — 纸醉金迷FM以三分钟预告连接金庸、聂卫平、小说围棋书写、炎黄杯与出版收入支持，并纠正姓名、籍贯和版税去向的过强表述。
 - [VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样](sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y.md) — 急诊医生卫兵 / 魏兵解释危重优先分诊、危重风险排除、简洁病史、呼吸道疾病居家照护、低价值输液与分级就医边界。
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（1）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd.md) — 彭越因未亲征、部下劝反与告发先被废徙，后由吕雉带回并推动再诉，终遭灭族与尸体示众；蒯彻则以“各为其主”自辩获释。
@@ -4258,6 +4259,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
 
 ## Entities
+- [David Eagleman](entities/DavidEagleman.md) — Neuroscientist and science communicator connecting plasticity, sensory substitution, time, memory, dreams, and group identity.
+- [Neosensory](entities/Neosensory.md) — Neurotechnology company translating sound into learned vibration patterns on a wrist-worn device.
+- [Inner Cosmos](entities/InnerCosmos.md) — David Eagleman's neuroscience podcast, identified as a current public-science project.
 - [聂卫平 / Nie Weiping](entities/NieWeiping.md) — 中国职业围棋手、国家队原总教练与文化推广者，本期以其和金庸的赛事及大众传播关系为中心。
 - [卫兵 / 魏兵 (Emergency Physician)](entities/WeiBingEmergencyPhysician.md) — VOL.194急诊医生，以危重优先、危重排除、低价值输液、科普责任与医生主导AI解释急诊边界。
 - [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
@@ -17194,6 +17198,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵新 / Zhao Xin (ZTE)](entities/ZhaoXinZTE.md) — ZTE portable Wi-Fi product director explaining mobile-broadband category fit, radio engineering, product segmentation, and user-scene definition.
 
 ## Concepts
+- [Ulysses Contract](concepts/UlyssesContract.md) — Commitment device through which the present self changes future access, incentives, or friction before temptation arrives.
+- [Sensory Substitution](concepts/SensorySubstitution.md) — Translation of information from one sensory channel into structured patterns learned through another.
+- [Mental Imagery Spectrum](concepts/MentalImagerySpectrum.md) — Variation from aphantasia to hyperphantasia without treating vivid internal pictures as necessary for visual creativity.
+- [Group-Identity Empathy Gating](concepts/GroupIdentityEmpathyGating.md) — Qualified account of empathic and reward responses changing with group labels without determining conduct.
 - [Weiqi Cultural Promotion / 围棋文化推广](concepts/WeiqiCulturalPromotion.md) — 通过小说、影视、公众人物、赛事、荣誉与物质支持把围棋带出专业体系，同时区分曝光与可测参与效果。
 - [Low-Value Intravenous Infusion / 低价值静脉输液](concepts/LowValueIntravenousInfusion.md) — 以患者特定适应证区分必要静脉治疗与感冒、流感或“疏通血管”式安慰性输液，并计入穿刺、过敏、交叉感染与资源成本。
 - [Habit-Triggered System Disruption / 习惯触发式系统破局](concepts/HabitTriggeredSystemDisruption.md) — 以特定线索触发成员的熟练反应，使其个人动作与整体协调状态不相容的系统破局策略。

@@ -16,8 +16,9 @@ sources:
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - scim3840916606-scim3840916606
   - how-your-brain-works-changes-scim1534957507
+  - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-09
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -45,6 +46,8 @@ The early [[optimize-your-learning-creativity-with-science-based-tools-scim91414
 The still earlier [[scim3840916606-scim3840916606]] episode supplies the attention-gating account behind that sequence. It proposes that alertness creates broad readiness while selective attention marks the particular active circuits eligible for change; sleep or deep rest then supports later strengthening or weakening. Classic sensory-deprivation and adult tactile-attention examples make selection and competition central, but the age-25 transition, named neuromodulator requirements, and exact protocol timings remain source-scoped teaching claims.
 
 The first episode, [[how-your-brain-works-changes-scim1534957507]], supplies the show's earliest version of that framework. It defines adult plasticity as connection change that can turn effortful deliberate behavior into easier, more automatic behavior, then separates the induction conditions of alertness, attention, and strain from later consolidation during sleep or deep rest. This adds historical provenance rather than independent confirmation, and its age contrast, neuromodulator assignments, 20-minute deep-rest study, sleep-tone study, and exact timing remain source-scoped.
+
+The Eagleman interview sharpens the allocation and goal boundary. Cortex is presented as competitive “real estate” whose use depends partly on incoming information, while practice makes selected skills faster and more efficient. Adult change is valuable when it serves a defined function; permanently restoring indiscriminate infant-like flexibility could also destabilize the accumulated memories and skills that support identity. [[SensorySubstitution]] provides the clearest applied case: stable information can become usable through an atypical input channel after structured learning.
 
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, meaningful feedback, and a state that permits continued exploration. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," a playful state does not guarantee broad transfer, psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
@@ -75,13 +78,16 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Goal and consolidation frame - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] distinguishes desired change from plasticity itself and pairs alert practice with later rest and sleep.
 - Early attention-gating account - [[scim3840916606-scim3840916606]] links a defined target, broad alertness, selective attention, and later sleep or deep rest while treating sensory-map experiments as evidence for competitive circuit selection.
 - Foundational effort-rest sequence - [[how-your-brain-works-changes-scim1534957507]] presents focused strain as the waking trigger for adult connection change and sleep or deep rest as the later consolidation condition.
+- Cortical allocation and goal boundary - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses remapping, practice efficiency, developmental lock-in, and adult identity to distinguish selective useful change from unlimited flexibility.
+- Atypical input learning - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses [[SensorySubstitution]] to show how stable correlations can make information delivered through vibration or touch behaviorally useful.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, and the Neuralink episode's interface forecasts remain source-scoped.
+The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, the Neuralink episode's interface forecasts, and the Eagleman episode's rapid remapping, cortical uniformity, neuromodulator-combination, and sensory phenomenology claims remain source-scoped.
 
 ## What Changed
-- Added the show's first-episode provenance for adult effort, attention, and later consolidation.
-- Kept the 20-minute deep-rest and sleep-tone learning claims source-scoped rather than treating them as universal protocols.
+- Added competitive cortical allocation and practice efficiency to the current model.
+- Clarified that goal-directed change preserves a boundary against indiscriminate infant-like flexibility.
+- Added sensory substitution as an applied example of learning structured information through an atypical channel.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -98,3 +104,4 @@ The evidence does not imply that every difficult or playful activity transfers b
 - [[KetamineAntidepressantMechanisms]] - multi-process pharmacological and circuit account.
 - [[BrainComputerInterface]] - task-specific recording and feedback loop that should not be generalized into whole-brain enhancement.
 - [[PlayAsContingencyTesting]] - low-stakes exploration branch that can supply novelty and error without making performance the immediate objective.
+- [[SensorySubstitution]] - applied branch in which structured information is learned through a different peripheral channel.

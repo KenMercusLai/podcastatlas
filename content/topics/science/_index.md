@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1485
+topic_total_pages: 1488
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2041,6 +2041,9 @@ topic_concepts:
   - key: "SensoryHypersensitivityAccommodation"
     title: "Sensory Hypersensitivity Accommodation / 感官超敏适配"
     url: "/wiki/concepts/sensoryhypersensitivityaccommodation/"
+  - key: "SensorySubstitution"
+    title: "Sensory Substitution"
+    url: "/wiki/concepts/sensorysubstitution/"
   - key: "SerotoninSocialWellbeingTools"
     title: "Serotonin Social Wellbeing Tools"
     url: "/wiki/concepts/serotoninsocialwellbeingtools/"
@@ -2861,6 +2864,9 @@ topic_entities:
   - key: "Indonesia"
     title: "Indonesia"
     url: "/wiki/entities/indonesia/"
+  - key: "InnerCosmos"
+    title: "Inner Cosmos"
+    url: "/wiki/entities/innercosmos/"
   - key: "Innerworld"
     title: "Innerworld"
     url: "/wiki/entities/innerworld/"
@@ -4212,6 +4218,9 @@ topic_sources:
   - key: "rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd"
     title: "Rise and shine: Warsh's Fed rate test"
     url: "/wiki/sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd/"
+  - key: "science-tools-of-learning-memory-dr-david-eagleman-scim5564931565"
+    title: "Science & Tools of Learning & Memory | Dr. David Eagleman"
+    url: "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
   - key: "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
     title: "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick"
     url: "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"

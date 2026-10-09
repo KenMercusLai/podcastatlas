@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10057
+wiki_total_pages: 10061
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "UltrasoundExamPreparationAndSafety"
     title: "Ultrasound Exam Preparation and Safety / 超声检查准备与安全"
     url: "/wiki/concepts/ultrasoundexampreparationandsafety/"
+  - key: "UlyssesContract"
+    title: "Ulysses Contract"
+    url: "/wiki/concepts/ulyssescontract/"
   - key: "UMIGloveDataCollection"
     title: "UMI-Style Glove Data Collection / 手套式数据采集"
     url: "/wiki/concepts/umiglovedatacollection/"

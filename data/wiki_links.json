@@ -23775,6 +23775,10 @@
     "title": "David Dorn",
     "url": "/wiki/entities/daviddorn/"
   },
+  "DavidEagleman": {
+    "title": "David Eagleman",
+    "url": "/wiki/entities/davideagleman/"
+  },
   "DavidEllison": {
     "title": "David Ellison",
     "url": "/wiki/entities/davidellison/"
@@ -36739,6 +36743,10 @@
     "title": "Group-Chat Agent Participation / 群聊 Agent 参与机制",
     "url": "/wiki/concepts/groupchatagentparticipation/"
   },
+  "GroupIdentityEmpathyGating": {
+    "title": "Group-Identity Empathy Gating",
+    "url": "/wiki/concepts/groupidentityempathygating/"
+  },
   "GroupPolarization": {
     "title": "Group Polarization / 群体极化",
     "url": "/wiki/concepts/grouppolarization/"
@@ -42810,6 +42818,10 @@
   "InjuryRecoveryAdherence": {
     "title": "Injury Recovery Adherence",
     "url": "/wiki/concepts/injuryrecoveryadherence/"
+  },
+  "InnerCosmos": {
+    "title": "Inner Cosmos",
+    "url": "/wiki/entities/innercosmos/"
   },
   "InnerCourtAccessBrokerageRisk": {
     "title": "内廷通道攀附风险 / Inner-Court Access Brokerage Risk",
@@ -56359,6 +56371,10 @@
     "title": "Mental Illness Destigmatization / 精神疾病去污名化",
     "url": "/wiki/concepts/mentalillnessdestigmatization/"
   },
+  "MentalImagerySpectrum": {
+    "title": "Mental Imagery Spectrum",
+    "url": "/wiki/concepts/mentalimageryspectrum/"
+  },
   "MentalPracticeAndVisualization": {
     "title": "Mental Practice and Visualization",
     "url": "/wiki/concepts/mentalpracticeandvisualization/"
@@ -59766,6 +59782,10 @@
   "NeonFilmDistributor": {
     "title": "Neon (film distributor)",
     "url": "/wiki/entities/neonfilmdistributor/"
+  },
+  "Neosensory": {
+    "title": "Neosensory",
+    "url": "/wiki/entities/neosensory/"
   },
   "Nepal": {
     "title": "Nepal",
@@ -74703,6 +74723,10 @@
     "title": "Sensory Hypersensitivity Accommodation / 感官超敏适配",
     "url": "/wiki/concepts/sensoryhypersensitivityaccommodation/"
   },
+  "SensorySubstitution": {
+    "title": "Sensory Substitution",
+    "url": "/wiki/concepts/sensorysubstitution/"
+  },
   "SentessaPharmaceuticals": {
     "title": "Sentessa Pharmaceuticals",
     "url": "/wiki/entities/sentessapharmaceuticals/"
@@ -85202,6 +85226,10 @@
   "UltrasoundExamPreparationAndSafety": {
     "title": "Ultrasound Exam Preparation and Safety / 超声检查准备与安全",
     "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
+  },
+  "UlyssesContract": {
+    "title": "Ulysses Contract",
+    "url": "/wiki/concepts/ulyssescontract/"
   },
   "UlyssesSGrant": {
     "title": "Ulysses S. Grant",
@@ -99726,6 +99754,10 @@
   "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631": {
     "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
     "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+  },
+  "science-tools-of-learning-memory-dr-david-eagleman-scim5564931565": {
+    "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
+    "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
   },
   "scim1705222315-scim1705222315": {
     "title": "Using Science to Optimize Sleep, Learning & Metabolism",

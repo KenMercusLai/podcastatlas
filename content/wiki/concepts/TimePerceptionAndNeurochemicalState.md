@@ -4,7 +4,8 @@ type: concept
 tags: [time-perception, neuroscience, memory, attention, neuromodulators]
 sources:
   - scim2746317304-scim2746317304
-last_updated: 2026-10-02
+  - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The episode organizes present-time distortion with a “frame-rate” metaphor. 
 
 Novelty and surprise connect immediate experience to retrospective duration by creating temporal markers. This makes time design partly a memory-design problem: varied contexts and meaningful events can make a period feel fuller in retrospect, while repeated habits can segment ordinary days into recognizable phases. None of this means subjective time can be controlled precisely or that traumatic memory, medication effects, or cold exposure should be self-treated through a frame-rate theory.
 
+The freefall experiment sharpens the distinction between online and retrospective timing. Participants later judged their own frightening fall as longer, but a wrist display did not show that they could perceive faster during the fall. The current synthesis therefore treats fear-related “slow motion” primarily as a dense-memory explanation in this paradigm, while retaining the broader point that arousal and attention can alter duration judgments in other contexts.
+
 ## Key Claims
 - Present interval timing, prospective timing, and retrospective timing are related but distinct judgments.
 - High-arousal or aversive states can make a short interval feel longer while it is occurring.
@@ -34,14 +37,16 @@ Novelty and surprise connect immediate experience to retrospective duration by c
 - Retrospective landmarks - [[scim2746317304-scim2746317304]] describes fun, novelty, varied contexts, and surprise as creating denser memory markers even when time felt fast in the moment.
 - Daily timing context - [[scim2746317304-scim2746317304]] links light, sleep, food, activity, circadian phase, and neuromodulator patterns to the reliability and texture of time perception.
 - Routine segmentation - [[scim2746317304-scim2746317304]] presents habits as dopamine-associated markers that can divide a day into functional units.
+- Fear and retrospective duration - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] reports a freefall experiment in which later duration expanded without evidence of faster online visual perception.
+- Lifespan memory density - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] connects novel childhood experience and routinized adulthood to denser or sparser retrospective landmarks.
 
 ## Counterevidence & Qualifications
-The concept currently rests on one structured public-neuroscience source, not a systematic review. The frame-rate analogy simplifies interacting neural, attentional, pharmacological, and memory processes; spontaneous blink rate is not a direct readout of subjective time; and dopamine release during sports viewing does not prove that dopamine alone creates temporal boundaries. Exact claims about serotonin, cannabis, cold exposure, trauma-memory replay, EMDR, ketamine, and time-of-day task matching require stronger study-level context and, where clinical, professional supervision.
+The concept rests on two structured public-neuroscience sources, not a systematic review. The frame-rate analogy simplifies interacting neural, attentional, pharmacological, and memory processes; spontaneous blink rate is not a direct readout of subjective time; and dopamine release during sports viewing does not prove that dopamine alone creates temporal boundaries. One freefall task narrows rather than eliminates all online arousal effects. Exact claims about serotonin, cannabis, cold exposure, trauma-memory replay, EMDR, ketamine, amygdala detail encoding, and time-of-day task matching require stronger study-level context and, where clinical, professional supervision.
 
 ## What Changed
-- Established a three-part distinction among present, prospective, and retrospective timing.
-- Added event density and novelty as explanations for why experienced and remembered duration can move in opposite directions.
-- Bounded the transmitter “frame-rate” model as a source-scoped metaphor rather than a complete neural clock.
+- Added experimental separation between fear's remembered slow motion and faster online perception.
+- Strengthened memory density and novelty as retrospective-duration mechanisms.
+- Narrowed simple arousal “frame-rate” explanations without rejecting broader state dependence.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - broader model of dopamine, norepinephrine, serotonin, and acetylcholine as interacting state signals.

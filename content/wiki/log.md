@@ -33432,3 +33432,11 @@ Added source `no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suish
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Science & Tools of Learning & Memory | Dr. David Eagleman
+
+Added source `science-tools-of-learning-memory-dr-david-eagleman-scim5564931565`; created [[DavidEagleman]], [[Neosensory]], [[InnerCosmos]], [[UlyssesContract]], [[SensorySubstitution]], [[MentalImagerySpectrum]], and [[GroupIdentityEmpathyGating]]; and resynthesized [[Neuroplasticity]], [[ReconstructiveMemory]], [[MemoryContaminationRisk]], [[DreamFunctionAndMeaning]], [[TimePerceptionAndNeurochemicalState]], and [[GroupPolarization]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: useful plasticity is selective and goal-directed; commitment devices manage future-self conflict; atypical sensory channels can become usable through learned correlations; fear-related slow motion can be retrospective memory density rather than faster online perception; memory remains reconstructive under stress; and group labels can gate empathy without determining conduct. No settled contradiction was adopted. The visual-cortex-defense theory of dreaming, remapping timescales, neurotransmitter combinations, imagery observations, freefall mechanism, sensory phenomenology, eyewitness paradigms, fMRI contrasts, propaganda effects, and zero-sum claims remain hypothesis-, experiment-, or source-scoped. Broad host and show pages were kept closed because their current profiles did not materially change. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

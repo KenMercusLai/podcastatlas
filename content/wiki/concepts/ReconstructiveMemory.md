@@ -6,7 +6,8 @@ sources:
   - how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002
   - how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885
   - what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310
-last_updated: 2026-09-26
+  - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The same frame explains why memory can be useful without being perfectly accurat
 The Ranganath episode strengthens the present-facing side of the model. Prior knowledge and episodic memory help simulate what is happening now, so expectations can aid rapid interpretation while also producing change blindness. Retrieval can also reopen a memory to contextual or narrative updating before it stabilizes again; this possibility does not imply that factual history is erased or that every recalled memory changes beneficially.
 
 The Wind episode supplies a live-performance case. Spectators do not merely fail to store isolated details: they use expectation, knowledge, emotion, timing, and the apparent logic of an effect to co-author a coherent memory. A later description can therefore be sincere and vivid while differing from the performed sequence, which makes magic a useful illustration of reconstruction without making stagecraft a substitute for controlled memory research.
+
+The Eagleman interview adds stress and repeated-recall boundaries. Threat can narrow attention toward a weapon while leaving faces or context weakly encoded, and the later abundance of remembered detail can make an event feel longer without proving faster perception during the event. Traumatic salience does not guarantee accuracy: repeated recollection, later information, and suggestion can alter what is reconstructed.
 
 ## Key Claims
 - Memory is a representation of the past, not an exact copy of the past.
@@ -42,13 +45,16 @@ The Wind episode supplies a live-performance case. Spectators do not merely fail
 - Present and future use - [[how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885]] presents memory as selective use of the past to interpret the present and project forward.
 - Expectation and updating - [[how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885]] uses change blindness to show expectation-driven omission and reconsolidation to describe qualified post-retrieval change.
 - Performance reconstruction - [[what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310]] distinguishes a spectator's memory of a trick from the event and describes emotion, inference, and attention as ingredients in the later story.
+- Stress and duration - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses weapon focus, freefall, and post-9/11 recall to separate vividness, remembered duration, and detail density from exact accuracy.
+- Recall-driven change - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] says recollection can reopen memory to later information and uses false-memory work to illustrate suggestibility.
 
 ## Counterevidence & Qualifications
-The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. These podcast summaries are not a technical review of all memory systems.
+The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. A magician's practitioner account illustrates these constraints but does not isolate their causal contributions. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. Weapon-focus, post-9/11 drift, and false-memory examples remain source summaries rather than a technical forensic-memory review.
 
 ## What Changed
-- Added live magic as a bounded example of emotion, expectation, attention, and inference co-authoring later recall.
-- Clarified that a vivid, sincere performance memory can differ from the performed sequence without making memory arbitrary.
+- Added the distinction among high emotional salience, dense retrospective detail, and accurate event memory.
+- Added attentional narrowing and repeated recall as interacting reconstruction routes.
+- Clarified that traumatic vividness does not make testimony immune to drift or suggestion.
 
 ## Related Concepts
 - [[SelfTestingMemoryPractice]] - retrieval and correction method that improves later reconstruction.

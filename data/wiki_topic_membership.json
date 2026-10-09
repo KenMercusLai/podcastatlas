@@ -46379,6 +46379,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "InnerCosmos": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "InnerDemonSymbolicReading": [
     {
       "key": "culture",
@@ -76006,6 +76013,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SensorySubstitution": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SentinelOne": [
     {
       "key": "technology",
@@ -101244,6 +101258,13 @@
     }
   ],
   "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "science-tools-of-learning-memory-dr-david-eagleman-scim5564931565": [
     {
       "key": "science",
       "label": "Science",

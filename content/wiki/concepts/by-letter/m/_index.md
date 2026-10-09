@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10057
+wiki_total_pages: 10061
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "MentalIllnessDestigmatization"
     title: "Mental Illness Destigmatization / 精神疾病去污名化"
     url: "/wiki/concepts/mentalillnessdestigmatization/"
+  - key: "MentalImagerySpectrum"
+    title: "Mental Imagery Spectrum"
+    url: "/wiki/concepts/mentalimageryspectrum/"
   - key: "MentalPracticeAndVisualization"
     title: "Mental Practice and Visualization"
     url: "/wiki/concepts/mentalpracticeandvisualization/"

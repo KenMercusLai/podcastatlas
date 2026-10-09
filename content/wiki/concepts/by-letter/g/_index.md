@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10057
+wiki_total_pages: 10061
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "GroupChatAgentParticipation"
     title: "Group-Chat Agent Participation / 群聊 Agent 参与机制"
     url: "/wiki/concepts/groupchatagentparticipation/"
+  - key: "GroupIdentityEmpathyGating"
+    title: "Group-Identity Empathy Gating"
+    url: "/wiki/concepts/groupidentityempathygating/"
   - key: "GrowthAsProtectorRole"
     title: "Growth As Protector Role"
     url: "/wiki/concepts/growthasprotectorrole/"
