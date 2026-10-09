@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2638
+topic_total_pages: 2637
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -787,9 +787,6 @@ topic_concepts:
   - key: "JapaneseAdaptiveCulturalSynthesis"
     title: "Japanese Adaptive Cultural Synthesis"
     url: "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
-  - key: "JiangXiangHeInternalUnity"
-    title: "Jiang-Xiang Harmony / 将相和式内部团结"
-    url: "/wiki/concepts/jiangxiangheinternalunity/"
   - key: "JudeoChristianNationalIdentity"
     title: "Judeo-Christian National Identity"
     url: "/wiki/concepts/judeochristiannationalidentity/"

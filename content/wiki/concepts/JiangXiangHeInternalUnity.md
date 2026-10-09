@@ -1,27 +1,53 @@
 ---
 title: "Jiang-Xiang Harmony / 将相和式内部团结"
 type: concept
-tags: [governance, diplomacy, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]
-last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
+tags: [governance, diplomacy, strategy, elite-coordination, civil-military-relations]
+sources:
+  - zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb
+  - zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy
+last_updated: 2026-10-09
 ---
 
-# Jiang-Xiang Harmony / 将相和式内部团结
+## Definition
 
-Jiang-xiang harmony / 将相和式内部团结 is the state-security pattern [[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]] draws from [[LianPo|廉颇]] and [[LinXiangru|蔺相如]]. The episode does not treat "将相和" only as a private friendship story; it places the reconciliation after [[QinState|秦国]]'s military pressure and the dangerous [[Mianchi|渑池]] meeting.
+Jiang-Xiang harmony / 将相和式内部团结 is the state-security pattern in which civil-political and military leaders coordinate because neither can manage an external or internal threat alone. The relationship may emerge through moral reconciliation, strategic restraint, or deliberately cultivated trust; personal warmth is optional, but a workable division of authority is not.
 
-The pattern has two moves. Lin Xiangru first refuses to let rank resentment become open conflict, because he believes [[QinZhaoxiangwang|秦昭襄王]] is deterred by Zhao's combined diplomatic and military capacity. Lian Po then recognizes that his anger over status could weaken [[ZhaoState|赵国]], and he performs a public apology through "负荆请罪."
+## Current Synthesis
 
-The concept therefore links personal restraint to external deterrence. A state under pressure cannot afford to let two essential capabilities cancel each other out: Lian Po represents military force, Lin Xiangru represents diplomatic courage and crisis judgment, and [[ZhaoHe|赵惠文王赵何]] needs both after Mianchi.
+The bounded evidence supplies two different mechanisms. In [[ZhaoState|赵国]], [[LinXiangru|蔺相如]] absorbs rank resentment rather than fight [[LianPo|廉颇]], because their combined diplomatic and military capacity deters [[QinState|秦国]]; Lian Po's public apology then turns rivalry into visible cooperation. In early Han, [[LuJia|陆贾]] tells [[ChenPing|陈平]] that a chancellor and general must be able to unify decision and force during crisis, and recommends strengthening ties with [[ZhouBo|周勃]] through reciprocal gifts.
+
+Together the cases show that elite unity is an operational capacity rather than a friendship slogan. It requires complementary roles, a recognized common threat, and some device for reducing rivalry or distrust. The Zhao case repairs an existing status conflict; the Han case reportedly builds cooperation before a later confrontation. Neither proves that harmony removes disagreement, self-interest, or evidentiary uncertainty about private motives.
 
 ## Key Claims
-- Elite rank conflict can become a state-security risk when rival officials embody different indispensable capacities.
-- Avoidance can be strategic restraint rather than cowardice when confrontation would degrade deterrence.
-- Apology matters politically when it restores cooperation between actors whose rivalry a stronger enemy could exploit.
-- The "将相和" story works because private virtue is made legible through public consequences for Zhao's survival.
 
-## Connections
-- [[LianPo|廉颇]] and [[LinXiangru|蔺相如]] - general and minister whose conflict produces the concept.
-- [[ZhaoState|赵国]] and [[ZhaoHe|赵惠文王赵何]] - state and ruler whose security depends on the repaired relationship.
-- [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[QinEastwardPressure|秦国东进压力]] - external pressure that raises the cost of internal conflict.
-- [[Mianchi|渑池]] and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - preceding diplomatic tests that elevate Lin Xiangru and trigger the rank dispute.
+- Elite conflict becomes a state-security risk when rival leaders control complementary diplomatic, administrative, or military capacities.
+- Strategic avoidance or yielding can preserve joint deterrence without implying weakness or full personal agreement.
+- Public apology is one mechanism for repairing rivalry; reciprocal obligation and relationship-building are another.
+- Coordination matters most when political judgment must be converted into unified command during crisis.
+- Later successful cooperation can support, but cannot by itself prove, a source's private origin story for the alliance.
+
+## Evidence
+
+Rivalry repaired under external pressure:
+- [[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb|Zhouji 77]] places Lin Xiangru's restraint and Lian Po's apology after the Mianchi confrontation, where Zhao's safety depends on diplomatic courage backed by military readiness.
+
+Coordination cultivated before internal crisis:
+- [[zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy|Hanji 204]] attributes to Lu Jia the diagnosis that Chen Ping and Zhou Bo must deepen cooperation, then presents reciprocal gifts as the relationship-building mechanism.
+
+## Counterevidence & Qualifications
+
+The two popular-history summaries do not establish a universal rule. Zhao's story foregrounds moral recognition and public apology, while the Han story foregrounds strategic brokerage and gift exchange; collapsing both into personal friendship would erase the distinction. Exact speeches, motives, gift amounts, and the causal path from cultivated ties to later anti-Lü action remain source-scoped. Cooperation among powerful elites can also concentrate coercive capacity, so internal unity should not be treated as automatically legitimate or beneficial to every group.
+
+## What Changed
+
+- Expanded the concept from a Warring States reconciliation story to a cross-period civil-military coordination pattern.
+- Added deliberate relationship-building as a second mechanism alongside restraint and apology.
+- Qualified “harmony” as operational coordination rather than proof of friendship, shared virtue, or identical interests.
+
+## Related Concepts
+
+- [[QinEastwardPressure|秦国东进压力]] - external threat that raises the cost of Lian Po and Lin Xiangru's rivalry.
+- [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - diplomatic performance that elevates Lin Xiangru and helps create the rank conflict later repaired.
+- [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] - later coalition pattern in which Chen Ping and Zhou Bo convert elite coordination into command transfer.
+- [[PoliticalSurvivalFirst|安全第一政治生存]] - survival logic that helps explain why senior ministers may cultivate cooperation before acting openly.

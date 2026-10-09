@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章](sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy.md) — 刘章以军法酒令公开震慑吕氏，陆贾则促成陈平与周勃联结；刘长母亲死因、人物动机与南越战事细节保留来源边界。
+- [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju.md) — 赵王刘友在吕氏婚姻中的家庭指控后被召入长安、拒见、围困断粮并以平民礼下葬；姓名来自相邻下集回顾，指控与细节保留来源边界。
 - [《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王](sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g.md) — 田子春先借张氏推动吕禄封赵王，再以封刘泽安抚刘氏与大臣，并催刘泽携诏离京避过追收。
 - [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9.md) — 吕后临终以吕禄、吕产分掌长安南北军并警告大臣反吕风险；节目提出狂犬病解释，但狗咬、症状链与确诊证据均不足。
 - [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd.md) — 刘恢在吕氏联姻、监控与宠妾被毒后自杀；刘泽则经军功、联姻与田子春的内廷通道谋求由侯升王。
@@ -4231,6 +4233,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [赵幽王刘友 / Liu You (King of Zhao, Western Han)](entities/LiuYouZhaoKingWesternHan.md) — 吕后时期被召入长安、隔绝断粮而死的赵王，其姓名由相邻节目回顾识别。
 - [赵王刘恢 / Liu Hui (King of Zhao, Western Han)](entities/LiuHuiZhaoKingWesternHan.md) — 被改封赵王并置于吕氏婚姻与家庭监控中的西汉宗室。
 - [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 借内廷通道、吕禄封王与补偿性分封，为刘泽取得琅邪王爵并安排其及时离京的齐国政治经纪人。
 - [Syracuse / 叙拉古](entities/Syracuse.md) — Strategic Sicilian Greek city whose change of alignment leads to Archimedean defense and Roman conquest.
@@ -21680,7 +21683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tactic that exploits ruler suspicion or impatience to induce damaging enemy command changes, from Tian Dan and Fan Ju to Qin's slander against Xinlingjun.
 - [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where front-line replacement breaks strategy, morale, secrecy, or competence, now including Lian Po's replacement by Zhao Kuo.
 - [Occupation Pacification Strategy / 占领区怀柔治理](concepts/OccupationPacificationStrategy.md) — Le Yi's post-conquest approach of restraint, relief, and livelihood restoration to make captured Qi governable.
-- [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — State-security pattern where Lian Po and Lin Xiangru subordinate rank resentment to Zhao's need for combined military and diplomatic deterrence.
+- [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — Civil-military coordination pattern built through strategic restraint, public reconciliation, or deliberately cultivated trust under shared threat.
 - [Zhou Royal Symbolic Deterrence / 周王室象征威慑](concepts/ZhouRoyalSymbolicDeterrence.md) — Late-Warring-States pattern where weak Zhou territory remains costly to attack because the royal title and Jiuding convert conquest into legitimacy risk.
 - [Hengshan Economic Warfare / 恒山之谋](concepts/HengshanEconomicWarfare.md) — Guan Zhong strategy using high-priced arms and grain purchases, pass closure, and attack to turn Hengshan's production specialty into vulnerability.
 - [Price-Signal Resource Steering / 价格信号调控物流](concepts/PriceSignalResourceSteering.md) — Guan Zhong trade-policy idea that prices can pull desired goods inward, retain scarce goods, or expose rivals depending on state intent.

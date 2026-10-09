@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-1-loi3nr4qfrtssqayn-8qb7yjx1xx
   - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
   - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0
+  - zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy
 last_updated: 2026-10-09
 ---
 
 ## Overview
 
-城阳王刘章 / Liu Zhang is presented as the capital-side organizer and strike commander in the overthrow of the Lü faction, a supporter of his brother [[LiuXiangQiKingWesternHan|齐王刘襄]] for emperor, and one of the dead relatives whose absence precedes [[LiuXingjuWesternHan|刘兴居]]'s rebellion.
+城阳王刘章 / Liu Zhang first appears in the bounded evidence as [[LiuFeiQiKing|刘肥]]'s son and Zhu Xu marquis, using delegated banquet authority to warn the Lü household. He later becomes a capital-side organizer and strike commander in the overthrow of the Lü faction, supports his brother [[LiuXiangQiKingWesternHan|齐王刘襄]] for emperor, receives Chengyang after the succession settlement, and dies before [[LiuXingjuWesternHan|刘兴居]]'s rebellion.
 
 ## Current Profile
+
+Before the coalition forms, Liu Zhang reportedly secures [[LuZhi|吕雉]]'s permission to enforce palace drinking rules under military law, sings a farming song about removing unlike plants, and kills a Lü relative who leaves the banquet. The episode interprets the sequence as calculated intimidation protected by Lu Zhi's favor and Liu Zhang's marriage into the Lü household; the target, authority, and private motives remain source-scoped. [[zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy|Hanji 204]]
 
 [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] says Liu Zhang killed Lü Chan in the capital and expected Liu Xiang's anti-Lü contribution to lead to the throne. Senior ministers instead installed [[LiuHeng|刘恒]], and the eventual grant of Chengyang is portrayed as smaller than the Zhao reward previously discussed.
 
@@ -29,8 +32,8 @@ The pre-confrontation evidence identifies Liu Zhang's wife as a daughter of [[Lu
 
 ## Key Characteristics
 
-- Capital participant in the violent removal of the Lü faction.
-- Strike commander whose force blocks and kills Lü Chan at Weiyang Palace.
+- Early public challenger who turns delegated banquet authority into an anti-Lü warning.
+- Capital participant and strike commander whose force blocks and kills Lü Chan at Weiyang Palace.
 - Advocate of Liu Xiang's accession.
 - Recipient of Chengyang in the post-crisis territorial settlement.
 - Political support whose death leaves Liu Xingju more isolated.
@@ -38,6 +41,9 @@ The pre-confrontation evidence identifies Liu Zhang's wife as a daughter of [[Lu
 - Lü-family son-in-law whose household tie becomes an alleged intelligence channel before he acts against the Lü commanders.
 
 ## Evidence
+
+Early warning and protected confrontation:
+- [[zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy|Hanji 204]] identifies Liu Zhang as Liu Fei's son and Zhu Xu marquis, then narrates his military-law request, farming song, killing of a departing Lü guest, and the political intimidation attributed to those acts.
 
 Capital action and settlement:
 - [[zizhi-tongjian-hanji-213-gei-liubang-dai-lvmao-de-shenyiqi-xiachang-ruhe-2-lntutfvfj3vdirbrjxlg1d5vsiip|Hanji 213]] credits Liu Zhang with killing Lü Chan and says he received Chengyang rather than a previously expected Zhao grant.
@@ -52,12 +58,12 @@ Early death and evidence boundary:
 
 ## Qualifications
 
-This profile relies on four structured podcast summaries from the same program. Exact anti-Lü actions, authorization, troop count, palace movement, messenger-tally use, killings, the alleged Lü plan, his wife's information and motives, promised and final grants, chronology, kinship details, age, and cause of death require comparison with transmitted histories. Hanji 205 part 2 announces source problems without specifying them. Neither missing detail nor political benefit establishes that Liu Heng ordered, pressured, or intentionally caused Liu Zhang's death.
+This profile relies on five structured podcast summaries from the same program. Exact banquet authority, song wording and target, the killed guest's identity, Lu Zhi's tolerance, anti-Lü actions, authorization, troop count, palace movement, messenger-tally use, killings, the alleged Lü plan, his wife's information and motives, promised and final grants, chronology, kinship details, age, and cause of death require comparison with transmitted histories. Hanji 205 part 2 announces source problems without specifying them. Neither missing detail nor political benefit establishes that Liu Heng ordered, pressured, or intentionally caused Liu Zhang's death.
 
 ## What Changed
 
-- Added Liu Zhang's palace command, direct confrontation with Lü Chan, messenger-tally movement, and report to Zhou Bo.
-- Reframed him from an internal organizer into the coalition's armed capital-side executor while preserving the source-critical boundary.
+- Added the earlier banquet confrontation in which Liu Zhang reportedly turns military-law permission into public intimidation of the Lü household.
+- Extended the profile from protected symbolic challenger to intelligence intermediary and armed capital-side executor without treating the sequence as proof of a continuous master plan.
 
 ## Relationships
 
@@ -66,6 +72,7 @@ This profile relies on four structured podcast summaries from the same program. 
 - [[LiuHeng|汉文帝刘恒]] - succession winner and ruler under whom Liu Zhang receives Chengyang.
 - [[JibeiRebellionWesternHan|刘兴居济北叛乱]] - later rebellion whose background includes Liu Zhang's contribution and death.
 - [[LuLuWesternHan|吕禄]] - father-in-law whose daughter is the reported intelligence channel.
+- [[LuZhi|吕雉]] - ruler whose favor and delegated banquet authority reportedly protect Liu Zhang's first open warning.
 - [[LuChanWesternHan|吕产]] - Lü commander whom later sources say Liu Zhang kills.
 - [[ZhouBo|周勃]] - senior coalition commander who assigns the palace role and receives Liu Zhang's victory report.
 - [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]] - coalition pattern in which Liu Zhang serves as a capital-side organizer.

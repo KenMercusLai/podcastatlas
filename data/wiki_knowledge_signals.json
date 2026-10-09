@@ -45563,9 +45563,9 @@
       "url": "/wiki/concepts/coercedconsentunderslavery/"
     },
     "CoercedImperialMarriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
@@ -45587,6 +45587,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1） [loPNTGvnBSFGw_D9juVITmrK2KJU].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju/"
         }
       ],
       "updated": "2026-10-09",
@@ -129443,6 +129450,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/jiangtaopsychiatrist/"
     },
+    "JiangXiangHeInternalUnity": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友” [lmelNHhTfUzeZvMMSUW4yF10PLSB].md",
+          "key": "zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章 [lvygOd50-fYi-6vWOeYGrwA2WUhY].md",
+          "key": "zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/jiangxiangheinternalunity/"
+    },
     "JiangXuXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -148904,6 +148934,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuyoulatehan/"
     },
+    "LiuYouZhaoKingWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1） [loPNTGvnBSFGw_D9juVITmrK2KJU].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuyouzhaokingwesternhan/"
+    },
     "LiuYuAstrologerLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -149105,9 +149158,9 @@
       "url": "/wiki/entities/liuzhang/"
     },
     "LiuZhangChengyangKingWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》213｜给刘邦戴绿帽的审食其，下场如何（2） [lnTutfVFj3vdIRBrjxlg1d5vSIiP].md",
@@ -149136,6 +149189,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章 [lvygOd50-fYi-6vWOeYGrwA2WUhY].md",
+          "key": "zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy/"
         }
       ],
       "updated": "2026-10-09",
