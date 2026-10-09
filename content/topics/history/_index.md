@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2652
+topic_total_pages: 2653
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6612,6 +6612,9 @@ topic_sources:
   - key: "63-hitler-with-ian-kershaw-part-1-glt1996418919"
     title: "63. Hitler, with Ian Kershaw - part 1"
     url: "/wiki/sources/63-hitler-with-ian-kershaw-part-1-glt1996418919/"
+  - key: "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309"
+    title: "630. Tchaikovsky: LIVE at the Royal Albert Hall"
+    url: "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
   - key: "631-wagner-live-at-the-royal-albert-hall-glt7214350401"
     title: "631. Wagner: LIVE at the Royal Albert Hall"
     url: "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"

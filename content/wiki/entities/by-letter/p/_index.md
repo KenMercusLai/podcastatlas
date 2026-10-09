@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12927
+wiki_total_pages: 12928
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "PwC"
     title: "PwC"
     url: "/wiki/entities/pwc/"
+  - key: "PyotrIlyichTchaikovsky"
+    title: "Pyotr Ilyich Tchaikovsky"
+    url: "/wiki/entities/pyotrilyichtchaikovsky/"
   - key: "PyroDash"
     title: "PyroDash"
     url: "/wiki/entities/pyrodash/"

@@ -6261,6 +6261,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "631-wagner-live-at-the-royal-albert-hall-glt7214350401": [
     {
       "key": "history",
@@ -15355,6 +15367,13 @@
     }
   ],
   "ArtisticAchievementMoralAccountability": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ArtisticBiographicalReductionism": [
     {
       "key": "culture",
       "label": "Culture",
@@ -60947,6 +60966,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "NationalArtWithinTransnationalCulture": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "NationalBasketballAssociation": [

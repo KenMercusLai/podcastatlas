@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3285
+topic_total_pages: 3288
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -379,6 +379,9 @@ topic_concepts:
   - key: "ArtisticContinuityAgainstNostalgia"
     title: "Artistic Continuity Against Nostalgia"
     url: "/wiki/concepts/artisticcontinuityagainstnostalgia/"
+  - key: "ArtisticBiographicalReductionism"
+    title: "Artistic-Biographical Reductionism"
+    url: "/wiki/concepts/artisticbiographicalreductionism/"
   - key: "AssemblageArtMemoryWork"
     title: "Assemblage Art Memory Work"
     url: "/wiki/concepts/assemblageartmemorywork/"
@@ -2137,6 +2140,9 @@ topic_concepts:
   - key: "NarrativePluralism"
     title: "Narrative Pluralism / 叙事多样性"
     url: "/wiki/concepts/narrativepluralism/"
+  - key: "NationalArtWithinTransnationalCulture"
+    title: "National Art Within Transnational Culture"
+    url: "/wiki/concepts/nationalartwithintransnationalculture/"
   - key: "NationalDirectorEmotionOutlet"
     title: "National Director Emotion Outlet / 国民导演情绪出口"
     url: "/wiki/concepts/nationaldirectoremotionoutlet/"
@@ -9099,6 +9105,9 @@ topic_sources:
   - key: "63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972"
     title: "63.我的30+下半程，答案若隐若现"
     url: "/wiki/sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972/"
+  - key: "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309"
+    title: "630. Tchaikovsky: LIVE at the Royal Albert Hall"
+    url: "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
   - key: "631-wagner-live-at-the-royal-albert-hall-glt7214350401"
     title: "631. Wagner: LIVE at the Royal Albert Hall"
     url: "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10106
+wiki_total_pages: 10108
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "NationalAnthemPoliticalPlasticity"
     title: "National Anthem Political Plasticity"
     url: "/wiki/concepts/nationalanthempoliticalplasticity/"
+  - key: "NationalArtWithinTransnationalCulture"
+    title: "National Art Within Transnational Culture"
+    url: "/wiki/concepts/nationalartwithintransnationalculture/"
   - key: "NationalBrandNarrativeBackfire"
     title: "National Brand Narrative Backfire"
     url: "/wiki/concepts/nationalbrandnarrativebackfire/"

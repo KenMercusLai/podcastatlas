@@ -18710,6 +18710,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/artistrightscontrol/"
     },
+    "ArtisticBiographicalReductionism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445190309 [GLT2445190309].md",
+          "key": "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309",
+          "show": "The Rest Is History",
+          "title": "630. Tchaikovsky: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/artisticbiographicalreductionism/"
+    },
     "ArtisticContinuityAgainstNostalgia": {
       "episode_count": 1,
       "show_count": 1,
@@ -174966,6 +174982,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/nationalarchivesuk/"
     },
+    "NationalArtWithinTransnationalCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445190309 [GLT2445190309].md",
+          "key": "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309",
+          "show": "The Rest Is History",
+          "title": "630. Tchaikovsky: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/nationalartwithintransnationalculture/"
+    },
     "NationalAssembly1789": {
       "episode_count": 1,
       "show_count": 1,
@@ -202351,6 +202383,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/puydufou/"
+    },
+    "PyotrIlyichTchaikovsky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445190309 [GLT2445190309].md",
+          "key": "630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309",
+          "show": "The Rest Is History",
+          "title": "630. Tchaikovsky: LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/pyotrilyichtchaikovsky/"
     },
     "PyroDash": {
       "episode_count": 1,

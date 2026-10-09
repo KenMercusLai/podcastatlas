@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10106
+wiki_total_pages: 10108
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2522,6 +2522,9 @@ wiki_pages:
   - key: "ArtisticFeedbackBoundary"
     title: "Artistic Feedback Boundary"
     url: "/wiki/concepts/artisticfeedbackboundary/"
+  - key: "ArtisticBiographicalReductionism"
+    title: "Artistic-Biographical Reductionism"
+    url: "/wiki/concepts/artisticbiographicalreductionism/"
   - key: "ArtsCareerFormation"
     title: "Arts Career Formation / 艺术职业形成"
     url: "/wiki/concepts/artscareerformation/"

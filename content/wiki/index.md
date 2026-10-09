@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [630. Tchaikovsky: LIVE at the Royal Albert Hall](sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309.md) — The Rest Is History live episode on Tchaikovsky's Russian and European formation, sexuality, marriage, patronage, celebrity, death, and resistance to reductive biography.
 - [089 趣话《鬼吹灯》之云南虫谷（大结局）](sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n.md) — 纸醉金迷FM收束献王墓逃生，以藤术重复、尸洞解围和灵异规则评析《云南虫谷》，并由玉环、龙骨天书与西藏线索衔接《昆仑神宫》。
 - [No.214 低能量人的电池使用指南](sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn.md) — 三五环单口以“电池”模型连接注意力保护、切换与协同成本、状态匹配、动力和低成本可能性实验。
 - [631. Wagner: LIVE at the Royal Albert Hall](sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401.md) — The Rest Is History live episode on Wagner's revolution and exile, total theatre, the Ring's power-and-love politics, Tristan and Isolde, and royal patronage.
@@ -4301,6 +4302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defining Healthy Masculinity & How to Build It | Terry Real](sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652.md) — Huberman Lab interview on masculinity as strength plus tenderness, internal worth, male friendship, relational joy, addiction, and practical conflict repair.
 
 ## Entities
+- [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
 - [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
 - [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
@@ -17287,6 +17289,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Artistic-Biographical Reductionism](concepts/ArtisticBiographicalReductionism.md) — Error of treating one life feature as a sufficient master explanation for an artist, creative process, and works.
+- [National Art Within Transnational Culture](concepts/NationalArtWithinTransnationalCulture.md) — Formation of recognizable national art through local materials and cross-border genres, institutions, patrons, and audiences.
 - [Energy-Aware Work Design / 能量感知型工作设计](concepts/EnergyAwareWorkDesign.md) — Treats work capacity as changing attention, activation, recovery, task fit, motivation, and avoidable friction rather than schedulable hours alone.
 - [Coordination Tax / 协同税](concepts/CoordinationTax.md) — Time, attention, decision, and emotional overhead created by messages, meetings, handoffs, approval layers, and context reconstruction.
 - [AI Regulation Public Opinion Gap](concepts/AIRegulationPublicOpinionGap.md) — Divergence between cross-party public demand for stronger AI safeguards and lighter or industry-led institutional responses.
