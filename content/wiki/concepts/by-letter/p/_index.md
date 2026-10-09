@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10039
+wiki_total_pages: 10042
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "PersonalAgentUnderstandingLayer"
     title: "Personal Agent Understanding Layer / 个人Agent理解层"
     url: "/wiki/concepts/personalagentunderstandinglayer/"
+  - key: "PersonalAgentVirtualEmployeePilot"
+    title: "Personal Agent Virtual Employee Pilot"
+    url: "/wiki/concepts/personalagentvirtualemployeepilot/"
   - key: "PersonalAIMemory"
     title: "Personal AI Memory"
     url: "/wiki/concepts/personalaimemory/"

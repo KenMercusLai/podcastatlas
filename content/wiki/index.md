@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar Is Dropping](sources/all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525.md) — All-In debate on Minneapolis immigration enforcement, personal AI agents, Kimi K2.5, monetary dilution, asset ownership, and California fiscal politics.
 - [《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单](sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi.md) — 惠帝的宽政与受制处境并存；叔孙通以礼制和面子重定道路纠错，司马光则明确反对“天子无过”。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-.md) — 吕雉的实际统治与正式帝号被明确区分；王陵援引白马之盟反对吕氏王号，陈平、周勃的顺从则保留为策略性解释。
 - [《资治通鉴·汉纪》200｜历史上第一次通货膨胀](sources/zizhi-tongjian-hanji-200-lishishang-diyici-tonghuopengzhang-lgcmvklcdkv-mtxv_bei2wclvuqw.md) — 吕后以八铢钱和关中金属管制回应轻钱与物价危机；“首次通胀”、平价效果、禁运目的及赵佗误判均保留来源边界。
@@ -4238,6 +4239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Kimi K2.5](entities/KimiK25.md) — Open or open-weight mixture-of-experts model presented through agent-swarm capability, deployment economics, and provenance risk.
 - [皇后张嫣 / Zhang Yan, Empress (Western Han)](entities/ZhangYanEmpressWesternHan.md) — 被安排嫁给舅舅刘盈、后又被置于刘恭公开母亲位置的西汉皇后，其个人能动性仍不明。
 - [前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)](entities/LiuGongYoungEmperorWesternHan.md) — 被张嫣收养并在吕雉摄政下即位，后因身世秘密与复仇威胁叙事遭囚禁、废杀的儿童君主。
 - [赵幽王刘友 / Liu You (King of Zhao, Western Han)](entities/LiuYouZhaoKingWesternHan.md) — 吕后时期被召入长安、隔绝断粮而死的赵王，其姓名由相邻节目回顾识别。
@@ -17161,6 +17163,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Minneapolis Federal-Local Immigration Conflict](concepts/MinneapolisFederalLocalImmigrationConflict.md) — Case separating custody cooperation, street enforcement, protest conduct, due process, employer demand, and de-escalation.
+- [Personal Agent Virtual Employee Pilot](concepts/PersonalAgentVirtualEmployeePilot.md) — Separately provisioned AI identity performing recurring cross-tool work under bounded permissions and human review.
+- [Monetary Dilution Asset-Ownership Gap](concepts/MonetaryDilutionAssetOwnershipGap.md) — Distributional mechanism by which nominal asset inflation can benefit owners relative to wage- and cash-dependent households.
 - [White Horse Covenant / 白马之盟](concepts/WhiteHorseCovenant.md) — 西汉开国封爵边界在吕氏王号争议中成为公开规范，但其执行依赖现实权力与大臣策略。
 - [早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap](concepts/EarlyHanCoinageEnforcementGap.md) — 区分严厉禁铸法令与中央实际控制铜材、铸造、流通和诸侯资源的能力。
 - [多方利益嵌入式政治经纪 / Interest-Embedded Political Brokerage](concepts/InterestEmbeddedPoliticalBrokerage.md) — 经纪人把客户目标嵌入君主、通道中介与潜在反对者的利益链，并通过顺序与时机把请求转化为问题解决方案。

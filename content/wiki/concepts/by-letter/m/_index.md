@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10039
+wiki_total_pages: 10042
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "MinnanRitualNetwork"
     title: "Minnan Ritual Network / 闽南仪式网络"
     url: "/wiki/concepts/minnanritualnetwork/"
+  - key: "MinneapolisFederalLocalImmigrationConflict"
+    title: "Minneapolis Federal-Local Immigration Conflict"
+    url: "/wiki/concepts/minneapolisfederallocalimmigrationconflict/"
   - key: "MinorityRefugeSettlerColonialParadox"
     title: "Minority-Refuge Settler-Colonial Paradox"
     url: "/wiki/concepts/minorityrefugesettlercolonialparadox/"
@@ -1325,6 +1328,9 @@ wiki_pages:
   - key: "MonarchicalRecognitionLegitimacy"
     title: "Monarchical Recognition Legitimacy"
     url: "/wiki/concepts/monarchicalrecognitionlegitimacy/"
+  - key: "MonetaryDilutionAssetOwnershipGap"
+    title: "Monetary Dilution Asset-Ownership Gap"
+    url: "/wiki/concepts/monetarydilutionassetownershipgap/"
   - key: "MonetaryPolicyLag"
     title: "Monetary Policy Lag"
     url: "/wiki/concepts/monetarypolicylag/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12867
+wiki_total_pages: 12868
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "KimiCLI"
     title: "Kimi CLI"
     url: "/wiki/entities/kimicli/"
+  - key: "KimiK25"
+    title: "Kimi K2.5"
+    url: "/wiki/entities/kimik25/"
   - key: "KimiK3"
     title: "Kimi K3"
     url: "/wiki/entities/kimik3/"

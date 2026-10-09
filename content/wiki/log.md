@@ -33291,3 +33291,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar Is Dropping
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525`; created [[KimiK25|Kimi K2.5]], [[MinneapolisFederalLocalImmigrationConflict]], [[PersonalAgentVirtualEmployeePilot]], and [[MonetaryDilutionAssetOwnershipGap]]. Core synthesis: the Minneapolis segment preserves competing explanations across federal tactics, local custody cooperation, protest conduct, employer demand, due process, and legal settlement; the agent segment turns a separately provisioned OpenClaw-like identity into a concrete cross-tool pilot while keeping permission and provenance risk explicit; and the macro segment links nominal asset inflation to an ownership gap without treating monetary expansion as a complete theory of inequality. No settled contradiction was adopted. Incident details, polling, census motives, model architecture and security, macro figures, gold-denominated performance, refinancing costs, and California pension estimates remain source-attributed. Broad [[OpenClaw]], [[AgentPermissionBoundaries]], [[OpenSourceAIModels]], [[FederalAIPreemption]], [[PragmaticImmigrationCompromise]], [[USFiscalDebtSpiralRisk]], [[CaliforniaFiscalFragility]], host, show, and political-person pages were kept closed because the bounded additions are represented in the focused source, entity, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,168 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

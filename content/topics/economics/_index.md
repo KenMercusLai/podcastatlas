@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2220
+topic_total_pages: 2221
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6294,6 +6294,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255"
     title: "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525"
+    title: "ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar Is Dropping"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525/"
   - key: "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74"
     title: "In arms’ way: Gaza-deal sticking points"
     url: "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
