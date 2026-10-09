@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3383
+topic_total_pages: 3385
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2641,6 +2641,9 @@ topic_concepts:
   - key: "ImperialMetropolisIntegration"
     title: "Imperial Metropolis Integration"
     url: "/wiki/concepts/imperialmetropolisintegration/"
+  - key: "ImperialRoadSystems"
+    title: "Imperial Road Systems / 帝国道路系统"
+    url: "/wiki/concepts/imperialroadsystems/"
   - key: "InHouseBankingSoftware"
     title: "In-House Banking Software"
     url: "/wiki/concepts/inhousebankingsoftware/"
@@ -7226,6 +7229,9 @@ topic_entities:
   - key: "RollingAI"
     title: "Rolling AI"
     url: "/wiki/entities/rollingai/"
+  - key: "RomanRoadNetwork"
+    title: "Roman Road Network / 古罗马道路网"
+    url: "/wiki/entities/romanroadnetwork/"
   - key: "RonDeSantis"
     title: "Ron DeSantis"
     url: "/wiki/entities/rondesantis/"

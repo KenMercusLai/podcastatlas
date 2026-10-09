@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10048
+wiki_total_pages: 10049
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "ImperialRiseDeclineCycle"
     title: "Imperial Rise and Decline Cycle"
     url: "/wiki/concepts/imperialrisedeclinecycle/"
+  - key: "ImperialRoadSystems"
+    title: "Imperial Road Systems / 帝国道路系统"
+    url: "/wiki/concepts/imperialroadsystems/"
   - key: "ImperialSpoilsAuction"
     title: "Imperial Spoils Auction"
     url: "/wiki/concepts/imperialspoilsauction/"

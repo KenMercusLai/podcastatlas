@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [8 古代的“高速公路”：秦汉驰道与罗马大路](sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli.md) — 怪东西比较秦汉驰道与罗马道路网，将道路、桥梁、驿站、邮传、维护、路权与劳役合并为帝国统治基础设施，并保留宽度、速度和材料细节的证据边界。
 - [《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死](sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx.md) — 刘邦拒医被谨慎解释为继承斗争下的诊疗信任危机；白马之盟与正式诏书则以习俗和法律两条路径安抚开国政治联盟。
 - [《资治通鉴·汉纪》190｜萧何入狱](sources/zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm.md) — 萧何请求开放长安苑囿荒地供民耕种，却被刘邦解释为受贿与收买民心而下狱；王卫尉以宰相职责和萧何长期镇守关中的履历进谏，促成释放但未消除君臣不对称。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（2）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp.md) — 陈平、周勃把诛杀樊哙改为押送候决；刘邦死后陈平抢先入宫自保，周昌则以抗诏延缓刘如意入京，直至吕雉先调走保护者。
@@ -4248,6 +4249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Roman Road Network / 古罗马道路网](entities/RomanRoadNetwork.md) — 将军事机动、公共道路法、分级工程、里程碑、驿站、地方维护与节点收费连成的罗马帝国交通系统。
 - [王卫尉 / Wang (Commandant of the Guards, Western Han)](entities/WangWeiweiWesternHan.md) — 以宰相利民职责、萧何战时镇守关中的履历及秦亡教训说服刘邦释放萧何的卫尉。
 - [城阳郡 / Chengyang Commandery](entities/ChengyangCommandery.md) — 刘肥在宫廷危机后让予鲁元公主、用以支撑名分倒置式求生的齐国郡级资源。
 - [盖公 / Gai Gong (early Han)](entities/GaiGongEarlyHan.md) — 曹参在齐国延请的黄老学者，其清静、守法与不扰民之说被节目视为曹参后续治理路线的思想来源。
@@ -17175,6 +17177,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Imperial Road Systems / 帝国道路系统](concepts/ImperialRoadSystems.md) — 道路、桥梁、驿站、通信、路权、劳役、财政与维护共同将领土统治转化为可重复的军政移动能力。
 - [帝王诊疗信任困境 / Imperial Treatment-Trust Dilemma](concepts/ImperialTreatmentTrustDilemma.md) — 宫廷诊疗渠道受政治对手控制时，善意治疗也可能因无法独立验证而失去可信度，但怀疑本身不构成谋害证据。
 - [临终辅政梯队安排 / Deathbed Ministerial Succession Planning](concepts/DeathbedMinisterialSuccessionPlanning.md) — 临终君主按政治阶段和能力互补安排连续辅政人选，同时保留后续联盟与执行条件对结果的决定作用。
 - [名分倒置式求生 / Status-Reversal Survival Bargain](concepts/StatusReversalSurvivalBargain.md) — 受威胁者以反常名分和物质让渡公开降低自身威胁的政治生存模式。

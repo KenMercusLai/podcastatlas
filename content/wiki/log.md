@@ -33369,3 +33369,11 @@ Added source `zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lo
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 8 古代的“高速公路”：秦汉驰道与罗马大路
+
+Added source `8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli`; created [[RomanRoadNetwork|古罗马道路网]] and [[ImperialRoadSystems|帝国道路系统]]; and resynthesized [[QinChidao|驰道]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Qin-Han and Roman roads converted territorial power into military, administrative, and communication reach only through bridges, stations, access rules, labor, finance, and maintenance as well as road surfaces; the comparison preserves different lane hierarchies, public-road law, materials, milestones, tolls, and governing arrangements. No settled contradiction was adopted. Reported widths, network lengths, speeds, station intervals, material readings, peripheral access, and several “oldest” or superlative claims remain source-scoped or disputed. Broad ruler, empire, route, and show pages were kept closed because the bounded additions are represented in the focused source, road entities, and comparative concept. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,178 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

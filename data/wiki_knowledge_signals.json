@@ -120326,6 +120326,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/imperialritualdistance/"
     },
+    "ImperialRoadSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhldVW-JzrdG2kqAfeXWNzdiDgLi [lhldVW-JzrdG2kqAfeXWNzdiDgLi].md",
+          "key": "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli",
+          "show": "怪东西Weird History",
+          "title": "8 古代的“高速公路”：秦汉驰道与罗马大路",
+          "url": "/wiki/sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/imperialroadsystems/"
+    },
     "ImperialSelfCriticismEdict": {
       "episode_count": 6,
       "show_count": 1,
@@ -199617,6 +199633,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/qilue/"
     },
+    "QinChidao": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生 [ls1u8Dmuvs5bbRzaDf2Dtd00js_P].md",
+          "key": "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"
+        },
+        {
+          "episode_file": "lhldVW-JzrdG2kqAfeXWNzdiDgLi [lhldVW-JzrdG2kqAfeXWNzdiDgLi].md",
+          "key": "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli",
+          "show": "怪东西Weird History",
+          "title": "8 古代的“高速公路”：秦汉驰道与罗马大路",
+          "url": "/wiki/sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/qinchidao/"
+    },
     "QinCollapseOverextension": {
       "episode_count": 1,
       "show_count": 1,
@@ -209996,6 +210035,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/romanrepublic/"
+    },
+    "RomanRoadNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhldVW-JzrdG2kqAfeXWNzdiDgLi [lhldVW-JzrdG2kqAfeXWNzdiDgLi].md",
+          "key": "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli",
+          "show": "怪东西Weird History",
+          "title": "8 古代的“高速公路”：秦汉驰道与罗马大路",
+          "url": "/wiki/sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/romanroadnetwork/"
     },
     "RomanceOfTheThreeKingdoms": {
       "episode_count": 4,
