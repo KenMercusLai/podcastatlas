@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [politics, succession, coalition, military-control, western-han]
 sources:
   - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
+  - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv
 last_updated: 2026-10-09
 ---
 
@@ -18,6 +19,8 @@ last_updated: 2026-10-09
 
 The mechanism depends on more than shared hostility. Information must cross faction lines, the outside ruler must neutralize dissent within his own administration, and mobilization must be translated into a legitimacy claim capable of attracting other princes and ministers. The source calls this an anti-Lü restoration of Liu rule, but its announced doubts about the transmitted account require keeping the exact coordination and intentions provisional.
 
+The coalition also has a stopping problem. Once the capital side kills Lü Chan and controls the center, Liu Zhang tells Liu Xiang to demobilize, while Guan Ying rebukes Wei Bo for initiating regional war. The outside force's contribution therefore does not become control over the settlement: capital actors can end the emergency, judge the mobilizers, purge the defeated network, and choose a different ruler. [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]]
+
 ## Key Claims
 
 - Capital military control can preserve short-term order while making succession depend on who can detach or outflank those forces.
@@ -25,6 +28,8 @@ The mechanism depends on more than shared hostility. Information must cross fact
 - An outside claimant needs internal allies in the capital and control of his own regional administration before public mobilization is credible.
 - Restoration language converts factional and dynastic interests into a wider call for coalition support.
 - Territorial grievance can reinforce mobilization without by itself proving the truth of every public accusation.
+- An outside mobilizer can be essential to pressure yet lose agenda-setting power once insiders secure the capital.
+- Demobilization and succession choice redistribute credit after victory, creating later grievance even when the coalition's immediate goal is achieved.
 
 ## Evidence
 
@@ -40,13 +45,17 @@ Regional command consolidation:
 Legitimacy and grievance:
 - [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] joins Liu Xiang's Gaozu-line descent, early Qi scale, territory lost under the regency, and a public appeal to restore the dynasty.
 
+Demobilization and settlement control:
+- [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]] says Liu Zhang asks Liu Xiang to stop the Qi campaign, Guan Ying censures Wei Bo, and capital ministers choose Liu Heng rather than the outside mobilizer.
+
 ## Counterevidence & Qualifications
 
-The concept currently rests on one popular-history episode summary. That source says its Shiji-derived narrative contains unresolved flaws but postpones their analysis. It therefore does not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, exact coordination between inside and outside actors, or that territorial grievance was Liu Xiang's decisive motive. The model describes the episode's political mechanism, not a universal law of succession.
+The concept rests on two linked popular-history episode summaries. Hanji 205 says its Shiji-derived narrative contains unresolved flaws but postpones their analysis. The sources therefore do not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, exact coordination, Wei Bo's motives, or that territorial grievance was Liu Xiang's decisive motive. Hanji 207's demobilization and candidate-selection account also does not show that the outside force had no bargaining power at all. The model describes the episode's political mechanism, not a universal law of succession.
 
 ## What Changed
 
-- Created the concept from the episode's linked capital, household-intelligence, regional-command, and legitimacy mechanisms.
+- Added the demobilization phase and the distinction between contributing force and controlling the final succession settlement.
+- Connected post-victory credit redistribution to the Qi branch's later grievance without treating rebellion as inevitable.
 
 ## Related Concepts
 
@@ -54,3 +63,4 @@ The concept currently rests on one popular-history episode summary. That source 
 - [[SameSurnameKingEnfeoffment|同姓王分封]] - institutional precondition because Liu-family regional kingdoms supply independent mobilization capacity.
 - [[RewardAllocationBacklash|分配反噬]] - downstream relationship because unequal settlement rewards can convert coalition contribution into later grievance.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - actor-level relationship because uncertain succession rewards caution, information control, and reversible alignment.
+- [[SuccessionLegitimacyPurge|继位合法性清洗]] - downstream relationship because victory in the capital is followed by wider removal of defeated kin and rival heirs.

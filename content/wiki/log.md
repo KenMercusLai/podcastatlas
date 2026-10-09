@@ -33160,3 +33160,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）
+
+Added source `zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv`; created [[LuXuWesternHan|吕媭]]; and resynthesized [[LuLuWesternHan|吕禄]], [[LuChanWesternHan|吕产]], [[WeiBoWesternHan|魏勃]], [[LiJiWesternHan|郦寄]], [[LiuXiangQiKingWesternHan|齐王刘襄]], [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the anti-Lü victory does not end with seizure of the capital armies; it expands into Lü-household and Hui-line elimination, then into candidate filtering where Liu Xiang's contribution and senior-branch claim lose to concern about Si Jun's outer-relative power, while Liu Heng's seniority, reputation, and restrained maternal family become positive security qualifications. No settled contradiction was adopted. Lü Xu's authority and execution, the young princes' parentage, the purge procedure, ministerial motives, candidate order, Bao-family restraint, Si Jun's conduct, dialogue, dates, and titles remain source-scoped. Broad [[LiuHeng|汉文帝刘恒]], [[ChenPing|陈平]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[LuZhi|吕雉]] pages were kept closed because the bounded additions are represented in the focused source, people, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,151 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

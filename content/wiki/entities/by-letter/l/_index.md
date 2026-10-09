@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12850
+wiki_total_pages: 12851
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "LyuJiaNanyue"
     title: "吕嘉 / Lü Jia (Nanyue)"
     url: "/wiki/entities/lyujiananyue/"
+  - key: "LuXuWesternHan"
+    title: "吕媭 / Lü Xu (Western Han)"
+    url: "/wiki/entities/luxuwesternhan/"
   - key: "LyuDai"
     title: "吕岱 / Lyu Dai"
     url: "/wiki/entities/lyudai/"

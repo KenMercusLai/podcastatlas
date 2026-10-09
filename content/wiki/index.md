@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv.md) — 诛吕胜利从解除军权扩展为吕氏家族与惠帝诸子的清洗；齐军被令罢兵后，群臣又以外戚风险、名分和声望权衡，舍刘襄而迎立刘恒。
 - [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1.md) — 吕后死后吕禄、吕产控制南北军，刘章联络刘襄形成内外合击；刘襄先压倒赵平、重组齐国军政再举兵，史料疑点则留待后续。
 - [No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁](sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk.md) — 三五环年度群像复盘以掌控边界、过程导向、身体健康、AI陪伴、在场观察与持续积累连接多位创作者和从业者的2025年。
 - [VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？](sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt.md) — 卢骁与严锋以急诊、神经外科和家属沟通案例说明初步判断为何会随病史、检查与专科协作修正，并限定 AI 与网络问诊的输入和临床边界。
@@ -4221,9 +4222,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
-- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军、并通过女儿婚姻与刘章阵营形成信息交叉的吕氏将领。
-- [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军、后成为诛吕行动目标的吕氏军政人物。
-- [魏勃 / Wei Bo (Western Han)](entities/WeiBoWesternHan.md) — 骗取赵平兵权、帮助刘襄控制齐国军政并获任将军的反吕行动组织者。
+- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军，经郦寄介入失去军权并在胜方扩大清洗时与家族一同被杀的吕氏将领。
+- [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军，其死亡成为军事对抗转入吕氏家族全面清洗的节点。
+- [吕媭 / Lü Xu (Western Han)](entities/LuXuWesternHan.md) — 吕雉之妹、樊哙遗孀与女性列侯；曾攻讦陈平，后在诛吕清洗中被笞打致死。
+- [魏勃 / Wei Bo (Western Han)](entities/WeiBoWesternHan.md) — 帮助刘襄夺取齐国军权并举兵，却在胜后因擅自发动受灌婴斥责的反吕行动组织者。
 - [赵平 / Zhao Ping (Qi Chancellor)](entities/ZhaoPingQiChancellor.md) — 反对刘襄起兵、短暂围宫却失去兵权并自杀的齐相。
 - [驷钧 / Si Jun (Western Han)](entities/SiJunWesternHan.md) — 刘襄舅父与反吕谋划者，赵平死后获任齐相。
 - [祝午 / Zhu Wu (Western Han)](entities/ZhuWuWesternHan.md) — 参与刘襄反吕谋划并在齐国重组后出任内史的官员。
@@ -17127,7 +17129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
-- [摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization](concepts/PostRegencyInsideOutsideMobilization.md) — 首都内应、跨阵营情报、地方军政整合与复辟名义共同作用于摄政终结后继承危机的动员机制。
+- [摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization](concepts/PostRegencyInsideOutsideMobilization.md) — 首都内应与地方动员共同压迫军权持有者，但胜后罢兵、问责和继位选择仍可由控制首都的一方主导。
 - [Emergency Diagnostic Revision / 急诊诊断修正](concepts/EmergencyDiagnosticRevision.md) — 急诊初步风险判断随时间线、旁证、连续观察、影像与专科知识而安全修正的协作框架。
 - [Select-Service Hotel Model / 精选服务酒店模式](concepts/SelectServiceHotelModel.md) — Hotel format that retains high-frequency guest functions while reducing full-service facility and staffing burdens.
 - [County Hotel Chain Expansion / 县域连锁酒店扩张](concepts/CountyHotelChainExpansion.md) — Lower-tier hotel growth driven by redirected tourism demand, renovation-ready stock, and franchise systems, constrained by seasonality and competition.
@@ -21449,7 +21451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fatal Deadline Rebellion Trigger / 误期死局式起义触发](concepts/FatalDeadlineRebellionTrigger.md) — Dazexiang mechanism where Qin's fatal lateness rule collapses compliance, flight, and delay into death, making revolt the active self-rescue path.
 - [Regional Self-Preservation Alliance / 区域自保联盟](concepts/RegionalSelfPreservationAlliance.md) — Collapse-period pattern where local power-holders consolidate geography, offices, troops, elite agreement, and mutual rescue into a defensive regional order.
 - [Rebel Mandate Manufacture / 起义天命制造](concepts/RebelMandateManufacture.md) — Pattern where fabricated signs, borrowed names, sacred rumors, chen texts, bodily anomalies, false genealogies, or lottery rituals make revolt or claimant bids look mandate-backed.
-- [Succession Legitimacy Purge / 继位合法性清洗](concepts/SuccessionLegitimacyPurge.md) — Succession-consolidation purge pattern where contested accessions turn rival heirs, old ministers, palace actors, and former allies into removable threats.
+- [Succession Legitimacy Purge / 继位合法性清洗](concepts/SuccessionLegitimacyPurge.md) — Contested-transition purge pattern where winning coalitions remove defeated kin groups, rival heirs, old ministers, palace actors, or former allies to make a new settlement irreversible.
 - [Mausoleum Secrecy Killing / 陵墓保密杀戮](concepts/MausoleumSecrecyKilling.md) — Qinji 127-4 pattern where tomb mechanisms, buried wealth, and imperial funerary secrecy turn concubines and artisans into lethal information risks.
 - [Mausoleum Frugality Remonstrance / 陵墓节俭式进谏](concepts/MausoleumFrugalityRemonstrance.md) — Remonstrance pattern where extravagant royal burial is challenged through public burden, virtue contrast, precedent, and afterlife logic.
 - [Loyal Service Moral Liability / 忠臣事暴政的罪责](concepts/LoyalServiceMoralLiability.md) — Qinji 127-4 ethical frame where Meng Tian's final loyalty is praised without erasing responsibility for harsh Qin labor projects.
