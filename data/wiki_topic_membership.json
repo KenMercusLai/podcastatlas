@@ -10807,6 +10807,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIWorkflowUpstreamPositioning": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIWorkforceMonitoring": [
     {
       "key": "technology",
@@ -44949,6 +44961,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HumanTasteCreativeBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HumanValueAIDeployment": [
     {
       "key": "technology",
@@ -54672,6 +54691,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Lovart": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LoveAsContainingFrame": [
@@ -100788,6 +100814,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp": [

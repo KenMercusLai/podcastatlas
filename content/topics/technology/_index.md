@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3391
+topic_total_pages: 3395
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1042,6 +1042,9 @@ topic_concepts:
   - key: "AIWorkflowTriage"
     title: "AI Workflow Triage"
     url: "/wiki/concepts/aiworkflowtriage/"
+  - key: "AIWorkflowUpstreamPositioning"
+    title: "AI Workflow Upstream Positioning / AI 工作流上游定位"
+    url: "/wiki/concepts/aiworkflowupstreampositioning/"
   - key: "AIWorkforceMonitoring"
     title: "AI Workforce Monitoring"
     url: "/wiki/concepts/aiworkforcemonitoring/"
@@ -2563,6 +2566,9 @@ topic_concepts:
   - key: "HumanTasteAsAITrainingSignal"
     title: "Human Taste as AI Training Signal / 人的品味作为AI训练信号"
     url: "/wiki/concepts/humantasteasaitrainingsignal/"
+  - key: "HumanTasteCreativeBoundary"
+    title: "Human Taste Creative Boundary / 人类审美的创造边界"
+    url: "/wiki/concepts/humantastecreativeboundary/"
   - key: "HumanValueBeyondEfficiency"
     title: "Human Value Beyond Efficiency"
     url: "/wiki/concepts/humanvaluebeyondefficiency/"
@@ -6515,6 +6521,9 @@ topic_entities:
   - key: "Lovable"
     title: "Lovable"
     url: "/wiki/entities/lovable/"
+  - key: "Lovart"
+    title: "Lovart"
+    url: "/wiki/entities/lovart/"
   - key: "LSDyna"
     title: "LS-Dyna"
     url: "/wiki/entities/lsdyna/"
@@ -9471,6 +9480,9 @@ topic_sources:
   - key: "live-anthropic-co-founder-on-ai-and-jobs"
     title: "Live: Anthropic co-founder on AI and jobs"
     url: "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+  - key: "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx"
+    title: "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去"
+    url: "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit"
     title: "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"

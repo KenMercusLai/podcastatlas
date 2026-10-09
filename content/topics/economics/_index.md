@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2223
+topic_total_pages: 2225
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -220,6 +220,9 @@ topic_concepts:
   - key: "AIWorkOptionality"
     title: "AI Work Optionality"
     url: "/wiki/concepts/aiworkoptionality/"
+  - key: "AIWorkflowUpstreamPositioning"
+    title: "AI Workflow Upstream Positioning / AI 工作流上游定位"
+    url: "/wiki/concepts/aiworkflowupstreampositioning/"
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
@@ -6333,6 +6336,9 @@ topic_sources:
   - key: "tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final"
     title: "Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems"
     url: "/wiki/sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final/"
+  - key: "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx"
+    title: "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去"
+    url: "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640"
     title: "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"

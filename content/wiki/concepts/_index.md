@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10089
+wiki_total_pages: 10091
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1607,6 +1607,9 @@ wiki_pages:
   - key: "AIWorkflowTriage"
     title: "AI Workflow Triage"
     url: "/wiki/concepts/aiworkflowtriage/"
+  - key: "AIWorkflowUpstreamPositioning"
+    title: "AI Workflow Upstream Positioning / AI 工作流上游定位"
+    url: "/wiki/concepts/aiworkflowupstreampositioning/"
   - key: "AIWorkforceMonitoring"
     title: "AI Workforce Monitoring"
     url: "/wiki/concepts/aiworkforcemonitoring/"

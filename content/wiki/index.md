@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx.md) — 陈冕复盘互联网产品生涯、Liblib 到 Lovart 的 AI 设计创业、工作流上游定位、速度与现金流，以及人类审美和创作职业的边界。
 - [5 少年维特有出路吗？读书1：《少年维特之烦恼》](sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w.md) — 怪东西重读《少年维特之烦恼》，以书信体、翻译损耗、生命阶段、爱情、官僚与阶级封闭重释维特的悲剧。
 - [090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！](sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x.md) — 纸醉金迷FM以五庄观、白骨岭和平顶山拆解稀缺声望、方案增项、应急替代、资源置换与避责式总结。
 - [遲來的性罪行法律改革，倖存者們想爭取甚麼？](sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c.md) — 端聞以倖存者經驗解釋香港性罪行法改、積極同意、真誠誤信抗辯、程序二次傷害與弱勢保障。
@@ -4283,6 +4284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
 
 ## Entities
+- [Lovart](entities/Lovart.md) — 面向非专业用户承接专业设计需求、以无限画布和上下文交互为核心的 AI designer 产品。
 - [Johann Wolfgang von Goethe / 歌德](entities/JohannWolfgangVonGoethe.md) — German author represented through the autobiographical transformation, form, language, and social interpretation of *The Sorrows of Young Werther*.
 - [《少年维特之烦恼》 / The Sorrows of Young Werther](entities/TheSorrowsOfYoungWerther.md) — 以书信亲密性、青春生命力及爱情、职业与阶级出口的同时收窄展开的歌德小说。
 - [性罪行法律改革關注組 / Hong Kong Sexual Offences Law Reform Concern Group](entities/HongKongSexualOffencesLawReformConcernGroup.md) — 以倖存者視角參與香港性罪行法改、公眾教育與條文批判的倡議團體。
@@ -17244,6 +17246,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Human Taste Creative Boundary / 人类审美的创造边界](concepts/HumanTasteCreativeBoundary.md) — 区分可自动化的创意执行与审美判断、风格创新及其权利治理的动态边界。
+- [AI Workflow Upstream Positioning / AI 工作流上游定位](concepts/AIWorkflowUpstreamPositioning.md) — 从用户意图、新人群或新需求发起工作流，而非成为既有平台可替换的下游功能。
 - [Life-Stage-Dependent Rereading / 生命阶段依赖的重读](concepts/LifeStageDependentRereading.md) — 后来经验或语言能力改变作品显著性、但不自动赋予终极解释权的重读机制。
 - [Youth Vitality under Institutional Closure / 制度封闭下的青春生命力](concepts/YouthVitalityUnderInstitutionalClosure.md) — 爱情、职业与阶级出口同时收窄，使充沛感受力和才华失去容纳空间的文学机制。
 - [Co-Produced Scarcity Prestige / 共谋式稀缺声望](concepts/CoProducedScarcityPrestige.md) — 供应者、把关者和获配者因共同受益于排他身份而维持稀缺叙事的机制。

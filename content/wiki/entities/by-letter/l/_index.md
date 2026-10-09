@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12902
+wiki_total_pages: 12903
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "Lovable"
     title: "Lovable"
     url: "/wiki/entities/lovable/"
+  - key: "Lovart"
+    title: "Lovart"
+    url: "/wiki/entities/lovart/"
   - key: "LoveFrom"
     title: "LoveFrom"
     url: "/wiki/entities/lovefrom/"

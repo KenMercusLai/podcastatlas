@@ -5146,6 +5146,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/aiweirdnessblog/"
     },
+    "AIWorkflowUpstreamPositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
+          "key": "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx",
+          "show": "罗永浩的十字路口",
+          "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
+          "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/aiworkflowupstreampositioning/"
+    },
     "AJourneyToTheWesternIslands": {
       "episode_count": 1,
       "show_count": 1,
@@ -39674,6 +39690,29 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/chenlu/"
+    },
+    "ChenMian": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
+          "key": "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1",
+          "show": "晚点聊 LateTalk",
+          "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",
+          "url": "/wiki/sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1/"
+        },
+        {
+          "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
+          "key": "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx",
+          "show": "罗永浩的十字路口",
+          "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
+          "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/chenmian/"
     },
     "ChenPrimarySchoolTeacher": {
       "episode_count": 1,
@@ -117517,6 +117556,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
+    "HumanTasteCreativeBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
+          "key": "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx",
+          "show": "罗永浩的十字路口",
+          "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
+          "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/humantastecreativeboundary/"
+    },
     "HumanTraffickingFamilyTrauma": {
       "episode_count": 1,
       "show_count": 1,
@@ -144685,6 +144740,43 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/libidomultisystemregulation/"
     },
+    "Liblib": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 ⧸ CEO [ltfH_oN-4QQZ-ArdqURY4G0JejEC].md",
+          "key": "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec",
+          "show": "十字路口Crossing",
+          "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",
+          "url": "/wiki/sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        },
+        {
+          "episode_file": "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
+          "key": "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1",
+          "show": "晚点聊 LateTalk",
+          "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",
+          "url": "/wiki/sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1/"
+        },
+        {
+          "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
+          "key": "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx",
+          "show": "罗永浩的十字路口",
+          "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
+          "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liblib/"
+    },
     "LibraryOfAlexandria": {
       "episode_count": 1,
       "show_count": 1,
@@ -153470,6 +153562,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lovable/"
+    },
+    "Lovart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
+          "key": "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx",
+          "show": "罗永浩的十字路口",
+          "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
+          "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/lovart/"
     },
     "LoveAsContainingFrame": {
       "episode_count": 1,

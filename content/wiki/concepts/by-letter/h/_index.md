@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10089
+wiki_total_pages: 10091
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "HumanTasteAsAITrainingSignal"
     title: "Human Taste as AI Training Signal / 人的品味作为AI训练信号"
     url: "/wiki/concepts/humantasteasaitrainingsignal/"
+  - key: "HumanTasteCreativeBoundary"
+    title: "Human Taste Creative Boundary / 人类审美的创造边界"
+    url: "/wiki/concepts/humantastecreativeboundary/"
   - key: "HumanValueBeyondEfficiency"
     title: "Human Value Beyond Efficiency"
     url: "/wiki/concepts/humanvaluebeyondefficiency/"
