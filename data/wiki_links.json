@@ -66099,6 +66099,10 @@
     "title": "Portable Divination Systems / 便携占算系统",
     "url": "/wiki/concepts/portabledivinationsystems/"
   },
+  "PortableMobileBroadbandFit": {
+    "title": "Portable Mobile-Broadband Fit / 随身移动宽带场景适配",
+    "url": "/wiki/concepts/portablemobilebroadbandfit/"
+  },
   "PortablePoliticalCapital": {
     "title": "Portable Political Capital / 可携带政治资本",
     "url": "/wiki/concepts/portablepoliticalcapital/"
@@ -73810,6 +73814,10 @@
   "ScarletSunrise": {
     "title": "Scarlet Sunrise",
     "url": "/wiki/entities/scarletsunrise/"
+  },
+  "ScenarioLedConnectivityHardware": {
+    "title": "Scenario-Led Connectivity Hardware / 场景驱动的连接硬件",
+    "url": "/wiki/concepts/scenarioledconnectivityhardware/"
   },
   "ScenarioLevelRewardSignal": {
     "title": "Scenario-Level Reward Signal",
@@ -94603,6 +94611,10 @@
     "title": "赵信 / Zhao Xin (Western Han-Xiongnu)",
     "url": "/wiki/entities/zhaoxinwesternhan/"
   },
+  "ZhaoXinZTE": {
+    "title": "赵新 / Zhao Xin (ZTE)",
+    "url": "/wiki/entities/zhaoxinzte/"
+  },
   "ZhaoXinchenWesternHan": {
     "title": "召信臣 / Zhao Xinchen (Western Han)",
     "url": "/wiki/entities/zhaoxinchenwesternhan/"
@@ -99374,6 +99386,10 @@
   "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437": {
     "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
     "url": "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+  },
+  "no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720": {
+    "title": "No.216 手机热点如果够用，我们为什么还需要随身WiFi？",
+    "url": "/wiki/sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720/"
   },
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",

@@ -4255,6 +4255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [639. Revolution in Iran: Death in the Desert (Part 4)](sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592.md) — The Rest Is History episode on the Iran hostage crisis, Operation Eagle Claw, Carter's defeat, Reagan's victory, and Khomeini's revolutionary consolidation.
 
+- [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
+
 ## Entities
 - [聂卫平 / Nie Weiping](entities/NieWeiping.md) — 中国职业围棋手、国家队原总教练与文化推广者，本期以其和金庸的赛事及大众传播关系为中心。
 - [卫兵 / 魏兵 (Emergency Physician)](entities/WeiBingEmergencyPhysician.md) — VOL.194急诊医生，以危重优先、危重排除、低价值输液、科普责任与医生主导AI解释急诊边界。
@@ -17189,6 +17191,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Charlie Beckwith](entities/CharlieBeckwith.md) — Delta Force founder and Operation Eagle Claw planner whose elite-force confidence operated inside a tightly coupled rescue mission.
 
+- [赵新 / Zhao Xin (ZTE)](entities/ZhaoXinZTE.md) — ZTE portable Wi-Fi product director explaining mobile-broadband category fit, radio engineering, product segmentation, and user-scene definition.
+
 ## Concepts
 - [Weiqi Cultural Promotion / 围棋文化推广](concepts/WeiqiCulturalPromotion.md) — 通过小说、影视、公众人物、赛事、荣誉与物质支持把围棋带出专业体系，同时区分曝光与可测参与效果。
 - [Low-Value Intravenous Infusion / 低价值静脉输液](concepts/LowValueIntravenousInfusion.md) — 以患者特定适应证区分必要静脉治疗与感冒、流感或“疏通血管”式安慰性输液，并计入穿刺、过敏、交叉感染与资源成本。
@@ -27314,5 +27318,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Iran Hostage Crisis](concepts/IranHostageCrisis.md) — Framework joining prolonged captivity to revolutionary consolidation, diplomacy, rescue risk, presidential authority, and electoral narrative.
 - [Operation Eagle Claw](concepts/OperationEagleClaw.md) — Failed 1980 rescue understood as a tightly coupled multi-stage operation with insufficient redundancy and integration.
+
+- [Portable Mobile-Broadband Fit / 随身移动宽带场景适配](concepts/PortableMobileBroadbandFit.md) — Threshold at which duration, mobility, device count, signal, power, or control justifies dedicated cellular-to-Wi-Fi hardware.
+- [Scenario-Led Connectivity Hardware / 场景驱动的连接硬件](concepts/ScenarioLedConnectivityHardware.md) — Product-definition method deriving radio, power, antenna, form factor, and service choices from concrete connectivity scenes.
 
 ## Syntheses

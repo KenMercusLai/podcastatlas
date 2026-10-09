@@ -33424,3 +33424,11 @@ Added source `092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifft
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | No.216 手机热点如果够用，我们为什么还需要随身WiFi？
+
+Added source `no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720`; created [[ZhaoXinZTE|赵新]], [[PortableMobileBroadbandFit|随身移动宽带场景适配]], and [[ScenarioLedConnectivityHardware|场景驱动的连接硬件]]; migrated and resynthesized [[ZTE]] from its complete three-source evidence inventory; and resynthesized [[LiuFei|刘飞]] and [[SanWuHuan|三五环]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a phone hotspot remains sufficient for occasional use, while dedicated mobile-broadband hardware becomes more defensible under long duration, multiple devices, weak signals, mobility, power separation, or greater control; ZTE's battery, plug-in, vehicle, RedCap, full-5G, aggregation, and CPE portfolio illustrates a scene-to-requirements-to-engineering-to-feedback loop. No settled contradiction was adopted. Signal gains, speed, endurance, coverage, installed-user retention, prices, market position, security risk, base-station counts, and launch plans remain manufacturer-reported and source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,185 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

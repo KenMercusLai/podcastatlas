@@ -17,7 +17,8 @@ sources:
   - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
   - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
   - no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6
-last_updated: 2026-10-07
+  - no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -51,6 +52,8 @@ The No.219 solo episode adds Liu's own technology-analysis voice rather than an 
 
 The Mengyang episode adds Liu's creator and career-experiment voice. With [[MengYangStandup|梦阳 / 孟阳]], he uses his own attempts at tea, training, consulting, and podcasting to distinguish plans that remain intellectually plausible from work that produces durable excitement and feedback. His account of [[Banlatte|半拿铁]] and earlier podcasting also makes platform timing and content scarcity part of career opportunity, qualifying retrospective stories that make success look fully designed.
 
+The portable Wi-Fi episode adds consumer connectivity and hardware product definition. With [[ZhaoXinZTE|赵新]], Liu starts from the ordinary question of why a phone hotspot is not enough, then uses rental housing, travel, public Wi-Fi, weak signals, antennas, batteries, CPE, RedCap, vehicles, and livestreaming to surface [[PortableMobileBroadbandFit]] and [[ScenarioLedConnectivityHardware]] rather than treating the category as a specification list.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
@@ -58,7 +61,7 @@ The Mengyang episode adds Liu's creator and career-experiment voice. With [[Meng
 - He uses product and workflow questions to make AI's effect on creators concrete, and in solo analysis connects adoption to workflow value, cost, risk, and retained human decision authority.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
 - He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
-- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, community history, and wealth-after-success risk into user-facing questions about trust, workflow, demand, responsibility, and life design.
+- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, connectivity products, community history, and wealth-after-success risk into user-facing questions about trust, workflow, demand, responsibility, and life design.
 
 ## Evidence
 - Podcast-production role - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] presents Liu with [[XiaoLei|肖磊]] and [[LiDan|李诞]] discussing 半拿铁's research, transcript, brand, and audience-trust choices.
@@ -77,13 +80,13 @@ The Mengyang episode adds Liu's creator and career-experiment voice. With [[Meng
 - Wealth-after-success interviewing - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] has Liu interview [[FangYanWealth|方言]] about [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], lifestyle inflation, family stability, and wealth as time freedom.
 - Agent-product solo analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu assess [[OpenClaw]] through adoption fit, delegated work, token economics, permissions, security, labor change, and human decision authority.
 - Creator and career experimentation - [[no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6]] has Liu compare planned business and training attempts with the unpredicted feedback, platform timing, and sustained interest behind podcasting and 半拿铁.
+- Consumer connectivity interviewing - [[no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720]] has Liu interview [[ZhaoXinZTE|赵新]] about phone-hotspot limits, portable Wi-Fi, weak-signal engineering, product segmentation, safety, and scenario-led hardware definition.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added No.219 as evidence of Liu's solo product-analysis voice on agents, workflow value, risk, and human agency.
-- Added his creator-side account of action-generated career knowledge, unpredictable podcast returns, and platform timing.
+- Added a consumer-connectivity interview branch that moves from phone-hotspot sufficiency to radio engineering, product segmentation, and scenario-led hardware definition.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -128,5 +131,8 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[OpenClaw]] - personal-agent case Liu evaluates in the No.219 solo episode.
 - [[DelegatedAgentInteraction]] - question-to-delegation shift Liu frames while retaining human accountability.
 - [[MengYangStandup|梦阳 / 孟阳]] - guest with whom Liu compares large-company habits, freelancing, stand-up, and creator careers.
+- [[ZhaoXinZTE|赵新]] - guest with whom Liu examines portable Wi-Fi and mobile-broadband product design.
+- [[PortableMobileBroadbandFit]] - dedicated-connectivity threshold Liu helps make concrete through user scenes.
+- [[ScenarioLedConnectivityHardware]] - hardware definition loop surfaced in the ZTE interview.
 - [[ROIMindsetCreativeSpillover|大厂 ROI 思维的创作外溢]] - career and creative-choice problem Liu helps frame through his own experiments.
 - [[ExperimentalLifeDesign]] - iterative path-discovery frame supported by Liu's tea, training, consulting, and podcast examples.

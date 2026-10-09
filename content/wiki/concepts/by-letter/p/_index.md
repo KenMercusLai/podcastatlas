@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10055
+wiki_total_pages: 10057
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "PortableDivinationSystems"
     title: "Portable Divination Systems / 便携占算系统"
     url: "/wiki/concepts/portabledivinationsystems/"
+  - key: "PortableMobileBroadbandFit"
+    title: "Portable Mobile-Broadband Fit / 随身移动宽带场景适配"
+    url: "/wiki/concepts/portablemobilebroadbandfit/"
   - key: "PortablePoliticalCapital"
     title: "Portable Political Capital / 可携带政治资本"
     url: "/wiki/concepts/portablepoliticalcapital/"
