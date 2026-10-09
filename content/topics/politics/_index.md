@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3232
+topic_total_pages: 3233
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9408,6 +9408,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl"
+    title: "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
   - key: "zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc"
     title: "《资治通鉴·汉纪》209｜周勃，文帝夺权的牺牲品（2）"
     url: "/wiki/sources/zizhi-tongjian-hanji-209-zhoubo-wendi-duoquan-de-xishengpin-2-llj5lvhytwo7ush06yks6qc0whqc/"

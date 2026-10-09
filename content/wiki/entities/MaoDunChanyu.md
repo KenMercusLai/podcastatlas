@@ -1,39 +1,80 @@
 ---
 title: "冒顿单于 / Modu Chanyu"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, xiongnu, western-han, frontier]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
+  - zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1
+  - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
+  - zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on
+  - zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl
+last_updated: 2026-10-09
 ---
 
-# 冒顿单于 / Modu Chanyu
+## Overview
 
-[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] moves Modu's page backward from the later [[BaidengEncirclement|白登之围]] into his rise. [[ToumanChanyu|头曼单于]] first sends him as hostage to [[Yuezhi|月氏]] and then attacks Yuezhi, making the episode treat Modu's later patricide as the outcome of an attempted succession killing rather than a random seizure.
+冒顿单于 / Modu Chanyu is synthesized as the Xiongnu ruler who converts violent succession, absolute command training, selective concession, deception, cavalry mobility, and diplomatic pressure into the dominant northern constraint on early [[WesternHanDynasty|西汉]]. His current profile runs from the overthrow of [[ToumanChanyu|头曼单于]] through steppe consolidation, [[BaidengEncirclement|白登之围]], postwar marriage diplomacy, and a later provocative exchange with [[LuZhi|吕雉]].
 
-The source foregrounds Modu's [[AbsoluteCommandObedience|绝对服从式指挥训练]]. His whistling-arrow drills escalate from a favorite horse to a favored wife and then to the world around Touman, executing anyone who hesitates. Once obedience follows the signal rather than personal feeling, Modu kills Touman during a hunt, eliminates rival family and officers, and becomes chanyu.
+## Current Profile
 
-Hanji 175 then gives Modu a strategic-concession sequence. He yields a prized horse and a wife to [[Donghu|东胡]], letting Donghu read restraint as fear, but refuses the demanded land because territory is treated as the root of the state. That mix of concessions, red line, and sudden attack lets him destroy Donghu, then move against Yuezhi and other northern groups before turning the Xiongnu into the direct frontier danger facing early [[WesternHanDynasty|西汉]].
+Modu's rise begins with attempted succession removal. Touman sends him as a hostage to [[Yuezhi|月氏]] and then attacks, after which Modu returns and creates [[AbsoluteCommandObedience|绝对服从式指挥训练]] through escalating whistling-arrow tests. The drills subordinate personal attachment to command signal; their endpoint is patricide, removal of rival family and officers, and seizure of the chanyu position.
 
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] moves Modu from steppe consolidation into direct operational design against Liu Bang. After seeing Xiongnu cavalry take losses against Han mixed formations and strong crossbows, the episode says Modu changes the fight: he avoids fixed defense, displays weak animals and exhausted troops to Han envoys, lets [[LouJing|刘敬 / 楼敬]] be the one envoy who reads the display as false, and then uses cavalry mobility to surround Liu Bang at the [[BaidengEncirclement|白登之围]].
+His consolidation combines concession with a territorial red line. He yields a prized horse and a wife to [[Donghu|东胡]], allowing restraint to be read as weakness, but treats land as the root of the state and answers the land demand with sudden war. The episode then places attacks on Donghu, Yuezhi, and other northern groups behind the Xiongnu power that confronts early Han.
 
-[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] gives the release decision more than one cause. [[YanzhiXiongnuConsort|阏氏]] presses him to accept Han terms after [[ChenPing|陈平]] turns a possible Han victory into her fear of status loss, but the episode argues that Modu is not a ruler easily moved by household sentiment alone. His missing rendezvous with Wang Huang and Zhao Li, suspicion of allied defection, incoming Han reinforcements, memory of Qin-Han military force, and limited raiding objective all make the release a case of [[EncirclementReleaseCalculus|围困开口式风险权衡]].
+At Baideng, Modu is not merely a stronger opponent. He displays weak horses and exhausted troops, exploits Han reconnaissance failure, avoids fighting on Han terms, and uses winter cavalry mobility to isolate [[LiuBang|刘邦]]. His later decision to open the encirclement is also multi-causal: [[YanzhiXiongnuConsort|阏氏]] provides a household-status channel, but missing allies, possible Han reinforcement, occupation cost, and limited war aims contribute to [[EncirclementReleaseCalculus|围困开口式风险权衡]].
 
-[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] makes Modu the intended counterpart of Liu Jing's concrete heqin design. [[LouJing|刘敬 / 楼敬]] argues that [[LiuBang|刘邦]] should send a real legitimate princess, not a substitute, because Modu's discovery of deception would be dangerous. Modu's role here is not developed through his own speech, but through the risk calculation Han advisers make about his power, temper, and ability to punish bad-faith diplomacy.
+The post-Baideng material makes Modu the coercive background to [[HanXiongnuHeqinPolicy|汉匈和亲政策]]. Han advisers fear that a false-bride arrangement could provoke him, yet Liu Bang ultimately sends another woman under a legitimate-princess identity. This preserves diplomatic form while showing that Han household resistance and military weakness shape implementation.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] records the policy compromise from the Han side: Liu Bang sends a woman named as legitimate elder princess to Modu and has Liu Jing escort her. Modu again remains mostly the external constraint rather than a speaking actor, but the episode shows his power forcing Han into a marriage-and-goods settlement even after Lu Zhi blocks the real Princess Lu Yuan plan.
+Hanji 197 adds a later mode of pressure. Modu sends Lu Zhi a ruler-to-ruler letter that the episode interprets as a marriage proposal, mockery, and strategic test. After Ji Bu invokes Baideng and Lu Zhi replies deferentially rather than mobilizing for war, Modu reportedly apologizes, exchanges gifts, and renews heqin language. The episode therefore adds provocative diplomacy and reversible escalation to his profile without settling his private intent.
 
-冒顿单于 / Modu Chanyu enters this wiki branch through [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] as the [[Xiongnu|匈奴]] ruler whose forces trap [[LiuBang|刘邦]] during the [[BaidengEncirclement|白登之围]]. The source uses him mainly as the opponent whose military advantage cannot be solved by frontal Han force.
+## Key Characteristics
 
-In the episode's reading, Modu's importance lies in the private relationship channel around him. [[ChenPing|陈平]] reportedly reaches the chanyu's favored woman with gifts and a threat of rival beauty, causing her to press for release of the encircled Han army. The source therefore makes Modu part of a political-psychology case: the visible decision belongs to the steppe ruler, but the pressure point runs through household status and influence.
+- Violent succession founder who builds obedience through escalating command tests.
+- Strategic ruler who can concede symbolic or personal goods while treating territory as a non-negotiable state interest.
+- Operational deceiver who combines controlled information, mobility, and environmental advantage.
+- Risk calculator whose Baideng release cannot be reduced to household persuasion alone.
+- Frontier hegemon whose coercive advantage pushes Han toward marriage, gifts, and accommodation.
+- Diplomatic provocateur who can test Han dignity and then step back when restraint preserves the relationship.
 
-## Connections
-- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[YanzhiXiongnuConsort|阏氏]], [[EncirclementReleaseCalculus|围困开口式风险权衡]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - Baideng release decision and post-crisis policy turn.
-- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LuYuanPrincess|鲁元公主]], and [[LuZhi|吕雉]] - proposed heqin counterpart and risk of deceiving him with a substitute bride.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - substitute-princess implementation after the blocked Lu Yuan plan.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[ToumanChanyu|头曼单于]], [[Yuezhi|月氏]], [[Donghu|东胡]], and [[AbsoluteCommandObedience|绝对服从式指挥训练]] - rise, command training, patricide, and steppe consolidation.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LouJing|刘敬 / 楼敬]], [[BattlefieldInformationControl|战场信息控制]], and [[LureEnemyOutOfPosition|诱敌离位]] - false-weakness setup and cavalry encirclement at Baideng.
-- [[Xiongnu|匈奴]] - people and frontier power he leads in this source.
-- [[BaidengEncirclement|白登之围]] - event through which he enters the wiki.
-- [[LiuBang|刘邦]] - Han ruler trapped by his forces.
-- [[ChenPing|陈平]] - Han strategist whose indirect intervention the source foregrounds.
-- [[CovertPoliticalTechnology|阴谋式政治技术]] - frame for the indirect channel used against his advantage.
+## Evidence
+
+Rise and command formation:
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] supplies the hostage trap, whistling-arrow discipline, patricide, Donghu concessions, territorial red line, and steppe expansion.
+
+Baideng deception and encirclement:
+- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] presents false weakness, rejected reconnaissance warning, cavalry mobility, and designed encirclement.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] supplies the earlier Chen Ping-centered household-channel account.
+
+Release calculus:
+- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178 part 1]] joins Yanzhi pressure with failed allied rendezvous, incoming Han support, occupation limits, and a bounded raiding objective.
+
+Heqin constraint:
+- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] makes Modu the intended recipient of Liu Jing's real-princess, goods, and envoy design and stresses the risk of discovered substitution.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]] records the substitute-princess implementation and Sima Guang's critique of relying on kinship to transform Modu.
+
+Provocation and de-escalation:
+- [[zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl|Hanji 197]] supplies the provocative letter to Lu Zhi, the Han war debate, her restrained answer, Modu's reported apology, gift exchange, and renewed heqin language.
+
+## Qualifications
+
+The current evidence consists of popular-history episode notes rather than a primary-source collation. The hostage sequence, command drills, wife and horse concessions, force size, deception design, household channel, exact heqin mechanics, and quoted letters remain source-scoped. Hanji 197 does not establish whether Modu's letter was principally a sincere proposal, a levirate-custom communication, sexual mockery, diplomatic coercion, or a combination. His apology and return to heqin show reversible escalation in this account, not benign intent or permanent peace.
+
+## What Changed
+
+- Added provocative ruler-to-ruler correspondence as a second mode of pressure beyond battlefield deception and encirclement.
+- Added Modu's reported apology and gift exchange as evidence that escalation could be reversed without resolving the underlying power asymmetry.
+- Migrated the page to synthesis-v1 while preserving the complete prior source inventory and its distinction between household influence and independent strategic calculation.
+
+## Relationships
+
+- [[Xiongnu|匈奴]] - polity and frontier power consolidated under Modu's command.
+- [[ToumanChanyu|头曼单于]] - father and predecessor removed after the hostage and command-training sequence.
+- [[Donghu|东胡]] - rival destroyed after misreading selective concessions as weakness.
+- [[LiuBang|刘邦]] - Han ruler trapped at Baideng and pushed toward accommodation.
+- [[LuZhi|吕雉]] - Han ruler addressed by Modu's provocative letter and responsible for the restrained reply.
+- [[YanzhiXiongnuConsort|阏氏]] - household actor whose status concern contributes to, but does not wholly explain, the Baideng release.
+- [[BaidengEncirclement|白登之围]] - decisive military crisis establishing Modu's leverage over early Han policy.
+- [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - accommodation repertoire shaped by his coercive advantage.

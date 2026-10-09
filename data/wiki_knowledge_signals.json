@@ -105132,9 +105132,9 @@
       "url": "/wiki/entities/hanxinyi/"
     },
     "HanXiongnuHeqinPolicy": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
@@ -105198,6 +105198,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》217｜看腹黑汉文帝，如何玩死异母弟刘长（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？ [ltangQdOIH0pi6X94kE3Qoz205Wl].md",
+          "key": "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
         }
       ],
       "updated": "2026-10-09",
@@ -128628,9 +128635,9 @@
       "url": "/wiki/entities/jianwesternhan/"
     },
     "JiBu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2） [lpQTexVXjrBRPjGbw5HrGmHl9ApK].md",
@@ -128659,6 +128666,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》215｜千古之冤，文帝贬谪贾谊竟是为了他好？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-215-qiangu-zhiyuan-wendi-bianzhe-jiayi-jing-shi-weile-ta-hao-1-lpq3wokrephgsjylhpgnj4h_va86/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？ [ltangQdOIH0pi6X94kE3Qoz205Wl].md",
+          "key": "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
         }
       ],
       "updated": "2026-10-09",
@@ -152837,9 +152851,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 2,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -153015,6 +153029,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？ [ltangQdOIH0pi6X94kE3Qoz205Wl].md",
+          "key": "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
         }
       ],
       "updated": "2026-10-09",
@@ -157396,6 +157417,64 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/maochunjie/"
+    },
+    "MaoDunChanyu": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
+          "key": "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？ [ltangQdOIH0pi6X94kE3Qoz205Wl].md",
+          "key": "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/maodunchanyu/"
     },
     "MaoJie": {
       "episode_count": 2,
@@ -228857,9 +228936,9 @@
       "url": "/wiki/concepts/strategicexclusionandfocus/"
     },
     "StrategicForbearanceGovernance": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -228895,9 +228974,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？ [ltangQdOIH0pi6X94kE3Qoz205Wl].md",
+          "key": "zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/strategicforbearancegovernance/"
     },
     "StrategicFrontierAbandonment": {

@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt
   - zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g
   - zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye
+  - zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl
 last_updated: 2026-10-09
 ---
 
@@ -25,6 +26,8 @@ Han-Xiongnu heqin policy / 汉匈和亲政策 is the use or attempted restoratio
 The Western Han layer begins with [[LouJing|刘敬 / 楼敬]] after [[LiuBang|刘邦]] sees that immediate war cannot easily solve the [[Xiongnu|匈奴]] problem. Liu Jing proposes marriage rather than renewed direct confrontation, imagining that a legitimate imperial daughter married into [[MaoDunChanyu|冒顿单于]]'s line could produce future kinship leverage if a grandson became chanyu. That plan is strategic rather than romantic: kinship is meant to reduce raids, buy time, and manage frontier asymmetry after a failed campaign.
 
 The implementation evidence also shows the policy's costs and compromises. [[LuZhi|吕雉]] blocks using [[LuYuanPrincess|鲁元公主]], and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says Liu Bang instead sends another woman under a legitimate-princess identity. That preserves the policy form while compromising the bride-authenticity principle that Liu Jing had emphasized.
+
+Hanji 197 shows the early settlement surviving a direct dignity crisis after Liu Bang's death. [[MaoDunChanyu|冒顿单于]] sends Lu Zhi a provocative letter that the host reads as proposal, mockery, and test; [[FanKuai|樊哙]] urges war, but [[JiBu|季布]] invokes Baideng and the continuing capacity gap. Lu Zhi replies deferentially, exchanges gifts, and reaffirms heqin, while Modu reportedly apologizes and renews friendly language. Heqin here functions as an escalation-control framework: it does not prevent insult, but it gives both sides a route back from insult without immediate war.
 
 The Wen-era renewal shows that neither side abandons strategic signaling when diplomatic form resumes. A Xiongnu letter proposes forgetting old grievances while advertising western victories; [[LiuHeng|汉文帝刘恒]] accepts renewed peace but contests responsibility for prior treaty breaches. After a new chanyu succeeds, Han sends an unnamed wengzhu as yanzhi. The mission also exposes an implementation hazard: the coerced escort inferred to be [[ZhonghangYue|中行说]] defects and turns knowledge of Han goods, administration, and diplomatic convention into Xiongnu capacity. Heqin can therefore move people, knowledge, and unintended risk as well as brides and gifts. [[zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye|Hanji 217]]
 
@@ -39,10 +42,10 @@ The Xin variant adds damaged-trust heqin. In [[zizhi-tongjian-hanji-647-shisanch
 ## Key Claims
 
 - Heqin appears as a policy response to military constraint after Baideng, not as a first-choice alliance gesture.
-- Marriage diplomacy can be imagined as multi-generational leverage, but a Wen-era renewal shows that letters, gifts, brides, escorts, and deterrent claims remain part of one negotiated package.
-- Implementation can preserve the policy form while compromising the bride-authenticity principle that justified the original design.
+- Marriage diplomacy can be imagined as multi-generational leverage, but its negotiated package of letters, gifts, brides, escorts, and deterrent claims can preserve policy form while compromising the bride-authenticity principle.
 - Wang Zhaojun's episode shows heqin under a more favorable power balance, where state diplomacy also creates an individual exit from palace constraint.
 - The policy is bounded: it may buy time or reopen contact, but it does not by itself end Xiongnu raiding.
+- The diplomatic form can also absorb provocation: letters, gifts, and renewed kinship language provide an off-ramp when dignity pressure might otherwise trigger war.
 - After Mobei, Xiongnu's request shows that the initiative can reverse, while Ren Chang's detention shows that military advantage does not automatically produce accepted submission.
 - The repertoire recurs across later regimes, but a defecting escort, continuing raids, and a concealed hostage killing show that restored contact can remain fragile and create unintended transfers.
 
@@ -53,6 +56,7 @@ The Xin variant adds damaged-trust heqin. In [[zizhi-tongjian-hanji-647-shisanch
 - Household and authenticity crisis: [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] says Liu Jing insists on a real legitimate princess and that Lu Zhi blocks using Lu Yuan Princess.
 - Compromise implementation: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says Liu Bang sends another woman as a legitimate elder princess and has Liu Jing escort the mission.
 - Bounded effectiveness: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says early Han-Xiongnu heqin does not end Xiongnu incursions and later gives way to open war by [[HanWudi|汉武帝]]'s reign.
+- Post-Liu-Bang escalation control: [[zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl|Hanji 197]] says Lu Zhi answers Modu's provocative letter with a deferential refusal, gifts, and renewed heqin language after Ji Bu uses Baideng to oppose war.
 - Wen-era negotiated renewal: [[zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye|Hanji 217]] joins reciprocal blame management, gifts, a new-chanyu succession, and an unnamed wengzhu marriage mission.
 - Escort-defection risk: [[zizhi-tongjian-hanji-217-kan-fuhei-hanwendi-ruhe-wansi-yimudi-liuchang-2-ljmhwnxkjcegqfevo8hmvoblrcye|Hanji 217]] says the coerced escort inferred to be Zhonghang Yue defects and transfers Han knowledge to Xiongnu.
 - Favorable-moment marriage: [[zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt|Hanji 492]] says Huhanye asks to become a Han son-in-law when Han is strong and Han-Xiongnu relations are in a relatively favorable moment.
@@ -64,18 +68,19 @@ The Xin variant adds damaged-trust heqin. In [[zizhi-tongjian-hanji-647-shisanch
 
 ## Counterevidence & Qualifications
 
-Hanji 217 does not name its chanyu or bride and identifies Zhonghang Yue only by contextual correction of a transcript form; its letters, western-polity list, mission roles, and knowledge-transfer details remain source-scoped. The episode supports renewed diplomatic form, not proof of durable peace, and the escort's defection is an implementation risk rather than evidence that heqin missions generally cause betrayal. Hanji 329 supplies a policy dispute and failed submission mission, not a completed renewed marriage settlement; its claim that earlier substitute brides were actually discovered goes beyond Hanji 179/180's established warning and implementation and remains unresolved. Di Shan's death also cannot prove that his heqin argument was strategically wrong. Hanji 492 centers Wang Zhaojun's agency and the host's modern interpretation, so it should not settle full state policy mechanics or Huhanye's broader motive alone. Hanji 647 shows a request, mission, gifts, and deception under damaged trust rather than a successful marriage settlement. Hanji 704 describes attempted restoration while raids continue, not a fully documented Eastern Han marriage alliance. Hanji 179's cross-dynastic comparisons remain host framing. The policy differs from [[WarringStatesMarriageDiplomacy|战国联姻外交]] by operating inside an agrarian-steppe frontier asymmetry after failed coercion, and from [[IntimateFrontierPacification|亲密关系式边患安抚]] because the evidence here concerns state diplomacy rather than private relationship pacification.
+Hanji 197 does not settle whether Modu's letter was principally proposal, mockery, coercion, a steppe-custom communication, or several things at once; nor does one de-escalated exchange prove that heqin guaranteed peace. Hanji 217 does not name its chanyu or bride and identifies Zhonghang Yue only by contextual correction of a transcript form; its letters, western-polity list, mission roles, and knowledge-transfer details remain source-scoped. The episode supports renewed diplomatic form, not proof of durable peace, and the escort's defection is an implementation risk rather than evidence that heqin missions generally cause betrayal. Hanji 329 supplies a policy dispute and failed submission mission, not a completed renewed marriage settlement; its claim that earlier substitute brides were actually discovered goes beyond Hanji 179/180's established warning and implementation and remains unresolved. Di Shan's death also cannot prove that his heqin argument was strategically wrong. Hanji 492 centers Wang Zhaojun's agency and the host's modern interpretation, so it should not settle full state policy mechanics or Huhanye's broader motive alone. Hanji 647 shows a request, mission, gifts, and deception under damaged trust rather than a successful marriage settlement. Hanji 704 describes attempted restoration while raids continue, not a fully documented Eastern Han marriage alliance. Hanji 179's cross-dynastic comparisons remain host framing. The policy differs from [[WarringStatesMarriageDiplomacy|战国联姻外交]] by operating inside an agrarian-steppe frontier asymmetry after failed coercion, and from [[IntimateFrontierPacification|亲密关系式边患安抚]] because the evidence here concerns state diplomacy rather than private relationship pacification.
 
 ## What Changed
 
-- Added a Wen-era renewal in which reciprocal letters, strategic signaling, succession, gifts, and a wengzhu mission form one diplomatic sequence.
-- Added escort defection and insider-knowledge transfer as an implementation risk of diplomatic missions.
-- Preserved the judgment that heqin is a reusable but bounded repertoire rather than a guarantee of peace or trust.
+- Added Lu Zhi's response to Modu as an early case where heqin supplies a diplomatic off-ramp from provocation.
+- Clarified that absorbing a dignity cost can preserve recovery without proving trust, equality, or permanent peace.
 
 ## Related Concepts
 
 - [[Xiongnu|匈奴]] - frontier counterpart whose pressure makes heqin relevant across Western and Eastern Han evidence.
 - [[LiuBang|刘邦]] - founding emperor whose post-Baideng constraint produces the initial heqin turn.
+- [[LuZhi|吕雉]] - regent who preserves the settlement when Modu's letter creates personal and interstate dignity pressure.
+- [[JiBu|季布]] - adviser who uses Baideng to align the policy choice with actual military capacity.
 - [[LiuXiu|刘秀]] - Eastern Han emperor who attempts to revive old heqin relations while northern raiding continues.
 - [[AppeasementLogic|绥靖逻辑]] - adjacent concession frame because heqin buys time through accommodation under constraint.
 - [[IntimateFrontierPacification|亲密关系式边患安抚]] - contrast because heqin here is state diplomacy rather than personal relationship pacification.
