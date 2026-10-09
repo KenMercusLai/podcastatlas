@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [刘震云×罗永浩！有些玩笑含着泪也要开完](sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_.md) — 刘震云以《闲得玩笑》、县城人物、童年与写作经历连接日常哲学、含泪幽默、被掩埋的小痛苦、创作更新和读者时间伦理。
 - [6 喝得越少越文明？东西方的酒 & 酒文化](sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd.md) — 怪东西比较酿酒史、会饮、乡饮酒礼、宗教用酒、山东酒桌与俄罗斯酒政，区分自愿社交和文化意义与健康风险、等级强制及服从测试。
 - [Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs](sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935.md) — All-In debate on Iranian transition risk, data-center energy cost allocation, OpenAI-Cerebras capacity, California asset taxation, and Greenland strategy.
 - [636. Revolution in Iran: Fall of the Shah (Part 1)](sources/636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634.md) — The Rest Is History episode on the Shah's oil-funded modernization and repression, Carter's strategic misread, Khomeini's clerical networks, and the mourning cycle that accelerated revolution.
@@ -4274,6 +4275,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki](sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312.md) — Condensed Huberman Lab conversation on memory-encoding levers, hippocampal association, exercise-linked mood and cognition, body-to-brain signaling, brief meditation, sleep, and evidence boundaries.
 
 ## Entities
+- [刘震云 / Liu Zhenyun](entities/LiuZhenyun.md) — 小说家，以日常哲学、普通人的隐痛、含泪幽默、创作不自我重复与读者时间责任解释其写作方法。
+- [《闲得玩笑》 / Xian De Wanxiao](entities/XianDeWanXiao.md) — 刘震云小说，以县城群像、知识与生活错位、家庭权力、含泪玩笑和“活扣”意象展开普通人的精神异彩。
+- [杜太白 / Du Taibai](entities/DuTaibai.md) — 《闲得玩笑》主人公，其文化知识、教师身份、家庭处境和生存追问持续受到日常生活的考验。
 - [Dorian Yates](entities/DorianYates.md) — Six-time Mr. Olympia connecting logged high-intensity training, competitive risk, identity transition, and mentorship.
 - [段延庆 / Duan Yanqing](entities/DuanYanqing.md) — Dispossessed 《天龙八部》 prince whose identity-driven restoration combines serious harm, selected rules, and release through recovered paternity.
 - [叶二娘 / Ye Erniang](entities/YeErniang.md) — Bereaved 《天龙八部》 mother whose relational sacrifice and suffering coexist with grave harm to other families.
@@ -17224,6 +17228,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 ## Concepts
+- [Literature as Everyday Philosophy / 文学作为日常哲学](concepts/LiteratureAsEverydayPhilosophy.md) — 文学通过普通人的言语、关系、羞耻与难言问题揭示日常生活中已经存在的理由和价值冲突。
+- [Ordinary Pain as Literary Evidence / 日常微痛作为文学证据](concepts/OrdinaryPainAsLiteraryEvidence.md) — 将误解、未道歉、嘲笑和家庭小型压迫等易被忽略的伤害视为尊严、权力与世界理解方式的证据。
+- [Reader-Time Ethics / 读者时间伦理](concepts/ReaderTimeEthics.md) — 把读者有限注意力视为作者必须以意义、可读性和持久回报来正当化的资源。
+- [Creative Renewal Through Defect / 从缺陷中更新创作](concepts/CreativeRenewalThroughDefect.md) — 由旧作中被识别的局限打开新的问题、形式或方向，并区分刚出版与真正创作上的新。
 - [Alcohol Ritual and Social Order / 饮酒仪式与社会秩序](concepts/AlcoholRitualSocialOrder.md) — Comparative framework for how serving, seating, speech, sacrifice, and restraint turn drinking into coordinated social meaning while remaining historically and institutionally distinct.
 - [Coercive Drinking Hierarchy / 强制饮酒与等级秩序](concepts/CoerciveDrinkingHierarchy.md) — Banquet mechanism in which toast order, speech demands, and unequal refusal costs convert hospitality into rank display and obedience testing.
 - [High-Intensity Resistance Training](concepts/HighIntensityResistanceTraining.md) — Low-volume resistance-training model coupling technical failure, measurable overload, and sufficient recovery.

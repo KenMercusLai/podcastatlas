@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12892
+wiki_total_pages: 12895
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "XunXieshu"
     title: "《讯蟹书》"
     url: "/wiki/entities/xunxieshu/"
+  - key: "XianDeWanXiao"
+    title: "《闲得玩笑》 / Xian De Wanxiao"
+    url: "/wiki/entities/xiandewanxiao/"
   - key: "XieBangBook"
     title: "《鞋邦：中国运动品牌四十年》"
     url: "/wiki/entities/xiebangbook/"

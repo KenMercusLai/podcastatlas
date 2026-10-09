@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10075
+wiki_total_pages: 10079
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "ReactiveOxygenSpeciesMetabolicStress"
     title: "Reactive Oxygen Species Metabolic Stress"
     url: "/wiki/concepts/reactiveoxygenspeciesmetabolicstress/"
+  - key: "ReaderTimeEthics"
+    title: "Reader-Time Ethics / 读者时间伦理"
+    url: "/wiki/concepts/readertimeethics/"
   - key: "ReadingAsCognitiveRestoration"
     title: "Reading As Cognitive Restoration"
     url: "/wiki/concepts/readingascognitiverestoration/"

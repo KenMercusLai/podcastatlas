@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10075
+wiki_total_pages: 10079
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "LiterarySubcultureSymbolization"
     title: "Literary Subculture Symbolization"
     url: "/wiki/concepts/literarysubculturesymbolization/"
+  - key: "LiteratureAsEverydayPhilosophy"
+    title: "Literature as Everyday Philosophy / 文学作为日常哲学"
+    url: "/wiki/concepts/literatureaseverydayphilosophy/"
   - key: "LiteratureAsSocialHistory"
     title: "Literature as Social History"
     url: "/wiki/concepts/literatureassocialhistory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10075
+wiki_total_pages: 10079
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2591,6 +2591,9 @@ wiki_pages:
   - key: "CreativeReinventionThroughNewTools"
     title: "Creative Reinvention Through New Tools"
     url: "/wiki/concepts/creativereinventionthroughnewtools/"
+  - key: "CreativeRenewalThroughDefect"
+    title: "Creative Renewal Through Defect / 从缺陷中更新创作"
+    url: "/wiki/concepts/creativerenewalthroughdefect/"
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"

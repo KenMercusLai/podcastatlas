@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3271
+topic_total_pages: 3274
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1873,6 +1873,9 @@ topic_concepts:
   - key: "LiterarySubcultureSymbolization"
     title: "Literary Subculture Symbolization"
     url: "/wiki/concepts/literarysubculturesymbolization/"
+  - key: "LiteratureAsEverydayPhilosophy"
+    title: "Literature as Everyday Philosophy / 文学作为日常哲学"
+    url: "/wiki/concepts/literatureaseverydayphilosophy/"
   - key: "LiteratureAsSocialHistory"
     title: "Literature as Social History"
     url: "/wiki/concepts/literatureassocialhistory/"
@@ -2257,6 +2260,9 @@ topic_concepts:
   - key: "OrdinaryLifePoetics"
     title: "Ordinary Life Poetics / 日常生活诗意"
     url: "/wiki/concepts/ordinarylifepoetics/"
+  - key: "OrdinaryPainAsLiteraryEvidence"
+    title: "Ordinary Pain as Literary Evidence / 日常微痛作为文学证据"
+    url: "/wiki/concepts/ordinarypainasliteraryevidence/"
   - key: "OriginalCharacterCommissionEconomy"
     title: "Original Character Commission Economy / 设圈约稿经济"
     url: "/wiki/concepts/originalcharactercommissioneconomy/"
@@ -9744,6 +9750,9 @@ topic_sources:
   - key: "bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf"
     title: "八月广播电视报：怎么所有人的青铜时代都在崩溃"
     url: "/wiki/sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf/"
+  - key: "lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_"
+    title: "刘震云×罗永浩！有些玩笑含着泪也要开完"
+    url: "/wiki/sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_/"
   - key: "kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684"
     title: "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？"
     url: "/wiki/sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684/"

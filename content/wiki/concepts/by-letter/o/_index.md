@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10075
+wiki_total_pages: 10079
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "OrdinaryLifePoetics"
     title: "Ordinary Life Poetics / 日常生活诗意"
     url: "/wiki/concepts/ordinarylifepoetics/"
+  - key: "OrdinaryPainAsLiteraryEvidence"
+    title: "Ordinary Pain as Literary Evidence / 日常微痛作为文学证据"
+    url: "/wiki/concepts/ordinarypainasliteraryevidence/"
   - key: "OrdinaryPeopleResistance"
     title: "Ordinary People Resistance"
     url: "/wiki/concepts/ordinarypeopleresistance/"

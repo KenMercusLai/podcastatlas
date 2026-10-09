@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12892
+wiki_total_pages: 12895
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "DuTaihou"
     title: "杜太后 / Empress Dowager Du"
     url: "/wiki/entities/dutaihou/"
+  - key: "DuTaibai"
+    title: "杜太白 / Du Taibai"
+    url: "/wiki/entities/dutaibai/"
   - key: "DuJiliangEasternHan"
     title: "杜季良 / Du Jiliang (Eastern Han)"
     url: "/wiki/entities/dujiliangeasternhan/"
