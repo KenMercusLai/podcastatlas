@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12842
+wiki_total_pages: 12844
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "LuFangEasternHan"
     title: "卢芳 / Lu Fang (Eastern Han)"
     url: "/wiki/entities/lufangeasternhan/"
+  - key: "LuXiaoEmergencyPhysician"
+    title: "卢骁 / Lu Xiao (Emergency Physician)"
+    url: "/wiki/entities/luxiaoemergencyphysician/"
   - key: "LulongRoadLateHan"
     title: "卢龙道 / Lulong Road (Late Han)"
     url: "/wiki/entities/lulongroadlatehan/"

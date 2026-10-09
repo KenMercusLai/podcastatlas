@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？](sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt.md) — 卢骁与严锋以急诊、神经外科和家属沟通案例说明初步判断为何会随病史、检查与专科协作修正，并限定 AI 与网络问诊的输入和临床边界。
 - [咖啡豆｜「希尔顿们」入驻县域市场，国际中端连锁酒店为何加速扩张？](sources/kafeidou-xierdunmen-ruzhu-xianyu-shichang-guoji-zhongduan-liansuo-jiudian-weihe-jiasu-kuozhang-1022026144.md) — 声动早咖啡 episode on select-service hotels, franchise-led county expansion, reverse tourism, aging-property conversion, seasonality, and domestic-chain competition.
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd.md) — 陈平让周勃居相位之首以承认诛吕之功并降低自身暴露，袁盎促文帝重立君臣礼数，文帝同时废除亲属连坐并确立刘启的太子次序。
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（2）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-2-lnz79ec6cz5s1n90tifnnxmfvi2i.md) — 标题虽指向陈平，正文实际讲窦皇后姐弟相认、师友式外戚预防及文帝初政的赈恤与贡物节制；代王后四子疑云保留为节目推测。
@@ -4218,6 +4219,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [卢骁 / Lu Xiao (Emergency Physician)](entities/LuXiaoEmergencyPhysician.md) — VOL.195 急诊医生，讨论危重识别、分诊、专科交接、家属沟通与职业压力。
+- [严锋 / Yan Feng (Neurosurgeon)](entities/YanFengNeurosurgeon.md) — 浙大二院神经外科医生，讨论因果诊断、神经评估、手术风险与长期临床训练。
 - [Hilton Garden Inn / 希尔顿花园](entities/HiltonGardenInn.md) — Hilton upper-midscale select-service brand used to expand through franchising and existing-property conversion in China.
 - [慎夫人 / Shen Furen (Western Han)](entities/ShenFurenWesternHan.md) — 文帝宠妃；当前来源以避让皇后座次、接受袁盎劝谏和克制物质展示解释其宫廷自保。
 - [吴公 / Wu Gong (Henan commandery governor)](entities/WuGongHenanWesternHan.md) — 河南郡守与廷尉，节目称其赏识并举荐青年贾谊，为地方才名进入文帝朝廷提供关键通道。
@@ -17116,6 +17119,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Emergency Diagnostic Revision / 急诊诊断修正](concepts/EmergencyDiagnosticRevision.md) — 急诊初步风险判断随时间线、旁证、连续观察、影像与专科知识而安全修正的协作框架。
 - [Select-Service Hotel Model / 精选服务酒店模式](concepts/SelectServiceHotelModel.md) — Hotel format that retains high-frequency guest functions while reducing full-service facility and staffing burdens.
 - [County Hotel Chain Expansion / 县域连锁酒店扩张](concepts/CountyHotelChainExpansion.md) — Lower-tier hotel growth driven by redirected tourism demand, renovation-ready stock, and franchise systems, constrained by seasonality and competition.
 - [主动让位式风险转移 / Strategic Position Yielding](concepts/StrategicPositionYielding.md) — 通过让出正式位次承认他人功劳，同时保留参与能力并降低自身在权力过渡中的可见风险。

@@ -28167,6 +28167,10 @@
     "title": "Emergency-Department Risk Exclusion / 急诊危重风险排除",
     "url": "/wiki/concepts/emergencydepartmentriskexclusion/"
   },
+  "EmergencyDiagnosticRevision": {
+    "title": "Emergency Diagnostic Revision / 急诊诊断修正",
+    "url": "/wiki/concepts/emergencydiagnosticrevision/"
+  },
   "EmergencyFrontierDiscretion": {
     "title": "临机边疆裁量 / Emergency Frontier Discretion",
     "url": "/wiki/concepts/emergencyfrontierdiscretion/"
@@ -52826,6 +52830,10 @@
   "LuWineHandanWarCascade": {
     "title": "Lu Wine Handan War Cascade / 鲁酒薄而邯郸围",
     "url": "/wiki/concepts/luwinehandanwarcascade/"
+  },
+  "LuXiaoEmergencyPhysician": {
+    "title": "卢骁 / Lu Xiao (Emergency Physician)",
+    "url": "/wiki/entities/luxiaoemergencyphysician/"
   },
   "LuXuEasternHan": {
     "title": "陆续 / Lu Xu (Eastern Han)",
@@ -91355,6 +91363,10 @@
     "title": "颜飞 / Yan Fei (sociologist)",
     "url": "/wiki/entities/yanfeisociologist/"
   },
+  "YanFengNeurosurgeon": {
+    "title": "严锋 / Yan Feng (Neurosurgeon)",
+    "url": "/wiki/entities/yanfengneurosurgeon/"
+  },
   "YanFu": {
     "title": "Yan Fu / 严复",
     "url": "/wiki/entities/yanfu/"
@@ -101606,6 +101618,10 @@
   "vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq": {
     "title": "VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的",
     "url": "/wiki/sources/vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq/"
+  },
+  "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt": {
+    "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+    "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
   },
   "vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4": {
     "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",

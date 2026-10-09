@@ -71162,9 +71162,9 @@
       "url": "/wiki/concepts/emergencycashassistance/"
     },
     "EmergencyDepartmentAcuityTriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljGg_zhhUq3tEyoQjk6UnvUZba1N [ljGg_zhhUq3tEyoQjk6UnvUZba1N].md",
@@ -71186,9 +71186,16 @@
           "show": "这病说来话长",
           "title": "VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地",
           "url": "/wiki/sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6/"
+        },
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/emergencydepartmentacuitytriage/"
     },
     "EmergencyDepartmentRiskExclusion": {
@@ -71206,6 +71213,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/emergencydepartmentriskexclusion/"
+    },
+    "EmergencyDiagnosticRevision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/emergencydiagnosticrevision/"
     },
     "EmergencyFrontierDiscretion": {
       "episode_count": 2,
@@ -151905,6 +151928,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/luwenshuwesternhan/"
     },
+    "LuXiaoEmergencyPhysician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/luxiaoemergencyphysician/"
+    },
     "LuXuEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -183489,9 +183528,9 @@
       "url": "/wiki/concepts/paternallocalofficeethic/"
     },
     "PatientAIUse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20251222_1222_MP_TECH_pod_128 [tech_20251222_1222_MP_TECH_pod_128].md",
@@ -183506,9 +183545,16 @@
           "show": "这病说来话长",
           "title": "VOL.196年后开工：我在大城市“搞钱”，谁来做爸妈的“健康陪护”？",
           "url": "/wiki/sources/vol-196-nianhou-kaigong-wo-zai-dachengshi-gaoqian-shui-lai-zuo-bamade-jiankang-peihu-lqwfbvcy2xj2ydeenegmhaarn4/"
+        },
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/patientaiuse/"
     },
     "PatientLedRareDiseaseInfrastructure": {
@@ -262759,6 +262805,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/yandulatehan/"
     },
+    "YanFengNeurosurgeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/yanfengneurosurgeon/"
+    },
     "YanFu": {
       "episode_count": 2,
       "show_count": 1,
@@ -271254,9 +271316,9 @@
       "url": "/wiki/entities/zhejianguniversitychildrenshospital/"
     },
     "ZhejiangUniversitySecondAffiliatedHospital": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -271271,9 +271333,16 @@
           "show": "这病说来话长",
           "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
           "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        },
+        {
+          "episode_file": "lh16fymze55sms4U3EP9SrwOG_VT [lh16fymze55sms4U3EP9SrwOG_VT].md",
+          "key": "vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt",
+          "show": "这病说来话长",
+          "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
+          "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
     },
     "ZhenFengXinOfficial": {

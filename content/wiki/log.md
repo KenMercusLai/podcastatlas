@@ -33140,3 +33140,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？
+
+Added source `vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt`; created [[LuXiaoEmergencyPhysician|卢骁]], [[YanFengNeurosurgeon|严锋]], and [[EmergencyDiagnosticRevision|急诊诊断修正]]; and resynthesized [[EmergencyDepartmentAcuityTriage|急诊病情分级]], [[PatientAIUse]], and [[ZhejiangUniversitySecondAffiliatedHospital|浙江大学医学院附属第二医院]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: emergency impressions are revisable risk-management hypotheses made under time pressure and incomplete information; chronology, collateral history, physiology, imaging, and specialty expertise can safely redirect diagnosis and treatment, while severity-based queues and AI's sparse-input limits require explicit public explanation. No settled contradiction was adopted. The title forms 卢骁 and 严锋 were canonicalized over the body summary's 卢萧 and 严峰 variants; patient cases, clinical timelines, training estimates, documentary context, and treatment claims remain source-scoped. Broad show and communication pages were kept closed because the bounded additions are represented in the focused source, people, institution, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,148 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

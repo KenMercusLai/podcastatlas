@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10027
+wiki_total_pages: 10028
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "EmergencyCashAssistance"
     title: "Emergency Cash Assistance / 紧急现金援助"
     url: "/wiki/concepts/emergencycashassistance/"
+  - key: "EmergencyDiagnosticRevision"
+    title: "Emergency Diagnostic Revision / 急诊诊断修正"
+    url: "/wiki/concepts/emergencydiagnosticrevision/"
   - key: "EmergencyInstitutionsToTerror"
     title: "Emergency Institutions to Terror"
     url: "/wiki/concepts/emergencyinstitutionstoterror/"

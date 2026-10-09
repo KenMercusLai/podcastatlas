@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12842
+wiki_total_pages: 12844
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "YanLiangFangxuehou"
     title: "严良（《放学后的小巷》）"
     url: "/wiki/entities/yanliangfangxuehou/"
+  - key: "YanFengNeurosurgeon"
+    title: "严锋 / Yan Feng (Neurosurgeon)"
+    url: "/wiki/entities/yanfengneurosurgeon/"
   - key: "YanFei"
     title: "严飞 / Yan Fei"
     url: "/wiki/entities/yanfei/"
