@@ -138741,6 +138741,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/layosbornflotilla/"
     },
+    "LayeredAccessionRiskVerification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2） [luIJ-WoQemjhmoPKGrgnL9BclFwD].md",
+          "key": "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/layeredaccessionriskverification/"
+    },
     "LayeredInstitutionalRealism": {
       "episode_count": 1,
       "show_count": 1,
@@ -145801,6 +145817,29 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/liuhongqikingwesternhan/"
+    },
+    "LiuHongYoungEmperorWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1） [lsrS42rb8-QreF1eEvQdnhe3muFV].md",
+          "key": "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2） [luIJ-WoQemjhmoPKGrgnL9BclFwD].md",
+          "key": "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuhongyoungemperorwesternhan/"
     },
     "LiuHongweiStandup": {
       "episode_count": 1,
@@ -223234,6 +223273,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/somertonmancase/"
     },
+    "SongChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2） [luIJ-WoQemjhmoPKGrgnL9BclFwD].md",
+          "key": "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/songchangwesternhan/"
+    },
     "SongChongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -269640,6 +269695,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/zhangweiweimusician/"
+    },
+    "ZhangWuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2） [luIJ-WoQemjhmoPKGrgnL9BclFwD].md",
+          "key": "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhangwuwesternhan/"
     },
     "ZhangWuchang": {
       "episode_count": 2,

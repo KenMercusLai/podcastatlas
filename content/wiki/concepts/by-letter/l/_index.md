@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10030
+wiki_total_pages: 10031
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "LayeredLocalEliteDemobilization"
     title: "分层式地方武力拆解 / Layered Local Elite Demobilization"
     url: "/wiki/concepts/layeredlocalelitedemobilization/"
+  - key: "LayeredAccessionRiskVerification"
+    title: "分层验证式继位接管 / Layered Accession Risk Verification"
+    url: "/wiki/concepts/layeredaccessionriskverification/"
   - key: "LegitimacyNarrativeAttack"
     title: "名分合法性叙事攻击 / Legitimacy Narrative Attack"
     url: "/wiki/concepts/legitimacynarrativeattack/"

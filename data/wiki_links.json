@@ -49003,6 +49003,10 @@
     "title": "阿思本舰队事件 / Lay-Osborn Flotilla",
     "url": "/wiki/entities/layosbornflotilla/"
   },
+  "LayeredAccessionRiskVerification": {
+    "title": "分层验证式继位接管 / Layered Accession Risk Verification",
+    "url": "/wiki/concepts/layeredaccessionriskverification/"
+  },
   "LayeredDepthDefense": {
     "title": "Layered Depth Defense / 纵深分层防御",
     "url": "/wiki/concepts/layereddepthdefense/"
@@ -51158,6 +51162,10 @@
   "LiuHongQiKingWesternHan": {
     "title": "齐王刘弘 / Liu Hong, Qi King (Western Han)",
     "url": "/wiki/entities/liuhongqikingwesternhan/"
+  },
+  "LiuHongYoungEmperorWesternHan": {
+    "title": "少帝刘弘 / Liu Hong, Young Emperor (Western Han)",
+    "url": "/wiki/entities/liuhongyoungemperorwesternhan/"
   },
   "LiuHongweiStandup": {
     "title": "刘宏伟 / Liu Hongwei",
@@ -77171,6 +77179,10 @@
     "title": "Sondre Solstad",
     "url": "/wiki/entities/sondresolstad/"
   },
+  "SongChangWesternHan": {
+    "title": "宋昌 / Song Chang (Western Han)",
+    "url": "/wiki/entities/songchangwesternhan/"
+  },
   "SongChongLateHan": {
     "title": "宋冲 / Song Chong (late Han)",
     "url": "/wiki/entities/songchonglatehan/"
@@ -93803,6 +93815,10 @@
     "title": "《张文宏说传染》",
     "url": "/wiki/entities/zhangwenhongshuochuanran/"
   },
+  "ZhangWuWesternHan": {
+    "title": "张武 / Zhang Wu (Western Han)",
+    "url": "/wiki/entities/zhangwuwesternhan/"
+  },
   "ZhangWuchang": {
     "title": "张五常 / Zhang Wuchang",
     "url": "/wiki/entities/zhangwuchang/"
@@ -103386,6 +103402,10 @@
   "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv": {
     "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv/"
+  },
+  "zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd": {
+    "title": "《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd/"
   },
   "zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd": {
     "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12854
+wiki_total_pages: 12857
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1754,6 +1754,9 @@ wiki_pages:
   - key: "LiuLiShouguangMarquisEasternHan"
     title: "寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)"
     url: "/wiki/entities/liulishouguangmarquiseasternhan/"
+  - key: "LiuHongYoungEmperorWesternHan"
+    title: "少帝刘弘 / Liu Hong, Young Emperor (Western Han)"
+    url: "/wiki/entities/liuhongyoungemperorwesternhan/"
   - key: "LadyYinCaoCao"
     title: "尹夫人 / Lady Yin (Cao Cao)"
     url: "/wiki/entities/ladyyincaocao/"

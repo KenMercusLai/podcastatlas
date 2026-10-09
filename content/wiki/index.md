@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0.md) — 郦寄劝吕禄交出北军，周勃借符节入营并以袒臂验明军心；刘章随后在未央宫斩杀吕产，使军权争夺转入对吕氏集团的清算。
 - [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv.md) — 诛吕胜利从解除军权扩展为吕氏家族与惠帝诸子的清洗；齐军被令罢兵后，群臣又以外戚风险、名分和声望权衡，舍刘襄而迎立刘恒。
+- [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（2）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-2-luij-woqemjhmopkgrgnl9bclfwd.md) — 刘恒以多重探路、公开礼仪、清宫与亲信掌军把高风险迎立转化为实际接管；少帝刘弘等人的清除则延续继位合法性清洗。
 - [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1.md) — 吕后死后吕禄、吕产控制南北军，刘章联络刘襄形成内外合击；刘襄先压倒赵平、重组齐国军政再举兵，史料疑点则留待后续。
 - [No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁](sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk.md) — 三五环年度群像复盘以掌控边界、过程导向、身体健康、AI陪伴、在场观察与持续积累连接多位创作者和从业者的2025年。
 - [VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？](sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt.md) — 卢骁与严锋以急诊、神经外科和家属沟通案例说明初步判断为何会随病史、检查与专科协作修正，并限定 AI 与网络问诊的输入和临床边界。
@@ -4223,6 +4224,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [宋昌 / Song Chang (Western Han)](entities/SongChangWesternHan.md) — 判断迎立可信、替刘恒探路并阻止私下议事，登基后接掌南北军的代国谋臣。
+- [张武 / Zhang Wu (Western Han)](entities/ZhangWuWesternHan.md) — 起初把长安迎立视为陷阱并主张观望，随后随行且获任宫门内卫的谨慎派代臣。
+- [少帝刘弘 / Liu Hong, Young Emperor (Western Han)](entities/LiuHongYoungEmperorWesternHan.md) — 在反吕胜方否定其血统后被逐出宫廷并杀害的年轻在位者；与武帝之子齐王刘弘区别。
 - [贾寿 / Jia Shou (Western Han)](entities/JiaShouWesternHan.md) — 自齐国归来后向吕产通报灌婴与齐楚合谋，其警告又被曹窋传给反吕大臣的郎中令。
 - [曹窋 / Cao Ku (Western Han)](entities/CaoKuWesternHan.md) — 旁听贾寿警报并转告陈平、周勃，随后协助封闭宫门阻止吕产入殿的平阳侯。
 - [纪通 / Ji Tong (Western Han)](entities/JiTongWesternHan.md) — 以符节和皇命名义帮助周勃进入北军的授权中介；与东汉祭肜区别。
@@ -17133,6 +17137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [分层验证式继位接管 / Layered Accession Risk Verification](concepts/LayeredAccessionRiskVerification.md) — 以独立探路、公开程序、礼仪顺序、宫城控制与亲信掌军把危险的迎立邀请逐步转化为可执行权威。
 - [摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization](concepts/PostRegencyInsideOutsideMobilization.md) — 首都内应与地方动员共同压迫军权持有者，但胜后罢兵、问责和继位选择仍可由控制首都的一方主导。
 - [Emergency Diagnostic Revision / 急诊诊断修正](concepts/EmergencyDiagnosticRevision.md) — 急诊初步风险判断随时间线、旁证、连续观察、影像与专科知识而安全修正的协作框架。
 - [Select-Service Hotel Model / 精选服务酒店模式](concepts/SelectServiceHotelModel.md) — Hotel format that retains high-frequency guest functions while reducing full-service facility and staffing burdens.
