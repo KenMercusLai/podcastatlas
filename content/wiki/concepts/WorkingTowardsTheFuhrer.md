@@ -5,6 +5,7 @@ tags: [nazi-germany, authoritarianism, radicalization, governance]
 sources:
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 64-hitler-with-ian-kershaw-part-2-glt5766781968
+  - 620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The model rejects a false choice between a fully centralized command chain and a
 
 The later synthesis extends the mechanism from antisemitic persecution to government as a whole. A sophisticated modern state and capable civil service could interpret Hitler's broad direction, while economic recovery, rearmament, and foreign-policy success enlarged the permission for further action. Delegation therefore qualifies the image of constant personal micromanagement without making Hitler weak, absent, or merely symbolic.
 
+The 1939 wartime evidence adds a boundary case: senior army resistance to Hitler's desired timetable did not prevent the wider regime from aligning around his broad struggle and annihilation language. The model helps explain how direction could become action even amid disagreement, but it should not flatten command conflict, institutional fear, or independent resistance into automatic ideological enthusiasm.
+
 ## Key Claims
 
 - Broad ideological direction can guide action without a detailed order for each measure.
@@ -31,6 +34,7 @@ The later synthesis extends the mechanism from antisemitic persecution to govern
 - Tactical restraint of disorder need not mean rejection of the underlying goal.
 - Central leadership responsibility remains decisive even when implementation is distributed.
 - Administrative competence can amplify broad ideological direction rather than moderate it.
+- Anticipatory alignment can coexist with private disagreement and institutional fear.
 
 ## Evidence
 
@@ -39,15 +43,16 @@ The later synthesis extends the mechanism from antisemitic persecution to govern
 - Legal consolidation: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] presents the Nuremberg Laws as a way to satisfy radical pressure and demands for order through systematic exclusion.
 - State capacity: [[64-hitler-with-ian-kershaw-part-2-glt5766781968]] describes a capable civil service anticipating policy within Hitler's core ideological boundaries.
 - Leader responsibility: [[64-hitler-with-ian-kershaw-part-2-glt5766781968]] retains Hitler's role in major foreign-policy and antisemitic decisions despite delegated implementation.
+- Wartime boundary case: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] places the model beside command resistance, showing broad alignment with Hitler's direction despite disagreement over readiness and timing.
 
 ## Counterevidence & Qualifications
 
-The concept is an interpretive model, not proof that every local act reflected a correctly inferred private instruction. It should not dissolve Hitler's agency into institutional momentum, treat administrative competence as political neutrality, or portray all Germans as equally involved. Local actors, state offices, conservative elites, passive bystanders, opponents, and victims occupied sharply different positions. The episode's assignment of particular decisions and degrees of autonomy remains source-scoped.
+The concept is an interpretive model, not proof that every local act reflected a correctly inferred private instruction. It should not dissolve Hitler's agency into institutional momentum, treat administrative competence as political neutrality, portray all Germans as equally involved, or erase real disagreement inside the military command. Local actors, state offices, conservative elites, passive bystanders, opponents, and victims occupied sharply different positions. The episodes' assignment of particular decisions and degrees of autonomy remains source-scoped.
 
 ## What Changed
 
-- Extended the model from the 1933–36 persecution sequence to broader state administration and foreign policy.
-- Clarified that institutional competence can magnify broad ideological direction without erasing leader responsibility.
+- Added command resistance in 1939 as a boundary case where broad alignment coexisted with disagreement over timing and readiness.
+- Clarified that anticipatory implementation should not erase fear, hierarchy, or independent opposition.
 
 ## Related Concepts
 
@@ -57,3 +62,4 @@ The concept is an interpretive model, not proof that every local act reflected a
 - [[NurembergLaws]] - legal consolidation of demands developed through earlier coercion and activism.
 - [[InstitutionalOvercompliance]] - adjacent mechanism in which role performance exceeds or intensifies harmful direction.
 - [[IdeologicalRadicalizationWithoutEquilibrium]] - escalation pattern that anticipatory implementation can accelerate.
+- [[GermanMilitaryOppositionToHitler]] - countercase showing the limits and weakness of internal resistance to broad leader direction.

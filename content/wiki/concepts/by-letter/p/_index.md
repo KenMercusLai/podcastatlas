@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10153
+wiki_total_pages: 10155
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "PhoneInRadioPublicMood"
     title: "Phone-In Radio as a Public-Mood Signal"
     url: "/wiki/concepts/phoneinradiopublicmood/"
+  - key: "PhoneyWar"
+    title: "Phoney War"
+    url: "/wiki/concepts/phoneywar/"
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"

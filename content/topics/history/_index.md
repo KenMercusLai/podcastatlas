@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2676
+topic_total_pages: 2677
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6627,6 +6627,9 @@ topic_sources:
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"
+  - key: "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581"
+    title: "620. The Nazis at War: Hitler Strikes West (Part 1)"
+    url: "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
   - key: "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512"
     title: "621. The Nazis at War: Blitzkrieg (Part 2)"
     url: "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"

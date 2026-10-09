@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12997
+wiki_total_pages: 12998
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "GeoNet"
     title: "GeoNet"
     url: "/wiki/entities/geonet/"
+  - key: "GeorgElser"
+    title: "Georg Elser"
+    url: "/wiki/entities/georgelser/"
   - key: "GeorgFerdinandDuckwitz"
     title: "Georg Ferdinand Duckwitz"
     url: "/wiki/entities/georgferdinandduckwitz/"

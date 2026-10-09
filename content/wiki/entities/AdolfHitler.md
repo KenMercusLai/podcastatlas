@@ -19,6 +19,7 @@ sources:
   - 64-hitler-with-ian-kershaw-part-2-glt5766781968
   - 63-hitler-with-ian-kershaw-part-1-glt1996418919
   - 623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438
+  - 620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -61,6 +62,10 @@ The later source shows the same direction bound to war preparation. Hitler and [
 
 The Mitford episode adds an informal foreign-social layer to this political profile. Hitler reportedly met [[UnityMitford|Unity Mitford]] more than 140 times, relaxed and joked in her company, rewarded her with symbolic access, and used her as a younger-sister figure, jester, or talisman rather than an established mistress. Her aristocratic British identity, public antisemitism, relationship with [[JuliusStreicher]], and fantasy of an Anglo-German alliance made her socially useful, while the confiscated flat she received tied access and favor directly to Jewish dispossession.
 
+The opening wartime source places the same gamble-based leadership inside the [[PhoneyWar]]. After Poland's defeat, Hitler paired a public peace offer with an almost immediate order for Fall Gelb. He believed time favored Allied rearmament, feared Germany's vulnerability to blockade, and treated France's defeat as the prerequisite for isolating Britain. Senior commanders' warnings that Germany was unready provoked rage rather than strategic reconsideration; only weather and mud postponed the attack.
+
+The November 1939 crisis also shows contingency strengthening personal rule. [[GeorgElser]]'s bomb missed Hitler by thirteen minutes, generated sympathy for him, and weakened the immediate [[GermanMilitaryOppositionToHitler|army coup prospect]]. Hitler then interpreted survival as evidence of providence and public support. The episode does not make that belief the sole cause of later action, but it links the narrow escape to a stronger sense of personal indispensability and permission for risk.
+
 The 1940 decision narrative shows victory magnifying Hitler's misjudgment. After France fell, he expected Britain to negotiate, partly because he imagined racial affinity, respected its empire, and failed to understand how Munich, Dunkirk, Churchill, and Mers-el-Kébir had changed British politics. His July peace appeal, conditional Sea Lion preparations, Luftwaffe assault, and Mediterranean alternatives did not force a settlement. From July onward he increasingly treated destruction of the Soviet Union as a way to remove Britain's last expected support, while grain, oil, racial conquest, and eastern empire made that reactive calculation compatible with longstanding ideology. [[623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438]]
 
 [[OperationBarbarossa]] provides the wartime test of Hitler's expansion system. With Britain still resisting and Germany under food, fuel, and import pressure, he chose an eastern invasion whose plan assumed rapid Soviet military and political collapse. He divided attention among Moscow, Leningrad, Ukraine, and resource objectives while the mobile spearhead lost capacity through distance, attrition, fuel, transport, repair, and rail constraints.
@@ -81,7 +86,7 @@ His postwar image became historically active in its own right. Concentrating bla
 - He treated racial survival, not individual dignity or universal principle, as the standard of morality.
 - He set broad goals that subordinates radicalized through anticipatory initiative.
 - He used tactical restraint and national law to manage, not reverse, persecution.
-- He joined a conquest-dependent rearmament economy, misreading of British resistance, territorial coercion, racial exclusion, pogrom escalation, and annihilatory eastern occupation in a project where failed tactical options intensified rather than moderated ideological expansion.
+- He joined a conquest-dependent rearmament economy, urgency to defeat France before blockade and Allied rearmament took effect, misreading of British resistance, territorial coercion, racial exclusion, pogrom escalation, and annihilatory eastern occupation in a project where failed tactical options intensified rather than moderated ideological expansion.
 
 ## Evidence
 
@@ -103,6 +108,8 @@ His postwar image became historically active in its own right. Concentrating bla
 - Rearmament and expansion logic: [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114]] links struggle ideology, eastern living space, military recovery, resource pressure, and anticipated conquest.
 - Risk and deterrence: [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114]] contrasts his 1934 retreat under Italian pressure with the militarily reversible but politically transformative Rhineland gamble.
 - Informal foreign-social access: [[375-hitler-and-the-mitford-sisters-glt5493256820]] connects his repeated meetings with Unity, symbolic favor, family introductions, and relaxation in her company to her explicit antisemitism, British fascist brokerage, and benefit from dispossession.
+- Western-war urgency and command conflict: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects struggle ideology, blockade exposure, fear of Allied rearmament, the demand for Fall Gelb, and rejection of senior commanders' objections.
+- Assassination aftermath: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects Elser's narrow failure, public sympathy, weakened coup hopes, and Hitler's providential interpretation of survival.
 - British misreading and eastern turn: [[623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438]] connects Hitler's peace appeal, Sea Lion caveats, air-war failure, stalled Mediterranean alternative, and belief in Soviet support for Britain to Directive 21.
 - Eastern invasion and command: [[182-operation-barbarossa-glt3299389649]] connects Hitler's resource gamble, divided objectives, belief in Soviet collapse, Kiev judgment, racial occupation, and mass violence to the failure of decisive victory.
 - Government and escalation: [[64-hitler-with-ian-kershaw-part-2-glt5766781968]] connects broad direction, civil-service capacity, success-driven authority, and anticipatory implementation to continuing radicalization.
@@ -111,15 +118,13 @@ His postwar image became historically active in its own right. Concentrating bla
 
 ## Qualifications
 
-This profile is bounded to sixteen podcast episodes on Hitler's formation, rise, dictatorship, purge, spectacle, rearmament, territorial expansion, persecution, war, defeat, memory, and informal social access, not a comprehensive biography or complete account of Nazi rule. The opening sources reject childhood-essentialist, psychological, and straight-line national explanations, and the 1923 failure did not make later recovery inevitable. Describing elections, decrees, and a legislative vote does not make the 1933 transfer free or fair. Explaining Hitler's claimed moral universe, staged politics, strategic reasoning, or private behavior does not validate the regime, diagnose him, or reduce culpability. Early eliminationist rhetoric establishes direction but not a fixed 1919 or 1933 blueprint for the later extermination system; distributed initiative does not reduce Hitler's decisive responsibility. Britain's survival accelerated the eastern decision without creating his longstanding racial-imperial goals. The Barbarossa sources reject monocausal explanations while leaving the relative weight of Britain, resources, ideology, diplomacy, timing, weather, and command open. Force figures, loss rates, strategy counterfactuals, mental-state claims, Viennese beliefs, audience reinforcement, Unity's role, fire authorship, death and arrest totals, referendum support, postwar polls, economic causality, private motives, and exact institutional calculations remain source-scoped.
+This profile is bounded to seventeen podcast episodes on Hitler's formation, rise, dictatorship, purge, spectacle, rearmament, territorial expansion, persecution, war, defeat, memory, and informal social access, not a comprehensive biography or complete account of Nazi rule. The opening sources reject childhood-essentialist, psychological, and straight-line national explanations, and the 1923 failure did not make later recovery inevitable. Describing elections, decrees, and a legislative vote does not make the 1933 transfer free or fair. Explaining Hitler's claimed moral universe, staged politics, strategic reasoning, providential self-understanding, or private behavior does not validate the regime, diagnose him, or reduce culpability. Early eliminationist rhetoric establishes direction but not a fixed 1919 or 1933 blueprint for the later extermination system; distributed initiative does not reduce Hitler's decisive responsibility. Britain's survival accelerated the eastern decision without creating his longstanding racial-imperial goals. The wartime sources reject monocausal explanations while leaving the relative weight of Britain, resources, ideology, diplomacy, timing, weather, command, and assassination contingency open. Force figures, loss rates, strategy counterfactuals, mental-state claims, Viennese beliefs, audience reinforcement, Unity's role, fire authorship, death and arrest totals, referendum support, postwar polls, economic causality, private motives, and exact institutional calculations remain source-scoped.
 
 ## What Changed
 
-- Sharpened postwar Munich, rather than childhood or a fixed Viennese identity, as the decisive political transformation point.
-- Added Hitler's temporary barracks-representative role and later turn against council-republic associates.
-- Clarified that indispensable individual agency and structural explanation are complementary.
-- Moved the no-fixed-blueprint qualification back from 1933 to Hitler's 1919 antisemitic removal rhetoric.
-- Added his misreading of Britain and the failed western-to-eastern decision sequence of July-December 1940.
+- Added Hitler's 1939 pairing of public peace language with immediate planning for a western offensive.
+- Integrated blockade vulnerability and fear of Allied rearmament into his demand for speed.
+- Added the failed Elser bombing and providential interpretation of survival as contingent reinforcements of risk-taking and personal indispensability.
 
 ## Relationships
 
@@ -170,3 +175,6 @@ This profile is bounded to sixteen podcast episodes on Hitler's formation, rise,
 - [[IanKershaw]] - historian interpreting his power through agency, ideology, institutions, contingency, and memory.
 - [[IdeologicalRadicalizationWithoutEquilibrium]] - pattern explaining why success intensified rather than completed his project.
 - [[HitlerMemoryAndMoralAnalogy]] - postwar use of his image as explanation, alibi, and benchmark of evil.
+- [[PhoneyWar]] - western lull he treated as an economic and strategic danger rather than a stable pause.
+- [[GeorgElser]] - independent assassin whose bomb missed him by thirteen minutes.
+- [[GermanMilitaryOppositionToHitler]] - command opposition he intimidated and outlasted before the western offensive.

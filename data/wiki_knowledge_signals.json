@@ -7433,9 +7433,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -7548,6 +7548,13 @@
           "show": "The Rest Is History",
           "title": "623. The Nazis at War: Churchill's Finest Hour (Part 4)",
           "url": "/wiki/sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438/"
+        },
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
         }
       ],
       "updated": "2026-10-10",
@@ -98224,6 +98231,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/geopoliticalcriminaldeterrence/"
     },
+    "GeorgElser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/georgelser/"
+    },
     "GeorgFerdinandDuckwitz": {
       "episode_count": 1,
       "show_count": 1,
@@ -99203,6 +99226,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/germanempire/"
+    },
+    "GermanMilitaryOppositionToHitler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/germanmilitaryoppositiontohitler/"
     },
     "GermanNationalAnthem": {
       "episode_count": 1,
@@ -177840,9 +177879,9 @@
       "url": "/wiki/concepts/nazidomesticandyouthsocialization/"
     },
     "NaziGermany": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -177934,6 +177973,13 @@
           "show": "The Rest Is History",
           "title": "623. The Nazis at War: Churchill's Finest Hour (Part 4)",
           "url": "/wiki/sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438/"
+        },
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
         }
       ],
       "updated": "2026-10-10",
@@ -178002,9 +178048,9 @@
       "url": "/wiki/concepts/naziracialmorality/"
     },
     "NaziRearmamentWarEconomy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6776521114 [GLT6776521114].md",
@@ -178019,6 +178065,13 @@
           "show": "The Rest Is History",
           "title": "182. Operation Barbarossa",
           "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        },
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
         }
       ],
       "updated": "2026-10-01",
@@ -194377,6 +194430,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/phoneinradiopublicmood/"
+    },
+    "PhoneyWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/phoneywar/"
     },
     "PhotoCaptureProvenance": {
       "episode_count": 1,
@@ -266748,9 +266817,9 @@
       "url": "/wiki/concepts/workingmemorylearningbottleneck/"
     },
     "WorkingTowardsTheFuhrer": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9460111455 [GLT9460111455].md",
@@ -266765,6 +266834,13 @@
           "show": "The Rest Is History",
           "title": "64. Hitler, with Ian Kershaw - part 2",
           "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+        },
+        {
+          "episode_file": "GLT4381972581 [GLT4381972581].md",
+          "key": "620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581",
+          "show": "The Rest Is History",
+          "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
+          "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
         }
       ],
       "updated": "2026-10-03",

@@ -16,6 +16,7 @@ sources:
   - 404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466
   - 182-operation-barbarossa-glt3299389649
   - 623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438
+  - 620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -46,6 +47,10 @@ The [[RhinelandRemilitarization|Rhineland]] provides the earlier strategic hinge
 
 Modern capacities were not intrinsically Nazi: law, data processing, expertise, logistics, administration, industry, and research became catastrophic through their purposes and uses. The source set therefore preserves both central criminal responsibility and [[DistributedComplicityUnderAuthoritarianism|distributed complicity]] without assigning equal guilt to every person under dictatorship.
 
+The opening war evidence places the regime inside the [[PhoneyWar]] after Poland's conquest and partition. Its military success concealed a vulnerable strategic position: Britain and France remained at war, blockade threatened an import-dependent economy, and senior German commanders doubted readiness for an immediate western offensive. Hitler nevertheless demanded speed, while hierarchy, personal dependence, and uncertainty about public and junior-officer support kept the [[GermanMilitaryOppositionToHitler|military opposition]] from converting alarm into a coup.
+
+[[GeorgElser]]'s failed bomb plot exposes both the possibility and the political limits of resistance. The regime exploited suspicion of British involvement, tortured and imprisoned Elser, and later killed him. The public reaction strengthened Hitler in the short term, showing how a failed attack on a dictatorship can consolidate sympathy and weaken a separate opposition network.
+
 The 1940 evidence adds a western-war stress test. Victory over France produced public euphoria and reinforced assumptions that Britain would negotiate, but propaganda, poor intelligence, naval weakness, inter-service fragmentation, and Göring's overconfidence prevented the regime from converting continental victory into a British settlement. [[OperationSeaLion]] existed as a directive and planning effort without credible joint means, while the [[BattleOfBritain]] and [[TheBlitz|Blitz]] failed to break British air defence or political resistance.
 
 [[OperationBarbarossa]] shows the regime's economic, military, and racial systems operating together at continental scale. Continued British resistance and resource pressure helped make the Soviet Union appear to offer food, oil, and decisive victory, but the invasion's narrow mobile spearhead could not overcome fuel, vehicle, repair, replacement, distance, and rail constraints. Early victories therefore coexisted with [[CampaignCulminationThroughLogistics|early culmination]] and Soviet institutional recovery.
@@ -71,6 +76,7 @@ The occupation system also defeated any coherent liberation strategy. Nazi treat
 - Intellectual, exile, and bureaucratic-evil branch: [[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] follows Arendt's flight and uses Eichmann to examine legalistic role performance and failed judgment.
 - Forced-labor branch: [[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] traces Eastern labor extraction, camp and factory organization, racial contempt, and postwar fear.
 - Resistance branch: [[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] recounts anti-fascist underground activity, torture by German forces, and formative family witness.
+- Opening war and internal opposition: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects Poland's partition, blockade exposure, command resistance, repeated attack postponement, Elser's bombing, repression, and the regime-strengthening public reaction.
 - Early persecution branch: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] connects local radicalism, professional exclusion, racial law, school segregation, denunciation, and Olympic concealment.
 - Prewar terror branch: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects war planning, Aryanization, Kristallnacht, mass arrest, forced emigration, and the 1939 annihilation threat.
 - Annexation branch: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects diplomatic coercion and invasion to complete institutional absorption, resource transfer, local participation, mass detention, and forced-emigration administration.
@@ -80,12 +86,13 @@ The occupation system also defeated any coherent liberation strategy. Nazi treat
 
 ## Qualifications
 
-The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing Nazi morality does not make it coherent, valid, or uniformly accepted. The purge source rejects the SA coup allegation while preserving real institutional conflict. Early eliminationist ideology did not mean the later extermination system was a fixed operational blueprint in 1933. The 1940 account's emphasis on propaganda, intelligence, joint capacity, and British resolve does not prove that one institutional reform would have made Sea Lion viable. The Barbarossa accounts emphasize structural logistics, ideology, resources, and Britain while leaving the relative effects of diplomacy, weather, timing, operational choices, Soviet decisions, and Allied context source-scoped. Claims about deaths, referendum support, economic causality, counterfactual intervention, corporate knowledge, public attitudes, private motives, force totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
+The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing Nazi morality does not make it coherent, valid, or uniformly accepted. The purge source rejects the SA coup allegation while preserving real institutional conflict. Early eliminationist ideology did not mean the later extermination system was a fixed operational blueprint in 1933. The military opposition source does not establish a unified democratic resistance or show that a coup would have succeeded. The 1940 account's emphasis on propaganda, intelligence, joint capacity, and British resolve does not prove that one institutional reform would have made Sea Lion viable. The Barbarossa accounts emphasize structural logistics, ideology, resources, and Britain while leaving the relative effects of diplomacy, weather, timing, operational choices, Soviet decisions, and Allied context source-scoped. Claims about deaths, referendum support, economic causality, counterfactual intervention, corporate knowledge, public attitudes, private motives, force totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
 
 ## What Changed
 
-- Added the 1940 gap between continental victory and the regime's naval, air-intelligence, and joint capacity to defeat Britain.
-- Clarified how western failure and British survival intensified the turn toward an already ideological eastern conquest.
+- Added the 1939 gap between military success in Poland and economic-command vulnerability during the Phoney War.
+- Added the distinction between independent resistance and conservative military opposition.
+- Added the failed Elser bombing as a case where repression, propaganda, and public reaction strengthened the regime in the short term.
 
 ## Relationships
 
@@ -113,3 +120,6 @@ The source set consists of narrative podcast episodes with different purposes ra
 - [[DistributedComplicityUnderAuthoritarianism]] - differentiated participation across institutions and society.
 - [[RationalizedStateViolence]] - organizational scaling of coercion through categories, offices, law, and logistics.
 - [[OrdinaryPeopleResistance]] - counterpattern showing that compliance was widespread but not inevitable.
+- [[PhoneyWar]] - period when blockade exposure and Allied delay intensified pressure for a rapid western decision.
+- [[GeorgElser]] - independent opponent tortured, imprisoned, and executed by the regime.
+- [[GermanMilitaryOppositionToHitler]] - command network whose private alarm did not become a viable 1939 coup.

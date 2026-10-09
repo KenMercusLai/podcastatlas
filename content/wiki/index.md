@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [620. The Nazis at War: Hitler Strikes West (Part 1)](sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581.md) — The Rest Is History on the Phoney War, Hitler's economic and ideological urgency, army coup hesitation, and Georg Elser's failed bomb plot.
 - [2026秋季篇番外｜进入大厂两个月，她选择了自杀](sources/2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc.md) — 日谈物语 reconstructs 森美菜's 72 days at 和民, coerced voluntary labor, severe sleep loss, ignored warnings, work-related-suicide recognition, and her parents' 2,736-day accountability campaign.
 - [085 《我和僵尸有个约会》：集灵异、僵尸、悬疑、爱情、奇幻于一体的童年经典](sources/085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz.md) — 纸醉金迷FM回顾《我和僵尸有个约会》的创作背景、红溪村起源、日本初春篇与三角关系，并以复生和阿秀讨论永生代价及转化同意。
 - [EP 27: AI and the Creative Arts: Innovation or Appropriation?](sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation.md) — Data Science With Sam episode with Andres Morales on creator compensation, lived experience, proof of process, meaningful human authority, and human-led creative AI.
@@ -4348,6 +4349,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛](sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0.md) — 这病说来话长 episode on sleep as active nighttime maintenance, multidimensional quality, systemic effects, routine and environment changes, tracker anxiety, and clinical escalation.
 
 ## Entities
+- [Georg Elser](entities/GeorgElser.md) — German carpenter whose independent November 1939 bomb plot missed Hitler by thirteen minutes and strengthened the regime in the short term.
 - [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.
 - [和民集团 / Watami Group](entities/WatamiGroup.md) — Japanese hospitality group whose mission-driven culture, labor system, and response to Mori Mina's death are examined together.
 - [渡边美树 / Miki Watanabe](entities/MikiWatanabe.md) — Watami founder and former legislator associated with its dream-centered philosophy and contested responsibility for Mori Mina's death.
@@ -17404,6 +17406,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thaïs Aliabadi](entities/ThaisAliabadi.md) — OBGYN and surgeon focused on missed PCOS and endometriosis, fertility assessment, midlife hormone health, and breast-cancer risk.
 
 ## Concepts
+- [Phoney War](concepts/PhoneyWar.md) — Western lull joining Allied attritional caution to Hitler's fear of blockade, delay, and Allied rearmament.
+- [German Military Opposition to Hitler](concepts/GermanMilitaryOppositionToHitler.md) — Fragile 1939 officer opposition constrained by hierarchy, fear, uncertain legitimacy, and weak collective capacity.
 - [Coerced Voluntary Labor / 强制性自愿劳动](concepts/CoercedVoluntaryLabor.md) — Work labeled optional but made costly to refuse through evaluation, promotion, belonging, scheduling, or livelihood consequences.
 - [Corporate Values as Labor Control / 企业价值观劳动控制](concepts/CorporateValuesLaborControl.md) — Use of mission, gratitude, dreams, family belonging, or growth to moralize employer-imposed sacrifice.
 - [Work-Related Suicide Recognition / 过劳自杀工伤认定](concepts/WorkRelatedSuicideRecognition.md) — Attribution of suicide to work-caused mental illness and cumulative burden through evidence of actual control and safety failure.
