@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3230
+topic_total_pages: 3231
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4867,6 +4867,9 @@ topic_concepts:
   - key: "EstablishedHeirReplacementRisk"
     title: "既定太子改立风险 / Established Heir Replacement Risk"
     url: "/wiki/concepts/establishedheirreplacementrisk/"
+  - key: "EarlyHanCoinageEnforcementGap"
+    title: "早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap"
+    url: "/wiki/concepts/earlyhancoinageenforcementgap/"
   - key: "SeasonalRitualConsumptionRestraint"
     title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
     url: "/wiki/concepts/seasonalritualconsumptionrestraint/"

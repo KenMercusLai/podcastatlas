@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg
   - zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1
   - zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4
+  - zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid
 last_updated: 2026-10-09
 ---
 
@@ -21,6 +22,8 @@ last_updated: 2026-10-09
 ## Current Profile
 
 [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] supplies Liu Bi's institutional beginning. After Ying Bu's defeat, Liu Bang appoints his nephew over three commanderies and fifty-three counties. The grant belongs to [[SameSurnameKingEnfeoffment|same-surname enfeoffment]]: exposed territory is entrusted to royal kin after a dangerous vassal branch falls.
+
+[[zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid|Hanji 201]] moves Liu Bi's resource autonomy into Lu Zhi's reign. It uses a transmitted account of his copper mountain, recruitment of fugitives for unauthorized minting, and salt production to argue that a royal territory could challenge central coinage prohibition before the later Wen-era private-minting policy. This supplies an earlier monetary-control conflict, but the timing, legal status, output, and causal role remain source-scoped.
 
 [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-1-lluz1oxfqrazahrdas5sl5ybouwj|Hanji 231 part 1]] supplies the first rupture. The future Jingdi reportedly kills Liu Bi's heir [[LiuXianWuCrownPrinceWesternHan|刘贤]] in a drunken board-game quarrel. Coffin exchange, prolonged nonattendance, detained envoys, and fear form an escalation chain before [[LiuHeng|Emperor Wen]] releases the envoys, grants gifts, and excuses attendance. The settlement lowers immediate fear without resolving the autonomy problem.
 
@@ -38,7 +41,7 @@ last_updated: 2026-10-09
 
 - Liu-family king appointed over a large strategic kingdom after Ying Bu's defeat.
 - Bereaved and estranged father whose personal grievance is temporarily calmed but not resolved by Emperor Wen.
-- Ruler whose copper, salt, fiscal relief, patronage, and fugitive protection create an attributed autonomy base.
+- Ruler whose copper, salt, fiscal relief, patronage, and fugitive protection create an attributed autonomy base and an early challenge to central coinage control.
 - Coalition builder who converts recruitment into attributed mass mobilization, southern support, junction with Chu, and an early attack on Liang.
 - Rebel ruler who rejects the court's attempted concession and reportedly claims eastern imperial status.
 - Decision-maker whose mistrust and status-filtered advice narrow military options after mobilization.
@@ -55,6 +58,7 @@ Grievance and temporary de-escalation:
 Capacity and coalition construction:
 - [[zizhi-tongjian-hanji-231-hanjingdi-jiuhou-jing-zaojiu-wulong-chuanwei-shijian-2-lg4ybjhj0w8azd-h_krzhibc0clg|Hanji 231 part 2]] attributes Wu's resource and patronage system to Liu Bi and gives Ying Gao's recruitment of Liu Ang, the campaign outline, territorial promise, and Liu Bi's personal confirmation visit.
 - [[zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4|Hanji 216]] attributes widely circulating Wu coin, copper extraction, salt production, and tax-light fiscal capacity to Liu Bi's kingdom.
+- [[zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid|Hanji 201]] places Liu Bi's copper, fugitive recruitment, minting, and salt base inside the earlier Lu Zhi-era struggle to enforce a private-minting prohibition.
 
 Mobilization and opening campaign:
 - [[zizhi-tongjian-hanji-232-wuwang-liubi-pingshenme-gan-faqi-qiguo-zhiluan-lqtwfjr6oknd9pgdtvnnz61rs1f1|Hanji 232]] gives the Wu reduction trigger, killing of court officials, force claim, southern support, simultaneous risings, coalition defections, Wu-Chu junction, public slogan, and attack on Liang.
@@ -67,10 +71,11 @@ Rejected options and collapse:
 
 ## Qualifications
 
-These seven popular-history notes do not provide a complete reign or a single sufficient cause of rebellion. Liu Xian's death supplies grievance; Wu's economy and protective practices supply attributed capacity;削藩 supplies the immediate trigger; Ying Gao's mission supplies coalition work; and Hanji 232 supplies mobilization and early confidence. None alone proves inevitability or durable military advantage. The founding scale, copper and salt economy, coin circulation, tax and service arrangements, gifts, fugitive policy, popular support, Chao Cuo's prediction, coalition membership, speeches, disguise, military routes, territorial promises, mobilization ages and totals, Minyue/Dongyue role, eastern-emperor claim, rejected plans, flight, killer's identity, and assassination remain source-scoped. Hanji 235's corrupted date and identity variants remain unresolved.
+These eight popular-history notes do not provide a complete reign or a single sufficient cause of rebellion. Liu Xian's death supplies grievance; Wu's economy and protective practices supply attributed capacity;削藩 supplies the immediate trigger; Ying Gao's mission supplies coalition work; and Hanji 232 supplies mobilization and early confidence. None alone proves inevitability or durable military advantage. Hanji 201's claim that Liu Bi was already violating a Lu Zhi-era prohibition depends on the episode's dating of the Money Statute and does not establish output or enforcement scale. The founding scale, copper and salt economy, coin circulation, tax and service arrangements, gifts, fugitive policy, popular support, Chao Cuo's prediction, coalition membership, speeches, disguise, military routes, territorial promises, mobilization ages and totals, Minyue/Dongyue role, eastern-emperor claim, rejected plans, flight, killer's identity, and assassination remain source-scoped. Hanji 235's corrupted date and identity variants remain unresolved.
 
 ## What Changed
 
+- Added the Lu Zhi-era private-minting conflict as an earlier stage of Wu's resource-backed autonomy.
 - Located Wu's copper, coin, salt, and light-tax capacity in the earlier private-minting policy field.
 - Clarified resource control as an enabling fiscal base rather than a sufficient cause of rebellion.
 
@@ -90,3 +95,4 @@ These seven popular-history notes do not provide a complete reign or a single su
 - [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - mechanism by which military defeat removes allied protection.
 - [[SameSurnameKingEnfeoffment|同姓王分封]] - institutional origin of Liu Bi's royal authority.
 - [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]] - later centralization mechanism that answers the autonomy risk visible in Wu's minting base.
+- [[EarlyHanCoinageEnforcementGap|早期汉代铸币禁令执行缺口]] - earlier policy field in which Liu Bi's resource base is used to explain limited central enforcement.

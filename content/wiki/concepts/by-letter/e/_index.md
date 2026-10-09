@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10037
+wiki_total_pages: 10038
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "EarlyEunuchTerminologyMisreading"
     title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
     url: "/wiki/concepts/earlyeunuchterminologymisreading/"
+  - key: "EarlyHanCoinageEnforcementGap"
+    title: "早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap"
+    url: "/wiki/concepts/earlyhancoinageenforcementgap/"
   - key: "EcommerceExpressPriceWar"
     title: "电商快递价格战"
     url: "/wiki/concepts/ecommerceexpresspricewar/"

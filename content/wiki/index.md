@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币](sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid.md) — 吕雉由八铢钱退向五分钱；节目以劣币驱逐良币、《二年律令》钱律和刘濞铜盐资源解释禁铸法令与实际执行能力之间的落差。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（2）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-2-luhqch956l2lwf_n-kfyaseyodpr.md) — 王陵以太傅高位被排出决策核心，陈平与审食其分掌外朝和内廷；个人动机、惠帝诸子身份与灾异象征保留来源边界。
 - [《资治通鉴·汉纪》204｜刘邦家族秘事：认怂的刘肥与躁动的刘章](sources/zizhi-tongjian-hanji-204-liubang-jiazu-mishi-ren-song-de-liufei-yu-zaodong-de-liuzhang-lvygod50-fyi-6vwoeygrwa2wuhy.md) — 刘章以军法酒令公开震慑吕氏，陆贾则促成陈平与周勃联结；刘长母亲死因、人物动机与南越战事细节保留来源边界。
 - [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（1）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-1-lopntgvnbsfgw_d9juvitmrk2kju.md) — 赵王刘友在吕氏婚姻中的家庭指控后被召入长安、拒见、围困断粮并以平民礼下葬；姓名来自相邻下集回顾，指控与细节保留来源边界。
@@ -6781,7 +6782,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
 - [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose direct Liu He accession warning, Shenjue 1 root-cause memorial, and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
 - [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
-- [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
+- [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — 出土汉代法律文本，现有来源分别以其讨论拐卖交易链责任与盗铸、协助、知情不告及捕获奖励。
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
 - [于华英案 / Yu Huaying Case](entities/YuHuayingCase.md) — Contemporary child-trafficking case used in Hanji 527-2 to foreground family trauma and legal stakes.
 - [颍川铁官徒起义 / Yingchuan Iron-Office Uprising](entities/YingchuanIronOfficeUprising.md) — Yangshuo 3 / 22 BCE Western Han coercive-labor uprising led by Shentu Sheng from an iron-office site.
@@ -9636,7 +9637,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
 - [商山四皓 / Shangshan Sihao](entities/ShangshanSiHao.md) — Four elderly recluses whose public support for Liu Ying makes Liu Bang abandon the final crown-prince replacement attempt.
-- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — 从刘邦平定英布后任命的同姓吴王，发展为拒绝退兵、自称东帝并领导吴楚联军对抗中央，最终败逃并被利益重估后的盟友诱杀的诸侯王。
+- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — 以铜盐与铸币资源形成早期财政自主，后由同姓吴王发展为拒绝退兵、自称东帝并领导吴楚联军对抗中央的诸侯王。
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
@@ -9819,7 +9820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
 - [阎乐 / Yan Le](entities/YanLe.md) — Zhao Gao's son-in-law and Xianyang令 whose presence supports the non-eunuch reading and whose role begins the Hu Hai coup branch.
 - [赵成 / Zhao Cheng (Qin)](entities/ZhaoChengQin.md) — Zhao Gao's younger brother and later 郎中令, disambiguated from the Warring States Zhao Cheng and tied to the coup against Hu Hai.
-- [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
+- [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — 用于校正秦汉制度词义，并为《二年律令》的拐卖与钱律讨论提供出土文献背景。
 - [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
 - [陈留 / Chenliu](entities/Chenliu.md) — Route-and-resource hub that supports both Liu Bang's westward expansion and Cao Cao's first independent mobilization.
 - [皖城 / Wan City (Lujiang)](entities/WanChengLujiang.md) — Liu Xun's Lujiang rear base captured by Sun Ce and Zhou Yu after the Shangliao lure.
@@ -9913,7 +9914,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桓楚 / Huan Chu](entities/HuanChu.md) — Fugitive used as the pretext for Xiang Liang to bring armed Xiang Yu into Yin Tong's meeting.
 - [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
-- [吕雉 / Lu Zhi](entities/LuZhi.md) — Western Han founding partner and regency ruler whose stabilization, policy, dynastic violence, diplomacy, and contested political memory require joint judgment.
+- [吕雉 / Lu Zhi](entities/LuZhi.md) — 西汉建国参与者与摄政统治者，其稳定政策、币制执行缺口、宗室暴力、外交与争议记忆需合并判断。
 - [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base and Pei Gong uprising setting, later expanded by Hanji 1009 as Liu Bei's Xiaopei regrouping point.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
@@ -17155,6 +17156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [早期汉代铸币禁令执行缺口 / Early Han Coinage Enforcement Gap](concepts/EarlyHanCoinageEnforcementGap.md) — 区分严厉禁铸法令与中央实际控制铜材、铸造、流通和诸侯资源的能力。
 - [多方利益嵌入式政治经纪 / Interest-Embedded Political Brokerage](concepts/InterestEmbeddedPoliticalBrokerage.md) — 经纪人把客户目标嵌入君主、通道中介与潜在反对者的利益链，并通过顺序与时机把请求转化为问题解决方案。
 - [Battle of Cannae / 坎尼会战](concepts/BattleOfCannae.md) — Hannibal's annihilating victory and the problem of converting battlefield destruction into Roman surrender or allied collapse.
 - [Business Agent Benchmark Gap](concepts/BusinessAgentBenchmarkGap.md) — Gap between general model benchmark scores and verified end-to-end completion of commercial work.

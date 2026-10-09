@@ -24,6 +24,7 @@ sources:
   - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
   - 20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf
   - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9
+  - zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid
 last_updated: 2026-10-09
 ---
 
@@ -43,6 +44,8 @@ The Han Xin episodes make Lu Zhi a capital-security actor with contested moral s
 
 The regency and fear evidence shows Lu Zhi as the expected post-Liu-Bang authority. Chen Ping's survival under her depends on information timing and tactical cooperation, Wang Ling's resistance to Lu-family kingship marks the boundary of her power, and Lu Wan's later explanation treats her as the feared eliminator of non-Liu kings and merit ministers. Hanji 191 remains evidence of Lu Wan's fear and political interpretation, not independent proof of every accusation.
 
+Hanji 201 adds monetary governance to that regency profile. It presents the Gao Hou year-six five-part coin as a retreat from a failed eight-zhu standard and argues that Lu Zhi had probably already prohibited unauthorized minting through severe law. The joined judgment is not that legislation was absent but that central implementation, market incentives, continued light-coin use, and [[LiuBiWuKing|刘濞]]'s regional copper-and-salt capacity left an [[EarlyHanCoinageEnforcementGap|enforcement gap]]. The prohibition date, legal attribution, weights, circulation mechanism, and policy effects remain episode-attributed.
+
 Weird History episode 20 broadens that regency profile beyond elite fear. It treats the Hui and young-emperor years as a roughly fifteen-year transition in which founding ministers, Liu princes, and Lu-family interests were held in a workable balance while taxes were reduced and some Qin legal restrictions, including the book-prohibition tradition, were removed. It also reads Lu-family resources as part of Liu Bang's founding coalition and the later extermination of the Lu clan as a reason to question a victor's simple “disorder suppressed” narrative. These are source-attributed revisions, not proof that every Lu appointment was defensive or every later account was fabricated.
 
 Lu Zhi's final political handoff concentrates the northern and southern armies under [[LuLuWesternHan|吕禄]] and [[LuChanWesternHan|吕产]] after recognizing that ministers opposed the Lü-family kings. Her reported order that both men remain in command even during her funeral makes the terminal threat assessment strategically lucid, but it does not show that military custody could solve the legitimacy problem or protect the Lü household after her authority disappeared. [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]]
@@ -59,7 +62,7 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 - Maternal and dynastic protector of Princess Lu Yuan, Liu Ying, and the legitimate empress branch.
 - Capital-security actor whose role in Han Xin's killing is powerful but evidentially contested.
 - Regency power center whose authority shapes Chen Ping, Wang Ling, Zhou Bo, and Lu Wan's calculations and culminates in a contested military succession handoff.
-- Ruler associated by the newest source with transition stability, tax relief, selected legal repeal, and pragmatic Xiongnu diplomacy.
+- Ruler associated with transition stability, tax relief, selected legal repeal, pragmatic Xiongnu diplomacy, and an attempted but capacity-limited coinage reform.
 - Coercive dynastic defender whose killings and torture remain morally irreducible to family security.
 - Death-and-memory figure whose rabies hypothesis, anti-Lu victory narratives, later ritual exclusion, and Chimei-era corpse-humiliation tradition all require explicit evidence boundaries.
 
@@ -80,6 +83,8 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 - Regency power: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] contrasts Wang Ling's resistance to Lu-family kingship with Chen Ping and Zhou Bo's tactical ambiguity under Lu Zhi.
 - Capital survival: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] shows Chen Ping surviving by managing Fan Kuai information and his position before Lu Zhi.
 - Fear evidence: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] records Lu Wan's fear that Lu Zhi will eliminate remaining non-Liu kings and merit ministers.
+- Coinage reform and prohibition: [[zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid|Hanji 201]] links the five-part issue to eight-zhu failure and uses the [[ErNianLuLing|《二年律令》]] Money Statute to favor an earlier anti-minting prohibition.
+- Monetary-capacity boundary: [[zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid|Hanji 201]] explains failure through continued light-coin circulation, selection against heavier coin, weak implementation, and Liu Bi's regional resource base.
 - Regency governance and violence: [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Weird History episode 20]] joins stability, tax reduction, legal repeal, and Modu diplomacy to the killings of rival princes and the torture of Qi Ji.
 - Founding partnership and memory: [[20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf|Weird History episode 20]] argues that Lu-family resources mattered to Liu Bang's rise and that post-Lu succession and ritual arrangements shaped her later reputation.
 - Final command arrangement: [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]] says Lu Zhi identified ministerial opposition, placed Lü Lu and Lü Chan over the capital armies, and ordered them to remain at their posts through her funeral.
@@ -88,10 +93,11 @@ Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged
 
 ## Qualifications
 
-Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear and should not prove every accusation. Weird History episode 20 is a comparative popular-history interpretation rather than independent verification of lost Lu-family records, young-emperor legitimacy, specific policy causation, Modu's intent, or the claim that Lu Zhi's regency caused the later Wen-Jing settlement. Its corrective to gendered and victor-shaped memory cannot erase recorded killings and torture. Hanji 205 part 1 does not establish rabies, the exact clinical course, or the verbatim deathbed instructions. Hanji 687 leaves the corpse-violation report uncertain, so that material remains historical-memory evidence rather than settled biography.
+Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear and should not prove every accusation. Hanji 201 does not settle the private-minting prohibition date, precise coin standards, strict applicability of Gresham's Law, or the causal balance among market incentives, state capacity, and vassal resistance; its title's “longest-lived currency” claim is unsupported by the supplied body. Weird History episode 20 is a comparative popular-history interpretation rather than independent verification of lost Lu-family records, young-emperor legitimacy, specific policy causation, Modu's intent, or the claim that Lu Zhi's regency caused the later Wen-Jing settlement. Its corrective to gendered and victor-shaped memory cannot erase recorded killings and torture. Hanji 205 part 1 does not establish rabies, the exact clinical course, or the verbatim deathbed instructions. Hanji 687 leaves the corpse-violation report uncertain, so that material remains historical-memory evidence rather than settled biography.
 
 ## What Changed
 
+- Added Lu Zhi's coinage reform and anti-minting policy as a state-capacity problem rather than a proven successful monopoly.
 - Added the final transfer of the northern and southern armies as Lu Zhi's attempt to preserve the young ruler and Lü-family position after her death.
 - Added the rabies explanation only as a retrospective diagnostic hypothesis, with missing exposure and clinical evidence made explicit.
 
@@ -117,3 +123,5 @@ Lu Zhi's current page is a synthesis of bounded source notes, not a full biograp
 - [[HistoricalMemoryContest]] - memory relationship because post-Lu succession, official historiography, and ritual exclusion shaped durable legitimacy judgments.
 - [[LuLuWesternHan|吕禄]] and [[LuChanWesternHan|吕产]] - military heirs assigned the capital armies in her reported final security arrangement.
 - [[ImperialDeathCauseInference|帝王死因史料推断]] - evidentiary relationship because the proposed rabies diagnosis exceeds what the surviving symptom account can establish.
+- [[EarlyHanCoinageEnforcementGap|早期汉代铸币禁令执行缺口]] - monetary-policy relationship because severe prohibition did not ensure control of production and circulation.
+- [[GreshamsLaw|劣币驱逐良币]] - episode-level mechanism used to explain why heavier official coin disappeared from use.

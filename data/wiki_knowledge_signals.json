@@ -68100,6 +68100,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
     },
+    "EarlyHanCoinageEnforcementGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/earlyhancoinageenforcementgap/"
+    },
     "EarlyIslamicEvidenceReconstruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -77004,9 +77020,9 @@
       "url": "/wiki/concepts/equityretirementassetbinding/"
     },
     "ErNianLuLing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！ [ljfol4zMCQweWv5h4z4rBY5VFW5P].md",
@@ -77014,9 +77030,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/ernianluling/"
     },
     "EraNameSystem": {
@@ -100226,6 +100249,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/gregoryxi/"
+    },
+    "GreshamsLaw": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/greshamslaw/"
     },
     "GreyOwl": {
       "episode_count": 1,
@@ -144707,9 +144753,9 @@
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -144759,6 +144805,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》216｜汉朝第一首富，竟然是文帝的男宠？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-216-hanchao-diyi-shoufu-jingran-shi-wendi-de-nanchong-ls2ebkz64ax0oywszpjrndfn3-k4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
         }
       ],
       "updated": "2026-10-09",
@@ -152636,9 +152689,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 2,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152779,6 +152832,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
         }
       ],
       "updated": "2026-10-09",
@@ -270825,9 +270885,9 @@
       "url": "/wiki/entities/zhangziqiang/"
     },
     "ZhangjiashanHanmuZhujian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1） [ljw5NZD-Ap1A4HkdczxUn3t0_VwY].md",
@@ -270842,9 +270902,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币 [lnwhX69b13x5WYTO2JOvXnljgsiD].md",
+          "key": "zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》201｜女皇吕雉，创造古代最长寿的货币",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-201-nvhuang-lvzhi-chuangzao-gudai-zui-changshou-de-huobi-lnwhx69b13x5wyto2jovxnljgsid/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/zhangjiashanhanmuzhujian/"
     },
     "ZhangkeCommanderyWesternHan": {
