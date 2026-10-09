@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2639
+topic_total_pages: 2640
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6597,6 +6597,9 @@ topic_sources:
   - key: "63-hitler-with-ian-kershaw-part-1-glt1996418919"
     title: "63. Hitler, with Ian Kershaw - part 1"
     url: "/wiki/sources/63-hitler-with-ian-kershaw-part-1-glt1996418919/"
+  - key: "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163"
+    title: "637. Revolution in Iran: Rise of the Ayatollah (Part 2)"
+    url: "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
   - key: "638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579"
     title: "638. Revolution in Iran: The Hostage Crisis (Part 3)"
     url: "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"

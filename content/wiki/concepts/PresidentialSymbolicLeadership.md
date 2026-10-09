@@ -9,6 +9,7 @@ sources:
   - 179-french-presidents-1981-2022-part-2-glt2206497694
   - 178-french-presidents-1958-1981-part-1-glt1396593896
   - 639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592
+  - 637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -27,17 +28,17 @@ The French branch supplies an institutional comparison through [[178-french-pres
 
 Across both branches, performance can express genuine belief without guaranteeing factual accuracy, policy success, legal conduct, moral adequacy, or durable institutional health.
 
-The hostage-crisis branch in [[639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592]] contrasts moral responsibility with reassurance. [[JimmyCarter]] is presented as serious, personally burdened, and willing to accept blame for [[OperationEagleClaw]], yet exhaustion and repeated failure made him look unable to master events. [[RonaldReagan]] benefited from a public style better able to narrate recovery. Symbolic leadership therefore affects whether responsibility is read as integrity or weakness, but it cannot substitute for successful diplomacy, operations, or material conditions.
+The Carter branch now begins before the hostage crisis. [[637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163]] presents calls for energy restraint, the July 1979 crisis-of-confidence speech, cabinet dismissals, and comic press stories as a sequence in which moral diagnosis and visible strain failed to supply mastery or material relief. [[639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592]] then contrasts Carter's personal burden and willingness to accept blame for [[OperationEagleClaw]] with [[RonaldReagan]]'s more reassuring public style. Symbolic leadership therefore affects whether sacrifice and responsibility are read as integrity or weakness, but it cannot substitute for successful diplomacy, operations, energy supply, or economic conditions.
 
 ## Key Claims
 
-- Symbolic performance can make dignity, recovery, grief, order, and belonging emotionally legible.
-- Communication skill is formed through repeated civic, religious, media, occupational, and political practice.
+- Symbolic performance can make dignity, recovery, grief, order, and belonging emotionally legible, while the skill develops through repeated civic, religious, media, occupational, and political practice.
 - Ceremony and visual presentation shape expectations of an office as well as impressions of its occupant.
 - Constitutional traditions can make symbolic embodiment an institutional demand rather than optional personal style.
 - Performance and sincerity can reinforce one another without guaranteeing factual reliability.
 - Strong presidential symbolism can coexist with policy failure, exclusion, corruption, scandal, or weakened intermediary institutions.
 - Moral seriousness and responsibility-taking do not automatically produce public confidence during prolonged crisis.
+- Calls for collective sacrifice are especially vulnerable when audiences experience scarcity and hear diagnosis without credible relief.
 
 ## Evidence
 
@@ -49,6 +50,7 @@ The hostage-crisis branch in [[639-revolution-in-iran-death-in-the-desert-part-4
 ### Presidential confidence and resilience
 
 - [[312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229]] uses campaign imagery, Oval Office formality, assassination-attempt humor, national mourning, and the farewell address to ground symbolic authority.
+- [[637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163]] connects Carter's conservation appeal, crisis-of-confidence speech, cabinet purge, physical exhaustion, and mocking press narratives to authority loss before the hostage crisis.
 - [[639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592]] contrasts Carter's visible burden and acceptance of responsibility with Reagan's more effective reassurance during the hostage crisis and 1980 transition.
 
 ### Institutionalized grandeur
@@ -63,15 +65,13 @@ The hostage-crisis branch in [[639-revolution-in-iran-death-in-the-desert-part-4
 
 ## Counterevidence & Qualifications
 
-The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. Carter's defeat cannot be reduced to demeanor or the hostage crisis, and Reagan's reassurance does not prove involvement in hostage-release timing. The French episodes' rankings and claims about what the public expects from presidents are deliberately subjective and anecdotal.
+The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. Carter's defeat cannot be reduced to demeanor, the energy crisis, or the hostage crisis, and Reagan's reassurance does not prove involvement in hostage-release timing. The French episodes' rankings and claims about what the public expects from presidents are deliberately subjective and anecdotal.
 
 ## What Changed
 
-- Extended the framework from personal communication skill to an institutional expectation of national embodiment.
-- Added the French contrast between grandeur, conspicuous ambition, ordinariness, secrecy, and party-system fragility.
-- Clarified that symbolic success can weaken institutions even when it strengthens the individual president.
-- Added early evidence that both attempted ordinariness and inherited aristocratic formality can fail when they conflict with the office's expected dignity.
-- Added the Carter-Reagan crisis contrast between responsibility-taking, visible mastery, and public reassurance.
+- Extended the Carter branch backward from hostage rescue to energy scarcity and the crisis-of-confidence speech.
+- Clarified why sacrifice, introspection, responsibility-taking, visible mastery, and public reassurance can be judged differently under material stress.
+- Preserved the broader finding that symbolic success can coexist with policy failure, exclusion, corruption, scandal, or institutional weakness.
 
 ## Related Concepts
 

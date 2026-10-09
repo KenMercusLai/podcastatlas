@@ -44826,6 +44826,29 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/cleopatravii/"
     },
+    "ClericalRepublicDualAuthority": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
+          "key": "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd",
+          "show": "Talk三联",
+          "title": "EP251 伊朗困局：四十年战略选择的代价与现实",
+          "url": "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/clericalrepublicdualauthority/"
+    },
     "ClimateAidRetrenchment": {
       "episode_count": 2,
       "show_count": 2,
@@ -130880,9 +130903,9 @@
       "url": "/wiki/entities/jimcallaghan/"
     },
     "JimmyCarter": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -130904,6 +130927,13 @@
           "show": "The Rest Is History",
           "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
           "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
         }
       ],
       "updated": "2026-10-09",
@@ -162864,9 +162894,9 @@
       "url": "/wiki/entities/meghanmarkle/"
     },
     "MehdiBazargan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6844236579 [GLT6844236579].md",
@@ -162874,6 +162904,13 @@
           "show": "The Rest Is History",
           "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
           "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
         }
       ],
       "updated": "2026-10-09",
@@ -168932,9 +168969,9 @@
       "url": "/wiki/entities/mohammadmossadegh/"
     },
     "MohammadRezaPahlavi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
@@ -168956,6 +168993,13 @@
           "show": "The Rest Is History",
           "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
           "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
         }
       ],
       "updated": "2026-10-09",
@@ -195897,9 +195941,9 @@
       "url": "/wiki/concepts/presidentialimpeachment/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -195942,6 +195986,13 @@
           "show": "The Rest Is History",
           "title": "639. Revolution in Iran: Death in the Desert (Part 4)",
           "url": "/wiki/sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
         }
       ],
       "updated": "2026-10-09",
@@ -212146,9 +212197,9 @@
       "url": "/wiki/entities/rugbyworldcup1995/"
     },
     "RuhollahKhomeini": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
@@ -212184,6 +212235,13 @@
           "show": "The Rest Is History",
           "title": "638. Revolution in Iran: The Hostage Crisis (Part 3)",
           "url": "/wiki/sources/638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579/"
+        },
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
         }
       ],
       "updated": "2026-10-09",
@@ -221208,6 +221266,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/shiftworkcircadianhealth/"
+    },
+    "ShiiteRitualRevolutionaryMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7243579163 [GLT7243579163].md",
+          "key": "637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163",
+          "show": "The Rest Is History",
+          "title": "637. Revolution in Iran: Rise of the Ayatollah (Part 2)",
+          "url": "/wiki/sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/shiiteritualrevolutionarymobilization/"
     },
     "Shijing": {
       "episode_count": 6,

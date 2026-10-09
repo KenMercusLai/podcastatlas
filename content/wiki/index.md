@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [637. Revolution in Iran: Rise of the Ayatollah (Part 2)](sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163.md) — The Rest Is History episode on the Shah's collapse, Khomeini's ritual and media mobilization, clerical-republican rule, army neutrality, oil shock, and Carter's crisis of confidence.
 - [Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247.md) — Huberman Lab Essentials condenses Paul Conti's functional trauma definition, language-and-witnessing approach, therapist-fit criteria, medication boundary, and supervised altered-state context.
 - [7 寻根溯源：古代东西方的大学、博士、硕士和学士](sources/7-xungen-suyuan-gudai-dongxifang-de-daxue-boshi-shuoshi-he-xueshi-ltuhvvskxxv3rzzfal-8insvutvx.md) — 怪东西从太学、国子监、科举与书院对照欧洲师生行会、大学自治、研究型大学和学位名称，说明大学同时承载教化、职业、流动、求知与学历筛选功能。
 - [Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555.md) — All-In interview on CMS drug pricing, supervised medical AI, patient-data interoperability, rural access, and payment verification.
@@ -17210,6 +17211,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jake Loosararian](entities/JakeLoosararian.md) — Gecko Robotics co-founder and CEO arguing that paid industrial inspection creates the missing physical-world data needed for useful industrial AI.
 
 ## Concepts
+- [Clerical-Republican Dual Authority](concepts/ClericalRepublicDualAuthority.md) — Unequal state design joining elected and administrative institutions to superior clerical guardianship.
+- [Shiite Ritual Revolutionary Mobilization](concepts/ShiiteRitualRevolutionaryMobilization.md) — Use of sacred calendar, mourning, sacrifice, and martyrdom narratives to coordinate revolutionary action.
 - [University Institutional Pluralism / 大学制度功能多元性](concepts/UniversityInstitutionalPluralism.md) — Universities as changing bundles of formation, inquiry, professional entry, mobility, community, and credential screening.
 - [Medieval University Guild Autonomy / 中世纪大学行会自治](concepts/MedievalUniversityGuildAutonomy.md) — Corporate capacity of teachers and students to govern membership, qualifications, bargaining, migration, and jurisdiction, with both protective and exclusionary effects.
 - [Healthcare Payment Verification](concepts/HealthcarePaymentVerification.md) — Provider, beneficiary, site, and service checks designed to reduce improper healthcare payments while preserving due process and continuity of care.

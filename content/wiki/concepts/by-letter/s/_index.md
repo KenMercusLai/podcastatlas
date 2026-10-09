@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10066
+wiki_total_pages: 10068
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "ShiftWorkCircadianHealth"
     title: "Shift-Work Circadian Health"
     url: "/wiki/concepts/shiftworkcircadianhealth/"
+  - key: "ShiiteRitualRevolutionaryMobilization"
+    title: "Shiite Ritual Revolutionary Mobilization"
+    url: "/wiki/concepts/shiiteritualrevolutionarymobilization/"
   - key: "ShilajitEvidenceBoundary"
     title: "Shilajit Evidence Boundary"
     url: "/wiki/concepts/shilajitevidenceboundary/"
