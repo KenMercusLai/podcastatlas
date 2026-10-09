@@ -34048,3 +34048,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)
+
+Added source `the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525`; and resynthesized [[TheBeatles|the Beatles]], [[JohnLennon]], [[PaulMcCartney]], [[BrianEpstein]], [[Liverpool]], [[PostwarTeenageConsumerMarket]], [[PopularMusicAsCulturalTransmission]], [[InformalMusicalLearningNetwork]], and [[AngloAmericanPowerReversal]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: postwar Liverpool, American records, peer learning, Hamburg practice, Epstein and Martin's complementary institutional roles, self-written group identity, teenage-girl spending and fandom, and U.S. media access jointly explain the early rise better than a single-cause story; praise for Black American artists and refusal of segregated venues connect musical transmission to concrete public conduct. No settled contradiction was adopted. Discovery stories, Epstein's alleged record buying, chart and audience figures, remembered dialogue, the Kennedy-timing hypothesis, and causal allocations among talent, luck, class, race, media, and youth spending remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,263 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

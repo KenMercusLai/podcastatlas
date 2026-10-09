@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)](sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525.md) — The Rest Is History follows the Beatles from postwar Liverpool and Hamburg through Epstein, original songwriting, Beatlemania, civil-rights conduct, and the 1964 American breakthrough.
 - [623. The Nazis at War: Churchill's Finest Hour (Part 4)](sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438.md) — The Rest Is History on Britain's 1940 resistance, German air and invasion failures, the Blitz, and Hitler's turn toward Barbarossa.
 - [《资治通鉴》00丨读史学经典，悟处世大道](sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7.md) — 系列导言，以司马光的编纂、编年体例与帝王之镜为起点，把《资治通鉴》转化为普通人理解人性、关系、判断及兴衰的长期阅读资源。
 - [《资治通鉴·周纪》01｜韩赵魏三家分晋](sources/zizhi-tongjian-zhouji-01-hanzhaowei-sanjiafenjin-lu9desx1v8h1wwfhvbqusoutukqm.md) — 以周威烈王承认韩赵魏为诸侯为《资治通鉴》开篇，区分实际分晋与名分承认，并展开礼、分、名、名器及汤武革命的合法性边界。

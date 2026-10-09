@@ -4,7 +4,8 @@ type: concept
 tags: [music, learning, peer-networks, oral-culture, creativity]
 sources:
   - 670-tom-holland-meets-paul-mccartney-glt5781731754
-last_updated: 2026-10-04
+  - the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The episode places [[PaulMcCartney]], [[JohnLennon]], and other young [[Liverpoo
 
 This mechanism resembles oral tradition without being identical to an unrecorded culture. Commercial recordings provided stable external models, while learning by ear, imperfect copying, instrument constraints, and reciprocal demonstration created room for variation and recombination. The same practice continued inside [[TheBeatles|the Beatles]], where a song idea could be brought to the group and quickly converted into playable parts.
 
+The group-history account corroborates the mechanism through Lennon and McCartney's shared knowledge of “Come Go With Me” and the wider circulation of rock-and-roll, doo-wop, and girl-group recordings. It also shows the network feeding a live apprenticeship: knowledge acquired from records and peers was tested through prolonged performance in Hamburg.
+
 ## Key Claims
 
 - Access to a scarce recording becomes creative capacity only through attention, practice, and sharing.
@@ -33,15 +36,15 @@ This mechanism resembles oral tradition without being identical to an unrecorded
 - Record circulation: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] describes American records brought through Liverpool, borrowed, copied, and learned within a small musical culture.
 - Peer demonstration: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] describes McCartney and Lennon exchanging practical chord knowledge when they met.
 - Band practice: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] describes songs arriving as ideas and becoming arrangements through rapid collaborative work.
+- Shared repertoire and performance: [[the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525]] connects mutual recognition of an American song and imported recordings to the band's later Hamburg apprenticeship.
 
 ## Counterevidence & Qualifications
 
-One retrospective interview does not establish how representative this learning pattern was, how much formal instruction individual musicians received, or whether scarcity generally improves learning. “Oral tradition” is an analogy: the network depended on commercial records, guitars, schools, homes, transport, and a port economy. Peer circulation can exclude outsiders as well as create community.
+Two overlapping, retrospective podcast accounts do not establish how representative this learning pattern was, how much formal instruction individual musicians received, or whether scarcity generally improves learning. “Oral tradition” is an analogy: the network depended on commercial records, guitars, schools, homes, transport, and a port economy. Peer circulation can exclude outsiders as well as create community.
 
 ## What Changed
 
-- Created a mechanism linking record access, scarcity, peer exchange, practical skill, and creative recombination.
-- Distinguished learning by ear from both formal notation and wholly unrecorded oral culture.
+- Added corroborating evidence that shared repertoire recognition fed into prolonged live performance practice.
 
 ## Related Concepts
 
