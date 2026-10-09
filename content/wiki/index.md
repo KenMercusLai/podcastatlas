@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！](sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2.md) — 秦始皇以巡游、祭祀和求仙回应死亡焦虑，却因回避身后议题迟迟未定储；病危时召扶苏的信件滞留赵高手中，蒙毅离场与李斯位阶焦虑共同铺垫沙丘继承危机。
 - [632. Joan of Arc: Warrior Maid (Part 1)](sources/632-joan-of-arc-warrior-maid-part-1-glt6592271090.md) — The Rest Is History episode on the Anglo-Burgundian high point, Orléans crisis, Joan's frontier upbringing, religious voices, and departure for the Dauphin.
 - [Trump names his new AI task force the "Super Intelligence Force"](sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128.md) — Marketplace Tech on a new federal AI task force, data-center ratepayer bills, cross-party demand for stricter regulation, and the limits of industry self-policing.
 - [Best Ways to Build Better Habits & Break Bad Ones | James Clear](sources/best-ways-to-build-better-habits-break-bad-ones-james-clear-scim2778708637.md) — Huberman Lab interview on small starts, physical and digital friction, identity-based habits, social norms, flexible consistency, and rapid recovery after lapses.
@@ -9940,7 +9941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邓通 / Deng Tong](entities/DengTong.md) — 由文帝梦兆、近身照料和个人宠爱获得官位、铜山及铸钱权，却在景帝继位后被免官、查办、没产并贫饿而死的西汉宠臣。
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — 以绕伏、断粮、坚守和识破佯攻建立七国之乱军功，后因连续政策冲突失去帝王信任并在随葬甲盾案中绝食而死的西汉将相。
 - [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — 文帝继承者，以削藩、普遍宽刑、对周亚夫的个案严厉与临终重农并置，承接文景繁荣及内部集中问题。
-- [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
+- [沙丘 / Shaqiu](entities/Shaqiu.md) — 秦始皇最后巡游的死亡地点，并与赵武灵王早先的沙丘之变形成同地异事的继承危机对照。
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
 - [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
 - [敖仓 / Aocang](entities/Aocang.md) — Yellow River-side grain source whose corridor logic now spans Julu supply, Xingyang support, Chu-Han food pressure, and Li Shiqi's central-front advice.
@@ -10040,11 +10041,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陆贾 / Lu Jia](entities/LuJia.md) — Liu Bang-side persuader and envoy, from Yaoguan negotiation and Xinyu civil-order teaching to the completed Nanyue submission mission.
 - [《新语》 / Xinyu](entities/Xinyu.md) — Lu Jia text used in Hanji 176 and 185 to frame Liu Bang's turn from military conquest toward ritual-civil governance.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
-- [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider now treated as a eunuch-label controversy, moving from death secrecy and access monopoly into truth inversion and a family-backed coup circle.
-- [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
+- [赵高 / Zhao Gao](entities/ZhaoGao.md) — 掌车驾、符玺与法律技能的秦廷近臣，从扣留扶苏召书的接触节点扩张为继承操弄、宫廷隔绝、司法控制与危机封锁的核心人物。
+- [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — 秦始皇信任的中央官员，病危时被遣往祭祀而离开核心圈，其缺席与曾判赵高死刑共同塑造继承危机。
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
 - [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
-- [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son whose unjust death and softer succession image become rebel legitimacy material for Chen Sheng and Wu Guang.
+- [扶苏 / Fu Su](entities/FuSu.md) — 秦始皇长子与北疆监军，临终召书未能发出、后遭伪诏移除，其受冤形象又成为陈胜吴广的反秦合法性资源。
 - [甘忠可 / Gan Zhongke (Western Han)](entities/GanZhongkeWesternHan.md) — Western Han fangshi-style figure who uses Taipingjing renewed-mandate language to approach Han Chengdi through no-heir anxiety.
 - [侯生 / Hou Sheng (Fangshi)](entities/HouShengFangshi.md) — Qin fangshi in Qinji 125-2 whose flight and criticism with Lu Sheng help trigger the坑儒 incident; distinct from Qi chancellor 后胜.
 - [阿房宫 / Afang Palace](entities/AfangPalace.md) — Late Qin palace project south of the Wei River, framed as both capital expansion and unfinished symbolic mega-project.
@@ -21657,7 +21658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emergency Succession Legitimation / 临终就近立储](concepts/EmergencySuccessionLegitimation.md) — Qinji 127-3 mechanism where a dying ruler away from the capital and senior ministers treat a nearby heir as the least destabilizing option.
 - [Forged Edict Succession Coup / 伪诏继位政变](concepts/ForgedEdictSuccessionCoup.md) — Qinji 127-2 mechanism where control of imperial letters, seals, and death information lets insiders name Hu Hai heir and issue fatal orders against Fusu and Meng Tian.
 - [Imperial Death Concealment / 秘不发丧式过渡控制](concepts/ImperialDeathConcealment.md) — Succession-control pattern where a ruler's death is hidden through routines, travel timing, or palace security until announcement and successor choice can be managed.
-- [Omen Countermeasure Mobility / 游徙避命](concepts/OmenCountermeasureMobility.md) — Qinji 126 part 2 pattern where a death omen and divination turn movement, migration, and the final tour into fate-avoidance responses.
+- [Omen Countermeasure Mobility / 游徙避命](concepts/OmenCountermeasureMobility.md) — 以迁徙与巡游回应死亡预言的秦末模式；最终巡游兼具祭祀和政治表演，却在沙丘死亡与未定继承中显出边界。
 - [秦代坑儒事件 / Qin Kengru Incident](concepts/QinKengruIncident.md) — Qinji 125-2 frame for the 212 BCE punishment case following fangshi flight and criticism, kept separate from Qin's book-burning policy.
 - [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — 秦汉大型工程在展示动员能力的同时挤压劳力、财政、运输与政治承载力的模式。
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.
@@ -22013,7 +22014,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
-- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity or family bloc lacks a legible, enforceable succession path and leaves factions with armed or narrative leverage.
+- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — 统治者未建立公开、可执行继承路径时，私意、临终口信、未发文书、符玺接触与武装派系如何把权力交接转化为冲突。
 - [撤压诱发内斗 / Pressure-Release Infighting Strategy](concepts/PressureReleaseInfightingStrategy.md) — Strategy of easing external pressure so unresolved rivalries reappear, then intervening once exhaustion makes the split actionable.
 - [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler or court balance becomes exposed when succession lets a new regime revalue prior service.
 - [Local Official Tenure Stability / 地方官任期稳定](concepts/LocalOfficialTenureStability.md) — Zhu Fu, Zuo Xiong, and Lu Zhi tenure-stability concept tying local-official continuity, truthful inspection, multi-year observation, and appointment-pipeline constraints to state capacity.

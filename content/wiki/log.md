@@ -33698,3 +33698,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！
+
+Added source `zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2`; resynthesized [[FuSu|扶苏]], [[ZhaoGao|赵高]], [[MengYiQin|蒙毅]], [[Shaqiu|沙丘]], [[OmenCountermeasureMobility|游徙避命]], and [[SuccessionNonDesignationRisk|未定继承人风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Qin Shi Huang's aversion to death discussion delays a public succession settlement; his last-minute summons to Fusu remains undelivered with Zhao Gao; Meng Yi's ritual absence narrows the deathbed circle; and Zhao Gao begins converting Li Si's status fear toward Meng Tian into political leverage. The received letter-and-forgery sequence remains in unresolved tension with the Zhao Zheng Shu nearby-heir account. Qin Shi Huang's psychology, the distinction between performative and sincere sacrifice, Xu Fu's great-fish excuse, and the counterfactual effect of Meng Yi's presence remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,219 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

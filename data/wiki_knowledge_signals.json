@@ -92512,6 +92512,57 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/fushangwesternhan/"
     },
+    "FuSu": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功 [loCnaq-FO1fZtYUD5nghwktEams-].md",
+          "key": "zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
+          "key": "zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏 [lq-VNy5DUWWzFUbPeiJR21oAZXbg].md",
+          "key": "zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
+          "key": "zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/fusu/"
+    },
     "FuTaihouWesternHan": {
       "episode_count": 12,
       "show_count": 1,
@@ -165079,6 +165130,43 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/mengyangstandup/"
     },
+    "MengYiQin": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密 [lhgwR2of7zcmg2GgBCDZragwstyi].md",
+          "key": "zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
+          "key": "zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏 [lq-VNy5DUWWzFUbPeiJR21oAZXbg].md",
+          "key": "zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/mengyiqin/"
+    },
     "MengYunEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -181816,6 +181904,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/omencodedremonstrance/"
+    },
+    "OmenCountermeasureMobility": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/omencountermeasuremobility/"
     },
     "OmenSkepticismRemonstrance": {
       "episode_count": 2,
@@ -221196,6 +221307,29 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/shaowengwesternhan/"
     },
+    "Shaqiu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？ [ls8LFj4pq_Ncsk7X3ER7nlB0lTKK].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shaqiu/"
+    },
     "ShaqiuGuanduLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -234009,9 +234143,9 @@
       "url": "/wiki/concepts/successionlegitimacypurge/"
     },
     "SuccessionNonDesignationRisk": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
@@ -234082,9 +234216,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/successionnondesignationrisk/"
     },
     "Sudan": {
@@ -275938,6 +276079,85 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaofeiyanwesternhan/"
+    },
+    "ZhaoGao": {
+      "episode_count": 10,
+      "show_count": 1,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1） [ljw5NZD-Ap1A4HkdczxUn3t0_VwY].md",
+          "key": "zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈 [lgKJMddVrcelw2lTDWT92E4pogUJ].md",
+          "key": "zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩 [liuPvALcgHtaS2iBFyJrTDz6CTG7].md",
+          "key": "zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场 [ljnZ0vFlgr62hYkTrg5cIGZ7C_7X].md",
+          "key": "zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣 [lh23XJ9QXvubj5rLFA9FXMDdGbiu].md",
+          "key": "zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密 [lhgwR2of7zcmg2GgBCDZragwstyi].md",
+          "key": "zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！ [ljA0PaNKCx4uGTYLbXXqKwuAvdnW].md",
+          "key": "zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏 [lq-VNy5DUWWzFUbPeiJR21oAZXbg].md",
+          "key": "zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！ [lniZ32t2r2d3THGqNBFarRQeQ2A2].md",
+          "key": "zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhaogao/"
     },
     "ZhaoGuanghanWesternHan": {
       "episode_count": 2,
