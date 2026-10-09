@@ -34653,9 +34653,9 @@
       "url": "/wiki/entities/caoshaolatehan/"
     },
     "CaoShen": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县 [lnoib0BvZ8w0ihvHxMTx19tR4JDZ].md",
@@ -34719,6 +34719,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》196｜解析“萧规曹随”大智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1） [loPpQVgdajwNfWJx4cD-v9itdjI7].md",
+          "key": "zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7/"
         }
       ],
       "updated": "2026-10-09",
@@ -58527,6 +58534,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/deathbedheirreplacementresistance/"
+    },
+    "DeathbedMinisterialSuccessionPlanning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1） [loPpQVgdajwNfWJx4cD-v9itdjI7].md",
+          "key": "zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/deathbedministerialsuccessionplanning/"
     },
     "DeathsOfDespairCounterfeitPillRisk": {
       "episode_count": 1,

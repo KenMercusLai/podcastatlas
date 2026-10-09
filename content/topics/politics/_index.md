@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3236
+topic_total_pages: 3237
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4504,6 +4504,9 @@ topic_concepts:
   - key: "DeathbedHeirReplacementResistance"
     title: "临终废储阻断 / Deathbed Heir Replacement Resistance"
     url: "/wiki/concepts/deathbedheirreplacementresistance/"
+  - key: "DeathbedMinisterialSuccessionPlanning"
+    title: "临终辅政梯队安排 / Deathbed Ministerial Succession Planning"
+    url: "/wiki/concepts/deathbedministerialsuccessionplanning/"
   - key: "RecommendationAccountabilityTalentSelection"
     title: "举荐问责式选才 / Recommendation-Accountability Talent Selection"
     url: "/wiki/concepts/recommendationaccountabilitytalentselection/"

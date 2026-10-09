@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10046
+wiki_total_pages: 10047
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "DeathbedHeirReplacementResistance"
     title: "临终废储阻断 / Deathbed Heir Replacement Resistance"
     url: "/wiki/concepts/deathbedheirreplacementresistance/"
+  - key: "DeathbedMinisterialSuccessionPlanning"
+    title: "临终辅政梯队安排 / Deathbed Ministerial Succession Planning"
+    url: "/wiki/concepts/deathbedministerialsuccessionplanning/"
   - key: "DecisiveTerrainPreemption"
     title: "争地抢先式决胜 / Decisive Terrain Preemption"
     url: "/wiki/concepts/decisiveterrainpreemption/"

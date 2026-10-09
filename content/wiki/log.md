@@ -33338,3 +33338,11 @@ Added source `zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-re
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）
+
+Added source `zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7`; created [[DeathbedMinisterialSuccessionPlanning|临终辅政梯队安排]]; and resynthesized [[CaoShen|曹参]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Liu Bang's reported deathbed sequence assigns Cao Shen to immediate continuity, pairs Wang Ling's firmness with Chen Ping's intelligence, and reserves Zhou Bo's military reliability for a later Liu-house security problem; the same episode turns founder death into Liu Ying's accession, Lu Wan's exile, and the Fan Kuai execution order. No settled contradiction was adopted. The “four hundred years” title is treated as retrospective rhetoric, and the exact dialogue, dates, age, burial details, Lu Wan family chronology, institutional authorship, medical refusal, accusations, motives, and emotional judgments remain episode-attributed. Broad [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[LiuYing|刘盈]], [[LuWan|卢绾]], [[ChenPing|陈平]], [[ZhouBo|周勃]], [[FanKuai|樊哙]], and show pages were kept closed because the bounded additions are represented in the focused source, concept, and Cao Shen profile. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,174 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

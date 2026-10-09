@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7.md) — 刘邦临终按曹参、王陵配陈平、周勃安排辅政梯队，随后刘盈即位、卢绾亡匈奴；樊哙死令则显示继承焦虑如何侵蚀开国旧谊。
 - [《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”](sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn.md) — 刘肥在宴席毒酒危机后以城阳郡和反常王太后名分向吕后示弱求生；萧何身后评价、九章律归属与宫廷动机保留来源边界。
 - [《资治通鉴·汉纪》196｜解析“萧规曹随”大智慧](sources/zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o.md) — 曹参把齐国验证过的黄老清静治理带入汉廷，以择人、宽察和制度连续维护战后恢复；其适用边界与文景因果保留来源限定。
 - [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx.md) — 刘如意在保护空档中被害、戚夫人遭人彘酷刑；节目对刘盈“完全停政”又作七年在位的自我限定，并把周昌退场作为单人保护失灵的终点。
@@ -17170,6 +17171,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [临终辅政梯队安排 / Deathbed Ministerial Succession Planning](concepts/DeathbedMinisterialSuccessionPlanning.md) — 临终君主按政治阶段和能力互补安排连续辅政人选，同时保留后续联盟与执行条件对结果的决定作用。
 - [名分倒置式求生 / Status-Reversal Survival Bargain](concepts/StatusReversalSurvivalBargain.md) — 受威胁者以反常名分和物质让渡公开降低自身威胁的政治生存模式。
 - [萧规曹随式制度连续 / Xiao-Gui-Cao-Sui Institutional Continuity](concepts/XiaoGuiCaoSuiInstitutionalContinuity.md) — 继任者在既有制度足够健全且社会需要恢复时，以克制改制冲动来保护秩序的条件性治理选择。
 - [黄老式清静治理 / Huang-Lao Quiet Governance](concepts/HuangLaoQuietGovernance.md) — 以道为方向、法为结构、均衡与知变为方法，并以少扰民和非强制为目标的汉初恢复型治理框架。
