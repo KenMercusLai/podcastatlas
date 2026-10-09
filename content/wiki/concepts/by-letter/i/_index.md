@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10036
+wiki_total_pages: 10037
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"
+  - key: "InterestEmbeddedPoliticalBrokerage"
+    title: "多方利益嵌入式政治经纪 / Interest-Embedded Political Brokerage"
+    url: "/wiki/concepts/interestembeddedpoliticalbrokerage/"
   - key: "ImperialClassicsConsensusBuilding"
     title: "官方经学定议 / Imperial Classics Consensus Building"
     url: "/wiki/concepts/imperialclassicsconsensusbuilding/"

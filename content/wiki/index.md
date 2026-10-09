@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王](sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g.md) — 田子春先借张氏推动吕禄封赵王，再以封刘泽安抚刘氏与大臣，并催刘泽携诏离京避过追收。
 - [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9.md) — 吕后临终以吕禄、吕产分掌长安南北军并警告大臣反吕风险；节目提出狂犬病解释，但狗咬、症状链与确诊证据均不足。
 - [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd.md) — 刘恢在吕氏联姻、监控与宠妾被毒后自杀；刘泽则经军功、联姻与田子春的内廷通道谋求由侯升王。
 - [640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)](sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972.md) — The Rest Is History episode on Cannae's incomplete political conversion, Roman crisis discipline, Capua, and the siege of Syracuse.
@@ -4231,7 +4232,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [赵王刘恢 / Liu Hui (King of Zhao, Western Han)](entities/LiuHuiZhaoKingWesternHan.md) — 被改封赵王并置于吕氏婚姻与家庭监控中的西汉宗室。
-- [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 为刘泽谋求王爵并通过儿子搭建宦官接近路线的齐国游士。
+- [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 借内廷通道、吕禄封王与补偿性分封，为刘泽取得琅邪王爵并安排其及时离京的齐国政治经纪人。
 - [Syracuse / 叙拉古](entities/Syracuse.md) — Strategic Sicilian Greek city whose change of alignment leads to Archimedean defense and Roman conquest.
 - [Archimedes / 阿基米德](entities/Archimedes.md) — Syracusan mathematician and engineer whose machines delay the Roman siege while later legend adds a doubtful death ray.
 - [Marcus Claudius Marcellus / 马库斯·克劳狄乌斯·马塞勒斯](entities/MarcusClaudiusMarcellus.md) — Roman commander who adapts after failed assaults and captures Syracuse.
@@ -4242,7 +4243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [贾寿 / Jia Shou (Western Han)](entities/JiaShouWesternHan.md) — 自齐国归来后向吕产通报灌婴与齐楚合谋，其警告又被曹窋传给反吕大臣的郎中令。
 - [曹窋 / Cao Ku (Western Han)](entities/CaoKuWesternHan.md) — 旁听贾寿警报并转告陈平、周勃，随后协助封闭宫门阻止吕产入殿的平阳侯。
 - [纪通 / Ji Tong (Western Han)](entities/JiTongWesternHan.md) — 以符节和皇命名义帮助周勃进入北军的授权中介；与东汉祭肜区别。
-- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 吕后死后掌北军，因信任郦寄而交出将印离营，随后在胜方扩大清洗时与家族一同被杀的吕氏将领。
+- [吕禄 / Lü Lu (Western Han)](entities/LuLuWesternHan.md) — 经请封成为赵王，吕后死后掌北军，后因信任郦寄而交出将印并在诛吕清洗中被杀的吕氏宗王。
 - [吕产 / Lü Chan (Western Han)](entities/LuChanWesternHan.md) — 吕后死后掌南军，北军易手后被阻于未央宫门外并遭刘章斩杀，其死亡成为全面清洗的节点。
 - [吕媭 / Lü Xu (Western Han)](entities/LuXuWesternHan.md) — 吕雉之妹、樊哙遗孀与女性列侯；曾攻讦陈平，后在诛吕清洗中被笞打致死。
 - [魏勃 / Wei Bo (Western Han)](entities/WeiBoWesternHan.md) — 帮助刘襄夺取齐国军权并举兵，却在胜后因擅自发动受灌婴斥责的反吕行动组织者。
@@ -6558,7 +6559,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
 - [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant whose succession grievance, first exposed rebellion, later anti-Huo coalition role, and suicide form a repeated-rebellion arc.
 - [刘泽 / Liu Ze, Qi Royal Descendant (Western Han)](entities/LiuZeQiRoyalWesternHan.md) — Qi royal descendant whose intended Linzi rising and attack on Jun Buyi are exposed and stopped before action.
-- [琅邪王刘泽 / Liu Ze (King of Langye, Western Han)](entities/LiuZeLangyeKingWesternHan.md) — 被齐王刘襄诱至临淄拘留并失去琅邪兵力，后借拥立话语争取脱身赴京的西汉诸侯王。
+- [琅邪王刘泽 / Liu Ze (King of Langye, Western Han)](entities/LiuZeLangyeKingWesternHan.md) — 经田子春的补偿性分封策略由侯升王，后被刘襄诱扣并失去琅邪兵力、再借拥立话语脱身的西汉诸侯王。
 - [马王爷 / Ma Wangye](entities/MaWangye.md) — three-eyed horse deity figure used by Hanji 390-2 to explain folklore around Jin Midi's palace vigilance.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose accession follows Lady Gouyi's death and whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
@@ -17150,6 +17151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [多方利益嵌入式政治经纪 / Interest-Embedded Political Brokerage](concepts/InterestEmbeddedPoliticalBrokerage.md) — 经纪人把客户目标嵌入君主、通道中介与潜在反对者的利益链，并通过顺序与时机把请求转化为问题解决方案。
 - [Battle of Cannae / 坎尼会战](concepts/BattleOfCannae.md) — Hannibal's annihilating victory and the problem of converting battlefield destruction into Roman surrender or allied collapse.
 - [Business Agent Benchmark Gap](concepts/BusinessAgentBenchmarkGap.md) — Gap between general model benchmark scores and verified end-to-end completion of commercial work.
 - [Vertical Agent Architecture](concepts/VerticalAgentArchitecture.md) — Joint model, harness, and domain-context design for specialized production agents.
@@ -21317,7 +21319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Pattern where coalitions with troops and commanders remain brittle because prestige, suspicion, scarcity, legitimacy, and spoils can re-sort members.
 - [Borrowed-Knife Killing / 借刀杀人](concepts/BorrowedKnifeKilling.md) — Indirect-elimination pattern where an actor preserves distance by routing danger through another actor's anger, suspicion, jurisdiction, or proximity.
 - [Prestige-Constrained Political Prosecution / 名望约束下的政治追诉](concepts/PrestigeConstrainedPoliticalProsecution.md) — Hanji 1020-1021 pattern where weak evidence, elite prestige, public confidence, and office-removal tactics constrain punishment in Yang Biao's case.
-- [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — Pattern where an outer official's attempt to gain favor through a ruler's intimate household channel becomes suspicion, accusation, investigation, and political crisis.
+- [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — 外部行动者以亲密家庭或宫廷通道求取地位时，渠道既可成功产出封爵，也可转为债务、猜忌、指控与政治危机。
 - [三公监察内廷职权 / Three Excellencies Inner-Court Jurisdiction](concepts/ThreeExcellenciesInnerCourtJurisdiction.md) — Late-Han jurisdiction claim that senior ministers may review, dismiss, or impeach eunuch-linked officeholders when inner-court actors endanger ruler or state.
 - [Demoted Vassal Safety Signal / 降爵诸侯安全信号](concepts/DemotedVassalSafetySignal.md) — Early Han consolidation logic where preserving a demoted former king makes surrender or title loss look survivable to other exposed powerholders.
 - [Celebratory Summons Entrapment / 报捷祝贺式诱捕](concepts/CelebratorySummonsEntrapment.md) — False victory news and congratulatory court protocol used to lure a politically dangerous target into controlled palace space, where entry becomes loss of options.

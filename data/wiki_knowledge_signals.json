@@ -121790,9 +121790,9 @@
       "url": "/wiki/concepts/injuryrecoveryadherence/"
     },
     "InnerCourtAccessBrokerageRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -121814,6 +121814,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王 [lqBlVnEnGlLzwnFc1yJyy8B9v71G].md",
+          "key": "zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g/"
         }
       ],
       "updated": "2026-10-09",
@@ -122756,6 +122763,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/interestconsumptionretail/"
+    },
+    "InterestEmbeddedPoliticalBrokerage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王 [lqBlVnEnGlLzwnFc1yJyy8B9v71G].md",
+          "key": "zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/interestembeddedpoliticalbrokerage/"
     },
     "InterestReframingPersuasion": {
       "episode_count": 12,
@@ -148992,9 +149015,9 @@
       "url": "/wiki/entities/liuyundongpingkingwesternhan/"
     },
     "LiuZeLangyeKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1） [liOLyhn4i9_NuhXBM_srpoMOxAxB].md",
@@ -149009,6 +149032,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王 [lqBlVnEnGlLzwnFc1yJyy8B9v71G].md",
+          "key": "zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g/"
         }
       ],
       "updated": "2026-10-09",
@@ -152288,9 +152318,9 @@
       "url": "/wiki/entities/lukuandogbloodcase/"
     },
     "LuLuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
@@ -152319,6 +152349,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王 [lqBlVnEnGlLzwnFc1yJyy8B9v71G].md",
+          "key": "zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g/"
         }
       ],
       "updated": "2026-10-09",
@@ -239750,9 +239787,9 @@
       "url": "/wiki/entities/tianyulatehan/"
     },
     "TianZichunWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
@@ -239760,6 +239797,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王 [lqBlVnEnGlLzwnFc1yJyy8B9v71G].md",
+          "key": "zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g/"
         }
       ],
       "updated": "2026-10-09",

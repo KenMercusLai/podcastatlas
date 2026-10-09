@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
   - zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n
   - zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd
+  - zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g
 last_updated: 2026-10-09
 ---
 
@@ -20,12 +21,12 @@ last_updated: 2026-10-09
 
 Successful access can leave a dangerous private debt. In [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[LiuKuiBohaiKing|刘亏]] uses [[WangFuLateHan|王甫]]'s palace access to regain the [[BohaiKingdomLateHan|Bohai]] kingship, promising fifty million cash. The unpaid promise then gives Wang grievance and leverage, turning successful brokerage into the precondition for a forged treason case.
 
-Before any outcome, a channel can be built through money, display, family placement, and accumulated trust. [[zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd|Hanji 202 part 2]] says [[TianZichunWesternHan|田子春]] uses Liu Ze's payment to establish visible elite standing in Chang'an, then places his son under a chief eunuch trusted by [[LuZhi|吕雉]]. The source stops before the petition and outcome, so it demonstrates a reported strategy without proving either success or harm.
+An access channel can be built through money, display, family placement, and accumulated trust, then activated through the intermediary's own ambitions. [[zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd|Hanji 202 part 2]] says [[TianZichunWesternHan|田子春]] uses Liu Ze's payment to establish visible elite standing in Chang'an, then places his son under a palace insider trusted by [[LuZhi|吕雉]]. [[zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g|Hanji 203]] completes the sequence by attributing to Tian a reward-oriented appeal, a ministerial petition for Lü Lu, and the follow-on Langye grant to Liu Ze.
 
 ## Key Claims
 
 - Informal access through a ruler's intimate household can make praise look like sexual or factional contamination rather than recommendation.
-- An access channel can be built deliberately through conspicuous elite standing, placement of a family member, and gradual trust with a palace intermediary.
+- An access channel can be built through conspicuous elite standing, family placement, and trust, then activated by joining the intermediary's reward to the ruler's unspoken objective.
 - Payment can motivate brokerage but also creates a private debt that may become coercive after success or delay.
 - The same private channel can become an accusation channel if the broker fears punishment or the client withholds the promised reward.
 - Inner-court access risk becomes more explosive when it intersects with [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] and a recent pattern of violent rollback.
@@ -40,21 +41,23 @@ Intimate-household failure:
 Successful restoration and retaliatory reversal:
 - [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Wang Fu restores Liu Kui's kingship through palace access, then turns the unpaid promised reward into a forged treason case.
 
-Channel construction before outcome:
+Channel construction and activation:
 - [[zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd|Hanji 202 part 2]] says Tian Zichun rents a prestigious residence, cultivates elites, and places his son under a chief eunuch trusted by Lu Zhi while pursuing Liu Ze's royal title.
+- [[zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g|Hanji 203]] says the intermediary acts after Tian joins personal reward to Lu Zhi's family goal; the sequence ends with Liu Ze receiving Langye and leaving before an attempted recall.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every informal recommendation is corrupt or that every inner-court channel fails. Hanji 202 stops before Tian's decisive act, so it establishes a reported access strategy rather than its efficacy or consequences. Hanji 186 is shaped by Ying Bu's suspicion and the broader rollback of different-surname kings, while Hanji 903 joins successful access to an unpaid private promise and later fabricated evidence. Exact payments, motives, dialogue, sexual suspicion, official roles, petitions, and causal sequences remain source-scoped within these popular-history summaries.
+The concept does not imply that every informal recommendation is corrupt or that every inner-court channel fails. Hanji 203 completes the podcast's Tian sequence, but it does not independently verify the intermediary's identity, hidden motives, petitions, causation, or the political durability of the grants. Hanji 186 is shaped by Ying Bu's suspicion and the broader rollback of different-surname kings, while Hanji 903 joins successful access to an unpaid private promise and later fabricated evidence. Exact payments, motives, dialogue, sexual suspicion, official roles, petitions, and causal sequences remain source-scoped within these popular-history summaries.
 
 ## What Changed
 
-- Added Tian Zichun's unfinished, son-mediated access route as evidence for how a channel is constructed before any outcome.
-- Migrated the concept to the synthesis-v1 structure while preserving the two earlier source inventories and their distinct failure modes.
+- Completed Tian Zichun's formerly unfinished access sequence with the intermediary appeal, petitions, grants, and attempted recall.
+- Distinguished channel construction from activation through the intermediary's own expected reward.
 
 ## Related Concepts
 
-- [[TianZichunWesternHan|田子春]] - broker whose unfinished plan shows reputation and family placement constructing eunuch access.
+- [[TianZichunWesternHan|田子春]] - broker whose plan shows both construction and activation of informal palace access.
+- [[InterestEmbeddedPoliticalBrokerage|多方利益嵌入式政治经纪]] - downstream strategy that uses the access channel to sequence benefits across several actors.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - institutional scarcity that makes intimate or eunuch-mediated routes valuable.
 - [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - escalation mechanism following Ben He's failed access and accusation.
 - [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - political field that makes the Ying Bu case especially explosive.

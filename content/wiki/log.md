@@ -33233,3 +33233,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》203｜太皇太后吕雉 三杀赵王
+
+Added source `zizhi-tongjian-hanji-203-taihuangtaihou-lvzhi-sansha-zhaowang-lqblvnengllzwnfc1yjyy8b9v71g`; created [[InterestEmbeddedPoliticalBrokerage|多方利益嵌入式政治经纪]]; and resynthesized [[TianZichunWesternHan|田子春]], [[LiuZeLangyeKingWesternHan|琅邪王刘泽]], [[LuLuWesternHan|吕禄]], and [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Tian first embeds Lü Lu's kingship in Lu Zhi's family objective and the palace intermediary's reward, then turns resistance to that grant into the rationale for Liu Ze's compensating title and moves Liu Ze beyond easy recall. No settled contradiction was adopted. The title's “三杀赵王” compresses distinct deaths, suicide, refusal, and appointment; the intermediary's identity, hidden motives, dialogue, petitions, rewards, territorial transfer, attempted recall, and causal precision remain episode-attributed. Broad [[LuZhi|吕雉]], [[LiuHeng|汉文帝刘恒]], [[FanKuai|樊哙]], and [[LuXuWesternHan|吕媭]] pages were kept closed because the bounded additions are represented in the focused source, people, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,160 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
