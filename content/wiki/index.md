@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前](sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo.md) — 纸醉金迷FM以铜箱、蓝色玉蟾、痋婴和水龙晕串联献王墓前的连环防御，并区分云南文化地理语境与小说的风水科幻解释。
 - [619. Elizabeth I: The Virgin Queen (Part 4)](sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337.md) — The Rest Is History on Elizabeth's 1559 settlement, Cecil's Scottish strategy, marriage diplomacy, Dudley, and the unresolved succession crisis.
 - [何同学×罗永浩！青年何同学的骄傲与烦恼](sources/liprfske7d5elpqdhiorn-ztvxzh-liprfske7d5elpqdhiorn-ztvxzh.md) — 何同学与罗永浩讨论视频创作、DIY选题、工作室规模化、广告融合、公众品牌风险、海外本地化与锤子TNT。
 - [Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners](sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095.md) — Condensed Huberman Lab episode on social homeostasis, isolation, shared physiology, attachment, empathy modes, oxytocin, and bounded practices for connection.

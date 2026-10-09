@@ -99614,9 +99614,9 @@
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
     "GhostBlowsOutTheLight": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -99659,6 +99659,13 @@
           "show": "纸醉金迷FM",
           "title": "088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多",
           "url": "/wiki/sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2/"
+        },
+        {
+          "episode_file": "llNNgfPiPhL0_w9OpaRYwHiWWAWo [llNNgfPiPhL0_w9OpaRYwHiWWAWo].md",
+          "key": "084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo",
+          "show": "纸醉金迷FM",
+          "title": "084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前",
+          "url": "/wiki/sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo/"
         }
       ],
       "updated": "2026-10-10",
@@ -277779,9 +277786,9 @@
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
     },
     "YunnanWormValleyGhostBlowsOutTheLight": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltn3TN440w4AiXuq8TisAbGSDk5N [ltn3TN440w4AiXuq8TisAbGSDk5N].md",
@@ -277796,6 +277803,13 @@
           "show": "纸醉金迷FM",
           "title": "088 趣话《鬼吹灯》之云南虫谷P4：献王墓内欢乐多",
           "url": "/wiki/sources/088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2/"
+        },
+        {
+          "episode_file": "llNNgfPiPhL0_w9OpaRYwHiWWAWo [llNNgfPiPhL0_w9OpaRYwHiWWAWo].md",
+          "key": "084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo",
+          "show": "纸醉金迷FM",
+          "title": "084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前",
+          "url": "/wiki/sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo/"
         }
       ],
       "updated": "2026-10-10",
