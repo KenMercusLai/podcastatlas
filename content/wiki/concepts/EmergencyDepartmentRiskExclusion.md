@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, emergency-care, triage, diagnostic-reasoning]
 sources:
   - vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp
-last_updated: 2026-09-27
+  - vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ That priority changes the meaning of testing. A concentrated group of ECG, labor
 
 The source also rejects appearance-based reassurance. A younger person may walk, converse, or have worked until recently while oxygen saturation, heart function, or injury severity already indicates substantial risk. Emergency routing therefore depends on symptoms, time course, objective findings, function, and deterioration rather than age or composure alone.
 
+VOL.194 adds the encounter-level communication and evolution problem. Early appendicitis can begin with nonspecific upper-abdominal pain before localizing, while abdominal pain, headache, or back pain can span benign and dangerous causes. A short emergency assessment therefore works best when the patient identifies the principal current symptom through onset, duration, and change, and when a negative initial screen is paired with observation, reassessment, or return instructions rather than false certainty.
+
 ## Key Claims
 - Emergency care prioritizes time-sensitive danger and stabilization over exhaustive diagnosis of every symptom.
 - Concentrated testing can be justified by the combined downside of several dangerous alternatives, not merely by the most likely diagnosis.
@@ -27,20 +30,22 @@ The source also rejects appearance-based reassurance. A younger person may walk,
 - Age, walking ability, normal conversation, and recent ordinary activity do not reliably exclude severe illness.
 - Sudden functional decline, low oxygen saturation, persistent breathlessness, poisoning, major trauma, or plausible cardiac or neurological disease can lower the threshold for emergency evaluation.
 - Emergency and outpatient care are sequential and complementary when acute stabilization does not resolve the underlying problem.
+- Concise chronology and change over time are diagnostically valuable because early presentations can be incomplete or atypical.
 
 ## Evidence
 - Emergency-versus-outpatient purpose: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] contrasts acute deterioration and life threat with chronic cough, diabetes, endocrine disease, and longitudinal heart-disease assessment.
 - Testing logic: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] uses dizziness and chest symptoms to explain rapid screening across hemorrhagic, ischemic, cardiac, aortic, pulmonary, and gastrointestinal possibilities.
 - Appearance and age boundary: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] describes severe asthma despite calm walking and conversation, and myocardial infarction after several days of reduced work and stair-climbing capacity.
 - Care continuity: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] presents acute inhaled treatment followed by outpatient asthma care and a negative emergency screen followed by specialty reassessment.
+- Negative-test value and evolving presentation: [[vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y|VOL.194]] explains that tests can exclude urgent danger and uses evolving abdominal pain to show why symptom timing, change, observation, and follow-up matter.
 
 ## Counterevidence & Qualifications
-This framework does not specify an individual testing bundle, diagnosis, destination, waiting time, or treatment. The source is one edited public-education episode, and its two-hour reporting estimate and “order related tests together” description reflect a local, source-scoped account rather than a universal service standard. Testing also carries cost, radiation, incidental-finding, false-positive, access, and overdiagnosis burdens; actual decisions require triage severity, history, examination, local protocols, shared decision-making where feasible, and qualified clinical judgment.
+This framework does not specify an individual testing bundle, diagnosis, destination, waiting time, or treatment. The sources are edited clinician public education, and the two-hour reporting estimate, “order related tests together” description, named differential diagnoses, and appendicitis sequence are local or illustrative accounts rather than universal service standards. Testing also carries cost, radiation, incidental-finding, false-positive, access, and overdiagnosis burdens; actual decisions require triage severity, history, examination, local protocols, shared decision-making where feasible, and qualified clinical judgment.
 
 ## What Changed
-- Established a framework separating emergency exclusion and stabilization from outpatient etiological diagnosis.
-- Added the principle that a useful negative emergency screen can still require specialty follow-up.
-- Added outward stability and younger age as unreliable substitutes for objective severity assessment.
+- Added negative results as affirmative evidence for excluding dangerous branches without claiming that nothing is wrong.
+- Added symptom onset, duration, and change as high-value inputs during a brief emergency encounter.
+- Added evolving early presentations as a reason for observation, reassessment, and safety-netted follow-up.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - public recognition and routing process that precedes emergency-department assessment.

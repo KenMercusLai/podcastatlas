@@ -7,6 +7,7 @@ sources:
   - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
   - vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6
   - vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt
+  - vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ VOL.05 adds the capacity side of the same system. Correct priority does not crea
 
 VOL.195 sharpens the public-facing signal problem. A person who is walking, speaking, agitated, or loudly reporting pain may still require assessment, but those behaviors do not by themselves establish the highest acuity. Quietness, reduced consciousness, abnormal breathing, tachycardia, or rapid change can indicate greater immediate danger. Priority therefore follows clinical risk rather than volume, social status, or simple arrival order, and the rationale must be explained without implying that visible distress is unreal.
 
+VOL.194 adds the entry-point explanation. Pre-triage combines age, physiological state, vital signs, consciousness, symptoms, and clinician experience into a revisable urgency level; first- and second-level patients may move directly into urgent treatment while lower-acuity patients wait. This makes “later but first” a safety property rather than queue-jumping, and it also separates the emergency department's rescue function from ordinary problems better handled through outpatient or community care.
+
 ## Key Claims
 - Emergency order is primarily severity- and time-sensitivity-based rather than arrival-time-based.
 - Resuscitation rooms, observation areas, beds, scanners, ordinary wards, specialty services, and ICU serve different levels and phases of need, and a bottleneck in one can slow the whole pathway.
@@ -34,6 +37,7 @@ VOL.195 sharpens the public-facing signal problem. A person who is walking, spea
 - Observable distress, loud pain, walking, or conversation cannot substitute for consciousness, breathing, circulation, trajectory, and other acuity evidence.
 - Waiting time alone cannot reveal the reasoning behind another patient's priority or establish neglect; new deterioration should be reported promptly for reassessment.
 - Professional calm and selective testing can reflect threat prioritization, but they still require explanation and reassessment when the clinical picture changes.
+- Appropriate triage also depends on care-setting selection: using emergency capacity for convenience can delay patients with hidden or rapidly evolving danger.
 
 ## Evidence
 - Severity-based order and routing: [[vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n]] describes critical ambulance arrivals entering resuscitation, less severe patients moving among observation areas, and the most unstable patients being admitted to ICU rather than everyone being treated in arrival order.
@@ -41,14 +45,15 @@ VOL.195 sharpens the public-facing signal problem. A person who is walking, spea
 - Learned prioritization: [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c|VOL.14]] describes emergency composure as rapid recovery from surprise, identification of the next action, and allocation of attention by effect on the patient's immediate life course.
 - Capacity-constrained flow: [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6|VOL.05]] describes beds, ambulance stretchers, CT tables, MRI slots, and add-on requests as linked resources whose occupation can delay later patients even when severity ordering is understood.
 - Behavioral-signal limits: [[vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt|VOL.195]] contrasts loudly responsive patients with quiet or unresponsive patients and describes subtle respiratory, heart-rate, mental-state, and trajectory clues preceding collapse.
+- Entry-point criteria and public use: [[vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y|VOL.194]] describes a four-level pre-triage process and distinguishes sudden, severe, life-threatening, or rapidly worsening problems from convenience-driven emergency attendance.
 
 ## Counterevidence & Qualifications
-The sources are clinician public explanations, not a universal triage scale, waiting-time standard, ambulance protocol, imaging rule, or admission rule. Actual systems differ by jurisdiction, hospital capacity, age, specialty resources, mass-casualty conditions, and reassessment processes. A severity-based system can still suffer from error, crowding, communication failure, inequity, or delayed reassessment, and neither professional calm nor claimed scarcity proves that a particular decision is correct. Loudness does not prove low acuity, and quietness does not prove critical illness; both require assessment. The Beijing capacity anecdotes, overseas waiting comparison, MRI price, patient-level proportions, and VOL.195 cases are not independently verified here.
+The sources are clinician public explanations, not a universal triage scale, waiting-time standard, ambulance protocol, imaging rule, or admission rule. Actual systems differ by jurisdiction, hospital capacity, age, specialty resources, mass-casualty conditions, and reassessment processes. A severity-based system can still suffer from error, crowding, communication failure, inequity, or delayed reassessment, and neither professional calm nor claimed scarcity proves that a particular decision is correct. Loudness does not prove low acuity, and quietness does not prove critical illness; both require assessment. The Beijing capacity anecdotes, overseas waiting comparisons, four-level description, MRI price, patient-level proportions, and clinical cases are not independently verified here. Public advice to avoid low-acuity emergency use does not justify delaying care when symptoms are severe, sudden, uncertain, or worsening.
 
 ## What Changed
-- Added the distinction between visible distress and physiological acuity.
-- Added consciousness, breathing, circulation, mental state, and trajectory as reasons a quieter patient may receive priority.
-- Clarified that neither loudness nor quietness determines severity without assessment.
+- Added the care-setting boundary between rescue-oriented emergency use and convenience-driven attendance.
+- Added age, vital signs, consciousness, symptoms, and clinical judgment as interacting pre-triage inputs.
+- Clarified why a later arrival can appropriately be treated first without constituting queue-jumping.
 
 ## Related Concepts
 - [[EmergencyDepartmentRiskExclusion]] - diagnostic and stabilization work performed after urgent routing.

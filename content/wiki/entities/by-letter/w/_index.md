@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12875
+wiki_total_pages: 12876
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "WeyYuanjun"
     title: "卫元君 / Lord Yuan of Wey"
     url: "/wiki/entities/weyyuanjun/"
+  - key: "WeiBingEmergencyPhysician"
+    title: "卫兵 / 魏兵 (Emergency Physician)"
+    url: "/wiki/entities/weibingemergencyphysician/"
   - key: "WeyJunJiao"
     title: "卫君角 / Wey Jun Jiao"
     url: "/wiki/entities/weyjunjiao/"

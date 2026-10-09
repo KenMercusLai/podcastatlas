@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样](sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y.md) — 急诊医生卫兵 / 魏兵解释危重优先分诊、危重风险排除、简洁病史、呼吸道疾病居家照护、低价值输液与分级就医边界。
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（1）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-1-ltn3q_-b9ts-oj3aq65rezhymgzd.md) — 彭越因未亲征、部下劝反与告发先被废徙，后由吕雉带回并推动再诉，终遭灭族与尸体示众；蒯彻则以“各为其主”自辩获释。
 - [093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》](sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65.md) — 纸醉金迷FM以人质局、六剑阵、毒药误信与神水宫决战分析《画眉鸟》，赞赏“多出一柄剑”的系统破局并质疑水下终战的生理逻辑。
 - [8 古代的“高速公路”：秦汉驰道与罗马大路](sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli.md) — 怪东西比较秦汉驰道与罗马道路网，将道路、桥梁、驿站、邮传、维护、路权与劳役合并为帝国统治基础设施，并保留宽度、速度和材料细节的证据边界。
@@ -4254,6 +4255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [639. Revolution in Iran: Death in the Desert (Part 4)](sources/639-revolution-in-iran-death-in-the-desert-part-4-glt6288433592.md) — The Rest Is History episode on the Iran hostage crisis, Operation Eagle Claw, Carter's defeat, Reagan's victory, and Khomeini's revolutionary consolidation.
 
 ## Entities
+- [卫兵 / 魏兵 (Emergency Physician)](entities/WeiBingEmergencyPhysician.md) — VOL.194急诊医生，以危重优先、危重排除、低价值输液、科普责任与医生主导AI解释急诊边界。
 - [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
 - [水母阴姬 / Shui Mu Yin Ji](entities/ShuiMuYinJi.md) — 《画眉鸟》神水宫之主，将压倒性武力、毒药真相、隐秘依恋与相互留手集中于终局对手。
 - [Roman Road Network / 古罗马道路网](entities/RomanRoadNetwork.md) — 将军事机动、公共道路法、分级工程、里程碑、驿站、地方维护与节点收费连成的罗马帝国交通系统。
@@ -17186,6 +17188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charlie Beckwith](entities/CharlieBeckwith.md) — Delta Force founder and Operation Eagle Claw planner whose elite-force confidence operated inside a tightly coupled rescue mission.
 
 ## Concepts
+- [Low-Value Intravenous Infusion / 低价值静脉输液](concepts/LowValueIntravenousInfusion.md) — 以患者特定适应证区分必要静脉治疗与感冒、流感或“疏通血管”式安慰性输液，并计入穿刺、过敏、交叉感染与资源成本。
 - [Habit-Triggered System Disruption / 习惯触发式系统破局](concepts/HabitTriggeredSystemDisruption.md) — 以特定线索触发成员的熟练反应，使其个人动作与整体协调状态不相容的系统破局策略。
 - [Sincere False Belief / 诚实误信](concepts/SincereFalseBelief.md) — 区分诚实表达、主观经验、外部事实与因果解释，说明冲突证词不必等于蓄意说谎。
 - [Imperial Road Systems / 帝国道路系统](concepts/ImperialRoadSystems.md) — 道路、桥梁、驿站、通信、路权、劳役、财政与维护共同将领土统治转化为可重复的军政移动能力。

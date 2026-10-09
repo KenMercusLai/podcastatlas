@@ -33408,3 +33408,11 @@ Added source `zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-rouji
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. Report returned in the session; no report file was saved.
+
+## [2026-10-09] ingest | VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样
+
+Added source `vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y`; created [[WeiBingEmergencyPhysician|卫兵 / 魏兵]] and [[LowValueIntravenousInfusion|低价值静脉输液]]; and resynthesized [[EmergencyDepartmentAcuityTriage]], [[EmergencyDepartmentRiskExclusion]], [[InfluenzaHomeCareAndMedicationTriage]], and [[ClinicianPublicEducationPractice]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: emergency care is a severity- and time-sensitivity-based rescue pathway rather than a first-come night clinic; negative tests can be useful by excluding dangerous branches; concise symptom timing and change support short encounters; and uncomplicated respiratory illness does not gain value merely because treatment is intravenous. No settled contradiction was adopted. The title's 魏兵 and body text's 卫兵 are preserved as an unresolved spelling discrepancy, while triage levels, waiting comparisons, cooling and medication advice, patient cases, referral pathways, secondary prevention, and AI benefit remain source-scoped public education. Broad show, host, hospital, and legacy medical-AI pages were kept closed because the focused source, guest, and concepts capture the bounded additions. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,183 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

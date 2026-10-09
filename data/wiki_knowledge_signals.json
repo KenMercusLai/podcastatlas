@@ -45130,9 +45130,9 @@
       "url": "/wiki/concepts/clinicaltrustbuilding/"
     },
     "ClinicianPublicEducationPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
@@ -45140,9 +45140,16 @@
           "show": "这病说来话长",
           "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
           "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        },
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/clinicianpubliceducationpractice/"
     },
     "ClinicianVulnerabilityAndSelfCare": {
@@ -71670,9 +71677,9 @@
       "url": "/wiki/concepts/emergencycashassistance/"
     },
     "EmergencyDepartmentAcuityTriage": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ljGg_zhhUq3tEyoQjk6UnvUZba1N [ljGg_zhhUq3tEyoQjk6UnvUZba1N].md",
@@ -71701,15 +71708,22 @@
           "show": "这病说来话长",
           "title": "VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？",
           "url": "/wiki/sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt/"
+        },
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
         }
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/emergencydepartmentacuitytriage/"
     },
     "EmergencyDepartmentRiskExclusion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
@@ -71717,9 +71731,16 @@
           "show": "这病说来话长",
           "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
           "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
+        },
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/emergencydepartmentriskexclusion/"
     },
     "EmergencyDiagnosticRevision": {
@@ -121941,9 +121962,9 @@
       "url": "/wiki/concepts/inflationshapedconsumerhabits/"
     },
     "InfluenzaHomeCareAndMedicationTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -121951,9 +121972,16 @@
           "show": "这病说来话长",
           "title": "VOL.28发热门诊｜甲流进行时听听一线萌医生怎么说｜附看诊现场收录声",
           "url": "/wiki/sources/vol-28-faremenzhen-jialiu-jinxingshi-tingting-yixian-mengyisheng-zenme-shuo-fu-kanzhen-xianchang-shoulusheng-li1axa3xcd_jea6lauylj9cfjpwf/"
+        },
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/influenzahomecareandmedicationtriage/"
     },
     "InformalFemalePoliticalInfluence": {
@@ -152612,6 +152640,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/lowresourcespeechaidevelopment/"
+    },
+    "LowValueIntravenousInfusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/lowvalueintravenousinfusion/"
     },
     "Lowes": {
       "episode_count": 1,
@@ -255128,6 +255172,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/weibiaoeasternhan/"
+    },
+    "WeiBingEmergencyPhysician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llDH0RL7vxkueZzJoSxEVHTQb73y [llDH0RL7vxkueZzJoSxEVHTQb73y].md",
+          "key": "vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y",
+          "show": "这病说来话长",
+          "title": "VOL.194急诊魏兵：急诊存在的意义，和你以为的完全不一样",
+          "url": "/wiki/sources/vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/weibingemergencyphysician/"
     },
     "WeiBoWesternHan": {
       "episode_count": 2,

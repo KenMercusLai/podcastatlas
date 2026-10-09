@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10053
+wiki_total_pages: 10054
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "LowStatusSyndrome"
     title: "Low-Status Syndrome / 低地位综合症"
     url: "/wiki/concepts/lowstatussyndrome/"
+  - key: "LowValueIntravenousInfusion"
+    title: "Low-Value Intravenous Infusion / 低价值静脉输液"
+    url: "/wiki/concepts/lowvalueintravenousinfusion/"
   - key: "LoyalMinisterExitEthic"
     title: "Loyal Minister Exit Ethic / 忠臣去国的退场伦理"
     url: "/wiki/concepts/loyalministerexitethic/"
