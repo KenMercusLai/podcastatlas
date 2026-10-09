@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1479
+topic_total_pages: 1480
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4173,6 +4173,9 @@ topic_sources:
   - key: "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716"
     title: "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs"
     url: "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+  - key: "no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk"
+    title: "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁"
+    url: "/wiki/sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk/"
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"

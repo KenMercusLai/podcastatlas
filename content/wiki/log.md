@@ -33148,3 +33148,11 @@ Added source `vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+
+Added source `no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk`; created [[ProcessOrientedLifeDesign|过程导向的人生设计]]; and resynthesized [[ControllableLifeAnchors]], [[SituatedMediaObservation|在场的媒体观察]], and [[QuantityChangeQualityChange|量变引发质变]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: across work transitions, parenting, bereavement, retirement, health, AI use, travel, and creative practice, contributors move from distant success symbols toward controllable response, sustainable process, bodily life, relationships, direct observation, and continued accumulation without guaranteed breakthrough. No settled contradiction was adopted. AI companionship, health improvement, creative payoff, personal satisfaction, names, chronology, and quotations remain speaker- or summary-scoped pending comparison with the audio. Broad host, show, company, and individual profile pages were kept closed because this ensemble source's bounded additions are represented in the focused source and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,149 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

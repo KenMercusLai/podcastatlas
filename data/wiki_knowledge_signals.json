@@ -50493,6 +50493,43 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/controllablechildaccession/"
     },
+    "ControllableLifeAnchors": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "154.四十岁感言：不做那只温水里的青蛙 [lg_QJ3P2lq-8sk_RN2Vk209Tq9X-].md",
+          "key": "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x",
+          "show": "起朱楼宴宾客",
+          "title": "154.四十岁感言：不做那只温水里的青蛙",
+          "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+        },
+        {
+          "episode_file": "132.当过度思考的打工人遇上低欲望的时代 [luAQsWjQEZBAkxDRcsHifxI0eRmO].md",
+          "key": "132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo",
+          "show": "起朱楼宴宾客",
+          "title": "132.当过度思考的打工人遇上低欲望的时代",
+          "url": "/wiki/sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo/"
+        },
+        {
+          "episode_file": "vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观 [llVNTAQuCNIloVj19ZOywRFDWZsa].md",
+          "key": "vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa",
+          "show": "起朱楼宴宾客",
+          "title": "vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观",
+          "url": "/wiki/sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa/"
+        },
+        {
+          "episode_file": "GKwRIDoNUhAJA5O4FARihYqk [GKwRIDoNUhAJA5O4FARihYqk].md",
+          "key": "no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk",
+          "show": "三五环",
+          "title": "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁",
+          "url": "/wiki/sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/controllablelifeanchors/"
+    },
     "ControlledTelevisionCampaign": {
       "episode_count": 2,
       "show_count": 1,
@@ -194883,6 +194920,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/processfocusedperformancefeedback/"
     },
+    "ProcessOrientedLifeDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNUhAJA5O4FARihYqk [GKwRIDoNUhAJA5O4FARihYqk].md",
+          "key": "no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk",
+          "show": "三五环",
+          "title": "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁",
+          "url": "/wiki/sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/processorientedlifedesign/"
+    },
     "ProcessingSpeedTrainingDementiaSignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -198861,6 +198914,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/quantitativefofallocation/"
+    },
+    "QuantityChangeQualityChange": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "GKwRIDoNUhAJA5O4FARihYqk [GKwRIDoNUhAJA5O4FARihYqk].md",
+          "key": "no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk",
+          "show": "三五环",
+          "title": "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁",
+          "url": "/wiki/sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/quantitychangequalitychange/"
     },
     "QuantumCryptographicMigration": {
       "episode_count": 1,
@@ -220166,6 +220242,50 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/sittingbull/"
+    },
+    "SituatedMediaObservation": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
+          "key": "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk",
+          "show": "Talk三联",
+          "title": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国",
+          "url": "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
+        },
+        {
+          "episode_file": "EP264 踏访“唐诗之路”：盛唐气象少年心 [loo2DFuxFFIzPbL4Si5nWCIXnngi].md",
+          "key": "ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi",
+          "show": "Talk三联",
+          "title": "EP264 踏访“唐诗之路”：盛唐气象少年心",
+          "url": "/wiki/sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi/"
+        },
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了 [llUK9KruHVEoKkBMFo0aDrJ7EtpJ].md",
+          "key": "141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj",
+          "show": "起朱楼宴宾客",
+          "title": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了",
+          "url": "/wiki/sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj/"
+        },
+        {
+          "episode_file": "GKwRIDoNUhAJA5O4FARihYqk [GKwRIDoNUhAJA5O4FARihYqk].md",
+          "key": "no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk",
+          "show": "三五环",
+          "title": "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁",
+          "url": "/wiki/sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/situatedmediaobservation/"
     },
     "SituationalCharacterTests": {
       "episode_count": 6,

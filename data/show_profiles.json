@@ -1405,14 +1405,14 @@
       "earliest_episode_date": "2025-12-23",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
-      "source_note_count": 16,
-      "topic_matched_source_note_count": 9,
+      "source_note_count": 17,
+      "topic_matched_source_note_count": 10,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 9
+          "source_note_count": 10
         },
         {
           "key": "culture",
@@ -1425,14 +1425,20 @@
           "label": "Economics",
           "url": "/topics/economics/",
           "source_note_count": 1
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
         }
       ],
       "entities": [],
       "start_here_episode_files": [
         "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
         "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
-        "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
-        "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md"
+        "GKwRIDoNUhAJA5O4FARihYqk [GKwRIDoNUhAJA5O4FARihYqk].md",
+        "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md"
       ]
     },
     "不合时宜": {

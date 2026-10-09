@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁](sources/no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk.md) — 三五环年度群像复盘以掌控边界、过程导向、身体健康、AI陪伴、在场观察与持续积累连接多位创作者和从业者的2025年。
 - [VOL.195对话 卢骁 x 严锋：为什么大家总觉得：急诊医生在‘说谎’？](sources/vol-195-duihua-luxiao-x-yanfeng-weishenme-dajia-zong-juede-jizhen-yisheng-zai-shuohuang-lh16fymze55sms4u3ep9srwog_vt.md) — 卢骁与严锋以急诊、神经外科和家属沟通案例说明初步判断为何会随病史、检查与专科协作修正，并限定 AI 与网络问诊的输入和临床边界。
 - [咖啡豆｜「希尔顿们」入驻县域市场，国际中端连锁酒店为何加速扩张？](sources/kafeidou-xierdunmen-ruzhu-xianyu-shichang-guoji-zhongduan-liansuo-jiudian-weihe-jiasu-kuozhang-1022026144.md) — 声动早咖啡 episode on select-service hotels, franchise-led county expansion, reverse tourism, aging-property conversion, seasonality, and domestic-chain competition.
 - [《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）](sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd.md) — 陈平让周勃居相位之首以承认诛吕之功并降低自身暴露，袁盎促文帝重立君臣礼数，文帝同时废除亲属连坐并确立刘启的太子次序。
@@ -23026,7 +23027,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Central Balance-Sheet Demand Support / 中央资产负债表托底](concepts/CentralBalanceSheetDemandSupport.md) — Episode 153 claim that China’s 2026 demand repair increasingly requires central-government balance-sheet support.
 - [China Deflation Demand Repair / 中国通缩的需求侧修复](concepts/ChinaDeflationDemandRepair.md) — Episode 153 view that anti-involution and supply clearing need demand-side support to turn into inflation, orders, and earnings repair.
 - [China Equity Structural Selection / 中国权益结构分化](concepts/ChinaEquityStructuralSelection.md) — Episode 153 China-equity view that 2026 returns require sector and company evidence after broad 2025 valuation repair.
-- [Quantity Change to Quality Change / 量变引发质变](concepts/QuantityChangeQualityChange.md) — Episode 152 threshold-forecasting frame for accumulated AI, private-market, savings, and China-narrative pressures becoming visible.
+- [Quantity Change to Quality Change / 量变引发质变](concepts/QuantityChangeQualityChange.md) — Threshold frame spanning systemic pressure and personal practice, where accumulation may become visible change without guaranteeing its timing or direction.
 - [Private-Market Bubble Opacity](concepts/PrivateMarketBubbleOpacity.md) — Episode 152 warning that bubble risk may sit in private equity, private credit, and late-stage AI companies rather than only public tech stocks.
 - [China Excess Savings Reallocation / 中国超额储蓄再配置](concepts/ChinaExcessSavingsReallocation.md) — Episode 152 thesis that post-2022 Chinese household savings may seek outlets through stocks, funds, and savings-style insurance.
 - [China Insurance Funds Equity Allocation / 中国险资入市](concepts/ChinaInsuranceFundsEquityAllocation.md) — Episode 152 mechanism where low yields, policy treatment, and accounting rules can push insurers toward equities.
@@ -23101,7 +23102,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creator-Driven Financial Narrative / 创作者驱动的财经叙事](concepts/CreatorDrivenFinancialNarrative.md) — Episode 141 research frame for how creators, podcasts, subscriptions, social platforms, and algorithms reshape macro and market narratives.
 - [Creator Fact-Checking Responsibility / 创作者事实核查责任](concepts/CreatorFactCheckingResponsibility.md) — Self-media verification duty sharpened by the source's Japanese healthcare fact-checking case.
 - [Podcast-Enabled Career Path / 播客带来的职业路径](concepts/PodcastEnabledCareerPath.md) — Long-term podcast work creating institutional, career, and research opportunities beyond direct monetization.
-- [Situated Media Observation / 在场的媒体观察](concepts/SituatedMediaObservation.md) — Media-specific observation-before-inference method for reducing secondhand bias when interpreting another society.
+- [Situated Media Observation / 在场的媒体观察](concepts/SituatedMediaObservation.md) — Presence, local contact, professional method, and primary checking used to recover consequential detail flattened by secondary media and AI summaries.
 - [Hotel Loyalty Programs](concepts/HotelLoyaltyPrograms.md) — Hotel points, elite tiers, benefits, direct booking, and guest-data systems used to turn one-off stays into repeat relationships.
 - [Customer Lifetime Value](concepts/CustomerLifetimeValue.md) — Repeat-relationship value frame used by episode 140 to explain why hotels invest in member benefits and direct channels.
 - [Hotel Direct Booking Channels](concepts/HotelDirectBookingChannels.md) — Hotel apps, websites, mini-programs, and loyalty portals used to reduce OTA dependence.
@@ -24848,7 +24849,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Low-Equity Commercial Rights](concepts/LowEquityCommercialRights.md) — Minority-stake and relationship-first overseas investment logic where commercial access matters more than outright control.
 - [Deglobalization Trade Intermediation](concepts/DeglobalizationTradeIntermediation.md) — Source-level thesis that trusted intermediaries regain value when trade rules, supply chains, and geopolitics raise transaction costs.
 - [Choice-Triggered Attention Boundary](concepts/ChoiceTriggeredAttentionBoundary.md) — Vol.107 frame for why youth attention rises when a present choice or near-term action is required, and drops when macro topics offer little action space.
-- [Controllable Life Anchors](concepts/ControllableLifeAnchors.md) — Repeatable practices such as baking, deep reading, travel, and exercise that restore feedback and calm when work, status, or macro narratives feel unstable.
+- [Controllable Life Anchors](concepts/ControllableLifeAnchors.md) — Bounded practices, responses, and boundaries that restore feedback, bodily contact, and agency when outcomes remain uncertain.
+- [Process-Oriented Life Design / 过程导向的人生设计](concepts/ProcessOrientedLifeDesign.md) — Life-design frame prioritizing defensible direction, repeatable process quality, bodily sustainability, and present experience over distant outcome fixation.
 - [Relationship Optionality](concepts/RelationshipOptionality.md) — Vol.107 frame for romance, marriage, and childbirth as optional choices shaped by negative lists, reversibility, gendered choice expansion, and relationship costs.
 - [Dubai Business Hub Model](concepts/DubaiBusinessHubModel.md) — Low-tax, open, internationally staffed city-hub model combining capital, immigration, logistics, branding, services, compliance cleanup, and confidence risk.
 - [Dubai Golden Visa Residency](concepts/DubaiGoldenVisaResidency.md) — Episode-reported residency frame linking Dubai property, company setup, or talent status to practical banking, ID, insurance, and recurring-base benefits.
