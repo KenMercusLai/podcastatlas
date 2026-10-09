@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
       "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
       "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
       "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
@@ -801,11 +802,30 @@
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
     ],
-    "paragraph_count": 799
+    "paragraph_count": 800
   },
-  "overview_commit": "528227fca3c2028326ab2714c221bc2413553c53",
-  "overview_digest": "4e803bb9ce0b75a75cdf7a75580d627b85226caf97f7c3a25c9f9430b630ca1a",
+  "overview_commit": "8172b1538711e3d268cd85d8645355bdc5e4ffdb",
+  "overview_digest": "531d29c878e731312f3092d67629fa051ed136a4b2bd4e0a250dbb15724dfbaa",
   "paragraphs": [
+    {
+      "id": "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt|3 如何称呼东西方的帝王：从“恺撒”到“官家”]], a [[WeirdHistoryPodcast|怪东西 Weird History]] comparison of formal sovereign titles, forms of address, ruler self-reference, chronology, regency, abdication, and female rule. It adds [[MonarchicalTitulatureAndAddress]] and [[InstitutionalTitleTranslation]], while extending [[EraNameSystem|年号制度]]. Its core synthesis is that 皇帝, 天子, Caesar, Augustus, king, regent, 陛下, 官家, 朕, and the royal “we” are historically changing institutional claims rather than a universal rank vocabulary; good translation compares actual authority, succession, ritual, territory, gendered role, and contemporary usage before choosing a familiar label. No settled contradiction is adopted. Etymologies, seal uses, accession rites, title chronologies, regnal numbers, address conventions, private self-reference, and the source's sacred-versus-administrative contrast remain source-scoped, while cross-civilizational resemblance does not establish shared origin or institutional equivalence.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt",
+        "EraNameSystem",
+        "InstitutionalTitleTranslation",
+        "MonarchicalTitulatureAndAddress",
+        "WeirdHistoryPodcast"
+      ]
+    },
     {
       "id": "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
       "primary_topic": "history-and-geopolitics",

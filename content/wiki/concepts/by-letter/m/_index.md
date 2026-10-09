@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10108
+wiki_total_pages: 10110
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "MonarchicalRecognitionLegitimacy"
     title: "Monarchical Recognition Legitimacy"
     url: "/wiki/concepts/monarchicalrecognitionlegitimacy/"
+  - key: "MonarchicalTitulatureAndAddress"
+    title: "Monarchical Titulature and Address / 君主称号、称谓与自称"
+    url: "/wiki/concepts/monarchicaltitulatureandaddress/"
   - key: "MonetaryDilutionAssetOwnershipGap"
     title: "Monetary Dilution Asset-Ownership Gap"
     url: "/wiki/concepts/monetarydilutionassetownershipgap/"

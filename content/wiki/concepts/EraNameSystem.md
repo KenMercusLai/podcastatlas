@@ -5,7 +5,8 @@ tags: [chronology, political-legitimacy, state-formation, east-asia]
 sources:
   - zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg
   - zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p
-last_updated: 2026-10-07
+  - 3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The supplied episodes interpret era names as instruments of standardization, mem
 
 Era names also create comparison costs. Frequent changes and simultaneous regimes can make cross-polity chronology difficult, while Common Era dating supplies a shared external reference. The current evidence supports this political and historiographic interpretation, but it does not independently establish the institution's complete origin, diffusion timeline, or every numerical example used by the episode.
 
+Era names can identify reigns as well as years, but only where usage is stable enough. Pre-Han historian labels differ from mature era names; Wang Mang's 始建国 compound forms and Liu Xiu's 建武中元 are presented as resistance to a complete chronological reset; and one-era Ming-Qing reigns let 康熙, 雍正, and 乾隆 function as ordinary ruler names. Repetition across history still prevents automatic identification without dynasty and context. This internal variation is synthesized from [[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt|Weird History episode 3]].
+
 ## Key Claims
 
 - Era names combine chronological coordination with a visible claim to political authority.
@@ -29,6 +32,7 @@ Era names also create comparison costs. Frequent changes and simultaneous regime
 - Reusing a predecessor regime's era name can create a legitimacy and historical-memory problem for a new court.
 - Frequent changes and concurrent era names complicate comparison across rulers, regimes, and regions.
 - Common Era dating improves cross-regional comparability without erasing the historical meaning of indigenous era names.
+- One-era reigns can turn an era name into a ruler's common historical identifier, while repeated names and compound forms preserve ambiguity.
 
 ## Evidence
 
@@ -49,6 +53,10 @@ Era names also create comparison costs. Frequent changes and simultaneous regime
 
 - [[zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg|Hanji 301]] contrasts simultaneous and frequently changing era names with Common Era dating and sketches the practice's spread across East Asia.
 
+### Reign identity and incomplete chronological reset
+
+- [[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt|Weird History episode 3]] contrasts retrospective early-Han labels, Wang Mang and Liu Xiu's compound usage, repeated era names, and the Ming-Qing tendency toward one era per reign.
+
 ## Counterevidence & Qualifications
 
 - The current evidence is two adjacent podcast summaries, not a complete institutional history or a direct reading of primary chronological records.
@@ -57,12 +65,14 @@ Era names also create comparison costs. Frequent changes and simultaneous regime
 - The claim that era names were created partly to suppress local commemoration is an interpretive proposition; coordination, ritual, dynastic identity, and recordkeeping may also matter.
 - The 乾德 mirror story demonstrates the episode's argument only if its inscription, ownership, discovery sequence, and causal link to 开宝 are reliable; all remain source-scoped here.
 - The episode's adoption dates, counts of era names, early Han sequence, and claim about Japan as the only current user require independent verification.
+- Episode 3's interpretation of 始建国, 天凤, 地皇, and 建武中元 as incomplete rather than full resets requires direct chronological and documentary verification.
+- Using 康熙, 雍正, or 乾隆 as ruler names reflects later one-era practice and should not be projected onto periods with frequent changes or repeated era names.
 
 ## What Changed
 
-- Added the prequel's coordination account: a realm-wide era name replaces competing imperial and vassal reign counts with a shared reference.
-- Added auspicious naming as a legitimacy layer around retrospective chronological ordering.
-- Qualified the hunted-beast era wording and the simplified “invention” claim.
+- Added compound usage and incomplete chronological resets under Wang Mang and Liu Xiu.
+- Added the distinction between era name as chronology and era name as ordinary ruler identifier under later one-era reigns.
+- Added repetition and contextual ambiguity as limits on using an era name to identify a ruler.
 
 ## Related Concepts
 
@@ -71,3 +81,4 @@ Era names also create comparison costs. Frequent changes and simultaneous regime
 - [[HistoricalMemoryContest]] - predecessor names can remain politically active when a later regime tries to define the past.
 - [[ImperialSymbolicStandardization|帝国符号标准化]] - broader package in which calendars, titles, document language, and other shared signs coordinate imperial rule.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - favorable signs provide a Heaven-aligned naming and legitimacy narrative for official time.
+- [[MonarchicalTitulatureAndAddress|君主称号、称谓与自称]] - places era names among several systems for identifying and remembering rulers.

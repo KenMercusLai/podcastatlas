@@ -78483,9 +78483,9 @@
       "url": "/wiki/entities/ernianluling/"
     },
     "EraNameSystem": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
@@ -78500,9 +78500,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p/"
+        },
+        {
+          "episode_file": "lge7ykON9maoHGiRvD96j4KJoKgt [lge7ykON9maoHGiRvD96j4KJoKgt].md",
+          "key": "3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt",
+          "show": "怪东西Weird History",
+          "title": "3 如何称呼东西方的帝王：从“恺撒”到“官家”",
+          "url": "/wiki/sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/eranamesystem/"
     },
     "Eratosthenes": {
@@ -124400,6 +124407,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/institutionalreformaspowerreallocation/"
+    },
+    "InstitutionalTitleTranslation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lge7ykON9maoHGiRvD96j4KJoKgt [lge7ykON9maoHGiRvD96j4KJoKgt].md",
+          "key": "3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt",
+          "show": "怪东西Weird History",
+          "title": "3 如何称呼东西方的帝王：从“恺撒”到“官家”",
+          "url": "/wiki/sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/institutionaltitletranslation/"
     },
     "InstitutionalTrustAIAdoption": {
       "episode_count": 1,
@@ -171230,6 +171253,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/monarchicalrecognitionlegitimacy/"
+    },
+    "MonarchicalTitulatureAndAddress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lge7ykON9maoHGiRvD96j4KJoKgt [lge7ykON9maoHGiRvD96j4KJoKgt].md",
+          "key": "3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt",
+          "show": "怪东西Weird History",
+          "title": "3 如何称呼东西方的帝王：从“恺撒”到“官家”",
+          "url": "/wiki/sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/monarchicaltitulatureandaddress/"
     },
     "MonarchsTwoBodies": {
       "episode_count": 1,
@@ -259915,9 +259954,9 @@
       "url": "/wiki/concepts/weiqiculturalpromotion/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -260086,9 +260125,16 @@
           "show": "怪东西Weird History",
           "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
           "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
+        },
+        {
+          "episode_file": "lge7ykON9maoHGiRvD96j4KJoKgt [lge7ykON9maoHGiRvD96j4KJoKgt].md",
+          "key": "3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt",
+          "show": "怪东西Weird History",
+          "title": "3 如何称呼东西方的帝王：从“恺撒”到“官家”",
+          "url": "/wiki/sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/weirdhistorypodcast/"
     },
     "WeismannBarrier": {

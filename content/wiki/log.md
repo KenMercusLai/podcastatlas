@@ -33775,6 +33775,14 @@ Added source `defining-healthy-masculinity-how-to-build-it-terry-real-scim273362
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-10] ingest | 3 如何称呼东西方的帝王：从“恺撒”到“官家”
+
+Added source `3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt`; created [[MonarchicalTitulatureAndAddress|君主称号、称谓与自称]] and [[InstitutionalTitleTranslation|制度称谓翻译]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]] and [[EraNameSystem|年号制度]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sovereign titles, address, historical identifiers, and ruler self-reference encode succession, ritual, territory, office, and legitimacy, so translation should compare political function before imposing familiar rank vocabulary. No settled contradiction was adopted. Etymologies, seal uses, accession rites, title chronology, regnal numbering, forms of address, private self-reference, and broad cross-civilizational parallels remain source-scoped. Downstream synthesis refreshed culture/media and history/geopolitics; material candidate change triggered global compaction; refreshed artifacts validate 4,229 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

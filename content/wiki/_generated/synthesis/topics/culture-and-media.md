@@ -3,9 +3,9 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-10-04
-as_of_overview_commit: ba5b9757b6a29846375388ff6b1f530193529a15
-input_digest: 9fe52ff1cf5150f257bac6e40444590f2f15dbfd6c14bf62fd608e500ed852fd
+last_updated: 2026-10-10
+as_of_overview_commit: 8172b1538711e3d268cd85d8645355bdc5e4ffdb
+input_digest: e01247880d87034f68e1b03eea0e830d0e2379d1e7b1b0236e96602ebe0f8cbb
 ---
 
 # Culture and Media
@@ -242,3 +242,14 @@ Place-based culture becomes legible through routes that join sites, memory, and 
 
 - The episode is a selective historical survey, and cultural readings of playing style, political motive, audience change, and gender exclusion remain source-scoped or qualified.
 - Global broadcast reach does not establish local participation, state affinity, or durable young fandom.
+
+### Institutional Title Translation Preserves Political Context
+
+[[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt|Weird History episode 3]] adds a cultural-translation case: [[InstitutionalTitleTranslation]] and [[MonarchicalTitulatureAndAddress]] show that familiar renderings of sovereign titles shape political imagery and should be checked against authority, succession, ritual, territory, gendered role, and contemporary usage rather than treated as automatic equivalence.
+
+**Evidence:** [[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt]], [[InstitutionalTitleTranslation]], [[MonarchicalTitulatureAndAddress]], [[WeirdHistoryPodcast]]
+
+**Qualifications:**
+
+- The claim is grounded in one wide-ranging comparative podcast source rather than a specialist corpus of titulature or translation practice.
+- Readable conventional translations remain useful when institutional distinctions are immaterial, while etymologies, title chronology, and reader associations remain source-scoped.

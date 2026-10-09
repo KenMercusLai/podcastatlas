@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10108
+wiki_total_pages: 10110
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "InstitutionalTrustAIAdoption"
     title: "Institutional Trust in AI Adoption"
     url: "/wiki/concepts/institutionaltrustaiadoption/"
+  - key: "InstitutionalTitleTranslation"
+    title: "Institutional-Title Translation / 制度称谓翻译"
+    url: "/wiki/concepts/institutionaltitletranslation/"
   - key: "InstitutionalizedFantasyWorldbuilding"
     title: "Institutionalized Fantasy Worldbuilding / 制度化幻想世界构建"
     url: "/wiki/concepts/institutionalizedfantasyworldbuilding/"

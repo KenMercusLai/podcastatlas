@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [3 如何称呼东西方的帝王：从“恺撒”到“官家”](sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt.md) — 怪东西比较君主正式头衔、他称与自称，连接礼仪、继承、纪年、领地和翻译，并拒绝把中西制度强行一一对应。
 - [630. Tchaikovsky: LIVE at the Royal Albert Hall](sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309.md) — The Rest Is History live episode on Tchaikovsky's Russian and European formation, sexuality, marriage, patronage, celebrity, death, and resistance to reductive biography.
 - [089 趣话《鬼吹灯》之云南虫谷（大结局）](sources/089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n.md) — 纸醉金迷FM收束献王墓逃生，以藤术重复、尸洞解围和灵异规则评析《云南虫谷》，并由玉环、龙骨天书与西藏线索衔接《昆仑神宫》。
 - [No.214 低能量人的电池使用指南](sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn.md) — 三五环单口以“电池”模型连接注意力保护、切换与协同成本、状态匹配、动力和低成本可能性实验。
@@ -17289,6 +17290,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Monarchical Titulature and Address / 君主称号、称谓与自称](concepts/MonarchicalTitulatureAndAddress.md) — 将正式头衔、他称、历史称名与君主自称理解为继承、礼仪、领地和合法性的制度表达。
+- [Institutional-Title Translation / 制度称谓翻译](concepts/InstitutionalTitleTranslation.md) — 在选择熟悉译名之前比较政治职能、权威来源、继承关系、领地范围与原语用法。
 - [Artistic-Biographical Reductionism](concepts/ArtisticBiographicalReductionism.md) — Error of treating one life feature as a sufficient master explanation for an artist, creative process, and works.
 - [National Art Within Transnational Culture](concepts/NationalArtWithinTransnationalCulture.md) — Formation of recognizable national art through local materials and cross-border genres, institutions, patrons, and audiences.
 - [Energy-Aware Work Design / 能量感知型工作设计](concepts/EnergyAwareWorkDesign.md) — Treats work capacity as changing attention, activation, recovery, task fit, motivation, and avoidable friction rather than schedulable hours alone.
