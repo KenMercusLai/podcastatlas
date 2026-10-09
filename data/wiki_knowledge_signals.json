@@ -213440,9 +213440,9 @@
       "url": "/wiki/entities/samsachs/"
     },
     "SameSurnameKingEnfeoffment": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -213513,9 +213513,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2） [lurbRecNvN1grxnpZMwShB8kouk6].md",
+          "key": "zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/samesurnamekingenfeoffment/"
     },
     "SamerHattar": {
@@ -241272,6 +241279,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tiankailatehan/"
+    },
+    "TianKenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2） [lurbRecNvN1grxnpZMwShB8kouk6].md",
+          "key": "zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/tiankenwesternhan/"
     },
     "TianKuangXinOfficial": {
       "episode_count": 2,

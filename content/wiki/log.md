@@ -33447,3 +33447,11 @@ Added source `638-revolution-in-iran-the-hostage-crisis-part-3-glt6844236579`; c
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2）
+
+Added source `zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6`; created [[TianKenWesternHan|田肯]]; and resynthesized [[SameSurnameKingEnfeoffment|同姓王分封]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the episode connects Han Xin's missed political leverage to Tian Ken's strategic-geography argument that Qi's wealth, terrain, and mobilization capacity require close imperial-kin rule, supplying an early rationale for Liu-family kingship. No settled contradiction was adopted. Han Xin's motive and optimal rebellion windows, Tian Ken's ancestry, exact military numbers, and sole authorship of the later “非刘氏不王” order remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,188 sources across 799 overview paragraphs and nine topics. Changed-page source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

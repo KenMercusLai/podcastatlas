@@ -14,7 +14,8 @@ sources:
   - zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc
   - zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6
+last_updated: 2026-10-09
 ---
 
 ## Definition
@@ -23,7 +24,7 @@ last_updated: 2026-10-07
 
 ## Current Synthesis
 
-The concept begins in [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] as [[LiuBang|刘邦]]'s answer to the postwar regional-control problem. After [[HanXin|韩信]] loses the Chu kingship, Liu Bang uses Liu-family kingships to occupy large and sensitive territories: [[LiuJia|刘贾]] and [[LiuJiao|刘交]] divide Han Xin's old Chu field, while [[LiuXiDaiKing|刘喜]] and [[LiuFeiQiKing|刘肥]] receive Dai and Qi. The source frames this as practical control, not simple nepotism, because Liu Bang's sons are young and his usable brothers are few.
+The concept's rationale now begins in [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6|Hanji 173 part 2]], where [[TianKenWesternHan|田肯]] argues that strategically powerful [[QiState|齐国]] should be assigned only to the emperor's son or brother. [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] then shows [[LiuBang|刘邦]] applying that postwar control logic. After [[HanXin|韩信]] loses the Chu kingship, Liu-family kings occupy large and sensitive territories: [[LiuJia|刘贾]] and [[LiuJiao|刘交]] divide Han Xin's old Chu field, while [[LiuXiDaiKing|刘喜]] and [[LiuFeiQiKing|刘肥]] receive Dai and Qi. The sources frame this as strategic control rather than simple nepotism, though Tian Ken's advice is one early rationale rather than sole institutional authorship.
 
 The early sources show same-surname kingship as a flexible replacement map. [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] says Liu Xi can be demoted after fleeing frontier pressure and replaced by Liu Ruyi, proving that kinship still requires performance. [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]] and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] show [[ZhangAo|张敖]] personally cleared but still stripped of Zhao, with Liu Ruyi moved into the kingdom because a non-Liu royal court has become unsafe.
 
@@ -40,7 +41,7 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 ## Key Claims
 
 - Same-surname kingship is a postwar control tool used after different-surname kings become politically unsafe.
-- The institution combines family trust with strategic geography over former rivals' regions and frontier zones.
+- The institution combines family trust with strategic geography; Tian Ken's Qi argument makes regional wealth, terrain, and mobilization capacity part of the appointment rule.
 - Kinship does not remove performance discipline: a Liu king can be demoted or rotated when frontier defense fails.
 - Same-surname kings can become succession-risk platforms when a royal title intersects with heir politics.
 - Replacing non-Liu kings with Liu-family kings can reassure the center while still generating later autonomy, legal-jurisdiction, and appointment-control conflicts.
@@ -49,6 +50,7 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 
 ## Evidence
 
+- Strategic rationale: [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6|Hanji 173 part 2]] says [[TianKenWesternHan|田肯]] treats Qi as an eastern counterpart to Qin and recommends reserving its kingship for an imperial son or brother.
 - Founding replacement map: [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] says Liu Bang assigns Liu Jia, Liu Jiao, Liu Xi, and Liu Fei to major kingdoms after Han Xin's demotion and wider reward settlement.
 - Non-Liu risk context: [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] places the Liu-family map beside [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] and [[FrontierVassalContainment|边境迁封式牵制]].
 - Performance discipline: [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] says Liu Xi loses Dai after fleeing Xiongnu-linked pressure, while Liu Ruyi receives the replacement.
@@ -66,13 +68,13 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 
 ## Counterevidence & Qualifications
 
-The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, succession exposure, and disputed jurisdiction. Hanji 279's “无解” and universal-welcome language is rhetorical; exact edict wording, kingdom-by-kingdom implementation, and territorial effects remain outside its compact summary. Hanji 304-2 supplies one dramatized Hengshan case rather than a general administrative survey, so its official titles, appointment threshold, motives, and family-pattern framing remain source-scoped. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain outside the bounded evidence.
+The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, succession exposure, and disputed jurisdiction. Hanji 173 part 2's claim that Tian Ken's advice begins the later “非刘氏不王” order compresses a longer institutional sequence; his possible Tian-lineage ancestry is also speculative. Hanji 279's “无解” and universal-welcome language is rhetorical; exact edict wording, kingdom-by-kingdom implementation, and territorial effects remain outside its compact summary. Hanji 304-2 supplies one dramatized Hengshan case rather than a general administrative survey, so its official titles, appointment threshold, motives, and family-pattern framing remain source-scoped. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain outside the bounded evidence.
 
 ## What Changed
 
-- Added the 推恩令's beneficiary-driven fragmentation mechanism.
-- Made Wen-era partition and Jing's victory over the Seven States explicit enforcement preconditions.
-- Preserved the lifecycle tradeoff: the same rollback that limits rebellion also weakens later royal defense of the dynasty.
+- Added Tian Ken's strategic-geography rationale for reserving Qi to close imperial kin.
+- Distinguished an early policy articulation from sole authorship of the later “非刘氏不王” settlement.
+- Preserved the full lifecycle tradeoff from founding control through royal autonomy, fragmentation, and late weakness.
 
 ## Related Concepts
 

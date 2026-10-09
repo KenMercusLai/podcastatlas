@@ -2662,6 +2662,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课](sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf.md) — 芮淇讲透资治通鉴 episode on Modu's Xiongnu consolidation, Han Wang Xin's Mayi surrender, and Shusun Tong's practical court ritual training for Liu Bang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt.md) — 芮淇讲透资治通鉴 episode on Zhang Liang calming reward anxiety by having Liu Bang enfeoff Yong Chi, E Qianqiu defending Xiao He over Cao Shen, and Liu Taigong becoming Taishanghuang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Han-Xin reward settlement, Xiao He's "功人" merit hierarchy, Liu-family kingships, and Han Wang Xin's frontier relocation.
+- [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（2）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-2-lurbrecnvn1grxnpzmwshb8kouk6.md) — 韩信错失政治脱离窗口后，田肯以秦中与齐国的战略地理说明重地应由刘氏近亲为王，为同姓王分封提供早期依据。
 - [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx.md) — 芮淇讲透资治通鉴 episode on Han Xin's post-demotion isolation in Chang'an, Fan Kuai's deferential reception, the "耻与哙伍" insult, and the possibility that public distance from Fan Kuai was political self-protection.
 - [《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信](sources/zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv.md) — 芮淇讲透资治通鉴 episode on Liu Bang and Chen Ping's fake Yunmeng tour trap, Zhongli Mo's suicide, Han Xin's arrest at Chen County, and his demotion from Chu king to Huaiyin marquis.
 - [《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn.md) — 芮淇讲透资治通鉴 episode on early Han different-surname king suspicion: Zang Tu's Yan rebellion, Lu Wan's replacement kingship, Li Ji's fear revolt, Changle/Weiyang palace building, and Han Xin's Zhongli Mo crisis.
@@ -17198,6 +17199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charlie Beckwith](entities/CharlieBeckwith.md) — Delta Force founder and Operation Eagle Claw planner whose elite-force confidence operated inside a tightly coupled rescue mission.
 
 - [赵新 / Zhao Xin (ZTE)](entities/ZhaoXinZTE.md) — ZTE portable Wi-Fi product director explaining mobile-broadband category fit, radio engineering, product segmentation, and user-scene definition.
+- [田肯 / Tian Ken (Western Han)](entities/TianKenWesternHan.md) — 以秦中与齐国的战略地理主张重地只授皇帝子弟，并为汉初同姓王分封提供早期论证的进言者。
 
 ## Concepts
 - [Ulysses Contract](concepts/UlyssesContract.md) — Commitment device through which the present self changes future access, incentives, or friction before temptation arrives.
