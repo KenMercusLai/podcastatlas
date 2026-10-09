@@ -45624,6 +45624,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/cofounderrelationshipmaintenance/"
     },
+    "CoProducedScarcityPrestige": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrFAPwWJbvAM-oIX0LljiF_3-a-X [lrFAPwWJbvAM-oIX0LljiF_3-a-X].md",
+          "key": "090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x",
+          "show": "纸醉金迷FM",
+          "title": "090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！",
+          "url": "/wiki/sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/coproducedscarcityprestige/"
+    },
     "CoalitionFractureExploitation": {
       "episode_count": 6,
       "show_count": 1,
@@ -50919,6 +50935,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/continentalcongress/"
+    },
+    "ContingencyPatchDebt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrFAPwWJbvAM-oIX0LljiF_3-a-X [lrFAPwWJbvAM-oIX0LljiF_3-a-X].md",
+          "key": "090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x",
+          "show": "纸醉金迷FM",
+          "title": "090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！",
+          "url": "/wiki/sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/contingencypatchdebt/"
     },
     "ContinuousDJMixing": {
       "episode_count": 1,
@@ -236626,9 +236658,9 @@
       "url": "/wiki/concepts/taisuibelief/"
     },
     "TaibaiJinxingYouDianFan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
@@ -236636,9 +236668,16 @@
           "show": "纸醉金迷FM",
           "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
           "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        },
+        {
+          "episode_file": "lrFAPwWJbvAM-oIX0LljiF_3-a-X [lrFAPwWJbvAM-oIX0LljiF_3-a-X].md",
+          "key": "090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x",
+          "show": "纸醉金迷FM",
+          "title": "090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！",
+          "url": "/wiki/sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/taibaijinxingyoudianfan/"
     },
     "TainoPeople": {

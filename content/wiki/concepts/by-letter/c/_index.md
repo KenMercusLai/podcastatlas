@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10085
+wiki_total_pages: 10087
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "CoFounderRelationshipMaintenance"
     title: "Co-Founder Relationship Maintenance"
     url: "/wiki/concepts/cofounderrelationshipmaintenance/"
+  - key: "CoProducedScarcityPrestige"
+    title: "Co-Produced Scarcity Prestige / 共谋式稀缺声望"
+    url: "/wiki/concepts/coproducedscarcityprestige/"
   - key: "CoachingIntegratedSoccerAnalytics"
     title: "Coaching-Integrated Soccer Analytics"
     url: "/wiki/concepts/coachingintegratedsocceranalytics/"
@@ -2273,6 +2276,9 @@ wiki_pages:
   - key: "ContextualSodiumIntake"
     title: "Contextual Sodium Intake"
     url: "/wiki/concepts/contextualsodiumintake/"
+  - key: "ContingencyPatchDebt"
+    title: "Contingency Patch Debt / 应急补丁债务"
+    url: "/wiki/concepts/contingencypatchdebt/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [090 趣话马伯庸《太白金星有点烦》P3：长生不老的真相！](sources/090-quhua-maboyong-taibai-jinxing-youdianfan-p3-changsheng-bulao-de-zhenxiang-lrfapwwjbvam-oix0lljif_3-a-x.md) — 纸醉金迷FM以五庄观、白骨岭和平顶山拆解稀缺声望、方案增项、应急替代、资源置换与避责式总结。
 - [遲來的性罪行法律改革，倖存者們想爭取甚麼？](sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c.md) — 端聞以倖存者經驗解釋香港性罪行法改、積極同意、真誠誤信抗辯、程序二次傷害與弱勢保障。
 - [634. Joan of Arc: Heroine in Chains (Part 3)](sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836.md) — The Rest Is History episode on Joan's Loire victories, Reims coronation mission, Paris failure, capture, and conversion of sacred-martial charisma into political legitimacy.
 - [635. Joan of Arc: For Fear of the Flames (Part 4)](sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235.md) — The Rest Is History episode on Joan's politically charged ecclesiastical trial, abjuration, relapse, execution, French recovery, and rehabilitation.
@@ -17240,6 +17241,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Co-Produced Scarcity Prestige / 共谋式稀缺声望](concepts/CoProducedScarcityPrestige.md) — 供应者、把关者和获配者因共同受益于排他身份而维持稀缺叙事的机制。
+- [Contingency Patch Debt / 应急补丁债务](concepts/ContingencyPatchDebt.md) — 应急替代恢复眼前交付，却把身份、信任、关系或问责风险推向后续阶段。
 - [Hong Kong Sexual Offence Law Reform / 香港性罪行法律改革](concepts/HongKongSexualOffenceLawReform.md) — 整合罪名、同意、抗辯、兒童與弱勢保障及科技缺口的香港制度改革框架。
 - [Affirmative Consent in Sexual Offence Law / 性罪行法中的積極同意](concepts/AffirmativeConsentInSexualOffenceLaw.md) — 以能力、自由、自願、行為特定和可撤回性界定同意，並拒絕由沉默或不反抗推定同意。
 - [Survivor-Centered Sexual Violence Justice / 倖存者中心的性暴力司法](concepts/SurvivorCenteredSexualViolenceJustice.md) — 兼顧公平審訊、創傷知情、程序可及性、私隱和避免二次傷害的司法框架。
