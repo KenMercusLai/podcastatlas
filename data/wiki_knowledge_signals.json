@@ -147305,6 +147305,50 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/liurongwesternhan/"
     },
+    "LiuRuyi": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2） [lolUh53iYrZo4uCf3TTzMN3_otKV].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuruyi/"
+    },
     "LiuShangEasternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -148879,9 +148923,9 @@
       "url": "/wiki/entities/liuyinfuchongduke/"
     },
     "LiuYing": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -148945,6 +148989,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
         }
       ],
       "updated": "2026-10-09",
@@ -152786,9 +152837,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 2,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152957,6 +153008,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
         }
       ],
       "updated": "2026-10-09",
@@ -198764,6 +198822,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/qatarismallstatesecuritystrategy/"
     },
+    "QiJi": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/qiji/"
+    },
     "QiLiwangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -205660,6 +205748,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/revelpharma/"
+    },
+    "RevengeProportionalityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2） [lmji5JPLVzaRHldOaJaQ-CvbUpmf].md",
+          "key": "zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/revengeproportionalityboundary/"
     },
     "RevenueBeforeCostOptimization": {
       "episode_count": 1,

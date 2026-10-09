@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10042
+wiki_total_pages: 10043
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "ReuseFirstRocketDesign"
     title: "Reuse-First Rocket Design"
     url: "/wiki/concepts/reusefirstrocketdesign/"
+  - key: "RevengeProportionalityBoundary"
+    title: "Revenge Proportionality Boundary / 复仇比例边界"
+    url: "/wiki/concepts/revengeproportionalityboundary/"
   - key: "RevenueBeforeCostOptimization"
     title: "Revenue Before Cost Optimization"
     url: "/wiki/concepts/revenuebeforecostoptimization/"

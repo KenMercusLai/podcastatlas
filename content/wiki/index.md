@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf.md) — 人彘案被放回废立太子与宫廷恐惧中解释但不获开脱；节目以复仇比例边界重评吕雉暴行，并保存司马光与主播对刘盈责任的分歧。
 - [ICE Chaos in Minneapolis, Clawdbot Takeover, Why the Dollar Is Dropping](sources/all-in-with-chamath-jason-sacks-friedberg-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping-39942525.md) — All-In debate on Minneapolis immigration enforcement, personal AI agents, Kimi K2.5, monetary dilution, asset ownership, and California fiscal politics.
 - [《资治通鉴·汉纪》198｜舅娶外甥女，这位皇帝身上事儿不简单](sources/zizhi-tongjian-hanji-198-jiu-qu-waishengnv-zhe-wei-huangdi-shenshang-shier-bu-jiandan-lkgewcb8avfq_qy0jpqkdfm5t6wi.md) — 惠帝的宽政与受制处境并存；叔孙通以礼制和面子重定道路纠错，司马光则明确反对“天子无过”。
 - [《资治通鉴·汉纪》199｜中国历史上第一位女皇帝 不是武后（1）](sources/zizhi-tongjian-hanji-199-zhongguo-lishishang-di-yi-wei-nvhuangdi-bu-shi-wuhou-1-lmap8nkd8om21u-uptmzhhinsla-.md) — 吕雉的实际统治与正式帝号被明确区分；王陵援引白马之盟反对吕氏王号，陈平、周勃的顺从则保留为策略性解释。
@@ -9669,7 +9670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曼丘臣 / Manqiu Chen](entities/ManqiuChen.md) — Han Wang Xin old follower paired with Wang Huang as a relay into Chen Xi's northern rebellion.
 - [赵利 / Zhao Li](entities/ZhaoLi.md) — Northern rebel figure linked to Chen Xi, Han Wang Xin's network, and the Zhao/Dai frontier pressure field.
 - [乐叔 / Le Shu](entities/LeShu.md) — Le Yi descendant whom Liu Bang honors as Lecheng Jun while pacifying Zhao-region sentiment during Chen Xi's rebellion.
-- [戚姬 / Qi Ji](entities/QiJi.md) — Liu Bang's favored partner and Liu Ruyi's mother, whose influence helps turn private favor into a fragile succession challenge.
+- [戚姬 / Qi Ji](entities/QiJi.md) — 刘邦宠妃与刘如意之母，参与继承竞争却缺乏制度性保护，后成为吕雉“人彘”酷刑的受害者。
 - [周昌 / Zhou Chang](entities/ZhouChang.md) — Western Han minister who opposes replacing Liu Ying and is later sent to Zhao as Liu Ruyi's constrained protector.
 - [赵尧 / Zhao Yao](entities/ZhaoYao.md) — Official who recommends Zhou Chang as Liu Ruyi's Zhao protector and succeeds him as yushi dafu.
 - [谢公 / Xie Gong](entities/XieGong.md) — Zhong dafu sent by Liu Bang to test Guan Gao's testimony and report whether Zhang Ao was innocent.
@@ -9678,7 +9679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曲逆 / Quni County](entities/QuniCounty.md) — County Liu Bang praises after Baideng and grants to Chen Ping as the Quni marquisate.
 - [贯高 / Guan Gao](entities/GuanGao.md) — Zhao minister who joins the plot to kill Liu Bang after Zhang Ao is humiliated at Handan.
 - [赵午 / Zhao Wu (Zhao minister)](entities/ZhaoWuZhaoMinister.md) — Zhao minister grouped with Guan Gao in the Zhang Ao humiliation conspiracy.
-- [刘如意 / Liu Ruyi](entities/LiuRuyi.md) — Liu Bang's young son who moves from Dai and Zhao kingship into the politically unsupported alternative-heir branch in Hanji 181.
+- [刘如意 / Liu Ruyi](entities/LiuRuyi.md) — 从代、赵王位进入备位继承人位置，却因政治可见性远超独立能力与保护基础而暴露于报复风险。
 - [宗正 / Zongzheng Office](entities/ZongzhengOffice.md) — Qin-Han office used to administer the imperial Liu clan.
 - [头曼单于 / Touman Chanyu](entities/ToumanChanyu.md) — Xiongnu ruler whose hostage trap against Modu triggers Modu's escape, command training, and patricidal seizure of power.
 - [月氏 / Yuezhi](entities/Yuezhi.md) — Western neighbor first used in Touman's hostage trap against Modu and later treated as a Kushan-linked attacker checked by Ban Chao after a failed marriage-demand attack.
@@ -17163,6 +17164,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Revenge Proportionality Boundary / 复仇比例边界](concepts/RevengeProportionalityBoundary.md) — 区分回应真实怨恨与为延长痛苦而施暴，强调解释政治背景并不等于为过度报复开脱。
 - [Minneapolis Federal-Local Immigration Conflict](concepts/MinneapolisFederalLocalImmigrationConflict.md) — Case separating custody cooperation, street enforcement, protest conduct, due process, employer demand, and de-escalation.
 - [Personal Agent Virtual Employee Pilot](concepts/PersonalAgentVirtualEmployeePilot.md) — Separately provisioned AI identity performing recurring cross-tool work under bounded permissions and human review.
 - [Monetary Dilution Asset-Ownership Gap](concepts/MonetaryDilutionAssetOwnershipGap.md) — Distributional mechanism by which nominal asset inflation can benefit owners relative to wage- and cash-dependent households.
