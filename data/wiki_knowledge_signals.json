@@ -162960,6 +162960,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/martinofpoland/"
     },
+    "MartinPicard": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM8061923429 [SCIM8061923429].md",
+          "key": "improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429",
+          "show": "Huberman Lab",
+          "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+          "url": "/wiki/sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/martinpicard/"
+    },
     "MartinPinzon": {
       "episode_count": 1,
       "show_count": 1,
@@ -170478,9 +170501,9 @@
       "url": "/wiki/entities/mithridatesvi/"
     },
     "MitochondrialEnergyAllocation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5888935664 [SCIM5888935664].md",
@@ -170488,15 +170511,22 @@
           "show": "Huberman Lab",
           "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
           "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        },
+        {
+          "episode_file": "SCIM8061923429 [SCIM8061923429].md",
+          "key": "improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429",
+          "show": "Huberman Lab",
+          "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+          "url": "/wiki/sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/mitochondrialenergyallocation/"
     },
     "MitochondrialLifestylePillars": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2561346508 [SCIM2561346508].md",
@@ -170511,9 +170541,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
           "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        },
+        {
+          "episode_file": "SCIM8061923429 [SCIM8061923429].md",
+          "key": "improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429",
+          "show": "Huberman Lab",
+          "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+          "url": "/wiki/sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/mitochondriallifestylepillars/"
     },
     "MitochondrialMentalHealthModel": {
@@ -234744,9 +234781,9 @@
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
     "StressBiologicalAging": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -234761,9 +234798,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
           "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
+        },
+        {
+          "episode_file": "SCIM8061923429 [SCIM8061923429].md",
+          "key": "improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429",
+          "show": "Huberman Lab",
+          "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+          "url": "/wiki/sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/stressbiologicalaging/"
     },
     "StressEatingRewardLoop": {

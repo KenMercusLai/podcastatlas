@@ -33890,3 +33890,11 @@ Added source `daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard
+
+Added source `improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429`; created [[MartinPicard]]; and resynthesized [[MitochondrialEnergyAllocation]], [[MitochondrialLifestylePillars]], and [[StressBiologicalAging]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: mitochondria are tissue-specialized energy-transforming and signaling systems within a finite cellular and whole-body economy, so useful challenge depends on allocation and recovery rather than maximal intake or output. No settled contradiction was adopted. Reversible hair graying is retained as a local non-linear marker rather than systemic rejuvenation, while causal direction, numeric energy estimates, individualized diet and exercise thresholds, biomarkers, supplements, fertility claims, GDF-15 intervention effects, and experimental electromagnetic-field mechanisms remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,243 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

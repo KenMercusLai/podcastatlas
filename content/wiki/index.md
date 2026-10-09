@@ -4314,6 +4314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836.md) — Condensed Huberman Lab interview on lifestyle-first hormone assessment, context-dependent testosterone and PCOS interpretation, TRT sleep and fertility risk, prolactin, and peptide safety.
 - [VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under](sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5.md) — 这病说来话长 episode on scar maturation, sustainable silicone care, surrounding-skin support, specialist escalation, and realistic visibility and acceptance goals.
 - [VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控](sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws.md) — 这病说来话长 episode on road rage as a driving-safety interaction among traffic stress, perceived unfairness, accumulated emotion, partial anonymity, regulation, and system design.
+- [Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard](sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429.md) — Huberman Lab interview on mitochondria as energy-transforming and information-processing systems linking finite energy allocation, stress, recovery, aging, and cautious intervention boundaries.
 
 ## Entities
 - [大鹏 / 董成鹏 / Dapeng (director)](entities/DapengDirector.md) — Chinese actor-director whose path from music and portal video to feature authorship joins public sensitivity, commercial success, and persistent identity pressure.
@@ -17317,6 +17318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 - [崔嘉斌 / Cui Jiabin (Shanxi psychiatrist)](entities/CuiJiabinShanxi.md) — Shanxi psychiatric guest distinguishing ordinary driving anger from impairment and unsafe action; disambiguated from 崔嘉宾.
 - [张衍山 / Zhang Yanshan](entities/ZhangYanshan.md) — Shenzhen psychological therapist explaining road-rage triggers, mediated driving interaction, attention risk, and practical regulation.
+- [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
 - [Career Promise Beyond Contract / 超越退出条款的职业承诺](concepts/CareerPromiseBeyondContract.md) — Distinction between using a lawful priced exit and treating an original term of service as a stricter relational promise.
