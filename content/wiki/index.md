@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50.md) — 硅谷101 follow-up on Accio Work, real ecommerce task evaluation, model–harness–context architecture, model routing, long-horizon business execution, and retained human judgment.
 - [How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague](sources/scim3970994914-scim3970994914.md) — Huberman Lab interview on temporal-difference learning, dopamine-serotonin opponent dynamics, conscious-human neuromodulator measurement, delayed reward, and biological reinforcement learning's AI lineage.
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb.md) — 刘襄诱扣琅邪王刘泽并其兵，灌婴在荥阳停战避免助吕；长安内陈平、周勃则借郦寄与吕禄的私交谋取北军。
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0.md) — 郦寄劝吕禄交出北军，周勃借符节入营并以袒臂验明军心；刘章随后在未央宫斩杀吕产，使军权争夺转入对吕氏集团的清算。
@@ -13765,8 +13766,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wallace / 华莱士](entities/WallaceFastFood.md) — Chinese value fast-food chain framed as a risky U.S. fried-chicken entrant if price is the main memory point.
 - [Jollibee](entities/Jollibee.md) — Fast-food contrast case where diaspora demand, flavor memory, and cultural identity support U.S. entry.
 - [Fei Da Chu / 费大厨](entities/FeiDaChu.md) — Chinese stir-fry brand used to discuss familiar-menu bridges such as beef and broccoli in U.S. localization.
-- [张阔 / Zhang Kuo](entities/ZhangKuo.md) — Alibaba international-business executive in E231 explaining Axio, B2B-to-A2A, agentic sourcing, and model-responsive AI-native organizations.
-- [Axio](entities/Axio.md) — Alibaba international B2B agent product in E231, covering product ideation, sourcing, design packs, supplier matching, logistics, and Axio Work small-business operations.
+- [张阔 / Zhang Kuo](entities/ZhangKuo.md) — Alibaba international-business executive connecting agentic sourcing to real-task evaluation, vertical-agent architecture, model routing, and human-owned commercial judgment.
+- [Axio / Accio Work](entities/Axio.md) — Alibaba international B2B agent product spanning product ideation, sourcing, logistics, multi-platform operations, and governed merchant workflows.
 - [Cloud Cowork](entities/CloudCowork.md) — Anthropic research-preview agent workbench named in E231 as a reference point for layered agent platforms and verified business workflows.
 - [张璐 / Zhang Lu](entities/ZhangLu.md) — Investment-side guest in E230 who frames Nvidia's AI infrastructure demand through inference as recurring cash flow, agents, and token usage.
 - [肖志斌 / Xiao Zhibin](entities/XiaoZhibin.md) — Semiconductor and AI infrastructure guest in E230 who separates Nvidia demand from packaging, HBM, interconnect, and data-center delivery constraints.
@@ -17141,6 +17142,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Business Agent Benchmark Gap](concepts/BusinessAgentBenchmarkGap.md) — Gap between general model benchmark scores and verified end-to-end completion of commercial work.
+- [Vertical Agent Architecture](concepts/VerticalAgentArchitecture.md) — Joint model, harness, and domain-context design for specialized production agents.
 - [Human Neuromodulator Measurement](concepts/HumanNeuromodulatorMeasurement.md) — Intraoperative and exploratory nasal approaches to tracking fast dopamine, serotonin, norepinephrine, and related signals in conscious humans.
 - [Dopamine-Serotonin Opponent Dynamics](concepts/DopamineSerotoninOpponentDynamics.md) — Qualified model of opposing chemical patterns around anticipation, waiting, inhibition, and wanted or unwanted outcomes.
 - [分层验证式继位接管 / Layered Accession Risk Verification](concepts/LayeredAccessionRiskVerification.md) — 以独立探路、公开程序、礼仪顺序、宫城控制与亲信掌军把危险的迎立邀请逐步转化为可执行权威。
@@ -24536,7 +24539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Restaurant Cultural Legibility](concepts/RestaurantCulturalLegibility.md) — Concept for whether consumers understand a food's format, occasion, ordering method, repeat reason, and cuisine memory point.
 - [Culture-Led Food Adoption](concepts/CultureLedFoodAdoption.md) — E232 concept for entertainment, tourism, government promotion, channels, and diaspora memory making cuisine easier to try.
 - [B2B to A2A](concepts/B2BToA2A.md) — E231 thesis that business-to-business trade can become agent-to-agent coordination among buyer, seller, platform, and operator agents.
-- [Agentic B2B Sourcing](concepts/AgenticB2BSourcing.md) — E231 workflow pattern for turning product ideas into research, design packs, supplier matching, pricing, logistics, transactions, and feedback loops.
+- [Agentic B2B Sourcing](concepts/AgenticB2BSourcing.md) — Governed workflow turning product ideas into specifications, supplier selection, landed-cost decisions, logistics, multi-platform operations, and outcome feedback.
 - [Model-Responsive AI Native Organization](concepts/ModelResponsiveAINativeOrganization.md) — E231 diagnostic that AI-native products and teams should react strongly when new models or agent frameworks appear.
 - [AI Industrial Capture](concepts/AIIndustrialCapture.md) — Concentration of consequential AI decisions among leading companies and government actors with limited outside scrutiny.
 - [Frontier Model Disclosure](concepts/FrontierModelDisclosure.md) — Required evidence access for external evaluation of high-capability model claims without necessarily releasing model weights.

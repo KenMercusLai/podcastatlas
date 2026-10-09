@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2219
+topic_total_pages: 2220
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -511,6 +511,9 @@ topic_concepts:
   - key: "BullMarketProfitPreservation"
     title: "Bull Market Profit Preservation / 牛市胜利果实保留"
     url: "/wiki/concepts/bullmarketprofitpreservation/"
+  - key: "BusinessAgentBenchmarkGap"
+    title: "Business Agent Benchmark Gap"
+    url: "/wiki/concepts/businessagentbenchmarkgap/"
   - key: "BusinessMoat"
     title: "Business Moat"
     url: "/wiki/concepts/businessmoat/"

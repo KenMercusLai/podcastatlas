@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3380
+topic_total_pages: 3383
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1351,6 +1351,9 @@ topic_concepts:
   - key: "BureaucraticRiskAvoidance"
     title: "Bureaucratic Risk Avoidance"
     url: "/wiki/concepts/bureaucraticriskavoidance/"
+  - key: "BusinessAgentBenchmarkGap"
+    title: "Business Agent Benchmark Gap"
+    url: "/wiki/concepts/businessagentbenchmarkgap/"
   - key: "BusinessLedAITransformation"
     title: "Business-Led AI Transformation"
     url: "/wiki/concepts/businessledaitransformation/"
@@ -4534,6 +4537,9 @@ topic_concepts:
   - key: "VentureTransformationAssets"
     title: "Venture Transformation Assets"
     url: "/wiki/concepts/venturetransformationassets/"
+  - key: "VerticalAgentArchitecture"
+    title: "Vertical Agent Architecture"
+    url: "/wiki/concepts/verticalagentarchitecture/"
   - key: "VerticalAgentSaaSification"
     title: "Vertical Agent SaaSification"
     url: "/wiki/concepts/verticalagentsaasification/"
@@ -9105,6 +9111,9 @@ topic_sources:
   - key: "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d"
     title: "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长"
     url: "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+  - key: "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50"
+    title: "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔"
+    url: "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
   - key: "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0"
     title: "E42 孟岩对话韦青：沉默的主角"
     url: "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"

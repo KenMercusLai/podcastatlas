@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10033
+wiki_total_pages: 10035
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "BushidoInventedTradition"
     title: "Bushido as Invented Tradition"
     url: "/wiki/concepts/bushidoinventedtradition/"
+  - key: "BusinessAgentBenchmarkGap"
+    title: "Business Agent Benchmark Gap"
+    url: "/wiki/concepts/businessagentbenchmarkgap/"
   - key: "BusinessFluentDesign"
     title: "Business Fluent Design"
     url: "/wiki/concepts/businessfluentdesign/"

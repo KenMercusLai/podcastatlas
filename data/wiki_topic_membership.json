@@ -19394,6 +19394,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "BusinessAgentBenchmarkGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BusinessEliteRuleHongKong": [
     {
       "key": "economics",
@@ -88162,6 +88174,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "VerticalAgentArchitecture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "VerticalAgentSaaSification": [
     {
       "key": "technology",
@@ -98222,6 +98241,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": [

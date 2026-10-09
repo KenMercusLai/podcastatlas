@@ -8948,6 +8948,29 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/agentworkforceredesign/"
     },
+    "AgenticB2BSourcing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？ [0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70].md",
+          "key": "e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
+          "show": "硅谷101",
+          "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+          "url": "/wiki/sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70/"
+        },
+        {
+          "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
+          "key": "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50",
+          "show": "硅谷101",
+          "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+          "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/agenticb2bsourcing/"
+    },
     "AgenticCharacterSubjectivity": {
       "episode_count": 1,
       "show_count": 1,
@@ -21604,6 +21627,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/axialagecivilizationalawakening/"
     },
+    "Axio": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？ [0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70].md",
+          "key": "e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
+          "show": "硅谷101",
+          "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+          "url": "/wiki/sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70/"
+        },
+        {
+          "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
+          "key": "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50",
+          "show": "硅谷101",
+          "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+          "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/axio/"
+    },
     "AziguliAbuduluoheman": {
       "episode_count": 1,
       "show_count": 1,
@@ -31269,6 +31315,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/bushidoinventedtradition/"
+    },
+    "BusinessAgentBenchmarkGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
+          "key": "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50",
+          "show": "硅谷101",
+          "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+          "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/businessagentbenchmarkgap/"
     },
     "BusinessEliteRuleHongKong": {
       "episode_count": 1,
@@ -247231,6 +247293,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/verticalaidataprocurement/"
     },
+    "VerticalAgentArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
+          "key": "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50",
+          "show": "硅谷101",
+          "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+          "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/verticalagentarchitecture/"
+    },
     "VerticalIntegrationForDataColdStart": {
       "episode_count": 1,
       "show_count": 1,
@@ -269105,6 +269183,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zhangkaneasternhan/"
+    },
+    "ZhangKuo": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？ [0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70].md",
+          "key": "e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
+          "show": "硅谷101",
+          "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+          "url": "/wiki/sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70/"
+        },
+        {
+          "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
+          "key": "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50",
+          "show": "硅谷101",
+          "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+          "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/zhangkuo/"
     },
     "ZhangLangLateHan": {
       "episode_count": 1,
