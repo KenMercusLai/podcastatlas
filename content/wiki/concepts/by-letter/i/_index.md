@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10104
+wiki_total_pages: 10106
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "InternalTransferStrategy"
     title: "Internal Transfer Strategy"
     url: "/wiki/concepts/internaltransferstrategy/"
+  - key: "InternalWorthAccountability"
+    title: "Internal Worth and Accountability"
+    url: "/wiki/concepts/internalworthaccountability/"
   - key: "InternalizedOverwork"
     title: "Internalized Overwork / 内化型过劳"
     url: "/wiki/concepts/internalizedoverwork/"

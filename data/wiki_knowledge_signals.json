@@ -125371,6 +125371,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/internalsafetyresearchexposure/"
     },
+    "InternalWorthAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/internalworthaccountability/"
+    },
     "InternalizedOverwork": {
       "episode_count": 1,
       "show_count": 1,
@@ -159527,9 +159543,9 @@
       "url": "/wiki/entities/malcolmturnbull/"
     },
     "MaleEmotionalIntimacyNeed": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -159558,9 +159574,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
           "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+        },
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
@@ -195612,9 +195635,9 @@
       "url": "/wiki/concepts/positiveairwaypressuretherapy/"
     },
     "PositiveMasculinityCode": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -195629,9 +195652,16 @@
           "show": "Huberman Lab",
           "title": "Overcoming Physical & Emotional Challenges | Coleman Ruiz",
           "url": "/wiki/sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547/"
+        },
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
     "PositivePartnerIdealization": {
@@ -207398,6 +207428,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/relationalinterpretiveauthority/"
     },
+    "RelationalJoy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/relationaljoy/"
+    },
     "RelationalSilenceProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -207415,9 +207461,9 @@
       "url": "/wiki/concepts/relationalsilenceprojection/"
     },
     "RelationshipConflictRepair": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7744546639 [SCIM7744546639].md",
@@ -207446,9 +207492,16 @@
           "show": "Huberman Lab",
           "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
           "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        },
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/relationshipconflictrepair/"
     },
     "RelationshipFeedbackLoop": {
@@ -241060,6 +241113,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/terrorismpressurewrongfulconviction/"
+    },
+    "TerryReal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2733623652 [SCIM2733623652].md",
+          "key": "defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652",
+          "show": "Huberman Lab",
+          "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+          "url": "/wiki/sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/terryreal/"
     },
     "TeslaOptimus": {
       "episode_count": 3,

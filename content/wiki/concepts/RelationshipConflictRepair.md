@@ -7,7 +7,8 @@ sources:
   - how-relationships-shape-your-brain-dr-allan-schore-scim1947263719
   - how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828
   - how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809
-last_updated: 2026-09-23
+  - defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ Eddy sharpens the boundary between repairable rupture and recurrent escalation. 
 
 Perel adds a systems and choreography layer. Partners may both pursue or attack, both withdraw, or enter a pursuit-distance loop; the plot changes, but the interaction can keep reproducing the same bodily activation and emotional consequence. Repair begins by making the pattern observable, changing the setup when arousal prevents listening, acknowledging one's contribution, and apologizing for both the act and its impact. [[RelationshipRevival]] remains a further step: renewed aliveness is not guaranteed by returning to baseline.
 
+Real makes the pause-and-return contract more explicit. “Responsible distance taking” is agreed before escalation where possible and states why the person is leaving, when they will return, and that the break is regulation rather than abandonment. He also shifts complaints toward actionable requests and separates four feedback elements: what happened, the story one told oneself, the feeling that followed, and what would help repair. His advice to look beneath poor delivery for hurt or need can support ordinary conflict, but does not override the page's safety and high-conflict boundaries.
+
 ## Key Claims
 - Feelings provide information, but high activation should not automatically determine speech or action.
-- Self-regulation precedes useful co-regulation, and two dysregulated partners may need a timed pause.
-- A pause counts as repair only when it supports reflection and return rather than punishment or abandonment.
+- Self-regulation precedes useful co-regulation, and a timed pause counts as repair only when it supports reflection and return rather than punishment or abandonment.
 - Important conflict is often poorly served by text because crucial social cues disappear.
 - Repair requires accountability for one's own contribution rather than a demand that only the other person change.
 - Misattunement is not itself proof of relational failure, but persistent blame and escalation can move a dispute outside the conditions required for mutual repair.
 - Conflict choreography can be more informative than the immediate plot when the same pursuit, withdrawal, or attack pattern recurs.
+- Clear requests and structured feedback make repair more actionable than mind-reading, character attack, or undifferentiated complaint.
 
 ## Evidence
 - Regulation sequence: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] distinguishes self-regulation from co-regulation and recommends pausing when both partners are activated.
@@ -46,13 +49,16 @@ Perel adds a systems and choreography layer. Partners may both pursue or attack,
 - Repair-limit claim: [[how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828]] advises brief acknowledgment, future-focused choices, firm responses, and consequence-backed limits when insight-seeking or past-focused exchange repeatedly escalates conflict.
 - Choreography and embodied-state claim: [[how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809]] distinguishes mutual attack, mutual withdrawal, and pursuit-distance patterns and changes posture, gaze, pacing, or format when arousal blocks listening.
 - Accountability and apology claim: [[how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809]] requires responsibility for one's part and acknowledgment of the hurt caused, not only admission of an act.
+- Responsible distance claim: [[defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652]] has [[TerryReal]] pair a regulation break with a reason, a return time, and reassurance that distance is not abandonment.
+- Request and feedback structure: [[defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652]] moves complaints toward requests and separates event, interpretation, feeling, and desired repair.
 
 ## Counterevidence & Qualifications
-Mutual repair is not the right frame for coercion, violence, stalking, chronic intimidation, or a persistent blame-and-escalation pattern, where safety, support, boundaries, reduced contact, or exit may come first. Face-to-face conversation is not always safe or accessible, and text can be useful for documentation, disability access, deliberate pacing, or a concise record. The sources supply clinical and practitioner frameworks rather than a universal conflict protocol, infant-caregiver repair should not be mapped mechanically onto adult partnership, and conflict choreography does not prove equal responsibility for harm.
+Mutual repair is not the right frame for coercion, violence, stalking, chronic intimidation, or a persistent blame-and-escalation pattern, where safety, support, boundaries, reduced contact, or exit may come first. Face-to-face conversation is not always safe or accessible, and text can be useful for documentation, disability access, deliberate pacing, or a concise record. Looking beneath poor delivery may be useful in ordinary conflict but is not a duty to absorb abuse. The sources supply clinical and practitioner frameworks rather than a universal conflict protocol, infant-caregiver repair should not be mapped mechanically onto adult partnership, and conflict choreography does not prove equal responsibility for harm.
 
 ## What Changed
-- Added recurrent pursuit, withdrawal, and mutual-attack choreographies as interaction-level repair signals.
-- Distinguished apology for impact and repair from the further work of relational revival.
+- Added responsible distance taking as a reason-return-reassurance contract rather than unexplained withdrawal.
+- Added direct requests and event-story-feeling-repair feedback structure.
+- Preserved safety and asymmetry boundaries around looking beneath poor delivery.
 
 ## Related Concepts
 - [[EmotionalCoRegulationFit]] - match between distress and the support a partner can actually provide.
@@ -66,3 +72,5 @@ Mutual repair is not the right frame for coercion, violence, stalking, chronic i
 - [[HighConflictCommunicationToolkit]] - containment alternative when deeper processing predictably escalates contact.
 - [[CuriosityOverReactivity]] - exploratory stance that loosens fixed conflict narratives.
 - [[RelationshipRevival]] - creation of new possibility after immediate repair.
+- [[InternalWorthAccountability]] - self-worth model that can reduce shame-driven defensiveness during correction.
+- [[RelationalJoy]] - wider positive outcome that repair and ordinary contact can help preserve.

@@ -33762,3 +33762,11 @@ Added source `089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Defining Healthy Masculinity & How to Build It | Terry Real
+
+Added source `defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652`; created [[TerryReal]], [[RelationalJoy]], and [[InternalWorthAccountability]]; and resynthesized [[PositiveMasculinityCode]], [[MaleEmotionalIntimacyNeed]], and [[RelationshipConflictRepair]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: mature masculinity is a context-sensitive repertoire of strength, tenderness, vulnerability, contribution, negotiation, and accountability; stable internal worth can support behavior-specific regret without shame collapse; and repair becomes more actionable through clear requests, timed distance with promised return, and event-story-feeling-need feedback. No settled contradiction was adopted. Broad claims about gender, patriarchy, fathers, suicide, addiction, and intimacy remain therapeutic or source-scoped, and connection does not replace individualized treatment or safety boundaries. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,227 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

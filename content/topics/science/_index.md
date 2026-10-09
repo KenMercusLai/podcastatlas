@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1493
+topic_total_pages: 1494
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1177,6 +1177,9 @@ topic_concepts:
   - key: "InternalFamilySystemsTherapy"
     title: "Internal Family Systems Therapy"
     url: "/wiki/concepts/internalfamilysystemstherapy/"
+  - key: "InternalWorthAccountability"
+    title: "Internal Worth and Accountability"
+    url: "/wiki/concepts/internalworthaccountability/"
   - key: "InteroceptiveBrainBodyCommunication"
     title: "Interoceptive Brain-Body Communication"
     url: "/wiki/concepts/interoceptivebrainbodycommunication/"

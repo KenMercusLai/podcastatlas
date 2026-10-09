@@ -4298,6 +4298,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 - [Saving your bacon: healthy-eating policy evolves](sources/saving-your-bacon-healthy-eating-policy-evolves-c9c345224eef22348330436199bbc82c.md) — Economist Podcasts episode on combined junk-food regulation, uncertainty around a Russian plague researcher's death, and Cyril Hilsum's practical display and semiconductor-laser inventions.
 - [Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick](sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807.md) — Condensed Huberman Lab interview on measurement-led micronutrient use, omega-3 form and status, hormesis, and dose-bounded cold and heat exposure.
+- [Defining Healthy Masculinity & How to Build It | Terry Real](sources/defining-healthy-masculinity-how-to-build-it-terry-real-scim2733623652.md) — Huberman Lab interview on masculinity as strength plus tenderness, internal worth, male friendship, relational joy, addiction, and practical conflict repair.
 
 ## Entities
 - [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。
@@ -17283,6 +17284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cyril Hilsum](entities/CyrilHilsum.md) — British scientist and inventor whose practical liquid-crystal and compact semiconductor-laser work connected materials research to everyday technology.
 - [Daria Shepolova](entities/DariaShepolova.md) — Russian plague researcher whose unexplained death became a bounded case in occupational causation, outbreak uncertainty, and institutional transparency.
 - [Irkutsk Anti-Plague Research Institute](entities/IrkutskAntiPlagueResearchInstitute.md) — Russian pathogen-research institute under scrutiny after Daria Shepolova's death, without current evidence of a military biological-weapons role.
+- [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
 - [Energy-Aware Work Design / 能量感知型工作设计](concepts/EnergyAwareWorkDesign.md) — Treats work capacity as changing attention, activation, recovery, task fit, motivation, and avoidable friction rather than schedulable hours alone.
@@ -27460,5 +27462,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Junk-Food Regulation Portfolio](concepts/JunkFoodRegulationPortfolio.md) — Combined use of labels, marketing and placement limits, reformulation incentives, and taxes, with explicit loophole and equity boundaries.
 - [High-Consequence Biological Research Transparency](concepts/HighConsequenceBiologicalResearchTransparency.md) — Disclosure and verification standard separating precaution, occupational causation, outbreak confirmation, and weapons attribution.
 - [Applied Research Translation](concepts/AppliedResearchTranslation.md) — Movement from scientific properties and prototypes to stable, compact, useful technologies through engineering, collaboration, and institutional uptake.
+- [Relational Joy](concepts/RelationalJoy.md) — Deeper satisfaction built through mutual connection, ordinary presence, and good-enough contact rather than stimulation or peak experience alone.
+- [Internal Worth and Accountability](concepts/InternalWorthAccountability.md) — Distinguishes basic human worth from conduct evaluation so regret and repair need not become shame collapse.
 
 ## Syntheses
