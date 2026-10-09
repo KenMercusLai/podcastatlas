@@ -6,7 +6,8 @@ sources:
   - essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415
   - tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886
   - how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014
-last_updated: 2026-10-01
+  - essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Kyle Gillett is a physician guest in [[HubermanLab]] episodes on hormone health, fertility, and clinician-guided intervention.
 
 ## Current Profile
-Within the current wiki evidence, Gillett appears as a clinician explaining hormone health through longitudinal bloodwork, symptoms, developmental and reproductive context, lifestyle foundations, supplement caution, and supervised prescription decision-making. He treats testosterone, estrogen, DHT, SHBG, IGF-1, prolactin, fertility, training load, diet, sleep, sexual symptoms, and hair or peptide interventions as interacting variables rather than isolated targets. The male-optimization full episode and Essentials note are two versions of one discussion; the earlier vitality interview is a distinct appearance but repeated claims from the same guest are still not independent expert agreement.
+Within the current wiki evidence, Gillett appears as a clinician explaining hormone health through longitudinal bloodwork, symptoms, developmental and reproductive context, lifestyle foundations, supplement caution, and supervised prescription decision-making. He treats testosterone, estrogen, DHT, SHBG, IGF-1, prolactin, fertility, training load, diet, sleep, sexual symptoms, and hair or peptide interventions as interacting variables rather than isolated targets. Each of the two full interviews now has an Essentials edit in the wiki; condensed and full versions of the same discussion improve coverage but do not constitute independent expert agreement.
 
 ## Key Characteristics
 - Frames male hormone health as a longitudinal measurement problem rather than a single testosterone-number problem.
@@ -34,12 +35,13 @@ Within the current wiki evidence, Gillett appears as a clinician explaining horm
 - Testosterone caution: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] says testosterone therapy rarely has a favorable tradeoff for men in their 20s or very young men except rare medical cases.
 - Supplement boundary: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] discusses creatine, betaine, L-carnitine, boron, Tongkat Ali, and Fadogia through dose, context, mechanism, and side-effect concerns.
 - Systemic-intervention boundary: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] warns that clomiphene, testosterone dosing, topical spironolactone, topical finasteride, and related interventions need medical context because effects can extend beyond the intended local or short-term target.
-- Broader endocrine profile: [[how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014]] applies lifestyle-first assessment to both sexes and adds prolactin-pituitary context, PCOS, sleep-apnea and fertility tradeoffs of TRT, avoidance of unnecessary aromatase suppression, and peptide sourcing and cancer-risk boundaries.
+- Broader endocrine profile: [[how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014]] and its condensed [[essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836|Essentials edit]] apply lifestyle-first assessment to both sexes and add prolactin-pituitary context, PCOS, sleep-apnea and fertility tradeoffs of TRT, avoidance of unnecessary aromatase suppression, and peptide sourcing and cancer-risk boundaries.
 
 ## Qualifications
-This page is source-scoped to two full Huberman Lab interviews and a condensed Essentials version of the later male-optimization interview. The full and condensed versions are not independent evidence, and the separate interview remains one clinician's public discussion rather than external corroboration. The page is not a complete account of Gillett's credentials, practice, publications, or clinical recommendations outside the ingested material.
+This page is source-scoped to two full Huberman Lab interviews and their condensed Essentials edits. Full and condensed versions are not independent evidence, and the two discussions remain one clinician's public account rather than external corroboration. The page is not a complete account of Gillett's credentials, practice, publications, or clinical recommendations outside the ingested material.
 
 ## What Changed
+- Added the Essentials edit of the earlier vitality interview while explicitly treating it as overlapping provenance rather than new corroboration.
 - Added the full-length episode's puberty, growth, sexual-function, fertility-exposure, and peptide-safety detail while distinguishing it from independent corroboration.
 - Broadened the profile beyond male optimization to prolactin, PCOS, sleep, prostate, relationship, and peptide contexts from a distinct earlier interview.
 

@@ -139820,9 +139820,9 @@
       "url": "/wiki/entities/kyaclark/"
     },
     "KyleGillett": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -139844,9 +139844,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
           "url": "/wiki/sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014/"
+        },
+        {
+          "episode_file": "SCIM8309533836 [SCIM8309533836].md",
+          "key": "essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/kylegillett/"
     },
     "KyleHarper": {
@@ -159626,9 +159633,9 @@
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -159671,9 +159678,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/how-to-optimize-testosterone-estrogen-scim7814508461/"
+        },
+        {
+          "episode_file": "SCIM8309533836 [SCIM8309533836].md",
+          "key": "essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/malehormonehealthphenotyping/"
     },
     "MaleMentorFemaleGrowthNarrative": {
@@ -189474,9 +189488,9 @@
       "url": "/wiki/entities/peoplesactionparty/"
     },
     "PeptideEvidenceHierarchy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -189505,9 +189519,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
           "url": "/wiki/sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014/"
+        },
+        {
+          "episode_file": "SCIM8309533836 [SCIM8309533836].md",
+          "key": "essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/peptideevidencehierarchy/"
     },
     "PeptideSourcingQualityRisk": {
@@ -200027,9 +200048,9 @@
       "url": "/wiki/entities/projectionsbook/"
     },
     "ProlactinDopaminePituitaryInterpretation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6818581014 [SCIM6818581014].md",
@@ -200037,9 +200058,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
           "url": "/wiki/sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014/"
+        },
+        {
+          "episode_file": "SCIM8309533836 [SCIM8309533836].md",
+          "key": "essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett",
+          "url": "/wiki/sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/prolactindopaminepituitaryinterpretation/"
     },
     "Prometheus": {
