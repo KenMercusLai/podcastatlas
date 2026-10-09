@@ -34096,3 +34096,11 @@ Added source `essentials-using-hypnosis-to-enhance-mental-physical-health-perfor
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 621. The Nazis at War: Blitzkrieg (Part 2)
+
+Added source `621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512`; created [[HaakonVII|Haakon VII]], [[VidkunQuisling|Vidkun Quisling]], [[ErichVonManstein|Erich von Manstein]], [[HeinzGuderian|Heinz Guderian]], [[NorwegianCampaign1940|the Norwegian Campaign]], and [[Blitzkrieg]]; migrated and resynthesized [[Norway]] from its complete preserved evidence inventory; and resynthesized [[PaulReynaud|Paul Reynaud]], [[MaximeWeygand|Maxime Weygand]], and [[FallOfFrance1940|the Fall of France]] before appending the new source once. Core synthesis: Norway was a rival preemption contest over iron ore and coastal position in which Norwegian resistance imposed meaningful delay and cost despite Allied failure, while the western breakthrough depended on operational concentration, surprise, air-ground coordination, movement, and faster decisions rather than overwhelming German mechanization. No settled contradiction was adopted. Force, casualty, equipment, ship-loss, aircraft, refugee, movement, and campaign-duration figures; dialogue; motives; stimulant use; and counterfactual Allied attacks remain source-scoped. Broad Hitler, Churchill, Denmark, Christian X, and show profiles were kept closed because focused pages capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,269 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

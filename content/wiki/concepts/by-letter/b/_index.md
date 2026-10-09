@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10146
+wiki_total_pages: 10148
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "BlindnessMemoryArtIdeal"
     title: "Blindness-Memory Art Ideal"
     url: "/wiki/concepts/blindnessmemoryartideal/"
+  - key: "Blitzkrieg"
+    title: "Blitzkrieg"
+    url: "/wiki/concepts/blitzkrieg/"
   - key: "BlockAndDissentHygiene"
     title: "Block And Dissent Hygiene / 拉黑与异见卫生"
     url: "/wiki/concepts/blockanddissenthygiene/"

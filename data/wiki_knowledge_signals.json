@@ -28226,6 +28226,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/blindmountainfilm/"
     },
+    "Blitzkrieg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/blitzkrieg/"
+    },
     "BlockAndDissentHygiene": {
       "episode_count": 1,
       "show_count": 1,
@@ -79480,6 +79496,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/erichludendorff/"
     },
+    "ErichVonManstein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/erichvonmanstein/"
+    },
     "ErnstJunger": {
       "episode_count": 1,
       "show_count": 1,
@@ -83080,9 +83112,9 @@
       "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
     },
     "FallOfFrance1940": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2702093158 [GLT2702093158].md",
@@ -83097,6 +83129,13 @@
           "show": "The Rest Is History",
           "title": "622. The Nazis at War: The Fall of France (Part 3)",
           "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        },
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
         }
       ],
       "updated": "2026-10-10",
@@ -105679,6 +105718,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/haakonchevalier/"
     },
+    "HaakonVII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/haakonvii/"
+    },
     "HabibayStartupEmbassyResident": {
       "episode_count": 1,
       "show_count": 1,
@@ -110616,6 +110671,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/heinrichschliemann/"
+    },
+    "HeinzGuderian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/heinzguderian/"
     },
     "HeirSupportThreatPerception": {
       "episode_count": 3,
@@ -165177,9 +165248,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximeWeygand": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6447940829 [GLT6447940829].md",
@@ -165187,6 +165258,13 @@
           "show": "The Rest Is History",
           "title": "622. The Nazis at War: The Fall of France (Part 3)",
           "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        },
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
         }
       ],
       "updated": "2026-10-10",
@@ -181642,6 +181720,45 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/northernxiongnulatehan/"
     },
+    "Norway": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920 [default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920].md",
+          "key": "how-to-beat-the-resource-curse-in-norway-summer-school",
+          "show": "Planet Money",
+          "title": "How to beat the resource curse in Norway (Summer School)",
+          "url": "/wiki/sources/how-to-beat-the-resource-curse-in-norway-summer-school/"
+        },
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/norway/"
+    },
+    "NorwegianCampaign1940": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/norwegiancampaign1940/"
+    },
     "NotreDameDeParis": {
       "episode_count": 1,
       "show_count": 1,
@@ -190355,9 +190472,9 @@
       "url": "/wiki/entities/paulmccartney/"
     },
     "PaulReynaud": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6447940829 [GLT6447940829].md",
@@ -190365,6 +190482,13 @@
           "show": "The Rest Is History",
           "title": "622. The Nazis at War: The Fall of France (Part 3)",
           "url": "/wiki/sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829/"
+        },
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
         }
       ],
       "updated": "2026-10-10",
@@ -256294,6 +256418,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/videopodcastaffordance/"
+    },
+    "VidkunQuisling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8711886512 [GLT8711886512].md",
+          "key": "621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512",
+          "show": "The Rest Is History",
+          "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
+          "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/vidkunquisling/"
     },
     "Vienna": {
       "episode_count": 5,

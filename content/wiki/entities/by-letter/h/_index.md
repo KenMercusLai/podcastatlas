@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12985
+wiki_total_pages: 12989
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "HaakonChevalier"
     title: "Haakon Chevalier"
     url: "/wiki/entities/haakonchevalier/"
+  - key: "HaakonVII"
+    title: "Haakon VII"
+    url: "/wiki/entities/haakonvii/"
   - key: "HabibaFayed"
     title: "Habiba Fayed"
     url: "/wiki/entities/habibafayed/"
@@ -410,6 +413,9 @@ wiki_pages:
   - key: "HeinrichSchliemann"
     title: "Heinrich Schliemann"
     url: "/wiki/entities/heinrichschliemann/"
+  - key: "HeinzGuderian"
+    title: "Heinz Guderian"
+    url: "/wiki/entities/heinzguderian/"
   - key: "HeirloomCarbonTechnologies"
     title: "Heirloom Carbon Technologies"
     url: "/wiki/entities/heirloomcarbontechnologies/"

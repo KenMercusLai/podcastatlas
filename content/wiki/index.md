@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [621. The Nazis at War: Blitzkrieg (Part 2)](sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512.md) — The Rest Is History on Norway, Churchill's accession, the Ardennes breakthrough, and Allied collapse before Dunkirk.
 - [086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？](sources/086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible.md) — 纸醉金迷FM以佳佳大厦百鬼夜行篇讨论控制型母爱、顺从到共犯、道德原则与具体共情，并评析都市化灵异工具和规则一致性。
 - [The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)](sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525.md) — The Rest Is History follows the Beatles from postwar Liverpool and Hamburg through Epstein, original songwriting, Beatlemania, civil-rights conduct, and the 1964 American breakthrough.
 - [623. The Nazis at War: Churchill's Finest Hour (Part 4)](sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438.md) — The Rest Is History on Britain's 1940 resistance, German air and invasion failures, the Blitz, and Hitler's turn toward Barbarossa.
@@ -4342,15 +4343,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
 
 ## Entities
+- [Haakon VII](entities/HaakonVII.md) — Norwegian king whose escape and refusal to authorize Quisling preserved legitimate resistance during the 1940 invasion.
+- [Vidkun Quisling](entities/VidkunQuisling.md) — Norwegian fascist who supplied defense knowledge to Germany and attempted to head an occupation-backed government.
+- [Erich von Manstein](entities/ErichVonManstein.md) — German officer associated with the risky Ardennes plan that turned toward the Channel in May 1940.
+- [Heinz Guderian](entities/HeinzGuderian.md) — German armored commander associated with the Ardennes thrust and rapid Channel drive.
 - [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 以佳佳大厦篇连接都市邻里、家庭控制、僵尸鬼怪、现代化法器与道歉和解的香港灵异剧。
 - [阿平 / A Ping (My Date with a Vampire)](entities/APingMyDateWithAVampire.md) — 从具体善意与长期顺从走向包庇、强迫和复仇，又因母亲承认控制伤害而散去怨气的裁缝。
 - [平妈 / Ping Ma (My Date with a Vampire)](entities/PingMaMyDateWithAVampire.md) — 以牺牲和道德判断包装控制、死后升级为活尸杀戮并最终承认自身责任的母亲。
 - [P.P. (My Date with a Vampire)](entities/PPMyDateWithAVampire.md) — 遭职业污名与杀害，却最清楚辨认阿平自主性被剥夺并推动母子和解的邻居。
 - [马小玲 / Ma Xiaoling](entities/MaXiaoling.md) — 在佳佳大厦篇承担调查、驱魔、超度与群体协调，并体现都市化法术工具设计的驱魔人。
 - [况天佑 / Kuang Tianyou](entities/KuangTianyou.md) — 虽想远离暴露、灵异冲突和情感关系，仍以调查与僵尸能力反复保护住户的人物。
-- [Paul Reynaud](entities/PaulReynaud.md) — French prime minister whose effort to continue the war from abroad lost to the armistice faction in June 1940.
+- [Paul Reynaud](entities/PaulReynaud.md) — French prime minister who moved from active early-war operations and breakthrough crisis to a failed effort to continue resistance abroad.
 - [Philippe Pétain](entities/PhilippePetain.md) — French marshal who sought the 1940 armistice and led the Vichy regime.
-- [Maxime Weygand](entities/MaximeWeygand.md) — French commander who judged the 1940 military position irretrievable and advocated an armistice.
+- [Maxime Weygand](entities/MaximeWeygand.md) — French commander appointed amid the Channel breakthrough who failed to restore coordination and later advocated an armistice.
 - [Vichy France](entities/VichyFrance.md) — French regime led by Pétain from the southern zone after the June 1940 armistice.
 - [智果 / Zhi Guo](entities/ZhiGuo.md) — 反对智瑶继位并警告公开羞辱会积累隐蔽报复的智氏谋臣。
 - [尹铎 / Yin Duo](entities/YinDuo.md) — 以减轻负担和修备把晋阳经营为赵氏预置退路的管理者。
@@ -11529,7 +11534,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kurzweil K-250](entities/KurzweilK250.md) — Digital instrument that gave Chuck Surack rare sound-creation expertise and helped move Sweetwater from recording services into equipment retail.
 - [鹰眼时间](entities/YingyanShijian.md) — Football podcast context supplying the Vol.267 World Cup fan-experience and on-site observation layer.
 - [特特飞](entities/TeteFei.md) — 鹰眼时间 speaker whose 2026 World Cup trip and resale-ticket loss anchor Vol.267's fan-cost analysis.
-- [Norway](entities/Norway.md) — Country case for Planet Money's resource-curse-governance and salmon export-market-creation episode.
+- [Norway](entities/Norway.md) — Scandinavian state joining 1940 invasion and resistance to later oil governance and salmon export-market creation.
 - [Hilde Bjornland](entities/HildeBjornland.md) — Norwegian economics professor explaining oil wealth, social trust, public spending, and salmon-market coordination in the Planet Money Summer School source.
 - [Farouk Al Qassem](entities/FaroukAlQassem.md) — Iraqi geologist whose early oil expertise helped Norway prepare before the Ekofisk discovery.
 - [Bjorn Adek Olsen](entities/BjornAdekOlsen.md) — Norwegian fish marketer who helped sell Norwegian salmon into Japan as sushi.
@@ -17386,6 +17391,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
 
 ## Concepts
+- [Norwegian Campaign (1940)](concepts/NorwegianCampaign1940.md) — Contest over iron ore and coastal position joining Norwegian resistance, Allied failure, German losses, and Churchill's accession.
+- [Blitzkrieg](concepts/Blitzkrieg.md) — Coordinated operational speed and concentration qualified against myths of uniform mechanization and inevitable German victory.
 - [Moral Principle–Empathy Gap / 道德原则与具体共情落差](concepts/MoralPrincipleEmpathyGap.md) — 抽象道德类别与对具体人的处境、尊严、动机及受害后果之间发生脱节的判断模式。
 - [Urbanized Supernatural Worldbuilding / 都市化灵异世界构建](concepts/UrbanizedSupernaturalWorldbuilding.md) — 将鬼怪、法器、阴间行政和轮回规则转译为现代城市物件、职业、建筑与交通系统的世界构建方式。
 - [Compiègne Armistice (1940)](concepts/CompiegneArmistice1940.md) — Settlement joining France's military and cabinet defeat to occupation, Vichy rule, and Hitler's staged revenge for 1918.
@@ -17900,7 +17907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hainan Growth and Resident Distribution / 海南增长与居民获得感](concepts/HainanGrowthResidentDistribution.md) — Test of whether tourism, duty-free, property, and policy-led growth become broad resident welfare and regional capability.
 - [Island Connectivity Development Constraint / 岛屿连通性发展约束](concepts/IslandConnectivityDevelopmentConstraint.md) — Mechanism by which bounded island geography supports regulation while raising transport and logistics friction.
 - [Policy-Driven Talent Retention Gap / 政策引才与留才落差](concepts/PolicyDrivenTalentRetentionGap.md) — Difference between incentive-led recruitment and durable settlement supported by careers, services, and personal fit.
-- [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign showing how communications, combined arms, and decision speed can defeat material strength that is poorly coordinated.
+- [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign joining Ardennes surprise, combined arms, decision speed, command paralysis, and political fracture.
 - [Dunkirk Evacuation](concepts/DunkirkEvacuation.md) — Operation Dynamo understood as an unexpectedly large manpower rescue overlapping Britain's decision to continue the war.
 - [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Negotiation crisis and qualified choke point joining Churchill's authority to Britain's retained strategic capacity.
 - [Battle of Britain](concepts/BattleOfBritain.md) — Air campaign decisive for preserving Britain in the war even though German invasion capacity was independently weak.
