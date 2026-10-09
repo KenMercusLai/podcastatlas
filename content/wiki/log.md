@@ -33554,3 +33554,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki
+
+Added source `essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312`; resynthesized [[WendySuzuki]], [[MemoryEncodingLevers]], [[HippocampalAssociativeMemory]], [[ExerciseLinkedCognitiveResilience]], [[ExerciseConditionedBloodSignaling]], and [[ShortDailyMeditationAttentionTraining]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: novelty, repetition, association, and emotion support encoding; hippocampal association contributes to long-term fact-and-event memory and imagination; movement spans a short mood shift, stronger acute aerobic effects, repeated-training adaptation, and observational aging evidence; and brief body-scan meditation is a feasible attention practice. No settled contradiction was adopted. The Essentials release substantially overlaps the earlier full Wendy Suzuki interview, so it does not add independent evidentiary weight. The nine-year cognition result is correlational, the higher-dose exercise result is unpublished, adult human neurogenesis remains contested, and the myokine, beta-hydroxybutyrate, BDNF, dementia, exercise-dose, and meditation claims remain source-scoped. Broad host and show pages were kept closed because the condensed release adds no new profile-level judgment. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,201 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,7 +4,8 @@ type: concept
 tags: [exercise, cognition, memory, attention, aging]
 sources:
   - boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096
-last_updated: 2026-10-01
+  - essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ For longer-term adaptation, Suzuki reports that three months of spin classes two
 
 The proposed mechanisms include monoamines, [[BrainDerivedNeurotrophicFactor]], muscle- and liver-derived signals, and possible adult hippocampal neurogenesis. These mechanisms make exercise biologically plausible, while the episode's publication and comparison gaps prevent a single optimized prescription or a dementia-prevention guarantee.
 
+The later Essentials edit preserves the distinction between a roughly 10-minute walk for a mood shift, a 30-to-45-minute aerobic bout for stronger acute cognitive effects, repeated training, and long-term observational fitness evidence. It is overlapping editorial provenance, so it clarifies the practical ladder without increasing independent evidentiary weight.
+
 ## Key Claims
 - Acute aerobic exercise can transiently improve mood, reaction time, focused attention, and prefrontal performance.
 - Repeated cardiovascular training may improve hippocampal memory and executive-task performance in low-fit adults.
@@ -34,13 +37,13 @@ The proposed mechanisms include monoamines, [[BrainDerivedNeurotrophicFactor]], 
 - Aging association - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] cites a longitudinal Swedish cohort in which higher midlife fitness predicted a longer period of good cognition.
 - Mechanism candidates - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] links aerobic exercise with BDNF, monoamines, a muscle-derived myokine, beta-hydroxybutyrate, and hippocampal plasticity.
 - Dose-response uncertainty - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] describes the higher-frequency spin result as unpublished and notes missing comparisons across modalities.
+- Practical ladder and provenance - [[essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312]] distinguishes walking, acute aerobic exercise, repeated training, and aging association while reusing the earlier interview's evidence.
 
 ## Counterevidence & Qualifications
-The source note does not supply sample sizes, full methods, effect sizes, preregistration, or replication for the reported interventions. Several findings were unpublished at the time of the conversation. The aging study is correlational and vulnerable to health, socioeconomic, genetic, and behavioral confounding. Adult human hippocampal neurogenesis remains debated, peripheral signaling claims are incomplete, and diet was not consistently controlled. Exercise safety, accessibility, recovery, medication, disability, cardiovascular risk, and clinical cognitive symptoms require individualized judgment.
+The source notes do not supply sample sizes, full methods, effect sizes, preregistration, or replication for the reported interventions, and the Essentials edit is not an independent source. Several findings were unpublished at the time of the conversation. The aging study is correlational and vulnerable to health, socioeconomic, genetic, and behavioral confounding. Adult human hippocampal neurogenesis remains debated, peripheral signaling claims are incomplete, and diet was not consistently controlled. Exercise safety, accessibility, recovery, medication, disability, cardiovascular risk, and clinical cognitive symptoms require individualized judgment.
 
 ## What Changed
-- Created a two-timescale synthesis separating acute cognitive effects from training and aging evidence.
-- Bounded mechanism, publication, modality-comparison, and dementia claims.
+- Clarified the movement-to-training practical ladder while keeping evidence strength unchanged for editorial overlap.
 
 ## Related Concepts
 - [[ExerciseSpecificBrainAdaptation]] - broader model distinguishing acute arousal and modality-specific brain changes.

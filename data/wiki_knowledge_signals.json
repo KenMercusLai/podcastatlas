@@ -79496,9 +79496,9 @@
       "url": "/wiki/concepts/exerciseassistivegearboundary/"
     },
     "ExerciseConditionedBloodSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5931542341 [SCIM5931542341].md",
@@ -79506,9 +79506,16 @@
           "show": "Huberman Lab",
           "title": "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray",
           "url": "/wiki/sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/exerciseconditionedbloodsignaling/"
     },
     "ExerciseFatOxidationSequencing": {
@@ -79623,9 +79630,9 @@
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLinkedCognitiveResilience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -79633,9 +79640,16 @@
           "show": "Huberman Lab",
           "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
           "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/exerciselinkedcognitiveresilience/"
     },
     "ExerciseLoadManagement": {
@@ -111148,9 +111162,9 @@
       "url": "/wiki/concepts/hippiehistoricistfashionturn/"
     },
     "HippocampalAssociativeMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -111165,9 +111179,16 @@
           "show": "Huberman Lab",
           "title": "Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/hippocampalassociativememory/"
     },
     "HiramWesleyEvans": {
@@ -163628,9 +163649,9 @@
       "url": "/wiki/concepts/memorydeletionethics/"
     },
     "MemoryEncodingLevers": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -163645,9 +163666,16 @@
           "show": "Huberman Lab",
           "title": "Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/memoryencodinglevers/"
     },
     "MemoryMachine": {
@@ -221883,9 +221911,9 @@
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
     "ShortDailyMeditationAttentionTraining": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -221907,9 +221935,16 @@
           "show": "Huberman Lab",
           "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
           "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
     },
     "ShortVideoCraftCreatorPath": {
@@ -257942,9 +257977,9 @@
       "url": "/wiki/entities/wenceslasofbohemia/"
     },
     "WendySuzuki": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -257966,9 +258001,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools to Improve Your Focus & Concentration",
           "url": "/wiki/sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388/"
+        },
+        {
+          "episode_file": "SCIM7457192312 [SCIM7457192312].md",
+          "key": "essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/wendysuzuki/"
     },
     "Wendys": {
