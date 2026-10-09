@@ -33602,3 +33602,10 @@ Added source `634-joan-of-arc-heroine-in-chains-part-3-glt6235222836`; resynthes
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 遲來的性罪行法律改革，倖存者們想爭取甚麼？
+
+Added source `chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c`; created [[HongKongSexualOffencesLawReformConcernGroup|性罪行法律改革關注組]], [[HongKongSexualOffenceLawReform|香港性罪行法律改革]], [[AffirmativeConsentInSexualOffenceLaw|性罪行法中的積極同意]], and [[SurvivorCenteredSexualViolenceJustice|倖存者中心的性暴力司法]]; and resynthesized [[ConsentAndBodyBoundaryEducation|同意與身體邊界教育]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: reform shifts the baseline from inferred non-refusal toward free, voluntary, act-specific, revocable consent; non-resistance and freeze responses do not establish consent; and expanded offences need trauma-informed, accessible procedure plus public boundary education. No settled contradiction was adopted. The exact consultation figures, case details, legal names, draft wording, legislative timetable, comparative-law outcomes, and deepfake coverage remain source-scoped pending review of official texts. The broad [[DuanwenNewsPodcast|端聞]] profile was kept closed because its existing reported-explainer characteristics already cover this episode. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,207 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

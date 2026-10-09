@@ -8204,6 +8204,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/affectivepolarization/"
     },
+    "AffirmativeConsentInSexualOffenceLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "524a75be1d8dd6b5616888637001b58c [524a75be1d8dd6b5616888637001b58c.mp3？aid=6ac85751eea51f2aa3f2900b&chid=66b07190af99592.280].md",
+          "key": "chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "遲來的性罪行法律改革，倖存者們想爭取甚麼？",
+          "url": "/wiki/sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/affirmativeconsentinsexualoffencelaw/"
+    },
     "Afghanistan": {
       "episode_count": 4,
       "show_count": 3,
@@ -49659,9 +49675,9 @@
       "url": "/wiki/concepts/consciencethroughduty/"
     },
     "ConsentAndBodyBoundaryEducation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
@@ -49669,9 +49685,16 @@
           "show": "这病说来话长",
           "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
           "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        },
+        {
+          "episode_file": "524a75be1d8dd6b5616888637001b58c [524a75be1d8dd6b5616888637001b58c.mp3？aid=6ac85751eea51f2aa3f2900b&chid=66b07190af99592.280].md",
+          "key": "chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "遲來的性罪行法律改革，倖存者們想爭取甚麼？",
+          "url": "/wiki/sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/consentandbodyboundaryeducation/"
     },
     "ConsentBasedTheatricalDeception": {
@@ -113525,6 +113548,38 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hongkongspca/"
+    },
+    "HongKongSexualOffenceLawReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "524a75be1d8dd6b5616888637001b58c [524a75be1d8dd6b5616888637001b58c.mp3？aid=6ac85751eea51f2aa3f2900b&chid=66b07190af99592.280].md",
+          "key": "chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "遲來的性罪行法律改革，倖存者們想爭取甚麼？",
+          "url": "/wiki/sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/hongkongsexualoffencelawreform/"
+    },
+    "HongKongSexualOffencesLawReformConcernGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "524a75be1d8dd6b5616888637001b58c [524a75be1d8dd6b5616888637001b58c.mp3？aid=6ac85751eea51f2aa3f2900b&chid=66b07190af99592.280].md",
+          "key": "chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "遲來的性罪行法律改革，倖存者們想爭取甚麼？",
+          "url": "/wiki/sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/hongkongsexualoffenceslawreformconcerngroup/"
     },
     "HongLiangji": {
       "episode_count": 1,
@@ -235144,6 +235199,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/survivalpressurerebellion/"
+    },
+    "SurvivorCenteredSexualViolenceJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "524a75be1d8dd6b5616888637001b58c [524a75be1d8dd6b5616888637001b58c.mp3？aid=6ac85751eea51f2aa3f2900b&chid=66b07190af99592.280].md",
+          "key": "chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "遲來的性罪行法律改革，倖存者們想爭取甚麼？",
+          "url": "/wiki/sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/survivorcenteredsexualviolencejustice/"
     },
     "SurvivorWitnessWithoutConsolation": {
       "episode_count": 1,

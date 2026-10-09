@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10082
+wiki_total_pages: 10085
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "AffectivePolarization"
     title: "Affective Polarization / 情感极化"
     url: "/wiki/concepts/affectivepolarization/"
+  - key: "AffirmativeConsentInSexualOffenceLaw"
+    title: "Affirmative Consent in Sexual Offence Law / 性罪行法中的積極同意"
+    url: "/wiki/concepts/affirmativeconsentinsexualoffencelaw/"
   - key: "AffordabilityDrivenSocialism"
     title: "Affordability-Driven Socialism"
     url: "/wiki/concepts/affordabilitydrivensocialism/"

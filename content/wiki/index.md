@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [遲來的性罪行法律改革，倖存者們想爭取甚麼？](sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c.md) — 端聞以倖存者經驗解釋香港性罪行法改、積極同意、真誠誤信抗辯、程序二次傷害與弱勢保障。
 - [634. Joan of Arc: Heroine in Chains (Part 3)](sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836.md) — The Rest Is History episode on Joan's Loire victories, Reims coronation mission, Paris failure, capture, and conversion of sacred-martial charisma into political legitimacy.
 - [635. Joan of Arc: For Fear of the Flames (Part 4)](sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235.md) — The Rest Is History episode on Joan's politically charged ecclesiastical trial, abjuration, relapse, execution, French recovery, and rehabilitation.
 - [刘震云×罗永浩！有些玩笑含着泪也要开完](sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_.md) — 刘震云以《闲得玩笑》、县城人物、童年与写作经历连接日常哲学、含泪幽默、被掩埋的小痛苦、创作更新和读者时间伦理。
@@ -4280,6 +4281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys](sources/how-to-overcome-addiction-to-substances-or-behaviors-dr-keith-humphreys-scim9003480684.md) — Huberman Lab interview linking addiction risk and cue-driven learning with plural recovery pathways, treatment systems, and regulation of dependence-centered markets.
 
 ## Entities
+- [性罪行法律改革關注組 / Hong Kong Sexual Offences Law Reform Concern Group](entities/HongKongSexualOffencesLawReformConcernGroup.md) — 以倖存者視角參與香港性罪行法改、公眾教育與條文批判的倡議團體。
 - [John of Lancaster, Duke of Bedford](entities/JohnOfLancasterDukeOfBedford.md) — English regent in France who answered Joan's military-symbolic threat through occult explanation and an ecclesiastical trial strategy.
 - [Henry VI of England](entities/HenryVIOfEngland.md) — Child king whose inherited French claim made Joan of Arc's condemnation politically valuable.
 - [Pierre Cauchon](entities/PierreCauchon.md) — Bishop who led Joan of Arc's procedurally serious but politically bounded heresy prosecution.
@@ -17238,6 +17240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Humphreys](entities/KeithHumphreys.md) — Psychiatrist and addiction-policy researcher connecting clinical recovery, public-health systems, and regulation of addictive-product industries.
 
 ## Concepts
+- [Hong Kong Sexual Offence Law Reform / 香港性罪行法律改革](concepts/HongKongSexualOffenceLawReform.md) — 整合罪名、同意、抗辯、兒童與弱勢保障及科技缺口的香港制度改革框架。
+- [Affirmative Consent in Sexual Offence Law / 性罪行法中的積極同意](concepts/AffirmativeConsentInSexualOffenceLaw.md) — 以能力、自由、自願、行為特定和可撤回性界定同意，並拒絕由沉默或不反抗推定同意。
+- [Survivor-Centered Sexual Violence Justice / 倖存者中心的性暴力司法](concepts/SurvivorCenteredSexualViolenceJustice.md) — 兼顧公平審訊、創傷知情、程序可及性、私隱和避免二次傷害的司法框架。
 - [Charismatic War Legitimacy](concepts/CharismaticWarLegitimacy.md) — Conversion of sacred or heroic authority into mobilization, morale, enemy hesitation, and public political legitimacy under material constraints.
 - [Ecclesiastical Trial as Political Legitimacy](concepts/EcclesiasticalTrialPoliticalLegitimacy.md) — Framework for religious procedure that converts doctrinal judgment into dynastic legitimacy.
 - [Literature as Everyday Philosophy / 文学作为日常哲学](concepts/LiteratureAsEverydayPhilosophy.md) — 文学通过普通人的言语、关系、羞耻与难言问题揭示日常生活中已经存在的理由和价值冲突。

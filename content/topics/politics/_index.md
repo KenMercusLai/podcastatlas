@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3242
+topic_total_pages: 3243
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -67,6 +67,9 @@ topic_concepts:
   - key: "AffectionDrivenSuccessionRisk"
     title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
     url: "/wiki/concepts/affectiondrivensuccessionrisk/"
+  - key: "AffirmativeConsentInSexualOffenceLaw"
+    title: "Affirmative Consent in Sexual Offence Law / 性罪行法中的積極同意"
+    url: "/wiki/concepts/affirmativeconsentinsexualoffencelaw/"
   - key: "AffordabilityDrivenSocialism"
     title: "Affordability-Driven Socialism"
     url: "/wiki/concepts/affordabilitydrivensocialism/"

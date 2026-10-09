@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10082
+wiki_total_pages: 10085
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "HongKongRetailInvestorSurvival"
     title: "Hong Kong Retail Investor Survival"
     url: "/wiki/concepts/hongkongretailinvestorsurvival/"
+  - key: "HongKongSexualOffenceLawReform"
+    title: "Hong Kong Sexual Offence Law Reform / 香港性罪行法律改革"
+    url: "/wiki/concepts/hongkongsexualoffencelawreform/"
   - key: "HongKongStockConnect"
     title: "Hong Kong Stock Connect"
     url: "/wiki/concepts/hongkongstockconnect/"

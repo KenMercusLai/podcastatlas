@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12899
+wiki_total_pages: 12900
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "HuzuoHuyou"
     title: "忽左忽右 / Huzuo Huyou"
     url: "/wiki/entities/huzuohuyou/"
+  - key: "HongKongSexualOffencesLawReformConcernGroup"
+    title: "性罪行法律改革關注組 / Hong Kong Sexual Offences Law Reform Concern Group"
+    url: "/wiki/entities/hongkongsexualoffenceslawreformconcerngroup/"
   - key: "HenganGroup"
     title: "恒安集团"
     url: "/wiki/entities/hengangroup/"
