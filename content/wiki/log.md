@@ -33192,3 +33192,11 @@ Added source `zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-l
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague
+
+Added source `scim3970994914-scim3970994914`; created [[ReedMontague]], [[HumanNeuromodulatorMeasurement]], and [[DopamineSerotoninOpponentDynamics]]; resynthesized [[RewardPredictionErrorLearning]] from its complete preserved evidence inventory before appending the new source once; and migrated and resynthesized [[ReinforcementLearningAGIPath]] from its complete bounded input. Core synthesis: temporal-difference learning updates value between successive expectations before a final reward, while conscious-human chemical recordings suggest qualified dopamine-serotonin opponent patterns and offer promising but unvalidated intraoperative and nasal measurement routes. The AI branch distinguishes AlphaGo's direct reinforcement-learning relevance from AlphaFold's broader scientific-AI significance. No settled contradiction was adopted. Serotonin interpretation, transporter interactions, tonic/phasic motivation, clinical extensions, nasal specificity, consumer neurofeedback, and a simple dopamine-to-AlphaFold lineage remain source-scoped or explicitly qualified. The metadata spelling “Read” was normalized to [[ReedMontague|Reed Montague]] from the source heading and body. Broad host and show pages were kept closed because the bounded additions are represented in the focused source, person, and concept pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,155 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the corpus-wide ingest checker still reports 32 pre-existing broken links outside this change set.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

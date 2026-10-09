@@ -30093,6 +30093,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DopamineSerotoninOpponentDynamics": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DopamineToolTiming": [
     {
       "key": "science",
@@ -44711,6 +44718,13 @@
     }
   ],
   "HumanNaturePlasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "HumanNeuromodulatorMeasurement": [
     {
       "key": "science",
       "label": "Science",
@@ -71435,6 +71449,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ReedMontague": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ReflectOrbital": [
@@ -101139,6 +101160,13 @@
     }
   ],
   "scim3952740577-scim3952740577": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim3970994914-scim3970994914": [
     {
       "key": "science",
       "label": "Science",

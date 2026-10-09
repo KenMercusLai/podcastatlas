@@ -64957,6 +64957,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
+    "DopamineSerotoninOpponentDynamics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3970994914 [SCIM3970994914].md",
+          "key": "scim3970994914-scim3970994914",
+          "show": "Huberman Lab",
+          "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+          "url": "/wiki/sources/scim3970994914-scim3970994914/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/dopamineserotoninopponentdynamics/"
+    },
     "DopamineToolTiming": {
       "episode_count": 6,
       "show_count": 1,
@@ -116117,6 +116133,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/humanmovementdigitaltwin/"
+    },
+    "HumanNeuromodulatorMeasurement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3970994914 [SCIM3970994914].md",
+          "key": "scim3970994914-scim3970994914",
+          "show": "Huberman Lab",
+          "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+          "url": "/wiki/sources/scim3970994914-scim3970994914/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/humanneuromodulatormeasurement/"
     },
     "HumanPrimateMirror": {
       "episode_count": 1,
@@ -202058,6 +202090,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/redlandsdrugcase/"
     },
+    "ReedMontague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3970994914 [SCIM3970994914].md",
+          "key": "scim3970994914-scim3970994914",
+          "show": "Huberman Lab",
+          "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+          "url": "/wiki/sources/scim3970994914-scim3970994914/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/reedmontague/"
+    },
     "RefinancingLagCreditTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -202743,6 +202791,29 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/reidhoffman/"
+    },
+    "ReinforcementLearningAGIPath": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "SCIM3970994914 [SCIM3970994914].md",
+          "key": "scim3970994914-scim3970994914",
+          "show": "Huberman Lab",
+          "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+          "url": "/wiki/sources/scim3970994914-scim3970994914/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/reinforcementlearningagipath/"
     },
     "ReinhardHeydrich": {
       "episode_count": 3,
@@ -205826,9 +205897,9 @@
       "url": "/wiki/concepts/rewardfitnessrisk/"
     },
     "RewardPredictionErrorLearning": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -205864,9 +205935,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Motivation & Drive",
           "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
+        },
+        {
+          "episode_file": "SCIM3970994914 [SCIM3970994914].md",
+          "key": "scim3970994914-scim3970994914",
+          "show": "Huberman Lab",
+          "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+          "url": "/wiki/sources/scim3970994914-scim3970994914/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
     "RewardedDenunciationFiscalEnforcement": {

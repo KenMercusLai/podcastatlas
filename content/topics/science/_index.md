@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1480
+topic_total_pages: 1484
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -625,6 +625,9 @@ topic_concepts:
   - key: "DopamineWantingLoop"
     title: "Dopamine Wanting Loop / 多巴胺渴爱循环"
     url: "/wiki/concepts/dopaminewantingloop/"
+  - key: "DopamineSerotoninOpponentDynamics"
+    title: "Dopamine-Serotonin Opponent Dynamics"
+    url: "/wiki/concepts/dopamineserotoninopponentdynamics/"
   - key: "DopplerEffect"
     title: "Doppler Effect"
     url: "/wiki/concepts/dopplereffect/"
@@ -1096,6 +1099,9 @@ topic_concepts:
   - key: "HumanNaturePlasticity"
     title: "Human Nature Plasticity / 人性可变性"
     url: "/wiki/concepts/humannatureplasticity/"
+  - key: "HumanNeuromodulatorMeasurement"
+    title: "Human Neuromodulator Measurement"
+    url: "/wiki/concepts/humanneuromodulatormeasurement/"
   - key: "HumanisticExplorationOptimism"
     title: "Humanistic Exploration Optimism"
     url: "/wiki/concepts/humanisticexplorationoptimism/"
@@ -3152,6 +3158,9 @@ topic_entities:
   - key: "RanaElKaliouby"
     title: "Rana el Kaliouby"
     url: "/wiki/entities/ranaelkaliouby/"
+  - key: "ReedMontague"
+    title: "Reed Montague"
+    url: "/wiki/entities/reedmontague/"
   - key: "ReflectOrbital"
     title: "Reflect Orbital"
     url: "/wiki/entities/reflectorbital/"
@@ -4011,6 +4020,9 @@ topic_sources:
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+  - key: "scim3970994914-scim3970994914"
+    title: "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague"
+    url: "/wiki/sources/scim3970994914-scim3970994914/"
   - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
     title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
     url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"

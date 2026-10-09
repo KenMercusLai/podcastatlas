@@ -26135,6 +26135,10 @@
     "title": "Dopamine Peak-Trough Baseline",
     "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
   },
+  "DopamineSerotoninOpponentDynamics": {
+    "title": "Dopamine-Serotonin Opponent Dynamics",
+    "url": "/wiki/concepts/dopamineserotoninopponentdynamics/"
+  },
   "DopamineToolTiming": {
     "title": "Dopamine Tool Timing",
     "url": "/wiki/concepts/dopaminetooltiming/"
@@ -41246,6 +41250,10 @@
   "HumanNaturePlasticity": {
     "title": "Human Nature Plasticity / 人性可变性",
     "url": "/wiki/concepts/humannatureplasticity/"
+  },
+  "HumanNeuromodulatorMeasurement": {
+    "title": "Human Neuromodulator Measurement",
+    "url": "/wiki/concepts/humanneuromodulatormeasurement/"
   },
   "HumanPrimateMirror": {
     "title": "Human–Primate Mirror",
@@ -70006,6 +70014,10 @@
   "RedwoodMaterials": {
     "title": "Redwood Materials",
     "url": "/wiki/entities/redwoodmaterials/"
+  },
+  "ReedMontague": {
+    "title": "Reed Montague",
+    "url": "/wiki/entities/reedmontague/"
   },
   "Reeses": {
     "title": "Reese's",
@@ -99566,6 +99578,10 @@
   "scim3952740577-scim3952740577": {
     "title": "The Science of Vision, Eye Health & Seeing Better",
     "url": "/wiki/sources/scim3952740577-scim3952740577/"
+  },
+  "scim3970994914-scim3970994914": {
+    "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague",
+    "url": "/wiki/sources/scim3970994914-scim3970994914/"
   },
   "scim4224560223-scim4224560223": {
     "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague](sources/scim3970994914-scim3970994914.md) — Huberman Lab interview on temporal-difference learning, dopamine-serotonin opponent dynamics, conscious-human neuromodulator measurement, delayed reward, and biological reinforcement learning's AI lineage.
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb.md) — 刘襄诱扣琅邪王刘泽并其兵，灌婴在荥阳停战避免助吕；长安内陈平、周勃则借郦寄与吕禄的私交谋取北军。
 - [《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）](sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0.md) — 郦寄劝吕禄交出北军，周勃借符节入营并以袒臂验明军心；刘章随后在未央宫斩杀吕产，使军权争夺转入对吕氏集团的清算。
 - [《资治通鉴·汉纪》207｜刘邦小姨子，吕媭被棍杀（1）](sources/zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv.md) — 诛吕胜利从解除军权扩展为吕氏家族与惠帝诸子的清洗；齐军被令罢兵后，群臣又以外戚风险、名分和声望权衡，舍刘襄而迎立刘恒。
@@ -4225,6 +4226,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [Reed Montague](entities/ReedMontague.md) — Computational neuroscientist connecting temporal-difference learning, human dopamine-serotonin measurement, motivation, and machine reinforcement learning.
 - [宋昌 / Song Chang (Western Han)](entities/SongChangWesternHan.md) — 判断迎立可信、替刘恒探路并阻止私下议事，登基后接掌南北军的代国谋臣。
 - [张武 / Zhang Wu (Western Han)](entities/ZhangWuWesternHan.md) — 起初把长安迎立视为陷阱并主张观望，随后随行且获任宫门内卫的谨慎派代臣。
 - [少帝刘弘 / Liu Hong, Young Emperor (Western Han)](entities/LiuHongYoungEmperorWesternHan.md) — 在反吕胜方否定其血统后被逐出宫廷并杀害的年轻在位者；与武帝之子齐王刘弘区别。
@@ -17139,6 +17141,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Human Neuromodulator Measurement](concepts/HumanNeuromodulatorMeasurement.md) — Intraoperative and exploratory nasal approaches to tracking fast dopamine, serotonin, norepinephrine, and related signals in conscious humans.
+- [Dopamine-Serotonin Opponent Dynamics](concepts/DopamineSerotoninOpponentDynamics.md) — Qualified model of opposing chemical patterns around anticipation, waiting, inhibition, and wanted or unwanted outcomes.
 - [分层验证式继位接管 / Layered Accession Risk Verification](concepts/LayeredAccessionRiskVerification.md) — 以独立探路、公开程序、礼仪顺序、宫城控制与亲信掌军把危险的迎立邀请逐步转化为可执行权威。
 - [摄政终结后的内外合击动员 / Post-Regency Inside-Outside Mobilization](concepts/PostRegencyInsideOutsideMobilization.md) — 首都内应与地方动员共同压迫军权持有者，但胜后罢兵、问责和继位选择仍可由控制首都的一方主导。
 - [Emergency Diagnostic Revision / 急诊诊断修正](concepts/EmergencyDiagnosticRevision.md) — 急诊初步风险判断随时间线、旁证、连续观察、影像与专科知识而安全修正的协作框架。
@@ -20688,7 +20692,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine dynamics, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
 - [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, peak/trough dynamics, and daily timing without treating dopamine as simply more-is-better.
 - [Dopamine Peak-Trough Baseline](concepts/DopaminePeakTroughBaseline.md) — Dopamine model where baseline level, phasic peaks, and subsequent troughs shape motivation, pursuit, addiction risk, and future effort.
-- [Reward Prediction Error Learning](concepts/RewardPredictionErrorLearning.md) — Dopamine-linked learning frame where expected versus obtained reward and intervening cues update future pursuit.
+- [Reward Prediction Error Learning](concepts/RewardPredictionErrorLearning.md) — Dopamine-linked temporal-difference frame where outcomes, successive predictions, and intervening cues update value and future pursuit.
 - [Dopamine Baseline Maintenance](concepts/DopamineBaselineMaintenance.md) — Motivation-capacity frame using sleep, rest, nutrition, morning light, exercise, cautious tools, and anti-stacking to protect dopamine baseline.
 - [Safe Effort Procrastination Reset](concepts/SafeEffortProcrastinationReset.md) — Procrastination tactic using brief safe effortful discomfort to move out of low-motivation troughs.
 - [Effort As Reward](concepts/EffortAsReward.md) — Motivation principle that makes the effort process itself rewarding rather than depending only on outcomes or external rewards.
@@ -23519,7 +23523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vertical Medical Small Models](concepts/VerticalMedicalSmallModels.md) — Healthcare model strategy favoring narrow, controllable, locally deployable, task-specific systems over raw general-model size.
 - [Health Insurance Denial Workflow](concepts/HealthInsuranceDenialWorkflow.md) — Operational claims and appeals layer where documentation, coding, medical-necessity language, and payer rules determine payment.
 - [Federated Medical Data Sharing](concepts/FederatedMedicalDataSharing.md) — Privacy-preserving medical data collaboration pattern where institutions share learning value without physically centralizing raw patient data.
-- [Reinforcement Learning AGI Path](concepts/ReinforcementLearningAGIPath.md) — DeepMind-style route to AGI through agents, environments, rewards, games, and later RL-on-language-model return.
+- [Reinforcement Learning AGI Path](concepts/ReinforcementLearningAGIPath.md) — Agent-environment route joining temporal-difference lineage, DeepMind games, AlphaGo, scientific AI, and later RL-on-language-model return.
 - [Scientific Ideal vs AI Arms Race](concepts/ScientificIdealVsAIArmsRace.md) — Tension where sincere AI-for-science ambition still participates in strategic model competition and governance risk.
 - [DeepMind Acquisition Choice](concepts/DeepMindAcquisitionChoice.md) — Interpretation of why Hassabis chose Google over Facebook: compute, science, independence, and AI safety alongside price.
 - [Software Creation Barbell](concepts/SoftwareCreationBarbell.md) — AI-era software structure where model-company containers capture broad productivity value while tiny makers serve long-tail personal or expressive needs.

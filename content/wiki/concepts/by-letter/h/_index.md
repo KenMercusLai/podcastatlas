@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10031
+wiki_total_pages: 10033
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "HumanNaturePlasticity"
     title: "Human Nature Plasticity / 人性可变性"
     url: "/wiki/concepts/humannatureplasticity/"
+  - key: "HumanNeuromodulatorMeasurement"
+    title: "Human Neuromodulator Measurement"
+    url: "/wiki/concepts/humanneuromodulatormeasurement/"
   - key: "HumanResourceDeflationComputeInfrastructureInflation"
     title: "Human Resource Deflation Compute Infrastructure Inflation"
     url: "/wiki/concepts/humanresourcedeflationcomputeinfrastructureinflation/"

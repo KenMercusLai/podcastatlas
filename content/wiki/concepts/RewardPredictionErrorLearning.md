@@ -8,49 +8,48 @@ sources:
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2452395341-scim2452395341
   - how-to-increase-motivation-drive-scim9999790924
-last_updated: 2026-10-03
+  - scim3970994914-scim3970994914
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
 # Reward Prediction Error Learning
 
 ## Definition
-Reward prediction error learning is the episode's frame for how the brain updates future motivation when an outcome is better, worse, or equal to what was expected.
+Reward prediction error learning is the wiki's frame for updating value and future behavior when outcomes or successive predictions differ from what was expected.
 
 ## Current Synthesis
-In [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]], reward prediction error connects dopamine to learning rather than only to pleasure. Dopamine can rise in anticipation of a desired outcome, then update based on the difference between expected and obtained reward. Cues that reliably appear between wanting and reward can become part of the learned pursuit sequence, so environments, reminders, timing, and intermediate signals can start to pull behavior before the final reward arrives.
+Across the sources, reward prediction error connects dopamine to learning rather than only to pleasure. The simpler applied account compares an obtained outcome with an expected one: better-than-expected outcomes can strengthen future pursuit, worse-than-expected or omitted rewards can weaken it, and reliable intermediate cues can acquire motivational force before the endpoint.
 
-[[the-science-of-setting-achieving-goals-scim1292734289]] applies this account to goal design. Better-than-expected outcomes, expected outcomes, and omitted expected rewards are presented as different update signals; intermediate milestones therefore make distant pursuit assessable before the endpoint. Together, the sources make motivation historical and expectation-sensitive, while not reducing all motivation to dopamine.
+[[scim3970994914-scim3970994914]] sharpens the computational account through temporal-difference learning. The relevant error can be the difference between one prediction and the next prediction, not only the gap between an initial expectation and a final reward. This allows value to propagate backward through a long sequence: weather cues can predict later rain, messages can update an uncertain relationship, and each step in foraging or work can alter expected value before a terminal outcome exists.
 
-A habit-sequence application in [[the-science-of-making-breaking-habits-scim6848516659]] proposes attaching positive anticipation not only to completion but also to preparation, effort, execution, and the period afterward. This “whole envelope” framing is best treated as behavior design built on reward-prediction language, not proof that every stage receives one measurable dopamine signal.
+Goal and habit sources turn the model into behavior design. Intermediate milestones can make distant pursuit assessable, while preparation, effort, execution, and aftermath can all become learned parts of a task sequence. These are practical applications of an expectation-sensitive model, not proof that every stage produces one measurable dopamine signal or that every variable reward is beneficial.
 
-The two earlier solo episodes contribute the simplest version of the model: dopamine can shift toward anticipation as a reward becomes predictable, while novelty, surprise, omission, and intermittent outcomes alter later pursuit. That bridge to variable reward schedules is behaviorally important, but it does not make every intermittent reward beneficial or reduce reinforcement learning to dopamine alone.
+The synthesis therefore nests rather than replaces the older explanations: endpoint comparison is a useful special case, while temporal-difference updating better explains learning across delay. Motivation remains historical, cue-sensitive, and state-dependent, and neither human learning nor reinforcement learning is reducible to dopamine alone.
 
 ## Key Claims
-- Dopamine signals can occur before reward when an organism anticipates a desired outcome.
-- Better-than-expected outcomes can increase future pursuit, while worse-than-expected outcomes can reduce it.
-- Cues between wanting and receiving reward can become learned signals that shape behavior.
-- Reward prediction error makes motivation sensitive to expectation, surprise, and prior outcomes.
-- Procrastination, craving, and pursuit can be influenced by cue learning as well as conscious goals.
-- Intermediate milestones can provide update points before a distant goal is completed.
-- Reward design can include preparation, effort, execution, aftermath, and intermittent outcomes, making sequence and schedule consequential as well as endpoint value.
+- Prediction errors update value and future action rather than merely producing pleasure.
+- Better-, worse-, omitted-, or differently timed outcomes can change later pursuit relative to expectation.
+- Temporal-difference learning compares successive predictions, allowing learning before a final reward appears.
+- Cues and intermediate states can acquire value as predictions propagate through a sequence.
+- Motivation, craving, procrastination, and goal pursuit can therefore depend on learned context as well as conscious endpoint desire.
+- Milestones and whole-task framing can create practical update points, but they do not establish a universal reward schedule.
+- Dopamine is an important teaching signal in these sources, not a complete explanation of learning, valuation, motivation, or reinforcement learning.
 
 ## Evidence
-- Anticipation signal: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] says dopamine is released in anticipation, not only at reward receipt.
-- Expectation update: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] describes reward prediction error as the comparison between experienced and expected reward.
-- Cue learning: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] says cues between wanting and reward can enter reward-contingent learning.
-- Motivation consequence: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] uses the mechanism to explain future pursuit, craving, and effort allocation.
-- Goal-design application: [[the-science-of-setting-achieving-goals-scim1292734289]] connects expectation-sensitive dopamine signals to milestone timing and progress assessment.
-- Habit-envelope application: [[the-science-of-making-breaking-habits-scim6848516659]] recommends positively anticipating the full task bracket rather than rewarding completion alone.
-- Early anticipation and uncertainty account: [[scim2452395341-scim2452395341]] distinguishes dopamine-linked pursuit from pleasure and connects predictable versus intermittent reward to later motivation.
-- Early subtraction model: [[how-to-increase-motivation-drive-scim9999790924]] presents reward prediction error as actual response relative to expected response and links omitted expected reward to a motivational crash.
+- Successive-prediction mechanism: [[scim3970994914-scim3970994914]] distinguishes temporal-difference learning from an endpoint-only comparison and uses the rain example to show expectations changing before an outcome.
+- Anticipation and cue acquisition: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] says dopamine can rise before reward and intermediate cues can enter learned pursuit.
+- Outcome comparison: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] and [[how-to-increase-motivation-drive-scim9999790924]] describe better-, worse-, and omitted-reward updates relative to expectation.
+- Goal-design application: [[the-science-of-setting-achieving-goals-scim1292734289]] connects expectation-sensitive signals to milestone timing and progress assessment.
+- Habit-sequence application: [[the-science-of-making-breaking-habits-scim6848516659]] applies reward-prediction language to preparation, effort, execution, and aftermath.
+- Anticipation and schedule boundary: [[scim2452395341-scim2452395341]] separates dopamine-linked pursuit from pleasure, while [[how-to-increase-motivation-drive-scim9999790924]] connects novelty, surprise, omission, and intermittent outcomes to later motivation.
 
 ## Counterevidence & Qualifications
-This page captures applied podcast explanations, not a full computational reinforcement-learning model. The supplied notes do not provide the underlying study methods or justify a literal subtraction assay in an individual, a universal milestone schedule, a task-envelope technique, an intermittent-reward protocol, or a dopamine response at every stage of behavior. Variable rewards can also support gambling-like compulsion, manipulation, or unstable motivation. The synthesis should not imply that all motivation, learning, addiction, habit formation, or procrastination is reducible to one dopamine signal or one prediction-error equation.
+These are podcast-level explanations rather than a derivation or validation of a full computational model. The supplied notes do not provide neural-recording methods, equations, regional specificity, effect sizes, or evidence for a literal individual subtraction assay, universal milestone schedule, task-envelope technique, or intermittent-reward protocol. Temporal-difference models can organize observations without proving that every relevant neuron or human decision follows one scalar signal. Variable rewards can also support gambling-like compulsion, manipulation, and unstable motivation, and dopamine does not exhaust motivation, learning, addiction, habit formation, or procrastination.
 
 ## What Changed
-- Added the March 2021 expectation-minus-outcome framing and omitted-reward crash as early provenance.
-- Clarified that the simplified subtraction account is explanatory, not an individual dopamine measurement or universal reward protocol.
+- Reframed endpoint comparison as a useful special case within the broader temporal-difference account of successive predictions.
+- Added delayed-sequence learning while preserving limits on dopamine-only and universal reward-design interpretations.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - baseline and trough context in which reward updates affect motivation.
