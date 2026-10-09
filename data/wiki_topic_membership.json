@@ -44313,6 +44313,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HuangLaoQuietGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HuangLiuhong": [
     {
       "key": "politics",
@@ -92163,6 +92170,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "XiaoGuiCaoSuiInstitutionalContinuity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "XiaoJiWesternHan": [

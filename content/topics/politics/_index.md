@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3233
+topic_total_pages: 3235
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5089,6 +5089,9 @@ topic_concepts:
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"
+  - key: "XiaoGuiCaoSuiInstitutionalContinuity"
+    title: "萧规曹随式制度连续 / Xiao-Gui-Cao-Sui Institutional Continuity"
+    url: "/wiki/concepts/xiaoguicaosuiinstitutionalcontinuity/"
   - key: "CaptiveEnvoyMissionPersistence"
     title: "被扣使者的使命延续 / Captive Envoy Mission Persistence"
     url: "/wiki/concepts/captiveenvoymissionpersistence/"
@@ -5206,6 +5209,9 @@ topic_concepts:
   - key: "PerishableTributeLaborBurden"
     title: "鲜贡劳役负担 / Perishable Tribute Labor Burden"
     url: "/wiki/concepts/perishabletributelaborburden/"
+  - key: "HuangLaoQuietGovernance"
+    title: "黄老式清静治理 / Huang-Lao Quiet Governance"
+    url: "/wiki/concepts/huanglaoquietgovernance/"
 topic_entities:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"

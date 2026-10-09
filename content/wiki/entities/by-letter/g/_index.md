@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12868
+wiki_total_pages: 12869
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "GanLong"
     title: "甘龙 / Gan Long"
     url: "/wiki/entities/ganlong/"
+  - key: "GaiGongEarlyHan"
+    title: "盖公 / Gai Gong (early Han)"
+    url: "/wiki/entities/gaigongearlyhan/"
   - key: "GaiXunLateHan"
     title: "盖勋 / Gai Xun (late Han)"
     url: "/wiki/entities/gaixunlatehan/"

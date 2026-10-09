@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 10043
+wiki_total_pages: 10045
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "XiuyiEnvoyImperialSurveillance"
     title: "绣衣使者皇权监察 / Xiuyi Envoy Imperial Surveillance"
     url: "/wiki/concepts/xiuyienvoyimperialsurveillance/"
+  - key: "XiaoGuiCaoSuiInstitutionalContinuity"
+    title: "萧规曹随式制度连续 / Xiao-Gui-Cao-Sui Institutional Continuity"
+    url: "/wiki/concepts/xiaoguicaosuiinstitutionalcontinuity/"
   - key: "XingshiqingStrategicAssessment"
     title: "行势情战略评估 / Xingshiqing Strategic Assessment"
     url: "/wiki/concepts/xingshiqingstrategicassessment/"

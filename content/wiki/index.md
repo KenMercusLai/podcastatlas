@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》196｜解析“萧规曹随”大智慧](sources/zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o.md) — 曹参把齐国验证过的黄老清静治理带入汉廷，以择人、宽察和制度连续维护战后恢复；其适用边界与文景因果保留来源限定。
 - [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（1）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-1-lshne8i33odwazl7xwxncuvftgzx.md) — 刘如意在保护空档中被害、戚夫人遭人彘酷刑；节目对刘盈“完全停政”又作七年在位的自我限定，并把周昌退场作为单人保护失灵的终点。
 - [《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？](sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl.md) — 冒顿以挑衅国书试探吕后，樊哙主战、季布援引白登之围反驳；吕后以克制回信和礼物维持和亲，把尊严成本换成休养生息的时间。
 - [《资治通鉴·汉纪》194｜史上第一起人彘之刑，虐杀先帝宠妃（2）](sources/zizhi-tongjian-hanji-194-shishang-diyiqi-renzhi-zhixing-nuesha-xiandi-chongfei-2-lmji5jplvzarhldoajaq-cvbupmf.md) — 人彘案被放回废立太子与宫廷恐惧中解释但不获开脱；节目以复仇比例边界重评吕雉暴行，并保存司马光与主播对刘盈责任的分歧。
@@ -4242,6 +4243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [盖公 / Gai Gong (early Han)](entities/GaiGongEarlyHan.md) — 曹参在齐国延请的黄老学者，其清静、守法与不扰民之说被节目视为曹参后续治理路线的思想来源。
 - [Kimi K2.5](entities/KimiK25.md) — Open or open-weight mixture-of-experts model presented through agent-swarm capability, deployment economics, and provenance risk.
 - [皇后张嫣 / Zhang Yan, Empress (Western Han)](entities/ZhangYanEmpressWesternHan.md) — 被安排嫁给舅舅刘盈、后又被置于刘恭公开母亲位置的西汉皇后，其个人能动性仍不明。
 - [前少帝刘恭 / Liu Gong, Former Young Emperor (Western Han)](entities/LiuGongYoungEmperorWesternHan.md) — 被张嫣收养并在吕雉摄政下即位，后因身世秘密与复仇威胁叙事遭囚禁、废杀的儿童君主。
@@ -17166,6 +17168,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [萧规曹随式制度连续 / Xiao-Gui-Cao-Sui Institutional Continuity](concepts/XiaoGuiCaoSuiInstitutionalContinuity.md) — 继任者在既有制度足够健全且社会需要恢复时，以克制改制冲动来保护秩序的条件性治理选择。
+- [黄老式清静治理 / Huang-Lao Quiet Governance](concepts/HuangLaoQuietGovernance.md) — 以道为方向、法为结构、均衡与知变为方法，并以少扰民和非强制为目标的汉初恢复型治理框架。
 - [Revenge Proportionality Boundary / 复仇比例边界](concepts/RevengeProportionalityBoundary.md) — 区分回应真实怨恨与为延长痛苦而施暴，强调解释政治背景并不等于为过度报复开脱。
 - [Minneapolis Federal-Local Immigration Conflict](concepts/MinneapolisFederalLocalImmigrationConflict.md) — Case separating custody cooperation, street enforcement, protest conduct, due process, employer demand, and de-escalation.
 - [Personal Agent Virtual Employee Pilot](concepts/PersonalAgentVirtualEmployeePilot.md) — Separately provisioned AI identity performing recurring cross-tool work under bounded permissions and human review.

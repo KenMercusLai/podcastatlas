@@ -2,41 +2,84 @@
 title: "曹参 / Cao Shen"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt
+  - zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l
+  - zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj
+  - zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe
+  - zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1
+  - zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o
+knowledge_schema: synthesis-v1
+last_updated: 2026-10-09
 ---
 
 # 曹参 / Cao Shen
 
-曹参 / Cao Shen enters the wiki through [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] as a [[PeiCounty|沛县]] official in the same local network as [[XiaoHe|萧何]]. When the Pei County magistrate considers responding to the [[DazexiangUprising|大泽乡起义]], Xiao He and Cao Shen advise him to recall [[LiuBang|刘邦]] and the county's fugitive group because they have enough force to stabilize local compliance.
+## Overview
 
-The plan reverses once Liu Bang returns with hundreds of followers. The magistrate fears he cannot control the outlaws and plans to kill Xiao He and Cao Shen; both escape over the wall and join Liu Bang outside the city. After Liu Bang's letter helps turn the county elders against the magistrate, Cao Shen joins Xiao He in recruiting local troops for the new anti-Qin force.
+曹参 / Cao Shen is a Pei County official turned Han commander, Qi chancellor, and successor to [[XiaoHe|萧何]] as imperial chancellor. The current source set moves him from local uprising organization and repeated campaign execution into a recovery-era governor whose restraint becomes the basis of “萧规曹随.”
 
-For this source, Cao Shen matters as a lower county-office connector. He helps move Liu Bang's following from fugitive band to recognized county uprising, making him part of [[PeiCountyUprisingMobilization|沛县起义动员]] and the broader [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] that later supports the [[WesternHanDynasty|Western Han]] founding circle.
+## Current Profile
 
-[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] moves Cao Shen from early county network into [[HanXin|韩信]]'s campaign operations. Han Xin has him attack Xiabian to reinforce the impression that the Han main force is moving by the Qishan-side route. Once [[ZhangHanQin|章邯]] misallocates attention, Cao Shen's action becomes one part of [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] rather than an isolated side attack.
+Cao Shen first appears in [[PeiCounty|沛县]] beside Xiao He. Both advise the magistrate to recall [[LiuBang|刘邦]], escape when the magistrate turns on them, and help transform Liu Bang's followers into a county uprising force. His later campaign record is consistently operational: he supplies a feint against [[ZhangHanQin|章邯]], attacks [[Anyi|安邑]] during [[HanXin|韩信]]'s Wei campaign, joins the pacification after [[WeishuiBattle|潍水之战]], leads Qi troops in the [[ChenXiRebellion|陈豨之乱]], and helps defeat [[YingBu|英布 / 黥布]].
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] names Cao Shen in the small set of early Han figures whose [[Shiji|《史记》]] treatment marks them as more than ordinary ministers. In that comparison, Cao Shen helps define the rank of [[ChenPing|陈平]]'s career even though the episode's analytical focus remains Chen Ping's [[SecondInCommandRoleFit|二把手角色适配]].
+That record explains why Cao Shen ranks second among founding merit-holders, yet the sources also make him the contrast that clarifies Xiao He's higher place: battlefield wounds and captures are real, while continuous rear organization preserves the state that makes campaigns possible. Hanji 196 then changes the center of gravity. As Qi chancellor, Cao Shen reportedly consults [[GaiGongEarlyHan|盖公]], applies [[HuangLaoQuietGovernance|黄老式清静治理]], and later carries a low-disturbance personnel and enforcement style into central government.
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] gives Cao Shen a direct role in [[HanXin|韩信]]'s attack on [[WeiBao|魏豹]]. After Han Xin crosses at [[XiayangChuHan|下阳]], Cao Shen moves against [[Anyi|安邑]], defeats Wei forces, and helps create the pressure that lets [[GuanYing|灌婴]]'s cavalry pursuit end in Wei Bao's capture.
+His chancellorship is defined by [[XiaoGuiCaoSuiInstitutionalContinuity|萧规曹随式制度连续]]. Cao Shen keeps Xiao He's institutions, favors cautious and substantial officials, avoids aggressive fault-finding, and argues to [[LiuYing|汉惠帝刘盈]] that less capable successors should preserve an adequate founding order. The joined profile is therefore not a move from action to laziness, but from wartime execution to a source-attributed judgment that postwar administration requires a different measure of competence.
 
-[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] brings Cao Shen into the Qi pacification branch after [[WeishuiBattle|潍水之战]]. The source does not give him the central tactical move, which belongs to [[HanXin|韩信]], but it names Cao Shen with [[GuanYing|灌婴]] in the continued pursuit of Qi forces after [[TianHeng|田横]]'s failed counterattack. Cao Shen's page therefore now links the earlier West Wei follow-through role to a second Han Xin campaign cleanup role.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] places Cao Shen second in the first-class founding merit ranking, behind [[XiaoHe|萧何]] and ahead of [[ZhangAo|张敖]]. The episode says many officials object because Cao Shen has more visible battlefield credentials, including heavy wounds and repeated city captures, but [[EQianqiu|鄂千秋]] argues that those are still "一时之功" when compared with Xiao He's state-preserving rear supply.
+- Emerges from the Pei County official network that converts local trust and crisis into organized rebellion.
+- Serves as a reliable operational commander across feint, assault, pursuit, reinforcement, and rebellion-suppression roles.
+- Ranks second in the founding merit hierarchy while illustrating the distinction between battlefield contribution and continuous state-preserving administration.
+- Connects Qi military authority with later civil governance and the reported reception of Gai Gong's Huang-Lao counsel.
+- Treats personnel selection and enforcement temperature as tools for reducing bureaucratic disruption.
+- Preserves Xiao He's institutions and makes comparative humility about ruler and minister capacity part of his succession argument.
+- Embodies a conditional shift from wartime activism to recovery-era restraint rather than a universal defense of inactivity.
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds Cao Shen to the eastern closing movement of [[ChenXiRebellion|陈豨之乱]]. He gathers Qi troops westward, and [[GuoMeng|郭蒙]] defeats [[ZhangChunWesternHan|张春]] near Liaocheng before crossing the Yellow River. Cao Shen's role here links his Qi command position to the multi-direction suppression of Chen Xi's network.
+## Evidence
 
-[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] gives Cao Shen another Qi-command role. He arrives with [[LiuFeiQiKing|刘肥]] and a large Qi force after [[YingBu|英布 / 黥布]] has challenged [[LiuBang|刘邦]] near Qi County, then attacks Ying Bu from the northeast while [[LiShang|郦商]] presses the front and [[GuanYing|灌婴]] envelops from the northwest. The same source later names Cao Shen among the Pei-origin ministers who plead for [[FengCounty|丰邑 / 丰县]] to receive the same exemption as [[PeiCounty|沛县]].
+Pei County mobilization and founding network:
+- [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] places Cao Shen with Xiao He in recalling Liu Bang, escaping the magistrate, and recruiting the county force.
 
-## Connections
-- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[LiuFeiQiKing|刘肥]], [[QiKingdomEarlyHan|齐国]], [[YingBu|英布 / 黥布]], [[LiShang|郦商]], and [[GuanYing|灌婴]] - Qi reinforcement and northeast attack in Ying Bu's defeat.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[GuoMeng|郭蒙]], [[ZhangChunWesternHan|张春]], and [[ChenXiRebellion|陈豨之乱]] - Qi-troop movement and eastern rebel-column defeat.
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[XiaoHe|萧何]], [[EQianqiu|鄂千秋]], [[FoundingMeritHierarchy|建国功臣排序]], and [[MeritBasedRewardPunishment|因功赏罚]] - second-place ranking and the battlefield-versus-rear contribution debate.
-- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[QiState|齐国]], [[HanXin|韩信]], and [[GuanYing|灌婴]] - follow-up pursuit after Qi's final collapse.
-- [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[FanKuai|樊哙]], and [[PeiCounty|沛县]] - source actors and local setting.
-- [[DazexiangUprising|大泽乡起义]] and [[QinState|秦国]] - wider rebellion context and regime target.
-- [[PeiCountyUprisingMobilization|沛县起义动员]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - concept frames for Cao Shen's role.
-- [[WesternHanDynasty|Western Han]] - later founding horizon implied by the Pei County network.
-- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanXin|韩信]], [[ZhangHanQin|章邯]], and [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] - Xiabian attack as a false main-force signal before the Chen Cang breakthrough.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]], [[ChenPing|陈平]], and [[SecondInCommandRoleFit|二把手角色适配]] - founding-minister comparison set.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[Anyi|安邑]], [[GuanYing|灌婴]], and [[RiverCrossingDeception|渡河欺敌]] - Anyi-side attack and pursuit pressure in the Wei campaign.
+Campaign execution:
+- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] gives him the Xiabian-side attack used in Han Xin's layered feint against Zhang Han.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] makes his Anyi attack part of the pressure that ends with Wei Bao's capture.
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] names him in follow-up Qi pacification after the Weishui victory.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] has him bring Qi troops west as the Han closes linked Chen Xi rebel fronts.
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] places his Qi reinforcement and northeast attack inside the multi-sided defeat of Ying Bu.
+
+Founding rank and role contrast:
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] ranks Cao Shen second and uses E Qianqiu's argument to distinguish visible “一时之功” from Xiao He's state-preserving “万世之功.”
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] includes him in the comparison set for different founding-minister strengths.
+
+Qi governance and central continuity:
+- [[zizhi-tongjian-hanji-196-jiexi-xiaogui-caosui-da-zhihui-lic6c_-juuvxxrpdwglnlqlgi_8o|Hanji 196]] links Gai Gong's Huang-Lao counsel and claimed Qi results to Cao Shen's later personnel choices, low-scrutiny administration, preservation of Xiao He's rules, and defense of continuity before Liu Ying.
+
+## Qualifications
+
+These pages summarize popular-history episodes rather than a full biography or direct source-critical reconstruction. The campaign sources often name Cao Shen as an assisting commander without isolating his exact decision-making share. Hanji 196's relationship narrative, Qin-law expertise, dialogue, personnel criteria, drinking behavior, handling of error, apprenticeship under Gai Gong, Qi results, three-year outcome, and popular praise remain episode-attributed.
+
+The continuity interpretation is also conditional. Blocking advice, drinking, and concealing errors can indicate neglect; Hanji 196 reads them as restraint because it assumes a serviceable inherited order, minor rather than serious faults, and a society needing recovery. The source does not establish a general rule that inaction outperforms reform, nor does it resolve the division of policy authorship among Cao Shen, Liu Ying, and the wider court.
+
+## What Changed
+
+- Migrated the page to the synthesis-first schema using all eight preserved sources before adding Hanji 196.
+- Added Cao Shen's Qi-to-central governing arc through Gai Gong and Huang-Lao quiet governance.
+- Reframed “萧规曹随” as active, conditional institutional judgment rather than passive imitation.
+- Preserved the full military and founding-merit record while distinguishing wartime and recovery-era competence.
+
+## Relationships
+
+- [[XiaoHe|萧何]] - predecessor and comparison figure whose institutions Cao Shen preserves after earlier shared service in Pei.
+- [[LiuBang|刘邦]] - founding ruler under whom Cao Shen moves from local mobilizer to commander and merit-holder.
+- [[HanXin|韩信]] - commander whose layered campaigns repeatedly use Cao Shen's operational execution.
+- [[GaiGongEarlyHan|盖公]] - reported teacher who supplies the governing counsel applied in Qi.
+- [[LiuYing|汉惠帝刘盈]] - ruler whose concern prompts Cao Shen's explicit defense of continuity.
+- [[QiKingdomEarlyHan|齐国]] - military and administrative base linking Cao Shen's campaign and governing careers.
+- [[HuangLaoQuietGovernance|黄老式清静治理]] - governing framework for low-disturbance recovery.
+- [[XiaoGuiCaoSuiInstitutionalContinuity|萧规曹随式制度连续]] - succession practice most closely associated with Cao Shen's chancellorship.
+- [[FoundingMeritHierarchy|建国功臣排序]] - ranking framework that places his battlefield service second to Xiao He's state preservation.
