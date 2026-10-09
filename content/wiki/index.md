@@ -4344,6 +4344,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
 - [导演毕赣×罗永浩！清醒、深刻、独一无二的造梦者](sources/daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhsut9wu8n73dbdyhps50ymyf9wa.md) — 罗永浩对谈毕赣，以凯里成长、三部长片、观看障碍、长镜头时间、演员安全感与个性化电影工业连接作者表达和观众距离。
 - [Essentials: Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179.md) — Condensed Huberman Lab discussion of voluntary clinical hypnosis, hypnotizability, mind-body regulation, clinical uses, and care boundaries.
+- [Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi](sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093.md) — Huberman Lab interview on missed PCOS and endometriosis, fertility and AMH interpretation, perimenopause, and individualized breast-cancer risk.
 
 ## Entities
 - [森美菜 / Mina Mori](entities/MoriMina.md) — Kyoto art graduate whose death after 72 days at Watami became a case of overwork, hidden labor, and employer accountability.
@@ -17399,6 +17400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kaili Blues / 《路边野餐》](entities/KailiBluesFilm.md) — Small-team first feature joining Kaili locations, fragmented information, original music, and extended duration into an authored experience.
 - [Long Day's Journey into Night / 《地球最后的夜晚》](entities/LongDaysJourneyIntoNightFilm.md) — Bi Gan project marking a difficult transition from small-team filmmaking into formal industrial production.
 - [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
+- [Thaïs Aliabadi](entities/ThaisAliabadi.md) — OBGYN and surgeon focused on missed PCOS and endometriosis, fertility assessment, midlife hormone health, and breast-cancer risk.
 
 ## Concepts
 - [Coerced Voluntary Labor / 强制性自愿劳动](concepts/CoercedVoluntaryLabor.md) — Work labeled optional but made costly to refuse through evaluation, promotion, belonging, scheduling, or livelihood consequences.

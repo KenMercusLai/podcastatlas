@@ -30298,9 +30298,9 @@
       "url": "/wiki/concepts/breastaugmentationanatomyexpectationboundary/"
     },
     "BreastCancerRiskContext": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgInwLCqMjiaxozGTOgN7SqlGQlt [lgInwLCqMjiaxozGTOgN7SqlGQlt].md",
@@ -30308,9 +30308,16 @@
           "show": "这病说来话长",
           "title": "VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南",
           "url": "/wiki/sources/vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/breastcancerriskcontext/"
     },
     "BreastFindingRecognitionAndTriage": {
@@ -77378,9 +77385,9 @@
       "url": "/wiki/concepts/endocrinedisruptorexposurereduction/"
     },
     "EndometriosisRecurrenceManagement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
@@ -77388,9 +77395,16 @@
           "show": "这病说来话长",
           "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
           "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/endometriosisrecurrencemanagement/"
     },
     "EndoscopyPathologyFollowup": {
@@ -85709,9 +85723,9 @@
       "url": "/wiki/concepts/femalecourteducationeasternhan/"
     },
     "FemaleFertilityAsHealthMarker": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -85733,9 +85747,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Fertility in Males & Females",
           "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/femalefertilityashealthmarker/"
     },
     "FemaleHormoneHealthPhenotyping": {
@@ -187557,9 +187578,9 @@
       "url": "/wiki/entities/ouyangxiu/"
     },
     "OvarianReserveAMHInterpretation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -187581,9 +187602,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Fertility in Males & Females",
           "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/ovarianreserveamhinterpretation/"
     },
     "OverextendedFrontierExpedition": {
@@ -187748,9 +187776,9 @@
       "url": "/wiki/entities/owenzidar/"
     },
     "PCOSCardiometabolicRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -187772,15 +187800,22 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/pcoscardiometabolicrisk/"
     },
     "PCOSOvulatoryDysfunction": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
@@ -187795,9 +187830,16 @@
           "show": "这病说来话长",
           "title": "VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点",
           "url": "/wiki/sources/vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/pcosovulatorydysfunction/"
     },
     "PDVSA": {
@@ -244349,6 +244391,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/tezukaosamu/"
     },
+    "ThaisAliabadi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/thaisaliabadi/"
+    },
     "ThatcheriteMoralMarketPolitics": {
       "episode_count": 2,
       "show_count": 1,
@@ -266386,9 +266444,9 @@
       "url": "/wiki/concepts/womensfootballvisibility/"
     },
     "WomensHealthDiagnosticGap": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "TSR-S4-SurbhiSarna-v3 [TSR-S4-SurbhiSarna-v3].md",
@@ -266417,9 +266475,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521/"
+        },
+        {
+          "episode_file": "SCIM6751145093 [SCIM6751145093].md",
+          "key": "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+          "url": "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/womenshealthdiagnosticgap/"
     },
     "WonderWoman": {

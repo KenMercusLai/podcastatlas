@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1501
+topic_total_pages: 1503
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3335,6 +3335,9 @@ topic_entities:
   - key: "Texas"
     title: "Texas"
     url: "/wiki/entities/texas/"
+  - key: "ThaisAliabadi"
+    title: "Thaïs Aliabadi"
+    url: "/wiki/entities/thaisaliabadi/"
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"
@@ -4014,6 +4017,9 @@ topic_sources:
   - key: "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380"
     title: "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford"
     url: "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
+  - key: "female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093"
+    title: "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi"
+    url: "/wiki/sources/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093/"
   - key: "female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121"
     title: "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims"
     url: "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"

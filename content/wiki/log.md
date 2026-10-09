@@ -34127,3 +34127,11 @@ Added source `2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi
+
+Added source `female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093`; created [[ThaisAliabadi|Thaïs Aliabadi]]; and resynthesized [[WomensHealthDiagnosticGap]], [[PCOSOvulatoryDysfunction]], [[PCOSCardiometabolicRisk]], [[OvarianReserveAMHInterpretation]], [[EndometriosisRecurrenceManagement]], [[FemaleFertilityAsHealthMarker]], and [[BreastCancerRiskContext]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: function-limiting pain, irregular cycles, androgen-related symptoms, metabolic context, sexual, bowel, or urinary symptoms, fertility difficulty, and family history should be interpreted longitudinally rather than dismissed or reduced to one lab or scan. PCOS can distort AMH interpretation; normal imaging does not exclude endometriosis; fertility workup remains multi-factorial; and population mammography ages do not replace individualized risk assessment. No settled contradiction was adopted. Prevalence, diagnostic-delay, overlap, AMH-screening, supplement, GLP-1, surgery, autoimmune-infertility, hormone-therapy, and imaging claims remain source-scoped public medical education. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,273 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

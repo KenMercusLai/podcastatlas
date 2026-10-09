@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12996
+wiki_total_pages: 12997
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "Thailand"
     title: "Thailand"
     url: "/wiki/entities/thailand/"
+  - key: "ThaisAliabadi"
+    title: "Thaïs Aliabadi"
+    url: "/wiki/entities/thaisaliabadi/"
   - key: "The120DaysOfSodom"
     title: "The 120 Days of Sodom"
     url: "/wiki/entities/the120daysofsodom/"

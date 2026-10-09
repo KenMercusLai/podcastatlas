@@ -6,7 +6,8 @@ sources:
   - how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360
   - female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380
   - how-to-optimize-fertility-in-males-females-scim8187072933
-last_updated: 2026-09-29
+  - female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,8 +25,10 @@ Together the sources distinguish a health signal from a diagnosis. Predictable c
 
 The Huberman solo episode adds a mechanism-first account of the hypothalamic-pituitary-gonadal axis, follicular and luteal phases, fertilization, and age-related chromosomal risk. It reinforces the couple-based interpretation: a fertile window is only one layer, and [[PreconceptionTimingAndTesting]] must join cycle evidence with ovarian reserve, semen parameters, illness, infection, heat, substances, hormone treatment, and anatomy.
 
+Aliabadi adds PCOS, endometriosis, and selected immune or clotting conditions to the workup frame. Her account makes infertility evaluation a set of distinct buckets—ovulation and hormones, ovarian reserve, semen, uterine and tubal anatomy, endometriosis, PCOS, and clinically indicated immune assessment—while keeping AMH, imaging, and symptom patterns from becoming standalone answers.
+
 ## Key Claims
-- Fertility depends on coordinated hormonal, cellular, metabolic, immune, reproductive-tract, egg, sperm, implantation, and pregnancy systems.
+- Fertility depends on coordinated hormonal, cellular, metabolic, immune, reproductive-tract, egg, sperm, implantation, and pregnancy systems, so evaluation should keep ovulatory, ovarian, male, anatomical, endometriosis, PCOS, and selected immune contributors visible.
 - Regular bleeding is useful but less sensitive than ovulation tracking and luteal-phase information.
 - Prior pregnancy does not eliminate the need to evaluate secondary infertility, male factors, pregnancy loss, or later cycle changes.
 - Earlier reproductive data can support planning, especially ovulation timing, AMH, antral follicle count, semen analysis, and evaluation after persistent difficulty, repeated loss, or other red flags.
@@ -42,13 +45,15 @@ The Huberman solo episode adds a mechanism-first account of the hypothalamic-pit
 - Lifespan signal - [[female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380]] connects fetal ovarian development, puberty, cycle physiology, contraception, ovarian reserve, fertility treatment, and menopause as one reproductive-health system.
 - Couple-based planning - [[female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380]] includes sperm production, exogenous testosterone, heat, substance exposure, age, nutrition, and the pre-treatment behavior window alongside egg and uterine factors.
 - Mechanism and timing - [[how-to-optimize-fertility-in-males-females-scim8187072933]] connects GnRH, LH, FSH, ovulation, the corpus luteum, menstruation, sperm production, fertilization, age, and the fertile window while keeping testing couple-based.
+- Workup breadth - [[female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093]] organizes fertility evaluation across hormones and AMH, semen, uterine and tubal anatomy, endometriosis, PCOS, and selected autoimmune or clotting conditions.
 
 ## Counterevidence & Qualifications
-The sources are public medical education, not a diagnostic algorithm. Infertility associations do not prove causation for an individual patient, and fertility status can be shaped by age, sperm, tubes, uterus, ovulation, genetics, endometriosis, PCOS, thyroid, prolactin, infections, medications, prior procedures, and chance. Cycle predictability, ovulation timing, AMH, antral follicle count, semen measures, and age are useful inputs but cannot independently predict a monthly pregnancy or treatment outcome. The useful synthesis is earlier evidence-gathering with qualified clinicians, not self-diagnosis.
+The sources are public medical education, not a diagnostic algorithm. Infertility associations do not prove causation for an individual patient, and fertility status can be shaped by age, sperm, tubes, uterus, ovulation, genetics, endometriosis, PCOS, thyroid, prolactin, infections, medications, prior procedures, selected immune or clotting disorders, and chance. Cycle predictability, AMH, imaging, semen measures, and age are useful inputs but cannot independently predict a monthly pregnancy or treatment outcome. Autoimmune testing and anticoagulation claims especially require diagnosis-specific specialist care.
 
 ## What Changed
 - Added reproductive-axis and fertile-window mechanisms without turning calendar timing into a complete fertility explanation.
 - Added infection, illness, heat, and exogenous-testosterone context to the couple-based health-signal frame.
+- Added PCOS, endometriosis, anatomy, and selected immune or clotting contributors to the workup model.
 
 ## Related Concepts
 - [[FemaleHormoneHealthPhenotyping]] - broader measurement frame for women's hormone and reproductive health.

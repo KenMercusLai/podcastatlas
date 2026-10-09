@@ -6,8 +6,9 @@ sources:
   - essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929
   - how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220
   - how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521
+  - female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-29
+last_updated: 2026-10-10
 ---
 
 # PCOS Cardiometabolic Risk
@@ -24,6 +25,8 @@ The Haver episode reinforces heterogeneity through lived and clinical context: s
 
 The full Gottfried interview adds two useful boundaries. First, the episode's three-feature description should not be read as requiring every feature in every patient; PCOS diagnosis depends on criteria and exclusion of alternatives. Second, Huberman's suggestion that psychosocial stress or power dynamics might help shape some phenotypes is explicitly speculative rather than established causation.
 
+Aliabadi reinforces the insulin-androgen mechanism and extends it to inflammation and fertility. In her account, hyperinsulinemia can increase ovarian androgen production and lower SHBG, while visceral fat and inflammatory signaling can worsen metabolic risk. Her high estimate of insulin resistance in PCOS and claimed clinical responses to supplements, metformin, or GLP-1 drugs remain source-scoped rather than universal treatment effects.
+
 ## Key Claims
 - PCOS can involve ovarian cysts, clinical hyperandrogenism, hirsutism, acne, irregular periods, and androgen-pathway changes.
 - Hyperinsulinemia can drive ovarian theca cells to overproduce testosterone in some PCOS phenotypes.
@@ -31,6 +34,7 @@ The full Gottfried interview adds two useful boundaries. First, the episode's th
 - CGM can help some patients see behaviorally meaningful glucose patterns.
 - The episode treats PCOS as a later cardiometabolic risk factor rather than only a reproductive-age syndrome.
 - PCOS is heterogeneous and can occur without obesity, so body size alone cannot define or exclude it.
+- Insulin, SHBG, androgen symptoms, visceral fat, and inflammatory context can interact without forming one universal PCOS pathway.
 
 ## Evidence
 - Diagnostic features - [[essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929]] lists ovarian cysts, hyperandrogenism signs such as hirsutism or acne, and irregular periods as PCOS diagnostic criteria.
@@ -39,14 +43,16 @@ The full Gottfried interview adds two useful boundaries. First, the episode's th
 - Lifetime risk - [[essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929]] states that PCOS is a major later cardiometabolic risk factor, not only a reproductive-age issue.
 - Heterogeneity boundary - [[how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220]] links PCOS partly to insulin resistance and obesity while explicitly noting a non-obese presentation.
 - Full-interview boundary - [[how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521]] reinforces insulin-androgen and lifespan-risk claims while marking the proposed psychosocial pathway as plausible but unproven.
+- Insulin, SHBG, and inflammation - [[female-hormone-health-pcos-endometriosis-fertility-breast-cancer-dr-thais-aliabadi-scim6751145093]] connects hyperinsulinemia with ovarian androgen production, lower SHBG, visceral fat, inflammation, diabetes risk, and cardiovascular risk.
 
 ## Counterevidence & Qualifications
-The sources describe PCOS as heterogeneous and incompletely understood, so the page should not treat obesity, ovarian morphology, one marker, or one mechanism as universal. Diagnostic criteria require clinical interpretation and exclusion of alternatives; CGM or insulin data should not replace that process, and the proposed psychosocial pathway remains speculative.
+The sources describe PCOS as heterogeneous and incompletely understood, so the page should not treat obesity, ovarian morphology, one marker, or one mechanism as universal. Diagnostic criteria require clinical interpretation and exclusion of alternatives; CGM or insulin data should not replace that process, the proposed psychosocial pathway remains speculative, and medication or supplement response claims do not establish a general protocol.
 
 ## What Changed
 - Created a PCOS page centered on lifetime cardiometabolic risk and insulin-androgen interaction.
 - Added explicit protection against equating PCOS with obesity.
 - Added the full interview's criteria and psychosocial-causation boundaries.
+- Added Aliabadi's insulin-SHBG-inflammation account while retaining treatment and prevalence boundaries.
 
 ## Related Concepts
 - [[FemaleHormoneHealthPhenotyping]] - broader measurement frame that includes androgen pathways and insulin.
