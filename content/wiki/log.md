@@ -34151,3 +34151,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners
+
+Added source `essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095`. This Essentials episode condenses the already-ingested full episode [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]], restating [[SocialHomeostasis]], acute-versus-chronic isolation, [[InterpersonalSynchronyAndRapport]], [[AttachmentAffectRegulation]], [[EmpathyModeDifferentiation]], and [[ContextDependentSocialHormoneEffects]]. It adds source provenance and an accessible summary rather than independent replication, so stable concept and entity pages were not rewritten and their evidence inventories were not inflated. No settled contradiction was adopted. Introversion-extroversion dopamine differences, circuit localization, narrative-driven physiological synchrony, attachment transfer, and oxytocin claims remain source-scoped because the supplied summary omits primary methods, effect sizes, and replication context. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,276 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventory, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

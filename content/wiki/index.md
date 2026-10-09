@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners](sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095.md) — Condensed Huberman Lab episode on social homeostasis, isolation, shared physiology, attachment, empathy modes, oxytocin, and bounded practices for connection.
 - [620. The Nazis at War: Hitler Strikes West (Part 1)](sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581.md) — The Rest Is History on the Phoney War, Hitler's economic and ideological urgency, army coup hesitation, and Georg Elser's failed bomb plot.
 - [2026秋季篇番外｜进入大厂两个月，她选择了自杀](sources/2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc.md) — 日谈物语 reconstructs 森美菜's 72 days at 和民, coerced voluntary labor, severe sleep loss, ignored warnings, work-related-suicide recognition, and her parents' 2,736-day accountability campaign.
 - [085 《我和僵尸有个约会》：集灵异、僵尸、悬疑、爱情、奇幻于一体的童年经典](sources/085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz.md) — 纸醉金迷FM回顾《我和僵尸有个约会》的创作背景、红溪村起源、日本初春篇与三角关系，并以复生和阿秀讨论永生代价及转化同意。

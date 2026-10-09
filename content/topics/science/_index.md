@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1503
+topic_total_pages: 1504
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3957,6 +3957,9 @@ topic_sources:
   - key: "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263"
     title: "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams"
     url: "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+  - key: "essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095"
+    title: "Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners"
+    url: "/wiki/sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095/"
   - key: "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468"
     title: "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing"
     url: "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
