@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12870
+wiki_total_pages: 12871
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "WangShipeng"
     title: "王十朋 / Wang Shipeng"
     url: "/wiki/entities/wangshipeng/"
+  - key: "WangWeiweiWesternHan"
+    title: "王卫尉 / Wang (Commandant of the Guards, Western Han)"
+    url: "/wiki/entities/wangweiweiwesternhan/"
   - key: "WangWeiSF"
     title: "王卫（顺丰）"
     url: "/wiki/entities/wangweisf/"

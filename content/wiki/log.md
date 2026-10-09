@@ -33354,3 +33354,10 @@ Added source `zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 《资治通鉴·汉纪》190｜萧何入狱
+
+Added source `zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm`; created [[WangWeiweiWesternHan|王卫尉]]; and resynthesized [[XiaoHe|萧何]], [[ShanglinParkWesternHan|上林苑]], and [[PoliticalCreditAppropriation|善行君恩化]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Xiao He's proposal to let households cultivate unused imperial-park land joins livelihood, lower maintenance burden, and state grain, but Liu Bang converts the issue into alleged merchant bribery and independent popular-credit seeking; Wang's appeal to chancellor duty and Xiao He's earlier control of Guanzhong secures release, while the barefoot apology and later caution show that correction does not remove ruler-minister asymmetry. No settled contradiction was adopted. The bribery accusation, park identity and boundaries, exact dialogue, Liu Bang's inner motive and face-saving explanation, and Wang's full identity remain source-scoped. Broad [[LiuBang|刘邦]], [[LuWan|卢绾]], [[LiuYing|刘盈]], and show pages were kept closed because the bounded additions are represented in the focused source, chancellor, remonstrant, park, and political-credit pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,176 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide legacy scan still reports 32 broken links outside the changed pages.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

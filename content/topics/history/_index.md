@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2636
+topic_total_pages: 2635
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1063,9 +1063,6 @@ topic_concepts:
   - key: "PoetryAsElitePoliticalLanguage"
     title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
     url: "/wiki/concepts/poetryaselitepoliticallanguage/"
-  - key: "PoliticalCreditAppropriation"
-    title: "Political Credit Appropriation / 善行君恩化"
-    url: "/wiki/concepts/politicalcreditappropriation/"
   - key: "PoliticalParableWeaponization"
     title: "Political Parable Weaponization / 寓言式政治挑拨"
     url: "/wiki/concepts/politicalparableweaponization/"

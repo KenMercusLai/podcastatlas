@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》190｜萧何入狱](sources/zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm.md) — 萧何请求开放长安苑囿荒地供民耕种，却被刘邦解释为受贿与收买民心而下狱；王卫尉以宰相职责和萧何长期镇守关中的履历进谏，促成释放但未消除君臣不对称。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（2）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-2-lkw7bhp0z4quyzwu9vkukwubgpgp.md) — 陈平、周勃把诛杀樊哙改为押送候决；刘邦死后陈平抢先入宫自保，周昌则以抗诏延缓刘如意入京，直至吕雉先调走保护者。
 - [《资治通鉴·汉纪》193｜刘邦之死，遗言保汉朝四百年江山（1）](sources/zizhi-tongjian-hanji-193-liubang-zhisi-yiyan-baohanchao-sibainian-jiangshan-1-loppqvgdajwnfwjx4cd-v9itdji7.md) — 刘邦临终按曹参、王陵配陈平、周勃安排辅政梯队，随后刘盈即位、卢绾亡匈奴；樊哙死令则显示继承焦虑如何侵蚀开国旧谊。
 - [《资治通鉴·汉纪》195｜吕后掌权刘邦长子急忙认妹为“娘”](sources/zizhi-tongjian-hanji-195-lvhou-zhangquan-liubang-zhangzi-jimang-renmei-wei-niang-lokajlf0bhft1b7fo-hwazyqretn.md) — 刘肥在宴席毒酒危机后以城阳郡和反常王太后名分向吕后示弱求生；萧何身后评价、九章律归属与宫廷动机保留来源边界。
@@ -4246,6 +4247,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [王卫尉 / Wang (Commandant of the Guards, Western Han)](entities/WangWeiweiWesternHan.md) — 以宰相利民职责、萧何战时镇守关中的履历及秦亡教训说服刘邦释放萧何的卫尉。
 - [城阳郡 / Chengyang Commandery](entities/ChengyangCommandery.md) — 刘肥在宫廷危机后让予鲁元公主、用以支撑名分倒置式求生的齐国郡级资源。
 - [盖公 / Gai Gong (early Han)](entities/GaiGongEarlyHan.md) — 曹参在齐国延请的黄老学者，其清静、守法与不扰民之说被节目视为曹参后续治理路线的思想来源。
 - [Kimi K2.5](entities/KimiK25.md) — Open or open-weight mixture-of-experts model presented through agent-swarm capability, deployment economics, and provenance risk.
