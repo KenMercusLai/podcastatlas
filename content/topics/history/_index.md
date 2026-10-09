@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2645
+topic_total_pages: 2646
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6603,6 +6603,9 @@ topic_sources:
   - key: "63-hitler-with-ian-kershaw-part-1-glt1996418919"
     title: "63. Hitler, with Ian Kershaw - part 1"
     url: "/wiki/sources/63-hitler-with-ian-kershaw-part-1-glt1996418919/"
+  - key: "633-joan-of-arc-saviour-of-france-part-2-glt5406937184"
+    title: "633. Joan of Arc: Saviour of France (Part 2)"
+    url: "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
   - key: "634-joan-of-arc-heroine-in-chains-part-3-glt6235222836"
     title: "634. Joan of Arc: Heroine in Chains (Part 3)"
     url: "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"

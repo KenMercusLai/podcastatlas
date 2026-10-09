@@ -33646,3 +33646,11 @@ Added source `506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingb
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 633. Joan of Arc: Saviour of France (Part 2)
+
+Added source `633-joan-of-arc-saviour-of-france-part-2-glt5406937184`; created [[SiegeOfOrleans|Siege of Orléans]]; and resynthesized [[JoanOfArc|Joan of Arc]], [[CharlesVIIOfFrance|Charles VII of France]], [[HundredYearsWar|the Hundred Years' War]], [[CharismaticWarLegitimacy]], and [[MilitaryMoraleAsCombatCapacity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: court and Poitiers scrutiny authorized Joan without verifying her revelations; at Orléans, sacred symbols, religious discipline, visible persistence, and pressure for attack helped convert material openings into action, but experienced commanders, supplies, reinforcements, English dispersion, river crossings, townspeople, and bridge work remained causal. The relief then turned her promise into perceived proof for later recruitment and the Reims campaign. No settled contradiction was adopted. The source of Joan's voices, prophecy and sign details, the changed wind, private motives, force and casualty totals, letters, dialogue, tactical sequence, and four-day comparison remain unresolved or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,213 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

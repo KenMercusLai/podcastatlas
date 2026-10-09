@@ -13,6 +13,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [遲來的性罪行法律改革，倖存者們想爭取甚麼？](sources/chilai-de-xingzuixing-falv-gaige-xingcunzhemen-xiang-zhengqu-shenme-524a75be1d8dd6b5616888637001b58c.md) — 端聞以倖存者經驗解釋香港性罪行法改、積極同意、真誠誤信抗辯、程序二次傷害與弱勢保障。
 - [634. Joan of Arc: Heroine in Chains (Part 3)](sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836.md) — The Rest Is History episode on Joan's Loire victories, Reims coronation mission, Paris failure, capture, and conversion of sacred-martial charisma into political legitimacy.
 - [635. Joan of Arc: For Fear of the Flames (Part 4)](sources/635-joan-of-arc-for-fear-of-the-flames-part-4-glt8113477235.md) — The Rest Is History episode on Joan's politically charged ecclesiastical trial, abjuration, relapse, execution, French recovery, and rehabilitation.
+- [633. Joan of Arc: Saviour of France (Part 2)](sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184.md) — The Rest Is History episode on Joan's court testing, Poitiers authorization, sacred-martial authority, morale effects, and the operational relief of Orléans.
 - [刘震云×罗永浩！有些玩笑含着泪也要开完](sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_.md) — 刘震云以《闲得玩笑》、县城人物、童年与写作经历连接日常哲学、含泪幽默、被掩埋的小痛苦、创作更新和读者时间伦理。
 - [6 喝得越少越文明？东西方的酒 & 酒文化](sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd.md) — 怪东西比较酿酒史、会饮、乡饮酒礼、宗教用酒、山东酒桌与俄罗斯酒政，区分自愿社交和文化意义与健康风险、等级强制及服从测试。
 - [Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs](sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935.md) — All-In debate on Iranian transition risk, data-center energy cost allocation, OpenAI-Cerebras capacity, California asset taxation, and Greenland strategy.
@@ -5098,6 +5099,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles the Bold](entities/CharlesTheBold.md) — Burgundian duke whose effort to connect his lands ended in defeat, death, and succession crisis at Nancy.
 - [Mary of Burgundy](entities/MaryOfBurgundy.md) — Burgundian heir whose Habsburg marriage preserved much of the northern inheritance.
 - [Joan of Arc](entities/JoanOfArc.md) — French military-religious figure whose trial, execution, and rehabilitation made competing sacred and dynastic legitimacy visible.
+- [Siege of Orléans](entities/SiegeOfOrleans.md) — Dispersed English siege broken by French supply, reinforcement, crossings, local participation, assaults, and Joan's morale-centered pressure for action.
 - [Order of the Golden Fleece](entities/OrderOfTheGoldenFleece.md) — Burgundian chivalric order projecting Philip the Good's quasi-royal status and surviving through Habsburg inheritance.
 - [A Christmas Carol](entities/AChristmasCarol.md) — Dickens's London ghost story joining childhood injury, financial isolation, festive warmth, social criticism, personal redemption, and adaptable fable.
 - [Rachel Morley](entities/RachelMorley.md) — Church-heritage interpreter using material details to connect British sites with wider cultural history.

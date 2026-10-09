@@ -38271,9 +38271,9 @@
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
     },
     "CharismaticWarLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6235222836 [GLT6235222836].md",
@@ -38281,6 +38281,13 @@
           "show": "The Rest Is History",
           "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
           "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        },
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
         }
       ],
       "updated": "2026-10-09",
@@ -38870,9 +38877,9 @@
       "url": "/wiki/entities/charlesv/"
     },
     "CharlesVIIOfFrance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -38894,6 +38901,13 @@
           "show": "The Rest Is History",
           "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
           "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        },
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
         }
       ],
       "updated": "2026-10-09",
@@ -117963,9 +117977,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -118036,6 +118050,13 @@
           "show": "The Rest Is History",
           "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
           "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        },
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
         }
       ],
       "updated": "2026-10-09",
@@ -132200,9 +132221,9 @@
       "url": "/wiki/entities/jizhoulatehan/"
     },
     "JoanOfArc": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6941072856 [GLT6941072856].md",
@@ -132224,6 +132245,13 @@
           "show": "The Rest Is History",
           "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
           "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        },
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
         }
       ],
       "updated": "2026-10-09",
@@ -167545,9 +167573,9 @@
       "url": "/wiki/concepts/militaryjustificationtypology/"
     },
     "MilitaryMoraleAsCombatCapacity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2932235302 [GLT2932235302].md",
@@ -167555,9 +167583,16 @@
           "show": "The Rest Is History",
           "title": "247. Monty & Patton vs. the Nazis",
           "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        },
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/militarymoraleascombatcapacity/"
     },
     "MilitaryMoraleThroughSharedHardship": {
@@ -223167,6 +223202,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/siegeofkhartoum/"
+    },
+    "SiegeOfOrleans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5406937184 [GLT5406937184].md",
+          "key": "633-joan-of-arc-saviour-of-france-part-2-glt5406937184",
+          "show": "The Rest Is History",
+          "title": "633. Joan of Arc: Saviour of France (Part 2)",
+          "url": "/wiki/sources/633-joan-of-arc-saviour-of-france-part-2-glt5406937184/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/siegeoforleans/"
     },
     "SiegeOfTenochtitlan": {
       "episode_count": 2,
