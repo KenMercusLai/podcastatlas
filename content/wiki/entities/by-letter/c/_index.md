@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12957
+wiki_total_pages: 12962
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2378,6 +2378,9 @@ wiki_pages:
   - key: "ChenxianChangsha"
     title: "郴县 / Chen County (Changsha)"
     url: "/wiki/entities/chenxianchangsha/"
+  - key: "ChinSiuHo"
+    title: "钱小豪 / Chin Siu-ho"
+    url: "/wiki/entities/chinsiuho/"
   - key: "ChanglePalace"
     title: "长乐宫 / Changle Palace"
     url: "/wiki/entities/changlepalace/"

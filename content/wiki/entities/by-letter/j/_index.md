@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12957
+wiki_total_pages: 12962
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "JingJu"
     title: "景驹 / Jing Ju"
     url: "/wiki/entities/jingju/"
+  - key: "JetLi"
+    title: "李连杰 / Jet Li"
+    url: "/wiki/entities/jetli/"
   - key: "JAndTExpress"
     title: "极兔速递"
     url: "/wiki/entities/jandtexpress/"

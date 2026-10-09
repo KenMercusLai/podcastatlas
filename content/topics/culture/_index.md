@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3306
+topic_total_pages: 3310
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6752,6 +6752,9 @@ topic_entities:
   - key: "TaigongBingfa"
     title: "《太公兵法》 / Taigong Bingfa"
     url: "/wiki/entities/taigongbingfa/"
+  - key: "TaiChiMaster1993"
+    title: "《太极张三丰》 / Tai Chi Master (1993)"
+    url: "/wiki/entities/taichimaster1993/"
   - key: "TaibaiJinxingYouDianFan"
     title: "《太白金星有点烦》"
     url: "/wiki/entities/taibaijinxingyoudianfan/"
@@ -8057,6 +8060,9 @@ topic_entities:
   - key: "LiXiang"
     title: "李翔 / Li Xiang"
     url: "/wiki/entities/lixiang/"
+  - key: "JetLi"
+    title: "李连杰 / Jet Li"
+    url: "/wiki/entities/jetli/"
   - key: "LiXueqin"
     title: "李雪琴 / Li Xueqin"
     url: "/wiki/entities/lixueqin/"
@@ -8492,6 +8498,9 @@ topic_entities:
   - key: "ZhongShengli"
     title: "钟声礼"
     url: "/wiki/entities/zhongshengli/"
+  - key: "ChinSiuHo"
+    title: "钱小豪 / Chin Siu-ho"
+    url: "/wiki/entities/chinsiuho/"
   - key: "QianLiqun"
     title: "钱理群"
     url: "/wiki/entities/qianliqun/"
@@ -8769,6 +8778,9 @@ topic_sources:
   - key: "121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4"
     title: "121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言"
     url: "/wiki/sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4/"
+  - key: "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5"
+    title: "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看"
+    url: "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
   - key: "122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172"
     title: "122.匹诺曹：成长的惨痛及其所创作的"
     url: "/wiki/sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172/"

@@ -3193,14 +3193,14 @@
       "earliest_episode_date": "2023-10-20",
       "latest_episode_date": "2026-10-09",
       "latest_episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
-      "source_note_count": 34,
-      "topic_matched_source_note_count": 26,
+      "source_note_count": 35,
+      "topic_matched_source_note_count": 27,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 26
+          "source_note_count": 27
         }
       ],
       "entities": [
@@ -3220,8 +3220,8 @@
         }
       ],
       "start_here_episode_files": [
-        "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
         "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+        "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
         "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md",
         "lgvvjnluPv07XvBgx8BI-Xw9JVWF [lgvvjnluPv07XvBgx8BI-Xw9JVWF].md"
       ]

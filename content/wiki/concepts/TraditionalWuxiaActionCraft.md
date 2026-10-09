@@ -5,7 +5,8 @@ tags: [wuxia, action-cinema, choreography, film, narrative]
 sources:
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
   - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
-last_updated: 2026-10-08
+  - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The bounded [[BiaoRenComic|《镖人》]] discussions show that traditional wuxi
 
 Neither grammar is automatically more authentic. Extended exchange can make skill and counter-skill legible but alter the source's lethal compression; abrupt violence can preserve danger and rhythm but reveal less tactical process. Action craft also does not repair every narrative loss. A strong duel can provide a commercially satisfying climax while shifting emphasis away from an ensemble or political resolution, and spectacle cannot by itself restore missing motive or emotional setup. The concept therefore describes one dimension of adaptation success rather than a total judgment of the film.
 
+The [[TaiChiMaster1993|《太极张三丰》]] case adds formation, memory, and embodied discovery. A staff array becomes a tactical system to read; blades accumulate visible damage while intercut memories convert combat into fraternal tragedy; water and circular movement make abstract principle observable; and a rope net temporarily defeats superior technique by removing stable footing. Readability therefore includes not just seeing strikes but understanding the changing problem a character must solve.
+
 ## Key Claims
 
 - Readability lets viewers follow attack, defense, reversal, and consequence.
@@ -27,6 +30,7 @@ Neither grammar is automatically more authentic. Extended exchange can make skil
 - A final duel can satisfy action-film structure while also displacing another character's thematic climax.
 - Action craft is separable from dialogue, political causality, characterization, and emotional staging.
 - Lethal brevity and extended exchange are different action grammars whose fit depends on narrative function and source rhythm.
+- Environment and remembered relationship can make action simultaneously tactical, developmental, and emotional.
 
 ## Evidence
 
@@ -46,15 +50,20 @@ Neither grammar is automatically more authentic. Extended exchange can make skil
 
 - [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] contrasts the comic's one-strike sword-film rhythm with the pre-release expectation that 袁和平 and 吴京 might favor longer displays of technique.
 
+### Formation, learning, and emotional action
+
+- [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] treats the Luohan-staff formation, water-vat discovery, damaged-blade fight, and rope-net adjustment as readable changes in problem, knowledge, and relationship.
+
 ## Counterevidence & Qualifications
 
-The concept comes from two informal podcast discussions of one comic-film pair and should not define all traditional wuxia cinema. “Traditional” is a reception judgment, not a fixed technical category, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable combat can coexist with weak motive, dialogue, editing, or political compression; it is neither necessary nor sufficient for a successful adaptation as a whole.
+The concept comes from three informal podcast discussions of two film cases and should not define all traditional wuxia cinema. “Traditional” is a reception judgment, not a fixed technical category, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable combat can coexist with weak motive, dialogue, editing, accelerated villainy, or political compression; it is neither necessary nor sufficient for a successful film as a whole.
 
 ## What Changed
 
 - Established readable exchange, spatial constraint, and bounded ability as the current core criteria.
 - Separated action success from total narrative or adaptation success.
 - Added lethal brevity as an alternative action grammar and distinguished source-style fit from execution quality.
+- Added formation-reading, embodied discovery, unstable footing, and emotional memory as action-bearing structures.
 
 ## Related Concepts
 
@@ -63,3 +72,4 @@ The concept comes from two informal podcast discussions of one comic-film pair a
 - [[BiaoRenFilm2026|《镖人：风起大漠》]] - bounded film case grounding the concept.
 - [[YuenWooPing|袁和平]] - director credited by the source with the case's action execution.
 - [[BiaoRenComic|《镖人》]] - comic case associated with abrupt sword-film lethality.
+- [[TaiChiMaster1993|《太极张三丰》]] - film case for formation, embodied learning, and fraternal combat.

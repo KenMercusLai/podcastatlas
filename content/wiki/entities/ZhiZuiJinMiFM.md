@@ -27,15 +27,16 @@ sources:
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
   - 094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
+  - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-10-10
 ---
 
 # 纸醉金迷FM / Zhi Zui Jin Mi FM
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, a critique of viral [[MourningMingReading|悼明读法]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], a nostalgic action-film rewatch of [[TaiChiMaster1993|《太极张三丰》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, a critique of viral [[MourningMingReading|悼明读法]], and a short supplied opening to its Ghost Festival discussion of [[DoubleVision2002|《双瞳》]].
 
 ## Current Profile
 
@@ -58,6 +59,8 @@ The [[JinYong|金庸]] reclusion episode adds comparative typology and modern tr
 The paired Jin Yong MBTI episodes add a second comparative typology but also demonstrate the show's self-correcting side. I/E and N/S let the hosts compare solitude, sociability, abstraction, and concrete attention, while T/F and J/P add decision priority, planning, and improvisation. Disputed readings of Ren Yingying, Kangxi, and Huang Rong keep the exercise open, and the hosts explicitly notice their own weak grasp of N/S and negatively skewed S examples. The strongest result is [[FictionalCharacterTypingBoundary]]: patterns across choices can be illuminating, but physical isolation, social competence, trauma, moral alignment, one dramatic act, office, imagination, or emotional intensity cannot establish a definitive type.
 
 The earlier 悼明 discussion supplies the show's clearest meta-interpretive case. Instead of only disputing particular puns, the hosts reverse the method onto unrelated television works to ask whether it can discriminate among texts at all. They preserve the possibility of political implication while rejecting a self-sealing master code, then connect its spread to secret-knowledge reward, ethnic emotion, low entry cost, and [[ShortVideoTrafficLogic|short-video fragmentation]]. This strengthens the show's recurring distinction between an interpretation that opens a work and a label that replaces close reading.
+
+The [[TaiChiMaster1993|《太极张三丰》]] rewatch joins the show's action criticism to autobiographical media history. VHS, VCD, television repetition, incomplete copies, music, and childhood imitation become evidence about how a film is remembered, while adult viewing separates durable craft from remembered fragments. The episode also applies the show's accountability-preserving character method to [[DongTianbao|董天宝]]: deprivation, humiliation, ambition, and attachment explain his trajectory without acquitting betrayal or killing, and [[ChinSiuHo|钱小豪]]'s performance is distinguished from the screenplay's accelerated late villainy.
 
 ## Key Characteristics
 
@@ -169,15 +172,23 @@ The earlier 悼明 discussion supplies the show's clearest meta-interpretive cas
 - [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] compares 《镖人》 scene by scene through action readability, political compression, character motive, performance, camera distance, editing, and emotional preparation.
 - [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] preserves scores of 4, 7, and 8 while identifying action quality as the strongest shared positive judgment.
 
+### Nostalgic rewatch and tragic action
+
+- [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] compares VHS, VCD, television, incomplete copies, and childhood imitation with an adult rewatch of 《太极张三丰》.
+- [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] connects formation-breaking, damaged weapons, water-based learning, and unstable footing to character development and fraternal tragedy.
+- [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] explains Tianbao's ambition and attachment while preserving responsibility for betrayal, killing, and service to oppression.
+
 ## Qualifications
 
-This profile rests on twenty-four episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the later four-villain episode is a complete discussion but does not supply a textual edition or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty-five episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the later four-villain episode is a complete discussion but does not supply a textual edition or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film history, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
 - Added a complete 《天龙八部》 character discussion beyond the earlier three-minute battle preview.
 - Made causal sympathy without moral acquittal an explicit feature of the show's reading method.
 - Added flat characterization and version differences as limits on interpretive confidence.
+- Added home-video format, incomplete-copy memory, and childhood imitation to the show's reception method.
+- Extended action and villain criticism through the 《太极张三丰》 rewatch.
 
 ## Relationships
 
@@ -234,6 +245,8 @@ This profile rests on twenty-four episode notes and may not represent every form
 - [[BiaoRenFilm2026|《镖人：风起大漠》]] - film judged as action-successful but uneven in political and character transfer.
 - [[TraditionalWuxiaActionCraft]] - framework extracted from the episode's praise of readable martial exchanges and bounded power.
 - [[YuenWooPing|袁和平]] - director credited with the film's strongest craft achievement.
+- [[TaiChiMaster1993|《太极张三丰》]] - nostalgic rewatch joining action craft, reception memory, and fraternal tragedy.
+- [[DongTianbao|董天宝]] - antagonist used to separate causal sympathy from moral acquittal.
 - [[ChildrensLiteratureMoralDialogue]] - framework for retaining both emotional formation and critical rereading.
 - [[InstitutionalizedFantasyWorldbuilding]] - framework for organizing inherited fantasy motifs into everyday social systems.
 - [[FictionalCharacterTypingBoundary]] - method extracted from the show's qualified use of MBTI across Jin Yong characters.

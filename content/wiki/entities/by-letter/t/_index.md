@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12957
+wiki_total_pages: 12962
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "Taipingjing"
     title: "《太平经》 / Taipingjing"
     url: "/wiki/entities/taipingjing/"
+  - key: "TaiChiMaster1993"
+    title: "《太极张三丰》 / Tai Chi Master (1993)"
+    url: "/wiki/entities/taichimaster1993/"
   - key: "TaibaiJinxingYouDianFan"
     title: "《太白金星有点烦》"
     url: "/wiki/entities/taibaijinxingyoudianfan/"

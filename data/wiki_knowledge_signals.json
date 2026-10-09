@@ -6947,9 +6947,9 @@
       "url": "/wiki/concepts/adaptationledprogramming/"
     },
     "AdaptationReceptionMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnnirnMbWnA0EAUovax7QZxWthk_ [lnnirnMbWnA0EAUovax7QZxWthk_].md",
@@ -6957,9 +6957,16 @@
           "show": "纸醉金迷FM",
           "title": "100期了！金庸《射雕英雄传》影视改编大盘点",
           "url": "/wiki/sources/100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk/"
+        },
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/adaptationreceptionmemory/"
     },
     "AdaptiveUrbanPlanningUnderUncertainty": {
@@ -41918,6 +41925,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/chimeirebellion/"
     },
+    "ChinSiuHo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/chinsiuho/"
+    },
     "ChinaAnimalProtectionLawGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -49238,9 +49261,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -49262,9 +49285,16 @@
           "show": "纸醉金迷FM",
           "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
           "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        },
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/compassionatecharacterinterpretation/"
     },
     "CompassionateCuriosity": {
@@ -65880,6 +65910,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/dongsilatehan/"
+    },
+    "DongTianbao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/dongtianbao/"
     },
     "DongXiLateHan": {
       "episode_count": 2,
@@ -131555,6 +131601,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/jetlagjetageembodiment/"
+    },
+    "JetLi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jetli/"
     },
     "Jev": {
       "episode_count": 1,
@@ -240104,6 +240166,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/tahiti/"
     },
+    "TaiChiMaster1993": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/taichimaster1993/"
+    },
     "TaiSuiBelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -248782,9 +248860,9 @@
       "url": "/wiki/concepts/traditionalchineseapprenticeship/"
     },
     "TraditionalWuxiaActionCraft": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
@@ -248799,9 +248877,16 @@
           "show": "纸醉金迷FM",
           "title": "095 春节档上映？深入解析《镖人》原著：最好的武侠漫",
           "url": "/wiki/sources/095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy/"
+        },
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/traditionalwuxiaactioncraft/"
     },
     "Trae": {
@@ -275619,9 +275704,9 @@
       "url": "/wiki/entities/yuexiayao/"
     },
     "YuenWooPing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
@@ -275636,9 +275721,16 @@
           "show": "纸醉金迷FM",
           "title": "095 春节档上映？深入解析《镖人》原著：最好的武侠漫",
           "url": "/wiki/sources/095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy/"
+        },
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/yuenwooping/"
     },
     "Yuezhi": {
@@ -277468,6 +277560,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/zhangjunstandup/"
+    },
+    "ZhangJunbaoTaiChiMaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhangjunbaotaichimaster/"
     },
     "ZhangKaiDuanJiongOfficer": {
       "episode_count": 1,
@@ -281244,9 +281352,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -281415,9 +281523,16 @@
           "show": "纸醉金迷FM",
           "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
           "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        },
+        {
+          "episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
+          "key": "122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5",
+          "show": "纸醉金迷FM",
+          "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
+          "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhianCe": {

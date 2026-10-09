@@ -313,6 +313,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [120 红楼金粉 | 金陵十二钗之王熙凤](sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3.md) — 纸醉金迷FM从管理、人情、婚姻、权力与人命争议细读王熙凤，在结构性约束与个人责任之间保留其善意、才干、狠辣和悲剧性。
 - [Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia](sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454.md) — Huberman Lab interview on identity-level pattern change, emotional tolerance, yoga nidra, digital comparison, pornography, and AI reality-testing risk.
 - [121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言](sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4.md) — 纸醉金迷FM以《孔雀翎》区分有力的信心寓言与薄弱的借宝、遗失及友情结局因果，同时细读高立与双双的相互滋养。
+- [122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看](sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5.md) — 纸醉金迷FM从录像带、VCD与电视记忆重看《太极张三丰》，连接可读动作、兄弟悲剧、太极悟道与对董天宝不免责的复杂理解。
 - [《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧](sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn.md) — 卫青在苏建失军后保留拘押与追责，却拒绝以阵斩偏将展示个人威严，并把终局裁决交回汉武帝。
 - [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
@@ -4571,7 +4572,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马邑之谋 / Mayi Ambush (Western Han)](entities/MayiAmbushWesternHan.md) — 试图把军臣单于诱至马邑边境伏击圈的西汉行动；当前来源只覆盖政策争论、欺敌设计、动员与趋近。
 - [《镖人》 / Biao Ren](entities/BiaoRenComic.md) — Comic joining desert wuxia adventure to Sui politics, ensemble motives, freedom, dignity, and collective agency.
 - [《镖人：风起大漠》 / Blades of the Guardians](entities/BiaoRenFilm2026.md) — Wuxia film whose readable action transfers more successfully than the comic's political and ensemble density.
-- [袁和平 / Yuen Woo-ping](entities/YuenWooPing.md) — Director bounded here through the action craft of 《镖人：风起大漠》.
+- [袁和平 / Yuen Woo-ping](entities/YuenWooPing.md) — Director bounded through readable, environment-dependent action in 《镖人：风起大漠》 and 《太极张三丰》.
+- [《太极张三丰》 / Tai Chi Master (1993)](entities/TaiChiMaster1993.md) — 以张君宝、董天宝的力量选择分化连接太极悟道、兄弟悲剧、可读动作与家庭影像记忆的1993年武侠片。
+- [张君宝 / Zhang Junbao (Tai Chi Master)](entities/ZhangJunbaoTaiChiMaster.md) — 将观察、借力与战术适应转化为太极，并以保护受压迫者完成武学与伦理成长的电影角色。
+- [董天宝 / Dong Tianbao](entities/DongTianbao.md) — 由贫困、受辱和上升欲走向背叛与压迫，同时保留对张君宝真实感情的悲剧反派。
+- [李连杰 / Jet Li](entities/JetLi.md) — Bounded here through the controlled, flowing, and tactically legible Zhang Junbao performance in 《太极张三丰》.
+- [钱小豪 / Chin Siu-ho](entities/ChinSiuHo.md) — Bounded here through the gaze, dramatic conflict, and martial force that give Dong Tianbao co-lead complexity.
 - [Noah Webster](entities/NoahWebster.md) — American lexicographer who joined public education and post-independence national differentiation to a commercially fragile dictionary project.
 - [窦太后 / Empress Dowager Dou (Western Han)](entities/EmpressDowagerDouWesternHan.md) — 从代国宫廷、子女与姐弟重逢进入政治视野，后来成为景帝至武帝初年的资深权力中心。
 - [窦婴 / Dou Ying (Western Han)](entities/DouYingWesternHan.md) — 由田蚡早期依附的显赫窦氏门主转为失去太后庇护的外戚对手，并在营救灌夫、廷争及诏书核验失败后被处死。
@@ -4627,7 +4633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, causal clue testing, disagreement, evidence boundaries, and accountability-preserving character sympathy.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, reception memory, causal clue testing, disagreement, action criticism, and accountability-preserving character sympathy.
 - [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
@@ -17548,7 +17554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [救灾临机裁量 / Emergency Relief Discretion](concepts/EmergencyReliefDiscretion.md) — 在紧迫群体伤害下先行救助、随后公开越权并接受审查的有限行政裁量。
 - [把总授权式治理 / Direction-Setting Delegated Governance](concepts/DirectionSettingDelegatedGovernance.md) — 通过识别能吏、授予实权并把握总体方向来减少细节干预，同时保留最终责任。
 - [例外才能依赖式治军 / Exception-Dependent Military Command](concepts/ExceptionDependentMilitaryCommand.md) — 区分由罕见个人感知、判断与威望支撑的有效个案，和普通继任者能够安全学习、执行与传承的制度化治军底线。
-- [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, and consequence.
+- [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, environment, learning, memory, and consequence.
 - [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.
 - [Dictionary Public-Good Governance / 词典公共品治理](concepts/DictionaryPublicGoodGovernance.md) — Institutional problem of sustaining accessible, independent, professionally edited dictionaries under state and market pressure.
 - [Political Semantic Change / 政治性语义变迁](concepts/PoliticalSemanticChange.md) — Alteration of public meaning and emotional charge through ideology, movements, campaigns, and strategic rhetoric.
@@ -17581,7 +17587,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [主攻与侧翼牵制 / Main Effort and Flank Containment](concepts/MainEffortFlankContainment.md) — 集中主力攻击选定目标，同时以独立兵力监视、迟滞或威慑可能增援之敌的非对称任务分工。
 - [道德威望约束权力 / Moral Authority Constrains Formal Power](concepts/MoralAuthorityConstrainsFormalPower.md) — 原则一致与可信声誉使正式权力更高者主动守礼、接受地位边界或寻求纠正，但不等于取得强制权或保证政策胜利。
 - [局部胜利与战役态势不确定性 / Local Victory and Campaign Uncertainty](concepts/LocalVictoryCampaignUncertainty.md) — 击败眼前敌军不等于找到主力、掌握友军位置或完成战役目标；胜果须与侦察、目标身份和剩余敌力共同判断。
-- [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲与代际媒介环境共同塑造某一改编版本成为“经典”或默认形象的过程。
+- [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲、残缺片源与模仿共同塑造某个作品或版本成为默认记忆的过程。
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
 - [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。
 - [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 类型惯例与共同观众知识成熟后，作品借互文、反转和日常化位移从传统内部完成戏仿与批判。
@@ -17767,7 +17773,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Niche Sport Ecosystem Building / 小众运动生态建设](concepts/NicheSportEcosystemBuilding.md) — Coordinated use of equipment, athletes, education, communities, competitions, and media to make a small sport sustainable.
 - [Actor Autonomy and Boundary / 演员职业自主与边界](concepts/ActorAutonomyAndBoundary.md) — Decision-rights framework for roles, working conditions, publicity, health, private life, and professional self-definition.
 - [Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动](concepts/PlatformEraActorVisibilityLabor.md) — Work that makes actors and characters legible across production assets, metrics, short video, fandom, and audience analysis.
-- [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Evidence-bound acting and reading method that separates conduct, causal understanding, responsibility, and narrative depth.
+- [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Evidence-bound acting and reading method separating conduct, causal understanding, responsibility, performance complexity, and narrative depth.
 - [Novel Food Manufacturing Transfer Risk](concepts/NovelFoodManufacturingTransferRisk.md) — Risk that a kitchen or small-plant product changes under faster equipment, larger runs, or ingredient-inexperienced operators.
 - [Consumer Brand Evidence Response](concepts/ConsumerBrandEvidenceResponse.md) — Two-track crisis system combining fast uncertainty communication with slower testing, traceability, certification, and public results.
 - [Deliberate Luck Surface](concepts/DeliberateLuckSurface.md) — Portfolio of bounded attempts that increases exposure to useful people, feedback, distribution paths, and favorable surprises.
