@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12975
+wiki_total_pages: 12981
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "Klapaucius"
     title: "克拉帕沃丘斯 / Klapaucius"
     url: "/wiki/entities/klapaucius/"
+  - key: "KuangTianyou"
+    title: "况天佑 / Kuang Tianyou"
+    url: "/wiki/entities/kuangtianyou/"
   - key: "KanaTomoko"
     title: "加纳朋子 / Kana Tomoko"
     url: "/wiki/entities/kanatomoko/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？](sources/086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible.md) — 纸醉金迷FM以佳佳大厦百鬼夜行篇讨论控制型母爱、顺从到共犯、道德原则与具体共情，并评析都市化灵异工具和规则一致性。
 - [The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)](sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525.md) — The Rest Is History follows the Beatles from postwar Liverpool and Hamburg through Epstein, original songwriting, Beatlemania, civil-rights conduct, and the 1964 American breakthrough.
 - [623. The Nazis at War: Churchill's Finest Hour (Part 4)](sources/623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438.md) — The Rest Is History on Britain's 1940 resistance, German air and invasion failures, the Blitz, and Hitler's turn toward Barbarossa.
 - [622. The Nazis at War: The Fall of France (Part 3)](sources/622-the-nazis-at-war-the-fall-of-france-part-3-glt6447940829.md) — The Rest Is History on Dunkirk's Allied evacuation, continued French resistance, cabinet collapse, de Gaulle's departure, and Hitler's staged armistice revenge.
@@ -4339,6 +4340,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
 
 ## Entities
+- [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 以佳佳大厦篇连接都市邻里、家庭控制、僵尸鬼怪、现代化法器与道歉和解的香港灵异剧。
+- [阿平 / A Ping (My Date with a Vampire)](entities/APingMyDateWithAVampire.md) — 从具体善意与长期顺从走向包庇、强迫和复仇，又因母亲承认控制伤害而散去怨气的裁缝。
+- [平妈 / Ping Ma (My Date with a Vampire)](entities/PingMaMyDateWithAVampire.md) — 以牺牲和道德判断包装控制、死后升级为活尸杀戮并最终承认自身责任的母亲。
+- [P.P. (My Date with a Vampire)](entities/PPMyDateWithAVampire.md) — 遭职业污名与杀害，却最清楚辨认阿平自主性被剥夺并推动母子和解的邻居。
+- [马小玲 / Ma Xiaoling](entities/MaXiaoling.md) — 在佳佳大厦篇承担调查、驱魔、超度与群体协调，并体现都市化法术工具设计的驱魔人。
+- [况天佑 / Kuang Tianyou](entities/KuangTianyou.md) — 虽想远离暴露、灵异冲突和情感关系，仍以调查与僵尸能力反复保护住户的人物。
 - [Paul Reynaud](entities/PaulReynaud.md) — French prime minister whose effort to continue the war from abroad lost to the armistice faction in June 1940.
 - [Philippe Pétain](entities/PhilippePetain.md) — French marshal who sought the 1940 armistice and led the Vichy regime.
 - [Maxime Weygand](entities/MaximeWeygand.md) — French commander who judged the 1940 military position irretrievable and advocated an armistice.
@@ -4654,7 +4661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, reception memory, causal clue testing, disagreement, action criticism, and accountability-preserving character sympathy.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, reception memory, causal scrutiny, disagreement, action criticism, supernatural worldbuilding analysis, and accountability-preserving character sympathy.
 - [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
@@ -17373,6 +17380,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Glen Jeffery](entities/GlenJeffery.md) — UCL neuroscience researcher connecting retinal aging, mitochondrial responses, systemic red-light hypotheses, and indoor spectral balance.
 
 ## Concepts
+- [Moral Principle–Empathy Gap / 道德原则与具体共情落差](concepts/MoralPrincipleEmpathyGap.md) — 抽象道德类别与对具体人的处境、尊严、动机及受害后果之间发生脱节的判断模式。
+- [Urbanized Supernatural Worldbuilding / 都市化灵异世界构建](concepts/UrbanizedSupernaturalWorldbuilding.md) — 将鬼怪、法器、阴间行政和轮回规则转译为现代城市物件、职业、建筑与交通系统的世界构建方式。
 - [Compiègne Armistice (1940)](concepts/CompiegneArmistice1940.md) — Settlement joining France's military and cabinet defeat to occupation, Vichy rule, and Hitler's staged revenge for 1918.
 - [Prepared Fallback Stronghold / 预置退路型堡垒](concepts/PreparedFallbackStronghold.md) — 在危机前克制抽取、积累民心并修备防御，使指定据点可在主路径崩溃时承接组织生存。
 - [Strategic Indulgence for Overextension / 姑辅式诱导过度扩张](concepts/StrategicIndulgenceOverextension.md) — 暂时满足强索以助长对手贪欲、轻敌和树敌，等待共同受害者形成反制机会的高风险策略。
@@ -20916,7 +20925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workplace Bullying / 职场霸凌](concepts/WorkplaceBullying.md) — Repeated or structurally enabled workplace harm through humiliation, surveillance, exclusion, coercive workload, and self-worth erosion.
 - [Structural Power Imbalance / 结构性权力不平衡](concepts/StructuralPowerImbalance.md) — Institutional asymmetry where one party can impose time, evaluation, punishment, attention, or risk without equal reciprocal exposure.
 - [Psychological Boundary Protection / 心理边界保护](concepts/PsychologicalBoundaryProtection.md) — Coping and escalation practice for separating attacks from self-worth, reducing emotional payoff, preserving evidence, and seeking support.
-- [Parental Projection Control / 父母投射式控制](concepts/ParentalProjectionControl.md) — Caregiving pattern where a parent treats the child, teacher, or education path as an extension of the parent's own plan or identity.
+- [Parental Projection Control / 父母投射式控制](concepts/ParentalProjectionControl.md) — Caregiving pattern where love becomes control by treating a child's education, partner, preferences, or adult identity as an extension of the parent's own plan.
 - [空誉违实 / Empty Reputation-Reality Gap](concepts/EmptyReputationRealityGap.md) — Reputation failure pattern where public fame outruns actual conduct or ability, making recommendation, marriage, and office selection risky.
 - [父母期望羞耻化 / Parental Expectation Shame](concepts/ParentalExpectationShame.md) — Parenting pattern where excessive expectation converts present traits into imagined future failure and makes children hide their real state through shame.
 - [战利品损失动员 / Spoils-Loss Mobilization](concepts/SpoilsLossMobilization.md) — Coercive military motivation tactic where lost captured goods are redirected into renewed desire to fight for enemy wealth.
@@ -21164,7 +21173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
-- [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
+- [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Practice of naming parental harm, removing child blame, apologizing, changing conduct, and preserving victim boundaries rather than seeking instant absolution.
 - [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, repair, and repeated work-value signals teach children more than instruction alone.
 - [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.
 - [Mid-Market Data Talent Gap](concepts/MidMarketDataTalentGap.md) — Mismatch between smaller companies' need for data/AI capability and their ability to afford or retain senior data teams and tooling.

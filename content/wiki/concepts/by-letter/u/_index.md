@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10141
+wiki_total_pages: 10143
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "UrbanEdgeNature"
     title: "Urban-Edge Nature / 城市边缘自然"
     url: "/wiki/concepts/urbanedgenature/"
+  - key: "UrbanizedSupernaturalWorldbuilding"
+    title: "Urbanized Supernatural Worldbuilding / 都市化灵异世界构建"
+    url: "/wiki/concepts/urbanizedsupernaturalworldbuilding/"
   - key: "UrgeDespiteRiskCircuit"
     title: "Urge Despite Risk Circuit"
     url: "/wiki/concepts/urgedespiteriskcircuit/"

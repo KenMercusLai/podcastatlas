@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12975
+wiki_total_pages: 12981
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2189,6 +2189,9 @@ wiki_pages:
   - key: "AbeKinya"
     title: "阿布谨也 / Abe Kinya"
     url: "/wiki/entities/abekinya/"
+  - key: "APingMyDateWithAVampire"
+    title: "阿平 / A Ping (My Date with a Vampire)"
+    url: "/wiki/entities/apingmydatewithavampire/"
   - key: "AdsoOfMelk"
     title: "阿德索 / Adso of Melk"
     url: "/wiki/entities/adsoofmelk/"

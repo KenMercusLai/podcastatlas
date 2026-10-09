@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12975
+wiki_total_pages: 12981
 wiki_pages:
+  - key: "PPMyDateWithAVampire"
+    title: "P.P. (My Date with a Vampire)"
+    url: "/wiki/entities/ppmydatewithavampire/"
   - key: "PacificPalisades"
     title: "Pacific Palisades"
     url: "/wiki/entities/pacificpalisades/"
@@ -1220,6 +1223,9 @@ wiki_pages:
   - key: "PingyuanjunZhuJian"
     title: "平原君朱建 / Pingyuanjun Zhu Jian"
     url: "/wiki/entities/pingyuanjunzhujian/"
+  - key: "PingMaMyDateWithAVampire"
+    title: "平妈 / Ping Ma (My Date with a Vampire)"
+    url: "/wiki/entities/pingmamydatewithavampire/"
   - key: "PingAnGoodDoctor"
     title: "平安好医生"
     url: "/wiki/entities/pingangooddoctor/"

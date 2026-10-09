@@ -34072,3 +34072,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？
+
+Added source `086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible`; created [[MyDateWithAVampire|《我和僵尸有个约会》]], [[APingMyDateWithAVampire|阿平]], [[PingMaMyDateWithAVampire|平妈]], [[PPMyDateWithAVampire|P.P.]], [[MaXiaoling|马小玲]], [[KuangTianyou|况天佑]], [[MoralPrincipleEmpathyGap|道德原则与具体共情落差]], and [[UrbanizedSupernaturalWorldbuilding|都市化灵异世界构建]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]], [[ParentalProjectionControl|父母投射式控制]], and [[ParentalRepairAfterHarm|父母伤害后的修复]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ping Ma's love becomes destructive when moral labeling and sacrifice language deny A Ping an adult self; his early kindness does not prevent obedience from becoming complicity, while P.P.'s concrete empathy and confrontation make acknowledgment possible. The arc also modernizes folk-occult material through professional tool cases, cosmetic-like ritual objects, elevators, office-dressed underworld agents, and apartment infrastructure. No settled contradiction was adopted. The reconciliation is retained as a fictional emotional resolution rather than evidence that apology alone repairs murder, coercion, or prolonged abuse; 三破日, ghost and corpse categories, power scaling, tactical rules, motives, romance, and authorial intent remain fictional, host-reported, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,266 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 36 unrelated pre-existing broken wikilinks.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

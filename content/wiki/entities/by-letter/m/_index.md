@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12975
+wiki_total_pages: 12981
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "MukashiMukashiAruTokoroNiShitaiGaArimashita"
     title: "《很久很久以前，在某个地方有一具尸体》"
     url: "/wiki/entities/mukashimukashiarutokoronishitaigaarimashita/"
+  - key: "MyDateWithAVampire"
+    title: "《我和僵尸有个约会》 / My Date with a Vampire"
+    url: "/wiki/entities/mydatewithavampire/"
   - key: "MyFirstHalfLife"
     title: "《我的前半生》 / My First Half Life"
     url: "/wiki/entities/myfirsthalflife/"
@@ -2255,6 +2258,9 @@ wiki_pages:
   - key: "MaYuLateHan"
     title: "马宇 / Ma Yu (late Han)"
     url: "/wiki/entities/mayulatehan/"
+  - key: "MaXiaoling"
+    title: "马小玲 / Ma Xiaoling"
+    url: "/wiki/entities/maxiaoling/"
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"

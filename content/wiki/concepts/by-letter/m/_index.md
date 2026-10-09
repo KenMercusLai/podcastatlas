@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10141
+wiki_total_pages: 10143
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "MoralPressureAdjudication"
     title: "Moral Pressure Adjudication / 道德压力式审案"
     url: "/wiki/concepts/moralpressureadjudication/"
+  - key: "MoralPrincipleEmpathyGap"
+    title: "Moral Principle–Empathy Gap / 道德原则与具体共情落差"
+    url: "/wiki/concepts/moralprincipleempathygap/"
   - key: "MoralReputationPoliticalCapital"
     title: "Moral Reputation as Political Capital / 道德名望政治资本"
     url: "/wiki/concepts/moralreputationpoliticalcapital/"
