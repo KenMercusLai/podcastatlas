@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [4 东西方的太监：从苏培盛到纳尔塞斯](sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4.md) — 怪东西跨文明比较宦官称谓、内外廷中介、皇权与继承杠杆、奴役和阉割暴力，并以李常杰和纳尔塞斯等人纠正单一刻板印象。
 - [《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！](sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2.md) — 秦始皇以巡游、祭祀和求仙回应死亡焦虑，却因回避身后议题迟迟未定储；病危时召扶苏的信件滞留赵高手中，蒙毅离场与李斯位阶焦虑共同铺垫沙丘继承危机。
 - [632. Joan of Arc: Warrior Maid (Part 1)](sources/632-joan-of-arc-warrior-maid-part-1-glt6592271090.md) — The Rest Is History episode on the Anglo-Burgundian high point, Orléans crisis, Joan's frontier upbringing, religious voices, and departure for the Dauphin.
 - [Trump names his new AI task force the "Super Intelligence Force"](sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128.md) — Marketplace Tech on a new federal AI task force, data-center ratepayer bills, cross-party demand for stricter regulation, and the limits of industry self-policing.
@@ -4293,6 +4294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Optimizing Workspace for Productivity, Focus & Creativity](sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522.md) — Condensed Huberman Lab episode on task-matched light, gaze, visual rest, ceiling height, sound, interruption boundaries, and posture variability.
 
 ## Entities
+- [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
 - [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
 - [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.
 - [Jay Clayton](entities/JayClayton.md) — Source-identified AI czar, intelligence director, and leader of the Superintelligence Force.
@@ -4450,7 +4452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Danny Walsh](entities/DannyWalsh.md) — Peak State Coffee founder weighing debt, equity, and disciplined organic growth.
 - [Voiceback](entities/Voiceback.md) — Assistive voice-cloning app moving from free downloads to paid validation and trusted referral channels.
 - [Rhea Jain](entities/RheaJain.md) — Voiceback founder using lived experience, clinical outreach, and user advisers to develop assistive communication.
-- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较、细读与学科史连接制度、人物、政治暴力、知识生产和当代教育问题的历史播客。
+- [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较、细读与学科史连接制度、人物、政治与身体暴力、知识生产和当代教育问题的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
 - [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
@@ -4906,7 +4908,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bagoas](entities/Bagoas.md) — Persian eunuch whose contested association with Darius III and Alexander exposes the politics and reception of intimate court access.
 - [Boston Corbett](entities/BostonCorbett.md) — Union soldier who killed John Wilkes Booth and whose self-castration is presented through intense religious literalism and uncertain mental-health causes.
 - [Samson Rowley / Hassan Aga](entities/SamsonRowley.md) — English captive who was castrated, converted, and later became treasurer in Ottoman-linked Algiers.
-- [Narses](entities/Narses.md) — Eastern Roman eunuch whose treasury service, Nika intervention, Italian generalship, and administration crossed civil and military authority.
+- [Narses](entities/Narses.md) — Eastern Roman eunuch whose treasury service, Nika intervention, resource-backed Italian generalship, and administration crossed civil and military authority.
 - [Farinelli](entities/Farinelli.md) — Celebrated eighteenth-century castrato whose exceptional success exposes the unequal labor system built on childhood surgery.
 - [Peter Abelard](entities/PeterAbelard.md) — Medieval theologian and teacher whose punitive castration redirected an already prominent intellectual life.
 - [Kondrati Selivanov](entities/KondratiSelivanov.md) — Russian Skoptsy leader who joined messianic authority to organized bodily removal as spiritual purification.
@@ -17753,8 +17755,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Negotiation crisis and qualified choke point joining Churchill's authority to Britain's retained strategic capacity.
 - [Battle of Britain](concepts/BattleOfBritain.md) — Air campaign decisive for preserving Britain in the war even though German invasion capacity was independently weak.
 - [Operation Sea Lion](concepts/OperationSeaLion.md) — German invasion plan whose amphibious, naval, intelligence, landing, and sustainment means did not match its objective.
-- [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving original bodily violence when survivors later gain office, income, status, or renewed agency.
-- [Eunuch Court Power](concepts/EunuchCourtPower.md) — Authority built from intimate ruler access and perceived exclusion from succession, extending into administration, diplomacy, and war.
+- [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving bodily violence, slave-supply mortality, disability, and survivor selection when a minority later gain office, income, status, or renewed agency.
+- [Eunuch Court Power](concepts/EunuchCourtPower.md) — Authority built from restricted-household access, ruler trust, inner/outer-court mediation, and possible leverage over succession.
 - [Castrati](concepts/Castrati.md) — Musical labor system joining childhood surgery, family investment, institutional demand, rare celebrity, and unequal outcomes.
 - [Religious Self-Castration](concepts/ReligiousSelfCastration.md) — Disputed, individual, and sectarian bodily practices framed through purity, temptation, sin, or salvation.
 - [Model Minority Stereotype / 模范少数族裔刻板印象](concepts/ModelMinorityStereotype.md) — Apparently positive success stereotype that can erase effort, inequality, need, leadership, and individual difference.
@@ -21609,7 +21611,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [治安名义政变 / Palace Coup Under Policing Pretext](concepts/PalaceCoupUnderPolicingPretext.md) — Armed palace seizure packaged as a law-enforcement response, introduced through Yan Le's Wangyi Palace attack.
 - [帝号退回王号 / Imperial Title Retrenchment](concepts/ImperialTitleRetrenchment.md) — Zhao Gao's post-Hu-Hai reduction from imperial title to Qin king title as the empire visibly contracts.
 - [宗庙仪式反制政变 / Ritual Ambush Countercoup](concepts/RitualAmbushCountercoup.md) — Ziying's use of illness, fasting, and temple-rite timing to lure and kill Zhao Gao.
-- [早期宦官词义误读 / Early Eunuch Terminology Misreading](concepts/EarlyEunuchTerminologyMisreading.md) — Qinji 138 pattern where later eunuch meanings are projected onto early "宦人/宦籍" palace-service terms.
+- [早期宦官词义误读 / Early Eunuch Terminology Misreading](concepts/EarlyEunuchTerminologyMisreading.md) — Source-critical pattern where later 宦官—太监 synonymy and body-status meanings are projected onto earlier palace-service terms.
 - [隐官身份误读 / Yinguan Status Misreading](concepts/YinguanStatusMisreading.md) — Correction that "隐官" in Zhao Gao's background is a legal-status/workplace term rather than proof of castration.
 - [出土文献词义校正 / Excavated Text Lexical Correction](concepts/ExcavatedTextLexicalCorrection.md) — Method where bamboo-slip evidence corrects inherited institutional word meanings.
 - [指鹿为马 / Pointing Deer As Horse](concepts/PointingDeerAsHorse.md) — Zhao Gao's public obedience test where an obvious falsehood maps officials for later purge.

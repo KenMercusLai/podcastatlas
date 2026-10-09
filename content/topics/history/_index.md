@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2647
+topic_total_pages: 2648
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6072,6 +6072,9 @@ topic_sources:
   - key: "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942"
     title: "399. The Savage Storm: World War II and The Battle for Italy"
     url: "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+  - key: "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4"
+    title: "4 东西方的太监：从苏培盛到纳尔塞斯"
+    url: "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
   - key: "4-were-all-so-17th-century-glt1251829896"
     title: "4. We’re all so 17th Century"
     url: "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"

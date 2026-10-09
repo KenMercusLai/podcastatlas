@@ -36560,9 +36560,9 @@
       "url": "/wiki/concepts/castrati/"
     },
     "CastrationCoercionAndMobility": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5221212176 [GLT5221212176].md",
@@ -36577,6 +36577,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9/"
+        },
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
         }
       ],
       "updated": "2026-10-04",
@@ -69188,6 +69195,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
     },
+    "EarlyEunuchTerminologyMisreading": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1） [ljw5NZD-Ap1A4HkdczxUn3t0_VwY].md",
+          "key": "zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy/"
+        },
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/earlyeunuchterminologymisreading/"
+    },
     "EarlyHanCoinageEnforcementGap": {
       "episode_count": 2,
       "show_count": 1,
@@ -78975,9 +79005,9 @@
       "url": "/wiki/entities/eumaeus/"
     },
     "EunuchCourtPower": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5221212176 [GLT5221212176].md",
@@ -78985,6 +79015,13 @@
           "show": "The Rest Is History",
           "title": "45. Top Ten Eunuchs",
           "url": "/wiki/sources/45-top-ten-eunuchs-glt5221212176/"
+        },
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
         }
       ],
       "updated": "2026-10-03",
@@ -156878,6 +156915,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/lvdoctorent/"
     },
+    "LyThuongKiet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/lythuongkiet/"
+    },
     "LyndonBJohnson": {
       "episode_count": 6,
       "show_count": 3,
@@ -174189,9 +174242,9 @@
       "url": "/wiki/concepts/narrativesetupandpayoff/"
     },
     "Narses": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5221212176 [GLT5221212176].md",
@@ -174199,6 +174252,13 @@
           "show": "The Rest Is History",
           "title": "45. Top Ten Eunuchs",
           "url": "/wiki/sources/45-top-ten-eunuchs-glt5221212176/"
+        },
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
         }
       ],
       "updated": "2026-10-03",
@@ -259127,9 +259187,9 @@
       "url": "/wiki/concepts/weiqiculturalpromotion/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -259291,6 +259351,13 @@
           "show": "怪东西Weird History",
           "title": "11 压岁钱与圣诞礼物的起源",
           "url": "/wiki/sources/11-yasuiqian-yu-shengdan-liwu-de-qiyuan-luf0cjj9qquztmuhmzrghb-9dneq/"
+        },
+        {
+          "episode_file": "ltz5iBHvlh7G2Ss-UdoWHi9EjHo4 [ltz5iBHvlh7G2Ss-UdoWHi9EjHo4].md",
+          "key": "4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4",
+          "show": "怪东西Weird History",
+          "title": "4 东西方的太监：从苏培盛到纳尔塞斯",
+          "url": "/wiki/sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4/"
         }
       ],
       "updated": "2026-10-09",

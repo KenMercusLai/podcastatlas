@@ -33706,3 +33706,11 @@ Added source `zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shen
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 4 东西方的太监：从苏培盛到纳尔塞斯
+
+Added source `4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4`; created [[LyThuongKiet|Lý Thường Kiệt / 李常杰]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[Narses]], [[EunuchCourtPower]], [[CastrationCoercionAndMobility]], and [[EarlyEunuchTerminologyMisreading|早期宦官词义误读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: cross-civilizational eunuch power grew from restricted-household access, ruler trust, inner/outer-court mediation, and possible leverage over succession, while exceptional technical or military careers cannot erase forced castration, slavery, mortality, disability, and the anonymity of most victims. No settled contradiction was adopted. Terminology, dynasty rankings, slave-market mortality estimates, procedure descriptions, and detailed named careers remain source-scoped; the automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,220 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

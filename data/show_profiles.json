@@ -2277,14 +2277,14 @@
       "earliest_episode_date": "2025-12-12",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "lmX4pOXEtwxy625krIODiZXLubou [lmX4pOXEtwxy625krIODiZXLubou].md",
-      "source_note_count": 40,
-      "topic_matched_source_note_count": 36,
+      "source_note_count": 41,
+      "topic_matched_source_note_count": 37,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 31
+          "source_note_count": 32
         },
         {
           "key": "culture",
