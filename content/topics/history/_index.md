@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2678
+topic_total_pages: 2679
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339"
+    title: "618. Elizabeth I: The Shadow of the Tower (Part 3)"
+    url: "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
   - key: "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337"
     title: "619. Elizabeth I: The Virgin Queen (Part 4)"
     url: "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"

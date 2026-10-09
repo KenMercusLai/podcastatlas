@@ -72935,9 +72935,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -73015,6 +73015,13 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-10",
@@ -73180,9 +73187,9 @@
       "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
     },
     "ElizabethanReligiousPragmatism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -73197,6 +73204,13 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-10",
@@ -135571,6 +135585,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/johnfetterman/"
     },
+    "JohnFoxe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/johnfoxe/"
+    },
     "JohnGibbon": {
       "episode_count": 1,
       "show_count": 1,
@@ -164443,9 +164473,9 @@
       "url": "/wiki/entities/martinpinzon/"
     },
     "MartyrdomHistoricalMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4510547363 [GLT4510547363].md",
@@ -164460,6 +164490,13 @@
           "show": "The Rest Is History",
           "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
           "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-02",
@@ -164670,9 +164707,9 @@
       "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
     "MaryI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -164687,6 +164724,13 @@
           "show": "The Rest Is History",
           "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
           "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-09-29",
@@ -194239,9 +194283,9 @@
       "url": "/wiki/entities/philiphamilton/"
     },
     "PhilipII": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -194284,6 +194328,13 @@
           "show": "The Rest Is History",
           "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
           "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-09-22",
@@ -252200,9 +252251,9 @@
       "url": "/wiki/entities/tudongdong/"
     },
     "TudorFemaleSovereigntyConstraint": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2281550812 [GLT2281550812].md",
@@ -252210,15 +252261,22 @@
           "show": "The Rest Is History",
           "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
           "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/tudorfemalesovereigntyconstraint/"
     },
     "TudorRoyalMarriageStatecraft": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -252226,15 +252284,22 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -252277,6 +252342,13 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-10",
@@ -265670,9 +265742,9 @@
       "url": "/wiki/entities/williambrydon/"
     },
     "WilliamCecil": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -265708,6 +265780,13 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-10-10",
@@ -269182,9 +269261,9 @@
       "url": "/wiki/entities/wuzhuliuchanyu/"
     },
     "WyattRebellion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -269192,6 +269271,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT7928851339 [GLT7928851339].md",
+          "key": "618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339",
+          "show": "The Rest Is History",
+          "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
+          "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
         }
       ],
       "updated": "2026-09-29",

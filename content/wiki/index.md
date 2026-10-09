@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [618. Elizabeth I: The Shadow of the Tower (Part 3)](sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339.md) — The Rest Is History on Elizabeth's survival under Mary I, Wyatt's Rebellion, Tower imprisonment, Marian persecution, Foxe's memory, and the 1558 succession.
 - [How to Speak Clearly & With Confidence | Matt Abrahams](sources/how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695.md) — Huberman Lab conversation on audience-first message design, structured spontaneity, aloud practice, feedback, speaking anxiety, and recovery under pressure.
 - [VOL.186这波流感太早、太猛？医生最新解读：真不一样了！](sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs.md) — 这病说来话长由子涵医生梳理流感症状、检测局限、高危与重症分诊、早期抗病毒评估、年度疫苗和分层预防。
 - [084 趣话《鬼吹灯》之云南虫谷P3：终于来到献王墓前](sources/084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo.md) — 纸醉金迷FM以铜箱、蓝色玉蟾、痋婴和水龙晕串联献王墓前的连环防御，并区分云南文化地理语境与小说的风水科幻解释。
@@ -9191,7 +9192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
 - [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
 - [Francis Drake](entities/FrancisDrake.md) — English slaving-linked sailor, raider, circumnavigator, and naval commander whose career exposes Spanish imperial vulnerability while creating legal and moral ambiguity.
-- [Philip II of Spain](entities/PhilipII.md) — Catholic Spanish monarch whose Dutch repression, loyal-rebellion target role, English embargo, and Armada path drive escalation.
+- [Philip II of Spain](entities/PhilipII.md) — Mary's treaty-bounded king consort who later becomes the imperial center of Dutch revolt, English maritime conflict, and Armada escalation.
 - [William of Orange](entities/WilliamOfOrange.md) — Dutch Revolt leader whose Habsburg-service past, religious shifts, anthem voice, and 1584 assassination define the revolt's paradox.
 - [Alexander Farnese / Duke of Parma](entities/AlexanderFarnese.md) — Spanish commander whose diplomacy and siegecraft recover the southern Low Countries and capture Antwerp.
 - [Low Countries](entities/LowCountries.md) — Strategic Elizabethan theatre where Dutch revolt, Spanish recovery, and English invasion fears converge.
@@ -9270,9 +9271,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [牛金 / Niu Jin (late Han)](entities/NiuJinLateHan.md) — Cao-side officer surrounded outside Jiangling and extracted by Cao Ren.
 - [陈矫 / Chen Jiao (late Han)](entities/ChenJiaoLateHan.md) — Jiangling witness whose reaction records the morale effect of Cao Ren's battlefield rescue.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
-- [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
+- [Elizabeth I](entities/ElizabethI.md) — Protestant English queen whose pre-accession tactics of conformity, delay, and evidentiary caution became tools of sovereign ambiguity.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
-- [William Cecil / Lord Burleigh](entities/WilliamCecil.md) — Elizabeth's senior minister pressing to convert Mary's danger into legal execution through the Act for the Queen's Safety.
+- [William Cecil / Lord Burleigh](entities/WilliamCecil.md) — Elizabeth's senior minister, from secret 1558 succession planning through Protestant administration, intelligence, and legal security statecraft.
 - [Thomas Howard / Duke of Norfolk](entities/ThomasHowardDukeOfNorfolk.md) — English noble whose proposed marriage to Mary Stuart would attach her Catholic succession claim to aristocratic English power.
 - [Roberto Ridolfi](entities/RobertoRidolfi.md) — Florentine banker whose papal-money channel gives Cecil and Walsingham an ambiguous bridge between Mary, Norfolk, and foreign-backed conspiracy.
 - [Ridolfi Plot](entities/RidolfiPlot.md) — 1571 Catholic conspiracy exposure linking Mary, Norfolk, papal money, ambassadors, possible London rebellion, and Spanish forces from the Low Countries.
@@ -17120,12 +17121,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jessica Chiccehitto Hindman / 杰西卡·齐切西托·辛德曼](entities/JessicaChiccehittoHindman.md) — Writer, teacher, and classically trained violinist whose fake-playing touring experience became Sounds Like Titanic.
 - [《宛如泰坦尼克》 / Sounds Like Titanic](entities/SoundsLikeTitanicBook.md) — Jessica Chiccehitto Hindman's nonfiction inquiry into mimed performance, ambition, work, audience desire, and post-9/11 consolation.
 - [Lady Jane Grey](entities/LadyJaneGrey.md) — Educated teenage Protestant claimant whose reluctant accession, bounded agency, nine-day regime, execution, and martyr afterlife leave her status as queen contested.
-- [Mary I](entities/MaryI.md) — Excluded Catholic Tudor heir who converts statutory and hereditary legitimacy into a broad coalition, defeats Jane, and later moves from mercy to execution.
+- [Mary I](entities/MaryI.md) — Catholic queen who joined accession legitimacy, Spanish alliance, crisis leadership, religious restoration, and lethal persecution before dying childless.
 - [Edward VI](entities/EdwardVI.md) — Capable Protestant Tudor king whose evolving succession device joins confessional purpose to disputed gender, legitimacy, and legal reasoning.
 - [John Dudley, Duke of Northumberland](entities/JohnDudleyDukeOfNorthumberland.md) — Jane's ambitious Protestant sponsor whose family interest and implementation role coexist with Edward's agency and major strategic failures.
 - [Guildford Dudley](entities/GuildfordDudley.md) — Jane Grey's teenage husband whose marriage, disputed kingship, and execution expose dynastic interest, consort anxiety, and Jane's bounded agency.
 - [Henry Grey](entities/HenryGrey.md) — Jane Grey's father whose participation in Wyatt's Rebellion increases the security danger attached to her surviving claim.
-- [Wyatt's Rebellion](entities/WyattRebellion.md) — 1554 rising against Mary I that transforms Jane from a containable prisoner into a reusable Protestant claimant.
+- [Wyatt's Rebellion](entities/WyattRebellion.md) — 1554 anti-Spanish-marriage rising that made Jane disposable and left Elizabeth imprisoned under unresolved suspicion.
+- [John Foxe](entities/JohnFoxe.md) — Protestant historian who made Marian martyrdom and Elizabeth's providential survival central to English historical memory.
 - [Frances Grey](entities/FrancesGrey.md) — Jane Grey's mother and closer hereditary claimant whose omission from Edward VI's device remains unresolved.
 - [Rudolf Vrba](entities/RudolfVrba.md) — Auschwitz escapee, report co-author, biochemist, and survivor-witness who judged rescue through both lives saved and warnings delayed.
 - [Alfred Wetzler](entities/AlfredWetzler.md) — Auschwitz escapee and co-author of the report that documented the camp's killing system.
@@ -17938,7 +17940,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Utopian Communist Coercion](concepts/UtopianCommunistCoercion.md) — Risk that compulsory pursuit of common ownership and a classless future centralizes control and suppresses plural correction.
 - [Emotion State Coordinate Model](concepts/EmotionStateCoordinateModel.md) — Three-axis description of emotional state through arousal, valence, and inward-versus-outward attention.
 - [Vagus Stimulation State Boundary](concepts/VagusStimulationStateBoundary.md) — Caution that vagal stimulation can activate or calm depending on pathway, method, dose, and context.
-- [Elizabethan Religious Pragmatism](concepts/ElizabethanReligiousPragmatism.md) — Protestant settlement strategy combining selective Catholic continuity with political stabilization and coercive limits.
+- [Elizabethan Religious Pragmatism](concepts/ElizabethanReligiousPragmatism.md) — Pattern joining tactical conformity under Mary to a Protestant settlement built with selected continuity and coercive limits.
 - [Virgin Queen Image Statecraft](concepts/VirginQueenImageStatecraft.md) — Conversion of Elizabeth's unmarried female rule into authority through portraiture, performance, sacred analogy, and reputation management.
 - [Playlist As Discovery Interface](concepts/PlaylistAsDiscoveryInterface.md) — Playlist layer translating mood, activity, and setting into low-friction music discovery.
 - [Cross-Language Recommendation Bias](concepts/CrossLanguageRecommendationBias.md) — Failure mode where language or region priors override a user's genre or style intent.
@@ -18026,7 +18028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Education Competition Uncertainty Loop / 教育竞争不确定性循环](concepts/EducationCompetitionUncertaintyLoop.md) — Escalation mechanism joining opaque comparison, scarce opportunity, reassurance spending, and rising preparation norms.
 - [Tutoring Restriction Substitution Effect / 校外培训限制的替代效应](concepts/TutoringRestrictionSubstitutionEffect.md) — Policy boundary where persistent selection demand can move tutoring online, into homes, or toward costlier private forms.
 - [Family Education Alignment / 家庭教育协同](concepts/FamilyEducationAlignment.md) — Role-neutral coordination of parental participation, responsibility, emotional steadiness, and consistent education boundaries.
-- [Tudor Royal Marriage Statecraft](concepts/TudorRoyalMarriageStatecraft.md) — Framework joining royal marriage to succession, diplomacy, religion, court faction, law, property, and coercive power.
+- [Tudor Royal Marriage Statecraft](concepts/TudorRoyalMarriageStatecraft.md) — Framework joining royal marriage to succession, diplomacy, consort authority, religion, rebellion, law, and coercive power.
 - [Chartered-Company Sovereignty](concepts/CharteredCompanySovereignty.md) — Conversion of state-chartered commerce into territorial, fiscal, military, and governing power under unresolved profit-responsibility tensions.
 - [Statue Commemoration Politics](concepts/StatueCommemorationPolitics.md) — Framework joining original purpose, complete biography, placement, balance, counter-memory, later reception, and removal disputes.
 - [Psychological Astrology as Reflective Map / 心理占星作为反思地图](concepts/PsychologicalAstrologyAsReflectiveMap.md) — Use of chart symbolism for self-inquiry and choice expansion without granting it deterministic authority.
@@ -18163,7 +18165,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epigenetic Aging Information Theory](concepts/EpigeneticAgingInformationTheory.md) — Sinclair's proposal that aging substantially reflects loss of regulatory information maintaining cell identity, bounded by measurement and translation limits.
 - [Tay Bridge Disaster](concepts/TayBridgeDisaster.md) — 1879 bridge collapse understood through wind exposure, design, construction economies, safety debt, professional authority, and cultural memory.
 - [Massacre of the Innocents](concepts/MassacreOfTheInnocents.md) — Matthew narrative whose Moses pattern and martyr afterlife remain meaningful despite weak historical corroboration.
-- [Martyrdom as Historical Memory](concepts/MartyrdomHistoricalMemory.md) — Process by which violent death or mass killing gains durable sacred, moral, and political authority through commemoration and delayed reckoning.
+- [Martyrdom as Historical Memory](concepts/MartyrdomHistoricalMemory.md) — Process by which violent death, mass killing, or compiled martyrology gains durable sacred, moral, and political authority.
 - [Battle of Wakefield](concepts/BattleOfWakefield.md) — The 1460 Yorkist defeat understood through Richard of York's unexplained sortie, dynastic humiliation, and Shakespearean afterlife.
 - [Personalist Imperial Spectacle](concepts/PersonalistImperialSpectacle.md) — Use of titles, coronation, historical imitation, gifts, rank, and public spending to make one ruler embody the state.
 - [Pandemic Historical Memory](concepts/PandemicHistoricalMemory.md) — Process by which mortality, rival events, images, state response, technology, and later narratives shape whether pandemics remain publicly visible.
@@ -21501,7 +21503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.
 - [Personal Trust Political Fragility / 私交信任的政治脆弱性](concepts/PersonalTrustPoliticalFragility.md) — Hanji 974 pattern where real friendship and family entrustment fail once survival fears, alliance pressure, and local security no longer align.
 - [Detail-Based Crisis Detection / 细节式危机识别](concepts/DetailBasedCrisisDetection.md) — Crisis-reading method where small clues in titles, routes, timing, and rear-area behavior expose a political break before formal declaration.
-- [Tudor Succession Crisis](concepts/TudorSuccessionCrisis.md) — Dynastic-security pattern where Mary Stuart's Catholic claim turns assassination, foreign support, and English succession into one crisis.
+- [Tudor Succession Crisis](concepts/TudorSuccessionCrisis.md) — Dynastic-security pattern where disputed legitimacy and rival claimants turn rebellion, imprisonment, assassination, and foreign support into one crisis.
 - [Spy Network Entrapment](concepts/SpyNetworkEntrapment.md) — Intelligence pattern where a supposedly secure channel is controlled, read, and turned into usable evidence.
 - [Royal Execution Legitimacy](concepts/RoyalExecutionLegitimacy.md) — Problem of making a sovereign's killing legally and politically tolerable.
 - [Political Trial Theatre](concepts/PoliticalTrialTheatre.md) — Use of court procedure, space, hierarchy, and evidence staging to make a contested judgment authoritative.
@@ -27407,7 +27409,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Recognition-Driven Workplace Conformity / 认可驱动的职场顺从](concepts/RecognitionDrivenWorkplaceConformity.md) — Pattern where income, belonging, identity, and praise for cooperativeness suppress a worker's ethical or professional judgment.
 - [Nine Days' Queen Succession Crisis](concepts/NineDaysQueenSuccessionCrisis.md) — 1553 contest joining a changing royal device, statute, religion, gender, rival claims, coalition, force, and residual claimant danger.
 - [Monarchical Recognition Legitimacy](concepts/MonarchicalRecognitionLegitimacy.md) — Gap among designation, statute, proclamation, and acceptance by public, elite, military, and later historical audiences.
-- [Tudor Female Sovereignty Constraint](concepts/TudorFemaleSovereigntyConstraint.md) — Gendered legitimacy problem joining female hereditary claims to male-kingship expectations and fear of rule through a queen's husband.
+- [Tudor Female Sovereignty Constraint](concepts/TudorFemaleSovereigntyConstraint.md) — Gendered legitimacy problem joining female claims to consort fears, treaty safeguards, and public performances of independent rule.
 - [Holocaust Warning-to-Action Gap](concepts/HolocaustWarningActionGap.md) — Distance between credible atrocity evidence and timely protection created by disbelief, prejudice, bureaucracy, strategy, and fragmented responsibility.
 - [Survivor Witness Without Consolation](concepts/SurvivorWitnessWithoutConsolation.md) — Testimony that preserves anger, accusation, and damaged aftermath instead of satisfying demands for redemptive closure.
 - [Deception as Genocidal Infrastructure](concepts/DeceptionAsGenocidalInfrastructure.md) — False destinations, ordinary procedures, reassurance, and controlled information used as operational components of mass killing.

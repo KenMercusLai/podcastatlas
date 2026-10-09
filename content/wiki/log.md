@@ -34206,3 +34206,11 @@ Added source `how-to-speak-clearly-with-confidence-matt-abrahams-scim9739579695`
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 618. Elizabeth I: The Shadow of the Tower (Part 3)
+
+Added source `618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339`; created [[JohnFoxe]]; and resynthesized [[ElizabethI|Elizabeth I]], [[MaryI|Mary I]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[PhilipII|Philip II of Spain]], [[WyattRebellion|Wyatt's Rebellion]], [[ElizabethanReligiousPragmatism]], [[TudorFemaleSovereigntyConstraint]], [[TudorRoyalMarriageStatecraft]], [[TudorSuccessionCrisis]], and [[MartyrdomHistoricalMemory]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Elizabeth's later controlled ambiguity was formed through tactical conformity, delay, public sympathy, and evidentiary caution under Mary; Mary's reign combined political competence, treaty-bounded alliance, Catholic reform, and real lethal persecution; and Foxe's “Bloody Mary” frame remains powerful historical memory grounded in violence but insufficient as a complete reign-level judgment. Elizabeth's role in Wyatt's Rebellion remains unresolved, while late Marian security, the Guernsey case, naval causation, medical diagnoses, and private motives remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,283 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

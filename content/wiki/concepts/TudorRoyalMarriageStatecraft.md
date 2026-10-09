@@ -4,6 +4,7 @@ type: concept
 tags: [monarchy, marriage, succession, reformation, diplomacy, tudor-england]
 sources:
   - 74-the-six-wives-of-henry-viii-glt6913826589
+  - 618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-03
 ---
@@ -20,6 +21,8 @@ Henry VIII's marriages show why a royal marriage cannot be separated cleanly int
 
 The wives nevertheless occupied different positions inside the same unequal system. Catherine of Aragon resisted invalidation, Anne Boleyn pursued queenship but was destroyed by accusation, Jane Seymour's reproductive success fixed her dynastic memory, Anne of Cleves accepted a property-backed settlement, Catherine Howard's youth and sexual reputation became lethal, and Catherine Parr used gendered deference to survive religious danger. Agency mattered, but it operated within the king's control of status, law, church, patronage, and punishment.
 
+Mary's marriage to Philip reverses the gender of the sovereign while preserving the statecraft problem. The match promises Habsburg alliance, a Catholic heir, and strength against France; treaty restrictions attempt to prevent Philip from controlling English legislation or subordinating the kingdom. Those safeguards do not prevent opponents from treating the marriage as foreign domination, and Wyatt's rising shows that a diplomatically prestigious match can create domestic regime danger before producing an heir.
+
 ## Key Claims
 
 - A royal demand for an heir can turn reproduction and marital continuity into questions of regime security.
@@ -28,6 +31,7 @@ The wives nevertheless occupied different positions inside the same unequal syst
 - Annulment, prosecution, execution, settlement, and rhetorical deference are different outcomes of the same severe asymmetry in royal marriage.
 - Court ministers translate intimate royal aims into institutional change, diplomacy, evidence production, and coercion.
 - Cultural archetypes keep the marriages memorable but can obscure differences in evidence, age, agency, and political constraint.
+- When the monarch is a queen, treaty safeguards can limit consort authority without dissolving popular fear of foreign rule.
 
 ## Evidence
 
@@ -35,16 +39,16 @@ The wives nevertheless occupied different positions inside the same unequal syst
 - Religion and institutions: [[74-the-six-wives-of-henry-viii-glt6913826589]] connects Anne Boleyn's reformist texts, Cromwell's supremacy strategy, and Catherine Parr's Protestant purpose.
 - Unequal outcomes and bounded agency: [[74-the-six-wives-of-henry-viii-glt6913826589]] contrasts resistance, accusation, childbirth, settlement, execution, and adaptive deference across the six wives.
 - Memory and compression: [[74-the-six-wives-of-henry-viii-glt6913826589]] uses the familiar six-wife rhyme and modern archetype comparisons while supplying the political structures they omit.
+- Queen-regnant marriage: [[618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339]] connects Mary's Spanish alliance, negotiated limits, succession hopes, Wyatt's Rebellion, phantom pregnancy, and childlessness.
 
 ## Counterevidence & Qualifications
 
-The framework does not claim that all six marriages had the same cause or that queens lacked agency. Nor does it make the English Reformation a product of marital desire alone: theology, Parliament, administration, European power, property, and longer religious change remain necessary contexts. Private motives, sexual allegations, medical causation, and counterfactual marital outcomes remain source-scoped.
+The framework does not claim that all royal marriages had the same cause or that queens lacked agency. Nor does it make the English Reformation a product of marital desire alone: theology, Parliament, administration, European power, property, and longer religious change remain necessary contexts. Mary's treaty limits demonstrate formal protection but do not measure Philip's informal influence. Private motives, sexual allegations, pregnancy diagnoses, medical causation, and counterfactual marital outcomes remain source-scoped.
 
 ## What Changed
 
-- Established a common framework for reading all six marriages without flattening their different constraints and strategies.
-- Connected intimate choice to succession, diplomacy, religious jurisdiction, ministerial action, and coercion.
-- Added a memory boundary separating useful archetypes from complete historical explanation.
+- Extended the framework from a king's wives to a queen regnant's foreign husband.
+- Added treaty-bounded consort authority, anti-foreign backlash, rebellion, and failed heir production.
 
 ## Related Concepts
 
@@ -52,3 +56,4 @@ The framework does not claim that all six marriages had the same cause or that q
 - [[TudorFemaleSovereigntyConstraint]] - gendered legitimacy problem intensified when Henry's daughters became unavoidable successors.
 - [[ParliamentaryAttainder]] - legislative coercion used within Tudor court destruction and succession politics.
 - [[ContextualMonarchicalSuccess]] - comparative frame separating transformative historical consequence from moral approval.
+- [[WyattRebellion]] - domestic revolt showing how a foreign match could convert alliance policy into regime danger.

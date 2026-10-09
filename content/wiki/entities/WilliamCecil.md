@@ -8,6 +8,7 @@ sources:
   - 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496
   - 691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561
   - 619-elizabeth-i-the-virgin-queen-part-4-glt7930465337
+  - 618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -16,11 +17,13 @@ last_updated: 2026-10-10
 
 ## Overview
 
-William Cecil, later Lord Burleigh, is Elizabeth's senior minister and the series' main architect of Protestant government and security statecraft. The sources present him as an administrator whose control of the secretariat, council discipline, religious conviction, Scottish strategy, threat mapping, propaganda, legal design, and partnership with [[FrancisWalsingham]] turn [[ElizabethI|Elizabeth I]]'s survival into a coordinated governing problem.
+William Cecil, later Lord Burleigh, is Elizabeth's senior minister and the series' main architect of Protestant government and security statecraft. The sources trace him from discreet survival and pre-accession planning under [[MaryI|Mary I]] to control of the secretariat, council discipline, Scottish strategy, threat mapping, propaganda, legal design, and partnership with [[FrancisWalsingham]].
 
 ## Current Profile
 
-Cecil's power rests on disciplined service as much as office. The opening-reign source places him as sole secretary and central council operator, turning Elizabeth's Protestant commitment into administration while treating French power in Scotland and [[MaryQueenOfScots|Mary, Queen of Scots]]' claim as a connected threat. Support for Scottish Protestants and the 1560 French withdrawal show this strategy producing an early geopolitical success.
+Cecil's power rests on disciplined service as much as office. He survives Mary's reign by discretion despite prior support for Jane Grey, then meets Elizabeth secretly in spring 1558 as she prepares for succession. This makes the later concentration of the royal secretariat a continuation of pre-accession trust rather than a relationship beginning only with office.
+
+The opening-reign source places him as sole secretary and central council operator, turning Elizabeth's Protestant commitment into administration while treating French power in Scotland and [[MaryQueenOfScots|Mary, Queen of Scots]]' claim as a connected threat. Support for Scottish Protestants and the 1560 French withdrawal show this strategy producing an early geopolitical success.
 
 The later prequel layer places him in daily counsel, correspondence, ambassadorial instructions, propaganda licensing, and the security machinery before Throckmorton and Babington. Across both phases, he reads Catholic Europe, domestic Catholic sympathy, and Mary's claim through one Protestant security lens.
 
@@ -29,6 +32,7 @@ He is severe about Mary but not uniformly reckless. He wants Mary executed early
 ## Key Characteristics
 
 - Cecil treats Elizabeth's life and succession as the core security asset of Protestant England.
+- He joins personal discretion under a hostile regime to advance planning for an expected succession.
 - His administrative strength lies in papers, councils, letters, proclamations, ambassadorial instructions, and legal mechanisms.
 - He uses limited intervention and Protestant alliance-building to reshape England's strategic environment, especially in Scotland.
 - His Protestant conviction makes Catholic power look like a coordinated threat rather than only a diplomatic rival.
@@ -39,6 +43,7 @@ He is severe about Mary but not uniformly reckless. He wants Mary executed early
 
 - Security diagnosis: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] grounds Cecil's early fear of France, Scotland, Mary, and an unsecured Protestant succession; [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] and [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] show the threat map hardening around the Pope, Spain, and domestic Catholic networks.
 - Administrative method: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] places Cecil at the center of a streamlined council as sole secretary; [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] describes the mature machinery of meetings, letters, proclamations, and ambassadorial instructions.
+- Pre-accession preparation: [[618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339]] shows Cecil surviving Mary through discretion and secretly coordinating with Elizabeth in spring 1558.
 - Scottish strategy: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] links money and arms for Scottish Protestants to French withdrawal and a Protestant Scottish settlement.
 - Propaganda and intelligence: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] links Cecil to the anti-Norfolk pamphlet and Ridolfi exposure; [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] show later intelligence and legal machinery.
 - Legal-political strategy: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] makes Cecil part of the Bond of Association, and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] shows him using the Act for the Queen's Safety and warrant politics.
@@ -46,13 +51,12 @@ He is severe about Mary but not uniformly reckless. He wants Mary executed early
 
 ## Qualifications
 
-Cecil's fear is rational within the source frame, but the Ridolfi material keeps his evidence politics unsettled. The episode explicitly raises Stephen Alford's suggestion that Ridolfi may have been a plant or that Cecil partly manufactured exposure around a real danger. The new source's “united Protestant Britain” description is an interpretation of his Scottish strategy, not proof of a settled constitutional program. His proposed emergency council powers and severity toward Mary also repeatedly ran against Elizabeth's insistence on undivided monarchical authority and legitimacy.
+Cecil's fear is rational within the source frame, but the Ridolfi material keeps his evidence politics unsettled. The episode explicitly raises Stephen Alford's suggestion that Ridolfi may have been a plant or that Cecil partly manufactured exposure around a real danger. The “united Protestant Britain” description is an interpretation of his Scottish strategy, not proof of a settled constitutional program. The secret 1558 meetings establish preparation but not a fully specified shadow cabinet. His proposed emergency council powers and severity toward Mary also repeatedly ran against Elizabeth's insistence on undivided monarchical authority and legitimacy.
 
 ## What Changed
 
-- Extended Cecil's profile back to 1558-1560 administrative concentration and Scottish strategy.
-- Added the 1562-1563 emergency succession plan as evidence of institutional continuity thinking and royal resistance.
-- Distinguished a successful Protestant-Scottish alignment from the source's broader “united Britain” interpretation.
+- Extended Cecil's profile into Mary's reign through discreet survival and secret spring-1558 succession planning.
+- Connected pre-accession trust to his immediate centrality in Elizabeth's government.
 
 ## Relationships
 
@@ -63,3 +67,4 @@ Cecil's fear is rational within the source frame, but the Ridolfi material keeps
 - [[RidolfiPlot]] - early conspiracy exposure that shows Cecil's mixture of real danger and murky evidence.
 - [[ElizabethanRecusancySecurityState]] - institutional pattern Cecil helps build through law, surveillance, and paperwork.
 - [[TudorSuccessionCrisis]] - dynastic vulnerability that made Cecil's emergency planning and anti-Marian policy coherent.
+- [[MaryI]] - monarch under whom Cecil remained discreet while preparing to serve Elizabeth.
