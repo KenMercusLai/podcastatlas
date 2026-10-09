@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10114
+wiki_total_pages: 10117
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "AITalentCompetition"
     title: "AI Talent Competition"
     url: "/wiki/concepts/aitalentcompetition/"
+  - key: "AITaskSubstitutionReliabilityBoundary"
+    title: "AI Task-Substitution Reliability Boundary / AI 任务替代可靠性边界"
+    url: "/wiki/concepts/aitasksubstitutionreliabilityboundary/"
   - key: "AITasteSimulation"
     title: "AI Taste Simulation"
     url: "/wiki/concepts/aitastesimulation/"

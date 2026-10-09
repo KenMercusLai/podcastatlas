@@ -4839,6 +4839,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/aitalk/"
     },
+    "AITaskSubstitutionReliabilityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/aitasksubstitutionreliabilityboundary/"
+    },
     "AITrading": {
       "episode_count": 1,
       "show_count": 1,
@@ -48770,6 +48786,36 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/communityledsaasgrowth/"
     },
+    "CommunityVsContentPlatform": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 ｜ 中国互联网故事25 [1003510980].md",
+          "key": "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25",
+          "url": "/wiki/sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980/"
+        },
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/communityvscontentplatform/"
+    },
     "CompanionAnimalAttachment": {
       "episode_count": 1,
       "show_count": 1,
@@ -81182,9 +81228,9 @@
       "url": "/wiki/concepts/expertrubricverification/"
     },
     "ExpertiseAmplifiedAIUse": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP242 独立游戏，是一条搞钱好赛道吗？ [lrqbZrCEumbuGGzuERo5QB4Jv3zu].md",
@@ -81206,9 +81252,16 @@
           "show": "三五环",
           "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
           "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        },
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/expertiseamplifiedaiuse/"
     },
     "ExplainableAILending": {
@@ -146596,6 +146649,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/linchangqiang/"
     },
+    "LinFanMaimai": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/linfanmaimai/"
+    },
     "LinJiajunPediatrician": {
       "episode_count": 2,
       "show_count": 1,
@@ -159432,6 +159508,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/maifredadapirovano/"
+    },
+    "Maimai": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/maimai/"
     },
     "MainEffortFlankContainment": {
       "episode_count": 1,
@@ -200021,6 +200120,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/professionalfightersleague/"
+    },
+    "ProfessionalNetworkCareerCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/professionalnetworkcareercapital/"
     },
     "ProfessionalServicesBillableHour": {
       "episode_count": 1,
@@ -252953,6 +253068,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/verifiableintent/"
+    },
+    "VerifiedPseudonymousWorkplaceCommunity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNH85zAgRQ-QRMH58I [GKwRIDoNH85zAgRQ-QRMH58I].md",
+          "key": "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i",
+          "show": "三五环",
+          "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+          "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/verifiedpseudonymousworkplacecommunity/"
     },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,

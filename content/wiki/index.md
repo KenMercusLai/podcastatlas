@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？](sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i.md) — 三五环对谈脉脉创始人林凡，讨论实名底座的昵称社区、职场人脉、招聘变化，以及由输出下限、容错率和任务拆解决定的 AI 任务替代边界。
 - [629. WWI: The Christmas Truce](sources/629-wwi-the-christmas-truce-glt5393732684.md) — The Rest Is History separates genuine but localized 1914 fraternization from organized-football and anti-war legend, showing humanity and continued commitment to fight coexisting.
 - [影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头](sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352.md) — 罗永浩的十字路口 interview with Insta360 founder Liu Jingkang on applied making, panoramic-camera workflows, hardware production, drones, AI imaging, competition, and creation under public-company responsibility.
 - [3 如何称呼东西方的帝王：从“恺撒”到“官家”](sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt.md) — 怪东西比较君主正式头衔、他称与自称，连接礼仪、继承、纪年、领地和翻译，并拒绝把中西制度强行一一对应。
@@ -11067,8 +11068,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keep / Keep Fitness](entities/KeepFitness.md) — Fitness app/community case where training plans, check-ins, medals, and lifestyle commerce turn a tool into a community loop.
 - [王宁 / Wang Ning](entities/WangNingKeep.md) — Keep founder used by episode 214 to illustrate utility-product-to-community development.
 - [LOFTER](entities/LOFTER.md) — NetEase light-blog product that became a fan creation and tagging community.
-- [脉脉 / Maimai](entities/Maimai.md) — Workplace networking and anonymous-discussion community with professional identity, disclosure value, and governance risk.
-- [林凡 / Lin Fan](entities/LinFanMaimai.md) — Maimai founder linked to professional networking and anonymous workplace community design.
+- [脉脉 / Maimai](entities/Maimai.md) — 中国职场平台，以招聘、社区和职业社交结合实名验证底座与昵称表达，并面对可信度、隐私和治理张力。
+- [林凡 / Lin Fan](entities/LinFanMaimai.md) — 脉脉创始人兼 CEO，提出职场人脉价值与以输出下限、容错率和任务拆解理解 AI 替代的框架。
 - [即刻 / Jike](entities/Jike.md) — Interest-alert product that evolved community features and later connects to Xiaoyuzhou's podcast-platform lineage.
 - [糗事百科 / Qiushi Baike](entities/QiushiBaike.md) — PC-era humor community used as a predecessor to later mobile comedy/comment communities.
 - [皮皮虾 / PipiXia](entities/PipiXia.md) — ByteDance humor successor product that did not reproduce Neihan Duanzi's community influence in the source account.
@@ -17296,6 +17297,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区](concepts/VerifiedPseudonymousWorkplaceCommunity.md) — Public nickname expression backed by private identity and employment verification, preserving workplace voice while retaining privacy and governance risks.
+- [Professional-Network Career Capital / 职业人脉资本](concepts/ProfessionalNetworkCareerCapital.md) — Career value accumulated through maintained ties, visible competence, occupational reputation, and repeated contribution when open applications become less effective.
+- [AI Task-Substitution Reliability Boundary / AI 任务替代可靠性边界](concepts/AITaskSubstitutionReliabilityBoundary.md) — Task-level automation boundary shaped by output-floor reliability, error cost, reviewability, decomposition, and domain data rather than peak model capability alone.
 - [Capture Now, Reframe Later / 先记录后取景](concepts/CaptureNowReframeLater.md) — Panoramic-imaging workflow that records broadly first and moves viewpoint selection, composition, and camera movement into later software editing.
 - [Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟](concepts/HardwarePrototypeToProductionGap.md) — Operating distance between a working device demo and repeatable, reliable, supportable, economically viable mass production.
 - [Mission-Led Category Adjacency / 使命驱动的品类邻接](concepts/MissionLedCategoryAdjacency.md) — Expansion into a neighboring category when the same customer mission and transferable capabilities justify the risk under commercial and governance constraints.
@@ -22697,7 +22701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Foreign Corrupt Practices Act](concepts/ForeignCorruptPracticesAct.md) — U.S. anti-bribery law connected by the source to Lockheed-era overseas payments and post-Watergate investigations.
 - [Chinese PC Internet Communities / 中文 PC 互联网社区](concepts/ChinesePCInternetCommunities.md) — Episode 212 umbrella for Douban, Zhihu, Baidu Tieba, and Hupu as PC-era communities built from relationships, norms, identity, and shared memory.
 - [Online Community Commercialization Friction / 社区商业化摩擦](concepts/OnlineCommunityCommercializationFriction.md) — Why pure relationship communities resist ads,导购, paid services, algorithmic feeds, and heavy platform intervention.
-- [Community vs Content Platform / 社区与内容平台区别](concepts/CommunityVsContentPlatform.md) — Episode 212 distinction between relationship-based communities and media-like content consumption platforms.
+- [Community vs Content Platform / 社区与内容平台区别](concepts/CommunityVsContentPlatform.md) — Distinction between relationship-, identity-, and memory-led systems and mass content-distribution logic, including professional-network weak ties.
 - [Keyword Community Architecture / 关键词社区架构](concepts/KeywordCommunityArchitecture.md) — Baidu Tieba pattern where search keywords become community containers for long-tail interests and identities.
 - [Mobile Community Fragmentation Risk / 移动社区入口碎片化风险](concepts/MobileCommunityFragmentationRisk.md) — Douban case where splitting PC-community functions across many mobile apps weakened daily-use continuity.
 - [Knowledge Community Creator Incentives / 知识社区创作者激励](concepts/KnowledgeCommunityCreatorIncentives.md) — Zhihu case where invitation status, creator recognition, paid knowledge, and subsidy competition strained platform-community alignment.

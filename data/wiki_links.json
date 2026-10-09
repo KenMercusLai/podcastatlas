@@ -5767,6 +5767,10 @@
     "title": "AI Talk",
     "url": "/wiki/entities/aitalk/"
   },
+  "AITaskSubstitutionReliabilityBoundary": {
+    "title": "AI Task-Substitution Reliability Boundary / AI 任务替代可靠性边界",
+    "url": "/wiki/concepts/aitasksubstitutionreliabilityboundary/"
+  },
   "AITasteSimulation": {
     "title": "AI Taste Simulation",
     "url": "/wiki/concepts/aitastesimulation/"
@@ -67811,6 +67815,10 @@
     "title": "Professional Fighters League",
     "url": "/wiki/entities/professionalfightersleague/"
   },
+  "ProfessionalNetworkCareerCapital": {
+    "title": "Professional-Network Career Capital / 职业人脉资本",
+    "url": "/wiki/concepts/professionalnetworkcareercapital/"
+  },
   "ProfessionalServicesBillableHour": {
     "title": "Professional Services Billable Hour",
     "url": "/wiki/concepts/professionalservicesbillablehour/"
@@ -86631,6 +86639,10 @@
     "title": "Verifiable Intent / 可验证意图",
     "url": "/wiki/concepts/verifiableintent/"
   },
+  "VerifiedPseudonymousWorkplaceCommunity": {
+    "title": "Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区",
+    "url": "/wiki/concepts/verifiedpseudonymousworkplacecommunity/"
+  },
   "Verizon": {
     "title": "Verizon",
     "url": "/wiki/entities/verizon/"
@@ -99946,6 +99958,10 @@
   "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980": {
     "title": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25",
     "url": "/wiki/sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980/"
+  },
+  "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i": {
+    "title": "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
+    "url": "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
   },
   "no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625": {
     "title": "No.213 景德镇往事：千年“世界瓷都”的前世今生",

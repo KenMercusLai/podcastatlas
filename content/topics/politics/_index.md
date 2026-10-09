@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3249
+topic_total_pages: 3250
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4333,6 +4333,9 @@ topic_concepts:
   - key: "VentureDebtOperationalRisk"
     title: "Venture Debt Operational Risk"
     url: "/wiki/concepts/venturedebtoperationalrisk/"
+  - key: "VerifiedPseudonymousWorkplaceCommunity"
+    title: "Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区"
+    url: "/wiki/concepts/verifiedpseudonymousworkplacecommunity/"
   - key: "VeteranMeritCliqueSupervision"
     title: "Veteran Merit-Clique Supervision / 功臣旧将监督"
     url: "/wiki/concepts/veteranmeritcliquesupervision/"

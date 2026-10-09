@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 10114
+wiki_total_pages: 10117
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "VerifiableIntent"
     title: "Verifiable Intent / 可验证意图"
     url: "/wiki/concepts/verifiableintent/"
+  - key: "VerifiedPseudonymousWorkplaceCommunity"
+    title: "Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区"
+    url: "/wiki/concepts/verifiedpseudonymousworkplacecommunity/"
   - key: "VernacularIndustrialism"
     title: "Vernacular Industrialism"
     url: "/wiki/concepts/vernacularindustrialism/"

@@ -10685,6 +10685,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AITaskSubstitutionReliabilityBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AITasteSimulation": [
     {
       "key": "technology",
@@ -88695,6 +88702,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "VerifiedPseudonymousWorkplaceCommunity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Verizon": [
     {
       "key": "technology",
@@ -101314,6 +101328,13 @@
     }
   ],
   "no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i": [
     {
       "key": "technology",
       "label": "Technology",

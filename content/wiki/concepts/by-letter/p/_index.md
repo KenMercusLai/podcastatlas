@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10114
+wiki_total_pages: 10117
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2105,6 +2105,9 @@ wiki_pages:
   - key: "ProfessionalWearableMoat"
     title: "Professional Wearable Moat"
     url: "/wiki/concepts/professionalwearablemoat/"
+  - key: "ProfessionalNetworkCareerCapital"
+    title: "Professional-Network Career Capital / 职业人脉资本"
+    url: "/wiki/concepts/professionalnetworkcareercapital/"
   - key: "ProfitAndCashFlowQuality"
     title: "Profit And Cash Flow Quality"
     url: "/wiki/concepts/profitandcashflowquality/"

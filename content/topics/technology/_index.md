@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3403
+topic_total_pages: 3405
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -970,6 +970,9 @@ topic_concepts:
   - key: "AITalentCompetition"
     title: "AI Talent Competition"
     url: "/wiki/concepts/aitalentcompetition/"
+  - key: "AITaskSubstitutionReliabilityBoundary"
+    title: "AI Task-Substitution Reliability Boundary / AI 任务替代可靠性边界"
+    url: "/wiki/concepts/aitasksubstitutionreliabilityboundary/"
   - key: "AITasteSimulation"
     title: "AI Taste Simulation"
     url: "/wiki/concepts/aitastesimulation/"
@@ -9561,6 +9564,9 @@ topic_sources:
   - key: "no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189"
     title: "No.211 徽商往事：从前世不修到最牛风投"
     url: "/wiki/sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189/"
+  - key: "no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i"
+    title: "No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？"
+    url: "/wiki/sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i/"
   - key: "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437"
     title: "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27"
     url: "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
