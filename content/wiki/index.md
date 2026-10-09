@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [629. WWI: The Christmas Truce](sources/629-wwi-the-christmas-truce-glt5393732684.md) — The Rest Is History separates genuine but localized 1914 fraternization from organized-football and anti-war legend, showing humanity and continued commitment to fight coexisting.
 - [影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头](sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352.md) — 罗永浩的十字路口 interview with Insta360 founder Liu Jingkang on applied making, panoramic-camera workflows, hardware production, drones, AI imaging, competition, and creation under public-company responsibility.
 - [3 如何称呼东西方的帝王：从“恺撒”到“官家”](sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt.md) — 怪东西比较君主正式头衔、他称与自称，连接礼仪、继承、纪年、领地和翻译，并拒绝把中西制度强行一一对应。
 - [630. Tchaikovsky: LIVE at the Royal Albert Hall](sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309.md) — The Rest Is History live episode on Tchaikovsky's Russian and European formation, sexuality, marriage, patronage, celebrity, death, and resistance to reductive biography.
@@ -4305,6 +4306,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/essentials-how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim8309533836.md) — Condensed Huberman Lab interview on lifestyle-first hormone assessment, context-dependent testosterone and PCOS interpretation, TRT sleep and fertility risk, prolactin, and peptide safety.
 
 ## Entities
+- [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
 - [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
 - [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
 - [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以高密度怪物、藤术重复、灵异暧昧和终局解围争议连接雮尘珠解码与昆仑路线。

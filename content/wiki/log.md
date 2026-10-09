@@ -33802,3 +33802,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 629. WWI: The Christmas Truce
+
+Added source `629-wwi-the-christmas-truce-glt5393732684`; created [[HenryWilliamson]]; and resynthesized [[ChristmasTruce1914]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the 1914 truces were genuine but local and uneven; practical pauses, seasonal ritual, proximity, burials, exchanges, and occasional informal football enabled human recognition without producing a general rejection of the war. No settled contradiction was adopted. Organized-match stories, participation estimates, dialogue, exact mileage, and cultural-causation claims remain source-scoped, and the episode's British-German focus does not establish French, Belgian, German, or Eastern Front experience in equal depth. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,232 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

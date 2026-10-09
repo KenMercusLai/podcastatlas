@@ -6254,6 +6254,13 @@
       "url": "/topics/history/"
     }
   ],
+  "629-wwi-the-christmas-truce-glt5393732684": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "63-hitler-with-ian-kershaw-part-1-glt1996418919": [
     {
       "key": "history",
@@ -42762,6 +42769,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HenryWilliamson": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HenryYin": [
