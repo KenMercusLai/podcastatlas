@@ -3635,6 +3635,10 @@
     "title": "62. Magna Carta",
     "url": "/wiki/sources/62-magna-carta-glt5613809659/"
   },
+  "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737": {
+    "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
+    "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+  },
   "629-wwi-the-christmas-truce-glt5393732684": {
     "title": "629. WWI: The Christmas Truce",
     "url": "/wiki/sources/629-wwi-the-christmas-truce-glt5393732684/"
@@ -20118,6 +20122,10 @@
   "Coinbase": {
     "title": "Coinbase",
     "url": "/wiki/entities/coinbase/"
+  },
+  "ColdCaseSuspectEvaluation": {
+    "title": "Cold-Case Suspect Evaluation",
+    "url": "/wiki/concepts/coldcasesuspectevaluation/"
   },
   "ColdChainCPGConstraint": {
     "title": "Cold-Chain CPG Constraint",
@@ -54098,6 +54106,10 @@
   "MachineZone": {
     "title": "Machine Zone",
     "url": "/wiki/concepts/machinezone/"
+  },
+  "MacnaghtenMemorandum": {
+    "title": "Macnaghten Memorandum",
+    "url": "/wiki/entities/macnaghtenmemorandum/"
   },
   "MacroAssetExpression": {
     "title": "Macro Asset Expression",

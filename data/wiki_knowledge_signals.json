@@ -47066,6 +47066,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/coinbase/"
     },
+    "ColdCaseSuspectEvaluation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3796910737 [GLT3796910737].md",
+          "key": "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737",
+          "show": "The Rest Is History",
+          "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
+          "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/coldcasesuspectevaluation/"
+    },
     "ColdExposureDoseAndSafety": {
       "episode_count": 6,
       "show_count": 1,
@@ -128716,6 +128732,36 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/jackruby/"
     },
+    "JackTheRipper": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT3796910737 [GLT3796910737].md",
+          "key": "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737",
+          "show": "The Rest Is History",
+          "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
+          "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jacktheripper/"
+    },
     "JackieFisher": {
       "episode_count": 1,
       "show_count": 1,
@@ -159272,6 +159318,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/machinelearningbiologyexperimentdesign/"
+    },
+    "MacnaghtenMemorandum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3796910737 [GLT3796910737].md",
+          "key": "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737",
+          "show": "The Rest Is History",
+          "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
+          "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/macnaghtenmemorandum/"
     },
     "Madagascar": {
       "episode_count": 2,
@@ -255399,6 +255461,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/walterraleigh/"
+    },
+    "WalterSickert": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "50.开膛手杰克结案报告：女法医的争议之作 [630666604].md",
+          "key": "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604",
+          "show": "蜜獾吃书",
+          "title": "50.开膛手杰克结案报告：女法医的争议之作",
+          "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+        },
+        {
+          "episode_file": "GLT3796910737 [GLT3796910737].md",
+          "key": "628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737",
+          "show": "The Rest Is History",
+          "title": "628. Jack The Ripper: The Killer Unmasked (Part 5)",
+          "url": "/wiki/sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/waltersickert/"
     },
     "WalterUlbricht": {
       "episode_count": 2,

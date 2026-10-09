@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [628. Jack The Ripper: The Killer Unmasked (Part 5)](sources/628-jack-the-ripper-the-killer-unmasked-part-5-glt3796910737.md) — The Rest Is History tests famous, conspiratorial, police-backed, and local Jack the Ripper suspects, favoring an unidentified local-worker profile while preserving the absence of proof.
 - [Transform Pain & Trauma Into Creative Expression | David Choe](sources/transform-pain-trauma-into-creative-expression-david-choe-scim4316318313.md) — Huberman Lab interview on art, shame, gambling, workaholism, self-sabotage, substituted compulsion, relational recovery, and choosing connection over legacy.
 - [No.213 对谈脉脉林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？](sources/no-213-duitan-maimai-linfan-dang-zhaogongzuo-tairongyi-de-shidai-jieshu-zhihou-zhichang-zhengzai-fasheng-shenme-bianhua-gkwridonh85zagrq-qrmh58i.md) — 三五环对谈脉脉创始人林凡，讨论实名底座的昵称社区、职场人脉、招聘变化，以及由输出下限、容错率和任务拆解决定的 AI 任务替代边界。
 - [629. WWI: The Christmas Truce](sources/629-wwi-the-christmas-truce-glt5393732684.md) — The Rest Is History separates genuine but localized 1914 fraternization from organized-football and anti-war legend, showing humanity and continued commitment to fight coexisting.
@@ -4309,6 +4310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.190不是所有痕迹都需要立刻被修正，给身体一点时间，也给自己一点信心ft.「大物是也」小龙/Under](sources/vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5.md) — 这病说来话长 episode on scar maturation, sustainable silicone care, surrounding-skin support, specialist escalation, and realistic visibility and acceptance goals.
 
 ## Entities
+- [Macnaghten Memorandum](entities/MacnaghtenMemorandum.md) — 1894 police suspect memorandum whose three names preserve institutional suspicion while its no-proof concession limits attribution.
 - [David Choe](entities/DavidChoe.md) — Artist and media creator whose profile connects care and creative risk with shame-driven achievement, process addiction, self-sabotage, help-seeking, and recovery.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
 - [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
@@ -14863,7 +14865,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Databricks](entities/Databricks.md) — Enterprise data platform used in the Hightouch episode to frame the gap between stored customer data and production marketing workflows.
 - [David Clements](entities/DavidClements.md) — Leadership coach credited by Kashish Gupta with the idea that founders may be the only people who can afford to be wrong.
 - [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
-- [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in her Jack the Ripper theory but treated by the episode as suspicious rather than proven.
+- [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in a culturally influential but evidentially weak Jack the Ripper theory.
 - [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting suspect mythology, victim stigma, Victorian poverty, and policing practice.
 - [《开膛手杰克结案报告》](entities/JackTheRipperCaseClosed.md) — Patricia Cornwell book that argues Walter Sickert was Jack the Ripper while exposing the limits of old forensic evidence.
 - [Mary Ann Nichols](entities/MaryAnnNichols.md) — Whitechapel victim whose biography grounds the episode's shift from murder spectacle to Victorian women's precarity.
@@ -17299,6 +17301,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Real](entities/TerryReal.md) — Therapist and public educator framing healthy masculinity through adaptable strength, vulnerability, accountability, connection, and relational repair.
 
 ## Concepts
+- [Cold-Case Suspect Evaluation](concepts/ColdCaseSuspectEvaluation.md) — Comparison of suspect alibi, access, geography, behavior, method, and provenance without turning narrative fit or plausibility into identification.
 - [Workaholism as Socially Rewarded Addiction](concepts/WorkaholismAsSociallyRewardedAddiction.md) — Compulsive work used for escape, intensity, validation, or self-worth while productivity and service conceal harm and loss of choice.
 - [Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区](concepts/VerifiedPseudonymousWorkplaceCommunity.md) — Public nickname expression backed by private identity and employment verification, preserving workplace voice while retaining privacy and governance risks.
 - [Professional-Network Career Capital / 职业人脉资本](concepts/ProfessionalNetworkCareerCapital.md) — Career value accumulated through maintained ties, visible competence, occupational reputation, and repeated contribution when open applications become less effective.

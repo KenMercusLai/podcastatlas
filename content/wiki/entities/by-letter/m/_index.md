@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12931
+wiki_total_pages: 12932
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "MachineIntelligenceResearchInstitute"
     title: "Machine Intelligence Research Institute"
     url: "/wiki/entities/machineintelligenceresearchinstitute/"
+  - key: "MacnaghtenMemorandum"
+    title: "Macnaghten Memorandum"
+    url: "/wiki/entities/macnaghtenmemorandum/"
   - key: "MacRabbit"
     title: "MacRabbit"
     url: "/wiki/entities/macrabbit/"
