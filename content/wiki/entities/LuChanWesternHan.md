@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1
   - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv
   - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0
+  - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9
 last_updated: 2026-10-09
 ---
 
@@ -18,6 +19,8 @@ last_updated: 2026-10-09
 
 [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] places Lü Chan beside [[LuLuWesternHan|吕禄]] in Lu Zhi's final security arrangement. He remains with the southern army rather than attend the funeral, helping maintain immediate order while concentrating armed power in Lü-family hands.
 
+[[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]] supplies the arrangement's pre-death logic. Lu Zhi reportedly appoints Lü Chan chancellor and commander of the Southern Army, warns that ministers oppose Lü-family kingship, and orders him to remain with the force and protect the palace rather than attend her funeral. The account does not independently establish his authority, intent, or acceptance of that strategy.
+
 [[zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv|Hanji 207 part 1]] begins after Lü Chan has been killed and treats his death as the turning point after which [[ZhouBo|周勃]]'s side arrests and kills the wider Lü household. It therefore supplies the consequence of his defeat without reconstructing the confrontation or independently verifying every target and procedure.
 
 [[zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0|Hanji 206 part 2]] fills that operational gap. After receiving a warning about coordination among Guan Ying, Qi, and Chu, Lü Chan reportedly moves toward Weiyang Palace without knowing that Lü Lu has surrendered the Northern Army. Gate control prevents him from entering the inner palace; Liu Zhang arrives with troops, attacks after a standoff, and kills him. The episode presents Lü Chan as intending a palace coup, but that motive and the exact action remain source-attributed.
@@ -25,7 +28,7 @@ last_updated: 2026-10-09
 ## Key Characteristics
 
 - Lü-family figure holding the southern army after Lu Zhi's death.
-- Executor of a funeral-period security arrangement in Chang'an.
+- Executor of a funeral-period security arrangement designed around anticipated ministerial resistance in Chang'an.
 - Participant in an alleged clan coup plan that the episode reports but does not independently verify.
 - Actor whose information lag leaves him approaching the palace after the Northern Army has changed hands.
 - Anti-Lü target blocked by palace-gate control and killed by Liu Zhang's force.
@@ -34,6 +37,7 @@ last_updated: 2026-10-09
 ## Evidence
 
 Capital military position:
+- [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]] reports Lu Zhi's chancellorial and Southern Army appointments, warning about ministerial opposition, and order not to leave command for her funeral.
 - [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] assigns Lü Chan the southern army and says he remains on guard during the funeral.
 
 Reported coup context:
@@ -45,12 +49,11 @@ Post-defeat consequence:
 
 ## Qualifications
 
-This profile now has an episode-level reconstruction of Lü Chan's final movement but not an independently verified one. His offices, personal decisions, knowledge of the Northern Army transfer, intent to stage a coup, chronology, palace access, force sizes, weather, combat, hiding place, death, wider death list, and legal procedure remain episode-attributed. Hanji 205 announces source problems without analyzing them, and Hanji 207 supplies consequences rather than verification.
+This profile has an episode-level reconstruction of Lü Chan's appointment and final movement but not an independently verified one. The deathbed wording, his offices, personal decisions, knowledge of the Northern Army transfer, intent to stage a coup, chronology, palace access, force sizes, weather, combat, hiding place, death, wider death list, and legal procedure remain episode-attributed. Hanji 205 part 2 announces source problems without analyzing them, and Hanji 207 supplies consequences rather than verification.
 
 ## What Changed
 
-- Added the palace-gate sequence, information lag, confrontation with Liu Zhang, and reported killing.
-- Clarified why Lü Chan's death functions as the transition from contested military control to wider family liquidation.
+- Added the pre-death chancellorial and Southern Army assignments, ministerial-threat assessment, and order to maintain uninterrupted command.
 
 ## Relationships
 

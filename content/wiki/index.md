@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）](sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9.md) — 吕后临终以吕禄、吕产分掌长安南北军并警告大臣反吕风险；节目提出狂犬病解释，但狗咬、症状链与确诊证据均不足。
+- [《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）](sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd.md) — 刘恢在吕氏联姻、监控与宠妾被毒后自杀；刘泽则经军功、联姻与田子春的内廷通道谋求由侯升王。
 - [640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)](sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972.md) — The Rest Is History episode on Cannae's incomplete political conversion, Roman crisis discipline, Capua, and the siege of Syracuse.
 - [E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50.md) — 硅谷101 follow-up on Accio Work, real ecommerce task evaluation, model–harness–context architecture, model routing, long-horizon business execution, and retained human judgment.
 - [How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Reed Montague](sources/scim3970994914-scim3970994914.md) — Huberman Lab interview on temporal-difference learning, dopamine-serotonin opponent dynamics, conscious-human neuromodulator measurement, delayed reward, and biological reinforcement learning's AI lineage.
@@ -4228,6 +4230,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [赵王刘恢 / Liu Hui (King of Zhao, Western Han)](entities/LiuHuiZhaoKingWesternHan.md) — 被改封赵王并置于吕氏婚姻与家庭监控中的西汉宗室。
+- [田子春 / Tian Zichun (Western Han)](entities/TianZichunWesternHan.md) — 为刘泽谋求王爵并通过儿子搭建宦官接近路线的齐国游士。
 - [Syracuse / 叙拉古](entities/Syracuse.md) — Strategic Sicilian Greek city whose change of alignment leads to Archimedean defense and Roman conquest.
 - [Archimedes / 阿基米德](entities/Archimedes.md) — Syracusan mathematician and engineer whose machines delay the Roman siege while later legend adds a doubtful death ray.
 - [Marcus Claudius Marcellus / 马库斯·克劳狄乌斯·马塞勒斯](entities/MarcusClaudiusMarcellus.md) — Roman commander who adapts after failed assaults and captures Syracuse.
@@ -20347,7 +20351,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sport as Reconciliation Ritual](concepts/SportAsReconciliationRitual.md) — Use of a major sporting event to stage shared identity across recently divided communities.
 - [Multilingual National Anthem Formation](concepts/MultilingualNationalAnthemFormation.md) — Anthem design pattern where multiple languages or song traditions represent a plural political community.
 - [Founding Commander Suspicion Management / 建国将领消疑](concepts/FoundingCommanderSuspicionManagement.md) — Founding-state trust pattern where powerful military families, reward expectations, summons, and court-service signals decide whether local force becomes rebellion risk.
-- [帝王死因史料推断 / Imperial Death-Cause Inference](concepts/ImperialDeathCauseInference.md) — Historiographic method for reading sparse imperial death notices with supplementary symptom and workload evidence without turning inference into diagnosis.
+- [帝王死因史料推断 / Imperial Death-Cause Inference](concepts/ImperialDeathCauseInference.md) — Historiographic method for testing sparse death notices, symptoms, reported exposures, and workload evidence without turning pattern compatibility into diagnosis.
 - [继位亲族安抚与隔离 / Accession Kinship Containment](concepts/AccessionKinshipContainment.md) — Succession-risk pattern where a new ruler uses privacy, sequencing, reassurance, distance, and ritual order to contain vulnerable or dangerous royal kin.
 - [太子主动辞位自保 / Crown-Prince Voluntary Withdrawal](concepts/CrownPrinceVoluntaryWithdrawal.md) — Succession-risk pattern where an established heir repeatedly asks to leave the crown-prince position after remaining heir becomes more dangerous than yielding the claim.
 - [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern where false targets, bait, visible weakness, feigned retreat, identity confusion, or scarcity traps move an enemy into disadvantage.

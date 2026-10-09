@@ -45563,9 +45563,9 @@
       "url": "/wiki/concepts/coercedconsentunderslavery/"
     },
     "CoercedImperialMarriage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
@@ -45580,9 +45580,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
     "CoercedPraiseConformityRisk": {
@@ -119332,9 +119339,9 @@
       "url": "/wiki/concepts/imperialconstructionoverload/"
     },
     "ImperialDeathCauseInference": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
@@ -119342,9 +119349,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1） [loYAahDX4SVUDLgWWQ5wW_fCj8f9].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/imperialdeathcauseinference/"
     },
     "ImperialDeathConcealment": {
@@ -121774,6 +121788,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/injuryrecoveryadherence/"
+    },
+    "InnerCourtAccessBrokerageRisk": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案 [lqx14UZF60Oi6wNnzDKOtTd6Kx1N].md",
+          "key": "zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/innercourtaccessbrokeragerisk/"
     },
     "InnerDemonSymbolicReading": {
       "episode_count": 2,
@@ -146006,6 +146050,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/liuhujibeikingwesternhan/"
     },
+    "LiuHuiZhaoKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liuhuizhaokingwesternhan/"
+    },
     "LiuJiJiaodongKingWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -148932,9 +148992,9 @@
       "url": "/wiki/entities/liuyundongpingkingwesternhan/"
     },
     "LiuZeLangyeKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1） [liOLyhn4i9_NuhXBM_srpoMOxAxB].md",
@@ -148942,6 +149002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
         }
       ],
       "updated": "2026-10-09",
@@ -151939,9 +152006,9 @@
       "url": "/wiki/entities/lubodewesternhan/"
     },
     "LuChanWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
@@ -151963,6 +152030,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1） [loYAahDX4SVUDLgWWQ5wW_fCj8f9].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
         }
       ],
       "updated": "2026-10-09",
@@ -152214,9 +152288,9 @@
       "url": "/wiki/entities/lukuandogbloodcase/"
     },
     "LuLuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
@@ -152238,6 +152312,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1） [loYAahDX4SVUDLgWWQ5wW_fCj8f9].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
         }
       ],
       "updated": "2026-10-09",
@@ -152458,9 +152539,9 @@
       "url": "/wiki/entities/luyuxin/"
     },
     "LuZhi": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 2,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -152594,6 +152675,13 @@
           "show": "怪东西Weird History",
           "title": "20 东西方的强力皇后：吕后与狄奥多拉",
           "url": "/wiki/sources/20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1） [loYAahDX4SVUDLgWWQ5wW_fCj8f9].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
         }
       ],
       "updated": "2026-10-09",
@@ -192125,9 +192213,9 @@
       "url": "/wiki/concepts/postrebellionaccountability/"
     },
     "PostRegencyInsideOutsideMobilization": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（2） [ltgWFdHN9cDwphudY0bLyh36fge1].md",
@@ -192156,6 +192244,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》206｜诛吕安刘：史上第一灭门案（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1） [loYAahDX4SVUDLgWWQ5wW_fCj8f9].md",
+          "key": "zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9/"
         }
       ],
       "updated": "2026-10-09",
@@ -239653,6 +239748,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tianyulatehan/"
+    },
+    "TianZichunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2） [lrs7h5Hhj0m0OIxD6gw8FLQpi0nD].md",
+          "key": "zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/tianzichunwesternhan/"
     },
     "TiananmenCrackdown1989": {
       "episode_count": 1,

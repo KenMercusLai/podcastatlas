@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-207-liubang-xiaoyizi-lvxu-bei-gunsha-1-lsrs42rb8-qref1eevqdnhe3mufv
   - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-2-lpsj8exoquanifh7njkrhqszrhkh0
   - zizhi-tongjian-hanji-206-zhu-lv-an-liu-shishang-diyi-miemen-an-1-liolyhn4i9_nuhxbm_srpomoxaxb
+  - zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9
 last_updated: 2026-10-09
 ---
 
@@ -17,7 +18,9 @@ last_updated: 2026-10-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] supplies a single Western Han case after [[LuZhi|吕雉]]'s death. [[LuLuWesternHan|吕禄]] and [[LuChanWesternHan|吕产]] hold the capital's northern and southern armies; [[LiuZhangChengyangKingWesternHan|刘章]] and [[LiuXingjuWesternHan|刘兴居]] are positioned as internal allies; and [[LiuXiangQiKingWesternHan|刘襄]] turns Qi's dynastic rank, territory, and reorganized offices into external pressure.
+[[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]] now supplies the pre-crisis design. [[LuZhi|吕雉]] reportedly recognizes ministerial opposition to Lü-family kingship, assigns [[LuLuWesternHan|吕禄]] and [[LuChanWesternHan|吕产]] the capital's northern and southern armies, and forbids them to leave command even for her funeral. The coercive center is therefore not merely inherited by accident after her death; in the episode's account, it is a deliberate continuity plan built for the anticipated succession threat.
+
+[[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] supplies the immediate Western Han crisis after her death. Lü Lu and Lü Chan hold those forces; [[LiuZhangChengyangKingWesternHan|刘章]] and [[LiuXingjuWesternHan|刘兴居]] are positioned as internal allies; and [[LiuXiangQiKingWesternHan|刘襄]] turns Qi's dynastic rank, territory, and reorganized offices into external pressure.
 
 The mechanism depends on more than shared hostility. Information must cross faction lines, the outside ruler must neutralize dissent within his own administration, and mobilization must be translated into a legitimacy claim capable of attracting other princes and ministers. The source calls this an anti-Lü restoration of Liu rule, but its announced doubts about the transmitted account require keeping the exact coordination and intentions provisional.
 
@@ -31,7 +34,7 @@ The coalition also has a stopping problem. Once the capital side kills Lü Chan 
 
 ## Key Claims
 
-- Capital military control can preserve short-term order while making succession depend on who can detach or outflank those forces.
+- A regent can pre-position capital military control for posthumous continuity, yet the same arrangement can make succession depend on who detaches or outflanks those forces.
 - Household intelligence and personal friendship can open channels across rival political blocs.
 - An outside claimant may have to neutralize internal resistance and absorb neighboring force before public mobilization becomes credible.
 - Restoration language can recruit broad support while leaving the coalition's intended successor unresolved.
@@ -42,6 +45,7 @@ The coalition also has a stopping problem. Once the capital side kills Lü Chan 
 ## Evidence
 
 Capital coercive control:
+- [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9|Hanji 205 part 1]] presents the northern and southern commands as Lu Zhi's deliberate response to expected ministerial resistance and orders both holders to remain at their posts through the funeral.
 - [[zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-2-ltgwfdhn9cdwphudy0blyh36fge1|Hanji 205 part 2]] assigns the northern and southern armies to Lü Lu and Lü Chan during Lu Zhi's funeral.
 
 Information and inside-outside coordination:
@@ -65,13 +69,11 @@ Demobilization and settlement control:
 
 ## Counterevidence & Qualifications
 
-The concept rests on four linked popular-history episode summaries. Hanji 205 says its Shiji-derived narrative contains unresolved flaws, and Hanji 206 part 1 offers a skeptical motive reading without a transmitted-text comparison. The sources therefore do not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, Liu Xiang's accession intent, Liu Ze's motives, exact coordination, Wei Bo's motives, or that territorial grievance was decisive. Hanji 206 part 2 adds operational detail but does not independently verify seals, tallies, dialogue, unanimous troop response, palace authorization, weather, or combat. Hanji 207's demobilization and candidate-selection account also does not show that the outside force had no bargaining power at all. The model describes the episode's political mechanism, not a universal law of succession.
+The concept rests on five linked popular-history episode summaries. Hanji 205 part 1 does not independently verify the appointments, deathbed wording, or exact threat assessment; part 2 says its Shiji-derived narrative contains unresolved flaws; and Hanji 206 part 1 offers a skeptical motive reading without a transmitted-text comparison. The sources therefore do not prove the alleged Lü coup, the accuracy of the intelligence channel, a fully formed court coalition, Liu Xiang's accession intent, Liu Ze's motives, exact coordination, Wei Bo's motives, or that territorial grievance was decisive. Hanji 206 part 2 adds operational detail but does not independently verify seals, tallies, dialogue, unanimous troop response, palace authorization, weather, or combat. Hanji 207's demobilization and candidate-selection account also does not show that the outside force had no bargaining power at all. The model describes the episode's political mechanism, not a universal law of succession.
 
 ## What Changed
 
-- Added coercive regional consolidation through Liu Ze's detention and the absorption of Langye's troops.
-- Added Guan Ying's strategic non-engagement as a way external pressure matters without an open battle.
-- Qualified shared restoration language by separating tactical cooperation from the unresolved succession end state.
+- Added the deliberate pre-death military continuity plan that creates the coercive starting position later challenged by the inside-outside coalition.
 
 ## Related Concepts
 

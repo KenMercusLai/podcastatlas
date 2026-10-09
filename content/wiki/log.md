@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-09] ingest | 《资治通鉴·汉纪》205｜女皇帝吕雉，竟然因狗而死？（1）
+
+Added source `zizhi-tongjian-hanji-205-nvhuangdi-lvzhi-jingran-yin-gou-er-si-1-loyaahdx4svudlgwwq5ww_fcj8f9` and resynthesized [[LuZhi|吕雉]], [[LuLuWesternHan|吕禄]], [[LuChanWesternHan|吕产]], [[PostRegencyInsideOutsideMobilization|摄政终结后的内外合击动员]], and [[ImperialDeathCauseInference|帝王死因史料推断]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Lu Zhi's reported final arrangement deliberately concentrates Chang'an's northern and southern armies under Lü Lu and Lü Chan because she anticipates ministerial resistance after her death, creating the coercive starting position for the later inside-outside coalition; the episode's rabies explanation remains a retrospective hypothesis because no confirmed bite, infected animal, wound, complete clinical course, or contemporaneous diagnosis is supplied. No settled contradiction was adopted. The spirit account, dates, offices, force sizes, flood figures, symptoms, mental state, quotations, age, burial timing, and deathbed wording remain episode-attributed or source-scoped. Minor relatives, title recipients, and Changling were kept without new canonical pages because the bounded additions are represented in the focused source, people, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,159 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
 ## [2026-10-09] ingest | 640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)
 
 Added source `640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972`; created [[Syracuse]], [[Archimedes]], [[MarcusClaudiusMarcellus]], and [[BattleOfCannae]]; and resynthesized [[HannibalBarca]], [[QuintusFabiusMaximus]], [[ScipioAfricanus]], and [[SecondPunicWar]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Cannae destroyed a Roman army but did not provide siege capacity, automatic negotiation, or enough durable allied defection to collapse Rome; Roman crisis discipline kept the state in the war, while Syracuse's fall closed a Carthaginian opening in Sicily. No settled contradiction was adopted. The Maharbal exchange, force and casualty totals, motives, ritual measures, factional details, siege chronology, Archimedean machines, and death scenes remain source-scoped, while the mirror death ray is explicitly rejected as probable history. Broad [[RomanRepublic]], [[Carthage]], and [[FirstPunicWar]] pages were kept closed because the bounded additions are represented in the focused source, people, city, battle, and war pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,157 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
@@ -33209,6 +33213,18 @@ Added source `scim3970994914-scim3970994914`; created [[ReedMontague]], [[HumanN
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 《资治通鉴·汉纪》202｜历史上因冷暴力被饿死的人是他（2）
+
+Added source `zizhi-tongjian-hanji-202-lishishang-yin-lengbaoli-bei-esi-de-ren-shi-ta-2-lrs7h5hhj0m0oixd6gw8flqpi0nd`; created [[LiuHuiZhaoKingWesternHan|赵王刘恢]] and [[TianZichunWesternHan|田子春]]; and resynthesized [[LiuZeLangyeKingWesternHan|琅邪王刘泽]], [[CoercedImperialMarriage|强制赐婚]], and [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: nominal royal rank does not protect Liu Hui from an imposed marriage that functions as household surveillance and control, while Liu Ze's rise is presented as a combination of military merit, Lü-family marriage, high office, money, reputation, and son-mediated eunuch access. No settled contradiction was adopted. The title's "cold violence starvation" framing does not match the body, which says Liu You was previously starved and Liu Hui died by suicide after his favored concubine was poisoned. Motives, exact offices and rewards, household surveillance, poisoning, succession punishment, payment, dialogue, and the unfinished causal link between Tian's access strategy and Liu Ze's kingship remain episode-attributed. Broad [[LuZhi|吕雉]], [[LuChanWesternHan|吕产]], [[FanKuai|樊哙]], [[LuXuWesternHan|吕媭]], and show pages were kept closed because the bounded additions are represented in the focused source, people, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,158 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-09] lint | Wiki health check
 
