@@ -3231,14 +3231,14 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 25,
-      "topic_matched_source_note_count": 17,
+      "source_note_count": 26,
+      "topic_matched_source_note_count": 18,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 9
+          "source_note_count": 10
         },
         {
           "key": "technology",

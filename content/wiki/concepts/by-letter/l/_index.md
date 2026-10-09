@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10143
+wiki_total_pages: 10146
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "LongTailModelHosting"
     title: "Long-Tail Model Hosting"
     url: "/wiki/concepts/longtailmodelhosting/"
+  - key: "LongTakeTemporalEmbodiment"
+    title: "Long-Take Temporal Embodiment / 长镜头的时间具身"
+    url: "/wiki/concepts/longtaketemporalembodiment/"
   - key: "LongTermAchievementDiscipline"
     title: "Long-Term Achievement Discipline / 长期成事纪律"
     url: "/wiki/concepts/longtermachievementdiscipline/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12981
+wiki_total_pages: 12985
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "RestoreBritain"
     title: "Restore Britain"
     url: "/wiki/entities/restorebritain/"
+  - key: "ResurrectionBiGanFilm"
+    title: "Resurrection / 《狂野时代》"
+    url: "/wiki/entities/resurrectionbiganfilm/"
   - key: "Reuters"
     title: "Reuters"
     url: "/wiki/entities/reuters/"

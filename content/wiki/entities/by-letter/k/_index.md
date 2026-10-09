@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12981
+wiki_total_pages: 12985
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "Kailas"
     title: "Kailas / 凯乐石"
     url: "/wiki/entities/kailas/"
+  - key: "KailiBluesFilm"
+    title: "Kaili Blues / 《路边野餐》"
+    url: "/wiki/entities/kailibluesfilm/"
   - key: "KaimingHe"
     title: "Kaiming He"
     url: "/wiki/entities/kaiminghe/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10143
+wiki_total_pages: 10146
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2495,6 +2495,9 @@ wiki_pages:
   - key: "ArtReproductionAndCirculation"
     title: "Art Reproduction and Circulation"
     url: "/wiki/concepts/artreproductionandcirculation/"
+  - key: "ArtFilmDeferredLegibility"
+    title: "Art-Film Deferred Legibility / 艺术电影的延迟可理解性"
+    url: "/wiki/concepts/artfilmdeferredlegibility/"
   - key: "ArthurianLegendAccretion"
     title: "Arthurian Legend Accretion"
     url: "/wiki/concepts/arthurianlegendaccretion/"

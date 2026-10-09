@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12981
+wiki_total_pages: 12985
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "LondonCollegeOfCommunication"
     title: "London College of Communication"
     url: "/wiki/entities/londoncollegeofcommunication/"
+  - key: "LongDaysJourneyIntoNightFilm"
+    title: "Long Day's Journey into Night / 《地球最后的夜晚》"
+    url: "/wiki/entities/longdaysjourneyintonightfilm/"
   - key: "LongKesh"
     title: "Long Kesh"
     url: "/wiki/entities/longkesh/"

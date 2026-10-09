@@ -33809,7 +33809,7 @@ Added source `defining-healthy-masculinity-how-to-build-it-terry-real-scim273362
 
 ## [2026-10-10] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health, identity, deterministic, and graph-aware lint checks. Semantic checks were unavailable because `LLM_MODEL` was not configured with a provider-qualified LiteLLM model. The lint report was printed but not saved.
 
 ## [2026-10-10] ingest | 623. The Nazis at War: Churchill's Finest Hour (Part 4)
 
@@ -34076,6 +34076,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] ingest | 086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？
 
 Added source `086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible`; created [[MyDateWithAVampire|《我和僵尸有个约会》]], [[APingMyDateWithAVampire|阿平]], [[PingMaMyDateWithAVampire|平妈]], [[PPMyDateWithAVampire|P.P.]], [[MaXiaoling|马小玲]], [[KuangTianyou|况天佑]], [[MoralPrincipleEmpathyGap|道德原则与具体共情落差]], and [[UrbanizedSupernaturalWorldbuilding|都市化灵异世界构建]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]], [[ParentalProjectionControl|父母投射式控制]], and [[ParentalRepairAfterHarm|父母伤害后的修复]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ping Ma's love becomes destructive when moral labeling and sacrifice language deny A Ping an adult self; his early kindness does not prevent obedience from becoming complicity, while P.P.'s concrete empathy and confrontation make acknowledgment possible. The arc also modernizes folk-occult material through professional tool cases, cosmetic-like ritual objects, elevators, office-dressed underworld agents, and apartment infrastructure. No settled contradiction was adopted. The reconciliation is retained as a fictional emotional resolution rather than evidence that apology alone repairs murder, coercion, or prolonged abuse; 三破日, ghost and corpse categories, power scaling, tactical rules, motives, romance, and authorial intent remain fictional, host-reported, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,266 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 36 unrelated pre-existing broken wikilinks.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 导演毕赣×罗永浩！清醒、深刻、独一无二的造梦者
+
+Added source `daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhsut9wu8n73dbdyhps50ymyf9wa`; created [[BiGan|毕赣]], [[KailiBluesFilm|《路边野餐》]], [[LongDaysJourneyIntoNightFilm|《地球最后的夜晚》]], [[ResurrectionBiGanFilm|《狂野时代》]], [[ArtFilmDeferredLegibility|艺术电影的延迟可理解性]], [[LongTakeTemporalEmbodiment|长镜头的时间具身]], and [[PersonalizedFilmIndustrialization|个性化电影工业]]; and resynthesized [[AuthorCommercialFilmBalance|作者表达与商业电影平衡]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: purposeful viewing obstacles can acquire force through later recombination, long takes can bind spectator duration to character action and feeling, and industrial capacity serves authored cinema only when reflection, rehearsal, performance trust, distinct aesthetic systems, and whole-film judgment govern throughput. No settled contradiction was adopted. Budgets, box office, licensing cost, festival causality, shooting counts, private motives, audience effects, and production anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,267 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-10] lint | Wiki health check
 

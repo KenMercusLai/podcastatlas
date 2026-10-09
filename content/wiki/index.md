@@ -4338,6 +4338,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Master the Creative Process | Twyla Tharp](sources/master-the-creative-process-twyla-tharp-scim5167372935.md) — Huberman Lab interview on creative spine, schedule-first discipline, embodied judgment, internal standards, live performance, and adaptive artistic longevity.
 - [Essentials: The Science of Making & Breaking Habits](sources/essentials-the-science-of-making-breaking-habits-scim6067841582.md) — Condensed Huberman Lab episode on initiation friction, procedural rehearsal, task bracketing, state-matched placement, sleep consolidation, context independence, and post-habit replacement.
 - [Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery](sources/using-red-light-to-improve-metabolism-the-harmful-effects-of-leds-dr-glen-jeffery-scim4265461474.md) — Huberman Lab interview on red and near-infrared light, mitochondrial and systemic signaling hypotheses, age-related vision and glucose findings, indoor spectral balance, and strict device and evidence boundaries.
+- [导演毕赣×罗永浩！清醒、深刻、独一无二的造梦者](sources/daoyan-bigan-luoyonghao-qingxing-shenke-duyiwuer-de-zaomengzhe-lhsut9wu8n73dbdyhps50ymyf9wa.md) — 罗永浩对谈毕赣，以凯里成长、三部长片、观看障碍、长镜头时间、演员安全感与个性化电影工业连接作者表达和观众距离。
 
 ## Entities
 - [《我和僵尸有个约会》 / My Date with a Vampire](entities/MyDateWithAVampire.md) — 以佳佳大厦篇连接都市邻里、家庭控制、僵尸鬼怪、现代化法器与道歉和解的香港灵异剧。
@@ -17378,6 +17379,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张衍山 / Zhang Yanshan](entities/ZhangYanshan.md) — Shenzhen psychological therapist explaining road-rage triggers, mediated driving interaction, attention risk, and practical regulation.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 - [Glen Jeffery](entities/GlenJeffery.md) — UCL neuroscience researcher connecting retinal aging, mitochondrial responses, systemic red-light hypotheses, and indoor spectral balance.
+- [Bi Gan / 毕赣](entities/BiGan.md) — Kaili-born filmmaker translating memory, literature, duration, place, and abstract feeling into increasingly industrial authored film systems.
+- [Kaili Blues / 《路边野餐》](entities/KailiBluesFilm.md) — Small-team first feature joining Kaili locations, fragmented information, original music, and extended duration into an authored experience.
+- [Long Day's Journey into Night / 《地球最后的夜晚》](entities/LongDaysJourneyIntoNightFilm.md) — Bi Gan project marking a difficult transition from small-team filmmaking into formal industrial production.
+- [Resurrection / 《狂野时代》](entities/ResurrectionBiGanFilm.md) — Six-part sensory film joining multiple aesthetic systems, star performance, long-take preparation, and whole-film editing.
 
 ## Concepts
 - [Moral Principle–Empathy Gap / 道德原则与具体共情落差](concepts/MoralPrincipleEmpathyGap.md) — 抽象道德类别与对具体人的处境、尊严、动机及受害后果之间发生脱节的判断模式。
@@ -27595,5 +27600,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Internal Worth and Accountability](concepts/InternalWorthAccountability.md) — Distinguishes basic human worth from conduct evaluation so regret and repair need not become shame collapse.
 - [Road Rage and Driving Emotion / 路怒与驾驶情绪](concepts/RoadRageAndDrivingEmotion.md) — Driving-safety framework separating ordinary anger from impaired judgment and unsafe action across personal, road, and system conditions.
 - [Indoor Light Spectrum Balance](concepts/IndoorLightSpectrumBalance.md) — Built-environment hypothesis evaluating light by spectral composition as well as brightness and efficiency, with explicit human-evidence and safety limits.
+- [Art-Film Deferred Legibility / 艺术电影的延迟可理解性](concepts/ArtFilmDeferredLegibility.md) — Use of initial ambiguity, slowness, or fragmentation as material whose structure and emotional force emerge through later recombination.
+- [Long-Take Temporal Embodiment / 长镜头的时间具身](concepts/LongTakeTemporalEmbodiment.md) — Continuous screen duration used to align spectator time with character action, space, performance, light, and emotional change.
+- [Personalized Film Industrialization / 个性化电影工业](concepts/PersonalizedFilmIndustrialization.md) — Production capacity organized to preserve distinctive authored systems instead of standardizing them.
 
 ## Syntheses
