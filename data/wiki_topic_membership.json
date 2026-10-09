@@ -130,6 +130,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "1-greatness-glt2583338621": [
     {
       "key": "history",
@@ -43565,6 +43572,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HistoriographicalFounderCriteria": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HistoriographicalPresentism": [

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2659
+topic_total_pages: 2661
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -670,6 +670,9 @@ topic_concepts:
   - key: "HistoricalWorldviewReconstruction"
     title: "Historical Worldview Reconstruction"
     url: "/wiki/concepts/historicalworldviewreconstruction/"
+  - key: "HistoriographicalFounderCriteria"
+    title: "Historiographical Founder Criteria / 史学奠基者标准"
+    url: "/wiki/concepts/historiographicalfoundercriteria/"
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
@@ -5025,6 +5028,9 @@ topic_sources:
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"
     url: "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+  - key: "1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867"
+    title: "1 东西方历史的祖师爷：从希罗多德到司马迁"
+    url: "/wiki/sources/1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867/"
   - key: "1-greatness-glt2583338621"
     title: "1. Greatness"
     url: "/wiki/sources/1-greatness-glt2583338621/"

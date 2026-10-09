@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [1 东西方历史的祖师爷：从希罗多德到司马迁](sources/1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867.md) — 怪东西以希罗多德、修昔底德、孔子、司马迁与班固比较探寻、政治分析、道德载道、作者判断和可传承形式，说明“史学之父”取决于所采用的奠基标准。
 - [626. Jack The Ripper: The Killer Strikes Again (Part 3)](sources/626-jack-the-ripper-the-killer-strikes-again-part-3-glt7980605076.md) — The Rest Is History reconstructs the double event, victim precarity, police overload, evidence-public-safety tradeoffs, and the media machinery that gave the unknown killer a public persona.
 - [导演大鹏×罗永浩！我这两辈子](sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt.md) — 罗永浩与大鹏回溯集安童年、搜狐与网络视频、电影作者转型、承诺伦理，以及票房、评分和奖项压力。
 - [627. Jack The Ripper: From Hell (Part 4)](sources/627-jack-the-ripper-from-hell-part-4-glt6270048402.md) — The Rest Is History reconstructs Mary Jane Kelly's uncertain life and murder, then traces how press, fiction, medicine, detection, and psychiatry made Jack the Ripper a modern myth.
@@ -17326,6 +17327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [Historiographical Founder Criteria / 史学奠基者标准](concepts/HistoriographicalFounderCriteria.md) — 将“史学之父”拆分为探寻、政治分析、道德教化、作者综合与制度可复制性等不同奠基标准。
 - [Career Promise Beyond Contract / 超越退出条款的职业承诺](concepts/CareerPromiseBeyondContract.md) — Distinction between using a lawful priced exit and treating an original term of service as a stricter relational promise.
 - [Belief-Grounded Storytelling / 信念落地的叙事](concepts/BeliefGroundedStorytelling.md) — Film-craft principle that creators and performers must believe characters and situations before genre technique can persuade an audience.
 - [Cold-Case Suspect Evaluation](concepts/ColdCaseSuspectEvaluation.md) — Comparison of suspect alibi, access, geography, behavior, method, and provenance without turning narrative fit or plausibility into identification.

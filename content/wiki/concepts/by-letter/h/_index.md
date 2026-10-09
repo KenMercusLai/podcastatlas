@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10123
+wiki_total_pages: 10124
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "HistoricalWorldviewReconstruction"
     title: "Historical Worldview Reconstruction"
     url: "/wiki/concepts/historicalworldviewreconstruction/"
+  - key: "HistoriographicalFounderCriteria"
+    title: "Historiographical Founder Criteria / 史学奠基者标准"
+    url: "/wiki/concepts/historiographicalfoundercriteria/"
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"

@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox
   - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-1-lv-evyqwc-pkxmtuyrbq4exvufdk
   - zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq
-last_updated: 2026-10-07
+  - 1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867
+last_updated: 2026-10-10
 ---
 
 ## Overview
@@ -29,9 +30,11 @@ Hanji 283 part 1 adds a domestic political-order register. It attributes to Ban 
 
 Hanji 767 closes the career. A servant's earlier insult gives a Luoyang magistrate a private grievance, and the wider Dou-family cleanup supplies the opportunity to imprison Ban Gu. He dies before the `Han Shu` is finished, after which Emperor He orders Ban Zhao to continue it.
 
+The Weird History comparison adds a tradition-building criterion. It contrasts Sima Qian's singular general-history ambition with Ban Gu's dynastic scope, court-bound orthodoxy, selective criticism, and more teachable structure. That does not make Ban Gu neutral or merely derivative: it makes his founder claim rest on the reproducibility of a form later historians could inherit, while the episode's “say what is true but not necessarily everything known” formula remains an interpretation of his constrained authorship rather than a verified rule he stated.
+
 ## Key Characteristics
 
-- Eastern Han historian whose current profile spans vulnerable authorship, policy commentary, moral historiography, and unfinished dynastic history.
+- Eastern Han historian whose profile spans vulnerable authorship, policy commentary, moral historiography, and a dynastic form presented as reproducible despite the work remaining unfinished at his death.
 - Ban-family continuator who inherits Ban Biao's project before imperial recognition stabilizes the work.
 - Commentator who preserves both the strategic rationale and extraction cost of Han Wudi's frontier program.
 - Attributed voice for a Jizi-and-customs narrative that links official conduct, commerce, law, and social trust.
@@ -49,18 +52,16 @@ Hanji 767 closes the career. A servant's earlier insult gives a Luoyang magistra
 - Youxia character qualification: [[zizhi-tongjian-hanji-283-shixuejia-bangu-wei-shenme-ba-youxia-dang-huohai-2-ltgj5ff7m94eltx3onkka1uvt0kq|Hanji 283 part 2]] repeats the gentleness, filiality, aid, humility, and courtesy that make侠义之士 attractive while preserving the public-authority objection.
 - Private grievance and prison death: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says an old servant-magistrate grievance is activated during the Dou-family purge and Ban Gu dies in prison.
 - Continuation order: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue the unfinished work.
+- Dynastic form and founder criterion: [[1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867]] argues that Ban Gu's structure and technique were easier to inherit than Sima Qian's personal synthesis, while qualifying his relation to Han legitimacy and historical silence.
 
 ## Qualifications
 
-This remains a source-bounded profile, not a complete Ban Gu biography or textual study of the `Han Shu`. Hanji 366-2 and both Hanji 283 parts paraphrase evaluative passages rather than supplying a critical edition. Part 2 attributes most of its systematic “three wanderers” critique to Xun Yue despite its Ban Gu title, so that material is not silently reassigned here. The Jizi, custom, sexuality, ethnic-character, merchant, and legal-count claims require source criticism and are not adopted as timeless population facts. Hanji 283's hierarchy-to-youxia genealogy, quotations, character portrait, and approval of Guo Jie's punishment likewise require primary-text comparison and do not independently prove legal guilt or proportionality. The exact charges in Ban Gu's arrests, full authorship history, and wider offices remain outside this evidence set.
+This remains a source-bounded profile, not a complete Ban Gu biography or textual study of the `Han Shu`. Hanji 366-2 and both Hanji 283 parts paraphrase evaluative passages rather than supplying a critical edition. Part 2 attributes most of its systematic “three wanderers” critique to Xun Yue despite its Ban Gu title, so that material is not silently reassigned here. The Jizi, custom, sexuality, ethnic-character, merchant, and legal-count claims require source criticism and are not adopted as timeless population facts. Hanji 283's hierarchy-to-youxia genealogy, quotations, character portrait, and approval of Guo Jie's punishment likewise require primary-text comparison and do not independently prove legal guilt or proportionality. The exact charges in Ban Gu's arrests, full authorship history, wider offices, motive for selective narration, and comparison with Thucydides remain outside this evidence set.
 
 ## What Changed
 
-- Added the Jizi-and-customs passage as evidence of Ban Gu's moral historiographical register.
-- Narrowed its reusable claim to institutional example, commercial conduct, social trust, and legal response.
-- Marked broad ethnic and gender generalizations as transmitted historiography rather than current judgment.
-- Added the youxia appraisal as a second moral-political register separating personal virtue from legitimate public authority.
-- Preserved part 2's renewed praise of侠义 character while separating Ban Gu's appraisal from Xun Yue's wider programmatic critique.
+- Added institutional reproducibility as the episode's strongest basis for Ban Gu's founder claim.
+- Preserved the tension between a durable dynastic form, court legitimacy, selective criticism, and incomplete disclosure.
 
 ## Relationships
 
@@ -76,3 +77,4 @@ This remains a source-bounded profile, not a complete Ban Gu biography or textua
 - [[GuoJieWesternHan|郭解]] - Western Han case through which Ban Gu's attributed order-centered judgment becomes concrete.
 - [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - political frame joining independent loyalty networks to centralized concern over public authority.
 - [[DeathPartyLoyalty|死党之义与守职奉上]] - duty conflict in which private friendship can displace office and ruler.
+- [[HistoriographicalFounderCriteria]] - framework distinguishing Ban Gu's reproducible dynastic form from Sima Qian's singular general-history authorship.

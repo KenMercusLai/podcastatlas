@@ -9,7 +9,8 @@ sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
   - 98-thermopylae-salamis-episode-1-glt3813381992
   - 7-the-lessons-of-history-glt2771707131
-last_updated: 2026-10-04
+  - 1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,6 +38,8 @@ The battle episode then relies on the Greek narrative tradition for the hidden p
 
 The lessons-of-history episode adds a reception centered on pattern rather than source method. It draws from Herodotus a recurring movement in which poor, hard peoples on the margins conquer wealthy centers and are then softened by success. The hosts treat this as a suggestive historical rhyme comparable to Ibn Khaldun's center-periphery pattern, not a universal law capable of predicting every society.
 
+The Weird History comparison makes his founder status explicitly criterion-dependent. It emphasizes travel, inquiry, named or qualified testimony, preservation of competing versions, ethnographic range, and willingness to place Greek and non-Greek achievement in one narrative. Its defense of marvels is limited: implausible reports are not verified facts, but recording them with source boundaries can preserve ancient knowledge limits and cultural imagination that a later rationalizing filter might erase.
+
 ## Key Characteristics
 
 - Herodotus applies inquiry, attributed testimony, comparison, and explicit uncertainty to recent human events.
@@ -59,14 +62,16 @@ The lessons-of-history episode adds a reception centered on pattern rather than 
 - Campaign narrative and reputation: [[99-thermopylae-salamis-episode-2-glt9857497334]] depends on the Greek tradition for Thermopylae and Salamis while noting Herodotus' comparatively limited emphasis on Themistocles.
 - Persian-centered perspective and source absence: [[98-thermopylae-salamis-episode-1-glt3813381992]] links Halicarnassus and the "custom is king" comparison to cross-cultural imagination while stressing that no comparable Persian narrative survives.
 - Pattern reception: [[7-the-lessons-of-history-glt2771707131]] attributes to Herodotus a margin-to-center conquest and softening pattern while explicitly qualifying its universality.
+- Founder criteria and retained uncertainty: [[1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867]] treats inquiry, variant reports, cross-cultural range, and the preservation of marvels as historiographical achievements without converting implausible reports into verified fact.
 
 ## Qualifications
 
-The sources do not provide a complete biography, textual history, or independent audit of every claim in *The Histories*. Herodotus's travels, performance context, intended audience, marvelous reports, campaign speeches, intelligence episodes, Persian viewpoint, and allocation of individual credit remain source-scoped, while the dedicated episode's admiration requires the same source criticism it praises. The margin-to-center pattern is an interpretive compression, not a tested universal cycle.
+The sources do not provide a complete biography, textual history, or independent audit of every claim in *The Histories*. Herodotus's travels, performance context, intended audience, marvelous reports, campaign speeches, intelligence episodes, Persian viewpoint, and allocation of individual credit remain source-scoped, while the dedicated episodes' admiration requires the same source criticism they praise. The claim that his multicultural environment produced cosmopolitanism is plausible but not demonstrated causation, and the margin-to-center pattern is an interpretive compression rather than a tested universal cycle.
 
 ## What Changed
 
-- Added a qualified pattern-reading branch without promoting it to deterministic historical law.
+- Added founder status as a criterion-dependent judgment grounded in inquiry, attributed testimony, cultural range, and preservation of uncertainty.
+- Clarified that marvels can preserve historical knowledge boundaries without becoming verified events.
 
 ## Relationships
 
@@ -84,3 +89,4 @@ The sources do not provide a complete biography, textual history, or independent
 - [[ImperialRiseDeclineCycle]] - warning pattern applied to Persia and then to Athens.
 - [[HistoricalLearningWithoutPrediction]] - guardrail for using Herodotean recurrence without turning it into forecast law.
 - [[Thucydides]] - ancient historian paired with Herodotus in the episode's debate over lessons and contingency.
+- [[HistoriographicalFounderCriteria]] - framework explaining why Herodotus's inquiry and cultural range support one kind of founding claim.

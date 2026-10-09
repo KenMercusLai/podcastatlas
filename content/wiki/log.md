@@ -33906,3 +33906,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 1 东西方历史的祖师爷：从希罗多德到司马迁
+
+Added source `1-dongxifang-lishi-de-zushiye-cong-xiluoduode-dao-simaqian-lrpay8q4h2epyehgwgfvl_uj867`; created [[HistoriographicalFounderCriteria|史学奠基者标准]]; and resynthesized [[Herodotus]], [[Thucydides]], [[Confucius|孔子]], [[SimaQian|司马迁]], and [[BanGuEasternHan|班固]] before appending the new source once. Core synthesis: a historiographical “founder” label depends on whether priority, investigation, political analysis, moral instruction, authored general history, or reproducible institutional form is being rewarded; individual originality and tradition-building can therefore point to different figures. No settled contradiction was adopted. Herodotus's marvels, Thucydides's reconstructed speeches, Confucius's relation to the *Spring and Autumn Annals*, Sima Qian's sage-like self-conception, Ban Gu's motives and silences, and the cross-civilizational pairings remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,245 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
