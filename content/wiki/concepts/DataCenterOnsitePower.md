@@ -11,7 +11,8 @@ sources:
   - tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305
   - tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128
-last_updated: 2026-09-30
+  - all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935
+last_updated: 2026-10-09
 ---
 
 # Data Center Onsite Power
@@ -23,6 +24,8 @@ Data center onsite power is the pattern where a data-center developer generates,
 The page now synthesizes onsite power as a deployment workaround, a competitiveness policy, and an industrial constraint shift. Earlier sources show concrete forms: Crusoe's Abilene mix of substation access, onsite gas, and batteries; Caterpillar generators used as primary power; Redwood second-life batteries for off-grid supply; and Helion's speculative fusion-at-customer-site route. The latest All-In source adds the macro pressure: if U.S. electricity capacity is tight and PJM auctions signal scarcity, behind-the-meter power becomes a way for AI data centers to add net supply rather than only compete with households.
 
 The current judgment is that onsite power compresses grid-delay risk but does not eliminate energy politics. It moves the bottleneck from utility interconnection to turbines, batteries, fuel, emissions, noise, maintenance, siting, and public legitimacy. Its strongest strategic role appears when projects add genuinely incremental power, avoid cost shifting, and do not treat grid robustness as proof that nearby quality-of-life costs have disappeared.
+
+The January All-In episode adds a policy-administration account: Sacks says hyperscalers were planning colocated, behind-the-meter generation and that federal energy regulators were being directed to ease those arrangements. This reinforces the deployment route but remains a participant's description of policy and company plans rather than evidence of completed capacity or ratepayer outcomes.
 
 ## Key Claims
 - Onsite power can shorten deployment timelines when interconnection queues are too slow for AI compute demand.
@@ -41,6 +44,7 @@ The current judgment is that onsite power compresses grid-delay risk but does no
 - Speculative clean route: [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] presents Helion's plan for generators placed directly at data centers, factories, and manufacturing sites.
 - Scarcity and siting claim: [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305]] links behind-the-meter power to PJM supply stress, possible long-run U.S. power shortages, and premium pricing for energizable data-center sites.
 - Community tradeoff: [[tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128]] says onsite generation may make the grid more robust while natural-gas turbines still produce pollution and substantial noise.
+- Colocation and regulatory route: [[all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935]] describes hyperscaler plans for colocated generation and a federal effort to ease behind-the-meter deployment.
 
 ## Counterevidence & Qualifications
 Onsite power can make local electricity constraints less visible without making them disappear. Gas plants still need fuel and emissions approval and can create serious noise; batteries need charging and lifecycle management; fusion and small modular reactors remain source-described future routes rather than routine data-center options. Grid stability and neighborhood acceptability are separate tests.
@@ -50,6 +54,7 @@ The All-In macro power-shortage and PJM claims are source-scoped. They are usefu
 ## What Changed
 - Added the distinction between grid robustness and neighborhood pollution or noise.
 - Clarified that natural-gas speed can solve an interconnection problem while worsening the community-consent problem.
+- Added the source-scoped federal regulatory and hyperscaler-planning route for colocated generation.
 
 ## Related Concepts
 - [[AIEnergyBottleneck]] - macro constraint onsite power attempts to compress.

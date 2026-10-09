@@ -8,6 +8,7 @@ sources:
   - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
   - e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0
   - all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980
+  - all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935
 last_updated: 2026-10-09
 ---
 
@@ -18,6 +19,8 @@ Cerebras is an AI-chip and systems company whose wafer-scale, SRAM-rich architec
 
 ## Current Profile
 Cerebras's strongest case is product latency. When deep research, coding, guardrails, or reasoning chains require many serial calls, faster token generation can keep users in flow and make more complex workflows practical. The company sells both on-premise systems and cloud access, and the newest source names [[OpenAI]] and [[Cognition]] as customers or counterparties.
+
+The newly ingested January episode is earlier than the rest of the bounded record. It reports an OpenAI capacity agreement worth more than $10 billion and up to 750 megawatts over three years and presents Cerebras as one part of a multi-chip strategy. Later sources strengthen the customer relationship but do not independently validate those exact commercial terms.
 
 The same integrated design that creates bandwidth also concentrates engineering and economic risk. Yield, defective-region routing, cooling, packaging, IO, memory capacity, system cost, power delivery, and workload fit determine whether wafer-scale speed becomes competitive token economics.
 
@@ -34,6 +37,7 @@ The same integrated design that creates bandwidth also concentrates engineering 
 - Memory-hierarchy position: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] places wafer-scale SRAM within a hierarchy that still faces capacity, IO, cost, and cooling limits.
 - Manufacturing and economics: [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] explains decode bandwidth, wafer yield, defective-core bypass, packaging, power, and token-cost tradeoffs.
 - Products and deployment: [[all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980]] describes system pricing, cloud access, Cognition use, OpenAI capacity, cooling, power, and multi-year infrastructure delivery.
+- Early OpenAI agreement report: [[all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935]] reports the value, duration, and megawatt scale of an OpenAI-Cerebras capacity agreement and attributes the latency advantage to compute-memory locality.
 
 ## Qualifications
 System size, transistor count, comparative speed, pricing, purchase orders, megawatts, backlog, yield, and cost figures are source- or company-attributed. The sources do not supply a common independent benchmark against GPUs, TPUs, Groq, or HanaPino across identical models, batch sizes, latency targets, utilization, and total cost.
@@ -42,6 +46,7 @@ System size, transistor count, comparative speed, pricing, purchase orders, mega
 - Added on-premise and cloud delivery models plus named workload examples.
 - Connected wafer-scale performance to power, cooling, and multi-year infrastructure execution.
 - Preserved manufacturing and workload-fit limits against the newest performance claims.
+- Added the January agreement report as an early, source-scoped commercial milestone later reinforced only at the relationship level.
 
 ## Relationships
 - [[AndrewFeldman]] - CEO articulating the company's architecture and market case.

@@ -37228,9 +37228,9 @@
       "url": "/wiki/concepts/cerebellarprediction/"
     },
     "Cerebras": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
@@ -37259,6 +37259,13 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
       "updated": "2026-10-09",
@@ -57007,9 +57014,9 @@
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterCostShifting": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 5,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
@@ -57101,15 +57108,22 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/datacentercostshifting/"
     },
     "DataCenterOnsitePower": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
@@ -57159,9 +57173,16 @@
           "show": "Marketplace Tech",
           "title": "Can data centers ever be good neighbors?",
           "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/datacenteronsitepower/"
     },
     "DataCenterPowerBottleneck": {
@@ -100798,10 +100819,33 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/greekwarofindependence/"
     },
-    "GreenlandStrategicAccess": {
+    "Greenland": {
       "episode_count": 2,
       "show_count": 2,
       "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/greenland/"
+    },
+    "GreenlandStrategicAccess": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
@@ -100816,9 +100860,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/greenlandstrategicaccess/"
     },
     "GregBrockman": {
@@ -125872,9 +125923,9 @@
       "url": "/wiki/concepts/iraniancoup1953/"
     },
     "IranianDemocraticTransitionFramework": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Exiled Iranian Prince Reza Pahlavi： Transition Plan and the Fight for Iran's Freedom [40347340].md",
@@ -125882,9 +125933,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/iraniandemocratictransitionframework/"
     },
     "IraqWar": {
@@ -181017,9 +181075,9 @@
       "url": "/wiki/concepts/onnamusha/"
     },
     "OpenAIComputeStrategy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI CFO Sarah Friar： IPO, AI Rivalries, New Device, and Spending $100B+ on Compute [41508105].md",
@@ -181041,9 +181099,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/openaicomputestrategy/"
     },
     "OpenAINonprofitConversionDispute": {
@@ -208472,9 +208537,9 @@
       "url": "/wiki/entities/rexhunt/"
     },
     "RezaPahlavi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738 [default.mp3_ywr3ahjkcgo_6da70d43ac924c3b37ef826c0b7dd43e_34889738].md",
@@ -208489,9 +208554,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/rezapahlavi/"
     },
     "RezsoKasztner": {
@@ -256224,9 +256296,9 @@
       "url": "/wiki/concepts/weaknessaspoliticalliability/"
     },
     "WealthTaxLegitimacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
@@ -256255,9 +256327,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs [39764935].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/wealthtaxlegitimacy/"
     },
     "WealthTransmissionRestraint": {

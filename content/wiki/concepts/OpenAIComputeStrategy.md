@@ -7,7 +7,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105
   - all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215
   - all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595
-last_updated: 2026-10-04
+  - all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935
+last_updated: 2026-10-09
 ---
 
 # OpenAI Compute Strategy
@@ -19,6 +20,8 @@ OpenAI compute strategy is the source-scoped strategy in which [[OpenAI]] raises
 The current synthesis is that OpenAI's growth model must be read through demand, strategic focus, and capacity. In Friar's telling, user demand, enterprise adoption, video, agents, and multimodal interfaces all want more tokens than current infrastructure can deliver. The bounded All-In discussions add two stress cases: reported missed user and revenue targets raise a real demand-legibility question, while faster enterprise-coding growth at [[Anthropic]] raises a focus and monetization question for a company that also operates the large consumer [[ChatGPT]] business.
 
 The concept is not just "buy more GPUs." Friar's bottleneck list includes energy, land, power, regulation, racks, chips, memory, talent, and community trust. The later episodes sharpen the same point by contrasting announced data centers with projects actually under construction and by making turbines, transformers, grid infrastructure, public consent, and hyperscaler bargaining power part of OpenAI's strategic constraint. Multi-provider procurement diversifies counterparties, but it does not eliminate dependence when hyperscalers control scarce capacity; the new source therefore adds a conditional case for greater infrastructure control without proving that vertical ownership is cheaper or operationally superior.
+
+The January Cerebras report backfills an early concrete example of chip diversification: the hosts describe a multi-year, large-megawatt inference-capacity agreement as a complement to Nvidia and AMD supply. The commercial figures remain unverified, but the architectural direction is consistent with the later multi-cloud and multi-chip strategy.
 
 ## Key Claims
 - OpenAI's near-term growth is compute-constrained: Friar says there are not enough tokens and expects scarcity to persist through 2026 and remain tight in 2027.
@@ -36,6 +39,7 @@ The concept is not just "buy more GPUs." Friar's bottleneck list includes energy
 - Capital and pricing: [[all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105]] links OpenAI's March fundraising, future compute purchases, cloud-provider financing structures, and value-based pricing to the same capacity plan.
 - Stress-test evidence: [[all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215]] says OpenAI reportedly missed ChatGPT user and revenue targets while carrying large compute commitments, and the hosts debate whether the gap reflects consumer competition, CFO concern, or capacity constraints.
 - Focus and control evidence: [[all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595]] links the attributed [[DeniseDresser|Denise Dresser]] memo, Anthropic's enterprise-coding growth, and hyperscaler capacity control to OpenAI's need to coordinate consumer, enterprise, and infrastructure strategy.
+- Early Cerebras diversification evidence: [[all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935]] reports a three-year Cerebras capacity agreement and presents wafer-scale inference as a latency-oriented complement to Nvidia and AMD.
 
 ## Counterevidence & Qualifications
 This page is based on source-reported and host-discussed claims. It keeps the financial figures, usage counts, target misses, compute commitments, device timing, GPT-5.5 claims, and compute-availability outlook source-scoped. It does not independently verify OpenAI's fundraising, search share, partner contracts, or data-center economics.
@@ -47,6 +51,7 @@ The strategy also carries execution risk: investing ahead of demand can preserve
 - Added power, grid equipment, construction delays, and hyperscaler bargaining power as constraints on OpenAI's realized capacity.
 - Added Anthropic's coding-led growth as a strategic-focus test for OpenAI's consumer-plus-enterprise model.
 - Clarified that partner diversification reduces concentration but does not eliminate hyperscaler allocation dependence.
+- Added the source-dated Cerebras agreement as an early instance of inference-chip and capacity diversification.
 
 ## Related Concepts
 - [[AIComputeContinuity]] - broader reliability frame that OpenAI's capacity planning tries to preserve.

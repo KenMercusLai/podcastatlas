@@ -8,7 +8,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260
   - for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95
   - all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495
-last_updated: 2026-10-06
+  - all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935
+last_updated: 2026-10-09
 ---
 
 # Wealth Tax Legitimacy
@@ -22,6 +23,8 @@ Wealth-tax legitimacy is the framework for judging recurring taxes on large fort
 The bounded evidence does not support a single yes-or-no judgment. The political-power case applies even to competitively earned wealth because concentrated fortunes can buy access and influence. The justice case is stronger where wealth reflects inheritance, political favor, restricted rents, or avoidance. The economic-cost and property-rights objections become stronger where a tax reaches unrealized, illiquid, or control-sensitive founder stakes and where high-value taxpayers can change residence or business activity.
 
 The newest source extends the mobility objection from California to Washington and possible federal policy, but it remains an advocacy-heavy episode. State-level tax design faces a sharper mobility constraint than federal design, and migration evidence must distinguish announced moves, tax residence, asset location, business investment, and the counterfactual revenue path. A credible judgment therefore requires tax-base definition, valuation and liquidity rules, avoidance enforcement, mobility response, distributional incidence, and the public value financed—not only a revenue forecast or a property-seizure analogy.
+
+The January California discussion adds retroactivity and legal durability to that checklist. The hosts argue that a new levy reaching already-held assets may invite takings or other constitutional challenges, but they also acknowledge that later versions could be drafted differently. The legal claim remains source-scoped and does not replace jurisdiction-specific analysis of the actual ballot text.
 
 ## Key Claims
 
@@ -39,6 +42,7 @@ The newest source extends the mobility objection from California to Washington a
 - **California mobility risk:** [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] argues that taxing illiquid founder stakes can accelerate movement of founders, investors, and capital toward lower-tax states.
 - **Wealth-origin and political-power distinction:** [[for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95]] separates competitive wealth from inherited or rent-linked wealth while arguing that political influence can attach to either.
 - **Washington and federal extension:** [[all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495]] adds a Washington millionaire-tax discussion, Howard Schultz relocation speculation, a California fiscal simulation, and criticism of a federal annual wealth-tax proposal.
+- **Retroactivity and ballot-design objection:** [[all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935]] argues that California's proposed asset tax threatens property rights, founder retention, and legal challenge while conceding that later drafts could alter those vulnerabilities.
 
 ## Counterevidence & Qualifications
 
@@ -50,6 +54,7 @@ The All-In sources are strongly opposed to wealth taxes and offer limited treatm
 - Extended mobility analysis from California to Washington and distinguished state from federal constraints.
 - Added migration-measurement and tax-design requirements before treating capital flight as established fiscal fact.
 - Made the missing pro-tax incidence and public-benefit evidence explicit.
+- Added retroactivity, ballot design, and legal durability to the tax-design questions requiring primary legal analysis.
 
 ## Related Concepts
 

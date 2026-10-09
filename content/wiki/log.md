@@ -33538,3 +33538,11 @@ Added source `636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634`; res
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935`; migrated [[Greenland]] to `synthesis-v1`; and resynthesized [[RezaPahlavi|Reza Pahlavi]], [[Cerebras]], [[IranianDemocraticTransitionFramework]], [[GreenlandStrategicAccess]], [[OpenAIComputeStrategy]], [[DataCenterCostShifting]], [[DataCenterOnsitePower]], and [[WealthTaxLegitimacy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: removing an Iranian regime does not supply a transition state; Greenland's strategic value does not establish a need or right to own it; AI infrastructure legitimacy depends on cost allocation, incremental power, and visible household or community benefit; and the reported OpenAI-Cerebras agreement is an early, source-scoped instance of multi-chip capacity diversification. No settled contradiction was adopted. The Microsoft pledge, power and water claims, fund sizes, compute-deal terms, California legal arguments, Greenland negotiations, protest conditions, and fraud allegations remain source-attributed. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,199 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

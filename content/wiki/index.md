@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Iran's Breaking Point, Trump's Greenland Acquisition, and Solving Energy Costs](sources/all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935.md) — All-In debate on Iranian transition risk, data-center energy cost allocation, OpenAI-Cerebras capacity, California asset taxation, and Greenland strategy.
 - [636. Revolution in Iran: Fall of the Shah (Part 1)](sources/636-revolution-in-iran-fall-of-the-shah-part-1-glt5083873634.md) — The Rest Is History episode on the Shah's oil-funded modernization and repression, Carter's strategic misread, Khomeini's clerical networks, and the mourning cycle that accelerated revolution.
 - [Build Muscle & Strength & Forge Your Life Path | Dorian Yates](sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219.md) — Huberman Lab interview on Dorian Yates's low-volume high-intensity training, recovery, bodybuilding risk, competitive identity, retirement, and experiential health claims.
 - [091 《天龙八部》之“四大恶人”篇：一念成魔](sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn.md) — 纸醉金迷FM separates the four villains' conduct, trauma, attachment, responsibility, and narrative function without converting sympathy into acquittal.

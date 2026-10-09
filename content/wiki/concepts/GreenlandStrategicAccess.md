@@ -5,7 +5,8 @@ tags: [arctic, security, geopolitics, military]
 sources:
   - how-to-get-what-greenland-has-with-permission
   - all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425
-last_updated: 2026-10-07
+  - all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935
+last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Greenland strategic access is the defense and alliance problem created by Greenl
 
 [[all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425]] reinforces the distinction. [[GrahamAllison]] says U.S. missile-defense needs can be met through long leases and negotiation, while melting Arctic sea lanes increase the region's importance without making territorial acquisition necessary. Strategic access is therefore an alliance-design problem before it is an ownership problem.
 
+The January All-In episode backfills the acquisition case that the later sources qualify. Its hosts link melting ice, shipping lanes, resources, and national security to U.S. control, while [[DavidFriedberg|David Friedberg]] doubts that economics alone can overcome Danish and Greenlandic political resistance. The complete record therefore supports the strategic-value premise without establishing that ownership is needed or legitimate.
+
 ## Key Claims
 
 - Greenland's location matters for missile warning, space or air defense, and changing Arctic routes.
@@ -35,6 +38,7 @@ Greenland strategic access is the defense and alliance problem created by Greenl
 
 - [[how-to-get-what-greenland-has-with-permission]] links Greenland to Arctic routes, missile-defense geography, and U.S. access dating to 1951.
 - [[all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425]] emphasizes missile defense and opening Arctic sea lanes.
+- [[all-in-with-chamath-jason-sacks-friedberg-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs-39764935]] supplies the earlier acquisition argument based on routes, security, and resources, while acknowledging political resistance.
 
 ### Access instruments
 
@@ -50,6 +54,7 @@ The sources do not specify force posture, treaty language, costs, Greenlandic pu
 - Added long leases and negotiated framework agreements as concrete access instruments.
 - Added Allison's distinction between Arctic importance and the reduced relevance of traditional naval blockade logic.
 - Migrated the complete preserved source inventory to `synthesis-v1`.
+- Added the acquisition case as a qualified position and preserved permission-based access as the current judgment.
 
 ## Related Concepts
 
