@@ -4265,6 +4265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [No.216 手机热点如果够用，我们为什么还需要随身WiFi？](sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720.md) — 三五环 interview with ZTE product director Zhao Xin on portable mobile broadband, phone-hotspot limits, weak-signal design, RedCap, product safety, and scenario-led connectivity hardware.
 - [Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!](sources/all-in-with-chamath-jason-sacks-friedberg-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos-39852980.md) — All-In Davos interviews connecting regulated crypto, low-latency AI infrastructure, and industrial robotics through deployment, physical constraints, and ROI.
+- [No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？](sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki.md) — 三五环 interview with Li Qian on integrated brand operations, psychological positioning, self-pleasing consumption, niche audience fit, and offline relationship depth after traffic advantages fade.
 
 ## Entities
 - [University of Bologna / 博洛尼亚大学](entities/UniversityOfBologna.md) — Medieval legal-education and university-corporation case associated with jurist demand, credentialing, and negotiated privilege.
@@ -17210,6 +17211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵新 / Zhao Xin (ZTE)](entities/ZhaoXinZTE.md) — ZTE portable Wi-Fi product director explaining mobile-broadband category fit, radio engineering, product segmentation, and user-scene definition.
 - [田肯 / Tian Ken (Western Han)](entities/TianKenWesternHan.md) — 以秦中与齐国的战略地理主张重地只授皇帝子弟，并为汉初同姓王分封提供早期论证的进言者。
 - [Jake Loosararian](entities/JakeLoosararian.md) — Gecko Robotics co-founder and CEO arguing that paid industrial inspection creates the missing physical-world data needed for useful industrial AI.
+- [李倩 / Li Qian (brand consultant)](entities/LiQianBrand.md) — Brand consultant, media creator, and entrepreneur who frames branding as upstream sensing and cross-functional operating coordination.
 
 ## Concepts
 - [Clerical-Republican Dual Authority](concepts/ClericalRepublicDualAuthority.md) — Unequal state design joining elected and administrative institutions to superior clerical guardianship.
@@ -27350,5 +27352,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Portable Mobile-Broadband Fit / 随身移动宽带场景适配](concepts/PortableMobileBroadbandFit.md) — Threshold at which duration, mobility, device count, signal, power, or control justifies dedicated cellular-to-Wi-Fi hardware.
 - [Scenario-Led Connectivity Hardware / 场景驱动的连接硬件](concepts/ScenarioLedConnectivityHardware.md) — Product-definition method deriving radio, power, antenna, form factor, and service choices from concrete connectivity scenes.
+- [Integrated Brand Operations / 品牌全链路操盘](concepts/IntegratedBrandOperations.md) — Upstream brand capability connecting social and customer insight to coherent product, service, price, channel, sales, and communication decisions.
+- [Psychological Positioning / 心理定位](concepts/PsychologicalPositioning.md) — Differentiation through identity, feeling, ritual, relationship, or context when grounded in real functional and operating value.
+- [Self-Pleasing Consumption / 乐己消费](concepts/SelfPleasingConsumption.md) — Consumption and participation oriented toward personally felt comfort, embodiment, health, relationship, and meaning rather than imposed status or optimization.
 
 ## Syntheses

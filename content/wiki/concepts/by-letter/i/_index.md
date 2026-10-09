@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10068
+wiki_total_pages: 10071
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "IntegratedBipolarCare"
     title: "Integrated Bipolar Care"
     url: "/wiki/concepts/integratedbipolarcare/"
+  - key: "IntegratedBrandOperations"
+    title: "Integrated Brand Operations / 品牌全链路操盘"
+    url: "/wiki/concepts/integratedbrandoperations/"
   - key: "IntegratedCareFragmentation"
     title: "Integrated Care and System Fragmentation"
     url: "/wiki/concepts/integratedcarefragmentation/"

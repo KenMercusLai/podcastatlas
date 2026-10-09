@@ -51172,6 +51172,29 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/corestandinggroundpreservation/"
     },
+    "CoreTribePositioning": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
+          "key": "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Chris Riccobono of UNTUCKit",
+          "url": "/wiki/sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c/"
+        },
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/coretribepositioning/"
+    },
     "CoreWeave": {
       "episode_count": 5,
       "show_count": 3,
@@ -123243,6 +123266,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/integratedbipolarcare/"
     },
+    "IntegratedBrandOperations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/integratedbrandoperations/"
+    },
     "IntegratedCareFragmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -142547,6 +142586,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/linieeasternhan/"
     },
+    "LiQianBrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/liqianbrand/"
+    },
     "LiRunLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -160005,9 +160060,9 @@
       "url": "/wiki/concepts/marketingethics/"
     },
     "MarketingManagementChain": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
@@ -160015,9 +160070,16 @@
           "show": "纵横四海",
           "title": "EP85 营销管理：Mini MBA 第一课",
           "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        },
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/marketingmanagementchain/"
     },
     "MarketingScienceUserPath": {
@@ -199060,6 +199122,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/psychologicalmythmodernization/"
     },
+    "PsychologicalPositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/psychologicalpositioning/"
+    },
     "PsychologicalTimeStagecraft": {
       "episode_count": 1,
       "show_count": 1,
@@ -217393,6 +217471,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/selfexperimentation/"
+    },
+    "SelfPleasingConsumption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/selfpleasingconsumption/"
     },
     "SelfProtectiveAccessionChoice": {
       "episode_count": 2,
@@ -244404,9 +244498,9 @@
       "url": "/wiki/entities/trafalgarsquare/"
     },
     "TrafficArbitrageToBrandBuilding": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
@@ -244414,9 +244508,16 @@
           "show": "疯投圈",
           "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
           "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        },
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
     },
     "TrainingChaosManagement": {
@@ -258293,9 +258394,9 @@
       "url": "/wiki/concepts/whitlamreformprogram/"
     },
     "WholeCompanyBranding": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -258303,9 +258404,16 @@
           "show": "Tomorrow, Today",
           "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
           "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        },
+        {
+          "episode_file": "GKwRIUENRLWrAk68dARcbtki [GKwRIUENRLWrAk68dARcbtki].md",
+          "key": "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki",
+          "show": "三五环",
+          "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
+          "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/wholecompanybranding/"
     },
     "WholeEarthCatalog": {

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2221
+topic_total_pages: 2223
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5621,6 +5621,9 @@ topic_entities:
   - key: "ZhuNing"
     title: "朱宁 / Zhu Ning"
     url: "/wiki/entities/zhuning/"
+  - key: "LiQianBrand"
+    title: "李倩 / Li Qian (brand consultant)"
+    url: "/wiki/entities/liqianbrand/"
   - key: "YangTianzhen"
     title: "杨天真 / 天真"
     url: "/wiki/entities/yangtianzhen/"
@@ -6348,6 +6351,9 @@ topic_sources:
   - key: "no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322"
     title: "No.209 晋商往事：走西口到乔家大院然后煤了"
     url: "/wiki/sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322/"
+  - key: "no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki"
+    title: "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？"
+    url: "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
   - key: "no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096"
     title: "No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时｜中国互联网故事 29"
     url: "/wiki/sources/no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10068
+wiki_total_pages: 10071
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2354,6 +2354,9 @@ wiki_pages:
   - key: "PsychologicalMythModernization"
     title: "Psychological Myth Modernization / 神话心理化改编"
     url: "/wiki/concepts/psychologicalmythmodernization/"
+  - key: "PsychologicalPositioning"
+    title: "Psychological Positioning / 心理定位"
+    url: "/wiki/concepts/psychologicalpositioning/"
   - key: "PsychologicalRealism"
     title: "Psychological Realism / 心理现实主义"
     url: "/wiki/concepts/psychologicalrealism/"

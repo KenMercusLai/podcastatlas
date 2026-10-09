@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12887
+wiki_total_pages: 12888
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "LiXinQin"
     title: "李信 / Li Xin (Qin)"
     url: "/wiki/entities/lixinqin/"
+  - key: "LiQianBrand"
+    title: "李倩 / Li Qian (brand consultant)"
+    url: "/wiki/entities/liqianbrand/"
   - key: "LiJueLateHan"
     title: "李傕 / Li Jue (late Han)"
     url: "/wiki/entities/lijuelatehan/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3269
+topic_total_pages: 3270
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7949,6 +7949,9 @@ topic_entities:
   - key: "LiWuya"
     title: "李乌鸦"
     url: "/wiki/entities/liwuya/"
+  - key: "LiQianBrand"
+    title: "李倩 / Li Qian (brand consultant)"
+    url: "/wiki/entities/liqianbrand/"
   - key: "LiShangyin"
     title: "李商隐 / Li Shangyin"
     url: "/wiki/entities/lishangyin/"

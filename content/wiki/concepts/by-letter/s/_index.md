@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10068
+wiki_total_pages: 10071
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "SelfPermission"
     title: "Self-Permission / 自我许可"
     url: "/wiki/concepts/selfpermission/"
+  - key: "SelfPleasingConsumption"
+    title: "Self-Pleasing Consumption / 乐己消费"
+    url: "/wiki/concepts/selfpleasingconsumption/"
   - key: "SelfPreservationAsStateStrategy"
     title: "Self-Preservation as State Strategy / 以自保包装国策"
     url: "/wiki/concepts/selfpreservationasstatestrategy/"

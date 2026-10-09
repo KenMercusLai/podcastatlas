@@ -1405,8 +1405,8 @@
       "earliest_episode_date": "2025-12-23",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
-      "source_note_count": 18,
-      "topic_matched_source_note_count": 10,
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 11,
       "topics": [
         {
           "key": "technology",
@@ -1415,16 +1415,16 @@
           "source_note_count": 10
         },
         {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 2
+        },
+        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 2
-        },
-        {
-          "key": "economics",
-          "label": "Economics",
-          "url": "/topics/economics/",
-          "source_note_count": 1
         },
         {
           "key": "science",
