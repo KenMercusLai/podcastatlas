@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12872
+wiki_total_pages: 12874
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "PermafrostZelazny"
     title: "《永久冻土》 / Permafrost"
     url: "/wiki/entities/permafrostzelazny/"
+  - key: "PaintingThrushGuLong"
+    title: "《画眉鸟》 / The Thrush"
+    url: "/wiki/entities/paintingthrushgulong/"
   - key: "PlagueNights"
     title: "《瘟疫之夜》 / Nights of Plague"
     url: "/wiki/entities/plaguenights/"

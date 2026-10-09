@@ -8,15 +8,16 @@ sources:
   - 119-gulong-qizhongwuqi-zhi-changshengjian-zai-fengli-de-jian-ye-bi-bu-shang-xiao-lgvvjnlupv07xvbgx8bi-xw9jvwf
   - 118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj
   - 099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz
+  - 093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-07
+last_updated: 2026-10-09
 ---
 
 # 古龙 / Gu Long
 
 ## Overview
 
-古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], and [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]].
+古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], and [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]].
 
 ## Current Profile
 
@@ -28,12 +29,14 @@ The 《天涯·明月·刀》 discussion extends this method from short symbolic
 
 The [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] discussion adds an earlier [[ChuLiuxiang|楚留香]] case in which genre expectation itself becomes evidence management. Death certification, identity memory, martial skill, and a second corpse make possession provisionally credible before coordinated false death and exchanged knowledge restore a rational frame. The same novel runs an assassin mystery beside the romance scheme and gives [[XueYirenGuLong|薛衣人]] greater psychological density than its two young women. Its duel also clarifies Gu Long's recurring preference for mental leverage over force parity: “not losing” becomes a viable victory condition, while the convenient doctor and rapid martial training show again that a memorable design can exceed the credibility of its causal supports.
 
+The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary case of solving structure rather than overpowering it. An extra sword activates one fighter's two-weapon habit and breaks a coordinated formation from within, while divided tasks release hostages and alter the lineup before the clash. Its poison reversal likewise distinguishes honest testimony from correct belief: 柳无眉's suffering need not make her causal explanation true, and [[ShuiMuYinJi|水母阴姬]]'s denial need not make the suffering unreal. The admired setup contrasts with the final underwater fight, whose skin-breathing and “death kiss” mechanics again let spectacle outrun causal credibility.
+
 ## Key Characteristics
 
 - Diverges from encyclopedic wuxia through suspense, deduction, atmosphere, and mystery structure.
 - Uses hidden identities and delayed revelation to reorganize the reader's understanding of earlier action.
 - Turns martial objects into carriers of psychology and moral argument.
-- Uses characters' confidence in their own deductions as both a source of agency and a route into deception.
+- Uses confidence, habit, and involuntary response as both sources of agency and routes into deception or system disruption.
 - Uses poetic compression and recurring images to turn loneliness and violence into atmosphere, with a corresponding risk of repetition and over-explanation.
 - Favors thematic reversals whose force can exceed the plausibility or consistency of their plot setup.
 - Builds apparent impossibility by layering different kinds of proof, then lets investigation reinterpret them as coordinated human action.
@@ -66,15 +69,20 @@ The [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] discussion adds an ea
 - [[099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz]] reads 楚留香's duel with 薛衣人 as a change in victory conditions rather than proof of superior raw force.
 - [[099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz]] praises 薛衣人的 layered characterization while questioning the physician's collusion, rapid martial training, functional young women, and relational convenience of 石绣云's exit.
 
+### Formation disruption and sincere error
+
+- [[093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65]] reads the extra sword as a prepared exploit of individual habit inside a coordinated formation.
+- [[093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65]] separates 柳无眉's sincere poisoning belief from the truth of poisoning and treats the final underwater mechanics as weaker than the earlier setup.
+
 ## Qualifications
 
-The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; four focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts.
+The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; five focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
 
 ## What Changed
 
-- Added 《借尸还魂》's layered apparent-supernatural mystery and parallel assassin plot.
-- Added revised victory conditions and behavioral bluffing to the account of Gu Long's psychological method.
-- Qualified the rational reveal through its convenient physician, rapid skill acquisition, and uneven female characterization.
+- Added 《画眉鸟》's habit-triggered disruption of a coordinated sword formation.
+- Distinguished sincere testimony from accurate causal belief in the poisoning reversal.
+- Extended the recurring craft qualification from convenient reveals to implausible underwater physiology.
 
 ## Relationships
 
@@ -85,7 +93,9 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[PeacockFeatherGuLong|《孔雀翎》]] - focused work showing Gu Long's psychological and revelatory method.
 - [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]] - novel joining poetic imagery, damaged embodiment, rank, and transferable identity.
 - [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] - novel joining apparent possession, coordinated marriage escape, assassin mystery, and unequal combat.
+- [[PaintingThrushGuLong|《画眉鸟》]] - novel joining hostage leverage, formation disruption, poisoning belief, and tragic attachment.
 - [[ChuLiuxiang|楚留香]] - investigator who combines rational reconstruction, discretion, bluffing, and strategic reframing.
+- [[ShuiMuYinJi|水母阴姬]] - final opponent who joins overwhelming force to attachment and mercy.
 - [[XueYirenGuLong|薛衣人]] - master swordsman whose family burden gives the new source its richest characterization.
 - [[WuxiaIntertextualCraft]] - broader craft concept sharpened by Gu Long's divergent route.
 - [[ConfidenceAsWeapon]] - central allegory extracted from the later source.
@@ -96,3 +106,5 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[InterpretationAndOverinterpretation]] - boundary relevant to unsupported reader theories about the story.
 - [[ApparentSupernaturalMystery]] - pattern in which layered impossible proof is decomposed into coordinated ordinary acts.
 - [[NonDefeatAsVictory]] - asymmetric strategy that makes survival and restraint meaningful forms of success.
+- [[HabitTriggeredSystemDisruption]] - strategy that breaks coordination by eliciting an incompatible practiced response.
+- [[SincereFalseBelief]] - epistemic distinction between honest testimony and accurate causal belief.

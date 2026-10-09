@@ -33377,3 +33377,10 @@ Added source `8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2k
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-09] ingest | 093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》
+
+Added source `093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65`; created [[PaintingThrushGuLong|《画眉鸟》]], [[ShuiMuYinJi|水母阴姬]], [[HabitTriggeredSystemDisruption|习惯触发式系统破局]], and [[SincereFalseBelief|诚实误信]]; and resynthesized [[GuLong|古龙]] and [[ChuLiuxiang|楚留香]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the “extra sword” solution defeats a coordinated formation by triggering one member's practiced two-sword response inside an incompatible system state, while 柳无眉 and 水母阴姬's poison claims distinguish sincere testimony and real suffering from correct causal belief. No settled contradiction was adopted. Poisoning, psychological suggestion, opium dependence, intimate relationships, character motives, weapon performance, combat rankings, dialogue, physiology, 柳无眉's death, and the “series best” label remain fictional, interpretive, disputed, or source-scoped. Broad show and minor-character pages were kept closed because the bounded additions are represented in the focused source, work, opponent, protagonist, author, and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,179 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

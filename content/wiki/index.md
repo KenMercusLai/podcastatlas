@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》](sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65.md) — 纸醉金迷FM以人质局、六剑阵、毒药误信与神水宫决战分析《画眉鸟》，赞赏“多出一柄剑”的系统破局并质疑水下终战的生理逻辑。
 - [8 古代的“高速公路”：秦汉驰道与罗马大路](sources/8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli.md) — 怪东西比较秦汉驰道与罗马道路网，将道路、桥梁、驿站、邮传、维护、路权与劳役合并为帝国统治基础设施，并保留宽度、速度和材料细节的证据边界。
 - [《资治通鉴·汉纪》192｜刘邦重伤竟甘愿等死](sources/zizhi-tongjian-hanji-192-liubang-zhongshang-jing-ganyuan-dengsi-lozkwavngz30qzynceptext1qurx.md) — 刘邦拒医被谨慎解释为继承斗争下的诊疗信任危机；白马之盟与正式诏书则以习俗和法律两条路径安抚开国政治联盟。
 - [《资治通鉴·汉纪》190｜萧何入狱](sources/zizhi-tongjian-hanji-190-xiaohe-ruyu-lggvu7f-6lodqnb1eqnmdmq5c3gm.md) — 萧何请求开放长安苑囿荒地供民耕种，却被刘邦解释为受贿与收买民心而下狱；王卫尉以宰相职责和萧何长期镇守关中的履历进谏，促成释放但未消除君臣不对称。
@@ -4249,6 +4250,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [641. Rome's Greatest Enemy: Hannibal's Nemesis (Part 2)](sources/641-romes-greatest-enemy-hannibals-nemesis-part-2-glt6811115289.md) — The Rest Is History episode on Scipio's Iberian command, New Carthage, Metaurus, Ilipa, Massinissa's realignment, and the destruction of Carthaginian reinforcement capacity.
 
 ## Entities
+- [《画眉鸟》 / The Thrush](entities/PaintingThrushGuLong.md) — 古龙楚留香小说，以人质控制、习惯触发式剑阵破局、诚实误信与悲剧爱情连接悬疑和战斗设计。
+- [水母阴姬 / Shui Mu Yin Ji](entities/ShuiMuYinJi.md) — 《画眉鸟》神水宫之主，将压倒性武力、毒药真相、隐秘依恋与相互留手集中于终局对手。
 - [Roman Road Network / 古罗马道路网](entities/RomanRoadNetwork.md) — 将军事机动、公共道路法、分级工程、里程碑、驿站、地方维护与节点收费连成的罗马帝国交通系统。
 - [王卫尉 / Wang (Commandant of the Guards, Western Han)](entities/WangWeiweiWesternHan.md) — 以宰相利民职责、萧何战时镇守关中的履历及秦亡教训说服刘邦释放萧何的卫尉。
 - [城阳郡 / Chengyang Commandery](entities/ChengyangCommandery.md) — 刘肥在宫廷危机后让予鲁元公主、用以支撑名分倒置式求生的齐国郡级资源。
@@ -17177,6 +17180,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [José I of Portugal / 若泽一世](entities/JoseIOfPortugal.md) — 以私人信任赋予彭巴尔超常改革与镇压权力，而其去世又暴露这种权力不可跨继承转移的葡萄牙国王。
 
 ## Concepts
+- [Habit-Triggered System Disruption / 习惯触发式系统破局](concepts/HabitTriggeredSystemDisruption.md) — 以特定线索触发成员的熟练反应，使其个人动作与整体协调状态不相容的系统破局策略。
+- [Sincere False Belief / 诚实误信](concepts/SincereFalseBelief.md) — 区分诚实表达、主观经验、外部事实与因果解释，说明冲突证词不必等于蓄意说谎。
 - [Imperial Road Systems / 帝国道路系统](concepts/ImperialRoadSystems.md) — 道路、桥梁、驿站、通信、路权、劳役、财政与维护共同将领土统治转化为可重复的军政移动能力。
 - [帝王诊疗信任困境 / Imperial Treatment-Trust Dilemma](concepts/ImperialTreatmentTrustDilemma.md) — 宫廷诊疗渠道受政治对手控制时，善意治疗也可能因无法独立验证而失去可信度，但怀疑本身不构成谋害证据。
 - [临终辅政梯队安排 / Deathbed Ministerial Succession Planning](concepts/DeathbedMinisterialSuccessionPlanning.md) — 临终君主按政治阶段和能力互补安排连续辅政人选，同时保留后续联盟与执行条件对结果的决定作用。

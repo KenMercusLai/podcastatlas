@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10049
+wiki_total_pages: 10051
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "SincereEmotionalSupport"
     title: "Sincere Emotional Support / 真诚的情绪价值"
     url: "/wiki/concepts/sincereemotionalsupport/"
+  - key: "SincereFalseBelief"
+    title: "Sincere False Belief / 诚实误信"
+    url: "/wiki/concepts/sincerefalsebelief/"
   - key: "SincerityAgainstSocialHypocrisy"
     title: "Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪"
     url: "/wiki/concepts/sincerityagainstsocialhypocrisy/"

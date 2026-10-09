@@ -43228,9 +43228,9 @@
       "url": "/wiki/concepts/chuhanwardemythologizing/"
     },
     "ChuLiuxiang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnAeNg6QMWpxek8E2n23k4SImiSz [lnAeNg6QMWpxek8E2n23k4SImiSz].md",
@@ -43238,9 +43238,16 @@
           "show": "纸醉金迷FM",
           "title": "099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》",
           "url": "/wiki/sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz/"
+        },
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/chuliuxiang/"
     },
     "ChuantouGuzhi": {
@@ -100951,9 +100958,9 @@
       "url": "/wiki/entities/gujiwesternhan/"
     },
     "GuLong": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -100989,9 +100996,16 @@
           "show": "纸醉金迷FM",
           "title": "099 古龙笔下最诡异的故事：趣话《楚留香传奇》之《借尸还魂》",
           "url": "/wiki/sources/099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz/"
+        },
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/gulong/"
     },
     "GuYongWesternHan": {
@@ -103220,6 +103234,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/habitautomaticityandtaskbracketing/"
+    },
+    "HabitTriggeredSystemDisruption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/habittriggeredsystemdisruption/"
     },
     "HabitualUrineRetentionRisk": {
       "episode_count": 1,
@@ -182879,6 +182909,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/painsleepfeedbackloop/"
     },
+    "PaintingThrushGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/paintingthrushgulong/"
+    },
     "PalaceAccusationVerification": {
       "episode_count": 4,
       "show_count": 1,
@@ -220435,6 +220481,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shubokhotanlatehan/"
     },
+    "ShuiMuYinJi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/shuimuyinji/"
+    },
     "ShuleKingdom": {
       "episode_count": 6,
       "show_count": 1,
@@ -221438,6 +221500,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sincereemotionalsupport/"
+    },
+    "SincereFalseBelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvtnmixzZZSG7GTTVHXy7RUjkg65 [lvtnmixzZZSG7GTTVHXy7RUjkg65].md",
+          "key": "093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65",
+          "show": "纸醉金迷FM",
+          "title": "093 古龙心中的系列最佳：《楚留香传奇之画眉鸟》",
+          "url": "/wiki/sources/093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/sincerefalsebelief/"
     },
     "SincerePowerSharingDeescalation": {
       "episode_count": 1,
