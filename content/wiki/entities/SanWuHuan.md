@@ -18,6 +18,7 @@ sources:
   - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
   - no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6
   - no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720
+  - no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -54,6 +55,8 @@ The Mengyang episode adds a creator-career and post-large-company branch. Throug
 
 The portable Wi-Fi episode adds a consumer connectivity and hardware-engineering branch through [[ZhaoXinZTE|赵新]] and [[ZTE]]. It moves from the everyday phone-hotspot comparison into mobile-broadband history, weak-signal reception, antennas, batteries, RedCap, multi-network aggregation, CPE, device safety, and [[ScenarioLedConnectivityHardware|scenario-led product definition]].
 
+No.214 adds a solo personal-method branch. Liu uses his own low-social-energy, creator, and former large-company experience to connect [[EnergyAwareWorkDesign]], [[TaskSwitchingResidue]], [[CoordinationTax]], motivation, and [[ExperimentalLifeDesign]] without presenting the episode as a universal efficiency guide.
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context whose interview and solo formats connect technology to product mechanics and human consequences.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
@@ -61,7 +64,7 @@ The portable Wi-Fi episode adds a consumer connectivity and hardware-engineering
 - Its 易小星/粉墨 and Hanqing episodes treat AI-native creative work through actual short-film production, original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
-- It can use former internet-company, product-leader, and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, connectivity, community trust, user responsibility, and wealth-related life design.
+- It can use former internet-company, product-leader, founder-operator, and solo-host context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, connectivity, community trust, user responsibility, wealth-related life design, and qualified personal evidence about attention, collaboration, motivation, and possibility.
 
 ## Evidence
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
@@ -79,14 +82,15 @@ The portable Wi-Fi episode adds a consumer connectivity and hardware-engineering
 - Solo technology analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu examine [[OpenClaw]] through virality, architecture, workflow fit, cost, security, labor change, and human decision authority.
 - Creator-career interview - [[no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6]] has Liu and [[MengYangStandup|梦阳 / 孟阳]] connect audit and internet-company careers with stand-up, short video, freelance uncertainty, repeated practice, and limits of advance ROI prediction.
 - Consumer connectivity interview - [[no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720]] has Liu interview [[ZhaoXinZTE|赵新]] about portable Wi-Fi, mobile broadband, signal reception, safety, portfolio segmentation, and user-scene product definition.
+- Solo work-design episode - [[no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn]] uses the battery metaphor, “one take” work, asynchronous batching, coordination simplification, and optional experiments to examine creator energy and attention.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
 - Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, community history, and hardware operations.
 
 ## Qualifications
-The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
+The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环. No.214's methods depend materially on Liu's autonomy, work type, and resources.
 
 ## What Changed
-- Added a consumer connectivity and hardware-engineering branch centered on portable Wi-Fi fit, radio fundamentals, and scenario-led product design.
+- Added a solo personal-method branch centered on energy-aware work, switching and coordination costs, motivation, and bounded experimentation.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -136,3 +140,7 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[ScenarioLedConnectivityHardware]] - user-scene product-definition framework surfaced by the episode.
 - [[StandupComedyIteration]] - live-feedback craft process extended by the Mengyang episode.
 - [[ROIMindsetCreativeSpillover|大厂 ROI 思维的创作外溢]] - creative decision problem surfaced by the Mengyang episode.
+- [[EnergyAwareWorkDesign]] - attention, state, friction, and motivation frame surfaced by No.214.
+- [[CoordinationTax]] - collaboration-overhead frame surfaced by No.214.
+- [[TaskSwitchingResidue]] - interruption and context-reload mechanism applied in No.214.
+- [[ExperimentalLifeDesign]] - possibility-oriented bounded experimentation extended in No.214.

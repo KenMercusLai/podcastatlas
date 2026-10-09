@@ -51584,6 +51584,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cooley/"
     },
+    "CoordinationTax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/coordinationtax/"
+    },
     "CordeliersClub": {
       "episode_count": 1,
       "show_count": 1,
@@ -76609,6 +76625,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
+    "EnergyAwareWorkDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/concepts/energyawareworkdesign/"
+    },
     "EnergyBalanceAccounting": {
       "episode_count": 5,
       "show_count": 2,
@@ -81037,9 +81069,9 @@
       "url": "/wiki/concepts/experientialstatistics/"
     },
     "ExperimentalLifeDesign": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
@@ -81061,9 +81093,16 @@
           "show": "三五环",
           "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
           "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
+        },
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/experimentallifedesign/"
     },
     "ExpertRubricVerification": {
@@ -148207,9 +148246,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -148315,6 +148354,13 @@
           "show": "三五环",
           "title": "No.216 手机热点如果够用，我们为什么还需要随身WiFi？",
           "url": "/wiki/sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720/"
+        },
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
         }
       ],
       "updated": "2026-10-09",
@@ -216455,9 +216501,9 @@
       "url": "/wiki/entities/sanjosecalifornia/"
     },
     "SanWuHuan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -216563,6 +216609,13 @@
           "show": "三五环",
           "title": "No.216 手机热点如果够用，我们为什么还需要随身WiFi？",
           "url": "/wiki/sources/no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720/"
+        },
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
         }
       ],
       "updated": "2026-10-09",
@@ -239521,9 +239574,9 @@
       "url": "/wiki/concepts/taskspecificworkspacedesign/"
     },
     "TaskSwitchingResidue": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -239545,9 +239598,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
+          "key": "no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn",
+          "show": "三五环",
+          "title": "No.214 低能量人的电池使用指南",
+          "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/taskswitchingresidue/"
     },
     "TasteFirstCPGPositioning": {

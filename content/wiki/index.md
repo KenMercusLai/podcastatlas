@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.214 低能量人的电池使用指南](sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn.md) — 三五环单口以“电池”模型连接注意力保护、切换与协同成本、状态匹配、动力和低成本可能性实验。
 - [631. Wagner: LIVE at the Royal Albert Hall](sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401.md) — The Rest Is History live episode on Wagner's revolution and exile, total theatre, the Ring's power-and-love politics, Tristan and Isolde, and royal patronage.
 - [4 东西方的太监：从苏培盛到纳尔塞斯](sources/4-dongxifang-de-taijian-cong-supeisheng-dao-naersaisi-ltz5ibhvlh7g2ss-udowhi9ejho4.md) — 怪东西跨文明比较宦官称谓、内外廷中介、皇权与继承杠杆、奴役和阉割暴力，并以李常杰和纳尔塞斯等人纠正单一刻板印象。
 - [《资治通鉴·秦纪》127-1｜解密秦始皇未立储君是什么原因！](sources/zizhi-tongjian-qinji-127-1-jiemi-qinshihuang-weili-chujun-shi-shenme-yuanyin-lniz32t2r2d3thgqnbfarrqeq2a2.md) — 秦始皇以巡游、祭祀和求仙回应死亡焦虑，却因回避身后议题迟迟未定储；病危时召扶苏的信件滞留赵高手中，蒙毅离场与李斯位阶焦虑共同铺垫沙丘继承危机。
@@ -17282,6 +17283,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Irkutsk Anti-Plague Research Institute](entities/IrkutskAntiPlagueResearchInstitute.md) — Russian pathogen-research institute under scrutiny after Daria Shepolova's death, without current evidence of a military biological-weapons role.
 
 ## Concepts
+- [Energy-Aware Work Design / 能量感知型工作设计](concepts/EnergyAwareWorkDesign.md) — Treats work capacity as changing attention, activation, recovery, task fit, motivation, and avoidable friction rather than schedulable hours alone.
+- [Coordination Tax / 协同税](concepts/CoordinationTax.md) — Time, attention, decision, and emotional overhead created by messages, meetings, handoffs, approval layers, and context reconstruction.
 - [AI Regulation Public Opinion Gap](concepts/AIRegulationPublicOpinionGap.md) — Divergence between cross-party public demand for stronger AI safeguards and lighter or industry-led institutional responses.
 - [Identity-Based Habit Change](concepts/IdentityBasedHabitChange.md) — Using repeated action as evidence for a chosen but revisable identity, with explicit transition and lapse boundaries.
 - [Rapid Habit Lapse Recovery](concepts/RapidHabitLapseRecovery.md) — Shortening the gap after a missed desired behavior without turning recovery into punishment or unsafe compensation.

@@ -6,8 +6,9 @@ sources:
   - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
   - how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885
   - how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504
+  - no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-26
+last_updated: 2026-10-09
 ---
 
 # Task Switching Residue
@@ -22,14 +23,16 @@ The Ranganath episode adds a memory-structure consequence. Checking a phone or m
 
 The Newport interview adds a workplace-system consequence. Email, Slack, phone checks, and meetings do not merely interrupt an isolated worker; in a [[HyperactiveHiveMind]], unscheduled communication becomes the coordination protocol. The residue cost therefore cannot always be solved by personal discipline because delayed replies may block colleagues inside the same workflow.
 
+The Liu Fei episode adds a creator-operator account of the same mechanism. His “one take” rule keeps context-heavy writing or recording together, while small messages are delayed and batched; he describes task context as something that must be reloaded after interruption. It also links switching residue to [[CoordinationTax]]: organizational messages and approval chains repeatedly force people to reconstruct not only the task but also the participants, authority, and prior decisions.
+
 ## Key Claims
 - Switching tasks has a cost because the previous activity leaves residue.
-- Fast switching and knowing when to switch are skills, not automatic defaults.
-- Transition practices can help the brain and body reconfigure for the next activity.
+- Fast switching, knowing when to switch, and using transition practices to reconfigure are skills rather than automatic defaults.
 - Solitude and silence may train comfort with one's own thoughts and emotions.
 - The concept links attention control, emotion regulation, thought control, and physiological regulation.
 - Context changes can create event boundaries that divide a continuous activity into competing memory fragments.
 - Message-driven collaboration can distribute switching costs across a team and make individual opt-out difficult.
+- Batching by task type can reduce repeated activation and reload costs when work is decomposable and response delays are acceptable.
 
 ## Evidence
 - Switching cost - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] records Adolphs saying task switching carries a cost because previous activity leaves residue.
@@ -39,13 +42,15 @@ The Newport interview adds a workplace-system consequence. Email, Slack, phone c
 - Memory fragmentation - [[how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885]] links topic, place, and context boundaries to hippocampal event segmentation and competing fragments.
 - Knowledge-work switching - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] links frequent email, Slack, and phone checks to costly cognitive transitions.
 - Coordination lock-in - [[how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504]] argues that an individual cannot simply ignore messages when the surrounding workflow depends on responsiveness.
+- Creator-operator application - [[no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn]] describes uninterrupted writing and recording, delayed message checking, task-type days, and organizational context reload.
 
 ## Counterevidence & Qualifications
-The sources do not establish that silence, meditation, or single-tasking benefits everyone in the same way or that every context switch is harmful. Transition training is a plausible practice and lab ritual rather than a validated universal intervention, and event segmentation can organize memory as well as fragment it. Rapid switching is also necessary in emergency, service, and tightly coupled operational roles; the relevant question is whether the benefit exceeds the transition cost.
+The sources do not establish that silence, meditation, single-tasking, or batching benefits everyone in the same way or that every context switch is harmful. Transition training is a plausible practice and lab ritual rather than a validated universal intervention, and event segmentation can organize memory as well as fragment it. Rapid switching is also necessary in emergency, service, and tightly coupled operational roles; Liu's schedule depends on creator autonomy that many workers do not have. The relevant question is whether the benefit exceeds the transition and response-delay cost.
 
 ## What Changed
 - Added entry-and-return costs and the event-boundary account of fragmented memory.
 - Added the organizational case where message-based coordination makes switching a shared workflow cost.
+- Added a creator-operator application connecting task-type batching, context reload, and coordination overhead.
 
 ## Related Concepts
 - [[AttentionCapacitySelection]] - attention framework underlying task selection and switching.
@@ -57,3 +62,5 @@ The sources do not establish that silence, meditation, or single-tasking benefit
 - [[ContextualEpisodicMemory]] - event-binding framework explaining why switches can divide remembered experience.
 - [[HyperactiveHiveMind]] - organizational pattern that generates repeated switching.
 - [[DeepWorkPractice]] - protected-attention response to avoidable switching.
+- [[EnergyAwareWorkDesign]] - integrates switching control with recovery, task fit, and motivation.
+- [[CoordinationTax]] - explains why handoffs and approval chains repeatedly recreate switching costs.

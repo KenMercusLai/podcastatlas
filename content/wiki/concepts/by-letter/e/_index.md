@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10102
+wiki_total_pages: 10104
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "EnergyTransitionGeopolitics"
     title: "Energy Transition Geopolitics"
     url: "/wiki/concepts/energytransitiongeopolitics/"
+  - key: "EnergyAwareWorkDesign"
+    title: "Energy-Aware Work Design / 能量感知型工作设计"
+    url: "/wiki/concepts/energyawareworkdesign/"
   - key: "EnergyFirstNeocloud"
     title: "Energy-First Neocloud"
     url: "/wiki/concepts/energyfirstneocloud/"

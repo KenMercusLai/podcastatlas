@@ -18,6 +18,7 @@ sources:
   - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
   - no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6
   - no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720
+  - no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -54,6 +55,8 @@ The Mengyang episode adds Liu's creator and career-experiment voice. With [[Meng
 
 The portable Wi-Fi episode adds consumer connectivity and hardware product definition. With [[ZhaoXinZTE|赵新]], Liu starts from the ordinary question of why a phone hotspot is not enough, then uses rental housing, travel, public Wi-Fi, weak signals, antennas, batteries, CPE, RedCap, vehicles, and livestreaming to surface [[PortableMobileBroadbandFit]] and [[ScenarioLedConnectivityHardware]] rather than treating the category as a specification list.
 
+The No.214 solo episode adds Liu's personal work-design voice. He reframes time management as [[EnergyAwareWorkDesign]], uses “one take” work and asynchronous batching to reduce [[TaskSwitchingResidue]] and [[CoordinationTax]], and explains his creator path through [[ExperimentalLifeDesign|bounded experiments]] whose relationship or career value could not be priced in advance.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
@@ -61,7 +64,7 @@ The portable Wi-Fi episode adds consumer connectivity and hardware product defin
 - He uses product and workflow questions to make AI's effect on creators concrete, and in solo analysis connects adoption to workflow value, cost, risk, and retained human decision authority.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
 - He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
-- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, connectivity products, community history, and wealth-after-success risk into user-facing questions about trust, workflow, demand, responsibility, and life design.
+- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, connectivity products, community history, wealth-after-success risk, and his own work routines into user-facing questions about trust, workflow, demand, responsibility, attention, and life design without presenting a universal efficiency system.
 
 ## Evidence
 - Podcast-production role - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] presents Liu with [[XiaoLei|肖磊]] and [[LiDan|李诞]] discussing 半拿铁's research, transcript, brand, and audience-trust choices.
@@ -81,12 +84,13 @@ The portable Wi-Fi episode adds consumer connectivity and hardware product defin
 - Agent-product solo analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu assess [[OpenClaw]] through adoption fit, delegated work, token economics, permissions, security, labor change, and human decision authority.
 - Creator and career experimentation - [[no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6]] has Liu compare planned business and training attempts with the unpredicted feedback, platform timing, and sustained interest behind podcasting and 半拿铁.
 - Consumer connectivity interviewing - [[no-216-shouji-redian-ruguo-gouyong-women-weishenme-hai-xuyao-suishen-wifi-gkwrimantkysagbktgrgz720]] has Liu interview [[ZhaoXinZTE|赵新]] about phone-hotspot limits, portable Wi-Fi, weak-signal engineering, product segmentation, safety, and scenario-led hardware definition.
+- Personal work-design analysis - [[no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn]] has Liu connect deep work, message batching, small-team coordination, state matching, motivation, and bounded optional experiments through a battery metaphor.
 
 ## Qualifications
-The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
+The wiki profile is source-limited to podcast appearances and does not attempt a full biography. No.214 is autobiographical and depends on Liu's creator autonomy and financial margin; it is evidence about his practice, not proof of a universal productivity method. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added a consumer-connectivity interview branch that moves from phone-hotspot sufficiency to radio engineering, product segmentation, and scenario-led hardware definition.
+- Added a solo work-design branch connecting attention conservation, coordination simplification, motivation, and bounded experimentation.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -136,3 +140,6 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[ScenarioLedConnectivityHardware]] - hardware definition loop surfaced in the ZTE interview.
 - [[ROIMindsetCreativeSpillover|大厂 ROI 思维的创作外溢]] - career and creative-choice problem Liu helps frame through his own experiments.
 - [[ExperimentalLifeDesign]] - iterative path-discovery frame supported by Liu's tea, training, consulting, and podcast examples.
+- [[EnergyAwareWorkDesign]] - battery-model synthesis of attention, recovery, friction, task fit, and motivation.
+- [[CoordinationTax]] - collaboration overhead Liu describes across large-company and small-team work.
+- [[TaskSwitchingResidue]] - context reload cost behind his “one take” and message-batching practices.

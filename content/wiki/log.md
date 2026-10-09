@@ -33746,3 +33746,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | No.214 低能量人的电池使用指南
+
+Added source `no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn`; created [[EnergyAwareWorkDesign|能量感知型工作设计]] and [[CoordinationTax|协同税]]; and resynthesized [[LiuFei|刘飞]], [[SanWuHuan|三五环]], [[TaskSwitchingResidue]], and [[ExperimentalLifeDesign]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: productive capacity depends on protecting task context, reducing avoidable coordination and decision load, matching work to state, and finding motivation through fit, feedback, and bounded attempts whose future value may be nonlinear. No settled contradiction was adopted. The episode's rejection of abstract self-discipline, monthly low-state periods, work-hour comparisons, and examples involving money, health, or career outcomes remain autobiographical and source-scoped; its practices depend on creator autonomy, financial margin, and task decomposability. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,225 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
