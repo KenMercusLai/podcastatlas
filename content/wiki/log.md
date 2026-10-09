@@ -33515,3 +33515,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-09] ingest | 091 《天龙八部》之“四大恶人”篇：一念成魔
+
+Added source `091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn`; created [[DuanYanqing|段延庆]], [[YeErniang|叶二娘]], and [[YueLaosan|岳老三 / 南海鳄神]]; and resynthesized [[TianLongBaBu|《天龙八部》]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the four-villain label does not settle character ethics—conduct, causal intelligibility, responsibility, and narrative depth require separate judgments; the protagonists' parentage weakens bloodline determinism; and trauma, bereavement, rules, or loyalty can make an antagonist tragic without erasing victims or harm. No settled contradiction was adopted. Duan Yanqing's succession legitimacy, 天龙寺's motives, suicidality, redemption, 玄慈 and Ye Erniang's motives, authorial intention, and inherited disposition remain interpretive; Ye Erniang's harm to children is version-scoped. 云中鹤 remained within the source and novel synthesis because the episode itself presents him as comparatively flat. The broad [[JinYong|金庸]] page was kept closed because the focused source, novel, show, character, and method pages capture the bounded addition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,196 sources across 799 overview paragraphs and nine topics.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

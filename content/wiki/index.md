@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [091 《天龙八部》之“四大恶人”篇：一念成魔](sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn.md) — 纸醉金迷FM separates the four villains' conduct, trauma, attachment, responsibility, and narrative function without converting sympathy into acquittal.
 - [VOL.193 AI看病真的靠谱吗？5 位医生同时在线揭开真实答案](sources/vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s.md) — 这病说来话长 roundtable on patient prompt sensitivity, clinician-supervised AI, ICU and imaging workflows, documentation and training tradeoffs, and the continuing roles of individualized judgment, responsibility, and empathy.
 - [637. Revolution in Iran: Rise of the Ayatollah (Part 2)](sources/637-revolution-in-iran-rise-of-the-ayatollah-part-2-glt7243579163.md) — The Rest Is History episode on the Shah's collapse, Khomeini's ritual and media mobilization, clerical-republican rule, army neutrality, oil shock, and Carter's crisis of confidence.
 - [Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/essentials-therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim8622246247.md) — Huberman Lab Essentials condenses Paul Conti's functional trauma definition, language-and-witnessing approach, therapist-fit criteria, medication boundary, and supervised altered-state context.
@@ -4268,6 +4269,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？](sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki.md) — 三五环 interview with Li Qian on integrated brand operations, psychological positioning, self-pleasing consumption, niche audience fit, and offline relationship depth after traffic advantages fade.
 
 ## Entities
+- [段延庆 / Duan Yanqing](entities/DuanYanqing.md) — Dispossessed 《天龙八部》 prince whose identity-driven restoration combines serious harm, selected rules, and release through recovered paternity.
+- [叶二娘 / Ye Erniang](entities/YeErniang.md) — Bereaved 《天龙八部》 mother whose relational sacrifice and suffering coexist with grave harm to other families.
+- [岳老三 / 南海鳄神 / Yue Laosan](entities/YueLaosan.md) — Comic four-villain member whose simple code, promise-keeping, and loyalty to 段誉 acquire tragic force.
 - [University of Bologna / 博洛尼亚大学](entities/UniversityOfBologna.md) — Medieval legal-education and university-corporation case associated with jurist demand, credentialing, and negotiated privilege.
 - [University of Oxford / 牛津大学](entities/UniversityOfOxford.md) — Early English university formation case linked to scholar aggregation, town-gown conflict, and the migration associated with Cambridge.
 - [Mehmet Oz](entities/MehmetOz.md) — CMS administrator presenting an agenda around drug pricing, health-data access, rural technology, medical AI, and program integrity.
@@ -4520,7 +4524,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七种武器》 / Seven Weapons](entities/SevenWeaponsGuLong.md) — 古龙以共享江湖串联的故事组，把名义兵器转化为信心、笑等心理或道德力量。
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
-- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, causal clue testing, disagreement, evidence boundaries, moral gradation, and practical ethical argument.
+- [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, live prediction, causal clue testing, disagreement, evidence boundaries, and accountability-preserving character sympathy.
 - [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
@@ -13640,7 +13644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
 - [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining martial-arts mystery with concealed identity, psychological inference, symbolic weapons, and concentrated reversal.
 - [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
-- [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel connecting Song Jianghu plausibility and identity tragedy to the Shaoshi Mountain convergence of its late plot.
+- [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel connecting Song Jianghu plausibility, identity tragedy, bloodline reversal, morally complex villains, and late-plot convergence.
 - [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.
 - [Robert Smith](entities/RobertSmith.md) — Planet Money host framing the Summer School World Tour water-market and inflation-targeting lesson.
 - [Justin Wolfers](entities/JustinWolfers.md) — Economist guiding the episode's country-as-laboratory frame across Australia and New Zealand.
@@ -17584,7 +17588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Niche Sport Ecosystem Building / 小众运动生态建设](concepts/NicheSportEcosystemBuilding.md) — Coordinated use of equipment, athletes, education, communities, competitions, and media to make a small sport sustainable.
 - [Actor Autonomy and Boundary / 演员职业自主与边界](concepts/ActorAutonomyAndBoundary.md) — Decision-rights framework for roles, working conditions, publicity, health, private life, and professional self-definition.
 - [Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动](concepts/PlatformEraActorVisibilityLabor.md) — Work that makes actors and characters legible across production assets, metrics, short video, fandom, and audience analysis.
-- [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Acting and literary-reading method that restores motive and constraint while preserving victims, consequences, and moral responsibility.
+- [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Evidence-bound acting and reading method that separates conduct, causal understanding, responsibility, and narrative depth.
 - [Novel Food Manufacturing Transfer Risk](concepts/NovelFoodManufacturingTransferRisk.md) — Risk that a kitchen or small-plant product changes under faster equipment, larger runs, or ingredient-inexperienced operators.
 - [Consumer Brand Evidence Response](concepts/ConsumerBrandEvidenceResponse.md) — Two-track crisis system combining fast uncertainty communication with slower testing, traceability, certification, and public results.
 - [Deliberate Luck Surface](concepts/DeliberateLuckSurface.md) — Portfolio of bounded attempts that increases exposure to useful people, feedback, distribution paths, and favorable surprises.

@@ -48445,9 +48445,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -48462,9 +48462,16 @@
           "show": "纸醉金迷FM",
           "title": "120 红楼金粉 | 金陵十二钗之王熙凤",
           "url": "/wiki/sources/120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3/"
+        },
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/concepts/compassionatecharacterinterpretation/"
     },
     "CompassionateCuriosity": {
@@ -67445,6 +67452,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/duanxilatehan/"
+    },
+    "DuanYanqing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/duanyanqing/"
     },
     "DuanZhiqiang": {
       "episode_count": 1,
@@ -242040,9 +242063,9 @@
       "url": "/wiki/entities/tiankuangxinofficial/"
     },
     "TianLongBaBu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -242057,9 +242080,16 @@
           "show": "纸醉金迷FM",
           "title": "111 全方位解析《天龙八部》之少室山大战",
           "url": "/wiki/sources/111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t/"
+        },
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "url": "/wiki/entities/tianlongbabu/"
     },
     "TianLuboWesternHan": {
@@ -268190,6 +268220,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/yaroslavthewise/"
     },
+    "YeErniang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/yeerniang/"
+    },
     "YeLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -270490,6 +270536,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/yuchengwesternhan/"
+    },
+    "YueLaosan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        }
+      ],
+      "updated": "2026-10-09",
+      "url": "/wiki/entities/yuelaosan/"
     },
     "YueWanrou": {
       "episode_count": 3,
@@ -276045,9 +276107,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -276209,6 +276271,13 @@
           "show": "纸醉金迷FM",
           "title": "094 回归文学！《红楼梦》不是悼明之作",
           "url": "/wiki/sources/094-huigui-wenxue-hongloumeng-bushi-daoming-zhizuo-lhl0zqjyudd0ipov27otkk0li8qv/"
+        },
+        {
+          "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
+          "key": "091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn",
+          "show": "纸醉金迷FM",
+          "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
+          "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
         }
       ],
       "updated": "2026-10-09",

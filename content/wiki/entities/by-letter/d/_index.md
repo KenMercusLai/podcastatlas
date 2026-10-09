@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12888
+wiki_total_pages: 12891
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1484,6 +1484,9 @@ wiki_pages:
   - key: "DuanGanmu"
     title: "段干木 / Duan Ganmu"
     url: "/wiki/entities/duanganmu/"
+  - key: "DuanYanqing"
+    title: "段延庆 / Duan Yanqing"
+    url: "/wiki/entities/duanyanqing/"
   - key: "DuanZhiqiang"
     title: "段志强 / Duan Zhiqiang"
     url: "/wiki/entities/duanzhiqiang/"

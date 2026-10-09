@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12888
+wiki_total_pages: 12891
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "YouyinHei"
     title: "右尹黑 / Youyin Hei"
     url: "/wiki/entities/youyinhei/"
+  - key: "YeErniang"
+    title: "叶二娘 / Ye Erniang"
+    url: "/wiki/entities/yeerniang/"
   - key: "YeGong"
     title: "叶公 / Ye Gong"
     url: "/wiki/entities/yegong/"
@@ -641,6 +644,9 @@ wiki_pages:
   - key: "YueWanrou"
     title: "岳宛柔 / Yue Wanrou"
     url: "/wiki/entities/yuewanrou/"
+  - key: "YueLaosan"
+    title: "岳老三 / 南海鳄神 / Yue Laosan"
+    url: "/wiki/entities/yuelaosan/"
   - key: "YueZhongqi"
     title: "岳钟琪 / Yue Zhongqi"
     url: "/wiki/entities/yuezhongqi/"
