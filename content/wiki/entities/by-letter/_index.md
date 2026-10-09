@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12951
+wiki_total_pages: 12955
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "AppleAirPods"
     title: "Apple AirPods"
     url: "/wiki/entities/appleairpods/"
+  - key: "AppleCorps"
+    title: "Apple Corps"
+    url: "/wiki/entities/applecorps/"
   - key: "AppleIntelligence"
     title: "Apple Intelligence"
     url: "/wiki/entities/appleintelligence/"

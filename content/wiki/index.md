@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Beatles: The British Invasion, with Conan O’Brien (Part 2)](sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398.md) — The Rest Is History follows the Beatles from touring's end through studio reinvention, psychedelia, managerial loss, Apple, Get Back, Abbey Road, and breakup.
 - [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](sources/lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx.md) — 罗永浩对谈严俊杰，连接县城自学、MiniMax 创业、多模态 AGI、模型即产品、岗位融合、国际化商业化与 AI 价值分配。
 - [625. Jack The Ripper: Horror in Whitechapel (Part 2)](sources/625-jack-the-ripper-horror-in-whitechapel-part-2-glt2555108111.md) — The Rest Is History reconstructs Annie Chapman's murder, early police constraints, mass-market crime reporting, anti-Jewish panic, and the probable hoax that created the Jack the Ripper name.
 - [Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583.md) — Condensed Huberman Lab interview on microbiome resilience, whole-plant fiber, fermented-food evidence, calibrated hygiene, and the limits of cleanses, probiotics, and purified prebiotics.
@@ -4322,6 +4323,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard](sources/improve-energy-longevity-by-optimizing-mitochondria-dr-martin-picard-scim8061923429.md) — Huberman Lab interview on mitochondria as energy-transforming and information-processing systems linking finite energy allocation, stress, recovery, aging, and cautious intervention boundaries.
 
 ## Entities
+- [Brian Epstein](entities/BrianEpstein.md) — Beatles manager whose respectable public packaging and death reveal the band's dependence on a shared organizational center.
+- [George Harrison](entities/GeorgeHarrison.md) — Beatles musician whose Indian spiritual direction and Haight-Ashbury skepticism qualify simplified counterculture narratives.
+- [Yoko Ono](entities/YokoOno.md) — Artist and Lennon collaborator treated as one late-period strain rather than a sufficient cause of the Beatles' breakup.
+- [Apple Corps](entities/AppleCorps.md) — Beatles company where creative idealism, weak controls, financial conflict, and the final rooftop performance converged.
 - [大鹏 / 董成鹏 / Dapeng (director)](entities/DapengDirector.md) — Chinese actor-director whose path from music and portal video to feature authorship joins public sensitivity, commercial success, and persistent identity pressure.
 - [《大鹏嘚吧嘚》 / Dapeng Debade](entities/DapengDebade.md) — Sohu entertainment program whose integrated editorial and production workflow helped establish Dapeng's public creator identity.
 - [《煎饼侠》 / Jian Bing Man](entities/JianbingManFilm.md) — Dapeng's commercially large first feature, converting an established web persona into theatrical directing opportunity.
@@ -17332,6 +17337,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Picard](entities/MartinPicard.md) — Columbia mitochondrial-biology researcher connecting cellular energy transformation with stress, aging, behavior, and subjective experience.
 
 ## Concepts
+- [Studio-Based Musical Reinvention](concepts/StudioBasedMusicalReinvention.md) — Conversion of live-performance constraints into a recorded-art practice built from arrangement, editing, orchestration, sequencing, and production.
 - [Multimodal AGI Strategy / 多模态 AGI 路线](concepts/MultimodalAGIStrategy.md) — Staged strategy in which separately developed language, speech, video, and music capabilities are later integrated toward multimodal input and output.
 - [Model as Product / 模型即产品](concepts/ModelAsProduct.md) — AI-native thesis that model capability, behavior, cost, and tradeoffs form the product core while applications deliver and test it.
 - [AI-Native Role Convergence / AI 原生岗位融合](concepts/AINativeRoleConvergence.md) — Organizational shift in which AI broadens task scope across product, engineering, algorithm, design, and business roles without removing specialist accountability.

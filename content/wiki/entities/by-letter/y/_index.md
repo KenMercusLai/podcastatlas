@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12951
+wiki_total_pages: 12955
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "YokkaichiPollutionIncident"
     title: "Yokkaichi Pollution Incident / 四日市公害事件"
     url: "/wiki/entities/yokkaichipollutionincident/"
+  - key: "YokoOno"
+    title: "Yoko Ono"
+    url: "/wiki/entities/yokoono/"
   - key: "Yokohama"
     title: "Yokohama / 横滨"
     url: "/wiki/entities/yokohama/"

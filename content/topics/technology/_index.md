@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3409
+topic_total_pages: 3410
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4264,6 +4264,9 @@ topic_concepts:
   - key: "StructuredDecisionModel"
     title: "Structured Decision Model"
     url: "/wiki/concepts/structureddecisionmodel/"
+  - key: "StudioBasedMusicalReinvention"
+    title: "Studio-Based Musical Reinvention"
+    url: "/wiki/concepts/studiobasedmusicalreinvention/"
   - key: "SubjectivityAsAIAsset"
     title: "Subjectivity As AI Asset"
     url: "/wiki/concepts/subjectivityasaiasset/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2228
+topic_total_pages: 2229
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3524,6 +3524,9 @@ topic_entities:
   - key: "Apple"
     title: "Apple"
     url: "/wiki/entities/apple/"
+  - key: "AppleCorps"
+    title: "Apple Corps"
+    url: "/wiki/entities/applecorps/"
   - key: "AppSumo"
     title: "AppSumo"
     url: "/wiki/entities/appsumo/"

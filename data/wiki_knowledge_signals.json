@@ -17489,6 +17489,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/appetitehormoneregulation/"
     },
+    "AppleCorps": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/applecorps/"
+    },
     "AppleMetal": {
       "episode_count": 1,
       "show_count": 1,
@@ -30351,6 +30367,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/brianarmstrong/"
+    },
+    "BrianEpstein": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        },
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/brianepstein/"
     },
     "BrianFaulkner": {
       "episode_count": 2,
@@ -97833,6 +97872,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/georgeeliot/"
     },
+    "GeorgeHarrison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/georgeharrison/"
+    },
     "GeorgeIII": {
       "episode_count": 4,
       "show_count": 1,
@@ -134848,9 +134903,9 @@
       "url": "/wiki/entities/johnlambert/"
     },
     "JohnLennon": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5767145023 [GLT5767145023].md",
@@ -134865,9 +134920,16 @@
           "show": "The Rest Is History",
           "title": "670. Tom Holland Meets Paul McCartney",
           "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        },
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/johnlennon/"
     },
     "JohnLilburne": {
@@ -189348,9 +189410,9 @@
       "url": "/wiki/entities/paullay/"
     },
     "PaulMcCartney": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5781731754 [GLT5781731754].md",
@@ -189358,9 +189420,16 @@
           "show": "The Rest Is History",
           "title": "670. Tom Holland Meets Paul McCartney",
           "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        },
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/paulmccartney/"
     },
     "PaulRouse": {
@@ -195985,9 +196054,9 @@
       "url": "/wiki/concepts/poortorichplatformeconomy/"
     },
     "PopToAlbumRockTransition": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -196002,9 +196071,16 @@
           "show": "The Rest Is History",
           "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
           "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        },
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/poptoalbumrocktransition/"
     },
     "PopeJoan": {
@@ -235587,6 +235663,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/studio54/"
     },
+    "StudioBasedMusicalReinvention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/studiobasedmusicalreinvention/"
+    },
     "Sturmabteilung": {
       "episode_count": 3,
       "show_count": 1,
@@ -242874,9 +242966,9 @@
       "url": "/wiki/entities/thebackroomsfilm/"
     },
     "TheBeatles": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -242933,9 +243025,16 @@
           "show": "The Rest Is History",
           "title": "670. Tom Holland Meets Paul McCartney",
           "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        },
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheBillionDollarSpy": {
@@ -273540,6 +273639,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/yokkaichipollutionincident/"
+    },
+    "YokoOno": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4240205398 [GLT4240205398].md",
+          "key": "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398",
+          "show": "The Rest Is History",
+          "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+          "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/yokoono/"
     },
     "YolandeOfAragon": {
       "episode_count": 1,

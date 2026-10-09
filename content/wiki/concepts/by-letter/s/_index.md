@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10127
+wiki_total_pages: 10128
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2222,6 +2222,9 @@ wiki_pages:
   - key: "StudentWorkerCoalitionLimits"
     title: "Student-Worker Coalition Limits"
     url: "/wiki/concepts/studentworkercoalitionlimits/"
+  - key: "StudioBasedMusicalReinvention"
+    title: "Studio-Based Musical Reinvention"
+    url: "/wiki/concepts/studiobasedmusicalreinvention/"
   - key: "StutteringSpeechCoordination"
     title: "Stuttering Speech Coordination"
     url: "/wiki/concepts/stutteringspeechcoordination/"

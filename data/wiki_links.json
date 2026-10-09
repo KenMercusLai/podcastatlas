@@ -9959,6 +9959,10 @@
     "title": "Apple AirPods",
     "url": "/wiki/entities/appleairpods/"
   },
+  "AppleCorps": {
+    "title": "Apple Corps",
+    "url": "/wiki/entities/applecorps/"
+  },
   "AppleDeviceLeasing": {
     "title": "Apple Device Leasing",
     "url": "/wiki/concepts/appledeviceleasing/"
@@ -14430,6 +14434,10 @@
   "BrianChesky": {
     "title": "Brian Chesky",
     "url": "/wiki/entities/brianchesky/"
+  },
+  "BrianEpstein": {
+    "title": "Brian Epstein",
+    "url": "/wiki/entities/brianepstein/"
   },
   "BrianFaulkner": {
     "title": "Brian Faulkner",
@@ -35478,6 +35486,10 @@
   "GeorgeHalas": {
     "title": "George Halas",
     "url": "/wiki/entities/georgehalas/"
+  },
+  "GeorgeHarrison": {
+    "title": "George Harrison",
+    "url": "/wiki/entities/georgeharrison/"
   },
   "GeorgeIII": {
     "title": "George III",
@@ -80023,6 +80035,10 @@
     "title": "Studio 54",
     "url": "/wiki/entities/studio54/"
   },
+  "StudioBasedMusicalReinvention": {
+    "title": "Studio-Based Musical Reinvention",
+    "url": "/wiki/concepts/studiobasedmusicalreinvention/"
+  },
   "StudioGhibli": {
     "title": "Studio Ghibli / 吉卜力工作室",
     "url": "/wiki/entities/studioghibli/"
@@ -93259,6 +93275,10 @@
     "title": "Yokkaichi Pollution Incident / 四日市公害事件",
     "url": "/wiki/entities/yokkaichipollutionincident/"
   },
+  "YokoOno": {
+    "title": "Yoko Ono",
+    "url": "/wiki/entities/yokoono/"
+  },
   "Yokohama": {
     "title": "Yokohama / 横滨",
     "url": "/wiki/entities/yokohama/"
@@ -101638,6 +101658,10 @@
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": {
     "title": "The Art of True Happiness | Dr. Arthur Brooks",
     "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+  },
+  "the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398": {
+    "title": "The Beatles: The British Invasion, with Conan O’Brien (Part 2)",
+    "url": "/wiki/sources/the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398/"
   },
   "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395": {
     "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",

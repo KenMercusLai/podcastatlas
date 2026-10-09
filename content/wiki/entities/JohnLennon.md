@@ -5,7 +5,8 @@ tags: [person, musician, celebrity, counterculture, britain]
 sources:
   - 91-the-beatles-glt5767145023
   - 670-tom-holland-meets-paul-mccartney-glt5781731754
-last_updated: 2026-10-04
+  - the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ His “bigger than Jesus” comment is treated less as a theological claim than 
 
 [[PaulMcCartney|Paul McCartney's]] interview adds the practical beginning of their relationship. McCartney remembers meeting Lennon through Ivan Vaughan at the Woolton fête, noticing that Lennon used banjo-shaped guitar chords learned from his mother, and exchanging playable chord knowledge. The later songwriting partnership retained that reciprocal structure: one writer could bring an opening and the pair would develop or finish it together. This recollection broadens Lennon from public symbol to working musician while remaining subject to the normal limits of [[AutobiographicalMemoryHistoricalEvidence|autobiographical memory]].
 
+The late-period source connects the American religious backlash to touring's end, then follows Lennon through heavy LSD use, heroin, his relationship with [[YokoOno|Yoko Ono]], and a growing desire to act outside the Beatles identity. It does not make any one factor sufficient. Ono's presence strained sessions, while [[BrianEpstein|Brian Epstein's]] death, [[AppleCorps|Apple]] and adviser disputes, other members' choices, and diverging work also weakened the group. Lennon's marriage, Plastic Ono Band work, “Give Peace a Chance,” and concern over the political ambiguity of “Revolution” extend his public anti-war role into a more independent artistic direction.
+
 ## Key Characteristics
 
 - Beatles member whose celebrity became a platform for religious and moral controversy.
@@ -31,7 +34,7 @@ His “bigger than Jesus” comment is treated less as a theological claim than 
 - Used provocation and rejection of inherited authority as part of his public force.
 - Helped popularize peace and anti-militarist language beyond formal political audiences.
 - Combined countercultural presentation with rapid wealth and elite social separation.
-- Remains morally contested because public ideals and reported private conduct diverged.
+- Joined personal, political, drug, and artistic change to the band's late institutional fragmentation.
 
 ## Evidence
 
@@ -41,15 +44,19 @@ His “bigger than Jesus” comment is treated less as a theological claim than 
 - Contradictory status: [[91-the-beatles-glt5767145023]] pairs that public role with criticism of hypocrisy, self-regard, wealth, and personal behavior.
 - Early exchange: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] describes meeting McCartney, banjo-derived guitar fingering, and reciprocal chord teaching.
 - Songwriting practice: [[670-tom-holland-meets-paul-mccartney-glt5781731754]] presents Lennon-McCartney collaboration as shared development of ideas rather than two isolated catalogues.
+- Touring and controversy: [[the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398]] connects the U.S. backlash over Christianity, apology, exhaustion, and the decision to stop touring.
+- Late personal and political direction: [[the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398]] places Ono, drug use, marriage, Plastic Ono Band, peace activity, and “Revolution” within Lennon's changing commitments.
+- Breakup qualification: [[the-beatles-the-british-invasion-with-conan-obrien-part-2-glt4240205398]] treats Lennon's changes as one branch of a larger managerial, financial, relational, and artistic breakdown.
 
 ## Qualifications
 
-This profile is bounded to two podcast episodes and does not establish a complete biography, musical analysis, political history, or moral judgment. Childhood class labels, remembered early encounters, precise songwriting contributions, personal motives, private conduct, the effects of peace campaigning, and prophet or hypocrite characterizations remain source-scoped. McCartney's firsthand recollection adds texture without functioning as a recording. Public influence does not establish private virtue, and private inconsistency does not by itself measure the reception or effect of a public message.
+This profile is bounded to three podcast episodes and does not establish a complete biography, musical analysis, political history, addiction history, or moral judgment. Childhood class labels, remembered early encounters, precise songwriting contributions, personal motives, private conduct, drug effects, studio relationships, and the effects of peace campaigning remain source-scoped. McCartney's firsthand recollection adds texture without functioning as a recording. Public influence does not establish private virtue, and Lennon's late changes do not by themselves explain the band's breakup.
 
 ## What Changed
 
-- Added Lennon as a practical peer learner and collaborative songwriter before global celebrity.
-- Preserved the separation between retrospective working memories, public moral symbolism, and private consistency.
+- Added the connection between religious backlash, touring's end, and Lennon's increasingly independent political-artistic direction.
+- Added drug use and the Ono relationship as consequential but non-exclusive parts of the late-period profile.
+- Preserved breakup as a multi-causal institutional process rather than a personality story.
 
 ## Relationships
 
@@ -63,3 +70,7 @@ This profile is bounded to two podcast episodes and does not establish a complet
 - [[Liverpool]] - city and musical network in which their relationship formed.
 - [[InformalMusicalLearningNetwork]] - mechanism for their early exchange of chords and songs.
 - [[AutobiographicalMemoryHistoricalEvidence]] - qualification on the recalled details of their meeting and collaboration.
+- [[YokoOno]] - partner and collaborator associated with Lennon's later artistic and political direction.
+- [[BrianEpstein]] - manager whose death removed a shared organizational center.
+- [[AppleCorps]] - company and financial setting for later adviser conflict.
+- [[StudioBasedMusicalReinvention]] - creative context for Lennon's late Beatles work.
