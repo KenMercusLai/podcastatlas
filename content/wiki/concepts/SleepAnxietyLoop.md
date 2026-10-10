@@ -12,7 +12,8 @@ sources:
   - vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0
   - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
   - scim4224560223-scim4224560223
-last_updated: 2026-10-04
+  - vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,8 +39,10 @@ The Galpin interview adds a simple feedback-delay rule: when a sleep score becom
 
 The January 2021 Huberman episode supplies an early anti-rigidity version of the same judgment. It warns that neurotic attachment to sleep schedules can itself worsen sleep and presents NSDR, hypnosis, yoga nidra, or meditation as ways to practice downshifting after waking or during the day. That framing supports calm rest over performance pressure but does not establish these practices as treatments for chronic insomnia or as substitutes for adequate sleep.
 
+The later 这病说来话长 episode makes the second-order harm especially legible. One poor night is the first problem; predicting permanent sleeplessness, comparing device scores, or believing one has lost the ability to sleep adds a second layer of arousal. Its Morita-therapy and CBT-I framing supports acceptance plus ordinary-life re-engagement, while reserving persistent or impairing insomnia for structured assessment rather than implying that worry is the only cause.
+
 ## Key Claims
-- Sleep advice can backfire when a flexible health range becomes an exact performance demand.
+- Sleep advice can backfire when a flexible health range becomes an exact performance demand; reducing forced-sleep struggle can coexist with CBT-I, cause assessment, and proportionate treatment.
 - Device data can reassure some users while intensifying vigilance, repeated checking, or parental fear in others.
 - Duration, sleep-onset latency, deep-sleep estimates, and dream recall are incomplete proxies unless interpreted with regularity, continuity, and daytime function.
 - Multi-day patterns can support reflection, but a single bad night or score should not define sleep quality by itself.
@@ -61,13 +64,14 @@ The January 2021 Huberman episode supplies an early anti-rigidity version of the
 - Functional and device boundary - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] prioritizes waking restoration and wider life context over an exact eight-hour, 90-minute-cycle, or consumer deep-sleep target.
 - Delayed score checking - [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] recommends waiting at least the first waking hour before viewing a sleep score when feedback has become stressful or compulsive.
 - Early anti-rigidity framing - [[scim4224560223-scim4224560223]] warns that rigid schedule attachment can worsen sleep and offers guided rest or contemplative practices as de-arousal options rather than guarantees.
+- Second-order worry and acceptance - [[vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv]] uses a first-arrow/second-arrow metaphor, catastrophic future predictions, device-score comparison, Morita therapy, and CBT-I to distinguish sleep difficulty from the additional struggle around it.
 
 ## Counterevidence & Qualifications
 Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, dementia, neurological disease, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, breathing, body scans, NSDR, hypnosis, yoga nidra, meditation, and attention-shifting tools are source-scoped and are not substitutes for adequate sleep, CBT-I, or sleep-medicine evaluation.
 
 ## What Changed
-- Added early provenance for the claim that rigid adherence to sleep protocols can become part of the problem.
-- Kept guided rest and contemplative practices as de-arousal options rather than insomnia treatment or sleep replacement.
+- Added the distinction between an initial poor night and the second-order arousal created by catastrophic prediction and forced-sleep effort.
+- Clarified that acceptance can complement CBT-I and assessment rather than dismissing persistent impairment.
 
 ## Related Concepts
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway for persistent symptoms and daytime impairment.

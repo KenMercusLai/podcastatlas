@@ -6,6 +6,7 @@ sources:
   - using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213
   - scim2452395341-scim2452395341
   - essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179
+  - vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -28,13 +29,15 @@ The earlier pain-and-pleasure episode adds a narrower self-hypnosis application 
 
 The Essentials edit condenses that full interview and preserves the same control-centered model, neural account, clinical examples, and referral boundary. It improves access to the framework but does not constitute independent evidence or change the current clinical judgment.
 
+The 这病说来话长 episode adds a public-clinic distinction between hypnosis and simply making an insomniac fall asleep. It presents hypnosis as a focused psychotherapeutic state that may be used when trauma contributes to sleep difficulty, but its “lowered defenses” and memory-retrieval language is weaker than the page's established evidence boundary: increased access, vividness, or emotional meaning does not verify the historical accuracy of recalled material.
+
 ## Key Claims
 - Hypnosis is a focused-attention state and clinical tool, not inherently a loss of control.
 - Voluntary entry, exit, bodily regulation, imagery, and a defined goal distinguish the episode's clinical model.
 - Reduced evaluative monitoring may allow suggestions and alternative interpretations to become more experientially salient.
 - Imagined exposure can pair feared or painful material with calm and agency, weakening avoidance-only associations.
 - Selected trials reported benefits for pain and medical procedures, but effects cannot be generalized across conditions or delivery formats.
-- Hypnosis-assisted access to memory does not guarantee memory accuracy.
+- Hypnosis-assisted access to memory does not guarantee memory accuracy, and insomnia care should not represent hypnosis as either a direct sleep switch or a method that proves recovered trauma memories.
 - Licensed care and medical screening remain necessary when symptoms are serious, unexplained, traumatic, or psychiatric.
 
 ## Evidence
@@ -45,13 +48,14 @@ The Essentials edit condenses that full interview and preserves the same control
 - Scope and safety - [[using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213]] recommends trained licensed providers and evaluation of possible medical causes before symptom reduction.
 - Earlier pain application - [[scim2452395341-scim2452395341]] presents brief repeated self-hypnosis as a non-drug adjunct for selected acute or chronic pain.
 - Condensed corroboration - [[essentials-using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim2804799179]] restates the focused-attention, controlled-approach, variable-response, and licensed-care framework without adding an independent study base.
+- Sleep-clinic distinction and memory boundary - [[vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv]] distinguishes hypnosis from directly inducing sleep and links it to selected trauma-related insomnia, while its recall framing remains qualified by [[MemoryContaminationRisk]].
 
 ## Counterevidence & Qualifications
 The sources are condensed public explanations, not systematic reviews. The full interview and Essentials edit overlap and therefore add provenance rather than independent confirmation. Exact adult and pediatric effect sizes, opioid reductions, complication differences, procedure-time changes, PTSD improvement, cancer-support outcomes, practice frequency, and acute-versus-chronic pain effects need verification against full studies. Brain connectivity and anterior-cingulate GABA associations do not by themselves establish a treatment mechanism. ADHD was not directly studied by Spiegel in the episode; OCD, benzodiazepine, breathing, performance, and EMDR interpretations remain conditional. State-dependent access can increase vividness without establishing historical truth, so [[MemoryContaminationRisk]] remains active. Hypnosis is not universally available because response varies, and stage demonstrations do not represent typical clinical practice.
 
 ## What Changed
-- The Essentials edit leaves the current judgment unchanged because it condenses the already represented full interview.
-- Its shorter account reinforces voluntary control, individual response differences, and licensed-care boundaries as the durable frame.
+- Added the distinction between hypnosis as a psychotherapeutic tool and direct induction of ordinary sleep.
+- Explicitly qualified lowered-defensiveness and recovered-memory language: vivid recall does not establish historical accuracy.
 
 ## Related Concepts
 - [[Hypnotizability]] - individual capacity that conditions access to and response within hypnosis.

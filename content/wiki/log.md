@@ -34774,3 +34774,11 @@ Added source `597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt94
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.177白天睡不醒，晚上睡不着！不靠药，专业医生教你破局｜精神心理科
+
+Added source `vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv`; resynthesized [[ChronicInsomniaRecognitionAndTreatment]], [[SleepAnxietyLoop]], [[WearableHealthDataAnxiety]], [[MultidisciplinarySleepCare]], and [[ClinicalHypnosis]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: persistent, function-impairing insomnia needs cause-directed assessment; catastrophic prediction and device-score comparison can add arousal; and CBT-I, psychotherapy, physical treatment, or medication should be selected proportionately through shared decisions. No settled contradiction was adopted. rTMS course length, device, imaging, hypnosis, and other treatment claims remain source-scoped, and vivid recall is not treated as verified memory. Downstream synthesis found no dirty topic and global compaction was not due; rendered artifacts validate 4,356 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.177白天睡不醒，晚上睡不着！不靠药，专业医生教你破局｜精神心理科](sources/vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv.md) — 这病说来话长 episode on persistent-insomnia recognition, sleep-anxiety and wearable-feedback loops, CBT-I, stepped multidisciplinary care, and hypnosis-memory boundaries.
 - [597. The First World War: The Massacre of the Innocents (Part 4)](sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550.md) — The Rest Is History on First Ypres, the Channel ports, trench stalemate, Khudadad Khan, Falkenhayn, and the Langemarck sacrifice myth.
 - [EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”](sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw.md) — Talk三联 with 土摩托 on Humboldt, interconnected nature, reading plus fieldwork, ecological context, disciplinary specialization, and embodied knowledge in the AI era.
 - [075 中元节特辑｜趣话僵尸片真正开山之作：林正英《僵尸先生》](sources/075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq.md) — 纸醉金迷FM复盘《僵尸先生》，并讨论其恐怖喜剧结构、民俗再组合、叙事漏洞、制作风险与香港僵尸片遗产。

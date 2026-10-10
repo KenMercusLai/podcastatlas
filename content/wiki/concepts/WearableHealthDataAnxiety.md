@@ -9,6 +9,7 @@ sources:
   - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
   - the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86
   - vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0
+  - vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -33,11 +34,13 @@ The Oura segment adds a company-side formulation of the unresolved effect. Acces
 
 VOL.187 reinforces the sleep-specific boundary through an everyday case: public comparison of watch-reported deep sleep can turn rest into competition, while wearing the device can itself make some users sleep worse. The episode therefore prioritizes stable timing and waking function over a single night's stage estimate, without rejecting clinical polysomnography or longer-term pattern tracking.
 
+VOL.177 adds the clinician-facing feedback mechanism: some people gain useful visibility from a watch, while others see the numbers, compare or share them, become more anxious, and then sleep worse. The device is therefore neither inherently reassuring nor harmful; usefulness depends on measurement limits, the decision it informs, and whether feedback produces proportionate action or repeated vigilance.
+
 ## Key Claims
 - Dense wearable data is most useful when tied to a clinical risk, a specific behavior question, or a follow-up decision.
 - Healthy users can overread normal variation when they monitor continuously without a clear intervention threshold.
 - Single metrics can mislead because glucose, sleep duration, heart rate, and weight each omit other health dimensions.
-- Social comparison and algorithmic feeds can turn private data into performance pressure by repeatedly ranking whose curve, score, or body looks healthier.
+- Social comparison, public score-sharing, and algorithmic feeds can turn private data into performance pressure; whether a sleep device helps partly depends on whether its feedback supports proportionate action or repeated vigilance.
 - Abnormal or worrying data should become a reason for qualified review, not an excuse for unsupervised diagnosis or treatment.
 - Sleep and body metrics can reveal patterns but become noisy or emotionally loaded when they turn sleep, eating, exercise, or bowel function into performance indicators; the meaning assigned to a sleep score can itself alter confidence or performance.
 - Clinical measurement and consumer scoring serve different purposes; a watch-estimated sleep stage should not be treated as equivalent to diagnostic monitoring.
@@ -53,13 +56,14 @@ VOL.187 reinforces the sleep-specific boundary through an everyday case: public 
 - Suggestion and trend reading - [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] says perceived good or poor sleep scores can influence performance and recommends averages and trends over single-night judgments.
 - Reassurance-anxiety ambiguity - [[the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86]] says Oura presents data as reassuring while the episode leaves open whether constant feedback reduces or increases anxiety.
 - Deep-sleep competition boundary - [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]] describes stage-score comparison and device-induced vigilance while restoring next-day clarity, mood, and function as primary practical checks.
+- Individual response and comparison loop - [[vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv]] says sleep tracking can help some people but can also trigger score anxiety, comparison, and a worsening sleep-anxiety cycle.
 
 ## Counterevidence & Qualifications
 The sources do not reject wearable devices, bed sensors, or personal health data. They preserve CGM value for diabetes patients, allow short-term self-observation for some healthy users, and treat sleep scores as useful pattern signals. Consumer sleep staging is not equivalent to clinical polysomnography, and neither source notes full device-validation evidence. AMA #14 does not provide the reported sleep-score studies' full methods, samples, or effect estimates, and the Oura episode does not provide comparative anxiety outcomes, so both claims remain source-scoped. The caution applies when continuous data is treated as a comprehensive health grade, an object of family comparison, or a substitute for clinical interpretation and body feedback.
 
 ## What Changed
-- Added VOL.187's stage-score competition case and its stable-timing and next-day-function counterweight.
-- Made the consumer-estimate versus clinical-measurement distinction explicit.
+- Added the person-dependent feedback loop linking score visibility, comparison, anxiety, and worse sleep.
+- Clarified that usefulness depends on a defined question and proportionate action, not data availability alone.
 
 ## Related Concepts
 - [[ContinuousGlucoseMonitoring]] - main device example for the concept.
