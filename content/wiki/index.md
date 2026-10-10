@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.184解决晕车你得先找到真相：当大脑收到这三个矛盾信号｜耳鼻喉科](sources/vol-184-jiejue-yunche-ni-de-xian-zhaodao-zhenxiang-dang-danao-shoudao-zhe-sange-maodun-xinhao-erbihouke-lqasxyp6lysn8f3gszysfipivw1f.md) — 这病说来话长由吕颜璐解释视觉、前庭与本体感觉冲突，连接交通工具、座位姿态、环境触发、习服训练与用药边界。
 - [615. Disneyland: The Modern American Utopia](sources/615-disneyland-the-modern-american-utopia-glt8516268220.md) — The Rest Is History on Disneyland's pleasure-garden and ride genealogy, Walt Disney's trains and miniatures, Cold War symbolism, immersive design, opening-day chaos, and architecture of reassurance.
 - [Essentials: Erasing Fears & Traumas Using Modern Neuroscience](sources/essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683.md) — Condensed Huberman Lab episode on learned threat responses, exposure and narrative work, adaptive relearning, supervised assisted psychotherapy, and deliberate-arousal safety boundaries.
 - [083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1](sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz.md) — 纸醉金迷FM以金庸情感排行、跨作品配对、百花错问答、大战与影视改编，讨论关系适配、反事实角色实验、叙事误导、群像汇流和代际观看记忆。
@@ -4368,6 +4369,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
 
 ## Entities
+- [吕颜璐 / Lü Yanlu](entities/LvYanlu.md) — Source-scoped Shenzhen People's Hospital otolaryngologist explaining motion sickness, sensory conflict, habituation, and travel-management boundaries.
 - [Shanghai Disneyland](entities/ShanghaiDisneyland.md) — Disney theme park presented by Bob Iger as an “authentically Disney, but distinctly Chinese” localization case.
 - [Star Wars: Galaxy's Edge](entities/StarWarsGalaxysEdge.md) — Disney park land that translates Star Wars mythology into a technology-enabled physical story environment.
 - [Jennifer Groh](entities/JenniferGroh.md) — Duke sensory neuroscientist studying how gaze, hearing, vision, and context are combined into spatial perception and thought.
@@ -17442,6 +17444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Motion-Sickness Sensory Conflict and Management / 晕动症感官冲突与应对](concepts/MotionSicknessSensoryConflictManagement.md) — Three-input model joining vestibular, visual, and proprioceptive mismatch to prediction, travel context, layered self-management, habituation, and clinical boundaries.
 - [Architecture of Reassurance](concepts/ArchitectureOfReassurance.md) — Design model in which human scale, cleanliness, legibility, operational order, and curated time make a bounded environment feel safe and predictable.
 - [Theme Park Genealogy](concepts/ThemeParkGenealogy.md) — Historical lineage connecting pleasure gardens, fairs, mechanical rides, railways, and scenic staging to modern themed environments.
 - [Institutional Legacy Reinvention](concepts/InstitutionalLegacyReinvention.md) — Stewardship model that preserves generative values and audience trust without freezing inherited products, rules, or methods.
