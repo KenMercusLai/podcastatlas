@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1516
+topic_total_pages: 1519
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1060,6 +1060,9 @@ topic_concepts:
   - key: "HerbalSupplementLiverToxicity"
     title: "Herbal Supplement Liver Toxicity"
     url: "/wiki/concepts/herbalsupplementlivertoxicity/"
+  - key: "HiddenHearingLoss"
+    title: "Hidden Hearing Loss"
+    url: "/wiki/concepts/hiddenhearingloss/"
   - key: "HighGeneralLowSpecificExpectations"
     title: "High General, Low Specific Expectations"
     url: "/wiki/concepts/highgenerallowspecificexpectations/"
@@ -2990,6 +2993,9 @@ topic_entities:
   - key: "KevinMitchell"
     title: "Kevin Mitchell"
     url: "/wiki/entities/kevinmitchell/"
+  - key: "KonstantinaStankovic"
+    title: "Konstantina Stankovic"
+    url: "/wiki/entities/konstantinastankovic/"
   - key: "KurtStenn"
     title: "Kurt Stenn / 库尔特·斯坦"
     url: "/wiki/entities/kurtstenn/"
@@ -4290,6 +4296,9 @@ topic_sources:
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+  - key: "scim4605688764-scim4605688764"
+    title: "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic"
+    url: "/wiki/sources/scim4605688764-scim4605688764/"
   - key: "restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341"
     title: "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray"
     url: "/wiki/sources/restore-youthfulness-vitality-to-the-aging-brain-body-dr-tony-wyss-coray-scim5931542341/"

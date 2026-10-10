@@ -46928,6 +46928,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/cocacola/"
     },
+    "CochlearImplantAuditoryRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/cochlearimplantauditoryrestoration/"
+    },
     "CockLaneGhost": {
       "episode_count": 1,
       "show_count": 1,
@@ -111243,9 +111259,9 @@
       "url": "/wiki/concepts/headlesssoftware/"
     },
     "HeadphoneUseHearingRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -111267,9 +111283,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hearing, Balance & Accelerated Learning",
           "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        },
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/headphoneusehearingrisk/"
     },
     "HealthCodedFoodLabelLiteracy": {
@@ -111397,6 +111420,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/healthspanthreedomains/"
+    },
+    "HearingLossCognitiveRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/hearinglosscognitiverisk/"
     },
     "HeartFailure": {
       "episode_count": 1,
@@ -113826,6 +113865,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/hiddenassetoptionality/"
+    },
+    "HiddenHearingLoss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/hiddenhearingloss/"
     },
     "HiddenPotential": {
       "episode_count": 1,
@@ -141893,6 +141948,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/konradlorenz/"
+    },
+    "KonstantinaStankovic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/konstantinastankovic/"
     },
     "KoreanGiveUpGenerationPressure": {
       "episode_count": 2,
@@ -182482,9 +182553,9 @@
       "url": "/wiki/entities/nocsprovisions/"
     },
     "NoiseExposureLayering": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -182492,9 +182563,16 @@
           "show": "这病说来话长",
           "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
           "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        },
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/noiseexposurelayering/"
     },
     "NolanRealitySpectacle": {
@@ -251048,9 +251126,9 @@
       "url": "/wiki/concepts/timingdependentdefectionleniency/"
     },
     "TinnitusSignalBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -251072,9 +251150,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hearing, Balance & Accelerated Learning",
           "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        },
+        {
+          "episode_file": "SCIM4605688764 [SCIM4605688764].md",
+          "key": "scim4605688764-scim4605688764",
+          "show": "Huberman Lab",
+          "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+          "url": "/wiki/sources/scim4605688764-scim4605688764/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/tinnitussignalboundary/"
     },
     "Tinybeans": {

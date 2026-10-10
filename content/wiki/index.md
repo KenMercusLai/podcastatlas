@@ -4391,6 +4391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Your Lymphatic System for Overall Health & Appearance](sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441.md) — Huberman Lab solo episode on lymphatic fluid recovery, immune surveillance, movement- and pressure-supported flow, sleep-linked glymphatic clearance, and clinical boundaries.
 
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
+- [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
 
 ## Entities
 - [余博 / Yu Bo (Comedian)](entities/YuBoComedian.md) — Stand-up comedian whose ketoacidosis, ICU recovery, glucose monitoring, and chronic-illness adaptation ground the VOL.181 patient account.
@@ -17488,6 +17489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Sriman Swarup](entities/SrimanSwarup.md) — Oncologist and OncoNexus founder advocating integrated, inspectable, human-reviewed AI for cancer-care workflows.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
+- [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
 
 ## Concepts
 - [Diabetes Acute Crisis Recognition / 糖尿病急性危象识别](concepts/DiabetesAcuteCrisisRecognition.md) — Distinguishes diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia from ordinary glucose-management problems.
@@ -27770,5 +27772,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ambient Oncology](concepts/AmbientOncology.md) — Integrated background AI model that reduces oncology administration while preserving consent, traceability, containment, and human action.
 - [Clinical AI Traceability](concepts/ClinicalAITraceability.md) — Ability to connect clinical AI flags and data changes to source evidence, time, processing history, and accountable review.
 - [Operational Precision Oncology](concepts/OperationalPrecisionOncology.md) — Personalized cancer care that includes logistics, treatment format, trial feasibility, and patient circumstances alongside biology.
+- [Hidden Hearing Loss](concepts/HiddenHearingLoss.md) — Auditory synaptic, neural, or speech-in-noise dysfunction that may not appear on standard quiet pure-tone thresholds.
+- [Hearing Loss and Cognitive Risk](concepts/HearingLossCognitiveRisk.md) — Qualified relationship among hearing difficulty, communication, isolation, depression, cognitive decline, and uncertain direct causation.
+- [Cochlear Implant Auditory Restoration](concepts/CochlearImplantAuditoryRestoration.md) — Place-frequency neural stimulation restoring useful patterned input in selected severe or profound hearing loss.
 
 ## Syntheses

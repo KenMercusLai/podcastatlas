@@ -34474,3 +34474,11 @@ Added source `vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic
+
+Added source `scim4605688764-scim4605688764`; created [[KonstantinaStankovic]], [[HiddenHearingLoss]], [[HearingLossCognitiveRisk]], and [[CochlearImplantAuditoryRestoration]]; and resynthesized [[HeadphoneUseHearingRisk]], [[NoiseExposureLayering]], and [[TinnitusSignalBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: auditory risk is a level-duration-and-recovery problem; normal tone thresholds can coexist with synaptic, neural, or speech-in-noise difficulty; tinnitus requires subtype-aware evaluation rather than general supplement use; cochlear implants can restore patterned input in selected severe cases; and hearing loss is associated with cognitive decline through plausible direct and better-established social pathways without making dementia inevitable. The later review-level tinnitus account narrows the earlier compound discussion rather than creating a settled contradiction. Exposure heuristics, magnesium findings, implant response rates, medication and hormone associations, dementia mechanisms, diagnostic yields, AI predictions, environmental-toxicant findings, and regenerative prospects remain episode-attributed or source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, guest, and concepts capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,318 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 36 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

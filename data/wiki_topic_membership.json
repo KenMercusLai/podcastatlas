@@ -43360,6 +43360,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HiddenHearingLoss": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "HiddenPotential": [
     {
       "key": "culture",
@@ -51763,6 +51770,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "KonstantinaStankovic": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "KoreanCultureLedConsumerMarketing": [
@@ -102711,6 +102725,13 @@
     }
   ],
   "scim4448895120-scim4448895120": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim4605688764-scim4605688764": [
     {
       "key": "science",
       "label": "Science",

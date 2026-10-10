@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13036
+wiki_total_pages: 13037
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "KonradLorenz"
     title: "Konrad Lorenz"
     url: "/wiki/entities/konradlorenz/"
+  - key: "KonstantinaStankovic"
+    title: "Konstantina Stankovic"
+    url: "/wiki/entities/konstantinastankovic/"
   - key: "Kotex"
     title: "Kotex / 高洁丝"
     url: "/wiki/entities/kotex/"

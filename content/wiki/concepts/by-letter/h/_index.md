@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10206
+wiki_total_pages: 10209
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "HealthspanThreeDomains"
     title: "Healthspan Three Domains"
     url: "/wiki/concepts/healthspanthreedomains/"
+  - key: "HearingLossCognitiveRisk"
+    title: "Hearing Loss and Cognitive Risk"
+    url: "/wiki/concepts/hearinglosscognitiverisk/"
   - key: "HeartFailure"
     title: "Heart Failure / 心力衰竭"
     url: "/wiki/concepts/heartfailure/"
@@ -365,6 +368,9 @@ wiki_pages:
   - key: "HiddenAssetOptionality"
     title: "Hidden Asset Optionality"
     url: "/wiki/concepts/hiddenassetoptionality/"
+  - key: "HiddenHearingLoss"
+    title: "Hidden Hearing Loss"
+    url: "/wiki/concepts/hiddenhearingloss/"
   - key: "HierarchicalPluralismAlAndalus"
     title: "Hierarchical Pluralism in al-Andalus"
     url: "/wiki/concepts/hierarchicalpluralismalandalus/"

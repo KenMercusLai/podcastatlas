@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10206
+wiki_total_pages: 10209
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "CocaineRouteDisplacement"
     title: "Cocaine Route Displacement"
     url: "/wiki/concepts/cocaineroutedisplacement/"
+  - key: "CochlearImplantAuditoryRestoration"
+    title: "Cochlear Implant Auditory Restoration"
+    url: "/wiki/concepts/cochlearimplantauditoryrestoration/"
   - key: "CockroachMovement"
     title: "Cockroach Movement"
     url: "/wiki/concepts/cockroachmovement/"
