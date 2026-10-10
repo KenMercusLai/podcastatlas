@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10245
+wiki_total_pages: 10247
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "DietaryConstraintProductInsight"
     title: "Dietary Constraint Product Insight"
     url: "/wiki/concepts/dietaryconstraintproductinsight/"
+  - key: "DietaryFatQuantityAndQuality"
+    title: "Dietary Fat Quantity and Quality"
+    url: "/wiki/concepts/dietaryfatquantityandquality/"
   - key: "DietarySupplementHealthAndEducationAct"
     title: "Dietary Supplement Health and Education Act"
     url: "/wiki/concepts/dietarysupplementhealthandeducationact/"

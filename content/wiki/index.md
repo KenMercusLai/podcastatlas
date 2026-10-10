@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」](sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on dietary-fat quantity and quality, cooking-oil selection, heat, oxidation, labels, storage, and reuse.
 - [五条人之仁科×罗永浩！近五个小时的变态超长对谈！](sources/lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq.md) — 仁科与罗永浩从海丰童年、广州街头谋生和五条人成形谈到方言写歌、破圈、观众期待、《地球恋曲》与 AI 音乐判断。
 - [599. The First World War: Downfall of the Habsburgs (Part 6)](sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296.md) — The Rest Is History on Przemyśl, Habsburg military collapse in Galicia, the Carpathian relief disaster, Russian occupation, Russification, pogroms, deportation, and German dependence.
 - [600. Chatham High Street](sources/600-chatham-high-street-glt2782191075.md) — The Rest Is History walk through Rochester and Chatham, connecting Medway geography, Roman roads, cathedral and castle power, naval industry, empire, migration, and dockyard closure.
@@ -17568,6 +17569,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Cooking Oil Selection and Handling](concepts/CookingOilSelectionAndHandling.md) — Household framework matching oil processing and composition to cooking temperature, labels, packaging, storage, and bounded reuse.
+- [Dietary Fat Quantity and Quality](concepts/DietaryFatQuantityAndQuality.md) — Two-axis framework joining total fat intake with fatty-acid mix, hidden fats, source variety, and substitution context.
 - [Small-Town Experience as Aesthetic Language / 小镇经验的审美转化](concepts/SmallTownExperienceAsAestheticLanguage.md) — 将地方语言、劳动、物件、时尚、失败与社会关系选择性重组为艺术世界，而非透明复制地方生活。
 - [Dialect-Constrained Songwriting / 方言声调约束下的写歌](concepts/DialectConstrainedSongwriting.md) — 声调轮廓与旋律、可懂度、地方身份、作者分工和传播范围之间的创作约束。
 - [Eastern Front of the First World War](concepts/EasternFrontFirstWorldWar.md) — Eastern theater synthesis joining logistics, fortress warfare, imperial cohesion, occupation, population violence, captivity, and German dependence.

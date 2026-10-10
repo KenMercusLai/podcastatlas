@@ -34712,3 +34712,11 @@ Added source `lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」
+
+Added source `vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1`; created [[DietaryFatQuantityAndQuality]] and [[CookingOilSelectionAndHandling]]; and resynthesized [[YueWanrou|岳宛柔]] and [[DaShiHua|大食话]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: household oil decisions require both quantity and quality, with oil type matched to dish and temperature and with oxidation controlled through packaging, storage, timely use, and limited reuse. No settled contradiction was adopted; population intake figures, fatty-acid ratios, disease associations, age-group quantities, processing shares, shelf-life ranges, and reuse thresholds remain source-scoped public education rather than individualized medical or clinical-nutrition advice. Broad [[Atang|阿汤]] and [[ZheBingShuoLaiHuaChang|这病说来话长]] profiles were kept closed because the focused guest, affiliation, and concepts capture the bounded addition without changing their established profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,348 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

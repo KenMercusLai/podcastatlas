@@ -3686,7 +3686,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 198,
+      "source_note_count": 199,
       "topic_matched_source_note_count": 13,
       "topics": [
         {
@@ -3765,11 +3765,11 @@
           "episode_count": 5
         },
         {
-          "key": "LuluPlasticSurgeon",
-          "title": "Lulu (plastic-surgery doctor)",
-          "url": "/wiki/entities/luluplasticsurgeon/",
+          "key": "YueWanrou",
+          "title": "岳宛柔 / Yue Wanrou",
+          "url": "/wiki/entities/yuewanrou/",
           "kind": "person",
-          "episode_count": 4
+          "episode_count": 5
         }
       ],
       "start_here_episode_files": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10245
+wiki_total_pages: 10247
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2402,6 +2402,9 @@ wiki_pages:
   - key: "CookingAsCivilizationalLabor"
     title: "Cooking as Civilizational Labor / 烹饪作为文明劳动"
     url: "/wiki/concepts/cookingascivilizationallabor/"
+  - key: "CookingOilSelectionAndHandling"
+    title: "Cooking Oil Selection and Handling"
+    url: "/wiki/concepts/cookingoilselectionandhandling/"
   - key: "CoolingAsPublicHealth"
     title: "Cooling As Public Health"
     url: "/wiki/concepts/coolingaspublichealth/"
