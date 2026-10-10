@@ -4483,6 +4483,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060.md) — Condensed Huberman Lab interview on psychedelic categories, self-model change, clinical preparation and monitoring, microdosing evidence, bad-trip risk, and neurological-translation limits.
 
 - [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
+- [581. The Irish Civil War: The Killing of Michael Collins (Part 2)](sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863.md) — The Rest Is History on the Four Courts, the Free State's military consolidation, Michael Collins's death, executions, partition, and de Valera's constitutional return.
 
 ## Entities
 - [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
@@ -17703,6 +17704,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 - [《桃花源没事》](entities/TaohuayuanMeishi.md) — 马伯庸以妖怪社区、基层治理、逍遥丹谜案和资源不平等反转桃花源，并把理想共同体重构为持续维护的实践。
+- [Éamon de Valera](entities/EamonDeValera.md) — Anti-treaty republican leader who later entered parliament, governed through the Free State, removed the oath, and recovered the Treaty Ports.
 
 ## Concepts
 - [Environmental Neuroscience](concepts/EnvironmentalNeuroscience.md) — Evidence-tiered field connecting features of physical settings to cognition, emotion, behavior, and health.

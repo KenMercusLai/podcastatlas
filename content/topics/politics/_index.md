@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3268
+topic_total_pages: 3269
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7979,6 +7979,9 @@ topic_entities:
   - key: "ZohranMamdani"
     title: "Zohran Mamdani"
     url: "/wiki/entities/zohranmamdani/"
+  - key: "EamonDeValera"
+    title: "Éamon de Valera"
+    url: "/wiki/entities/eamondevalera/"
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"

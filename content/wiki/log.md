@@ -34902,6 +34902,10 @@ Added source `vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-11] ingest | 581. The Irish Civil War: The Killing of Michael Collins (Part 2)
+
+Added source `581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863`; created [[EamonDeValera|Éamon de Valera]]; and resynthesized [[MichaelCollinsIrishRevolutionary|Michael Collins]] and [[IrishTreatyCivilWarSplit]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the treaty split became a test of competing legitimacy and state capacity in which electoral mandate, British supply, clearer institutional aims, conventional victory, and coercion allowed the Free State to survive despite the anti-treaty IRA's initial strength; Collins's death remains historically decisive as symbol but uncertain in shooter attribution and counterfactual consequence; and de Valera's later parliamentary return shows the state absorbing parts of the defeated republican program. No settled contradiction was adopted. Force and casualty totals, sectarian violence, the effects of British support, Collins's possible peace purpose, shooter identity, and claims about alternative futures remain source-scoped. Broad [[Ireland]], [[TheRestIsHistory]], and [[IrishRepublicanArmy]] pages were kept closed because the focused source, principal actors, and treaty–civil-war concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,406 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -35169,6 +35173,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] ingest | Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky
 
 Added source `scim6217546049-scim6217546049`; resynthesized [[RobertSapolsky]], [[ContextDependentSocialHormoneEffects]], [[StressResponseRecovery]], [[DopamineWantingLoop]], and [[SocialComparisonPressure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: acute activation differs from chronic unrecovered stress; testosterone amplifies context- and status-relevant tendencies rather than directly creating aggression; dopamine supports anticipation and motivated pursuit rather than pleasure alone; and multiple simultaneous, abstract hierarchies can extend status stress into online comparison. No settled contradiction was adopted. This Essentials release condenses [[scim5791514102-scim5791514102|the full 2021 interview]] and is overlapping editorial provenance rather than independent confirmation. Animal models and claims about hormones, glucose uptake, cognition, dementia, cardiovascular health, and stress practices remain source-scoped public education, and severe structural or medical adversity must not be reframed as a personal mindset failure. Broad [[AndrewHuberman]], [[HubermanLab]], and menopause pages were kept closed because the focused source, guest, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,405 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-11] lint | Wiki health check
 

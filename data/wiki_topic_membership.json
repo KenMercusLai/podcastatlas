@@ -6291,6 +6291,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685": [
     {
       "key": "history",
@@ -31834,6 +31841,13 @@
     }
   ],
   "EVTaxCreditCliff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "EamonDeValera": [
     {
       "key": "politics",
       "label": "Politics",

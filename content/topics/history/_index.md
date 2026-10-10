@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2709
+topic_total_pages: 2710
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863"
+    title: "581. The Irish Civil War: The Killing of Michael Collins (Part 2)"
+    url: "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
   - key: "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685"
     title: "582. The Body in the Woods: A Medieval Murder Mystery"
     url: "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"

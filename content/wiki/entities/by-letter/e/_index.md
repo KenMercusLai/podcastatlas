@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13154
+wiki_total_pages: 13155
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "Endeavour"
     title: "HMS Endeavour"
     url: "/wiki/entities/endeavour/"
+  - key: "EamonDeValera"
+    title: "Éamon de Valera"
+    url: "/wiki/entities/eamondevalera/"
   - key: "ErNianLuLing"
     title: "《二年律令》 / Er Nian Lu Ling"
     url: "/wiki/entities/ernianluling/"

@@ -72399,6 +72399,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/eadweardmuybridge/"
     },
+    "EamonDeValera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3233824863 [GLT3233824863].md",
+          "key": "581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863",
+          "show": "The Rest Is History",
+          "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
+          "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/eamondevalera/"
+    },
     "EarCanalInflammationRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -132793,9 +132809,9 @@
       "url": "/wiki/entities/irishrepublicanbrotherhood/"
     },
     "IrishTreatyCivilWarSplit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -132803,9 +132819,16 @@
           "show": "The Rest Is History",
           "title": "137. 1922: The Birth of the Modern World Part 2",
           "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        },
+        {
+          "episode_file": "GLT3233824863 [GLT3233824863].md",
+          "key": "581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863",
+          "show": "The Rest Is History",
+          "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
+          "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/irishtreatycivilwarsplit/"
     },
     "IrishVolunteers": {
@@ -174645,9 +174668,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -174655,9 +174678,16 @@
           "show": "The Rest Is History",
           "title": "137. 1922: The Birth of the Modern World Part 2",
           "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        },
+        {
+          "episode_file": "GLT3233824863 [GLT3233824863].md",
+          "key": "581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863",
+          "show": "The Rest Is History",
+          "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
+          "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/michaelcollinsirishrevolutionary/"
     },
     "MichaelDJones": {
