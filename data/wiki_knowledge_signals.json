@@ -94060,6 +94060,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/francishalzen/"
     },
+    "FrancisII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/francisii/"
+    },
     "FrancisScottKey": {
       "episode_count": 1,
       "show_count": 1,
@@ -134506,9 +134522,9 @@
       "url": "/wiki/entities/jamessteinberg/"
     },
     "JamesStewartEarlOfMoray": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8999516788 [GLT8999516788].md",
@@ -134530,6 +134546,13 @@
           "show": "The Rest Is History",
           "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
           "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        },
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
         }
       ],
       "updated": "2026-10-11",
@@ -139575,9 +139598,9 @@
       "url": "/wiki/entities/johnkipling/"
     },
     "JohnKnox": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1545905247 [GLT1545905247].md",
@@ -139585,6 +139608,13 @@
           "show": "The Rest Is History",
           "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
           "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
+        },
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
         }
       ],
       "updated": "2026-10-11",
@@ -169071,6 +169101,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/maryofburgundy/"
     },
+    "MaryOfGuise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/maryofguise/"
+    },
     "MaryParsons": {
       "episode_count": 1,
       "show_count": 1,
@@ -169143,9 +169189,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -169216,6 +169262,13 @@
           "show": "The Rest Is History",
           "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
           "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
+        },
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
         }
       ],
       "updated": "2026-10-11",
@@ -227780,9 +227833,9 @@
       "url": "/wiki/entities/scotttannen/"
     },
     "ScottishReformationRoyalResistance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1545905247 [GLT1545905247].md",
@@ -227790,6 +227843,13 @@
           "show": "The Rest Is History",
           "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
           "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
+        },
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
         }
       ],
       "updated": "2026-10-11",
@@ -258717,6 +258777,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/treatyofbretigny/"
+    },
+    "TreatyOfEdinburgh": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT7930465337 [GLT7930465337].md",
+          "key": "619-elizabeth-i-the-virgin-queen-part-4-glt7930465337",
+          "show": "The Rest Is History",
+          "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
+          "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT5612344391 [GLT5612344391].md",
+          "key": "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391",
+          "show": "The Rest Is History",
+          "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+          "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/treatyofedinburgh/"
     },
     "TreatyOfParis1783": {
       "episode_count": 2,

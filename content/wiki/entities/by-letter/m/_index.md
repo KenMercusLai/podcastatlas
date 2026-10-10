@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13138
+wiki_total_pages: 13141
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "MaryOfBurgundy"
     title: "Mary of Burgundy"
     url: "/wiki/entities/maryofburgundy/"
+  - key: "MaryOfGuise"
+    title: "Mary of Guise"
+    url: "/wiki/entities/maryofguise/"
   - key: "MaryParsons"
     title: "Mary Parsons"
     url: "/wiki/entities/maryparsons/"

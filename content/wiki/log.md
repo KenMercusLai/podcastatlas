@@ -35089,3 +35089,11 @@ Added source `essentials-psychedelics-for-treating-mental-disorders-dr-matthew-j
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 585. Mary, Queen of Scots: The Royal Rivals (Part 2)
+
+Added source `585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391`; created [[MaryOfGuise|Mary of Guise]], [[FrancisII|Francis II]], and [[TreatyOfEdinburgh|Treaty of Edinburgh]]; and resynthesized [[MaryQueenOfScots|Mary, Queen of Scots]], [[JohnKnox|John Knox]], [[JamesStewartEarlOfMoray|James Stewart / Earl of Moray]], and [[ScottishReformationRoyalResistance]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Mary's French education, marriage, Guise sponsorship, and asserted English arms made her a three-kingdom dynastic threat before her Scottish reign; Protestant noble organization, Knox's preaching, anti-French resistance, Moray's English alliance, and military intervention defeated the regency; and the Treaty of Edinburgh plus Francis's death forced Mary's return under a private-Catholic/public-Protestant compromise. No settled contradiction was adopted. Secret treaty terms, popular religious balance, iconoclasm causation, and private motives attributed to Mary, the Guises, Knox, Moray, Cecil, or Catherine de Medici remain source-scoped. Broad Elizabeth, Cecil, Scotland, France, and show pages were kept closed because the focused source, principal actors, treaty, and resistance concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,395 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3683,6 +3683,10 @@
     "title": "58. The World Cup of Gods - Part 1",
     "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
   },
+  "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391": {
+    "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
+    "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+  },
   "586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247": {
     "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
     "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
@@ -34071,6 +34075,10 @@
     "title": "Francis Halzen",
     "url": "/wiki/entities/francishalzen/"
   },
+  "FrancisII": {
+    "title": "Francis II",
+    "url": "/wiki/entities/francisii/"
+  },
   "FrancisScottKey": {
     "title": "Francis Scott Key",
     "url": "/wiki/entities/francisscottkey/"
@@ -56590,6 +56598,10 @@
   "MaryOfBurgundy": {
     "title": "Mary of Burgundy",
     "url": "/wiki/entities/maryofburgundy/"
+  },
+  "MaryOfGuise": {
+    "title": "Mary of Guise",
+    "url": "/wiki/entities/maryofguise/"
   },
   "MaryParsons": {
     "title": "Mary Parsons",
@@ -86498,6 +86510,10 @@
   "TreatyOfBretigny": {
     "title": "Treaty of Brétigny",
     "url": "/wiki/entities/treatyofbretigny/"
+  },
+  "TreatyOfEdinburgh": {
+    "title": "Treaty of Edinburgh",
+    "url": "/wiki/entities/treatyofedinburgh/"
   },
   "TreatyOfNonsuch": {
     "title": "Treaty of Nonsuch",

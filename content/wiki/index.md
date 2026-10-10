@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [585. Mary, Queen of Scots: The Royal Rivals (Part 2)](sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391.md) — The Rest Is History on Mary's French formation, Guise dynastic ambition, the Scottish Protestant revolt, the Treaty of Edinburgh, and her constrained return.
 - [586. Mary, Queen of Scots: The Battle for Scotland (Part 3)](sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247.md) — The Rest Is History on Mary's return, Knox's resistance theory, succession-driven Protestant accommodation, and the dynastic and constitutional risks of Darnley.
 - [Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah](sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431.md) — Huberman Lab interview on gene and hormone organization of sex-linked neural circuits, adult reproductive-state plasticity, social behavior, pair bonding, and mouse-to-human evidence boundaries.
 - [VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科](sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie.md) — 这病说来话长 episode on BMI and waist context, sustainable diet and movement, fasting fit, metabolic risk, and indication-led bariatric surgery with long-term follow-up.
@@ -4473,6 +4474,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060.md) — Condensed Huberman Lab interview on psychedelic categories, self-model change, clinical preparation and monitoring, microdosing evidence, bad-trip risk, and neurological-translation limits.
 
 ## Entities
+- [Mary of Guise](entities/MaryOfGuise.md) — French-born Scottish regent whose dynastic government was defeated by Protestant revolt and English intervention.
+- [Francis II](entities/FrancisII.md) — Mary's first husband and brief French king whose death ended her French royal future.
+- [Treaty of Edinburgh](entities/TreatyOfEdinburgh.md) — 1560 settlement ending the French military position in Scotland and recognizing Elizabeth against Mary's claim.
 - [John Knox](entities/JohnKnox.md) — Scottish Protestant reformer whose resistance theory challenged Mary's Catholic royal authority.
 - [Nirao Shah](entities/NiraoShah.md) — Stanford neuroscientist studying gene, hormone, and circuit mechanisms of sex-linked innate social behavior.
 - [David Rizzio](entities/DavidRizzio.md) — Mary's Italian Catholic secretary, scapegoated and murdered as the vulnerable center of a noble coup.

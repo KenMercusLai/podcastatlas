@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 686,
-      "topic_matched_source_note_count": 643,
+      "source_note_count": 687,
+      "topic_matched_source_note_count": 644,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 632
+          "source_note_count": 633
         },
         {
           "key": "culture",
@@ -1018,16 +1018,16 @@
           "episode_count": 12
         },
         {
-          "key": "KaiserWilhelmII",
-          "title": "Kaiser Wilhelm II",
-          "url": "/wiki/entities/kaiserwilhelmii/",
-          "kind": "person",
-          "episode_count": 10
-        },
-        {
           "key": "MaryQueenOfScots",
           "title": "Mary, Queen of Scots",
           "url": "/wiki/entities/maryqueenofscots/",
+          "kind": "person",
+          "episode_count": 11
+        },
+        {
+          "key": "KaiserWilhelmII",
+          "title": "Kaiser Wilhelm II",
+          "url": "/wiki/entities/kaiserwilhelmii/",
           "kind": "person",
           "episode_count": 10
         },
