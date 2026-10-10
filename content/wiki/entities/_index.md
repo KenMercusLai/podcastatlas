@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13049
+wiki_total_pages: 13051
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "ApolloProgram"
     title: "Apollo Program"
     url: "/wiki/entities/apolloprogram/"
+  - key: "ApolloniusOfRhodes"
+    title: "Apollonius of Rhodes"
+    url: "/wiki/entities/apolloniusofrhodes/"
   - key: "AppStore"
     title: "App Store"
     url: "/wiki/entities/appstore/"
@@ -1625,6 +1628,9 @@ wiki_pages:
   - key: "ArgoFloats"
     title: "Argo floats"
     url: "/wiki/entities/argofloats/"
+  - key: "Argonautica"
+    title: "Argonautica"
+    url: "/wiki/entities/argonautica/"
   - key: "AriRedbord"
     title: "Ari Redbord"
     url: "/wiki/entities/ariredbord/"

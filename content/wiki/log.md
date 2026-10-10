@@ -34554,3 +34554,11 @@ Added source `essentials-how-humans-select-keep-romantic-partners-in-the-short-l
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)
+
+Added source `605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137`; created [[ApolloniusOfRhodes]], [[Argonautica]], and [[MythToMythologyTransition]]; and resynthesized [[Jason]], [[MedeaCharacter|Medea]], [[GoldenFleece|Golden Fleece]], [[Epicurus]], [[Alexandria]], [[LibraryOfAlexandria|Library of Alexandria]], and [[GreekMythology]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Apollonius turns older Argonautic, Homeric, Pindaric, Euripidean, and local material into a learned Hellenistic adventure in which Jason's success depends on Medea, while Alexandrian scholarship makes inherited myth increasingly available as self-conscious literature. No settled contradiction was adopted. The transition from myth to mythology is retained as a qualified model rather than an abrupt decline-of-religion claim; Apollonius's biography and library office, route geography, ruler cult, skepticism, astrology, and philosophical summaries remain source-scoped. Broad Alexander, Zeus, and show profiles were kept closed because the source note and focused pages capture the durable additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,328 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

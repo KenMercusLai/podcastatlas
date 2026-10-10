@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)](sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137.md) — The Rest Is History on Apollonius's Argonautica, Jason and Medea, Alexandrian scholarship, Hellenistic religion, and the qualified transition from myth to mythology.
 - [Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss](sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030.md) — Condensed Huberman Lab interview on long- and short-term mate choice, multidimensional mate value, deception, jealousy, stalking, and conflict-risk boundaries.
 - [606. Enoch Powell: Rivers of Blood](sources/606-enoch-powell-rivers-of-blood-glt7520958596.md) — The Rest Is History on Powell's biography, postwar Commonwealth immigration, the 1968 speech, its backlash, failed race-war prediction, and populist afterlife.
 - [607. Nelson’s Lover: The Scandalous Lady Hamilton](sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938.md) — The Rest Is History on Emma Hamilton’s rise from poverty and patronage to portrait celebrity, classical performance, marriage, and political influence in Naples.
@@ -4403,6 +4404,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Make Yourself Unbreakable | DJ Shipley](sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060.md) — Huberman Lab interview on combat trauma, injury recovery, daily mental posture, functional fitness, supervised psychedelic treatment, and integration.
 
 ## Entities
+- [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
+- [Argonautica](entities/Argonautica.md) — Hellenistic epic joining Jason's quest, Medea's aid, inherited story layers, geographical wonder, and modern cinematic adaptation.
 - [Peter Griffiths](entities/PeterGriffiths.md) — Conservative whose openly anti-immigration 1964 Smethwick campaign became a precedent for Powell's later turn.
 - [George Romney](entities/GeorgeRomney.md) — British portraitist whose repeated images of Emma Hamilton helped circulate her performed identities and celebrity.
 - [Charles Greville](entities/CharlesGreville.md) — Aristocratic patron who combined protection and artistic access with control over Emma Hamilton’s identity, child, and move to Naples.
@@ -14232,7 +14235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jacques Derrida / 德里达](entities/JacquesDerrida.md) — Copier repair figure whose dismantled machine becomes a deconstruction joke.
 - [Diogenes / 第欧根尼](entities/Diogenes.md) — Barrel and open-office refusal figure used to contrast Cynic freedom with managed corporate freedom.
 - [Michel de Montaigne / 蒙田](entities/MichelDeMontaigne.md) — Essay/probation pun figure whose short reports and endless trial period become office satire.
-- [Epicurus / 伊壁鸠鲁](entities/Epicurus.md) — Ancient philosopher appearing around copier and farewell-party scenes as part of the episode's everyday office ecology.
+- [Epicurus / 伊壁鸠鲁](entities/Epicurus.md) — Hellenistic philosopher of non-intervening gods and tranquility, later reused as a character in philosophical workplace satire.
 - [Heraclitus / 赫拉克利特](entities/Heraclitus.md) — Farewell-party figure whose repeated resignation and rehiring turn change into company routine.
 - [Bernard-Henri Levy / 伯纳德-亨利·列维](entities/BernardHenriLevy.md) — Public intellectual figure folded into the BHL/DHL delivery joke and media-persona discussion.
 - [The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》](entities/TheWitchesSalem1692.md) — Stacy Schiff book read by episode 91 as a case study in Salem, witch-hunt escalation, evidentiary collapse, and public accusation.
@@ -14288,10 +14291,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles Darwin / 查尔斯·达尔文](entities/CharlesDarwin.md) — Naturalist whose earthworm sensory tests illustrate small-question experimental discipline in the source.
 - [Robert Boyle / 罗伯特·波义耳](entities/RobertBoyle.md) — Experimental natural philosopher used in the source's Hobbes-Boyle contrast over experiment and authority.
 - [《美狄亚》 / Medea](entities/MedeaPlay.md) — Euripides tragedy read through Greek tragedy, female speech, revenge, child murder, and unresolved moral shock.
-- [Medea / 美狄亚](entities/MedeaCharacter.md) — Mythic woman and tragic protagonist whose betrayal by Jason becomes the episode's case for female revenge and anti-political rupture.
+- [Medea / 美狄亚](entities/MedeaCharacter.md) — Colchian princess and magical helper whose variable tradition moves from indispensable quest partner to catastrophic tragic avenger.
 - [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian treated by the source as modern-feeling for his psychological hesitation, hero deconstruction, and moral unease.
-- [Jason / 伊阿宋](entities/Jason.md) — Golden Fleece hero whose debt to Medea and later betrayal make him the deconstructed male hero in the episode.
-- [Golden Fleece / 金羊毛](entities/GoldenFleece.md) — Mythic quest object that brings Jason and Medea together and supplies the heroic prehistory behind Euripides' tragedy.
+- [Jason / 伊阿宋](entities/Jason.md) — Dispossessed quest leader whose success depends on Medea before his later betrayal collapses the autonomous heroic image.
+- [Golden Fleece / 金羊毛](entities/GoldenFleece.md) — Guarded Colchian quest object linking Phrixus and Helle, Jason's voyage, Medea's aid, and Euripidean tragedy.
 - [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god joining wine, theatre, mystery, ecstasy, sexuality, violence, and the social danger of repressed release.
 - [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy used as a comparison for freedom, ecstasy, violence, and order collapse.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
@@ -17119,8 +17122,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 - [David Linden](entities/DavidLinden.md) — Johns Hopkins neuroscientist framing individuality, sensory experience, cerebellar prediction, mind-body biology, and mortality through explicit evidence boundaries.
-- [Library of Alexandria](entities/LibraryOfAlexandria.md) — Ptolemaic royal collection and scholarly infrastructure whose historical work is obscured by universal-library and single-destruction myths.
-- [Alexandria](entities/Alexandria.md) — Planned Ptolemaic port capital joining maritime commerce, dynastic spectacle, and Greek-centered court scholarship.
+- [Library of Alexandria](entities/LibraryOfAlexandria.md) — Ptolemaic scholarly infrastructure joining textual preservation and literary creation, later obscured by universal-library and single-destruction myths.
+- [Alexandria](entities/Alexandria.md) — Planned Ptolemaic port capital joining commerce, dynastic spectacle, Greek-centered scholarship, and learned mythic inheritance.
 - [Ptolemy I Soter](entities/PtolemyI.md) — Successor ruler who joined Alexander's legacy and royal patronage to Alexandria's Museum and library project.
 - [Eratosthenes](entities/Eratosthenes.md) — Alexandrian scholar whose geography and Earth measurement qualify a purely literary account of the institution.
 - [Museum of Alexandria](entities/MuseumOfAlexandria.md) — Ptolemaic court research community and probable institutional setting of the Library of Alexandria.
@@ -17513,6 +17516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DJ Shipley](entities/DJShipley.md) — Retired Navy SEAL connecting combat trauma, severe injury, daily standards, family repair, functional training, and supervised psychedelic treatment.
 
 ## Concepts
+- [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.
 - [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
 - [Postwar Commonwealth Immigration to Britain](concepts/PostwarCommonwealthImmigration.md) — British sequence joining imperial citizenship, settlement, restriction, family reunion, postcolonial obligation, and anti-discrimination law.
 - [Psychological Service Consumer Vetting / 心理服务消费甄别](concepts/PsychologicalServiceConsumerVetting.md) — Layered assessment of psychological courses and services through need, competence, supervision, accountability, emotional effects, promises, and referral capacity.
@@ -25655,7 +25659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Comic Moral Inversion](concepts/BlackComicMoralInversion.md) — Comic pattern where serious moral categories are inverted so respectable duty, haunting, or social convention becomes absurd but still ethically charged.
 - [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
 - [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.
-- [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete, Homeric, tragic, and Campbellian examples including Theseus, Odysseus, Perseus, Phaethon, Hermaphroditus, and Oedipus.
+- [Greek Mythology](concepts/GreekMythology.md) — Layered story field spanning place memory, epic, tragedy, comparative patterns, double determination, and Hellenistic scholarly recombination.
 - [Island Extinction After Human Arrival](concepts/IslandExtinctionAfterHumanArrival.md) — Island-ecology pattern where human arrival, hunting, habitat change, or introduced pressures can eliminate island-adapted animals.
 - [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.
 - [Character Form Evolution](concepts/CharacterFormEvolution.md) — Pattern where Chinese characters change across oracle-bone, bronze, seal, clerical, traditional, simplified, and modern forms.

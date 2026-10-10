@@ -11110,9 +11110,9 @@
       "url": "/wiki/entities/alexandredumas/"
     },
     "Alexandria": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1578679297 [GLT1578679297].md",
@@ -11134,9 +11134,16 @@
           "show": "The Rest Is History",
           "title": "195. Young Cleopatra (Part 1)",
           "url": "/wiki/sources/195-young-cleopatra-part-1-glt1502910094/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/alexandria/"
     },
     "AlexandriaOcasioCortez": {
@@ -17565,6 +17572,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/apolloprogram/"
     },
+    "ApolloniusOfRhodes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/apolloniusofrhodes/"
+    },
     "ApostlePeter": {
       "episode_count": 1,
       "show_count": 1,
@@ -18373,6 +18396,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/argentinepolocluster/"
+    },
+    "Argonautica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/argonautica/"
     },
     "AriWallach": {
       "episode_count": 1,
@@ -80116,6 +80155,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/epicherohumanlimits/"
     },
+    "Epicurus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/epicurus/"
+    },
     "EpigeneticAgingInformationTheory": {
       "episode_count": 2,
       "show_count": 1,
@@ -101822,6 +101884,29 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/goldendoor/"
     },
+    "GoldenFleece": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/goldenfleece/"
+    },
     "GoldenStool": {
       "episode_count": 1,
       "show_count": 1,
@@ -104091,9 +104176,9 @@
       "url": "/wiki/concepts/greeddrivennarrativetrap/"
     },
     "GreekMythology": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -104150,9 +104235,16 @@
           "show": "The Rest Is History",
           "title": "13. Stephen Fry and Troy",
           "url": "/wiki/sources/13-stephen-fry-and-troy-glt5875934078/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/greekmythology/"
     },
     "GreekWarOfIndependence": {
@@ -132675,6 +132767,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/jargonboundarymaking/"
     },
+    "Jason": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jason/"
+    },
     "JasonCowley": {
       "episode_count": 1,
       "show_count": 1,
@@ -149180,9 +149295,9 @@
       "url": "/wiki/entities/liblib/"
     },
     "LibraryOfAlexandria": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1578679297 [GLT1578679297].md",
@@ -149190,9 +149305,16 @@
           "show": "The Rest Is History",
           "title": "361. The Lost Library of Alexandria",
           "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/libraryofalexandria/"
     },
     "LicensedSyntheticVoiceMarketplace": {
@@ -168026,6 +168148,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/medallia/"
     },
+    "MedeaCharacter": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/medeacharacter/"
+    },
     "MedecinsSansFrontieres": {
       "episode_count": 1,
       "show_count": 1,
@@ -178105,6 +178250,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/mysterynarrativeoverfitting/"
+    },
+    "MythToMythologyTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3067620137 [GLT3067620137].md",
+          "key": "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137",
+          "show": "The Rest Is History",
+          "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+          "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/mythtomythologytransition/"
     },
     "MythicAncestorHistoricalLegitimation": {
       "episode_count": 2,

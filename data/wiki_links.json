@@ -3675,6 +3675,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137": {
+    "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
+    "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+  },
   "606-enoch-powell-rivers-of-blood-glt7520958596": {
     "title": "606. Enoch Powell: Rivers of Blood",
     "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
@@ -10043,6 +10047,10 @@
     "title": "Apollo Program",
     "url": "/wiki/entities/apolloprogram/"
   },
+  "ApolloniusOfRhodes": {
+    "title": "Apollonius of Rhodes",
+    "url": "/wiki/entities/apolloniusofrhodes/"
+  },
   "ApostlePeter": {
     "title": "Peter the Apostle",
     "url": "/wiki/entities/apostlepeter/"
@@ -10346,6 +10354,10 @@
   "ArgoFloats": {
     "title": "Argo floats",
     "url": "/wiki/entities/argofloats/"
+  },
+  "Argonautica": {
+    "title": "Argonautica",
+    "url": "/wiki/entities/argonautica/"
   },
   "AriRedbord": {
     "title": "Ari Redbord",
@@ -59950,6 +59962,10 @@
   "MythAsPublicDream": {
     "title": "Myth As Public Dream / 神话作为公共的梦",
     "url": "/wiki/concepts/mythaspublicdream/"
+  },
+  "MythToMythologyTransition": {
+    "title": "Myth to Mythology Transition",
+    "url": "/wiki/concepts/mythtomythologytransition/"
   },
   "MythicAncestorHistoricalLegitimation": {
     "title": "Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构",
