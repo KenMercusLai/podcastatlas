@@ -171152,6 +171152,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/mickeymouse/"
     },
+    "MicroDramaFormBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/microdramaformboundary/"
+    },
     "MicroRestLearningReplay": {
       "episode_count": 1,
       "show_count": 1,
@@ -188194,6 +188210,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/originbiasincoffeeevaluation/"
+    },
+    "OriginalStoryDataLegibilityTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/originalstorydatalegibilitytrap/"
     },
     "OrthodonticTreatmentContinuity": {
       "episode_count": 2,
@@ -223159,6 +223191,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/screeningresultinterpretation/"
     },
+    "ScreenplayCenteredProduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/screenplaycenteredproduction/"
+    },
+    "ScreenwriterAIDirectingPath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/screenwriteraidirectingpath/"
+    },
     "ScriptedCandorTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -233407,9 +233471,9 @@
       "url": "/wiki/entities/songelatehan/"
     },
     "SongFangjin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -233424,9 +233488,16 @@
           "show": "罗永浩的十字路口",
           "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
           "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        },
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/songfangjin/"
     },
     "SongGuirenZhangHeLateHan": {
@@ -238029,6 +238100,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/storyearnedmoralinstruction/"
+    },
+    "StoryNoveltyAudienceConnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/storynoveltyaudienceconnection/"
     },
     "StraightRedressWithoutRevenge": {
       "episode_count": 1,
@@ -249452,6 +249539,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/threejinvassalrecognition/"
+    },
+    "ThreeLayerFilmValue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt24pCOBVqnYXJeven2dWhuHvMFu [lt24pCOBVqnYXJeven2dWhuHvMFu].md",
+          "key": "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu",
+          "show": "罗永浩的十字路口",
+          "title": "宋方金×罗永浩！故事必须有人讲下去",
+          "url": "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/threelayerfilmvalue/"
     },
     "ThreeParallelRiversLandscape": {
       "episode_count": 1,

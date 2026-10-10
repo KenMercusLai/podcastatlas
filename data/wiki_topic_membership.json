@@ -59053,6 +59053,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MicroDramaFormBoundary": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MicrohistoryFromHostileArchives": [
     {
       "key": "history",
@@ -64697,6 +64704,18 @@
     }
   ],
   "OriginalCharacterCommissionEconomy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "OriginalStoryDataLegibilityTrap": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -76267,6 +76286,25 @@
       "url": "/topics/culture/"
     }
   ],
+  "ScreenplayCenteredProduction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ScreenwriterAIDirectingPath": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Scribd": [
     {
       "key": "economics",
@@ -81467,6 +81505,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "StoryNoveltyAudienceConnection": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "StoryStorm": [
     {
       "key": "technology",
@@ -86004,6 +86049,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ThreeLayerFilmValue": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ThreeNonVentureTheory": [
@@ -101924,6 +101976,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_": [

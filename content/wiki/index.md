@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [宋方金×罗永浩！故事必须有人讲下去](sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu.md) — 宋方金与罗永浩从文学启蒙、编剧方法和剧作中心制谈到微短剧、原创受压、电影观众、行业伦理及 AI 时代的编剧主动权。
 - [Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math](sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math.md) — All-In on model welfare and AI consciousness, constitutional alignment, machine-checked mathematical discovery, French fiscal stress, and agent-driven service and software deflation.
 - [080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话](sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko.md) — 纸醉金迷FM以黄风岭危机、沙僧入队和四圣试禅心拆解项目补救、派系安插、分开审查与经受背叛风险后形成的合作信任。
 - [610. Nelson: The Battle of Copenhagen (Part 3)](sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543.md) — The Rest Is History on the Baltic crisis, Copenhagen's shoals and close action, Parker's withdrawal signal, Nelson's disobedience, Riou's death, and coercive ceasefire.
@@ -17483,6 +17484,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 
 ## Concepts
+- [Screenplay-Centered Production / 剧作中心制](concepts/ScreenplayCenteredProduction.md) — 以人物关系、主题和叙事结构作为导演、表演、制片与资本协作的共同依据。
+- [Original-Story Data Legibility Trap / 原创故事的数据可见性陷阱](concepts/OriginalStoryDataLegibilityTrap.md) — 原创因缺少先验数据而被视为高风险，导致平台和资本反复偏好更可评估、可控制的既有 IP。
+- [Micro-Drama Form Boundary / 微短剧形式边界](concepts/MicroDramaFormBoundary.md) — 分钟级单元强化信息、钩子与回报，同时压缩慢铺垫和主题积累的形式边界。
+- [Three-Layer Film Value / 电影的情绪、情感与情怀价值](concepts/ThreeLayerFilmValue.md) — 区分即时情绪、关系情感与个人或文化情怀的来源限定型电影分析框架。
+- [Screenwriter-to-Director AI Path / AI时代编剧导演化](concepts/ScreenwriterAIDirectingPath.md) — 生成视频可能让编剧更直接地把剧本转化为影像，同时保留控制、表演、权利与劳动难题。
+- [Story Novelty and Audience Connection / 新故事与时代连接](concepts/StoryNoveltyAudienceConnection.md) — 把尚未被充分叙事化的社会情绪、关系与技术变化转化为观众可识别的新故事。
 - [AI Model Welfare](concepts/AIModelWelfare.md) — Precautionary ethics for possible model experience, separated from proof of machine consciousness and confounded model self-report.
 - [Digitally Verifiable Discovery Loop](concepts/DigitallyVerifiableDiscoveryLoop.md) — AI iteration pattern where proposals can be executed, checked, and revised rapidly in digital environments.
 - [Agentic Service Deflation](concepts/AgenticServiceDeflation.md) — Hypothesis that agents can lower routine digital-service costs through parallel search, comparison, negotiation, and execution.

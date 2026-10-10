@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3424
+topic_total_pages: 3426
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4039,6 +4039,9 @@ topic_concepts:
   - key: "ScreenTimeParenting"
     title: "Screen-Time Parenting"
     url: "/wiki/concepts/screentimeparenting/"
+  - key: "ScreenwriterAIDirectingPath"
+    title: "Screenwriter-to-Director AI Path / AI时代编剧导演化"
+    url: "/wiki/concepts/screenwriteraidirectingpath/"
   - key: "SearchAdvertisingDecline"
     title: "Search Advertising Decline"
     url: "/wiki/concepts/searchadvertisingdecline/"
@@ -10128,6 +10131,9 @@ topic_sources:
   - key: "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
     title: "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26"
     url: "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+  - key: "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu"
+    title: "宋方金×罗永浩！故事必须有人讲下去"
+    url: "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
   - key: "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop"
     title: "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！"
     url: "/wiki/sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop/"

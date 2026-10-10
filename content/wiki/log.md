@@ -34438,3 +34438,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 宋方金×罗永浩！故事必须有人讲下去
+
+Added source `lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu`; created [[ScreenplayCenteredProduction|剧作中心制]], [[OriginalStoryDataLegibilityTrap|原创故事的数据可见性陷阱]], [[MicroDramaFormBoundary|微短剧形式边界]], [[ThreeLayerFilmValue|电影的情绪、情感与情怀价值]], [[StoryNoveltyAudienceConnection|新故事与时代连接]], and [[ScreenwriterAIDirectingPath|AI时代编剧导演化]]; and resynthesized [[SongFangjin|宋方金]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: stories require character relations, theme, formal fit, and contact with new social feeling, while data-legible IP, weak credit rules, and hierarchy can erode screenplay authority; micro-drama remains immature rather than disposable, and AI could increase writer control without resolving authorship, labor, performance, or capability boundaries. No settled contradiction was adopted. Industry periods, audience substitution, market figures, plagiarism cases, actor judgments, box-office forecasts, and AI timelines remain source-scoped. Broad [[LuoYonghao]], [[LuoyonghaosCrossroads]], and mature film-industry pages were kept closed because the source note, Song profile, and focused concepts capture the durable additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,314 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 36 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

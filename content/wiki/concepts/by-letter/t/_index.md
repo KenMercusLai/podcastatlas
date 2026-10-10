@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10198
+wiki_total_pages: 10204
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "ThreeRedLinesPolicy"
     title: "Three Red Lines Policy / 三条红线政策"
     url: "/wiki/concepts/threeredlinespolicy/"
+  - key: "ThreeLayerFilmValue"
+    title: "Three-Layer Film Value / 电影的情绪、情感与情怀价值"
+    url: "/wiki/concepts/threelayerfilmvalue/"
   - key: "ThreeLayerScaleEconomies"
     title: "Three-Layer Scale Economies"
     url: "/wiki/concepts/threelayerscaleeconomies/"

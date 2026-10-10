@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10198
+wiki_total_pages: 10204
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -356,6 +356,12 @@ wiki_pages:
   - key: "ScreenTimeParenting"
     title: "Screen-Time Parenting"
     url: "/wiki/concepts/screentimeparenting/"
+  - key: "ScreenplayCenteredProduction"
+    title: "Screenplay-Centered Production / 剧作中心制"
+    url: "/wiki/concepts/screenplaycenteredproduction/"
+  - key: "ScreenwriterAIDirectingPath"
+    title: "Screenwriter-to-Director AI Path / AI时代编剧导演化"
+    url: "/wiki/concepts/screenwriteraidirectingpath/"
   - key: "ScriptAsSocialHistory"
     title: "Script As Social History"
     url: "/wiki/concepts/scriptassocialhistory/"
@@ -2015,6 +2021,9 @@ wiki_pages:
   - key: "StoryMotifTransmission"
     title: "Story Motif Transmission"
     url: "/wiki/concepts/storymotiftransmission/"
+  - key: "StoryNoveltyAudienceConnection"
+    title: "Story Novelty and Audience Connection / 新故事与时代连接"
+    url: "/wiki/concepts/storynoveltyaudienceconnection/"
   - key: "StoryBasedEmpathy"
     title: "Story-Based Empathy"
     url: "/wiki/concepts/storybasedempathy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10198
+wiki_total_pages: 10204
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "MiaphysiteChristianity"
     title: "Miaphysite Christianity"
     url: "/wiki/concepts/miaphysitechristianity/"
+  - key: "MicroDramaFormBoundary"
+    title: "Micro-Drama Form Boundary / 微短剧形式边界"
+    url: "/wiki/concepts/microdramaformboundary/"
   - key: "MicroHappiness"
     title: "Micro-Happiness"
     url: "/wiki/concepts/microhappiness/"

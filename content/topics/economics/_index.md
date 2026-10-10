@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2233
+topic_total_pages: 2234
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2281,6 +2281,9 @@ topic_concepts:
   - key: "OrganizedAngelInvestorNetworks"
     title: "Organized Angel Investor Networks"
     url: "/wiki/concepts/organizedangelinvestornetworks/"
+  - key: "OriginalStoryDataLegibilityTrap"
+    title: "Original-Story Data Legibility Trap / 原创故事的数据可见性陷阱"
+    url: "/wiki/concepts/originalstorydatalegibilitytrap/"
   - key: "OutboundProfitTransmissionMechanism"
     title: "Outbound Profit Transmission Mechanism / 出海收益传导机制"
     url: "/wiki/concepts/outboundprofittransmissionmechanism/"

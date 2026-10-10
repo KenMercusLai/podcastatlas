@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10198
+wiki_total_pages: 10204
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "OriginalCharacterCommissionEconomy"
     title: "Original Character Commission Economy / 设圈约稿经济"
     url: "/wiki/concepts/originalcharactercommissioneconomy/"
+  - key: "OriginalStoryDataLegibilityTrap"
+    title: "Original-Story Data Legibility Trap / 原创故事的数据可见性陷阱"
+    url: "/wiki/concepts/originalstorydatalegibilitytrap/"
   - key: "OrnithologicalFieldwork"
     title: "Ornithological Fieldwork"
     url: "/wiki/concepts/ornithologicalfieldwork/"
