@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13054
+wiki_total_pages: 13056
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "InovanceTechnology"
     title: "Inovance Technology / 汇川技术"
     url: "/wiki/entities/inovancetechnology/"
+  - key: "InsightRx"
+    title: "InsightRx"
+    url: "/wiki/entities/insightrx/"
   - key: "InsilicoMedicine"
     title: "Insilico Medicine"
     url: "/wiki/entities/insilicomedicine/"
@@ -323,6 +326,9 @@ wiki_pages:
   - key: "IPod"
     title: "iPod"
     url: "/wiki/entities/ipod/"
+  - key: "IqbalPehla"
+    title: "Iqbal Pehla"
+    url: "/wiki/entities/iqbalpehla/"
   - key: "IQIYI"
     title: "iQIYI / 爱奇艺"
     url: "/wiki/entities/iqiyi/"

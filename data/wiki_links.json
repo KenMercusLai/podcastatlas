@@ -39411,6 +39411,10 @@
     "title": "Healthcare Impossible Triangle / 医疗不可能三角",
     "url": "/wiki/concepts/healthcareimpossibletriangle/"
   },
+  "HealthcareMarketingOutcomeAnalytics": {
+    "title": "Healthcare Marketing Outcome Analytics",
+    "url": "/wiki/concepts/healthcaremarketingoutcomeanalytics/"
+  },
   "HealthcareMediaAITrust": {
     "title": "Healthcare Media AI Trust",
     "url": "/wiki/concepts/healthcaremediaaitrust/"
@@ -43687,6 +43691,10 @@
     "title": "Insider Dissent Strategy / 局内人异议策略",
     "url": "/wiki/concepts/insiderdissentstrategy/"
   },
+  "InsightRx": {
+    "title": "InsightRx",
+    "url": "/wiki/entities/insightrx/"
+  },
   "InsilicoMedicine": {
     "title": "Insilico Medicine",
     "url": "/wiki/entities/insilicomedicine/"
@@ -44510,6 +44518,10 @@
   "IowaElectronicMarkets": {
     "title": "Iowa Electronic Markets",
     "url": "/wiki/entities/iowaelectronicmarkets/"
+  },
+  "IqbalPehla": {
+    "title": "Iqbal Pehla",
+    "url": "/wiki/entities/iqbalpehla/"
   },
   "Iran": {
     "title": "Iran",
@@ -55886,6 +55898,10 @@
   "MarketingEthics": {
     "title": "Marketing Ethics / 营销伦理",
     "url": "/wiki/concepts/marketingethics/"
+  },
+  "MarketingInsightToActionLatency": {
+    "title": "Marketing Insight-to-Action Latency",
+    "url": "/wiki/concepts/marketinginsighttoactionlatency/"
   },
   "MarketingManagementChain": {
     "title": "Marketing Management Chain / 营销管理链路",
@@ -99026,6 +99042,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational": {
+    "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+    "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
   },
   "ep-26-the-future-of-healthcare-ai-data-and-human-touch": {
     "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",

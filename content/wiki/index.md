@@ -4409,6 +4409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [DAVID SENRA: Daniel Ek, Spotify](sources/scim3646778859-scim3646778859.md) — David Senra launch interview with Daniel Ek on impact, founder-archetype fit, trust, stage-specific product judgment, high-variance ideas, energy, and quality.
 
+- [EP 25: AI Revolution in Marketing: From Traditional to Transformational](sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational.md) — Data Science With Sam interview with Iqbal Pehla on AI-enabled healthcare marketing analytics, shorter outcome-feedback loops, and problem-led adoption.
+
 ## Entities
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
 - [Argonautica](entities/Argonautica.md) — Hellenistic epic joining Jason's quest, Medea's aid, inherited story layers, geographical wonder, and modern cinematic adaptation.
@@ -17526,6 +17528,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [David Senra](entities/DavidSenra.md) — Podcast host using founder biographies and interviews to examine operating fit, ambition, impact, and quality.
 
+- [Iqbal Pehla](entities/IqbalPehla.md) — InsightRx founder and CEO advocating outcome-first AI adoption and faster, interpretable healthcare-marketing analytics.
+- [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
+
 ## Concepts
 - [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.
 - [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
@@ -27828,5 +27833,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Impact-Driven Work](concepts/ImpactDrivenWork.md) — Personal motivation frame connecting durable satisfaction to consequential problem-solving rather than status or consumption alone.
 - [Stage-Specific Product Judgment](concepts/StageSpecificProductJudgment.md) — Changing balance of founder intuition, evidence, metrics, and delegation across invention, scaling, and optimization.
 - [High-Variance Idea Protection](concepts/HighVarianceIdeaProtection.md) — Bounded protection for inconsistent creators and fragile ideas whose rare contributions may have outsized value.
+
+- [Healthcare Marketing Outcome Analytics](concepts/HealthcareMarketingOutcomeAnalytics.md) — Use of campaign and patient-outcome signals for healthcare-marketing decisions under attribution, privacy, compliance, and trust constraints.
+- [Marketing Insight-to-Action Latency](concepts/MarketingInsightToActionLatency.md) — Time from usable performance evidence to an accountable campaign change, bounded by validity and review requirements.
 
 ## Syntheses

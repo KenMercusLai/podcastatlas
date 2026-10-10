@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10225
+wiki_total_pages: 10227
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "HealthcareImpossibleTriangle"
     title: "Healthcare Impossible Triangle / 医疗不可能三角"
     url: "/wiki/concepts/healthcareimpossibletriangle/"
+  - key: "HealthcareMarketingOutcomeAnalytics"
+    title: "Healthcare Marketing Outcome Analytics"
+    url: "/wiki/concepts/healthcaremarketingoutcomeanalytics/"
   - key: "HealthcareMediaAITrust"
     title: "Healthcare Media AI Trust"
     url: "/wiki/concepts/healthcaremediaaitrust/"

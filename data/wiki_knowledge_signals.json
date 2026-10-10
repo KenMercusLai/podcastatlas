@@ -21918,9 +21918,9 @@
       "url": "/wiki/concepts/automatedhiringproxydiscrimination/"
     },
     "AutomatedPerformanceMarketing": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
@@ -21949,9 +21949,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Selling Before Building: $1M ARR in Six Months",
           "url": "/wiki/sources/selling-before-building-1m-arr-in-six-months/"
+        },
+        {
+          "episode_file": "24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128 [24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8393a5].md",
+          "key": "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational",
+          "show": "Data Science With Sam",
+          "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+          "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/automatedperformancemarketing/"
     },
     "AutomaticLicensePlateReader": {
@@ -111841,6 +111848,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/healthinsurancedeathspiral/"
     },
+    "HealthcareMarketingOutcomeAnalytics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128 [24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8393a5].md",
+          "key": "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational",
+          "show": "Data Science With Sam",
+          "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+          "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/healthcaremarketingoutcomeanalytics/"
+    },
     "HealthcareMediaAITrust": {
       "episode_count": 1,
       "show_count": 1,
@@ -127301,6 +127324,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/insectbitedermatitis/"
     },
+    "InsightRx": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128 [24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8393a5].md",
+          "key": "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational",
+          "show": "Data Science With Sam",
+          "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+          "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/insightrx/"
+    },
     "InsilicoMedicine": {
       "episode_count": 1,
       "show_count": 1,
@@ -130239,6 +130278,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/ionianrevolt/"
+    },
+    "IqbalPehla": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128 [24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8393a5].md",
+          "key": "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational",
+          "show": "Data Science With Sam",
+          "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+          "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/iqbalpehla/"
     },
     "IranContraAffair": {
       "episode_count": 1,
@@ -165921,6 +165976,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/marketingethics/"
+    },
+    "MarketingInsightToActionLatency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128 [24229DCB9A5ED36C6389128FF7395D8F~8584421_2026-08-10-214921-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8393a5].md",
+          "key": "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational",
+          "show": "Data Science With Sam",
+          "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",
+          "url": "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/marketinginsighttoactionlatency/"
     },
     "MarketingManagementChain": {
       "episode_count": 2,

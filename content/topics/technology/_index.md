@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3432
+topic_total_pages: 3437
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2494,6 +2494,9 @@ topic_concepts:
   - key: "HealthcareAIInfrastructure"
     title: "Healthcare AI Infrastructure"
     url: "/wiki/concepts/healthcareaiinfrastructure/"
+  - key: "HealthcareMarketingOutcomeAnalytics"
+    title: "Healthcare Marketing Outcome Analytics"
+    url: "/wiki/concepts/healthcaremarketingoutcomeanalytics/"
   - key: "HealthcareMediaAITrust"
     title: "Healthcare Media AI Trust"
     url: "/wiki/concepts/healthcaremediaaitrust/"
@@ -3043,6 +3046,9 @@ topic_concepts:
   - key: "ManufacturingDigitalThread"
     title: "Manufacturing Digital Thread / 制造数字主线"
     url: "/wiki/concepts/manufacturingdigitalthread/"
+  - key: "MarketingInsightToActionLatency"
+    title: "Marketing Insight-to-Action Latency"
+    url: "/wiki/concepts/marketinginsighttoactionlatency/"
   - key: "MarketingScienceUserPath"
     title: "Marketing Science User Path / 营销科学用户路径"
     url: "/wiki/concepts/marketingscienceuserpath/"
@@ -6185,6 +6191,9 @@ topic_entities:
   - key: "InovanceTechnology"
     title: "Inovance Technology / 汇川技术"
     url: "/wiki/entities/inovancetechnology/"
+  - key: "InsightRx"
+    title: "InsightRx"
+    url: "/wiki/entities/insightrx/"
   - key: "InsilicoMedicine"
     title: "Insilico Medicine"
     url: "/wiki/entities/insilicomedicine/"
@@ -6215,6 +6224,9 @@ topic_entities:
   - key: "IPhoneDuo"
     title: "iPhone Duo"
     url: "/wiki/entities/iphoneduo/"
+  - key: "IqbalPehla"
+    title: "Iqbal Pehla"
+    url: "/wiki/entities/iqbalpehla/"
   - key: "IREN"
     title: "IREN"
     url: "/wiki/entities/iren/"
@@ -9261,6 +9273,9 @@ topic_sources:
   - key: "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai"
     title: "EP 19: Navigating the Future of Workplace Health and Benefits with AI"
     url: "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+  - key: "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational"
+    title: "EP 25: AI Revolution in Marketing: From Traditional to Transformational"
+    url: "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"
   - key: "ep-26-the-future-of-healthcare-ai-data-and-human-touch"
     title: "EP 26: The Future of Healthcare - AI, Data and Human Touch"
     url: "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"

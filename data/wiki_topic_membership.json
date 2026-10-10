@@ -42939,6 +42939,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HealthcareMarketingOutcomeAnalytics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HealthcareMediaAITrust": [
     {
       "key": "technology",
@@ -47176,6 +47183,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "InsightRx": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "InsilicoMedicine": [
     {
       "key": "technology",
@@ -48211,6 +48225,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "IqbalPehla": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Iran": [
@@ -57289,6 +57310,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MarketingInsightToActionLatency": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MarketingScienceUserPath": [
@@ -99866,6 +99894,13 @@
     }
   ],
   "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational": [
     {
       "key": "technology",
       "label": "Technology",
