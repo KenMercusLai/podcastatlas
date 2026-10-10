@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [何广智×罗永浩！何广智：我到长安了](sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt.md) — 罗永浩对谈何广智，从夺冠策略、素材储备和现场迭代谈到城乡成长、羞耻经验的喜剧转化、职业路径与专场目标。
 - [How to Set & Achieve Massive Goals | Alex Honnold](sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705.md) — Huberman Lab interview on Alex Honnold's El Capitan preparation, small-goal accumulation, climbing flow, risk calibration, aging, and mortality-aware effort.
 - [VOL.177白天睡不醒，晚上睡不着！不靠药，专业医生教你破局｜精神心理科](sources/vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv.md) — 这病说来话长 episode on persistent-insomnia recognition, sleep-anxiety and wearable-feedback loops, CBT-I, stepped multidisciplinary care, and hypnosis-memory boundaries.
 - [597. The First World War: The Massacre of the Innocents (Part 4)](sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550.md) — The Rest Is History on First Ypres, the Channel ports, trench stalemate, Khudadad Khan, Falkenhayn, and the Langemarck sacrifice myth.
@@ -4436,6 +4437,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [He Guangzhi / 何广智](entities/HeGuangzhiStandup.md) — Chinese stand-up comedian connecting class-shaped autobiographical material, competition strategy, open-mic accumulation, and a post-championship special.
 - [Alex Honnold](entities/AlexHonnold.md) — Professional climber connecting El Capitan preparation, route-specific risk judgment, intrinsic motivation, and long-horizon goals.
 - [First Battle of Ypres](entities/FirstBattleOfYpres.md) — 1914 battle that protected the Channel ports, fixed the Ypres salient, depleted the old BEF, and acquired a powerful German memory afterlife.
 - [Khudadad Khan](entities/KhudadadKhan.md) — Punjabi Muslim machine gunner at First Ypres and the first Muslim recipient of the Victoria Cross.
@@ -17591,6 +17593,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
 
 ## Concepts
+- [Shame-to-Comedy Transformation / 羞耻经验的喜剧转化](concepts/ShameToComedyTransformation.md) — Turning concealed class, appearance, taste, and social experience into comedy without fixing an early persona as permanent identity.
+- [Stand-up Competition Material Strategy / 脱口秀竞赛素材配置](concepts/StandupCompetitionMaterialStrategy.md) — Allocation of premises, drafts, revision capacity, and confidence across elimination rounds under material scarcity.
 - [Domain-Specific Risk Calibration](concepts/DomainSpecificRiskCalibration.md) — Expert separation of visual salience, technical difficulty, protection, consequence, and behavioral adaptation within a practiced domain.
 - [High-Consequence Performance Preparation](concepts/HighConsequencePerformancePreparation.md) — Selective exact rehearsal, broad exposure, condition ranges, automaticity, and stopping judgment for consequential performance.
 - [Langemarck Myth](concepts/LangemarckMyth.md) — German memory construction that reorganized uncertain battlefield singing into a legend of youthful patriotic sacrifice and later political rebirth.

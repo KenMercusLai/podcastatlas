@@ -112237,6 +112237,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/hechangeasternhan/"
     },
+    "HeGuangzhiStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkz6aMsE3fTpkTl8vkoZPFxj2KwT [lkz6aMsE3fTpkTl8vkoZPFxj2KwT].md",
+          "key": "heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt",
+          "show": "罗永浩的十字路口",
+          "title": "何广智×罗永浩！何广智：我到长安了",
+          "url": "/wiki/sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/heguangzhistandup/"
+    },
     "HeHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -228833,6 +228849,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
     },
+    "ShameToComedyTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkz6aMsE3fTpkTl8vkoZPFxj2KwT [lkz6aMsE3fTpkTl8vkoZPFxj2KwT].md",
+          "key": "heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt",
+          "show": "罗永浩的十字路口",
+          "title": "何广智×罗永浩！何广智：我到长安了",
+          "url": "/wiki/sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/shametocomedytransformation/"
+    },
     "ShanBingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -239394,9 +239426,9 @@
       "url": "/wiki/concepts/standupclasspositionequalization/"
     },
     "StandupComedyIteration": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -239418,10 +239450,33 @@
           "show": "三五环",
           "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
           "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
+        },
+        {
+          "episode_file": "lkz6aMsE3fTpkTl8vkoZPFxj2KwT [lkz6aMsE3fTpkTl8vkoZPFxj2KwT].md",
+          "key": "heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt",
+          "show": "罗永浩的十字路口",
+          "title": "何广智×罗永浩！何广智：我到长安了",
+          "url": "/wiki/sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/standupcomedyiteration/"
+    },
+    "StandupCompetitionMaterialStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkz6aMsE3fTpkTl8vkoZPFxj2KwT [lkz6aMsE3fTpkTl8vkoZPFxj2KwT].md",
+          "key": "heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt",
+          "show": "罗永浩的十字路口",
+          "title": "何广智×罗永浩！何广智：我到长安了",
+          "url": "/wiki/sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/standupcompetitionmaterialstrategy/"
     },
     "StanfordInstituteForHumanCenteredAI": {
       "episode_count": 1,

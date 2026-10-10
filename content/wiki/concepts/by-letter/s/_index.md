@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10264
+wiki_total_pages: 10266
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "ShameBasedSelfConcept"
     title: "Shame-Based Self-Concept"
     url: "/wiki/concepts/shamebasedselfconcept/"
+  - key: "ShameToComedyTransformation"
+    title: "Shame-to-Comedy Transformation / 羞耻经验的喜剧转化"
+    url: "/wiki/concepts/shametocomedytransformation/"
   - key: "ShangYangReforms"
     title: "Shang Yang Reforms / 商鞅变法"
     url: "/wiki/concepts/shangyangreforms/"
@@ -1793,6 +1796,9 @@ wiki_pages:
   - key: "StandupComedyIteration"
     title: "Stand-up Comedy Iteration"
     url: "/wiki/concepts/standupcomedyiteration/"
+  - key: "StandupCompetitionMaterialStrategy"
+    title: "Stand-up Competition Material Strategy / 脱口秀竞赛素材配置"
+    url: "/wiki/concepts/standupcompetitionmaterialstrategy/"
   - key: "StandUpPaddleboarding"
     title: "Stand-Up Paddleboarding / 桨板"
     url: "/wiki/concepts/standuppaddleboarding/"
