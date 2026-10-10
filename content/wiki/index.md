@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Overcome Inner Resistance | Steven Pressfield](sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458.md) — Huberman Lab interview on Resistance, turning pro, focused writing, drafts, shipping, mentorship, calling, sacrifice, and creative receptivity.
 - [名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！](sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng.md) — 罗永浩对谈叶国富，以名创优品的供应商、加盟、逛店体验与IP转型，连接永辉从货架收费向产品、供应链和自有品牌主导的改革。
 - [VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆](sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz.md) — 这病说来话长 roundtable on unresolved symptoms, online self-diagnosis, somatization, proportionate medical assessment, and tolerance of diagnostic uncertainty.
 - [611. Nelson: Bonaparte Prepares to Strike (Part 4)](sources/611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489.md) — The Rest Is History on Britain's invasion scare, Nelson and Emma at Merton, the Toulon blockade, Villeneuve's escape, and the Atlantic-Caribbean chase.
@@ -4385,6 +4386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 
 ## Entities
+- [Steven Pressfield](entities/StevenPressfield.md) — Writer whose practice joins resistance, professional conduct, finishing, mentorship, sacrifice, and spiritual receptivity.
 - [叶国富 / Ye Guofu](entities/YeGuofu.md) — 名创优品创始人及永辉改革推动者，以巡店、选品、标准化、IP试验和供应链改造为经营抓手。
 - [永辉超市 / Yonghui Superstores](entities/YonghuiSuperstores.md) — 正在尝试从货架收费转向产品、供应链、自有品牌和本地家庭适配的中国超市连锁。
 - [胖东来 / Pang Dong Lai](entities/PangDongLai.md) — 以产品、服务、顾客导向和对外运营援助进入本期证据的中国零售标杆。
@@ -17473,6 +17475,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 
 ## Concepts
+- [Creative Professionalism](concepts/CreativeProfessionalism.md) — Behavior-based model of turning pro through regular attendance, protected attention, drafts, audience service, completion, and return.
+- [Resistance to Meaningful Work](concepts/ResistanceToMeaningfulWork.md) — Bounded framework for fear, procrastination, perfectionism, distraction, and social friction around valued work.
 - [逛店驱动的实体零售 / Browse-Led Physical Retail](concepts/BrowseLedPhysicalRetail.md) — 以发现、触摸、陈列、服务和冲动购买构成到店价值，而不把门店视为低效履约点。
 - [长期IP组合孵化 / Long-Horizon IP Portfolio Building](concepts/LongHorizonIPPortfolioBuilding.md) — 通过多创作者试验、产品数据、择优集中和克制开发管理角色IP的命中不确定性。
 - [产品主导型超市转型 / Product-Led Supermarket Transformation](concepts/ProductLedSupermarketTransformation.md) — 超市从供应商货架收费转向选品、采购、质量、供应链、自有品牌和顾客价值负责的改革路径。

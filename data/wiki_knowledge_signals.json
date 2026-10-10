@@ -33849,9 +33849,9 @@
       "url": "/wiki/concepts/californiawealthtaxcapitalflight/"
     },
     "CallingCommitmentTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7125421200 [SCIM7125421200].md",
@@ -33859,9 +33859,16 @@
           "show": "Huberman Lab",
           "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
           "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        },
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/callingcommitmenttradeoff/"
     },
     "CallumWilliams": {
@@ -54177,10 +54184,26 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/creativephaseseparation/"
     },
-    "CreativeReceptivityAndIdeaCapture": {
-      "episode_count": 2,
+    "CreativeProfessionalism": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/creativeprofessionalism/"
+    },
+    "CreativeReceptivityAndIdeaCapture": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5595688842 [SCIM5595688842].md",
@@ -54195,9 +54218,16 @@
           "show": "Huberman Lab",
           "title": "How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/how-to-access-your-creativity-rick-rubin-scim6664103159/"
+        },
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/creativereceptivityandideacapture/"
     },
     "CreativeReinventionThroughNewTools": {
@@ -65547,9 +65577,9 @@
       "url": "/wiki/concepts/disastrouspartypoliticalsymbol/"
     },
     "DisciplineOverMotivation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2090153799 [SCIM2090153799].md",
@@ -65585,9 +65615,16 @@
           "show": "Huberman Lab",
           "title": "How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
           "url": "/wiki/sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173/"
+        },
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/disciplineovermotivation/"
     },
     "Disco": {
@@ -188456,9 +188493,9 @@
       "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
     "OutcomeIndependentCreativePractice": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5595688842 [SCIM5595688842].md",
@@ -188480,6 +188517,13 @@
           "show": "Huberman Lab",
           "title": "Master the Creative Process | Twyla Tharp",
           "url": "/wiki/sources/master-the-creative-process-twyla-tharp-scim5167372935/"
+        },
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
         }
       ],
       "updated": "2026-10-10",
@@ -193600,9 +193644,9 @@
       "url": "/wiki/concepts/perfectdayimagination/"
     },
     "PerfectionismAsAvoidance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "129.如何成为真正的不完美主义者，浑身是劲儿！ [799220151].md",
@@ -193617,9 +193661,16 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/perfectionismasavoidance/"
     },
     "PerformanceAdvertisingLearningLoop": {
@@ -213231,6 +213282,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/residentphysicianstandardizedtraining/"
+    },
+    "ResistanceToMeaningfulWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/resistancetomeaningfulwork/"
     },
     "ResourceAsymmetryAttrition": {
       "episode_count": 3,
@@ -237379,6 +237446,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/steveyoungmelanomapatient/"
+    },
+    "StevenPressfield": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8607622458 [SCIM8607622458].md",
+          "key": "how-to-overcome-inner-resistance-steven-pressfield-scim8607622458",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Inner Resistance | Steven Pressfield",
+          "url": "/wiki/sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/stevenpressfield/"
     },
     "StevenSpielberg": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10192
+wiki_total_pages: 10194
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "ResistanceAxisBackfire"
     title: "Resistance Axis Backfire / 抵抗之弧反噬"
     url: "/wiki/concepts/resistanceaxisbackfire/"
+  - key: "ResistanceToMeaningfulWork"
+    title: "Resistance to Meaningful Work"
+    url: "/wiki/concepts/resistancetomeaningfulwork/"
   - key: "ResNeXt"
     title: "ResNeXt"
     url: "/wiki/concepts/resnext/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13027
+wiki_total_pages: 13028
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "StevenPinker"
     title: "Steven Pinker"
     url: "/wiki/entities/stevenpinker/"
+  - key: "StevenPressfield"
+    title: "Steven Pressfield"
+    url: "/wiki/entities/stevenpressfield/"
   - key: "StevenSpielberg"
     title: "Steven Spielberg / 斯皮尔伯格"
     url: "/wiki/entities/stevenspielberg/"
