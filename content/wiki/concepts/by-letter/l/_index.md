@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10261
+wiki_total_pages: 10262
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "LandscapeFirePrevention"
     title: "Landscape Fire Prevention"
     url: "/wiki/concepts/landscapefireprevention/"
+  - key: "LangemarckMyth"
+    title: "Langemarck Myth"
+    url: "/wiki/concepts/langemarckmyth/"
   - key: "LanguageAgent"
     title: "Language Agent"
     url: "/wiki/concepts/languageagent/"

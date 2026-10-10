@@ -34766,3 +34766,11 @@ Added source `ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 597. The First World War: The Massacre of the Innocents (Part 4)
+
+Added source `597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550`; created [[FirstBattleOfYpres]], [[KhudadadKhan]], [[ErichVonFalkenhayn]], and [[LangemarckMyth]]. Core synthesis: First Ypres protected the Channel ports but depleted the old British Expeditionary Force and helped turn mobile war into entrenched attrition; reports of German battlefield singing were later compressed into a Langemarck legend whose political coherence exceeded the evidence for one literal event. No settled contradiction was adopted. Casualty totals, tactical credit, reported dialogue, precise singing details, and Falkenhayn's political options remain source-scoped. Broad [[FirstWorldWar]], [[WesternFrontFirstWorldWar]], [[TheRestIsHistory]], and national pages were kept closed because the focused battle, people, and memory concept capture the bounded addition without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,355 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

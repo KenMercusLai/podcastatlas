@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13086
+wiki_total_pages: 13089
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "Khorasan"
     title: "Khorasan"
     url: "/wiki/entities/khorasan/"
+  - key: "KhudadadKhan"
+    title: "Khudadad Khan"
+    url: "/wiki/entities/khudadadkhan/"
   - key: "KhurshidAhmed"
     title: "Khurshid Ahmed"
     url: "/wiki/entities/khurshidahmed/"

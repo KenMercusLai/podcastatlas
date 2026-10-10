@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [597. The First World War: The Massacre of the Innocents (Part 4)](sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550.md) — The Rest Is History on First Ypres, the Channel ports, trench stalemate, Khudadad Khan, Falkenhayn, and the Langemarck sacrifice myth.
 - [EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”](sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw.md) — Talk三联 with 土摩托 on Humboldt, interconnected nature, reading plus fieldwork, ecological context, disciplinary specialization, and embodied knowledge in the AI era.
 - [075 中元节特辑｜趣话僵尸片真正开山之作：林正英《僵尸先生》](sources/075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq.md) — 纸醉金迷FM复盘《僵尸先生》，并讨论其恐怖喜剧结构、民俗再组合、叙事漏洞、制作风险与香港僵尸片遗产。
 - [598. The First World War: The Eastern Front Explodes (Part 5)](sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701.md) — The Rest Is History on Serbia's 1914 defense, Austro-Hungarian failure and reprisals, Tannenberg, civilian violence in East Prussia, and the Hindenburg-Ludendorff command legend.
@@ -4433,6 +4434,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [First Battle of Ypres](entities/FirstBattleOfYpres.md) — 1914 battle that protected the Channel ports, fixed the Ypres salient, depleted the old BEF, and acquired a powerful German memory afterlife.
+- [Khudadad Khan](entities/KhudadadKhan.md) — Punjabi Muslim machine gunner at First Ypres and the first Muslim recipient of the Victoria Cross.
+- [Erich von Falkenhayn](entities/ErichVonFalkenhayn.md) — German chief of staff linking the failed Ypres offensive to western entrenchment and a rejected separate-peace proposal.
 - [Alexander von Humboldt / 亚历山大·冯·洪堡](entities/AlexanderVonHumboldt.md) — Prussian naturalist and public writer whose connective method joins measurement, travel, ecology, humanities, and political observation.
 - [《僵尸先生》 / Mr. Vampire (1985)](entities/MrVampire1985.md) — 1985 Hong Kong horror-comedy whose master-apprentice trio, ritual props, bodily suspense, and mixed genre grammar became highly reusable.
 - [林正英 / Lam Ching-ying](entities/LamChingYing.md) — Hong Kong performer whose authoritative 九叔 persona anchors the bounded jiangshi-film and television legacy.
@@ -17584,6 +17588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
 
 ## Concepts
+- [Langemarck Myth](concepts/LangemarckMyth.md) — German memory construction that reorganized uncertain battlefield singing into a legend of youthful patriotic sacrifice and later political rebirth.
 - [Humboldtian Nature Interconnection / 洪堡式万物相连](concepts/HumboldtianNatureInterconnection.md) — Relational view of organisms, climate, geology, altitude, water, and human action grounded in measurement and comparison.
 - [Reading-Fieldwork Knowledge Loop / 阅读与行走的知识循环](concepts/ReadingFieldworkKnowledgeLoop.md) — Reciprocal method in which texts guide travel, situated evidence revises interpretation, and bodily friction remains qualified rather than treated as proof.
 - [Ecological Context Specificity / 生态判断的地方适配](concepts/EcologicalContextSpecificity.md) — Rule that environmental mechanisms and remedies must fit the original biome, climate, soil, hydrology, disturbance, and human use.

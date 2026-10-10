@@ -81405,6 +81405,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/erichludendorff/"
     },
+    "ErichVonFalkenhayn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9434623550 [GLT9434623550].md",
+          "key": "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550",
+          "show": "The Rest Is History",
+          "title": "597. The First World War: The Massacre of the Innocents (Part 4)",
+          "url": "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/erichvonfalkenhayn/"
+    },
     "ErichVonManstein": {
       "episode_count": 1,
       "show_count": 1,
@@ -89884,6 +89900,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/firstantiwangmangrising/"
+    },
+    "FirstBattleOfYpres": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9434623550 [GLT9434623550].md",
+          "key": "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550",
+          "show": "The Rest Is History",
+          "title": "597. The First World War: The Massacre of the Innocents (Part 4)",
+          "url": "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/firstbattleofypres/"
     },
     "FirstContactNonInterference": {
       "episode_count": 1,
@@ -142282,6 +142314,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/khotankingdomlatehan/"
     },
+    "KhudadadKhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9434623550 [GLT9434623550].md",
+          "key": "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550",
+          "show": "The Rest Is History",
+          "title": "597. The First World War: The Massacre of the Innocents (Part 4)",
+          "url": "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/khudadadkhan/"
+    },
     "KhwarazmianEmpire": {
       "episode_count": 1,
       "show_count": 1,
@@ -145327,6 +145375,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/langyilatehan/"
+    },
+    "LangemarckMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9434623550 [GLT9434623550].md",
+          "key": "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550",
+          "show": "The Rest Is History",
+          "title": "597. The First World War: The Massacre of the Innocents (Part 4)",
+          "url": "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/langemarckmyth/"
     },
     "Langflow": {
       "episode_count": 1,
