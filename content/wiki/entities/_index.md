@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13074
+wiki_total_pages: 13078
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2228,6 +2228,9 @@ wiki_pages:
   - key: "AluoduoCheshiLateHan"
     title: "阿罗多 / Aluoduo (Cheshi, late Han)"
     url: "/wiki/entities/aluoduocheshilatehan/"
+  - key: "AMaoWutiaoren"
+    title: "阿茂 / A Mao (Wutiaoren)"
+    url: "/wiki/entities/amaowutiaoren/"
   - key: "Amon"
     title: "阿蒙 / Amon"
     url: "/wiki/entities/amon/"

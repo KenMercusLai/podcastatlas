@@ -7,7 +7,8 @@ sources:
   - tech-20260817-tech-pod-128-tech-20260817-tech-pod-128
   - shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc
   - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
-last_updated: 2026-10-08
+  - lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 Generative AI music is the use of AI systems to create or assist music production, from casual lyric-to-song generation to professional workflow support, model-assisted arrangement, voice, remixing, and release preparation.
 
 ## Current Synthesis
-The wiki now treats generative AI music as a production, discovery, governance, and artist-transition system rather than a single creation trick. [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] shows personal and community use through [[ChatGPT]] lyrics and [[Suno]] songs. [[tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]] adds the commercial music-market layer through [[Suno]], [[SunoSpark]], artist development, lawsuits, and label response. [[shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc]] adds the post-demo stage: listenable generation may be broadly solved, but product value now depends on workflow integration, detection, copyright checks, labeling authority, settlement rules, and whether generated songs earn durable listening. The [[ZhangWeiweiMusician|张玮玮]] conversation adds the working-artist threshold: AI can be proposed as another tool during creative reinvention while simultaneously being perceived as a threat to routine composition, arrangement, recording, and performance labor.
+The wiki now treats generative AI music as a production, discovery, governance, and artist-transition system rather than a single creation trick. [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] shows personal and community use through [[ChatGPT]] lyrics and [[Suno]] songs. [[tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]] adds the commercial market layer through [[Suno]], [[SunoSpark]], artist development, lawsuits, and label response. [[shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc]] adds workflow integration, detection, copyright checks, labeling authority, settlement rules, and durable listening. The Zhang Weiwei and Renke conversations add working-artist judgments ranging from tool adoption and labor fear to a broad prediction of eventual machine superiority. Those forecasts show the pressure artists perceive, but they do not establish capability, timing, rights, or audience outcomes.
 
 ## Key Claims
 - Lower creation friction can help non-specialists, community members, and musicians begin or prototype songs.
@@ -34,15 +35,14 @@ The wiki now treats generative AI music as a production, discovery, governance, 
 - Capability boundary: [[shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc]] has [[YeLuMureka|叶律]] say ordinary listeners may struggle to distinguish AI songs, while professional standards still expose gaps.
 - Workflow and governance layer: [[shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc]] uses [[Mureka]] and [[ACRCloud|ACR Cloud]] to connect generation, copyright checks, AI detection, labeling, and settlement disputes.
 - Working-artist adoption pressure: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] has [[LuoYonghao|罗永浩]] recommend [[Suno]] to an artist learning electronic production while predicting displacement across routine music-production roles.
+- Artist superiority forecast: [[lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq]] records [[RenkeMusician|仁科]] predicting that AI composition will eventually exceed the best human musicians without providing a timetable, test, workflow, or rights analysis.
 
 ## Counterevidence & Qualifications
-The sources do not prove that AI music can reliably produce long-lasting classics or professional finished products without human work. They also separate technical generation from market success: bulk song generation can fail when listeners do not consume the output, and detection or labels do not by themselves settle rights or payout policy. Luo's replacement forecast and inability to distinguish selected examples are anecdotal and do not establish the pace or distribution of labor displacement.
+The sources do not prove that AI music can reliably produce long-lasting classics or professional finished products without human work. They also separate technical generation from market success: bulk song generation can fail when listeners do not consume the output, and detection or labels do not by themselves settle rights or payout policy. Luo's replacement forecast, selected listening examples, and Renke's eventual-superiority prediction are anecdotal judgments that do not establish capability, timing, or the distribution of labor displacement.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` with the original source order preserved and the new EP56 source appended.
-- Added the post-demo claim that listenable generation may be solved for ordinary listeners while professional quality, workflow, and governance remain unresolved.
-- Added [[AIMusicWorkflowIntegration]], [[AIMusicDetectionAndLabeling]], and [[AIMusicSettlementParity]] as explicit AI-music subproblems.
-- Added the working-artist transition tension between using AI for reinvention and fearing displacement of routine music labor.
+- Added Renke's prediction of eventual machine superiority as a source-scoped artist judgment.
+- Clarified that capability, timing, rights, labor effects, and audience value remain unestablished by such forecasts.
 
 ## Related Concepts
 - [[AICreativeCollaboration]] - everyday human-AI creative practice using songs as communication or group belonging.

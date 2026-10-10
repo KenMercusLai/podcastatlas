@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13074
+wiki_total_pages: 13078
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "WudoumiDao"
     title: "五斗米道 / Wudoumi Dao"
     url: "/wiki/entities/wudoumidao/"
+  - key: "WutiaorenBand"
+    title: "五条人 / Wutiaoren"
+    url: "/wiki/entities/wutiaorenband/"
   - key: "WuxiMan"
     title: "五溪蛮 / Wuxi Man"
     url: "/wiki/entities/wuximan/"

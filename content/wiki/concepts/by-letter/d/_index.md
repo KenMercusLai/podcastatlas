@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10243
+wiki_total_pages: 10245
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "DiagnosticUltrasoundModalitySelection"
     title: "Diagnostic Ultrasound Modality Selection / 诊断超声方式选择"
     url: "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+  - key: "DialectConstrainedSongwriting"
+    title: "Dialect-Constrained Songwriting / 方言声调约束下的写歌"
+    url: "/wiki/concepts/dialectconstrainedsongwriting/"
   - key: "DialogicAILiteracy"
     title: "Dialogic AI Literacy"
     url: "/wiki/concepts/dialogicailiteracy/"

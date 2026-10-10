@@ -34704,3 +34704,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 五条人之仁科×罗永浩！近五个小时的变态超长对谈！
+
+Added source `lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq`; created [[RenkeMusician|仁科]], [[WutiaorenBand|五条人]], [[AMaoWutiaoren|阿茂]], [[HaifengGuangdong|海丰]], [[SmallTownExperienceAsAestheticLanguage]], and [[DialectConstrainedSongwriting]]; and resynthesized [[IndependentMusicSceneAsInfrastructure]], [[ArtisticContinuityAgainstNostalgia]], and [[GenerativeAIMusic]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Haifeng speech, small commerce, plastic objects, old fashions, street trade, informal record networks, technical constraint, and migration became artistic language through selection and practice rather than advance branding; mainstream exposure expanded Wutiaoren's audience while sharpening negotiation over privacy, older fans, television, and rearranged songs. No settled contradiction was adopted. Biographical detail, chronology, authorship proportions, audience response, album timing, and Renke's AI-superiority forecast remain participant-reported or source-scoped. Broad Luo Yonghao and show profiles were kept closed because this guest-centered episode does not materially change their established profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,347 sources across 801 overview paragraphs and nine topics. Changed-page source inventories, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

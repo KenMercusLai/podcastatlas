@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10243
+wiki_total_pages: 10245
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1163,6 +1163,9 @@ wiki_pages:
   - key: "SmallStateSurvivalByDistraction"
     title: "Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续"
     url: "/wiki/concepts/smallstatesurvivalbydistraction/"
+  - key: "SmallTownExperienceAsAestheticLanguage"
+    title: "Small-Town Experience as Aesthetic Language / 小镇经验的审美转化"
+    url: "/wiki/concepts/smalltownexperienceasaestheticlanguage/"
   - key: "SmallVenueCulturalIncubation"
     title: "Small-Venue Cultural Incubation"
     url: "/wiki/concepts/smallvenueculturalincubation/"

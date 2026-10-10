@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13074
+wiki_total_pages: 13078
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "RedCrownedCrane"
     title: "丹顶鹤 / Red-crowned Crane"
     url: "/wiki/entities/redcrownedcrane/"
+  - key: "RenkeMusician"
+    title: "仁科 / Renke"
+    url: "/wiki/entities/renkemusician/"
   - key: "RenZuoWarringStates"
     title: "任作 / Ren Zuo (Warring States)"
     url: "/wiki/entities/renzuowarringstates/"

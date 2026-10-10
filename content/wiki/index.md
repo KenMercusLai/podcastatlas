@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [五条人之仁科×罗永浩！近五个小时的变态超长对谈！](sources/lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq.md) — 仁科与罗永浩从海丰童年、广州街头谋生和五条人成形谈到方言写歌、破圈、观众期待、《地球恋曲》与 AI 音乐判断。
 - [599. The First World War: Downfall of the Habsburgs (Part 6)](sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296.md) — The Rest Is History on Przemyśl, Habsburg military collapse in Galicia, the Carpathian relief disaster, Russian occupation, Russification, pogroms, deportation, and German dependence.
 - [600. Chatham High Street](sources/600-chatham-high-street-glt2782191075.md) — The Rest Is History walk through Rochester and Chatham, connecting Medway geography, Roman roads, cathedral and castle power, naval industry, empire, migration, and dockyard closure.
 - [How to Expand Your Consciousness | Dr. Christof Koch](sources/scim8616450810-scim8616450810.md) — Huberman Lab interview on consciousness versus behavior and selfhood, perturbational complexity, covert consciousness, perception boxes, and source-scoped psychedelic metaphysics.
@@ -4425,6 +4426,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [仁科 / Renke](entities/RenkeMusician.md) — 以海丰经验、广州街头网络、五条人创作与破圈后的公众生活连接地方性和艺术自主的音乐人。
+- [五条人 / Wutiaoren](entities/WutiaorenBand.md) — 从海丰方言与广州非正式音乐基础设施中形成、后经《乐队的夏天》进入大众视野的乐队。
+- [阿茂 / A Mao (Wutiaoren)](entities/AMaoWutiaoren.md) — 五条人的奠基合作者、早期海丰话歌曲重要作者及《地球恋曲》主要作曲者。
+- [海丰 / Haifeng, Guangdong](entities/HaifengGuangdong.md) — 在仁科叙述中为方言、商业物件、小镇记忆与五条人审美提供生活材料的广东地方语境。
 - [Przemyśl](entities/Przemysl.md) — Galician fortress city whose two sieges, surrender, occupation, Jewish deportation, and German-led recapture exposed Habsburg fragility.
 - [Galicia](entities/Galicia.md) — Multiethnic Habsburg borderland where battlefield collapse, Russian occupation, Russification, pogroms, and forced population movement converged.
 - [Rochester](entities/Rochester.md) — Medway crossing town whose Roman route, cathedral, castle, Restoration associations, and Dickensian memory anchor the older side of the corridor.
@@ -17563,6 +17568,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Small-Town Experience as Aesthetic Language / 小镇经验的审美转化](concepts/SmallTownExperienceAsAestheticLanguage.md) — 将地方语言、劳动、物件、时尚、失败与社会关系选择性重组为艺术世界，而非透明复制地方生活。
+- [Dialect-Constrained Songwriting / 方言声调约束下的写歌](concepts/DialectConstrainedSongwriting.md) — 声调轮廓与旋律、可懂度、地方身份、作者分工和传播范围之间的创作约束。
 - [Eastern Front of the First World War](concepts/EasternFrontFirstWorldWar.md) — Eastern theater synthesis joining logistics, fortress warfare, imperial cohesion, occupation, population violence, captivity, and German dependence.
 - [Urban Historical Corridor](concepts/UrbanHistoricalCorridor.md) — Route-based framework for reading successive systems of movement, belief, defense, production, migration, and memory in one landscape.
 - [Covert Consciousness](concepts/CovertConsciousness.md) — Retained awareness or intentional response hidden by an inability to move, speak, or respond behaviorally.
