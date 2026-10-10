@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10250
+wiki_total_pages: 10255
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "HeadphoneUseHearingRisk"
     title: "Headphone Use Hearing Risk"
     url: "/wiki/concepts/headphoneusehearingrisk/"
+  - key: "HealthExposome"
+    title: "Health Exposome"
+    url: "/wiki/concepts/healthexposome/"
   - key: "HealthInsuranceDeathSpiral"
     title: "Health Insurance Death Spiral"
     url: "/wiki/concepts/healthinsurancedeathspiral/"

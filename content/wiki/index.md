@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder](sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357.md) — Huberman Lab interview on individual metabolic response, diabetes subtypes, longitudinal baselines, ageotypes, environmental exposure, and AI-assisted personalized medicine.
 - [076 【教师节特辑】金庸宇宙师父大盘点](sources/076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0.md) — 纸醉金迷FM以金庸师徒比较能力、教学、性格、关爱、声望与人脉，并延伸到多师成才、师生权力边界和以关怀赢得的母校归属。
 - [VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」](sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on dietary-fat quantity and quality, cooking-oil selection, heat, oxidation, labels, storage, and reuse.
 - [五条人之仁科×罗永浩！近五个小时的变态超长对谈！](sources/lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq.md) — 仁科与罗永浩从海丰童年、广州街头谋生和五条人成形谈到方言写歌、破圈、观众期待、《地球恋曲》与 AI 音乐判断。
@@ -4428,6 +4429,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [Michael Snyder](entities/MichaelSnyder.md) — Stanford genetics professor connecting longitudinal multi-omics, metabolic individuality, ageotypes, environmental sensing, and AI-assisted health interpretation.
 - [张三丰（金庸小说） / Zhang Sanfeng (Jin Yong)](entities/ZhangSanfengJinYong.md) — 纸醉金迷FM以武功、因材施教、情绪稳定、爱护和不囿门户评价的全能型良师。
 - [仁科 / Renke](entities/RenkeMusician.md) — 以海丰经验、广州街头网络、五条人创作与破圈后的公众生活连接地方性和艺术自主的音乐人。
 - [五条人 / Wutiaoren](entities/WutiaorenBand.md) — 从海丰方言与广州非正式音乐基础设施中形成、后经《乐队的夏天》进入大众视野的乐队。
@@ -17571,6 +17573,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Metabolic Response Individuality](concepts/MetabolicResponseIndividuality.md) — Framework for measuring person-specific responses to foods, fibers, medicines, sleep, exercise, and timing.
+- [Diabetes Mechanistic Subtyping](concepts/DiabetesMechanisticSubtyping.md) — Pathway-based division of broad glucose dysregulation into beta-cell, muscle, liver, adipose, and incretin-related patterns.
+- [Longitudinal Personal Health Baselines](concepts/LongitudinalPersonalHealthBaselines.md) — Repeated multimodal measurement used to interpret change against a person's own prior trajectory.
+- [Ageotypes](concepts/Ageotypes.md) — Proposed individualized aging trajectories across metabolic, immune, organ, inflammatory, and oxidative-stress systems.
+- [Health Exposome](concepts/HealthExposome.md) — Personal environmental-exposure frame linking particles, biological material, and chemicals with internal health measurements.
 - [Multidimensional Mentor Quality / 多维良师评价](concepts/MultidimensionalMentorQuality.md) — 将专业能力、教学能力、性格稳定、学生关爱、声望和关系资源分开评估的良师框架。
 - [Multi-Mentor Mastery and Learner Fit / 多师承与适配型成才](concepts/MultiMentorMastery.md) — 以多位老师、传承系统、机缘、练习、胸襟与学习者适配共同解释高水平成长。
 - [School Belonging Through Care / 以关怀赢得学校归属](concepts/SchoolBelongingThroughCare.md) — 以教学、支持和不放弃困难学生而非名气或证书界定母校归属。
@@ -24642,7 +24649,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scientific Discovery Automation](concepts/ScientificDiscoveryAutomation.md) — AI-for-science ambition to automate data analysis, hypothesis generation, path search, and validation loops.
 - [Platform-Pipeline Biotech Strategy](concepts/PlatformPipelineBiotechStrategy.md) — Biotech tradeoff between remaining a neutral discovery platform and owning downstream drug pipelines.
 - [Founder Signal Discipline](concepts/FounderSignalDiscipline.md) — Founder practice of filtering financing, ego, status, and buzzword noise so the company remains tied to its real problem.
-- [Personalized Molecular Medicine](concepts/PersonalizedMolecularMedicine.md) — Future medical route where genotype and protein-expression state shape customized molecular intervention.
+- [Personalized Molecular Medicine](concepts/PersonalizedMolecularMedicine.md) — Measurement-to-intervention framework joining molecular state, longitudinal data, response patterns, AI integration, and clinical validation.
 - [Life Reprogramming Vision](concepts/LifeReprogrammingVision.md) — Long-horizon AI-for-biology ambition to intervene in DNA, RNA, protein, and small-molecule interactions.
 - [Visual Brand System](concepts/VisualBrandSystem.md) — Coordinated packaging, color, typography, mascot, objects, and display rules that make a consumer product recognizable before explanation.
 - [Mascot Led Brand Recognition](concepts/MascotLedBrandRecognition.md) — Pattern where a brand-owned character becomes a durable memory device across packaging, advertising, retail, and merchandise.
@@ -26622,7 +26629,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, labor context, and agency before tool training.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
 - [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, review patient AI outputs, and support prevention without replacing diagnosis or treatment.
-- [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves, meal responses, PCOS risk context, and metabolic trends rather than isolated diagnostic points.
+- [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read individual glucose curves, meal and timing responses, diabetes risk, and metabolic trends rather than isolated diagnostic points.
 - [Wearable Health Data Anxiety / 可穿戴健康数据焦虑](concepts/WearableHealthDataAnxiety.md) — Pattern where dense health metrics from CGM, sleep, and other trackers shift from useful feedback into anxious self-scoring and comparison.
 - [Distribution-Out Personal Strategy](concepts/DistributionOutPersonalStrategy.md) — AI-era education and career strategy of building distinctive capability outside standardized statistical-center tasks.
 - [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.

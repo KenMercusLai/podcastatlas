@@ -7579,6 +7579,10 @@
     "title": "Agent's Last Exam",
     "url": "/wiki/entities/agentslastexam/"
   },
+  "Ageotypes": {
+    "title": "Ageotypes",
+    "url": "/wiki/concepts/ageotypes/"
+  },
   "AggregateIndicatorsLivedExperienceGap": {
     "title": "Aggregate Indicators Lived Experience Gap",
     "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
@@ -25535,6 +25539,10 @@
     "title": "Diabetes Acute Crisis Recognition / 糖尿病急性危象识别",
     "url": "/wiki/concepts/diabetesacutecrisisrecognition/"
   },
+  "DiabetesMechanisticSubtyping": {
+    "title": "Diabetes Mechanistic Subtyping",
+    "url": "/wiki/concepts/diabetesmechanisticsubtyping/"
+  },
   "DiabeticRetinopathyScreening": {
     "title": "Diabetic Retinopathy Screening / 糖尿病眼底筛查",
     "url": "/wiki/concepts/diabeticretinopathyscreening/"
@@ -39494,6 +39502,10 @@
   "HealthCodedFoodLabelLiteracy": {
     "title": "Health-Coded Food Label Literacy / 健康概念食品标签识读",
     "url": "/wiki/concepts/healthcodedfoodlabelliteracy/"
+  },
+  "HealthExposome": {
+    "title": "Health Exposome",
+    "url": "/wiki/concepts/healthexposome/"
   },
   "HealthInsuranceDeathSpiral": {
     "title": "Health Insurance Death Spiral",
@@ -53459,6 +53471,10 @@
     "title": "Longitudinal Multimodal Screening",
     "url": "/wiki/concepts/longitudinalmultimodalscreening/"
   },
+  "LongitudinalPersonalHealthBaselines": {
+    "title": "Longitudinal Personal Health Baselines",
+    "url": "/wiki/concepts/longitudinalpersonalhealthbaselines/"
+  },
   "LongitudinalRelationshipTrust": {
     "title": "Longitudinal Relationship Trust / 关系过程性信任",
     "url": "/wiki/concepts/longitudinalrelationshiptrust/"
@@ -57719,6 +57735,10 @@
     "title": "Metabolic Psychiatry",
     "url": "/wiki/concepts/metabolicpsychiatry/"
   },
+  "MetabolicResponseIndividuality": {
+    "title": "Metabolic Response Individuality",
+    "url": "/wiki/concepts/metabolicresponseindividuality/"
+  },
   "Metamorphoses": {
     "title": "Metamorphoses / 《变形记》",
     "url": "/wiki/entities/metamorphoses/"
@@ -57974,6 +57994,10 @@
   "MichaelServetus": {
     "title": "Michael Servetus",
     "url": "/wiki/entities/michaelservetus/"
+  },
+  "MichaelSnyder": {
+    "title": "Michael Snyder",
+    "url": "/wiki/entities/michaelsnyder/"
   },
   "MichaelTracey": {
     "title": "Michael Tracey",
@@ -103278,6 +103302,10 @@
   "transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508": {
     "title": "Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer",
     "url": "/wiki/sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508/"
+  },
+  "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357": {
+    "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+    "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
   },
   "trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c": {
     "title": "Trial and terror: Russia escalates Kyiv campaign",

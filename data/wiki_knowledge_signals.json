@@ -9533,6 +9533,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/agentslastexam/"
     },
+    "Ageotypes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/ageotypes/"
+    },
     "AggregateIndicatorsLivedExperienceGap": {
       "episode_count": 6,
       "show_count": 3,
@@ -52798,9 +52814,9 @@
       "url": "/wiki/concepts/continuousdjmixing/"
     },
     "ContinuousGlucoseMonitoring": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
@@ -52829,6 +52845,13 @@
           "show": "这病说来话长",
           "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
           "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
+        },
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
         }
       ],
       "updated": "2026-10-10",
@@ -64456,6 +64479,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/diabetesacutecrisisrecognition/"
+    },
+    "DiabetesMechanisticSubtyping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/diabetesmechanisticsubtyping/"
     },
     "DiabeticRetinopathyScreening": {
       "episode_count": 2,
@@ -112417,6 +112456,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/healthcodedfoodlabelliteracy/"
     },
+    "HealthExposome": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/healthexposome/"
+    },
     "HealthInsuranceDeathSpiral": {
       "episode_count": 1,
       "show_count": 1,
@@ -158265,6 +158320,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/longitudinalmultimodalscreening/"
     },
+    "LongitudinalPersonalHealthBaselines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/longitudinalpersonalhealthbaselines/"
+    },
     "LongitudinalRelationshipTrust": {
       "episode_count": 1,
       "show_count": 1,
@@ -171855,6 +171926,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
+    "MetabolicResponseIndividuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/metabolicresponseindividuality/"
+    },
     "MetforminLongevityEvidenceBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -172732,6 +172819,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/michaelservetus/"
+    },
+    "MichaelSnyder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/michaelsnyder/"
     },
     "MichaelTracey": {
       "episode_count": 1,
@@ -197144,6 +197247,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/personalizedlocalautonomysuccession/"
+    },
+    "PersonalizedMolecularMedicine": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
+          "key": "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz",
+          "show": "十字路口Crossing",
+          "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
+          "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+        },
+        {
+          "episode_file": "SCIM5906827357 [SCIM5906827357].md",
+          "key": "transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357",
+          "show": "Huberman Lab",
+          "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+          "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/personalizedmolecularmedicine/"
     },
     "PersuasionAsMutualTransformation": {
       "episode_count": 1,

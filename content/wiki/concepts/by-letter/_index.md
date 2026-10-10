@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10250
+wiki_total_pages: 10255
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "AgenticWorkflow"
     title: "Agentic Workflow"
     url: "/wiki/concepts/agenticworkflow/"
+  - key: "Ageotypes"
+    title: "Ageotypes"
+    url: "/wiki/concepts/ageotypes/"
   - key: "AggregateIndicatorsLivedExperienceGap"
     title: "Aggregate Indicators Lived Experience Gap"
     url: "/wiki/concepts/aggregateindicatorslivedexperiencegap/"

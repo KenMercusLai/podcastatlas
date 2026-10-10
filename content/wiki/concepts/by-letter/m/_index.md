@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10250
+wiki_total_pages: 10255
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "MetabolicPsychiatry"
     title: "Metabolic Psychiatry"
     url: "/wiki/concepts/metabolicpsychiatry/"
+  - key: "MetabolicResponseIndividuality"
+    title: "Metabolic Response Individuality"
+    url: "/wiki/concepts/metabolicresponseindividuality/"
   - key: "MetforminLongevityEvidenceBoundary"
     title: "Metformin Longevity Evidence Boundary"
     url: "/wiki/concepts/metforminlongevityevidenceboundary/"
