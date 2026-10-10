@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13035
+wiki_total_pages: 13036
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "Youku"
     title: "优酷 / Youku"
     url: "/wiki/entities/youku/"
+  - key: "YuBoComedian"
+    title: "余博 / Yu Bo (Comedian)"
+    url: "/wiki/entities/yubocomedian/"
   - key: "YuShanDongyueKing"
     title: "余善 / Yu Shan (Dongyue king)"
     url: "/wiki/entities/yushandongyueking/"

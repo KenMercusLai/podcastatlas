@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”](sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw.md) — 这病说来话长以余博的酮症酸中毒和 ICU 经历解释糖尿病急性危象、谵妄恢复、动态血糖监测及慢病身份适应。
 - [609. Nelson: The Gathering Storm (Part 2)](sources/609-nelson-the-gathering-storm-part-2-glt8067718474.md) — The Rest Is History on Nelson's Malta command, conflict with Lord Keith, return with Emma Hamilton, abandonment of Fanny, and push toward Copenhagen.
 - [Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson](sources/scim6678678955-scim6678678955.md) — Condensed Huberman Lab interview on retinal and circadian light sensing, visual-vestibular stability, cerebellar correction, multisensory orientation, action control, and constrained cortical plasticity.
 - [宋方金×罗永浩！故事必须有人讲下去](sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu.md) — 宋方金与罗永浩从文学启蒙、编剧方法和剧作中心制谈到微短剧、原创受压、电影观众、行业伦理及 AI 时代的编剧主动权。
@@ -4392,6 +4393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 
 ## Entities
+- [余博 / Yu Bo (Comedian)](entities/YuBoComedian.md) — Stand-up comedian whose ketoacidosis, ICU recovery, glucose monitoring, and chronic-illness adaptation ground the VOL.181 patient account.
 - [Fanny Nelson](entities/FannyNelson.md) — Nelson's abandoned wife, whose public humiliation and constrained marital position qualify his heroic celebrity.
 - [Lord Keith](entities/LordKeith.md) — Mediterranean commander whose strategic priorities and authority clashed with Nelson's Malta-focused judgment.
 - [Chris Olah](entities/ChrisOlah.md) — Anthropic cofounder represented narrowly through a reported dispute over categorical rejection of possible AI consciousness.
@@ -17488,6 +17490,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 
 ## Concepts
+- [Diabetes Acute Crisis Recognition / 糖尿病急性危象识别](concepts/DiabetesAcuteCrisisRecognition.md) — Distinguishes diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia from ordinary glucose-management problems.
+- [ICU Delirium and Recovery / ICU谵妄与恢复](concepts/ICUDeliriumRecovery.md) — Critical-illness frame for confusion, memory gaps, sedation, disrupted time cues, orientation, and treatment-story reconstruction.
 - [Screenplay-Centered Production / 剧作中心制](concepts/ScreenplayCenteredProduction.md) — 以人物关系、主题和叙事结构作为导演、表演、制片与资本协作的共同依据。
 - [Original-Story Data Legibility Trap / 原创故事的数据可见性陷阱](concepts/OriginalStoryDataLegibilityTrap.md) — 原创因缺少先验数据而被视为高风险，导致平台和资本反复偏好更可评估、可控制的既有 IP。
 - [Micro-Drama Form Boundary / 微短剧形式边界](concepts/MicroDramaFormBoundary.md) — 分钟级单元强化信息、钩子与回报，同时压缩慢铺垫和主题积累的形式边界。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10204
+wiki_total_pages: 10206
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "IcebergClimateSymbolism"
     title: "Iceberg Climate Symbolism"
     url: "/wiki/concepts/icebergclimatesymbolism/"
+  - key: "ICUDeliriumRecovery"
+    title: "ICU Delirium and Recovery / ICU谵妄与恢复"
+    url: "/wiki/concepts/icudeliriumrecovery/"
   - key: "ICUFamilyParticipationBoundary"
     title: "ICU Family Participation Boundary / ICU家属参与边界"
     url: "/wiki/concepts/icufamilyparticipationboundary/"

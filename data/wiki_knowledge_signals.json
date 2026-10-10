@@ -44461,9 +44461,9 @@
       "url": "/wiki/concepts/chronicdiseasetreatmentadherence/"
     },
     "ChronicIllnessQualityOfLife": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
@@ -44485,6 +44485,13 @@
           "show": "这病说来话长",
           "title": "VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤",
           "url": "/wiki/sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex/"
+        },
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
         }
       ],
       "updated": "2026-09-28",
@@ -52291,9 +52298,9 @@
       "url": "/wiki/concepts/continuousdjmixing/"
     },
     "ContinuousGlucoseMonitoring": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
@@ -52315,9 +52322,16 @@
           "show": "这病说来话长",
           "title": "VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜",
           "url": "/wiki/sources/vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd/"
+        },
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/continuousglucosemonitoring/"
     },
     "ContraceptionSexualHealthRiskLiteracy": {
@@ -63813,6 +63827,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/dishanwesternhan/"
+    },
+    "DiabetesAcuteCrisisRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/diabetesacutecrisisrecognition/"
     },
     "DiabeticRetinopathyScreening": {
       "episode_count": 2,
@@ -122196,6 +122226,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/ibmdatastage/"
+    },
+    "ICUDeliriumRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/icudeliriumrecovery/"
     },
     "ICUFamilyParticipationBoundary": {
       "episode_count": 1,
@@ -278956,6 +279002,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/youxiasuppressionunderunification/"
     },
+    "YuBoComedian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/yubocomedian/"
+    },
     "YuChangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -288311,9 +288373,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -288398,6 +288460,13 @@
           "show": "这病说来话长",
           "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",
           "url": "/wiki/sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs/"
+        },
+        {
+          "episode_file": "lgkey3dVOwxZ-KYmLGwyLmSS1yyw [lgkey3dVOwxZ-KYmLGwyLmSS1yyw].md",
+          "key": "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw",
+          "show": "这病说来话长",
+          "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+          "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
         }
       ],
       "updated": "2026-10-10",

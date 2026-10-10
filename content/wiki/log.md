@@ -34466,3 +34466,11 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”
+
+Added source `vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw`; created [[YuBoComedian|余博]], [[DiabetesAcuteCrisisRecognition|糖尿病急性危象识别]], and [[ICUDeliriumRecovery|ICU谵妄与恢复]]; and resynthesized [[ZihanDoctor|子涵医生]], [[ContinuousGlucoseMonitoring]], and [[ChronicIllnessQualityOfLife|慢病生活质量]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: diabetes can become acutely life-threatening through ketoacidosis, hyperosmolar hyperglycemic state, or severe hypoglycemia; severe illness, sedation, tubes, and disrupted environmental cues can fragment ICU memory and orientation; and long-term glucose monitoring, exercise, food structure, humor, vulnerability, and ordinary pleasure can coexist without making disease the whole identity. No settled contradiction was adopted. The source title's 于渤 and body text's 余博 are preserved as an unresolved spelling discrepancy; age patterns, disease shares, triggers, mechanisms, ICU course, device use, diet, exercise, and psychological response remain episode-attributed or source-scoped. Broad [[Atang]] and [[ZheBingShuoLaiHuaChang]] profiles were kept closed because the focused source, guest, clinician, and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,317 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

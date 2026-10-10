@@ -25403,6 +25403,10 @@
     "title": "狄山 / Di Shan (Western Han)",
     "url": "/wiki/entities/dishanwesternhan/"
   },
+  "DiabetesAcuteCrisisRecognition": {
+    "title": "Diabetes Acute Crisis Recognition / 糖尿病急性危象识别",
+    "url": "/wiki/concepts/diabetesacutecrisisrecognition/"
+  },
   "DiabeticRetinopathyScreening": {
     "title": "Diabetic Retinopathy Screening / 糖尿病眼底筛查",
     "url": "/wiki/concepts/diabeticretinopathyscreening/"
@@ -42286,6 +42290,10 @@
   "ICEWorkforceExpansion": {
     "title": "ICE Workforce Expansion",
     "url": "/wiki/concepts/iceworkforceexpansion/"
+  },
+  "ICUDeliriumRecovery": {
+    "title": "ICU Delirium and Recovery / ICU谵妄与恢复",
+    "url": "/wiki/concepts/icudeliriumrecovery/"
   },
   "ICUFamilyParticipationBoundary": {
     "title": "ICU Family Participation Boundary / ICU家属参与边界",
@@ -94227,6 +94235,10 @@
     "title": "幽州 / Youzhou (Late Han)",
     "url": "/wiki/entities/youzhoulatehan/"
   },
+  "YuBoComedian": {
+    "title": "余博 / Yu Bo (Comedian)",
+    "url": "/wiki/entities/yubocomedian/"
+  },
   "YuChangWesternHan": {
     "title": "虞常 / Yu Chang (Western Han-era)",
     "url": "/wiki/entities/yuchangwesternhan/"
@@ -103562,6 +103574,10 @@
   "vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1": {
     "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
     "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+  },
+  "vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw": {
+    "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
+    "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
   },
   "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz": {
     "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",

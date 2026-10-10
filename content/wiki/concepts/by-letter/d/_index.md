@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10204
+wiki_total_pages: 10206
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "DexterousManipulation"
     title: "Dexterous Manipulation"
     url: "/wiki/concepts/dexterousmanipulation/"
+  - key: "DiabetesAcuteCrisisRecognition"
+    title: "Diabetes Acute Crisis Recognition / 糖尿病急性危象识别"
+    url: "/wiki/concepts/diabetesacutecrisisrecognition/"
   - key: "DiabeticRetinopathyScreening"
     title: "Diabetic Retinopathy Screening / 糖尿病眼底筛查"
     url: "/wiki/concepts/diabeticretinopathyscreening/"
