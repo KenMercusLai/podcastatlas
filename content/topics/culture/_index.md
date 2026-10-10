@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3385
+topic_total_pages: 3387
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3583,6 +3583,9 @@ topic_concepts:
   - key: "InnerDemonSymbolicReading"
     title: "心魔象征式解读 / Inner-Demon Symbolic Reading"
     url: "/wiki/concepts/innerdemonsymbolicreading/"
+  - key: "CharacterMediatedFortune"
+    title: "性格中介的机缘 / Character-Mediated Fortune"
+    url: "/wiki/concepts/charactermediatedfortune/"
   - key: "GuaitanLiterature"
     title: "怪谈文学 / Guaitan Literature"
     url: "/wiki/concepts/guaitanliterature/"
@@ -8793,6 +8796,9 @@ topic_sources:
   - key: "06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044"
     title: "06.搜神记： 二十四孝这口锅，干宝不背"
     url: "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
+  - key: "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z"
+    title: "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华"
+    url: "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
   - key: "ltte46cfjwcjc-gwcbkqb7zo7qh1"
     title: "066 大话卫斯理之《不死药》：永生是福还是祸？"
     url: "/wiki/sources/ltte46cfjwcjc-gwcbkqb7zo7qh1/"

@@ -35325,3 +35325,11 @@ Added source `vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhong
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华
+
+Added source `065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z`; created [[Xuzhu|虚竹]], [[TianshanTonglao|天山童姥]], [[Xuanci|玄慈]], and [[CharacterMediatedFortune|性格中介的机缘]]; and resynthesized [[TianLongBaBu|《天龙八部》]], [[MurongFu|慕容复]], [[YeErniang|叶二娘]], and [[DesireBoundIdentity|欲望绑定的身份]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: chance supplies Xuzhu's encounters, but compassion, honesty, and low prize-seeking shape his actions; the resulting martial power, office, and marriage remain mixed gains because they also involve coercion, broken vows, lost monastic identity, parental death, and new responsibility. No settled contradiction was adopted. The episode's readings of psychology, Buddhist and Daoist symbolism, Western Xia custom, authorial intention, and revision motives remain source-scoped; the ice-cell plot retains a consent boundary, and version-specific characterization must not be silently harmonized. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] pages were kept closed because the focused source, character, novel, and mechanism pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 4,425 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

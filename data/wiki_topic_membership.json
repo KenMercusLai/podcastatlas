@@ -41,6 +41,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6": [
     {
       "key": "culture",
@@ -21955,6 +21962,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CharacterMediatedFortune": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CharacterRelationshipStoryLogic": [

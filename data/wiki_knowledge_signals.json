@@ -39980,6 +39980,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/characterbasedromanticcompatibility/"
     },
+    "CharacterMediatedFortune": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/charactermediatedfortune/"
+    },
     "CharacterReadingDelegationTrust": {
       "episode_count": 3,
       "show_count": 1,
@@ -65214,9 +65230,9 @@
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireBoundIdentity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
@@ -65231,9 +65247,16 @@
           "show": "纸醉金迷FM",
           "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
           "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
+        },
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/desireboundidentity/"
     },
     "DesireCapacityFit": {
@@ -181567,9 +181590,9 @@
       "url": "/wiki/entities/mureka/"
     },
     "MurongFu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
@@ -181577,9 +181600,16 @@
           "show": "纸醉金迷FM",
           "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
           "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
+        },
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/murongfu/"
     },
     "MuscleAsLongevityInfrastructure": {
@@ -256843,9 +256873,9 @@
       "url": "/wiki/entities/tiankuangxinofficial/"
     },
     "TianLongBaBu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -256881,6 +256911,13 @@
           "show": "纸醉金迷FM",
           "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
           "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        },
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
         }
       ],
       "updated": "2026-10-11",
@@ -257253,6 +257290,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/tianrenganyingprojectionframe/"
+    },
+    "TianshanTonglao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tianshantonglao/"
     },
     "TianxiaChina": {
       "episode_count": 2,
@@ -282002,6 +282055,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/xuanzongstandup/"
     },
+    "Xuanci": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xuanci/"
+    },
     "XuanfangPalace": {
       "episode_count": 1,
       "show_count": 1,
@@ -282543,6 +282612,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/xunzhiwesternhan/"
+    },
+    "Xuzhu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xuzhu/"
     },
     "YTOExpress": {
       "episode_count": 1,
@@ -284447,9 +284532,9 @@
       "url": "/wiki/entities/yaroslavthewise/"
     },
     "YeErniang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
@@ -284457,9 +284542,16 @@
           "show": "纸醉金迷FM",
           "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
           "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        },
+        {
+          "episode_file": "lvS6-y-_LuRurbgF_R1hE5q11B-z [lvS6-y-_LuRurbgF_R1hE5q11B-z].md",
+          "key": "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z",
+          "show": "纸醉金迷FM",
+          "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+          "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/yeerniang/"
     },
     "YeGuofu": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13176
+wiki_total_pages: 13179
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "Xuanzang"
     title: "玄奘"
     url: "/wiki/entities/xuanzang/"
+  - key: "Xuanci"
+    title: "玄慈 / Xuanci"
+    url: "/wiki/entities/xuanci/"
   - key: "XianchangXianchang"
     title: "现场！现场！ / Xianchang Xianchang"
     url: "/wiki/entities/xianchangxianchang/"
@@ -668,6 +671,9 @@ wiki_pages:
   - key: "XuePeng"
     title: "薛鹏 / Xue Peng"
     url: "/wiki/entities/xuepeng/"
+  - key: "Xuzhu"
+    title: "虚竹 / Xuzhu"
+    url: "/wiki/entities/xuzhu/"
   - key: "XuguDuhouSouthernXiongnu"
     title: "虚骨都侯 / Xugu Duhou (Southern Xiongnu)"
     url: "/wiki/entities/xuguduhousouthernxiongnu/"

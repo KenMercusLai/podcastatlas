@@ -27,6 +27,10 @@
     "title": "06.搜神记： 二十四孝这口锅，干宝不背",
     "url": "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
   },
+  "065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z": {
+    "title": "065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华",
+    "url": "/wiki/sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z/"
+  },
   "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6": {
     "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
     "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
@@ -17606,6 +17610,10 @@
   "CharacterFormEvolution": {
     "title": "Character Form Evolution",
     "url": "/wiki/concepts/characterformevolution/"
+  },
+  "CharacterMediatedFortune": {
+    "title": "性格中介的机缘 / Character-Mediated Fortune",
+    "url": "/wiki/concepts/charactermediatedfortune/"
   },
   "CharacterReadingDelegationTrust": {
     "title": "Character-Reading Delegation Trust / 识人授权信任",
@@ -85687,6 +85695,10 @@
     "title": "Tianren Ganying Projection Frame / 天人感应投射框架",
     "url": "/wiki/concepts/tianrenganyingprojectionframe/"
   },
+  "TianshanTonglao": {
+    "title": "天山童姥 / Tianshan Tonglao",
+    "url": "/wiki/entities/tianshantonglao/"
+  },
   "TiantianKuaibao": {
     "title": "Tiantian Kuaibao",
     "url": "/wiki/entities/tiantiankuaibao/"
@@ -93895,6 +93907,10 @@
     "title": "选总 / Xuanzong",
     "url": "/wiki/entities/xuanzongstandup/"
   },
+  "Xuanci": {
+    "title": "玄慈 / Xuanci",
+    "url": "/wiki/entities/xuanci/"
+  },
   "XuanfangPalace": {
     "title": "宣房宫 / Xuanfang Palace",
     "url": "/wiki/entities/xuanfangpalace/"
@@ -94062,6 +94078,10 @@
   "XuzhouMutualKingship": {
     "title": "徐州相王 / Xuzhou Mutual Kingship",
     "url": "/wiki/concepts/xuzhoumutualkingship/"
+  },
+  "Xuzhu": {
+    "title": "虚竹 / Xuzhu",
+    "url": "/wiki/entities/xuzhu/"
   },
   "YCGrowthFlywheel": {
     "title": "YC Growth Flywheel",

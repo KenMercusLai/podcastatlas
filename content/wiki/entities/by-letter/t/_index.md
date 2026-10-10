@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13176
+wiki_total_pages: 13179
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1706,6 +1706,9 @@ wiki_pages:
   - key: "TadaKatsumi"
     title: "多田克己 / Tada Katsumi"
     url: "/wiki/entities/tadakatsumi/"
+  - key: "TianshanTonglao"
+    title: "天山童姥 / Tianshan Tonglao"
+    url: "/wiki/entities/tianshantonglao/"
   - key: "TiancaiBushou"
     title: "天才捕手 / Tiancai Bushou"
     url: "/wiki/entities/tiancaibushou/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华](sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z.md) — 纸醉金迷FM以珍珑棋局、救童姥、冰窖梦姑和西夏招亲分析虚竹如何用慈悲与诚实把偶然机缘转化为伴随身份损失的复杂收获。
 - [VOL.168从《长安的荔枝》聊吃荔枝真的上火？中医生教你这么吃不上火](sources/vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_.md) — 这病说来话长以荔枝“上火”为入口，讨论份量、体质、夏季饮食、冷食与中医食疗主张的证据边界。
 - [EP 21: AI Transformation: Beyond the Hype](sources/ep-21-ai-transformation-beyond-the-hype.md) — Data Science With Sam interview with Nan Li on business-led transformation, adoption, contextual data readiness, role-tiered literacy, and sandbox-to-production governance.
 - [576. The Irish War of Independence: Rise of the IRA (Part 1)](sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702.md) — The Rest Is History on post-Rising martyrdom, Sinn Fein's organizational rise, Thomas Ashe, the conscription crisis, and the 1918 electoral mandate.
@@ -4505,6 +4506,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [虚竹 / Xuzhu](entities/Xuzhu.md) — 《天龙八部》中以慈悲、诚实和弱求胜欲把偶然遭遇转化为复杂命运的少林出身主角。
+- [天山童姥 / Tianshan Tonglao](entities/TianshanTonglao.md) — 兼具残酷统治、守信、救助、授业与强制操控的逍遥派人物。
+- [玄慈 / Xuanci](entities/Xuanci.md) — 少林方丈与虚竹之父，其隐秘亲情、雁门关责任和制度压力在认亲时集中爆发。
 - [Nan Li](entities/NanLi.md) — Data and AI practitioner framing transformation around business value, user adoption, contextual data, role-specific learning, and responsible deployment.
 - [Thomas Ashe](entities/ThomasAshe.md) — Irish teacher, cultural activist, volunteer, and hunger striker whose 1917 force-feeding death and funeral became a republican mobilizing event.
 - [谭颖 / Tan Ying](entities/TanYingNeurologist.md) — Peking Union neurologist explaining myasthenia-gravis mechanism, treatment horizons, pregnancy planning, and efficacy-safety management.
@@ -17748,6 +17752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
+- [性格中介的机缘 / Character-Mediated Fortune](concepts/CharacterMediatedFortune.md) — 区分偶然机会、性格化回应与超出行动者控制的后果，避免把命运简化为纯运气或德行奖赏。
 - [Adoption-Centered AI Transformation](concepts/AdoptionCenteredAITransformation.md) — AI transformation measured through business value and sustained workflow use rather than technical feasibility alone.
 - [Role-Tiered AI Literacy](concepts/RoleTieredAILiteracy.md) — Organizational capability ladder separating shared vocabulary, hands-on proficiency, managerial fluency, and executive direction.
 - [Environment-Tiered AI Governance](concepts/EnvironmentTieredAIGovernance.md) — Governance model that strengthens controls as AI moves from bounded experiments and sandboxes into production.

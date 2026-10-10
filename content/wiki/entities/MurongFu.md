@@ -4,7 +4,8 @@ type: entity
 tags: [fictional-character, wuxia, tianlongbabu, restoration, power, identity]
 sources:
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
-last_updated: 2026-10-10
+  - 065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Murong Fu begins with unusual advantages: aristocratic lineage, education, broad
 The larger mismatch is political. Reviving a long-dead dynasty requires territory, armed capacity, a population willing to be governed, alliances, and a moment of state collapse. The episode finds none of these in his situation. Instead of revising the aim, he turns it into the only measure of a worthwhile life. He seeks deference from weaker actors, cannot sustain equality with stronger potential allies, and treats Wang Yuyan and his retainers as resources subordinate to the project.
 
 His attempt to become [[DuanYanqing|段延庆]]'s heir reveals the final transformation: the throne matters more than restoring Yan under his own lineage. Murdering several captives and killing Bao Butong converts desperation into deliberate harm while destroying the loyalty on which any political project would depend. When paternity gives Duan Yanqing a nonviolent form of continuity, Murong Fu loses his last route to kingship. The paper crown and child courtiers then realize the desired identity only by abolishing contact with reality.
+
+The [[Xuzhu|虚竹]] discussion sharpens this judgment through contrast. In the Western Xia selection, Murong Fu locates true happiness only in a future restored throne and says he has no most-loved person, while Xuzhu answers from a concrete remembered relationship without trying to win. The comparison does not prove that non-striving reliably produces reward, but it shows how an exclusive future identity deprives Murong Fu of present attachments and alternative measures of life.
 
 ## Key Characteristics
 
@@ -47,15 +50,18 @@ His attempt to become [[DuanYanqing|段延庆]]'s heir reveals the final transfo
 
 - [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] treats his attempt to inherit Dali and final delusional court as evidence that becoming emperor has overtaken both restoration strategy and ordinary selfhood.
 
+### Future sovereignty against present attachment
+
+- [[065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z]] uses his Western Xia answers to show that restored rule exists only as anticipated future happiness and leaves no acknowledged beloved or independent present fulfillment.
+
 ## Qualifications
 
-This profile rests on one conversational podcast reading rather than a complete edition-by-edition textual study. Exact martial ranking, historical analogy, Murong Fu's feelings toward Wang Yuyan, the balance between imposed mission and personal ambition, his mental state, and the paper crown's symbolism remain interpretive. Structural impossibility and family pressure help explain his narrowing choices but do not excuse the killings, betrayals, humiliations, or instrumental treatment of others.
+This profile rests on two conversational podcast readings rather than a complete edition-by-edition textual study. Exact martial ranking, historical analogy, Murong Fu's feelings toward Wang Yuyan, the balance between imposed mission and personal ambition, his mental state, and the symbolism of his answers and paper crown remain interpretive. The Xuzhu contrast is a literary construction, not evidence that non-striving causes success. Structural impossibility and family pressure help explain narrowing choices but do not excuse killings, betrayal, humiliation, or instrumental treatment of others.
 
 ## What Changed
 
-- Created a profile that separates genuine ability from the political scale and historical implausibility of the restoration project.
-- Made inherited mission and desired sovereign identity jointly central rather than treating either as a complete explanation.
-- Identified the Dali succession plan, loss of retainers, and paper-crown ending as successive stages of identity collapse.
+- Added the Western Xia answers as direct evidence that future sovereignty has displaced present happiness and intimate attachment.
+- Clarified that Xuzhu is a narrative contrast rather than proof that non-striving reliably earns reward.
 
 ## Relationships
 
@@ -64,3 +70,5 @@ This profile rests on one conversational podcast reading rather than a complete 
 - [[DesireBoundIdentity]] - explains how an imperial role becomes inseparable from selfhood and reduces freedom.
 - [[CompassionateCharacterInterpretation]] - explains pressure and tragedy without suspending accountability.
 - [[JinYongPoliticalReading]] - situates restoration desire inside questions of legitimacy, state capacity, and regional order.
+- [[Xuzhu|虚竹]] - contrast figure whose truthful present attachment and weak prize-seeking expose Murong Fu's narrowed life.
+- [[CharacterMediatedFortune]] - neighboring account of chance filtered through conduct rather than an exclusive sovereign aim.

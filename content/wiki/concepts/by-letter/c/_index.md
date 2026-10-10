@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10330
+wiki_total_pages: 10331
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3344,6 +3344,9 @@ wiki_pages:
   - key: "CorrectiveAdviceNonconversion"
     title: "忠告不转化 / Corrective Advice Nonconversion"
     url: "/wiki/concepts/correctiveadvicenonconversion/"
+  - key: "CharacterMediatedFortune"
+    title: "性格中介的机缘 / Character-Mediated Fortune"
+    url: "/wiki/concepts/charactermediatedfortune/"
   - key: "ChronicPharyngitisManagement"
     title: "慢性咽炎管理 / Chronic Pharyngitis Management"
     url: "/wiki/concepts/chronicpharyngitismanagement/"
