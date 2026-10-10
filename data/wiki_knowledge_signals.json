@@ -21462,9 +21462,9 @@
       "url": "/wiki/entities/austria/"
     },
     "AustriaHungary": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -21535,6 +21535,13 @@
           "show": "The Rest Is History",
           "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
           "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
       "updated": "2026-10-10",
@@ -25306,6 +25313,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/battleofstiklestad/"
+    },
+    "BattleOfTannenberg1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/battleoftannenberg1914/"
     },
     "BattleOfTheNile": {
       "episode_count": 2,
@@ -72032,9 +72055,9 @@
       "url": "/wiki/entities/easterrising/"
     },
     "EasternFrontFirstWorldWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3258664296 [GLT3258664296].md",
@@ -72042,6 +72065,13 @@
           "show": "The Rest Is History",
           "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
           "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
       "updated": "2026-10-10",
@@ -81291,9 +81321,9 @@
       "url": "/wiki/entities/erichjarvis/"
     },
     "ErichLudendorff": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4099180386 [GLT4099180386].md",
@@ -81308,9 +81338,16 @@
           "show": "The Rest Is History",
           "title": "90. The Western Front",
           "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/erichludendorff/"
     },
     "ErichVonManstein": {
@@ -93740,9 +93777,9 @@
       "url": "/wiki/entities/frantzfanon/"
     },
     "FranzConradVonHotzendorf": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3669608632 [GLT3669608632].md",
@@ -93764,6 +93801,13 @@
           "show": "The Rest Is History",
           "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
           "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
       "updated": "2026-10-10",
@@ -186347,6 +186391,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/obamacaresubsidycliff/"
     },
+    "OberOst": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/oberost/"
+    },
     "ObliqueRemonstranceSelfProtection": {
       "episode_count": 2,
       "show_count": 1,
@@ -190360,6 +190420,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/oseitutu/"
+    },
+    "OskarPotiorek": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/oskarpotiorek/"
     },
     "OsorioDuqueEstrada": {
       "episode_count": 1,
@@ -194547,9 +194623,9 @@
       "url": "/wiki/entities/paulrouse/"
     },
     "PaulVonHindenburg": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -194585,9 +194661,16 @@
           "show": "The Rest Is History",
           "title": "90. The Western Front",
           "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/paulvonhindenburg/"
     },
     "PaulaMejia": {
@@ -211389,6 +211472,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
     },
+    "RadomirPutnik": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/radomirputnik/"
+    },
     "RafaelAngelCalderon": {
       "episode_count": 1,
       "show_count": 1,
@@ -227420,9 +227519,9 @@
       "url": "/wiki/entities/septembermassacres/"
     },
     "Serbia": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1171003479 [GLT1171003479].md",
@@ -227465,9 +227564,16 @@
           "show": "The Rest Is History",
           "title": "280: Serbia: The Birthplace of Civilisation",
           "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        },
+        {
+          "episode_file": "GLT2256735701 [GLT2256735701].md",
+          "key": "598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701",
+          "show": "The Rest Is History",
+          "title": "598. The First World War: The Eastern Front Explodes (Part 5)",
+          "url": "/wiki/sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/serbia/"
     },
     "SergeLaurent": {

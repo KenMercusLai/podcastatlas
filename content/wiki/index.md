@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [598. The First World War: The Eastern Front Explodes (Part 5)](sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701.md) — The Rest Is History on Serbia's 1914 defense, Austro-Hungarian failure and reprisals, Tannenberg, civilian violence in East Prussia, and the Hindenburg-Ludendorff command legend.
 - [Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder](sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357.md) — Huberman Lab interview on individual metabolic response, diabetes subtypes, longitudinal baselines, ageotypes, environmental exposure, and AI-assisted personalized medicine.
 - [076 【教师节特辑】金庸宇宙师父大盘点](sources/076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0.md) — 纸醉金迷FM以金庸师徒比较能力、教学、性格、关爱、声望与人脉，并延伸到多师成才、师生权力边界和以关怀赢得的母校归属。
 - [VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」](sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on dietary-fat quantity and quality, cooking-oil selection, heat, oxidation, labels, storage, and reuse.
@@ -5782,7 +5783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黑猫侦探社 / Black Cat Detective Agency](entities/BlackCatDetectiveAgency.md) — Bootstrapped nonfiction crime podcast illustrating recommendation-driven growth, additive paid depth, category-specific ad friction, and small-team sustainability limits.
 - [Beer Hall Putsch](entities/BeerHallPutsch.md) — Failed 1923 Munich coup whose trial, prison, and mythology redirected Hitler toward legal-electoral subversion.
 - [Gustav Stresemann](entities/GustavStresemann.md) — Weimar statesman associated with the Rentenmark, Ruhr de-escalation, and the republic's 1923 stabilization.
-- [Erich Ludendorff](entities/ErichLudendorff.md) — Wartime commander linking the stab-in-the-back myth, military prestige, and participation in the Beer Hall Putsch.
+- [Erich Ludendorff](entities/ErichLudendorff.md) — German commander whose Tannenberg rise, Ober Ost authority, 1918 gamble, defeat myth, and putsch role connected wartime command to nationalist politics.
 - [Mein Kampf](entities/MeinKampf.md) — Prison-era Hitler text joining political self-narrative to antisemitism, eastern empire, and living-space ideology.
 - [Gregor Strasser](entities/GregorStrasser.md) — Nazi organizer connecting northern expansion and internal party difference to the failed 1932 split and 1934 purge.
 - [Daniel Ek](entities/DanielEk.md) — Spotify and Neko Health co-founder applying a Sweden-first, vertically integrated product-building pattern across music and healthcare.
@@ -6113,7 +6114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ernst Röhm](entities/ErnstRohm.md) — SA leader whose revolutionary and military ambitions made him the central target of the purge despite the false coup allegation.
 - [Sturmabteilung (SA)](entities/Sturmabteilung.md) — Nazi mass stormtrooper organization that recruited through belonging and violence, helped destroy opposition, and was subordinated after threatening the army bargain.
 - [Hermann Göring](entities/HermannGoring.md) — Nazi leader whose Prussian police power and direction of the Berlin operation made the purge institutionally executable.
-- [Paul von Hindenburg](entities/PaulVonHindenburg.md) — Monarchist president whose accession, decree authority, appointment decision, and death framed Weimar erosion and Hitler's consolidation.
+- [Paul von Hindenburg](entities/PaulVonHindenburg.md) — Tannenberg icon and monarchist president whose wartime prestige, decree authority, appointment decision, and death framed Weimar erosion and Hitler's consolidation.
 - [Franz von Papen](entities/FranzVonPapen.md) — Conservative chancellor whose Prussian coup and failed containment bargain enabled Hitler before purge violence silenced his circle.
 - [Heinrich Brüning](entities/HeinrichBruning.md) — Weimar chancellor whose deflation, emergency-decree government, and 1930 election gamble widened Nazi opportunity.
 - [Kurt von Schleicher](entities/KurtVonSchleicher.md) — Political general and chancellor whose army-centered authoritarian strategy failed to subordinate or split the Nazi movement.
@@ -6358,11 +6359,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theobald von Bethmann Hollweg](entities/TheobaldVonBethmannHollweg.md) — German chancellor who confirmed open-ended backing for Austria-Hungary under a deterrence assumption.
 - [Leopold Berchtold](entities/LeopoldBerchtold.md) — Austro-Hungarian foreign minister who advanced the harsh ultimatum strategy against Serbia.
 - [Istvan Tisza](entities/IstvanTisza.md) — Hungarian prime minister whose resistance delayed but did not prevent the ultimatum course.
-- [Franz Conrad von Hötzendorf](entities/FranzConradVonHotzendorf.md) — Austro-Hungarian chief of staff whose repeated preventive-war demands met Franz Ferdinand's opposition before Sarajevo.
+- [Franz Conrad von Hötzendorf](entities/FranzConradVonHotzendorf.md) — Austro-Hungarian chief of staff whose preventive-war advocacy met readiness, logistics, and command failure in Serbia and Galicia.
 - [Raymond Poincaré](entities/RaymondPoincare.md) — French president whose St Petersburg diplomacy treated Franco-Russian firmness as deterrence during the July Crisis.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
-- [Serbia](entities/Serbia.md) — Balkan state whose divided civilian and nationalist networks complicated assassination responsibility before its ultimatum crisis with Austria-Hungary.
+- [Serbia](entities/Serbia.md) — Balkan state whose divided authority complicated assassination responsibility before its army defeated three Austro-Hungarian invasions in 1914.
 - [Nicholas II](entities/NicholasII.md) — Russian tsar whose reign joined Khodynka's shadow, family reliance on Rasputin, and a pressured move from doubt to general mobilisation.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
 - [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
@@ -8696,7 +8697,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Philip of Coburg](entities/PhilipOfCoburg.md) — Hunting-party witness helping establish Rudolf's calm public surface shortly before the Mayerling deaths.
 - [Johann Loschek](entities/JohannLoschek.md) — Rudolf's valet whose breakfast call and locked-door discovery expose the Mayerling deaths.
 - [Mayerling Incident](entities/MayerlingIncident.md) — January 1889 death of Rudolf and Mary, treated as private tragedy, religious crisis, official suppression, and succession shock.
-- [Austria-Hungary](entities/AustriaHungary.md) — Economically integrated multilingual Habsburg monarchy whose reform possibilities, dynastic strain, and July Crisis choices complicate a simple doomed-empire story.
+- [Austria-Hungary](entities/AustriaHungary.md) — Multilingual Habsburg monarchy whose reform possibilities and July Crisis agency gave way to Serbian failure, Galician collapse, and German dependence.
 - [Habsburg Dynasty](entities/HabsburgDynasty.md) — Ruling house framed through Mayerling's family tragedy, burial management, succession redirection, and later shocks.
 - [Karl Ludwig of Austria](entities/KarlLudwigOfAustria.md) — Franz Joseph's brother and collateral succession bridge after Rudolf's death.
 - [Franz Ferdinand](entities/FranzFerdinand.md) — Difficult, reform-minded Habsburg heir whose marriage, anti-war strategy, and assassination connect imperial adaptation to the July Crisis.
@@ -17572,6 +17573,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
+- [Radomir Putnik](entities/RadomirPutnik.md) — Serbian commander whose defensive patience, logistics, and December counterattack helped defeat three Austro-Hungarian invasions in 1914.
+- [Oskar Potiorek](entities/OskarPotiorek.md) — Austro-Hungarian commander whose repeated Serbian invasions joined failed accountability to operational overreach and mass loss.
+- [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
+
 ## Concepts
 - [Metabolic Response Individuality](concepts/MetabolicResponseIndividuality.md) — Framework for measuring person-specific responses to foods, fibers, medicines, sleep, exercise, and timing.
 - [Diabetes Mechanistic Subtyping](concepts/DiabetesMechanisticSubtyping.md) — Pathway-based division of broad glucose dysregulation into beta-cell, muscle, liver, adipose, and incretin-related patterns.
@@ -17585,7 +17590,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dietary Fat Quantity and Quality](concepts/DietaryFatQuantityAndQuality.md) — Two-axis framework joining total fat intake with fatty-acid mix, hidden fats, source variety, and substitution context.
 - [Small-Town Experience as Aesthetic Language / 小镇经验的审美转化](concepts/SmallTownExperienceAsAestheticLanguage.md) — 将地方语言、劳动、物件、时尚、失败与社会关系选择性重组为艺术世界，而非透明复制地方生活。
 - [Dialect-Constrained Songwriting / 方言声调约束下的写歌](concepts/DialectConstrainedSongwriting.md) — 声调轮廓与旋律、可懂度、地方身份、作者分工和传播范围之间的创作约束。
-- [Eastern Front of the First World War](concepts/EasternFrontFirstWorldWar.md) — Eastern theater synthesis joining logistics, fortress warfare, imperial cohesion, occupation, population violence, captivity, and German dependence.
+- [Eastern Front of the First World War](concepts/EasternFrontFirstWorldWar.md) — Mobile theater synthesis joining Serbia, Tannenberg, Galicia, logistics, communications, occupation, population violence, captivity, and German dependence.
 - [Urban Historical Corridor](concepts/UrbanHistoricalCorridor.md) — Route-based framework for reading successive systems of movement, belief, defense, production, migration, and memory in one landscape.
 - [Covert Consciousness](concepts/CovertConsciousness.md) — Retained awareness or intentional response hidden by an inability to move, speak, or respond behaviorally.
 - [Perception Box](concepts/PerceptionBox.md) — Model of experienced reality as constrained by priors, memory, culture, embodiment, receptors, and bodily state.
@@ -27905,5 +27910,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Healthcare Marketing Outcome Analytics](concepts/HealthcareMarketingOutcomeAnalytics.md) — Use of campaign and patient-outcome signals for healthcare-marketing decisions under attribution, privacy, compliance, and trust constraints.
 - [Marketing Insight-to-Action Latency](concepts/MarketingInsightToActionLatency.md) — Time from usable performance evidence to an accountable campaign change, bounded by validity and review requirements.
+
+- [Battle of Tannenberg (1914)](concepts/BattleOfTannenberg1914.md) — German encirclement in East Prussia whose operational success created a durable command legend and political memory.
 
 ## Syntheses

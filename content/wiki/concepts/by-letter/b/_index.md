@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10255
+wiki_total_pages: 10256
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "BattleOfStiklestad"
     title: "Battle of Stiklestad"
     url: "/wiki/concepts/battleofstiklestad/"
+  - key: "BattleOfTannenberg1914"
+    title: "Battle of Tannenberg (1914)"
+    url: "/wiki/concepts/battleoftannenberg1914/"
   - key: "BattleOfThermopylae"
     title: "Battle of Thermopylae"
     url: "/wiki/concepts/battleofthermopylae/"

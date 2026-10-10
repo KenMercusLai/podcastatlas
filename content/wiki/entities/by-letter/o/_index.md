@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13080
+wiki_total_pages: 13083
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Obatala"
     title: "Obatala"
     url: "/wiki/entities/obatala/"
+  - key: "OberOst"
+    title: "Ober Ost"
+    url: "/wiki/entities/oberost/"
   - key: "ObsessionCurryBarkerFilm"
     title: "Obsession / 《痴迷》 (Curry Barker film)"
     url: "/wiki/entities/obsessioncurrybarkerfilm/"
@@ -377,6 +380,9 @@ wiki_pages:
   - key: "OskAdvisory"
     title: "Osk Advisory"
     url: "/wiki/entities/oskadvisory/"
+  - key: "OskarPotiorek"
+    title: "Oskar Potiorek"
+    url: "/wiki/entities/oskarpotiorek/"
   - key: "OsorioDuqueEstrada"
     title: "Osorio Duque Estrada"
     url: "/wiki/entities/osorioduqueestrada/"

@@ -5,7 +5,8 @@ tags: [person, germany, military, nationalism, beer-hall-putsch]
 sources:
   - 296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386
   - 90-the-western-front-glt9972346188
-last_updated: 2026-10-03
+  - 598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,11 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Erich Ludendorff was the German wartime military leader whose 1918 strategic gamble and later stab-in-the-back narrative connect battlefield defeat to the nationalist politics of the [[WeimarRepublic|Weimar Republic]] and the [[BeerHallPutsch|Beer Hall Putsch]].
+Erich Ludendorff was the German wartime military leader whose operational rise at [[BattleOfTannenberg1914|Tannenberg]], 1918 strategic gamble, and later stab-in-the-back narrative connect eastern victory and western defeat to nationalist politics in the [[WeimarRepublic|Weimar Republic]].
 
 ## Current Profile
 
-[[90-the-western-front-glt9972346188]] places Ludendorff with [[PaulVonHindenburg]] at the center of Germany's 1918 choice to seek battlefield victory after Russia's defeat rather than a favorable negotiated settlement. The spring offensive gained ground but did not destroy the Allied armies, outran artillery support, exhausted German infantry, and failed before the Allied counteroffensive.
+The 1914 episode introduces Ludendorff as the intense and detail-driven counterpart to [[PaulVonHindenburg]]'s calm public authority. Fresh from Liège, he joined Hindenburg in East Prussia, where German rail movement and intercepted Russian communications supported the concentration against Samsonov. Tannenberg made the partnership nationally powerful, although later jokes and staff claims complicate how credit should be divided. By the end of 1914 their authority expanded through [[OberOst|Ober Ost]].
+
+[[90-the-western-front-glt9972346188]] places the pair at the center of Germany's 1918 choice to seek battlefield victory after Russia's defeat rather than a favorable negotiated settlement. The spring offensive gained ground but did not destroy the Allied armies, outran artillery support, exhausted German infantry, and failed before the Allied counteroffensive.
 
 [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] then presents Ludendorff as helping displace responsibility for German defeat onto alleged internal betrayal, thereby supplying anti-republican movements with a language of treason and humiliation. His First World War prestige also made him valuable to Hitler's 1923 coup attempt, where he joined the coerced beer-hall alliance and the march confronted by police.
 
@@ -26,6 +29,7 @@ His later presidential result provides a qualification to the power of that pres
 ## Key Characteristics
 
 - Former wartime military leader with nationalist prestige.
+- Detail-driven operational partner whose Tannenberg success helped open wider military authority in the east.
 - Advocate of the failed 1918 battlefield gamble over a negotiated settlement in the episode's account.
 - Promoter of the stab-in-the-back account of German defeat.
 - High-profile participant in the Beer Hall Putsch.
@@ -39,15 +43,17 @@ His later presidential result provides a qualification to the power of that pres
 - Defeat mythology: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] links Ludendorff to the claim that Germany had been betrayed from within.
 - Putsch role: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] places him beside Hitler in the beer-hall action and march.
 - Electoral limit: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] reports that his presidential candidacy won roughly one percent.
+- Eastern rise: [[598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701]] links Liège, appointment beside Hindenburg, rail concentration, intercepted messages, Tannenberg, disputed command credit, and Ober Ost.
 
 ## Qualifications
 
-This two-source profile is not a full military or political biography. The missed-negotiation argument, his share of responsibility for 1918 strategy, the exact diffusion and causal weight of the stab-in-the-back myth, his intentions during the putsch, and the reported electoral figure remain source-scoped.
+This three-source profile is not a full military or political biography. Tannenberg credit remains distributed across Ludendorff, Hindenburg, Hoffmann, and the staff, while Ober Ost's connection to later Nazi rule requires comparison rather than equation. The missed-negotiation argument, his responsibility for 1918 strategy, the diffusion of the stab-in-the-back myth, his putsch intentions, and the electoral figure remain source-scoped.
 
 ## What Changed
 
 - Extended Ludendorff back to the 1918 offensive gamble and German military defeat.
 - Connected battlefield failure more directly to his later betrayal narrative.
+- Added Tannenberg and Ober Ost as the eastern victory and command background to his later western gamble and nationalist politics.
 
 ## Relationships
 
@@ -56,3 +62,5 @@ This two-source profile is not a full military or political biography. The misse
 - [[BeerHallPutsch]] - failed seizure attempt in which he participated.
 - [[PaulVonHindenburg]] - fellow wartime figure whose presidential authority later became institutionally decisive.
 - [[WesternFrontFirstWorldWar]] - theater of the failed 1918 gamble and German defeat.
+- [[BattleOfTannenberg1914]] - encirclement victory that established his partnership with Hindenburg.
+- [[OberOst]] - eastern military administration through which the partnership's authority expanded.
