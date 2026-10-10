@@ -6827,6 +6827,10 @@
     "title": "Adaptation Reception Memory / 改编接受中的代际记忆",
     "url": "/wiki/concepts/adaptationreceptionmemory/"
   },
+  "AdaptiveHumanEnvironments": {
+    "title": "Adaptive Human Environments",
+    "url": "/wiki/concepts/adaptivehumanenvironments/"
+  },
   "AdaptivePortfolioDesign": {
     "title": "Adaptive Portfolio Design",
     "url": "/wiki/concepts/adaptiveportfoliodesign/"
@@ -20366,6 +20370,10 @@
   "CognitiveAging": {
     "title": "Cognitive Aging",
     "url": "/wiki/concepts/cognitiveaging/"
+  },
+  "CognitiveAmplificationBoundary": {
+    "title": "Cognitive Amplification Boundary",
+    "url": "/wiki/concepts/cognitiveamplificationboundary/"
   },
   "CognitiveDebt": {
     "title": "Cognitive Debt / 认知负债",
@@ -39414,6 +39422,10 @@
   "HealthyBaby": {
     "title": "Healthy Baby",
     "url": "/wiki/entities/healthybaby/"
+  },
+  "HearableBiosensing": {
+    "title": "Hearable Biosensing",
+    "url": "/wiki/concepts/hearablebiosensing/"
   },
   "HearingLossCognitiveRisk": {
     "title": "Hearing Loss and Cognitive Risk",
@@ -63259,6 +63271,10 @@
     "title": "Operational Detachment",
     "url": "/wiki/concepts/operationaldetachment/"
   },
+  "OperationalDigitalTwin": {
+    "title": "Operational Digital Twin",
+    "url": "/wiki/concepts/operationaldigitaltwin/"
+  },
   "OperationalGapOwnership": {
     "title": "Operational Gap Ownership / 主动补组织短板",
     "url": "/wiki/concepts/operationalgapownership/"
@@ -67166,6 +67182,10 @@
   "PoppaeaSabina": {
     "title": "Poppaea Sabina",
     "url": "/wiki/entities/poppaeasabina/"
+  },
+  "PoppyCrum": {
+    "title": "Poppy Crum",
+    "url": "/wiki/entities/poppycrum/"
   },
   "PopularCounterrevolution": {
     "title": "Popular Counter-Revolution",
@@ -88175,6 +88195,10 @@
     "title": "Voice Agent Infrastructure",
     "url": "/wiki/concepts/voiceagentinfrastructure/"
   },
+  "VoiceBiomarkers": {
+    "title": "Voice Biomarkers",
+    "url": "/wiki/concepts/voicebiomarkers/"
+  },
   "VoiceHumanization": {
     "title": "Voice Humanization",
     "url": "/wiki/concepts/voicehumanization/"
@@ -98926,6 +98950,10 @@
   "empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666": {
     "title": "Empress Matilda: Civil War and the Fight for the Throne",
     "url": "/wiki/sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666/"
+  },
+  "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471": {
+    "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+    "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
   },
   "enterprise-sales-with-no-product-landing-a-big-four-customer": {
     "title": "Enterprise Sales With No Product: Landing a Big Four Customer",

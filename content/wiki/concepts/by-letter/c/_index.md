@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10216
+wiki_total_pages: 10221
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "CognitiveAging"
     title: "Cognitive Aging"
     url: "/wiki/concepts/cognitiveaging/"
+  - key: "CognitiveAmplificationBoundary"
+    title: "Cognitive Amplification Boundary"
+    url: "/wiki/concepts/cognitiveamplificationboundary/"
   - key: "CognitiveDebt"
     title: "Cognitive Debt / 认知负债"
     url: "/wiki/concepts/cognitivedebt/"

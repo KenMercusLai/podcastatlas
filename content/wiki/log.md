@@ -34570,3 +34570,11 @@ Added source `078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwan
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum
+
+Added source `enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471`; created [[PoppyCrum]], [[CognitiveAmplificationBoundary]], [[OperationalDigitalTwin]], [[HearableBiosensing]], [[AdaptiveHumanEnvironments]], and [[VoiceBiomarkers]]; and resynthesized [[Neuroplasticity]], [[CognitiveOffloading]], and [[PerceptionAsBiologicalInference]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: technology directs neural and perceptual adaptation through repeated use, attention, feedback, and incentives; AI and sensor systems amplify capability when they preserve learning-relevant effort and accountable judgment, but can replace the practice they appear to accelerate. No settled contradiction was adopted. Game-transfer, cortical-map, AI-writing, sensor-accuracy, digital-twin, voice-biomarker, pupilometry, CO2, and comparative-animal claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[StanfordUniversity]], personal-health-data, and wearable profiles were kept closed because the focused source, guest, and concepts capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,330 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

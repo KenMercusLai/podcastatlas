@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3260
+topic_total_pages: 3261
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -34,6 +34,9 @@ topic_concepts:
   - key: "ActivistInvestorPressure"
     title: "Activist Investor Pressure"
     url: "/wiki/concepts/activistinvestorpressure/"
+  - key: "AdaptiveHumanEnvironments"
+    title: "Adaptive Human Environments"
+    url: "/wiki/concepts/adaptivehumanenvironments/"
   - key: "AdaptiveUrbanPlanningUnderUncertainty"
     title: "Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划"
     url: "/wiki/concepts/adaptiveurbanplanningunderuncertainty/"

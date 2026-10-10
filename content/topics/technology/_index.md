@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3427
+topic_total_pages: 3432
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -28,6 +28,9 @@ topic_concepts:
   - key: "ActuarialAIAugmentation"
     title: "Actuarial AI Augmentation"
     url: "/wiki/concepts/actuarialaiaugmentation/"
+  - key: "AdaptiveHumanEnvironments"
+    title: "Adaptive Human Environments"
+    url: "/wiki/concepts/adaptivehumanenvironments/"
   - key: "ADHDHyperfocusAIWorkflow"
     title: "ADHD Hyperfocus AI Workflow"
     url: "/wiki/concepts/adhdhyperfocusaiworkflow/"
@@ -1519,6 +1522,9 @@ topic_concepts:
   - key: "CloudStoragePhysicality"
     title: "Cloud Storage Physicality"
     url: "/wiki/concepts/cloudstoragephysicality/"
+  - key: "CognitiveAmplificationBoundary"
+    title: "Cognitive Amplification Boundary"
+    url: "/wiki/concepts/cognitiveamplificationboundary/"
   - key: "CognitiveDebt"
     title: "Cognitive Debt / 认知负债"
     url: "/wiki/concepts/cognitivedebt/"
@@ -4630,6 +4636,9 @@ topic_concepts:
   - key: "VoiceAgentInfrastructure"
     title: "Voice Agent Infrastructure"
     url: "/wiki/concepts/voiceagentinfrastructure/"
+  - key: "VoiceBiomarkers"
+    title: "Voice Biomarkers"
+    url: "/wiki/concepts/voicebiomarkers/"
   - key: "VoluntaryAISafetyCommitments"
     title: "Voluntary AI Safety Commitments"
     url: "/wiki/concepts/voluntaryaisafetycommitments/"
@@ -7166,6 +7175,9 @@ topic_entities:
   - key: "PopeLeoXIV"
     title: "Pope Leo XIV"
     url: "/wiki/entities/popeleoxiv/"
+  - key: "PoppyCrum"
+    title: "Poppy Crum"
+    url: "/wiki/entities/poppycrum/"
   - key: "PradmeshPatil"
     title: "Pradmesh Patil"
     url: "/wiki/entities/pradmeshpatil/"
@@ -9228,6 +9240,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
     title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
+  - key: "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471"
+    title: "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum"
+    url: "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
   - key: "enterprise-sales-with-no-product-landing-a-big-four-customer"
     title: "Enterprise Sales With No Product: Landing a Big Four Customer"
     url: "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"

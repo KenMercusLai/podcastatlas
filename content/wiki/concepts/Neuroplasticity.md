@@ -17,8 +17,9 @@ sources:
   - scim3840916606-scim3840916606
   - how-your-brain-works-changes-scim1534957507
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
+  - enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-10-10
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -48,6 +49,8 @@ The still earlier [[scim3840916606-scim3840916606]] episode supplies the attenti
 The first episode, [[how-your-brain-works-changes-scim1534957507]], supplies the show's earliest version of that framework. It defines adult plasticity as connection change that can turn effortful deliberate behavior into easier, more automatic behavior, then separates the induction conditions of alertness, attention, and strain from later consolidation during sleep or deep rest. This adds historical provenance rather than independent confirmation, and its age contrast, neuromodulator assignments, 20-minute deep-rest study, sleep-tone study, and exact timing remain source-scoped.
 
 The Eagleman interview sharpens the allocation and goal boundary. Cortex is presented as competitive “real estate” whose use depends partly on incoming information, while practice makes selected skills faster and more efficient. Adult change is valuable when it serves a defined function; permanently restoring indiscriminate infant-like flexibility could also destabilize the accumulated memories and skills that support identity. [[SensorySubstitution]] provides the clearest applied case: stable information can become usable through an atypical input channel after structured learning.
+
+The [[PoppyCrum]] interview adds a technology-and-environment branch to that allocation model. Texting, gaming, musical training, driving, coaching feedback, and AI use are treated as repeated demands that can reorganize existing maps and integrations rather than create wholly new neural resources. Its strongest design implication is [[CognitiveAmplificationBoundary]]: technology supports plasticity when it improves feedback, attention, retrieval, and correction, but can remove the practice signal when it supplies completed cognitive work. Owl prism adaptation and Crum's secondary absolute-pitch map illustrate retention of old and new mappings, while the animal mechanisms, game-transfer dose, and cortical-allocation details remain source-scoped.
 
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, meaningful feedback, and a state that permits continued exploration. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," a playful state does not guarantee broad transfer, psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
@@ -80,14 +83,17 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Foundational effort-rest sequence - [[how-your-brain-works-changes-scim1534957507]] presents focused strain as the waking trigger for adult connection change and sleep or deep rest as the later consolidation condition.
 - Cortical allocation and goal boundary - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses remapping, practice efficiency, developmental lock-in, and adult identity to distinguish selective useful change from unlimited flexibility.
 - Atypical input learning - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] uses [[SensorySubstitution]] to show how stable correlations can make information delivered through vibration or touch behaviorally useful.
+- Technology-directed maps - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] connects texting, music, games, driving, sensory environments, and feedback to reallocation and integration of existing neural resources.
+- Multiple-map and incentive examples - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] uses secondary absolute-pitch learning and prism-adapted owls to illustrate context-sensitive new mappings that need not erase prior ones.
+- Amplification boundary - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] distinguishes learning tools that preserve feedback and germane effort from automation that bypasses the target skill.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, the Neuralink episode's interface forecasts, and the Eagleman episode's rapid remapping, cortical uniformity, neuromodulator-combination, and sensory phenomenology claims remain source-scoped.
+The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, the Neuralink episode's interface forecasts, the Eagleman episode's rapid remapping and cortical-uniformity claims, and the Poppy Crum episode's game-transfer, homunculus-reallocation, owl, and AI-writing interpretations remain source-scoped.
 
 ## What Changed
-- Added competitive cortical allocation and practice efficiency to the current model.
-- Clarified that goal-directed change preserves a boundary against indiscriminate infant-like flexibility.
-- Added sensory substitution as an applied example of learning structured information through an atypical channel.
+- Added technology and sensory environments as persistent inputs that direct existing-map allocation and integration.
+- Added the boundary between feedback-rich cognitive amplification and automation that removes learning-relevant effort.
+- Added qualified examples in which a new context-specific map can coexist with an older mapping.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -105,3 +111,4 @@ The evidence does not imply that every difficult or playful activity transfers b
 - [[BrainComputerInterface]] - task-specific recording and feedback loop that should not be generalized into whole-brain enhancement.
 - [[PlayAsContingencyTesting]] - low-stakes exploration branch that can supply novelty and error without making performance the immediate objective.
 - [[SensorySubstitution]] - applied branch in which structured information is learned through a different peripheral channel.
+- [[CognitiveAmplificationBoundary]] - technology-design branch separating feedback-supported practice from replacement of the target capability.

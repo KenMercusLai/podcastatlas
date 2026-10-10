@@ -11891,6 +11891,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdaptiveHumanEnvironments": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AdaptivePortfolioDesign": [
     {
       "key": "economics",
@@ -24398,6 +24410,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CognitiveAmplificationBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CognitiveDebt": [
@@ -68259,6 +68283,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PoppyCrum": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PopularCultureHistoricalMemory": [
     {
       "key": "history",
@@ -90094,6 +90130,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "VoiceBiomarkers": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "VoiceHumanization": [
     {
       "key": "science",
@@ -99778,6 +99821,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "enterprise-sales-with-no-product-landing-a-big-four-customer": [

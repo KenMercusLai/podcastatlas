@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13051
+wiki_total_pages: 13052
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "PoppaeaSabina"
     title: "Poppaea Sabina"
     url: "/wiki/entities/poppaeasabina/"
+  - key: "PoppyCrum"
+    title: "Poppy Crum"
+    url: "/wiki/entities/poppycrum/"
   - key: "Porsche"
     title: "Porsche"
     url: "/wiki/entities/porsche/"

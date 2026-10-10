@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10216
+wiki_total_pages: 10221
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "OperationalDetachment"
     title: "Operational Detachment"
     url: "/wiki/concepts/operationaldetachment/"
+  - key: "OperationalDigitalTwin"
+    title: "Operational Digital Twin"
+    url: "/wiki/concepts/operationaldigitaltwin/"
   - key: "OperationalGapOwnership"
     title: "Operational Gap Ownership / 主动补组织短板"
     url: "/wiki/concepts/operationalgapownership/"

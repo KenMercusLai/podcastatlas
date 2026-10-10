@@ -4404,6 +4404,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”](sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c.md) — 这病说来话长 episode on vetting psychological courses and services through need, qualifications, supervision, emotional effects, evidence, promises, and clinical escalation.
 - [How to Make Yourself Unbreakable | DJ Shipley](sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060.md) — Huberman Lab interview on combat trauma, injury recovery, daily mental posture, functional fitness, supervised psychedelic treatment, and integration.
 
+- [Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum](sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471.md) — Huberman Lab interview on technology-directed neuroplasticity, cognitive amplification, sensory inference, digital twins, hearables, adaptive environments, and voice biomarkers.
+
 ## Entities
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
 - [Argonautica](entities/Argonautica.md) — Hellenistic epic joining Jason's quest, Medea's aid, inherited story layers, geographical wonder, and modern cinematic adaptation.
@@ -17516,6 +17518,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
 - [DJ Shipley](entities/DJShipley.md) — Retired Navy SEAL connecting combat trauma, severe injury, daily standards, family repair, functional training, and supervised psychedelic treatment.
 
+- [Poppy Crum](entities/PoppyCrum.md) — Neuroscientist and technologist connecting perception, neuroplasticity, AI learning tools, biosensing, and adaptive environments.
+
 ## Concepts
 - [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.
 - [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
@@ -27807,5 +27811,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hearing Loss and Cognitive Risk](concepts/HearingLossCognitiveRisk.md) — Qualified relationship among hearing difficulty, communication, isolation, depression, cognitive decline, and uncertain direct causation.
 - [Cochlear Implant Auditory Restoration](concepts/CochlearImplantAuditoryRestoration.md) — Place-frequency neural stimulation restoring useful patterned input in selected severe or profound hearing loss.
 - [Mental Posture](concepts/MentalPosture.md) — Preparation of body, attention, environment, and role transitions to preserve capacity under stress without replacing clinical care.
+
+- [Cognitive Amplification Boundary](concepts/CognitiveAmplificationBoundary.md) — Task-relative boundary separating feedback-rich technology from automation that replaces the capability being trained.
+- [Operational Digital Twin](concepts/OperationalDigitalTwin.md) — Continuously updated system representation for situational awareness, pattern detection, and decision support rather than complete replication.
+- [Hearable Biosensing](concepts/HearableBiosensing.md) — Ear-worn physiological sensing with validation, interoperability, privacy, and diagnostic boundaries.
+- [Adaptive Human Environments](concepts/AdaptiveHumanEnvironments.md) — Closed-loop spaces that combine human and environmental data with user-controlled modification.
+- [Voice Biomarkers](concepts/VoiceBiomarkers.md) — Voice-based health-signal hypothesis bounded by validation, consent, context, and clinical escalation.
 
 ## Syntheses

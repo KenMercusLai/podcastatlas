@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3350
+topic_total_pages: 3351
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -742,6 +742,9 @@ topic_concepts:
   - key: "CoffeehousePublicSphere"
     title: "Coffeehouse Public Sphere"
     url: "/wiki/concepts/coffeehousepublicsphere/"
+  - key: "CognitiveAmplificationBoundary"
+    title: "Cognitive Amplification Boundary"
+    url: "/wiki/concepts/cognitiveamplificationboundary/"
   - key: "CognitiveSurrender"
     title: "Cognitive Surrender"
     url: "/wiki/concepts/cognitivesurrender/"

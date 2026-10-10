@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1522
+topic_total_pages: 1523
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3206,6 +3206,9 @@ topic_entities:
   - key: "PlanetLabs"
     title: "Planet Labs"
     url: "/wiki/entities/planetlabs/"
+  - key: "PoppyCrum"
+    title: "Poppy Crum"
+    url: "/wiki/entities/poppycrum/"
   - key: "PrinciplesOfPhilosophy"
     title: "Principles of Philosophy / 《哲学原理》"
     url: "/wiki/entities/principlesofphilosophy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10216
+wiki_total_pages: 10221
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "HealthspanThreeDomains"
     title: "Healthspan Three Domains"
     url: "/wiki/concepts/healthspanthreedomains/"
+  - key: "HearableBiosensing"
+    title: "Hearable Biosensing"
+    url: "/wiki/concepts/hearablebiosensing/"
   - key: "HearingLossCognitiveRisk"
     title: "Hearing Loss and Cognitive Risk"
     url: "/wiki/concepts/hearinglosscognitiverisk/"

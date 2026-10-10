@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10216
+wiki_total_pages: 10221
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "AdaptationLedProgramming"
     title: "Adaptation-Led Programming"
     url: "/wiki/concepts/adaptationledprogramming/"
+  - key: "AdaptiveHumanEnvironments"
+    title: "Adaptive Human Environments"
+    url: "/wiki/concepts/adaptivehumanenvironments/"
   - key: "AdaptivePortfolioDesign"
     title: "Adaptive Portfolio Design"
     url: "/wiki/concepts/adaptiveportfoliodesign/"

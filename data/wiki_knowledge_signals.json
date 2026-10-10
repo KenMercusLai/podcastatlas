@@ -7068,6 +7068,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/adaptationreceptionmemory/"
     },
+    "AdaptiveHumanEnvironments": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/adaptivehumanenvironments/"
+    },
     "AdaptiveUrbanPlanningUnderUncertainty": {
       "episode_count": 1,
       "show_count": 1,
@@ -47880,6 +47896,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/cognitiveaging/"
     },
+    "CognitiveAmplificationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/cognitiveamplificationboundary/"
+    },
     "CognitiveDiversityAIAdoption": {
       "episode_count": 2,
       "show_count": 1,
@@ -47918,6 +47950,43 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cognitiveimpairmentstaging/"
+    },
+    "CognitiveOffloading": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+          "key": "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+          "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+          "key": "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+          "show": "What's Next｜科技早知道",
+          "title": "用 AI 让我们变笨了吗？｜S10E25",
+          "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+        },
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/cognitiveoffloading/"
     },
     "CognitiveReappraisalEarlyIntervention": {
       "episode_count": 1,
@@ -111745,6 +111814,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/healthspanthreedomains/"
+    },
+    "HearableBiosensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/hearablebiosensing/"
     },
     "HearingLossCognitiveRisk": {
       "episode_count": 1,
@@ -181149,9 +181234,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 3,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -181250,9 +181335,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
@@ -188322,6 +188414,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/operationaldetachment/"
     },
+    "OperationalDigitalTwin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/operationaldigitaltwin/"
+    },
     "OperationalPrecisionOncology": {
       "episode_count": 1,
       "show_count": 1,
@@ -194547,9 +194655,9 @@
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PerceptionAsBiologicalInference": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -194578,9 +194686,16 @@
           "show": "Huberman Lab",
           "title": "How Your Brain Works & Changes",
           "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
+        },
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/perceptionasbiologicalinference/"
     },
     "PerceptionConsciousnessBoundary": {
@@ -200149,6 +200264,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/poppaeasabina/"
+    },
+    "PoppyCrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/poppycrum/"
     },
     "PopularCounterrevolution": {
       "episode_count": 2,
@@ -261250,6 +261381,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/voiceagentinfrastructure/"
+    },
+    "VoiceBiomarkers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3116912471 [SCIM3116912471].md",
+          "key": "enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471",
+          "show": "Huberman Lab",
+          "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+          "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/voicebiomarkers/"
     },
     "VoiceHumanization": {
       "episode_count": 1,
