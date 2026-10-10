@@ -34917,3 +34917,11 @@ Added source `592-mad-victorian-sport-glt6102181144`; created [[RichardManks]], 
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 072 《射雕英雄传》之东邪黄药师篇
+
+Added source `072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig`; created [[HuangYaoshi|黄药师]]; and resynthesized [[LegendOfTheCondorHeroes|《射雕英雄传》]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the supplied three-minute opening makes Huang Yaoshi's attraction and moral controversy inseparable by placing broad martial and intellectual talent, Peach Blossom Island's poetic aura, grief for his wife, and love for his daughter beside vanity, cruelty, and mutilated servants. No settled contradiction was adopted. The hosts' opposed evaluations are preserved as competing readings, while the skill inventory, motives, spiritual interpretation, suicide plan, servant treatment, family feeling, and all missing conclusions remain source-scoped because the transcript stops mid-example. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] pages were kept closed because the focused source, character page, and novel update capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,374 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

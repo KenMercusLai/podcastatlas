@@ -121088,6 +121088,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/huangxinlvdermatologist/"
     },
+    "HuangYaoshi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loZkJPzz3rxku6G5g0sYkPwoehiG [loZkJPzz3rxku6G5g0sYkPwoehiG].md",
+          "key": "072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig",
+          "show": "纸醉金迷FM",
+          "title": "072 《射雕英雄传》之东邪黄药师篇",
+          "url": "/wiki/sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/huangyaoshi/"
+    },
     "HuangYiRobotics": {
       "episode_count": 1,
       "show_count": 1,
@@ -147863,9 +147879,9 @@
       "url": "/wiki/concepts/legendasinstitutionalanxiety/"
     },
     "LegendOfTheCondorHeroes": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq [li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq].md",
@@ -147887,9 +147903,16 @@
           "show": "纸醉金迷FM",
           "title": "074 只因在人群中多看了她一眼：《射雕英雄传》之主角母亲大对比",
           "url": "/wiki/sources/074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas/"
+        },
+        {
+          "episode_file": "loZkJPzz3rxku6G5g0sYkPwoehiG [loZkJPzz3rxku6G5g0sYkPwoehiG].md",
+          "key": "072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig",
+          "show": "纸醉金迷FM",
+          "title": "072 《射雕英雄传》之东邪黄药师篇",
+          "url": "/wiki/sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/legendofthecondorheroes/"
     },
     "LegitimacyAnxietyAdministrativeParalysis": {

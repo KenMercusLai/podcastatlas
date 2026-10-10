@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [072 《射雕英雄传》之东邪黄药师篇](sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig.md) — 纸醉金迷FM以三分钟开场并置黄药师的才情、人情、桃花岛诗意与残酷争议，并把完整人物判断保留为未决。
 - [李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路](sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228.md) — 罗永浩对谈李想，从青少年互联网创业、汽车之家和理想汽车创立谈到增程家庭车、组织争论、危机透明、MEGA修正、长期迭代与AI司机评价。
 - [073 《倪匡传奇》第二弹：倪匡奇异往事大公布](sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv.md) — 纸醉金迷FM以倪匡的大兴安岭、治淮与苏北经历连接创作素材、时代生活和怪谈，并区分叙事价值与历史、科学及超自然验证。
 - [592. Mad Victorian Sport](sources/592-mad-victorian-sport-glt6102181144.md) — The Rest Is History on Richard Manks, pedestrianism, the Oval, and the venues, rules, clubs, cups, media, and international fixtures that institutionalized modern sport.
@@ -4452,6 +4453,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca](sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900.md) — Huberman Lab interview on autism heterogeneity, patient-derived neural organoids and assembloids, transplantation, stem-cell-treatment boundaries, and Timothy syndrome translation.
 
 ## Entities
+- [黄药师 / Huang Yaoshi](entities/HuangYaoshi.md) — 《射雕英雄传》中兼具广博才情、诗意宗师气质、家人深情与残酷争议的桃花岛主。
 - [Sergiu Pașca](entities/SergiuPasca.md) — Stanford researcher using patient-derived neural models, organoids, assembloids, and transplantation to study neurodevelopment and therapeutic translation.
 - [Autohome / 汽车之家](entities/Autohome.md) — 李想从PC媒体转向汽车市场后建立的用户导向汽车信息公司，也是其产品语言和组织危机学习场域。
 - [Li Auto ONE / 理想 ONE](entities/LiAutoONE.md) — 以六座家庭场景与增程补能为核心、同时经历早期质量修正的理想汽车首款量产车。
