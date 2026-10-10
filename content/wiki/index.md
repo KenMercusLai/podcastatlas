@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [616. Elizabeth I: The Fall of the Axe (Part 1)](sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740.md) — The Rest Is History on Elizabeth's birth, Tudor male-heir pressure, Anne Boleyn's rise and execution, Mary's demotion, and Elizabeth's resulting illegitimacy.
 - [How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh](sources/scim2057835571-scim2057835571.md) — Huberman Lab interview on audiovisual spatial remapping, saccade-linked ear signals, room acoustics, sensory-motor thought, and deliberate attention environments.
 - [魔术大师刘谦×罗永浩！你所不知道的刘谦](sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte.md) — 刘谦以职业路径、现场作品、误导与强迫选择、失手恢复和保密伦理说明魔术如何把技术转化为观众亲历的不可能事件。
 - [VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了](sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md.md) — 这病说来话长由马浩宁的拉萨支援经历连接医疗能力转移、门诊停诊交接、同组复诊、线上随访与延误告知。

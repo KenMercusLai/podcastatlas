@@ -15842,9 +15842,9 @@
       "url": "/wiki/entities/annabellamilbank/"
     },
     "AnneBoleyn": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -15852,6 +15852,13 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-03",
@@ -37233,9 +37240,9 @@
       "url": "/wiki/entities/catherinejudge/"
     },
     "CatherineOfAragon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -37243,6 +37250,13 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-03",
@@ -72995,9 +73009,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -73089,6 +73103,13 @@
           "show": "The Rest Is History",
           "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
           "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-10",
@@ -112027,9 +112048,9 @@
       "url": "/wiki/entities/henryvii/"
     },
     "HenryVIII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9532907553 [GLT9532907553].md",
@@ -112051,6 +112072,13 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-03",
@@ -131266,9 +131294,9 @@
       "url": "/wiki/entities/janefonda/"
     },
     "JaneSeymour": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -131276,6 +131304,13 @@
           "show": "The Rest Is History",
           "title": "74. The Six Wives of Henry VIII",
           "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-03",
@@ -164887,9 +164922,9 @@
       "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
     "MaryI": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -164911,6 +164946,13 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-09-29",
@@ -252539,9 +252581,9 @@
       "url": "/wiki/entities/tudongdong/"
     },
     "TudorFemaleSovereigntyConstraint": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2281550812 [GLT2281550812].md",
@@ -252556,6 +252598,13 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-09-29",
@@ -252578,9 +252627,9 @@
       "url": "/wiki/concepts/tudorhumanistprotestanteducation/"
     },
     "TudorRoyalMarriageStatecraft": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -252595,15 +252644,22 @@
           "show": "The Rest Is History",
           "title": "618. Elizabeth I: The Shadow of the Tower (Part 3)",
           "url": "/wiki/sources/618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -252660,6 +252716,13 @@
           "show": "The Rest Is History",
           "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
           "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-10",
@@ -258054,9 +258117,9 @@
       "url": "/wiki/entities/virgil/"
     },
     "VirginQueenImageStatecraft": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7302124935 [GLT7302124935].md",
@@ -258078,6 +258141,13 @@
           "show": "The Rest Is History",
           "title": "617. Elizabeth I: Anne Boleyn's Bastard (Part 2)",
           "url": "/wiki/sources/617-elizabeth-i-anne-boleyns-bastard-part-2-glt2585433242/"
+        },
+        {
+          "episode_file": "GLT9331634740 [GLT9331634740].md",
+          "key": "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740",
+          "show": "The Rest Is History",
+          "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
+          "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
         }
       ],
       "updated": "2026-10-10",

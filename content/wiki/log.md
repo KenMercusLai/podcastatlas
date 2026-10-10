@@ -34253,3 +34253,11 @@ Added source `scim2057835571-scim2057835571`; created [[JenniferGroh]], [[CrossM
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 616. Elizabeth I: The Fall of the Axe (Part 1)
+
+Added source `616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740`; and resynthesized [[ElizabethI|Elizabeth I]], [[AnneBoleyn|Anne Boleyn]], [[HenryVIII|Henry VIII]], [[CatherineOfAragon|Catherine of Aragon]], [[MaryI|Mary I]], [[JaneSeymour|Jane Seymour]], [[TudorSuccessionCrisis]], [[TudorRoyalMarriageStatecraft]], [[VirginQueenImageStatecraft]], and [[TudorFemaleSovereigntyConstraint]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Tudor male-heir pressure made marital validity and pregnancy matters of regime security; Anne's marriage elevated Elizabeth by displacing Mary, while annulment and execution subjected Elizabeth to the same illegitimacy; and the child's abrupt reversal supplies context for, but does not deterministically explain, the later survival discipline and Gloriana-Virgin Queen image. No settled contradiction was adopted. The focused episode explicitly rejects the adultery, incest, and murder-conspiracy charges against Anne, sharpening an earlier survey that left them unresolved; exact prosecutorial responsibility, dialogue, private motives, miscarriages, witchcraft language, and scaffold intent remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,289 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

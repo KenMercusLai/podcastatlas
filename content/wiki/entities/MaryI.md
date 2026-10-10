@@ -6,6 +6,7 @@ sources:
   - 294-lady-jane-grey-the-axe-falls-part-2-glt7286066638
   - 293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812
   - 618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339
+  - 616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-29
 ---
@@ -18,7 +19,7 @@ Mary I is the Catholic daughter of Henry VIII who defeated [[LadyJaneGrey|Lady J
 
 ## Current Profile
 
-Edward's planners could treat Mary's Catholicism as a threat to reform, but religion did not settle the succession: her gender and earlier declaration of illegitimacy were also invoked, while Henry VIII's parliamentary settlement had restored her to the line after Edward. Mary's campaign succeeds because it keeps that statutory and hereditary claim at the center. From East Anglia she draws support from Catholics and conservatives without making the crisis only about Catholic restoration; Protestants, landholders, Howard connections, and people hostile to [[JohnDudleyDukeOfNorthumberland|Northumberland]] can support her for different reasons.
+Edward's planners could treat Mary's Catholicism as a threat to reform, but religion did not settle the succession: her gender and earlier declaration of illegitimacy were also invoked, while Henry VIII's parliamentary settlement had restored her to the line after Edward. That claim had already survived an earlier campaign of exclusion: after Elizabeth's birth Mary was stripped of her princess title, placed in the infant's household, deprived of jewels, and pressured by [[AnneBoleyn|Anne Boleyn]]'s regime to acknowledge her own illegitimacy. Her refusal preserved an alternative legitimacy before it became the basis of armed accession. Mary's later campaign succeeded because it kept statutory and hereditary claim at the center. From East Anglia she drew support from Catholics and conservatives without making the crisis only about Catholic restoration; Protestants, landholders, Howard connections, and people hostile to [[JohnDudleyDukeOfNorthumberland|Northumberland]] could support her for different reasons.
 
 Her treatment of Jane and Elizabeth joins mercy to changing security conditions. Mary initially believes Jane did not truly consent to the usurpation and resists execution on conscience grounds. After the proposed Spanish marriage produces intense opposition and the Wyatt Rebellion demonstrates that Jane and Elizabeth can anchor alternative regimes, mercy becomes harder to reconcile with security. Mary executes Jane and many rebels but cannot lawfully dispose of Elizabeth without a confession or firm evidence.
 
@@ -28,7 +29,7 @@ By 1558 the regime appeared more secure and heresy trials were declining, yet Ma
 
 ## Key Characteristics
 
-- Mary converts hereditary and statutory legitimacy into a public campaign after exclusion grounded in religion, gender, and disputed legitimacy.
+- Mary preserved her claim through household humiliation and legal exclusion under Anne Boleyn, then converted hereditary and statutory legitimacy into a public campaign.
 - She builds a coalition broader than a purely Catholic revolt.
 - Her East Anglian land, networks, and letters give legal claim an operational base.
 - She benefits from Northumberland's strategic mistakes, naval defection, and council self-preservation.
@@ -39,6 +40,7 @@ By 1558 the regime appeared more secure and heresy trials were declining, yet Ma
 ## Evidence
 
 - Exclusion logic: [[293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812]] distinguishes Mary's Catholicism from the gender and illegitimacy arguments also used to bypass her.
+- Childhood exclusion and resistance: [[616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740]] grounds Mary's demotion after Elizabeth's birth, her placement in Elizabeth's household, Anne's reported coercion, and Mary's continued insistence that she was the princess.
 - Legal conflict and campaign: [[293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812]] contrasts Edward's device with Henry VIII's statutory settlement; [[294-lady-jane-grey-the-axe-falls-part-2-glt7286066638]] shows Mary presenting herself as lawful heir while Jane's proclamation requires a more complicated justification.
 - Broad coalition: [[294-lady-jane-grey-the-axe-falls-part-2-glt7286066638]] connects Catholic and conservative networks to Protestant support, local grievance, land, and Howard influence.
 - Political victory: [[294-lady-jane-grey-the-axe-falls-part-2-glt7286066638]] follows naval defection, Privy Council reversal, and Mary's celebratory proclamation in London.
@@ -49,14 +51,12 @@ By 1558 the regime appeared more secure and heresy trials were declining, yet Ma
 
 ## Qualifications
 
-The precise legal force of Henry's will, the Third Succession Act, and Edward's device remains contested. Mary's victory should not be reduced either to pure popular acclamation or to personal brilliance: rival mistakes, fleet pay, council behavior, dynastic memory, local networks, and coercive capacity all matter. Reassessment must not turn contextualization into exoneration: the burnings were deliberate state punishment even if neighbor denunciations, Tudor norms, and comparison weaken claims of unique bloodthirstiness. Claims about late religious success, cancer, naval causation, and how securely Mary ruled in 1558 remain source-scoped.
+The precise legal force of Henry's will, the Third Succession Act, and Edward's device remains contested. Mary's victory should not be reduced either to pure popular acclamation or to personal brilliance: rival mistakes, fleet pay, council behavior, dynastic memory, local networks, and coercive capacity all matter. Reassessment must not turn contextualization into exoneration: the burnings were deliberate state punishment even if neighbor denunciations, Tudor norms, and comparison weaken claims of unique bloodthirstiness. Claims about Anne's instructions, reported dialogue, Mary's household treatment, late religious success, cancer, naval causation, and how securely Mary ruled in 1558 remain source-scoped. Mary's resistance to demotion establishes continuity of claim, not a complete explanation of her later religion or rule.
 
 ## What Changed
 
-- Extended Mary's profile from accession through marriage, revolt, religious restoration, persecution, and the 1558 succession.
-- Added treaty-bounded Spanish alliance and personal Guildhall leadership as evidence of political agency.
-- Reframed “Bloody Mary” as a powerful memory built on real violence but insufficient as a complete reign-level judgment.
-- Distinguished a politically viable late regime from the dynastic failure produced by illness and childlessness.
+- Extended Mary's legitimacy struggle back to her demotion after Elizabeth's birth and her refusal to accept bastard status.
+- Connected later accession language to an earlier period when court rank, household placement, and coercion tested the same claim.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ sources:
   - 248-medieval-treason-part-1-glt9532907553
   - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
   - 74-the-six-wives-of-henry-viii-glt6913826589
+  - 616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-03
 ---
@@ -26,6 +27,8 @@ The tournament episode broadens this law-centered profile. It presents Henry as 
 
 The six-wives episode makes marriage the mechanism joining those traits. Fear that the Tudor settlement might collapse without a son shaped Henry's treatment of [[CatherineOfAragon|Catherine of Aragon]] and [[AnneBoleyn|Anne Boleyn]]; European power constrained annulment and alliance; and [[ThomasCromwell|Thomas Cromwell]] converted the king's aims into supremacy, prosecution, and the Cleves match. The wives' sharply different outcomes show Henry's court as a system in which affection, theology, reproduction, diplomacy, and legal violence could not be separated.
 
+The focused Elizabeth episode makes the sequence especially stark. Henry accepted Elizabeth as heir after the expected son was born a daughter, but later miscarriage and the continued absence of a male heir were interpreted through providence and personal betrayal. Anne's annulment, the prosecution of her and five men, and the rapid marriage to [[JaneSeymour|Jane Seymour]] show how readily royal marriage, legitimacy, and judicial killing could be reorganized around succession.
+
 ## Key Characteristics
 
 - Expanded treason beyond the medieval statutory core and used prosecution or parliamentary attainder against opponents and former intimates.
@@ -44,15 +47,16 @@ The six-wives episode makes marriage the mechanism joining those traits. Fear th
 - Posthumous contraction: [[248-medieval-treason-part-1-glt9532907553]] says Edward VI and his council removed most of Henry's additions.
 - Transformative and contradictory rule: [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] connects Tudor insecurity, charisma, royal supremacy, religious rupture, Catholic theology, coercion, and cultural magnetism.
 - Marriage as statecraft: [[74-the-six-wives-of-henry-viii-glt6913826589]] connects the demand for a son, six different marital outcomes, European diplomacy, Cromwell's administration, and the break with Rome.
+- Elizabeth's birth and Anne's fall: [[616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740]] grounds the expected male heir, Elizabeth's initial recognition, Henry's reaction to failed pregnancies, Anne's prosecution and annulment, and the immediate transition to Jane Seymour.
 
 ## Qualifications
 
-This remains a selective profile rather than a complete account of Henry, his marriages, Parliament, or the English Reformation. The sources question the fairness and political purpose of several prosecutions without resolving every factual allegation. The tournament episode's claim that Henry did not damage Parliament's potency and its balance among opportunism, evangelical energy, and personal motive remain source-scoped. Private affection, sexual allegations, consummation, miscarriage causation, and counterfactual marriage outcomes in the six-wives episode are likewise not settled facts. “Pity” in Anne Boleyn's beheading is reported as Henry's framing rather than accepted as a neutral moral judgment.
+This remains a selective profile rather than a complete account of Henry, his marriages, Parliament, or the English Reformation. The sources question the fairness and political purpose of several prosecutions without resolving every factual allegation. The tournament episode's claim that Henry did not damage Parliament's potency and its balance among opportunism, evangelical energy, and personal motive remain source-scoped. Private affection, sexual allegations, consummation, miscarriage causation, divine or witchcraft interpretations, and counterfactual marriage outcomes are likewise not settled facts. The focused source rejects the charges against Anne, but it does not by itself settle how Henry, Cromwell, and court factions divided responsibility for constructing the case. “Pity” in Anne Boleyn's beheading is reported as Henry's framing rather than accepted as a neutral moral judgment.
 
 ## What Changed
 
-- Made the six marriages the link among dynastic insecurity, European alliance, religious change, and coercive rule.
-- Distinguished the wives' varied strategies and outcomes without treating Henry's desire as a complete explanation of the Reformation.
+- Made the birth-annulment-execution-remarriage sequence a concrete example of legitimacy being reorganized through royal and judicial power.
+- Sharpened Anne's prosecution as based on charges the focused source treats as false, while keeping exact responsibility qualified.
 
 ## Relationships
 
