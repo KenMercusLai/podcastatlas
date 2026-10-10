@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3419
+topic_total_pages: 3420
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9231,6 +9231,9 @@ topic_sources:
   - key: "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai"
     title: "EP 19: Navigating the Future of Workplace Health and Benefits with AI"
     url: "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+  - key: "ep-26-the-future-of-healthcare-ai-data-and-human-touch"
+    title: "EP 26: The Future of Healthcare - AI, Data and Human Touch"
+    url: "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
   - key: "ep-27-ai-and-the-creative-arts-innovation-or-appropriation"
     title: "EP 27: AI and the Creative Arts: Innovation or Appropriation?"
     url: "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"

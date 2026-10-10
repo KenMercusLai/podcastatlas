@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13021
+wiki_total_pages: 13023
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "OnRunning"
     title: "On Running"
     url: "/wiki/entities/onrunning/"
+  - key: "OncoNexus"
+    title: "OncoNexus"
+    url: "/wiki/entities/onconexus/"
   - key: "OneLife"
     title: "One Life"
     url: "/wiki/entities/onelife/"

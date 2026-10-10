@@ -12539,6 +12539,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/ambientaiinterface/"
     },
+    "AmbientOncology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128 [A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a8393dd].md",
+          "key": "ep-26-the-future-of-healthcare-ai-data-and-human-touch",
+          "show": "Data Science With Sam",
+          "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+          "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/ambientoncology/"
+    },
     "AmbientVoiceAgentInterface": {
       "episode_count": 3,
       "show_count": 3,
@@ -46147,6 +46163,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/climateshockinstitutionalresilience/"
+    },
+    "ClinicalAITraceability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128 [A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a8393dd].md",
+          "key": "ep-26-the-future-of-healthcare-ai-data-and-human-touch",
+          "show": "Data Science With Sam",
+          "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+          "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/clinicalaitraceability/"
     },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
@@ -186171,6 +186203,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/onrunning/"
     },
+    "OncoNexus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128 [A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a8393dd].md",
+          "key": "ep-26-the-future-of-healthcare-ai-data-and-human-touch",
+          "show": "Data Science With Sam",
+          "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+          "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/onconexus/"
+    },
     "OncologyPsychologicalSupport": {
       "episode_count": 2,
       "show_count": 1,
@@ -187116,6 +187164,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/operationaldetachment/"
+    },
+    "OperationalPrecisionOncology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128 [A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a8393dd].md",
+          "key": "ep-26-the-future-of-healthcare-ai-data-and-human-touch",
+          "show": "Data Science With Sam",
+          "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+          "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/operationalprecisiononcology/"
     },
     "OperationalSurprisePsychologicalBreakthrough": {
       "episode_count": 1,
@@ -235573,6 +235637,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/spysourceprotection/"
+    },
+    "SrimanSwarup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128 [A395F4BE366F3E7490F13F53FF22B845~8584419_2026-08-10-214819-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a8393dd].md",
+          "key": "ep-26-the-future-of-healthcare-ai-data-and-human-touch",
+          "show": "Data Science With Sam",
+          "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+          "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/srimanswarup/"
     },
     "Sspai": {
       "episode_count": 1,

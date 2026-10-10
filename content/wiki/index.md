@@ -4377,6 +4377,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
 - [Improve Your Lymphatic System for Overall Health & Appearance](sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441.md) — Huberman Lab solo episode on lymphatic fluid recovery, immune surveillance, movement- and pressure-supported flow, sleep-linked glymphatic clearance, and clinical boundaries.
 
+- [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
+
 ## Entities
 - [Art Babbitt](entities/ArtBabbitt.md) — Disney animator and labor figure connecting character craft, collaborator credit, and the 1941 strike.
 - [Steamboat Willie](entities/SteamboatWillie.md) — Mickey Mouse short whose synchronized sound became a mass-animation breakthrough.
@@ -17458,6 +17460,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Panic](entities/PanicSoftware.md) — Software and Playdate company whose direct-sales records enabled matched consumer tariff refunds.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
+- [Sriman Swarup](entities/SrimanSwarup.md) — Oncologist and OncoNexus founder advocating integrated, inspectable, human-reviewed AI for cancer-care workflows.
+- [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
+
 ## Concepts
 - [Local Experience as Creative Archive / 地方经验作为创作档案](concepts/LocalExperienceAsCreativeArchive.md) — Framework for turning accumulated place, sound, material life, and social relations into selected artistic form.
 - [Creative Action Before Readiness / 条件未齐时先行动](concepts/CreativeActionBeforeReadiness.md) — Bounded execution practice that starts under incomplete conditions while preserving collaboration, scope, labor, and risk constraints.
@@ -27717,5 +27722,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lymphatic System Clearance](concepts/LymphaticSystemClearance.md) — Whole-body fluid-recovery and immune-surveillance network returning interstitial fluid to venous circulation.
 - [Lymphatic Flow Support](concepts/LymphaticFlowSupport.md) — Movement, breathing, water pressure, hydration, and gentle-touch support with symptom and lymphedema safety boundaries.
 - [Glymphatic Clearance](concepts/GlymphaticClearance.md) — Sleep-linked brain-fluid clearance model with explicit position, animal-evidence, and neurodegenerative-disease limits.
+
+- [Ambient Oncology](concepts/AmbientOncology.md) — Integrated background AI model that reduces oncology administration while preserving consent, traceability, containment, and human action.
+- [Clinical AI Traceability](concepts/ClinicalAITraceability.md) — Ability to connect clinical AI flags and data changes to source evidence, time, processing history, and accountable review.
+- [Operational Precision Oncology](concepts/OperationalPrecisionOncology.md) — Personalized cancer care that includes logistics, treatment format, trial feasibility, and patient circumstances alongside biology.
 
 ## Syntheses

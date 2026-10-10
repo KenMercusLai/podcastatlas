@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10185
+wiki_total_pages: 10188
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "OperationalPainFounderInsight"
     title: "Operational Pain Founder Insight"
     url: "/wiki/concepts/operationalpainfounderinsight/"
+  - key: "OperationalPrecisionOncology"
+    title: "Operational Precision Oncology"
+    url: "/wiki/concepts/operationalprecisiononcology/"
   - key: "OperationsManagementWorkflow"
     title: "Operations Management Workflow"
     url: "/wiki/concepts/operationsmanagementworkflow/"

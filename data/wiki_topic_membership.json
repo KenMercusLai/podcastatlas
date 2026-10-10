@@ -23955,6 +23955,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ClinicalAITraceability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ClinicalLanguageComprehensionValidation": [
     {
       "key": "technology",
@@ -99574,6 +99581,13 @@
     }
   ],
   "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-26-the-future-of-healthcare-ai-data-and-human-touch": [
     {
       "key": "technology",
       "label": "Technology",

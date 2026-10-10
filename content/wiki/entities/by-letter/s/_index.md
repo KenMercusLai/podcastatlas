@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13021
+wiki_total_pages: 13023
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "SriNarayanan"
     title: "Sri Narayanan"
     url: "/wiki/entities/srinarayanan/"
+  - key: "SrimanSwarup"
+    title: "Sriman Swarup"
+    url: "/wiki/entities/srimanswarup/"
   - key: "SRSDistribution"
     title: "SRS Distribution"
     url: "/wiki/entities/srsdistribution/"

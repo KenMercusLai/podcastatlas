@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10185
+wiki_total_pages: 10188
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1958,6 +1958,9 @@ wiki_pages:
   - key: "AmbientAIInterface"
     title: "Ambient AI Interface"
     url: "/wiki/concepts/ambientaiinterface/"
+  - key: "AmbientOncology"
+    title: "Ambient Oncology"
+    url: "/wiki/concepts/ambientoncology/"
   - key: "AmbientVoiceAgentInterface"
     title: "Ambient Voice Agent Interface"
     url: "/wiki/concepts/ambientvoiceagentinterface/"

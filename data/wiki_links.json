@@ -8655,6 +8655,10 @@
     "title": "Ambient AI Interface",
     "url": "/wiki/concepts/ambientaiinterface/"
   },
+  "AmbientOncology": {
+    "title": "Ambient Oncology",
+    "url": "/wiki/concepts/ambientoncology/"
+  },
   "AmbientVoiceAgentInterface": {
     "title": "Ambient Voice Agent Interface",
     "url": "/wiki/concepts/ambientvoiceagentinterface/"
@@ -19878,6 +19882,10 @@
   "ClinicLenderMatching": {
     "title": "Clinic Lender Matching",
     "url": "/wiki/concepts/cliniclendermatching/"
+  },
+  "ClinicalAITraceability": {
+    "title": "Clinical AI Traceability",
+    "url": "/wiki/concepts/clinicalaitraceability/"
   },
   "ClinicalBehaviorChangeRedFlags": {
     "title": "Clinical Behavior-Change Red Flags / 行为突变就医信号",
@@ -62683,6 +62691,10 @@
     "title": "Onboarding-Led Churn Reduction",
     "url": "/wiki/concepts/onboardingledchurnreduction/"
   },
+  "OncoNexus": {
+    "title": "OncoNexus",
+    "url": "/wiki/entities/onconexus/"
+  },
   "OncologyPsychologicalSupport": {
     "title": "Oncology Psychological Support / 肿瘤照护中的心理支持",
     "url": "/wiki/concepts/oncologypsychologicalsupport/"
@@ -63062,6 +63074,10 @@
   "OperationalPainFounderInsight": {
     "title": "Operational Pain Founder Insight",
     "url": "/wiki/concepts/operationalpainfounderinsight/"
+  },
+  "OperationalPrecisionOncology": {
+    "title": "Operational Precision Oncology",
+    "url": "/wiki/concepts/operationalprecisiononcology/"
   },
   "OperationalSurprisePsychologicalBreakthrough": {
     "title": "战术突袭与心理破局 / Operational Surprise and Psychological Breakthrough",
@@ -79310,6 +79326,10 @@
   "SriNarayanan": {
     "title": "Sri Narayanan",
     "url": "/wiki/entities/srinarayanan/"
+  },
+  "SrimanSwarup": {
+    "title": "Sriman Swarup",
+    "url": "/wiki/entities/srimanswarup/"
   },
   "Sspai": {
     "title": "少数派 / Sspai",
@@ -98678,6 +98698,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-26-the-future-of-healthcare-ai-data-and-human-touch": {
+    "title": "EP 26: The Future of Healthcare - AI, Data and Human Touch",
+    "url": "/wiki/sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch/"
   },
   "ep-27-ai-and-the-creative-arts-innovation-or-appropriation": {
     "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",

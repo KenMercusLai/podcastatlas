@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3255
+topic_total_pages: 3256
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -778,6 +778,9 @@ topic_concepts:
   - key: "ClimateShockInstitutionalResilience"
     title: "Climate Shock Institutional Resilience"
     url: "/wiki/concepts/climateshockinstitutionalresilience/"
+  - key: "ClinicalAITraceability"
+    title: "Clinical AI Traceability"
+    url: "/wiki/concepts/clinicalaitraceability/"
   - key: "ClubNationalTeamBoundaryBlur"
     title: "Club-National Team Boundary Blur"
     url: "/wiki/concepts/clubnationalteamboundaryblur/"

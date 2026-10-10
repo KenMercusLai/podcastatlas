@@ -34372,3 +34372,11 @@ Added source `612-nelson-the-final-showdown-part-5-glt2077045869`; resynthesized
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | EP 26: The Future of Healthcare - AI, Data and Human Touch
+
+Added source `ep-26-the-future-of-healthcare-ai-data-and-human-touch`; created [[SrimanSwarup]], [[OncoNexus]], [[AmbientOncology]], [[ClinicalAITraceability]], and [[OperationalPrecisionOncology]]. Core synthesis: oncology AI is most useful when it integrates fragmented clinical and administrative workflows, exposes the evidence behind each flag, leaves consequential action with clinicians and staff, and treats transport, treatment format, trial feasibility, and patient circumstances as part of precision care. No settled contradiction was adopted. Reported EHR-protocol outcomes, fax volumes, missed-appointment cost, molecular-design speed, documentation burden, diagnostic examples, and OncoNexus performance remain guest-reported or source-scoped; ambient monitoring also retains privacy, consent, surveillance, alert-fatigue, integration, and containment risks. Broad [[DataScienceWithSam]] and [[SamDataScienceWithSam]] profiles were kept closed because the focused source, guest, company, and concepts capture the durable additions without changing their current cross-domain profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,304 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
