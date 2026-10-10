@@ -35165,3 +35165,11 @@ Added source `582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685`
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky
+
+Added source `scim6217546049-scim6217546049`; resynthesized [[RobertSapolsky]], [[ContextDependentSocialHormoneEffects]], [[StressResponseRecovery]], [[DopamineWantingLoop]], and [[SocialComparisonPressure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: acute activation differs from chronic unrecovered stress; testosterone amplifies context- and status-relevant tendencies rather than directly creating aggression; dopamine supports anticipation and motivated pursuit rather than pleasure alone; and multiple simultaneous, abstract hierarchies can extend status stress into online comparison. No settled contradiction was adopted. This Essentials release condenses [[scim5791514102-scim5791514102|the full 2021 interview]] and is overlapping editorial provenance rather than independent confirmation. Animal models and claims about hormones, glucose uptake, cognition, dementia, cardiovascular health, and stress practices remain source-scoped public education, and severe structural or medical adversity must not be reframed as a personal mindset failure. Broad [[AndrewHuberman]], [[HubermanLab]], and menopause pages were kept closed because the focused source, guest, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,405 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

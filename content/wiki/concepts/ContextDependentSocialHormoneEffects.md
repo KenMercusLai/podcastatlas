@@ -8,8 +8,9 @@ sources:
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
   - scim5791514102-scim5791514102
   - the-science-of-emotions-relationships-scim6339543648
+  - scim6217546049-scim6217546049
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-11
 ---
 
 # Context-Dependent Social Hormone Effects
@@ -21,6 +22,8 @@ Context-dependent social hormone effects describe testosterone, oxytocin, and va
 The evidence resists both "testosterone equals aggression" and "oxytocin equals love." Testosterone is presented as increasing the gain on risk, confidence, status display, motivated pursuit, or fast responding rather than dictating one behavior. The Sapolsky interview makes the hierarchy mechanism more explicit: added testosterone lowers an aggression threshold in a system already activated and tends to reinforce an established rank pattern rather than making a mid-ranking animal challenge the top. In humans, the status-relevant behavior could instead be generosity or trustworthiness.
 
 The Sapolsky source also strengthens the causal boundary: baseline testosterone is described as weakly predictive, while aggression, sexual behavior, and psychologically meaningful competition can themselves alter testosterone. The autism episode extends the model to vasopressin and measurement. Oxytocin and vasopressin share receptor families and have central and peripheral roles, so blood levels, CSF levels, receptor action, and administered peptide cannot be treated as the same variable. The solo bonding episode adds developmental, tactile, sexual, recognition, and group-membership contexts. Broad negative oxytocin evidence can coexist with unresolved subgroup hypotheses, while small or suggestive findings remain insufficient for general use.
+
+The Sapolsky Essentials edit adds compact examples of confidence, cooperation, impulsivity, generosity, and motivation. It reinforces the same gain-setting model: greater confidence or energy may be useful in one task and distort judgment in another, while the locally rewarded route to status helps determine whether amplified behavior is aggressive or prosocial. Because it condenses the full interview, it adds editorial provenance rather than independent replication.
 
 The earlier emotion-and-relationships episode adds lactation, sexual interaction, nonsexual touch, pair bonding, couple-conflict experiments, and prairie-vole behavior to the context map. It also reinforces the intervention boundary: intranasal oxytocin findings and animal vasopressin patterns are hypothesis-generating, not reasons for self-administration or direct predictions about a human relationship.
 
@@ -38,6 +41,8 @@ The earlier emotion-and-relationships episode adds lactation, sexual interaction
 - Aggression threshold and hierarchy - [[scim5791514102-scim5791514102]] describes testosterone as increasing firing in an already stimulated amygdala and intensifying rank-consistent aggression rather than creating a new target pattern.
 - Status-dependent prosociality - [[scim5791514102-scim5791514102]] argues that testosterone can increase generosity when generosity is the locally valued route to status.
 - Bidirectional causality - [[scim5791514102-scim5791514102]] contrasts weak baseline prediction with behavior- and competition-linked changes in testosterone.
+- Confidence and cooperation qualification - [[scim6217546049-scim6217546049]] presents confidence, fast action, energy, and motivation as potentially useful while linking inaccurate confidence to impulsivity, wrong decisions, or reduced cooperation.
+- Overlapping status account - [[scim6217546049-scim6217546049]] repeats aggression-threshold, bidirectional-causality, and generosity-as-status examples from the full Sapolsky interview.
 - Hierarchy effects - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] reports nebulized oxytocin calming dominant males and making subordinate males bolder.
 - Sex and target qualification - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] reports female monkeys becoming more affiliative toward females but more aggressive toward males.
 - Oxytocin trial qualification - [[the-causes-treatments-for-autism-dr-karen-parker-scim5460291325]] contrasts promising early and baseline-dependent findings with a negative large multisite autism trial and measurement instability.
@@ -47,10 +52,11 @@ The earlier emotion-and-relationships episode adds lactation, sexual interaction
 - Early bonding and intervention boundary - [[the-science-of-emotions-relationships-scim6339543648]] connects oxytocin to lactation, sexual and nonsexual touch, couple communication, and pair bonding while keeping intranasal use and prairie-vole vasopressin findings source-scoped.
 
 ## Counterevidence & Qualifications
-Intranasal, nebulized, replacement, and induced-level studies are variable and difficult to generalize. The evidence does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor establish population-wide effects in autism, online sociability, financial markets, aggression, or intimate relationships. Hormone concentration, receptor polymorphism, and digit ratio can be correlates rather than causes; animal hierarchy findings do not automatically predict complex human conduct; and apparently opposite agonist and antagonist strategies require direct trial evidence rather than intuition.
+Intranasal, nebulized, replacement, and induced-level studies are variable and difficult to generalize. The evidence does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor establish population-wide effects in autism, online sociability, financial markets, aggression, or intimate relationships. Hormone concentration, receptor polymorphism, and digit ratio can be correlates rather than causes; animal hierarchy findings do not automatically predict complex human conduct; and apparently opposite agonist and antagonist strategies require direct trial evidence rather than intuition. The full and Essentials Sapolsky releases are overlapping edits, not separate confirmation.
 
 ## What Changed
-- Added touch, couple-conflict, and pair-bonding contexts while strengthening the boundary between endogenous release, intranasal intervention, and animal vasopressin evidence.
+- Added confidence, impulsivity, cooperation, and motivation as further context-sensitive testosterone outcomes.
+- Preserved the full-interview judgment and marked the Essentials release as overlapping rather than independent evidence.
 
 ## Related Concepts
 - [[HormoneContextAggression]] - adjacent correction to direct testosterone-aggression explanations.

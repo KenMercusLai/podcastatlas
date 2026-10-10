@@ -53235,9 +53235,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -53273,9 +53273,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "SCIM6217546049 [SCIM6217546049].md",
+          "key": "scim6217546049-scim6217546049",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim6217546049-scim6217546049/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
     },
     "ContextualBanditPersonalization": {
@@ -69427,9 +69434,9 @@
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -69472,9 +69479,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Motivation & Drive",
           "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
+        },
+        {
+          "episode_file": "SCIM6217546049 [SCIM6217546049].md",
+          "key": "scim6217546049-scim6217546049",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim6217546049-scim6217546049/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DorianYates": {
@@ -222017,9 +222031,9 @@
       "url": "/wiki/entities/robertpeel/"
     },
     "RobertSapolsky": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -222034,9 +222048,16 @@
           "show": "Huberman Lab",
           "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        },
+        {
+          "episode_file": "SCIM6217546049 [SCIM6217546049].md",
+          "key": "scim6217546049-scim6217546049",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim6217546049-scim6217546049/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/robertsapolsky/"
     },
     "RobertStephenson": {
@@ -237682,6 +237703,57 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/socialbasecollapsevseliterebellion/"
     },
+    "SocialComparisonPressure": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128 [E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a83829c].md",
+          "key": "ep-3-demystifying-the-imposter-syndrome",
+          "show": "Data Science With Sam",
+          "title": "EP 3: Demystifying the Imposter Syndrome",
+          "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+        },
+        {
+          "episode_file": "163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马 [lvXFvTZ-wGWDL8mMTzYeHwgwtBta].md",
+          "key": "163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta",
+          "show": "起朱楼宴宾客",
+          "title": "163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马",
+          "url": "/wiki/sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta/"
+        },
+        {
+          "episode_file": "162.财富的本质，以及自由的真正含义｜串台十分吸引 [loFYxFhIPrud7zVEkuFExsjHTust].md",
+          "key": "162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust",
+          "show": "起朱楼宴宾客",
+          "title": "162.财富的本质，以及自由的真正含义｜串台十分吸引",
+          "url": "/wiki/sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust/"
+        },
+        {
+          "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
+          "key": "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679",
+          "show": "蜜獾吃书",
+          "title": "37.智商测试：请问你是智力婆罗门吗？",
+          "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+        },
+        {
+          "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
+          "key": "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647",
+          "show": "蜜獾吃书",
+          "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
+          "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
+        },
+        {
+          "episode_file": "SCIM6217546049 [SCIM6217546049].md",
+          "key": "scim6217546049-scim6217546049",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim6217546049-scim6217546049/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/socialcomparisonpressure/"
+    },
     "SocialContactSynchrony": {
       "episode_count": 1,
       "show_count": 1,
@@ -244515,9 +244587,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -244560,9 +244632,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
           "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
+        },
+        {
+          "episode_file": "SCIM6217546049 [SCIM6217546049].md",
+          "key": "scim6217546049-scim6217546049",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim6217546049-scim6217546049/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/stressresponserecovery/"
     },
     "StressUrinaryIncontinence": {

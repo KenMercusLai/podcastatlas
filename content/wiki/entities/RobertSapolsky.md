@@ -5,8 +5,9 @@ tags: [person, neuroscience, biology, justice, free-will]
 sources:
   - ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx
   - scim5791514102-scim5791514102
+  - scim6217546049-scim6217546049
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-11
 ---
 
 # Robert Sapolsky / 萨波斯基
@@ -15,7 +16,7 @@ last_updated: 2026-10-03
 Robert Sapolsky is a neuroscientist, primatologist, and behavioral biologist represented in the wiki through work on stress, hormones, hierarchy, behavior, and the denial of libertarian [[FreeWill|free will]].
 
 ## Current Profile
-The direct [[scim5791514102-scim5791514102]] interview shows Sapolsky using the same context-first reasoning across physiology and philosophy. He distinguishes acute from chronic stress, treats testosterone as an amplifier of already relevant status strategies rather than a simple aggression switch, and argues that behavior emerges from interacting neural, hormonal, developmental, cultural, and environmental causes.
+The direct [[scim5791514102-scim5791514102]] interview shows Sapolsky using the same context-first reasoning across physiology and philosophy. He distinguishes acute from chronic stress, treats testosterone as an amplifier of already relevant status strategies rather than a simple aggression switch, and argues that behavior emerges from interacting neural, hormonal, developmental, cultural, and environmental causes. [[scim6217546049-scim6217546049]] condenses the stress, testosterone, dopamine, estrogen, and hierarchy portion of that conversation; it sharpens the confidence, impulsivity, agency, practice-fit, and abstract-status examples without supplying independent confirmation.
 
 The later discussion in [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] uses him as the strongest no-free-will voice in a broader debate about crime, addiction, inequality, and AI-era agency. Together, the sources present a mechanistic thinker who rejects uncaused authorship without treating organisms as static: circumstance, learning, and knowledge can change behavior because they are part of the causal system.
 
@@ -29,15 +30,16 @@ The later discussion in [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwe
 ## Evidence
 - Stress and hormone reasoning - [[scim5791514102-scim5791514102]] records Sapolsky's acute-versus-chronic stress distinction and his claim that testosterone amplifies existing social tendencies rather than creating aggression from nothing.
 - Context and hierarchy - [[scim5791514102-scim5791514102]] uses primate rank, status challenge, generosity, and personal interpretation to show why the same biological signal can support different behavior.
+- Condensed motivation and comparison account - [[scim6217546049-scim6217546049]] restates testosterone as an amplifier, distinguishes dopamine-linked pursuit from pleasure, and connects multiple human hierarchies to abstract online status stress.
 - Causal account of agency - [[scim5791514102-scim5791514102]] traces behavior through recent context, hormones, development, culture, genetics, evolution, and brain construction while preserving change through learning and circumstance.
 - Social-policy reception - [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] applies Sapolsky's position to crime, poverty, education, addiction, and unequal starting conditions without fully accepting his absolute conclusion.
 
 ## Qualifications
-The sources do not independently establish all physiological, developmental, or philosophical claims. The direct interview is public scientific conversation rather than a systematic review, and EP256 discusses Sapolsky through another speaker's interpretation. His categorical denial of free will remains contested within the wiki's broader evidence set.
+The sources do not independently establish all physiological, developmental, or philosophical claims. The direct interview is public scientific conversation rather than a systematic review, the Essentials release is an overlapping edit of it, and EP256 discusses Sapolsky through another speaker's interpretation. His categorical denial of free will remains contested within the wiki's broader evidence set.
 
 ## What Changed
-- Direct interview evidence expands the profile from a cited no-free-will position to a broader context-first account of stress, hormones, hierarchy, and behavior.
-- The profile now distinguishes causal change from fatalism more explicitly.
+- Added overlapping Essentials provenance for the existing context-first account of stress, hormones, motivation, hierarchy, and behavior.
+- Clarified that the condensed edit sharpens examples but does not independently replicate the full interview's claims.
 
 ## Relationships
 - [[FreeWill]] - Sapolsky supplies the wiki's strongest categorical rejection of uncaused authorship.
