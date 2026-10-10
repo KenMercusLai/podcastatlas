@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [贾樟柯×罗永浩！成为贾樟柯（上）](sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir.md) — 罗永浩与贾樟柯从汾阳成长、文学与流行文化谈到电影教育、低成本起步、作者边界、时代音乐及现实优先的导演方法。
 - [082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1](sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd.md) — 纸醉金迷FM两周年圆桌以金庸小说、人物、武功和域外武侠之最，区分批评判断与私人偏爱，并讨论生命阶段如何改变人物同情与阅读重点。
 - [613. Nelson: Glory at Trafalgar (Part 6)](sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251.md) — The Rest Is History on Trafalgar's two-column attack, Nelson's death, Royal Navy state capacity, storm aftermath, state funeral, and monumental memory.
 - [Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460.md) — Condensed Huberman Lab interview on epigenetic aging, fasting and nutrient signaling, NAD and NMN, biological-age markers, and animal-to-human evidence boundaries.
@@ -9719,7 +9720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fangyuan Capital / 方圆资本](entities/FangyuanCapital.md) — Private-equity background tied to CFB Group in the source's restaurant-platform discussion.
 - [Ningji / 宁记](entities/Ningji.md) — Chinese lemon-tea brand that acquired Haagen-Dazs China store operations in episode 145.
 - [Yum Brands / 百胜美国](entities/YumBrands.md) — U.S. restaurant brand owner selling Pizza Hut China brand ownership to Yum China in episode 145.
-- [贾樟柯 / Jia Zhangke](entities/JiaZhangke.md) — Director whose Talk三联 interview links short-video rediscovery, ordinary-life poetics, youth mobility, era transition, and AI cinema's production-method questions.
+- [贾樟柯 / Jia Zhangke](entities/JiaZhangke.md) — Director linking Fenyang experience, practical production, ordinary-life poetics, generational memory, live-action reality, and AI-era film questions.
 - [赵涛 / Zhao Tao](entities/ZhaoTao.md) — Actor whose 《山河故人》 dance scene anchors EP276's discussion of film-clip afterlife, freedom, aging, and hometown.
 - [《山河故人》 / Mountains May Depart](entities/ShanHeGuRen.md) — Jia Zhangke film whose opening disco memory and ending dance scene are used in EP276 to explain renewed online resonance.
 - [《江湖儿女》 / Ash Is Purest White](entities/JiangHuErNv.md) — Jia Zhangke film used in EP276 to show departure as imagined fate, memory, and repeated separation.
@@ -17454,6 +17455,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Local Experience as Creative Archive / 地方经验作为创作档案](concepts/LocalExperienceAsCreativeArchive.md) — Framework for turning accumulated place, sound, material life, and social relations into selected artistic form.
+- [Creative Action Before Readiness / 条件未齐时先行动](concepts/CreativeActionBeforeReadiness.md) — Bounded execution practice that starts under incomplete conditions while preserving collaboration, scope, labor, and risk constraints.
+- [Popular Music as Temporal Memory / 流行音乐作为时代记忆](concepts/PopularMusicAsTemporalMemory.md) — Film-and-memory framework treating period songs as social evidence, emotional carriers, and uneven shared recall.
 - [Critical Judgment And Personal Preference / 批评判断与个人偏好的区分](concepts/CriticalJudgmentPersonalPreference.md) — 区分作品层面的批评标准与由媒介、记忆、生命阶段和认同共同形成的私人偏爱。
 - [Animation As Mass Art](concepts/AnimationAsMassArt.md) — System-level account of animation's mass reach through technique, character, collective labor, capital, distribution, and merchandise.
 - [Castleman Disease](concepts/CastlemanDisease.md) — Rare lymph-node disorder presented through a severe relapsing case and a bounded mTOR-sirolimus treatment hypothesis.

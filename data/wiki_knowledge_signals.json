@@ -53950,6 +53950,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
+    "CreativeActionBeforeReadiness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
+          "key": "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir",
+          "show": "罗永浩的十字路口",
+          "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
+          "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/creativeactionbeforereadiness/"
+    },
     "CreativeApertureShift": {
       "episode_count": 2,
       "show_count": 1,
@@ -133738,6 +133754,36 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/jiayueting/"
     },
+    "JiaZhangke": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你 [lqzsJ-ujv-gpeM_796CvncekDewC].md",
+          "key": "ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc",
+          "show": "Talk三联",
+          "title": "EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你",
+          "url": "/wiki/sources/ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc/"
+        },
+        {
+          "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+          "key": "ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox",
+          "show": "Talk三联",
+          "title": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能",
+          "url": "/wiki/sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox/"
+        },
+        {
+          "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
+          "key": "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir",
+          "show": "罗永浩的十字路口",
+          "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
+          "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/jiazhangke/"
+    },
     "JiajingEmperor": {
       "episode_count": 1,
       "show_count": 1,
@@ -155212,6 +155258,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
+    },
+    "LocalExperienceAsCreativeArchive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
+          "key": "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir",
+          "show": "罗永浩的十字路口",
+          "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
+          "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/localexperienceascreativearchive/"
     },
     "LocalFaultAttributionPacification": {
       "episode_count": 1,
@@ -198753,6 +198815,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/popularmusicasculturaltransmission/"
+    },
+    "PopularMusicAsTemporalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
+          "key": "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir",
+          "show": "罗永浩的十字路口",
+          "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
+          "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/popularmusicastemporalmemory/"
     },
     "PopularNPDDiscourse": {
       "episode_count": 2,

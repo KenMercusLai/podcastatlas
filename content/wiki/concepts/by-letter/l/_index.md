@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10178
+wiki_total_pages: 10181
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "LocalEliteSecurityPanic"
     title: "Local Elite Security Panic / 地方士族安全恐慌"
     url: "/wiki/concepts/localelitesecuritypanic/"
+  - key: "LocalExperienceAsCreativeArchive"
+    title: "Local Experience as Creative Archive / 地方经验作为创作档案"
+    url: "/wiki/concepts/localexperienceascreativearchive/"
   - key: "LocalGovernanceAsCare"
     title: "Local Governance As Care / 地方治理作为照护"
     url: "/wiki/concepts/localgovernanceascare/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10178
+wiki_total_pages: 10181
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "PopularMusicAsCulturalTransmission"
     title: "Popular Music as Cultural Transmission"
     url: "/wiki/concepts/popularmusicasculturaltransmission/"
+  - key: "PopularMusicAsTemporalMemory"
+    title: "Popular Music as Temporal Memory / 流行音乐作为时代记忆"
+    url: "/wiki/concepts/popularmusicastemporalmemory/"
   - key: "PopularNPDDiscourse"
     title: "Popular NPD Discourse / 大众NPD话语"
     url: "/wiki/concepts/popularnpddiscourse/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10178
+wiki_total_pages: 10181
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2585,6 +2585,9 @@ wiki_pages:
   - key: "CreationAsConsumption"
     title: "Creation As Consumption"
     url: "/wiki/concepts/creationasconsumption/"
+  - key: "CreativeActionBeforeReadiness"
+    title: "Creative Action Before Readiness / 条件未齐时先行动"
+    url: "/wiki/concepts/creativeactionbeforereadiness/"
   - key: "CreativeApertureShift"
     title: "Creative Aperture Shift"
     url: "/wiki/concepts/creativeapertureshift/"

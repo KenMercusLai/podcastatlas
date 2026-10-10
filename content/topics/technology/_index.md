@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3420
+topic_total_pages: 3419
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8501,9 +8501,6 @@ topic_entities:
   - key: "CaixinMedia"
     title: "财新传媒 / Caixin Media"
     url: "/wiki/entities/caixinmedia/"
-  - key: "JiaZhangke"
-    title: "贾樟柯 / Jia Zhangke"
-    url: "/wiki/entities/jiazhangke/"
   - key: "ZhaoGuoWesternHan"
     title: "赵过 / Zhao Guo (Western Han)"
     url: "/wiki/entities/zhaoguowesternhan/"

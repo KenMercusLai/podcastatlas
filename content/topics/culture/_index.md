@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3331
+topic_total_pages: 3334
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1924,6 +1924,9 @@ topic_concepts:
   - key: "LoanCapAccessRisk"
     title: "Loan Cap Access Risk"
     url: "/wiki/concepts/loancapaccessrisk/"
+  - key: "LocalExperienceAsCreativeArchive"
+    title: "Local Experience as Creative Archive / 地方经验作为创作档案"
+    url: "/wiki/concepts/localexperienceascreativearchive/"
   - key: "LocalZineRevival"
     title: "Local Zine Revival / 在地小杂志回潮"
     url: "/wiki/concepts/localzinerevival/"
@@ -2470,6 +2473,9 @@ topic_concepts:
   - key: "PopularMusicAsCulturalTransmission"
     title: "Popular Music as Cultural Transmission"
     url: "/wiki/concepts/popularmusicasculturaltransmission/"
+  - key: "PopularMusicAsTemporalMemory"
+    title: "Popular Music as Temporal Memory / 流行音乐作为时代记忆"
+    url: "/wiki/concepts/popularmusicastemporalmemory/"
   - key: "PopulistPoliticalPerformance"
     title: "Populist Political Performance"
     url: "/wiki/concepts/populistpoliticalperformance/"
@@ -9993,6 +9999,9 @@ topic_sources:
   - key: "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc"
     title: "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？"
     url: "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+  - key: "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir"
+    title: "贾樟柯×罗永浩！成为贾樟柯（上）"
+    url: "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
   - key: "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp"
     title: "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》"
     url: "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"

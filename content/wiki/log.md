@@ -34341,3 +34341,10 @@ Added source `082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-to
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 贾樟柯×罗永浩！成为贾樟柯（上）
+
+Added source `jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir`; created [[LocalExperienceAsCreativeArchive|地方经验作为创作档案]], [[CreativeActionBeforeReadiness|条件未齐时先行动]], and [[PopularMusicAsTemporalMemory|流行音乐作为时代记忆]]; and migrated and resynthesized [[JiaZhangke|贾樟柯]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Fenyang's roads, street relations, scarcity, literature, cinemas, video halls, dance, and popular music formed a creative archive; 《黄土地》 made familiar life newly visible as cinema; and paid work, borrowed resources, collaborators, low shooting ratios, international circulation, and action before complete readiness sustained films that remained answerable to Jia's own judgment. No settled contradiction was adopted. Childhood dialogue, chronology, earnings, budgets, profitability, distributor motives, audience memory, and microdrama claims remain episode-attributed or source-scoped. Broad [[LuoYonghao|罗永浩]] and [[LuoyonghaosCrossroads|罗永浩的十字路口]] profiles were kept closed because the focused source, person, and concepts capture the durable additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,300 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

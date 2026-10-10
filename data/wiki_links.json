@@ -22227,6 +22227,10 @@
     "title": "《封神》 / Creation of the Gods",
     "url": "/wiki/entities/creationofthegodsi/"
   },
+  "CreativeActionBeforeReadiness": {
+    "title": "Creative Action Before Readiness / 条件未齐时先行动",
+    "url": "/wiki/concepts/creativeactionbeforereadiness/"
+  },
   "CreativeApertureShift": {
     "title": "Creative Aperture Shift",
     "url": "/wiki/concepts/creativeapertureshift/"
@@ -52735,6 +52739,10 @@
     "title": "Local Elite Security Panic / 地方士族安全恐慌",
     "url": "/wiki/concepts/localelitesecuritypanic/"
   },
+  "LocalExperienceAsCreativeArchive": {
+    "title": "Local Experience as Creative Archive / 地方经验作为创作档案",
+    "url": "/wiki/concepts/localexperienceascreativearchive/"
+  },
   "LocalFaultAttributionPacification": {
     "title": "归咎安抚式平叛 / Local Fault Attribution Pacification",
     "url": "/wiki/concepts/localfaultattributionpacification/"
@@ -66930,6 +66938,10 @@
   "PopularMusicAsCulturalTransmission": {
     "title": "Popular Music as Cultural Transmission",
     "url": "/wiki/concepts/popularmusicasculturaltransmission/"
+  },
+  "PopularMusicAsTemporalMemory": {
+    "title": "Popular Music as Temporal Memory / 流行音乐作为时代记忆",
+    "url": "/wiki/concepts/popularmusicastemporalmemory/"
   },
   "PopularNPDDiscourse": {
     "title": "Popular NPD Discourse / 大众NPD话语",
@@ -100290,6 +100302,10 @@
   "jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567": {
     "title": "假期通知兼谈本台为什么要做视频播客",
     "url": "/wiki/sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567/"
+  },
+  "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir": {
+    "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
+    "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
   },
   "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe": {
     "title": "激发动物精神，创造更多机会",
