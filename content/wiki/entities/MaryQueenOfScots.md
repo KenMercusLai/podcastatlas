@@ -12,6 +12,7 @@ sources:
   - 589-mary-queen-of-scots-downfall-part-6-glt8999516788
   - 588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995
   - 587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933
+  - 586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -25,6 +26,10 @@ Mary, Queen of Scots is the Scottish sovereign whose fall separates uncertain cr
 ## Current Profile
 
 Mary was dangerous because she combined Tudor blood, Catholic legitimacy, French queenship, Guise connections, and recognition among English and Scottish Catholics. The opening-reign source shows her claim shaping English policy before captivity: Cecil sought to remove French power from Scotland, the 1560 Treaty of Edinburgh required French recognition of Elizabeth, and Elizabeth later proposed [[RobertDudley|Robert Dudley]] as Mary's husband.
+
+Mary's return supplies the domestic side of that opening. She arrived at eighteen after thirteen years abroad and converted glamour, ceremony, royal progresses, and personal charm into genuine popularity, but she faced [[JohnKnox|John Knox]]'s claim that subjects could restrain a ruler who violated divine bounds. Her limited council attendance, French-centered private court, and destruction of Gordon Catholic power support the severe judgment that she failed to turn popularity and available Catholic support into durable governing authority.
+
+Her accommodation of the Protestant settlement is best read as strategic and constrained rather than as modern religious liberalism. The episode argues that Mary needed Scottish Protestant nobles and English Protestant acceptability to advance her hope of succeeding [[ElizabethI|Elizabeth I]]. That priority helps explain why she protected private Mass without restoring Catholic public rule, but it also tied Scottish policy to an English succession outcome Elizabeth refused to guarantee.
 
 The Darnley-marriage source shows Mary acting from strength before the murder scandals. The match joined personal attraction to a concentrated Tudor-Stuart claim and greater independence from Elizabeth. When [[JamesStewartEarlOfMoray|Moray]] and Protestant allies resisted Darnley's elevation, Mary restored [[JamesHepburnEarlOfBothwell|Bothwell]], rode armed in the [[ChaseaboutRaid]], and forced the rebels into England. Her pregnancy and public dynastic confidence then coincided with a harder but still mixed religious posture.
 
@@ -42,8 +47,8 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 
 ## Key Characteristics
 
-- Catholic dynastic alternative whose 1568 arrival converted Scottish and French politics into English domestic security.
-- Rival whose French marriage and English claim shaped Cecil's Scottish strategy before her English captivity.
+- Catholic dynastic alternative whose English ambition shaped Scottish religious policy before her 1568 arrival converted it into an English domestic-security problem.
+- Charismatic returning sovereign who built public popularity but struggled to convert it into sustained council government or confessional authority.
 - Reigning queen whose armed victory in the Chaseabout Raid and reversal of the Rizzio coup show substantial crisis agency before her later collapse.
 - Ruler whose probable ignorance of Darnley's murder can coexist with catastrophic failure to investigate and distance herself from its chief suspect.
 - Captive claimant whose forced abdication, failed restoration, and disputed documentary case created legal-political limbo.
@@ -63,18 +68,17 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 - Plot focal point: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] links her to Throckmorton and foreign diplomatic channels; [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] supplies the Babington controlled-channel evidence.
 - Execution legitimacy and symbolism: [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] grounds the trial, warrant, legal problem, and scaffold performance.
 - Elizabeth's distancing: [[39-elizabeth-i-glt7302124935]] presents Elizabeth as understanding the warrant would be carried out and Davison as the later scapegoat.
+- Return, accommodation, and English ambition: [[586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247]] connects Mary's popularity, weak council attendance, clash with Knox, attack on Gordon power, and Protestant accommodation to her English succession strategy.
 
 ## Qualifications
 
-Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. The early episode's religious judgments, reported declaration against Elizabeth, miscarriage deception, and readings of private motive remain source-scoped. The murder reconstruction makes her ignorance probable rather than certain; Craigmillar language, Moray's absence, intelligence reports, confessions, witness testimony, and her conduct remain interpretive evidence. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
+Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. The return episode's council statistics, attribution of religious policy primarily to English ambition, interpretation of the Gordon affair, and judgments about homesickness, irresponsibility, attraction, and private motive remain source-scoped. Its reported declaration against Elizabeth, later miscarriage deception, and other readings of private intent also remain source-scoped. The murder reconstruction makes her ignorance probable rather than certain; Craigmillar language, Moray's absence, intelligence reports, confessions, witness testimony, and her conduct remain interpretive evidence. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
 
 ## What Changed
 
-- Added the complete transition from reigning queen through Bothwell's coercion, forced abdication, and Langside defeat to English captivity.
-- Strengthened the case that Mary lacked advance knowledge of Darnley's murder while identifying council capture and continued reliance on Bothwell as the immediate legitimacy failure.
-- Added the casket-letter inquiry as an early mechanism for detention without conviction, acquittal, or restoration.
-- Added Mary's Chaseabout victory and reversal of the Rizzio coup as evidence of formidable crisis agency before her later legitimacy collapse.
-- Added James's birth as a dynastic success that simultaneously made separation from Darnley more difficult.
+- Extended the profile back to Mary's 1561 return, separating successful public charisma from weak council engagement and lost Catholic support.
+- Recast Protestant accommodation as a succession-driven strategy constrained by Scottish realities, not modern liberal tolerance.
+- Added Knox's resistance theory as an early constitutional challenge to Mary's royal authority.
 
 ## Relationships
 
@@ -94,3 +98,5 @@ Mary's threat was more than symbolic, but association does not prove equal invol
 - [[TudorSuccessionCrisis]] - framework explaining why Mary's body, correspondence, and death remained strategic.
 - [[RoyalExecutionLegitimacy]] - norm conflict created by legally killing an anointed sovereign.
 - [[MonarchicalDepositionLegitimacy]] - earlier norm conflict created by forced abdication and rival regency.
+- [[JohnKnox|John Knox]] - Protestant reformer who argued that divine obligation could justify resistance to her rule.
+- [[ScottishReformationRoyalResistance]] - framework explaining the religious limit asserted against her monarchy.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [586. Mary, Queen of Scots: The Battle for Scotland (Part 3)](sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247.md) — The Rest Is History on Mary's return, Knox's resistance theory, succession-driven Protestant accommodation, and the dynastic and constitutional risks of Darnley.
 - [Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah](sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431.md) — Huberman Lab interview on gene and hormone organization of sex-linked neural circuits, adult reproductive-state plasticity, social behavior, pair bonding, and mouse-to-human evidence boundaries.
 - [VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科](sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie.md) — 这病说来话长 episode on BMI and waist context, sustainable diet and movement, fasting fit, metabolic risk, and indication-led bariatric surgery with long-term follow-up.
 - [587. Mary, Queen of Scots: Murder Most Foul (Part 4)](sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933.md) — The Rest Is History on the Chaseabout Raid, Darnley's contested kingship, Rizzio's murder, Mary's escape and political recovery, and the birth of James VI.
@@ -4471,6 +4472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [070 倪匡传奇：姗姗来迟的纪念特辑](sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh.md) — 纸醉金迷FM以公开处决、两次溺水、虫害、蝎子草与蝗群呈现倪匡如何把死亡、身体危险和乡野知识转化为叙事素材。
 
 ## Entities
+- [John Knox](entities/JohnKnox.md) — Scottish Protestant reformer whose resistance theory challenged Mary's Catholic royal authority.
 - [Nirao Shah](entities/NiraoShah.md) — Stanford neuroscientist studying gene, hormone, and circuit mechanisms of sex-linked innate social behavior.
 - [David Rizzio](entities/DavidRizzio.md) — Mary's Italian Catholic secretary, scapegoated and murdered as the vulnerable center of a noble coup.
 - [Chaseabout Raid](entities/ChaseaboutRaid.md) — Mary's 1565 armed pursuit that forced Moray and allied Protestant lords into English exile.
@@ -17673,6 +17675,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Scottish Reformation Royal Resistance](concepts/ScottishReformationRoyalResistance.md) — Claim that obedience to God could justify restraining a monarch who violated the reformed religious order.
 - [Sex-Differentiated Hypothalamic Circuits](concepts/SexDifferentiatedHypothalamicCircuits.md) — Animal-model framework for sex-biased hypothalamic wiring, hormone response, inhibition, and context-dependent social behavior.
 - [Reproductive-State-Dependent Brain Plasticity](concepts/ReproductiveStateDependentBrainPlasticity.md) — Source-scoped account of adult circuit remodeling across cycle and reproductive states, bounded against direct human treatment inference.
 - [Bariatric and Metabolic Surgery Care Pathway / 减重代谢手术照护路径](concepts/BariatricMetabolicSurgeryCarePathway.md) — Indication-led pathway joining eligibility, benefit-risk comparison, procedure tradeoffs, nutrition, laboratory review, and long-term follow-up.

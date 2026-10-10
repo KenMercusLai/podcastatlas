@@ -114917,9 +114917,9 @@
       "url": "/wiki/entities/henrystafforddukeofbuckingham/"
     },
     "HenryStuartLordDarnley": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2383249995 [GLT2383249995].md",
@@ -114934,6 +114934,13 @@
           "show": "The Rest Is History",
           "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
           "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        },
+        {
+          "episode_file": "GLT1545905247 [GLT1545905247].md",
+          "key": "586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247",
+          "show": "The Rest Is History",
+          "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
+          "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
         }
       ],
       "updated": "2026-10-11",
@@ -139566,6 +139573,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/johnkipling/"
+    },
+    "JohnKnox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1545905247 [GLT1545905247].md",
+          "key": "586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247",
+          "show": "The Rest Is History",
+          "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
+          "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/johnknox/"
     },
     "JohnKruse": {
       "episode_count": 1,
@@ -169120,9 +169143,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -169186,6 +169209,13 @@
           "show": "The Rest Is History",
           "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
           "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        },
+        {
+          "episode_file": "GLT1545905247 [GLT1545905247].md",
+          "key": "586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247",
+          "show": "The Rest Is History",
+          "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
+          "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
         }
       ],
       "updated": "2026-10-11",
@@ -227713,6 +227743,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/scotttannen/"
+    },
+    "ScottishReformationRoyalResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1545905247 [GLT1545905247].md",
+          "key": "586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247",
+          "show": "The Rest Is History",
+          "title": "586. Mary, Queen of Scots: The Battle for Scotland (Part 3)",
+          "url": "/wiki/sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/scottishreformationroyalresistance/"
     },
     "ScreenActorsGuild": {
       "episode_count": 1,

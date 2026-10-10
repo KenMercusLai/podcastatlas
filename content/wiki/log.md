@@ -35073,3 +35073,11 @@ Added source `male-vs-female-brain-differences-how-they-arise-from-genes-hormone
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 586. Mary, Queen of Scots: The Battle for Scotland (Part 3)
+
+Added source `586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247`; created [[JohnKnox]] and [[ScottishReformationRoyalResistance]]; and resynthesized [[MaryQueenOfScots|Mary, Queen of Scots]] and [[HenryStuartLordDarnley|Henry Stuart / Lord Darnley]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Mary's public charisma and difficult inheritance coexisted with weak council engagement and the destruction of Catholic support; her Protestant accommodation is presented as a constrained strategy for an English succession claim rather than modern liberal tolerance; Knox asserted a religious limit on monarchy; and Darnley's Tudor-Stuart blood made a visibly dangerous husband dynastically tempting. No settled contradiction was adopted. Motive, council statistics, the Gordon affair, homesickness, attraction, reported dialogue, Darnley's conduct, illness, sexuality, and the claim that the Scottish Reformation was Europe's first modern revolution remain source-scoped. Broad Elizabeth, Cecil, Maitland, Moray, Scotland, England, France, show, succession, and marriage pages were kept closed because the focused source, actors, and resistance concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,393 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
