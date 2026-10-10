@@ -3671,6 +3671,10 @@
     "title": "59. The World Cup of Gods - Part 2",
     "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
   },
+  "596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266": {
+    "title": "596. The First World War: The Miracle on the Marne (Part 3)",
+    "url": "/wiki/sources/596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266/"
+  },
   "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550": {
     "title": "597. The First World War: The Massacre of the Innocents (Part 4)",
     "url": "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"
@@ -32671,6 +32675,10 @@
     "title": "刘氏反莽第一枪 / First Anti-Wang Mang Rising",
     "url": "/wiki/concepts/firstantiwangmangrising/"
   },
+  "FirstBattleOfMarne": {
+    "title": "First Battle of the Marne",
+    "url": "/wiki/entities/firstbattleofmarne/"
+  },
   "FirstBattleOfYpres": {
     "title": "First Battle of Ypres",
     "url": "/wiki/entities/firstbattleofypres/"
@@ -47575,6 +47583,10 @@
     "title": "Joseph Fouché",
     "url": "/wiki/entities/josephfouche/"
   },
+  "JosephGallieni": {
+    "title": "Joseph Gallieni",
+    "url": "/wiki/entities/josephgallieni/"
+  },
   "JosephGoebbels": {
     "title": "Joseph Goebbels",
     "url": "/wiki/entities/josephgoebbels/"
@@ -47582,6 +47594,10 @@
   "JosephIgnaceGuillotin": {
     "title": "Joseph-Ignace Guillotin",
     "url": "/wiki/entities/josephignaceguillotin/"
+  },
+  "JosephJoffre": {
+    "title": "Joseph Joffre",
+    "url": "/wiki/entities/josephjoffre/"
   },
   "JosephLaroche": {
     "title": "Joseph Laroche",
@@ -83178,6 +83194,10 @@
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
+  },
+  "TaxisOfTheMarne": {
+    "title": "Taxis of the Marne",
+    "url": "/wiki/concepts/taxisofthemarne/"
   },
   "TaxpayerReturnIndustrialPolicy": {
     "title": "Taxpayer-Return Industrial Policy",

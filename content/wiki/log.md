@@ -34797,3 +34797,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 596. The First World War: The Miracle on the Marne (Part 3)
+
+Added source `596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266`; created [[FirstBattleOfMarne]], [[JosephJoffre]], [[JosephGallieni]], and [[TaxisOfTheMarne]]; and resynthesized [[WesternFrontFirstWorldWar]] and [[HelmuthVonMoltkeTheYounger]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Marne reversal joined German overextension, Allied coalition continuity, French command recovery, Paris's active defense, and fractured German communications; it stopped the opening German advance but led through the Aisne and race to the sea toward entrenched war. No settled contradiction was adopted. The taxi convoy was real but operationally limited, and command dialogue, totals, intelligence anecdotes, retreat authority, counterfactual consequences, and individual credit remain source-scoped. Broad [[FirstWorldWar]] and [[TheRestIsHistory]] pages were kept closed because the focused battle, people, theater, and memory pages capture the bounded addition without reopening large inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,359 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

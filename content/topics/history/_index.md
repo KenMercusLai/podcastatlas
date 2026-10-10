@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2694
+topic_total_pages: 2695
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6618,6 +6618,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266"
+    title: "596. The First World War: The Miracle on the Marne (Part 3)"
+    url: "/wiki/sources/596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266/"
   - key: "597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550"
     title: "597. The First World War: The Massacre of the Innocents (Part 4)"
     url: "/wiki/sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10266
+wiki_total_pages: 10267
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "TaxTreatyArbitrage"
     title: "Tax Treaty Arbitrage"
     url: "/wiki/concepts/taxtreatyarbitrage/"
+  - key: "TaxisOfTheMarne"
+    title: "Taxis of the Marne"
+    url: "/wiki/concepts/taxisofthemarne/"
   - key: "TaxpayerReturnIndustrialPolicy"
     title: "Taxpayer-Return Industrial Policy"
     url: "/wiki/concepts/taxpayerreturnindustrialpolicy/"
