@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人](sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy.md) — 纸醉金迷FM以取经项目开局拆解模糊授权、安全劫难、监督留痕、能力惩罚与通过既成事实完成的人事安插。
 - [影视飓风TIM×罗永浩！用影像打开世界的梦想家](sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h.md) — 罗永浩对谈影视飓风 Tim，讨论评测独立、商业收入、创作者公司规模化、内容数据、极限企划、全球化与 AI 影像劳动压力。
 - [608. Nelson: Slaughter in Naples (Part 1)](sources/608-nelson-slaughter-in-naples-part-1-glt8594694484.md) — The Rest Is History on Nelson's Naples entanglement, the failed Roman campaign, royal flight, popular counterrevolution, disputed capitulation, and Caracciolo's execution.
 - [VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”](sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw.md) — 这病说来话长以余博的酮症酸中毒和 ICU 经历解释糖尿病急性危象、谵妄恢复、动态血糖监测及慢病身份适应。
@@ -4747,7 +4748,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [西汉第二次定襄出击 / Second Dingxiang Campaign](entities/SecondDingxiangCampaignWesternHan.md) — 卫青三路搜索中由中军先行接敌并局部取胜、但两翼与单于均未出现的未完成战役环节。
 - [郭芙蓉 / Guo Furong](entities/GuoFurong.md) — 《武林外传》开篇中以侠客幻想误判现实，并在债务、劳动、照护与克制中开始融入同福客栈的角色。
 - [《哈利·波特与魔法石》 / Harry Potter and the Philosopher's Stone](entities/HarryPotterAndThePhilosophersStone.md) — 以孤独到归属、制度化魔法世界、选择、三人组能力、悬疑误导和爱之保护构成系列道德基础的首部小说及电影。
-- [《太白金星有点烦》](entities/TaibaiJinxingYouDianFan.md) — 马伯庸以天庭部门、排班、公文和关系网重写取经工程，并在宝象国篇检验同意、救援与制度责任。
+- [《太白金星有点烦》](entities/TaibaiJinxingYouDianFan.md) — 马伯庸以模糊授权、天庭部门、公文、排班和关系网重写取经工程，并在宝象国篇检验同意、救援与制度责任。
 - [白展堂 / Bai Zhantang](entities/BaiZhantang.md) — 《武林外传》中以“小赌怡情”合理化参与、不断追损并最终押上性命的角色。
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。

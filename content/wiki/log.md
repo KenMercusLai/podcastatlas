@@ -34498,3 +34498,11 @@ Added source `lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人
+
+Added source `079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy`; and resynthesized [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] and [[RatchetEffectWorkplace|职场棘轮效应]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the pilgrimage begins as a legitimacy-producing cross-department project in which ambiguous senior authorization shifts interpretation and blame risk downward; safe staged trials require supervision, records, payment, reimbursement, and publicity; one successful delivery causes Li Changgeng's responsibility to ratchet from a trial to the remaining project; and Black Bear's placement and Zhu Bajie's insertion show plans, reputation, completed events, and deniable signals redistributing scarce institutional posts. No settled contradiction was adopted. Classic-text inconsistencies, conspiracy readings, character motives, divine hierarchy, trial accounting, staffing intent, organizational analogies, and authorial design remain interpretive or source-scoped. Broad [[JourneyToTheWest|《西游记》]], character, [[MaBoyong|马伯庸]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] pages were kept closed because the focused source, novel profile, and ratchet concept capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,321 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

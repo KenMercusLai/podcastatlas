@@ -209978,6 +209978,36 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/raskassa/"
     },
+    "RatchetEffectWorkplace": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
+          "key": "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262",
+          "show": "蜜獾吃书",
+          "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+          "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+        },
+        {
+          "episode_file": "lolVBa7oVT0fgmIqDK4zjtjP3ouy [lolVBa7oVT0fgmIqDK4zjtjP3ouy].md",
+          "key": "079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy",
+          "show": "纸醉金迷FM",
+          "title": "079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人",
+          "url": "/wiki/sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/ratcheteffectworkplace/"
+    },
     "RatepayerProtectionAct": {
       "episode_count": 1,
       "show_count": 1,
@@ -244063,9 +244093,9 @@
       "url": "/wiki/concepts/taisuibelief/"
     },
     "TaibaiJinxingYouDianFan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
@@ -244087,6 +244117,13 @@
           "show": "纸醉金迷FM",
           "title": "080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话",
           "url": "/wiki/sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko/"
+        },
+        {
+          "episode_file": "lolVBa7oVT0fgmIqDK4zjtjP3ouy [lolVBa7oVT0fgmIqDK4zjtjP3ouy].md",
+          "key": "079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy",
+          "show": "纸醉金迷FM",
+          "title": "079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人",
+          "url": "/wiki/sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy/"
         }
       ],
       "updated": "2026-10-10",
