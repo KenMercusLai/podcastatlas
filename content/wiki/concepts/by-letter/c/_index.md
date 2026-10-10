@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10326
+wiki_total_pages: 10327
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3185,6 +3185,9 @@ wiki_pages:
   - key: "CytokineReleaseSyndrome"
     title: "Cytokine Release Syndrome"
     url: "/wiki/concepts/cytokinereleasesyndrome/"
+  - key: "ConscriptionCrisis1918"
+    title: "Irish Conscription Crisis of 1918"
+    url: "/wiki/concepts/conscriptioncrisis1918/"
   - key: "ChinaExpressFranchiseModel"
     title: "中国快递加盟制"
     url: "/wiki/concepts/chinaexpressfranchisemodel/"

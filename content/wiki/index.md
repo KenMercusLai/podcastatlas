@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [576. The Irish War of Independence: Rise of the IRA (Part 1)](sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702.md) — The Rest Is History on post-Rising martyrdom, Sinn Fein's organizational rise, Thomas Ashe, the conscription crisis, and the 1918 electoral mandate.
 - [Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity](sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621.md) — Huberman Lab solo episode on branch-specific vagal signaling, calming versus alerting pathways, breathing, learning, gut-brain communication, and evidence-bounded self-regulation tools.
 - [VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力](sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp.md) — 这病说来话长 episode on fluctuating autoimmune weakness, crisis warning signs, efficacy-and-safety “double-target” management, individualized treatment, and structured visit preparation.
 - [Essentials: Understanding & Treating Addiction | Dr. Anna Lembke](sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387.md) — Condensed Huberman Lab interview on dopamine adaptation, pleasure-pain balance, relapse triggers, truth-telling, psychedelic-treatment caution, and intentional social-media boundaries.
@@ -4502,6 +4503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [Thomas Ashe](entities/ThomasAshe.md) — Irish teacher, cultural activist, volunteer, and hunger striker whose 1917 force-feeding death and funeral became a republican mobilizing event.
 - [谭颖 / Tan Ying](entities/TanYingNeurologist.md) — Peking Union neurologist explaining myasthenia-gravis mechanism, treatment horizons, pregnancy planning, and efficacy-safety management.
 - [魏宇珍 / Wei Yuzhen](entities/WeiYuzhenNeurologist.md) — Beijing Tiantan neuroimmunology physician connecting pretreatment screening, individualized therapy, monitoring, and escalation.
 - [北京天坛医院 / Beijing Tiantan Hospital](entities/BeijingTiantanHospital.md) — Episode-stated affiliation for Wei Yuzhen's myasthenia-gravis public education.
@@ -17743,6 +17745,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
+- [Irish Conscription Crisis of 1918](concepts/ConscriptionCrisis1918.md) — Wartime coercion crisis that united diverse Irish opponents and accelerated Sinn Fein's displacement of constitutional nationalism.
 - [Myasthenia Gravis / 重症肌无力](concepts/MyastheniaGravis.md) — Autoimmune neuromuscular-junction disorder producing fluctuating functional weakness and potential bulbar or respiratory escalation.
 - [Myasthenia Gravis Double-Target Management / 重症肌无力“双达标”管理](concepts/MyastheniaGravisDoubleTargetManagement.md) — Framework joining disease control to treatment safety, durability, individual fit, and practical feasibility.
 - [Clinical Visit Symptom Tracking / 就诊症状记录](concepts/ClinicalVisitSymptomTracking.md) — Method for compressing fluctuating symptoms, timelines, function, treatment response, and priorities into clinically useful longitudinal evidence.

@@ -19370,9 +19370,9 @@
       "url": "/wiki/entities/arthurconandoyle/"
     },
     "ArthurGriffith": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9064307865 [GLT9064307865].md",
@@ -19380,6 +19380,13 @@
           "show": "The Rest Is History",
           "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
           "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-10-11",
@@ -52340,6 +52347,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/consciousnessmeasurement/"
     },
+    "ConscriptionCrisis1918": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/conscriptioncrisis1918/"
+    },
     "ConsentAndBodyBoundaryEducation": {
       "episode_count": 2,
       "show_count": 2,
@@ -72660,9 +72683,9 @@
       "url": "/wiki/entities/eadweardmuybridge/"
     },
     "EamonDeValera": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3233824863 [GLT3233824863].md",
@@ -72684,6 +72707,13 @@
           "show": "The Rest Is History",
           "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
           "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-10-11",
@@ -133092,9 +133122,9 @@
       "url": "/wiki/entities/irishcitizenarmy/"
     },
     "IrishConstitutionalNationalism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4375415331 [GLT4375415331].md",
@@ -133102,6 +133132,13 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-09-28",
@@ -175110,9 +175147,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -175155,6 +175192,13 @@
           "show": "The Rest Is History",
           "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
           "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-10-11",
@@ -203691,6 +203735,43 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/politicalexecutionoverreach/"
     },
+    "PoliticalFuneral": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧 [ln6-5V-b_yBqmF5UcEPuSdO3LF68].md",
+          "key": "zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68/"
+        },
+        {
+          "episode_file": "The mourning show： the politics of Khamenei’s funeral [6a4b75084955fc4dc12ffcc7].md",
+          "key": "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7",
+          "show": "Economist Podcasts",
+          "title": "The Mourning Show: The Politics of Khamenei's Funeral",
+          "url": "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+        },
+        {
+          "episode_file": "Peace fire： further US-Iran strikes [6a4f7acffe878dc8e27e6fbf].md",
+          "key": "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf",
+          "show": "Economist Podcasts",
+          "title": "Peace fire: further US-Iran strikes",
+          "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/politicalfuneral/"
+    },
     "PoliticalMarriageAllianceDepreciation": {
       "episode_count": 3,
       "show_count": 1,
@@ -218590,9 +218671,9 @@
       "url": "/wiki/concepts/repeatedcontactdating/"
     },
     "RepressionMartyrdomBackfire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -218607,6 +218688,13 @@
           "show": "The Rest Is History",
           "title": "256. Germany: The White Rose",
           "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-09-30",
@@ -220135,9 +220223,9 @@
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
     },
     "RevolutionaryFailurePoliticalSuccess": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -220152,6 +220240,13 @@
           "show": "The Rest Is History",
           "title": "326: The Year of Revolutions: 1848",
           "url": "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
       "updated": "2026-09-28",
@@ -236407,9 +236502,9 @@
       "url": "/wiki/concepts/singlestockleveragedetf/"
     },
     "SinnFein": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -236424,9 +236519,16 @@
           "show": "The Rest Is History",
           "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
           "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        },
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/sinnfein/"
     },
     "SirJohnFrench": {
@@ -255532,6 +255634,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomasarnold/"
+    },
+    "ThomasAshe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9072105702 [GLT9072105702].md",
+          "key": "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702",
+          "show": "The Rest Is History",
+          "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
+          "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/thomasashe/"
     },
     "ThomasBecket": {
       "episode_count": 1,
