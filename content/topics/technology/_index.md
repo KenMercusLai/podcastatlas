@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3420
+topic_total_pages: 3424
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -112,6 +112,9 @@ topic_concepts:
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"
+  - key: "AgenticServiceDeflation"
+    title: "Agentic Service Deflation"
+    url: "/wiki/concepts/agenticservicedeflation/"
   - key: "AgenticSystemOfRecordMoat"
     title: "Agentic System-of-Record Moat"
     url: "/wiki/concepts/agenticsystemofrecordmoat/"
@@ -727,6 +730,9 @@ topic_concepts:
   - key: "AIModelValueSurveying"
     title: "AI Model Value Surveying"
     url: "/wiki/concepts/aimodelvaluesurveying/"
+  - key: "AIModelWelfare"
+    title: "AI Model Welfare"
+    url: "/wiki/concepts/aimodelwelfare/"
   - key: "AIMusicDetectionAndLabeling"
     title: "AI Music Detection and Labeling"
     url: "/wiki/concepts/aimusicdetectionandlabeling/"
@@ -1945,6 +1951,9 @@ topic_concepts:
   - key: "DigitalTranscendenceAsControl"
     title: "Digital Transcendence As Control"
     url: "/wiki/concepts/digitaltranscendenceascontrol/"
+  - key: "DigitallyVerifiableDiscoveryLoop"
+    title: "Digitally Verifiable Discovery Loop"
+    url: "/wiki/concepts/digitallyverifiablediscoveryloop/"
   - key: "DirectToDeviceSatelliteConnectivity"
     title: "Direct-To-Device Satellite Connectivity"
     url: "/wiki/concepts/directtodevicesatelliteconnectivity/"
@@ -5390,6 +5399,9 @@ topic_entities:
   - key: "ChrisBell"
     title: "Chris Bell"
     url: "/wiki/entities/chrisbell/"
+  - key: "ChrisOlah"
+    title: "Chris Olah"
+    url: "/wiki/entities/chrisolah/"
   - key: "ChrisSchmitz"
     title: "Chris Schmitz"
     url: "/wiki/entities/chrisschmitz/"

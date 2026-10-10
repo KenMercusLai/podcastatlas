@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10195
+wiki_total_pages: 10198
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "DigitalTranscendenceAsControl"
     title: "Digital Transcendence As Control"
     url: "/wiki/concepts/digitaltranscendenceascontrol/"
+  - key: "DigitallyVerifiableDiscoveryLoop"
+    title: "Digitally Verifiable Discovery Loop"
+    url: "/wiki/concepts/digitallyverifiablediscoveryloop/"
   - key: "DignityThroughSmallGifts"
     title: "Dignity Through Small Gifts / 小礼物中的尊严"
     url: "/wiki/concepts/dignitythroughsmallgifts/"

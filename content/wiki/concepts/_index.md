@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10195
+wiki_total_pages: 10198
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"
+  - key: "AgenticServiceDeflation"
+    title: "Agentic Service Deflation"
+    url: "/wiki/concepts/agenticservicedeflation/"
   - key: "AgenticSoftware"
     title: "Agentic Software"
     url: "/wiki/concepts/agenticsoftware/"
@@ -1280,6 +1283,9 @@ wiki_pages:
   - key: "AIModelValueSurveying"
     title: "AI Model Value Surveying"
     url: "/wiki/concepts/aimodelvaluesurveying/"
+  - key: "AIModelWelfare"
+    title: "AI Model Welfare"
+    url: "/wiki/concepts/aimodelwelfare/"
   - key: "AIMusicDetectionAndLabeling"
     title: "AI Music Detection and Labeling"
     url: "/wiki/concepts/aimusicdetectionandlabeling/"

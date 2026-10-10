@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3256
+topic_total_pages: 3257
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -202,6 +202,9 @@ topic_concepts:
   - key: "AIModelValueSurveying"
     title: "AI Model Value Surveying"
     url: "/wiki/concepts/aimodelvaluesurveying/"
+  - key: "AIModelWelfare"
+    title: "AI Model Welfare"
+    url: "/wiki/concepts/aimodelwelfare/"
   - key: "AINonConsensualIntimateImageAbuse"
     title: "AI Non-Consensual Intimate Image Abuse"
     url: "/wiki/concepts/ainonconsensualintimateimageabuse/"

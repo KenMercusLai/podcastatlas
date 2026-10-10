@@ -1913,9 +1913,9 @@
       "url": "/wiki/concepts/aicomputepricerisk/"
     },
     "AIConsciousnessBoundary": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -1930,9 +1930,16 @@
           "show": "Huberman Lab",
           "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
           "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/aiconsciousnessboundary/"
     },
     "AIConsumerProtectionEnforcement": {
@@ -2739,9 +2746,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIForMath": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
@@ -2756,9 +2763,16 @@
           "show": "Economist Podcasts",
           "title": "Out-numbered: AI's contentious maths milestone",
           "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/aiformath/"
     },
     "AIGeneratedContentQualityGap": {
@@ -3896,6 +3910,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/aimodelsandboxescape/"
+    },
+    "AIModelWelfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/aimodelwelfare/"
     },
     "AIMusicDetectionAndLabeling": {
       "episode_count": 1,
@@ -9311,6 +9341,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticdataengineeringharness/"
+    },
+    "AgenticServiceDeflation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/agenticservicedeflation/"
     },
     "AgenticSoftware": {
       "episode_count": 3,
@@ -43977,6 +44023,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/chrismckleroy/"
     },
+    "ChrisOlah": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/chrisolah/"
+    },
     "ChrisPalmer": {
       "episode_count": 3,
       "show_count": 1,
@@ -64710,6 +64772,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/digitalsovereignty/"
+    },
+    "DigitallyVerifiableDiscoveryLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/digitallyverifiablediscoveryloop/"
     },
     "DignityBasedPersuasion": {
       "episode_count": 4,

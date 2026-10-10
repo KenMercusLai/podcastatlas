@@ -149,8 +149,8 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-10-10",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
-      "source_note_count": 100,
-      "topic_matched_source_note_count": 88,
+      "source_note_count": 101,
+      "topic_matched_source_note_count": 89,
       "topics": [
         {
           "key": "technology",
@@ -168,7 +168,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 29
+          "source_note_count": 30
         },
         {
           "key": "science",
@@ -237,8 +237,8 @@
       ],
       "start_here_episode_files": [
         "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Jake Paul & The Chainsmokers： Turning Fame into Funds, Jake Enters Polit.md"
       ]
     },

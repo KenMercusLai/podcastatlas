@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2231
+topic_total_pages: 2233
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -97,6 +97,9 @@ topic_concepts:
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"
+  - key: "AgenticServiceDeflation"
+    title: "Agentic Service Deflation"
+    url: "/wiki/concepts/agenticservicedeflation/"
   - key: "AggregateIndicatorsLivedExperienceGap"
     title: "Aggregate Indicators Lived Experience Gap"
     url: "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
@@ -6330,6 +6333,9 @@ topic_sources:
   - key: "iran-protests-and-sanctions"
     title: "Iran, protests, and sanctions"
     url: "/wiki/sources/iran-protests-and-sanctions/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math"
+    title: "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
   - key: "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319"
     title: "Is our national debt finally too much? (update)"
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"

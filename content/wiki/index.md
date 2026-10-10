@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math](sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math.md) — All-In on model welfare and AI consciousness, constitutional alignment, machine-checked mathematical discovery, French fiscal stress, and agent-driven service and software deflation.
 - [080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话](sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko.md) — 纸醉金迷FM以黄风岭危机、沙僧入队和四圣试禅心拆解项目补救、派系安插、分开审查与经受背叛风险后形成的合作信任。
 - [610. Nelson: The Battle of Copenhagen (Part 3)](sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543.md) — The Rest Is History on the Baltic crisis, Copenhagen's shoals and close action, Parker's withdrawal signal, Nelson's disobedience, Riou's death, and coercive ceasefire.
 - [How to Overcome Inner Resistance | Steven Pressfield](sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458.md) — Huberman Lab interview on Resistance, turning pro, focused writing, drafts, shipping, mentorship, calling, sacrifice, and creative receptivity.
@@ -4388,6 +4389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 
 ## Entities
+- [Chris Olah](entities/ChrisOlah.md) — Anthropic cofounder represented narrowly through a reported dispute over categorical rejection of possible AI consciousness.
 - [Battle of Copenhagen (1801)](entities/BattleOfCopenhagen1801.md) — British attack on Danish defenses joining shallow-water planning, close action, command conflict, truce, and Baltic political change.
 - [Hyde Parker](entities/HydeParker.md) — British fleet commander whose withdrawal signal at Copenhagen exposed the limits of distant command visibility.
 - [Edward Riou](entities/EdwardRiou.md) — British frigate captain whose fatal obedience at Copenhagen qualifies the heroic memory of Nelson's disobedience.
@@ -17481,6 +17483,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 
 ## Concepts
+- [AI Model Welfare](concepts/AIModelWelfare.md) — Precautionary ethics for possible model experience, separated from proof of machine consciousness and confounded model self-report.
+- [Digitally Verifiable Discovery Loop](concepts/DigitallyVerifiableDiscoveryLoop.md) — AI iteration pattern where proposals can be executed, checked, and revised rapidly in digital environments.
+- [Agentic Service Deflation](concepts/AgenticServiceDeflation.md) — Hypothesis that agents can lower routine digital-service costs through parallel search, comparison, negotiation, and execution.
 - [Command Disobedience Under Battlefield Uncertainty](concepts/CommandDisobedienceUnderBattlefieldUncertainty.md) — Framework for evaluating conflicting orders through local information, higher intent, rank, withdrawal risk, and outcome bias.
 - [Creative Professionalism](concepts/CreativeProfessionalism.md) — Behavior-based model of turning pro through regular attendance, protected attention, drafts, audience service, completion, and return.
 - [Resistance to Meaningful Work](concepts/ResistanceToMeaningfulWork.md) — Bounded framework for fear, procrastination, perfectionism, distraction, and social friction around valued work.

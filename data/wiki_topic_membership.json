@@ -9982,6 +9982,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIModelWelfare": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIMusicDetectionAndLabeling": [
     {
       "key": "technology",
@@ -12478,6 +12490,18 @@
     }
   ],
   "AgenticEconomy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "AgenticServiceDeflation": [
     {
       "key": "technology",
       "label": "Technology",
@@ -23036,6 +23060,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ChrisOlah": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ChrisSchmitz": [
     {
       "key": "technology",
@@ -29729,6 +29760,13 @@
     }
   ],
   "DigitalTranscendenceAsControl": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DigitallyVerifiableDiscoveryLoop": [
     {
       "key": "technology",
       "label": "Technology",
@@ -97946,6 +97984,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit": [
