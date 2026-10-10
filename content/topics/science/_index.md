@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1514
+topic_total_pages: 1515
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4005,6 +4005,9 @@ topic_sources:
   - key: "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484"
     title: "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton"
     url: "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+  - key: "essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137"
+    title: "Essentials: The Science of Gratitude & How to Build a Gratitude Practice"
+    url: "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
   - key: "essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420"
     title: "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang"
     url: "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"

@@ -7,8 +7,9 @@ sources:
   - how-relationships-shape-your-brain-dr-allan-schore-scim1947263719
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
   - scim2344094719-scim2344094719
+  - essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-10
 ---
 
 # Interpersonal Synchrony and Rapport
@@ -19,7 +20,7 @@ Interpersonal synchrony is temporal coordination across posture, movement, gaze,
 ## Current Synthesis
 The Platt episode presents synchrony as a measurable correlate of social closeness, communication, trust, teamwork, and group decision performance. It can emerge through affiliative touch, mirroring, shared identity, or structured deep conversation. Schore adds a clinical and developmental interpretation in which shared emotional timing helps one person recognize and regulate another through face, voice, gesture, and bodily state. The solo bonding episode adds shared narrative as an external anchor: people hearing the same story at different times and places are described as showing coordinated heart-rate dynamics, while music, sports, meals, rituals, and traditions may also organize shared attention and physiology.
 
-The gratitude episode applies the same narrative finding to repeated personal practice. An attended story about meaningful help may coordinate interpretation with breathing, heart rate, and emotional state, allowing a stable set of cues to evoke a more reproducible response. This extends the mechanism from cross-listener coordination to within-person reuse, but that application is an inference across studies rather than proof of a gratitude-specific synchrony pathway.
+The gratitude episode and its later Essentials edit apply the same narrative finding to repeated personal practice. An attended story about meaningful help may coordinate interpretation with breathing, heart rate, and emotional state, allowing a stable set of cues to evoke a more reproducible response. This extends the mechanism from cross-listener coordination to within-person reuse, but that application is an inference across studies rather than proof of a gratitude-specific synchrony pathway; the condensed edit is overlapping provenance, not replication.
 
 Across both sources, synchrony is most useful as one signal or process of coordination, not a standalone test of trustworthiness, attachment security, therapeutic effectiveness, or relationship quality.
 
@@ -39,13 +40,14 @@ Across both sources, synchrony is most useful as one signal or process of coordi
 - Affective synchrony - [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] connects shared emotional timing, face, voice, gesture, hyperscanning, and therapeutic regulation.
 - Narrative synchrony - [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] reports coordinated heart-rate responses to a shared story and proposes music, sports, meals, and traditions as bonding anchors.
 - Gratitude application - [[scim2344094719-scim2344094719]] links attended story structure, cardiorespiratory coupling, perspective-taking, and repeated cues to a proposed reproducible gratitude state.
+- Condensed gratitude application - [[essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137]] repeats the breathing, heartbeat, and reusable-story account without supplying a direct test of the full causal chain.
 
 ## Counterevidence & Qualifications
 Association does not establish that synchrony causes accuracy, trust, attachment security, therapeutic change, gratitude, or healthy relationships. Shared stimulus timing, arousal, stress, imitation, compliance, measurement choices, or task structure may also create coordination. Similar heart-rate timing does not prove identical subjective experience, and the within-person gratitude application is synthesized across studies rather than tested as one causal chain. The sources do not validate synchrony as a hiring, compatibility, diagnosis, treatment-selection, or deception-detection tool; the narrative study's methods and effect size are not supplied in the condensed sources, and Schore's right-hemisphere mechanism remains source-scoped.
 
 ## What Changed
-- Added repeated gratitude narrative as a proposed within-person state cue.
-- Distinguished cross-listener coordination from identical experience and gratitude-specific causation.
+- Added the Essentials edit as overlapping evidence for the within-person narrative application.
+- Preserved the distinction between repeated state cues and a proven gratitude-specific synchrony mechanism.
 
 ## Related Concepts
 - [[EverydaySocialConnection]] - broader social-health context supported by conversation and affiliation.

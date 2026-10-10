@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Science of Gratitude & How to Build a Gratitude Practice](sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137.md) — Condensed Huberman Lab episode on sincere received or narratively witnessed gratitude, reusable story cues, brain-body mechanisms, and evidence boundaries.
 - [612. Nelson: The Final Showdown (Part 5)](sources/612-nelson-the-final-showdown-part-5-glt2077045869.md) — The Rest Is History on Nelson's final farewell, Cadiz surveillance and concealment, the two-column “Nelson touch,” Villeneuve's pressure, and the eve of Trafalgar.
 - [VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘](sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s.md) — 这病说来话长由创伤外科医生张悦连接急诊现场、保命优先的损伤控制、截肢与愈合不确定性、知情同意及保守院前处置。
 - [贾樟柯×罗永浩！成为贾樟柯（上）](sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir.md) — 罗永浩与贾樟柯从汾阳成长、文学与流行文化谈到电影教育、低成本起步、作者边界、时代音乐及现实优先的导演方法。

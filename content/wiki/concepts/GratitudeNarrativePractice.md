@@ -4,7 +4,8 @@ type: concept
 tags: [gratitude, narrative, wellbeing, neuroscience, practice]
 sources:
   - scim2344094719-scim2344094719
-last_updated: 2026-10-02
+  - essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Gratitude narrative practice is the episode's method of using direct receipt of sincere thanks or a resonant story about meaningful help to evoke gratitude, instead of relying only on a decontextualized list of appreciated things.
 
 ## Current Synthesis
-The source separates several experiences that ordinary advice often combines: naming blessings, expressing thanks, receiving genuine thanks, and witnessing meaningful help inside a story. Its judgment is that received gratitude and emotionally credible narrative provide stronger inputs because intention, struggle, help, and consequence are held together in social context.
+The full episode and its later Essentials edit separate several experiences that ordinary advice often combines: naming blessings, expressing thanks, receiving genuine thanks, and witnessing meaningful help inside a story. Their shared judgment is that received gratitude and emotionally credible narrative provide stronger inputs because intention, struggle, help, and consequence are held together in social context. Because the shorter release is a condensed edition of the same program, it adds provenance and emphasis rather than independent replication.
 
 The practical version is deliberately brief. A person selects a real story that genuinely resonates, records three or four cues for the before-state, help, after-state, and emotionally important details, then reuses those cues for roughly one to five minutes about three times per week. The story need not match the practitioner's own biography, and repetition is intended to make the state easier to access.
 
@@ -35,14 +36,14 @@ This is a source-derived protocol, not a demonstrated universal prescription. Th
 - Perspective-taking mechanism - [[scim2344094719-scim2344094719]] uses indirect stories and theory of mind to explain how another person's received help can recruit gratitude-related circuitry.
 - Repetition and dose - [[scim2344094719-scim2344094719]] proposes one-to-five-minute sessions around three times weekly and links repetition to easier state access.
 - Outcome boundary - [[scim2344094719-scim2344094719]] discusses neural, autonomic, inflammatory, empathy, resilience, and wellbeing findings while acknowledging that the full protocol is a cross-study synthesis.
+- Condensed provenance and trial boundary - [[essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137]] restates the protocol and identifies the inflammatory-marker trial as women-only, without supplying enough methods to establish effect magnitude, durability, or generalization to men.
 
 ## Counterevidence & Qualifications
-The source does not establish that every gratitude list is ineffective, that one narrative works for everyone, or that the proposed schedule is optimal. Emotional resonance cannot be manufactured by self-deception, and stories involving trauma, obligation, coercion, or relational debt may not be appropriate gratitude cues. Reported neural activation, heart-rate patterning, inflammatory markers, and wellbeing changes do not settle causal direction or prove treatment effects for medical or psychiatric conditions.
+The sources do not establish that every gratitude list is ineffective, that one narrative works for everyone, or that the proposed schedule is optimal. Emotional resonance cannot be manufactured by self-deception, and stories involving trauma, obligation, coercion, or relational debt may not be appropriate gratitude cues. Reported neural activation, heart-rate patterning, inflammatory markers, and wellbeing changes do not settle causal direction or prove treatment effects for medical or psychiatric conditions. The Essentials edit's agreement with the full episode is not independent confirmation, and extrapolating its women-only immune-study summary to men remains an inference.
 
 ## What Changed
-- Added a bounded gratitude protocol centered on sincere receipt, narrative context, and repeated story cues.
-- Separated direct receipt, witnessed gratitude, expressed thanks, and list-based appreciation.
-- Made sincerity and the cross-study evidence boundary explicit.
+- Added the Essentials edit as overlapping provenance rather than independent confirmation.
+- Made the women-only immune-study boundary and sex-generalization inference explicit.
 
 ## Related Concepts
 - [[InterpersonalSynchronyAndRapport]] - bounded route by which shared or repeated stories can organize coordinated brain-body timing.

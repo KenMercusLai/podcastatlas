@@ -17017,9 +17017,9 @@
       "url": "/wiki/concepts/antonineplague/"
     },
     "AntonioDamasio": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -17034,9 +17034,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/scim2344094719-scim2344094719/"
+        },
+        {
+          "episode_file": "SCIM7126690137 [SCIM7126690137].md",
+          "key": "essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/antoniodamasio/"
     },
     "AntonioDeOliveiraSalazar": {
@@ -103120,9 +103127,9 @@
       "url": "/wiki/concepts/grassrootsbureaucraticculturalintegration/"
     },
     "GratitudeNarrativePractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2344094719 [SCIM2344094719].md",
@@ -103130,9 +103137,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/scim2344094719-scim2344094719/"
+        },
+        {
+          "episode_file": "SCIM7126690137 [SCIM7126690137].md",
+          "key": "essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/gratitudenarrativepractice/"
     },
     "GravelRunning": {
@@ -127902,9 +127916,9 @@
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
     "InterpersonalSynchronyAndRapport": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -127933,9 +127947,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/scim2344094719-scim2344094719/"
+        },
+        {
+          "episode_file": "SCIM7126690137 [SCIM7126690137].md",
+          "key": "essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/interpersonalsynchronyandrapport/"
     },
     "Interpositive": {
@@ -224638,9 +224659,9 @@
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -224669,9 +224690,16 @@
           "show": "Huberman Lab",
           "title": "Master Stress: Tools for Managing Stress & Anxiety",
           "url": "/wiki/sources/scim8789190900-scim8789190900/"
+        },
+        {
+          "episode_file": "SCIM7126690137 [SCIM7126690137].md",
+          "key": "essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "ServiceDeliveryDemocraticTrust": {
