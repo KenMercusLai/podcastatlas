@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13110
+wiki_total_pages: 13113
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "Autodesk"
     title: "Autodesk"
     url: "/wiki/entities/autodesk/"
+  - key: "Autohome"
+    title: "Autohome / 汽车之家"
+    url: "/wiki/entities/autohome/"
   - key: "AutomatedBallStrikeChallengeSystem"
     title: "Automated Ball Strike Challenge System"
     url: "/wiki/entities/automatedballstrikechallengesystem/"

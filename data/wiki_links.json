@@ -5147,6 +5147,10 @@
     "title": "AI-Driven Creator Marketing",
     "url": "/wiki/concepts/aidrivencreatormarketing/"
   },
+  "AIDriverEvaluation": {
+    "title": "AI Driver Evaluation / AI 司机评价",
+    "url": "/wiki/concepts/aidriverevaluation/"
+  },
   "AIDrugDiscoveryPlatform": {
     "title": "AI Drug Discovery Platform",
     "url": "/wiki/concepts/aidrugdiscoveryplatform/"
@@ -11442,6 +11446,10 @@
   "Autodesk": {
     "title": "Autodesk",
     "url": "/wiki/entities/autodesk/"
+  },
+  "Autohome": {
+    "title": "Autohome / 汽车之家",
+    "url": "/wiki/entities/autohome/"
   },
   "AutoimmuneDiseaseSubtyping": {
     "title": "Autoimmune Disease Subtyping",
@@ -50963,6 +50971,14 @@
     "title": "Li Auto M100 Chip / 马赫 M100",
     "url": "/wiki/entities/liautom100chip/"
   },
+  "LiAutoMEGA": {
+    "title": "Li Auto MEGA / 理想 MEGA",
+    "url": "/wiki/entities/liautomega/"
+  },
+  "LiAutoONE": {
+    "title": "Li Auto ONE / 理想 ONE",
+    "url": "/wiki/entities/liautoone/"
+  },
   "LiBai": {
     "title": "李白 / Li Bai",
     "url": "/wiki/entities/libai/"
@@ -53522,6 +53538,10 @@
   "LongHorizonKnowledgeStewardship": {
     "title": "Long-Horizon Knowledge Stewardship / 长时段知识托管",
     "url": "/wiki/concepts/longhorizonknowledgestewardship/"
+  },
+  "LongHorizonMarketIteration": {
+    "title": "Long-Horizon Market Iteration / 长周期市场迭代",
+    "url": "/wiki/concepts/longhorizonmarketiteration/"
   },
   "LongHorizonWorkEvaluation": {
     "title": "Long-Horizon Work Evaluation / 长时间尺度工作评估",
@@ -101470,6 +101490,10 @@
   "lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp": {
     "title": "李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活",
     "url": "/wiki/sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp/"
+  },
+  "lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228": {
+    "title": "李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路",
+    "url": "/wiki/sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228/"
   },
   "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte": {
     "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",

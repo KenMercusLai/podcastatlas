@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2238
+topic_total_pages: 2240
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1972,6 +1972,9 @@ topic_concepts:
   - key: "LongDistanceTradeFriction"
     title: "Long-Distance Trade Friction"
     url: "/wiki/concepts/longdistancetradefriction/"
+  - key: "LongHorizonMarketIteration"
+    title: "Long-Horizon Market Iteration / 长周期市场迭代"
+    url: "/wiki/concepts/longhorizonmarketiteration/"
   - key: "LossAndDamageClimateFinance"
     title: "Loss and Damage Climate Finance"
     url: "/wiki/concepts/lossanddamageclimatefinance/"
@@ -6714,6 +6717,9 @@ topic_sources:
   - key: "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1"
     title: "期权这张饼，为什么越来越难吃了？"
     url: "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+  - key: "lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228"
+    title: "李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路"
+    url: "/wiki/sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228/"
   - key: "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78"
     title: "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授"
     url: "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"

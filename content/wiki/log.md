@@ -34893,3 +34893,11 @@ Added source `073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpj
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路
+
+Added source `lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228`; created [[Autohome|汽车之家]], [[LiAutoONE|理想 ONE]], [[LiAutoMEGA|理想 MEGA]], [[LongHorizonMarketIteration|长周期市场迭代]], and [[AIDriverEvaluation|AI 司机评价]]; and resynthesized [[LiXiangLiAuto|李想]], [[LiAuto|理想汽车]], [[RangeExtendedEV|增程式电动车]], and [[CrisisOptimismTransparencyTradeoff|危机乐观与透明度权衡]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Li's path from teenage web work through Autohome and Li Auto joins user-readable product definition, complementary senior talent, family-use range extension, internal argument, crisis disclosure, quality and launch correction, long-horizon selection, rapid market feedback, and multidimensional AI-driver evaluation. No settled contradiction was adopted. Investment, sales, product-fault, charging-network, user-profile, VLA-improvement, conflict-motive, and internationalization claims remain source-scoped founder testimony. Broad [[LuoYonghao]], [[LuoyonghaosCrossroads]], [[CoFounderAlignmentLoop]], and autonomous-driving pages were kept closed because the focused source, products, and concepts capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,371 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13110
+wiki_total_pages: 13113
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -440,6 +440,12 @@ wiki_pages:
   - key: "LiAutoM100Chip"
     title: "Li Auto M100 Chip / 马赫 M100"
     url: "/wiki/entities/liautom100chip/"
+  - key: "LiAutoMEGA"
+    title: "Li Auto MEGA / 理想 MEGA"
+    url: "/wiki/entities/liautomega/"
+  - key: "LiAutoONE"
+    title: "Li Auto ONE / 理想 ONE"
+    url: "/wiki/entities/liautoone/"
   - key: "LiBeibin"
     title: "Li Beibin"
     url: "/wiki/entities/libeibin/"

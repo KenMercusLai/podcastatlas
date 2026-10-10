@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3447
+topic_total_pages: 3450
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -445,6 +445,9 @@ topic_concepts:
   - key: "AIDoomerism"
     title: "AI Doomerism"
     url: "/wiki/concepts/aidoomerism/"
+  - key: "AIDriverEvaluation"
+    title: "AI Driver Evaluation / AI 司机评价"
+    url: "/wiki/concepts/aidriverevaluation/"
   - key: "AIDubbing"
     title: "AI Dubbing"
     url: "/wiki/concepts/aidubbing/"
@@ -5126,6 +5129,9 @@ topic_entities:
   - key: "Autodesk"
     title: "Autodesk"
     url: "/wiki/entities/autodesk/"
+  - key: "Autohome"
+    title: "Autohome / 汽车之家"
+    url: "/wiki/entities/autohome/"
   - key: "AVRide"
     title: "AV Ride"
     url: "/wiki/entities/avride/"
@@ -10287,6 +10293,9 @@ topic_sources:
   - key: "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677"
     title: "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线"
     url: "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+  - key: "lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228"
+    title: "李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路"
+    url: "/wiki/sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228/"
   - key: "lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp"
     title: "李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活"
     url: "/wiki/sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp/"

@@ -3231,9 +3231,15 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 36,
-      "topic_matched_source_note_count": 24,
+      "source_note_count": 37,
+      "topic_matched_source_note_count": 25,
       "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 13
+        },
         {
           "key": "culture",
           "label": "Culture",
@@ -3241,16 +3247,10 @@
           "source_note_count": 13
         },
         {
-          "key": "technology",
-          "label": "Technology",
-          "url": "/topics/technology/",
-          "source_note_count": 12
-        },
-        {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 6
+          "source_note_count": 7
         }
       ],
       "entities": [
@@ -3260,6 +3260,20 @@
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
           "episode_count": 16
+        },
+        {
+          "key": "LiAuto",
+          "title": "Li Auto / 理想汽车",
+          "url": "/wiki/entities/liauto/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "LiXiangLiAuto",
+          "title": "Li Xiang / 李想 (Li Auto)",
+          "url": "/wiki/entities/lixiangliauto/",
+          "kind": "person",
+          "episode_count": 2
         },
         {
           "key": "Smartisan",
@@ -3277,8 +3291,8 @@
         }
       ],
       "start_here_episode_files": [
-        "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
         "ln6Gnhmsx1xo3p2N8z2pOWcIqnur [ln6Gnhmsx1xo3p2N8z2pOWcIqnur].md",
+        "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
         "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md",
         "lhKQsZ8pkcBLnmAEBsZ1m50TYSoS [lhKQsZ8pkcBLnmAEBsZ1m50TYSoS].md"
       ]

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10282
+wiki_total_pages: 10284
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "AIDoomerism"
     title: "AI Doomerism"
     url: "/wiki/concepts/aidoomerism/"
+  - key: "AIDriverEvaluation"
+    title: "AI Driver Evaluation / AI 司机评价"
+    url: "/wiki/concepts/aidriverevaluation/"
   - key: "AIDrugDiscoveryPlatform"
     title: "AI Drug Discovery Platform"
     url: "/wiki/concepts/aidrugdiscoveryplatform/"
