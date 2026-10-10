@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科](sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie.md) — 这病说来话长 episode on BMI and waist context, sustainable diet and movement, fasting fit, metabolic risk, and indication-led bariatric surgery with long-term follow-up.
 - [587. Mary, Queen of Scots: Murder Most Foul (Part 4)](sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933.md) — The Rest Is History on the Chaseabout Raid, Darnley's contested kingship, Rizzio's murder, Mary's escape and political recovery, and the birth of James VI.
 - [Essentials: ADHD & How Anyone Can Improve Their Focus](sources/scim9560506848-scim9560506848.md) — Condensed Huberman Lab episode on ADHD attention control, working memory, treatment boundaries, attentional blinks, visual practice, and phone-driven context switching.
 - [EP 23: AI in Marketing Strategies](sources/ep-23-ai-in-marketing-strategies.md) — Data Science With Sam interview with Zoya Scarlatta on predictive personalization, AI marketing ROI, human oversight, brand authenticity, privacy, and a guarded client-retention agent.
@@ -17669,6 +17670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Bariatric and Metabolic Surgery Care Pathway / 减重代谢手术照护路径](concepts/BariatricMetabolicSurgeryCarePathway.md) — Indication-led pathway joining eligibility, benefit-risk comparison, procedure tradeoffs, nutrition, laboratory review, and long-term follow-up.
 - [AI Marketing ROI Measurement](concepts/AIMarketingROIMeasurement.md) — Framework joining efficiency baselines, business impact, and team adoption when evaluating marketing AI.
 - [Responsible AI Marketing](concepts/ResponsibleAIMarketing.md) — Marketing discipline joining AI literacy, human authority, privacy, transparency, authenticity, and truthful visuals.
 - [AI Client Growth and Retention Agent](concepts/AIClientGrowthRetentionAgent.md) — Proposed governed agent for detecting account risk and expansion signals while leaving commercial action to people.

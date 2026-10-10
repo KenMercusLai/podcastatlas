@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10301
+wiki_total_pages: 10302
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "BarcidSpanishPowerBase"
     title: "Barcid Spanish Power Base / 巴卡家族西班牙权力基地"
     url: "/wiki/concepts/barcidspanishpowerbase/"
+  - key: "BariatricMetabolicSurgeryCarePathway"
+    title: "Bariatric and Metabolic Surgery Care Pathway / 减重代谢手术照护路径"
+    url: "/wiki/concepts/bariatricmetabolicsurgerycarepathway/"
   - key: "BarrierRemovalSocialChange"
     title: "Barrier-Removal Social Change"
     url: "/wiki/concepts/barrierremovalsocialchange/"

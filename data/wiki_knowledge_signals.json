@@ -24586,6 +24586,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/barcidspanishpowerbase/"
     },
+    "BariatricMetabolicSurgeryCarePathway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/bariatricmetabolicsurgerycarepathway/"
+    },
     "BarkingAbbey": {
       "episode_count": 1,
       "show_count": 1,
@@ -151957,9 +151973,9 @@
       "url": "/wiki/concepts/lifestyledependencystrategicautonomy/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -152030,9 +152046,16 @@
           "show": "这病说来话长",
           "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
           "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "Light9M": {
@@ -173328,9 +173351,9 @@
       "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -173352,9 +173375,16 @@
           "show": "这病说来话长",
           "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
           "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/metabolichealthbiomarkercontext/"
     },
     "MetabolicMentalHealthBiomarkers": {
@@ -180146,9 +180176,9 @@
       "url": "/wiki/concepts/multidisciplinarysleepcare/"
     },
     "MultidisciplinaryWeightManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
@@ -180156,9 +180186,16 @@
           "show": "这病说来话长",
           "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
           "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/multidisciplinaryweightmanagement/"
     },
     "MultilingualNationalAnthemFormation": {
@@ -180247,9 +180284,9 @@
       "url": "/wiki/concepts/multimodalfunctioncenteredpaincare/"
     },
     "MultimodalObesityTreatment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7025523715 [SCIM7025523715].md",
@@ -180264,6 +180301,13 @@
           "show": "这病说来话长",
           "title": "VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天",
           "url": "/wiki/sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
       "updated": "2026-10-11",
@@ -213637,9 +213681,9 @@
       "url": "/wiki/concepts/rapidhabitlapserecovery/"
     },
     "RapidWeightLossSafetyBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lpvfoCaGWyW5ahN49Nt-yQkxOm18 [lpvfoCaGWyW5ahN49Nt-yQkxOm18].md",
@@ -213661,9 +213705,16 @@
           "show": "这病说来话长",
           "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
           "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/rapidweightlosssafetyboundary/"
     },
     "RareEarthExportLeverage": {
@@ -264887,9 +264938,9 @@
       "url": "/wiki/concepts/virtualreality/"
     },
     "VisceralAdiposityMetabolicRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9935898395 [SCIM9935898395].md",
@@ -264897,9 +264948,16 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "lvQzljdoj9arTVoyxh7Baks25Yie [lvQzljdoj9arTVoyxh7Baks25Yie].md",
+          "key": "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie",
+          "show": "这病说来话长",
+          "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+          "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/visceraladipositymetabolicrisk/"
     },
     "VishnuPadmanabhan": {

@@ -6,7 +6,8 @@ sources:
   - vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18
   - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
   - vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2
-last_updated: 2026-10-06
+  - vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Methods also cannot be collapsed into one ladder of stronger shortcuts. A modest
 VOL.56 adds a lower-acuity but earlier warning boundary. Graduation or holiday time can create a deadline for visible transformation, yet rapid loss, celebrity menus, disguised meal skipping, intake below basic needs, and excessive exercise can invite rebound and low-energy-availability effects, including menstrual disruption. A sustainable deficit can instead come from modest portions, attentive eating, routine movement, and dietary variety; a fasting window or calorie total is not evidence of nutritional adequacy.
 
 VOL.199 strengthens the body-composition and care-routing layer. Complete carbohydrate avoidance, liquid-only or fruit-only diets, and one meal per day may lower scale weight through water and lean-tissue loss as well as fat, then intensify rebound when normal eating returns. The episode adds a source-level gradual-loss range, but its durable judgment is more general: preserve muscle, match exercise to joints and cardiopulmonary capacity, screen for secondary causes, and escalate to coordinated clinical care when metabolic disease, severe obesity, psychological distress, or procedural treatment is in view.
+
+VOL.173 adds method-fit and surgical-aftercare boundaries. A fasting window that produces hypoglycemia-like symptoms or compensatory overeating is not successful merely because it is popular; a large or inactive body should not begin with high-impact running or jumping merely because exercise is beneficial. Metabolic surgery is likewise not a speed shortcut: eligibility, procedure choice, reflux or malabsorption risk, nutrition, laboratory monitoring, and long-term follow-up belong to the initial decision.
 
 ## Key Claims
 - Weight-loss need and method should follow assessment of cause, health risk, function, body composition, mental wellbeing, and informed goals rather than appearance pressure or celebrity comparison.
@@ -42,14 +45,16 @@ VOL.199 strengthens the body-composition and care-routing layer. Complete carboh
 - Early restriction and rebound boundary: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] uses a rapid-loss-and-rebound account to reject crash diets, disguised restriction, and overexercise and connects inadequate energy to recovery and menstrual-function concerns.
 - Sustainable deficit and food quality: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] favors small portion, pace, and movement changes while warning that a calorie deficit based on nutritionally poor food or meal-skipping fasting is not automatically healthy.
 - Rebound, muscle, and coordinated-care boundary: [[vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2|VOL.199]] rejects complete carbohydrate avoidance and other severe restriction, links lean-tissue loss to metabolic and functional harm, and places fasting, exercise, medication, endoscopy, and surgery inside individualized assessment.
+- Method fit and surgical continuity: [[vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie|VOL.173]] matches fasting and exercise to tolerance and current capacity, then treats metabolic surgery as an eligibility, consent, nutrition, symptom, and follow-up pathway rather than a one-time shortcut.
 
 ## Counterevidence & Qualifications
 The sources are public podcast discussions and do not establish universal BMI cutoffs, calorie targets, basal-metabolism multipliers, weekly or monthly loss rates, fasting schedules, an exercise prescription, menstrual or eating-disorder criteria, drug eligibility, endoscopic outcomes, or surgical thresholds. The March 2024 semaglutide approval, product, dose, and off-label statements are time-bound. The concept does not imply that rapid change, intensive exercise, medication, liposuction, endoscopy, or bariatric surgery is always inappropriate; it requires that urgency and intensity be justified by current clinical context and supported by qualified monitoring. Suspected eating disorder, menstrual loss or major change, unexplained weight change, dark urine after exertion, collapse, severe weakness, dehydration, persistent vomiting, or other acute symptoms require appropriate professional assessment.
 
 ## What Changed
-- Added lean-tissue loss, rebound, joint-capacity, fasting, endoscopy, and multidisciplinary-routing safeguards.
-- Preserved the gradual-loss message while treating its exact numerical range as source-scoped rather than universal.
-- Kept eating-disorder, low-energy-availability, acute-exercise, medication, and procedure escalation inside one cross-method safety boundary.
+- Added tolerance and compensatory-eating tests for fasting-method fit.
+- Added low-impact progression for larger or previously inactive bodies.
+- Made procedure-specific nutrition, symptom, laboratory, and follow-up burdens part of surgical safety.
+- Kept calorie floors, exercise minutes, loss rates, BMI, waist, and complication figures source-scoped.
 
 ## Related Concepts
 - [[LifestyleWeightManagement]] - supplies the sustainable eating, movement, sleep, body-composition, and maintenance layer.
@@ -60,3 +65,4 @@ The sources are public podcast discussions and do not establish universal BMI cu
 - [[MuscleAsLongevityInfrastructure]] - explains why preserving lean mass and capability matters beyond scale change.
 - [[TCMWeightManagementBoundary]] - adjacent anti-extremism frame that also rejects appearance-led and one-size-fits-all intervention.
 - [[MultidisciplinaryWeightManagement]] - coordinated assessment and referral model for higher-risk or more complex cases.
+- [[BariatricMetabolicSurgeryCarePathway]] - indication, procedure, aftercare, and long-term monitoring branch for selected surgery.

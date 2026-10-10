@@ -13,7 +13,8 @@ sources:
   - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
   - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
   - vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2
-last_updated: 2026-10-06
+  - vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,8 @@ The GLP-1 and CGM sources sharpen the medical-technology edge of this page. GLP-
 VOL.117 contributes a low-friction lived example. [[XinXiaoqi|辛晓琪]] combines home-based [[SuperSlowJogging|超慢跑]], aerobic and core work, retained ordinary meals, and avoidance of both overfullness and starvation. Its importance to this synthesis is behavioral rather than mechanistic: reducing gym travel, beginning with manageable exercise, and keeping food categories in the diet can make weight-related habits more repeatable. The episode's exact cadence, fat-burning, soreness, glucose, and longevity-gene explanations do not displace the page's existing evidence boundaries.
 
 VOL.199 adds a clinical-routing layer without displacing lifestyle foundations. It treats complete carbohydrate avoidance, liquid-only or fruit-only plans, one-meal-a-day restriction, and copied celebrity timelines as rebound and lean-mass risks, then places eating structure, progressive exercise, psychological support, metabolic markers, and body composition inside [[MultidisciplinaryWeightManagement|coordinated care]] when complexity warrants it. Its “metabolic remodeling” language is most useful as an outcome hierarchy—fat and visceral-fat reduction, muscle preservation, glucose, pressure, lipids, uric acid, fatty liver, sleep, energy, and function—not as a single measurable mechanism.
+
+VOL.173 strengthens the decision boundary between weight loss, weight maintenance, and metabolic-risk reduction. BMI is only one entry signal: waist distribution, fatty liver, glucose, lipids, blood pressure, body composition, symptoms, and function can justify different goals at similar scale weights. Its practical layer favors modest energy reduction, retained staple foods and protein, vegetable-rich meals, fewer snacks and hidden restaurant calories, progressive low-impact movement for larger bodies, and methods fitted to work rhythm and tolerance. Surgery remains a selected late-line branch inside [[BariatricMetabolicSurgeryCarePathway|qualified metabolic-surgery care]], not a replacement for maintenance.
 
 ## Key Claims
 - Weight management should be judged through body composition, waist and hip measurements, muscle, sleep, mood, and physical state, not only a scale number.
@@ -67,15 +70,16 @@ VOL.199 adds a clinical-routing layer without displacing lifestyle foundations. 
 - Sugar-control extension - [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] prioritizes reducing liquid sugar and unconscious sugar while preserving staple foods, whole fruit, slower chewing, mixed meals, and occasional dessert.
 - Debate triage - [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] adds low-GI honey, zero-sucrose products, hidden sugar, sweeteners, and anti-sugar pills as consumer-product shortcuts that need skepticism; [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] adds substitution-specific sweetener benefits, seed-oil evidence boundaries, and creatine monohydrate as a stronger supplement case.
 - Metabolic and care-routing layer - [[vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2]] rejects crash dieting and scale-only evaluation, emphasizes lean-mass and metabolic-marker outcomes, and routes more complex cases through coordinated assessment rather than a universal meal or exercise template.
+- Goal and capacity matching - [[vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie|VOL.173]] distinguishes scale loss from waist, body-composition, and metabolic-risk improvement; it also matches food, fasting, and movement choices to health status, work demands, joint load, and long-term adherence.
 
 ## Counterevidence & Qualifications
-The sources are educational podcast summaries, not clinical guidelines or individualized plans. They do not provide detailed trial evidence for every dietary, exercise, fasting, medication, endoscopic, surgical, TCM, or digital-monitoring claim, and they explicitly leave obesity with underlying disease, endocrine abnormalities, medication choices, diabetes, fatty liver, severe anxiety, obsessive food or device monitoring, kidney or liver disease, pregnancy or fertility planning, psychiatric symptoms, eating-disorder risk, injury, large-body-weight joint risk, and specialized athletic goals inside professional care. The concept should therefore be read as a practical self-management frame, not a replacement for diagnosis, treatment, or individualized coaching.
+The sources are educational podcast summaries, not clinical guidelines or individualized plans. They do not provide detailed trial evidence for every dietary, exercise, fasting, medication, endoscopic, surgical, TCM, or digital-monitoring claim, and they explicitly leave obesity with underlying disease, endocrine abnormalities, medication choices, diabetes, fatty liver, severe anxiety, obsessive food or device monitoring, kidney or liver disease, pregnancy or fertility planning, psychiatric symptoms, eating-disorder risk, injury, large-body-weight joint risk, and specialized athletic goals inside professional care. BMI bands, waist cutoffs, calorie floors, food-calorie estimates, exercise minutes, and loss-rate targets also vary by guideline and patient context. The concept should therefore be read as a practical self-management frame, not a replacement for diagnosis, treatment, or individualized coaching.
 
 ## What Changed
-- Added VOL.199's metabolism-first outcome hierarchy beyond scale weight.
-- Added lean-mass, joint-capacity, psychological, and secondary-cause considerations to method selection.
-- Added multidisciplinary care routing for complex cases while keeping lifestyle foundations central.
-- Kept fasting schedules, pacing numbers, procedures, TCM techniques, and digital estimates source-scoped.
+- Added a clearer distinction among scale loss, maintenance, abdominal-fat reduction, and metabolic-risk improvement.
+- Added progressive low-impact entry points and work-rhythm or tolerance matching for movement and fasting choices.
+- Connected selected surgery to a dedicated eligibility and follow-up pathway without displacing lifestyle maintenance.
+- Kept BMI, waist, calorie, exercise-duration, and loss-rate figures source-scoped.
 
 ## Related Concepts
 - [[ChinaWeightManagementPolicy]] - policy-level counterpart focused on chronic-disease and obesity-management infrastructure.
@@ -98,3 +102,4 @@ The sources are educational podcast summaries, not clinical guidelines or indivi
 - [[SuperSlowJogging]] - low-intensity aerobic option whose main contribution here is repeatability and gradual entry.
 - [[MultidisciplinaryWeightManagement]] - coordinated clinical pathway for cause assessment, intervention matching, and follow-up.
 - [[RapidWeightLossSafetyBoundary]] - cross-method safety frame for severe restriction, unsuitable exercise, drugs, and procedures.
+- [[BariatricMetabolicSurgeryCarePathway]] - selected surgical branch requiring eligibility assessment and long-term follow-up.

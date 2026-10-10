@@ -35049,3 +35049,11 @@ Added source `587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933`; cr
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科
+
+Added source `vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie`; created [[BariatricMetabolicSurgeryCarePathway|Bariatric and Metabolic Surgery Care Pathway / 减重代谢手术照护路径]]; and resynthesized [[LifestyleWeightManagement]], [[VisceralAdiposityMetabolicRisk]], [[MetabolicHealthBiomarkerContext]], [[RapidWeightLossSafetyBoundary]], [[MultidisciplinaryWeightManagement]], and [[MultimodalObesityTreatment]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: BMI and scale weight are incomplete without waist distribution, body composition, metabolic markers, symptoms, and function; sustainable food and progressive movement should fit tolerance and current capacity; and metabolic surgery is a selected late-line pathway whose eligibility, procedure tradeoffs, nutrition, laboratory review, symptom management, and long-term follow-up are part of treatment. No settled contradiction was adopted. Exact BMI, waist, calorie, exercise-duration, loss-rate, reflux, and surgical-complication figures remain source-scoped public education rather than universal or individualized guidance. Broad show and unnamed-speaker pages were kept closed because the focused source and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,390 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

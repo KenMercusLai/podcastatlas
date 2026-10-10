@@ -6,8 +6,9 @@ sources:
   - transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211
   - best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715
   - vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2
+  - vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-06
+last_updated: 2026-10-11
 ---
 
 # Metabolic Health Biomarker Context
@@ -23,6 +24,8 @@ The numbers remain context-dependent. Screening cutoffs, optimal-risk targets, d
 A staged-risk model proposes that glucose spikes and sustained calorie excess may precede elevated fasting insulin, ectopic fat, insulin resistance, and reduced metabolic flexibility, while A1C can remain reassuring until later in that sequence. Fasting insulin, waist-to-height ratio, body composition, liver enzymes, and short-term glucose monitoring may therefore add context. This widens the panel without turning any one marker, device, formula, or DEXA scan into a universal screen.
 
 VOL.199 makes the same multi-marker principle practical for weight management. Scale weight can fall through water or muscle loss without establishing metabolic improvement, so the episode adds body-fat percentage, visceral fat, glucose, blood pressure, lipids, uric acid, fatty-liver context, muscle, and function to follow-up. Connected scales and CGM can contribute selected longitudinal signals, but estimated body composition and device curves remain inputs to interpretation rather than verdicts.
+
+VOL.173 clarifies that multi-marker interpretation also changes the treatment goal. Normal BMI does not exclude abdominal adiposity, fatty liver, dyslipidemia, or glucose and blood-pressure risk, while an overweight classification without current metabolic abnormality does not automatically justify aggressive loss. BMI, waist, laboratory results, imaging, symptoms, function, and trend should therefore guide whether the immediate goal is prevention, maintenance, body recomposition, risk reduction, or specialist escalation.
 
 ## Key Claims
 - Metabolic health is better represented by multiple measurements than by body weight or fasting glucose alone.
@@ -40,14 +43,15 @@ VOL.199 makes the same multi-marker principle practical for weight management. S
 - Earlier-risk context - [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] connects fasting insulin, waist-to-height ratio, DEXA body composition, liver enzymes, glucose patterns, and A1C timing to a proposed sequence of metabolic deterioration.
 - Weight boundary - [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] argues that lean people can have metabolic abnormalities and that body weight alone cannot establish metabolic health.
 - Weight-management feedback - [[vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2]] contrasts scale-only progress with body fat, visceral fat, muscle, glucose, pressure, lipids, uric acid, fatty liver, and selected CGM or connected-scale trends.
+- Goal selection - [[vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie|VOL.173]] uses BMI, waist, fatty-liver, glucose, lipid, blood-pressure, and body-composition context to distinguish prevention or maintenance from more active treatment.
 
 ## Counterevidence & Qualifications
 The sources report study-defined thresholds, prevalence claims, and proposed sequences without full definitions, cohorts, methods, or clinical guideline context. Fasting insulin assays and derived calculations are not interchangeable, CGM, connected-scale body-composition estimates, and DEXA are not universal screening requirements, and A1C remains useful despite the claim that it may change later in some trajectories. Biomarkers require qualified interpretation: normal values do not exclude all disease, while abnormal values do not identify one causal mechanism. The episode's insulin-resistance, two-week weighing, and monitoring claims are source-scoped rather than universal protocols.
 
 ## What Changed
-- Added body-composition, visceral-fat, muscle, uric-acid, fatty-liver, and functional context to weight-management follow-up.
-- Added connected-scale and CGM feedback while preserving estimation, selection, and interpretation limits.
-- Reinforced that neither body weight nor one biomarker establishes metabolic health.
+- Added prevention, maintenance, recomposition, risk-reduction, and escalation as distinct goals selected from combined markers.
+- Added normal-BMI abdominal adiposity and metabolically lower-risk overweight as reasons not to let BMI decide alone.
+- Kept BMI and waist cutoffs source-scoped rather than diagnostic or surgical rules.
 
 ## Related Concepts
 - [[ContinuousGlucoseMonitoring]] - adds dynamic glucose curves to periodic measurements.
@@ -56,3 +60,5 @@ The sources report study-defined thresholds, prevalence claims, and proposed seq
 - [[PersonalHealthData]] - broader record needed for longitudinal and contextual interpretation.
 - [[MedicalRiskManagement]] - prevents population cutoffs from becoming unsupervised personal treatment targets.
 - [[MultidisciplinaryWeightManagement]] - care pathway that uses biomarker context to inform assessment and follow-up.
+- [[VisceralAdiposityMetabolicRisk]] - fat-distribution context that explains why waist and BMI can diverge.
+- [[BariatricMetabolicSurgeryCarePathway]] - uses biomarkers and comorbidity as inputs rather than automatic indications.

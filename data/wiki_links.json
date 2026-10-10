@@ -12383,6 +12383,10 @@
     "title": "Barcode Hero",
     "url": "/wiki/entities/barcodehero/"
   },
+  "BariatricMetabolicSurgeryCarePathway": {
+    "title": "Bariatric and Metabolic Surgery Care Pathway / 减重代谢手术照护路径",
+    "url": "/wiki/concepts/bariatricmetabolicsurgerycarepathway/"
+  },
   "BarkingAbbey": {
     "title": "Barking Abbey",
     "url": "/wiki/entities/barkingabbey/"
@@ -104598,6 +104602,10 @@
   "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1": {
     "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
     "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+  },
+  "vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie": {
+    "title": "VOL.173体重减不下来？可能真不是你不够努力｜减重与代谢外科",
+    "url": "/wiki/sources/vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jianzhong-yu-daixie-waike-lvqzljdoj9artvoyxh7baks25yie/"
   },
   "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1": {
     "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
