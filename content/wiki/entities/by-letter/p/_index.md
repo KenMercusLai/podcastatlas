@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13161
+wiki_total_pages: 13164
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "PackySanDiego"
     title: "Packy San Diego"
     url: "/wiki/entities/packysandiego/"
+  - key: "PadminiSoni"
+    title: "Padmini Soni"
+    url: "/wiki/entities/padminisoni/"
   - key: "PAG"
     title: "PAG / 太盟集团"
     url: "/wiki/entities/pag/"

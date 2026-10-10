@@ -46933,6 +46933,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "InclusiveAIDesign": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "IncognitoImperialHuntingRisk": [
     {
       "key": "politics",
@@ -54345,6 +54352,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LifecycleAIGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LifelongSexEducation": [
@@ -74496,6 +74515,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RiskTieredAIOversight": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RitualAffectiveOrder": [
@@ -96290,6 +96321,13 @@
     }
   ],
   "YuvalNoahHarari": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "YuvikaSharma": [
     {
       "key": "technology",
       "label": "Technology",

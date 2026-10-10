@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13161
+wiki_total_pages: 13164
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "YuvalNoahHarari"
     title: "Yuval Noah Harari"
     url: "/wiki/entities/yuvalnoahharari/"
+  - key: "YuvikaSharma"
+    title: "Yuvika Sharma"
+    url: "/wiki/entities/yuvikasharma/"
   - key: "YvonChouinard"
     title: "Yvon Chouinard / 伊冯·乔伊纳德"
     url: "/wiki/entities/yvonchouinard/"

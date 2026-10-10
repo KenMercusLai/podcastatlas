@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10315
+wiki_total_pages: 10318
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "RiskRiskTradeoff"
     title: "Risk-Risk Trade-off / 风险—风险权衡"
     url: "/wiki/concepts/riskrisktradeoff/"
+  - key: "RiskTieredAIOversight"
+    title: "Risk-Tiered AI Oversight"
+    url: "/wiki/concepts/risktieredaioversight/"
   - key: "RitualCapitalCentrality"
     title: "Ritual Capital Centrality / 礼制中心式都城合法性"
     url: "/wiki/concepts/ritualcapitalcentrality/"

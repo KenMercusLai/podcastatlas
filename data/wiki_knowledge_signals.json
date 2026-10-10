@@ -3911,9 +3911,9 @@
       "url": "/wiki/concepts/aimodelapprovalregime/"
     },
     "AIModelBiasGovernance": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
@@ -3949,9 +3949,16 @@
           "show": "Marketplace Tech",
           "title": "AI in banking: the good, the bad, and the efficient",
           "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/aimodelbiasgovernance/"
     },
     "AIModelOrchestration": {
@@ -19716,6 +19723,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/asiandiasporabelongingpressure/"
+    },
+    "AsianWomenAdvancingAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/asianwomenadvancingai/"
     },
     "AskTheHeartTVDrama": {
       "episode_count": 1,
@@ -127955,6 +127978,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/incipientriskexit/"
     },
+    "InclusiveAIDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/inclusiveaidesign/"
+    },
     "InclusiveSexualHealthDignity": {
       "episode_count": 1,
       "show_count": 1,
@@ -152390,6 +152429,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/lifetimevsmachinetime/"
+    },
+    "LifecycleAIGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/lifecycleaigovernance/"
     },
     "LifecycleOralHealthPrevention": {
       "episode_count": 7,
@@ -194297,6 +194352,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
+    "PadminiSoni": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/padminisoni/"
+    },
     "PaganContinuityClaims": {
       "episode_count": 3,
       "show_count": 1,
@@ -221386,6 +221457,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/risksocietybook/"
+    },
+    "RiskTieredAIOversight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/risktieredaioversight/"
     },
     "Ritan": {
       "episode_count": 3,
@@ -286552,6 +286639,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yuvalnoahharari/"
+    },
+    "YuvikaSharma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128 [79EFBB6ED970611FE3848BAD0163149C~8584423_2026-08-10-215023-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a838e18].md",
+          "key": "ep-22-governing-ai-with-purpose-and-inclusion",
+          "show": "Data Science With Sam",
+          "title": "EP 22: Governing AI with Purpose and Inclusion",
+          "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/yuvikasharma/"
     },
     "YuzhangCommandery": {
       "episode_count": 3,

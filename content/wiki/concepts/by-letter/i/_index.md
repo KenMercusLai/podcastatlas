@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10315
+wiki_total_pages: 10318
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "IncidentalExposure"
     title: "Incidental Exposure / 偶然暴露"
     url: "/wiki/concepts/incidentalexposure/"
+  - key: "InclusiveAIDesign"
+    title: "Inclusive AI Design"
+    url: "/wiki/concepts/inclusiveaidesign/"
   - key: "InclusiveSexualHealthDignity"
     title: "Inclusive Sexual-Health Dignity / 包容性性健康尊严"
     url: "/wiki/concepts/inclusivesexualhealthdignity/"

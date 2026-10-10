@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13161
+wiki_total_pages: 13164
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "AsiWind"
     title: "Asi Wind"
     url: "/wiki/entities/asiwind/"
+  - key: "AsianWomenAdvancingAI"
+    title: "Asian Women Advancing AI"
+    url: "/wiki/entities/asianwomenadvancingai/"
   - key: "ASICS"
     title: "ASICS"
     url: "/wiki/entities/asics/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3455
+topic_total_pages: 3459
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2710,6 +2710,9 @@ topic_concepts:
   - key: "IncentiveCompatibleAISafety"
     title: "Incentive-Compatible AI Safety"
     url: "/wiki/concepts/incentivecompatibleaisafety/"
+  - key: "InclusiveAIDesign"
+    title: "Inclusive AI Design"
+    url: "/wiki/concepts/inclusiveaidesign/"
   - key: "IndependentAgentVendor"
     title: "Independent Agent Vendor"
     url: "/wiki/concepts/independentagentvendor/"
@@ -2941,6 +2944,9 @@ topic_concepts:
   - key: "LifeTimeVsMachineTime"
     title: "Life Time Versus Machine Time / 生命时间与机器时间"
     url: "/wiki/concepts/lifetimevsmachinetime/"
+  - key: "LifecycleAIGovernance"
+    title: "Lifecycle AI Governance"
+    url: "/wiki/concepts/lifecycleaigovernance/"
   - key: "AIControlNuclearAnalogyLimits"
     title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
     url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
@@ -3910,6 +3916,9 @@ topic_concepts:
   - key: "RetroHumanistAIContent"
     title: "Retro Humanist AI Content"
     url: "/wiki/concepts/retrohumanistaicontent/"
+  - key: "RiskTieredAIOversight"
+    title: "Risk-Tiered AI Oversight"
+    url: "/wiki/concepts/risktieredaioversight/"
   - key: "RobotActiveUseMetrics"
     title: "Robot Active Use Metrics"
     url: "/wiki/concepts/robotactiveusemetrics/"
@@ -8237,6 +8246,9 @@ topic_entities:
   - key: "YuvalNoahHarari"
     title: "Yuval Noah Harari"
     url: "/wiki/entities/yuvalnoahharari/"
+  - key: "YuvikaSharma"
+    title: "Yuvika Sharma"
+    url: "/wiki/entities/yuvikasharma/"
   - key: "ZachEdwards"
     title: "Zach Edwards"
     url: "/wiki/entities/zachedwards/"

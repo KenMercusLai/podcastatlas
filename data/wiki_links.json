@@ -10891,6 +10891,10 @@
     "title": "Asian Diaspora Belonging Pressure / 亚裔离散归属压力",
     "url": "/wiki/concepts/asiandiasporabelongingpressure/"
   },
+  "AsianWomenAdvancingAI": {
+    "title": "Asian Women Advancing AI",
+    "url": "/wiki/entities/asianwomenadvancingai/"
+  },
   "AskJeeves": {
     "title": "Ask Jeeves",
     "url": "/wiki/entities/askjeeves/"
@@ -43619,6 +43623,10 @@
     "title": "见几而作式风险退出 / Incipient-Risk Exit",
     "url": "/wiki/concepts/incipientriskexit/"
   },
+  "InclusiveAIDesign": {
+    "title": "Inclusive AI Design",
+    "url": "/wiki/concepts/inclusiveaidesign/"
+  },
   "InclusiveSexualHealthDignity": {
     "title": "Inclusive Sexual-Health Dignity / 包容性性健康尊严",
     "url": "/wiki/concepts/inclusivesexualhealthdignity/"
@@ -52062,6 +52070,10 @@
   "LifeTimeVsMachineTime": {
     "title": "Life Time Versus Machine Time / 生命时间与机器时间",
     "url": "/wiki/concepts/lifetimevsmachinetime/"
+  },
+  "LifecycleAIGovernance": {
+    "title": "Lifecycle AI Governance",
+    "url": "/wiki/concepts/lifecycleaigovernance/"
   },
   "LifecycleOralHealthPrevention": {
     "title": "Lifecycle Oral Health Prevention / 全生命周期口腔预防",
@@ -64751,6 +64763,10 @@
     "title": "Padel Participation Boom",
     "url": "/wiki/concepts/padelparticipationboom/"
   },
+  "PadminiSoni": {
+    "title": "Padmini Soni",
+    "url": "/wiki/entities/padminisoni/"
+  },
   "PaganContinuityClaims": {
     "title": "Pagan Continuity Claims",
     "url": "/wiki/concepts/pagancontinuityclaims/"
@@ -73686,6 +73702,10 @@
   "RiskSocietyBook": {
     "title": "Risk Society / 《风险社会》",
     "url": "/wiki/entities/risksocietybook/"
+  },
+  "RiskTieredAIOversight": {
+    "title": "Risk-Tiered AI Oversight",
+    "url": "/wiki/concepts/risktieredaioversight/"
   },
   "Ritan": {
     "title": "日谈 / 日谈公园",
@@ -95763,6 +95783,10 @@
     "title": "Yuval Noah Harari",
     "url": "/wiki/entities/yuvalnoahharari/"
   },
+  "YuvikaSharma": {
+    "title": "Yuvika Sharma",
+    "url": "/wiki/entities/yuvikasharma/"
+  },
   "YuxiIntoHonglou": {
     "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
     "url": "/wiki/concepts/yuxiintohonglou/"
@@ -99958,6 +99982,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-22-governing-ai-with-purpose-and-inclusion": {
+    "title": "EP 22: Governing AI with Purpose and Inclusion",
+    "url": "/wiki/sources/ep-22-governing-ai-with-purpose-and-inclusion/"
   },
   "ep-23-ai-in-marketing-strategies": {
     "title": "EP 23: AI in Marketing Strategies",

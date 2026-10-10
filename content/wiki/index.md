@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 22: Governing AI with Purpose and Inclusion](sources/ep-22-governing-ai-with-purpose-and-inclusion.md) — Data Science With Sam interview with Padmini Soni and Yuvika Sharma on lifecycle governance, proportional oversight, bias, inclusive design, and Asian women in AI.
 - [Essentials: Understanding & Conquering Depression](sources/scim3842843942-scim3842843942.md) — Condensed Huberman Lab episode on major depression as a multisystem disorder, assessment boundaries, inflammation, treatment evidence, and behavioral-tool feasibility.
 - [How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon](sources/scim8552663956-scim8552663956.md) — Huberman Lab interview on protein hierarchy, body recomposition, fed-versus-fasted outcomes, diet flexibility, seed-oil evidence, supplements, and adherence.
 - [VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能](sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp.md) — 这病说来话长 interview with Zhao Chuan on long-career conditioning, performance readiness, vocal care, walking, touring, and later-life renewal.
@@ -4491,6 +4492,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
 ## Entities
+- [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
+- [Yuvika Sharma](entities/YuvikaSharma.md) — Data and AI practitioner and community co-founder connecting bias control, risk-tiered oversight, trust, and representation.
+- [Asian Women Advancing AI](entities/AsianWomenAdvancingAI.md) — Professional community for mentorship, learning, visibility, and leadership representation among Asian women in AI.
 - [Alan Aragon](entities/AlanAragon.md) — Nutrition and fitness communicator emphasizing evidence hierarchy, total daily protein, outcome-level comparisons, and sustainable adherence.
 - [赵传 / Zhao Chuan](entities/ZhaoChuan.md) — Singer connecting long-term stage work with adaptable conditioning, voice maintenance, city observation, and later-life renewal.
 - [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
@@ -17718,6 +17722,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henry Wilson](entities/HenryWilson.md) — Irish-born British field marshal and Ulster Unionist MP whose assassination intensified the Four Courts crisis before the Irish Civil War.
 
 ## Concepts
+- [Lifecycle AI Governance](concepts/LifecycleAIGovernance.md) — Integrating accountability, testing, monitoring, and remediation across AI design, deployment, operation, and retirement.
+- [Risk-Tiered AI Oversight](concepts/RiskTieredAIOversight.md) — Scaling AI scrutiny and safeguards with plausible harm, reversibility, and decision stakes.
+- [Inclusive AI Design](concepts/InclusiveAIDesign.md) — Involving affected people and diverse expertise in requirements, testing, cultural interpretation, and remediation.
 - [Performer Health as Career Infrastructure / 表演者健康作为职业基础设施](concepts/PerformerHealthAsCareerInfrastructure.md) — Treating repeatable physical maintenance and recovery as conditions of durable live-performance work rather than short pre-show fixes.
 - [Environmental Neuroscience](concepts/EnvironmentalNeuroscience.md) — Evidence-tiered field connecting features of physical settings to cognition, emotion, behavior, and health.
 - [Attention Restoration Theory](concepts/AttentionRestorationTheory.md) — Account of how reduced directed-attention demand and soft fascination may restore cognitive capacity.

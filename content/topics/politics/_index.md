@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3269
+topic_total_pages: 3271
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2416,6 +2416,9 @@ topic_concepts:
   - key: "LiberalismPaternalismBoundary"
     title: "Liberalism-Paternalism Boundary"
     url: "/wiki/concepts/liberalismpaternalismboundary/"
+  - key: "LifecycleAIGovernance"
+    title: "Lifecycle AI Governance"
+    url: "/wiki/concepts/lifecycleaigovernance/"
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"
@@ -3658,6 +3661,9 @@ topic_concepts:
   - key: "RiskRiskTradeoff"
     title: "Risk-Risk Trade-off / 风险—风险权衡"
     url: "/wiki/concepts/riskrisktradeoff/"
+  - key: "RiskTieredAIOversight"
+    title: "Risk-Tiered AI Oversight"
+    url: "/wiki/concepts/risktieredaioversight/"
   - key: "RiverAsLivingEntity"
     title: "River As Living Entity / 河流作为生命"
     url: "/wiki/concepts/riveraslivingentity/"

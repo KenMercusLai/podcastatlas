@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10315
+wiki_total_pages: 10318
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "LifeTaskDiscovery"
     title: "Life-Task Discovery"
     url: "/wiki/concepts/lifetaskdiscovery/"
+  - key: "LifecycleAIGovernance"
+    title: "Lifecycle AI Governance"
+    url: "/wiki/concepts/lifecycleaigovernance/"
   - key: "LifecycleOralHealthPrevention"
     title: "Lifecycle Oral Health Prevention / 全生命周期口腔预防"
     url: "/wiki/concepts/lifecycleoralhealthprevention/"
