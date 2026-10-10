@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10258
+wiki_total_pages: 10261
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "HumanPrimateMirror"
     title: "Human–Primate Mirror"
     url: "/wiki/concepts/humanprimatemirror/"
+  - key: "HumboldtianNatureInterconnection"
+    title: "Humboldtian Nature Interconnection / 洪堡式万物相连"
+    url: "/wiki/concepts/humboldtiannatureinterconnection/"
   - key: "HumorousConservationWriting"
     title: "Humorous Conservation Writing"
     url: "/wiki/concepts/humorousconservationwriting/"

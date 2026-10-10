@@ -34758,3 +34758,11 @@ Added source `essentials-science-of-mindsets-for-health-performance-dr-alia-crum
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”
+
+Added source `ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw`; created [[AlexanderVonHumboldt|Alexander von Humboldt]], [[HumboldtianNatureInterconnection]], [[ReadingFieldworkKnowledgeLoop]], and [[EcologicalContextSpecificity]]; and resynthesized [[TuMotuo|土摩托]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Humboldt's enduring value lies in a connective method joining measurement, ecology, geology, humanities, politics, reading, and travel; books and field experience correct different errors, while systems thinking remains bounded by local ecological baselines and cannot justify universal tree-planting or other context-free remedies. No settled contradiction was adopted. Claims about Humboldt's comparative fame, priority, scientific equivalence, Chimborazo wording, North-South American divergence, political middle paths, and particular afforestation history remain source-scoped or qualified. Broad Talk三联, 三联生活周刊, fieldwork, interdisciplinary, humanistic-science, filter-bubble, and AI-experience pages were kept closed because the focused source, person, and concepts capture the bounded addition without reopening large inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,354 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

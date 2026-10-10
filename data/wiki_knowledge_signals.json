@@ -11153,6 +11153,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/alexanderthegreat/"
     },
+    "AlexanderVonHumboldt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人” [lgah_Udxf1ggj22Ko28f3KxY1TaW].md",
+          "key": "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw",
+          "show": "Talk三联",
+          "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
+          "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/alexandervonhumboldt/"
+    },
     "AlexandraFeodorovna": {
       "episode_count": 1,
       "show_count": 1,
@@ -72164,6 +72180,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
     },
+    "EcologicalContextSpecificity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人” [lgah_Udxf1ggj22Ko28f3KxY1TaW].md",
+          "key": "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw",
+          "show": "Talk三联",
+          "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
+          "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/ecologicalcontextspecificity/"
+    },
     "EcologicalInterventionGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -122412,6 +122444,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/humbertodelgado/"
+    },
+    "HumboldtianNatureInterconnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人” [lgah_Udxf1ggj22Ko28f3KxY1TaW].md",
+          "key": "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw",
+          "show": "Talk三联",
+          "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
+          "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/humboldtiannatureinterconnection/"
     },
     "HumorousRemonstrance": {
       "episode_count": 2,
@@ -212343,6 +212391,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/readingcomprehensionfragility/"
     },
+    "ReadingFieldworkKnowledgeLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人” [lgah_Udxf1ggj22Ko28f3KxY1TaW].md",
+          "key": "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw",
+          "show": "Talk三联",
+          "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
+          "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/readingfieldworkknowledgeloop/"
+    },
     "ReadingSilentSpeech": {
       "episode_count": 2,
       "show_count": 1,
@@ -256978,6 +257042,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/tudongdong/"
+    },
+    "TuMotuo": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人” [lgah_Udxf1ggj22Ko28f3KxY1TaW].md",
+          "key": "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw",
+          "show": "Talk三联",
+          "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
+          "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/tumotuo/"
     },
     "TudorFemaleSovereigntyConstraint": {
       "episode_count": 3,

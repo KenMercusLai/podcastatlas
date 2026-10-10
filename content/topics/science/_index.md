@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1527
+topic_total_pages: 1528
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1126,6 +1126,9 @@ topic_concepts:
   - key: "HumanisticScienceCommunication"
     title: "Humanistic Science Communication"
     url: "/wiki/concepts/humanisticsciencecommunication/"
+  - key: "HumboldtianNatureInterconnection"
+    title: "Humboldtian Nature Interconnection / 洪堡式万物相连"
+    url: "/wiki/concepts/humboldtiannatureinterconnection/"
   - key: "HydropowerConcentrationRisk"
     title: "Hydropower Concentration Risk"
     url: "/wiki/concepts/hydropowerconcentrationrisk/"

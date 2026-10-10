@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10258
+wiki_total_pages: 10261
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "ReadingSilentSpeech"
     title: "Reading Silent Speech"
     url: "/wiki/concepts/readingsilentspeech/"
+  - key: "ReadingFieldworkKnowledgeLoop"
+    title: "Reading-Fieldwork Knowledge Loop / 阅读与行走的知识循环"
+    url: "/wiki/concepts/readingfieldworkknowledgeloop/"
   - key: "ReadingToWritingPractice"
     title: "Reading-to-Writing Practice"
     url: "/wiki/concepts/readingtowritingpractice/"
