@@ -66501,6 +66501,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/diversifiedhappinessportfolio/"
     },
+    "DivineAndCivicLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/divineandciviclaw/"
+    },
     "DizzinessDiagnosticRouting": {
       "episode_count": 1,
       "show_count": 1,
@@ -104449,9 +104465,9 @@
       "url": "/wiki/concepts/greekmythology/"
     },
     "GreekTragedy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
@@ -104466,6 +104482,13 @@
           "show": "The Rest Is History",
           "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
           "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        },
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
         }
       ],
       "updated": "2026-10-10",
@@ -186113,6 +186136,45 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/odysseus/"
     },
+    "Oedipus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/oedipus/"
+    },
+    "OedipusTyrannos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/oedipustyrannos/"
+    },
     "OffensiveHumorSpeechSpace": {
       "episode_count": 3,
       "show_count": 2,
@@ -230908,9 +230970,9 @@
       "url": "/wiki/entities/siegeofvicksburg/"
     },
     "SigmundFreud": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -230925,9 +230987,16 @@
           "show": "这病说来话长",
           "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
           "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        },
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/sigmundfreud/"
     },
     "SijoPoetry": {
@@ -235248,6 +235317,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/sophisticationbasedprivatemarketaccess/"
+    },
+    "Sophocles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/sophocles/"
     },
     "SoreThroatEscalation": {
       "episode_count": 1,
@@ -249660,6 +249745,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/theatrefestivalculturalecology/"
     },
+    "ThebanMythicPoliticalMirror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/thebanmythicpoliticalmirror/"
+    },
     "ThemeLedBeverageDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -252400,9 +252501,9 @@
       "url": "/wiki/entities/tinybeans/"
     },
     "Tiresias": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2393125423 [GLT2393125423].md",
@@ -252410,9 +252511,16 @@
           "show": "The Rest Is History",
           "title": "687. The Odyssey: Hero of the Trojan Horse (Part 1)",
           "url": "/wiki/sources/687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423/"
+        },
+        {
+          "episode_file": "GLT9108845593 [GLT9108845593].md",
+          "key": "603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593",
+          "show": "The Rest Is History",
+          "title": "603. Greek Myths: The Riddle of the Sphinx (Part 2)",
+          "url": "/wiki/sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/tiresias/"
     },
     "TitanicDisasterMemory": {

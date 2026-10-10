@@ -5,44 +5,56 @@ tags: [psychology, psychoanalysis, interpretation]
 sources:
   - 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891
   - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
-last_updated: 2026-09-26
+  - 603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
 # Sigmund Freud / 西格蒙德·弗洛伊德
 
 ## Overview
-[[SigmundFreud|Sigmund Freud / 西格蒙德·弗洛伊德]] appears in the wiki's sources as an influential psychoanalytic background for interpreting myth, dreams, desire, conflict, family symbolism, and the loosening of ordinary constraints. Both sources treat that influence as interpretive history rather than settled scientific proof.
+
+Sigmund Freud is represented as an influential psychoanalytic interpreter of dreams, desire, childhood conflict, family symbolism, and [[Oedipus]], whose frameworks remain historically consequential but are not treated by the sources as universal scientific proof.
 
 ## Current Profile
-In [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]], Freud helps explain why [[JosephCampbell|Joseph Campbell]] reads dreams and myths through desire, childhood, sexuality, Oedipal material, symbolic journeys, and recurring parent figures. The episode preserves the framework's generative power while warning that psychological resemblance does not prove a universal origin or rigorous historical explanation.
 
-In [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109精神心理科]], [[ZhangDaming|张大明]] presents Freud as opening a modern psychological approach to dreams. The episode groups his dream account into wish fulfillment, metaphorical expression, and temporary release from waking constraints, then contrasts this approach with fate-predicting dream dictionaries. These categories are source-level summaries, not a definitive reconstruction of Freud's complete theory or evidence that dream symbols have universal meanings.
+Freud helps explain why [[JosephCampbell|Joseph Campbell]] reads myths and dreams through desire, sexuality, parent figures, taboo, and symbolic journeys. That framework remains generative when psychological resemblance prompts interpretation, but resemblance does not prove a shared origin or exhaustive explanation. [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]]
+
+The dream-education branch presents Freud as opening a modern psychological approach through wish fulfillment, metaphorical expression, and temporary release from waking constraints. It contrasts reflection on the dreamer's own context with fate-predicting dictionaries and fixed symbol codes. [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109精神心理科]]
+
+The Oedipal branch dates Freud's emerging formulation to 1897, connects its public development to *The Interpretation of Dreams*, and notes the 1910 naming of the Oedipus complex. Its central qualification is that Sophocles' play cannot be reduced to a timeless family-desire structure: Athenian plague, democracy, war, Theban rivalry, divine law, and tragic form are constitutive contexts rather than removable scenery. [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]]
 
 ## Key Characteristics
+
 - Historical source for psychoanalytic readings of dreams, desire, childhood, sexuality, conflict, and family symbolism.
-- Important influence on Campbell's comparison of myth and private dream material.
-- Used by VOL.109 to shift dream discussion from prophecy toward the dreamer's own wishes and conflicts.
-- Generates interpretive questions more reliably than testable universal dream codes in the supplied sources.
-- Requires source-specific, historical, and scientific guardrails when applied to myth or clinical claims.
+- Important influence on Campbell's comparison of private dream and public myth.
+- Used in public dream education to redirect interpretation away from prophecy and toward personal wishes and conflicts.
+- Makes Oedipus a model of supposedly shared parent-directed desire and jealousy.
+- Generates interpretive questions more securely than universal symbol codes or context-free historical explanations.
+- Requires literary, historical, clinical, and scientific guardrails when applied beyond its original arguments.
 
 ## Evidence
-- Myth interpretation - [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] places Freudian desire, Oedipal material, and dream-symbol reading behind Campbell's comparative mythology.
-- Dream interpretation - [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]] summarizes wish fulfillment, metaphor, and release from waking constraints as Freudian lenses for personal dream content.
-- Shared evidence boundary - [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] rejects psychoanalytic resemblance as rigorous proof, while [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]] rejects absolute dream decoding and prediction.
+
+- Comparative mythology: [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] places Freudian desire and Oedipal material behind Campbell's myth-and-dream interpretation.
+- Dream education: [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]] summarizes wish fulfillment, metaphor, and release from waking constraint while rejecting fixed decoding and prediction.
+- Oedipal genealogy: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] connects Freud's 1897 formulation, *The Interpretation of Dreams*, and the 1910 term to his claim that Oedipus moves audiences through shared impulses.
+- Historical qualification: [[603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593]] argues that Sophocles' tragedy belongs to a specific Athenian literary, political, and religious world.
 
 ## Qualifications
-Neither source is a primary reading of Freud's complete work or a review of modern psychoanalytic evidence. VOL.109's three-part presentation is a guest's accessible summary, and its comparison with traditional Chinese dream interpretation is heuristic. Interpretive resonance does not establish universal symbolism, historical transmission, diagnosis, causation, or medical prediction.
+
+None of the sources is a comprehensive reading of Freud's corpus or a review of modern psychoanalytic evidence. VOL.109's categories are an accessible guest summary, and the Greek-myth episode's intellectual history is likewise compressed. Interpretive resonance does not establish universal symbolism, clinical diagnosis, historical transmission, or the claim that every audience response arises from parent-directed desire.
 
 ## What Changed
-- Migrated the page to the synthesis-first schema from its complete two-source evidence set.
-- Added the dream-education branch while preserving the existing mythology and evidence-boundary profile.
+
+- Added the formation and naming of the Oedipus complex to Freud's historical profile.
+- Made historically specific tragic context an explicit limit on universal psychoanalytic reduction.
+- Preserved dream and comparative-myth uses while tightening their evidence boundary.
 
 ## Relationships
-- [[JosephCampbell]] - comparative mythologist whose framework carries Freudian influence in the supplied source.
-- [[MythAsPublicDream]] - Campbell/Jung frame neighboring the Freudian myth-and-dream reading.
-- [[Oedipus]] - mythic figure associated with Freudian family-desire interpretation.
-- [[CarlJung]] - neighboring depth-psychology figure used in Campbell's symbolic reading.
-- [[DreamFunctionAndMeaning]] - current wiki synthesis that accepts personal context while rejecting universal dream codes.
-- [[ZhangDaming]] - guest who summarizes and qualifies Freudian dream ideas for a general audience.
-- [[InterpretationAndOverinterpretation]] - guardrail separating suggestive readings from proof.
+
+- [[Oedipus]] - mythic figure Freud makes into a universalizing family-desire model.
+- [[OedipusTyrannos]] - historically situated play that resists reduction to one subconscious mechanism.
+- [[JosephCampbell]] - comparative mythologist whose framework carries Freudian influence.
+- [[MythAsPublicDream]] - public-myth/private-dream comparison adjacent to Freud's interpretive legacy.
+- [[DreamFunctionAndMeaning]] - contextual dream synthesis that rejects prophecy and universal codes.
+- [[InterpretationAndOverinterpretation]] - guardrail separating suggestive reading from proof.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10227
+wiki_total_pages: 10229
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "DividendTechnologyBarbell"
     title: "Dividend-Technology Barbell / 红利科技杠铃"
     url: "/wiki/concepts/dividendtechnologybarbell/"
+  - key: "DivineAndCivicLaw"
+    title: "Divine and Civic Law"
+    url: "/wiki/concepts/divineandciviclaw/"
   - key: "DivinePerspectiveAesthetics"
     title: "Divine Perspective Aesthetics"
     url: "/wiki/concepts/divineperspectiveaesthetics/"

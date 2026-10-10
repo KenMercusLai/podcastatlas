@@ -34610,3 +34610,11 @@ Added source `essentials-using-your-nervous-system-to-enhance-your-immune-system
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 603. Greek Myths: The Riddle of the Sphinx (Part 2)
+
+Added source `603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593`; created [[Sophocles]], [[OedipusTyrannos|Oedipus Tyrannos]], [[DivineAndCivicLaw]], and [[ThebanMythicPoliticalMirror]]; and resynthesized [[Oedipus]], [[SigmundFreud|Sigmund Freud]], [[Tiresias]], and [[GreekTragedy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Sophocles turns inherited Oedipal material into compressed public inquiry in which the investigator discovers his own unwitting parricide, incest, and civic pollution; Freud's universalizing interpretation remains historically influential but cannot replace the play's specific Athenian, Theban, political, religious, and dramatic contexts; and sacred obligation remains higher than yet difficult to reconcile with necessary civic law. No settled contradiction was adopted. The detective-story analogy, performance date, plague resonance, Periclean comparison, anti-Theban reception, festival attendance, wider mythic genealogy, and political readings remain episode-attributed or variant-sensitive. Broad [[Athens]], [[GreekMythology]], [[TheRestIsHistory]], host, Aristotle, and one-off mythic-character profiles were kept closed because the focused source and pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,335 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10227
+wiki_total_pages: 10229
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "TheatricalWindowBargaining"
     title: "Theatrical Window Bargaining"
     url: "/wiki/concepts/theatricalwindowbargaining/"
+  - key: "ThebanMythicPoliticalMirror"
+    title: "Theban Mythic Political Mirror"
+    url: "/wiki/concepts/thebanmythicpoliticalmirror/"
   - key: "ThemeParkAsMediaPlatform"
     title: "Theme Park As Media Platform"
     url: "/wiki/concepts/themeparkasmediaplatform/"

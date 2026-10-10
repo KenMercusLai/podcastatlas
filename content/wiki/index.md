@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [603. Greek Myths: The Riddle of the Sphinx (Part 2)](sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593.md) — The Rest Is History on Oedipus, Sophoclean recognition, Freud, Theban myth, Athenian political context, and divine versus civic law.
 - [604. Greek Myths: Sex, Drugs & Tragedy (Part 3)](sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684.md) — The Rest Is History on Dionysus, The Bacchae, Athenian festival and wartime civic crisis, Nietzsche, and the qualified tension between myth and philosophy.
 - [078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路](sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9.md) — 纸醉金迷FM以折龙山水道、树中运输机和蛇藤玉棺开启《云南虫谷》，分析层叠险境、虚实暧昧、铁三角协作与盗墓伦理。
 - [605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)](sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137.md) — The Rest Is History on Apollonius's Argonautica, Jason and Medea, Alexandrian scholarship, Hellenistic religion, and the qualified transition from myth to mythology.
@@ -4413,6 +4414,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 
 ## Entities
+- [Oedipus Tyrannos / Oedipus Rex](entities/OedipusTyrannos.md) — Sophocles' compressed tragedy of investigation, unwitting guilt, civic pollution, recognition, and self-blinding.
+- [Sophocles](entities/Sophocles.md) — Athenian tragedian who reshapes Theban myth into public drama about knowledge, law, divine necessity, and civic crisis.
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
 - [Argonautica](entities/Argonautica.md) — Hellenistic epic joining Jason's quest, Medea's aid, inherited story layers, geographical wonder, and modern cinematic adaptation.
 - [Peter Griffiths](entities/PeterGriffiths.md) — Conservative whose openly anti-immigration 1964 Smethwick campaign became a precedent for Powell's later turn.
@@ -12578,11 +12581,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨朱 / Yang Zhu](entities/YangZhu.md) — Rival pre-Qin teaching presence paired with Mozi in episode 30's picture of Warring States intellectual competition.
 - [邹国 / Zou State](entities/ZouState.md) — Mencius's source-scoped place of origin and local-memory setting for episode 30's people-first political imagination.
 - [《千面英雄》 / The Hero with a Thousand Faces](entities/TheHeroWithAThousandFaces.md) — Joseph Campbell book read by episode 29 as an influential but contested source for monomyth and hero-journey narrative.
-- [Sigmund Freud / 西格蒙德·弗洛伊德](entities/SigmundFreud.md) — Psychoanalysis figure used by episode 29 as background for dream, desire, Oedipus, and myth-symbol interpretation.
+- [Sigmund Freud / 西格蒙德·弗洛伊德](entities/SigmundFreud.md) — Psychoanalytic interpreter of dreams and Oedipus whose influential universalizing frameworks remain historically and scientifically qualified.
 - [James George Frazer / 詹姆斯·乔治·弗雷泽](entities/JamesGeorgeFrazer.md) — Comparative-religion figure whose 《金枝》 material gives episode 29 ritual, kingship, sacrifice, and renewal examples.
 - [《金枝》 / The Golden Bough](entities/TheGoldenBough.md) — Frazer book invoked by episode 29 for ritual kingship, taboo, sacrifice, death, and renewal, with strong evidence cautions.
 - [George Lucas](entities/GeorgeLucas.md) — Star Wars creator used by episode 29 as the clearest modern influence case for Campbell's hero journey.
-- [Oedipus / 俄狄浦斯](entities/Oedipus.md) — Greek myth and tragedy figure used by episode 29 as psychoanalytic shorthand for taboo, family desire, and mythic recurrence.
+- [Oedipus / 俄狄浦斯](entities/Oedipus.md) — Theban ruler whose attempt to escape prophecy and investigate plague ends in recognition of his unwitting parricide and incest.
 - [纪昀 / Ji Yun](entities/JiYun.md) — Qing writer used by the Liaozhai episode as the orthodox notebook-style contrast to 蒲松龄's more unruly strange fiction.
 - [《阅微草堂笔记》](entities/YueweiCaotangBiji.md) — Ji Yun's strange-tale notebook collection, contrasted with 《聊斋志异》 in the episode.
 - [于七之乱 / Yu Qi Rebellion](entities/YuQiRebellion.md) — Qing Shandong conflict background used by the Liaozhai episode to read 《野狗》 and 《公孙九娘》 as war-shadow stories.
@@ -14492,7 +14495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aeolus](entities/Aeolus.md) — Wind-god host whose bag of winds nearly returns Odysseus home before crew mistrust reverses the voyage.
 - [Laestrygonians](entities/Laestrygonians.md) — Giant cannibal people whose perfect harbor destroys eleven of Odysseus' twelve ships.
 - [Circe](entities/Circe.md) — Enchantress whose island transforms the crew, delays the voyage, and sends Odysseus toward Tiresias.
-- [Tiresias](entities/Tiresias.md) — Dead prophet whose underworld warning makes Helios' cattle the voyage's fatal taboo.
+- [Tiresias](entities/Tiresias.md) — Blind prophet whose Odyssean warning and Theban truth-telling make knowledge conditional, dangerous, and resistant to authority.
 - [Sirens](entities/Sirens.md) — Singing death-lure survived through wax, mast-binding, and precommitted restraint.
 - [Scylla and Charybdis](entities/ScyllaAndCharybdis.md) — Paired sea hazards forcing Odysseus to accept limited loss over whole-ship destruction.
 - [Helios](entities/Helios.md) — Sun god whose sacred cattle trigger Zeus' punishment after the crew violates repeated warnings.
@@ -17533,6 +17536,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
 
 ## Concepts
+- [Theban Mythic Political Mirror](concepts/ThebanMythicPoliticalMirror.md) — Framework for Theban dynastic catastrophe as both inherited story cycle and an Athenian mirror for rivalry, law, leadership, plague, and civic ruin.
+- [Divine and Civic Law](concepts/DivineAndCivicLaw.md) — Tragic conflict between sacred obligation and necessary but limited human legal authority.
 - [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.
 - [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
 - [Postwar Commonwealth Immigration to Britain](concepts/PostwarCommonwealthImmigration.md) — British sequence joining imperial citizenship, settlement, restriction, family reunion, postcolonial obligation, and anti-discrimination law.
@@ -25222,7 +25227,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Circadian Rhythm Experimentation](concepts/CircadianRhythmExperimentation.md) — Biological timing branch around de Mairan's mimosa and Kleitman's Mammoth Cave experiment.
 - [Doppler Effect](concepts/DopplerEffect.md) — Physics case in the source, used to show the apparatus difficulty of verifying moving-source sound predictions.
 - [Experimental Failure As Knowledge](concepts/ExperimentalFailureAsKnowledge.md) — Pattern where failed, lucky, or inconclusive experiments still clarify limits when interpreted honestly.
-- [Greek Tragedy](concepts/GreekTragedy.md) — Dionysian civic performance using masks, music, chorus, and inherited myth to test family, ritual, leadership, war, and order.
+- [Greek Tragedy](concepts/GreekTragedy.md) — Athenian civic performance using inherited myth to test family, knowledge, ritual, law, leadership, war, and divine power.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
 - [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern sorting women's revenge by its relation to order, from Medea's anti-political rupture and Corday's assassination to Lady Xu's targeted Danyang restoration.
 - [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system centered on Chengdu, huajiao, street food, markets, offal, texture, learned appetite, and internal technical renewal.

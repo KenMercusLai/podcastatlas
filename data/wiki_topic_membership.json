@@ -30390,6 +30390,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DivineAndCivicLaw": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DivinePerspectiveAesthetics": [
     {
       "key": "culture",
@@ -63659,6 +63666,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OedipusTyrannos": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "OffensiveHumorSpeechSpace": [
     {
       "key": "culture",
@@ -79824,6 +79838,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Sophocles": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Sophos": [

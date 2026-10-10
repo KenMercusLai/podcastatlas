@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3351
+topic_total_pages: 3353
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5480,6 +5480,9 @@ topic_entities:
   - key: "Odysseus"
     title: "Odysseus"
     url: "/wiki/entities/odysseus/"
+  - key: "OedipusTyrannos"
+    title: "Oedipus Tyrannos / Oedipus Rex"
+    url: "/wiki/entities/oedipustyrannos/"
   - key: "OfficeForCivilRights"
     title: "Office for Civil Rights"
     url: "/wiki/entities/officeforcivilrights/"
@@ -5912,6 +5915,9 @@ topic_entities:
   - key: "SophieHagney"
     title: "Sophie Hagney"
     url: "/wiki/entities/sophiehagney/"
+  - key: "Sophocles"
+    title: "Sophocles"
+    url: "/wiki/entities/sophocles/"
   - key: "SoulTrain"
     title: "Soul Train"
     url: "/wiki/entities/soultrain/"
