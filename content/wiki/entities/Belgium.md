@@ -6,7 +6,8 @@ sources:
   - 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087
   - 674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052
   - 474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702
-last_updated: 2026-09-24
+  - 594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,9 @@ Belgium enters the wiki as both a modern assisted-death comparison case and a [[
 
 In the modern legal-ethics branch, Belgium is an assisted-death law case where euthanasia can extend to psychiatric patients and minors under complex processes. This makes the hard edge of [[AssistedDyingSafeguards]] visible: terminal physical illness is not the only possible eligibility boundary.
 
-In the wartime branch, Belgium first becomes the decisive issue in Britain's final intervention debate. Its refusal of German passage and Germany's 4 August invasion joined treaty obligation and international law to British concern about the Channel and Low Countries. Under occupation, civilian reprisals, Louvain's destruction, economic dismantling, labor deportations, shortages, and resistance networks then made Cavell's clinic and escape-network aid politically explosive.
+In the wartime branch, Belgium first becomes the decisive issue in Britain's final intervention debate. Its refusal of German passage and Germany's 4 August invasion joined treaty obligation and international law to British concern about the Channel and Low Countries. [[594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129]] deepens that opening phase through the [[BattleOfLiege1914|Battle of Liège]], the surrender of Brussels, civilian reprisals, deportation, and the burning of Louvain's university library.
+
+The invasion source also sharpens the evidence boundary around the "rape of Belgium." German violence was real and supported in part by German letters and diaries, but some Allied stories and inquiry totals were exaggerated or reused earlier atrocity motifs. Under later occupation, economic dismantling, labor deportations, shortages, and resistance networks then made Cavell's clinic and escape-network aid politically explosive.
 
 ## Key Characteristics
 
@@ -28,7 +31,8 @@ In the wartime branch, Belgium first becomes the decisive issue in Britain's fin
 - The assisted-death material emphasizes psychiatric suffering, minors, safeguards, and clinical responsibility.
 - German-occupied Belgium functions as the wartime setting for Cavell's nursing and resistance assistance.
 - Belgian neutrality gave Britain's divided cabinet a legal and moral frame for intervention alongside prior French and strategic commitments.
-- The First World War material connects occupation violence, resistance networks, and propaganda memory.
+- Liège resistance and the refusal of German passage made Belgium an active defender rather than only a passive symbol.
+- The First World War material connects documented occupation violence, evidentiary dispute, resistance networks, and propaganda memory.
 
 ## Evidence
 
@@ -37,14 +41,18 @@ In the wartime branch, Belgium first becomes the decisive issue in Britain's fin
 - Occupation setting: [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] describes German occupation after August 1914, civilian executions, Louvain's burning, economic coercion, deported workers, shortages, and resistance networks.
 - Cavell branch: [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] locates Cavell's Brussels clinic inside the Belgian escape network that moved men toward the [[Netherlands]].
 - War-entry role: [[474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702]] connects Germany's ultimatum, Belgium's refusal, King Albert's appeal, invasion, and Britain's withdrawal demand to the final cabinet decision.
+- Opening defense: [[594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129]] connects Belgium's refusal, Liège's garrison and forts, and the surrender of Brussels to the opening campaign.
+- Violence and evidence: [[594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129]] preserves German-source evidence for reprisals while qualifying Allied stories, official totals, and individual incidents.
+- Reputational effect: [[594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129]] connects Louvain's destruction to Germany's rapid loss of cultural standing in Britain.
 
 ## Qualifications
 
-The assisted-death source is a cross-cultural ethical discussion rather than a full legal history of Belgium. The war-entry source treats Belgium as decisive but also preserves Britain's obligations to France, Channel strategy, party politics, honour, and reputation. The Cavell source is centered on one resistance and execution case rather than a complete history of the occupation.
+The assisted-death source is a cross-cultural ethical discussion rather than a full legal history of Belgium. The war-entry sources treat Belgium as decisive but also preserve Britain's obligations to France, Channel strategy, party politics, honour, and reputation. The invasion source does not authenticate every atrocity allegation or total, and explaining German francs-tireurs fear does not excuse collective punishment. The Cavell source is centered on one resistance and execution case rather than a complete history of the occupation.
 
 ## What Changed
 
 - Added Belgian neutrality, refusal, invasion, and appeal as the decisive public frame in Britain's entry into the war.
+- Added Liège resistance, Brussels's surrender, documented reprisals, evidentiary disputes, and Louvain's cultural destruction.
 
 ## Relationships
 
@@ -58,3 +66,6 @@ The assisted-death source is a cross-cultural ethical discussion rather than a f
 - [[FirstWorldWar]] - war context for the occupation branch.
 - [[JulyCrisis]] - escalation in which the Belgian ultimatum and invasion changed Britain's decision.
 - [[EdwardGrey]] - British foreign secretary who made Belgian independence part of the intervention case.
+- [[GermanInvasionOfBelgium1914]] - opening campaign that turned neutrality into invasion and occupation.
+- [[BattleOfLiege1914]] - early Belgian military resistance to the German advance.
+- [[BelgianAtrocityPropaganda1914]] - framework for documented violence, disputed stories, and public memory.

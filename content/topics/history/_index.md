@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2696
+topic_total_pages: 2697
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6618,6 +6618,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129"
+    title: "594. The First World War: The Invasion of Belgium (Part 1)"
+    url: "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
   - key: "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909"
     title: "595. The First World War: The Battle of the Frontiers (Part 2)"
     url: "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"

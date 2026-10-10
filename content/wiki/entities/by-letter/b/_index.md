@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13104
+wiki_total_pages: 13106
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "BattleOfLesnaya"
     title: "Battle of Lesnaya / 列斯纳亚战役"
     url: "/wiki/entities/battleoflesnaya/"
+  - key: "BattleOfLiege1914"
+    title: "Battle of Liège (1914)"
+    url: "/wiki/entities/battleofliege1914/"
   - key: "BattleOfLoos"
     title: "Battle of Loos"
     url: "/wiki/entities/battleofloos/"

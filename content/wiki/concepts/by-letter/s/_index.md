@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10279
+wiki_total_pages: 10281
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "SchadenfreudeAsComparisonEmotion"
     title: "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸"
     url: "/wiki/concepts/schadenfreudeascomparisonemotion/"
+  - key: "SchlieffenPlan"
+    title: "Schlieffen Plan"
+    url: "/wiki/concepts/schlieffenplan/"
   - key: "ScholarOfficialPublicDuty"
     title: "Scholar-Official Public Duty / 士大夫公共责任"
     url: "/wiki/concepts/scholarofficialpublicduty/"

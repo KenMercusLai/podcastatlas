@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13104
+wiki_total_pages: 13106
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "GermanEmpire"
     title: "German Empire"
     url: "/wiki/entities/germanempire/"
+  - key: "GermanInvasionOfBelgium1914"
+    title: "German Invasion of Belgium (1914)"
+    url: "/wiki/entities/germaninvasionofbelgium1914/"
   - key: "GermanNationalAnthem"
     title: "German National Anthem / Das Lied der Deutschen"
     url: "/wiki/entities/germannationalanthem/"

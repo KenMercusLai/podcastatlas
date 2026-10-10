@@ -25041,6 +25041,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleoflesnaya/"
     },
+    "BattleOfLiege1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/battleofliege1914/"
+    },
     "BattleOfLittleBighorn": {
       "episode_count": 3,
       "show_count": 1,
@@ -26517,6 +26533,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/belfast/"
     },
+    "BelgianAtrocityPropaganda1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/belgianatrocitypropaganda1914/"
+    },
     "BelgianCongo": {
       "episode_count": 2,
       "show_count": 1,
@@ -26541,9 +26573,9 @@
       "url": "/wiki/entities/belgiancongo/"
     },
     "Belgium": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
@@ -26565,9 +26597,16 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/belgium/"
     },
     "BeliefActivatedPoliticalSigns": {
@@ -101688,6 +101727,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/germanempire/"
     },
+    "GermanInvasionOfBelgium1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/germaninvasionofbelgium1914/"
+    },
     "GermanMilitaryOppositionToHitler": {
       "episode_count": 1,
       "show_count": 1,
@@ -114054,9 +114109,9 @@
       "url": "/wiki/entities/helmutschmidt/"
     },
     "HelmuthVonMoltkeTheYounger": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -114078,9 +114133,16 @@
           "show": "The Rest Is History",
           "title": "596. The First World War: The Miracle on the Marne (Part 3)",
           "url": "/wiki/sources/596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266/"
+        },
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/helmuthvonmoltketheyounger/"
     },
     "Heloise": {
@@ -225773,6 +225835,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/scenariolevelrewardsignal/"
     },
+    "SchlieffenPlan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/schlieffenplan/"
+    },
     "ScholarOfficialPublicDuty": {
       "episode_count": 7,
       "show_count": 2,
@@ -252021,9 +252099,9 @@
       "url": "/wiki/entities/themistocles/"
     },
     "TheobaldVonBethmannHollweg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1054108569 [GLT1054108569].md",
@@ -252031,9 +252109,16 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT4855256129 [GLT4855256129].md",
+          "key": "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129",
+          "show": "The Rest Is History",
+          "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+          "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/theobaldvonbethmannhollweg/"
     },
     "TheodorHeuss": {

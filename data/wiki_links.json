@@ -3675,6 +3675,10 @@
     "title": "59. The World Cup of Gods - Part 2",
     "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
   },
+  "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129": {
+    "title": "594. The First World War: The Invasion of Belgium (Part 1)",
+    "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
+  },
   "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909": {
     "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
     "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
@@ -12543,6 +12547,10 @@
     "title": "Battle of Lesnaya / 列斯纳亚战役",
     "url": "/wiki/entities/battleoflesnaya/"
   },
+  "BattleOfLiege1914": {
+    "title": "Battle of Liège (1914)",
+    "url": "/wiki/entities/battleofliege1914/"
+  },
   "BattleOfLittleBighorn": {
     "title": "Battle of the Little Bighorn",
     "url": "/wiki/entities/battleoflittlebighorn/"
@@ -12942,6 +12950,10 @@
   "Belfast": {
     "title": "Belfast",
     "url": "/wiki/entities/belfast/"
+  },
+  "BelgianAtrocityPropaganda1914": {
+    "title": "Belgian Atrocity and Propaganda Problem (1914)",
+    "url": "/wiki/concepts/belgianatrocitypropaganda1914/"
   },
   "BelgianCongo": {
     "title": "Belgian Congo",
@@ -36270,6 +36282,10 @@
   "GermanEmpire": {
     "title": "German Empire",
     "url": "/wiki/entities/germanempire/"
+  },
+  "GermanInvasionOfBelgium1914": {
+    "title": "German Invasion of Belgium (1914)",
+    "url": "/wiki/entities/germaninvasionofbelgium1914/"
   },
   "GermanLuxuryCarChinaPressure": {
     "title": "German Luxury Car China Pressure / 德系豪华车中国压力",
@@ -75562,6 +75578,10 @@
   "SchengenArea": {
     "title": "Schengen Area / 申根区",
     "url": "/wiki/entities/schengenarea/"
+  },
+  "SchlieffenPlan": {
+    "title": "Schlieffen Plan",
+    "url": "/wiki/concepts/schlieffenplan/"
   },
   "ScholarOfficialPublicDuty": {
     "title": "Scholar-Official Public Duty / 士大夫公共责任",

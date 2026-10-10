@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [594. The First World War: The Invasion of Belgium (Part 1)](sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129.md) — The Rest Is History on the Schlieffen Plan, Belgian neutrality, Liège, civilian reprisals, Louvain, Brussels, and the boundary between documented atrocity and propaganda.
 - [Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno](sources/science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257.md) — Huberman Lab interview on scientific limits around God, religious practice as spiritual technology, prayer breathing, ritual synchrony, gratitude and cheating, grief, mortality, loneliness, and misuse.
 - [595. The First World War: The Battle of the Frontiers (Part 2)](sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909.md) — The Rest Is History on France's failed opening offensives, the BEF at Mons and Le Cateau, the Great Retreat, coalition friction, and industrial firepower.
 - [074 只因在人群中多看了她一眼：《射雕英雄传》之主角母亲大对比](sources/074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas.md) — 纸醉金迷FM以包惜弱与李萍比较乱世求生、身份隐瞒、溺爱、身教与母职牺牲，并保留环境、师父和个人选择的共同作用。
@@ -4444,6 +4445,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
 
 ## Entities
+- [German Invasion of Belgium (1914)](entities/GermanInvasionOfBelgium1914.md) — Opening campaign joining the Schlieffen timetable, violated neutrality, Belgian resistance, occupation violence, and reputational collapse.
+- [Battle of Liège (1914)](entities/BattleOfLiege1914.md) — Opening Belgian defense where forts, modern firepower, timetable delay, and civilian reprisals converged.
 - [David DeSteno](entities/DavidDeSteno.md) — Northeastern psychologist separating metaphysical claims from empirical study of religious practice, morality, ritual, gratitude, health, and flourishing.
 - [Battle of the Frontiers (1914)](entities/BattleOfTheFrontiers1914.md) — Failed French opening campaign whose losses forced retreat and strategic reassessment before the Marne.
 - [British Expeditionary Force (1914)](entities/BritishExpeditionaryForce1914.md) — Small professional British force combining high tactical skill with severe numerical, logistical, and coalition constraints.
@@ -17613,6 +17616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Schlieffen Plan](concepts/SchlieffenPlan.md) — German attempt to solve a two-front war through rapid western concentration via Belgium before shifting forces east.
+- [Belgian Atrocity and Propaganda Problem (1914)](concepts/BelgianAtrocityPropaganda1914.md) — Framework preserving documented German violence, disputed stories, reciprocal propaganda, and Louvain's symbolic force.
 - [Religious Practice as Spiritual Technology](concepts/ReligiousPracticeAsSpiritualTechnology.md) — Framework for testing inherited religious practices and outcomes without treating benefit as proof of doctrine.
 - [Prayer-Breath Regulation](concepts/PrayerBreathRegulation.md) — Proposed coupling of formal prayer cadence, slower respiration, bodily safety signaling, and meaning.
 - [Ritual Synchrony and Prosociality](concepts/RitualSynchronyAndProsociality.md) — Link between coordinated ritual action, affiliation, helping, mourning support, and its coercive limits.
