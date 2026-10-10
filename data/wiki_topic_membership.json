@@ -41065,6 +41065,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GratitudeMoralBehavior": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GratitudeNarrativePractice": [
     {
       "key": "science",
@@ -73193,6 +73200,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ReligiousPracticeAsSpiritualTechnology": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RemedialEducationTargeting": [
     {
       "key": "politics",
@@ -103132,6 +103146,13 @@
     }
   ],
   "science-based-tools-for-increasing-happiness-scim9472441223": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257": [
     {
       "key": "science",
       "label": "Science",

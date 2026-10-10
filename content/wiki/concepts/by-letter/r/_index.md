@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10274
+wiki_total_pages: 10279
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "ReligiousMoralFramingOfUSForeignPolicy"
     title: "Religious Moral Framing of U.S. Foreign Policy"
     url: "/wiki/concepts/religiousmoralframingofusforeignpolicy/"
+  - key: "ReligiousPracticeAsSpiritualTechnology"
+    title: "Religious Practice as Spiritual Technology"
+    url: "/wiki/concepts/religiouspracticeasspiritualtechnology/"
   - key: "ReligiousSelfCastration"
     title: "Religious Self-Castration"
     url: "/wiki/concepts/religiousselfcastration/"
@@ -1058,6 +1061,9 @@ wiki_pages:
   - key: "RitualSuccessionCrisis"
     title: "Ritual Succession Crisis / 仪式传承危机"
     url: "/wiki/concepts/ritualsuccessioncrisis/"
+  - key: "RitualSynchronyAndProsociality"
+    title: "Ritual Synchrony and Prosociality"
+    url: "/wiki/concepts/ritualsynchronyandprosociality/"
   - key: "RitualTourismAuthenticityTension"
     title: "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力"
     url: "/wiki/concepts/ritualtourismauthenticitytension/"

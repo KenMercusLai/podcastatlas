@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10274
+wiki_total_pages: 10279
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "GrassrootsPrivateEntrepreneurship"
     title: "Grassroots Private Entrepreneurship"
     url: "/wiki/concepts/grassrootsprivateentrepreneurship/"
+  - key: "GratitudeMoralBehavior"
+    title: "Gratitude as Moral Behavior Regulation"
+    url: "/wiki/concepts/gratitudemoralbehavior/"
   - key: "GratitudeNarrativePractice"
     title: "Gratitude Narrative Practice"
     url: "/wiki/concepts/gratitudenarrativepractice/"

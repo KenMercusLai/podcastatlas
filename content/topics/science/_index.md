@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1528
+topic_total_pages: 1531
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1003,6 +1003,9 @@ topic_concepts:
   - key: "GradualParentChildRelationship"
     title: "Gradual Parent-Child Relationship / 渐进式亲子关系"
     url: "/wiki/concepts/gradualparentchildrelationship/"
+  - key: "GratitudeMoralBehavior"
+    title: "Gratitude as Moral Behavior Regulation"
+    url: "/wiki/concepts/gratitudemoralbehavior/"
   - key: "GratitudeNarrativePractice"
     title: "Gratitude Narrative Practice"
     url: "/wiki/concepts/gratitudenarrativepractice/"
@@ -1873,6 +1876,9 @@ topic_concepts:
   - key: "ReligiousExperienceMedicalizationBoundary"
     title: "Religious Experience Medicalization Boundary"
     url: "/wiki/concepts/religiousexperiencemedicalizationboundary/"
+  - key: "ReligiousPracticeAsSpiritualTechnology"
+    title: "Religious Practice as Spiritual Technology"
+    url: "/wiki/concepts/religiouspracticeasspiritualtechnology/"
   - key: "REMEmotionalMemorySeparation"
     title: "REM Emotional Memory Separation"
     url: "/wiki/concepts/rememotionalmemoryseparation/"
@@ -4329,6 +4335,9 @@ topic_sources:
   - key: "rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd"
     title: "Rise and shine: Warsh's Fed rate test"
     url: "/wiki/sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd/"
+  - key: "science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257"
+    title: "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno"
+    url: "/wiki/sources/science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257/"
   - key: "science-tools-of-learning-memory-dr-david-eagleman-scim5564931565"
     title: "Science & Tools of Learning & Memory | Dr. David Eagleman"
     url: "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"

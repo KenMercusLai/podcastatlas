@@ -34845,3 +34845,11 @@ Added source `lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno
+
+Added source `science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257`; created [[DavidDeSteno]], [[ReligiousPracticeAsSpiritualTechnology]], [[PrayerBreathRegulation]], [[RitualSynchronyAndProsociality]], [[GratitudeMoralBehavior]], and [[MortalityContemplationValueReorientation]]. Core synthesis: science cannot experimentally settle God's existence but can study how repeated prayer, ritual, gratitude, mourning, community, mortality contemplation, and surrender affect physiology, behavior, connection, and meaning; practice is the active unit rather than nominal belief alone, and the same coordination mechanisms can support flourishing or manipulation. No settled contradiction was adopted. Longitudinal health associations, prayer physiology, synchrony, gratitude and cheating effects, death-anxiety patterns, psychedelic risks, new-religion counts, AI-religion forecasts, and tradition-level generalizations remain associational, method-limited, speculative, or source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], grief, synchrony, loneliness, awe, psychedelic, and gratitude pages were kept closed because the focused source, guest, and concepts capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,365 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

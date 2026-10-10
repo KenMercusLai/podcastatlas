@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10274
+wiki_total_pages: 10279
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "MorningMarketUrbanism"
     title: "Morning Market Urbanism / 早市城市主义"
     url: "/wiki/concepts/morningmarketurbanism/"
+  - key: "MortalityContemplationValueReorientation"
+    title: "Mortality Contemplation and Value Reorientation"
+    url: "/wiki/concepts/mortalitycontemplationvaluereorientation/"
   - key: "MortalityRiskPricing"
     title: "Mortality Risk Pricing"
     url: "/wiki/concepts/mortalityriskpricing/"
