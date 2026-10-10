@@ -16,7 +16,8 @@ sources:
   - vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s
   - vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs
   - vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw
-last_updated: 2026-10-10
+  - vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ Across the current sources, Zihan explains intensive care as active support for 
 
 Her public teaching uses layered clinical reasoning. Hantavirus risk depends on subtype, geography, rodent ecology, exposure, syndrome, and official information; influenza depends on illness pattern, testing limits, vulnerability, trajectory, and warning signs; diabetes crises require distinguishing ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia. She repeatedly separates suggestive patterns from diagnosis and keeps exact thresholds, medication choices, and individual treatment inside qualified care.
 
+Her household food-safety teaching applies the same layered logic before illness begins. Refrigeration slows rather than sterilizes; storage time, food type, temperature history, raw-versus-ready separation, sealed containment, refrigerator thawing, portioning, cleaning, and consumer vulnerability jointly shape risk. ICU examples make severe outcomes visible, while the practical synthesis remains prevention and timely disposal rather than identifying one pathogen from appearance, smell, or symptoms.
+
 Patient experience is part of this clinical model. When patients cannot speak, ICU teams reconstruct history from relatives, tests, and illness patterns. Sedation may provide comfort, reduce agitation, and limit oxygen demand while also leaving amnesia, hallucination-like experiences, or delirium. Orientation, touch, reassurance, explanation, and reconstruction of the treatment story can help without substituting for technical care. Her chronic-illness discussions similarly connect survival to function, ordinary pleasure, identity, and the permission to be vulnerable without treating vulnerability as failure.
 
 Outside high-acuity care, Zihan promotes sustainable and bounded behavior change. She translates relaxed exercise and moderate eating into lower-friction options, rejects severe restriction and abrupt overtraining, and places medicines and procedures behind indication, contraindication, monitoring, and maintenance. Her training account adds the institutional side: clinician competence and humane care depend on supervision, learning opportunity, manageable pressure, and psychological safety rather than endurance alone.
@@ -38,7 +41,7 @@ Her medical-AI position follows the same division of labor. ICU systems can aggr
 
 ## Key Characteristics
 - Frames ICU as time- and organ-support for potentially reversible disease, with expected benefit constrained by prognosis, burden, support dependence, and patient values.
-- Explains infectious and metabolic danger through layered patterns, testing limits, vulnerability, trajectory, and escalation rather than single symptoms or numbers.
+- Explains infectious, metabolic, and foodborne danger through layered patterns, testing limits, vulnerability, trajectory, prevention, and escalation rather than single symptoms or numbers.
 - Connects acute survival to rehabilitation, chronic-disease continuity, ordinary function, and patient-defined quality of life.
 - Treats history reconstruction, orientation, reassurance, touch, and post-event explanation as clinically relevant complements to technical treatment.
 - Interprets ICU hallucination, delirium, amnesia, and confusion through illness, medication, support, and environment rather than ridicule or supernatural claims.
@@ -59,15 +62,15 @@ Her medical-AI position follows the same division of labor. ICU systems can aggr
 - ICU AI support - [[vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s]] describes continuous device-data aggregation, missed-change detection, multidisciplinary prompts, and note checking while retaining individual judgment and communication.
 - Influenza triage - [[vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs]] connects symptom pattern, antigen and nucleic-acid testing, vulnerable groups, severe-warning signs, early antiviral assessment, annual vaccination, and selected prophylaxis.
 - Diabetes crisis and recovery - [[vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw]] has her distinguish ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia, explain sedation and delirium, and connect control with organ protection and sustainable life.
+- Household food safety - [[vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37|VOL.170]] has her connect cold storage, time, separation, thawing, cleaning, sensory limits, vulnerable consumers, and urgent symptoms without treating refrigeration or reheating as sterilization.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her public explanations are not individualized diagnosis, testing, treatment, prognosis, ICU admission, rehabilitation, infection control, vaccination, prescribing, insulin adjustment, nutrition, exercise, weight management, end-of-life, occupational-health, or crisis guidance. Prolonged support dependence is not a universal stopping rule; one survivor's limited ICU trauma, one listener's transfer decision, and selected public feedback are not outcome evidence. Drug approvals, surveillance figures, thresholds, dosing, prophylaxis, mechanism, and device claims are historical or source-scoped. The medical-AI discussion supplies no system specification, validation result, alert performance, or patient-outcome data.
+The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her public explanations are not individualized diagnosis, testing, treatment, prognosis, ICU admission, rehabilitation, infection control, vaccination, prescribing, insulin adjustment, nutrition, exercise, weight management, food-storage, poison-control, end-of-life, occupational-health, or crisis guidance. Prolonged support dependence is not a universal stopping rule; one survivor's limited ICU trauma, one listener's transfer decision, and selected public feedback are not outcome evidence. Drug approvals, surveillance figures, thresholds, dosing, prophylaxis, mechanisms, appliance procedures, food-specific toxin claims, and device claims are historical or source-scoped. The medical-AI discussion supplies no system specification, validation result, alert performance, or patient-outcome data.
 
 ## What Changed
-- Added acute diabetes crisis teaching across ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia.
-- Integrated sedation, delirium, orientation, and patient-story reconstruction into the ICU profile.
-- Added sustainable diabetes management and the coexistence of vulnerability with repeated self-care.
-- Reorganized the profile around current clinical themes rather than source-arrival order.
+- Added household refrigerator safety as a prevention branch of her ICU public education.
+- Connected cold storage, cross-contamination control, thawing, cleaning, and disposal through layered risk rather than one “overnight” rule.
+- Preserved food-specific mechanisms, storage limits, and appliance procedures as source-scoped rather than universal guidance.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where she appears as a recurring medical guest.
@@ -83,3 +86,4 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[MedicalTraineePsychosocialSafety]] - pressure-recognition and support boundary reinforced by her account.
 - [[MedicalAIWorkflowIntegration]] - supervised ICU data and documentation branch she describes.
 - [[InfluenzaHomeCareAndMedicationTriage]] - respiratory symptom, testing, treatment-timing, and escalation frame she explains.
+- [[HouseholdRefrigeratorFoodSafety]] - household prevention frame she develops through storage, separation, thawing, cleaning, and timely disposal.

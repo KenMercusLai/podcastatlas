@@ -120644,6 +120644,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/householdoccupationcontrol/"
     },
+    "HouseholdRefrigeratorFoodSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsSMsWq2mmQV9ROv6LWlZZhD1N37 [lsSMsWq2mmQV9ROv6LWlZZhD1N37].md",
+          "key": "vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37",
+          "show": "这病说来话长",
+          "title": "VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？",
+          "url": "/wiki/sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/householdrefrigeratorfoodsafety/"
+    },
     "HouseholdWaterQualityFiltration": {
       "episode_count": 1,
       "show_count": 1,
@@ -294917,9 +294933,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -295011,9 +295027,16 @@
           "show": "这病说来话长",
           "title": "VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”",
           "url": "/wiki/sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw/"
+        },
+        {
+          "episode_file": "lsSMsWq2mmQV9ROv6LWlZZhD1N37 [lsSMsWq2mmQV9ROv6LWlZZhD1N37].md",
+          "key": "vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37",
+          "show": "这病说来话长",
+          "title": "VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？",
+          "url": "/wiki/sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {

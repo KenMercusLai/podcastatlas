@@ -4492,6 +4492,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
 - [579. The Irish War of Independence: Showdown in London (Part 4)](sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865.md) — The Rest Is History on the Anglo-Irish Treaty negotiations, asymmetric bargaining, dominion status, the oath, partition, and the split that led toward civil war.
+- [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
 - [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
@@ -7212,7 +7213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bingzhongluo / 丙中洛](entities/Bingzhongluo.md) — Nujiang village destination framed through terraced scenery, sacred mountains, Puhua Temple, Chongding Church, and multi-religion coexistence.
 - [Delamu / 《德拉姆》](entities/DelamuDocumentary.md) — Documentary used by the Nujiang episode to compare older Tea Horse Road mobility with current roads and modernization.
 - [Kentaro Fujita](entities/KentaroFujita.md) — Psychology researcher whose Huberman Lab interview frames self-control as a context-sensitive strategy toolkit rather than willpower alone.
-- [子涵医生 / Zihan Doctor](entities/ZihanDoctor.md) — source-scoped medical guest explaining hantavirus risk, rodent-borne transmission, syndrome differences, prevention, and public-health information judgment.
+- [子涵医生 / Zihan Doctor](entities/ZihanDoctor.md) — ICU physician translating critical care, infectious and metabolic risk, patient experience, and household food safety into bounded public education.
 - [Li Xiang / 李想 (Li Auto)](entities/LiXiangLiAuto.md) — Li Auto founder explaining the company's AI, chip, autonomous-driving, robotics, organization, and overseas strategy.
 - [Li Auto L9 LEVIUS / 理想 L9 LEVIUS](entities/LiAutoL9Levius.md) — flagship SUV positioned as Li Auto's bridge from family comfort toward high-compute physical AI.
 - [Li Auto M100 Chip / 马赫 M100](entities/LiAutoM100Chip.md) — Li Auto inference chip tied to L9 LEVIUS compute and the company's embodied-intelligence moat thesis.
@@ -28122,5 +28123,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Risk-Risk Trade-off / 风险—风险权衡](concepts/RiskRiskTradeoff.md) — Systems condition where reducing one danger raises another by changing access, information, or incentives.
 - [喜恶同因 / Same-Cause Attraction and Aversion](concepts/SameCauseAttractionAversion.md) — Causal ambivalence in which a valued benefit and disliked cost arise from the same trait, boundary, or arrangement.
 - [Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除](concepts/PossessiveAttachmentAndSelfErasure.md) — 区分试图控制不可得对象与为维持靠近而放弃自身判断、身体和生活方向的两种破坏性文学关系模式。
+- [Household Refrigerator Food Safety / 家庭冰箱食品安全](concepts/HouseholdRefrigeratorFoodSafety.md) — Layered household prevention through time, temperature, separation, containment, thawing, cleaning, disposal, and sensory-limit awareness.
 
 ## Syntheses

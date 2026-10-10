@@ -35233,3 +35233,11 @@ Added source `579-the-irish-war-of-independence-showdown-in-london-part-4-glt906
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？
+
+Added source `vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37`; created [[HouseholdRefrigeratorFoodSafety|家庭冰箱食品安全]]; and resynthesized [[ZihanDoctor|子涵医生]] from her complete preserved evidence inventory before appending the new source once. Core synthesis: refrigeration slows rather than sterilizes, so household safety depends on elapsed time, food type, temperature history, raw-versus-ready separation, sealed containment, refrigerator thawing, portioning, cleaning, timely disposal, consumer vulnerability, and escalation for severe illness rather than the calendar label “overnight” or sensory inspection alone. No settled contradiction was adopted. Exact storage periods, temperature thresholds, appliance zones, cleaning recipes, nitrite framing, organism-food pairings, bongkrekic-acid claims, and cooling procedures remain source-scoped public education. Broad [[Atang|阿汤]] and [[ZheBingShuoLaiHuaChang|这病说来话长]] pages, plus [[AcutePancreatitisEmergencyEscalation]], were kept closed because the focused source, guest, and household concept capture the durable addition without reopening large or materially unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,414 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

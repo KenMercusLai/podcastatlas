@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10318
+wiki_total_pages: 10319
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "HouseholdMisconductPoliticalLiability"
     title: "Household Misconduct Political Liability / 家门失范政治连带"
     url: "/wiki/concepts/householdmisconductpoliticalliability/"
+  - key: "HouseholdRefrigeratorFoodSafety"
+    title: "Household Refrigerator Food Safety / 家庭冰箱食品安全"
+    url: "/wiki/concepts/householdrefrigeratorfoodsafety/"
   - key: "HouseholdRobotDataFlywheel"
     title: "Household Robot Data Flywheel"
     url: "/wiki/concepts/householdrobotdataflywheel/"
