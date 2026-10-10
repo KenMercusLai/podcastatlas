@@ -123,6 +123,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/42zhangjing/"
     },
+    "5MeODMT": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/5meodmt/"
+    },
     "A24": {
       "episode_count": 3,
       "show_count": 3,
@@ -57167,6 +57190,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/diyvideoselectionlogic/"
     },
+    "DJShipley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/djshipley/"
+    },
     "DRASTIC": {
       "episode_count": 1,
       "show_count": 1,
@@ -95476,9 +95515,9 @@
       "url": "/wiki/concepts/functionaldeextinction/"
     },
     "FunctionalFitnessReadiness": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2172700344 [SCIM2172700344].md",
@@ -95493,9 +95532,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255/"
+        },
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/functionalfitnessreadiness/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
@@ -169852,9 +169898,9 @@
       "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
     },
     "MentalHealthBiologicalFoundations": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -169862,9 +169908,16 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/mentalhealthbiologicalfoundations/"
     },
     "MentalHealthCrisisInterventionBoundary": {
@@ -170048,6 +170101,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/mentalimageryspectrum/"
+    },
+    "MentalPosture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/mentalposture/"
     },
     "MentalPracticeAndVisualization": {
       "episode_count": 3,
@@ -205799,9 +205868,9 @@
       "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
     },
     "PsychedelicIntegration": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -205823,9 +205892,16 @@
           "show": "Huberman Lab",
           "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
           "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        },
+        {
+          "episode_file": "SCIM4854936060 [SCIM4854936060].md",
+          "key": "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060",
+          "show": "Huberman Lab",
+          "title": "How to Make Yourself Unbreakable | DJ Shipley",
+          "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/psychedelicintegration/"
     },
     "PsychedelicMicrodosingEvidence": {

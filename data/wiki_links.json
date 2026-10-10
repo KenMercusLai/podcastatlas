@@ -23387,6 +23387,10 @@
     "title": "DJI / 大疆",
     "url": "/wiki/entities/dji/"
   },
+  "DJShipley": {
+    "title": "DJ Shipley",
+    "url": "/wiki/entities/djshipley/"
+  },
   "DMT": {
     "title": "DMT",
     "url": "/wiki/entities/dmt/"
@@ -57362,6 +57366,10 @@
   "MentalImagerySpectrum": {
     "title": "Mental Imagery Spectrum",
     "url": "/wiki/concepts/mentalimageryspectrum/"
+  },
+  "MentalPosture": {
+    "title": "Mental Posture",
+    "url": "/wiki/concepts/mentalposture/"
   },
   "MentalPracticeAndVisualization": {
     "title": "Mental Practice and Visualization",
@@ -100382,6 +100390,10 @@
   "how-to-make-better-decisions-dr-michael-platt-scim9606820714": {
     "title": "How to Make Better Decisions | Dr. Michael Platt",
     "url": "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
+  },
+  "how-to-make-yourself-unbreakable-dj-shipley-scim4854936060": {
+    "title": "How to Make Yourself Unbreakable | DJ Shipley",
+    "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
   },
   "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639": {
     "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",

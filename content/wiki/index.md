@@ -4398,6 +4398,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
 - [VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”](sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c.md) — 这病说来话长 episode on vetting psychological courses and services through need, qualifications, supervision, emotional effects, evidence, promises, and clinical escalation.
+- [How to Make Yourself Unbreakable | DJ Shipley](sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060.md) — Huberman Lab interview on combat trauma, injury recovery, daily mental posture, functional fitness, supervised psychedelic treatment, and integration.
 
 ## Entities
 - [George Romney](entities/GeorgeRomney.md) — British portraitist whose repeated images of Emma Hamilton helped circulate her performed identities and celebrity.
@@ -17506,6 +17507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sriman Swarup](entities/SrimanSwarup.md) — Oncologist and OncoNexus founder advocating integrated, inspectable, human-reviewed AI for cancer-care workflows.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 - [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
+- [DJ Shipley](entities/DJShipley.md) — Retired Navy SEAL connecting combat trauma, severe injury, daily standards, family repair, functional training, and supervised psychedelic treatment.
 
 ## Concepts
 - [Psychological Service Consumer Vetting / 心理服务消费甄别](concepts/PsychologicalServiceConsumerVetting.md) — Layered assessment of psychological courses and services through need, competence, supervision, accountability, emotional effects, promises, and referral capacity.
@@ -27794,5 +27796,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hidden Hearing Loss](concepts/HiddenHearingLoss.md) — Auditory synaptic, neural, or speech-in-noise dysfunction that may not appear on standard quiet pure-tone thresholds.
 - [Hearing Loss and Cognitive Risk](concepts/HearingLossCognitiveRisk.md) — Qualified relationship among hearing difficulty, communication, isolation, depression, cognitive decline, and uncertain direct causation.
 - [Cochlear Implant Auditory Restoration](concepts/CochlearImplantAuditoryRestoration.md) — Place-frequency neural stimulation restoring useful patterned input in selected severe or profound hearing loss.
+- [Mental Posture](concepts/MentalPosture.md) — Preparation of body, attention, environment, and role transitions to preserve capacity under stress without replacing clinical care.
 
 ## Syntheses

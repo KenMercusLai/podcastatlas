@@ -34530,3 +34530,11 @@ Added source `vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | How to Make Yourself Unbreakable | DJ Shipley
+
+Added source `how-to-make-yourself-unbreakable-dj-shipley-scim4854936060`; created [[DJShipley]] and [[MentalPosture]]; and resynthesized [[MentalHealthBiologicalFoundations]], [[FunctionalFitnessReadiness]], [[PsychedelicIntegration]], and [[5MeODMT|5-MeO-DMT]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: evening setup, protected movement, attention boundaries, family-transition rituals, and small controllable actions can support readiness and recovery, but elite discipline can coexist with severe trauma, medication dependence, suicidality, and relational harm; Shipley's ibogaine and 5-MeO-DMT account adds a supervised personal treatment and integration case rather than general evidence of safety or efficacy. No settled contradiction was adopted. Military history, medical events, medication use, treatment effects, fitness thresholds, research pathways, spiritual interpretation, and third-party motives remain episode-attributed or source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, guest, and concepts capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,325 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

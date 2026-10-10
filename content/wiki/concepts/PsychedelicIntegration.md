@@ -6,8 +6,9 @@ sources:
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
   - psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247
+  - how-to-make-yourself-unbreakable-dj-shipley-scim4854936060
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-10
 ---
 
 # Psychedelic Integration
@@ -24,13 +25,15 @@ The solo psilocybin episode reinforces this bridge by defining the target as ada
 
 [[MatthewJohnson]] supplies a concrete early integration sequence. Participants begin discussing the experience as acute effects recede, write about it that night, and return for a supportive next-day session that relates the experience to the treated problem. His warning against immediately ending relationships, quitting jobs, or making other major decisions adds a practical delay rule: salience and conviction during or soon after a session should be interpreted over time rather than treated as self-authenticating guidance.
 
+A retrospective participant account makes integration concrete as restructuring ordinary life after supervised ibogaine and [[5MeODMT|5-MeO-DMT]] treatment. It describes relationship repair, removal of harmful contacts, continued daily standards, advocacy, and later support for other participants. This strengthens the behavioral-maintenance principle but remains personal testimony: medication discontinuation and symptom change cannot be assigned to the acute experience alone or generalized into a protocol.
+
 ## Key Claims
 - Integration begins after, but is not limited to, the dosing session.
 - Acute insight or emotional release is a starting point rather than completed treatment.
 - Ongoing reflective or therapeutic practice may help translate experience into behavior and ordinary awareness.
 - Relapse shows that a powerful session does not guarantee durable remission.
 - Difficult, confusing, grandiose, or destabilizing experiences need careful interpretation rather than automatic endorsement.
-- Writing and next-day discussion can preserve material for reflection without requiring immediate life decisions.
+- Writing, next-day discussion, environmental change, relationships, daily behavior, and continuing support can preserve and test material without requiring immediate life decisions.
 - Integration remains subordinate to clinical screening, legal context, crisis support, and compound-specific evidence.
 
 ## Evidence
@@ -41,13 +44,14 @@ The solo psilocybin episode reinforces this bridge by defining the target as ada
 - Adaptive-learning boundary - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] says neuroplastic change is not automatically therapeutic and includes follow-up among the variables that shape outcome.
 - Early integration protocol - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] describes end-of-session discussion, same-night writing, and a supportive next-day meeting linked to the treated problem.
 - Decision-delay boundary - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] advises against major relationship or employment decisions immediately after a session.
+- Life-restructuring case - [[how-to-make-yourself-unbreakable-dj-shipley-scim4854936060]] describes social pruning, marriage repair, daily standards, advocacy, and peer support after supervised treatment while rejecting a cure-all frame.
 
 ## Counterevidence & Qualifications
-The sources do not establish one validated integration protocol, dose, duration, practitioner credential, or causal contribution to clinical outcome. Meditation or spiritual practice is not universally suitable and does not replace psychiatric or emergency care. Integration language can also overinterpret drug effects or encourage unsupported certainty, so experiences should be evaluated against functioning, evidence, relationships, safety, and time.
+The sources do not establish one validated integration protocol, dose, duration, practitioner credential, or causal contribution to clinical outcome. Shipley's account combines ibogaine, 5-MeO-DMT, medical support, relationship change, environmental change, medication change, and continued routine, so the contribution of any one element cannot be isolated. Meditation or spiritual practice is not universally suitable and does not replace psychiatric or emergency care. Integration language can also overinterpret drug effects or encourage unsupported certainty, so experiences should be evaluated against functioning, evidence, relationships, safety, and time.
 
 ## What Changed
-- Added same-night writing and next-day supportive review as a concrete early integration sequence.
-- Added a delay boundary for major decisions made under post-session salience or conviction.
+- Added life restructuring, relationship repair, social environment, and peer support as a participant-described integration case.
+- Preserved the boundary between personal improvement testimony and general clinical efficacy.
 
 ## Related Concepts
 - [[PsychedelicTherapyMechanism]] - acute and contextual process whose effects integration attempts to carry forward.
@@ -56,3 +60,4 @@ The sources do not establish one validated integration protocol, dose, duration,
 - [[MemoryReconsolidationPsychiatry]] - possible route for updating emotionally charged material after supported re-exposure.
 - [[PsychedelicClinicalSupervisionBoundary]] - safety and evidence constraint on integration claims.
 - [[PsychedelicIdentityDisruption]] - adjacent risk when intense change destabilizes values, obligations, or continuity.
+- [[MentalPosture]] - daily preparation and relationship practice that can carry change into ordinary life.

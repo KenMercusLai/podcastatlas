@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13047
+wiki_total_pages: 13048
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "DivisionByZero"
     title: "Division by Zero"
     url: "/wiki/entities/divisionbyzero/"
+  - key: "DJShipley"
+    title: "DJ Shipley"
+    url: "/wiki/entities/djshipley/"
   - key: "DJI"
     title: "DJI / 大疆"
     url: "/wiki/entities/dji/"
