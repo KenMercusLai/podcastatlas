@@ -19870,9 +19870,9 @@
       "url": "/wiki/concepts/assassinationaccesscredential/"
     },
     "AssassinationReprisalTradeoff": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltpExjdbtJPCQOhufhFktot5Hnhz [ltpExjdbtJPCQOhufhFktot5Hnhz].md",
@@ -19880,9 +19880,16 @@
           "show": "怪东西Weird History",
           "title": "32 二战中的行刺：刺杀纳粹魔头海德里希，刺杀汉奸陈箓",
           "url": "/wiki/sources/32-erzhanzhong-de-xingci-cisha-nacui-motou-haidelixi-cisha-hanjian-chenlu-ltpexjdbtjpcqohufhfktot5hnhz/"
+        },
+        {
+          "episode_file": "GLT8552699883 [GLT8552699883].md",
+          "key": "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883",
+          "show": "The Rest Is History",
+          "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+          "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/assassinationreprisaltradeoff/"
     },
     "AssemblyOfVizille": {
@@ -54752,9 +54759,9 @@
       "url": "/wiki/concepts/counterdronelayereddefense/"
     },
     "CounterinsurgencyLegitimacyTrap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -54769,9 +54776,16 @@
           "show": "The Rest Is History",
           "title": "700. The Troubles: Bloody Sunday (Part 4)",
           "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        },
+        {
+          "episode_file": "GLT8552699883 [GLT8552699883].md",
+          "key": "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883",
+          "show": "The Rest Is History",
+          "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+          "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
     },
     "CounterterrorismPowersRepurposing": {
@@ -56651,6 +56665,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/crocs/"
+    },
+    "CrokeParkBloodySunday1920": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8552699883 [GLT8552699883].md",
+          "key": "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883",
+          "show": "The Rest Is History",
+          "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+          "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/crokeparkbloodysunday1920/"
     },
     "CrossApplicationAgentValueCapture": {
       "episode_count": 1,
@@ -133084,6 +133114,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/irishvolunteers/"
     },
+    "IrishWarOfIndependence": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8552699883 [GLT8552699883].md",
+          "key": "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883",
+          "show": "The Rest Is History",
+          "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+          "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
+        },
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/irishwarofindependence/"
+    },
     "IrkutskAntiPlagueResearchInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -174928,9 +174981,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -174959,6 +175012,13 @@
           "show": "The Rest Is History",
           "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
           "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        },
+        {
+          "episode_file": "GLT8552699883 [GLT8552699883].md",
+          "key": "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883",
+          "show": "The Rest Is History",
+          "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+          "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
         }
       ],
       "updated": "2026-10-11",

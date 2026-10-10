@@ -5,41 +5,55 @@ tags: [counterinsurgency, legitimacy, conflict]
 sources:
   - 699-the-troubles-return-of-the-ira-part-3-glt9519811642
   - 700-the-troubles-bloody-sunday-part-4-glt3909829334
-last_updated: 2026-08-27
+  - 578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 # Counterinsurgency Legitimacy Trap
 
 ## Definition
-Counterinsurgency legitimacy trap is the pattern where a security action meant to restore order damages the political legitimacy needed to isolate armed groups, so tactical force strengthens the insurgent narrative.
+
+Counterinsurgency legitimacy trap is the pattern where security action meant to restore order damages the political legitimacy needed to isolate armed groups, so tactical coercion strengthens the insurgent narrative or makes settlement more attractive than continued force.
 
 ## Current Synthesis
-The Troubles sources now show the trap in three escalating forms. The [[FallsCurfew]] finds weapons but damages Catholic trust through curfew, searches, arrests, and alleged soldier misconduct. [[OperationDemetrius]] attempts to break republican violence but uses weak intelligence, arrests Catholics only, and is followed by detention-abuse allegations. [[BloodySunday]] is the most severe form: soldiers kill unarmed civilians during a march, the later [[SavilleInquiry]] rejects the sniper-fire justification, and the [[ProvisionalIRA]] gains recruits, money, and guns from the outrage.
+
+The Irish cases now show the trap across two periods. In 1920, a planned Croke Park cordon and search became firing on civilians after IRA assassinations that morning. Official claims that Irish gunmen and crowd panic caused the deaths were contradicted by later evidence, while wider reprisals damaged Britain's reputation without producing decisive victory in the [[IrishWarOfIndependence]].
+
+During [[TheTroubles]], the [[FallsCurfew]] found weapons but damaged Catholic trust; [[OperationDemetrius]] used poor intelligence, arrested Catholics only, and was followed by detention-abuse allegations. [[BloodySunday|Bloody Sunday in 1972]] became the most severe later form: soldiers killed unarmed civilians, the [[SavilleInquiry]] rejected the sniper-fire justification, and the [[ProvisionalIRA]] gained recruits, money, and guns from the outrage. Across both eras, operational purpose cannot protect legitimacy when indiscriminate force and false explanation redefine the action publicly.
 
 ## Key Claims
-- Tactical success can become strategic failure when the target community experiences the operation as collective punishment.
-- Poor intelligence, uneven application, or excessive force can make security policy appear sectarian even when leaders claim security necessity.
-- Abuse allegations, detention practices, and contested official explanations can supply an armed group with a stronger recruitment story than propaganda alone.
-- Legitimacy damage compounds when an initially welcomed force comes to be seen as a combatant or oppressor.
-- Official inquiries and apologies matter because delayed truth can keep the legitimacy wound open for decades.
+
+- Tactical security purpose can become strategic failure when the target community experiences an operation as collective punishment.
+- Poor intelligence, uneven application, mistaken targeting, or excessive force can make state policy appear arbitrary or sectarian.
+- Civilian leisure and protest spaces magnify legitimacy loss when security operations turn them into killing grounds.
+- Contested or false official explanations compound the original harm by making accountability itself part of the conflict.
+- Legitimacy damage can strengthen armed recruitment, international criticism, or pressure for political settlement without giving insurgents military victory.
+- Later inquiries and record releases matter because delayed correction can keep the legitimacy wound open for decades.
 
 ## Evidence
-- Falls Curfew case: [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] says weapons were found, but curfew, searches, arrests, and conduct allegations damaged Catholic trust in the British Army.
-- Internment case: [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] says Operation Demetrius used stale RUC files, arrested Catholics only, triggered violence and displacement, and fed the Provisional IRA narrative.
-- Bloody Sunday case: [[700-the-troubles-bloody-sunday-part-4-glt3909829334]] says paratroopers killed 13 unarmed civilians and that Saville found no evidence for the claimed sniper threat.
-- Recruitment blowback: [[700-the-troubles-bloody-sunday-part-4-glt3909829334]] says Bloody Sunday increased Provisional IRA recruits, money, and guns and damaged Britain's reputation in Ireland and America.
+
+- **1920 reprisal and cover-up:** [[578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883]] describes firing on Croke Park spectators without compelling evidence of initial fire from inside and contrasts Hamar Greenwood's account with later counter-evidence.
+- **1920 strategic limit:** [[578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883]] connects reprisals and reputational damage to a military stalemate that moved toward truce and negotiation rather than clear victory.
+- **Falls Curfew and internment:** [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] says weapon recovery did not prevent trust loss, while stale intelligence, Catholic-only arrests, and abuse allegations made internment a legitimacy disaster.
+- **1972 Bloody Sunday:** [[700-the-troubles-bloody-sunday-part-4-glt3909829334]] says paratroopers killed unarmed civilians, Saville rejected the claimed sniper threat, and the Provisional IRA gained recruits, money, and guns.
 
 ## Counterevidence & Qualifications
-The trap does not mean every security action is operationally empty. The Falls Curfew did find weapons, and British leaders feared withdrawal could lead to civil war. The concept instead warns that coercive gains can be strategically overwhelmed when target communities read the action as collective punishment, state denial, or sectarian force.
+
+The trap does not mean every security action is operationally empty, every insurgent claim is true, or every conflict turns on public opinion alone. The Falls Curfew found weapons, some people involved in the 1920 morning attacks reportedly attended the Croke Park match, and British leaders in both periods faced genuine armed violence. The concept instead identifies how indiscriminate or poorly controlled force, weak intelligence, and defensive official narratives can overwhelm narrower security gains. The 1920 and 1972 events share a mechanism and name but remain distinct in actors, institutions, evidence, and political context.
 
 ## What Changed
-- Added Bloody Sunday as the strongest current example of tactical force producing strategic blowback.
-- Added delayed inquiry and official apology as part of how legitimacy damage is later reassessed.
+
+- Extended the concept backward from the Troubles to the 1920 Croke Park massacre and War of Independence stalemate.
+- Added civilian leisure space and official cover-up as distinct legitimacy multipliers.
+- Clarified that legitimacy failure can push negotiation even when neither side has won militarily.
 
 ## Related Concepts
-- [[StatePolicingLegitimacyCrisis]] - earlier policing legitimacy failure that counterinsurgency inherits.
-- [[InternmentWithoutTrial]] - detention policy that sharpens the trap.
+
+- [[AssassinationReprisalTradeoff]] - targeted insurgent violence and state retaliation that precede or intensify the trap.
+- [[CrokeParkBloodySunday1920]] - 1920 case of reprisal, civilian killing, and disputed official explanation.
+- [[StatePolicingLegitimacyCrisis]] - policing failure that counterinsurgency inherits.
+- [[InternmentWithoutTrial]] - detention policy that sharpened the later trap.
 - [[SectarianSecurityDilemma]] - communal fear mechanism intensified by one-sided security action.
 - [[ParamilitarySpoilerViolence]] - armed-group behavior strengthened when state legitimacy collapses.
-- [[NorthernIrelandDirectRule]] - governance response after legitimacy failure overwhelms Stormont.
+- [[NorthernIrelandDirectRule]] - governance response after later legitimacy failure overwhelmed Stormont.

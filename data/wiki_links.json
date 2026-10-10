@@ -3687,6 +3687,10 @@
     "title": "570. Hannibal: The Invasion of Italy (Part 3)",
     "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
   },
+  "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883": {
+    "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
+    "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
+  },
   "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865": {
     "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
     "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
@@ -23002,6 +23006,10 @@
   "Crocs": {
     "title": "Crocs",
     "url": "/wiki/entities/crocs/"
+  },
+  "CrokeParkBloodySunday1920": {
+    "title": "Croke Park Bloody Sunday (1920)",
+    "url": "/wiki/entities/crokeparkbloodysunday1920/"
   },
   "CropCircleDebunking": {
     "title": "Crop Circle Debunking",
@@ -45114,6 +45122,10 @@
   "IrishVolunteers": {
     "title": "Irish Volunteers",
     "url": "/wiki/entities/irishvolunteers/"
+  },
+  "IrishWarOfIndependence": {
+    "title": "Irish War of Independence",
+    "url": "/wiki/entities/irishwarofindependence/"
   },
   "IrkutskAntiPlagueResearchInstitute": {
     "title": "Irkutsk Anti-Plague Research Institute",

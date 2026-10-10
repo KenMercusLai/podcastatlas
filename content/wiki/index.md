@@ -4492,10 +4492,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 - [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
+- [578. The Irish War of Independence: Bloody Sunday (Part 3)](sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883.md) — The Rest Is History on the 1920 IRA assassinations, Croke Park massacre, Dublin Castle killings, official cover-up, military stalemate, and route to truce.
 - [579. The Irish War of Independence: Showdown in London (Part 4)](sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865.md) — The Rest Is History on the Anglo-Irish Treaty negotiations, asymmetric bargaining, dominion status, the oath, partition, and the split that led toward civil war.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
+- [Irish War of Independence](entities/IrishWarOfIndependence.md) — Intelligence, guerrilla, legitimacy, and political conflict that moved from military stalemate to truce and treaty negotiation.
 - [Harold McGee](entities/HaroldMcGee.md) — Food-science writer connecting experimental kitchen practice, chemistry, culinary history, and sensory culture.
 - [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
 - [Yuvika Sharma](entities/YuvikaSharma.md) — Data and AI practitioner and community co-founder connecting bias control, risk-tiered oversight, trust, and representation.

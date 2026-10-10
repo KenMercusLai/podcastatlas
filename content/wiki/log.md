@@ -35249,3 +35249,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 578. The Irish War of Independence: Bloody Sunday (Part 3)
+
+Added source `578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883`; created disambiguated [[CrokeParkBloodySunday1920]] and conflict-level [[IrishWarOfIndependence]] pages; and resynthesized [[MichaelCollinsIrishRevolutionary]], [[AssassinationReprisalTradeoff]], and [[CounterinsurgencyLegitimacyTrap]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the 21 November 1920 IRA operation, Croke Park firing, and Dublin Castle killings form a connected assassination-reprisal sequence, but neither the heroic “Cairo Gang” shorthand nor the official British account survives the episode's evidential qualifications. Mixed target status, mistaken killings, family and participant trauma, civilian deaths, cover-up, and wider reprisals coexist with an under-armed IRA and a British state unable to obtain decisive military or political victory, helping move the conflict toward truce and asymmetric negotiation. No settled contradiction was adopted. The 1920 event is kept distinct from [[BloodySunday|Bloody Sunday in Derry in 1972]]; target identities, individual responsibility, planning, force totals, and counterfactual Home Rule claims remain source-scoped. Broad de Valera, Lloyd George, George V, IRA, Ireland, United Kingdom, and show pages were kept closed because the focused event, conflict, actor, and cross-case concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,416 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
