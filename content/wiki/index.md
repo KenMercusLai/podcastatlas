@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Control Your Cortisol & Overcome Burnout](sources/scim6521025308-scim6521025308.md) — Huberman Lab episode on cortisol's circadian timing, HPA-axis feedback, two source-described burnout patterns, routine levers, and medical and supplement boundaries.
 - [VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对](sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi.md) — 这病说来话长 episode on anonymity, displaced aggression, insecurity, recognition needs, empathy limits, diagnostic caution, and proportionate online-conflict de-escalation.
 - [589. Mary, Queen of Scots: Downfall (Part 6)](sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788.md) — The Rest Is History on Bothwell's coercive rise, Mary's deposition and failed restoration, the casket letters, English detention, and the distinction between uncertain murder guilt and failed rule.
 - [Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller](sources/scim9219615286-scim9219615286.md) — Condensed Huberman Lab interview on local and systemic exercise heat, flow-preserving glabrous-skin cooling, thermal-sensation traps, and evidence boundaries.
@@ -17654,6 +17655,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Cortisol Timing and Burnout](concepts/CortisolTimingAndBurnout.md) — Timing-first model linking post-waking activation, evening down-regulation, burnout-like patterns, and clinical boundaries.
 - [Online Aggression Psychology / 网络攻击心理机制](concepts/OnlineAggressionPsychology.md) — Multi-mechanism account of online hostility that preserves behavioral accountability and diagnostic boundaries.
 - [Online Conflict De-escalation / 网络冲突降温](concepts/OnlineConflictDeescalation.md) — Proportional response ladder joining delay, perspective, boundaries, moderation, documentation, and legal escalation.
 - [Monarchical Deposition Legitimacy](concepts/MonarchicalDepositionLegitimacy.md) — The gap between practical removal, coerced abdication, and accepted transfer of sovereignty.

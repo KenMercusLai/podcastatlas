@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10295
+wiki_total_pages: 10296
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2489,6 +2489,9 @@ wiki_pages:
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"
+  - key: "CortisolTimingAndBurnout"
+    title: "Cortisol Timing and Burnout"
+    url: "/wiki/concepts/cortisoltimingandburnout/"
   - key: "CosmeticProcedureExpectationManagement"
     title: "Cosmetic Procedure Expectation Management / 医美期望管理"
     url: "/wiki/concepts/cosmeticprocedureexpectationmanagement/"

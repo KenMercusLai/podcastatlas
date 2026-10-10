@@ -54119,6 +54119,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/corticostriatalthalamicloop/"
     },
+    "CortisolTimingAndBurnout": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6521025308 [SCIM6521025308].md",
+          "key": "scim6521025308-scim6521025308",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Cortisol & Overcome Burnout",
+          "url": "/wiki/sources/scim6521025308-scim6521025308/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/cortisoltimingandburnout/"
+    },
     "CosmeticProcedureExpectationManagement": {
       "episode_count": 3,
       "show_count": 1,

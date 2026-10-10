@@ -35001,3 +35001,11 @@ Added source `vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | How to Control Your Cortisol & Overcome Burnout
+
+Added source `scim6521025308-scim6521025308` and created [[CortisolTimingAndBurnout]]. Core synthesis: cortisol is treated as a feedback-regulated, time-dependent energy signal whose preferred rhythm rises strongly after waking, declines through the day, and remains low before and during early sleep; the episode's morning-overactivation/late-exhaustion and morning-exhaustion/night-stress patterns are practical heuristics rather than diagnoses. No settled contradiction was adopted. The episode overlaps earlier cortisol-and-adrenaline material rather than independently confirming it, and exact hormone changes, exercise multipliers, food, supplement, grapefruit, licorice, cold, aging, menopause, immune, cognition, and body-composition claims remain source-scoped public education. Broad [[AndrewHuberman]], [[HubermanLab]], light, caffeine, breathing, NSDR, sleep, and stress pages were kept closed because the focused source and new concept capture the durable addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,384 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
