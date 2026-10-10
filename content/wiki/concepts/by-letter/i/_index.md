@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10170
+wiki_total_pages: 10171
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "InstitutionalKnowledgeTransfer"
     title: "Institutional Knowledge Transfer"
     url: "/wiki/concepts/institutionalknowledgetransfer/"
+  - key: "InstitutionalLegacyReinvention"
+    title: "Institutional Legacy Reinvention"
+    url: "/wiki/concepts/institutionallegacyreinvention/"
   - key: "InstitutionalMechanismSatire"
     title: "Institutional Mechanism Satire"
     url: "/wiki/concepts/institutionalmechanismsatire/"

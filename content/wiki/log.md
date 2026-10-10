@@ -34269,3 +34269,11 @@ Added source `083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyo
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | RIHC: Disney's Legacy, with Bob Iger
+
+Added source `rihc-disneys-legacy-with-bob-iger-glt6989183827`; created [[ShanghaiDisneyland]], [[StarWarsGalaxysEdge|Star Wars: Galaxy's Edge]], and [[InstitutionalLegacyReinvention]]; and resynthesized [[BobIger]], [[Disneyland]], and [[ThemeParkAsMediaPlatform]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Disney stewardship preserves generative values without turning founder-era practice into a veto; parks make stories physical through attractions, hospitality, technology, and visitor participation; and recognizable nostalgia can coexist with continued invention and culturally adapted expansion. No settled contradiction was adopted. The interview is broadly celebratory, so visitor rankings, corporate intent, audience happiness, localization success, and Walt Disney's hypothetical approval remain participant claims, while labor, affordability, acquisition integration, streaming economics, and controversy receive limited scrutiny. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,291 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

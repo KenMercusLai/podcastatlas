@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13012
+wiki_total_pages: 13014
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "ShangYang"
     title: "Shang Yang / 商鞅"
     url: "/wiki/entities/shangyang/"
+  - key: "ShanghaiDisneyland"
+    title: "Shanghai Disneyland"
+    url: "/wiki/entities/shanghaidisneyland/"
   - key: "ShanghaiGoldExchange"
     title: "Shanghai Gold Exchange / 上海黄金交易所"
     url: "/wiki/entities/shanghaigoldexchange/"
@@ -1454,6 +1457,9 @@ wiki_pages:
   - key: "StarWars"
     title: "Star Wars"
     url: "/wiki/entities/starwars/"
+  - key: "StarWarsGalaxysEdge"
+    title: "Star Wars: Galaxy's Edge"
+    url: "/wiki/entities/starwarsgalaxysedge/"
   - key: "Starbase"
     title: "Starbase"
     url: "/wiki/entities/starbase/"

@@ -4363,8 +4363,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛](sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0.md) — 这病说来话长 episode on sleep as active nighttime maintenance, multidimensional quality, systemic effects, routine and environment changes, tracker anxiety, and clinical escalation.
 
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
+- [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
 
 ## Entities
+- [Shanghai Disneyland](entities/ShanghaiDisneyland.md) — Disney theme park presented by Bob Iger as an “authentically Disney, but distinctly Chinese” localization case.
+- [Star Wars: Galaxy's Edge](entities/StarWarsGalaxysEdge.md) — Disney park land that translates Star Wars mythology into a technology-enabled physical story environment.
 - [Jennifer Groh](entities/JenniferGroh.md) — Duke sensory neuroscientist studying how gaze, hearing, vision, and context are combined into spatial perception and thought.
 - [刘谦 / Liu Qian (Magician)](entities/LiuQianMagician.md) — Experience-centered magician and writer-director whose profile joins premium positioning, mass-media fame, live-show design, failure recovery, and audience-serving ethics.
 - [Katherine Ashley](entities/KatherineAshley.md) — Elizabeth I's learned evangelical governess, long-term attendant, and household protector compromised by Thomas Seymour's schemes.
@@ -17437,6 +17440,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Institutional Legacy Reinvention](concepts/InstitutionalLegacyReinvention.md) — Stewardship model that preserves generative values and audience trust without freezing inherited products, rules, or methods.
 - [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — evaluates fictional pairs through recognition, reciprocity, timing, agency, mutual flourishing, and bounded counterfactual substitution.
 - [Ensemble Battle Convergence / 群像大战汇流](concepts/EnsembleBattleConvergence.md) — explains battle climaxes that resolve multiple character arcs, identities, relationships, abilities, and moral choices at once.
 - [Cross-Modal Spatial Remapping](concepts/CrossModalSpatialRemapping.md) — Dynamic reconciliation of auditory location, gaze, visual source evidence, and saccade-linked ear signals.

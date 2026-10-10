@@ -28641,6 +28641,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bobhawke/"
     },
+    "BobIger": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+          "key": "disney-the-renaissance-and-the-empire-1",
+          "show": "Acquired",
+          "title": "Disney: The Renaissance and the Empire",
+          "url": "/wiki/sources/disney-the-renaissance-and-the-empire-1/"
+        },
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/bobiger/"
+    },
     "BobMackie": {
       "episode_count": 1,
       "show_count": 1,
@@ -65407,9 +65430,9 @@
       "url": "/wiki/entities/discoveryloop/"
     },
     "Disneyland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
@@ -65424,9 +65447,16 @@
           "show": "The Rest Is History",
           "title": "61. California",
           "url": "/wiki/sources/61-california-glt2438679240/"
+        },
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/disneyland/"
     },
     "DisneylandParis": {
@@ -126042,6 +126072,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/institutionalfailurepunitivefantasy/"
+    },
+    "InstitutionalLegacyReinvention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/institutionallegacyreinvention/"
     },
     "InstitutionalLoyaltyOverPersonalLoyalty": {
       "episode_count": 2,
@@ -225133,6 +225179,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/shanghaiartdecoarchitecture/"
     },
+    "ShanghaiDisneyland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/shanghaidisneyland/"
+    },
     "ShanghaiEastHospital": {
       "episode_count": 3,
       "show_count": 1,
@@ -235450,6 +235512,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/starwars/"
+    },
+    "StarWarsGalaxysEdge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/starwarsgalaxysedge/"
     },
     "Starbucks": {
       "episode_count": 6,
@@ -246840,6 +246918,50 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/themeledbeveragedesign/"
+    },
+    "ThemeParkAsMediaPlatform": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
+          "key": "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628",
+          "show": "声动早咖啡",
+          "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
+          "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
+        },
+        {
+          "episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+          "key": "disney-the-renaissance-and-the-empire-1",
+          "show": "Acquired",
+          "title": "Disney: The Renaissance and the Empire",
+          "url": "/wiki/sources/disney-the-renaissance-and-the-empire-1/"
+        },
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "GLT6989183827 [GLT6989183827].md",
+          "key": "rihc-disneys-legacy-with-bob-iger-glt6989183827",
+          "show": "The Rest Is History",
+          "title": "RIHC: Disney's Legacy, with Bob Iger",
+          "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/themeparkasmediaplatform/"
     },
     "ThemePlotCoherence": {
       "episode_count": 6,
