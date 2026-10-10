@@ -29028,9 +29028,9 @@
       "url": "/wiki/entities/blackmores/"
     },
     "Blackpool": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9970456316 [GLT9970456316].md",
@@ -29045,9 +29045,16 @@
           "show": "The Rest Is History",
           "title": "223. Sun, Sea, and Sex",
           "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        },
+        {
+          "episode_file": "GLT8788233490 [GLT8788233490].md",
+          "key": "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490",
+          "show": "The Rest Is History",
+          "title": "583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal",
+          "url": "/wiki/sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/blackpool/"
     },
     "BlackstradConcertAttire": {
@@ -38429,9 +38436,9 @@
       "url": "/wiki/concepts/celebritycostumeportraiture/"
     },
     "CelebrityFolkDevilMoralPanic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -38453,9 +38460,16 @@
           "show": "The Rest Is History",
           "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
           "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        },
+        {
+          "episode_file": "GLT8788233490 [GLT8788233490].md",
+          "key": "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490",
+          "show": "The Rest Is History",
+          "title": "583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal",
+          "url": "/wiki/sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/celebrityfolkdevilmoralpanic/"
     },
     "CelebrityImageAfterlife": {
@@ -50299,6 +50313,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/commercializedreligiousadaptation/"
+    },
+    "CommercializedScandalSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8788233490 [GLT8788233490].md",
+          "key": "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490",
+          "show": "The Rest Is History",
+          "title": "583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal",
+          "url": "/wiki/sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/commercializedscandalspectacle/"
     },
     "CommitmentBiasPublicPromise": {
       "episode_count": 1,
@@ -112566,6 +112596,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/harlandandwolff/"
+    },
+    "HaroldDavidson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8788233490 [GLT8788233490].md",
+          "key": "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490",
+          "show": "The Rest Is History",
+          "title": "583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal",
+          "url": "/wiki/sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/harolddavidson/"
     },
     "HaroldGodwinson": {
       "episode_count": 7,

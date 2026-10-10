@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13149
+wiki_total_pages: 13150
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "HaroldBloom"
     title: "Harold Bloom / 哈罗德·布鲁姆"
     url: "/wiki/entities/haroldbloom/"
+  - key: "HaroldDavidson"
+    title: "Harold Davidson"
+    url: "/wiki/entities/harolddavidson/"
   - key: "HaroldGodwinson"
     title: "Harold Godwinson"
     url: "/wiki/entities/haroldgodwinson/"

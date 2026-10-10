@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10310
+wiki_total_pages: 10311
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1742,6 +1742,9 @@ wiki_pages:
   - key: "CommercializedReligiousAdaptation"
     title: "Commercialized Religious Adaptation"
     url: "/wiki/concepts/commercializedreligiousadaptation/"
+  - key: "CommercializedScandalSpectacle"
+    title: "Commercialized Scandal Spectacle"
+    url: "/wiki/concepts/commercializedscandalspectacle/"
   - key: "CommitmentBiasPublicPromise"
     title: "Commitment Bias Public Promise"
     url: "/wiki/concepts/commitmentbiaspublicpromise/"

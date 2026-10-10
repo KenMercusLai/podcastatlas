@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3375
+topic_total_pages: 3376
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -784,6 +784,9 @@ topic_concepts:
   - key: "CommercializedReligiousAdaptation"
     title: "Commercialized Religious Adaptation"
     url: "/wiki/concepts/commercializedreligiousadaptation/"
+  - key: "CommercializedScandalSpectacle"
+    title: "Commercialized Scandal Spectacle"
+    url: "/wiki/concepts/commercializedscandalspectacle/"
   - key: "CommunicationRitualParticipation"
     title: "Communication as Ritual Participation / 传播作为仪式参与"
     url: "/wiki/concepts/communicationritualparticipation/"

@@ -6284,6 +6284,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252": [
     {
       "key": "history",
@@ -25054,6 +25061,13 @@
     }
   ],
   "CommercializedReligiousAdaptation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CommercializedScandalSpectacle": [
     {
       "key": "culture",
       "label": "Culture",

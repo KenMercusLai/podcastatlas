@@ -35133,3 +35133,11 @@ Added source `scim4003346356-scim4003346356` and resynthesized [[EatingDisorderM
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal
+
+Added source `583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490`; created [[HaroldDavidson]] and [[CommercializedScandalSpectacle]]; and resynthesized [[Blackpool]] and [[CelebrityFolkDevilMoralPanic]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Davidson's genuine assistance, theatrical self-conception, parish neglect, intrusive conduct, teenage contacts, hostile investigation, disputed testimony, church conviction, and later importuning resist both simple innocence and a fully settled predatory profile; tabloid accessibility then made his fallen clerical status marketable through Blackpool and Skegness attractions whose novelty escalated toward bodily danger and survived his death. No settled contradiction was adopted. Witness reliability, photographic staging, private motives, exact conduct, annual contact counts, tabloid-origin claims, audience appetite, and the medical cause of death remain source-scoped. Broad church, show, and interwar-Britain pages were kept closed because the focused source, actor, resort, moral-panic, and spectacle pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,401 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
