@@ -4,7 +4,8 @@ type: concept
 tags: [anorexia, eating-disorders, habits, reward, psychiatry]
 sources:
   - scim4349715199-scim4349715199
-last_updated: 2026-10-03
+  - scim4003346356-scim4003346356
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Anorexia habit-reward dysregulation is the episode's model in which restrictive food choices become learned, reflexive actions reinforced by relief or reward from avoiding feared foods, even while undernutrition disrupts endocrine, cardiovascular, reproductive, skeletal, and cognitive function.
 
 ## Current Synthesis
-[[scim4349715199-scim4349715199]] does not describe anorexia as simple appetite absence, vanity, or conscious refusal. People may accurately identify fat and calorie content yet repeatedly select low-calorie foods through evaluation-to-habit pathways, with avoidance itself acquiring reward value. Puberty, changing body perception, cognitive inflexibility, detail fixation, anxiety, and altered energy signals may shape this process, but the source does not establish one necessary cause.
+[[scim4349715199-scim4349715199]] and its [[scim4003346356-scim4003346356|Essentials edit]] do not describe anorexia as simple appetite absence, vanity, or conscious refusal. People may accurately identify fat and calorie content yet repeatedly select low-calorie foods through evaluation-to-habit pathways, with avoidance itself acquiring reward value. Puberty, changing body perception, cognitive inflexibility, detail fixation, anxiety, and altered energy signals may shape this process, but the sources do not establish one necessary cause.
 
 This model explains why factual nutrition knowledge is insufficient. Intervention may require medical stabilization plus recognition of cues, internal states, and action sequences; cognitive or family-based support; and gradual replacement of restrictive routines. Resistance training, virtual-reality work, medication, or psychedelic trials remain adjunctive or experimental ideas, not substitutes for qualified eating-disorder care.
 
@@ -27,16 +28,15 @@ This model explains why factual nutrition knowledge is insufficient. Interventio
 - Severe restriction and over-exercise can be medically dangerous and require multidisciplinary care.
 
 ## Evidence
-- Evaluation and habit - [[scim4349715199-scim4349715199]] attributes cited food-choice work to Joanna Steinglass and links calorie evaluation with prefrontal and dorsolateral-striatal habit processes.
-- Reinforcement and flexibility - [[scim4349715199-scim4349715199]] describes reward from avoidance, weak central coherence, set-shifting difficulty, and cue awareness as candidate maintenance and intervention mechanisms.
-- Systemic harm - [[scim4349715199-scim4349715199]] connects severe undernutrition with muscle and bone loss, bradycardia, low blood pressure, reproductive suppression, and gut or immune disruption.
+- Evaluation and habit - [[scim4349715199-scim4349715199]] provides the fuller study context, while [[scim4003346356-scim4003346356]] repeats the link between calorie evaluation, automatic food choice, and restrictive habit.
+- Reinforcement and flexibility - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] describe reward from avoidance, weak central coherence, set-shifting difficulty, and cue awareness as candidate maintenance and intervention mechanisms.
+- Systemic harm - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] connect severe undernutrition with muscle and bone loss, bradycardia, low blood pressure, reproductive suppression, and gut or immune disruption.
 
 ## Counterevidence & Qualifications
-The page reflects a mechanistic podcast synthesis rather than a complete clinical consensus. Brain-region assignments, cognitive traits, leptin effects, puberty timing, mortality ranking, relapse rate, resistance-training benefit, virtual-reality interpretation, and medication or psychedelic results remain source-scoped. Habit language must not erase conscious distress, social context, trauma, comorbidity, access to food, or individual variation, and it must not be used for self-diagnosis.
+The page reflects a full podcast episode and its condensed edit rather than independent confirmation or a complete clinical consensus. Brain-region assignments, cognitive traits, leptin effects, puberty timing, mortality ranking, relapse rate, resistance-training benefit, virtual-reality interpretation, and medication or psychedelic results remain source-scoped. Habit language must not erase conscious distress, social context, trauma, comorbidity, access to food, or individual variation, and it must not be used for self-diagnosis.
 
 ## What Changed
-- Created a diagnosis-specific model joining restrictive habits, avoidance reward, body perception, and medical consequences.
-- Kept proposed cognitive and neural mechanisms separate from established individualized treatment.
+- Added the Essentials edit as overlapping provenance; the restrictive habit-reward model and clinical boundary are unchanged.
 
 ## Related Concepts
 - [[EatingDisorderMultisystemModel]] - umbrella model that prevents habit circuitry from becoming a single-cause explanation.

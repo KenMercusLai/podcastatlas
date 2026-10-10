@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging](sources/scim4003346356-scim4003346356.md) — Condensed Huberman Lab episode on appetite physiology, anorexic habit-reward dysregulation, binge-purge impulse control, flexible healthy eating, and qualified-care boundaries.
 - [Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy](sources/scim3176341770-scim3176341770.md) — Huberman Lab interview on kratom product forms, dependence, 7-hydroxymitragynine, respiratory and interaction risks, natural-product pharmacology, and regulatory uncertainty.
 - [VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击](sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev.md) — 这病说来话长 episode on Chinese oncology visibility, clinical benefit, payment capacity, biotech partnerships, execution speed, and the remaining original-innovation gap.
 - [584. Mary, Queen of Scots: Birth of a Legend (Part 1)](sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252.md) — The Rest Is History on Mary's infant accession, the Treaty of Greenwich, the Rough Wooing, Pinkie, and the French intervention that carried her abroad.

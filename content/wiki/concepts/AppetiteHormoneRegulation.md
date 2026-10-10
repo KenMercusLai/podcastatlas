@@ -9,7 +9,8 @@ sources:
   - scim4349715199-scim4349715199
   - scim1789507430-scim1789507430
   - eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767
-last_updated: 2026-10-04
+  - scim4003346356-scim4003346356
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,7 @@ An anticipatory layer appears in [[PredictiveHomeostaticControl]]. AGRP activity
 
 The practical implication remains modest. Meal regularity, nutrient composition, food form, food order, movement, and whole-food defaults may change some inputs, but the sources do not establish a universal schedule, nutrient target, supplement, beverage, medication, or diet. Weight-loss counter-regulation, severe obesity, diabetes, eating disorders, and prescription treatment remain clinical rather than self-directed protocol questions.
 
-The eating-disorder source makes the boundary more explicit. Stomach distension, glucose, nutrients, POMC and AGRP neurons, and leptin help describe ordinary energy regulation and consequences of undernutrition, but they do not reduce anorexia, bulimia, or binge eating to one appetite defect. In severe restriction, low energy reserves and low leptin are linked to reproductive suppression, yet leptin administration is not presented as a general anorexia treatment; reward, habit, impulse control, cognition, and perception remain separate clinical layers.
+The full eating-disorder source and its [[scim4003346356-scim4003346356|Essentials edit]] make the boundary more explicit. Stomach distension, glucose, nutrients, POMC and AGRP neurons, and leptin help describe ordinary energy regulation and consequences of undernutrition, but they do not reduce anorexia, bulimia, or binge eating to one appetite defect. In severe restriction, low energy reserves and low leptin are linked to reproductive suppression, yet leptin administration is not presented as a general anorexia treatment; reward, habit, impulse control, cognition, and perception remain separate clinical layers.
 
 Sleep state is another input in [[SleepNutritionBidirectionality]]. In one controlled crossover study summarized by [[MariePierreStOnge]], short sleep raised ghrelin in men, reduced GLP-1 in women, increased food-reward activation, and was followed by greater self-selected intake. This supports a pathway from insufficient sleep to appetite and reward dysregulation, but the sex-specific hormone pattern and reported effect sizes remain study-specific rather than universal.
 
@@ -50,15 +51,14 @@ Sleep state is another input in [[SleepNutritionBidirectionality]]. In one contr
 - Rapid intestinal confirmation - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] describes neuropod-cell neurotransmission to vagal neurons and reports optogenetic mouse experiments changing sugar-versus-sweetener preference.
 - Anatomical rewiring - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] reports rapid changes in hormones, food preference, diabetes, and sensory function after bariatric procedures, while leaving the causal partition unresolved.
 - Sensory integration - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] links oral touch and texture signals with insular processing of enjoyment, avoidance, satiety, and continued eating.
-- Eating-disorder boundary - [[scim4349715199-scim4349715199]] links stomach, glucose, nutrient, POMC, AGRP, and leptin signals to energy regulation while showing why those signals do not by themselves explain restrictive or binge-purge disorders.
+- Eating-disorder boundary - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] link stomach, glucose, nutrient, POMC, AGRP, and leptin signals to energy regulation while showing why those signals do not by themselves explain restrictive or binge-purge disorders.
 - Sleep-state input - [[eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767]] reports sex-specific ghrelin and GLP-1 changes, stronger food-reward responses, and greater self-selected intake during sleep restriction.
 
 ## Counterevidence & Qualifications
-The sources are condensed public education and do not provide complete primary references, effect sizes, or methods. The full 2021 hunger episode and its later Essentials edit are overlapping provenance rather than independent confirmation. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. The short-sleep study's sex-specific hormone pattern, neuroimaging response, and calorie estimate require replication and should not be generalized to every person or duration of sleep loss. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
+The sources are public education and do not provide complete primary references, effect sizes, or methods. The full 2021 hunger episode and its later Essentials edit, and the full 2021 eating-disorder episode and its Essentials edit, are overlapping provenance rather than independent confirmation. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. The short-sleep study's sex-specific hormone pattern, neuroimaging response, and calorie estimate require replication and should not be generalized to every person or duration of sleep loss. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
 
 ## What Changed
-- Added sleep restriction as a qualified input into appetite hormones, food reward, and spontaneous intake.
-- Preserved the reported male ghrelin and female GLP-1 pattern as study-specific rather than a universal sex rule.
+- Added the eating-disorder Essentials edit as overlapping provenance; the multisystem appetite model and eating-disorder boundary are unchanged.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower neural and gut-reinforcement account for sugar seeking.

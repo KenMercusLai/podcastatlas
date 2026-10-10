@@ -4,7 +4,8 @@ type: concept
 tags: [bulimia, binge-eating, eating-disorders, impulse-control, reward]
 sources:
   - scim4349715199-scim4349715199
-last_updated: 2026-10-03
+  - scim4003346356-scim4003346356
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Binge-purging impulse-control model is the episode's account of recurrent binge behavior as a state in which reward-driven action and reduced inhibitory control override satiety and explicit intentions, with bulimia distinguished by compensatory behaviors such as vomiting or laxative use.
 
 ## Current Synthesis
-[[scim4349715199-scim4349715199]] centers the subjective loss of control rather than ordinary overeating. Binge eating disorder and bulimia share episodes of rapid excessive intake, shame, and difficulty stopping, but typical purging distinguishes the bulimic cycle and creates additional medical harm. This aligns with [[LossOfControlEating]] while retaining the diagnostic importance of episode size, recurrence, compensatory behavior, distress, and clinical assessment.
+[[scim4349715199-scim4349715199]] and its [[scim4003346356-scim4003346356|Essentials edit]] center the subjective loss of control rather than ordinary overeating. Binge eating disorder and bulimia share episodes of rapid excessive intake, shame, and difficulty stopping, but typical purging distinguishes the bulimic cycle and creates additional medical harm. This aligns with [[LossOfControlEating]] while retaining the diagnostic importance of episode size, recurrence, compensatory behavior, distress, and clinical assessment.
 
 The proposed mechanism combines reward sensitivity with weaker prefrontal inhibition rather than treating the behavior as ignorance or lack of concern. Medication and [[ResponsiveDeepBrainStimulation]] target different parts of that system and carry very different maturity and risk. They remain supervised treatment or research contexts alongside behavioral care, not self-directed ways to suppress appetite.
 
@@ -27,16 +28,15 @@ The proposed mechanism combines reward sensitivity with weaker prefrontal inhibi
 - Medication and neuromodulation claims require diagnosis, medical supervision, and evidence-specific caution.
 
 ## Evidence
-- Phenotype distinction - [[scim4349715199-scim4349715199]] separates binge eating without typical purging from bulimic binge-purge cycles and describes both as loss-of-control states.
-- Circuit framing - [[scim4349715199-scim4349715199]] links the disorders to reward, impulsivity, weaker prefrontal inhibition, and overridden satiety.
-- Treatment range - [[scim4349715199-scim4349715199]] discusses serotonergic drugs, ADHD-related medication, bupropion, and Casey Halpern's invasive DBS work under medical or experimental boundaries.
+- Phenotype distinction - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] separate binge eating without typical purging from bulimic binge-purge cycles and describe both as loss-of-control states.
+- Circuit framing - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] link the disorders to reward, impulsivity, weaker prefrontal inhibition, and overridden satiety.
+- Treatment range - both releases discuss serotonergic and ADHD-related medication under clinical supervision; [[scim4349715199-scim4349715199]] alone adds bupropion and Casey Halpern's invasive DBS work.
 
 ## Counterevidence & Qualifications
-The episode is not a diagnostic standard and does not establish that every binge episode shares one circuit mechanism. Exact intake multiples, episode duration, brain-region assignments, drug effects, microbiome harms, and early DBS outcomes remain source-scoped. Appetite, emotional eating, occasional overeating, body weight, and obesity alone do not establish bulimia or binge eating disorder, and medication or purging-related risks require qualified clinical care.
+The full episode and condensed edit are overlapping provenance, not independent confirmation or a diagnostic standard, and they do not establish that every binge episode shares one circuit mechanism. Exact intake multiples, episode duration, brain-region assignments, drug effects, microbiome harms, and early DBS outcomes remain source-scoped. Appetite, emotional eating, occasional overeating, body weight, and obesity alone do not establish bulimia or binge eating disorder, and medication or purging-related risks require qualified clinical care.
 
 ## What Changed
-- Created a model that joins loss of control, reward, inhibitory regulation, satiety override, and compensatory behavior.
-- Preserved the distinction between shared binge mechanisms and diagnosis-specific purging.
+- Added the Essentials edit as overlapping provenance; the loss-of-control model and bulimia-versus-binge-eating distinction are unchanged.
 
 ## Related Concepts
 - [[EatingDisorderMultisystemModel]] - umbrella model that adds homeostatic, developmental, psychological, and social context.
