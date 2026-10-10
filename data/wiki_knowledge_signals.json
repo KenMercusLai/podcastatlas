@@ -65418,9 +65418,9 @@
       "url": "/wiki/concepts/diocletianicmilitaryfiscalreconstruction/"
     },
     "Dionysus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
@@ -65435,9 +65435,16 @@
           "show": "The Rest Is History",
           "title": "59. The World Cup of Gods - Part 2",
           "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/dionysus/"
     },
     "Dior": {
@@ -81368,6 +81375,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/eurasianmilitarytechnologyexchange/"
     },
+    "Euripides": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/euripides/"
+    },
     "EuropeanAmazonProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -94060,9 +94090,9 @@
       "url": "/wiki/entities/friedrichmerz/"
     },
     "FriedrichNietzsche": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "20.德米安：该隐的额头上，那神秘的印记 [567302734].md",
@@ -94105,9 +94135,16 @@
           "show": "The Rest Is History",
           "title": "631. Wagner: LIVE at the Royal Albert Hall",
           "url": "/wiki/sources/631-wagner-live-at-the-royal-albert-hall-glt7214350401/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/friedrichnietzsche/"
     },
     "FriedrichPaulus": {
@@ -104252,9 +104289,9 @@
       "url": "/wiki/concepts/greeddrivennarrativetrap/"
     },
     "GreekMythology": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -104318,10 +104355,40 @@
           "show": "The Rest Is History",
           "title": "605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)",
           "url": "/wiki/sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/greekmythology/"
+    },
+    "GreekTragedy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/greektragedy/"
     },
     "GreekWarOfIndependence": {
       "episode_count": 1,
@@ -178157,6 +178224,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/mustafakemalataturk/"
     },
+    "MuthosLogosTension": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇） [725317514].md",
+          "key": "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514",
+          "show": "蜜獾吃书",
+          "title": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）",
+          "url": "/wiki/sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/muthoslogostension/"
+    },
     "MutilatingPunishmentAbolition": {
       "episode_count": 1,
       "show_count": 1,
@@ -247894,6 +247984,29 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/theanxiousgeneration/"
     },
+    "TheBacchae": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/thebacchae/"
+    },
     "TheBackroomsFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -272510,6 +272623,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/xpeng/"
+    },
+    "Xenophanes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7123647684 [GLT7123647684].md",
+          "key": "604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684",
+          "show": "The Rest Is History",
+          "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
+          "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/xenophanes/"
     },
     "XerxesI": {
       "episode_count": 2,

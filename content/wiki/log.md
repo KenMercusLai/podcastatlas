@@ -34578,3 +34578,11 @@ Added source `enhance-your-learning-speed-health-using-neuroscience-based-protoc
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 604. Greek Myths: Sex, Drugs & Tragedy (Part 3)
+
+Added source `604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684`; created [[Xenophanes]]; and resynthesized [[Dionysus]], [[TheBacchae]], [[Euripides]], [[FriedrichNietzsche]], [[GreekTragedy]], [[GreekMythology]], and [[MuthosLogosTension]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Dionysus is both ecstatic and civic, with Athenian festival and theatre institutions channeling forces that *The Bacchae* renders morally terrifying; the 405 BCE performance makes family, ritual, leadership, and civic ruin legible beside Athens' approaching defeat; and philosophical criticism contests anthropomorphic poetry without cleanly abolishing myth, cult, theology, or newly invented philosophical myth. No settled contradiction was adopted. Maenadic practice, sanctuary dating, festival rites, the Venerable Ones' sexual symbolism, wartime audience response, Euripides' beliefs, Nietzsche's technical account, and the broad mythos/logos transition remain episode-attributed or interpretive. Broad [[Plato]], [[TheRestIsHistory]], Athens, and one-off mythic-character profiles were kept closed because the source note and focused pages capture the durable additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,331 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

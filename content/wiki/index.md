@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [604. Greek Myths: Sex, Drugs & Tragedy (Part 3)](sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684.md) — The Rest Is History on Dionysus, The Bacchae, Athenian festival and wartime civic crisis, Nietzsche, and the qualified tension between myth and philosophy.
 - [078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路](sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9.md) — 纸醉金迷FM以折龙山水道、树中运输机和蛇藤玉棺开启《云南虫谷》，分析层叠险境、虚实暧昧、铁三角协作与盗墓伦理。
 - [605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)](sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137.md) — The Rest Is History on Apollonius's Argonautica, Jason and Medea, Alexandrian scholarship, Hellenistic religion, and the qualified transition from myth to mythology.
 - [Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss](sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030.md) — Condensed Huberman Lab interview on long- and short-term mate choice, multidimensional mate value, deception, jealousy, stalking, and conflict-risk boundaries.
@@ -14295,11 +14296,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Boyle / 罗伯特·波义耳](entities/RobertBoyle.md) — Experimental natural philosopher used in the source's Hobbes-Boyle contrast over experiment and authority.
 - [《美狄亚》 / Medea](entities/MedeaPlay.md) — Euripides tragedy read through Greek tragedy, female speech, revenge, child murder, and unresolved moral shock.
 - [Medea / 美狄亚](entities/MedeaCharacter.md) — Colchian princess and magical helper whose variable tradition moves from indispensable quest partner to catastrophic tragic avenger.
-- [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian treated by the source as modern-feeling for his psychological hesitation, hero deconstruction, and moral unease.
+- [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian joining psychological hesitation and hero deconstruction to divine terror, theological doubt, and civic crisis.
 - [Jason / 伊阿宋](entities/Jason.md) — Dispossessed quest leader whose success depends on Medea before his later betrayal collapses the autonomous heroic image.
 - [Golden Fleece / 金羊毛](entities/GoldenFleece.md) — Guarded Colchian quest object linking Phrixus and Helle, Jason's voyage, Medea's aid, and Euripidean tragedy.
-- [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god joining wine, theatre, mystery, ecstasy, sexuality, violence, and the social danger of repressed release.
-- [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy used as a comparison for freedom, ecstasy, violence, and order collapse.
+- [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god joining wine, masks, theatre, civic festival, ecstasy, sexuality, reversal, and destructive punishment.
+- [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy of divine recognition, manipulated perception, kin-killing, ritual failure, and civic ruin.
+- [Xenophanes](entities/Xenophanes.md) — Ancient Greek critic of anthropomorphic gods whose revised theology complicates a simple myth-to-reason transition.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
 - [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
 - [Sichuan / 四川](entities/Sichuan.md) — Regional setting for Sichuan food, Chengdu market, huajiao, culinary translation, and EP245's internal technical renewal of strong cuisine.
@@ -15029,7 +15031,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rudolf Erich Raspe](entities/RudolfErichRaspe.md) — Early writer of the Munchausen stories, presented as a scholar and fraudster whose life complicates the boundary between knowledge and trickery.
 - [《扒马褂》](entities/BaMaGua.md) — Chinese crosstalk comparison for structured comic boasting and tall-tale explanation.
 - [Arthur Schopenhauer / 叔本华](entities/ArthurSchopenhauer.md) — Philosopher linked by the episode to the Munchausen self-rescue motif and the limits of reason.
-- [Friedrich Nietzsche / 尼采](entities/FriedrichNietzsche.md) — Philosopher whose current profile spans self-grounding, literary and workplace interpretation, Wagner criticism, and the public–academic reception of Thus Spoke Zarathustra.
+- [Friedrich Nietzsche / 尼采](entities/FriedrichNietzsche.md) — Philosopher whose profile spans the Apollonian-Dionysian contrast, self-grounding, literary and workplace interpretation, Wagner criticism, and Zarathustra reception.
 - [Ludwig Wittgenstein / 维特根斯坦](entities/LudwigWittgenstein.md) — Philosopher linked by the episode to language's difficulty explaining the world from within the world.
 - [Karl Popper / 卡尔·波普尔](entities/KarlPopper.md) — Philosopher linked by the episode to justification problems summarized as circle, regress, or arbitrary stop.
 - [哈迪亚·海达里](entities/HadiyaHaidari.md) — Afghan woman author whose Persian stories in 《一个阿富汗女人的来信》 ground the episode's first-person writing, constrained agency, and publication-as-support themes.
@@ -25177,7 +25179,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Homer Question](concepts/HomerQuestion.md) — Authorship, oral transmission, and historical-memory problem around Homer, The Iliad, and The Odyssey.
 - [Oral-Formulaic Epic](concepts/OralFormulaicEpic.md) — Homeric craft frame for fixed epithets, repeated prophecy, active absence, and oral performance technique.
 - [Homeric Mortality Reading](concepts/HomericMortalityReading.md) — Episode 96 frame for reading The Iliad as anti-abstract war writing centered on named deaths, grief, and one-time life.
-- [Muthos Logos Tension](concepts/MuthosLogosTension.md) — Frame for why story and poetry can carry truths about death, fate, and grief that pure argument compresses.
+- [Muthos Logos Tension](concepts/MuthosLogosTension.md) — Tension between authoritative story and reasoned account across narrative embodiment, divine criticism, education, cult, and philosophical remythologizing.
 - [Urban Legend / 都市传说](concepts/UrbanLegend.md) — Contemporary folklore form where anonymous, believed-as-true stories attach to modern life and encode anxieties about bodies, technology, institutions, brands, and hidden power.
 - [Creative Producer Mediation](concepts/CreativeProducerMediation.md) — Producer role that turns difficult artistic ambition into fundable, finishable, releasable work through rights, persuasion, story judgment, and publicity.
 - [Animation Studio Creative Ecology](concepts/AnimationStudioCreativeEcology.md) — Frame for animation output as the result of relationships, labor systems, funding, release pressure, rivalry, and business afterlives.
@@ -25210,7 +25212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Circadian Rhythm Experimentation](concepts/CircadianRhythmExperimentation.md) — Biological timing branch around de Mairan's mimosa and Kleitman's Mammoth Cave experiment.
 - [Doppler Effect](concepts/DopplerEffect.md) — Physics case in the source, used to show the apparatus difficulty of verifying moving-source sound predictions.
 - [Experimental Failure As Knowledge](concepts/ExperimentalFailureAsKnowledge.md) — Pattern where failed, lucky, or inconclusive experiments still clarify limits when interpreted honestly.
-- [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
+- [Greek Tragedy](concepts/GreekTragedy.md) — Dionysian civic performance using masks, music, chorus, and inherited myth to test family, ritual, leadership, war, and order.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
 - [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern sorting women's revenge by its relation to order, from Medea's anti-political rupture and Corday's assassination to Lady Xu's targeted Danyang restoration.
 - [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system centered on Chengdu, huajiao, street food, markets, offal, texture, learned appetite, and internal technical renewal.
@@ -25664,7 +25666,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Comic Moral Inversion](concepts/BlackComicMoralInversion.md) — Comic pattern where serious moral categories are inverted so respectable duty, haunting, or social convention becomes absurd but still ethically charged.
 - [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
 - [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.
-- [Greek Mythology](concepts/GreekMythology.md) — Layered story field spanning place memory, epic, tragedy, comparative patterns, double determination, and Hellenistic scholarly recombination.
+- [Greek Mythology](concepts/GreekMythology.md) — Layered field spanning place memory, epic, civic cult and tragedy, philosophical criticism, double determination, and Hellenistic recombination.
 - [Island Extinction After Human Arrival](concepts/IslandExtinctionAfterHumanArrival.md) — Island-ecology pattern where human arrival, hunting, habitat change, or introduced pressures can eliminate island-adapted animals.
 - [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.
 - [Character Form Evolution](concepts/CharacterFormEvolution.md) — Pattern where Chinese characters change across oracle-bone, bronze, seal, clerical, traditional, simplified, and modern forms.
