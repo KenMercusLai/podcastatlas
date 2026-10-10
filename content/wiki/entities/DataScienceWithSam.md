@@ -28,7 +28,8 @@ sources:
   - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
   - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
   - ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south
-last_updated: 2026-10-06
+  - ep-24-redefining-data-science-in-the-generative-ai-era
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,7 +39,7 @@ knowledge_schema: synthesis-v1
 Data Science With Sam is a source-scoped podcast series in which [[SamDataScienceWithSam|Sam]] interviews practitioners about data science, AI, professional development, and the organizational conditions that turn models into useful decisions.
 
 ## Current Profile
-Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work, AI drug discovery, and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP31 adds geographic participation, public-private research partnerships, and connectivity; EP32 applies the same grounded philosophy to biotechnology through clinical efficacy and toxicity; EP33 does so for agents through bounded tasks, checkable outcomes, and human escalation.
+Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work, AI drug discovery, international AI governance, and the changing data-scientist role. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP24 makes that method explicit for generative AI: choose the model for the problem, trace the application around nondeterministic output, and evaluate prompts and hallucinations through datasets and experiments rather than a few preferred examples.
 
 ## Key Characteristics
 - Uses practitioner interviews to connect technical methods with concrete institutional workflows and constraints.
@@ -64,7 +65,7 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job]] adds agentic workflows, bounded reliability, human escalation, task displacement, and fail-safe design to the show's applied-work frame.
 
 ### Human capability, education, and communication
-- [[ep-3-demystifying-the-imposter-syndrome]], [[ep-9-chatgpt-and-education-systems]], and [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] connect self-calibration, teacher and worker literacy, prompt skill, domain translation, and review.
+- [[ep-3-demystifying-the-imposter-syndrome]], [[ep-9-chatgpt-and-education-systems]], [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]], and [[ep-24-redefining-data-science-in-the-generative-ai-era]] connect self-calibration, teacher and worker literacy, prompt skill, domain translation, statistical evaluation, and review.
 - [[ep-12-insightful-conversation-with-a-football-analytics-professional]] and [[ep-13-soccer-analytics-through-the-lens-of-coaching]] show that analytics becomes useful through game knowledge, stakeholder language, trust, and contextual judgment.
 
 ### Everyday and privacy-first AI
@@ -82,8 +83,9 @@ Across the available episodes, the show treats data science as applied, interdis
 - EP31's announced commitments and India's proposed bridge role lack primary documents or outcome evidence in the supplied source.
 
 ## What Changed
-- Added EP31's India and Global South geography to the show's international-governance profile.
-- Preserved a distinction between announced investment and demonstrated equitable participation.
+- Added EP24's distinction between model-level explainability and application-level auditability.
+- Added statistical experiment discipline and prompt-overfitting risk to the show's data-science career profile.
+- Preserved problem-led model choice rather than treating generative AI as a universal default.
 
 ## Relationships
 - [[SamDataScienceWithSam]] - host who frames the show's cross-domain practitioner conversations.
@@ -99,3 +101,6 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[AgentWorkforceRedesign]] - workforce branch distinguishing task redistribution from whole-job replacement.
 - [[AIClinicalValidationInDrugDiscovery]] - biotechnology branch where human trials test model-prioritized candidates.
 - [[GlobalSouthAIParticipation]] - EP31 branch connecting geography, infrastructure, research priorities, and distribution of AI benefits.
+- [[ClaireLungo]] - EP24 guest connecting data-science foundations to generative-AI practice.
+- [[GenerativeAIApplicationAuditability]] - EP24 operating frame for tracing nondeterministic applications.
+- [[GenerativeAIEvaluationDiscipline]] - EP24 evaluation frame joining prompts to datasets, metrics, and experiments.

@@ -19807,6 +19807,10 @@
     "title": "Claire Isabel Webb",
     "url": "/wiki/entities/claireisabelwebb/"
   },
+  "ClaireLungo": {
+    "title": "Claire Lungo",
+    "url": "/wiki/entities/clairelungo/"
+  },
   "Clarisonic": {
     "title": "Clarisonic",
     "url": "/wiki/entities/clarisonic/"
@@ -35754,6 +35758,14 @@
   "GenerationalTechnologyBridge": {
     "title": "Generational Technology Bridge",
     "url": "/wiki/concepts/generationaltechnologybridge/"
+  },
+  "GenerativeAIApplicationAuditability": {
+    "title": "Generative AI Application Auditability",
+    "url": "/wiki/concepts/generativeaiapplicationauditability/"
+  },
+  "GenerativeAIEvaluationDiscipline": {
+    "title": "Generative AI Evaluation Discipline",
+    "url": "/wiki/concepts/generativeaievaluationdiscipline/"
   },
   "GenerativeAIHollywoodProduction": {
     "title": "Generative AI Hollywood Production",
@@ -99402,6 +99414,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-24-redefining-data-science-in-the-generative-ai-era": {
+    "title": "EP 24: Redefining Data Science in the Generative AI Era",
+    "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
   },
   "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational": {
     "title": "EP 25: AI Revolution in Marketing: From Traditional to Transformational",

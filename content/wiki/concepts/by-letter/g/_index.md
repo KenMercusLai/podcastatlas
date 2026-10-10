@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10267
+wiki_total_pages: 10269
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -185,6 +185,12 @@ wiki_pages:
   - key: "GenerationalTechnologyBridge"
     title: "Generational Technology Bridge"
     url: "/wiki/concepts/generationaltechnologybridge/"
+  - key: "GenerativeAIApplicationAuditability"
+    title: "Generative AI Application Auditability"
+    url: "/wiki/concepts/generativeaiapplicationauditability/"
+  - key: "GenerativeAIEvaluationDiscipline"
+    title: "Generative AI Evaluation Discipline"
+    url: "/wiki/concepts/generativeaievaluationdiscipline/"
   - key: "GenerativeAIHollywoodProduction"
     title: "Generative AI Hollywood Production"
     url: "/wiki/concepts/generativeaihollywoodproduction/"

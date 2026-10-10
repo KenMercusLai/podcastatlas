@@ -27,7 +27,8 @@ sources:
   - ep-35-who-actually-controls-ai-the-governance-gap-explained
   - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
   - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
-last_updated: 2026-10-06
+  - ep-24-redefining-data-science-in-the-generative-ai-era
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,7 +38,7 @@ knowledge_schema: synthesis-v1
 Sam is the first-name-only host of [[DataScienceWithSam]] in the available sources. His interviews connect data science and AI to the people, workflows, institutions, and judgment required for applied use.
 
 ## Current Profile
-Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP32 applies that stance to drug discovery by putting chemists, biologists, toxicity, and clinical outcomes around model predictions; EP33 applies it to agents through bounded tasks and explicit checks; EP35 broadens it into public accountability for frontier deployment.
+Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP24 applies that stance to the generative-AI data-scientist role through model choice, domain-language prompting, application auditability, and statistical evaluation; EP32 applies it to drug discovery through clinical evidence; EP33 applies it to agents through bounded tasks and explicit checks; EP35 broadens it into public accountability for frontier deployment.
 
 ## Key Characteristics
 - Translates technical topics into workflow, stakeholder, and career questions for a broad audience.
@@ -58,7 +59,7 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-7-data-science-mlops]], and [[ep-14-what-is-observability]] move from model ideas into security handoff, deployment, feedback, telemetry, and business impact.
 
 ### Learning, communication, and domain translation
-- [[ep-3-demystifying-the-imposter-syndrome]], [[ep-9-chatgpt-and-education-systems]], and [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] show Sam framing self-calibration, teacher literacy, and generative-AI fluency as learnable professional practices.
+- [[ep-3-demystifying-the-imposter-syndrome]], [[ep-9-chatgpt-and-education-systems]], [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]], and [[ep-24-redefining-data-science-in-the-generative-ai-era]] show Sam framing self-calibration, teacher literacy, domain-aware prompting, and generative-AI evaluation as learnable professional practices.
 - [[ep-12-insightful-conversation-with-a-football-analytics-professional]] and [[ep-13-soccer-analytics-through-the-lens-of-coaching]] use football to test how analysts communicate with coaches and translate metrics into action.
 
 ### AI value, adoption, and trust
@@ -76,8 +77,9 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - Some questions introduce examples or concerns rather than settled factual claims, so product and outcome details remain source-scoped.
 
 ## What Changed
-- Added Sam's clinical-evidence framing for AI-assisted drug discovery.
-- Preserved his cross-domain emphasis on verification, bounded claims, and responsible human judgment.
+- Added Sam's EP24 framing of changing data-science roles through concrete work rather than job titles.
+- Added the explainability-versus-auditability and prompt-experiment questions to his recurring verification profile.
+- Preserved his cross-domain emphasis on bounded claims and responsible human judgment.
 
 ## Relationships
 - [[DataScienceWithSam]] - podcast series hosted by Sam in the available sources.
@@ -90,3 +92,6 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - [[AgentReliabilityVerification]] - EP33 expression of Sam's recurring verification and accountability boundary.
 - [[AgentWorkforceRedesign]] - EP33 labor framing around changing task bundles and retained judgment.
 - [[AIClinicalValidationInDrugDiscovery]] - EP32 boundary between model prediction and clinical evidence.
+- [[ClaireLungo]] - EP24 guest discussing generative-AI practice and data-science careers.
+- [[GenerativeAIApplicationAuditability]] - EP24 distinction between tracing a system and fully explaining a model.
+- [[GenerativeAIEvaluationDiscipline]] - EP24 use of statistical thinking to evaluate probabilistic systems.

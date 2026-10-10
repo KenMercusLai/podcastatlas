@@ -4436,6 +4436,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
+- [EP 24: Redefining Data Science in the Generative AI Era](sources/ep-24-redefining-data-science-in-the-generative-ai-era.md) — Data Science With Sam interview with Claire Lungo on durable data-science foundations, problem-led model choice, domain-aware prompting, application auditability, and statistical evaluation.
 
 ## Entities
 - [First Battle of the Marne](entities/FirstBattleOfMarne.md) — September 1914 Allied counterattack that stopped Germany's advance and redirected the Western Front toward entrenchment.
@@ -17595,6 +17596,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Radomir Putnik](entities/RadomirPutnik.md) — Serbian commander whose defensive patience, logistics, and December counterattack helped defeat three Austro-Hungarian invasions in 1914.
 - [Oskar Potiorek](entities/OskarPotiorek.md) — Austro-Hungarian commander whose repeated Serbian invasions joined failed accountability to operational overreach and mass loss.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
+- [Claire Lungo](entities/ClaireLungo.md) — Data scientist connecting statistics and ML foundations to model choice, domain-aware prompting, application auditability, and disciplined GenAI evaluation.
 
 ## Concepts
 - [Taxis of the Marne](concepts/TaxisOfTheMarne.md) — Real but operationally limited emergency transport transformed into a patriotic legend of civilian mobilization.
@@ -27942,5 +27944,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marketing Insight-to-Action Latency](concepts/MarketingInsightToActionLatency.md) — Time from usable performance evidence to an accountable campaign change, bounded by validity and review requirements.
 
 - [Battle of Tannenberg (1914)](concepts/BattleOfTannenberg1914.md) — German encirclement in East Prussia whose operational success created a durable command legend and political memory.
+- [Generative AI Application Auditability](concepts/GenerativeAIApplicationAuditability.md) — Traceability of inputs, outputs, routing, data steps, retrieval, and model calls around a nondeterministic AI application.
+- [Generative AI Evaluation Discipline](concepts/GenerativeAIEvaluationDiscipline.md) — Use of hypotheses, representative datasets, repeatable experiments, and metrics to evaluate probabilistic systems beyond selected examples.
 
 ## Syntheses

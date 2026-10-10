@@ -46108,6 +46108,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/claireclairmont/"
     },
+    "ClaireLungo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/clairelungo/"
+    },
     "Clarisonic": {
       "episode_count": 1,
       "show_count": 1,
@@ -60053,9 +60069,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -60231,10 +60247,47 @@
           "show": "Data Science With Sam",
           "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
           "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        },
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/datasciencewithsam/"
+    },
+    "DataScientistGenerativeAIFluency": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
+          "key": "ep-16-data-decoded-navigating-the-ai-revolution",
+          "show": "Data Science With Sam",
+          "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+          "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+        },
+        {
+          "episode_file": "5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128 [5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8387e9].md",
+          "key": "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+          "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/datascientistgenerativeaifluency/"
     },
     "DataSovereignty": {
       "episode_count": 4,
@@ -99373,6 +99426,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/generationalsocialismappeal/"
     },
+    "GenerativeAIApplicationAuditability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/generativeaiapplicationauditability/"
+    },
+    "GenerativeAIEvaluationDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/generativeaievaluationdiscipline/"
+    },
     "GenerativeAIHollywoodProduction": {
       "episode_count": 2,
       "show_count": 2,
@@ -99439,6 +99524,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/generativeaimusic/"
+    },
+    "GenerativeAIUseCaseTriage": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128 [5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8387e9].md",
+          "key": "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+          "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/generativeaiusecasetriage/"
     },
     "GenerativeDrive": {
       "episode_count": 6,
@@ -207195,6 +207303,43 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/promotionstatusrelationshiprupture/"
     },
+    "PromptAsIntentTransmission": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128 [5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8387e9].md",
+          "key": "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+          "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+          "key": "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask",
+          "show": "无人知晓",
+          "title": "E45 孟岩对话李继刚：人何以自处",
+          "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+        },
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/promptasintenttransmission/"
+    },
     "PropagandaAesthetics": {
       "episode_count": 2,
       "show_count": 2,
@@ -223678,9 +223823,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -223849,9 +223994,16 @@
           "show": "Data Science With Sam",
           "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
           "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        },
+        {
+          "episode_file": "AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128 [AFD3EA31F2213284DFC6616ECA1EDACC~8584420_2026-08-10-214920-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8390b7].md",
+          "key": "ep-24-redefining-data-science-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 24: Redefining Data Science in the Generative AI Era",
+          "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {

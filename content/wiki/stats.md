@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10267
-- Entities: 13094
-- Sources: 4359
-- Total wiki content pages: 27721
+- Concepts: 10269
+- Entities: 13095
+- Sources: 4360
+- Total wiki content pages: 27725
 
 ## Links
-- Wiki link references: 646567
-- Unique wiki link targets: 27747
-- Missing targets: 35
+- Wiki link references: 646610
+- Unique wiki link targets: 27752
+- Missing targets: 36
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4359
-- Matched episodes: 4359
+- Source pages: 4360
+- Matched episodes: 4360
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -54,6 +54,8 @@ outputs: ["html"]
   - `content/wiki/log.md`
 - `[[CodeReviewSkillShift]]`
   - `content/wiki/concepts/AIGeneratedPullRequestBurden.md`
+- `[[Comet]]`
+  - `content/wiki/entities/ClaireLungo.md`
 - `[[CommercializationExecution]]`
   - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
