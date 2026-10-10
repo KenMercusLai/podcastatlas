@@ -7,7 +7,8 @@ sources:
   - zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u
   - mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4
   - zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211
-last_updated: 2026-09-24
+  - zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ The current sources present the show as a high-information, voice-centered podca
 
 The lower-half anniversary episode adds the AI boundary. AI is welcomed as an assistant for recommendations, search, organization, and operational details, but the show resists handing over script voice, argument progression, and speaker reaction to AI because those choices define the program's identity. Together, the sources frame the show as a small, long-running creator project balancing writing ideals, listener trust, platform feedback, tipping, release rhythm, and the exhaustion created by repeated principled choices.
 
-The regular reading episodes show the show's ordinary synthesis mode. One moves across romance, cinema, and epistemology by turning separate articles into a shared question about how individuals now bear more choice, interpretation, and trust-allocation work. The later consumption episode connects self-storage, online shopping, sophistication, and advertising through the way goods and styles carry imagined future selves. It also shows the host's preference for qualified distinctions over moral binaries: influenced desire can remain real, imitation can become learning, and pleasure need not claim to be happiness.
+The regular reading episodes show the show's ordinary synthesis mode. One moves across romance, cinema, and epistemology by turning separate articles into a shared question about how individuals now bear more choice, interpretation, and trust-allocation work. The consumption episode connects self-storage, online shopping, sophistication, and advertising through the way goods and styles carry imagined future selves. The latest source moves from aviation security and pilot disclosure to weekends, housework, employment gaps, and personality through coupled benefit and cost. Together they show the host's preference for qualified distinctions over moral binaries: influenced desire can remain real, imitation can become learning, pleasure need not claim to be happiness, and protection or freedom can create new vulnerabilities without becoming worthless.
 
 ## Key Characteristics
 - It is a Chinese podcast centered on reading, interpreting, and discussing articles through a recognizable host voice.
@@ -43,14 +44,16 @@ The regular reading episodes show the show's ordinary synthesis mode. One moves 
 - Sustainability: [[zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u]] describes tipping, platform data, comments, release regularity, and the wish to send listeners back to original articles; [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] turns the discussion toward correct but expensive choices, recognition envy, subscriber scale, and reducing the friction of continuing.
 - Regular synthesis practice: [[mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4]] connects romance slump, premium cinema formats, and epistemic authority through the common burden of individual judgment.
 - Desire and consumption synthesis: [[zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211]] connects storage, shopping indecision, sophistication, and advertising through future-self projection, imitation, marketing mechanism, and the moralization of pleasure.
+- Risk and ambivalence synthesis: [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] connects aviation safety, pilot disclosure, finite leave, employment gaps, and personality through risk substitution and same-cause attraction and aversion.
 
 ## Qualifications
-This page is source-limited to two fifth-anniversary episodes and two regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources.
+This page is source-limited to two fifth-anniversary episodes and three regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, and historical claims in the latest regular episode remain source-attributed rather than independently verified.
 
 ## What Changed
 - Added the upper-half anniversary source, shifting the profile from only AI workflow toward the show's five-year creative history, writing identity, and independent-podcast sustainability.
 - Added a regular reading episode showing how the show synthesizes multiple articles into a shared judgment problem.
 - Added the consumption episode, extending that synthesis profile to desire, identity, advertising, and qualified moral judgment.
+- Added the risk-and-rest episode, extending the profile to institutional trade-offs, time control, and causally coupled ambivalence.
 
 ## Relationships
 - [[PodcastProductionWorkflow]] - the source's detailed script, recommendation, and show-notes workflow grounds the show's production profile.
@@ -63,3 +66,5 @@ This page is source-limited to two fifth-anniversary episodes and two regular re
 - [[CognitiveTrustAllocation]] - the regular episode turns article reading into a question of delegated judgment and knowledge trust.
 - [[ConsumptionMoralization]] - the later regular episode separates ordinary pleasure and financial judgment from total moral verdicts about consumption.
 - [[ImitativeSelfFormation]] - its sophistication discussion treats cultural imitation as a possible route to learning and self-formation.
+- [[RiskRiskTradeoff]] - the latest regular episode uses aviation design and disclosure incentives to examine risk substitution.
+- [[SameCauseAttractionAversion]] - names the show's synthesis of benefits and costs produced by the same feature or boundary.

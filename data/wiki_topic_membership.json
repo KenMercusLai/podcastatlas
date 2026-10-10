@@ -74346,6 +74346,13 @@
       "url": "/topics/science/"
     }
   ],
+  "RiskRiskTradeoff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RiskSocietyBook": [
     {
       "key": "culture",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3266
+topic_total_pages: 3267
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3655,6 +3655,9 @@ topic_concepts:
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"
+  - key: "RiskRiskTradeoff"
+    title: "Risk-Risk Trade-off / 风险—风险权衡"
+    url: "/wiki/concepts/riskrisktradeoff/"
   - key: "RiverAsLivingEntity"
     title: "River As Living Entity / 河流作为生命"
     url: "/wiki/concepts/riveraslivingentity/"

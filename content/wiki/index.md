@@ -4463,6 +4463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
 - [Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca](sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900.md) — Huberman Lab interview on autism heterogeneity, patient-derived neural organoids and assembloids, transplantation, stem-cell-treatment boundaries, and Timothy syndrome translation.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
+- [总第073期：正是那令我安心的，让我感到不安](sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw.md) — 读报teleread episode connecting aviation safety, health-disclosure incentives, finite leave, employment-gap anxiety, and same-cause attraction and aversion.
 
 ## Entities
 - [Zoya Scarlatta](entities/ZoyaScarlatta.md) — B2B digital-marketing practitioner connecting predictive personalization and AI ROI to literacy, privacy, human review, and brand trust.
@@ -7658,7 +7659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
 - [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
 - [Oppenheimer](entities/OppenheimerFilm.md) — Nolan film used as the comparison for reading the Trojan Horse as an ancient destructive-tool responsibility problem.
-- [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by fifth-anniversary specials on writing, creator workflow, voice-first scripting, AI boundaries, podcast form, and long-term independent sustainability.
+- [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast linking reading, creator workflow, voice and AI boundaries to judgment, desire, risk, rest, and qualified ambivalence.
 - [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast spanning coffee origins, beverage design, consumer guidance, and beverage-business history.
 - [娃哈哈AD钙奶 / Wahaha AD Calcium Milk](entities/WahahaADCalciumMilk.md) — Wahaha children's beverage product tied to calcium/vitamin positioning, school-side channels, and durable childhood product memory.
 - [娃哈哈纯净水 / Wahaha Pure Water](entities/WahahaPureWater.md) — Wahaha bottled-water product marking the company's 1996 transition into high-frequency beverages.
@@ -23527,7 +23528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI For Science Talent / AI for Science人才](concepts/AIForScienceTalent.md) — EP266 basic-science talent pattern combining mathematics, chemistry, physics, computation, experiment, and AI-enabled discovery.
 - [T-Shaped AI Talent / AI时代T型人才](concepts/TShapedAITalent.md) — EP266 talent model combining deep domain grounding with cross-disciplinary AI and industry transfer.
 - [Vacation Shame / 休假羞耻感](concepts/VacationShame.md) — EP265 frame for guilt or unease around taking leave despite wanting rest.
-- [Work-Rest Boundary / 工作休假边界](concepts/WorkRestBoundary.md) — EP265 concept that vacation becomes rest only when workplace communication, handoff, and availability boundaries hold.
+- [Work-Rest Boundary / 工作休假边界](concepts/WorkRestBoundary.md) — Separation that turns nominal leave into usable rest through stopping authority, discretionary time, shared workload, and a credible return point.
 - [Long Vacation Recovery / 长假恢复](concepts/LongVacationRecovery.md) — EP265 recovery-curve idea that longer holidays may be needed before the body and attention loosen from work mode.
 - [Travel Sensory Recovery / 旅行中的感受力恢复](concepts/TravelSensoryRecovery.md) — EP265 account of travel restoring direct perception through nature, food, art, walking, and local place contact.
 - [Local-Life Density Travel / 生活密度旅行](concepts/LocalLifeDensityTravel.md) — EP265 alternative to packed sightseeing, emphasizing markets, libraries, neighborhoods, food, conversation, and local rhythms.
@@ -28040,5 +28041,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hardware–Software Iteration Asymmetry / 软硬件迭代不对称](concepts/HardwareSoftwareIterationAsymmetry.md) — 物理产品在设计、供应链、量产与交付累积后，比普通软件更难、更贵地纠正方向和质量错误。
 - [Software Founder Automotive Transition / 软件创始人跨界造车](concepts/SoftwareFounderAutomotiveTransition.md) — 软件创业者进入汽车行业时，把产品直觉与资本带入制造、质量、安全、工业设计和长期研发的新操作系统。
 - [AI Commitment Evidence / AI重视证据](concepts/AICommitmentEvidence.md) — 以时间、资本、人才、流程、产品整合和净结果，而非口号，判断组织是否真正重视AI。
+- [Risk-Risk Trade-off / 风险—风险权衡](concepts/RiskRiskTradeoff.md) — Systems condition where reducing one danger raises another by changing access, information, or incentives.
+- [喜恶同因 / Same-Cause Attraction and Aversion](concepts/SameCauseAttractionAversion.md) — Causal ambivalence in which a valued benefit and disliked cost arise from the same trait, boundary, or arrangement.
 
 ## Syntheses

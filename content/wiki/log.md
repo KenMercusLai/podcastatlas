@@ -35025,3 +35025,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 总第073期：正是那令我安心的，让我感到不安
+
+Added source `zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw`; created [[RiskRiskTradeoff|风险—风险权衡]] and [[SameCauseAttractionAversion|喜恶同因]]; and resynthesized [[DuBaoTeleread|读报teleread / 独报]] and [[WorkRestBoundary|工作休假边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: protective barriers and screening can redistribute risk through access and disclosure incentives; calendar leave is not usable rest when work contact, domestic labor, errands, self-improvement pressure, or uncertainty consume practical control over time; and the same feature can produce both a valued benefit and a disliked cost without making either reaction false. No settled contradiction was adopted. Flight identifiers, event chronology, survey figures, five-day-work history, disclosure effects, and the host's personal leave and gap account remain source-scoped. Broad aviation, airline, pilot, and historical-person pages were kept closed because the focused source and concepts capture the durable addition without promoting unverified secondary-reporting details. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,387 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

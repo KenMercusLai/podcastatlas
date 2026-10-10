@@ -70123,9 +70123,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -70154,9 +70154,16 @@
           "show": "读报teleread",
           "title": "总第072期：我是千禧年的孩子，我是消费主义者",
           "url": "/wiki/sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211/"
+        },
+        {
+          "episode_file": "cmv2j36hg07bm01xg92961dsw [cmv2j36hg07bm01xg92961dsw].md",
+          "key": "zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw",
+          "show": "读报teleread",
+          "title": "总第073期：正是那令我安心的，让我感到不安",
+          "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -220355,6 +220362,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
     },
+    "RiskRiskTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmv2j36hg07bm01xg92961dsw [cmv2j36hg07bm01xg92961dsw].md",
+          "key": "zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw",
+          "show": "读报teleread",
+          "title": "总第073期：正是那令我安心的，让我感到不安",
+          "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/riskrisktradeoff/"
+    },
     "RiskSocietyBook": {
       "episode_count": 1,
       "show_count": 1,
@@ -225378,6 +225401,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/samsachs/"
+    },
+    "SameCauseAttractionAversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmv2j36hg07bm01xg92961dsw [cmv2j36hg07bm01xg92961dsw].md",
+          "key": "zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw",
+          "show": "读报teleread",
+          "title": "总第073期：正是那令我安心的，让我感到不安",
+          "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/samecauseattractionaversion/"
     },
     "SameSurnameKingEnfeoffment": {
       "episode_count": 11,
@@ -274150,9 +274189,9 @@
       "url": "/wiki/concepts/workrelatedsuiciderecognition/"
     },
     "WorkRestBoundary": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
@@ -274174,9 +274213,16 @@
           "show": "无时差研究所",
           "title": "EP196-人类高效工作研究报告",
           "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        },
+        {
+          "episode_file": "cmv2j36hg07bm01xg92961dsw [cmv2j36hg07bm01xg92961dsw].md",
+          "key": "zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw",
+          "show": "读报teleread",
+          "title": "总第073期：正是那令我安心的，让我感到不安",
+          "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/workrestboundary/"
     },
     "WorkRoleTransitionRitual": {
