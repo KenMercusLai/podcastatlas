@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10284
+wiki_total_pages: 10286
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "TimestampedCommentCommunity"
     title: "Timestamped Comment Community / 时间戳评论共同体"
     url: "/wiki/concepts/timestampedcommentcommunity/"
+  - key: "TimothySyndromeTherapyTranslation"
+    title: "Timothy Syndrome Therapy Translation"
+    url: "/wiki/concepts/timothysyndrometherapytranslation/"
   - key: "TinnitusSignalBoundary"
     title: "Tinnitus Signal Boundary"
     url: "/wiki/concepts/tinnitussignalboundary/"

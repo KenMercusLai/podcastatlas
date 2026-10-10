@@ -21891,9 +21891,9 @@
       "url": "/wiki/concepts/autismashumandifference/"
     },
     "AutismBiologicalHeterogeneity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5460291325 [SCIM5460291325].md",
@@ -21908,15 +21908,22 @@
           "show": "Huberman Lab",
           "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
           "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        },
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/autismbiologicalheterogeneity/"
     },
     "AutismCureScamRisk": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "46.这世界唯一的你：请相信那朵慢慢绽放的花 [623717720].md",
@@ -21931,9 +21938,16 @@
           "show": "不合时宜",
           "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
           "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        },
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/autismcurescamrisk/"
     },
     "AutismEarlyIntervention": {
@@ -122715,6 +122729,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/humanmovementdigitaltwin/"
     },
+    "HumanNeuralOrganoidsAndAssembloids": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/humanneuralorganoidsandassembloids/"
+    },
     "HumanNeuromodulatorMeasurement": {
       "episode_count": 1,
       "show_count": 1,
@@ -195182,6 +195212,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
     },
+    "PatientDerivedOrganoids": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/patientderivedorganoids/"
+    },
     "PatientLedRareDiseaseInfrastructure": {
       "episode_count": 2,
       "show_count": 2,
@@ -228782,6 +228835,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/sergeisazonov/"
     },
+    "SergiuPasca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/sergiupasca/"
+    },
     "SeriousMentalIllnessFamilyCareBoundary": {
       "episode_count": 2,
       "show_count": 2,
@@ -254917,6 +254986,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/timingdependentdefectionleniency/"
+    },
+    "TimothySyndromeTherapyTranslation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2163574900 [SCIM2163574900].md",
+          "key": "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900",
+          "show": "Huberman Lab",
+          "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+          "url": "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/timothysyndrometherapytranslation/"
     },
     "TinnitusSignalBoundary": {
       "episode_count": 4,

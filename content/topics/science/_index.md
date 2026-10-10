@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1531
+topic_total_pages: 1534
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1120,6 +1120,9 @@ topic_concepts:
   - key: "HumanNaturePlasticity"
     title: "Human Nature Plasticity / 人性可变性"
     url: "/wiki/concepts/humannatureplasticity/"
+  - key: "HumanNeuralOrganoidsAndAssembloids"
+    title: "Human Neural Organoids and Assembloids"
+    url: "/wiki/concepts/humanneuralorganoidsandassembloids/"
   - key: "HumanNeuromodulatorMeasurement"
     title: "Human Neuromodulator Measurement"
     url: "/wiki/concepts/humanneuromodulatormeasurement/"
@@ -3302,6 +3305,9 @@ topic_entities:
   - key: "SeanMackey"
     title: "Sean Mackey"
     url: "/wiki/entities/seanmackey/"
+  - key: "SergiuPasca"
+    title: "Sergiu Pașca"
+    url: "/wiki/entities/sergiupasca/"
   - key: "ShaileshChitnis"
     title: "Shailesh Chitnis"
     url: "/wiki/entities/shaileshchitnis/"
@@ -4497,6 +4503,9 @@ topic_sources:
   - key: "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056"
     title: "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum"
     url: "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+  - key: "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900"
+    title: "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca"
+    url: "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
   - key: "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690"
     title: "Using Your Nervous System to Enhance Your Immune System"
     url: "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"

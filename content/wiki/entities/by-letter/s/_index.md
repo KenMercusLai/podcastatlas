@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13113
+wiki_total_pages: 13114
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "SergioMartinezBeltran"
     title: "Sergio Martínez-Beltrán"
     url: "/wiki/entities/sergiomartinezbeltran/"
+  - key: "SergiuPasca"
+    title: "Sergiu Pașca"
+    url: "/wiki/entities/sergiupasca/"
   - key: "ServiceNow"
     title: "ServiceNow"
     url: "/wiki/entities/servicenow/"

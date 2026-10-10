@@ -4448,8 +4448,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277.md) — Condensed Huberman Lab episode on calorie balance, circadian eating-window consistency, physiological fasting state, post-meal movement, and individualized safety boundaries.
 - [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
 - [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
+- [Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca](sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900.md) — Huberman Lab interview on autism heterogeneity, patient-derived neural organoids and assembloids, transplantation, stem-cell-treatment boundaries, and Timothy syndrome translation.
 
 ## Entities
+- [Sergiu Pașca](entities/SergiuPasca.md) — Stanford researcher using patient-derived neural models, organoids, assembloids, and transplantation to study neurodevelopment and therapeutic translation.
 - [Autohome / 汽车之家](entities/Autohome.md) — 李想从PC媒体转向汽车市场后建立的用户导向汽车信息公司，也是其产品语言和组织危机学习场域。
 - [Li Auto ONE / 理想 ONE](entities/LiAutoONE.md) — 以六座家庭场景与增程补能为核心、同时经历早期质量修正的理想汽车首款量产车。
 - [Li Auto MEGA / 理想 MEGA](entities/LiAutoMEGA.md) — 用于讨论纯电补能、私人空间、上市舆论危机与产品补救的理想汽车MPV。
@@ -17628,6 +17630,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Human Neural Organoids and Assembloids](concepts/HumanNeuralOrganoidsAndAssembloids.md) — Patient-derived, region-specific neural tissue models for development, migration, circuit formation, transplantation, and bounded preclinical inference.
+- [Timothy Syndrome Therapy Translation](concepts/TimothySyndromeTherapyTranslation.md) — Staged path from a causal calcium-channel mutation through complementary human models toward a nucleic-acid therapeutic candidate.
 - [Long-Horizon Market Iteration / 长周期市场迭代](concepts/LongHorizonMarketIteration.md) — 在长期选择的赛道中，以高频用户、市场和运营反馈持续修正产品与组织。
 - [AI Driver Evaluation / AI 司机评价](concepts/AIDriverEvaluation.md) — 以选路、速度、舒适、安全和沟通评价车辆智能，同时区分体验改进与L4责任转移。
 - [Victorian Prizefighting](concepts/VictorianPrizefighting.md) — Bare-knuckle sport as a coupled system of rules, gambling, legal tolerance, class culture, nationalism, media, and changing injury tradeoffs.

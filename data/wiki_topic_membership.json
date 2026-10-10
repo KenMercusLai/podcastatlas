@@ -45734,6 +45734,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HumanNeuralOrganoidsAndAssembloids": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "HumanNeuromodulatorMeasurement": [
     {
       "key": "science",
@@ -77548,6 +77555,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SergiuPasca": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SerotoninSocialWellbeingTools": [
     {
       "key": "science",
@@ -106008,6 +106022,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900": [
     {
       "key": "science",
       "label": "Science",
