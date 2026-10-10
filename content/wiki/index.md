@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [607. Nelson’s Lover: The Scandalous Lady Hamilton](sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938.md) — The Rest Is History on Emma Hamilton’s rise from poverty and patronage to portrait celebrity, classical performance, marriage, and political influence in Naples.
 - [Essentials: Time Perception, Memory & Focus](sources/essentials-time-perception-memory-focus-scim9668683035.md) — Condensed Huberman Lab episode on biological entrainment, present and remembered duration, novelty, neuromodulator state, and flexible ultradian work blocks.
 - [079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人](sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy.md) — 纸醉金迷FM以取经项目开局拆解模糊授权、安全劫难、监督留痕、能力惩罚与通过既成事实完成的人事安插。
 - [影视飓风TIM×罗永浩！用影像打开世界的梦想家](sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h.md) — 罗永浩对谈影视飓风 Tim，讨论评测独立、商业收入、创作者公司规模化、内容数据、极限企划、全球化与 AI 影像劳动压力。
@@ -4398,6 +4399,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
 
 ## Entities
+- [George Romney](entities/GeorgeRomney.md) — British portraitist whose repeated images of Emma Hamilton helped circulate her performed identities and celebrity.
+- [Charles Greville](entities/CharlesGreville.md) — Aristocratic patron who combined protection and artistic access with control over Emma Hamilton’s identity, child, and move to Naples.
 - [影视飓风 Tim](entities/TimMediaStorm.md) — 影视飓风的创始人型创作者，以影像技艺、选题判断、商业边界、数据方法、极限企划和全球化目标组织公司成长。
 - [影视飓风 / MediaStorm](entities/MediaStorm.md) — 以专业与大众、长视频与短视频组合运营，并以样片、广告、电商和技术型企划支撑的创作者视频公司。
 - [MrBeast](entities/MrBeast.md) — 在本次来源中作为高预算、强企划、全球本地化创作者公司的比较基准。
@@ -17504,6 +17507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
 
 ## Concepts
+- [Embodied Classical Performance](concepts/EmbodiedClassicalPerformance.md) — Live conversion of classical images into sequences of pose, expression, drapery, gesture, and transformation.
 - [Surrender Guarantee Integrity](concepts/SurrenderGuaranteeIntegrity.md) — Principle separating disputed negotiating authority from protections owed after defenders rely on surrender terms.
 - [Diabetes Acute Crisis Recognition / 糖尿病急性危象识别](concepts/DiabetesAcuteCrisisRecognition.md) — Distinguishes diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia from ordinary glucose-management problems.
 - [ICU Delirium and Recovery / ICU谵妄与恢复](concepts/ICUDeliriumRecovery.md) — Critical-illness frame for confusion, memory gaps, sedation, disrupted time cues, orientation, and treatment-story reconstruction.

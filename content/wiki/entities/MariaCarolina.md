@@ -4,6 +4,7 @@ type: entity
 tags: [person, monarchy, naples, counterrevolution]
 sources:
   - 608-nelson-slaughter-in-naples-part-1-glt8594694484
+  - 607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -16,7 +17,9 @@ Maria Carolina was queen of Naples and the court's principal political force dur
 
 ## Current Profile
 
-The episode presents Maria Carolina, Marie Antoinette's elder sister, as intelligent, forceful, and personally shaped by the French Revolution's execution of her sister. She pressed for war against French forces in Rome, fled with [[FerdinandIVOfNaples|Ferdinand IV]] when that campaign collapsed, and opposed [[CardinalRuffo|Cardinal Ruffo]]'s capitulation because she wanted leading republicans punished. Her court relationship with [[EmmaHamilton|Emma Hamilton]] helped connect royal policy to [[HoratioNelson|Horatio Nelson]], but personal trauma explains the episode's interpretation of her severity without excusing it.
+The sources present Maria Carolina, Marie Antoinette's elder sister, as intelligent, forceful, and effectively the principal political actor at the Neapolitan court. Her friendship with [[EmmaHamilton|Emma Hamilton]] grew through court access, Emma's rejection of [[FerdinandIVOfNaples|Ferdinand IV]]'s advance, and shared concern for Marie Antoinette. That trust formed an informal British channel: Emma helped Nelson secure troops in 1793 and supplies at Syracuse in 1798 through the queen and king.
+
+The French Revolution's execution of her sister made revolutionary threat personal. Maria Carolina later pressed for war against French forces in Rome, fled with Ferdinand when that campaign collapsed, and opposed [[CardinalRuffo|Cardinal Ruffo]]'s capitulation because she wanted leading republicans punished. Trauma helps explain the sources' interpretation of her severity without excusing it.
 
 ## Key Characteristics
 
@@ -25,6 +28,7 @@ The episode presents Maria Carolina, Marie Antoinette's elder sister, as intelli
 - Advocate of the failed campaign to expel France from Rome.
 - Royal exile whose return was tied to counterrevolutionary punishment.
 - Court patron whose intimacy with Emma Hamilton created an informal channel to Nelson.
+- Royalist strategist whose court access assisted British troop and supply requests before the 1799 restoration crisis.
 
 ## Evidence
 
@@ -35,14 +39,16 @@ The episode presents Maria Carolina, Marie Antoinette's elder sister, as intelli
 ### Informal court influence
 
 - [[608-nelson-slaughter-in-naples-part-1-glt8594694484]] presents Emma Hamilton as a trusted intermediary whose royal access helped draw Nelson into Neapolitan politics.
+- [[607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938]] traces the friendship's earlier formation and attributes the 1793 troop access and 1798 Syracuse supplies to Emma's appeals through the queen.
 
 ## Qualifications
 
-The profile comes from one British-centered conversational source that uses vivid character contrasts. Her precise authority, military role, communications, motives, trauma, and responsibility for particular sentences require broader Neapolitan and archival evidence.
+The profile comes from British-centered conversational sources that use vivid character contrasts. Her precise authority, friendship with Emma, military role, communications, motives, trauma, role in the 1793 and Syracuse decisions, and responsibility for particular sentences require broader Neapolitan and archival evidence.
 
 ## What Changed
 
-- Created a profile joining dynastic trauma, wartime policy, exile, informal influence, and punitive restoration.
+- Extended the profile backward from punitive restoration to the formation of Emma's royal friendship and pre-Nile British assistance.
+- Clarified that informal access could serve strategic requests without proving Emma or the queen alone caused their approval.
 
 ## Relationships
 

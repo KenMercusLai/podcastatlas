@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10210
+wiki_total_pages: 10211
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "EmbodiedCharacterPreparation"
     title: "Embodied Character Preparation / 具身化人物准备"
     url: "/wiki/concepts/embodiedcharacterpreparation/"
+  - key: "EmbodiedClassicalPerformance"
+    title: "Embodied Classical Performance"
+    url: "/wiki/concepts/embodiedclassicalperformance/"
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"

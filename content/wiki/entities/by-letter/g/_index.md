@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13045
+wiki_total_pages: 13047
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "GeorgeRRMartin"
     title: "George R. R. Martin / 乔治·R·R·马丁"
     url: "/wiki/entities/georgerrmartin/"
+  - key: "GeorgeRomney"
+    title: "George Romney"
+    url: "/wiki/entities/georgeromney/"
   - key: "GeorgeSPatton"
     title: "George S. Patton"
     url: "/wiki/entities/georgespatton/"

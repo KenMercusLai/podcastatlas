@@ -3675,6 +3675,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938": {
+    "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+    "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
+  },
   "608-nelson-slaughter-in-naples-part-1-glt8594694484": {
     "title": "608. Nelson: Slaughter in Naples (Part 1)",
     "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
@@ -17383,6 +17387,10 @@
     "title": "Charles Goodhart",
     "url": "/wiki/entities/charlesgoodhart/"
   },
+  "CharlesGreville": {
+    "title": "Charles Greville",
+    "url": "/wiki/entities/charlesgreville/"
+  },
   "CharlesHarrisonBlackley": {
     "title": "Charles Harrison Blackley / 查尔斯·哈里森·布莱克利",
     "url": "/wiki/entities/charlesharrisonblackley/"
@@ -28711,6 +28719,10 @@
     "title": "Embodied Character Preparation / 具身化人物准备",
     "url": "/wiki/concepts/embodiedcharacterpreparation/"
   },
+  "EmbodiedClassicalPerformance": {
+    "title": "Embodied Classical Performance",
+    "url": "/wiki/concepts/embodiedclassicalperformance/"
+  },
   "EmbodiedCollectiveAwe": {
     "title": "Embodied Collective Awe",
     "url": "/wiki/concepts/embodiedcollectiveawe/"
@@ -35886,6 +35898,10 @@
   "GeorgeRRMartin": {
     "title": "George R. R. Martin / 乔治·R·R·马丁",
     "url": "/wiki/entities/georgerrmartin/"
+  },
+  "GeorgeRomney": {
+    "title": "George Romney",
+    "url": "/wiki/entities/georgeromney/"
   },
   "GeorgeSPatton": {
     "title": "George S. Patton",

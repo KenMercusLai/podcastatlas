@@ -15,6 +15,7 @@ sources:
   - 610-nelson-the-battle-of-copenhagen-part-3-glt9153225543
   - 609-nelson-the-gathering-storm-part-2-glt8067718474
   - 608-nelson-slaughter-in-naples-part-1-glt8594694484
+  - 607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -27,7 +28,7 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 ## Current Profile
 
-Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. Before Trafalgar he kept the battle fleet beyond the horizon, relied on frigates to watch Cadiz, and used captain dinners to turn the two-column “Nelson touch” into shared intent. He sought not a limited win but annihilation and trusted captains to execute once battle became chaotic. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
+Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. The new prehistory places [[EmmaHamilton|Emma Hamilton]] inside those logistics before their affair: she helped his 1793 request for Neapolitan troops and, through [[MariaCarolina|Maria Carolina]], his 1798 access to supplies at Syracuse. At the [[BattleOfTheNile]], he then turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. Before Trafalgar he kept the battle fleet beyond the horizon, relied on frigates to watch Cadiz, and used captain dinners to turn the two-column “Nelson touch” into shared intent. He sought not a limited win but annihilation and trusted captains to execute once battle became chaotic. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
 
 Naples makes the moral and political limits of Nelson's command visible before the 1799-1801 bridge. His Nile victory brought spectacular adulation, but exhaustion, wounds, hunger for recognition, dependence on [[EmmaHamilton|Emma Hamilton]] and [[SirWilliamHamilton|Sir William Hamilton]], and intimacy with [[MariaCarolina|Maria Carolina]] helped turn naval prestige into confidence about an army he badly misjudged. After the Neapolitan invasion of Rome collapsed and the court fled to Palermo, Nelson returned under orders to protect the monarchy. He treated [[CardinalRuffo|Cardinal Ruffo]]'s capitulation as unauthorized even after republican defenders had left their castles and disarmed, used British ships to detain them, and rapidly executed [[FrancescoCaracciolo|Francesco Caracciolo]]. Conflicting historian judgments and Nelson's difficult position remain material, but objections from his own officers make [[SurrenderGuaranteeIntegrity|surrender-guarantee integrity]], military honor, and personal agency unavoidable.
 
@@ -60,6 +61,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 - [[610-nelson-the-battle-of-copenhagen-part-3-glt9153225543]] connects shoal reconnaissance, ship selection, councils and orders, close action, refusal of Parker's withdrawal signal, and a negotiated ceasefire.
 - [[609-nelson-the-gathering-storm-part-2-glt8067718474]] connects Nelson's Palermo strategy, Malta blockade, illness, conflict with Keith, capture of *Les Genereux*, and pressure for rapid action in the Baltic.
 - [[608-nelson-slaughter-in-naples-part-1-glt8594694484]] connects post-Nile celebrity, court intimacy, weak land judgment, royal flight, repudiated capitulation, officer objections, Caracciolo's execution, and counterrevolutionary punishment.
+- [[607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938]] adds the 1793 meeting, Emma's court assistance, the 1798 Syracuse supply episode, Nile celebration, and emotional Naples reunion before the later affair.
 
 ### Tactical risk, delegated intent, and death
 
@@ -79,15 +81,13 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 ## Qualifications
 
-The Nile, Naples, Malta, Copenhagen, and Trafalgar sources are British-centered conversational narratives, and the later episodes sometimes retell earlier campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. The authority and legal status of Ruffo's capitulation, Nelson's precise instructions and knowledge, Emma's influence, Caracciolo's proceedings, punishment totals, and comparative historian judgments remain contested or source-scoped. Reported prayers, rings, farewells, dialogue, medical symptoms, domestic motives, converted finances, fleet and casualty totals, anchoring assumptions, captains' reactions, last words, and causal claims about Nelson's individual contribution also remain source-scoped. The blind-eye story may be mythic, and success at Malta or Copenhagen can retrospectively legitimate disobedience without proving that either decision was justified ex ante. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain victory or pursuit. Care for British sailors does not resolve Naples, harsh discipline, his treatment of Fanny, or his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed.
+The Nile, Naples, Malta, Copenhagen, and Trafalgar sources are British-centered conversational narratives, and the later episodes sometimes retell earlier campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. Emma's role in the 1793 troop request and 1798 Syracuse supplies, their causal importance to Nelson's operations, and the emotional meaning of the Naples reunion remain episode-attributed. The authority and legal status of Ruffo's capitulation, Nelson's precise instructions and knowledge, Emma's later influence, Caracciolo's proceedings, punishment totals, and comparative historian judgments remain contested or source-scoped. Reported prayers, rings, farewells, dialogue, medical symptoms, domestic motives, converted finances, fleet and casualty totals, anchoring assumptions, captains' reactions, last words, and causal claims about Nelson's individual contribution also remain source-scoped. The blind-eye story may be mythic, and success at Malta or Copenhagen can retrospectively legitimate disobedience without proving that either decision was justified ex ante. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain victory or pursuit. Care for British sailors does not resolve Naples, harsh discipline, his treatment of Fanny, or his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed.
 
 ## What Changed
 
-- Extended the Nile-to-Copenhagen bridge through Naples, where naval celebrity, weak land judgment, court loyalty, disputed surrender, and punitive restoration exposed a grave failure of honor.
-- Made chronic illness, exhaustion, and inability to catch Villeneuve compatible with operational skill rather than exceptions erased by later victory.
-- Recast abandonment of Fanny, concealed parenthood, jealousy, and Merton's later celebrity household as a continuous moral qualification rather than a private aside.
-- Connected geography, logistics, health, morale, intelligence, and delegated execution across the Nile, Copenhagen, Toulon, Cadiz, and Trafalgar.
-- Retained anti-abolitionism, empire, death in victory, and monumental memory as limits on uncomplicated heroism.
+- Extended Nelson and Emma's shared history back to a 1793 request for troops, before their later romantic attachment.
+- Added Emma's reported intervention over Syracuse supplies as a court-access input to the Nile campaign while keeping its causal weight source-scoped.
+- Reframed the September 1798 Naples reunion as the meeting point of Emma's prior celebrity and political access with Nelson's new naval fame.
 
 ## Relationships
 
@@ -110,3 +110,4 @@ The Nile, Naples, Malta, Copenhagen, and Trafalgar sources are British-centered 
 - [[CommandDisobedienceUnderBattlefieldUncertainty]] - framework qualifying the heroic memory of his refusal to withdraw.
 - [[NapoleonEgyptCampaign]] - expedition strategically isolated by Nelson's Aboukir victory.
 - [[TrafalgarSquare]] - civic landscape where Nelson's victory and moral afterlife remain publicly contested.
+- [[EmbodiedClassicalPerformance]] - artistic basis of Emma Hamilton's independent celebrity before their affair.

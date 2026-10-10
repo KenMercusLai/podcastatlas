@@ -4,6 +4,7 @@ type: concept
 tags: [fashion, networks, retail, communication]
 sources:
   - 238-the-regency-revolution-glt7671750288
+  - 607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ Fashion circulation infrastructure is the combined social, communicative, commer
 
 The Regency episode argues that fashion moved mainly through people, but people depended on infrastructure. Elite spectators observed tastemakers in parks, drawing rooms, travel settings, and performances; letters and conversation described what they saw; dressmakers and milliners translated impressions into garments; shops, warehouses, and wholesalers assembled materials; roads, mail, provincial retailers, and proxy shoppers carried information and objects outward.
 
-This network helps explain why provincial adoption was not simply passive delay. Distance mattered, but so did income, relationships, retailer access, maker skill, and communication speed. [[EmmaHamilton|Emma Hamilton]] demonstrates celebrity performance and imitation, while [[JaneAusten|Jane Austen]] demonstrates correspondence and judgment. Fashion plates belonged to the system but did not monopolize it.
+This network helps explain why provincial adoption was not simply passive delay. Distance mattered, but so did income, relationships, retailer access, maker skill, and communication speed. [[EmmaHamilton|Emma Hamilton]] demonstrates how a live performance could be stabilized through [[GeorgeRomney|George Romney]]'s portraits, multiplied through prints, described by travellers, and imitated in dress. [[JaneAusten|Jane Austen]] demonstrates correspondence and judgment. Fashion plates belonged to the system but did not monopolize it.
 
 ## Key Claims
 
@@ -28,6 +29,7 @@ This network helps explain why provincial adoption was not simply passive delay.
 - Provincial consumers can participate quickly when information, money, materials, and skilled intermediaries align.
 - Celebrity and elite visibility amplify styles, but replication changes them through memory, interpretation, and local constraints.
 - Circulation carries judgments about respectability, nationality, class, and bodily propriety alongside garments.
+- Portrait reproduction can detach a performer's image from the original salon and turn embodied style into portable celebrity media.
 
 ## Evidence
 
@@ -47,13 +49,18 @@ This network helps explain why provincial adoption was not simply passive delay.
 
 - [[238-the-regency-revolution-glt7671750288]] uses Austen's world and Anglo-French criticism to show that adoption involved judgments about extremity, dowdiness, history, and respectability.
 
+### Celebrity image multiplication
+
+- [[607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938]] connects Hamilton's poses and classical drapery to Romney portraits, reproduced prints, European visitors, fashion imitation, and consumer culture.
+
 ## Counterevidence & Qualifications
 
-The source describes a selective British and European network centered on relatively affluent consumers. It does not quantify the relative influence of people, plates, shops, or mail; one reported six-month Australian delay cannot map colonial access generally. Circulation does not imply equal agency, and it can conceal production labor, coercive commodity systems, exclusion, and unequal purchasing power.
+The sources describe a selective British and European network centered on relatively affluent consumers. They do not quantify the relative influence of performers, portrait prints, people, plates, shops, or mail; one reported six-month Australian delay cannot map colonial access generally. Claims about Hamilton's European fame, portrait reach, audience reactions, and fashion influence remain source-scoped. Circulation does not imply equal agency, and it can conceal production labor, model-artist power, coercive commodity systems, exclusion, and unequal purchasing power.
 
 ## What Changed
 
-- Created a network model joining observation, correspondence, makers, retail, logistics, travel, and social judgment.
+- Added portrait prints as a bridge between ephemeral performance, recognizable celebrity image, and fashion imitation.
+- Clarified that Emma Hamilton's style circulated before the Nelson affair rather than deriving from it.
 
 ## Related Concepts
 
@@ -62,3 +69,4 @@ The source describes a selective British and European network centered on relati
 - [[MaterialHistoryNarrative]] - framework connecting fashion circulation to goods, institutions, and infrastructure.
 - [[YouthFashionCommercializationCycle]] - later boutique, media, and mass-retail version of accelerated diffusion.
 - [[PostwarFashionConsumerRevolution]] - later consumer transition shaped by retail, media, and purchasing power.
+- [[EmbodiedClassicalPerformance]] - live source form whose poses and drapery entered the circulation network.

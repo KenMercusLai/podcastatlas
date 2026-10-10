@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3345
+topic_total_pages: 3346
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4574,6 +4574,9 @@ topic_entities:
   - key: "GeorgeOrwell"
     title: "George Orwell / 乔治·奥威尔"
     url: "/wiki/entities/georgeorwell/"
+  - key: "GeorgeRomney"
+    title: "George Romney"
+    url: "/wiki/entities/georgeromney/"
   - key: "GeorgeWhitman"
     title: "George Whitman"
     url: "/wiki/entities/georgewhitman/"

@@ -34514,3 +34514,11 @@ Added source `essentials-time-perception-memory-focus-scim9668683035`; and resyn
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 607. Nelson’s Lover: The Scandalous Lady Hamilton
+
+Added source `607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938`; created [[GeorgeRomney]], [[CharlesGreville]], and [[EmbodiedClassicalPerformance]]; and resynthesized [[EmmaHamilton]], [[SirWilliamHamilton]], [[MariaCarolina]], [[HoratioNelson]], [[SexWorkEconomicSpectrum]], and [[FashionCirculationInfrastructure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Emma Hamilton was already an artistically innovative and politically connected celebrity before her affair with Nelson; poverty, sexual dependence, patron control, portrait reproduction, self-education, classical performance, marriage, royal friendship, and naval assistance made that ascent both agentic and structurally precarious. No settled contradiction was adopted. Early-life details, patron motives, portrait totals, audience reactions, celebrity rank, fashion influence, language fluency, Syracuse access, reported dialogue, and causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,323 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

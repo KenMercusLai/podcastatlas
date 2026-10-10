@@ -39509,6 +39509,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/charlesgeorgegordon/"
     },
+    "CharlesGreville": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/charlesgreville/"
+    },
     "CharlesHenriSanson": {
       "episode_count": 1,
       "show_count": 1,
@@ -74164,6 +74180,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/embodiedcharacterpreparation/"
     },
+    "EmbodiedClassicalPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/embodiedclassicalperformance/"
+    },
     "EmbodiedCollectiveAwe": {
       "episode_count": 1,
       "show_count": 1,
@@ -74758,9 +74790,9 @@
       "url": "/wiki/entities/emmagriffin/"
     },
     "EmmaHamilton": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -74810,6 +74842,13 @@
           "show": "The Rest Is History",
           "title": "608. Nelson: Slaughter in Naples (Part 1)",
           "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-10",
@@ -85788,9 +85827,9 @@
       "url": "/wiki/concepts/fascistsportpolicy/"
     },
     "FashionCirculationInfrastructure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -85798,6 +85837,13 @@
           "show": "The Rest Is History",
           "title": "238. The Regency Revolution",
           "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-01",
@@ -99780,6 +99826,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/georgerrmartin/"
+    },
+    "GeorgeRomney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/georgeromney/"
     },
     "GeorgeSPatton": {
       "episode_count": 1,
@@ -117179,9 +117241,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -117266,6 +117328,13 @@
           "show": "The Rest Is History",
           "title": "608. Nelson: Slaughter in Naples (Part 1)",
           "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-10",
@@ -164638,9 +164707,9 @@
       "url": "/wiki/concepts/marginaldecadebackcasting/"
     },
     "MariaCarolina": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8594694484 [GLT8594694484].md",
@@ -164648,6 +164717,13 @@
           "show": "The Rest Is History",
           "title": "608. Nelson: Slaughter in Naples (Part 1)",
           "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-10",
@@ -225962,9 +226038,9 @@
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
     "SexWorkEconomicSpectrum": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9221135938 [GLT9221135938].md",
@@ -225979,6 +226055,13 @@
           "show": "The Rest Is History",
           "title": "624. Jack The Ripper: History’s Darkest Mystery (Part 1)",
           "url": "/wiki/sources/624-jack-the-ripper-historys-darkest-mystery-part-1-glt7829555893/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-04",
@@ -230835,9 +230918,9 @@
       "url": "/wiki/entities/sinnfein/"
     },
     "SirWilliamHamilton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -230852,6 +230935,13 @@
           "show": "The Rest Is History",
           "title": "608. Nelson: Slaughter in Naples (Part 1)",
           "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        },
+        {
+          "episode_file": "GLT1577197938 [GLT1577197938].md",
+          "key": "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938",
+          "show": "The Rest Is History",
+          "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
+          "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
         }
       ],
       "updated": "2026-10-10",
