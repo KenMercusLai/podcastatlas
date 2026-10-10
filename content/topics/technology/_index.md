@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3440
+topic_total_pages: 3441
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4597,6 +4597,9 @@ topic_concepts:
   - key: "UnlimitedTokenWorkflow"
     title: "Unlimited Token Workflow"
     url: "/wiki/concepts/unlimitedtokenworkflow/"
+  - key: "UrbanHistoricalCorridor"
+    title: "Urban Historical Corridor"
+    url: "/wiki/concepts/urbanhistoricalcorridor/"
   - key: "ValidatedLearning"
     title: "Validated Learning"
     url: "/wiki/concepts/validatedlearning/"

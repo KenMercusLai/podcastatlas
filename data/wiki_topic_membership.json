@@ -89305,6 +89305,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "UrbanHistoricalCorridor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "UrbanNicheSports": [
     {
       "key": "culture",

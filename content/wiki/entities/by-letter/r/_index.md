@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13067
+wiki_total_pages: 13072
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -731,6 +731,15 @@ wiki_pages:
   - key: "Roche"
     title: "Roche / 罗氏"
     url: "/wiki/entities/roche/"
+  - key: "Rochester"
+    title: "Rochester"
+    url: "/wiki/entities/rochester/"
+  - key: "RochesterCastle"
+    title: "Rochester Castle"
+    url: "/wiki/entities/rochestercastle/"
+  - key: "RochesterCathedral"
+    title: "Rochester Cathedral"
+    url: "/wiki/entities/rochestercathedral/"
   - key: "RockbridgeNetwork"
     title: "Rockbridge Network"
     url: "/wiki/entities/rockbridgenetwork/"

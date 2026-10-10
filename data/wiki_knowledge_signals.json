@@ -40248,6 +40248,38 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/chatgpt6astra/"
     },
+    "Chatham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/chatham/"
+    },
+    "ChathamDockyard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/chathamdockyard/"
+    },
     "CheNiuChanyu": {
       "episode_count": 1,
       "show_count": 1,
@@ -219398,6 +219430,54 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/roc360/"
     },
+    "Rochester": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/rochester/"
+    },
+    "RochesterCastle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/rochestercastle/"
+    },
+    "RochesterCathedral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/rochestercathedral/"
+    },
     "RockfishWeatherwear": {
       "episode_count": 1,
       "show_count": 1,
@@ -259343,6 +259423,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/urbanguerrillaarmedpropaganda/"
+    },
+    "UrbanHistoricalCorridor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2782191075 [GLT2782191075].md",
+          "key": "600-chatham-high-street-glt2782191075",
+          "show": "The Rest Is History",
+          "title": "600. Chatham High Street",
+          "url": "/wiki/sources/600-chatham-high-street-glt2782191075/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/urbanhistoricalcorridor/"
     },
     "UrbanNightlifeSpatialLayering": {
       "episode_count": 1,

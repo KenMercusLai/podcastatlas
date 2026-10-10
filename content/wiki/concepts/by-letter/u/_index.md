@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10241
+wiki_total_pages: 10242
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "UrbanGuerrillaArmedPropaganda"
     title: "Urban Guerrilla Armed Propaganda"
     url: "/wiki/concepts/urbanguerrillaarmedpropaganda/"
+  - key: "UrbanHistoricalCorridor"
+    title: "Urban Historical Corridor"
+    url: "/wiki/concepts/urbanhistoricalcorridor/"
   - key: "UrbanLegend"
     title: "Urban Legend / 都市传说"
     url: "/wiki/concepts/urbanlegend/"
