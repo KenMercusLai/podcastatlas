@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)](sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031.md) — The Rest Is History on Lincoln's murder and funeral, the multi-target conspiracy, Booth's escape and death, martyrdom, and a bounded Reconstruction counterfactual.
 - [VOL.175这医生真的有病，比患者还离谱｜医师节](sources/vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_.md) — 医务工作者从患者侧讨论伤病、检查与住院体验、依从性、ADHD自我理解、减重误区、康复节奏和同理心。
 - [072 《射雕英雄传》之东邪黄药师篇](sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig.md) — 纸醉金迷FM以三分钟开场并置黄药师的才情、人情、桃花岛诗意与残酷争议，并把完整人物判断保留为未决。
 - [李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路](sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228.md) — 罗永浩对谈李想，从青少年互联网创业、汽车之家和理想汽车创立谈到增程家庭车、组织争论、危机透明、MEGA修正、长期迭代与AI司机评价。
@@ -4455,6 +4456,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
+- [Lincoln Assassination Conspiracy](entities/LincolnAssassinationConspiracy.md) — April 1865 multi-target plot, support network, manhunt, and unresolved boundary between Confederate sympathizers and formal command.
 - [黄药师 / Huang Yaoshi](entities/HuangYaoshi.md) — 《射雕英雄传》中兼具广博才情、诗意宗师气质、家人深情与残酷争议的桃花岛主。
 - [Sergiu Pașca](entities/SergiuPasca.md) — Stanford researcher using patient-derived neural models, organoids, assembloids, and transplantation to study neurodevelopment and therapeutic translation.
 - [Autohome / 汽车之家](entities/Autohome.md) — 李想从PC媒体转向汽车市场后建立的用户导向汽车信息公司，也是其产品语言和组织危机学习场域。

@@ -6,7 +6,8 @@ sources:
   - 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809
   - 203-american-civil-war-aftermath-legacy-part-4-glt3990109453
   - 654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794
-last_updated: 2026-10-01
+  - 591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,9 +25,12 @@ Andrew Johnson is the U.S. president whose Reconstruction leadership and impeach
 
 [[654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794]] makes the early policy conflict more concrete. Johnson pursued rapid Southern reintegration and issued many pardons to former Confederates, while Radical Republicans feared that presidential Reconstruction would weaken the Union victory and Black citizenship. Congressional control, the Fourteenth Amendment, military Reconstruction, and Black male voting developed against that conflict as white-supremacist violence expanded.
 
+The assassination-night threshold made Johnson's survival contingent before it made his succession consequential. George Atzerodt was assigned to kill him but lost his nerve, leaving Johnson alive to succeed Lincoln. Some Radical Republicans initially expected Johnson to advance their aims, so his later conflict was not universally assumed in advance; the case also shows why a leader-centered counterfactual must still account for Congress, white Southern resistance, paramilitary violence, and Northern limits. [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] supplies this sequence.
+
 ## Key Characteristics
 
 - Lincoln's successor at the opening of Reconstruction.
+- Intended assassination target whose assigned killer abandoned the attack.
 - Advocate of rapid Southern reintegration and extensive pardons for former Confederates in the source's account.
 - President judged politically weaker than Lincoln in public and coalition leadership.
 - First U.S. president impeached by the House.
@@ -40,6 +44,11 @@ Andrew Johnson is the U.S. president whose Reconstruction leadership and impeach
 - [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] contrasts Johnson's political capacity with Lincoln's and places that difference inside weak Northern commitment and sustained Southern resistance.
 - [[654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794]] links his pardons and rapid reintegration policy to congressional fear that the political meaning of Union victory would be reversed.
 
+### Assassination-night succession
+
+- [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] identifies Johnson as a target of the multi-office plot and Atzerodt as the conspirator who did not carry out the attack.
+- [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] reports that some Radical Republicans initially expected Johnson to be useful, complicating retrospective assumptions that his later conflict was obvious in advance.
+
 ### Impeachment case
 
 - [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] identifies the attempted removal of the secretary of war as the formal dispute and Reconstruction conflict as the surrounding constitutional stakes.
@@ -50,17 +59,18 @@ Andrew Johnson is the U.S. president whose Reconstruction leadership and impeach
 
 ## Qualifications
 
-These sources do not provide a full Johnson biography, a quantitative review of his pardons, a complete account of presidential Reconstruction, the Tenure of Office Act, congressional strategy, or the impeachment trial. The comparison with Lincoln is counterfactual, and structural limits on Northern will should not erase Johnson's own choices or imply that Reconstruction's rollback was inevitable.
+These sources do not provide a full Johnson biography, a quantitative review of his pardons, a complete account of presidential Reconstruction, the Tenure of Office Act, congressional strategy, or the impeachment trial. Atzerodt's assigned role and abandoned attack do not by themselves explain Johnson's later presidency. The comparison with Lincoln is counterfactual, and structural limits on Northern will should not erase Johnson's own choices or imply that Reconstruction's rollback was inevitable.
 
 ## What Changed
 
-- Added rapid reintegration and pardons as the policy setting for congressional Reconstruction conflict.
-- Clarified that structural constraints do not erase the consequences of Johnson's choices.
+- Added Johnson's place as an intended target in the multi-office assassination conspiracy.
+- Added Radical Republican expectations as evidence that his later Reconstruction conflict was not universally assumed at succession.
 
 ## Relationships
 
 - [[AbrahamLincoln]] - predecessor whose assassination brought Johnson to the presidency.
 - [[JohnWilkesBooth]] - assassin whose act created the presidential succession rupture.
+- [[LincolnAssassinationConspiracy]] - plot that assigned Johnson as a target but failed to attack him.
 - [[PresidentialImpeachment]] - constitutional removal mechanism tested through Johnson's case.
 - [[ReconstructionRollback]] - wider democratic defeat surrounding his presidency.
 - [[WilliamGannawayBrownlow]] - fellow Tennessee politician whose protection-oriented Reconstruction strategy contrasted with Johnson's rapid reintegration.

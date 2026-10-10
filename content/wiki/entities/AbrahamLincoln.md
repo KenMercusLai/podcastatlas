@@ -8,7 +8,8 @@ sources:
   - 201-american-civil-war-outbreak-part-2-glt4100428000
   - 200-american-civil-war-the-causes-part-1-glt1124511401
   - 152-american-crusades-glt4400059090
-last_updated: 2026-10-01
+  - 591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,7 +29,7 @@ His antislavery position did not yet equal modern racial equality. The episode p
 
 [[202-american-civil-war-gettysburg-part-3-glt5256515778]] carries that policy into Black enlistment, the Gettysburg Address's democratic refounding, and the 1864 election, when Atlanta's fall strengthened a campaign whose defeat could have reversed emancipation. Lincoln's late support for voting rights for some Black veterans joined service to a limited citizenship claim. [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] then places him at the hinge between victory and Reconstruction.
 
-[[JohnWilkesBooth|John Wilkes Booth]] heard the suffrage position and cast assassination as resistance to tyranny. Lincoln's death removed political abilities that [[AndrewJohnson]] lacked and fixed his memory before Reconstruction's compromises and failures could attach to his leadership, without proving that he could have created lasting biracial democracy.
+[[JohnWilkesBooth|John Wilkes Booth]] heard the suffrage position and cast assassination as resistance to tyranny. [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] reconstructs the murder, Lincoln's final hours, and the funeral train that turned private loss into national ritual. It also sharpens the political limit: Lincoln's death removed political abilities that [[AndrewJohnson]] lacked and fixed his martyr memory before Reconstruction's compromises could attach to his leadership, but survival alone would not have defeated congressional conflict, white Southern resistance, paramilitary violence, or weak Northern support for prolonged military rule.
 
 ## Key Characteristics
 
@@ -69,19 +70,25 @@ His antislavery position did not yet equal modern racial equality. The episode p
 ### Martyr memory
 
 - [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] argues that death preserved Lincoln as an uncorrupted symbol of liberty and made his memory structurally different from Lee's.
+- [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] connects Lincoln's death, Black mourning, lying in state, Black military participation, and the funeral train to the public production of martyr memory.
+
+### Reconstruction counterfactual
+
+- [[591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031]] argues that presidential leadership mattered but could not by itself overcome congressional conflict, organized white resistance, and the political cost of long occupation.
 
 ## Qualifications
 
-This profile is bounded to five retrospective podcast episodes, not a complete biography or assessment of Lincoln's evolving racial views, colonization position, religion, wartime civil-liberties record, emancipation policy, party management, or constitutional thought. The balance among conviction, military necessity, and political timing; the proclamation's electoral effect; the causal weight of Atlanta; the likely consequences of a McClellan victory; and the judgment that Lincoln would have managed Reconstruction better remain source-scoped, counterfactual, or interpretive. Calling the Civil War a humanitarian intervention highlights emancipation and later memory but can obscure slavery as the prior cause, enslaved people's agency, Union-first motives, and the war's domestic constitutional character.
+This profile is bounded to six retrospective podcast episodes, not a complete biography or assessment of Lincoln's evolving racial views, colonization position, religion, wartime civil-liberties record, emancipation policy, party management, or constitutional thought. The balance among conviction, military necessity, and political timing; the proclamation's electoral effect; the causal weight of Atlanta; the likely consequences of a McClellan victory; and every claim about Reconstruction under a surviving Lincoln remain source-scoped, counterfactual, or interpretive. The assassination episode is a structured summary rather than a transcript, so last words, dialogue, exact scenes, and disputed eyewitness details should not be treated as independently verified. Calling the Civil War a humanitarian intervention highlights emancipation and later memory but can obscure slavery as the prior cause, enslaved people's agency, Union-first motives, and the war's domestic constitutional character.
 
 ## What Changed
 
-- Deepened the profile's account of biblical cadence, scriptural imagery, and providential wartime interpretation without assigning Lincoln a settled private orthodoxy.
-- Qualified the Civil War's humanitarian-war afterlife against its prior causes, mixed motives, and domestic character.
+- Added national mourning and funeral ritual as mechanisms of Lincoln's martyr memory.
+- Sharpened the Reconstruction counterfactual by separating Lincoln's political skill from congressional, racial, military, and Northern-commitment constraints.
 
 ## Relationships
 
 - [[JohnWilkesBooth]] - assassin whose opposition to Black political rights shaped Lincoln's death.
+- [[LincolnAssassinationConspiracy]] - coordinated plot that killed Lincoln and targeted two other senior officials.
 - [[BattleOfGettysburg]] - battlefield whose cemetery dedication became Lincoln's democratic refounding speech.
 - [[BattleOfAntietam]] - battlefield check that supplied the opening for preliminary emancipation.
 - [[SectionalPartyRealignment]] - party-system transformation that made Lincoln's 1860 victory possible.
@@ -93,3 +100,4 @@ This profile is bounded to five retrospective podcast episodes, not a complete b
 - [[CivilWarMemoryPoliticalAfterlife]] - public-memory field in which Lincoln remains a central Union symbol.
 - [[LostCauseMyth]] - rival Confederate memory structure against which Lincoln's national role is contrasted.
 - [[ReligiousMoralFramingOfUSForeignPolicy]] - framework connecting Lincoln's emancipation language to later American memories of righteous war.
+- [[MartyrdomHistoricalMemory]] - process through which assassination and national mourning enlarged Lincoln's posthumous authority.

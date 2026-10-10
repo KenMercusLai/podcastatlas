@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13119
+wiki_total_pages: 13120
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "LinWei"
     title: "Lin Wei"
     url: "/wiki/entities/linwei/"
+  - key: "LincolnAssassinationConspiracy"
+    title: "Lincoln Assassination Conspiracy"
+    url: "/wiki/entities/lincolnassassinationconspiracy/"
   - key: "LindaLoman"
     title: "Linda Loman / 林达·洛曼"
     url: "/wiki/entities/lindaloman/"
