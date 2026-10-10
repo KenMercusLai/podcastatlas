@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13017
+wiki_total_pages: 13020
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "Steam"
     title: "Steam"
     url: "/wiki/entities/steam/"
+  - key: "SteamboatWillie"
+    title: "Steamboat Willie"
+    url: "/wiki/entities/steamboatwillie/"
   - key: "StefanSagmeister"
     title: "Stefan Sagmeister"
     url: "/wiki/entities/stefansagmeister/"

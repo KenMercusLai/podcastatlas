@@ -15671,6 +15671,22 @@
       "updated": "2026-08-06",
       "url": "/wiki/concepts/animalwelfareaspublichealth/"
     },
+    "AnimationAsMassArt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/animationasmassart/"
+    },
     "AnitaRamaswamy": {
       "episode_count": 8,
       "show_count": 1,
@@ -18650,6 +18666,52 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/artafterviolencememory/"
+    },
+    "ArtBabbitt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/artbabbitt/"
+    },
+    "ArtCommerceIntegration": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "94.吉卜力的天才们：我的人生，交给热爱和友谊 [722350232].md",
+          "key": "94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232",
+          "show": "蜜獾吃书",
+          "title": "94.吉卜力的天才们：我的人生，交给热爱和友谊",
+          "url": "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/artcommerceintegration/"
     },
     "ArtFilmDeferredLegibility": {
       "episode_count": 1,
@@ -65051,6 +65113,36 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/directionsettingdelegatedgovernance/"
+    },
+    "DirectorMythDeflation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "107.闲聊伟大导演们的八卦（第一弹） [744150818].md",
+          "key": "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818",
+          "show": "蜜獾吃书",
+          "title": "107.闲聊伟大导演们的八卦（第一弹）",
+          "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
+        },
+        {
+          "episode_file": "94.吉卜力的天才们：我的人生，交给热爱和友谊 [722350232].md",
+          "key": "94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232",
+          "show": "蜜獾吃书",
+          "title": "94.吉卜力的天才们：我的人生，交给热爱和友谊",
+          "url": "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/directormythdeflation/"
     },
     "DiretasJa": {
       "episode_count": 1,
@@ -165233,6 +165325,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/marypickersgill/"
     },
+    "MaryPoppins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/marypoppins/"
+    },
     "MaryQuant": {
       "episode_count": 2,
       "show_count": 1,
@@ -170414,6 +170522,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/mickjagger/"
+    },
+    "MickeyMouse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/mickeymouse/"
     },
     "MicroRestLearningReplay": {
       "episode_count": 1,
@@ -187574,6 +187705,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/oswaldmosley/"
+    },
+    "OswaldTheLuckyRabbit": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/oswaldtheluckyrabbit/"
     },
     "OteloSaraivaDeCarvalho": {
       "episode_count": 1,
@@ -217792,6 +217946,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/roybaumeister/"
     },
+    "RoyDisney": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/roydisney/"
+    },
     "RoyalAirForce": {
       "episode_count": 2,
       "show_count": 1,
@@ -231099,6 +231276,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/snowpeak/"
     },
+    "SnowWhiteAndTheSevenDwarfs": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/snowwhiteandthesevendwarfs/"
+    },
     "Snowflake": {
       "episode_count": 2,
       "show_count": 2,
@@ -236243,6 +236443,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/statusreversalsurvivalbargain/"
+    },
+    "SteamboatWillie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/steamboatwillie/"
     },
     "StefanZweig": {
       "episode_count": 2,
@@ -259526,9 +259742,9 @@
       "url": "/wiki/concepts/wallstreetprivatemortgagecapital/"
     },
     "WaltDisney": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
@@ -259550,6 +259766,13 @@
           "show": "The Rest Is History",
           "title": "615. Disneyland: The Modern American Utopia",
           "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
+        },
+        {
+          "episode_file": "GLT5465018421 [GLT5465018421].md",
+          "key": "614-walt-disney-the-great-american-storyteller-glt5465018421",
+          "show": "The Rest Is History",
+          "title": "614. Walt Disney: The Great American Storyteller",
+          "url": "/wiki/sources/614-walt-disney-the-great-american-storyteller-glt5465018421/"
         }
       ],
       "updated": "2026-10-10",

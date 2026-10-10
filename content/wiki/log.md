@@ -34309,3 +34309,11 @@ Added source `using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-b
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 614. Walt Disney: The Great American Storyteller
+
+Added source `614-walt-disney-the-great-american-storyteller-glt5465018421`; created [[ArtBabbitt]], [[SteamboatWillie]], [[MaryPoppins]], and [[AnimationAsMassArt]]; resynthesized [[WaltDisney]] from its complete preserved evidence inventory; and migrated and resynthesized [[RoyDisney]], [[OswaldTheLuckyRabbit]], [[MickeyMouse]], [[SnowWhiteAndTheSevenDwarfs]], [[ArtCommerceIntegration]], and [[DirectorMythDeflation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Disney helped make animation a mass art by coordinating sound, color, character, feature-length storytelling, studio training, ownership, merchandising, distribution, and later physical experience, but that achievement depended on collective labor and remained financially fragile, politically consequential, and contested through founder-credit concentration and the 1941 strike. No settled contradiction was adopted. Origin stories, invention priority, collaborator credit, private guilt, childhood causation, labor motives, political hardening, cultural-imperialism claims, and the Mr. Banks self-portrait reading remain source-scoped or qualified. Broad [[TheWaltDisneyCompany]], [[Disneyland]], and [[AmericanCulturalExports]] pages were kept closed because focused pages capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,296 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

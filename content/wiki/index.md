@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [614. Walt Disney: The Great American Storyteller](sources/614-walt-disney-the-great-american-storyteller-glt5465018421.md) — The Rest Is History on Disney's animation breakthroughs, ownership discipline, merchandising, collective studio craft, labor conflict, wartime debt, television recovery, and cultural power.
 - [Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum](sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056.md) — Huberman Lab interview on drug repurposing, Castleman disease, patient-led research, Every Cure's AI prioritization, and the boundary between promising matches and validated care.
 - [VOL.184解决晕车你得先找到真相：当大脑收到这三个矛盾信号｜耳鼻喉科](sources/vol-184-jiejue-yunche-ni-de-xian-zhaodao-zhenxiang-dang-danao-shoudao-zhe-sange-maodun-xinhao-erbihouke-lqasxyp6lysn8f3gszysfipivw1f.md) — 这病说来话长由吕颜璐解释视觉、前庭与本体感觉冲突，连接交通工具、座位姿态、环境触发、习服训练与用药边界。
 - [615. Disneyland: The Modern American Utopia](sources/615-disneyland-the-modern-american-utopia-glt8516268220.md) — The Rest Is History on Disneyland's pleasure-garden and ride genealogy, Walt Disney's trains and miniatures, Cold War symbolism, immersive design, opening-day chaos, and architecture of reassurance.
@@ -4370,6 +4371,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
 
 ## Entities
+- [Art Babbitt](entities/ArtBabbitt.md) — Disney animator and labor figure connecting character craft, collaborator credit, and the 1941 strike.
+- [Steamboat Willie](entities/SteamboatWillie.md) — Mickey Mouse short whose synchronized sound became a mass-animation breakthrough.
+- [Mary Poppins](entities/MaryPoppins.md) — Disney adaptation read through Travers's objections and a qualified Mr. Banks–Walt Disney parallel.
 - [David Fajgenbaum](entities/DavidFajgenbaum.md) — Physician-scientist and Castleman disease patient building patient-led drug-repurposing research.
 - [Every Cure](entities/EveryCure.md) — Nonprofit ranking and validating new disease uses for existing medicines.
 - [吕颜璐 / Lü Yanlu](entities/LvYanlu.md) — Source-scoped Shenzhen People's Hospital otolaryngologist explaining motion sickness, sensory conflict, habituation, and travel-management boundaries.
@@ -17447,6 +17451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Animation As Mass Art](concepts/AnimationAsMassArt.md) — System-level account of animation's mass reach through technique, character, collective labor, capital, distribution, and merchandise.
 - [Castleman Disease](concepts/CastlemanDisease.md) — Rare lymph-node disorder presented through a severe relapsing case and a bounded mTOR-sirolimus treatment hypothesis.
 - [Drug Repurposing](concepts/DrugRepurposing.md) — Evidence-led search for new therapeutic uses of existing medicines across scientific, incentive, and diffusion gaps.
 - [Motion-Sickness Sensory Conflict and Management / 晕动症感官冲突与应对](concepts/MotionSicknessSensoryConflictManagement.md) — Three-input model joining vestibular, visual, and proprioceptive mismatch to prediction, travel context, layered self-management, habituation, and clinical boundaries.

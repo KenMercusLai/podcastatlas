@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10176
+wiki_total_pages: 10177
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2186,6 +2186,9 @@ wiki_pages:
   - key: "AnimalAssistedTherapy"
     title: "Animal-Assisted Therapy"
     url: "/wiki/concepts/animalassistedtherapy/"
+  - key: "AnimationAsMassArt"
+    title: "Animation As Mass Art"
+    url: "/wiki/concepts/animationasmassart/"
   - key: "AnimationStudioCreativeEcology"
     title: "Animation Studio Creative Ecology"
     url: "/wiki/concepts/animationstudiocreativeecology/"

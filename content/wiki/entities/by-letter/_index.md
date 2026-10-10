@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13017
+wiki_total_pages: 13020
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "ArsinoeIV"
     title: "Arsinoe IV"
     url: "/wiki/entities/arsinoeiv/"
+  - key: "ArtBabbitt"
+    title: "Art Babbitt"
+    url: "/wiki/entities/artbabbitt/"
   - key: "Artemis2"
     title: "Artemis 2"
     url: "/wiki/entities/artemis2/"

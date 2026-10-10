@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3419
+topic_total_pages: 3420
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1189,6 +1189,9 @@ topic_concepts:
   - key: "AngelicIntelligence"
     title: "Angelic Intelligence"
     url: "/wiki/concepts/angelicintelligence/"
+  - key: "AnimationAsMassArt"
+    title: "Animation As Mass Art"
+    url: "/wiki/concepts/animationasmassart/"
   - key: "AnswerEngineOptimization"
     title: "Answer Engine Optimization"
     url: "/wiki/concepts/answerengineoptimization/"
