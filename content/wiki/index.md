@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.168从《长安的荔枝》聊吃荔枝真的上火？中医生教你这么吃不上火](sources/vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_.md) — 这病说来话长以荔枝“上火”为入口，讨论份量、体质、夏季饮食、冷食与中医食疗主张的证据边界。
 - [EP 21: AI Transformation: Beyond the Hype](sources/ep-21-ai-transformation-beyond-the-hype.md) — Data Science With Sam interview with Nan Li on business-led transformation, adoption, contextual data readiness, role-tiered literacy, and sandbox-to-production governance.
 - [576. The Irish War of Independence: Rise of the IRA (Part 1)](sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702.md) — The Rest Is History on post-Rising martyrdom, Sinn Fein's organizational rise, Thomas Ashe, the conscription crisis, and the 1918 electoral mandate.
 - [Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity](sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621.md) — Huberman Lab solo episode on branch-specific vagal signaling, calming versus alerting pathways, breathing, learning, gut-brain communication, and evidence-bounded self-regulation tools.

@@ -35317,3 +35317,11 @@ Added source `ep-21-ai-transformation-beyond-the-hype`; created [[NanLi]], [[Ado
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.168从《长安的荔枝》聊吃荔枝真的上火？中医生教你这么吃不上火
+
+Added source `vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_` and resynthesized [[TCMSummerPatternDifferentiation]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: amount, tolerance, symptoms, allergy or diabetes context, environment, and the wider diet are more durable decision inputs than a universal hot/cold food rule; chilling changes food temperature and eating context but does not validate or negate a TCM “heat” property. No settled contradiction was adopted. Litchi “上火,” excess/deficiency fire, sweetness and ripeness claims, fruit or peel antidotes, exact serving and food-temperature rules, and TCM weight treatments remain source-scoped public education rather than individualized nutrition or medical guidance. Broad host, guest, show, digestive, and weight-management pages were kept closed because the focused source and summer-health concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,424 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

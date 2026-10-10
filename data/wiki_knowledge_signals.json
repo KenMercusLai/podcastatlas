@@ -249674,9 +249674,9 @@
       "url": "/wiki/concepts/tcmspringselfcareboundary/"
     },
     "TCMSummerPatternDifferentiation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltokazMBcf7gttVl9s-XsYPC6TzT [ltokazMBcf7gttVl9s-XsYPC6TzT].md",
@@ -249691,9 +249691,16 @@
           "show": "这病说来话长",
           "title": "VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧",
           "url": "/wiki/sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk/"
+        },
+        {
+          "episode_file": "lo2EHF6SiV9CPINbCGcGIqP1YTU_ [lo2EHF6SiV9CPINbCGcGIqP1YTU_].md",
+          "key": "vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_",
+          "show": "这病说来话长",
+          "title": "VOL.168从《长安的荔枝》聊吃荔枝真的上火？中医生教你这么吃不上火",
+          "url": "/wiki/sources/vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/tcmsummerpatterndifferentiation/"
     },
     "TCMWeightManagementBoundary": {
