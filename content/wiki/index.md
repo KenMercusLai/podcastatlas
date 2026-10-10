@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [066 大话卫斯理之《不死药》：永生是福还是祸？](sources/ltte46cfjwcjc-gwcbkqb7zo7qh1.md) — 纸醉金迷FM以越狱、身份互换和南太平洋药源重述《不死药》，并把永生拆解为持续供给、认知退化、同意、垄断与不平等问题。
 - [The Chemistry of Food & Taste | Dr. Harold McGee](sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873.md) — Huberman Lab conversation on culinary chemistry, flavor transformation, trainable preference, and biological and cultural variation in taste.
 - [EP 22: Governing AI with Purpose and Inclusion](sources/ep-22-governing-ai-with-purpose-and-inclusion.md) — Data Science With Sam interview with Padmini Soni and Yuvika Sharma on lifecycle governance, proportional oversight, bias, inclusive design, and Asian women in AI.
 - [Essentials: Understanding & Conquering Depression](sources/scim3842843942-scim3842843942.md) — Condensed Huberman Lab episode on major depression as a multisystem disorder, assessment boundaries, inflammation, treatment evidence, and behavioral-tool feasibility.
@@ -4497,6 +4498,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
+- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》中既推动追查，也因判断失误成为药物依赖者。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
 - [Irish War of Independence](entities/IrishWarOfIndependence.md) — Intelligence, guerrilla, legitimacy, and political conflict that moved from military stalemate to truce and treaty negotiation.
 - [Harold McGee](entities/HaroldMcGee.md) — Food-science writer connecting experimental kitchen practice, chemistry, culinary history, and sensory culture.
@@ -17732,6 +17735,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
+- [Immortality Dependency and Scarcity / 永生依赖与稀缺](concepts/ImmortalityDependencyAndScarcity.md) — 当延寿依赖持续且可中断的稀缺供给时，供应控制会转化为退出伤害、垄断和累积不平等。
 - [Culinary Flavor Transformation](concepts/CulinaryFlavorTransformation.md) — Framework for how heat, browning, fermentation, extraction, aging, and oral processing create or release flavor.
 - [Sensory Preference Plasticity](concepts/SensoryPreferencePlasticity.md) — Bounded capacity for exposure, comparison, and attention to alter taste thresholds, discrimination, tolerance, and liking.
 - [Contextual Flavor Perception](concepts/ContextualFlavorPerception.md) — Interaction model joining food chemistry to sensory biology, serving conditions, expectation, memory, and culture.

@@ -4,8 +4,9 @@ type: concept
 tags: [immortality, consent, autonomy, irreversible-choice, fiction]
 sources:
   - 085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz
+  - ltte46cfjwcjc-gwcbkqb7zo7qh1
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 ## Definition
@@ -18,6 +19,8 @@ Immortality-transformation consent is the ethical problem created when one perso
 
 That knowledge does not resolve 阿秀's request. When she asks Kuang to bite her as she is dying, he refuses and allows her life to end peacefully. The compassionate reading is that he will not impose an irreversible curse during a vulnerable moment. The autonomy objection is that she asked with the limited information available and he unilaterally replaced her judgment with his own. A stronger decision process would disclose the feeding, secrecy, arrested aging, repeated loss, uncertain powers, and irreversibility as fully as possible, test whether the wish persists, and still acknowledge that informed consent under imminent death can never eliminate uncertainty.
 
+[[BuSiYaoNovel|《不死药》]] changes the structure from one irreversible transformation to an initially beneficial but permanently dependent treatment. Youth, strength, and healing come with infertility and progressive cognitive collapse if supply stops. Consent therefore requires more than accepting a side effect at the first dose: the person needs a realistic account of supply duration, control, withdrawal harm, alternatives, and whether a supplier can later turn dependence into coercion. [[WesleyNiKuang|卫斯理]]'s emergency ingestion also separates survival under immediate threat from a free decision to enter the long-term condition.
+
 ## Key Claims
 
 - Personal experience of a harmful transformation gives someone relevant warning authority, not automatic authority to decide for another competent person.
@@ -26,6 +29,7 @@ That knowledge does not resolve 阿秀's request. When she asks Kuang to bite he
 - Endless biological survival can block ordinary goods such as development, shared aging, stable identity, and a natural ending.
 - Refusing transformation can be compassionate and paternalistic at the same time.
 - Fiction can isolate the ethical structure of radical transformation without supplying a direct rule for real medical or legal decisions.
+- A formally chosen treatment is not substantively autonomous when catastrophic withdrawal, hidden duration, or monopoly control makes continuation unavoidable.
 
 ## Evidence
 
@@ -40,14 +44,20 @@ That knowledge does not resolve 阿秀's request. When she asks Kuang to bite he
 ### Unequal uses of immortality
 
 - [[085-wohe-jiangshi-youge-yuehui-ji-lingyi-jiangshi-xuanyi-aiqing-qihuan-yu-yiti-de-tongnian-jingdian-lqxo8d1q0_0jqqstctrch2w3_ugz]] contrasts Kuang and Fusheng's restraint with [[YamamotoKazuoMyDateWithAVampire|山本一夫]]'s live feeding, wealth, organization, and domination.
+- [[ltte46cfjwcjc-gwcbkqb7zo7qh1]] describes 骆之谦's effort to kill the islanders, monopolize the drug, and recruit a newly dependent user into exploitation.
+
+### Emergency choice and continuing supply
+
+- [[ltte46cfjwcjc-gwcbkqb7zo7qh1]] distinguishes a forced dose taken to prevent death from the later need for continuous supply, and varies the hosts' willingness according to infertility, duration, health benefit, family context, and predictable cognitive harm.
 
 ## Counterevidence & Qualifications
 
-The concept is derived from a supernatural television plot, not a real intervention with known probabilities, consent procedures, or institutional safeguards. 阿秀's decision-making capacity, information, alternatives, time for reflection, and exact dialogue are not independently assessed. The hosts disagree, and the story does not prove that finite life is always preferable, that requested transformation should always be honored, or that refusal is always paternalistic. Analogies to medicine, assisted dying, cryonics, or radical enhancement require domain-specific law and ethics.
+The concept is derived from a supernatural television plot and a science-fiction drug, not a real intervention with known probabilities, consent procedures, or institutional safeguards. 阿秀's decision-making capacity, information, alternatives, time for reflection, and exact dialogue are not independently assessed. 《不死药》 does not supply dose, production, substitution, withdrawal, or population data, and emergency ingestion under threat is not ordinary voluntary consent. The hosts disagree, and neither story proves that finite life is always preferable, that requested transformation should always be honored, or that refusal is always paternalistic. Analogies to medicine, assisted dying, cryonics, addiction, or radical enhancement require domain-specific evidence, law, and ethics.
 
 ## What Changed
 
-- Established the concept through the tension between experiential warning, compassionate refusal, and another person's stated request for irreversible survival.
+- Extended the concept from one-time irreversible transformation to recurring treatment whose withdrawal harms and supply control constrain future choice.
+- Distinguished emergency assent for immediate survival from informed acceptance of a permanent dependent condition.
 
 ## Related Concepts
 
@@ -56,3 +66,4 @@ The concept is derived from a supernatural television plot, not a real intervent
 - [[EndOfLifeAutonomyAndDignity]] - real-world adjacent field where choice near death requires safeguards and relational qualification.
 - [[TransformationAsExit]] - fictional neighboring pattern where irreversible transformation leaves ordinary human life.
 - [[UrbanizedSupernaturalWorldbuilding]] - craft framework that embeds the ethical problem in everyday modern institutions and relationships.
+- [[ImmortalityDependencyAndScarcity]] - political-economic extension showing how future supply can turn a chosen benefit into coercive dependence.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10322
+wiki_total_pages: 10323
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "ImmigrationDNADatabaseExpansion"
     title: "Immigration DNA Database Expansion"
     url: "/wiki/concepts/immigrationdnadatabaseexpansion/"
+  - key: "ImmortalityDependencyAndScarcity"
+    title: "Immortality Dependency and Scarcity / 永生依赖与稀缺"
+    url: "/wiki/concepts/immortalitydependencyandscarcity/"
   - key: "ImmortalityQuestPolitics"
     title: "Immortality Quest Politics / 求仙政治"
     url: "/wiki/concepts/immortalityquestpolitics/"

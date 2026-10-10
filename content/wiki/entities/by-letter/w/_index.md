@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13168
+wiki_total_pages: 13170
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "WeyChenggong"
     title: "卫成公 / 卫成侯 / Duke-Marquis Cheng of Wey"
     url: "/wiki/entities/weychenggong/"
+  - key: "WesleyNiKuang"
+    title: "卫斯理 / Wesley (Ni Kuang)"
+    url: "/wiki/entities/wesleynikuang/"
   - key: "WimanJoseon"
     title: "卫氏朝鲜 / Wiman Joseon"
     url: "/wiki/entities/wimanjoseon/"

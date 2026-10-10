@@ -35257,3 +35257,11 @@ Added source `578-the-irish-war-of-independence-bloody-sunday-part-3-glt85526998
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 066 大话卫斯理之《不死药》：永生是福还是祸？
+
+Added source `ltte46cfjwcjc-gwcbkqb7zo7qh1`; created [[BuSiYaoNovel|《不死药》]], disambiguated [[WesleyNiKuang|卫斯理]], and [[ImmortalityDependencyAndScarcity|永生依赖与稀缺]]; and resynthesized [[NiKuang|倪匡]] and [[ImmortalityTransformationConsent|永生转化同意]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's drug provides youth, healing, and strength only through continuing supply, while infertility and cognitive collapse after interruption turn a personal benefit into an infrastructure of dependency; concentrated production then creates incentives for monopoly, coercion, violence, and compounding inequality. Emergency ingestion to survive is distinct from informed acceptance of the long-term condition. No settled contradiction was adopted. The title's “不死” is qualified by the story's fatal heart vulnerability and execution, while plot sequence, drug mechanisms, island ecology, publication anecdotes, authorial intention, and the hosts' criticism of 卫斯理's judgment and the tsunami ending remain source-scoped. Broad mortality, show, 《百年法》, and supporting-character pages were kept closed because the focused source, novel, protagonist, author, consent, and scarcity pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,417 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
