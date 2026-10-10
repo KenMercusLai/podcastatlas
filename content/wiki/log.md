@@ -34633,3 +34633,11 @@ Added the Huberman Lab interview on recoverable resistance training, progressive
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 602. Greek Myths: Zeus, King of the Gods (Part 1)
+
+Added source `602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364`; created [[Hesiod]], [[Theogony]], [[DivineSuccessionMyth]], and [[GreekHeroCivicGenealogy]]; and resynthesized [[Zeus]] and [[GreekMythology]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Homeric and Hesiodic authority gave variable local and oral traditions shared literary shape without becoming scripture; Zeus's rise joins violent divine succession to cosmic order while leaving his sexual predation morally unresolved; and divine genealogy links a panhellenic god to local founders and monster-slayers. No settled contradiction was adopted. Greek belief, Indo-European origins, Near Eastern parallels, hero distinctiveness, biographical details, and variant mythic episodes remain source-scoped or require specialist corroboration. Broad [[Homer]], [[TheRestIsHistory]], and one-off mythic-character profiles were kept closed because the focused source and pages capture the durable additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,338 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

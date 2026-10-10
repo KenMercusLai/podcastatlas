@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10232
+wiki_total_pages: 10234
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "GreedDrivenNarrativeTrap"
     title: "Greed-Driven Narrative Trap / 贪欲驱动的自陷局"
     url: "/wiki/concepts/greeddrivennarrativetrap/"
+  - key: "GreekHeroCivicGenealogy"
+    title: "Greek Hero Civic Genealogy"
+    url: "/wiki/concepts/greekherocivicgenealogy/"
   - key: "GreekMythology"
     title: "Greek Mythology"
     url: "/wiki/concepts/greekmythology/"

@@ -66586,6 +66586,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/divineandciviclaw/"
     },
+    "DivineSuccessionMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/divinesuccessionmyth/"
+    },
     "DizzinessDiagnosticRouting": {
       "episode_count": 1,
       "show_count": 1,
@@ -104486,10 +104502,26 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/greeddrivennarrativetrap/"
     },
+    "GreekHeroCivicGenealogy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/greekherocivicgenealogy/"
+    },
     "GreekMythology": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -104560,6 +104592,13 @@
           "show": "The Rest Is History",
           "title": "604. Greek Myths: Sex, Drugs & Tragedy (Part 3)",
           "url": "/wiki/sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684/"
+        },
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
         }
       ],
       "updated": "2026-10-10",
@@ -114391,6 +114430,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/herschelgrunspan/"
+    },
+    "Hesiod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/hesiod/"
     },
     "HesterPiozzi": {
       "episode_count": 1,
@@ -250155,6 +250210,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/theodora/"
     },
+    "Theogony": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/theogony/"
+    },
     "Theophano": {
       "episode_count": 1,
       "show_count": 1,
@@ -282293,9 +282364,9 @@
       "url": "/wiki/concepts/zerosumconflicthesitationrisk/"
     },
     "Zeus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6474253297 [GLT6474253297].md",
@@ -282303,9 +282374,16 @@
           "show": "The Rest Is History",
           "title": "59. The World Cup of Gods - Part 2",
           "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
+        },
+        {
+          "episode_file": "GLT4871750364 [GLT4871750364].md",
+          "key": "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364",
+          "show": "The Rest Is History",
+          "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
+          "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/zeus/"
     },
     "ZeusLawTrustEthic": {
