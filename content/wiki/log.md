@@ -34782,3 +34782,10 @@ Added source `vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhua
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | How to Set & Achieve Massive Goals | Alex Honnold
+
+Added source `how-to-set-achieve-massive-goals-alex-honnold-scim3172039705`; created [[AlexHonnold]], [[HighConsequencePerformancePreparation]], and [[DomainSpecificRiskCalibration]]; and resynthesized [[GoalPursuitBehaviorDesign]] and [[OutdoorFlowState]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Honnold's El Capitan free solo emerged from logged smaller goals, repeated route exposure, exact rehearsal where difficulty and consequence concentrated, condition judgment, and willingness to abandon an attempt despite external pressure; expert climbing risk separates visible exposure, technical difficulty, protection, consequence, and behavior without making free soloing safe. No settled contradiction was adopted. Fall probability, causal training effects, flow, automaticity, longevity, exercise, and recovery claims remain retrospective or source-scoped, and the episode is not a climbing, risk-taking, or individualized exercise protocol. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused guest and concepts capture the bounded addition without reopening large inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,357 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

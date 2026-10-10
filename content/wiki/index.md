@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Set & Achieve Massive Goals | Alex Honnold](sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705.md) — Huberman Lab interview on Alex Honnold's El Capitan preparation, small-goal accumulation, climbing flow, risk calibration, aging, and mortality-aware effort.
 - [VOL.177白天睡不醒，晚上睡不着！不靠药，专业医生教你破局｜精神心理科](sources/vol-177-baitian-shui-bu-xing-wanshang-shui-bu-zhao-bu-kao-yao-zhuanye-yisheng-jiao-ni-poju-jingshen-xinlike-lqbtptpcfdnlegmmzukay8dbpnqv.md) — 这病说来话长 episode on persistent-insomnia recognition, sleep-anxiety and wearable-feedback loops, CBT-I, stepped multidisciplinary care, and hypnosis-memory boundaries.
 - [597. The First World War: The Massacre of the Innocents (Part 4)](sources/597-the-first-world-war-the-massacre-of-the-innocents-part-4-glt9434623550.md) — The Rest Is History on First Ypres, the Channel ports, trench stalemate, Khudadad Khan, Falkenhayn, and the Langemarck sacrifice myth.
 - [EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”](sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw.md) — Talk三联 with 土摩托 on Humboldt, interconnected nature, reading plus fieldwork, ecological context, disciplinary specialization, and embodied knowledge in the AI era.
@@ -4435,6 +4436,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [Alex Honnold](entities/AlexHonnold.md) — Professional climber connecting El Capitan preparation, route-specific risk judgment, intrinsic motivation, and long-horizon goals.
 - [First Battle of Ypres](entities/FirstBattleOfYpres.md) — 1914 battle that protected the Channel ports, fixed the Ypres salient, depleted the old BEF, and acquired a powerful German memory afterlife.
 - [Khudadad Khan](entities/KhudadadKhan.md) — Punjabi Muslim machine gunner at First Ypres and the first Muslim recipient of the Victoria Cross.
 - [Erich von Falkenhayn](entities/ErichVonFalkenhayn.md) — German chief of staff linking the failed Ypres offensive to western entrenchment and a rejected separate-peace proposal.
@@ -17589,6 +17591,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
 
 ## Concepts
+- [Domain-Specific Risk Calibration](concepts/DomainSpecificRiskCalibration.md) — Expert separation of visual salience, technical difficulty, protection, consequence, and behavioral adaptation within a practiced domain.
+- [High-Consequence Performance Preparation](concepts/HighConsequencePerformancePreparation.md) — Selective exact rehearsal, broad exposure, condition ranges, automaticity, and stopping judgment for consequential performance.
 - [Langemarck Myth](concepts/LangemarckMyth.md) — German memory construction that reorganized uncertain battlefield singing into a legend of youthful patriotic sacrifice and later political rebirth.
 - [Humboldtian Nature Interconnection / 洪堡式万物相连](concepts/HumboldtianNatureInterconnection.md) — Relational view of organisms, climate, geology, altitude, water, and human action grounded in measurement and comparison.
 - [Reading-Fieldwork Knowledge Loop / 阅读与行走的知识循环](concepts/ReadingFieldworkKnowledgeLoop.md) — Reciprocal method in which texts guide travel, situated evidence revises interpretation, and bodily friction remains qualified rather than treated as proof.

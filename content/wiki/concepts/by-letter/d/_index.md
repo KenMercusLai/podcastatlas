@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10262
+wiki_total_pages: 10264
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1058,6 +1058,9 @@ wiki_pages:
   - key: "DomainKnowHowMoat"
     title: "Domain Know-How Moat"
     url: "/wiki/concepts/domainknowhowmoat/"
+  - key: "DomainSpecificRiskCalibration"
+    title: "Domain-Specific Risk Calibration"
+    url: "/wiki/concepts/domainspecificriskcalibration/"
   - key: "DomainSpecificSuperintelligence"
     title: "Domain-Specific Superintelligence"
     url: "/wiki/concepts/domainspecificsuperintelligence/"

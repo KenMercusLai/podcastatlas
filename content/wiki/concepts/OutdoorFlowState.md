@@ -5,7 +5,8 @@ tags: [outdoor-sports, flow, attention, embodiment, nature]
 sources:
   - ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo
   - the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099
-last_updated: 2026-09-02
+  - how-to-set-achieve-massive-goals-alex-honnold-scim3172039705
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The current evidence treats outdoor flow as contingent immersion rather than gua
 
 The synthesis stays bounded by risk. Natural complexity and high consequence can intensify attention, but that does not make danger a shortcut to insight. Outdoor flow requires ability, preparation, equipment, route judgment, weather awareness, and the humility to stop; in wingsuiting and base jumping, narrow margins mean that a powerful focus state can coexist with catastrophic risk.
 
+A rehearsal boundary comes from [[AlexHonnold]]'s account of flow or “autopilot” as an aspiration during climbing, produced partly by repeating movement until it becomes kinesthetic. Yet the value of surprise changes with consequence: sticking an unexpected move can be rewarding on a rope, while free soloing requires fewer surprises and more certainty. Flow therefore depends on prior learning and [[HighConsequencePerformancePreparation]] rather than replacing deliberate route judgment.
+
 ## Key Claims
 - Outdoor flow is not identical to performance success; failure, wrong turns, or repeated attempts can still produce immersion.
 - Natural environments add sensory complexity that cannot be fully reproduced by indoor or screen-based contexts.
@@ -26,6 +29,7 @@ The synthesis stays bounded by risk. Natural complexity and high consequence can
 - High-risk focus can create a post-flow reset, but this remains source-scoped and should not be treated as a general safety claim.
 - Small goals and immediate next actions can prepare flow better than rigid status or outcome goals.
 - The pursuit of flow must remain bounded by preparation, ability judgment, and [[ExtremeEnvironmentRiskManagement]].
+- Rehearsal can support kinesthetic, low-deliberation execution, but the acceptable amount of surprise shrinks as consequences rise.
 
 ## Evidence
 - Trail-running and climbing immersion: [[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] presents outdoor flow through breath, downhill running, forest sound, rock texture, fear, weather, and unexpected route changes.
@@ -34,14 +38,15 @@ The synthesis stays bounded by risk. Natural complexity and high consequence can
 - Extreme focus reset: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] has Stumpf describe wingsuiting and base jumping as narrowing attention to the next few seconds in a way that resembled the focus before military operations.
 - Post-flow clarity: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] says multi-day jumping trips could leave Stumpf calmer, clearer, and more patient for months afterward.
 - Outcome restraint: [[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] distinguishes enjoyable outdoor challenge from status escalation, while [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] distinguishes focus and reset from pretending high-risk sport is safe.
+- Rehearsed automaticity - [[how-to-set-achieve-massive-goals-alex-honnold-scim3172039705]] has Honnold connect repeated climbing sequences to kinesthetic execution with less disruptive thought.
+- Consequence-sensitive surprise - [[how-to-set-achieve-massive-goals-alex-honnold-scim3172039705]] values unexpected success in roped climbing while seeking much greater certainty in free soloing.
 
 ## Counterevidence & Qualifications
-The sources do not establish a universal mechanism for flow, time perception, trauma recovery, or mood improvement. Outdoor flow can be valuable, but danger can also overwhelm attention, injure, or kill. The Stumpf wingsuiting material is especially source-scoped because the same narrow focus that feels clarifying exists inside a very high-consequence activity.
+The sources do not establish a universal mechanism for flow, automaticity, time perception, trauma recovery, or mood improvement. Outdoor flow can be valuable, but danger can also overwhelm attention, injure, or kill. The Stumpf wingsuiting and Honnold free-solo material are especially source-scoped because the same narrow or automatic focus that feels clarifying exists inside very high-consequence activity. Repetition does not guarantee correct movement, eliminate rare events, or make flow an adequate substitute for stopping judgment.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving the EP250 source.
-- Added Stumpf's wingsuiting/base-jumping account as an extreme-risk flow and post-flow clarity branch.
-- Tightened the safety boundary around chasing flow in dangerous environments.
+- Added rehearsed kinesthetic execution as a pathway into outdoor flow.
+- Distinguished productive surprise in protected practice from the certainty sought when failure would be catastrophic.
 
 ## Related Concepts
 - [[FlowEnvironmentDesign]] - broader practice of arranging conditions for deep attention.
@@ -51,3 +56,4 @@ The sources do not establish a universal mechanism for flow, time perception, tr
 - [[OutdoorSafetyPreparation]] - equipment, route, weather, and stopping boundary from EP250.
 - [[EmbodiedJudgment]] - body and environment branch that helps explain outdoor attention.
 - [[TrainedIntuition]] - skill and feedback prerequisite for reliable action under uncertainty.
+- [[HighConsequencePerformancePreparation]] - prior rehearsal and stopping discipline that bound automatic execution under risk.

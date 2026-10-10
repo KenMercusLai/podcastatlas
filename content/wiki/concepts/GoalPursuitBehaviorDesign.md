@@ -9,6 +9,7 @@ sources:
   - the-science-of-setting-achieving-goals-scim1292734289
   - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
   - essentials-how-to-set-achieve-goals-scim4913225889
+  - how-to-set-achieve-massive-goals-alex-honnold-scim3172039705
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -29,8 +30,10 @@ A perception-and-preparation layer comes from [[tools-for-setting-achieving-goal
 
 The durable principle is behavioral specificity with flexibility. The episodes' exact time horizons, reminder practices, visualizations, visual-focus durations, reward pairings, and planning increments are tools to test, not requirements that define whether a goal is legitimate.
 
+The framework also covers multi-year performance goals. [[AlexHonnold]] describes free soloing El Capitan as the outgrowth of smaller climbing objectives documented in journals, repeated route exposure, and a major goal deferred until preparation was sufficient. His abandoned autumn attempt makes stopping and rescheduling part of goal competence, while [[HighConsequencePerformancePreparation]] shows that practice can be allocated according to where difficulty and consequence concentrate rather than spread uniformly across a project.
+
 ## Key Claims
-- A goal becomes operational when a limited set of challenging but plausible priorities is stated as repeatable actions rather than vague identities or outcomes, while essential responsibilities continue.
+- A goal becomes operational when a limited set of challenging but plausible priorities is stated as repeatable actions rather than vague identities or outcomes; recorded smaller goals can accumulate into large outcomes while essential responsibilities continue.
 - Measurement should emphasize controllable practice time or repetitions when the final outcome is hard to quantify.
 - Approach-oriented wording can make desired action and progress easier to identify than avoidance wording alone.
 - Meaningful choice, state-matched planning, and emergency slack can preserve ownership and resilience inside a structured goal.
@@ -51,12 +54,15 @@ The durable principle is behavioral specificity with flexibility. The episodes' 
 - Difficulty and priority calibration - [[the-science-of-setting-achieving-goals-scim1292734289]] recommends moderately difficult goals and limiting simultaneous major priorities.
 - Plan-review loop - [[the-science-of-setting-achieving-goals-scim1292734289]] connects concrete action steps, intermediate milestones, and regular self-assessment.
 - Editorial continuity - [[essentials-how-to-set-achieve-goals-scim4913225889]] repeats the earlier solo episode's moderate-difficulty, concrete-action, milestone, and review framework.
+- Multi-year objective structure - [[how-to-set-achieve-massive-goals-alex-honnold-scim3172039705]] connects climbing journals, progressively difficult daily objectives, repeated El Capitan exposure, and a major goal carried forward across years.
+- Readiness and stopping - [[how-to-set-achieve-massive-goals-alex-honnold-scim3172039705]] treats an abandoned attempt and later rescheduling as part of successful pursuit rather than as failure of commitment.
 
 ## Counterevidence & Qualifications
-The sources supply toolkits, not comparative evidence that every component adds benefit or that 12 weeks, two-week planning, weekly review, an 85% success ratio, approach framing, slack, target narrowing, or reward pairing is optimal across goals. Positive fantasy may clarify values yet substitute for action if it creates premature satisfaction. Avoidance goals can be appropriate when a prohibited harm is the real target. Limited-priority advice should not erase caregiving, health, employment, or multiple unavoidable obligations. Low motivation can also reflect clinical or structural problems that scheduling, visualization, gaze control, or self-reward cannot resolve.
+The sources supply toolkits and retrospective cases, not comparative evidence that every component adds benefit or that 12 weeks, two-week planning, weekly review, an 85% success ratio, approach framing, slack, target narrowing, selective rehearsal, or reward pairing is optimal across goals. Honnold's elite climbing practice does not establish a safe template for free soloing or a universal rule for other domains. Positive fantasy may clarify values yet substitute for action if it creates premature satisfaction. Avoidance goals can be appropriate when a prohibited harm is the real target. Limited-priority advice should not erase caregiving, health, employment, or multiple unavoidable obligations. Low motivation can also reflect clinical or structural problems that scheduling, visualization, gaze control, or self-reward cannot resolve.
 
 ## What Changed
-- No current judgment changed; the new Essentials edit adds overlapping provenance for the earlier solo framework rather than an independent test of it.
+- Added a multi-year case in which logged small goals and repeated exposure accumulate into an exceptional outcome.
+- Added stopping, deferral, and selective rehearsal as parts of competent goal pursuit under high consequence.
 
 ## Related Concepts
 - [[MotivationRewardEffortCalculation]] - explains why task value and perceived effort affect initiation and persistence.
@@ -71,3 +77,4 @@ The sources supply toolkits, not comparative evidence that every component adds 
 - [[PurposeAnchoredIdentity]] - distinguishes the motive beneath a goal from one fixed role or outcome.
 - [[MotivationCrowdingOut]] - reward-design boundary for temptation bundling and milestone incentives.
 - [[SustainableHealthOptimization]] - flexibility and foundations boundary for any routine.
+- [[HighConsequencePerformancePreparation]] - extends behavior design into selective rehearsal, readiness judgment, and abort decisions.

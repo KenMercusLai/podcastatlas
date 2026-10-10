@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13089
+wiki_total_pages: 13090
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "AlexHearn"
     title: "Alex Hearn"
     url: "/wiki/entities/alexhearn/"
+  - key: "AlexHonnold"
+    title: "Alex Honnold"
+    url: "/wiki/entities/alexhonnold/"
   - key: "AlexKarp"
     title: "Alex Karp"
     url: "/wiki/entities/alexkarp/"

@@ -10781,6 +10781,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/alexhearn/"
     },
+    "AlexHonnold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3172039705 [SCIM3172039705].md",
+          "key": "how-to-set-achieve-massive-goals-alex-honnold-scim3172039705",
+          "show": "Huberman Lab",
+          "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+          "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/alexhonnold/"
+    },
     "AlexLeeCalifornia": {
       "episode_count": 1,
       "show_count": 1,
@@ -67316,6 +67332,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/domainknowhowmoat/"
     },
+    "DomainSpecificRiskCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3172039705 [SCIM3172039705].md",
+          "key": "how-to-set-achieve-massive-goals-alex-honnold-scim3172039705",
+          "show": "Huberman Lab",
+          "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+          "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/domainspecificriskcalibration/"
+    },
     "DomainSpecificSuperintelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -102535,9 +102567,9 @@
       "url": "/wiki/concepts/goalmanagementtraining/"
     },
     "GoalPursuitBehaviorDesign": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -102580,6 +102612,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Set & Achieve Goals",
           "url": "/wiki/sources/essentials-how-to-set-achieve-goals-scim4913225889/"
+        },
+        {
+          "episode_file": "SCIM3172039705 [SCIM3172039705].md",
+          "key": "how-to-set-achieve-massive-goals-alex-honnold-scim3172039705",
+          "show": "Huberman Lab",
+          "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+          "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
         }
       ],
       "updated": "2026-10-10",
@@ -115421,6 +115460,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/highconsequencebiologicalresearchtransparency/"
+    },
+    "HighConsequencePerformancePreparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3172039705 [SCIM3172039705].md",
+          "key": "how-to-set-achieve-massive-goals-alex-honnold-scim3172039705",
+          "show": "Huberman Lab",
+          "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+          "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/highconsequenceperformancepreparation/"
     },
     "HighContextIntimacyMiscommunication": {
       "episode_count": 1,
@@ -191047,9 +191102,9 @@
       "url": "/wiki/concepts/outcomeindependentcreativepractice/"
     },
     "OutdoorFlowState": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻 [lpV4EGUMBXCJRxK3jYPehYXcqFUo].md",
@@ -191064,9 +191119,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM3172039705 [SCIM3172039705].md",
+          "key": "how-to-set-achieve-massive-goals-alex-honnold-scim3172039705",
+          "show": "Huberman Lab",
+          "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+          "url": "/wiki/sources/how-to-set-achieve-massive-goals-alex-honnold-scim3172039705/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/outdoorflowstate/"
     },
     "OutdoorVehicleLifestyleDesign": {
