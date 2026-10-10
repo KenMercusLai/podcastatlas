@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10247
+wiki_total_pages: 10250
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "SchoolAIBoundaries"
     title: "School AI Boundaries"
     url: "/wiki/concepts/schoolaiboundaries/"
+  - key: "SchoolBelongingThroughCare"
+    title: "School Belonging Through Care / 以关怀赢得学校归属"
+    url: "/wiki/concepts/schoolbelongingthroughcare/"
   - key: "SchoolLearningStateDesign"
     title: "School Learning State Design"
     url: "/wiki/concepts/schoollearningstatedesign/"

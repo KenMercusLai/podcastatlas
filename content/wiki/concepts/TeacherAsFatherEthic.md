@@ -4,7 +4,8 @@ type: concept
 tags: [education, mentorship, ethics, social-history, chinese-history]
 sources:
   - zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko
-last_updated: 2026-09-14
+  - 076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ knowledge_schema: synthesis-v1
 
 The source also keeps the ethic socially concrete. Respect for a teacher is expressed through formal拜师, `束脩`, co-residence or household access, service labor, festival gifts, post-training visits, and industry introductions. The father analogy therefore marks both affection and hierarchy: the teacher gives knowledge and access, while the student owes deference and ongoing obligation.
 
-The concept should not be flattened into modern "respect teachers" rhetoric. The source's strongest point is ambivalent: the same ethic that honors transformative instruction can also naturalize dependence, unpaid work, and master-like authority.
+The concept should not be flattened into modern "respect teachers" rhetoric. The historical source's strongest point is ambivalent: the same ethic that honors transformative instruction can also naturalize dependence, unpaid work, and master-like authority. The Jin Yong roundtable supplies a modern literary boundary. It explains why readers may accept Yang Guo and Xiaolongnü's romance only by treating his departure from the tomb as the end of active instruction; enduring gratitude cannot by itself make a relationship equal while one party still controls teaching, evaluation, protection, or resources.
 
 ## Key Claims
 
@@ -27,6 +28,7 @@ The concept should not be flattened into modern "respect teachers" rhetoric. The
 - The ethic joins affection, hierarchy, reciprocity, and dependence in one long relationship.
 - A teacher's role could extend beyond lessons into livelihood access, reputation, and work referrals.
 - The proverb becomes ethically ambiguous when gratitude language hides coercive labor or master-servant control.
+- Parent-like respect does not erase consent and equality requirements in an active teacher-student relationship.
 
 ## Evidence
 
@@ -35,15 +37,16 @@ The concept should not be flattened into modern "respect teachers" rhetoric. The
 - Household and service dependence: [[zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko|Hanji 405-2]] describes students or apprentices moving into a teacher's home and prioritizing the teacher's household work.
 - Livelihood access: [[zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko|Hanji 405-2]] says masters could introduce work and take a cut in some performance trades.
 - Ambivalent hierarchy: [[zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko|Hanji 405-2]] also preserves sayings and meal rules that make the apprentice resemble a servant, not only a grateful student.
+- Modern relationship boundary: [[076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0]] invokes the proverb while arguing that romance is unacceptable during active teacher authority and becomes separately discussable only after authority has genuinely ended between mature adults.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in one compressed podcast explainer and should not be treated as a complete history of all Chinese teacher-student relations. The source blends literati teachers, craft masters, performance-trade masters, household tutors, hired labor, and apprentices; those domains overlap but are not identical. The father analogy should therefore be read as a broad social-ethical frame, with [[TraditionalChineseApprenticeship|traditional Chinese apprenticeship]] carrying the more specific labor and institutional claims.
+The historical account is one compressed podcast explainer and should not be treated as a complete history of all Chinese teacher-student relations. It blends literati teachers, craft masters, performance-trade masters, household tutors, hired labor, and apprentices; those domains overlap but are not identical. The Jin Yong discussion is literary and conversational rather than legal, safeguarding, or consent guidance. The father analogy should therefore be read as a broad social-ethical frame, with [[TraditionalChineseApprenticeship|traditional Chinese apprenticeship]] carrying the more specific labor claims and [[StructuralPowerImbalance|structural power imbalance]] carrying the modern authority boundary.
 
 ## What Changed
 
-- Created the concept from Hanji 405-2's explanation of "一日为师，终身为父."
-- Marked the proverb as both gratitude ethic and hierarchy risk rather than simple moral praise.
+- Added the distinction between enduring gratitude and ongoing teacher authority.
+- Added equality and consent as limits on translating parent-like respect into romantic legitimacy.
 
 ## Related Concepts
 
@@ -52,3 +55,5 @@ This concept is grounded in one compressed podcast explainer and should not be t
 - [[ImperialTeacherHonorRitual|帝王尊师礼制]] - court-facing version where teacher respect is staged publicly by a ruler.
 - [[RitualizedSocialBoundary|仪式化社会边界]] - broader pattern for making role hierarchy visible through repeated gestures.
 - [[VocationalEducation|Vocational Education]] - broader learning-for-livelihood domain that this ethic historically organized through personal dependence.
+- [[StructuralPowerImbalance|结构性权力不平衡]] - explains why gratitude cannot neutralize active authority over evaluation, resources, or opportunity.
+- [[MultidimensionalMentorQuality|多维良师评价]] - separates genuine care and teaching ability from unlimited personal authority.

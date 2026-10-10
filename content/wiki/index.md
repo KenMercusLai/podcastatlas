@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [076 【教师节特辑】金庸宇宙师父大盘点](sources/076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0.md) — 纸醉金迷FM以金庸师徒比较能力、教学、性格、关爱、声望与人脉，并延伸到多师成才、师生权力边界和以关怀赢得的母校归属。
 - [VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」](sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on dietary-fat quantity and quality, cooking-oil selection, heat, oxidation, labels, storage, and reuse.
 - [五条人之仁科×罗永浩！近五个小时的变态超长对谈！](sources/lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq.md) — 仁科与罗永浩从海丰童年、广州街头谋生和五条人成形谈到方言写歌、破圈、观众期待、《地球恋曲》与 AI 音乐判断。
 - [599. The First World War: Downfall of the Habsburgs (Part 6)](sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296.md) — The Rest Is History on Przemyśl, Habsburg military collapse in Galicia, the Carpathian relief disaster, Russian occupation, Russification, pogroms, deportation, and German dependence.
@@ -4427,6 +4428,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [张三丰（金庸小说） / Zhang Sanfeng (Jin Yong)](entities/ZhangSanfengJinYong.md) — 纸醉金迷FM以武功、因材施教、情绪稳定、爱护和不囿门户评价的全能型良师。
 - [仁科 / Renke](entities/RenkeMusician.md) — 以海丰经验、广州街头网络、五条人创作与破圈后的公众生活连接地方性和艺术自主的音乐人。
 - [五条人 / Wutiaoren](entities/WutiaorenBand.md) — 从海丰方言与广州非正式音乐基础设施中形成、后经《乐队的夏天》进入大众视野的乐队。
 - [阿茂 / A Mao (Wutiaoren)](entities/AMaoWutiaoren.md) — 五条人的奠基合作者、早期海丰话歌曲重要作者及《地球恋曲》主要作曲者。
@@ -17569,6 +17571,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Multidimensional Mentor Quality / 多维良师评价](concepts/MultidimensionalMentorQuality.md) — 将专业能力、教学能力、性格稳定、学生关爱、声望和关系资源分开评估的良师框架。
+- [Multi-Mentor Mastery and Learner Fit / 多师承与适配型成才](concepts/MultiMentorMastery.md) — 以多位老师、传承系统、机缘、练习、胸襟与学习者适配共同解释高水平成长。
+- [School Belonging Through Care / 以关怀赢得学校归属](concepts/SchoolBelongingThroughCare.md) — 以教学、支持和不放弃困难学生而非名气或证书界定母校归属。
 - [Cooking Oil Selection and Handling](concepts/CookingOilSelectionAndHandling.md) — Household framework matching oil processing and composition to cooking temperature, labels, packaging, storage, and bounded reuse.
 - [Dietary Fat Quantity and Quality](concepts/DietaryFatQuantityAndQuality.md) — Two-axis framework joining total fat intake with fatty-acid mix, hidden fats, source variety, and substitution context.
 - [Small-Town Experience as Aesthetic Language / 小镇经验的审美转化](concepts/SmallTownExperienceAsAestheticLanguage.md) — 将地方语言、劳动、物件、时尚、失败与社会关系选择性重组为艺术世界，而非透明复制地方生活。

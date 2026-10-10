@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10247
+wiki_total_pages: 10250
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1583,6 +1583,9 @@ wiki_pages:
   - key: "MultiIssueNegotiation"
     title: "Multi-Issue Negotiation / 多议题谈判"
     url: "/wiki/concepts/multiissuenegotiation/"
+  - key: "MultiMentorMastery"
+    title: "Multi-Mentor Mastery and Learner Fit / 多师承与适配型成才"
+    url: "/wiki/concepts/multimentormastery/"
   - key: "MultiPerspectiveMurderNarration"
     title: "Multi-Perspective Murder Narration"
     url: "/wiki/concepts/multiperspectivemurdernarration/"
@@ -1598,6 +1601,9 @@ wiki_pages:
   - key: "MultidimensionalMarriageMeaning"
     title: "Multidimensional Marriage Meaning / 婚姻的多维意义"
     url: "/wiki/concepts/multidimensionalmarriagemeaning/"
+  - key: "MultidimensionalMentorQuality"
+    title: "Multidimensional Mentor Quality / 多维良师评价"
+    url: "/wiki/concepts/multidimensionalmentorquality/"
   - key: "MultidisciplinaryHospitalCare"
     title: "Multidisciplinary Hospital Care / 医院多职种协作"
     url: "/wiki/concepts/multidisciplinaryhospitalcare/"
