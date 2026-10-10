@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13124
+wiki_total_pages: 13127
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "CaseyWhite"
     title: "Casey White"
     url: "/wiki/entities/caseywhite/"
+  - key: "CasketLetters"
+    title: "Casket Letters"
+    url: "/wiki/entities/casketletters/"
   - key: "CassSunstein"
     title: "Cass Sunstein"
     url: "/wiki/entities/casssunstein/"

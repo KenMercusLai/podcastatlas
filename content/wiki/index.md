@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [589. Mary, Queen of Scots: Downfall (Part 6)](sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788.md) — The Rest Is History on Bothwell's coercive rise, Mary's deposition and failed restoration, the casket letters, English detention, and the distinction between uncertain murder guilt and failed rule.
 - [Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller](sources/scim9219615286-scim9219615286.md) — Condensed Huberman Lab interview on local and systemic exercise heat, flow-preserving glabrous-skin cooling, thermal-sensation traps, and evidence boundaries.
 - [590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)](sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954.md) — The Rest Is History on Lincoln's conciliatory final weeks, limited Black suffrage, Booth's Brutus fantasy, and the shift from kidnapping to assassination.
 - [How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard](sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004.md) — Huberman Lab interview on active adult learning, synaptic and neuromodulator timing, paired vagus stimulation, stroke rehabilitation, tinnitus retuning, and evidence limits.
@@ -4460,6 +4461,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
+- [Casket Letters](entities/CasketLetters.md) — Disputed documents used to allege Mary, Queen of Scots' adultery and complicity in Darnley's murder.
+- [James Hepburn / Earl of Bothwell](entities/JamesHepburnEarlOfBothwell.md) — Scottish magnate whose suspected murder role, seizure, and marriage accelerated Mary's collapse.
+- [James Stewart / Earl of Moray](entities/JamesStewartEarlOfMoray.md) — Mary's half-brother and Protestant regent who defeated her restoration and supplied evidence against her.
 - [Michael Kilgard](entities/MichaelKilgard.md) — Neuroscientist connecting adult plasticity, active feedback, neuromodulator timing, and paired vagus-nerve stimulation for rehabilitation.
 - [Lincoln Assassination Conspiracy](entities/LincolnAssassinationConspiracy.md) — April 1865 multi-target plot, support network, manhunt, and unresolved boundary between Confederate sympathizers and formal command.
 - [黄药师 / Huang Yaoshi](entities/HuangYaoshi.md) — 《射雕英雄传》中兼具广博才情、诗意宗师气质、家人深情与残酷争议的桃花岛主。
@@ -17649,6 +17653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Monarchical Deposition Legitimacy](concepts/MonarchicalDepositionLegitimacy.md) — The gap between practical removal, coerced abdication, and accepted transfer of sovereignty.
 - [Temporally Gated Neuroplasticity](concepts/TemporallyGatedNeuroplasticity.md) — Learning model in which active circuits, synaptic order, feedback, and short neuromodulatory windows determine selective change.
 - [Paired Vagus Nerve Stimulation](concepts/PairedVagusNerveStimulation.md) — Implanted closed-loop strategy coupling brief vagus stimulation to selected rehabilitation or auditory events.
 - [Human Neural Organoids and Assembloids](concepts/HumanNeuralOrganoidsAndAssembloids.md) — Patient-derived, region-specific neural tissue models for development, migration, circuit formation, transplantation, and bounded preclinical inference.

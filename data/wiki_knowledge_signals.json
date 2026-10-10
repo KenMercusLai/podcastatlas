@@ -37778,6 +37778,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/caseymeans/"
     },
+    "CasketLetters": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/casketletters/"
+    },
     "Cassivellaunus": {
       "episode_count": 1,
       "show_count": 1,
@@ -134064,6 +134080,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jamesearlray/"
     },
+    "JamesHepburnEarlOfBothwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jameshepburnearlofbothwell/"
+    },
     "JamesHolland": {
       "episode_count": 3,
       "show_count": 1,
@@ -134221,6 +134253,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/jamessteinberg/"
+    },
+    "JamesStewartEarlOfMoray": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jamesstewartearlofmoray/"
     },
     "JamesVIAndI": {
       "episode_count": 2,
@@ -168777,9 +168825,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -168822,9 +168870,16 @@
           "show": "The Rest Is History",
           "title": "619. Elizabeth I: The Virgin Queen (Part 4)",
           "url": "/wiki/sources/619-elizabeth-i-the-virgin-queen-part-4-glt7930465337/"
+        },
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/maryqueenofscots/"
     },
     "MaryRenault": {
@@ -177889,6 +177944,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/monarchicaladaptivecontinuity/"
+    },
+    "MonarchicalDepositionLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/monarchicaldepositionlegitimacy/"
     },
     "MonarchicalRecognitionLegitimacy": {
       "episode_count": 2,
@@ -222878,9 +222949,9 @@
       "url": "/wiki/concepts/royaldutyemotionaldisclosureconflict/"
     },
     "RoyalExecutionLegitimacy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2334035496 [GLT2334035496].md",
@@ -222902,9 +222973,16 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT8999516788 [GLT8999516788].md",
+          "key": "589-mary-queen-of-scots-downfall-part-6-glt8999516788",
+          "show": "The Rest Is History",
+          "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
+          "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/royalexecutionlegitimacy/"
     },
     "RoyalFamilyMediaVulnerability": {

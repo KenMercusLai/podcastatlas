@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10292
+wiki_total_pages: 10293
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "MonarchicalAdaptiveContinuity"
     title: "Monarchical Adaptive Continuity"
     url: "/wiki/concepts/monarchicaladaptivecontinuity/"
+  - key: "MonarchicalDepositionLegitimacy"
+    title: "Monarchical Deposition Legitimacy"
+    url: "/wiki/concepts/monarchicaldepositionlegitimacy/"
   - key: "MonarchicalRecognitionLegitimacy"
     title: "Monarchical Recognition Legitimacy"
     url: "/wiki/concepts/monarchicalrecognitionlegitimacy/"
