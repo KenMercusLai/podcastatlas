@@ -3193,14 +3193,14 @@
       "earliest_episode_date": "2023-10-20",
       "latest_episode_date": "2026-10-09",
       "latest_episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
-      "source_note_count": 53,
-      "topic_matched_source_note_count": 39,
+      "source_note_count": 54,
+      "topic_matched_source_note_count": 40,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 39
+          "source_note_count": 40
         }
       ],
       "entities": [
@@ -3209,7 +3209,7 @@
           "title": "马伯庸 / Ma Boyong",
           "url": "/wiki/entities/maboyong/",
           "kind": "person",
-          "episode_count": 3
+          "episode_count": 4
         },
         {
           "key": "ZhangCang",

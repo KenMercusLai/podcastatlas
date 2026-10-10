@@ -4479,6 +4479,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [070 倪匡传奇：姗姗来迟的纪念特辑](sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh.md) — 纸醉金迷FM以公开处决、两次溺水、虫害、蝎子草与蝗群呈现倪匡如何把死亡、身体危险和乡野知识转化为叙事素材。
 - [Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060.md) — Condensed Huberman Lab interview on psychedelic categories, self-model change, clinical preparation and monitoring, microdosing evidence, bad-trip risk, and neurological-translation limits.
 
+- [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
+
 ## Entities
 - [Harold Davidson](entities/HaroldDavidson.md) — Defrocked Stiffkey rector whose disputed rescue ministry, boundary violations, tabloid scandal, fairground career, and death resist simple innocence or guilt narratives.
 - [谭东涵 / Tan Donghan](entities/TanDonghan.md) — Medically trained investment guest connecting innovative-drug development with payment, licensing, globalization, and original research capability.
@@ -4930,7 +4932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鹧鸪哨 / Zhegu Shao](entities/ZheguShao.md) — 扎格拉玛后裔与搬山道人，以规则约束下的能力、坦荡和付出代价仍未完成的雮尘珠使命进入当前知识。
 - [雮尘珠 / Muchen Pearl](entities/MuchenPearl.md) — 连接扎格拉玛诅咒、鹧鸪哨失败、Shirley杨继承使命与云南路线的虚构任务物。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
-- [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
+- [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料、传统文本与制度系统支撑通俗悬疑叙事，并以伏笔回收、社会寓言和道德选择组织历史或幻想世界的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
 - [张苍 / Zhang Cang](entities/ZhangCang.md) — 横跨小说制度讨论与汉廷史事的秦汉官员，现有画像涵盖水德争议、罢相问责、律历算学、报恩与长寿轶事。
 - [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
@@ -14878,7 +14880,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hayao Miyazaki / 宫崎骏](entities/HayaoMiyazaki.md) — Animation director used as a comparison point for brave girl protagonists and otherworld fantasy after Alice.
 - [《千与千寻》 / Spirited Away](entities/SpiritedAway.md) — Miyazaki otherworld film compared with Alice through child agency under strange rules.
 - [《黑客帝国》 / The Matrix](entities/TheMatrix.md) — Cyberpunk Alice afterlife and Campbellian call/refusal example that turns rabbit-hole imagery and red/blue-pill choice into a reality-transition metaphor.
-- [《桃花源记》 / Peach Blossom Spring](entities/PeachBlossomSpring.md) — 既是异世界入口比较，也是区分开放探索与复制他人路线的文学隐喻。
+- [《桃花源记》 / Peach Blossom Spring](entities/PeachBlossomSpring.md) — 既是异世界入口与路径隐喻，也可被现代小说反转为受欲望、治理和资源不平等影响、需要持续维护的共同体。
 - [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
 - [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
 - [Lewis Henry Morgan](entities/LewisHenryMorgan.md) — 19th-century anthropology figure connected to Bachofen and later debates over kinship and patriarchal historical contingency.
@@ -17694,6 +17696,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claire Lungo](entities/ClaireLungo.md) — Data scientist connecting statistics and ML foundations to model choice, domain-aware prompting, application auditability, and disciplined GenAI evaluation.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
+- [《桃花源没事》](entities/TaohuayuanMeishi.md) — 马伯庸以妖怪社区、基层治理、逍遥丹谜案和资源不平等反转桃花源，并把理想共同体重构为持续维护的实践。
+
 ## Concepts
 - [Commercialized Scandal Spectacle](concepts/CommercializedScandalSpectacle.md) — Conversion of public disgrace, lost status, bodily exposure, and notoriety into repeatable paid entertainment.
 - [China Research Visibility at ASCO](concepts/ASCOChinaResearchVisibility.md) — Rising Chinese oncology conference presence as a qualified capability signal rather than proof of global leadership.
@@ -18084,7 +18088,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Values Under Cost / 有代价时的公开价值检验](concepts/PublicValuesUnderCost.md) — 公开道德身份只有在行动带来政治、身体、声誉或组织成本时仍能约束选择，才获得可信度。
 - [Bureaucratic Procedure as Leverage / 官僚程序作为杠杆](concepts/BureaucraticProcedureAsLeverage.md) — 借公文、排班、考勤、管辖和表彰让受保护行为变得可见且产生组织成本的策略。
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
-- [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部功能，再使其以新的因果、规则、人物、环境解释或包袱功能返回。
+- [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 让细节以新的因果、规则或人物功能返回，并区分回收机制是否成立与悬疑是否仍有遮蔽。
 - [Adventure-Game Narrative Structure / 冒险游戏式叙事结构](concepts/AdventureGameNarrativeStructure.md) — 以路线、环境线索、谜题、战斗状态与奖励构成连续推进，同时区分结构类比与直接游戏影响。
 - [Rule-Bound Adventure Problem Solving / 规则约束式冒险解题](concepts/RuleBoundAdventureProblemSolving.md) — 以多重规则、有限时间和不完整知识构造冒险难题，并通过既有工具、环境利用与人物选择完成解法。
 - [Scientific-Naturalistic Supernatural Ambiguity / 科学化解释与灵异留白](concepts/ScientificNaturalisticSupernaturalAmbiguity.md) — 用医学、生态或机械化语言使超自然威胁可观察，同时保留无法完全消解的灵异不确定性。

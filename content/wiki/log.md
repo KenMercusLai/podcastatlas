@@ -35141,3 +35141,11 @@ Added source `583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-g
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言
+
+Added source `068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0`; created [[TaohuayuanMeishi|《桃花源没事》]]; and resynthesized [[MaBoyong|马伯庸]], [[PeachBlossomSpring|《桃花源记》]], and [[NarrativeSetupAndPayoff|叙事铺垫与回收]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel turns Peach Blossom Spring into an administered human-and-monster community where schooling, medicine, cultivation resources, inherited status, addictive demand, and ignored warnings join a corruption mystery; its finale makes curse, coin, bracelet, and elixir converge precisely, although visible preparation can reduce surprise and long setup plus symbolic characterization weaken the path to that payoff. No settled contradiction was adopted. Plot facts, motives, class interpretation, modern-policing analogy, mythic references, and authorial-craft judgments remain source-scoped readings of fiction rather than evidence about real religion, policing, addiction, education, or social mobility. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and older source-text pages were kept closed because the focused book, author, classical-reception, and narrative-craft pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,402 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

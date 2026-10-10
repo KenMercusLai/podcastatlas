@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13150
+wiki_total_pages: 13151
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "TheBloodyChamber"
     title: "《染血之室》 / The Bloody Chamber"
     url: "/wiki/entities/thebloodychamber/"
+  - key: "TaohuayuanMeishi"
+    title: "《桃花源没事》"
+    url: "/wiki/entities/taohuayuanmeishi/"
   - key: "TheEternalYouth"
     title: "《永恒少年：我们为何拒绝长大》 / The Eternal Youth"
     url: "/wiki/entities/theeternalyouth/"
