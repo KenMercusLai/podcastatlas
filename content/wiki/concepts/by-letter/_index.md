@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10188
+wiki_total_pages: 10189
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "AdventureAsVocationalIdentity"
     title: "Adventure as Vocational Identity / 冒险作为职业身份"
     url: "/wiki/concepts/adventureasvocationalidentity/"
+  - key: "AdventureGameNarrativeStructure"
+    title: "Adventure-Game Narrative Structure / 冒险游戏式叙事结构"
+    url: "/wiki/concepts/adventuregamenarrativestructure/"
   - key: "AdventureUncertaintyReframing"
     title: "Adventure-Uncertainty Reframing"
     url: "/wiki/concepts/adventureuncertaintyreframing/"

@@ -10,6 +10,7 @@ sources:
   - 089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n
   - 088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2
   - 084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo
+  - 081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -18,7 +19,7 @@ last_updated: 2026-10-10
 
 ## Overview
 
-《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to seven [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes extending from the final approach and ending of [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] through the route, puzzles, final ritual and retirement gesture of [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]].
+《鬼吹灯》 is an adventure-fiction series by 天下霸唱 centered on 胡八一, 胖子, Shirley 杨, tomb exploration, folklore, survival, and the identity of the 摸金校尉. The current page is bounded to eight [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes extending from the valley entrance and gourd cave of [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] through the route, puzzles, final ritual and retirement gesture of [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]].
 
 ## Current Profile
 
@@ -26,7 +27,7 @@ Across the supplied discussions, the first four books form a phase in which the 
 
 The series' world feels culturally dense because real places, preserved-body history, archaeological material, geomancy, religious vocabulary and folklore sit beside invented trades, artifacts, lineages and monsters. The hosts repeatedly police that boundary: thirteen-whiskered porcelain cats and the described 背尸 profession may sound plausible beside 赶尸 stories, but their texture does not establish their historical existence. Once the expedition begins, complementary knowledge is distributed across a large party, and early deaths, poisoning, wolves and glacier terrain convert worldbuilding into attrition.
 
-The bounded discussions also expose a recurring quality test. 《云南虫谷》 earns atmosphere through grotesque creatures, culturally inverted symbols, and uncertain signals. Its approach chains a keyed copper box, disturbed seal, luminous jade toad and awakened infant swarm so that intrusion generates the next obstacle; its inner tomb then turns three prior-life coffins, a punished substitute below, a missing true body above, and a lamp-count mismatch into a vertical cosmological puzzle. The trio advances because geomantic inference, technical planning, hazard judgment, precision, force, and risk are distributed across its members. Repeated vine-and-corpse attacks still reduce novelty, while the nearly unstoppable “尸洞” and Shirley 杨's poisoning are removed by lightly prepared exceptions. The nine-story demon-tower sequence then supplies the stronger contrast: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
+The bounded discussions also expose a recurring quality test. 《云南虫谷》 earns atmosphere through grotesque creatures, culturally inverted symbols, and uncertain signals. Its earlier approach turns a meteorite gate, vanished river, mountain temple, toad mechanism, gourd cave, murals and the 霍氏不死虫 into [[AdventureGameNarrativeStructure|game-like progression]]: route finding becomes environmental discovery, the monster's changing state demands new tactics, and the copper-box reward opens the next problem. That sequence also recasts 献王's horror as infrastructure, with sacrificed women, 痋胎, fungal growth and an appropriated creature sustaining a fictional miasma cycle. The later approach chains a keyed copper box, disturbed seal, luminous jade toad and awakened infant swarm so that intrusion generates the next obstacle; its inner tomb then turns three prior-life coffins, a punished substitute below, a missing true body above, and a lamp-count mismatch into a vertical cosmological puzzle. The trio advances because geomantic inference, technical planning, hazard judgment, precision, force, and risk are distributed across its members. Repeated vine-and-corpse attacks still reduce novelty, while the nearly unstoppable “尸洞” and Shirley 杨's poisoning are removed by lightly prepared exceptions. The nine-story demon-tower sequence then supplies the stronger contrast: blue and white crystals, wolf blood, the water-crystal corpse, ghost-insect state changes, and the 雮尘珠 are introduced before their operational meanings become clear. The hosts see that delayed intelligibility as stronger than arbitrary rescue because action depends on recombining prior details.
 
 The move into 恶罗海城 expands the same interpretive demand from traps to ontology. Hot food, active slaughter, changing external light, and normal watch movement first conflict, then become compatible when the city is explained as physically accessible fragments of remembered moments rather than the original ruin or a completely frozen timeline. The approach to [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]]'s ritual chamber then turns uncertain rules and a timer into moral pressure, exposing differences among 胡八一、胖子、Shirley 杨、明叔、阿香 over autonomy, kinship, and whether collective survival can justify selecting a victim.
 
@@ -37,7 +38,7 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 ## Key Characteristics
 
 - Joins tomb-adventure plotting to Chinese folklore, geomancy, archaeology, religious vocabulary, and invented ritual systems while keeping historical texture distinct from verification.
-- Builds puzzle causality by converting conspicuous objects and folk devices into later survival rules, including defenses activated by intrusion itself.
+- Builds puzzle causality through game-like route progression, changing encounter states, conspicuous objects that become survival rules, and defenses activated by intrusion itself.
 - Uses tomb architecture and symbolic vertical order to turn cosmology into a navigational hypothesis.
 - Connects books through artifact and location chains, especially the 雮尘珠, jade rings, 龙骨天书 and Tibetan route.
 - Treats survival puzzles as tests of loyalty, interpretation, practical skill, and the distinction between bearing a cost oneself and imposing it on someone else.
@@ -54,6 +55,7 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ### Planted mechanisms and speculative explanation
 
+- [[081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst]] follows maps, landscape clues, temple mechanisms, murals and combat-state changes into the copper box while keeping its prehistoric, oxygen, biological-electricity and miasma explanations fictional or source-scoped.
 - [[084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo]] presents the copper box, disturbed contents and 痋婴 attack as a probable chain of defenses while leaving the exact trigger unresolved.
 - [[089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n]] contrasts an artifact chain that genuinely bridges books with repeated vine attacks and final rescues whose preparation the hosts find weak.
 - [[105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we]] follows blue and white crystals, wolf blood, the water-crystal corpse, ice/fire ghost insects, and the 雮尘珠 from background details into a connected solution system.
@@ -61,6 +63,7 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ### Adventure, ritual, and interpretation
 
+- [[081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst]] turns travel, puzzle solving, monster combat, ecological inference and reward into a connected adventure-game-like sequence while exposing the sacrificed bodies behind 献王's defenses.
 - [[084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo]] follows the trio through linked mechanisms, pursuit and environmental hazards while distinguishing Yunnan and architectural context from fictional science and geomancy.
 - [[088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2]] turns the three prior-life coffins, underground “影骨,” missing true body, and lamp mismatch into a vertical tomb hypothesis while showing the trio's complementary roles in action.
 - [[109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9]] follows the group through a blindfolded tunnel, uncertain prohibitions, a sacrificial mural, a timer, and conflict over the 雮尘珠.
@@ -80,13 +83,13 @@ The phase closes symbolically when they remove their 摸金符 and prepare to jo
 
 ## Qualifications
 
-This profile comes from seven conversational episodes about the transition between the third and fourth books, not a complete reading of the series. Plot evaluations, ritual interpretation, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat 背尸 lore, 山魈 worship, fictional geomancy, divination outcomes, mirages, 太岁 medicine, radiation effects, corpse oil, ultrasonic effects, parasites, biological electricity, virtual space, memory materialization, monsters, or curse rules as historical, archaeological, medical, or scientific evidence.
+This profile comes from eight conversational episodes about the transition between the third and fourth books, not a complete reading of the series. Plot evaluations, ritual interpretation, game analogy, historical anecdotes, publication motives, rights history, adaptation disputes, and claims about traditional knowledge remain the hosts' source-scoped account. The page does not treat 背尸 lore, 山魈 worship, fictional geomancy, divination outcomes, mirages, 太岁 medicine, radiation effects, prehistoric survival, cave oxygen, corpse oil, ultrasonic effects, parasites, biological electricity, fungal cycles, virtual space, memory materialization, monsters, or curse rules as historical, archaeological, medical, or scientific evidence.
 
 ## What Changed
 
-- Extended the bounded sequence backward to 《云南虫谷》's final approach and arrival at 献王's tomb.
-- Added intrusion-triggered escalation as a recurring bridge between puzzle solving and creature danger.
-- Expanded complementary skill distribution to include competing judgments about whether an uncertain hazard should be destroyed, contained or studied.
+- Extended the bounded sequence backward to 《云南虫谷》's valley entrance, mountain temple and gourd cave.
+- Added game-like progression as a link among route finding, environmental clues, boss-state change and serial reward.
+- Added the fictional miasma cycle as an example of ritual power turning coerced bodies and creatures into infrastructure.
 
 ## Relationships
 
@@ -97,6 +100,7 @@ This profile comes from seven conversational episodes about the transition betwe
 - [[SacrificingOthersEthics]] - ethical frame for the difference between volunteering oneself and selecting a companion to die.
 - [[HetuLuoshu|河图洛书]] - traditional sign system adapted into the novel's directional reasoning.
 - [[NarrativeSetupAndPayoff]] - explains why crystals, blood, artifacts, and state changes become satisfying later clues.
+- [[AdventureGameNarrativeStructure]] - describes how travel, puzzles, encounters and rewards form connected stages.
 - [[MaterializedMemoryWorldbuilding]] - describes 恶罗海城 as a physically accessible composite of remembered fragments.
 - [[HistoricalFantasySourceLayering]] - explains how real places, history and folklore lend texture to recombined fictional lore without verifying it.
 - [[ZhiZuiJinMiFM|纸醉金迷FM]] - podcast supplying the current bounded interpretation.

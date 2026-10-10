@@ -34380,3 +34380,11 @@ Added source `ep-26-the-future-of-healthcare-ai-data-and-human-touch`; created [
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心
+
+Added source `081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst`; created [[AdventureGameNarrativeStructure|冒险游戏式叙事结构]]; and resynthesized [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] and [[GhostBlowsOutTheLight|《鬼吹灯》]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the meteorite gate, mountain-temple mechanism, gourd-cave ecology, 霍氏不死虫 battle and copper-box reward form a route–puzzle–boss–reward sequence, while 献王's fictional corpse–痋胎–fungus–miasma cycle turns coerced bodies and an appropriated creature into burial-defense infrastructure. No settled contradiction was adopted. Prehistoric survival, cave oxygen, regeneration, biological electricity, parasite and fungal mechanisms, meteorite effects, toxic miasma, feng-shui doctrine and landscape engineering remain fictional, conversational or source-scoped rather than scientific, medical, archaeological or historical findings. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], [[HistoricalFantasySourceLayering]], and [[NarrativeSetupAndPayoff]] pages were kept closed because the focused source, novel/series profiles and new concept capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,305 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

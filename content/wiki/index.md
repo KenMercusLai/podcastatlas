@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [612. Nelson: The Final Showdown (Part 5)](sources/612-nelson-the-final-showdown-part-5-glt2077045869.md) — The Rest Is History on Nelson's final farewell, Cadiz surveillance and concealment, the two-column “Nelson touch,” Villeneuve's pressure, and the eve of Trafalgar.
 - [VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘](sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s.md) — 这病说来话长由创伤外科医生张悦连接急诊现场、保命优先的损伤控制、截肢与愈合不确定性、知情同意及保守院前处置。
 - [贾樟柯×罗永浩！成为贾樟柯（上）](sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir.md) — 罗永浩与贾樟柯从汾阳成长、文学与流行文化谈到电影教育、低成本起步、作者边界、时代音乐及现实优先的导演方法。
+- [081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心](sources/081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst.md) — 纸醉金迷FM以虫谷入口、蛤蟆机关、霍氏不死虫与痋胎循环串联关卡式冒险、虚构生态和权力对身体的工具化。
 - [082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1](sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd.md) — 纸醉金迷FM两周年圆桌以金庸小说、人物、武功和域外武侠之最，区分批评判断与私人偏爱，并讨论生命阶段如何改变人物同情与阅读重点。
 - [613. Nelson: Glory at Trafalgar (Part 6)](sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251.md) — The Rest Is History on Trafalgar's two-column attack, Nelson's death, Royal Navy state capacity, storm aftermath, state funeral, and monumental memory.
 - [Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460.md) — Condensed Huberman Lab interview on epigenetic aging, fasting and nutrient signaling, NAD and NMN, biological-age markers, and animal-to-human evidence boundaries.
@@ -4444,7 +4445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
 - [刘靖康 / Liu Jingkang](entities/LiuJingkang.md) — Insta360 founder whose profile joins applied computing, creator-camera category revision, hardware production discipline, AI imaging, and bounded creative ambition.
 - [Pyotr Ilyich Tchaikovsky](entities/PyotrIlyichTchaikovsky.md) — Russian Romantic composer whose profile joins national identity, European formation, sexuality, celebrity, patronage, and contested biography.
-- [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以垂直墓葬宇宙、互补协作、高密度怪物、灵异暧昧和终局争议连接雮尘珠与昆仑路线。
+- [《云南虫谷》 / Yunnan Worm Valley](entities/YunnanWormValleyGhostBlowsOutTheLight.md) — 《鬼吹灯》第三册，以关卡式推进、虚构生态、垂直墓葬宇宙、互补协作和终局争议连接雮尘珠与昆仑路线。
 - [Lý Thường Kiệt / 李常杰](entities/LyThuongKiet.md) — Lý-dynasty Vietnamese commander whose court status, preemptive Song-border campaign, and later national memory challenge narrow eunuch-role stereotypes.
 - [Yolande of Aragon](entities/YolandeOfAragon.md) — Angevin dynastic supporter who helped sustain Charles VII's cause during the English-Burgundian high point.
 - [Superintelligence Force](entities/SuperintelligenceForce.md) — Trump-administration AI task force with a 120-day recommendation mandate spanning security, consumers, defense, and federal operations.
@@ -4716,7 +4717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
-- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以摸金冒险、民俗谜题、垂直墓葬、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
+- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以关卡式冒险、民俗谜题、虚构生态、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
@@ -17760,6 +17761,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bureaucratic Procedure as Leverage / 官僚程序作为杠杆](concepts/BureaucraticProcedureAsLeverage.md) — 借公文、排班、考勤、管辖和表彰让受保护行为变得可见且产生组织成本的策略。
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
 - [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部功能，再使其以新的因果、规则、人物、环境解释或包袱功能返回。
+- [Adventure-Game Narrative Structure / 冒险游戏式叙事结构](concepts/AdventureGameNarrativeStructure.md) — 以路线、环境线索、谜题、战斗状态与奖励构成连续推进，同时区分结构类比与直接游戏影响。
 - [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。
 - [Sound-Led Comic Deception / 声音主导的喜剧骗局](concepts/SoundLedComicDeception.md) — 用声音让有限场景代表更大世界，同时让观众看见幻觉背后的表演劳动与穿帮风险。
 - [Adventure as Vocational Identity / 冒险作为职业身份](concepts/AdventureAsVocationalIdentity.md) — 危险或边缘工作把零散经验转化为能力、归属与方向，而退出并不要求否定旅程曾提供的意义。

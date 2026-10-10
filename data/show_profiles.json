@@ -3193,14 +3193,14 @@
       "earliest_episode_date": "2023-10-20",
       "latest_episode_date": "2026-10-09",
       "latest_episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
-      "source_note_count": 40,
-      "topic_matched_source_note_count": 28,
+      "source_note_count": 41,
+      "topic_matched_source_note_count": 29,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 28
+          "source_note_count": 29
         }
       ],
       "entities": [
