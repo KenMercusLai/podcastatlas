@@ -1,47 +1,53 @@
 ---
 title: "Qihoo 360 / 奇虎 360"
 type: entity
-tags: [company, cybersecurity, browser, china-internet]
+tags: [company, cybersecurity, browser, china-internet, ai]
 sources:
   - no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437
-last_updated: 2026-08-27
+  - lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
 # Qihoo 360 / 奇虎 360
 
 ## Overview
-Qihoo 360 / 奇虎 360 is the Chinese internet and security company that [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] uses to explain [[ZhouHongyi|周鸿祎]]'s return from [[YahooChina|Yahoo China]] into PC security, browser traffic, search, mobile distribution, and later enterprise security.
+Qihoo 360 / 奇虎 360 is the Chinese internet and security company whose evidence arc moves from free PC security, browser traffic, search, and platform conflict into enterprise security, AI search and browsers, specialized models, and agent infrastructure.
 
 ## Current Profile
-The episode frames Qihoo 360 as a company built from a paradox: it used anti-rogue-software trust to answer the kind of browser-plugin behavior associated with [[3721]], then converted free security into a large traffic and platform system. Its later history shows the difficulty of carrying a PC-era entry-point advantage into mobile, content, enterprise security, finance, and public-market repositioning.
+The historical source frames 360 through a paradox: it used anti-rogue-software trust to answer the kind of browser-plugin behavior associated with [[3721]], then converted free security into a large traffic platform. That PC-era advantage proved difficult to carry into mobile, content, finance, and new distribution systems, and [[ZhouHongyi|Zhou]] later describes the company as having overexpanded after [[ThreeQWar|3Q]].
+
+The newer source presents an application-led AI reset. Rather than train the largest general model, 360 retains smaller and vertical-model capability around reasoning, coding, intent, routing, and security, while using browsers, search, [[NanoAI360|纳米 AI]], AI video, an agent factory, and a multi-agent engine as application and workflow layers. The direction is coherent with 360's entry-point and security history, but product reach, quality, adoption, and commercial outcomes remain founder-reported.
 
 ## Key Characteristics
-- Security-first consumer product that began with "rogue software" cleanup and became a trusted mass-market PC utility.
-- Free-software challenger that disrupted paid antivirus incumbents and made [[FreeSecuritySoftwareStrategy]] a China-internet platform tactic.
-- Browser and navigation traffic owner whose security suite, browser, URL navigation, and software manager formed a bundled entry-point system.
-- Aggressive platform competitor involved in conflicts with [[Tencent]], [[Baidu]], [[Xiaomi]], Yahoo Assistant, CNNIC, and legacy antivirus vendors.
-- Post-PC transformer that pursued mobile assistants, content/live products, finance, "big security," 360 Security Brain, and government/enterprise/IoT security.
+- Consumer security company built through free antivirus and mass-market PC utility distribution.
+- Browser, navigation, and search entry-point owner with a history of aggressive platform competition.
+- Post-PC company that moved toward enterprise and government security after mixed mobile and content expansion.
+- Application-led AI builder emphasizing multi-model access, routing, specialized models, agents, and browser execution.
+- Security operator applying models and agents to defense while acknowledging AI-enabled attacks and prompt injection.
+- Organization using AI video and agent construction as source-scoped tests of multi-agent coordination.
 
 ## Evidence
-- Product launch and traction: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] says 360 Security Guard launched in July 2006, worked with Kaspersky, reached 20 million installs by late 2006, and reached 40 million by mid-2007.
-- Free security turn: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] says Zhou decided in late 2007 to launch free antivirus, with active users reaching 29% of Chinese internet users by late 2009 and 63.5% by 2011.
-- Browser entry: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] says Qihoo worked with TheWorld Browser in 2008, then had more than 200 million 360 browser users and about 55% share by mid-2012.
-- Conflict and platform risk: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] places Qihoo 360 in anti-rogue disputes, [[ThreeQWar|3Q 大战]], Xiaomi phone conflict, and 360-Baidu search litigation.
-- Later business shape: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] covers Qihoo 360's 2011 NYSE listing, 2016 privatization, 2018 A-share return through Jiangnan Jiajie, content failures, Qifu finance branch, Qianxin separation, and 2017 "big security" strategy.
+- Consumer-security platform: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] covers Security Guard, free antivirus, browser/navigation distribution, search, listing history, and platform conflicts.
+- Strategic limits and repositioning: [[no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437]] describes mobile and content difficulties and the “big security” turn; [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] adds service to enterprise digitization and traditional-industry AI.
+- AI architecture: [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] describes smaller vertical models, model routing, browser and search integration, tool use, agent factories, and multi-agent systems.
+- Product cases: [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] uses [[NanoAI360|纳米 AI]] and long-form AI video as the main application examples.
+- AI security: [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] connects security models and agents to faster analysis while identifying phishing, malicious tooling, hallucination, and prompt injection as new risks.
 
 ## Qualifications
-The source's market shares, revenue figures, legal summaries, investment amounts, and operating claims are preserved as episode-attributed evidence. This page does not independently resolve the legal or technical merits of each software-conflict accusation.
+Market shares, revenue, legal summaries, model integrations, agent counts, video duration, product quality, staff adoption, customer benefit, and security accuracy remain source-scoped. The newer evidence is a founder account and does not independently establish competitive advantage or validate the claim that avoiding a frontier general model is the best long-run strategy.
 
 ## What Changed
-- Added Qihoo 360 as the company page tying free security, PC browser traffic, 3Q, search, and later enterprise-security repositioning into one profile.
+- Extended 360 from PC and enterprise security into an application-led AI and agent strategy.
+- Added Nano AI, AI browser/search, model routing, agent factories, and AI video as source-scoped product branches.
+- Added AI's dual defensive and offensive security role.
 
 ## Relationships
 - [[ZhouHongyi]] - founder and public strategic face of the company.
-- [[QiXiangdong]] - cofounder/operator relationship and later Qianxin separation context.
+- [[NanoAI360]] - application-layer AI product spanning search, browser, routing, and agent construction.
 - [[FreeSecuritySoftwareStrategy]] - core consumer-security growth tactic.
-- [[ChineseInternetEntryPointCompetition]] - browser, navigation, search, and mobile distribution role.
-- [[ThreeQWar]] - defining conflict with Tencent.
-- [[Baidu]] - search competitor and litigation counterparty in the 360 search episode.
-- [[Tencent]] - platform-war counterparty in the 3Q episode.
-- [[3721]] - reputation reversal and anti-rogue-software prehistory.
+- [[ChineseInternetEntryPointCompetition]] - recurring browser, navigation, search, and AI-interface role.
+- [[ThreeQWar]] - defining conflict and later overexpansion reference point.
+- [[VerticalAgentArchitecture]] - specialized model, tool, routing, and domain-context approach.
+- [[AgentOrganizationalCulture]] - coordination problem exposed by multi-agent product work.
+- [[HumanInLoopAgentGovernance]] - approval and traceability boundary for agent execution.

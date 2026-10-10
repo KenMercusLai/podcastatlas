@@ -21,6 +21,7 @@ sources:
   - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
   - daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt
   - lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h
+  - lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -43,6 +44,8 @@ The [[DapengDirector|大鹏]] interview adds a long film-career self-reckoning. 
 
 The [[TimMediaStorm|影视飓风 Tim]] interview adds a creator-company operating mode. Personal formation remains important, but the center shifts to review independence, paid production, ecommerce, account portfolios, founder bottlenecks, performance metrics, extreme livestream infrastructure, global localization, and AI pressure on media labor. The format lets [[LuoYonghao|Luo]] question not only what a creator makes, but how trust, revenue, scale, and technical ambition are organized together.
 
+The [[ZhouHongyi|周鸿祎]] interview adds an AI-company strategy mode. A founder-media opening becomes a sustained examination of language models, specialized and multi-agent systems, video production, human approval, vertical models, browser/search entry points, charging, cybersecurity, and organizational adoption. The breadth demonstrates the show's capacity for a long technical-operating interview, while the founder-led evidence requires especially clear separation between strategic thesis and verified product outcome.
+
 ## Key Characteristics
 - Long-form interview venue centered on biography, work methods, public judgment, and the logic behind choices.
 - Host-led framing that turns personal stories into explicit product, cultural, ethical, or artistic problems.
@@ -62,16 +65,14 @@ The [[TimMediaStorm|影视飓风 Tim]] interview adds a creator-company operatin
 - Music biography as social history: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] connects factory-compound change, migration, rehearsal, venue ecology, livelihood, authorship, bereavement, audience reception, electronic learning, and AI pressure.
 - Film biography as identity and evaluation history: [[daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt]] connects childhood, music, portal work, web video, contracts, commercial success, authorial development, criticism, awards, and legitimacy.
 - Creator-company operations: [[lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h]] connects video craft, review independence, adjacent commercial work, account portfolios, data, team culture, technical spectacle, global ambition, and AI labor pressure.
+- AI-company strategy: [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] connects founder visibility, model and agent architecture, product charging, organizational adoption, cybersecurity, and long-run social questions.
 
 ## Qualifications
-Eighteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, music-historical, film-industry, creator-economy, and technological claims retain the qualifications of their individual source notes.
+Nineteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, music-historical, film-industry, creator-economy, and technological claims retain the qualifications of their individual source notes.
 
 ## What Changed
-- Added a film-career self-reckoning mode that tests success against identity, promise, ratings, awards, and artistic belief.
-- Added a creator-company operating mode centered on trust, revenue separation, portfolio scale, metrics, technical spectacle, and AI labor pressure.
-- Added a self-reflexive podcast-form branch centered on long-form emergence, video reach, and production constraint.
-- Extended the panel mode from value dilemmas into lived experimentation, failure, attention, moving, and invisible creative labor.
-- Deepened the music-interview branch from artist-audience disagreement into biography as social and scene history.
+- Added an AI-company strategy mode spanning model architecture, agents, charging, adoption, cybersecurity, and human supervision.
+- Extended founder interviews from product and creator operations into public communication and organizational transformation.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer across the bounded source set.
@@ -80,6 +81,7 @@ Eighteen sources do not establish the show's complete catalog, editorial mission
 - [[ZhangWeiweiMusician|张玮玮]] - guest whose interview adds factory-compound memory, independent-music infrastructure, and electronic reinvention.
 - [[DapengDirector|大鹏]] - guest whose interview adds internet-to-film authorship, career promise, public evaluation, and identity transition.
 - [[TimMediaStorm|影视飓风 Tim]] and [[MediaStorm|影视飓风]] - guest and company case for creator-economy operating design and global ambition.
+- [[ZhouHongyi|周鸿祎]] and [[Qihoo360|360]] - guest and company case for founder media, application-led AI, agents, and cybersecurity.
 - [[ShougongGeng|手工耿]] - creator-craft guest used to test utility, comedy, and art.
 - [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]] - founder and company case for engineering-led EV production.
 - [[WongJing|王晶]] - guest anchoring Hong Kong film-industry oral history.
@@ -95,3 +97,4 @@ Eighteen sources do not establish the show's complete catalog, editorial mission
 - [[IndependentMusicSceneAsInfrastructure]] - framework surfaced by the Zhang interview's rehearsal, care, livelihood, venue, and network history.
 - [[CreatorIdentityTransition]] - framework sharpened by Dapeng's reporter-to-star and host-to-director experience.
 - [[BeliefGroundedStorytelling]] - film-craft principle articulated through Dapeng's character and genre judgments.
+- [[AgentOrganizationalCulture]] - multi-agent organization theme developed through Zhou's team analogy and video case.

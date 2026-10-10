@@ -33534,6 +33534,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "EntrepreneurPublicCommunication": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EntrepreneurStrikeMyth": [
     {
       "key": "economics",
@@ -45507,6 +45519,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HumanInLoopAgentGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HumanInTheLoopLegalAI": [
@@ -61477,6 +61501,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NanoAI360": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "NanshanBanditsWesternHan": [
@@ -102115,6 +102146,18 @@
     }
   ],
   "lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks": [
     {
       "key": "technology",
       "label": "Technology",

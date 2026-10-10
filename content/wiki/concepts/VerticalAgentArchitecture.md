@@ -4,7 +4,8 @@ type: concept
 tags: [ai, agents, architecture, enterprise]
 sources:
   - e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50
-last_updated: 2026-10-09
+  - lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Vertical agent architecture is the joint design of model capability, execution h
 ## Current Synthesis
 E255 expresses the architecture as “model × Harness × Context.” The model supplies reasoning and multimodal capability. The harness connects tools, memory, permissions, orchestration, persistent execution, and verification. Context supplies organization-specific goals, records, communication history, market data, and domain feedback. The multiplicative framing means that a weak layer can constrain the entire system: a smarter model cannot act without tools and authority, while an elaborate runtime cannot compensate for missing business truth.
 
-For cross-border ecommerce, the architecture must also be localized. Available platforms, logistics providers, rules, and operating conventions vary by country, while model training, inference, routing, and the harness need coordinated optimization for quality, latency, and cost. This makes a production vertical agent closer to a continuously operated business system than a prompt layer over one frontier model.
+For cross-border ecommerce, the architecture must also be localized. Available platforms, logistics providers, rules, and operating conventions vary by country, while model training, inference, routing, and the harness need coordinated optimization for quality, latency, and cost. The 360 interview reinforces this system view from another direction: narrow agent roles can use smaller specialized models, browsers, APIs, internal systems, or self-written tools, while routing assigns work by capability. This makes a production vertical agent closer to a continuously operated business system than a prompt layer over one frontier model.
 
 ## Key Claims
 - Model, harness, and context are complementary system layers rather than interchangeable sources of capability.
@@ -25,19 +26,21 @@ For cross-border ecommerce, the architecture must also be localized. Available p
 - Regional tool and platform differences require localized execution and context integration.
 - Model training, inference serving, routing, and runtime design should be optimized together.
 - Sustainable deployment depends on cost as well as accuracy and task coverage.
+- Narrow roles can outperform an overloaded general agent when specialization, tools, and handoffs are well designed.
 
 ## Evidence
 - Three-layer formulation - [[e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50]] attributes “model × Harness × Context” to [[ZhangKuo]] and describes the role of each layer.
 - Commerce context - [[e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50]] identifies procurement, supply-chain, communication, platform, industry, and trend data as inputs to [[Axio|Accio Work]].
 - Full-stack optimization - [[e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50]] links model choice, post-training, inference, harness design, context, and routing to accuracy, efficiency, and affordability.
+- Specialized roles and tools - [[lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks]] argues that narrow agents should use browsers, software, APIs, internal systems, or generated tools, while smaller vertical models and routing handle bounded tasks.
 
 ## Counterevidence & Qualifications
-The multiplicative formula is a design heuristic, not a measured law, and the source does not isolate the marginal contribution of each layer. Proprietary platform context can improve task grounding while also increasing lock-in, privacy exposure, and evaluation opacity. Existing vertical software providers may possess valuable workflows and records, but integration quality and model capability still determine whether those assets translate into useful agent behavior.
+The multiplicative formula and the narrow-agent thesis are design heuristics rather than measured laws, and neither source isolates the marginal contribution of each layer. Proprietary platform context can improve task grounding while also increasing lock-in, privacy exposure, and evaluation opacity. Existing vertical software providers may possess valuable workflows and records, but integration quality and model capability still determine whether those assets translate into useful agent behavior. Specialization also adds routing, handoff, and coordination failure modes.
 
 ## What Changed
 - Established the model–harness–context formulation as a dedicated vertical-agent architecture.
-- Added regional adaptation and full-stack cost optimization to the architecture.
-- Clarified that proprietary business context is useful only when connected to governed execution and verification.
+- Added narrow agent roles, specialized smaller models, tool use, and routing as a second application-led architecture account.
+- Clarified that specialization adds coordination and handoff costs rather than guaranteeing better results.
 
 ## Related Concepts
 - [[AgentHarness]] - execution and orchestration layer within the architecture.
@@ -47,3 +50,5 @@ The multiplicative formula is a design heuristic, not a measured law, and the so
 - [[ModelRoutingCostControl]] - task-sensitive model selection for capability and affordability.
 - [[BusinessAgentBenchmarkGap]] - evaluation gap that reveals weaknesses across the combined stack.
 - [[AgenticB2BSourcing]] - vertical workflow in which this architecture is applied.
+- [[AgentOrganizationalCulture]] - role, handoff, and group-behavior layer for multi-agent execution.
+- [[HumanInLoopAgentGovernance]] - traceability and approval boundary for consequential work.

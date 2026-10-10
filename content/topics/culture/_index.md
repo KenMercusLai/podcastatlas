@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3353
+topic_total_pages: 3354
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1201,6 +1201,9 @@ topic_concepts:
   - key: "EntertainmentIPFlywheel"
     title: "Entertainment IP Flywheel"
     url: "/wiki/concepts/entertainmentipflywheel/"
+  - key: "EntrepreneurPublicCommunication"
+    title: "Entrepreneur Public Communication / 企业家公共传播"
+    url: "/wiki/concepts/entrepreneurpubliccommunication/"
   - key: "EntrepreneurStrikeMyth"
     title: "Entrepreneur Strike Myth / 企业家罢工神话"
     url: "/wiki/concepts/entrepreneurstrikemyth/"

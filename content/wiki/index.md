@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出](sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks.md) — 罗永浩与周鸿祎谈企业家公共传播、智能体组织、人在回路、360 的应用层 AI、商业化与网络安全。
 - [603. Greek Myths: The Riddle of the Sphinx (Part 2)](sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593.md) — The Rest Is History on Oedipus, Sophoclean recognition, Freud, Theban myth, Athenian political context, and divine versus civic law.
 - [604. Greek Myths: Sex, Drugs & Tragedy (Part 3)](sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684.md) — The Rest Is History on Dionysus, The Bacchae, Athenian festival and wartime civic crisis, Nietzsche, and the qualified tension between myth and philosophy.
 - [078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路](sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9.md) — 纸醉金迷FM以折龙山水道、树中运输机和蛇藤玉棺开启《云南虫谷》，分析层叠险境、虚实暧昧、铁三角协作与盗墓伦理。
@@ -4414,6 +4415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 
 ## Entities
+- [Nano AI / 纳米 AI](entities/NanoAI360.md) — 360 的 AI 搜索、浏览器、模型路由与智能体构建产品。
 - [Oedipus Tyrannos / Oedipus Rex](entities/OedipusTyrannos.md) — Sophocles' compressed tragedy of investigation, unwitting guilt, civic pollution, recognition, and self-blinding.
 - [Sophocles](entities/Sophocles.md) — Athenian tragedian who reshapes Theban myth into public drama about knowledge, law, divine necessity, and civic crisis.
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
@@ -8621,8 +8623,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist connecting metabolic psychiatry with mitochondrial mechanisms, lifestyle, supervised ketogenic therapy, and emerging biomarkers.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
 - [Mayo Clinic](entities/MayoClinic.md) — Medical institution used as the historical origin context for ketogenic diet epilepsy treatment.
-- [周鸿祎 / Zhou Hongyi](entities/ZhouHongyi.md) — Founder figure connecting 3721, Yahoo China, Qihoo 360, free security, 3Q, search, investing, and founder-media identity.
-- [Qihoo 360 / 奇虎 360](entities/Qihoo360.md) — Chinese security and internet company built around free security software, browser traffic, search, mobile distribution, and big-security repositioning.
+- [周鸿祎 / Zhou Hongyi](entities/ZhouHongyi.md) — Founder connecting 3721, 360, platform conflict, public communication, application-led AI, agents, and cybersecurity.
+- [Qihoo 360 / 奇虎 360](entities/Qihoo360.md) — Chinese security and internet company spanning free PC security, browsers, enterprise defense, AI applications, and agent infrastructure.
 - [3721](entities/3721.md) — Chinese-keyword access product/company that became both an early web-entry innovation and a browser-plugin controversy.
 - [Yahoo China / 雅虎中国](entities/YahooChina.md) — China-market Yahoo operation linking 3721's acquisition to Zhou Hongyi's post-Yahoo Qihoo phase.
 - [齐向东 / Qi Xiangdong](entities/QiXiangdong.md) — Qihoo founder/operator figure tied to 360's early security turn, 3Q crisis role, and later Qianxin separation.
@@ -17536,6 +17538,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
 
 ## Concepts
+- [Entrepreneur Public Communication / 企业家公共传播](concepts/EntrepreneurPublicCommunication.md) — Founder visibility used for product explanation, trust defense, and stakeholder reach under reputational and key-person risk.
+- [Human-in-the-Loop Agent Governance](concepts/HumanInLoopAgentGovernance.md) — Traceable agent execution with timely intervention, consequential-action approval, and retained human accountability.
 - [Theban Mythic Political Mirror](concepts/ThebanMythicPoliticalMirror.md) — Framework for Theban dynastic catastrophe as both inherited story cycle and an Athenian mirror for rivalry, law, leadership, plague, and civic ruin.
 - [Divine and Civic Law](concepts/DivineAndCivicLaw.md) — Tragic conflict between sacred obligation and necessary but limited human legal authority.
 - [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3437
+topic_total_pages: 3440
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2623,6 +2623,9 @@ topic_concepts:
   - key: "HumanDirectedAIAuthorship"
     title: "Human-Directed AI Authorship"
     url: "/wiki/concepts/humandirectedaiauthorship/"
+  - key: "HumanInLoopAgentGovernance"
+    title: "Human-in-the-Loop Agent Governance"
+    url: "/wiki/concepts/humaninloopagentgovernance/"
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"
@@ -6908,6 +6911,9 @@ topic_entities:
   - key: "Nanit"
     title: "Nanit"
     url: "/wiki/entities/nanit/"
+  - key: "NanoAI360"
+    title: "Nano AI / 纳米 AI"
+    url: "/wiki/entities/nanoai360/"
   - key: "Napster"
     title: "Napster"
     url: "/wiki/entities/napster/"
@@ -10113,6 +10119,9 @@ topic_sources:
   - key: "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311"
     title: "可以给你的 Agent 发一点零花钱了｜ S10E22"
     url: "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+  - key: "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks"
+    title: "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出"
+    url: "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
   - key: "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222"
     title: "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？"
     url: "/wiki/sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222/"

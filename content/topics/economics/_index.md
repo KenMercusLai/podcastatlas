@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2234
+topic_total_pages: 2236
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1090,6 +1090,9 @@ topic_concepts:
   - key: "EnterpriseFirstProductFit"
     title: "Enterprise-First Product Fit"
     url: "/wiki/concepts/enterprisefirstproductfit/"
+  - key: "EntrepreneurPublicCommunication"
+    title: "Entrepreneur Public Communication / 企业家公共传播"
+    url: "/wiki/concepts/entrepreneurpubliccommunication/"
   - key: "EntrepreneurStrikeMyth"
     title: "Entrepreneur Strike Myth / 企业家罢工神话"
     url: "/wiki/concepts/entrepreneurstrikemyth/"
@@ -6663,6 +6666,9 @@ topic_sources:
   - key: "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun"
     title: "别在国内卷了，去美国看看只要产品好就有人付费的市场"
     url: "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"
+  - key: "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks"
+    title: "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出"
+    url: "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
   - key: "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054"
     title: "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？"
     url: "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"

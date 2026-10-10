@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10229
+wiki_total_pages: 10231
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "EnthusiastDeviceCommunity"
     title: "Enthusiast Device Community / 发烧设备社区"
     url: "/wiki/concepts/enthusiastdevicecommunity/"
+  - key: "EntrepreneurPublicCommunication"
+    title: "Entrepreneur Public Communication / 企业家公共传播"
+    url: "/wiki/concepts/entrepreneurpubliccommunication/"
   - key: "EntrepreneurStrikeMyth"
     title: "Entrepreneur Strike Myth / 企业家罢工神话"
     url: "/wiki/concepts/entrepreneurstrikemyth/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3262
+topic_total_pages: 3263
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2008,6 +2008,9 @@ topic_concepts:
   - key: "HumanCenteredAIAugmentation"
     title: "Human-Centered AI Augmentation"
     url: "/wiki/concepts/humancenteredaiaugmentation/"
+  - key: "HumanInLoopAgentGovernance"
+    title: "Human-in-the-Loop Agent Governance"
+    url: "/wiki/concepts/humaninloopagentgovernance/"
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"

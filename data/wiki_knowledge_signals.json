@@ -8896,6 +8896,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/agentevaluationbenchmarks/"
     },
+    "AgentOrganizationalCulture": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC [liiv-fKcDolfb06hKOyz0IX3feJY].md",
+          "key": "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy",
+          "show": "42章经",
+          "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
+          "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/agentorganizationalculture/"
+    },
     "AgentPaymentInfrastructure": {
       "episode_count": 6,
       "show_count": 6,
@@ -42642,6 +42665,36 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/chinsiuho/"
+    },
+    "ChinaAgentMarketFriction": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "为什么Manus必须出海？聊聊国产大模型的“文科生困境” ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [为什么manus必须出海？聊聊国产大模型的文科生困-1].md",
+          "key": "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun",
+          "show": "科技乱炖",
+          "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
+          "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+        },
+        {
+          "episode_file": "我们把 AI 塞进花店后，才知道AI落地有多脏 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [我们把-ai-塞进花店后，才知道ai落地有多脏-1].md",
+          "key": "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1",
+          "show": "科技乱炖",
+          "title": "我们把 AI 塞进花店后，才知道AI落地有多脏",
+          "url": "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/chinaagentmarketfriction/"
     },
     "ChinaAnimalProtectionLawGap": {
       "episode_count": 1,
@@ -79784,6 +79837,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/enthusiastdevicecommunity/"
+    },
+    "EntrepreneurPublicCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/entrepreneurpubliccommunication/"
     },
     "EntrepreneurshipInfrastructure": {
       "episode_count": 4,
@@ -121285,6 +121354,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/humanimperfectioncreativevalue/"
     },
+    "HumanInLoopAgentGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/humaninloopagentgovernance/"
+    },
     "HumanInTheLoopCreditDecisioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -160861,9 +160946,9 @@
       "url": "/wiki/entities/luotong/"
     },
     "LuoYonghao": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 2,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -160976,6 +161061,13 @@
           "show": "罗永浩的十字路口",
           "title": "影视飓风TIM×罗永浩！用影像打开世界的梦想家",
           "url": "/wiki/sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
         }
       ],
       "updated": "2026-10-10",
@@ -161030,9 +161122,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LuoyonghaosCrossroads": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
@@ -161159,6 +161251,13 @@
           "show": "罗永浩的十字路口",
           "title": "影视飓风TIM×罗永浩！用影像打开世界的梦想家",
           "url": "/wiki/sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
         }
       ],
       "updated": "2026-10-10",
@@ -179263,6 +179362,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/nanjingwildboars/"
+    },
+    "NanoAI360": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/nanoai360/"
     },
     "NanpiLateHan": {
       "episode_count": 2,
@@ -208819,9 +208934,9 @@
       "url": "/wiki/entities/qiaoshan/"
     },
     "Qihoo360": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 ｜ 中国互联网故事 27 [1008693437].md",
@@ -208829,9 +208944,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
           "url": "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/qihoo360/"
     },
     "QilinPavilionMeritHonors": {
@@ -260119,9 +260241,9 @@
       "url": "/wiki/concepts/verticalaidataprocurement/"
     },
     "VerticalAgentArchitecture": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔 [8fa0b58e-8359-4609-8e84-30c9a632df50].md",
@@ -260129,9 +260251,16 @@
           "show": "硅谷101",
           "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
           "url": "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/verticalagentarchitecture/"
     },
     "VerticalIntegrationForDataColdStart": {
@@ -288171,9 +288300,9 @@
       "url": "/wiki/entities/zhouhaorehabilitationengineer/"
     },
     "ZhouHongyi": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 ｜ 中国互联网故事 27 [1008693437].md",
@@ -288181,9 +288310,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
           "url": "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+        },
+        {
+          "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
+          "key": "lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks",
+          "show": "罗永浩的十字路口",
+          "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
+          "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/zhouhongyi/"
     },
     "ZhouJianEasternHan": {
