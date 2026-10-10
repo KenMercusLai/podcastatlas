@@ -35057,3 +35057,11 @@ Added source `vol-173-tizhong-jian-bu-xialai-keneng-zhen-bushi-ni-bugou-nuli-jia
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 070 倪匡传奇：姗姗来迟的纪念特辑
+
+Added source `070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh` and resynthesized [[NiKuang|倪匡 / Ni Kuang]] and [[LocalExperienceAsCreativeArchive|Local Experience as Creative Archive / 地方经验作为创作档案]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: public violence, near-drowning, infestation, folk treatment, and locusts become durable autobiographical and possible fictional material, but vivid retrospective storytelling does not independently establish emotional universals, animal cognition, medical efficacy, ecological outcomes, or direct literary influence. No settled contradiction was adopted. The proposed link between the execution victim's eye and 《眼睛》 remains host inference; insect behavior, folk treatment, plant identity, locust figures, dialogue, and personal outcomes remain source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], folklore, environmental, and medical pages were kept closed because the focused source, entity, and concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,391 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

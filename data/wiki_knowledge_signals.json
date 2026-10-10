@@ -158630,9 +158630,9 @@
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
     },
     "LocalExperienceAsCreativeArchive": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
@@ -158647,6 +158647,13 @@
           "show": "纸醉金迷FM",
           "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
           "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
+        },
+        {
+          "episode_file": "llArMCbTgk78N3PbYqYm5EIocBOH [llArMCbTgk78N3PbYqYm5EIocBOH].md",
+          "key": "070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh",
+          "show": "纸醉金迷FM",
+          "title": "070 倪匡传奇：姗姗来迟的纪念特辑",
+          "url": "/wiki/sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh/"
         }
       ],
       "updated": "2026-10-11",
@@ -184681,9 +184688,9 @@
       "url": "/wiki/entities/nikuanwesternhan/"
     },
     "NiKuang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
@@ -184691,6 +184698,13 @@
           "show": "纸醉金迷FM",
           "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
           "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
+        },
+        {
+          "episode_file": "llArMCbTgk78N3PbYqYm5EIocBOH [llArMCbTgk78N3PbYqYm5EIocBOH].md",
+          "key": "070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh",
+          "show": "纸醉金迷FM",
+          "title": "070 倪匡传奇：姗姗来迟的纪念特辑",
+          "url": "/wiki/sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh/"
         }
       ],
       "updated": "2026-10-11",

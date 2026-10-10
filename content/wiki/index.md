@@ -4467,6 +4467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca](sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900.md) — Huberman Lab interview on autism heterogeneity, patient-derived neural organoids and assembloids, transplantation, stem-cell-treatment boundaries, and Timothy syndrome translation.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 - [总第073期：正是那令我安心的，让我感到不安](sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw.md) — 读报teleread episode connecting aviation safety, health-disclosure incentives, finite leave, employment-gap anxiety, and same-cause attraction and aversion.
+- [070 倪匡传奇：姗姗来迟的纪念特辑](sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh.md) — 纸醉金迷FM以公开处决、两次溺水、虫害、蝎子草与蝗群呈现倪匡如何把死亡、身体危险和乡野知识转化为叙事素材。
 
 ## Entities
 - [David Rizzio](entities/DavidRizzio.md) — Mary's Italian Catholic secretary, scapegoated and murdered as the vulnerable center of a noble coup.
