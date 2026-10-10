@@ -4,7 +4,8 @@ type: concept
 tags: [addiction, recovery, honesty, accountability, relationships]
 sources:
   - understanding-treating-addiction-dr-anna-lembke-scim9435481929
-last_updated: 2026-10-03
+  - essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Recovery truth-telling and amends is the practice of reducing concealment, acknowledging harm, accepting proportionate guilt or shame, and repairing relationships as part of rebuilding agency and accountability after addiction.
 
 ## Current Synthesis
-[[AnnaLembke]] treats honesty as more than accurate reporting of substance use. In [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]], repeated truth-telling interrupts the compartmentalization that allows addictive behavior and its consequences to remain hidden, while making amends turns recognition of harm into relational action. The source presents guilt and shame as potentially informative when proportionate and faced in community, not as proof that humiliation or endless self-condemnation is therapeutic.
+[[AnnaLembke]] treats honesty as more than accurate reporting of substance use. Across the full interview and its [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387|Essentials edit]], repeated truth-telling interrupts the compartmentalization that allows addictive behavior and its consequences to remain hidden, while making amends turns recognition of harm into relational action. The full source presents guilt and shame as potentially informative when proportionate and faced in community, not as proof that humiliation or endless self-condemnation is therapeutic.
 
 Truth-telling works alongside abstinence, barriers, treatment, and [[RecoveryCommunityConnection|community]] rather than replacing them. The episode also proposes a neuroscience rationale involving prefrontal control and reward-related circuitry, but the practical accountability claim is stronger than the supplied evidence for that specific mechanism.
 
@@ -31,12 +32,13 @@ Truth-telling works alongside abstinence, barriers, treatment, and [[RecoveryCom
 - Relationship repair - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] connects amends and facing guilt or shame to recovery.
 - Community context - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] places honesty within recurring recovery relationships, intimacy, and accountability.
 - Mechanism hypothesis - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] discusses a possible link between truth-telling and stronger prefrontal influence over limbic and reward systems.
+- Condensed restatement - [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387]] reiterates habitual small-detail lying, honest disclosure, social intimacy, and the proposed prefrontal-reward mechanism.
 
 ## Counterevidence & Qualifications
-The source does not establish that confession alone treats addiction or that every disclosure or direct amends is safe. Repair can require timing, consent, professional guidance, and attention to the risk of retraumatizing or endangering others. Shame can worsen secrecy and relapse when it becomes global condemnation rather than proportionate responsibility. The proposed neural mechanism remains source-scoped.
+The sources do not establish that confession alone treats addiction or that every disclosure or direct amends is safe. The Essentials note condenses the full interview and is not independent confirmation. Repair can require timing, consent, professional guidance, and attention to the risk of retraumatizing or endangering others. Shame can worsen secrecy and relapse when it becomes global condemnation rather than proportionate responsibility. The proposed neural mechanism remains source-scoped.
 
 ## What Changed
-- Created the concept to separate relational accountability and repair from abstinence alone.
+- Added the Essentials edit as overlapping provenance without changing the current judgment.
 
 ## Related Concepts
 - [[RecoveryCommunityConnection]] - interpersonal setting that can support honest disclosure and sustained accountability.

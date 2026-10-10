@@ -16245,9 +16245,9 @@
       "url": "/wiki/entities/annakeay/"
     },
     "AnnaLembke": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -16255,9 +16255,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        },
+        {
+          "episode_file": "SCIM3404874387 [SCIM3404874387].md",
+          "key": "essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/annalembke/"
     },
     "AnnaTrapnel": {
@@ -69500,9 +69507,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -69538,6 +69545,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim9807260634-scim9807260634/"
+        },
+        {
+          "episode_file": "SCIM3404874387 [SCIM3404874387].md",
+          "key": "essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
         }
       ],
       "updated": "2026-10-11",
@@ -202820,9 +202834,9 @@
       "url": "/wiki/concepts/playlistasdiscoveryinterface/"
     },
     "PleasurePainBalanceAddiction": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -202844,9 +202858,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Motivation & Drive",
           "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
+        },
+        {
+          "episode_file": "SCIM3404874387 [SCIM3404874387].md",
+          "key": "essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/pleasurepainbalanceaddiction/"
     },
     "PlinyTheElder": {
@@ -216230,9 +216251,9 @@
       "url": "/wiki/concepts/recoverymonitoringtriad/"
     },
     "RecoveryTruthTellingAndAmends": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -216240,9 +216261,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        },
+        {
+          "episode_file": "SCIM3404874387 [SCIM3404874387].md",
+          "key": "essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/recoverytruthtellingandamends/"
     },
     "RecurrenceFreeSurvivalEndpoint": {

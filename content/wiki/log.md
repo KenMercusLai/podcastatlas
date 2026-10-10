@@ -35265,3 +35265,11 @@ Added source `ltte46cfjwcjc-gwcbkqb7zo7qh1`; created [[BuSiYaoNovel|《不死药
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Understanding & Treating Addiction | Dr. Anna Lembke
+
+Added source `essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387` and resynthesized [[AnnaLembke]], [[PleasurePainBalanceAddiction]], [[DopaminePeakTroughBaseline]], and [[RecoveryTruthTellingAndAmends]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: repeated high-intensity reward can recruit compensatory discomfort and craving; relapse can follow distress, learned cues, or positive events; and recovery may combine clinically appropriate abstinence, advance barriers, recurring support, truth-telling, and preserved offline attention. No settled contradiction was adopted. This Essentials release condenses [[understanding-treating-addiction-dr-anna-lembke-scim9435481929|the full interview]] and is overlapping editorial provenance rather than independent confirmation. Dopamine-deficit mechanisms, the 30-day average, truth-telling neuroscience, social-media analogy, and psychedelic-treatment claims remain source-scoped public education, and medically risky withdrawal or severe addiction requires qualified care. Broad [[AndrewHuberman]], [[HubermanLab]], [[RecoveryCommunityConnection]], and [[PsychedelicClinicalSupervisionBoundary]] pages were kept closed because the focused source, entity, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,418 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

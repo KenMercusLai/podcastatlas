@@ -4,7 +4,8 @@ type: entity
 tags: [psychiatry, addiction-medicine, recovery, dopamine]
 sources:
   - understanding-treating-addiction-dr-anna-lembke-scim9435481929
-last_updated: 2026-10-03
+  - essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Anna Lembke is a psychiatrist and addiction-medicine clinician presented in the source as a Stanford professor, clinic chief, and author of *Dopamine Nation*.
 
 ## Current Profile
-In [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]], Lembke explains substance and behavioral addiction through reward adaptation, learned craving, and a [[PleasurePainBalanceAddiction|pleasure-pain balance]] rather than moral weakness alone. Her practical frame combines an abstinence trial when appropriate, barriers between impulse and action, recurring community, truth-telling, amends, and service-oriented daily routines. She also emphasizes severity: a broadly useful educational model does not make self-detoxification safe or eliminate the need for medical, psychiatric, or residential care.
+Across the full interview and its [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387|Essentials edit]], Lembke explains substance and behavioral addiction through reward adaptation, learned craving, and a [[PleasurePainBalanceAddiction|pleasure-pain balance]] rather than moral weakness alone. Her practical frame combines an abstinence trial when appropriate, barriers between impulse and action, recurring community, truth-telling, amends, and service-oriented daily routines. She also emphasizes severity: a broadly useful educational model does not make self-detoxification safe or eliminate the need for medical, psychiatric, or residential care.
 
 ## Key Characteristics
 - Uses a pleasure-pain opponent-process model to explain tolerance, withdrawal, craving, and narrowed reward.
@@ -28,12 +29,13 @@ In [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]], Lembke ex
 - Scope of addiction - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] discusses alcohol, drugs, gambling, sex, pornography, gaming, shopping, work, social media, and an extreme water-use case.
 - Recovery practice - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] connects abstinence, barriers, community, truth-telling, amends, and one-day-at-a-time routines.
 - Safety and uncertainty - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] distinguishes ordinary self-observation from severe addiction, dangerous withdrawal, and experimental psychedelic-assisted care.
+- Condensed restatement - [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387]] reiterates dopamine adaptation, positive and negative relapse triggers, honesty, barriers, and psychedelic-treatment caution without supplying independent evidence.
 
 ## Qualifications
-This profile is based on one structured episode summary, not a complete account of Lembke's scholarship, clinical work, institutional roles, or later views. Mechanistic explanations and treatment time courses remain source-scoped, and the page does not provide medical advice or establish that all high engagement is addiction.
+This profile is based on a structured full-episode summary and its condensed edit, not a complete account of Lembke's scholarship, clinical work, institutional roles, or later views. The two notes are overlapping editorial provenance, not independent confirmation. Mechanistic explanations and treatment time courses remain source-scoped, and the page does not provide medical advice or establish that all high engagement is addiction.
 
 ## What Changed
-- Created a bounded profile of Lembke's addiction and recovery framework.
+- Added the Essentials edit as overlapping provenance without changing the current profile.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who connects Lembke's clinical account to neuroscience and everyday behavior.

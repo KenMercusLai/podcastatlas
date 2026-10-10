@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Understanding & Treating Addiction | Dr. Anna Lembke](sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387.md) — Condensed Huberman Lab interview on dopamine adaptation, pleasure-pain balance, relapse triggers, truth-telling, psychedelic-treatment caution, and intentional social-media boundaries.
 - [066 大话卫斯理之《不死药》：永生是福还是祸？](sources/ltte46cfjwcjc-gwcbkqb7zo7qh1.md) — 纸醉金迷FM以越狱、身份互换和南太平洋药源重述《不死药》，并把永生拆解为持续供给、认知退化、同意、垄断与不平等问题。
 - [The Chemistry of Food & Taste | Dr. Harold McGee](sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873.md) — Huberman Lab conversation on culinary chemistry, flavor transformation, trainable preference, and biological and cultural variation in taste.
 - [EP 22: Governing AI with Purpose and Inclusion](sources/ep-22-governing-ai-with-purpose-and-inclusion.md) — Data Science With Sam interview with Padmini Soni and Yuvika Sharma on lifecycle governance, proportional oversight, bias, inclusive design, and Asian women in AI.
