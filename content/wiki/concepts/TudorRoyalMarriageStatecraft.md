@@ -6,8 +6,9 @@ sources:
   - 74-the-six-wives-of-henry-viii-glt6913826589
   - 618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339
   - 616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740
+  - 587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-11
 ---
 
 # Tudor Royal Marriage Statecraft
@@ -26,6 +27,8 @@ The Elizabeth origin episode clarifies that marriage also allocated legitimacy b
 
 Mary's marriage to Philip reverses the gender of the sovereign while preserving the statecraft problem. The match promises Habsburg alliance, a Catholic heir, and strength against France; treaty restrictions attempt to prevent Philip from controlling English legislation or subordinating the kingdom. Those safeguards do not prevent opponents from treating the marriage as foreign domination, and Wyatt's rising shows that a diplomatically prestigious match can create domestic regime danger before producing an heir.
 
+Mary Stuart's marriage to Darnley supplies a Scottish extension centered on an English succession claim. Their combined Tudor-Stuart ancestry strengthened Mary's dynastic position, but Darnley's proposed kingship helped trigger the [[ChaseaboutRaid]], while the lack of a settled parliamentary coronation left his authority dependent on Mary and faction. When she moved to reduce his status, he bargained with her exiled opponents and joined the [[RizzioMurder|Rizzio coup]]. The birth of James achieved the heir objective while making removal of the abusive consort harder because the child's legitimacy still depended on the marriage.
+
 ## Key Claims
 
 - A royal demand for an heir can turn reproduction and marital continuity into questions of regime security.
@@ -34,7 +37,7 @@ Mary's marriage to Philip reverses the gender of the sovereign while preserving 
 - Annulment, prosecution, execution, settlement, and rhetorical deference are different outcomes of the same severe asymmetry, and changes in marital validity could reverse children's rank as well as a consort's position.
 - Court ministers translate intimate royal aims into institutional change, diplomacy, evidence production, and coercion.
 - Cultural archetypes keep the marriages memorable but can obscure differences in evidence, age, agency, and political constraint.
-- When the monarch is a queen, treaty safeguards can limit consort authority without dissolving popular fear of foreign rule.
+- When the monarch is a queen, safeguards may limit a foreign consort without ending popular fear, while a native dynastic consort can still threaten sovereign independence when title, coronation, faction, and parental legitimacy do not align.
 
 ## Evidence
 
@@ -44,15 +47,17 @@ Mary's marriage to Philip reverses the gender of the sovereign while preserving 
 - Memory and compression: [[74-the-six-wives-of-henry-viii-glt6913826589]] uses the familiar six-wife rhyme and modern archetype comparisons while supplying the political structures they omit.
 - Queen-regnant marriage: [[618-elizabeth-i-the-shadow-of-the-tower-part-3-glt7928851339]] connects Mary's Spanish alliance, negotiated limits, succession hopes, Wyatt's Rebellion, phantom pregnancy, and childlessness.
 - Marriage and children's legitimacy: [[616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740]] follows Catherine's exclusion, Anne's queenship, Mary's demotion, Elizabeth's recognition, failed pregnancies, annulment, execution, and Jane Seymour's rapid succession.
+- Consort kingship and faction: [[587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933]] connects the Darnley match to English succession, Protestant rebellion, contested royal status, the Rizzio coup, and James's birth.
 
 ## Counterevidence & Qualifications
 
-The framework does not claim that all royal marriages had the same cause or that queens lacked agency. Nor does it make the English Reformation a product of marital desire alone: theology, Parliament, administration, European power, property, and longer religious change remain necessary contexts. Mary's treaty limits demonstrate formal protection but do not measure Philip's informal influence. Private motives, sexual allegations, pregnancy diagnoses, medical causation, exact prosecutorial authorship, and counterfactual marital outcomes remain source-scoped. The focused source treats the charges against Anne as false, but failed heir production should not be converted into a single-cause explanation of her death.
+The framework does not claim that all royal marriages had the same cause or that queens lacked agency. Nor does it make the English Reformation a product of marital desire alone: theology, Parliament, administration, European power, property, and longer religious change remain necessary contexts. Mary Tudor's treaty limits demonstrate formal protection but do not measure Philip's informal influence; Mary Stuart's case occurred in Scotland and enters this Tudor framework through the English claim rather than identical institutions. Private motives, sexual allegations, pregnancy diagnoses, medical causation, exact title law, prosecutorial authorship, and counterfactual marital outcomes remain source-scoped. The focused source treats the charges against Anne as false, but failed heir production should not be converted into a single-cause explanation of her death.
 
 ## What Changed
 
 - Added the reciprocal legitimacy effects of royal marriage and annulment on Mary and Elizabeth.
 - Connected Anne's lost dynastic protection and Jane's availability to the transition while rejecting a single-cause account of prosecution.
+- Added Mary Stuart and Darnley as a case where disputed consort kingship, noble faction, and heir legitimacy turned marriage into a coup pathway.
 
 ## Related Concepts
 
@@ -61,3 +66,5 @@ The framework does not claim that all royal marriages had the same cause or that
 - [[ParliamentaryAttainder]] - legislative coercion used within Tudor court destruction and succession politics.
 - [[ContextualMonarchicalSuccess]] - comparative frame separating transformative historical consequence from moral approval.
 - [[WyattRebellion]] - domestic revolt showing how a foreign match could convert alliance policy into regime danger.
+- [[ChaseaboutRaid]] - Scottish rebellion showing that dynastic marriage and consort elevation could mobilize domestic opposition.
+- [[RizzioMurder|Rizzio murder]] - coup showing a frustrated consort bargaining with noble opponents against the reigning queen.

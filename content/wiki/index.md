@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [587. Mary, Queen of Scots: Murder Most Foul (Part 4)](sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933.md) — The Rest Is History on the Chaseabout Raid, Darnley's contested kingship, Rizzio's murder, Mary's escape and political recovery, and the birth of James VI.
 - [Essentials: ADHD & How Anyone Can Improve Their Focus](sources/scim9560506848-scim9560506848.md) — Condensed Huberman Lab episode on ADHD attention control, working memory, treatment boundaries, attentional blinks, visual practice, and phone-driven context switching.
 - [EP 23: AI in Marketing Strategies](sources/ep-23-ai-in-marketing-strategies.md) — Data Science With Sam interview with Zoya Scarlatta on predictive personalization, AI marketing ROI, human oversight, brand authenticity, privacy, and a guarded client-retention agent.
 - [588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)](sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995.md) — The Rest Is History on Darnley's two-stage murder, the Bothwell-Morton-Maitland conspiracy, Mary's probable ignorance, and the accountability failure that made innocence politically insufficient.
@@ -4467,6 +4468,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [总第073期：正是那令我安心的，让我感到不安](sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw.md) — 读报teleread episode connecting aviation safety, health-disclosure incentives, finite leave, employment-gap anxiety, and same-cause attraction and aversion.
 
 ## Entities
+- [David Rizzio](entities/DavidRizzio.md) — Mary's Italian Catholic secretary, scapegoated and murdered as the vulnerable center of a noble coup.
+- [Chaseabout Raid](entities/ChaseaboutRaid.md) — Mary's 1565 armed pursuit that forced Moray and allied Protestant lords into English exile.
+- [Rizzio Murder](entities/RizzioMurder.md) — 1566 Holyrood killing and failed palace coup whose reversal restored Mary temporarily and isolated Darnley.
 - [Zoya Scarlatta](entities/ZoyaScarlatta.md) — B2B digital-marketing practitioner connecting predictive personalization and AI ROI to literacy, privacy, human review, and brand trust.
 - [Interra Information Technologies](entities/InterraInformationTechnologies.md) — Company context for Zoya Scarlatta's B2B AI marketing discussion.
 - [Kirk o' Field Murder](entities/KirkOFieldMurder.md) — Darnley's failed escape from a gunpowder plot, strangulation outside the lodging, and the compromised investigation that followed.

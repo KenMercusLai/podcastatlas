@@ -35041,3 +35041,11 @@ Added source `scim9560506848-scim9560506848` and resynthesized [[ADHDAttentionCo
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 587. Mary, Queen of Scots: Murder Most Foul (Part 4)
+
+Added source `587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933`; created [[DavidRizzio]], [[ChaseaboutRaid]], and [[RizzioMurder|Rizzio Murder]]; and resynthesized [[MaryQueenOfScots|Mary, Queen of Scots]], [[HenryStuartLordDarnley|Henry Stuart / Lord Darnley]], [[JamesHepburnEarlOfBothwell|James Hepburn / Earl of Bothwell]], [[JamesStewartEarlOfMoray|James Stewart / Earl of Moray]], [[JamesDouglasEarlOfMorton|James Douglas / Earl of Morton]], [[WilliamMaitlandOfLethington|William Maitland of Lethington]], and [[TudorRoyalMarriageStatecraft]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Mary's Darnley marriage strengthened her dynastic position but destabilized consort authority; her Chaseabout victory and reversal of the Rizzio coup display formidable crisis agency, while Darnley's signed participation and betrayal created the coalition and revenge motives that lead into episode 588. No settled contradiction was adopted. Religious motives, private intent, alleged adultery, English knowledge, exact dialogue, the wound count, and campaign detail remain source-scoped. Broad Elizabeth, James VI, Scotland, England, and show pages were kept closed because the focused source, actors, events, and marriage synthesis capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,389 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

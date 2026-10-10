@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2703
+topic_total_pages: 2704
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933"
+    title: "587. Mary, Queen of Scots: Murder Most Foul (Part 4)"
+    url: "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
   - key: "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995"
     title: "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)"
     url: "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13133
+wiki_total_pages: 13136
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "ChaseNasca"
     title: "Chase Nasca"
     url: "/wiki/entities/chasenasca/"
+  - key: "ChaseaboutRaid"
+    title: "Chaseabout Raid"
+    url: "/wiki/entities/chaseaboutraid/"
   - key: "ChatGPT"
     title: "ChatGPT"
     url: "/wiki/entities/chatgpt/"

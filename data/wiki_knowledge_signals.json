@@ -40657,6 +40657,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/chaseandrews/"
     },
+    "ChaseaboutRaid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/chaseaboutraid/"
+    },
     "ChatGPT6Astra": {
       "episode_count": 4,
       "show_count": 4,
@@ -61212,6 +61228,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/davidrailton/"
+    },
+    "DavidRizzio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/davidrizzio/"
     },
     "DavidSenra": {
       "episode_count": 1,
@@ -114869,9 +114901,9 @@
       "url": "/wiki/entities/henrystafforddukeofbuckingham/"
     },
     "HenryStuartLordDarnley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2383249995 [GLT2383249995].md",
@@ -114879,6 +114911,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",
@@ -134217,9 +134256,9 @@
       "url": "/wiki/entities/jamescook/"
     },
     "JamesDouglasEarlOfMorton": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2383249995 [GLT2383249995].md",
@@ -134227,6 +134266,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",
@@ -134249,9 +134295,9 @@
       "url": "/wiki/entities/jamesearlray/"
     },
     "JamesHepburnEarlOfBothwell": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8999516788 [GLT8999516788].md",
@@ -134266,6 +134312,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",
@@ -134430,9 +134483,9 @@
       "url": "/wiki/entities/jamessteinberg/"
     },
     "JamesStewartEarlOfMoray": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8999516788 [GLT8999516788].md",
@@ -134447,6 +134500,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",
@@ -169023,9 +169083,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -169082,6 +169142,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",
@@ -220773,6 +220840,29 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/riversofbloodspeech/"
     },
+    "RizzioMurder": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
+        },
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/rizziomurder/"
+    },
     "RoadArchaeology": {
       "episode_count": 1,
       "show_count": 1,
@@ -259146,9 +259236,9 @@
       "url": "/wiki/concepts/tudorhumanistprotestanteducation/"
     },
     "TudorRoyalMarriageStatecraft": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6913826589 [GLT6913826589].md",
@@ -259170,9 +259260,16 @@
           "show": "The Rest Is History",
           "title": "616. Elizabeth I: The Fall of the Axe (Part 1)",
           "url": "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
@@ -273056,9 +273153,9 @@
       "url": "/wiki/entities/williamjoyce/"
     },
     "WilliamMaitlandOfLethington": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2383249995 [GLT2383249995].md",
@@ -273066,6 +273163,13 @@
           "show": "The Rest Is History",
           "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
           "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        },
+        {
+          "episode_file": "GLT2035316933 [GLT2035316933].md",
+          "key": "587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933",
+          "show": "The Rest Is History",
+          "title": "587. Mary, Queen of Scots: Murder Most Foul (Part 4)",
+          "url": "/wiki/sources/587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933/"
         }
       ],
       "updated": "2026-10-11",

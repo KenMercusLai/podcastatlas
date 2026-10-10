@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13133
+wiki_total_pages: 13136
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "RiversideNaturalFoods"
     title: "Riverside Natural Foods"
     url: "/wiki/entities/riversidenaturalfoods/"
+  - key: "RizzioMurder"
+    title: "Rizzio Murder"
+    url: "/wiki/entities/rizziomurder/"
   - key: "ReallyMagicalStuff"
     title: "RMS / Really Magical Stuff"
     url: "/wiki/entities/reallymagicalstuff/"
