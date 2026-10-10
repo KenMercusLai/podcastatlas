@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2700
+topic_total_pages: 2701
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6618,6 +6618,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954"
+    title: "590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)"
+    url: "/wiki/sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954/"
   - key: "591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031"
     title: "591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)"
     url: "/wiki/sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031/"

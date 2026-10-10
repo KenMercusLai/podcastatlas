@@ -5893,9 +5893,9 @@
       "url": "/wiki/entities/abrahamcolby/"
     },
     "AbrahamLincoln": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -5938,6 +5938,13 @@
           "show": "The Rest Is History",
           "title": "591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)",
           "url": "/wiki/sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031/"
+        },
+        {
+          "episode_file": "GLT2286421954 [GLT2286421954].md",
+          "key": "590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954",
+          "show": "The Rest Is History",
+          "title": "590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)",
+          "url": "/wiki/sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954/"
         }
       ],
       "updated": "2026-10-11",
@@ -139689,9 +139696,9 @@
       "url": "/wiki/entities/johnthefearless/"
     },
     "JohnWilkesBooth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -139706,6 +139713,13 @@
           "show": "The Rest Is History",
           "title": "591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)",
           "url": "/wiki/sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031/"
+        },
+        {
+          "episode_file": "GLT2286421954 [GLT2286421954].md",
+          "key": "590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954",
+          "show": "The Rest Is History",
+          "title": "590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)",
+          "url": "/wiki/sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954/"
         }
       ],
       "updated": "2026-10-11",
@@ -152051,9 +152065,9 @@
       "url": "/wiki/entities/linyouyu/"
     },
     "LincolnAssassinationConspiracy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7618197031 [GLT7618197031].md",
@@ -152061,6 +152075,13 @@
           "show": "The Rest Is History",
           "title": "591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)",
           "url": "/wiki/sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031/"
+        },
+        {
+          "episode_file": "GLT2286421954 [GLT2286421954].md",
+          "key": "590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954",
+          "show": "The Rest Is History",
+          "title": "590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)",
+          "url": "/wiki/sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954/"
         }
       ],
       "updated": "2026-10-11",

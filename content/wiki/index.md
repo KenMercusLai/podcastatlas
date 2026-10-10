@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)](sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954.md) — The Rest Is History on Lincoln's conciliatory final weeks, limited Black suffrage, Booth's Brutus fantasy, and the shift from kidnapping to assassination.
 - [How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard](sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004.md) — Huberman Lab interview on active adult learning, synaptic and neuromodulator timing, paired vagus stimulation, stroke rehabilitation, tinnitus retuning, and evidence limits.
 - [591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)](sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031.md) — The Rest Is History on Lincoln's murder and funeral, the multi-target conspiracy, Booth's escape and death, martyrdom, and a bounded Reconstruction counterfactual.
 - [VOL.175这医生真的有病，比患者还离谱｜医师节](sources/vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_.md) — 医务工作者从患者侧讨论伤病、检查与住院体验、依从性、ADHD自我理解、减重误区、康复节奏和同理心。
