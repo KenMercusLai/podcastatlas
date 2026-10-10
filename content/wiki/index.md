@@ -4421,6 +4421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 25: AI Revolution in Marketing: From Traditional to Transformational](sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational.md) — Data Science With Sam interview with Iqbal Pehla on AI-enabled healthcare marketing analytics, shorter outcome-feedback loops, and problem-led adoption.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
+- [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
 - [Rochester](entities/Rochester.md) — Medway crossing town whose Roman route, cathedral, castle, Restoration associations, and Dickensian memory anchor the older side of the corridor.

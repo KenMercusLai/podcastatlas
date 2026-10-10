@@ -30264,9 +30264,9 @@
       "url": "/wiki/entities/brainhq/"
     },
     "BrainHealthNutrientSufficiency": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -30281,9 +30281,16 @@
           "show": "Huberman Lab",
           "title": "Nutrients for Brain Health & Performance",
           "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        },
+        {
+          "episode_file": "SCIM6233048363 [SCIM6233048363].md",
+          "key": "essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363",
+          "show": "Huberman Lab",
+          "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+          "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/brainhealthnutrientsufficiency/"
     },
     "BrainImmuneStateCoupling": {
@@ -146446,9 +146453,9 @@
       "url": "/wiki/entities/leapmotort03/"
     },
     "LearnedFoodPreferenceConditioning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8313693954 [SCIM8313693954].md",
@@ -146456,9 +146463,16 @@
           "show": "Huberman Lab",
           "title": "Nutrients for Brain Health & Performance",
           "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        },
+        {
+          "episode_file": "SCIM6233048363 [SCIM6233048363].md",
+          "key": "essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363",
+          "show": "Huberman Lab",
+          "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+          "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/learnedfoodpreferenceconditioning/"
     },
     "LearningDrivenRoleExpansion": {
@@ -242400,9 +242414,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -242452,9 +242466,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
+        },
+        {
+          "episode_file": "SCIM6233048363 [SCIM6233048363].md",
+          "key": "essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363",
+          "show": "Huberman Lab",
+          "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+          "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiHongWesternHan": {
@@ -244671,9 +244692,9 @@
       "url": "/wiki/entities/swedishempire/"
     },
     "SweetenerUncertainty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -244695,9 +244716,16 @@
           "show": "Huberman Lab",
           "title": "Nutrients for Brain Health & Performance",
           "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        },
+        {
+          "episode_file": "SCIM6233048363 [SCIM6233048363].md",
+          "key": "essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363",
+          "show": "Huberman Lab",
+          "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+          "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SweynForkbeard": {
@@ -247133,9 +247161,9 @@
       "url": "/wiki/concepts/tastefirstcpgpositioning/"
     },
     "TasteIdentityValenceCircuit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7979038386 [SCIM7979038386].md",
@@ -247157,9 +247185,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
+        },
+        {
+          "episode_file": "SCIM6233048363 [SCIM6233048363].md",
+          "key": "essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363",
+          "show": "Huberman Lab",
+          "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+          "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/tasteidentityvalencecircuit/"
     },
     "TasteNutrientHazardDetection": {

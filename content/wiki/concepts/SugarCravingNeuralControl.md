@@ -10,7 +10,8 @@ sources:
   - controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681
   - scim8313693954-scim8313693954
   - essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150
-last_updated: 2026-10-07
+  - essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,6 +37,8 @@ The earlier brain-nutrition episode corroborates that three-input model and exte
 
 The later Essentials Zuker cut reiterates the strongest behavioral dissociation: mice lacking oral sweet receptors initially fail to distinguish sugar from water but later prefer sugar after post-ingestive exposure. It also preserves the narrower sweetener claim that the described gut sensors respond to sugar rather than artificial sweeteners; this supports pathway separation, not a universal prediction about human craving, weight, or substitution benefit.
 
+The Essentials brain-nutrition cut reiterates the earlier solo episode's taste, gut-sensing, neuronal-fuel, dopamine, and belief model. Its contribution is editorial continuity rather than a new evidence set, so the account raises confidence that the claim is central to the episode while leaving the experimental and clinical boundaries unchanged.
+
 ## Key Claims
 - Sugar seeking is shaped by hormone, neuronal glucose use, brain-energy demand, dopamine, gut-sensing, and proposed insulin-leptin-reward systems rather than only conscious preference.
 - Sweet taste and post-ingestive nutritive sensing can reinforce sugar seeking through partly distinct pathways.
@@ -57,13 +60,13 @@ The later Essentials Zuker cut reiterates the strongest behavioral dissociation:
 - Third-input and state context - [[controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681]] adds neuronal glucose uptake, astrocyte delivery, cognitive and motor demand, exercise context, and sleep to the oral and gut reinforcement pathways.
 - Metabolic-use and preference link - [[scim8313693954-scim8313693954]] uses two-deoxyglucose and learned-pairing accounts to connect neuronal fuel use with later food preference.
 - Condensed behavioral corroboration - [[essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150]] reiterates delayed sugar preference in sweet-receptor-knockout mice and the separation between oral sweetener detection and intestinal sugar sensing.
+- Condensed solo-episode continuity - [[essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363]] reiterates taste, gut nutrient sensing, neuronal metabolic use, dopamine, and expectation as interacting inputs to food seeking.
 
 ## Counterevidence & Qualifications
-The page is based on seven Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The full and Essentials Zuker notes summarize the same conversation and do not constitute independent evidence. The Bohórquez and Zuker notes supply no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Artificial-sweetener outcomes vary by compound, dose, pairing, person, and substitution context; the missing gut glucose signal or conditioned flavor response does not prove that all sweeteners increase appetite or fail as reduction tools. The visual-cortex feeding study, neuronal glucose-blockade experiments, two-deoxyglucose interpretation, preference-reset timing, fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric bypass, processed-food timing, and broader intuition claims remain source-scoped unless supported by stronger evidence.
+The page is based on eight Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The full and Essentials Zuker notes summarize the same conversation, as do the full and Essentials brain-nutrition notes, and neither pair constitutes independent evidence. The Bohórquez and Zuker notes supply no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Artificial-sweetener outcomes vary by compound, dose, pairing, person, and substitution context; the missing gut glucose signal or conditioned flavor response does not prove that all sweeteners increase appetite or fail as reduction tools. The visual-cortex feeding study, neuronal glucose-blockade experiments, two-deoxyglucose interpretation, preference-reset timing, fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric bypass, processed-food timing, and broader intuition claims remain source-scoped unless supported by stronger evidence.
 
 ## What Changed
-- Increased confidence in the liking-versus-wanting distinction through the condensed receptor-knockout account.
-- Preserved the artificial-sweetener claim as pathway-specific rather than a universal human outcome.
+- Added the condensed solo episode as overlapping provenance without treating repetition as an independent evidence gain.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - behavior and label-literacy frame that this mechanism helps explain.

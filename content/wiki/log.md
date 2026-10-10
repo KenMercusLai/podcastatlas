@@ -34688,3 +34688,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Food & Supplements for Brain Health & Cognitive Performance
+
+Added source `essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363`; and resynthesized [[BrainHealthNutrientSufficiency]], [[LearnedFoodPreferenceConditioning]], [[SugarCravingNeuralControl]], [[SweetenerUncertainty]], and [[TasteIdentityValenceCircuit]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: candidate brain nutrients remain subordinate to food-first sufficiency, overall diet, individual state, and clinical context, while oral taste, post-ingestive nutrient sensing, neuronal fuel use, dopamine-linked reinforcement, and expectation jointly shape food preference. No settled contradiction was adopted. This Essentials release condenses [[scim8313693954-scim8313693954|the full episode]] and therefore adds editorial continuity rather than independent replication; dose examples, sweetener pairing, belief-driven physiology, and seven-to-fourteen-day preference change remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], and [[AliCrum|Alia Crum]] profiles were kept closed because the full source already represents the same material and the focused concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,345 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

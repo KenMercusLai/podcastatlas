@@ -5,8 +5,9 @@ tags: [nutrition, brain-health, supplements, aging]
 sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
   - scim8313693954-scim8313693954
+  - essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-10
 ---
 
 # Brain-Health Nutrient Sufficiency
@@ -17,7 +18,7 @@ Brain-health nutrient sufficiency is the source's nutrition frame that cognitive
 ## Current Synthesis
 Wood organizes nutrition around energy, nutrients, and dietary pattern. The source treats Mediterranean-style and MIND-style diets as useful partly because they improve whole-food quality and nutrient density, not because one named food or supplement explains brain health. The strongest practical claim is to avoid deficiency or insufficiency in nutrients tied to cognition and dementia risk.
 
-The supplement discussion stays conservative. Vitamin D, iron, omega-3 status, B12, folate, homocysteine, and related B-vitamin interactions are testable targets; a basic multivitamin may help older adults by filling gaps; creatine has stronger safety evidence than many fashionable peptides. The earlier Huberman episode broadens the candidate list to EPA-rich omega-3s, phosphatidylserine, choline, creatine, anthocyanins, and glutamine, but supplies uneven study detail and several optimization-dose examples. Those additions expand the evidence inventory without displacing the sufficiency-first judgment: benefits of pushing already adequate biomarkers or intake higher remain uncertain.
+The supplement discussion stays conservative. Vitamin D, iron, omega-3 status, B12, folate, homocysteine, and related B-vitamin interactions are testable targets; a basic multivitamin may help older adults by filling gaps; creatine has stronger safety evidence than many fashionable peptides. The full and condensed Huberman releases broaden the candidate list to EPA-rich omega-3s, phosphatidylserine, choline, creatine, anthocyanins, and glutamine, but supply uneven study detail and several optimization-dose examples. Those overlapping additions expand the evidence inventory without displacing the sufficiency-first judgment: benefits of pushing already adequate biomarkers or intake higher remain uncertain.
 
 ## Key Claims
 - Energy balance matters because chronic caloric restriction and chronic caloric excess are both associated in the source with smaller brain volume in population comparisons.
@@ -35,13 +36,13 @@ The supplement discussion stays conservative. Vitamin D, iron, omega-3 status, B
 - Interaction evidence - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] discusses omega-3 and B-vitamin interaction trials such as VITACOG, B-PROOF, and Omega AD.
 - Supplement hierarchy - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] contrasts basic multivitamin and creatine evidence with weaker human evidence for most peptides.
 - Candidate brain nutrients - [[scim8313693954-scim8313693954]] discusses EPA-rich omega-3s, phosphatidylserine, choline, creatine, anthocyanins, and glutamine across neuronal structure, cognition, mood, cravings, or hypoxia-related resilience, while providing different levels of support for each.
+- Condensed corroboration - [[essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363]] reiterates the same candidate nutrients and food-first framing without constituting independent replication of the underlying claims.
 
 ## Counterevidence & Qualifications
-This concept is not nutrition or supplement advice. The sources keep biomarker interpretation, deficiency correction, concussion context, medication interactions, kidney disease, pregnancy, sleep apnea, hypoxia, cognitive decline, and other clinical conditions inside individualized medical judgment. The newer evidence inventory does not validate the episode's approximate EPA, choline, creatine, phosphatidylserine, anthocyanin, blueberry, or glutamine amounts as universal targets, and food-source equivalence, supplement formulation, baseline status, adverse effects, and primary-study quality remain unresolved.
+This concept is not nutrition or supplement advice. The sources keep biomarker interpretation, deficiency correction, concussion context, medication interactions, kidney disease, pregnancy, sleep apnea, hypoxia, cognitive decline, and other clinical conditions inside individualized medical judgment. The full and Essentials Huberman notes summarize overlapping material and do not validate the episode's approximate EPA, choline, creatine, phosphatidylserine, anthocyanin, blueberry, or glutamine amounts as universal targets; food-source equivalence, supplement formulation, baseline status, adverse effects, and primary-study quality remain unresolved.
 
 ## What Changed
-- Added a broader set of candidate brain-directed nutrients without replacing the sufficiency-first evidence hierarchy.
-- Made the gap between source-specific optimization doses and universal intake targets explicit.
+- Added the Essentials edit as overlapping provenance without changing the sufficiency-first judgment or treating repetition as replication.
 
 ## Related Concepts
 - [[ContextDependentBiomedicalInterventions]] - evidence and safety boundary for peptides and other interventions.
