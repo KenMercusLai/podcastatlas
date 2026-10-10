@@ -64722,9 +64722,9 @@
       "url": "/wiki/entities/deodorodafonseca/"
     },
     "DepressionAssessmentBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8966572027 [SCIM8966572027].md",
@@ -64732,9 +64732,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Conquering Depression",
           "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        },
+        {
+          "episode_file": "SCIM3842843942 [SCIM3842843942].md",
+          "key": "scim3842843942-scim3842843942",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim3842843942-scim3842843942/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/depressionassessmentboundary/"
     },
     "DepressionChronotherapy": {
@@ -64754,9 +64761,9 @@
       "url": "/wiki/concepts/depressionchronotherapy/"
     },
     "DepressionInterventionEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8966572027 [SCIM8966572027].md",
@@ -64764,9 +64771,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Conquering Depression",
           "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        },
+        {
+          "episode_file": "SCIM3842843942 [SCIM3842843942].md",
+          "key": "scim3842843942-scim3842843942",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim3842843942-scim3842843942/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
     },
     "DerRingDesNibelungen": {
@@ -128858,9 +128872,9 @@
       "url": "/wiki/entities/infinityventurestudio/"
     },
     "InflammationLinkedDepressionSubtype": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -128875,9 +128889,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Conquering Depression",
           "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        },
+        {
+          "episode_file": "SCIM3842843942 [SCIM3842843942].md",
+          "key": "scim3842843942-scim3842843942",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim3842843942-scim3842843942/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/inflammationlinkeddepressionsubtype/"
     },
     "InflammatoryBowelDiseaseManagement": {
@@ -166129,9 +166150,9 @@
       "url": "/wiki/entities/majesticapartmentsshanghai/"
     },
     "MajorDepressionMultisystemModel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8966572027 [SCIM8966572027].md",
@@ -166139,9 +166160,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Conquering Depression",
           "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        },
+        {
+          "episode_file": "SCIM3842843942 [SCIM3842843942].md",
+          "key": "scim3842843942-scim3842843942",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim3842843942-scim3842843942/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/majordepressionmultisystemmodel/"
     },
     "MajorInvestmentDecisionFramework": {

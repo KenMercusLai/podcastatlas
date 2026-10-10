@@ -5,7 +5,8 @@ tags: [depression, inflammation, immunology, psychiatry, treatment-boundary]
 sources:
   - scim1807559844-scim1807559844
   - scim8966572027-scim8966572027
-last_updated: 2026-10-03
+  - scim3842843942-scim3842843942
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Inflammation-linked depression subtype is the hypothesis that immune and inflamm
 ## Current Synthesis
 The sources start from heterogeneity: “depression” may group several biological and psychological conditions, and standard antidepressants do not help everyone equally. Links between inflammatory states and depression—including pro-inflammatory hepatitis C treatment and high comorbidity in multiple sclerosis—make cytokine and immune pathways plausible for a subset.
 
-The 2021 depression episode adds a candidate metabolic route: inflammatory signaling may activate the IDO-kynurenine pathway, diverting tryptophan away from serotonin-related metabolism and toward metabolites presented as potentially neurotoxic or pro-depressive. It also proposes EPA and exercise as ways of modifying inflammatory or kynurenine handling. These mechanisms make the subgroup model more specific, but they do not establish that a person has inflammation-driven depression or that a supplement or exercise prescription will treat it.
+The 2021 depression episode and its [[scim3842843942-scim3842843942|Essentials edit]] add a candidate metabolic route: inflammatory signaling may activate the IDO-kynurenine pathway, diverting tryptophan away from serotonin-related metabolism and toward metabolites presented as potentially neurotoxic or pro-depressive. They also propose EPA and exercise as ways of modifying inflammatory or kynurenine handling. These mechanisms make the subgroup model more specific, but the condensed edit does not independently confirm them, establish that a person has inflammation-driven depression, or show that a supplement or exercise prescription will treat it.
 
 The negative boundary remains decisive. Anti-inflammatory drugs do not appear broadly effective for depression, although the Linden source notes possible signals among some antidepressant nonresponders. The useful research question is which biomarkers, histories, or treatment-response patterns identify an inflammation-relevant subgroup, and whether pathway-targeted interventions improve meaningful outcomes, not whether inflammation explains depression as a whole.
 
@@ -35,15 +36,14 @@ The negative boundary remains decisive. Anti-inflammatory drugs do not appear br
 - Inflammatory contexts - [[scim1807559844-scim1807559844]] cites pro-inflammatory hepatitis C treatment and multiple sclerosis comorbidity.
 - Negative treatment boundary - [[scim1807559844-scim1807559844]] says anti-inflammatory drugs do not help depressed people in general.
 - Candidate subgroup - [[scim1807559844-scim1807559844]] notes suggestive but unresolved signals among some SSRI nonresponders.
-- Candidate metabolic pathway - [[scim8966572027-scim8966572027]] describes inflammatory diversion of tryptophan through IDO and kynurenine toward a potentially pro-depressive metabolite pathway.
-- Candidate pathway modifiers - [[scim8966572027-scim8966572027]] links EPA and exercise to inflammatory or kynurenine handling, but provides insufficient detail for a clinical protocol.
+- Candidate metabolic pathway - [[scim8966572027-scim8966572027]] and [[scim3842843942-scim3842843942]] describe inflammatory diversion of tryptophan through IDO and kynurenine toward a potentially pro-depressive metabolite pathway.
+- Candidate pathway modifiers - [[scim8966572027-scim8966572027]] and [[scim3842843942-scim3842843942]] link EPA and exercise to inflammatory or kynurenine handling, but provide insufficient detail for a clinical protocol.
 
 ## Counterevidence & Qualifications
-Association can reflect disease burden, treatment effects, shared risk factors, or reverse causation rather than one immune cause. Cytokines, tryptophan metabolites, animal or mechanistic results, and treatment response do not by themselves identify a human clinical subtype. The sources' response fractions, EPA comparisons, thresholds, and exercise mechanisms are source-scoped. This concept does not support self-treatment with anti-inflammatory drugs or supplements, compulsory exercise during severe illness, or changes to psychiatric care.
+Association can reflect disease burden, treatment effects, shared risk factors, or reverse causation rather than one immune cause. The full depression episode and its Essentials edit are overlapping provenance, not independent confirmation. Cytokines, tryptophan metabolites, animal or mechanistic results, and treatment response do not by themselves identify a human clinical subtype. The sources' response fractions, EPA comparisons, thresholds, and exercise mechanisms are source-scoped. This concept does not support self-treatment with anti-inflammatory drugs or supplements, compulsory exercise during severe illness, or changes to psychiatric care.
 
 ## What Changed
-- Added the IDO-kynurenine pathway as a candidate mechanism without treating it as a universal cause.
-- Added EPA and exercise as source-scoped intervention hypotheses while preserving the failure of broad anti-inflammatory treatment.
+- Added the Essentials edit as overlapping provenance; the conditional subtype model and negative broad-treatment boundary are unchanged.
 
 ## Related Concepts
 - [[BrainImmuneStateCoupling]] - broader biological relationship between neural and immune states.

@@ -35209,3 +35209,11 @@ Added source `580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Understanding & Conquering Depression
+
+Added source `scim3842843942-scim3842843942` and resynthesized [[DepressionAssessmentBoundary]], [[DepressionInterventionEvidenceBoundary]], [[InflammationLinkedDepressionSubtype]], and [[MajorDepressionMultisystemModel]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: major depression spans emotional, reward, action, sleep, appetite, stress, hormonal, inflammatory, and self-narrative systems; symptom recognition does not replace differential diagnosis; and behavioral, supplemental, dietary, pharmacological, dissociative, and psychedelic interventions differ in evidence, feasibility, risk, and supervision needs. No settled contradiction was adopted. This Essentials release condenses [[scim8966572027-scim8966572027|the full 2021 episode]] and is overlapping editorial provenance rather than independent confirmation. Prevalence, disability, cortisol, thyroid, genetic, SSRI-response, inflammation, EPA, creatine, ketogenic, ketamine, and psilocybin claims remain source-scoped public education. Broad [[AndrewHuberman]] and [[HubermanLab]] pages were kept closed because the focused source and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,411 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

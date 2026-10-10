@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1547
+topic_total_pages: 1548
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4098,6 +4098,9 @@ topic_sources:
   - key: "essentials-understand-improve-memory-using-science-based-tools-scim6024056343"
     title: "Essentials: Understand & Improve Memory Using Science-Based Tools"
     url: "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
+  - key: "scim3842843942-scim3842843942"
+    title: "Essentials: Understanding & Conquering Depression"
+    url: "/wiki/sources/scim3842843942-scim3842843942/"
   - key: "essentials-understanding-controlling-aggression-scim4757138073"
     title: "Essentials: Understanding & Controlling Aggression"
     url: "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"

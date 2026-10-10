@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Understanding & Conquering Depression](sources/scim3842843942-scim3842843942.md) — Condensed Huberman Lab episode on major depression as a multisystem disorder, assessment boundaries, inflammation, treatment evidence, and behavioral-tool feasibility.
 - [How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon](sources/scim8552663956-scim8552663956.md) — Huberman Lab interview on protein hierarchy, body recomposition, fed-versus-fasted outcomes, diet flexibility, seed-oil evidence, supplements, and adherence.
 - [VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能](sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp.md) — 这病说来话长 interview with Zhao Chuan on long-career conditioning, performance readiness, vocal care, walking, touring, and later-life renewal.
 - [582. The Body in the Woods: A Medieval Murder Mystery](sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685.md) — The Rest Is History on William of Norwich, Thomas of Monmouth, local skepticism, clerical incentive, and the formation and spread of the medieval blood libel.
