@@ -4452,6 +4452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
 - [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
 - [Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca](sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900.md) — Huberman Lab interview on autism heterogeneity, patient-derived neural organoids and assembloids, transplantation, stem-cell-treatment boundaries, and Timothy syndrome translation.
+- [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
 - [黄药师 / Huang Yaoshi](entities/HuangYaoshi.md) — 《射雕英雄传》中兼具广博才情、诗意宗师气质、家人深情与残酷争议的桃花岛主。

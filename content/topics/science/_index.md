@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1534
+topic_total_pages: 1535
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3972,6 +3972,9 @@ topic_sources:
   - key: "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379"
     title: "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being"
     url: "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+  - key: "scim9807260634-scim9807260634"
+    title: "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction"
+    url: "/wiki/sources/scim9807260634-scim9807260634/"
   - key: "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786"
     title: "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"

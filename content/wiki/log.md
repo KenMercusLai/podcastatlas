@@ -34933,3 +34933,11 @@ Added source `vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-l
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction
+
+Added source `scim9807260634-scim9807260634` and resynthesized [[DopaminePeakTroughBaseline]], [[DopamineToolTiming]], [[EffortAsReward]], and [[MotivationCrowdingOut]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Essentials episode condenses the 2021 full episode's model of dopamine peaks, post-peak troughs, recent reward history, intermittent reward, effort valuation, and anti-stacking; it expands provenance but does not independently confirm the mechanisms or effects. No settled contradiction was adopted. Exact dopamine multipliers, vesicle-depletion language, cold-water results, caffeine and yerba-mate claims, neuroplasticity effects, supplement doses, prescription comparisons, and social-reward mechanisms remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[ColdExposureDoseAndSafety]], and [[RewardPredictionErrorLearning]] pages were kept closed because the focused source and four concept updates capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,376 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,8 @@ sources:
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
   - scim6449668176-scim6449668176
-last_updated: 2026-10-02
+  - scim9807260634-scim9807260634
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ In [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim260295028
 
 The AMA turns this principle into a visible self-accountability loop. A person writes down a bounded commitment, removes distractions, completes the task, marks it done, and treats the kept promise as the reward. External support is useful when it changes follow-through, but announcement or praise can become a substitute for action when it produces a premature feeling of progress.
 
-The earlier [[scim6449668176-scim6449668176]] episode supplies the foundational account: effort, friction, fasting, and challenge can acquire reward value through interpretation, while routine before-and-after reward spikes can teach a person that the activity is only instrumental. It also makes the boundary clearer: this is a claim about learned valuation and intrinsic motivation, not a command to maximize deprivation or discomfort.
+The earlier [[scim6449668176-scim6449668176]] episode supplies the foundational account: effort, friction, fasting, and challenge can acquire reward value through interpretation, while routine before-and-after reward spikes can teach a person that the activity is only instrumental. Its condensed edit, [[scim9807260634-scim9807260634]], repeats the effort-centered protocol and drawing-reward example without adding independent evidence. Together they make the boundary clearer: this is a claim about learned valuation and intrinsic motivation, not a command to maximize deprivation or discomfort.
 
 ## Key Claims
 - Effort can become subjectively rewarding when attention and interpretation attach value to the process.
@@ -39,12 +40,13 @@ The earlier [[scim6449668176-scim6449668176]] episode supplies the foundational 
 - Accountability loop: [[ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235]] joins written goals, checkmarks or a self-contract, phone removal, task completion, and effort-centered reward.
 - Social boundary: [[ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235]] warns that announcing a goal can feel like progress unless another person creates genuine accountability.
 - Earlier effort-valuation frame: [[scim6449668176-scim6449668176]] connects growth-mindset framing, fasting, challenge, external rewards, and avoidance of before-or-after dopamine spikes to learning reward from the process.
+- Condensed restatement: [[scim9807260634-scim9807260634]] again recommends attaching reward to friction and effort rather than reliably spiking stimulation before or after work.
 
 ## Counterevidence & Qualifications
-Effort should not be romanticized when the task is unsafe, pointless, exploitative, or structurally impossible. The sources overlap and do not independently establish a precise dopamine mechanism for intrinsic motivation. They support bounded process reward, not endurance of injury, sleep deprivation, abusive work, untreated illness, punitive fasting, punitive self-contracts, or perpetual self-optimization. Depression, ADHD, neurological apathy, addiction, and severe fatigue can require support beyond self-accountability design.
+Effort should not be romanticized when the task is unsafe, pointless, exploitative, or structurally impossible. The sources overlap, and the Essentials edit is derived from the earlier full episode; they do not independently establish a precise dopamine mechanism for intrinsic motivation. They support bounded process reward, not endurance of injury, sleep deprivation, abusive work, untreated illness, punitive fasting, punitive self-contracts, or perpetual self-optimization. Depression, ADHD, neurological apathy, addiction, and severe fatigue can require support beyond self-accountability design.
 
 ## What Changed
-- Added the earlier episode's effort-valuation, fasting, growth-mindset, and reward-timing provenance.
+- Added the Essentials edit as a condensed restatement of the existing process-reward account.
 - Preserved the boundary between constructive process reward and unsafe or punitive deprivation.
 
 ## Related Concepts

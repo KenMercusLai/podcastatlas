@@ -68908,9 +68908,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -68939,9 +68939,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Motivation & Drive",
           "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
+        },
+        {
+          "episode_file": "SCIM9807260634 [SCIM9807260634].md",
+          "key": "scim9807260634-scim9807260634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim9807260634-scim9807260634/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineSerotoninOpponentDynamics": {
@@ -68961,9 +68968,9 @@
       "url": "/wiki/concepts/dopamineserotoninopponentdynamics/"
     },
     "DopamineToolTiming": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -69006,9 +69013,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM9807260634 [SCIM9807260634].md",
+          "key": "scim9807260634-scim9807260634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim9807260634-scim9807260634/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
@@ -73748,9 +73762,9 @@
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
     },
     "EffortAsReward": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -73772,9 +73786,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM9807260634 [SCIM9807260634].md",
+          "key": "scim9807260634-scim9807260634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim9807260634-scim9807260634/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/effortasreward/"
     },
     "EffortNarrativeInterrogation": {
@@ -178778,9 +178799,9 @@
       "url": "/wiki/concepts/motivatedbias/"
     },
     "MotivationCrowdingOut": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
@@ -178823,9 +178844,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM9807260634 [SCIM9807260634].md",
+          "key": "scim9807260634-scim9807260634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim9807260634-scim9807260634/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/motivationcrowdingout/"
     },
     "MotivationRewardEffortCalculation": {
