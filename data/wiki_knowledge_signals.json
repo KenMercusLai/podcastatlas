@@ -194914,9 +194914,9 @@
       "url": "/wiki/entities/paintingthrushgulong/"
     },
     "PairedVagusNerveStimulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4914799004 [SCIM4914799004].md",
@@ -194924,6 +194924,13 @@
           "show": "Huberman Lab",
           "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
           "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
+        },
+        {
+          "episode_file": "SCIM9674777621 [SCIM9674777621].md",
+          "key": "control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621",
+          "show": "Huberman Lab",
+          "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
+          "url": "/wiki/sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621/"
         }
       ],
       "updated": "2026-10-11",
@@ -201590,9 +201597,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -201642,9 +201649,16 @@
           "show": "Huberman Lab",
           "title": "Master Stress: Tools for Managing Stress & Anxiety",
           "url": "/wiki/sources/scim8789190900-scim8789190900/"
+        },
+        {
+          "episode_file": "SCIM9674777621 [SCIM9674777621].md",
+          "key": "control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621",
+          "show": "Huberman Lab",
+          "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
+          "url": "/wiki/sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
@@ -264409,9 +264423,9 @@
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
     "VagusStimulationStateBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6339543648 [SCIM6339543648].md",
@@ -264419,9 +264433,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "SCIM9674777621 [SCIM9674777621].md",
+          "key": "control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621",
+          "show": "Huberman Lab",
+          "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
+          "url": "/wiki/sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/vagusstimulationstateboundary/"
     },
     "ValentineCardCommercialization": {

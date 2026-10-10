@@ -35291,3 +35291,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity
+
+Added source `control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621` and resynthesized [[VagusStimulationStateBoundary]], [[PhysiologicalSigh]], and [[PairedVagusNerveStimulation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the vagus nerve is a bidirectional, branch-specific brain-body system whose sensory and motor pathways can support calming, cardiac regulation, alertness, neuromodulation, gut-brain signaling, or task-paired rehabilitation; the name of the nerve alone does not predict the direction or clinical value of an effect. No settled contradiction was adopted. Fiber proportions, named circuits, HRV training, exercise-alertness and post-exercise learning claims, gut-serotonin mechanisms, and ear, neck, humming, probiotic, and breathing protocols remain source-scoped public education. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,421 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

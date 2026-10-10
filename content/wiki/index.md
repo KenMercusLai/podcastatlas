@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity](sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621.md) — Huberman Lab solo episode on branch-specific vagal signaling, calming versus alerting pathways, breathing, learning, gut-brain communication, and evidence-bounded self-regulation tools.
 - [VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力](sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp.md) — 这病说来话长 episode on fluctuating autoimmune weakness, crisis warning signs, efficacy-and-safety “double-target” management, individualized treatment, and structured visit preparation.
 - [Essentials: Understanding & Treating Addiction | Dr. Anna Lembke](sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387.md) — Condensed Huberman Lab interview on dopamine adaptation, pleasure-pain balance, relapse triggers, truth-telling, psychedelic-treatment caution, and intentional social-media boundaries.
 - [066 大话卫斯理之《不死药》：永生是福还是祸？](sources/ltte46cfjwcjc-gwcbkqb7zo7qh1.md) — 纸醉金迷FM以越狱、身份互换和南太平洋药源重述《不死药》，并把永生拆解为持续供给、认知退化、同意、垄断与不平等问题。
