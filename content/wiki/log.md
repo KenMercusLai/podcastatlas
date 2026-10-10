@@ -34877,3 +34877,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 593. The Fight of the Century
+
+Added source `593-the-fight-of-the-century-glt1334632459`; created [[TomSayers]], [[JohnCHeenan]], and [[VictorianPrizefighting]]; and resynthesized [[RobertColls]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the 1860 Sayers-Heenan fight was neither an unregulated brawl nor a stable modern competition, but a coupled system of informal rules, gambling, newspapers, aristocratic patronage, selective law enforcement, class display, and nationalist mythmaking; its chaotic draw exposed the limits of that order, while later codification changed rather than simply removed boxing's dangers. No settled contradiction was adopted. The official result, rope-cutting, disqualification claim, crowd and prosecution figures, medical effects, political meanings, and comparative danger remain disputed, interpretive, or source-scoped. Broad [[TheRestIsHistory]], [[BoxingAsEmbodiedAgency]], and [[MarquessOfQueensberry]] pages were kept closed because the focused source, fighter profiles, prizefighting concept, and Colls update capture the bounded addition without reopening larger or differently scoped evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,369 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

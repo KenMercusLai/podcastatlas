@@ -6263,6 +6263,13 @@
       "url": "/topics/history/"
     }
   ],
+  "593-the-fight-of-the-century-glt1334632459": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129": [
     {
       "key": "history",
@@ -90054,6 +90061,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "VictorianPrizefighting": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "VictoryDeterrenceDiplomacy": [

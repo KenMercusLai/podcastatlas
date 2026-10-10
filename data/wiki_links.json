@@ -3675,6 +3675,10 @@
     "title": "59. The World Cup of Gods - Part 2",
     "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
   },
+  "593-the-fight-of-the-century-glt1334632459": {
+    "title": "593. The Fight of the Century",
+    "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
+  },
   "594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129": {
     "title": "594. The First World War: The Invasion of Belgium (Part 1)",
     "url": "/wiki/sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129/"
@@ -47095,6 +47099,10 @@
     "title": "John Bull",
     "url": "/wiki/entities/johnbull/"
   },
+  "JohnCHeenan": {
+    "title": "John C. Heenan",
+    "url": "/wiki/entities/johncheenan/"
+  },
   "JohnCadbury": {
     "title": "John Cadbury",
     "url": "/wiki/entities/johncadbury/"
@@ -85547,6 +85555,10 @@
     "title": "Tom Sass",
     "url": "/wiki/entities/tomsass/"
   },
+  "TomSayers": {
+    "title": "Tom Sayers",
+    "url": "/wiki/entities/tomsayers/"
+  },
   "TomSegura": {
     "title": "Tom Segura",
     "url": "/wiki/entities/tomsegura/"
@@ -88326,6 +88338,10 @@
   "VictorianHomosexualIdentityFormation": {
     "title": "Victorian Homosexual Identity Formation",
     "url": "/wiki/concepts/victorianhomosexualidentityformation/"
+  },
+  "VictorianPrizefighting": {
+    "title": "Victorian Prizefighting",
+    "url": "/wiki/concepts/victorianprizefighting/"
   },
   "VictorianTourismFormation": {
     "title": "Victorian Tourism Formation",

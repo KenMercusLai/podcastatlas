@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [593. The Fight of the Century](sources/593-the-fight-of-the-century-glt1334632459.md) — The Rest Is History on Sayers and Heenan, Victorian prizefighting, illegality, betting, nationalism, “bottom,” and boxing's codification tradeoffs.
 - [VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天](sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7.md) — 于莺以个人经历和医学解释连接减重平台、复胖、食欲与情绪、肌肉保留、正规评估和违规减肥产品风险。
 - [594. The First World War: The Invasion of Belgium (Part 1)](sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129.md) — The Rest Is History on the Schlieffen Plan, Belgian neutrality, Liège, civilian reprisals, Louvain, Brussels, and the boundary between documented atrocity and propaganda.
 - [Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno](sources/science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257.md) — Huberman Lab interview on scientific limits around God, religious practice as spiritual technology, prayer breathing, ritual synchrony, gratitude and cheating, grief, mortality, loneliness, and misuse.
@@ -4447,6 +4448,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
 
 ## Entities
+- [Tom Sayers](entities/TomSayers.md) — Experienced English prizefighting champion whose disputed 1860 draw made him a symbol of skill, endurance, and national popular celebrity.
+- [John C. Heenan](entities/JohnCHeenan.md) — Irish-American challenger whose physical threat and international fame greatly exceeded his winless professional record.
 - [于莺 / Yu Ying](entities/YuYingEmergencyPhysician.md) — 前急诊医生与医学科普者，以个人减重经历解释平台期、反弹、食欲调节和专业评估边界。
 - [German Invasion of Belgium (1914)](entities/GermanInvasionOfBelgium1914.md) — Opening campaign joining the Schlieffen timetable, violated neutrality, Belgian resistance, occupation violence, and reputational collapse.
 - [Battle of Liège (1914)](entities/BattleOfLiege1914.md) — Opening Belgian defense where forts, modern firepower, timetable delay, and civilian reprisals converged.
@@ -17619,6 +17622,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Victorian Prizefighting](concepts/VictorianPrizefighting.md) — Bare-knuckle sport as a coupled system of rules, gambling, legal tolerance, class culture, nationalism, media, and changing injury tradeoffs.
 - [Schlieffen Plan](concepts/SchlieffenPlan.md) — German attempt to solve a two-front war through rapid western concentration via Belgium before shifting forces east.
 - [Belgian Atrocity and Propaganda Problem (1914)](concepts/BelgianAtrocityPropaganda1914.md) — Framework preserving documented German violence, disputed stories, reciprocal propaganda, and Louvain's symbolic force.
 - [Religious Practice as Spiritual Technology](concepts/ReligiousPracticeAsSpiritualTechnology.md) — Framework for testing inherited religious practices and outcomes without treating benefit as proof of doctrine.

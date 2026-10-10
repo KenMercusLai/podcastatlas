@@ -138413,6 +138413,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/johnbull/"
     },
+    "JohnCHeenan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1334632459 [GLT1334632459].md",
+          "key": "593-the-fight-of-the-century-glt1334632459",
+          "show": "The Rest Is History",
+          "title": "593. The Fight of the Century",
+          "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/johncheenan/"
+    },
     "JohnCadbury": {
       "episode_count": 1,
       "show_count": 1,
@@ -220048,9 +220064,9 @@
       "url": "/wiki/entities/robertclive/"
     },
     "RobertColls": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5823999588 [GLT5823999588].md",
@@ -220058,9 +220074,16 @@
           "show": "The Rest Is History",
           "title": "208. George Orwell",
           "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        },
+        {
+          "episode_file": "GLT1334632459 [GLT1334632459].md",
+          "key": "593-the-fight-of-the-century-glt1334632459",
+          "show": "The Rest Is History",
+          "title": "593. The Fight of the Century",
+          "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/robertcolls/"
     },
     "RobertDudley": {
@@ -255426,6 +255449,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/tomorton/"
     },
+    "TomSayers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1334632459 [GLT1334632459].md",
+          "key": "593-the-fight-of-the-century-glt1334632459",
+          "show": "The Rest Is History",
+          "title": "593. The Fight of the Century",
+          "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tomsayers/"
+    },
     "TomSegura": {
       "episode_count": 1,
       "show_count": 1,
@@ -263003,6 +263042,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/victorianhomosexualidentityformation/"
+    },
+    "VictorianPrizefighting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1334632459 [GLT1334632459].md",
+          "key": "593-the-fight-of-the-century-glt1334632459",
+          "show": "The Rest Is History",
+          "title": "593. The Fight of the Century",
+          "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/victorianprizefighting/"
     },
     "VictorianTourismFormation": {
       "episode_count": 2,

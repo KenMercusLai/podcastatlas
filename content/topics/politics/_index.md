@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3264
+topic_total_pages: 3265
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4372,6 +4372,9 @@ topic_concepts:
   - key: "VictorianHomosexualIdentityFormation"
     title: "Victorian Homosexual Identity Formation"
     url: "/wiki/concepts/victorianhomosexualidentityformation/"
+  - key: "VictorianPrizefighting"
+    title: "Victorian Prizefighting"
+    url: "/wiki/concepts/victorianprizefighting/"
   - key: "VictoryDeterrenceDiplomacy"
     title: "Victory Deterrence Diplomacy / 胜势威慑外交"
     url: "/wiki/concepts/victorydeterrencediplomacy/"
