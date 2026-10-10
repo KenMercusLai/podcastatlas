@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [606. Enoch Powell: Rivers of Blood](sources/606-enoch-powell-rivers-of-blood-glt7520958596.md) — The Rest Is History on Powell's biography, postwar Commonwealth immigration, the 1968 speech, its backlash, failed race-war prediction, and populist afterlife.
 - [607. Nelson’s Lover: The Scandalous Lady Hamilton](sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938.md) — The Rest Is History on Emma Hamilton’s rise from poverty and patronage to portrait celebrity, classical performance, marriage, and political influence in Naples.
 - [Essentials: Time Perception, Memory & Focus](sources/essentials-time-perception-memory-focus-scim9668683035.md) — Condensed Huberman Lab episode on biological entrainment, present and remembered duration, novelty, neuromodulator state, and flexible ultradian work blocks.
 - [079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人](sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy.md) — 纸醉金迷FM以取经项目开局拆解模糊授权、安全劫难、监督留痕、能力惩罚与通过既成事实完成的人事安插。
@@ -4401,6 +4402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Make Yourself Unbreakable | DJ Shipley](sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060.md) — Huberman Lab interview on combat trauma, injury recovery, daily mental posture, functional fitness, supervised psychedelic treatment, and integration.
 
 ## Entities
+- [Peter Griffiths](entities/PeterGriffiths.md) — Conservative whose openly anti-immigration 1964 Smethwick campaign became a precedent for Powell's later turn.
 - [George Romney](entities/GeorgeRomney.md) — British portraitist whose repeated images of Emma Hamilton helped circulate her performed identities and celebrity.
 - [Charles Greville](entities/CharlesGreville.md) — Aristocratic patron who combined protection and artistic access with control over Emma Hamilton’s identity, child, and move to Naples.
 - [影视飓风 Tim](entities/TimMediaStorm.md) — 影视飓风的创始人型创作者，以影像技艺、选题判断、商业边界、数据方法、极限企划和全球化目标组织公司成长。
@@ -17510,6 +17512,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DJ Shipley](entities/DJShipley.md) — Retired Navy SEAL connecting combat trauma, severe injury, daily standards, family repair, functional training, and supervised psychedelic treatment.
 
 ## Concepts
+- [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
+- [Postwar Commonwealth Immigration to Britain](concepts/PostwarCommonwealthImmigration.md) — British sequence joining imperial citizenship, settlement, restriction, family reunion, postcolonial obligation, and anti-discrimination law.
 - [Psychological Service Consumer Vetting / 心理服务消费甄别](concepts/PsychologicalServiceConsumerVetting.md) — Layered assessment of psychological courses and services through need, competence, supervision, accountability, emotional effects, promises, and referral capacity.
 - [Embodied Classical Performance](concepts/EmbodiedClassicalPerformance.md) — Live conversion of classical images into sequences of pose, expression, drapery, gesture, and transformation.
 - [Surrender Guarantee Integrity](concepts/SurrenderGuaranteeIntegrity.md) — Principle separating disputed negotiating authority from protections owed after defenders rely on surrender terms.

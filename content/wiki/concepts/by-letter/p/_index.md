@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10213
+wiki_total_pages: 10215
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1541,6 +1541,9 @@ wiki_pages:
   - key: "PostwarCaribbeanBritishSettlement"
     title: "Postwar Caribbean British Settlement"
     url: "/wiki/concepts/postwarcaribbeanbritishsettlement/"
+  - key: "PostwarCommonwealthImmigration"
+    title: "Postwar Commonwealth Immigration to Britain"
+    url: "/wiki/concepts/postwarcommonwealthimmigration/"
   - key: "PostwarCrisisModernity1922"
     title: "Postwar Crisis Modernity in 1922"
     url: "/wiki/concepts/postwarcrisismodernity1922/"

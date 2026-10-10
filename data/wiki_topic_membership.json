@@ -6270,6 +6270,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "606-enoch-powell-rivers-of-blood-glt7520958596": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938": [
     {
       "key": "history",
@@ -66755,6 +66767,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PeterGriffiths": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PeterLynch": [
     {
       "key": "economics",
@@ -73945,6 +73964,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "RiversOfBloodSpeech": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RoadArchaeology": [

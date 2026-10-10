@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3257
+topic_total_pages: 3260
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3646,6 +3646,9 @@ topic_concepts:
   - key: "RiverAsLivingEntity"
     title: "River As Living Entity / 河流作为生命"
     url: "/wiki/concepts/riveraslivingentity/"
+  - key: "RiversOfBloodSpeech"
+    title: "Rivers of Blood Speech"
+    url: "/wiki/concepts/riversofbloodspeech/"
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"
@@ -7166,6 +7169,9 @@ topic_entities:
   - key: "Pennsylvania"
     title: "Pennsylvania"
     url: "/wiki/entities/pennsylvania/"
+  - key: "PeterGriffiths"
+    title: "Peter Griffiths"
+    url: "/wiki/entities/petergriffiths/"
   - key: "PeterMandelson"
     title: "Peter Mandelson"
     url: "/wiki/entities/petermandelson/"
@@ -8724,6 +8730,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "606-enoch-powell-rivers-of-blood-glt7520958596"
+    title: "606. Enoch Powell: Rivers of Blood"
+    url: "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
   - key: "61-california-glt2438679240"
     title: "61. California"
     url: "/wiki/sources/61-california-glt2438679240/"

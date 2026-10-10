@@ -78857,9 +78857,9 @@
       "url": "/wiki/entities/englishdefenceleague/"
     },
     "EnglishNationalIdentity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7388885434 [GLT7388885434].md",
@@ -78881,9 +78881,16 @@
           "show": "The Rest Is History",
           "title": "11. Brexit",
           "url": "/wiki/sources/11-brexit-glt9171248177/"
+        },
+        {
+          "episode_file": "GLT7520958596 [GLT7520958596].md",
+          "key": "606-enoch-powell-rivers-of-blood-glt7520958596",
+          "show": "The Rest Is History",
+          "title": "606. Enoch Powell: Rivers of Blood",
+          "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/englishnationalidentity/"
     },
     "EnglishNorthSouthDivide": {
@@ -78983,9 +78990,9 @@
       "url": "/wiki/concepts/enlightenmentuniversalismcolonialhierarchy/"
     },
     "EnochPowell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9690615062 [GLT9690615062].md",
@@ -78993,9 +79000,16 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT7520958596 [GLT7520958596].md",
+          "key": "606-enoch-powell-rivers-of-blood-glt7520958596",
+          "show": "The Rest Is History",
+          "title": "606. Enoch Powell: Rivers of Blood",
+          "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/enochpowell/"
     },
     "EnochSontonga": {
@@ -195987,6 +196001,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/peterfrankopan/"
     },
+    "PeterGriffiths": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7520958596 [GLT7520958596].md",
+          "key": "606-enoch-powell-rivers-of-blood-glt7520958596",
+          "show": "The Rest Is History",
+          "title": "606. Enoch Powell: Rivers of Blood",
+          "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/petergriffiths/"
+    },
     "PeterPomerantsev": {
       "episode_count": 1,
       "show_count": 1,
@@ -201732,6 +201762,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/postwarcaribbeanbritishsettlement/"
+    },
+    "PostwarCommonwealthImmigration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7520958596 [GLT7520958596].md",
+          "key": "606-enoch-powell-rivers-of-blood-glt7520958596",
+          "show": "The Rest Is History",
+          "title": "606. Enoch Powell: Rivers of Blood",
+          "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/postwarcommonwealthimmigration/"
     },
     "PostwarCrisisModernity1922": {
       "episode_count": 1,
@@ -217173,6 +217219,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/riverfleet/"
+    },
+    "RiversOfBloodSpeech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7520958596 [GLT7520958596].md",
+          "key": "606-enoch-powell-rivers-of-blood-glt7520958596",
+          "show": "The Rest Is History",
+          "title": "606. Enoch Powell: Rivers of Blood",
+          "url": "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/riversofbloodspeech/"
     },
     "RoadArchaeology": {
       "episode_count": 1,

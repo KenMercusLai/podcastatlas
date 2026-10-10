@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10213
+wiki_total_pages: 10215
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "RiverCrossingDeception"
     title: "River Crossing Deception / 渡河欺敌"
     url: "/wiki/concepts/rivercrossingdeception/"
+  - key: "RiversOfBloodSpeech"
+    title: "Rivers of Blood Speech"
+    url: "/wiki/concepts/riversofbloodspeech/"
   - key: "RMBExchangeRatePolicy"
     title: "RMB Exchange Rate Policy"
     url: "/wiki/concepts/rmbexchangeratepolicy/"

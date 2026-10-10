@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2688
+topic_total_pages: 2689
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "606-enoch-powell-rivers-of-blood-glt7520958596"
+    title: "606. Enoch Powell: Rivers of Blood"
+    url: "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"
   - key: "607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938"
     title: "607. Nelson’s Lover: The Scandalous Lady Hamilton"
     url: "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"

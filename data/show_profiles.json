@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 665,
-      "topic_matched_source_note_count": 625,
+      "source_note_count": 666,
+      "topic_matched_source_note_count": 626,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 616
+          "source_note_count": 617
         },
         {
           "key": "culture",
@@ -972,7 +972,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 59
+          "source_note_count": 60
         },
         {
           "key": "economics",
