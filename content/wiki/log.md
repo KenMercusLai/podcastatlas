@@ -34446,3 +34446,13 @@ Added source `lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu`; create
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson
+
+Added source `scim6678678955-scim6678678955`; and resynthesized [[DavidBerson]], [[MelanopsinCircadianPhotoreception]], [[VisualVestibularStabilization]], [[CerebellarPrediction]], [[ReflexDeliberationControlHierarchy]], and [[DistributedNeuralRepresentation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: specialized retinal, vestibular, cerebellar, midbrain, basal-ganglia, and cortical systems compare signals and coordinate perception and action; early blindness can recruit visual cortex for tactile spatial processing, but this does not make cortical organization unconstrained. No settled contradiction was adopted. Subjective color equivalence, exact individual circadian periods, generalized self-control trainability, the Braille case's broader applicability, and clinical implications remain source-scoped. The release substantially condenses [[scim4448895120-scim4448895120]] and is recorded as overlapping provenance rather than independent confirmation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,315 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 36 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

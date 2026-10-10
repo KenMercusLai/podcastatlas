@@ -4,7 +4,8 @@ type: entity
 tags: [neuroscience, vision, retina, circadian-rhythm, connectomics]
 sources:
   - scim4448895120-scim4448895120
-last_updated: 2026-10-02
+  - scim6678678955-scim6678678955
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 David Berson is a Brown University neuroscientist presented in the source as a specialist in retinal circuitry and as a member of the research team credited there with discovering intrinsically photosensitive melanopsin-containing retinal ganglion cells.
 
 ## Current Profile
-Berson uses sensory systems to explain nervous-system organization from the periphery inward. He distinguishes image-forming retinal signals from brightness signals, then follows sensory information into circadian, vestibular, cerebellar, midbrain, basal-ganglia, cortical, and connectomic levels. His recurring position is that specific cell types and pathways matter, but perception and behavior emerge from interactions among multiple specialized systems.
+Berson uses sensory systems to explain nervous-system organization from the periphery inward. Across the full interview and its condensed Essentials edit, he distinguishes image-forming retinal signals from brightness signals, then follows sensory information into circadian, vestibular, cerebellar, midbrain, basal-ganglia, and cortical levels. His recurring position is that specific cell types and pathways matter, but perception and behavior emerge from interactions among multiple specialized systems. The full interview additionally supplies the connectomics branch omitted from the condensed release.
 
 He also marks uncertainty directly. In the bounded interview he treats outdoor-time/myopia mechanisms, pleasure from movement, some mood pathways, and wider implications of wiring diagrams as unresolved or only partly understood. Connectomics is presented as a way to generate anatomical hypotheses, not as a substitute for physiology or behavior.
 
@@ -31,13 +32,13 @@ He also marks uncertainty directly. In the bounded interview he treats outdoor-t
 - Sensorimotor integration - [[scim4448895120-scim4448895120]] explains vestibular sensing, compensatory eye movements, cerebellar error correction, and midbrain orientation.
 - Layered action control - [[scim4448895120-scim4448895120]] contrasts rapid reflexes, basal-ganglia go/no-go functions, and context-sensitive cortical override.
 - Network organization - [[scim4448895120-scim4448895120]] joins cell-type specificity, distributed face representation, cortical plasticity, and connectomic reconstruction.
+- Condensed restatement - [[scim6678678955-scim6678678955]] revisits retinal comparison, visual-vestibular conflict, cerebellar correction, go/no-go behavior, and early-blindness cortical repurposing without adding independent confirmation.
 
 ## Qualifications
-This profile is bounded to one public interview and is not a complete biography, publication record, priority history, or account of Berson's laboratory. The supplied source repeatedly spells his surname “Burson”; the episode title and canonical identity are retained as David Berson. Mechanistic and translational claims remain source-scoped unless independently represented elsewhere in the wiki.
+This profile is bounded to one public interview and its condensed edit, not to two independent interviews, and is not a complete biography, publication record, priority history, or account of Berson's laboratory. Both supplied documents repeatedly spell his surname “Burson”; their episode titles and the existing canonical identity support David Berson. Mechanistic and translational claims remain source-scoped unless independently represented elsewhere in the wiki.
 
 ## What Changed
-- Created a source-bounded profile centered on retinal circuitry and multilevel nervous-system explanation.
-- Preserved Berson's distinction between anatomical mapping, physiological testing, and behavioral interpretation.
+- No material profile judgment changed; the Essentials edit corroborates the sensory-to-action account while omitting the full interview's connectomics branch.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who organizes the discussion as a tour through nervous-system levels.

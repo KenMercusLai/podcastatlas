@@ -38192,9 +38192,9 @@
       "url": "/wiki/entities/centuriesofthebristlecone/"
     },
     "CerebellarPrediction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -38209,9 +38209,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/cerebellarprediction/"
     },
     "Cerebras": {
@@ -59700,9 +59707,9 @@
       "url": "/wiki/entities/davidbailey/"
     },
     "DavidBerson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -59710,9 +59717,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/davidberson/"
     },
     "DavidBrancaccio": {
@@ -66101,9 +66115,9 @@
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
     "DistributedNeuralRepresentation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -66111,9 +66125,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/distributedneuralrepresentation/"
     },
     "DistributedSpeechLanguageCircuits": {
@@ -168389,9 +168410,9 @@
       "url": "/wiki/concepts/melanocortinpeptidevitality/"
     },
     "MelanopsinCircadianPhotoreception": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -168420,9 +168441,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Light to Optimize Health",
           "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/melanopsincircadianphotoreception/"
     },
     "MelissaIlardo": {
@@ -211255,9 +211283,9 @@
       "url": "/wiki/concepts/reflectiveselfexploration/"
     },
     "ReflexDeliberationControlHierarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -211265,9 +211293,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/reflexdeliberationcontrolhierarchy/"
     },
     "ReflexiveSelfAwareness": {
@@ -259948,9 +259983,9 @@
       "url": "/wiki/concepts/visualsystemhealthtoolkit/"
     },
     "VisualVestibularStabilization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -259958,9 +259993,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM6678678955 [SCIM6678678955].md",
+          "key": "scim6678678955-scim6678678955",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+          "url": "/wiki/sources/scim6678678955-scim6678678955/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/visualvestibularstabilization/"
     },
     "Vitellius": {

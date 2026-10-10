@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1515
+topic_total_pages: 1516
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3969,6 +3969,9 @@ topic_sources:
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+  - key: "scim6678678955-scim6678678955"
+    title: "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson"
+    url: "/wiki/sources/scim6678678955-scim6678678955/"
   - key: "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
     title: "Essentials: Improve Flexibility with Research-Supported Stretching Protocols"
     url: "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"

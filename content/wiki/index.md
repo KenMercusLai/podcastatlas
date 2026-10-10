@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson](sources/scim6678678955-scim6678678955.md) — Condensed Huberman Lab interview on retinal and circadian light sensing, visual-vestibular stability, cerebellar correction, multisensory orientation, action control, and constrained cortical plasticity.
 - [宋方金×罗永浩！故事必须有人讲下去](sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu.md) — 宋方金与罗永浩从文学启蒙、编剧方法和剧作中心制谈到微短剧、原创受压、电影观众、行业伦理及 AI 时代的编剧主动权。
 - [Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math](sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math.md) — All-In on model welfare and AI consciousness, constitutional alignment, machine-checked mathematical discovery, French fiscal stress, and agent-driven service and software deflation.
 - [080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话](sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko.md) — 纸醉金迷FM以黄风岭危机、沙僧入队和四圣试禅心拆解项目补救、派系安插、分开审查与经受背叛风险后形成的合作信任。

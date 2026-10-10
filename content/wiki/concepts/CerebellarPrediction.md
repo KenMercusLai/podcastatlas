@@ -5,7 +5,8 @@ tags: [cerebellum, prediction, motor-control, cognition, neuroscience]
 sources:
   - scim1807559844-scim1807559844
   - scim4448895120-scim4448895120
-last_updated: 2026-10-02
+  - scim6678678955-scim6678678955
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Cerebellar prediction is the wiki's account of the cerebellum as machinery for f
 The motor case supplies the strongest anchor. Cerebellar damage does not simply paralyze a person; it can make movement clumsy, poorly timed, and inaccurate. This fits a system that combines intended action with incoming sensory evidence, anticipates near-future state, and uses error signals to recalibrate movement.
 
 The Berson interview adds a concrete visual-vestibular example. The flocculus combines head-motion and visual signals so compensatory eye movements keep retinal images stable; persistent mismatch can drive correction. This specifies how prediction and comparison support control without making the cerebellum the sole source of motor commands.
+
+The condensed Berson edit reinforces the motor-learning side: repeated practice can refine timing and endpoint accuracy, while damage can produce ataxia and repeated overcorrection rather than simple inability to move. Its traffic-control analogy and flocculus account are compressed from the same interview and do not constitute independent confirmation.
 
 Connections through the thalamus to frontal and other cortical areas make it plausible that a reusable prediction computation contributes to cognitive or social functions. That extension remains less established here than movement and gaze control. Linden's proposed bridge from prediction to difficulty imagining a future without the self is more speculative still.
 
@@ -34,15 +37,14 @@ Connections through the thalamus to frontal and other cortical areas make it pla
 - Predictive account - [[scim1807559844-scim1807559844]] presents near-future forecasting as the computation needed to compensate for delayed feedback.
 - Visual-vestibular control - [[scim4448895120-scim4448895120]] describes the cerebellar flocculus combining head-motion and visual signals to stabilize retinal input.
 - Coordination and correction - [[scim4448895120-scim4448895120]] compares cerebellar function to traffic control coordinating movement plans, timing, sensory feedback, and error correction.
+- Condensed motor-learning account - [[scim6678678955-scim6678678955]] links practice to refinement and cerebellar damage to ataxia and overcorrection while repeating the floccular calibration example.
 - Anatomical reach - [[scim1807559844-scim1807559844]] notes thalamic connections to frontal and other cortical regions.
 
 ## Counterevidence & Qualifications
 The sources provide high-level explanatory models rather than a complete map of cerebellar subregions, circuits, learning rules, timescales, or task-specific evidence. Motor coordination and visual-vestibular calibration are better grounded in these bounded inputs than proposed extensions to general cognition, social function, pleasure from movement, or mortality-related future modeling.
 
 ## What Changed
-- Added visual-vestibular stabilization as a concrete prediction-and-error-correction example.
-- Clarified that coordination integrates plans and feedback without making the cerebellum the sole motor-command source.
-- Narrowed higher-cognition and mortality extensions relative to the motor evidence.
+- Strengthened the motor-learning and ataxia description without changing the judgment that motor prediction is better grounded than broader cognitive extensions.
 
 ## Related Concepts
 - [[VisualVestibularStabilization]] - gaze-control example of sensory prediction and error correction.
