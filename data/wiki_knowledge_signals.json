@@ -24546,9 +24546,9 @@
       "url": "/wiki/concepts/battleofcannae/"
     },
     "BattleOfCopenhagen1801": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9153225543 [GLT9153225543].md",
@@ -24556,6 +24556,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
         }
       ],
       "updated": "2026-10-10",
@@ -74654,9 +74661,9 @@
       "url": "/wiki/entities/emmagriffin/"
     },
     "EmmaHamilton": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -74692,6 +74699,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
         }
       ],
       "updated": "2026-10-10",
@@ -85355,6 +85369,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/fangzhouphotographer/"
+    },
+    "FannyNelson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/fannynelson/"
     },
     "FanqiuWusun": {
       "episode_count": 1,
@@ -116974,9 +117004,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -117047,6 +117077,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
         }
       ],
       "updated": "2026-10-10",
@@ -121820,9 +121857,9 @@
       "url": "/wiki/concepts/hybridwarfareattributionthreshold/"
     },
     "HydeParker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9153225543 [GLT9153225543].md",
@@ -121830,6 +121867,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
         }
       ],
       "updated": "2026-10-10",
@@ -144964,9 +145008,9 @@
       "url": "/wiki/entities/leadingthefuture/"
     },
     "LeagueOfArmedNeutrality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9153225543 [GLT9153225543].md",
@@ -144974,6 +145018,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
         }
       ],
       "updated": "2026-10-10",
@@ -157022,6 +157073,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/lordhalifax/"
+    },
+    "LordKeith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8067718474 [GLT8067718474].md",
+          "key": "609-nelson-the-gathering-storm-part-2-glt8067718474",
+          "show": "The Rest Is History",
+          "title": "609. Nelson: The Gathering Storm (Part 2)",
+          "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/lordkeith/"
     },
     "LordLiverpool": {
       "episode_count": 1,

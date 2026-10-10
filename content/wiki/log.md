@@ -34456,3 +34456,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 609. Nelson: The Gathering Storm (Part 2)
+
+Added source `609-nelson-the-gathering-storm-part-2-glt8067718474`; created [[FannyNelson]] and [[LordKeith]]; and resynthesized [[HoratioNelson]], [[EmmaHamilton]], [[BattleOfCopenhagen1801]], [[HydeParker]], and [[LeagueOfArmedNeutrality]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's Malta strategy and urgency in the Baltic remained consequential while illness, disobedience, celebrity, concealed parenthood, and cruelty to Fanny damaged his command relationships and private record. No settled contradiction was adopted; motives, dialogue, finances, legal neutrality claims, medical details, and causal estimates remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,316 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

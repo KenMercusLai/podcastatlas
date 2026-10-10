@@ -3671,6 +3671,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "609-nelson-the-gathering-storm-part-2-glt8067718474": {
+    "title": "609. Nelson: The Gathering Storm (Part 2)",
+    "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+  },
   "61-california-glt2438679240": {
     "title": "61. California",
     "url": "/wiki/sources/61-california-glt2438679240/"
@@ -31291,6 +31295,10 @@
     "title": "Fannie Mae",
     "url": "/wiki/entities/fanniemae/"
   },
+  "FannyNelson": {
+    "title": "Fanny Nelson",
+    "url": "/wiki/entities/fannynelson/"
+  },
   "FanqieNovel": {
     "title": "番茄小说 / Fanqie Novel",
     "url": "/wiki/entities/fanqienovel/"
@@ -53294,6 +53302,10 @@
   "LordHalifax": {
     "title": "Lord Halifax",
     "url": "/wiki/entities/lordhalifax/"
+  },
+  "LordKeith": {
+    "title": "Lord Keith",
+    "url": "/wiki/entities/lordkeith/"
   },
   "LordLiverpool": {
     "title": "Lord Liverpool",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13033
+wiki_total_pages: 13035
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "LordHalifax"
     title: "Lord Halifax"
     url: "/wiki/entities/lordhalifax/"
+  - key: "LordKeith"
+    title: "Lord Keith"
+    url: "/wiki/entities/lordkeith/"
   - key: "LordLiverpool"
     title: "Lord Liverpool"
     url: "/wiki/entities/lordliverpool/"

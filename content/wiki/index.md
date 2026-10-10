@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [609. Nelson: The Gathering Storm (Part 2)](sources/609-nelson-the-gathering-storm-part-2-glt8067718474.md) — The Rest Is History on Nelson's Malta command, conflict with Lord Keith, return with Emma Hamilton, abandonment of Fanny, and push toward Copenhagen.
 - [Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson](sources/scim6678678955-scim6678678955.md) — Condensed Huberman Lab interview on retinal and circadian light sensing, visual-vestibular stability, cerebellar correction, multisensory orientation, action control, and constrained cortical plasticity.
 - [宋方金×罗永浩！故事必须有人讲下去](sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu.md) — 宋方金与罗永浩从文学启蒙、编剧方法和剧作中心制谈到微短剧、原创受压、电影观众、行业伦理及 AI 时代的编剧主动权。
 - [Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math](sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math.md) — All-In on model welfare and AI consciousness, constitutional alignment, machine-checked mathematical discovery, French fiscal stress, and agent-driven service and software deflation.
@@ -4391,6 +4392,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 
 ## Entities
+- [Fanny Nelson](entities/FannyNelson.md) — Nelson's abandoned wife, whose public humiliation and constrained marital position qualify his heroic celebrity.
+- [Lord Keith](entities/LordKeith.md) — Mediterranean commander whose strategic priorities and authority clashed with Nelson's Malta-focused judgment.
 - [Chris Olah](entities/ChrisOlah.md) — Anthropic cofounder represented narrowly through a reported dispute over categorical rejection of possible AI consciousness.
 - [Battle of Copenhagen (1801)](entities/BattleOfCopenhagen1801.md) — British attack on Danish defenses joining shallow-water planning, close action, command conflict, truce, and Baltic political change.
 - [Hyde Parker](entities/HydeParker.md) — British fleet commander whose withdrawal signal at Copenhagen exposed the limits of distant command visibility.

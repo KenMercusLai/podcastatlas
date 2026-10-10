@@ -8,6 +8,7 @@ sources:
   - 612-nelson-the-final-showdown-part-5-glt2077045869
   - 611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489
   - 610-nelson-the-battle-of-copenhagen-part-3-glt9153225543
+  - 609-nelson-the-gathering-storm-part-2-glt8067718474
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -22,16 +23,18 @@ Emma Hamilton was a celebrity performer whose classically draped “attitudes”
 
 Hamilton performed poses in simple drapery for visitors in Naples, presenting herself as a sequence of classical figures or statues. The performance turned antiquity into a living bodily image rather than an archaeological reference. British travellers, including Lady Charlotte Campbell, carried impressions of that image home and reproduced aspects of the style, making performance, celebrity, travel, observation, memory, and imitation part of the broader [[FashionCirculationInfrastructure]].
 
-Her life also shows the limits of celebrity as protection. Born in Cheshire in 1765, she moved into London's theatrical and elite worlds, formed relationships with Charles Greville and then [[SirWilliamHamilton|Sir William Hamilton]] in Naples, and became Nelson's publicly scandalous partner. After the [[BattleOfCopenhagen1801|Battle of Copenhagen]], Nelson immediately returned in writing to jealousy over her association with the Prince of Wales and then sent her a poem, evidence of emotional dependence filtered entirely through his perspective. Merton was their attempted domestic refuge with Horatia, but expansion, heavy hospitality and decoration, jewelry spending, praise of Nelson, social exclusion, and conflict with Fanny made it both a household and a public theater of their relationship. Sir William's death removed the triangle without securing Emma financially; his limited provision and Nelson's renewed command left the household dependent on patronage and promises. Hamilton later waited through Nelson's pursuit of Villeneuve and experienced his September 1805 return and departure as a compressed reunion and final separation. After Trafalgar, celebrity did not prevent debt, the sale of Merton, imprisonment, and death in Calais.
+Her life also shows the limits of celebrity as protection. Born in Cheshire in 1765, she moved into London's theatrical and elite worlds, formed relationships with Charles Greville and then [[SirWilliamHamilton|Sir William Hamilton]] in Naples, and became Nelson's publicly scandalous partner. The Palermo and return journey material makes her more than a later Merton companion: pregnancy, travel with both men, aristocratic ridicule, public appearances with [[FannyNelson|Fanny Nelson]], Horatia's concealed birth, and mutual jealousy made the relationship simultaneously intimate, theatrical, and harmful. The source also resists treating Emma as the sole cause of Nelson's uneven Mediterranean command because Palermo remained connected to Naples, Sicily, and Malta strategy.
+
+After the [[BattleOfCopenhagen1801|Battle of Copenhagen]], Nelson immediately returned in writing to jealousy over her association with the Prince of Wales and then sent her a poem, evidence of emotional dependence filtered entirely through his perspective. Merton was their attempted domestic refuge with Horatia, but expansion, heavy hospitality and decoration, jewelry spending, praise of Nelson, social exclusion, and conflict with Fanny made it both a household and a public theater of their relationship. Sir William's death removed the triangle without securing Emma financially; his limited provision and Nelson's renewed command left the household dependent on patronage and promises. Hamilton later waited through Nelson's pursuit of Villeneuve and experienced his September 1805 return and departure as a compressed reunion and final separation. After Trafalgar, celebrity did not prevent debt, the sale of Merton, imprisonment, and death in Calais.
 
 ## Key Characteristics
 
 - Celebrity performer associated with classically inspired “attitudes.”
 - Embodied Romantic and neoclassical drapery for elite spectators.
 - Fashion intermediary whose image travelled through visitors and imitation.
-- Example of influence operating through performance before modern broadcast media.
 - Partner of Nelson whose public fame and intimate access did not secure her after his death.
 - Household builder whose Merton refuge also magnified spending, scandal, flattery, and social exclusion.
+- Participant in a publicly exposed relationship triangle whose pregnancy, travel, and concealed parenthood intensified Fanny's harm.
 - Cautionary case in which celebrity outlasted financial protection.
 
 ## Evidence
@@ -44,18 +47,19 @@ Her life also shows the limits of celebrity as protection. Born in Cheshire in 1
 - Merton household and final separation: [[612-nelson-the-final-showdown-part-5-glt2077045869]] describes her work on Merton, reunion with Nelson and Horatia, distress at his renewed command, and their reported private farewell ritual.
 - Domestic refuge and financial precarity: [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] links Merton's expansion and Nelson-centered display to Emma's spending, elite disapproval, attacks on Fanny, Sir William's death, and insufficient provision.
 - Nelson's post-battle dependence: [[610-nelson-the-battle-of-copenhagen-part-3-glt9153225543]] describes his immediate jealous letter and poem after Copenhagen, while supplying no independent account from Hamilton.
+- Palermo, return, and concealed parenthood: [[609-nelson-the-gathering-storm-part-2-glt8067718474]] connects strategic controversy, elite ridicule, public appearances with Fanny, Horatia's birth, and mutual jealousy while preserving little of Emma's independent voice.
 
 ## Qualifications
 
-The Regency source uses Hamilton to explain fashion transmission and does not provide a full biography, a complete account of the attitudes, or a measured causal estimate of her influence. The countdown supplies only a compressed biographical arc, while the Nelson episodes center his emotions and command rather than Hamilton's independent perspective; his jealous accusations should not be treated as evidence of her conduct. The nature of her early relationships, precise finances and modern conversions, household labor, responsibility for spending, Nelson's intentions, elite reactions, the legal and social treatment of Horatia, and responsibility for Hamilton's decline require fuller evidence. Specific visitor reactions, imitation claims, reported dialogue and ring exchange, and causal judgments remain source-scoped.
+The Regency source uses Hamilton to explain fashion transmission and does not provide a full biography, a complete account of the attitudes, or a measured causal estimate of her influence. The countdown supplies only a compressed biographical arc, while the Nelson episodes center his emotions and command rather than Hamilton's independent perspective; his jealous accusations should not be treated as evidence of her conduct. Contemporary hostility also mixed criticism of adultery and public behavior with class, gender, and anti-Italian prejudice. The nature of her early relationships, precise finances and modern conversions, household labor, responsibility for spending, Nelson's intentions, elite reactions, the legal and social treatment of Horatia, and responsibility for Hamilton's decline require fuller evidence. Specific visitor reactions, imitation claims, reported dialogue and ring exchange, and causal judgments remain source-scoped.
 
 ## What Changed
 
-- Retained Hamilton's role as an embodied classical-style intermediary within Regency fashion circulation.
+- Joined Hamilton's embodied classical celebrity to the later public performance of her relationship with Nelson.
 - Recast Merton as both attempted family refuge and conspicuous, expensive performance of celebrity partnership.
 - Added Sir William's death and limited provision as evidence that removal of the domestic triangle did not create financial security.
-- Connected elite exclusion, conflict with Fanny, household spending, final separation, and post-Trafalgar decline to patronage fragility.
-- Added Nelson's post-Copenhagen jealousy and poetry as evidence of his dependence, not proof about Hamilton's behavior.
+- Connected pregnancy, concealed parenthood, elite exclusion, conflict with Fanny, and household spending to the relationship's unequal harms.
+- Treated Nelson's jealousy as evidence of his dependence, not proof about Hamilton's behavior.
 
 ## Relationships
 
@@ -65,4 +69,5 @@ The Regency source uses Hamilton to explain fashion transmission and does not pr
 - [[JaneAusten]] - parallel but text-based channel for observing and circulating fashion information.
 - [[SirWilliamHamilton]] - husband and social sponsor in Naples.
 - [[HoratioNelson]] - lover central to her wider celebrity and historical memory.
+- [[FannyNelson]] - Nelson's wife, whose public humiliation and marital abandonment qualify Emma and Nelson's domestic story.
 - [[IntimateAccessInformalPower]] - framework linking her elite access and fame to the insecurity that followed Nelson's death.
