@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [073 《倪匡传奇》第二弹：倪匡奇异往事大公布](sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv.md) — 纸醉金迷FM以倪匡的大兴安岭、治淮与苏北经历连接创作素材、时代生活和怪谈，并区分叙事价值与历史、科学及超自然验证。
 - [593. The Fight of the Century](sources/593-the-fight-of-the-century-glt1334632459.md) — The Rest Is History on Sayers and Heenan, Victorian prizefighting, illegality, betting, nationalism, “bottom,” and boxing's codification tradeoffs.
 - [VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天](sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7.md) — 于莺以个人经历和医学解释连接减重平台、复胖、食欲与情绪、肌肉保留、正规评估和违规减肥产品风险。
 - [594. The First World War: The Invasion of Belgium (Part 1)](sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129.md) — The Rest Is History on the Schlieffen Plan, Belgian neutrality, Liège, civilian reprisals, Louvain, Brussels, and the boundary between documented atrocity and propaganda.
@@ -4448,6 +4449,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
 
 ## Entities
+- [倪匡 / Ni Kuang](entities/NiKuang.md) — 将森林、工程、荒地生活与奇异见闻转化为冒险、科幻和灵异创作素材的作家。
 - [Tom Sayers](entities/TomSayers.md) — Experienced English prizefighting champion whose disputed 1860 draw made him a symbol of skill, endurance, and national popular celebrity.
 - [John C. Heenan](entities/JohnCHeenan.md) — Irish-American challenger whose physical threat and international fame greatly exceeded his winless professional record.
 - [于莺 / Yu Ying](entities/YuYingEmergencyPhysician.md) — 前急诊医生与医学科普者，以个人减重经历解释平台期、反弹、食欲调节和专业评估边界。

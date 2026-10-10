@@ -82816,9 +82816,9 @@
       "url": "/wiki/concepts/everydaysymptomnutritiontriage/"
     },
     "EvidenceBoundFolkloreInquiry": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源 [lkz5HiamAOJTVaNllBuNEcY3G3ff].md",
@@ -82854,9 +82854,16 @@
           "show": "The Rest Is History",
           "title": "66. Ghosts",
           "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        },
+        {
+          "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
+          "key": "073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv",
+          "show": "纸醉金迷FM",
+          "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
+          "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/evidenceboundfolkloreinquiry/"
     },
     "EvidenceBoundHistoricalRevision": {
@@ -158019,9 +158026,9 @@
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
     },
     "LocalExperienceAsCreativeArchive": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhruzjXLjCFha9bK5K2hU_wDQCiR [lhruzjXLjCFha9bK5K2hU_wDQCiR].md",
@@ -158029,9 +158036,16 @@
           "show": "罗永浩的十字路口",
           "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
           "url": "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+        },
+        {
+          "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
+          "key": "073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv",
+          "show": "纸醉金迷FM",
+          "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
+          "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/localexperienceascreativearchive/"
     },
     "LocalFaultAttributionPacification": {
@@ -183881,6 +183895,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/nikuanwesternhan/"
+    },
+    "NiKuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
+          "key": "073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv",
+          "show": "纸醉金迷FM",
+          "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
+          "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/nikuang/"
     },
     "Nibbo": {
       "episode_count": 1,
@@ -289752,9 +289782,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -289958,9 +289988,16 @@
           "show": "纸醉金迷FM",
           "title": "074 只因在人群中多看了她一眼：《射雕英雄传》之主角母亲大对比",
           "url": "/wiki/sources/074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas/"
+        },
+        {
+          "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
+          "key": "073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv",
+          "show": "纸醉金迷FM",
+          "title": "073 《倪匡传奇》第二弹：倪匡奇异往事大公布",
+          "url": "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/zhizuijinmifm/"
     },
     "ZhianCe": {

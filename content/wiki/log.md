@@ -34885,3 +34885,11 @@ Added source `593-the-fight-of-the-century-glt1334632459`; created [[TomSayers]]
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 073 《倪匡传奇》第二弹：倪匡奇异往事大公布
+
+Added source `073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv`; created [[NiKuang|倪匡]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]], [[LocalExperienceAsCreativeArchive]], and [[EvidenceBoundFolkloreInquiry]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ni Kuang's forest, engineering, farm, animal, fossil, scarcity, and strange-event memories form a plausible creative archive, while retrospective testimony and unresolved detail do not independently verify historical, scientific, medical, or supernatural claims. No settled contradiction was adopted. Project figures, prices, species, geology, dialogue, remembered events, dialect inference, medical explanations, and paranormal causation remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,370 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

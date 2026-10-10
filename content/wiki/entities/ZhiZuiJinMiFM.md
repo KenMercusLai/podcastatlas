@@ -32,15 +32,16 @@ sources:
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
   - 075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq
   - 074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas
+  - 073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 # 纸醉金迷FM / Zhi Zui Jin Mi FM
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], [[MrVampire1985|《僵尸先生》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]]. Its complete Tianlong discussions now include both the four villains and [[MurongFu|慕容复]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], [[MrVampire1985|《僵尸先生》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], an autobiographical-literary episode on [[NiKuang|倪匡]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]]. Its complete Tianlong discussions now include both the four villains and [[MurongFu|慕容复]].
 
 ## Current Profile
 
@@ -59,6 +60,8 @@ The paired [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》
 The two [[LegendOfTheCondorHeroes|《射雕英雄传》]] surveys extend adaptation criticism across many films, television series, prequels, and stage forms. Version rankings remain subjective, but repeated comparison makes the show's criteria unusually explicit: character logic outranks surface resemblance, changed scenes can preserve narrative function, film and television impose different duration structures, and martial spectacle succeeds only when it carries growth, tactics, and thematic culmination. The chronological episode adds [[AdaptationReceptionMemory]]: disagreements over performers and versions expose nostalgia, first-viewing age, rebroadcast access, voice, bearing, songs, and chemistry as parts of reception rather than neutral facts. It also separates direct fidelity from artistic achievement and suggests that inventions in canonical blank spaces can face less resistance than changes to familiar main-line scenes.
 
 The earlier [[BaoXiruo|包惜弱]] and [[LiPingJinYong|李萍]] comparison adds family formation to that 《射雕》 branch. The hosts begin from shared pregnancy, bereavement, and survival, then preserve disagreement over Bao Xiruo's attraction, guilt, and symbolic cottage while contrasting her concealment from 杨康 with Li Ping's explicit identity teaching and embodied moral example for 郭靖. They resist both simple condemnation of Bao Xiruo and simple maternal determinism: court privilege, grassland hardship, mentors, and the sons' own choices remain part of the explanation.
+
+The [[NiKuang|倪匡]] episode adds autobiographical literary biography and real-world strange tales. The hosts connect forest labor, animals, Huai River engineering, deep excavation, scarcity, and northern Jiangsu farm life to later fictional material, while moving repeatedly between Ni Kuang's supernatural framing and alternatives involving sleep paralysis, environmental sound, mental illness, adrenaline, dialect, and memory. This extends the show's evidence-bound method beyond fictional world rules: unexplained detail can remain narratively productive without becoming verified natural science, history, medicine, or paranormal causation.
 
 The [[BiaoRenComic|《镖人》]] comparison applies those criteria to one new theatrical adaptation. The hosts' scores diverge sharply, but they agree that [[YuenWooPing|袁和平]]'s [[TraditionalWuxiaActionCraft|readable martial action]] makes [[BiaoRenFilm2026|《镖人：风起大漠》]] watchable and that adaptation should be judged by reconstructed function rather than deletion count. Their comparison separates the workable rewrite of 地听 from losses in 知世郎's political thought, imperial causality, group formation, character history, and the staging of 老莫's death. It also strengthens the show's evidence boundary because claims about censorship, deleted footage, and production motives are explicitly treated as conjecture.
 
@@ -82,7 +85,7 @@ The [[MrVampire1985|《僵尸先生》]] episode pushes this supernatural critic
 - Uses first-listener prediction to expose how suspense, clues, and reversal expectations operate in real time.
 - Separates textual fact, strong implication, and reader speculation.
 - Reads characters through mixed motives, relationships, institutions, and moral consequences.
-- Mixes literary, adaptation, historical-institutional, film, television-comedy, supernatural-drama, and popular personality-language criticism while testing explicit lessons, labels, and hidden-code methods against prior action and unrelated counterexamples.
+- Mixes literary, adaptation, historical-institutional, biographical, film, television-comedy, supernatural-drama, and popular personality-language criticism while testing explicit lessons, labels, hidden-code methods, and autobiographical claims against evidence boundaries.
 
 ## Evidence
 
@@ -125,6 +128,11 @@ The [[MrVampire1985|《僵尸先生》]] episode pushes this supernatural critic
 
 - [[116-dipai-quan-liang-maboyong-ruhe-xiehao-xuanyi-zaitan-qinershi-bixusi-llskanljjz0re-o-dhmq9f2hpucp]] uses five-virtue legitimacy, commandery-county rule, enfeoffment, ordinary officials, and fixed historical outcomes to evaluate both the novel's political argument and its suspense craft.
 - [[108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n]] uses divine departments, rosters, authorizations, and protected status to ask how procedure can both conceal coercion and expose it.
+
+### Autobiographical experience and strange-tale boundaries
+
+- [[073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv]] connects [[NiKuang|倪匡]]'s forest, engineering, farm, animal, fossil, and scarcity memories to later fiction while preserving uncertainty around remembered numbers and causal influence.
+- [[073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv]] compares supernatural readings of a moving newspaper, hidden skeleton, unexplained eel, and apparent possession with physiological, acoustic, psychiatric, linguistic, and memory-based alternatives.
 
 ### Ending, cost, and vocational identity
 
@@ -212,14 +220,13 @@ The [[MrVampire1985|《僵尸先生》]] episode pushes this supernatural critic
 
 ## Qualifications
 
-This profile rests on twenty-nine episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the four-villain, Murong Fu, and maternal-comparison episodes are complete discussions but do not supply textual editions or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, Xianbei and restoration history, martial ranking, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, jiangshi convention origins, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, character psychology, family causality, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, developmental, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on thirty episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the four-villain, Murong Fu, maternal-comparison, and Ni Kuang episodes are complete discussions but do not supply textual editions, archival corroboration, or settled causal explanations. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, Xianbei and restoration history, martial ranking, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, jiangshi convention origins, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, character psychology, family causality, autobiographical detail, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, developmental, archival, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
-- Added a mother-centered 《射雕英雄传》 character study to the show's bounded profile.
-- Extended the show's accountability-preserving sympathy from villains and controlling parents to Bao Xiruo's constrained choices.
-- Added a causal boundary that keeps maternal influence beside mentors, social environment, privilege, hardship, and personal agency.
-- Distinguished sustained caregiving survival from the isolated drama of self-sacrifice.
+- Added autobiographical literary biography to the show's bounded profile.
+- Extended its evidence-bound supernatural criticism from fictional rules to reported real-world strange experiences.
+- Connected embodied work, place, scarcity, and danger to later creative motifs without treating influence as literal verification.
 
 ## Relationships
 
@@ -296,3 +303,6 @@ This profile rests on twenty-nine episode notes and may not represent every form
 - [[ParentalEmbodiedModeling|身教型家庭教育]] - family-education mechanism extended through Li Ping's conduct and explicit value signals.
 - [[ParentalIndulgenceBlindness|溺爱不明]] - neighboring failure mode extended through Bao Xiruo's protective concealment.
 - [[MaternalSurvivalSacrificeEthics|母职求生与牺牲伦理]] - framework extracted from the episode's comparison of long survival and later death.
+- [[NiKuang|倪匡]] - writer whose early mainland experiences and strange tales supply the new biographical branch.
+- [[LocalExperienceAsCreativeArchive]] - explains the transformation of remembered environments and incidents into fiction.
+- [[EvidenceBoundFolkloreInquiry]] - separates testimony and narrative value from proof of extraordinary causation.

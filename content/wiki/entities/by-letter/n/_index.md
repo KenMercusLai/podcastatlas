@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13109
+wiki_total_pages: 13110
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "NiDeShufang"
     title: "你的书房"
     url: "/wiki/entities/nideshufang/"
+  - key: "NiKuang"
+    title: "倪匡 / Ni Kuang"
+    url: "/wiki/entities/nikuang/"
   - key: "NiKuanWesternHan"
     title: "兒宽 / Ni Kuan (Western Han)"
     url: "/wiki/entities/nikuanwesternhan/"
