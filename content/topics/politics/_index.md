@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3267
+topic_total_pages: 3268
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9006,6 +9006,9 @@ topic_sources:
   - key: "hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5"
     title: "Hard cedar: Lebanon seeks Trump's help"
     url: "/wiki/sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5/"
+  - key: "scim3176341770-scim3176341770"
+    title: "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy"
+    url: "/wiki/sources/scim3176341770-scim3176341770/"
   - key: "here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b"
     title: "Here comes the son? Brazil’s election tips rightward"
     url: "/wiki/sources/here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b/"

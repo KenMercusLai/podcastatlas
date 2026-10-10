@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 10309
+wiki_total_pages: 10310
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "KRASOncologyTarget"
     title: "KRAS Oncology Target"
     url: "/wiki/concepts/krasoncologytarget/"
+  - key: "KratomProductFormRisk"
+    title: "Kratom Product Form Risk"
+    url: "/wiki/concepts/kratomproductformrisk/"
   - key: "KraussCorpuscleSexualTouch"
     title: "Krauss Corpuscles and Sexual Touch"
     url: "/wiki/concepts/krausscorpusclesexualtouch/"

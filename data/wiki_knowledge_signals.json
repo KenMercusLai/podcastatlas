@@ -44821,6 +44821,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/chrisharding/"
     },
+    "ChrisMcCurdy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3176341770 [SCIM3176341770].md",
+          "key": "scim3176341770-scim3176341770",
+          "show": "Huberman Lab",
+          "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+          "url": "/wiki/sources/scim3176341770-scim3176341770/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/chrismccurdy/"
+    },
     "ChrisMcKleroy": {
       "episode_count": 1,
       "show_count": 1,
@@ -65750,9 +65766,9 @@
       "url": "/wiki/concepts/dietaryfatquantityandquality/"
     },
     "DietarySupplementRegulation": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d1a482df7e247623ba15e4945c925065_37580036 [default.mp3_ywr3ahjkcgo_d1a482df7e247623ba15e4945c925065_37580036].md",
@@ -65774,9 +65790,16 @@
           "show": "商业就是这样",
           "title": "Vol.275 澳洲保健品是怎么火起来的？",
           "url": "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+        },
+        {
+          "episode_file": "SCIM3176341770 [SCIM3176341770].md",
+          "key": "scim3176341770-scim3176341770",
+          "show": "Huberman Lab",
+          "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+          "url": "/wiki/sources/scim3176341770-scim3176341770/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dietarysupplementregulation/"
     },
     "DifferentSurnameKingSuspicion": {
@@ -144865,6 +144888,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/krakow/"
     },
+    "KratomProductFormRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3176341770 [SCIM3176341770].md",
+          "key": "scim3176341770-scim3176341770",
+          "show": "Huberman Lab",
+          "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+          "url": "/wiki/sources/scim3176341770-scim3176341770/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/kratomproductformrisk/"
+    },
     "KraussCorpuscleSexualTouch": {
       "episode_count": 1,
       "show_count": 1,
@@ -180443,9 +180482,9 @@
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
     "MultimodalFunctionCenteredPainCare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698075556 [SCIM1698075556].md",
@@ -180453,9 +180492,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
           "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        },
+        {
+          "episode_file": "SCIM3176341770 [SCIM3176341770].md",
+          "key": "scim3176341770-scim3176341770",
+          "show": "Huberman Lab",
+          "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+          "url": "/wiki/sources/scim3176341770-scim3176341770/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/multimodalfunctioncenteredpaincare/"
     },
     "MultimodalObesityTreatment": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy](sources/scim3176341770-scim3176341770.md) — Huberman Lab interview on kratom product forms, dependence, 7-hydroxymitragynine, respiratory and interaction risks, natural-product pharmacology, and regulatory uncertainty.
 - [VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击](sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev.md) — 这病说来话长 episode on Chinese oncology visibility, clinical benefit, payment capacity, biotech partnerships, execution speed, and the remaining original-innovation gap.
 - [585. Mary, Queen of Scots: The Royal Rivals (Part 2)](sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391.md) — The Rest Is History on Mary's French formation, Guise dynastic ambition, the Scottish Protestant revolt, the Treaty of Edinburgh, and her constrained return.
 - [586. Mary, Queen of Scots: The Battle for Scotland (Part 3)](sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247.md) — The Rest Is History on Mary's return, Knox's resistance theory, succession-driven Protestant accommodation, and the dynastic and constitutional risks of Darnley.
@@ -8741,6 +8742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
 - [Huberman Lab](entities/HubermanLab.md) — Show launched around deep topic arcs, listener input, and science-based tools spanning behavior, biology, technology, and bounded medical interventions.
 - [Andrew Huberman](entities/AndrewHuberman.md) — Host connecting sustained science teaching, audience questions, biological mechanisms, practical tools, and explicit safety boundaries.
+- [Chris McCurdy](entities/ChrisMcCurdy.md) — Medicinal chemist distinguishing kratom leaf, extracts, concentrates, isolates, metabolites, dependence risks, and research limits.
 - [Lisa Feldman Barrett](entities/LisaFeldmanBarrett.md) — Psychologist and neuroscientist explaining constructed emotion, affect, contextual face inference, granularity, and predictive bodily regulation.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
@@ -25506,6 +25508,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shared Housing Revival](concepts/SharedHousingRevival.md) — Modern effort to re-legalize SRO-like and boarding-house options as part of the affordability toolkit.
 - [Supportive Housing Management](concepts/SupportiveHousingManagement.md) — Service and operator-capacity layer that makes small or shared rooms workable for vulnerable residents.
 - [Dietary Supplement Regulation](concepts/DietarySupplementRegulation.md) — Weak U.S. oversight system that lets supplements operate between food and drugs without drug-style proof of effectiveness.
+- [Kratom Product Form Risk](concepts/KratomProductFormRisk.md) — Framework separating leaf, powder, extracts, concentrates, isolates, and chemically modified derivatives by exposure and risk.
 - [Dietary Supplement Health and Education Act](concepts/DietarySupplementHealthAndEducationAct.md) — 1994 U.S. law that anchors the episode's account of permissive supplement claims and limited FDA oversight.
 - [Supplement Structure Function Claims](concepts/SupplementStructureFunctionClaims.md) — "Supports" and "promotes" language that implies bodily benefit without making disease-treatment claims.
 - [GRAS Self-Certification](concepts/GRASSelfCertification.md) — Food-law self-certification pathway used in the episode's Prevagen and NeuroShake case.

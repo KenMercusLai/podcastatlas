@@ -6,7 +6,8 @@ sources:
   - the-sneaky-way-companies-get-new-chemicals-into-our-food
   - why-is-there-a-supplement-craze-if-they-dont-even-work
   - vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861
-last_updated: 2026-09-17
+  - scim3176341770-scim3176341770
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,12 +21,15 @@ The wiki's reference case is the United States, where [[why-is-there-a-supplemen
 
 [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] supplies the Australian comparison, and it changes the shape of the argument. Australia regulates medicines and supplements through one agency and one numbering system, assigns most supplements to a self-assessed listed track with permitted ingredients and low-level claims, and keeps a smaller registered track for pre-market safety, quality, and efficacy assessment - yet around 98% of complementary medicines sat on the listed side. Manufacturing is genuinely disciplined through [[SupplementsGoodManufacturingPractice|GMP]], which guarantees description accuracy, batch stability, traceability, and recall. The unresolved dimension is the same in both countries: efficacy, which the brand asserts rather than the regulator verifies. The synthesis the wiki takes from the pair is that "drug-like regulation" describes the institutional surface, not what has been proven about the product.
 
+The U.S. kratom market adds a product-identity problem. Fresh or powdered leaf, extracts, concentrates, isolates, and chemically produced 7-hydroxymitragynine can appear under related consumer language despite materially different exposure and opioid activity. [[scim3176341770-scim3176341770]] also describes a U.S. dietary-ingredient interpretation under which a metabolite of a dietary ingredient may itself qualify as a dietary ingredient. The durable regulatory lesson is not that this interpretation has been independently adjudicated here, but that ingredient-category rules, serving labels, and product naming can lag behind formulation-level pharmacology.
+
 ## Key Claims
 - Supplement products can be marketed as health-supporting without proving they make healthy people healthier.
 - Regulators are narrower than packaging suggests: FDA scope, DSHEA language rules, and Australian listed-track design all leave efficacy largely unverified before sale.
 - Claim wording carries much of the value, because "supports" and "promotes" suggest benefit while staying inside permitted vocabulary.
 - Safety review is also limited, with premarket safety proof not automatically required and enforcement often arriving after harm or after advertising complaints.
 - Australian evidence shows that stricter manufacturing and claim limits do not close the efficacy gap, since GMP governs process and the brand files the benefit claim.
+- Kratom products add an identity gap: shared plant-derived language can cover leaf, concentrated extracts, isolated metabolites, and chemically modified products with different exposure and risk.
 - Consumer protection therefore rests on label accuracy, third-party testing, disclosure of supplement use to clinicians, and scepticism about perceived effects rather than on regulatory approval alone.
 
 ## Evidence
@@ -34,14 +38,16 @@ The wiki's reference case is the United States, where [[why-is-there-a-supplemen
 - Verification layer: [[why-is-there-a-supplement-craze-if-they-dont-even-work]] says [[ThirdPartySupplementTesting]] marks such as [[NSFInternational|NSF]] or [[UnitedStatesPharmacopeia|USP]] can verify ingredients and contamination without proving effectiveness.
 - Food-additive contrast: [[the-sneaky-way-companies-get-new-chemicals-into-our-food]] shows [[GRASSelfCertification]] and [[SecretGRAS]] exposing consumers to acute harm through [[TaraFlour]] before regulators knew the ingredient was in use.
 - Australian comparison: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] describes the listed and registered tracks, the roughly 98% listed share, permitted-ingredient and claim limits, post-market sampling, and [[SupplementsGoodManufacturingPractice|GMP]] manufacturing that never certifies benefit.
+- Product-category ambiguity: [[scim3176341770-scim3176341770]] describes leaf kratom, extracts, concentrates, isolates, and 7-hydroxymitragynine products appearing under related language while invoking a metabolite-as-dietary-ingredient interpretation.
 - Consumer-facing boundary: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] relays Australian regulatory advice that supplement users should disclose them to hospital or medical staff.
 
 ## Counterevidence & Qualifications
-The two national systems are not equivalents and should not be flattened into one low-regulation story: Australia enforces ingredient eligibility, claim vocabulary, manufacturing standards, and recall capability more visibly than the U.S. framework described here. Australian figures - the complementary-medicine count, the 98% listed share, and track thresholds - come from a podcast summary and need primary-source verification. Both sources also preserve legitimate uses, notably pregnancy-related folic acid and clinically identified deficiencies, and the food-additive branch concerns acute safety rather than efficacy, so the page should not be read as a blanket claim about all supplements or all additives.
+The two national systems are not equivalents and should not be flattened into one low-regulation story: Australia enforces ingredient eligibility, claim vocabulary, manufacturing standards, and recall capability more visibly than the U.S. framework described here. Australian figures - the complementary-medicine count, the 98% listed share, and track thresholds - come from a podcast summary and need primary-source verification. The kratom source's interpretation of U.S. metabolite rules is also episode-attributed rather than an independent legal determination, and product heterogeneity does not prove that leaf products are safe. The sources preserve legitimate supplement uses, notably pregnancy-related folic acid and clinically identified deficiencies, while the food-additive branch concerns acute safety rather than efficacy; this page is not a blanket claim about all supplements or all additives.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
 - Added an Australian comparison showing that stricter manufacturing and claim control coexist with an equally unverified efficacy layer.
+- Added kratom as a formulation and ingredient-identity case where related labeling can conceal materially different pharmacology.
 - Consolidated the U.S. claim-language, enforcement, and testing limits into the current synthesis instead of a source-by-source account.
 
 ## Related Concepts
@@ -53,4 +59,5 @@ The two national systems are not equivalents and should not be flattened into on
 - [[PostMarketDrugSurveillance]] - adjacent post-market supervision pattern shared with drug regulation.
 - [[GRASSelfCertification]], [[SecretGRAS]], and [[FoodAdditiveRegulation]] - food-law branch that clarifies the difference between claim weakness and acute safety risk.
 - [[FunctionalFoodRegulatoryIdentity]] - product-identity check for health-coded goods.
+- [[KratomProductFormRisk]] - formulation-level example of why plant origin does not define one exposure or risk class.
 - [[MedicalAIMarketingRisk]] and [[OnlineHealthcareRegulatoryBoundary]] - adjacent health-trust and regulatory-boundary pages.
