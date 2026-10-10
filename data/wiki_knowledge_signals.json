@@ -50186,9 +50186,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -50217,6 +50217,13 @@
           "show": "纸醉金迷FM",
           "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
           "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        },
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
         }
       ],
       "updated": "2026-10-10",
@@ -63849,9 +63856,9 @@
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireBoundIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltCXPyZKceJdIZjSNqigS8YTqJXJ [ltCXPyZKceJdIZjSNqigS8YTqJXJ].md",
@@ -63859,9 +63866,16 @@
           "show": "纸醉金迷FM",
           "title": "118 古龙《天涯·明月·刀》——一把刀、一轮月、一个人的江湖",
           "url": "/wiki/sources/118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj/"
+        },
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/desireboundidentity/"
     },
     "DesireCapacityFit": {
@@ -70150,9 +70164,9 @@
       "url": "/wiki/entities/duanxilatehan/"
     },
     "DuanYanqing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llxwaFa5YI9wlhuNm6yL5mqDqftN [llxwaFa5YI9wlhuNm6yL5mqDqftN].md",
@@ -70160,9 +70174,16 @@
           "show": "纸醉金迷FM",
           "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
           "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        },
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/duanyanqing/"
     },
     "DuanZhiqiang": {
@@ -178200,6 +178221,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/mureka/"
     },
+    "MurongFu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/murongfu/"
+    },
     "MuscleAsLongevityInfrastructure": {
       "episode_count": 9,
       "show_count": 4,
@@ -251894,9 +251931,9 @@
       "url": "/wiki/entities/tiankuangxinofficial/"
     },
     "TianLongBaBu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -251918,9 +251955,16 @@
           "show": "纸醉金迷FM",
           "title": "091 《天龙八部》之“四大恶人”篇：一念成魔",
           "url": "/wiki/sources/091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn/"
+        },
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/tianlongbabu/"
     },
     "TianLuboWesternHan": {
@@ -287495,9 +287539,9 @@
       "url": "/wiki/entities/zhiyunxinastrologer/"
     },
     "ZhiZuiJinMiFM": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
@@ -287680,6 +287724,13 @@
           "show": "纸醉金迷FM",
           "title": "086 《僵约》之百鬼夜行篇：平哥平妈是你的童年阴影吗？",
           "url": "/wiki/sources/086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible/"
+        },
+        {
+          "episode_file": "lhLKjIq4J4FqCLDEgGXXOvwUOLOB [lhLKjIq4J4FqCLDEgGXXOvwUOLOB].md",
+          "key": "077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob",
+          "show": "纸醉金迷FM",
+          "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
+          "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
         }
       ],
       "updated": "2026-10-10",

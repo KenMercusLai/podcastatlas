@@ -4,7 +4,8 @@ type: entity
 tags: [fictional-character, wuxia, tianlongbabu, antagonist, dali]
 sources:
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
-last_updated: 2026-10-09
+  - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 His claim begins with succession: his father is killed in a coup, while the restored polity eventually settles under 段正明. The episode preserves a real tension between dynastic legitimacy and political order. Duan Yanqing may retain a plausible hereditary claim, yet returning after a stable and accepted government has formed does not make renewed conflict reasonable or harmless.
 
-His bodily destruction and rejection at 天龙寺 make restoration more than a policy aim. Revenge and return become the structure holding together a self that no longer looks, speaks, or occupies the status of the former prince. He consequently uses killing, external alliance, abduction, and sexual coercion in pursuit of restoration, even while retaining rule consciousness, gratitude toward 虚竹, and concern for reputation. Learning that 段誉 is his biological son lets him recover a paternal identity and imagine dynastic continuity without taking the throne himself; this releases the obsession but does not cancel prior harm.
+His bodily destruction and rejection at 天龙寺 make restoration more than a policy aim. Revenge and return become the structure holding together a self that no longer looks, speaks, or occupies the status of the former prince. He consequently uses killing, external alliance, abduction, and sexual coercion in pursuit of restoration, even while retaining rule consciousness, gratitude toward 虚竹, and concern for reputation. Learning that 段誉 is his biological son lets him recover a paternal identity and imagine dynastic continuity without taking the throne himself; this releases the obsession but does not cancel prior harm. [[MurongFu|慕容复]]'s failed attempt to become his heir sharpens the contrast: the recognized villain recovers a human relationship at the moment the would-be emperor sacrifices human ties for succession.
 
 ## Key Characteristics
 
@@ -40,20 +41,21 @@ His bodily destruction and rejection at 天龙寺 make restoration more than a p
 ### Paternity as release
 
 - [[091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn]] treats the discovery that 段誉 is his son as a recovered identity and an indirect continuity that makes personal seizure of the throne unnecessary.
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] shows that this recovered paternal feeling defeats Murong Fu's adoption-and-succession plan and reverses the expected moral positions of the two men.
 
 ## Qualifications
 
-This profile rests on one conversational podcast interpretation rather than a complete edition-by-edition textual study. The legitimacy of Duan Yanqing's succession claim, 天龙寺's reasons for not receiving him, suicidal implication in the 珍珑棋局, the amount of retained goodness, and the meaning of his departure are disputed or inferred. Explaining how trauma organizes his conduct does not excuse murder, coercion, or political violence.
+This profile rests on two conversational podcast interpretations rather than a complete edition-by-edition textual study. The legitimacy of Duan Yanqing's succession claim, 天龙寺's reasons for not receiving him, suicidal implication in the 珍珑棋局, the amount of retained goodness, and the meaning of his departure are disputed or inferred. The contrast with Murong Fu is a literary interpretation, not proof of complete redemption. Explaining how trauma organizes his conduct does not excuse murder, coercion, or political violence.
 
 ## What Changed
 
-- Established a profile that separates the plausibility of Duan Yanqing's grievance from the morality of his methods.
-- Made identity destruction, not restoration alone, central to his revenge logic.
-- Framed recovered paternity as psychological release rather than acquittal.
+- Added Murong Fu's adoption scheme as the political setting in which recovered paternity becomes decisive.
+- Sharpened the contrast between Duan Yanqing's late human reconnection and Murong Fu's increasingly instrumental treatment of others.
 
 ## Relationships
 
 - [[TianLongBaBu|《天龙八部》]] - novel in which his succession claim, revenge, and paternity through 段誉 are dramatized.
+- [[MurongFu|慕容复]] - would-be heir whose succession plan fails when Duan Yanqing recognizes his biological son.
 - [[YeErniang|叶二娘]] - fellow villain whose tragedy also joins severe harm to loss and attachment.
 - [[YueLaosan|岳老三 / 南海鳄神]] - subordinate killed after refusing an order against 段誉.
 - [[CompassionateCharacterInterpretation]] - method that explains his inner logic without suspending accountability.

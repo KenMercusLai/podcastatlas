@@ -34641,3 +34641,11 @@ Added source `602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364`; creat
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 077 《天龙八部》之慕容复篇：人间失格的复国者
+
+Added source `077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob`; created [[MurongFu|慕容复]]; and resynthesized [[TianLongBaBu|《天龙八部》]], [[DuanYanqing|段延庆]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[DesireBoundIdentity|欲望绑定的身份]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Murong Fu has genuine martial, educational, social, and inherited advantages, but no territory, army, constituency, alliance system, or historical opening adequate to restore Great Yan; as inherited mission and personal imperial desire fuse, stronger peers, intimate ties, loyal retainers, ethics, surname, and reality become expendable. His failed attempt to become Duan Yanqing's heir shows the throne displacing the original dynastic object, while Duan Yanqing's recovered paternity and Murong Bo's renunciation provide contrasting routes out of identity-bound restoration. No settled contradiction was adopted. Martial ranking, historical analogy, Xianbei continuity, love, jealousy, motives, suicidality, authorial symbolism, and the balance between imposed duty and personal ambition remain source-scoped or interpretive. Broad [[JinYong|金庸]], one-off minor-character, and general power pages were kept closed because the focused source, work, character, and concepts capture the bounded addition without reopening larger or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,339 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

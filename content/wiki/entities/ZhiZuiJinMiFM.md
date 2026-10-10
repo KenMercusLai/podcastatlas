@@ -29,6 +29,7 @@ sources:
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
+  - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -37,13 +38,15 @@ last_updated: 2026-10-10
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]]. Its complete Tianlong discussions now include both the four villains and [[MurongFu|慕容复]].
 
 ## Current Profile
 
 Across the bounded sources, the show operates as an informal group reading or viewing conversation rather than a formal lecture. The hosts reconstruct plots and character arcs, compare reactions, test motives, and distinguish textual fact, strong implication, and speculation. In the 《长生剑》 discussion, one host's first-listener position adds live prediction to this method: proposed explanations become visible and revisable as each new reversal arrives. Disagreement remains central—they can retain the force of an allegory while challenging its plot mechanics, or agree that Wang Xifeng is complex while differing over literacy, sincerity, culpability, and ending.
 
 The method is most persuasive when sympathy and judgment stay together. The show resists flattening 双双 into a sentimental device or Wang Xifeng into either heroine or villain, yet it continues to ask who is harmed and whether the discussed text supports the proposed causal chain. The full [[TianLongBaBu|《天龙八部》]] four-villain discussion makes that method explicit: [[DuanYanqing|段延庆]]'s dispossession, [[YeErniang|叶二娘]]'s bereavement, and [[YueLaosan|岳老三]]'s rule-bound loyalty explain why these antagonists become tragic or sympathetic without erasing murder, coercion, abduction, or violence; 云中鹤's flatness limits the impulse to discover hidden innocence everywhere. Its Gu Long discussions distinguish explicit authorial morals from operative plot mechanisms; the 《天涯·明月·刀》 episode also makes changing age and rereading context part of the evidence, asking why formerly powerful stylization can later feel mannered. The three [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes extend the same method across setup and resolution: P2 praises crystals, wolf blood, monster-state rules, and conflicting city clues that become legible only later while preserving disagreement over materialized memory; P3 separates voluntary self-sacrifice from choosing another person's death and tests whether a lottery can be fair under coercion; and the finale values friendship, self-knowledge, and retirement but argues that a convenient ritual substitute and prolonged post-climax escape weaken the payoff. The sequence lets the show compare a fantastic solution that feels prepared with one it judges under-earned. The [[QinErshiMustDie|《秦二世必须死》]] discussion expands the method into institutional and historical criticism, while the [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] episode connects consent and victim autonomy to departmental protection, costly moral commitment, and procedural leverage. The 《双瞳》 opening adds explicit [[FilmRatingCalibration|rating calibration]].
+
+The Murong Fu episode extends this accountability-preserving method from labeled villains to a prestigious failed claimant. The hosts first restore his real ability, high status, and occasional martial success, then test the restoration project against territory, army, constituency, alliance, and timing. Family command and repeated defeat make his fixation intelligible, but the Dali succession scheme, killings, and destruction of loyal relationships remain choices. Comparing him with Murong Bo and Duan Yanqing also turns release from a desired identity into a recurring standard of character judgment.
 
 The two [[WulinWaizhuan|《武林外传》]] discussions extend close reading from narrated plot and theme into audiovisual comic construction and practical moral argument. One tracks how storytelling, bad cooking, acute hearing, and tattooing are planted and returned while separating the false city heard by Li Dazui's mother from the silent coordination visible to viewers. The other follows [[BaiZhantang|白展堂]] from trivial wagers to a bet of his life, using repeated stopping points, changing excuses, and [[DuanzhiXuanyuan|断指轩辕]]'s identity reveal to argue that gambling risk does not disappear when stakes are small or noncash. The hosts distinguish random games and scorekeeping from redeemable stakes, while their specific legal, animal-research, and clinical claims remain source-scoped.
 
@@ -147,6 +150,12 @@ The [[MyDateWithAVampire|《我和僵尸有个约会》]] episode extends the sa
 - [[091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn]] separates the four villains' harmful conduct from the trauma, attachment, identity, rules, and narrative functions that make three of them complex.
 - [[091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn]] preserves disagreement over succession legitimacy, motive, goodness, and redemption while treating version differences as evidence limits.
 
+### Restoration, identity, and moral thresholds
+
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] separates Murong Fu's genuine ability from the historical and organizational inadequacy of his restoration project.
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] keeps inherited pressure and imperial desire in tension while treating murder, betrayal, and instrumental relationships as chosen thresholds.
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] compares fixation with two forms of release: Murong Bo's renunciation and Duan Yanqing's recovered paternity.
+
 ### Reclusion, organizations, and modern translation
 
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] compares multiple withdrawal motives, distinguishes spatial retreat from release of organizational and relational dependence, and translates the pattern into a modern capacity to refuse power.
@@ -188,15 +197,13 @@ The [[MyDateWithAVampire|《我和僵尸有个约会》]] episode extends the sa
 
 ## Qualifications
 
-This profile rests on twenty-six episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the later four-villain episode is a complete discussion but does not supply a textual edition or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty-seven episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the four-villain and Murong Fu episodes are complete discussions but do not supply textual editions or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, Xianbei and restoration history, martial ranking, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
-- Added home-video format, incomplete-copy memory, and childhood imitation to the show's reception method.
-- Extended action and villain criticism through the 《太极张三丰》 rewatch.
-- Extended the show profile into serial supernatural television and apartment-scale worldbuilding.
-- Added parental control, moral labeling, complicity, acknowledgment, and repair to its accountability-preserving character method.
-- Added explicit folklore, power-scaling, and ritual-rule limits to its supernatural criticism.
+- Extended the show's accountability-preserving character method from explicit villains to a prestigious failed restoration claimant.
+- Added historical feasibility and organizational capacity as checks on character ambition.
+- Added release from identity-bound desire as a comparative axis across Murong Fu, Murong Bo, and Duan Yanqing.
 
 ## Relationships
 
@@ -241,6 +248,8 @@ This profile rests on twenty-six episode notes and may not represent every forma
 - [[GamblingEscalationLoop]] - framework extracted from wins, loss chasing, excuses, and increasing stakes.
 - [[TianLongBaBu|《天龙八部》]] - novel whose Shaoshi Mountain convergence is mapped in a short supplied opening.
 - [[DuanYanqing|段延庆]], [[YeErniang|叶二娘]], and [[YueLaosan|岳老三]] - villain cases used to separate explanation, sympathy, responsibility, and narrative depth.
+- [[MurongFu|慕容复]] - failed restoration claimant used to compare ability, ambition, historical feasibility, and moral collapse.
+- [[DesireBoundIdentity]] - framework extended through inherited mission, imperial role, and failure to release an imagined self.
 - [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] - mythic institutional novel used to discuss consent, rescue, and bureaucratic leverage.
 - [[CoerciveRelationshipLegitimation]] - framework extracted from the show's rejection of romance and family labels as substitutes for consent.
 - [[PublicValuesUnderCost]] - account of how “救苦救难” is tested by risk and inconvenience.

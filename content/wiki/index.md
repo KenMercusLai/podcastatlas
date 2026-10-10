@@ -4415,6 +4415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [EP 25: AI Revolution in Marketing: From Traditional to Transformational](sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational.md) — Data Science With Sam interview with Iqbal Pehla on AI-enabled healthcare marketing analytics, shorter outcome-feedback loops, and problem-led adoption.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
+- [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 
 ## Entities
 - [Hesiod](entities/Hesiod.md) — Early Greek poet whose Theogony organizes divine genealogy without becoming binding scripture.
@@ -17541,6 +17542,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Iqbal Pehla](entities/IqbalPehla.md) — InsightRx founder and CEO advocating outcome-first AI adoption and faster, interpretable healthcare-marketing analytics.
 - [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
+- [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
 - [Divine Succession Myth](concepts/DivineSuccessionMyth.md) — Violent intergenerational transfer of cosmic sovereignty from Uranus through Cronos to Zeus.

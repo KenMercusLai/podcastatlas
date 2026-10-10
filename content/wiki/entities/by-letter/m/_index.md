@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13062
+wiki_total_pages: 13063
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1997,6 +1997,9 @@ wiki_pages:
   - key: "MediaStorm"
     title: "影视飓风 / MediaStorm"
     url: "/wiki/entities/mediastorm/"
+  - key: "MurongFu"
+    title: "慕容复 / Murong Fu"
+    url: "/wiki/entities/murongfu/"
   - key: "Mofang"
     title: "摩方 / Mofang"
     url: "/wiki/entities/mofang/"

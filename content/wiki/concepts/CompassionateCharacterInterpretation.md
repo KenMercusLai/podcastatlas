@@ -7,6 +7,7 @@ sources:
   - 120-honglou-jinfen-jinling-shierchai-zhi-wangxifeng-lixu8fhy-rjn0fkf01kmqswxny3
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
+  - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -26,6 +27,8 @@ Compassionate character interpretation looks through visible behavior toward nee
 Across acting and reading, compassion is therefore an accountability-preserving method. It separates at least four questions: what a character does, how that conduct becomes intelligible, what responsibility remains, and what narrative function or depth the work gives the character. None automatically answers the others.
 
 A fourth case, [[DongTianbao|董天宝]], extends the method from literary villains to film performance. His poverty, humiliating Shaolin conflict, realistic understanding of official power, and genuine attachment to Junbao make ambition intelligible. The same evidence also sharpens the boundary: serving oppression, betraying companions, and killing Xiaodonggua are not dissolved by grievance or affection. The hosts further separate character potential from screenplay execution by arguing that [[ChinSiuHo|钱小豪]] preserves conflict even when the late blackening becomes accelerated.
+
+The [[MurongFu|慕容复]] case requires genuine ability, impossible political conditions, inherited command, personal desire, and repeated defeat to be held together. Calling him simply incompetent misses both his real advantages and the scale mismatch of restoration; calling him only a victim of family duty erases the choices by which he turns people into means. The analysis remains compassionate precisely by following the point at which understandable fixation becomes murder, betrayal, and destruction of his own political base.
 
 ## Key Claims
 
@@ -64,16 +67,19 @@ A fourth case, [[DongTianbao|董天宝]], extends the method from literary villa
 - [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] treats Tianbao's deprivation, humiliation, ambition, and attachment as causal context while retaining betrayal, killing, and repression as chosen harms.
 - [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] credits [[ChinSiuHo|钱小豪]] with maintaining conflict beyond the screenplay's compressed late transition.
 
+### Capability, impossible aims, and instrumental harm
+
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] preserves Murong Fu's martial ability and inherited pressure while showing that his restoration project lacks a plausible political base.
+- [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] identifies abandoning Wang Yuyan, killing captives and Bao Butong, and sacrificing loyal relationships as chosen thresholds rather than inevitable products of defeat.
+
 ## Counterevidence & Qualifications
 
-The evidence comprises one actor's method and three multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. Version differences, disputed motives, screenplay compression, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy.
+The evidence comprises one actor's method and four multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. Version differences, disputed motives, screenplay compression, historical analogy, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy.
 
 ## What Changed
 
-- Extended the method from difficult women to an ensemble explicitly labeled as villains.
-- Separated conduct, causal intelligibility, responsibility, and narrative depth as distinct judgments.
-- Added flat characterization and version disagreement as limits on compassionate inference.
-- Added the distinction between a complex performance and compressed screenplay development.
+- Added Murong Fu as a case where real capability and inherited pressure coexist with strategic failure and chosen harm.
+- Added impossible aims and destruction of one's own support base as evidence that explanation need not become exculpation.
 
 ## Related Concepts
 
@@ -84,3 +90,4 @@ The evidence comprises one actor's method and three multi-host literary or film 
 - [[MoralSuspensionInArtReading]] - adjacent practice of delaying quick verdicts while retaining eventual moral judgment.
 - [[JinYongPoliticalReading]] - neighboring method connecting identity and power conflict to tragedy without reducing fiction to one code.
 - [[DongTianbao|董天宝]] - film case separating deprivation and attachment from responsibility for chosen violence.
+- [[MurongFu|慕容复]] - literary case separating inherited mission and structural impossibility from responsibility for instrumental violence.
