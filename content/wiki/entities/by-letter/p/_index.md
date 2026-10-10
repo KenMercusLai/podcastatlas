@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13179
+wiki_total_pages: 13182
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "Picloram"
     title: "Picloram"
     url: "/wiki/entities/picloram/"
+  - key: "PieroDeMedici"
+    title: "Piero de' Medici"
+    url: "/wiki/entities/pierodemedici/"
   - key: "PieroFerrari"
     title: "Piero Ferrari"
     url: "/wiki/entities/pieroferrari/"
@@ -824,6 +827,9 @@ wiki_pages:
   - key: "PopMart"
     title: "Pop Mart / 泡泡玛特"
     url: "/wiki/entities/popmart/"
+  - key: "PopeAlexanderVI"
+    title: "Pope Alexander VI"
+    url: "/wiki/entities/popealexandervi/"
   - key: "PopeJoan"
     title: "Pope Joan"
     url: "/wiki/entities/popejoan/"

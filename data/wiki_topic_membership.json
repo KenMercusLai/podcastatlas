@@ -6298,6 +6298,18 @@
       "url": "/topics/history/"
     }
   ],
+  "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702": [
     {
       "key": "history",
@@ -15384,6 +15396,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ApocalypticProphecyCrisisLegitimation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ApocalypticThinking": [
@@ -47476,6 +47495,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "InformalReligiousPoliticalAuthority": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InformationApocalypse": [
     {
       "key": "technology",
@@ -67763,6 +67789,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PieroDeMedici": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PierreDeCoubertin": [
     {
       "key": "culture",
@@ -68880,6 +68913,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PopeAlexanderVI": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PopeLeoXIV": [

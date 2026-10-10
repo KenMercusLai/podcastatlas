@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2715
+topic_total_pages: 2716
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489"
+    title: "575. The Medici: The Bonfire of the Vanities (Part 4)"
+    url: "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
   - key: "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702"
     title: "576. The Irish War of Independence: Rise of the IRA (Part 1)"
     url: "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"

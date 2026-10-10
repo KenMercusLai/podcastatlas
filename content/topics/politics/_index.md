@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3273
+topic_total_pages: 3278
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -340,6 +340,9 @@ topic_concepts:
   - key: "Apartheid"
     title: "Apartheid"
     url: "/wiki/concepts/apartheid/"
+  - key: "ApocalypticProphecyCrisisLegitimation"
+    title: "Apocalyptic Prophecy and Crisis Legitimation"
+    url: "/wiki/concepts/apocalypticprophecycrisislegitimation/"
   - key: "ApocalypticThinking"
     title: "Apocalyptic Thinking"
     url: "/wiki/concepts/apocalypticthinking/"
@@ -2128,6 +2131,9 @@ topic_concepts:
   - key: "InformalJianghuOrder"
     title: "Informal Jianghu Order"
     url: "/wiki/concepts/informaljianghuorder/"
+  - key: "InformalReligiousPoliticalAuthority"
+    title: "Informal Religious-Political Authority"
+    url: "/wiki/concepts/informalreligiouspoliticalauthority/"
   - key: "InformationApocalypse"
     title: "Information Apocalypse"
     url: "/wiki/concepts/informationapocalypse/"
@@ -7217,6 +7223,9 @@ topic_entities:
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"
+  - key: "PieroDeMedici"
+    title: "Piero de' Medici"
+    url: "/wiki/entities/pierodemedici/"
   - key: "PiersGaveston"
     title: "Piers Gaveston"
     url: "/wiki/entities/piersgaveston/"
@@ -7235,6 +7244,9 @@ topic_entities:
   - key: "Pompey"
     title: "Pompey / 庞培"
     url: "/wiki/entities/pompey/"
+  - key: "PopeAlexanderVI"
+    title: "Pope Alexander VI"
+    url: "/wiki/entities/popealexandervi/"
   - key: "PopeLeoXIV"
     title: "Pope Leo XIV"
     url: "/wiki/entities/popeleoxiv/"
@@ -8766,6 +8778,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489"
+    title: "575. The Medici: The Bonfire of the Vanities (Part 4)"
+    url: "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
   - key: "606-enoch-powell-rivers-of-blood-glt7520958596"
     title: "606. Enoch Powell: Rivers of Blood"
     url: "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"

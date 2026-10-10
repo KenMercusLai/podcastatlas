@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10331
+wiki_total_pages: 10333
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2363,6 +2363,9 @@ wiki_pages:
   - key: "ApocalypticLiterarySymbolism"
     title: "Apocalyptic Literary Symbolism"
     url: "/wiki/concepts/apocalypticliterarysymbolism/"
+  - key: "ApocalypticProphecyCrisisLegitimation"
+    title: "Apocalyptic Prophecy and Crisis Legitimation"
+    url: "/wiki/concepts/apocalypticprophecycrisislegitimation/"
   - key: "ApocalypticThinking"
     title: "Apocalyptic Thinking"
     url: "/wiki/concepts/apocalypticthinking/"

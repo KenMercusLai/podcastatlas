@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10331
+wiki_total_pages: 10333
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "InformalPropertyRightsProtection"
     title: "Informal Property-Rights Protection / 非正式产权保护"
     url: "/wiki/concepts/informalpropertyrightsprotection/"
+  - key: "InformalReligiousPoliticalAuthority"
+    title: "Informal Religious-Political Authority"
+    url: "/wiki/concepts/informalreligiouspoliticalauthority/"
   - key: "InformationApocalypse"
     title: "Information Apocalypse"
     url: "/wiki/concepts/informationapocalypse/"

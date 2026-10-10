@@ -3691,6 +3691,10 @@
     "title": "570. Hannibal: The Invasion of Italy (Part 3)",
     "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
   },
+  "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489": {
+    "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
+    "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+  },
   "576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702": {
     "title": "576. The Irish War of Independence: Rise of the IRA (Part 1)",
     "url": "/wiki/sources/576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt9072105702/"
@@ -10238,6 +10242,10 @@
   "ApocalypticLiterarySymbolism": {
     "title": "Apocalyptic Literary Symbolism",
     "url": "/wiki/concepts/apocalypticliterarysymbolism/"
+  },
+  "ApocalypticProphecyCrisisLegitimation": {
+    "title": "Apocalyptic Prophecy and Crisis Legitimation",
+    "url": "/wiki/concepts/apocalypticprophecycrisislegitimation/"
   },
   "ApocalypticThinking": {
     "title": "Apocalyptic Thinking",
@@ -17790,6 +17798,10 @@
   "CharlesV": {
     "title": "Charles V",
     "url": "/wiki/entities/charlesv/"
+  },
+  "CharlesVIIIOfFrance": {
+    "title": "Charles VIII of France",
+    "url": "/wiki/entities/charlesviiioffrance/"
   },
   "CharlesVIIOfFrance": {
     "title": "Charles VII of France",
@@ -44087,6 +44099,10 @@
     "title": "Informal Property-Rights Protection / 非正式产权保护",
     "url": "/wiki/concepts/informalpropertyrightsprotection/"
   },
+  "InformalReligiousPoliticalAuthority": {
+    "title": "Informal Religious-Political Authority",
+    "url": "/wiki/concepts/informalreligiouspoliticalauthority/"
+  },
   "InformationApocalypse": {
     "title": "Information Apocalypse",
     "url": "/wiki/concepts/informationapocalypse/"
@@ -67011,6 +67027,10 @@
     "title": "花衣魔笛手 / The Pied Piper of Hamelin",
     "url": "/wiki/entities/piedpiperofhamelin/"
   },
+  "PieroDeMedici": {
+    "title": "Piero de' Medici",
+    "url": "/wiki/entities/pierodemedici/"
+  },
   "PieroFerrari": {
     "title": "Piero Ferrari",
     "url": "/wiki/entities/pieroferrari/"
@@ -67978,6 +67998,10 @@
   "PopToAlbumRockTransition": {
     "title": "Pop-to-Album-Rock Transition",
     "url": "/wiki/concepts/poptoalbumrocktransition/"
+  },
+  "PopeAlexanderVI": {
+    "title": "Pope Alexander VI",
+    "url": "/wiki/entities/popealexandervi/"
   },
   "PopeJoan": {
     "title": "Pope Joan",
