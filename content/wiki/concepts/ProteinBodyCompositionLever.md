@@ -9,7 +9,8 @@ sources:
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
   - how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871
   - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
-last_updated: 2026-09-30
+  - scim8552663956-scim8552663956
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,10 +34,12 @@ The earlier full-length interview independently supports the same hierarchy. It 
 
 Lyon independently uses the hierarchy of total protein, quality, then distribution, but pushes the optimization end harder: she favors roughly one gram per pound of ideal body weight, leucine-rich meals, and larger first-meal doses, especially in older adults. That reinforces the importance of age, source quality, and training context while widening rather than resolving the target debate. Her 30-to-50-gram meal range and higher daily target remain source-scoped alongside Norton's approximate 1.6 g/kg plateau and Gardner's population-adequacy account.
 
+Aragon independently reinforces the hierarchy while adding a whole-body-use distinction. A fixed 20-to-30-gram ceiling confuses muscle protein synthesis in a particular study design with digestion and use across the body; mixed meals, protein type, training volume, body size, and circulating nutrients widen the relevant context. His review-derived per-meal and daily targets remain optimization estimates rather than universal requirements, and his recomposition examples strengthen the joint role of resistance training, high protein, and controlled energy intake without making protein calories exempt from energy balance.
+
 ## Key Claims
 - Protein is the episode's largest dietary lever for satiety, lean body mass, and body composition.
 - Muscle-building benefit is described in one source as plateauing around 1.6 grams per kilogram of body weight, while higher guest optimization targets remain contested and source-scoped.
-- Total protein matters more than exact timing or meal frequency, though distribution may matter more for maximal strength or muscularity and inside narrow eating windows.
+- Total protein matters more than exact timing or meal frequency, and there is no fixed 20-to-30-gram whole-body absorption ceiling, though distribution may matter more for maximal strength or muscularity and inside narrow eating windows.
 - Plant-based diets can support muscle gain, but they require more planning around bioavailability, leucine, essential amino acids, and total calorie packaging.
 - Protein only works inside a broader system of energy balance, training, recovery, and sustainable adherence.
 - Intake above a population requirement can still have practical satiety or food-choice value without implying that all excess protein is stored or needed for muscle synthesis.
@@ -59,15 +62,16 @@ Lyon independently uses the hierarchy of total protein, quality, then distributi
 - Collagen boundary: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] treats collagen as low quality for muscle protein synthesis while leaving skin and connective-tissue benefit plausible but unsettled.
 - Lyon hierarchy: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] ranks total protein above quality and distribution, favors leucine-rich sources, and raises the importance of meal distribution for older adults or people eating less protein.
 - Training interaction: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] treats dietary protein without muscle contraction as incomplete and links resistance training to more useful muscle-facing adaptation.
+- Whole-body-use distinction: [[scim8552663956-scim8552663956]] rejects a fixed 20-to-30-gram protein-use ceiling and argues that protein type, mixed-meal digestion, body size, and training volume change interpretation of acute muscle-protein-synthesis studies.
+- Broad timing window: [[scim8552663956-scim8552663956]] places total daily protein above immediate workout timing and describes pre-exercise mixed meals and prolonged post-training synthesis as reasons not to treat 30 to 60 minutes as a universal deadline.
+- Recomposition support: [[scim8552663956-scim8552663956]] reports simultaneous lean-mass gain and fat loss under resistance training, high-protein, and controlled-calorie conditions, while keeping very high intakes and small-surplus guidance source-scoped.
 
 ## Counterevidence & Qualifications
-This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton and Lyon's muscle-optimization frames do not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, aging, or clinical reasons for higher intake. The one-gram-per-pound target, 30-to-50-gram meal range, first-meal emphasis, leucine target, four-to-five-meal distribution advantage, post-exercise synthesis timing, collagen benefit, acne mechanism, and unusually large protein-bolus finding remain source-scoped. None of the sources makes timing, powders, leucine, collagen, or isolates more important than total diet quality, training, and context.
+This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton, Lyon, and Aragon's muscle-optimization frames do not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, aging, or clinical reasons for higher intake. The one-gram-per-pound target, 0.4-to-0.6-g/kg meal estimate, 30-to-50-gram meal range, first-meal emphasis, leucine target, four-to-five-meal distribution advantage, post-exercise synthesis timing, collagen benefit, acne mechanism, very-high-protein recomposition findings, and unusually large protein-bolus finding remain source-scoped. None of the sources makes timing, powders, leucine, collagen, or isolates more important than total diet quality, training, and context.
 
 ## What Changed
-- Strengthened the hierarchy of total protein, source quality, and distribution while keeping age and training context visible.
-- Widened the explicit tension between population adequacy, the approximate muscle-building plateau, and higher guest optimization targets.
-- Added the qualification that protein intake and muscle contraction work as a system rather than interchangeable levers.
-- Added independent full-interview support for the approximate plateau, no-strict-absorption-cap boundary, and fasting-window qualification.
+- Added independent support for total daily protein over narrow workout timing and rejected a fixed whole-body protein-use ceiling.
+- Added recomposition evidence and kept the source's per-meal, daily-intake, and surplus estimates inside optimization rather than universal-requirement boundaries.
 
 ## Related Concepts
 - [[EnergyBalanceAccounting]] - calorie and expenditure frame that protein modifies through satiety and thermic effect.
@@ -80,3 +84,4 @@ This concept is not a protein prescription. Kidney disease, liver disease, pregn
 - [[DietTrialEquipoise]] - comparison principle needed when evaluating high-protein or plant-forward diets.
 - [[ProteinSourceGoalMatching]] - source-quality and intended-outcome branch distinguishing whey, collagen, bone broth, and whole-food proteins.
 - [[MechanismOutcomeEvidenceHierarchy]] - appraisal method for separating amino-acid mechanisms from measured body-composition outcomes.
+- [[TrainingFuelTimingContext]] - fed, fasted, and workout-adjacent timing frame that keeps daily sufficiency primary.

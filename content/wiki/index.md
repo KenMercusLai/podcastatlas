@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon](sources/scim8552663956-scim8552663956.md) — Huberman Lab interview on protein hierarchy, body recomposition, fed-versus-fasted outcomes, diet flexibility, seed-oil evidence, supplements, and adherence.
 - [VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能](sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp.md) — 这病说来话长 interview with Zhao Chuan on long-career conditioning, performance readiness, vocal care, walking, touring, and later-life renewal.
 - [582. The Body in the Woods: A Medieval Murder Mystery](sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685.md) — The Rest Is History on William of Norwich, Thomas of Monmouth, local skepticism, clerical incentive, and the formation and spread of the medieval blood libel.
 - [How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman](sources/scim4452883260-scim4452883260.md) — Huberman Lab interview on environmental neuroscience, attention restoration, nature exposure, rumination, health evidence, and biophilic design.
@@ -4488,6 +4489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 
 ## Entities
+- [Alan Aragon](entities/AlanAragon.md) — Nutrition and fitness communicator emphasizing evidence hierarchy, total daily protein, outcome-level comparisons, and sustainable adherence.
 - [赵传 / Zhao Chuan](entities/ZhaoChuan.md) — Singer connecting long-term stage work with adaptable conditioning, voice maintenance, city observation, and later-life renewal.
 - [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
 - [Thomas of Monmouth](entities/ThomasOfMonmouth.md) — Norwich monk whose unreliable hagiographic narrative promoted William's cult and a durable ritual-murder accusation.

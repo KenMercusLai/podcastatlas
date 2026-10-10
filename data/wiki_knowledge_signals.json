@@ -10580,6 +10580,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/alqaeda/"
     },
+    "AlanAragon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8552663956 [SCIM8552663956].md",
+          "key": "scim8552663956-scim8552663956",
+          "show": "Huberman Lab",
+          "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
+          "url": "/wiki/sources/scim8552663956-scim8552663956/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/alanaragon/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -209566,9 +209582,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -209611,9 +209627,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
+        },
+        {
+          "episode_file": "SCIM8552663956 [SCIM8552663956].md",
+          "key": "scim8552663956-scim8552663956",
+          "show": "Huberman Lab",
+          "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
+          "url": "/wiki/sources/scim8552663956-scim8552663956/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
@@ -229457,9 +229480,9 @@
       "url": "/wiki/concepts/seegrowactionlearningloop/"
     },
     "SeedOilEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -229474,9 +229497,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM8552663956 [SCIM8552663956].md",
+          "key": "scim8552663956-scim8552663956",
+          "show": "Huberman Lab",
+          "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
+          "url": "/wiki/sources/scim8552663956-scim8552663956/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/seedoilevidenceboundary/"
     },
     "SeemaSanghavi": {
@@ -258730,9 +258760,9 @@
       "url": "/wiki/concepts/trainingcorpussocialbias/"
     },
     "TrainingFuelTimingContext": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1024405440 [SCIM1024405440].md",
@@ -258747,9 +258777,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        },
+        {
+          "episode_file": "SCIM8552663956 [SCIM8552663956].md",
+          "key": "scim8552663956-scim8552663956",
+          "show": "Huberman Lab",
+          "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
+          "url": "/wiki/sources/scim8552663956-scim8552663956/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/trainingfueltimingcontext/"
     },
     "TrainingStressRecoveryContinuum": {
