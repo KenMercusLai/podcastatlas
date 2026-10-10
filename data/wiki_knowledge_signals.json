@@ -285,9 +285,9 @@
       "url": "/wiki/entities/achristmascarol/"
     },
     "ADHDAttentionControlModel": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -323,15 +323,22 @@
           "show": "Huberman Lab",
           "title": "ADHD & How Anyone Can Improve Their Focus",
           "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        },
+        {
+          "episode_file": "SCIM9560506848 [SCIM9560506848].md",
+          "key": "scim9560506848-scim9560506848",
+          "show": "Huberman Lab",
+          "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim9560506848-scim9560506848/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adhdattentioncontrolmodel/"
     },
     "ADHDExternalStructureAndTiming": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -353,9 +360,16 @@
           "show": "Huberman Lab",
           "title": "ADHD & How Anyone Can Improve Their Focus",
           "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        },
+        {
+          "episode_file": "SCIM9560506848 [SCIM9560506848].md",
+          "key": "scim9560506848-scim9560506848",
+          "show": "Huberman Lab",
+          "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim9560506848-scim9560506848/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adhdexternalstructureandtiming/"
     },
     "ADHDHyperfocusAIWorkflow": {
@@ -375,9 +389,9 @@
       "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -427,15 +441,22 @@
           "show": "罗永浩的十字路口",
           "title": "“不开玩笑” × 罗永浩的X字路口！折腾未必会赢，但不折腾一定会后悔",
           "url": "/wiki/sources/bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot/"
+        },
+        {
+          "episode_file": "SCIM9560506848 [SCIM9560506848].md",
+          "key": "scim9560506848-scim9560506848",
+          "show": "Huberman Lab",
+          "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim9560506848-scim9560506848/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -471,9 +492,16 @@
           "show": "Huberman Lab",
           "title": "ADHD & How Anyone Can Improve Their Focus",
           "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        },
+        {
+          "episode_file": "SCIM9560506848 [SCIM9560506848].md",
+          "key": "scim9560506848-scim9560506848",
+          "show": "Huberman Lab",
+          "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim9560506848-scim9560506848/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
     },
     "AFCChampionsLeague": {
@@ -20889,9 +20917,9 @@
       "url": "/wiki/concepts/attentionpresenceandhappiness/"
     },
     "AttentionalBlinkTraining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5444804832 [SCIM5444804832].md",
@@ -20899,9 +20927,16 @@
           "show": "Huberman Lab",
           "title": "ADHD & How Anyone Can Improve Their Focus",
           "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        },
+        {
+          "episode_file": "SCIM9560506848 [SCIM9560506848].md",
+          "key": "scim9560506848-scim9560506848",
+          "show": "Huberman Lab",
+          "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim9560506848-scim9560506848/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/attentionalblinktraining/"
     },
     "AttilaTheHun": {

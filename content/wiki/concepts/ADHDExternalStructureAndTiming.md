@@ -6,7 +6,8 @@ sources:
   - improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463
   - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
   - scim5444804832-scim5444804832
-last_updated: 2026-10-03
+  - scim9560506848-scim9560506848
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ ADHD external structure and timing is a support framework that uses scheduling, 
 ## Current Synthesis
 The episode treats external structure as compensation for inconsistent internal organization, not as proof that ADHD is merely a discipline problem. [[JohnKruse]] starts with scheduling and four recurring domains—sleep, eating, movement, and restorative personal time—then adds consolidated task lists, prioritization, workspace design, procrastination reduction, distraction control, and gradual concentration practice.
 
-Timing matters as much as quantity. Regular sleep and meals create dependable anchors, while the Kruse episode links ADHD with later chronotype and raises early bright light as a promising but limited evidence branch. Phone removal, app blockers, lock boxes, and agreed reminders make the environment carry some of the inhibitory burden. VOL.108 adds a child-facing version: protect sustained play or learning from avoidable interruption, build regular movement, and examine screens, family routines, and educational pressure as parts of the environment. The earlier 2021 episode adds movement or fidgeting as a possible outlet during still tasks, task-specific visual practice, and reduced phone-driven context switching. These measures can complement treatment, but the sources do not present them as universal cures or replacements for professional care.
+Timing matters as much as quantity. Regular sleep and meals create dependable anchors, while the Kruse episode links ADHD with later chronotype and raises early bright light as a promising but limited evidence branch. Phone removal, app blockers, lock boxes, and agreed reminders make the environment carry some of the inhibitory burden. VOL.108 adds a child-facing version: protect sustained play or learning from avoidable interruption, build regular movement, and examine screens, family routines, and educational pressure as parts of the environment. The full 2021 episode and its later Essentials edit add overlapping support for movement or fidgeting as a possible outlet during still tasks, task-specific visual practice, and reduced phone-driven context switching. These measures can complement treatment, but the sources do not present them as universal cures or replacements for professional care.
 
 ## Key Claims
 - External structure can reduce executive load when self-generated structure is unreliable.
@@ -36,13 +37,13 @@ Timing matters as much as quantity. Regular sleep and meals create dependable an
 - CBT structure - [[improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463]] highlights task consolidation, prioritization, procrastination control, workspace organization, and concentration extension.
 - Distraction barriers - [[improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463]] discusses separate devices, app blockers, lock boxes, and external reminders.
 - Pediatric environment - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] discusses repeated caregiver interruption, passive screens, movement, attention practice, and overcontrol as modifiable context rather than a standalone diagnosis or cure.
-- Movement, gaze, and phone context - [[scim5444804832-scim5444804832]] presents fidgeting or pacing, visual fixation, and reduced rapid smartphone switching as possible ways to reshape task demands.
+- Movement, gaze, and phone context - [[scim5444804832-scim5444804832]] and its condensed edit [[scim9560506848-scim9560506848]] present movement, visual fixation, and reduced rapid smartphone switching as ways to reshape task demands.
 
 ## Counterevidence & Qualifications
 The sources do not establish a single best sleep schedule, meal plan, exercise prescription, light dose, breathing protocol, app blocker, attention course, gaze exercise, fidget strategy, or CBT program for every person with ADHD. Early bright-light evidence is described as limited, cyclic sighing is a calming suggestion rather than ADHD treatment evidence, and the pediatric interruption, screen, exercise, fixation, and smartphone-threshold claims remain source-scoped. Serious impairment still calls for qualified assessment and care.
 
 ## What Changed
-- Added movement outlets, visual attention practice, and reduced phone switching as task-specific scaffolds.
+- Added the Essentials edit as overlapping provenance for movement, visual practice, and phone friction.
 - Preserved the boundary between environmental support and a universal ADHD treatment.
 
 ## Related Concepts

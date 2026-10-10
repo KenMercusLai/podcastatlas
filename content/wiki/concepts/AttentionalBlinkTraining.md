@@ -4,7 +4,8 @@ type: concept
 tags: [attention, meditation, vision, adhd]
 sources:
   - scim5444804832-scim5444804832
-last_updated: 2026-10-03
+  - scim9560506848-scim9560506848
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Attentional blink training is the proposal that deliberate practice with narrow, broad, or inward attention can reduce the tendency to miss a second relevant event shortly after detecting a first one.
 
 ## Current Synthesis
-[[scim5444804832-scim5444804832]] describes the attentional blink as a temporal selection limit: strongly capturing one target can make a nearby second target less likely to reach awareness. The episode reports that ADHD may involve more such misses and distinguishes narrow visual fixation from panoramic or open monitoring, which distributes attention more broadly.
+[[scim5444804832-scim5444804832]] and its condensed edit [[scim9560506848-scim9560506848]] describe the attentional blink as a temporal selection limit: strongly capturing one target can make a nearby second target less likely to reach awareness. The overlapping releases report that ADHD may involve more such misses and distinguish narrow visual fixation from panoramic or open monitoring, which distributes attention more broadly.
 
 The source also describes a single 17-minute inward-attention and breathing session as reducing attentional blinks, plus a school exercise combining movement and visual fixation with improved attention. These are useful hypotheses for trainable selection, not evidence that one session permanently improves focus, treats ADHD, or establishes an optimal meditation or gaze protocol. The durable synthesis is mode selection: narrow focus may help task engagement, while broader monitoring may help when detecting multiple events matters.
 
@@ -27,16 +28,16 @@ The source also describes a single 17-minute inward-attention and breathing sess
 - State change immediately after practice does not establish durable transfer to school, work, driving, or clinical symptoms.
 
 ## Evidence
-- Temporal selection - [[scim5444804832-scim5444804832]] uses rapid visual-target examples to explain why noticing one item can make a second item easier to miss.
-- Attention-mode distinction - [[scim5444804832-scim5444804832]] contrasts narrow fixation with panoramic or open monitoring.
-- Brief inward-attention practice - [[scim5444804832-scim5444804832]] reports reduced attentional blinks after one 17-minute session focused on internal state and breathing.
-- Movement and fixation - [[scim5444804832-scim5444804832]] describes a school exercise that paired physical movement with visual-focus practice and reported improved attention.
+- Temporal selection - [[scim5444804832-scim5444804832]] and [[scim9560506848-scim9560506848]] use rapid visual-target examples to explain why noticing one item can make a second item easier to miss.
+- Attention-mode distinction - [[scim5444804832-scim5444804832]] and [[scim9560506848-scim9560506848]] contrast narrow fixation with panoramic or open monitoring.
+- Brief inward-attention practice - [[scim5444804832-scim5444804832]] and [[scim9560506848-scim9560506848]] report reduced attentional blinks after one 17-minute session focused on internal state and breathing.
+- Movement and fixation - [[scim5444804832-scim5444804832]] and [[scim9560506848-scim9560506848]] describe a school exercise that paired physical movement with visual-focus practice and reported improved attention.
 
 ## Counterevidence & Qualifications
 The supplied source note does not provide the study citations, samples, controls, effect sizes, follow-up duration, diagnostic composition, or replication needed to infer permanent improvement or ADHD treatment efficacy. Attentional-blink performance is task-specific and should not be equated with general intelligence, everyday focus, working memory, or clinical diagnosis. Open monitoring, interoception, breath focus, and visual fixation may train different operations, and wider attention can hinder tasks that require strong filtering.
 
 ## What Changed
-- Established a bounded distinction between narrow engagement and broad event detection.
+- Added the Essentials edit as overlapping rather than independent evidence.
 - Kept the one-session, school-transfer, and ADHD claims explicitly source-scoped.
 
 ## Related Concepts

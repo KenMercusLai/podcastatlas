@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: ADHD & How Anyone Can Improve Their Focus](sources/scim9560506848-scim9560506848.md) — Condensed Huberman Lab episode on ADHD attention control, working memory, treatment boundaries, attentional blinks, visual practice, and phone-driven context switching.
 - [EP 23: AI in Marketing Strategies](sources/ep-23-ai-in-marketing-strategies.md) — Data Science With Sam interview with Zoya Scarlatta on predictive personalization, AI marketing ROI, human oversight, brand authenticity, privacy, and a guarded client-retention agent.
 - [588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)](sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995.md) — The Rest Is History on Darnley's two-stage murder, the Bothwell-Morton-Maitland conspiracy, Mary's probable ignorance, and the accountability failure that made innocence politically insufficient.
 - [How to Control Your Cortisol & Overcome Burnout](sources/scim6521025308-scim6521025308.md) — Huberman Lab episode on cortisol's circadian timing, HPA-axis feedback, two source-described burnout patterns, routine levers, and medical and supplement boundaries.

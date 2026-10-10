@@ -8,7 +8,8 @@ sources:
   - live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669
   - adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200
   - scim5444804832-scim5444804832
-last_updated: 2026-10-03
+  - scim9560506848-scim9560506848
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,7 +29,7 @@ The live Q&A makes the anti-binary principle explicit. Prescription stimulants a
 
 The solo medication episode sharpens the formulation and time-course branch. Adderall's mixed amphetamine salts, lisdexamfetamine's prodrug conversion, and methylphenidate's distinct pharmacology are not interchangeable labels; onset, duration, dopamine and norepinephrine effects, metabolism, sleep timing, and peripheral sympathetic load can change the tradeoff. It also distinguishes therapeutic use from non-prescribed or black-market exposure and adds alcohol or depressant combinations, tapering, and the thinner long-term evidence for newer amphetamine products to the monitoring boundary.
 
-The earlier 2021 solo episode adds historical provenance for pairing supervised medication with behavioral training during development and broadens the adjunct menu to elimination diets, omega-3s, phosphatidylserine, ginkgo, L-tyrosine, alpha GPC, racetams, visual attention practice, and TMS. The menu does not flatten their evidence: the diet result is described as controversial, omega-3 effects as modest or absent in some studies, several compounds as caution-worthy, and TMS as emerging rather than routine.
+The full 2021 solo episode and its later Essentials edit add overlapping provenance for pairing supervised medication with behavioral training during development and broaden the adjunct menu to elimination diets, omega-3s, phosphatidylserine, ginkgo, L-tyrosine, alpha GPC, racetams, visual attention practice, and TMS. The menu does not flatten their evidence: the diet result is described as controversial, omega-3 effects as modest or absent in some studies, several compounds as caution-worthy, and TMS as emerging rather than routine.
 
 ## Key Claims
 - Medication choice should follow individualized risk-benefit discussion and patient preference rather than one rigid sequence or a forced behavioral-versus-pharmaceutical binary.
@@ -49,14 +50,14 @@ The earlier 2021 solo episode adds historical provenance for pairing supervised 
 - Anti-binary treatment frame - [[live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669]] says stimulant medication can have real clinical value while behavioral, nutritional, supplement, and visual-focus practices may be combined according to individual need.
 - Formulation and kinetics - [[adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200]] distinguishes mixed amphetamine salts, lisdexamfetamine's prodrug conversion, methylphenidate, and wakefulness-promoting agents by onset, duration, transmitter effects, and risk.
 - Long-term and combination boundaries - [[adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200]] adds sleep timing, alcohol or depressant combinations, black-market contamination, tapering, and unequal depth of long-term evidence across drugs.
-- Earlier multimodal and adjunct boundary - [[scim5444804832-scim5444804832]] proposes pairing supervised medication with behavioral training while keeping diet, supplements, gaze practice, and TMS at distinct and qualified evidence levels.
+- Earlier multimodal and adjunct boundary - [[scim5444804832-scim5444804832]] and its condensed edit [[scim9560506848-scim9560506848]] pair supervised medication with behavioral training while keeping supplements, gaze practice, and other adjuncts qualified.
 
 ## Counterevidence & Qualifications
 This page summarizes public interviews, not prescribing guidance. The sources' comparative efficacy, psychosis frequency, dopamine and norepinephrine explanations, blood-pressure change, growth and BMI effects, endocrine findings, addiction risk, neurotoxicity, dose and duration ranges, drug holidays, elimination diets, fish-oil or supplement doses, cannabis, nicotine, caffeine, visual-focus transfer, TMS, training courses, and developmental-window claims require independent clinical evidence and patient context. No one should start, stop, taper, combine, or change prescription drugs, psychoactive substances, or high-risk supplements from this summary; discontinuation effects and stimulant psychiatric, cardiovascular, sleep, and interaction risks require professional oversight.
 
 ## What Changed
-- Added earlier provenance for pairing supervised medication with behavioral training during development.
-- Expanded the adjunct boundary while separating disputed diet, modest omega-3, experimental supplement, and emerging TMS claims.
+- Added the Essentials edit as overlapping provenance for supervised multimodal treatment.
+- Preserved the distinction between clinician-managed medication and qualified behavioral or supplement adjuncts.
 
 ## Related Concepts
 - [[ADHDExternalStructureAndTiming]] - behavioral infrastructure that can complement clinical treatment.

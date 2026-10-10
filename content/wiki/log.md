@@ -35033,3 +35033,11 @@ Added source `zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-c
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: ADHD & How Anyone Can Improve Their Focus
+
+Added source `scim9560506848-scim9560506848` and resynthesized [[ADHDAttentionControlModel]], [[ADHDSelfDiagnosisBoundary]], [[ADHDTreatmentSelectionBoundary]], [[ADHDExternalStructureAndTiming]], and [[AttentionalBlinkTraining]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: ADHD is framed as unreliable control of attention, impulse, working memory, and time estimation rather than low intelligence or a total inability to focus; qualified diagnosis precedes treatment choice; supervised medication can be paired with behavioral structure; and narrow, panoramic, inward, movement, visual, and phone-friction practices remain task-specific tools rather than universal treatments. No settled contradiction was adopted. This Essentials release substantially overlaps [[scim5444804832-scim5444804832|the full 2021 episode]] rather than independently confirming it; prevalence, low-dopamine and network models, developmental windows, spontaneous-blink timing, school fixation transfer, supplement doses, adverse-effect descriptions, and smartphone thresholds remain source-scoped public education rather than individualized diagnosis or treatment guidance. Broad [[AndrewHuberman]] and [[HubermanLab]] pages were kept closed because the focused source and concept updates capture the bounded addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,388 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
