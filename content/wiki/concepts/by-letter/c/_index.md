@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10177
+wiki_total_pages: 10178
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2774,6 +2774,9 @@ wiki_pages:
   - key: "CristeroWar"
     title: "Cristero War"
     url: "/wiki/concepts/cristerowar/"
+  - key: "CriticalJudgmentPersonalPreference"
+    title: "Critical Judgment And Personal Preference / 批评判断与个人偏好的区分"
+    url: "/wiki/concepts/criticaljudgmentpersonalpreference/"
   - key: "CriticalMineralOfftakeIndustrialPolicy"
     title: "Critical Mineral Offtake Industrial Policy"
     url: "/wiki/concepts/criticalmineralofftakeindustrialpolicy/"

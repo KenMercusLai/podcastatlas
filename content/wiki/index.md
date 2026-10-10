@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1](sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd.md) — 纸醉金迷FM两周年圆桌以金庸小说、人物、武功和域外武侠之最，区分批评判断与私人偏爱，并讨论生命阶段如何改变人物同情与阅读重点。
 - [613. Nelson: Glory at Trafalgar (Part 6)](sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251.md) — The Rest Is History on Trafalgar's two-column attack, Nelson's death, Royal Navy state capacity, storm aftermath, state funeral, and monumental memory.
 - [Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460.md) — Condensed Huberman Lab interview on epigenetic aging, fasting and nutrient signaling, NAD and NMN, biological-age markers, and animal-to-human evidence boundaries.
 - [614. Walt Disney: The Great American Storyteller](sources/614-walt-disney-the-great-american-storyteller-glt5465018421.md) — The Rest Is History on Disney's animation breakthroughs, ownership discipline, merchandising, collective studio craft, labor conflict, wartime debt, television recovery, and cultural power.
@@ -17453,6 +17454,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Critical Judgment And Personal Preference / 批评判断与个人偏好的区分](concepts/CriticalJudgmentPersonalPreference.md) — 区分作品层面的批评标准与由媒介、记忆、生命阶段和认同共同形成的私人偏爱。
 - [Animation As Mass Art](concepts/AnimationAsMassArt.md) — System-level account of animation's mass reach through technique, character, collective labor, capital, distribution, and merchandise.
 - [Castleman Disease](concepts/CastlemanDisease.md) — Rare lymph-node disorder presented through a severe relapsing case and a bounded mTOR-sirolimus treatment hypothesis.
 - [Drug Repurposing](concepts/DrugRepurposing.md) — Evidence-led search for new therapeutic uses of existing medicines across scientific, incentive, and diffusion gaps.

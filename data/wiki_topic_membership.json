@@ -26641,6 +26641,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CriticalJudgmentPersonalPreference": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CriticalMineralOfftakeIndustrialPolicy": [
     {
       "key": "economics",

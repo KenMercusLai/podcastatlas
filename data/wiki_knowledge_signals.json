@@ -54947,6 +54947,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/cristianolimastrong/"
     },
+    "CriticalJudgmentPersonalPreference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqZcUTro9A37TPJ7h-ps5wsmoExd [lqZcUTro9A37TPJ7h-ps5wsmoExd].md",
+          "key": "082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd",
+          "show": "纸醉金迷FM",
+          "title": "082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1",
+          "url": "/wiki/sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/criticaljudgmentpersonalpreference/"
+    },
     "CriticalPathMethodPersonalPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -148366,9 +148382,9 @@
       "url": "/wiki/concepts/lifesciencedatainformationvalue/"
     },
     "LifeStageDependentRereading": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljz9KGG5ExpHgfux5e6OyrtPxW1w [ljz9KGG5ExpHgfux5e6OyrtPxW1w].md",
@@ -148376,9 +148392,16 @@
           "show": "怪东西Weird History",
           "title": "5 少年维特有出路吗？读书1：《少年维特之烦恼》",
           "url": "/wiki/sources/5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w/"
+        },
+        {
+          "episode_file": "lqZcUTro9A37TPJ7h-ps5wsmoExd [lqZcUTro9A37TPJ7h-ps5wsmoExd].md",
+          "key": "082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd",
+          "show": "纸醉金迷FM",
+          "title": "082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1",
+          "url": "/wiki/sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/lifestagedependentrereading/"
     },
     "LifeStageInsurancePlanning": {

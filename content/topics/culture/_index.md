@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3330
+topic_total_pages: 3331
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -919,6 +919,9 @@ topic_concepts:
   - key: "CriminalRomanticization"
     title: "Criminal Romanticization"
     url: "/wiki/concepts/criminalromanticization/"
+  - key: "CriticalJudgmentPersonalPreference"
+    title: "Critical Judgment And Personal Preference / 批评判断与个人偏好的区分"
+    url: "/wiki/concepts/criticaljudgmentpersonalpreference/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"
