@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13020
+wiki_total_pages: 13021
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"

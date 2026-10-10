@@ -88449,9 +88449,9 @@
       "url": "/wiki/entities/firstaffiliatedhospitalchengdumedicalcollege/"
     },
     "FirstAidTriageAndEscalation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -88487,9 +88487,16 @@
           "show": "这病说来话长",
           "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
           "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+        },
+        {
+          "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
+          "key": "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s",
+          "show": "这病说来话长",
+          "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+          "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/firstaidtriageandescalation/"
     },
     "FirstAngloAfghanWar": {
@@ -225705,9 +225712,9 @@
       "url": "/wiki/entities/shanghaidisneyland/"
     },
     "ShanghaiEastHospital": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
@@ -225729,9 +225736,16 @@
           "show": "这病说来话长",
           "title": "VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能",
           "url": "/wiki/sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc/"
+        },
+        {
+          "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
+          "key": "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s",
+          "show": "这病说来话长",
+          "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+          "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/shanghaieasthospital/"
     },
     "ShanghaiFrenchConcession": {
@@ -241241,9 +241255,9 @@
       "url": "/wiki/entities/supuyanlatehan/"
     },
     "SurgicalInformedConsentResponsibility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
@@ -241258,9 +241272,16 @@
           "show": "这病说来话长",
           "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
           "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
+        },
+        {
+          "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
+          "key": "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s",
+          "show": "这病说来话长",
+          "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+          "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/surgicalinformedconsentresponsibility/"
     },
     "SurrenderAsCivilianProtectionTradeoff": {
@@ -252295,6 +252316,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/traumacueresponse/"
+    },
+    "TraumaDamageControlPrioritization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
+          "key": "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s",
+          "show": "这病说来话长",
+          "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+          "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/traumadamagecontrolprioritization/"
     },
     "TraumaFunctionalRecognition": {
       "episode_count": 2,
@@ -282077,6 +282114,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/zhangyuecctv/"
+    },
+    "ZhangYueTraumaSurgeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
+          "key": "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s",
+          "show": "这病说来话长",
+          "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+          "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/zhangyuetraumasurgeon/"
     },
     "ZhangYuhanRespiratoryDoctor": {
       "episode_count": 1,

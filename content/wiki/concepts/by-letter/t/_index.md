@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10181
+wiki_total_pages: 10182
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "TraumaCueResponse"
     title: "Trauma Cue Response"
     url: "/wiki/concepts/traumacueresponse/"
+  - key: "TraumaDamageControlPrioritization"
+    title: "Trauma Damage-Control Prioritization / 创伤损伤控制优先级"
+    url: "/wiki/concepts/traumadamagecontrolprioritization/"
   - key: "TraumaFunctionalRecognition"
     title: "Trauma Functional Recognition"
     url: "/wiki/concepts/traumafunctionalrecognition/"

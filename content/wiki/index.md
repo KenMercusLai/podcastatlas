@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘](sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s.md) — 这病说来话长由创伤外科医生张悦连接急诊现场、保命优先的损伤控制、截肢与愈合不确定性、知情同意及保守院前处置。
 - [贾樟柯×罗永浩！成为贾樟柯（上）](sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir.md) — 罗永浩与贾樟柯从汾阳成长、文学与流行文化谈到电影教育、低成本起步、作者边界、时代音乐及现实优先的导演方法。
 - [082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1](sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd.md) — 纸醉金迷FM两周年圆桌以金庸小说、人物、武功和域外武侠之最，区分批评判断与私人偏爱，并讨论生命阶段如何改变人物同情与阅读重点。
 - [613. Nelson: Glory at Trafalgar (Part 6)](sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251.md) — The Rest Is History on Trafalgar's two-column attack, Nelson's death, Royal Navy state capacity, storm aftermath, state funeral, and monumental memory.
@@ -5795,7 +5796,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent's Last Exam](entities/AgentsLastExam.md) — Cross-domain agent benchmark built around professional tasks, tools, environments, verifiers, and held-out evaluation.
 - [Mary Helen Immordino-Yang](entities/MaryHelenImmordinoYang.md) — Neuroscientist and developmental psychologist connecting emotion, culture, narrative, social inference, and education.
 - [练晶晶 / Lian Jingjing](entities/LianJingjing.md) — Digestive-endoscopy clinician explaining screening, test selection, preparation, anesthesia boundaries, biopsy, and common misconceptions.
-- [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for digestive-endoscopy and plastic-surgery guests and their public medical education.
+- [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for digestive-endoscopy, plastic-surgery, and trauma-surgery guests and their public medical education.
+- [张悦 / Zhang Yue (Trauma Surgeon)](entities/ZhangYueTraumaSurgeon.md) — Source-scoped trauma surgeon explaining emergency pressure, life-before-limb decisions, consent, conservative first aid, and clinician vulnerability.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
 - [Patrick Pearse](entities/PatrickPearse.md) — Modern bilingual educator and revolutionary who used deep and invented historical tradition to frame the Easter Rising.
 - [Oliver Cromwell](entities/OliverCromwell.md) — English commander and Lord Protector joining Irish conquest to coercive, providential, and constitutionally unstable rule.
@@ -27709,5 +27711,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Personalized Film Industrialization / 个性化电影工业](concepts/PersonalizedFilmIndustrialization.md) — Production capacity organized to preserve distinctive authored systems instead of standardizing them.
 
 - [Consumer Tariff Refund Allocation](concepts/ConsumerTariffRefundAllocation.md) — How importer refunds can—or cannot—be connected back to customers who bore itemized or embedded tariff costs.
+- [Trauma Damage-Control Prioritization / 创伤损伤控制优先级](concepts/TraumaDamageControlPrioritization.md) — Staged emergency hierarchy placing physiological survival before limb salvage, reconstruction, function, and longer-term recovery.
 
 ## Syntheses

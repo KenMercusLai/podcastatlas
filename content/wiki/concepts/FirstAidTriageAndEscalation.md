@@ -8,7 +8,8 @@ sources:
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
   - vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg
   - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
-last_updated: 2026-09-29
+  - vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,13 +29,15 @@ VOL.87 adds a pediatric branch. Caregivers should first assess consciousness, br
 
 VOL.18 adds a trauma-side restraint principle: severe sport injury, suspected fracture, possible cervical injury, and heavy bleeding do not justify forceful straightening or improvised complex technique. Stop activity, use direct pressure for visible bleeding, cover and support the injured area when safe, minimize movement, and escalate; exact cooling, constriction, CPR, and loading details remain training- and protocol-sensitive.
 
+VOL.183 extends that restraint from sports injury into high-energy trauma. An embedded object may be limiting hemorrhage, an exposed bone fragment may still matter to reconstruction, forceful reduction can injure nerves or other tissue, and bending or casually carrying a person with possible spinal injury can convert instability into neurological harm. The public objective is therefore limited and conservative: call for help, control visible bleeding with a fitted trained method, avoid removal or reduction, stabilize without forcing position, and reach nearby qualified care.
+
 ## Key Claims
 - First aid starts with scene safety and judgment before hands-on intervention.
 - Early 120 calling is a core intervention because dispatchers can guide bystanders while professional help is on the way; exact location, contactability, consciousness, breathing, and the key symptom or injury should be communicated first.
 - Bystanders should assign concrete roles when possible: one person calls, one retrieves an AED or supplies, one performs the fitted intervention, and others clear space or find trained help.
 - Collapse must be differentiated enough to avoid applying cardiac-arrest action to stroke, hypoglycemia, vomiting, seizure, or another emergency without regard to consciousness and breathing.
 - Vomiting, dentures, secretions, or loss of airway tone can create aspiration or obstruction risk, making positioning and visible-airway protection part of triage.
-- Folk, improvised, or mismatched interventions—including amateur fracture reduction or uncertain constriction—can worsen outcomes when the event is not the one the bystander assumes.
+- Folk, improvised, or mismatched interventions—including pulling embedded objects, discarding exposed bone, amateur fracture reduction, forced spinal movement, or uncertain constriction—can worsen outcomes when the event is not the one the bystander assumes.
 - Ordinary first-aid knowledge should lead to formal training, especially for CPR, AED, Heimlich-style choking response, and other high-consequence skills.
 
 ## Evidence
@@ -45,16 +48,17 @@ VOL.18 adds a trauma-side restraint principle: severe sport injury, suspected fr
 - Arrival preparation and transport boundary: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] adds concise location and condition reporting, access preparation, documents and medicines, greeter assignment, caution about moving trauma patients, and capability-matched hospital choice.
 - Pediatric assessment and escalation: [[vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg]] joins fitted household action with prompt care for foreign bodies, burns, convulsions, bleeding, head injury, and rapid abdominal deterioration.
 - Trauma restraint and bleeding: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1]] favors stopping activity, direct wound pressure, clean covering, minimal movement, and safe support over amateur reduction or uncertain high-risk technique.
+- Penetrating, fracture, and spine restraint: [[vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s]] adds no-removal, no-discard, no-forceful-reduction, neutral-position movement, and prompt nearby-care boundaries for serious trauma.
 
 ## Counterevidence & Qualifications
-The sources are public first-aid education, not replacements for certified training, local emergency protocols, dispatcher instructions, or clinical judgment. Stroke and hypoglycemia presentations vary, and an altered or unconscious person should not be given food or drink casually. Pediatric airway maneuvers depend on age, size, consciousness, and cough effectiveness. Fixed cooling-to-heat schedules, tourniquet use or release, splinting, CPR sequence, and return-to-loading decisions should not be generalized from a podcast. The emergency number 120 and legal discussion are China-facing; local numbers, protocols, crew composition, response intervals, fees, destination rules, and duties vary by jurisdiction.
+The sources are public first-aid education, not replacements for certified training, local emergency protocols, dispatcher instructions, or clinical judgment. Stroke and hypoglycemia presentations vary, and an altered or unconscious person should not be given food or drink casually. Pediatric airway maneuvers depend on age, size, consciousness, and cough effectiveness. Fixed cooling-to-heat schedules, tourniquet placement, duration or release, splinting, spinal movement, CPR sequence, and return-to-loading decisions should not be generalized from a podcast. The emergency number 120 and legal discussion are China-facing; local numbers, protocols, crew composition, response intervals, fees, destination rules, and duties vary by jurisdiction.
 
 ## What Changed
-- The synthesis now differentiates collapse causes more explicitly, adding stroke, low blood sugar, vomiting, aspiration, and airway obstruction to the existing judgment-and-escalation frame.
-- Concrete role assignment is now captured by the “120、AED、来帮忙” mnemonic alongside detailed dispatcher communication.
-- The pre-arrival frame now includes access, records, medicines, scene greeters, movement restraint, and clinically suitable destination choice.
-- Added a pediatric branch joining assessment, fitted first aid, delayed foreign-body history, and the rule that infection anxiety should not postpone urgent care.
-- Added a trauma-restraint rule: direct pressure, protection, and minimal movement take priority over amateur reduction or uncertain constriction.
+- Differentiated collapse causes and fitted actions rather than treating every collapse as cardiac arrest.
+- Added concrete role assignment plus access, records, scene greeters, movement restraint, and capability-matched destination choice.
+- Added a pediatric branch joining assessment, fitted first aid, delayed foreign-body history, and timely transfer.
+- Extended trauma restraint from sports injuries to penetrating objects, exposed bone, forceful reduction, and possible spinal instability.
+- Clarified that tourniquet timing and technique remain training-, protocol-, and context-dependent.
 
 ## Related Concepts
 - [[CPRAEDResponseBoundary]] - specific collapse-response branch inside the wider triage frame.
@@ -68,3 +72,4 @@ The sources are public first-aid education, not replacements for certified train
 - [[EmergencyRescueLegalProtection]] - China-facing legal-confidence branch for voluntary bystander aid.
 - [[PrehospitalEmergencyMedicalResponse]] - professional dispatch, transport, destination, and handoff chain that follows the public call.
 - [[PediatricEmergencyTriageAndEscalation]] - child-specific branch for caregiver judgment, protective action, and timely transfer.
+- [[TraumaDamageControlPrioritization]] - hospital-side survival and staged-treatment hierarchy that follows serious-trauma escalation.

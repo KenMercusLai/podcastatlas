@@ -85323,6 +85323,10 @@
     "title": "Trauma Cue Response",
     "url": "/wiki/concepts/traumacueresponse/"
   },
+  "TraumaDamageControlPrioritization": {
+    "title": "Trauma Damage-Control Prioritization / 创伤损伤控制优先级",
+    "url": "/wiki/concepts/traumadamagecontrolprioritization/"
+  },
   "TraumaFunctionalRecognition": {
     "title": "Trauma Functional Recognition",
     "url": "/wiki/concepts/traumafunctionalrecognition/"
@@ -95403,6 +95407,10 @@
     "title": "张越 / Zhang Yue (television host)",
     "url": "/wiki/entities/zhangyuecctv/"
   },
+  "ZhangYueTraumaSurgeon": {
+    "title": "张悦 / Zhang Yue (Trauma Surgeon)",
+    "url": "/wiki/entities/zhangyuetraumasurgeon/"
+  },
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
@@ -103354,6 +103362,10 @@
   "vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1": {
     "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
     "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+  },
+  "vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s": {
+    "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
+    "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
   },
   "vol-184-jiejue-yunche-ni-de-xian-zhaodao-zhenxiang-dang-danao-shoudao-zhe-sange-maodun-xinhao-erbihouke-lqasxyp6lysn8f3gszysfipivw1f": {
     "title": "VOL.184解决晕车你得先找到真相：当大脑收到这三个矛盾信号｜耳鼻喉科",
