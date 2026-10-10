@@ -7,6 +7,7 @@ sources:
   - scim2452395341-scim2452395341
   - how-to-increase-motivation-drive-scim9999790924
   - essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387
+  - scim4795280888-scim4795280888
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,7 @@ Pleasure-pain balance in addiction is Anna Lembke's opponent-process model in wh
 
 The model applies conceptually to drugs and to highly reinforcing behaviors, but it is not a device for measuring an individual's dopamine or diagnosing every strong preference. Its practical value is to explain why repeated restimulation can deepen a cycle, why ordinary activities may feel flat during early abstinence, and why recovery often needs time, competing sources of reward, environmental barriers, and appropriate clinical support.
 
-Two earlier solo episodes supply convergent provenance rather than separate clinical models. They describe reward as recruiting an opposing disappointment, craving, or pain response, with repetition diminishing the pleasurable side and strengthening the compensatory side. The later Lembke interview gives this account its fuller clinical scope, abstinence qualifications, and recovery boundaries; its Essentials edit restates those points in compressed form without adding independent confirmation.
+Two earlier solo episodes supply convergent provenance rather than separate clinical models. They describe reward as recruiting an opposing disappointment, craving, or pain response, with repetition diminishing the pleasurable side and strengthening the compensatory side. The pain-and-pleasure Essentials edit condenses one of those solo episodes and does not add independent confirmation. The later Lembke interview gives this account its fuller clinical scope, abstinence qualifications, and recovery boundaries; its own Essentials edit likewise restates those points in compressed form.
 
 ## Key Claims
 - Pleasure can recruit a compensatory pain response that helps return the system toward homeostasis.
@@ -39,12 +40,14 @@ Two earlier solo episodes supply convergent provenance rather than separate clin
 - Earlier opponent-process framing - [[scim2452395341-scim2452395341]] connects repeated high reward-system activation with habituation, reduced ordinary pleasure, and stronger opposing discomfort.
 - Early motivation framing - [[how-to-increase-motivation-drive-scim9999790924]] describes repeated pursuit as producing less pleasure, more craving, and a stronger post-reward crash.
 - Condensed clinical restatement - [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387]] reiterates the opponent process, dopamine-deficit symptoms, anticipatory craving, relapse vulnerability, and variable recovery.
+- Condensed solo restatement - [[scim4795280888-scim4795280888]] repeats the claim that repeated unusually large reward-system activation weakens later pleasure and strengthens compensatory pain or disappointment.
 
 ## Counterevidence & Qualifications
-This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The Huberman Lab sources overlap substantially, and the Essentials edit derives from the full Lembke interview, so they should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, or show that 30 days is sufficient for every person. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
+This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The Huberman Lab sources overlap substantially, and each Essentials edit derives from longer source material, so they should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, or show that 30 days is sufficient for every person. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
 
 ## What Changed
 - Added the Essentials edit as overlapping provenance while preserving the full Lembke interview as the stronger clinical and recovery frame.
+- Added the pain-and-pleasure Essentials edit without changing confidence in the opponent-process model.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - adjacent dynamic account of reward peaks, subsequent troughs, and altered future motivation.

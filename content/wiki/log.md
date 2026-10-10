@@ -35333,3 +35333,11 @@ Added source `065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-l
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How to Control Your Sense of Pain & Pleasure
+
+Added source `scim4795280888-scim4795280888` and resynthesized [[PainAsDistributedExperience]], [[NighttimePainAmplification]], [[SiteSpecificElectroacupunctureImmunePathway]], and [[PleasurePainBalanceAddiction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: pain is a real, distributed, context-sensitive experience rather than a direct meter of tissue damage; anticipation, sleep, circadian timing, interpretation, and sensory context can change it, while repeated high-intensity reward may recruit compensatory discomfort. No settled contradiction was adopted. The episode is a condensed edit of the already-ingested 2021 full episode, so its apparent-injury case, preparation and nighttime windows, fibromyalgia account, electroacupuncture pathways, neurochemical contrasts, and intervention claims add editorial provenance rather than independent confirmation and remain source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] pages were kept closed because the focused source and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,426 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

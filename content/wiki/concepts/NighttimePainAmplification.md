@@ -5,6 +5,7 @@ tags: [pain, sleep, circadian-rhythm, autonomic-nervous-system, medical-literacy
 sources:
   - vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7
   - scim2452395341-scim2452395341
+  - scim4795280888-scim4795280888
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ The episode rejects the idea that stronger nighttime pain is merely imagined, bu
 
 This is an explanatory frame, not a diagnostic rule. The same symptom can arise from different conditions, and nighttime prominence does not identify the cause or justify one treatment. The clinically useful move is to record pattern and context, relieve symptoms safely when appropriate, and escalate persistent, recurrent, severe, or otherwise concerning pain.
 
-The Huberman Lab source independently adds a circadian-tolerance claim: on a conventional daytime schedule, pain tolerance is described as generally lower at night and especially low around 2-5 a.m. That precise window is retained as source-scoped rather than promoted into a universal biological rule.
+The full Huberman Lab episode adds a circadian-tolerance claim: on a conventional daytime schedule, pain tolerance is described as generally lower at night and especially low around 2-5 a.m. Its Essentials edit repeats that claim but does not independently confirm it. The precise window is retained as source-scoped rather than promoted into a universal biological rule.
 
 ## Key Claims
 - Nighttime pain intensity can reflect interacting biological, attentional, and behavioral factors.
@@ -33,13 +34,15 @@ The Huberman Lab source independently adds a circadian-tolerance claim: on a con
 - Symptom range - [[vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7]] applies the frame across headache, toothache, menstrual pain, joint pain, muscle soreness, and lower-back pain rather than treating it as one disease-specific mechanism.
 - Action boundary - [[vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7]] pairs symptom relief with investigation when pain lasts, recurs, or cannot be adequately controlled.
 - Circadian-tolerance claim - [[scim2452395341-scim2452395341]] reports lower average pain tolerance at night on a standard schedule, with a proposed low window around 2-5 a.m.
+- Condensed restatement - [[scim4795280888-scim4795280888]] repeats the lower-nighttime-tolerance claim and precise window without adding methods or independent evidence.
 
 ## Counterevidence & Qualifications
-The sources do not provide primary research, mechanism-specific evidence, or condition-by-condition effect sizes. The sympathetic-versus-parasympathetic explanation and precise 2-5-a.m. window are simplified public education and may vary with chronotype, sleep schedule, condition, medication, and context. New, severe, escalating, or persistent pain needs clinical context rather than a circadian explanation alone.
+The sources do not provide primary research, mechanism-specific evidence, or condition-by-condition effect sizes. The sympathetic-versus-parasympathetic explanation and precise 2-5-a.m. window are simplified public education and may vary with chronotype, sleep schedule, condition, medication, and context. The two Huberman Lab notes are full and condensed versions of the same material, not independent confirmation. New, severe, escalating, or persistent pain needs clinical context rather than a circadian explanation alone.
 
 ## What Changed
 - Added a second source's circadian pain-tolerance claim while keeping its precise nighttime window qualified.
 - Preserved the multifactorial model rather than replacing it with a single clock-based mechanism.
+- Confidence is unchanged; the Essentials edit adds overlapping provenance only.
 
 ## Related Concepts
 - [[PainSleepFeedbackLoop]] - downstream cycle in which nighttime pain and sleep loss reinforce one another.

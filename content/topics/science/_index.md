@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1549
+topic_total_pages: 1550
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4026,6 +4026,9 @@ topic_sources:
   - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
     title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
     url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+  - key: "scim4795280888-scim4795280888"
+    title: "Essentials: How to Control Your Sense of Pain & Pleasure"
+    url: "/wiki/sources/scim4795280888-scim4795280888/"
   - key: "essentials-how-to-learn-skills-faster-scim2224786015"
     title: "Essentials: How to Learn Skills Faster"
     url: "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"

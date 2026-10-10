@@ -6,6 +6,7 @@ sources:
   - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
   - control-pain-heal-faster-with-your-brain-scim8085045324
   - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
+  - scim4795280888-scim4795280888
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ The bounded episodes do not describe acupuncture as one uniform intervention. Th
 
 The later episode adds the more specific PROKR2-expressing sensory-neuron and deep-fascia account. The earlier episode supplies convergent provenance for the direction-of-effect distinction but less anatomical detail. The durable judgment is therefore anatomy and protocol specificity—not blanket validation of acupuncture. A mapped pathway in mice supports biological plausibility without establishing that arbitrary needle placement, manual acupuncture, fascia work, or self-administered electrical stimulation treats human inflammatory disease.
 
-The Essentials edit condenses the later episode's abdominal-versus-lower-limb distinction and catecholamine route. It adds discoverability and editorial continuity but no independent animal experiment or human clinical outcome.
+The immune-system Essentials edit condenses the later episode's abdominal-versus-lower-limb distinction and catecholamine route, while the pain-and-pleasure Essentials edit repeats the same site- and intensity-dependent direction from the earlier pain material. Both add discoverability and editorial continuity but no independent animal experiment or human clinical outcome.
 
 ## Key Claims
 - Electroacupuncture effects can depend on stimulation site, depth, intensity, and timing rather than acupuncture as a single undifferentiated intervention.
@@ -34,15 +35,17 @@ The Essentials edit condenses the later episode's abdominal-versus-lower-limb di
 - Direction-of-effect boundary - [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] reports that lower-limb and abdominal stimulation can have different inflammatory consequences.
 - Earlier convergent provenance - [[control-pain-heal-faster-with-your-brain-scim8085045324]] contrasts low-intensity hind-limb stimulation associated with a vagal anti-inflammatory route against intense abdominal stimulation associated with sympathetic pro-inflammatory effects.
 - Condensed restatement - [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] repeats the site-dependent direction and proposed adrenal catecholamine route without adding independent evidence.
+- Pain-edit restatement - [[scim4795280888-scim4795280888]] repeats abdominal intensity and lower-limb vagal-adrenal pathway claims without adding methodological detail or independent evidence.
 
 ## Counterevidence & Qualifications
-The evidence consists of podcast summaries of preclinical research, not a clinical guideline. It does not establish effective human indications, dosing, durability, comparative benefit, adverse-event rates, practitioner standards, or equivalence among electroacupuncture, manual acupuncture, acupressure, massage, and other fascia stimulation. The episodes substantially overlap in host, research lineage, examples, and—in the Essentials case—editorial source material, so they should not be treated as independent replication. Electrical stimulation and needling can cause harm and should not be self-applied on the basis of this mechanism alone.
+The evidence consists of podcast summaries of preclinical research, not a clinical guideline. It does not establish effective human indications, dosing, durability, comparative benefit, adverse-event rates, practitioner standards, or equivalence among electroacupuncture, manual acupuncture, acupressure, massage, and other fascia stimulation. The episodes substantially overlap in host, research lineage, examples, and—in both Essentials cases—editorial source material, so they should not be treated as independent replication. Electrical stimulation and needling can cause harm and should not be self-applied on the basis of this mechanism alone.
 
 ## What Changed
 - Added earlier provenance for opposing abdominal and lower-limb inflammatory effects.
 - Clarified that the later episode supplies the more specific PROKR2 and deep-fascia account.
 - Preserved species, site, depth, timing, intensity, and protocol as essential translation limits.
 - No material mechanism judgment changed; the Essentials edit is overlapping provenance.
+- Confidence remains unchanged after a second condensed restatement of the pathway.
 
 ## Related Concepts
 - [[BrainImmuneStateCoupling]] - broader reciprocal signaling frame containing this neural-to-immune example.

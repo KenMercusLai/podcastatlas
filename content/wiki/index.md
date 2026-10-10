@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Control Your Sense of Pain & Pleasure](sources/scim4795280888-scim4795280888.md) — Condensed Huberman Lab episode on context-sensitive pain, anticipation and circadian effects, qualified pain tools, dopamine pursuit, and pleasure-pain adaptation.
 - [065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华](sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z.md) — 纸醉金迷FM以珍珑棋局、救童姥、冰窖梦姑和西夏招亲分析虚竹如何用慈悲与诚实把偶然机缘转化为伴随身份损失的复杂收获。
 - [VOL.168从《长安的荔枝》聊吃荔枝真的上火？中医生教你这么吃不上火](sources/vol-168-cong-changan-de-lizhi-liao-chi-lizhi-zhende-shanghuo-zhongyisheng-jiao-ni-zheme-chi-bu-shanghuo-lo2ehf6siv9cpinbcgciqp1ytu_.md) — 这病说来话长以荔枝“上火”为入口，讨论份量、体质、夏季饮食、冷食与中医食疗主张的证据边界。
 - [EP 21: AI Transformation: Beyond the Hype](sources/ep-21-ai-transformation-beyond-the-hype.md) — Data Science With Sam interview with Nan Li on business-led transformation, adoption, contextual data readiness, role-tiered literacy, and sandbox-to-production governance.
