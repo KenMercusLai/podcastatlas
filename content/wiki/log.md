@@ -34649,3 +34649,11 @@ Added source `077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkj
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French
+
+Added source `essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016`; and resynthesized [[DuncanFrench]], [[AdaptationLedProgramming]], and [[MetabolicFlexibility]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: training, recovery, fuel, skill practice, and thermal exposure should be selected by the adaptation, phase, timing, and individual response rather than treated as universal benefits; dense resistance work trades mechanical load against metabolic stress; carbohydrate availability follows high-intensity demand; and cold or heat can help one goal while interfering with another. No settled contradiction was adopted. The full 2021 interview and this Essentials edit are overlapping provenance rather than independent confirmation, while acute hormone and mTOR mechanisms, six-by-ten loading, twice-weekly frequency, targeted carbohydrate, sauna exposure, heat acclimation, and three-month experimentation remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], strength, recovery, temperature-safety, and motor-learning pages were kept closed because the focused source, guest, and two central concepts capture the bounded addition without changing those larger judgments. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,340 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

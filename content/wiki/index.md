@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016.md) — Condensed Huberman Lab interview on adaptation-led resistance training, recovery timing, demand-matched fuel, skill quality, and thermal exposure.
 - [602. Greek Myths: Zeus, King of the Gods (Part 1)](sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364.md) — The Rest Is History on Hesiod, Zeus's divine succession, non-scriptural Greek religion, Indo-European and Near Eastern layers, and civic hero genealogy.
 - [Build Your Ideal Physique | Dr. Bret Contreras](sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181.md) — Huberman Lab interview on recoverable resistance training, progressive overload, exercise rotation, specialization, and glute hypertrophy.
 - [周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出](sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks.md) — 罗永浩与周鸿祎谈企业家公共传播、智能体组织、人在回路、360 的应用层 AI、商业化与网络安全。

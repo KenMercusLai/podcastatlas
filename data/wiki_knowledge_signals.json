@@ -7030,9 +7030,9 @@
       "url": "/wiki/concepts/adaptationasmoralreframing/"
     },
     "AdaptationLedProgramming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2965049301 [SCIM2965049301].md",
@@ -7040,9 +7040,16 @@
           "show": "Huberman Lab",
           "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
           "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        },
+        {
+          "episode_file": "SCIM4597454016 [SCIM4597454016].md",
+          "key": "essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/adaptationledprogramming/"
     },
     "AdaptationReceptionMemory": {
@@ -70362,9 +70369,9 @@
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
     "DuncanFrench": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2965049301 [SCIM2965049301].md",
@@ -70372,9 +70379,16 @@
           "show": "Huberman Lab",
           "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
           "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        },
+        {
+          "episode_file": "SCIM4597454016 [SCIM4597454016].md",
+          "key": "essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/duncanfrench/"
     },
     "Dune": {
@@ -171333,9 +171347,9 @@
       "url": "/wiki/concepts/metaboliccapacitymodel/"
     },
     "MetabolicFlexibility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1818614492 [SCIM1818614492].md",
@@ -171350,9 +171364,16 @@
           "show": "Huberman Lab",
           "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
           "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        },
+        {
+          "episode_file": "SCIM4597454016 [SCIM4597454016].md",
+          "key": "essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
