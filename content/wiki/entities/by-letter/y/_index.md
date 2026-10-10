@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13024
+wiki_total_pages: 13027
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "YeJunjian"
     title: "叶君健 / Ye Junjian"
     url: "/wiki/entities/yejunjian/"
+  - key: "YeGuofu"
+    title: "叶国富 / Ye Guofu"
+    url: "/wiki/entities/yeguofu/"
   - key: "YevgeniaSheCameFromMariupol"
     title: "叶弗根尼亚 / Yevgenia"
     url: "/wiki/entities/yevgeniashecamefrommariupol/"
@@ -896,6 +899,9 @@ wiki_pages:
   - key: "YongningAncientCity"
     title: "永宁古城 / Yongning Ancient City"
     url: "/wiki/entities/yongningancientcity/"
+  - key: "YonghuiSuperstores"
+    title: "永辉超市 / Yonghui Superstores"
+    url: "/wiki/entities/yonghuisuperstores/"
   - key: "Yangmatou"
     title: "洋码头 / Yangmatou"
     url: "/wiki/entities/yangmatou/"

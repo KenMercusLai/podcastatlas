@@ -31512,6 +31512,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/bronzeinscriptionposterity/"
     },
+    "BrowseLedPhysicalRetail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/browseledphysicalretail/"
+    },
     "BrowserAsInternetUnlock": {
       "episode_count": 2,
       "show_count": 2,
@@ -127204,9 +127220,9 @@
       "url": "/wiki/concepts/interestbasednegotiation/"
     },
     "InterestConsumptionRetail": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
@@ -127214,9 +127230,16 @@
           "show": "声动早咖啡",
           "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
           "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        },
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/interestconsumptionretail/"
     },
     "InterestEmbeddedPoliticalBrokerage": {
@@ -156098,6 +156121,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/longformconversationemergence/"
     },
+    "LongHorizonIPPortfolioBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/longhorizonipportfoliobuilding/"
+    },
     "LongHorizonKnowledgeStewardship": {
       "episode_count": 1,
       "show_count": 1,
@@ -172562,9 +172601,9 @@
       "url": "/wiki/entities/minimax/"
     },
     "Miniso": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
@@ -172572,9 +172611,16 @@
           "show": "声动早咖啡",
           "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
           "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        },
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/miniso/"
     },
     "MinisterialDignityProtection": {
@@ -190570,6 +190616,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/pangdegonglatehan/"
     },
+    "PangDongLai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/pangdonglai/"
+    },
     "PangMengEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -203791,6 +203853,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/productcategoryvelocity/"
+    },
+    "ProductLedSupermarketTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/productledsupermarkettransformation/"
     },
     "ProductLiabilityFederalPreemption": {
       "episode_count": 1,
@@ -276834,6 +276912,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/yeerniang/"
     },
+    "YeGuofu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/yeguofu/"
+    },
     "YeLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -277971,6 +278065,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/yonglambert/"
+    },
+    "YonghuiSuperstores": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltdPlF6Zr1aGmhHbOPqptuTVr-ng [ltdPlF6Zr1aGmhHbOPqptuTVr-ng].md",
+          "key": "ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng",
+          "show": "罗永浩的十字路口",
+          "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+          "url": "/wiki/sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/yonghuisuperstores/"
     },
     "Yongkang": {
       "episode_count": 1,

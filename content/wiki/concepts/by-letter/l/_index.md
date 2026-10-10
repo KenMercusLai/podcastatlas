@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10189
+wiki_total_pages: 10192
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "LianhengStrategy"
     title: "连横 / Lianheng Strategy"
     url: "/wiki/concepts/lianhengstrategy/"
+  - key: "LongHorizonIPPortfolioBuilding"
+    title: "长期IP组合孵化 / Long-Horizon IP Portfolio Building"
+    url: "/wiki/concepts/longhorizonipportfoliobuilding/"
   - key: "LeaderPersonalExposure"
     title: "领导者轻身涉险 / Leader Personal Exposure"
     url: "/wiki/concepts/leaderpersonalexposure/"

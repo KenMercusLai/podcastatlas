@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10189
+wiki_total_pages: 10192
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2633,6 +2633,9 @@ wiki_pages:
   - key: "PublicRecommendationPrivateFavorBoundary"
     title: "举贤不立私恩 / Public Recommendation Private Favor Boundary"
     url: "/wiki/concepts/publicrecommendationprivatefavorboundary/"
+  - key: "ProductLedSupermarketTransformation"
+    title: "产品主导型超市转型 / Product-Led Supermarket Transformation"
+    url: "/wiki/concepts/productledsupermarkettransformation/"
   - key: "PseudoHistoryConspiracy"
     title: "伪史论 / Pseudo-History Conspiracy"
     url: "/wiki/concepts/pseudohistoryconspiracy/"

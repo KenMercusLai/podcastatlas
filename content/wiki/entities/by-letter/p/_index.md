@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13024
+wiki_total_pages: 13027
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1358,6 +1358,9 @@ wiki_pages:
   - key: "PenicillinBand"
     title: "盘尼西林乐队 / Penicillin"
     url: "/wiki/entities/penicillinband/"
+  - key: "PangDongLai"
+    title: "胖东来 / Pang Dong Lai"
+    url: "/wiki/entities/pangdonglai/"
   - key: "PiedPiperOfHamelin"
     title: "花衣魔笛手 / The Pied Piper of Hamelin"
     url: "/wiki/entities/piedpiperofhamelin/"
