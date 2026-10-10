@@ -8574,6 +8574,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AICommitmentEvidence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AICommunicationAbility": [
     {
       "key": "technology",
@@ -42803,6 +42810,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HardwareSoftwareIterationAsymmetry": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HardwareTalentSpillover": [
@@ -79766,6 +79780,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "SoftwareFounderAutomotiveTransition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SoftwareMaintenanceRevenueCompression": [
     {
       "key": "technology",
@@ -88473,6 +88499,13 @@
     }
   ],
   "UCSD": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "UCWeb": [
     {
       "key": "technology",
       "label": "Technology",
@@ -102436,6 +102469,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lo0pfirl4khc0jzj57kgbx7wsq49": [

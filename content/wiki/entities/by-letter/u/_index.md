@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13102
+wiki_total_pages: 13103
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "UCSD"
     title: "UCSD"
     url: "/wiki/entities/ucsd/"
+  - key: "UCWeb"
+    title: "UCWeb / UC浏览器"
+    url: "/wiki/entities/ucweb/"
   - key: "UEFA"
     title: "UEFA"
     url: "/wiki/entities/uefa/"

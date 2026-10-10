@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10271
+wiki_total_pages: 10274
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HardwareSoftwareIterationAsymmetry"
+    title: "Hardware–Software Iteration Asymmetry / 软硬件迭代不对称"
+    url: "/wiki/concepts/hardwaresoftwareiterationasymmetry/"
   - key: "HarediConscription"
     title: "Haredi Conscription"
     url: "/wiki/concepts/harediconscription/"

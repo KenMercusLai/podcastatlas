@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10271
+wiki_total_pages: 10274
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1391,6 +1391,9 @@ wiki_pages:
   - key: "SoftwareEatingTheWorldThesis"
     title: "Software Eating the World Thesis"
     url: "/wiki/concepts/softwareeatingtheworldthesis/"
+  - key: "SoftwareFounderAutomotiveTransition"
+    title: "Software Founder Automotive Transition / 软件创始人跨界造车"
+    url: "/wiki/concepts/softwarefounderautomotivetransition/"
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"

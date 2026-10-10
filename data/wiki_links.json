@@ -4915,6 +4915,10 @@
     "title": "AI Commercialization Pressure",
     "url": "/wiki/concepts/aicommercializationpressure/"
   },
+  "AICommitmentEvidence": {
+    "title": "AI Commitment Evidence / AI重视证据",
+    "url": "/wiki/concepts/aicommitmentevidence/"
+  },
   "AICommunicationAbility": {
     "title": "AI Communication Ability",
     "url": "/wiki/concepts/aicommunicationability/"
@@ -39270,6 +39274,10 @@
   "HardwarePrototypeToProductionGap": {
     "title": "Hardware Prototype-to-Production Gap / 硬件原型到量产鸿沟",
     "url": "/wiki/concepts/hardwareprototypetoproductiongap/"
+  },
+  "HardwareSoftwareIterationAsymmetry": {
+    "title": "Hardware–Software Iteration Asymmetry / 软硬件迭代不对称",
+    "url": "/wiki/concepts/hardwaresoftwareiterationasymmetry/"
   },
   "HardwareTalentSpillover": {
     "title": "Hardware Talent Spillover",
@@ -78991,6 +78999,10 @@
     "title": "Software Eating the World Thesis",
     "url": "/wiki/concepts/softwareeatingtheworldthesis/"
   },
+  "SoftwareFounderAutomotiveTransition": {
+    "title": "Software Founder Automotive Transition / 软件创始人跨界造车",
+    "url": "/wiki/concepts/softwarefounderautomotivetransition/"
+  },
   "SoftwareMaintenanceRevenueCompression": {
     "title": "Software Maintenance Revenue Compression",
     "url": "/wiki/concepts/softwaremaintenancerevenuecompression/"
@@ -86750,6 +86762,10 @@
   "UCSD": {
     "title": "UCSD",
     "url": "/wiki/entities/ucsd/"
+  },
+  "UCWeb": {
+    "title": "UCWeb / UC浏览器",
+    "url": "/wiki/entities/ucweb/"
   },
   "UDropInn": {
     "title": "U Drop Inn",
@@ -101398,6 +101414,10 @@
   "ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur": {
     "title": "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？",
     "url": "/wiki/sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur/"
+  },
+  "lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak": {
+    "title": "何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事",
+    "url": "/wiki/sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak/"
   },
   "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm": {
     "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",

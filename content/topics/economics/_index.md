@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2236
+topic_total_pages: 2238
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2821,6 +2821,9 @@ topic_concepts:
   - key: "SoftwareCreationBarbell"
     title: "Software Creation Barbell"
     url: "/wiki/concepts/softwarecreationbarbell/"
+  - key: "SoftwareFounderAutomotiveTransition"
+    title: "Software Founder Automotive Transition / 软件创始人跨界造车"
+    url: "/wiki/concepts/softwarefounderautomotivetransition/"
   - key: "SouthFloridaTechMigration"
     title: "South Florida Tech Migration"
     url: "/wiki/concepts/southfloridatechmigration/"
@@ -6663,6 +6666,9 @@ topic_sources:
   - key: "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr"
     title: "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家"
     url: "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+  - key: "lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak"
+    title: "何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事"
+    url: "/wiki/sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak/"
   - key: "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun"
     title: "别在国内卷了，去美国看看只要产品好就有人付费的市场"
     url: "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"

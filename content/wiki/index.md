@@ -4440,6 +4440,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 - [EP 24: Redefining Data Science in the Generative AI Era](sources/ep-24-redefining-data-science-in-the-generative-ai-era.md) — Data Science With Sam interview with Claire Lungo on durable data-science foundations, problem-led model choice, domain-aware prompting, application auditability, and statistical evaluation.
 - [Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277.md) — Condensed Huberman Lab episode on calorie balance, circadian eating-window consistency, physiological fasting state, post-meal movement, and individualized safety boundaries.
+- [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
 
 ## Entities
 - [Battle of the Frontiers (1914)](entities/BattleOfTheFrontiers1914.md) — Failed French opening campaign whose losses forced retreat and strategic reassessment before the Marne.
@@ -17607,6 +17608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oskar Potiorek](entities/OskarPotiorek.md) — Austro-Hungarian commander whose repeated Serbian invasions joined failed accountability to operational overreach and mass loss.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
 - [Claire Lungo](entities/ClaireLungo.md) — Data scientist connecting statistics and ML foundations to model choice, domain-aware prompting, application auditability, and disciplined GenAI evaluation.
+- [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
 - [Offensive Doctrine-Firepower Mismatch](concepts/OffensiveDoctrineFirepowerMismatch.md) — Failure produced when attack-centered assumptions do not fit reconnaissance, artillery, machine guns, and prepared defense.
@@ -27958,5 +27960,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Tannenberg (1914)](concepts/BattleOfTannenberg1914.md) — German encirclement in East Prussia whose operational success created a durable command legend and political memory.
 - [Generative AI Application Auditability](concepts/GenerativeAIApplicationAuditability.md) — Traceability of inputs, outputs, routing, data steps, retrieval, and model calls around a nondeterministic AI application.
 - [Generative AI Evaluation Discipline](concepts/GenerativeAIEvaluationDiscipline.md) — Use of hypotheses, representative datasets, repeatable experiments, and metrics to evaluate probabilistic systems beyond selected examples.
+- [Hardware–Software Iteration Asymmetry / 软硬件迭代不对称](concepts/HardwareSoftwareIterationAsymmetry.md) — 物理产品在设计、供应链、量产与交付累积后，比普通软件更难、更贵地纠正方向和质量错误。
+- [Software Founder Automotive Transition / 软件创始人跨界造车](concepts/SoftwareFounderAutomotiveTransition.md) — 软件创业者进入汽车行业时，把产品直觉与资本带入制造、质量、安全、工业设计和长期研发的新操作系统。
+- [AI Commitment Evidence / AI重视证据](concepts/AICommitmentEvidence.md) — 以时间、资本、人才、流程、产品整合和净结果，而非口号，判断组织是否真正重视AI。
 
 ## Syntheses

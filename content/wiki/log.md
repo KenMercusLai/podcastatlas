@@ -34837,3 +34837,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事
+
+Added source `lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak`; created [[UCWeb]], [[HardwareSoftwareIterationAsymmetry]], [[SoftwareFounderAutomotiveTransition]], and [[AICommitmentEvidence]]; resynthesized [[HeXiaopeng]], [[XPeng]], and [[FounderOperationalReset]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: He Xiaopeng's UC-to-XPeng path shows that user-led software discovery, physical-product correction cost, frontline information, industrial design, sustained R&D economics, and process verification become one operating system in automotive and physical AI. No settled contradiction was adopted. R&D thresholds, compute, autonomy and product timelines, organization-change scope, sales comparisons, AI-coding percentages, and AGI-risk forecasts remain source-scoped founder claims. Broad [[LuoYonghao]], [[LuoyonghaosCrossroads]], [[PhysicalAI]], [[HumanoidRobotCommercialization]], and [[AutonomousDrivingDataFlywheel]] pages were kept closed because the focused source and updated pages capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,364 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

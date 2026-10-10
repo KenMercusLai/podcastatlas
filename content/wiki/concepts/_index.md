@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10271
+wiki_total_pages: 10274
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "AICommercializationPressure"
     title: "AI Commercialization Pressure"
     url: "/wiki/concepts/aicommercializationpressure/"
+  - key: "AICommitmentEvidence"
+    title: "AI Commitment Evidence / AI重视证据"
+    url: "/wiki/concepts/aicommitmentevidence/"
   - key: "AICommunicationAbility"
     title: "AI Communication Ability"
     url: "/wiki/concepts/aicommunicationability/"

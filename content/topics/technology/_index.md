@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3442
+topic_total_pages: 3447
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -292,6 +292,9 @@ topic_concepts:
   - key: "AICommercializationPressure"
     title: "AI Commercialization Pressure"
     url: "/wiki/concepts/aicommercializationpressure/"
+  - key: "AICommitmentEvidence"
+    title: "AI Commitment Evidence / AI重视证据"
+    url: "/wiki/concepts/aicommitmentevidence/"
   - key: "AICommunicationAbility"
     title: "AI Communication Ability"
     url: "/wiki/concepts/aicommunicationability/"
@@ -2485,6 +2488,9 @@ topic_concepts:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HardwareSoftwareIterationAsymmetry"
+    title: "Hardware–Software Iteration Asymmetry / 软硬件迭代不对称"
+    url: "/wiki/concepts/hardwaresoftwareiterationasymmetry/"
   - key: "HarnessEngineering"
     title: "Harness Engineering"
     url: "/wiki/concepts/harnessengineering/"
@@ -4174,6 +4180,9 @@ topic_concepts:
   - key: "SoftwareEatingTheWorldThesis"
     title: "Software Eating the World Thesis"
     url: "/wiki/concepts/softwareeatingtheworldthesis/"
+  - key: "SoftwareFounderAutomotiveTransition"
+    title: "Software Founder Automotive Transition / 软件创始人跨界造车"
+    url: "/wiki/concepts/softwarefounderautomotivetransition/"
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"
@@ -7922,6 +7931,9 @@ topic_entities:
   - key: "UCSD"
     title: "UCSD"
     url: "/wiki/entities/ucsd/"
+  - key: "UCWeb"
+    title: "UCWeb / UC浏览器"
+    url: "/wiki/entities/ucweb/"
   - key: "UnconventionalAI"
     title: "Unconventional AI"
     url: "/wiki/entities/unconventionalai/"
@@ -10110,6 +10122,9 @@ topic_sources:
   - key: "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2"
     title: "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert"
     url: "/wiki/sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2/"
+  - key: "lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak"
+    title: "何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事"
+    url: "/wiki/sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak/"
   - key: "jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf"
     title: "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO"
     url: "/wiki/sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf/"
