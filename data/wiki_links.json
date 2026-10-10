@@ -3683,6 +3683,10 @@
     "title": "58. The World Cup of Gods - Part 1",
     "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
   },
+  "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252": {
+    "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+    "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+  },
   "585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391": {
     "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
     "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
@@ -12662,6 +12666,10 @@
   "BattleOfPhilippi": {
     "title": "Battle of Philippi / 腓立比战役",
     "url": "/wiki/entities/battleofphilippi/"
+  },
+  "BattleOfPinkie": {
+    "title": "Battle of Pinkie",
+    "url": "/wiki/entities/battleofpinkie/"
   },
   "BattleOfPoitiers": {
     "title": "Battle of Poitiers",
@@ -45583,6 +45591,10 @@
     "title": "James Hacker / Jim Hacker / 詹姆斯·哈克",
     "url": "/wiki/entities/jameshacker/"
   },
+  "JamesHamiltonEarlOfArran": {
+    "title": "James Hamilton / Earl of Arran",
+    "url": "/wiki/entities/jameshamiltonearlofarran/"
+  },
   "JamesHepburnEarlOfBothwell": {
     "title": "James Hepburn / Earl of Bothwell",
     "url": "/wiki/entities/jameshepburnearlofbothwell/"
@@ -45642,6 +45654,10 @@
   "JamesVIAndI": {
     "title": "James VI and I",
     "url": "/wiki/entities/jamesviandi/"
+  },
+  "JamesVOfScotland": {
+    "title": "James V of Scotland",
+    "url": "/wiki/entities/jamesvofscotland/"
   },
   "JamieSiminoff": {
     "title": "Jamie Siminoff",
@@ -56950,6 +56966,10 @@
   "MatthewRoss": {
     "title": "Matthew Ross",
     "url": "/wiki/entities/matthewross/"
+  },
+  "MatthewStewartEarlOfLennox": {
+    "title": "Matthew Stewart / Earl of Lennox",
+    "url": "/wiki/entities/matthewstewartearloflennox/"
   },
   "MatthewWalker": {
     "title": "Matthew Walker",
@@ -74511,6 +74531,10 @@
     "title": "Claude Joseph Rouget de Lisle",
     "url": "/wiki/entities/rougetdelisle/"
   },
+  "RoughWooing": {
+    "title": "Rough Wooing",
+    "url": "/wiki/entities/roughwooing/"
+  },
   "RoundCityOfBaghdad": {
     "title": "Round City of Baghdad",
     "url": "/wiki/concepts/roundcityofbaghdad/"
@@ -86542,6 +86566,10 @@
   "TreatyOfEdinburgh": {
     "title": "Treaty of Edinburgh",
     "url": "/wiki/entities/treatyofedinburgh/"
+  },
+  "TreatyOfGreenwich1543": {
+    "title": "Treaty of Greenwich (1543)",
+    "url": "/wiki/entities/treatyofgreenwich1543/"
   },
   "TreatyOfNonsuch": {
     "title": "Treaty of Nonsuch",

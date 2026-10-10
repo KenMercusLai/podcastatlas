@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 687,
-      "topic_matched_source_note_count": 644,
+      "source_note_count": 688,
+      "topic_matched_source_note_count": 645,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 633
+          "source_note_count": 634
         },
         {
           "key": "culture",
@@ -1011,18 +1011,18 @@
           "episode_count": 12
         },
         {
+          "key": "MaryQueenOfScots",
+          "title": "Mary, Queen of Scots",
+          "url": "/wiki/entities/maryqueenofscots/",
+          "kind": "person",
+          "episode_count": 12
+        },
+        {
           "key": "MaximilienRobespierre",
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
           "episode_count": 12
-        },
-        {
-          "key": "MaryQueenOfScots",
-          "title": "Mary, Queen of Scots",
-          "url": "/wiki/entities/maryqueenofscots/",
-          "kind": "person",
-          "episode_count": 11
         },
         {
           "key": "KaiserWilhelmII",

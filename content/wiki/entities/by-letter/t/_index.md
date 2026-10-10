@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13143
+wiki_total_pages: 13149
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "TreatyOfEdinburgh"
     title: "Treaty of Edinburgh"
     url: "/wiki/entities/treatyofedinburgh/"
+  - key: "TreatyOfGreenwich1543"
+    title: "Treaty of Greenwich (1543)"
+    url: "/wiki/entities/treatyofgreenwich1543/"
   - key: "TreatyOfNonsuch"
     title: "Treaty of Nonsuch"
     url: "/wiki/entities/treatyofnonsuch/"

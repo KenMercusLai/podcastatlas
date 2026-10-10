@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13143
+wiki_total_pages: 13149
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "BattleOfPhilippi"
     title: "Battle of Philippi / 腓立比战役"
     url: "/wiki/entities/battleofphilippi/"
+  - key: "BattleOfPinkie"
+    title: "Battle of Pinkie"
+    url: "/wiki/entities/battleofpinkie/"
   - key: "BattleOfPoitiers"
     title: "Battle of Poitiers"
     url: "/wiki/entities/battleofpoitiers/"

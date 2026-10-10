@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13143
+wiki_total_pages: 13149
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "JamesHacker"
     title: "James Hacker / Jim Hacker / 詹姆斯·哈克"
     url: "/wiki/entities/jameshacker/"
+  - key: "JamesHamiltonEarlOfArran"
+    title: "James Hamilton / Earl of Arran"
+    url: "/wiki/entities/jameshamiltonearlofarran/"
   - key: "JamesHepburnEarlOfBothwell"
     title: "James Hepburn / Earl of Bothwell"
     url: "/wiki/entities/jameshepburnearlofbothwell/"
@@ -263,6 +266,9 @@ wiki_pages:
   - key: "JamesStewartEarlOfMoray"
     title: "James Stewart / Earl of Moray"
     url: "/wiki/entities/jamesstewartearlofmoray/"
+  - key: "JamesVOfScotland"
+    title: "James V of Scotland"
+    url: "/wiki/entities/jamesvofscotland/"
   - key: "JamesVIAndI"
     title: "James VI and I"
     url: "/wiki/entities/jamesviandi/"

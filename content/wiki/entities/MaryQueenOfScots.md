@@ -14,6 +14,7 @@ sources:
   - 587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933
   - 586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247
   - 585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391
+  - 584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -22,11 +23,15 @@ last_updated: 2026-10-11
 
 ## Overview
 
-Mary, Queen of Scots is the Scottish sovereign formed at the French court, widowed into a contested Scottish return, and later deposed into English captivity. Her life joins failed Franco-British dynastic ambition, Protestant revolution, uncertain criminal guilt, failed political judgment, succession danger, conspiracy evidence, royal-execution legitimacy, and political theatre.
+Mary, Queen of Scots is the Scottish sovereign whose infant crown became the object of English coercion and French protection before she was formed at the French court, widowed into a contested Scottish return, and later deposed into English captivity. Her life joins Anglo-French rivalry, failed dynastic union, Protestant revolution, uncertain criminal guilt, failed political judgment, succession danger, conspiracy evidence, royal-execution legitimacy, and political theatre.
 
 ## Current Profile
 
-Mary's French formation preceded the security threat she later represented. Sent to France at five, she received a ruler's education, became culturally French, and married [[FrancisII|Francis II]] in 1558. The Guise project attached that marriage to secret claims over Scotland and public arms asserting Mary's Tudor title against [[ElizabethI|Elizabeth I]]. Mary's danger therefore combined blood, Catholic legitimacy, French royal power, and Guise connections before captivity made her an English domestic-security problem.
+Mary's French formation began as the solution to an infant-security crisis. Born days before [[JamesVOfScotland|James V]]'s death, she inherited a kingdom weakened by English victory but still capable of sustaining a regency, coronation, and child monarchy. [[JamesHamiltonEarlOfArran|Arran]] and [[MatthewStewartEarlOfLennox|Lennox]] had rival claims, yet neither displaced her. Her mother secured custody at Stirling and prevented the [[TreatyOfGreenwich1543|Treaty of Greenwich]] from transferring Mary into an English marriage project.
+
+The resulting [[RoughWooing|Rough Wooing]] made Mary's body the object of war. English destruction and victory at [[BattleOfPinkie|Pinkie]] failed to force the Edward match; instead they strengthened the French alternative. [[HenryIIOfFrance|Henry II]]'s intervention produced Mary's betrothal to the Dauphin and removal to France in 1548. Her cultural Frenchness was therefore built on a prior Scottish choice among coercive English union, French protection, and internal confessional division.
+
+Sent to France at five, Mary received a ruler's education, became culturally French, and married [[FrancisII|Francis II]] in 1558. The Guise project attached that marriage to secret claims over Scotland and public arms asserting Mary's Tudor title against [[ElizabethI|Elizabeth I]]. Mary's danger therefore combined blood, Catholic legitimacy, French royal power, and Guise connections before captivity made her an English domestic-security problem.
 
 The Scottish revolution destroyed that first future. [[MaryOfGuise|Mary of Guise]]'s regency, French garrisons, Protestant organization under [[JohnKnox|John Knox]], and English intervention converged in the [[TreatyOfEdinburgh|Treaty of Edinburgh]]. Francis's death then removed Mary's French crown. Her agreement with [[JamesStewartEarlOfMoray|James Stewart]] accepted the Reformed Church while preserving private Mass, allowing return without settling her English claim or the conflict between Catholic monarchy and Protestant political power.
 
@@ -50,17 +55,19 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 
 ## Key Characteristics
 
+- Infant sovereign whose custody and marriage made Scottish succession, English coercion, French protection, and religious alignment one strategic field before her French education began.
 - French-formed Catholic dynastic alternative whose education, marriage, Guise sponsorship, and English ambition made Scotland, France, and the succession one strategic field before captivity converted her into an English domestic-security problem.
 - Charismatic returning sovereign who built public popularity but struggled to convert it into sustained council government or confessional authority.
 - Reigning queen whose armed victory in the Chaseabout Raid and reversal of the Rizzio coup show substantial crisis agency before her later collapse.
 - Ruler whose probable ignorance of Darnley's murder can coexist with catastrophic failure to investigate and distance herself from its chief suspect.
 - Captive claimant whose forced abdication, failed restoration, and disputed documentary case created legal-political limbo.
-- Focal point joining aristocratic marriage, rebellion, papal authority, foreign invasion, and intelligence work.
 - Anointed political actor whose status obstructed easy execution and whose responsibility is clearer in Babington evidence than in Darnley's murder or every earlier plot.
 
 ## Evidence
 
 - French formation and first marriage: [[585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391]] follows Mary's education, cultural assimilation, marriage to Francis, secret Scottish terms, and asserted English arms.
+- Infant succession and English marriage pressure: [[584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252]] follows James V's death, Mary's coronation, rival claimants, the Treaty of Greenwich, and Mary of Guise's protection of her custody.
+- War and removal to France: [[584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252]] connects the Rough Wooing, Pinkie, French intervention, betrothal, and Mary's 1548 departure.
 - Revolutionary defeat and return bargain: [[585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391]] connects the Scottish Protestant revolt, English intervention, Treaty of Edinburgh, Francis's death, and Mary's agreement with James Stewart.
 - Pre-captivity claim: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] links Mary's French queenship and arms to Cecil's Scottish intervention, the Treaty of Edinburgh, her return to Scotland, and the rejected Dudley match.
 - Darnley marriage and armed rule: [[587-mary-queen-of-scots-murder-most-foul-part-4-glt2035316933]] links the dynastic match, Moray's rebellion, Bothwell's recall, and Mary's Chaseabout victory.
@@ -77,13 +84,13 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 
 ## Qualifications
 
-Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. The French-formation source's secret terms, language preferences, popular Scottish religious balance, private motives, and judgments about the Guises or Mary's delay remain source-scoped. The return episode's council statistics, attribution of religious policy primarily to English ambition, interpretation of the Gordon affair, and judgments about homesickness, irresponsibility, attraction, and private motive remain source-scoped. Its reported declaration against Elizabeth, later miscarriage deception, and other readings of private intent also remain source-scoped. The murder reconstruction makes her ignorance probable rather than certain; Craigmillar language, Moray's absence, intelligence reports, confessions, witness testimony, and her conduct remain interpretive evidence. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
+Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. Her infancy source's dialogue, casualty totals, noble motives, Protestant commitments, and interpretation of execution symbolism remain source-scoped. The French-formation source's secret terms, language preferences, popular Scottish religious balance, private motives, and judgments about the Guises or Mary's delay remain source-scoped. The return episode's council statistics, attribution of religious policy primarily to English ambition, interpretation of the Gordon affair, and judgments about homesickness, irresponsibility, attraction, and private motive remain source-scoped. Its reported declaration against Elizabeth, later miscarriage deception, and other readings of private intent also remain source-scoped. The murder reconstruction makes her ignorance probable rather than certain; Craigmillar language, Moray's absence, intelligence reports, confessions, witness testimony, and her conduct remain interpretive evidence. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
 
 ## What Changed
 
-- Extended the profile back through Mary's French formation, first marriage, and Guise-backed claims to Scotland and England.
-- Reframed the 1561 accommodation as the consequence of Protestant revolution, English intervention, French withdrawal, and widowhood as well as later succession strategy.
-- Clarified that Mary's dynastic threat preceded both her Scottish reign and English captivity.
+- Extended Mary's profile back to infant succession, coronation, custody politics, and rival regency claims.
+- Reframed the move to France as the outcome of failed English marriage diplomacy, coercive war, Scottish refusal, and French intervention.
+- Separated Scottish military defeat at Pinkie from English success in attaining the war's dynastic objective.
 
 ## Relationships
 
@@ -105,6 +112,11 @@ Mary's threat was more than symbolic, but association does not prove equal invol
 - [[MonarchicalDepositionLegitimacy]] - earlier norm conflict created by forced abdication and rival regency.
 - [[JohnKnox|John Knox]] - Protestant reformer who argued that divine obligation could justify resistance to her rule.
 - [[MaryOfGuise|Mary of Guise]] - mother and regent whose defeat ended the French-backed Scottish order Mary inherited.
+- [[JamesVOfScotland|James V of Scotland]] - father whose death made Mary queen in infancy.
+- [[JamesHamiltonEarlOfArran|James Hamilton / Earl of Arran]] - regent and heir apparent during her minority.
+- [[TreatyOfGreenwich1543|Treaty of Greenwich]] - failed English marriage settlement centered on her custody and future crown.
+- [[RoughWooing|Rough Wooing]] - coercive war intended to force her English marriage.
+- [[BattleOfPinkie|Battle of Pinkie]] - Scottish defeat that accelerated French intervention and her removal abroad.
 - [[FrancisII|Francis II]] - first husband whose accession made Mary Queen of France and whose death ended that future.
 - [[TreatyOfEdinburgh|Treaty of Edinburgh]] - settlement Mary refused to ratify because it required surrender of her English claim.
 - [[ScottishReformationRoyalResistance]] - framework explaining the religious limit asserted against her monarchy.

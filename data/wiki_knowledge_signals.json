@@ -25418,6 +25418,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/battleofphilippi/"
     },
+    "BattleOfPinkie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/battleofpinkie/"
+    },
     "BattleOfPoitiers": {
       "episode_count": 1,
       "show_count": 1,
@@ -94349,9 +94365,9 @@
       "url": "/wiki/entities/francoamericanalliance1778/"
     },
     "FrancoScottishAlliance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -94359,6 +94375,13 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
         }
       ],
       "updated": "2026-09-04",
@@ -114815,6 +114838,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/henryiiofengland/"
     },
+    "HenryIIOfFrance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/henryiioffrance/"
+    },
     "HenryIOfEngland": {
       "episode_count": 1,
       "show_count": 1,
@@ -134427,6 +134473,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jamesearlray/"
     },
+    "JamesHamiltonEarlOfArran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jameshamiltonearlofarran/"
+    },
     "JamesHepburnEarlOfBothwell": {
       "episode_count": 3,
       "show_count": 1,
@@ -134674,6 +134736,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jamesviandi/"
+    },
+    "JamesVOfScotland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jamesvofscotland/"
     },
     "JamieSiminoff": {
       "episode_count": 4,
@@ -169212,9 +169290,9 @@
       "url": "/wiki/entities/maryofburgundy/"
     },
     "MaryOfGuise": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5612344391 [GLT5612344391].md",
@@ -169222,6 +169300,13 @@
           "show": "The Rest Is History",
           "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
           "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+        },
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
         }
       ],
       "updated": "2026-10-11",
@@ -169299,9 +169384,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -169379,6 +169464,13 @@
           "show": "The Rest Is History",
           "title": "585. Mary, Queen of Scots: The Royal Rivals (Part 2)",
           "url": "/wiki/sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391/"
+        },
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
         }
       ],
       "updated": "2026-10-11",
@@ -170044,6 +170136,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/matthewparker/"
+    },
+    "MatthewStewartEarlOfLennox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/matthewstewartearloflennox/"
     },
     "MatthewWalker": {
       "episode_count": 7,
@@ -223465,6 +223573,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/rougetdelisle/"
     },
+    "RoughWooing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/roughwooing/"
+    },
     "RoundCityOfBaghdad": {
       "episode_count": 1,
       "show_count": 1,
@@ -258933,6 +259057,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/treatyofedinburgh/"
+    },
+    "TreatyOfGreenwich1543": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7723962252 [GLT7723962252].md",
+          "key": "584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252",
+          "show": "The Rest Is History",
+          "title": "584. Mary, Queen of Scots: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/treatyofgreenwich1543/"
     },
     "TreatyOfParis1783": {
       "episode_count": 2,

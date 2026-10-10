@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13143
+wiki_total_pages: 13149
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "MatthewRoss"
     title: "Matthew Ross"
     url: "/wiki/entities/matthewross/"
+  - key: "MatthewStewartEarlOfLennox"
+    title: "Matthew Stewart / Earl of Lennox"
+    url: "/wiki/entities/matthewstewartearloflennox/"
   - key: "MatthewWalker"
     title: "Matthew Walker"
     url: "/wiki/entities/matthewwalker/"

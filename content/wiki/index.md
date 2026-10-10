@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy](sources/scim3176341770-scim3176341770.md) — Huberman Lab interview on kratom product forms, dependence, 7-hydroxymitragynine, respiratory and interaction risks, natural-product pharmacology, and regulatory uncertainty.
 - [VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击](sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev.md) — 这病说来话长 episode on Chinese oncology visibility, clinical benefit, payment capacity, biotech partnerships, execution speed, and the remaining original-innovation gap.
+- [584. Mary, Queen of Scots: Birth of a Legend (Part 1)](sources/584-mary-queen-of-scots-birth-of-a-legend-part-1-glt7723962252.md) — The Rest Is History on Mary's infant accession, the Treaty of Greenwich, the Rough Wooing, Pinkie, and the French intervention that carried her abroad.
 - [585. Mary, Queen of Scots: The Royal Rivals (Part 2)](sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391.md) — The Rest Is History on Mary's French formation, Guise dynastic ambition, the Scottish Protestant revolt, the Treaty of Edinburgh, and her constrained return.
 - [586. Mary, Queen of Scots: The Battle for Scotland (Part 3)](sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247.md) — The Rest Is History on Mary's return, Knox's resistance theory, succession-driven Protestant accommodation, and the dynastic and constitutional risks of Darnley.
 - [Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah](sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431.md) — Huberman Lab interview on gene and hormone organization of sex-linked neural circuits, adult reproductive-state plasticity, social behavior, pair bonding, and mouse-to-human evidence boundaries.
@@ -4481,6 +4482,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis II](entities/FrancisII.md) — Mary's first husband and brief French king whose death ended her French royal future.
 - [Treaty of Edinburgh](entities/TreatyOfEdinburgh.md) — 1560 settlement ending the French military position in Scotland and recognizing Elizabeth against Mary's claim.
 - [John Knox](entities/JohnKnox.md) — Scottish Protestant reformer whose resistance theory challenged Mary's Catholic royal authority.
+- [James V of Scotland](entities/JamesVOfScotland.md) — Scottish king whose death days after Mary's birth produced an infant royal succession.
+- [James Hamilton / Earl of Arran](entities/JamesHamiltonEarlOfArran.md) — Heir apparent and regent who signed but could not enforce the English marriage settlement.
+- [Matthew Stewart / Earl of Lennox](entities/MatthewStewartEarlOfLennox.md) — Rival Scottish claimant whose English allegiance and Tudor marriage created a later cross-border dynastic line.
+- [Treaty of Greenwich (1543)](entities/TreatyOfGreenwich1543.md) — Failed Anglo-Scottish agreement for Mary's marriage to Edward and a future crown union.
+- [Rough Wooing](entities/RoughWooing.md) — English coercive marriage war whose destruction strengthened much Scottish resistance and the French alternative.
+- [Battle of Pinkie](entities/BattleOfPinkie.md) — Catastrophic Scottish defeat that accelerated French intervention without delivering Mary to England.
 - [Nirao Shah](entities/NiraoShah.md) — Stanford neuroscientist studying gene, hormone, and circuit mechanisms of sex-linked innate social behavior.
 - [David Rizzio](entities/DavidRizzio.md) — Mary's Italian Catholic secretary, scapegoated and murdered as the vulnerable center of a noble coup.
 - [Chaseabout Raid](entities/ChaseaboutRaid.md) — Mary's 1565 armed pursuit that forced Moray and allied Protestant lords into English exile.
@@ -8013,7 +8020,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aquitaine](entities/Aquitaine.md) — Duchy whose confiscation opens war and whose Brétigny enlargement exposes contested sovereignty, taxation, and allegiance.
 - [Capetian Dynasty](entities/CapetianDynasty.md) — French dynasty whose long stable succession fails after Philip IV's sons.
 - [Valois Dynasty](entities/ValoisDynasty.md) — Collateral French royal line selected through Philip VI after direct Capetian male failure.
-- [Franco-Scottish Alliance](entities/FrancoScottishAlliance.md) — 1295 alliance mechanism that makes Scotland part of Anglo-French diplomacy.
+- [Franco-Scottish Alliance](entities/FrancoScottishAlliance.md) — Long-running two-front, military, and dynastic relationship giving Scotland an alternative to English coercion.
 - [Hallidon Hill](entities/HallidonHill.md) — Edward III's 1333 Scottish victory whose diplomatic aftermath pulls in France.
 - [Elissa Epel](entities/ElissaEpel.md) — UCSF stress, aging, metabolism, and emotion researcher featured in the Huberman Lab stress-biology episode.
 - [Wim Hof](entities/WimHof.md) — Source-scoped breathwork figure named in Epel's positive-stress and Wim Hof method discussion.
@@ -9510,7 +9517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蒋济 / Jiang Ji (late Han)](entities/JiangJiLateHan.md) — Cao-side official whose intercepted-message deception made a fictitious relief army credible during the Hefei siege.
 - [牛金 / Niu Jin (late Han)](entities/NiuJinLateHan.md) — Cao-side officer surrounded outside Jiangling and extracted by Cao Ren.
 - [陈矫 / Chen Jiao (late Han)](entities/ChenJiaoLateHan.md) — Jiangling witness whose reaction records the morale effect of Cao Ren's battlefield rescue.
-- [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
+- [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Infant Scottish sovereign taken into French protection who later became a Catholic dynastic claimant and English captive.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen whose pre-accession tactics of conformity, delay, and evidentiary caution became tools of sovereign ambiguity.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
 - [William Cecil / Lord Burleigh](entities/WilliamCecil.md) — Elizabeth's senior minister, from secret 1558 succession planning through Protestant administration, intelligence, and legal security statecraft.
@@ -12584,7 +12591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Evariste Galois / 伽罗瓦](entities/EvaristeGalois.md) — Mathematician whose fatal duel is used by episode 78 as a compact case of intellectual life destroyed by honor logic.
 - [Richard Brinsley Sheridan / 谢里丹](entities/RichardBrinsleySheridan.md) — Writer and politician used by episode 78 to show dueling apologies, public humiliation, and renewed conflict.
 - [Julie d'Aubigny / Mademoiselle de Maupin / 莫庞小姐](entities/JulieDAubigny.md) — Opera performer and duelist used by episode 78 to make women visible as actors inside honor violence.
-- [Henry II of France / 亨利二世](entities/HenryIIOfFrance.md) — French king used by episode 78 for tournament danger and the transition from supervised duel to honor-duel culture.
+- [Henry II of France / 亨利二世](entities/HenryIIOfFrance.md) — French king linking tournament danger and formal combat to military and dynastic intervention in Scotland.
 - [Oriana Fallaci / 奥利亚娜·法拉奇](entities/OrianaFallaci.md) — Journalist and writer read through anti-fascist childhood, political interviews, war witness, love, controversy, and freedom as dignity.
 - [《我不相信神话》](entities/WoBuXiangxinShenhua.md) — Fallaci text collection used by episode 77 to preserve her own voice rather than a smooth authorized biography.
 - [Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯](entities/AlexandrosPanagoulis.md) — Greek resistance figure and Fallaci's central love, used by the episode to make refusal and dignity concrete.
