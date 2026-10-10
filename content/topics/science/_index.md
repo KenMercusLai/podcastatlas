@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1508
+topic_total_pages: 1509
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3936,6 +3936,9 @@ topic_sources:
   - key: "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786"
     title: "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+  - key: "essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683"
+    title: "Essentials: Erasing Fears & Traumas Using Modern Neuroscience"
+    url: "/wiki/sources/essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683/"
   - key: "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352"
     title: "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
     url: "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"

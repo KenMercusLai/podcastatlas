@@ -34277,3 +34277,11 @@ Added source `rihc-disneys-legacy-with-bob-iger-glt6989183827`; created [[Shangh
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Erasing Fears & Traumas Using Modern Neuroscience
+
+Added source `essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683`. This Essentials episode condenses the already-ingested full episode [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]], restating distributed threat physiology, one-trial fear learning and generalization, repeated supported recounting, [[FearExtinctionPositiveRelearning]], social support, supervised ketamine- and [[MDMAAssistedPTSDTherapy|MDMA-assisted psychotherapy]], and bounded deliberate arousal. It adds source provenance and an accessible summary rather than independent replication, so stable concept and entity pages were not rewritten and their evidence inventories were not inflated. No settled contradiction was adopted. Threat-circuit, gene-expression, dopamine, assisted-therapy, breathwork, saffron, and inositol claims remain source-scoped, while trauma recall, panic vulnerability, medication, and supplement dosing retain clinical boundaries. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,292 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventory, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

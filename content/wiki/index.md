@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Erasing Fears & Traumas Using Modern Neuroscience](sources/essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683.md) — Condensed Huberman Lab episode on learned threat responses, exposure and narrative work, adaptive relearning, supervised assisted psychotherapy, and deliberate-arousal safety boundaries.
 - [083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1](sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz.md) — 纸醉金迷FM以金庸情感排行、跨作品配对、百花错问答、大战与影视改编，讨论关系适配、反事实角色实验、叙事误导、群像汇流和代际观看记忆。
 - [616. Elizabeth I: The Fall of the Axe (Part 1)](sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740.md) — The Rest Is History on Elizabeth's birth, Tudor male-heir pressure, Anne Boleyn's rise and execution, Mary's demotion, and Elizabeth's resulting illegitimacy.
 - [How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh](sources/scim2057835571-scim2057835571.md) — Huberman Lab interview on audiovisual spatial remapping, saccade-linked ear signals, room acoustics, sensory-motor thought, and deliberate attention environments.
