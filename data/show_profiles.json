@@ -3700,7 +3700,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 209,
+      "source_note_count": 210,
       "topic_matched_source_note_count": 14,
       "topics": [
         {
@@ -3765,16 +3765,16 @@
           "episode_count": 7
         },
         {
-          "key": "WuBinOralDoctor",
-          "title": "吴斌 / Wu Bin (口腔科)",
-          "url": "/wiki/entities/wubinoraldoctor/",
-          "kind": "person",
-          "episode_count": 5
-        },
-        {
           "key": "XiaolongWeightManagementGuest",
           "title": "小龙 / Xiaolong (Weight-Management Guest)",
           "url": "/wiki/entities/xiaolongweightmanagementguest/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
+          "key": "WuBinOralDoctor",
+          "title": "吴斌 / Wu Bin (口腔科)",
+          "url": "/wiki/entities/wubinoraldoctor/",
           "kind": "person",
           "episode_count": 5
         },

@@ -65096,9 +65096,9 @@
       "url": "/wiki/entities/derekabbott/"
     },
     "DermatologicRenewalAndCancerPrevention": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -65120,9 +65120,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Skin Health & Appearance",
           "url": "/wiki/sources/how-to-improve-skin-health-appearance-scim9334288497/"
+        },
+        {
+          "episode_file": "lh3VIv78KXK8IfM7t6TBRtqXxk4H [lh3VIv78KXK8IfM7t6TBRtqXxk4H].md",
+          "key": "vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h",
+          "show": "这病说来话长",
+          "title": "VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙",
+          "url": "/wiki/sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dermatologicrenewalandcancerprevention/"
     },
     "Derry": {
@@ -237214,9 +237221,9 @@
       "url": "/wiki/entities/skims/"
     },
     "SkinBarrierRoutine": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -237238,9 +237245,16 @@
           "show": "这病说来话长",
           "title": "VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密",
           "url": "/wiki/sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j/"
+        },
+        {
+          "episode_file": "lh3VIv78KXK8IfM7t6TBRtqXxk4H [lh3VIv78KXK8IfM7t6TBRtqXxk4H].md",
+          "key": "vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h",
+          "show": "这病说来话长",
+          "title": "VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙",
+          "url": "/wiki/sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/skinbarrierroutine/"
     },
     "SkippingPlyometricProgression": {
@@ -280024,9 +280038,9 @@
       "url": "/wiki/entities/xiaolangoncologysurgeon/"
     },
     "XiaolongWeightManagementGuest": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -280062,6 +280076,13 @@
           "show": "这病说来话长",
           "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
           "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        },
+        {
+          "episode_file": "lh3VIv78KXK8IfM7t6TBRtqXxk4H [lh3VIv78KXK8IfM7t6TBRtqXxk4H].md",
+          "key": "vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h",
+          "show": "这病说来话长",
+          "title": "VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙",
+          "url": "/wiki/sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h/"
         }
       ],
       "updated": "2026-10-11",
@@ -282839,9 +282860,9 @@
       "url": "/wiki/entities/ywladfa/"
     },
     "YaMengDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -282863,9 +282884,16 @@
           "show": "这病说来话长",
           "title": "VOL.130带状疱疹为什么会被妖魔化、年轻化？中西医3科室一集讲懂",
           "url": "/wiki/sources/vol-130-daizhuangpaozhen-weishenme-hui-bei-yaomohua-nianqinghua-zhongxiyi-3-keshi-yiji-jiangdong-ln1yrlokk9bledx-xl5fh_rv-cpi/"
+        },
+        {
+          "episode_file": "lh3VIv78KXK8IfM7t6TBRtqXxk4H [lh3VIv78KXK8IfM7t6TBRtqXxk4H].md",
+          "key": "vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h",
+          "show": "这病说来话长",
+          "title": "VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙",
+          "url": "/wiki/sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/yamengdoctor/"
     },
     "YaaAsantewaa": {

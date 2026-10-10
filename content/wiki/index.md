@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙](sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h.md) — Sponsored 这病说来话长 episode on retinol evidence, whole-formulation selection, gradual tolerance, barrier support, ultraviolet protection, and pregnancy boundaries.
 - [575. The Medici: The Bonfire of the Vanities (Part 4)](sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489.md) — The Rest Is History on the 1494 Medici collapse, Savonarola's informal authority, moral reform, papal conflict, failed ordeal, and execution.
 - [Essentials: How to Control Your Sense of Pain & Pleasure](sources/scim4795280888-scim4795280888.md) — Condensed Huberman Lab episode on context-sensitive pain, anticipation and circadian effects, qualified pain tools, dopamine pursuit, and pleasure-pain adaptation.
 - [065 《天龙八部》之虚竹篇：红颜弹指老，刹那芳华](sources/065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z.md) — 纸醉金迷FM以珍珑棋局、救童姥、冰窖梦姑和西夏招亲分析虚竹如何用慈悲与诚实把偶然机缘转化为伴随身份损失的复杂收获。

@@ -35349,3 +35349,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙
+
+Added source `vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h`; resynthesized [[XiaolongWeightManagementGuest|小龙]], [[YaMengDoctor|亚萌]], [[SkinBarrierRoutine]], and [[DermatologicRenewalAndCancerPrevention]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: retinol belongs in a formulation-and-tolerance hierarchy rather than a concentration contest, while gentle cleansing, moisturizer, gradual introduction, ultraviolet protection, and pregnancy boundaries keep an active skin-care routine from becoming uncontrolled experimentation. No settled contradiction was adopted. The episode's efficacy percentages, comparator results, mechanisms, 21-day schedule, and sponsor-linked stabilization technology remain source-scoped because complete study designs and product data are not supplied. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,428 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

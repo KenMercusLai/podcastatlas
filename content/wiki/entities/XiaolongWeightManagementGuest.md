@@ -8,6 +8,7 @@ sources:
   - vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5
   - vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0
   - vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev
+  - vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 # 小龙 / Xiaolong (Weight-Management Guest)
 
 ## Overview
-小龙 / Xiaolong is a 大物是也 member and recurring guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes about food structure, breakfast routines, training, sleep, weight anxiety, scar-care expectations, and clinical drug-development execution.
+小龙 / Xiaolong is a 大物是也 member and recurring guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes about food structure, breakfast routines, training, sleep, weight anxiety, skin-care product literacy, scar-care expectations, and clinical drug-development execution.
 
 ## Current Profile
 The sources present Xiaolong as a nutrition-interested practitioner rather than as an independently verified clinician. His role is to turn balanced eating and weight management away from shortcut language and toward layered daily practice: start from the controllable breakfast, assess body composition instead of only scale weight, keep staple foods, increase protein, use resistance training, sleep enough, and treat restaurants or reward meals as adjustable contexts.
@@ -28,13 +29,15 @@ VOL.187 adds a dedicated sleep-literacy role shared with [[DabaNiuTeacher|大白
 
 VOL.172 identifies him as entering clinical drug development from a public-health background and describes direct work with investigators and development execution. He explains innovation-versus-generic distinctions, long development timelines, domestic decision speed, patient recruitment, regulatory pathways, and the practical value of overseas partners. This broadens the profile beyond lifestyle translation while remaining source-bounded rather than independently verified employment history.
 
+VOL.167 adds a sponsored skin-care-literacy role. Xiaolong frames retinol selection around mechanism, penetration, formulation stability, delivery, tolerability, and clinical data rather than concentration alone, while warning against rapid-result marketing and product stockpiling. This supports a consumer-translation role, not an independently verified dermatology credential or endorsement of the episode's sponsor-linked claims.
+
 ## Key Characteristics
 - Frames health routines through body composition, energy, mood, sleep, and sustainable habit change rather than one score.
 - Treats breakfast as the easiest anchor for implementing balanced eating across a workday.
 - Gives practical food-choice advice around staple foods, fiber, protein, portion control, takeout, hot pot, and barbecue.
 - Treats exercise, especially resistance training, as central to preserving or increasing muscle during fat loss.
 - Keeps medication and injection-based weight loss inside formal clinical assessment.
-- Warns against scale-only anxiety and translates scar care and sleep hygiene into practical, expectation-aware routines.
+- Warns against single-number thinking and translates scar care, sleep hygiene, and active skin-care use into practical, expectation-aware routines.
 - Connects public-health training with the operational layer of clinical drug development and cross-border partnership.
 
 ## Evidence
@@ -47,13 +50,14 @@ VOL.172 identifies him as entering clinical drug development from a public-healt
 - Scar-care facilitation - [[vol-190-bushi-suoyou-henji-dou-xuyao-like-bei-xiuzheng-gei-shenti-yidian-shijian-ye-gei-ziji-yidian-xinxin-ft-dawushiye-xiaolong-under-ls6p2qys1ytqvelyvmdcpl_39eb5]] has Xiaolong connect incision visibility, desired change, patient expectations, and long-term adherence while leaving clinical treatment claims to Under.
 - Sleep-routine translation - [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]] has him connect stable scheduling, wind-down, written task offloading, and ordinary sleep-environment choices while leaving clinical escalation explicit.
 - Drug-development execution - [[vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev]] has him explain long innovation timelines, domestic decision speed, patient recruitment, regulatory pathways, and why overseas partnership can supply capital and development capacity.
+- Skin-care product literacy - [[vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h]] has him distinguish retinol from retinoic acid and prioritize formulation stability, delivery, tolerability, gradual use, and evidence over label concentration or rapid-result promises.
 
 ## Qualifications
-The wiki has no independent biography for Xiaolong beyond these episode notes. His nutrition, training, sleep, scar-care, public-health, and clinical-development discussion should remain source-scoped; VOL.172 does not independently verify an employer or job title, VOL.187 does not establish a sleep-medicine credential, and VOL.190 does not establish a plastic-surgery or dermatology credential. Medical, investment, and drug-development decisions require qualified professional assessment.
+The wiki has no independent biography for Xiaolong beyond these episode notes. His nutrition, training, sleep, skin-care, scar-care, public-health, and clinical-development discussion should remain source-scoped; VOL.172 does not independently verify an employer or job title, VOL.187 does not establish a sleep-medicine credential, and VOL.167 or VOL.190 does not establish a dermatology or plastic-surgery credential. VOL.167 is sponsored, so its brand-linked formulation and efficacy claims require independent evidence. Medical, investment, and drug-development decisions require qualified professional assessment.
 
 ## What Changed
-- Added VOL.172's public-health background and clinical-development execution perspective.
-- Expanded his profile into trial recruitment, regulatory pathways, and partnership while keeping employment details source-scoped.
+- Added his retinol product-evaluation and gradual-use framing from sponsored VOL.167.
+- Kept its efficacy, formulation, and sponsor-linked claims source-scoped and did not infer a dermatology credential.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as a guest.
@@ -71,3 +75,5 @@ The wiki has no independent biography for Xiaolong beyond these episode notes. H
 - [[ClinicalDevelopmentCapability]] - operational field the source associates with his work.
 - [[ChinaBiotechGlobalization]] - partnership and overseas-development path he treats as enabling rather than inherently negative.
 - [[ChinaInnovativeDrugExecutionOriginalityGap]] - speed-versus-originality boundary his execution examples help define.
+- [[DermatologicRenewalAndCancerPrevention]] - retinoid and formulation-evidence branch he translates for consumers.
+- [[SkinBarrierRoutine]] - gentle-cleansing and moisturization foundation paired with gradual active use.
