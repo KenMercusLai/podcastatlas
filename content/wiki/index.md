@@ -4491,6 +4491,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 - [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
+- [579. The Irish War of Independence: Showdown in London (Part 4)](sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865.md) — The Rest Is History on the Anglo-Irish Treaty negotiations, asymmetric bargaining, dominion status, the oath, partition, and the split that led toward civil war.
+
 ## Entities
 - [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
 - [Yuvika Sharma](entities/YuvikaSharma.md) — Data and AI practitioner and community co-founder connecting bias control, risk-tiered oversight, trust, and representation.
@@ -17720,6 +17722,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [萧峰 / Xiao Feng](entities/XiaoFeng.md) — 在阿紫篇中以阿朱的爱人和阿紫的保护者出现，并明确区分亲属责任与浪漫互惠。
 - [游坦之 / You Tanzhi](entities/YouTanzhi.md) — 家破人亡后把阿紫当作新目标，在持续虐待、献眼与殉情中逐步失去独立方向的《天龙八部》人物。
 - [Henry Wilson](entities/HenryWilson.md) — Irish-born British field marshal and Ulster Unionist MP whose assassination intensified the Four Courts crisis before the Irish Civil War.
+
+- [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
 - [Lifecycle AI Governance](concepts/LifecycleAIGovernance.md) — Integrating accountability, testing, monitoring, and remediation across AI design, deployment, operation, and retirement.

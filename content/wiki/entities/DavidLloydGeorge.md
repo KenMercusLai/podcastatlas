@@ -5,6 +5,7 @@ tags: [person, britain, politics, liberal-party, prime-minister]
 sources:
   - 36-our-greatest-prime-minister-glt9826873277
   - 580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213
+  - 579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -21,14 +22,16 @@ David Lloyd George was a British Liberal chancellor and prime minister whose wel
 
 The same source presents him as brilliant but unprincipled. Peerage sales and a political fund, relationships described as informal bigamy and serious boundary crossing, and later admiration for Hitler and Mussolini make his reputation markedly worse than his policy record alone would predict. The Liberal Party's later split and decline further weakened the organized memory of his achievements.
 
-The Wilson episode adds his Irish-policy role. Lloyd George increasingly treated the War of Independence as requiring political settlement rather than [[HenryWilson|Wilson]]'s preferred military escalation, but after Wilson's murder he blamed the anti-treaty Four Courts garrison on weak evidence and warned [[MichaelCollinsIrishRevolutionary|Michael Collins]] that Britain would remove it unless the provisional government acted. This made him both treaty broker and coercive external constraint in the opening of the [[IrishTreatyCivilWarSplit|Irish Civil War]].
+The treaty-negotiation episode makes his Irish-policy role more specific. Facing reputational damage from British reprisals, American scrutiny, wider imperial anxiety, and dependence on Conservative support, Lloyd George sought a settlement while holding two red lines: Ireland had to remain associated with the empire, and the result had to remain acceptable to Conservatives and Ulster Unionists. He controlled the agenda, isolated delegates in private meetings, used [[ArthurGriffith|Arthur Griffith]]'s informal boundary-commission commitment as leverage, and ended with a peace-or-war deadline. The outcome combined substantial Irish autonomy with an oath, crown relationship, and Northern Ireland's separate position.
+
+The Wilson episode then shows the coercive afterlife of that settlement. Lloyd George increasingly treated the War of Independence as requiring political agreement rather than [[HenryWilson|Wilson]]'s preferred military escalation, but after Wilson's murder he blamed the anti-treaty Four Courts garrison on weak evidence and warned [[MichaelCollinsIrishRevolutionary|Michael Collins]] that Britain would remove it unless the provisional government acted. He therefore appears as both treaty broker and external enforcer during the opening of the [[IrishTreatyCivilWarSplit|Irish Civil War]].
 
 ## Key Characteristics
 
 - Reforming chancellor associated with pensions, progressive taxation, and active government.
 - Important builder of welfare-state foundations before the 1940s.
 - Successful First World War political leader and supporter of naval expansion.
-- Political negotiator who pursued an Irish settlement but used an ultimatum and military threat when the post-treaty order appeared endangered.
+- Highly experienced negotiator who joined coalition and imperial constraints to agenda control, private pressure, deadlines, and threats of renewed war.
 - Charismatic political operator whose methods included peerage sales and off-book finance.
 - Personal conduct presented as exploitative and damaging to retrospective moral judgment.
 - Later attraction to fascist dictators that further compromises his legacy.
@@ -40,16 +43,18 @@ The Wilson episode adds his Irish-policy role. Lloyd George increasingly treated
 - Corruption: [[36-our-greatest-prime-minister-glt9826873277]] describes peerage sales and a retained political fund.
 - Personal and ideological qualification: [[36-our-greatest-prime-minister-glt9826873277]] discusses sexual misconduct and later admiration for Hitler and Mussolini.
 - Public reputation: [[36-our-greatest-prime-minister-glt9826873277]] contrasts large achievements with a “bad man” image and a weakened Liberal constituency.
-- Irish settlement and escalation: [[580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213]] contrasts his political approach with Wilson's military prescription, then follows his weakly evidenced attribution and ultimatum after the assassination.
+- Irish settlement strategy: [[579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865]] grounds his imperial and coalition red lines, procedural control, use of Griffith's commitment, and final peace-or-war pressure.
+- Post-treaty escalation: [[580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213]] contrasts his political approach with Wilson's military prescription, then follows his weakly evidenced attribution and ultimatum after the assassination.
 
 ## Qualifications
 
-These sources cover a reputation tournament and one Irish crisis rather than a complete biography. Judgments about financial corruption, sexual conduct, wartime success, ideological admiration, and the Liberal Party's effect on public memory require fuller specialist evidence and perspectives from affected people. The Wilson episode shows that his post-assassination accusation rested on little evidence and does not establish that the ultimatum alone caused the Four Courts bombardment or civil war.
+These sources cover a reputation tournament and two Irish political crises rather than a complete biography. Judgments about financial corruption, sexual conduct, wartime success, ideological admiration, and the Liberal Party's effect on public memory require fuller specialist evidence and perspectives from affected people. The treaty episode's dramatic framing does not prove Lloyd George could or would have resumed full war, that Irish inexperience alone determined the outcome, or that private pressure invalidated the delegates' choices. The Wilson episode shows that his post-assassination accusation rested on little evidence and does not establish that the ultimatum alone caused the Four Courts bombardment or civil war.
 
 ## What Changed
 
 - Created a profile centered on the gap between large policy achievements and severely damaged moral reputation.
 - Added the tension between negotiated Irish settlement and coercive post-assassination pressure on the provisional government.
+- Reframed the treaty settlement as constrained but deliberately asymmetric bargaining rather than an unspecified turn toward negotiation.
 
 ## Relationships
 
@@ -60,4 +65,6 @@ These sources cover a reputation tournament and one Irish crisis rather than a c
 - [[HistoricalEntertainment]] - tournament format through which his record is compared and morally judged.
 - [[HenryWilson]] - military-policy opponent whose murder prompted Lloyd George's ultimatum over the Four Courts.
 - [[MichaelCollinsIrishRevolutionary]] - provisional-government leader pressed to act against the anti-treaty occupation.
+- [[EamonDeValera]] - republican counterpart whose external-association proposal Lloyd George rejected.
+- [[ArthurGriffith]] - Irish delegation chair whose private commitment Lloyd George used as leverage.
 - [[IrishTreatyCivilWarSplit]] - settlement and conflict in which Lloyd George combined negotiation with military pressure.

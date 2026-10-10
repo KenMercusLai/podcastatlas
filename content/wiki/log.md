@@ -35225,3 +35225,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 579. The Irish War of Independence: Showdown in London (Part 4)
+
+Added source `579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865`; created [[ArthurGriffith]]; and resynthesized [[IrishTreatyCivilWarSplit]], [[DavidLloydGeorge]], [[MichaelCollinsIrishRevolutionary]], and [[EamonDeValera]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the 1921 treaty emerged from asymmetric but mutually constrained bargaining, with British imperial and coalition red lines confronting external association and an Irish delegation whose plenipotentiary label conflicted with instructions to consult Dublin. Lloyd George's agenda control, private talks, use of Griffith's boundary-commission commitment, and peace-or-war deadline produced signatures without resolving whether dominion status was a platform for further sovereignty or a betrayal of the republic. No settled contradiction was adopted. The episode's shorthand that the treaty created Northern Ireland is qualified by its own chronology: the 1920 Government of Ireland Act preceded the treaty, which confirmed Northern Ireland's route outside the Free State and supplied a boundary mechanism. British willingness to resume war, de Valera's reason for staying away, delegate authority, private motives, and expected boundary effects remain source-scoped. Broad Churchill, Ireland, United Kingdom, IRA, James Craig, and show pages were kept closed because the focused source, negotiators, and treaty-split concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,413 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

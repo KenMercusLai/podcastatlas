@@ -6291,6 +6291,13 @@
       "url": "/topics/history/"
     }
   ],
+  "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859": [
     {
       "key": "culture",
@@ -15894,6 +15901,13 @@
     }
   ],
   "ArthurGoldberg": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ArthurGriffith": [
     {
       "key": "politics",
       "label": "Politics",

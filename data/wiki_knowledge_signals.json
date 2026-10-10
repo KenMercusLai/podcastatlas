@@ -19362,6 +19362,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/arthurconandoyle/"
     },
+    "ArthurGriffith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/arthurgriffith/"
+    },
     "ArthurMiller": {
       "episode_count": 1,
       "show_count": 1,
@@ -61449,9 +61465,9 @@
       "url": "/wiki/entities/davidlinden/"
     },
     "DavidLloydGeorge": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9826873277 [GLT9826873277].md",
@@ -61466,6 +61482,13 @@
           "show": "The Rest Is History",
           "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
           "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
+        },
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
         }
       ],
       "updated": "2026-10-11",
@@ -72483,9 +72506,9 @@
       "url": "/wiki/entities/eadweardmuybridge/"
     },
     "EamonDeValera": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3233824863 [GLT3233824863].md",
@@ -72493,6 +72516,13 @@
           "show": "The Rest Is History",
           "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
           "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
+        },
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
         }
       ],
       "updated": "2026-10-11",
@@ -132938,9 +132968,9 @@
       "url": "/wiki/entities/irishrepublicanbrotherhood/"
     },
     "IrishTreatyCivilWarSplit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -132962,6 +132992,13 @@
           "show": "The Rest Is History",
           "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
           "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
+        },
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
         }
       ],
       "updated": "2026-10-11",
@@ -174827,9 +174864,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -174851,6 +174888,13 @@
           "show": "The Rest Is History",
           "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
           "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
+        },
+        {
+          "episode_file": "GLT9064307865 [GLT9064307865].md",
+          "key": "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865",
+          "show": "The Rest Is History",
+          "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
+          "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
         }
       ],
       "updated": "2026-10-11",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2711
+topic_total_pages: 2712
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865"
+    title: "579. The Irish War of Independence: Showdown in London (Part 4)"
+    url: "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
   - key: "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213"
     title: "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)"
     url: "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"

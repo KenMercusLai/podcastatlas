@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3271
+topic_total_pages: 3272
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5501,6 +5501,9 @@ topic_entities:
   - key: "ArthurGoldberg"
     title: "Arthur Goldberg"
     url: "/wiki/entities/arthurgoldberg/"
+  - key: "ArthurGriffith"
+    title: "Arthur Griffith"
+    url: "/wiki/entities/arthurgriffith/"
   - key: "ASEAN"
     title: "ASEAN"
     url: "/wiki/entities/asean/"
