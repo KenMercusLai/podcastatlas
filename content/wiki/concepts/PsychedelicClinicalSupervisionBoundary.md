@@ -11,8 +11,9 @@ sources:
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
   - psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247
+  - essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-11
 ---
 
 # Psychedelic Clinical Supervision Boundary
@@ -39,6 +40,8 @@ The solo psilocybin episode makes eligibility and dose-response limits more expl
 
 Johnson adds an earlier protocol and repeated-exposure boundary. Psychiatric interviews, cardiovascular checks, family-history caution, monitored vital signs, pure measured drug, guides, and follow-up distinguish controlled therapy from recreational exposure. He also separates rare persistent perceptual symptoms from folklore about drugs stored in body fat and treats the absence of such cases in discussed research cohorts as reassuring but not proof of zero risk. Finally, weak [[PsychedelicMicrodosingEvidence]] and a theoretical serotonin 2B cardiac concern show why low subjective intensity is not equivalent to demonstrated benefit or established long-term safety.
 
+The later Essentials edit reinforces the same boundary in compressed form. Psychosis, schizophrenia, bipolar mania, cardiovascular risk, dose, environment, and bad trips remain eligibility or monitoring concerns, while neurological-repair anecdotes and rodent plasticity do not establish treatment for human head injury. Because it edits the same interview, the additional note is corroborating provenance rather than independent safety evidence.
+
 ## Key Claims
 - Psychedelics are potential psychiatric tools only when condition-specific evidence supports them.
 - Strong changes to cognition, memory, physiology, self-evaluation, or perceived reality make casual use a poor clinical analogy.
@@ -61,13 +64,13 @@ Johnson adds an earlier protocol and repeated-exposure boundary. Psychiatric int
 - Psilocybin eligibility and dose-response - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] pairs psychiatric, age, pregnancy, medication, physiological, environmental, and legal cautions with dose-dependent benefit and adverse-event signals.
 - Screening and protocol sequence - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] describes psychiatric and cardiovascular screening, pure measured psilocybin, monitored vital signs, guides, writing, and follow-up.
 - Persistent-effect and microdosing boundaries - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] distinguishes rare persistent perceptual symptoms from flashback folklore and pairs unproven microdosing benefits with theoretical repeated-exposure risk.
+- Condensed screening and translation boundary - [[essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060]] reiterates psychiatric, cardiovascular, dose, setting, and bad-trip risks while keeping neurological-injury applications anecdotal and prospective.
 
 ## Counterevidence & Qualifications
-This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. Personal histories of depression, benefit, fear, or transformation cannot determine another person's eligibility. Trial claims, legal status, regulatory progress, relapse, and provider standards must be interpreted in their publication-date context. The page does not provide dosing, sourcing, ceremony, or self-treatment instructions; screening, contraindication, emergency, and follow-up decisions belong in qualified clinical and legal contexts.
+This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. Personal histories of depression, benefit, fear, or transformation cannot determine another person's eligibility. The two Johnson edits are not independent studies. Trial claims, legal status, regulatory progress, relapse, and provider standards must be interpreted in their publication-date context. The page does not provide dosing, sourcing, ceremony, or self-treatment instructions; screening, contraindication, emergency, and follow-up decisions belong in qualified clinical and legal contexts.
 
 ## What Changed
-- Added the earlier Johnson protocol's psychiatric and cardiovascular screening, measured product, physiological monitoring, and follow-up sequence.
-- Added rare persistent perceptual symptoms and weak microdosing evidence as distinct long-term safety and efficacy boundaries.
+- The Essentials edit reinforces psychiatric, cardiovascular, dose, setting, and translation limits without changing the existing supervision rule.
 
 ## Related Concepts
 - [[PsychiatricMedicationSupervisionBoundary]] - broader psychiatric treatment supervision rule updated by this episode.

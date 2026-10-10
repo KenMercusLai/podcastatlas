@@ -169828,9 +169828,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewJohnson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6100326247 [SCIM6100326247].md",
@@ -169838,9 +169838,16 @@
           "show": "Huberman Lab",
           "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
           "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        },
+        {
+          "episode_file": "SCIM4594602060 [SCIM4594602060].md",
+          "key": "essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/matthewjohnson/"
     },
     "MatthewMacDougall": {
@@ -209369,9 +209376,9 @@
       "url": "/wiki/concepts/pseudoproductivity/"
     },
     "PsilocybinMushrooms": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_b26d4f668893516a09311bf1740fc9f5_33073298 [default.mp3_ywr3ahjkcgo_b26d4f668893516a09311bf1740fc9f5_33073298].md",
@@ -209393,15 +209400,22 @@
           "show": "Huberman Lab",
           "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
           "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        },
+        {
+          "episode_file": "SCIM4594602060 [SCIM4594602060].md",
+          "key": "essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/psilocybinmushrooms/"
     },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -209458,9 +209472,16 @@
           "show": "Huberman Lab",
           "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
           "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        },
+        {
+          "episode_file": "SCIM4594602060 [SCIM4594602060].md",
+          "key": "essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
     },
     "PsychedelicIntegration": {
@@ -209501,9 +209522,9 @@
       "url": "/wiki/concepts/psychedelicintegration/"
     },
     "PsychedelicMicrodosingEvidence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6100326247 [SCIM6100326247].md",
@@ -209511,9 +209532,16 @@
           "show": "Huberman Lab",
           "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
           "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        },
+        {
+          "episode_file": "SCIM4594602060 [SCIM4594602060].md",
+          "key": "essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/psychedelicmicrodosingevidence/"
     },
     "PsychedelicOrdinaryFreedom": {
@@ -209540,9 +209568,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychedelicTherapyMechanism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -209564,9 +209592,16 @@
           "show": "Huberman Lab",
           "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
           "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        },
+        {
+          "episode_file": "SCIM4594602060 [SCIM4594602060].md",
+          "key": "essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/psychedelictherapymechanism/"
     },
     "PsychiatricDiagnosisMechanismBoundary": {

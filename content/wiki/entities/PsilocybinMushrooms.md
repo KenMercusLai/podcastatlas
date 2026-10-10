@@ -6,7 +6,8 @@ sources:
   - a-trip-to-the-magic-mushroom-megachurch
   - all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
-last_updated: 2026-09-28
+  - essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Psilocybin mushrooms contain the classic psychedelic psilocybin, which is conver
 The religious-access source treats mushrooms as the central sacrament at [[ZydorChurch]], where theology, high-dose practice, donation-based access, local decriminalization, and unresolved federal controlled-substance law coexist. The [[BryanJohnson|Bryan Johnson]] source adds a measured self-experiment branch in which three reported 25 mg sessions were associated with changes in brain and metabolic measurements, but the episode does not establish causal or generalizable benefit.
 
 The Huberman psilocybin episode adds a clinical-mechanism branch. It describes psilocybin as a tryptamine whose active metabolite strongly engages serotonin 2A receptors and may temporarily reduce brain-network hierarchy while increasing cross-region communication. Therapeutic interpretation remains conditional: mushroom potency varies, controlled trials generally use synthetic material, and any benefit is attributed to a combined [[PsychedelicTherapyMechanism]] involving selection, dose, set and setting, guides, music, psychotherapy, and [[PsychedelicIntegration]] rather than to the molecule alone.
+
+The Matthew Johnson Essentials edit reinforces the clinical-versus-casual distinction with a protocol using pure measured psilocybin, psychiatric and cardiovascular screening, rapport, supportive setting, and monitoring. Its high-dose depression, addiction, and cancer-distress signals remain source-scoped because the summary supplies neither full trial methods nor an individualized risk model.
 
 ## Key Characteristics
 - Contains psilocybin, which is converted to psychoactive psilocin and is described as acting primarily through serotonin 2A receptors.
@@ -33,14 +36,13 @@ The Huberman psilocybin episode adds a clinical-mechanism branch. It describes p
 - Measured self-experimentation - [[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] records Johnson's reported psilocybin doses and apparent measurement changes while preserving single-subject uncertainty.
 - Pharmacology and variability - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] connects psilocin, serotonin 2A activity, variable mushroom potency, and synthetic clinical dosing.
 - Clinical context - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] pairs depression signals with preparation, supported setting, music, guides, psychotherapy, integration, adverse events, and contraindications.
+- Measured-session corroboration - [[essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060]] pairs pure measured psilocybin with psychiatric and cardiovascular screening, rapport, supportive setting, monitoring, and explicit bad-trip risk.
 
 ## Qualifications
-This page does not equate sacramental access, personal self-experimentation, and controlled clinical research. The sources do not establish a safe mushroom dose, individual eligibility, universal benefit, current legality, or a self-treatment protocol. Potency, product identity, psychiatric history, other medicines, physical setting, professional conduct, and emergency support materially affect risk.
+This page does not equate sacramental access, personal self-experimentation, and controlled clinical research. The sources do not establish a safe mushroom dose, individual eligibility, universal benefit, current legality, or a self-treatment protocol. The Johnson Essentials edit overlaps the longer interview represented elsewhere in the wiki and is not independent replication. Potency, product identity, psychiatric history, other medicines, physical setting, professional conduct, and emergency support materially affect risk.
 
 ## What Changed
-- Added a controlled-clinical branch that distinguishes synthetic dosing from variable mushroom potency.
-- Added serotonin 2A pharmacology and the combined-intervention account of therapeutic benefit.
-- Added explicit psychiatric, medication, age, pregnancy, physiological, and setting qualifications.
+- The Essentials edit reinforces measured-product, screening, setting, and bad-trip boundaries without changing the existing clinical profile.
 
 ## Relationships
 - [[PsychedelicTherapyMechanism]] - explains why receptor action alone does not determine therapeutic outcome.

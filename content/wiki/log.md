@@ -35081,3 +35081,11 @@ Added source `586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt15459052
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson
+
+Added source `essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060` and resynthesized [[MatthewJohnson]], [[PsychedelicTherapyMechanism]], [[PsychedelicClinicalSupervisionBoundary]], [[PsychedelicMicrodosingEvidence]], and [[PsilocybinMushrooms]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Essentials edit reinforces the combined pharmacological, experiential, relational, and monitoring model of psychedelic therapy; loosening rigid self-representation remains a candidate mechanism rather than a demonstrated cause; and psychiatric, cardiovascular, dose, setting, bad-trip, microdosing, and neurological-translation limits remain central. No settled contradiction was adopted. The condensed and full Johnson interviews are overlapping editorial provenance rather than independent replication, and dose, outcome, bad-trip-frequency, receptor, and neurological-repair claims remain source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] pages were kept closed because the focused source, expert, substance, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,394 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,8 +6,9 @@ sources:
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
   - psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247
+  - essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-11
 ---
 
 # Psychedelic Therapy Mechanism
@@ -23,6 +24,8 @@ The proposed mechanism is therefore a sequence rather than one event. Preparatio
 The solo psilocybin episode sharpens both biological and protocol layers. It connects psilocin to serotonin 2A receptors on cortical pyramidal neurons, broader thalamic sensory flow, reduced network hierarchy, cross-network communication, and dendritic-spine findings. It then makes [[Neuroplasticity|adaptive neuroplasticity]] the outcome criterion: visual intensity or plastic change alone is not therapeutic unless preparation, manageable anxiety, guides, music, psychotherapy, and follow-up help shape durable functioning.
 
 A self-model and agency hypothesis extends this sequence. Smoking cessation, cancer-related distress, and trauma examples from [[MatthewJohnson]] suggest that change may involve a less rigid “I am this kind of person” representation, a felt capacity to choose differently, and a changed emotional relationship to memory. The clinical protocol—screening, preparation, inwardly directed monitored dosing, writing, and next-day follow-up—supports the combined-intervention model while leaving each component's causal contribution unresolved.
+
+The later Essentials edit reinforces rather than expands that judgment. It again joins serotonin 2A pharmacology to altered reality and self-models, then makes preparation, rapport, setting, measured dosing, monitoring, and the participant's response to loss of control part of the therapeutic account. Because it condenses the same interview, it strengthens provenance but is not independent replication.
 
 ## Key Claims
 - Serotonin 2A activation is relevant but does not exhaust the proposed therapeutic mechanism.
@@ -42,13 +45,13 @@ A self-model and agency hypothesis extends this sequence. Smoking cessation, can
 - Adaptive-change boundary - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] distinguishes vivid experience or plasticity from improved later functioning and pairs higher-dose benefit signals with adverse events.
 - Self-model and agency hypothesis - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] links smoking identity, cancer-related reappraisal, trauma memory, surrender, and felt agency while labeling the lasting mechanism educated speculation.
 - Protocol sequence - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] describes screening, preparation, eye shades, monitored dosing, participant writing, and next-day supportive integration.
+- Condensed corroboration - [[essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060]] reiterates self-representation, agency, preparation, rapport, supportive setting, measured psilocybin, monitoring, and surrender-versus-resistance as parts of the proposed mechanism.
 
 ## Counterevidence & Qualifications
-The sources summarize research rather than supplying full protocols, effect sizes, adverse-event tables, or primary papers. Several condition-specific and imaging findings were early, unpublished, or derived from one study. Music's role was described as standard but inadequately tested, while self-representation and agency remain educated hypotheses. Expectancy, blinding, therapist effects, participant selection, relapse, and access remain unresolved. This is a research framework, not a dosing, eligibility, sourcing, or self-treatment guide.
+The sources summarize research rather than supplying full protocols, effect sizes, adverse-event tables, or primary papers. Several condition-specific and imaging findings were early, unpublished, or derived from one study. Music's role was described as standard but inadequately tested, while self-representation and agency remain educated hypotheses. The full and Essentials Johnson episodes are overlapping edits, not independent confirmation. Expectancy, blinding, therapist effects, participant selection, relapse, and access remain unresolved. This is a research framework, not a dosing, eligibility, sourcing, or self-treatment guide.
 
 ## What Changed
-- Added self-representation, felt agency, and changed emotional relation to memory as candidate mechanisms.
-- Added the screening-to-writing-to-next-day-integration sequence as a concrete combined-intervention protocol.
+- The Essentials edit reinforces the self-model and combined-intervention judgment without adding an independent mechanism result.
 
 ## Related Concepts
 - [[BrainNetworkModularity]] - candidate network-level correlate of acute flexibility.
