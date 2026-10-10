@@ -1504,6 +1504,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
+    "AIClientGrowthRetentionAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/aiclientgrowthretentionagent/"
+    },
     "AIClinicalValidationInDrugDiscovery": {
       "episode_count": 4,
       "show_count": 4,
@@ -3755,6 +3771,45 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/aimanagingai/"
+    },
+    "AIMarketingDecisioning": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/aimarketingdecisioning/"
+    },
+    "AIMarketingROIMeasurement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/aimarketingroimeasurement/"
     },
     "AIMasteryLearningModel": {
       "episode_count": 1,
@@ -130792,6 +130847,22 @@
       "updated": "2026-08-06",
       "url": "/wiki/concepts/interpretationandoverinterpretation/"
     },
+    "InterraInformationTechnologies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/interrainformationtechnologies/"
+    },
     "InterrogationTortureConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -217748,6 +217819,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/responsibilityboundriskavoidance/"
     },
+    "ResponsibleAIMarketing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/responsibleaimarketing/"
+    },
     "ResponsiveDeepBrainStimulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -293656,6 +293743,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/zouyangwesternhan/"
+    },
+    "ZoyaScarlatta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128 [CF6CBB449FC92050B241DC76C17A285A~8584422_2026-08-10-215022-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838f3d].md",
+          "key": "ep-23-ai-in-marketing-strategies",
+          "show": "Data Science With Sam",
+          "title": "EP 23: AI in Marketing Strategies",
+          "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/zoyascarlatta/"
     },
     "Zubaydah": {
       "episode_count": 1,

@@ -8559,6 +8559,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIClientGrowthRetentionAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIClusterNetworking": [
     {
       "key": "technology",
@@ -10058,6 +10065,13 @@
     }
   ],
   "AIMarketingJargon": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AIMarketingROIMeasurement": [
     {
       "key": "technology",
       "label": "Technology",
@@ -73680,6 +73694,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ResponsibleAIMarketing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ResponsiveDeepBrainStimulation": [
     {
       "key": "science",
@@ -97945,6 +97966,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZoyaScarlatta": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ZuoShuang": [
     {
       "key": "history",
@@ -100320,6 +100348,13 @@
     }
   ],
   "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-23-ai-in-marketing-strategies": [
     {
       "key": "technology",
       "label": "Technology",

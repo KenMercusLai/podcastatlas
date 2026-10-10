@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13131
+wiki_total_pages: 13133
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "Interpositive"
     title: "Interpositive"
     url: "/wiki/entities/interpositive/"
+  - key: "InterraInformationTechnologies"
+    title: "Interra Information Technologies"
+    url: "/wiki/entities/interrainformationtechnologies/"
   - key: "InterventionsTestingProgram"
     title: "Interventions Testing Program"
     url: "/wiki/entities/interventionstestingprogram/"

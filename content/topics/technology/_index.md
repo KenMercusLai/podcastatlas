@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3450
+topic_total_pages: 3455
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AICircularInfrastructureFinancing"
     title: "AI Circular Infrastructure Financing"
     url: "/wiki/concepts/aicircularinfrastructurefinancing/"
+  - key: "AIClientGrowthRetentionAgent"
+    title: "AI Client Growth and Retention Agent"
+    url: "/wiki/concepts/aiclientgrowthretentionagent/"
   - key: "AIClusterNetworking"
     title: "AI Cluster Networking"
     url: "/wiki/concepts/aiclusternetworking/"
@@ -703,6 +706,9 @@ topic_concepts:
   - key: "AIMarketingJargon"
     title: "AI Marketing Jargon"
     url: "/wiki/concepts/aimarketingjargon/"
+  - key: "AIMarketingROIMeasurement"
+    title: "AI Marketing ROI Measurement"
+    url: "/wiki/concepts/aimarketingroimeasurement/"
   - key: "AIMasteryLearningModel"
     title: "AI Mastery Learning Model"
     url: "/wiki/concepts/aimasterylearningmodel/"
@@ -3889,6 +3895,9 @@ topic_concepts:
   - key: "ResNeXt"
     title: "ResNeXt"
     url: "/wiki/concepts/resnext/"
+  - key: "ResponsibleAIMarketing"
+    title: "Responsible AI Marketing"
+    url: "/wiki/concepts/responsibleaimarketing/"
   - key: "RestaurantAutomation"
     title: "Restaurant Automation"
     url: "/wiki/concepts/restaurantautomation/"
@@ -8279,6 +8288,9 @@ topic_entities:
   - key: "Ziwudao"
     title: "Ziwudao / 子午道"
     url: "/wiki/entities/ziwudao/"
+  - key: "ZoyaScarlatta"
+    title: "Zoya Scarlatta"
+    url: "/wiki/entities/zoyascarlatta/"
   - key: "WhyGreatnessCannotBePlanned"
     title: "《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned"
     url: "/wiki/entities/whygreatnesscannotbeplanned/"
@@ -9300,6 +9312,9 @@ topic_sources:
   - key: "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai"
     title: "EP 19: Navigating the Future of Workplace Health and Benefits with AI"
     url: "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+  - key: "ep-23-ai-in-marketing-strategies"
+    title: "EP 23: AI in Marketing Strategies"
+    url: "/wiki/sources/ep-23-ai-in-marketing-strategies/"
   - key: "ep-25-ai-revolution-in-marketing-from-traditional-to-transformational"
     title: "EP 25: AI Revolution in Marketing: From Traditional to Transformational"
     url: "/wiki/sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational/"

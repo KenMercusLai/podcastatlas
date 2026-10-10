@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 23: AI in Marketing Strategies](sources/ep-23-ai-in-marketing-strategies.md) — Data Science With Sam interview with Zoya Scarlatta on predictive personalization, AI marketing ROI, human oversight, brand authenticity, privacy, and a guarded client-retention agent.
 - [588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)](sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995.md) — The Rest Is History on Darnley's two-stage murder, the Bothwell-Morton-Maitland conspiracy, Mary's probable ignorance, and the accountability failure that made innocence politically insufficient.
 - [How to Control Your Cortisol & Overcome Burnout](sources/scim6521025308-scim6521025308.md) — Huberman Lab episode on cortisol's circadian timing, HPA-axis feedback, two source-described burnout patterns, routine levers, and medical and supplement boundaries.
 - [VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对](sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi.md) — 这病说来话长 episode on anonymity, displaced aggression, insecurity, recognition needs, empathy limits, diagnostic caution, and proportionate online-conflict de-escalation.
@@ -4464,6 +4465,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
+- [Zoya Scarlatta](entities/ZoyaScarlatta.md) — B2B digital-marketing practitioner connecting predictive personalization and AI ROI to literacy, privacy, human review, and brand trust.
+- [Interra Information Technologies](entities/InterraInformationTechnologies.md) — Company context for Zoya Scarlatta's B2B AI marketing discussion.
 - [Kirk o' Field Murder](entities/KirkOFieldMurder.md) — Darnley's failed escape from a gunpowder plot, strangulation outside the lodging, and the compromised investigation that followed.
 - [Henry Stuart / Lord Darnley](entities/HenryStuartLordDarnley.md) — Mary's consort, Rizzio conspirator, dynastic threat, and victim of the Kirk o' Field murder.
 - [James Douglas / Earl of Morton](entities/JamesDouglasEarlOfMorton.md) — Betrayed Rizzio conspirator whose revenge motive and retainers place him in the Darnley murder plot.
@@ -17660,6 +17663,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [AI Marketing ROI Measurement](concepts/AIMarketingROIMeasurement.md) — Framework joining efficiency baselines, business impact, and team adoption when evaluating marketing AI.
+- [Responsible AI Marketing](concepts/ResponsibleAIMarketing.md) — Marketing discipline joining AI literacy, human authority, privacy, transparency, authenticity, and truthful visuals.
+- [AI Client Growth and Retention Agent](concepts/AIClientGrowthRetentionAgent.md) — Proposed governed agent for detecting account risk and expansion signals while leaving commercial action to people.
 - [Cortisol Timing and Burnout](concepts/CortisolTimingAndBurnout.md) — Timing-first model linking post-waking activation, evening down-regulation, burnout-like patterns, and clinical boundaries.
 - [Online Aggression Psychology / 网络攻击心理机制](concepts/OnlineAggressionPsychology.md) — Multi-mechanism account of online hostility that preserves behavioral accountability and diagnostic boundaries.
 - [Online Conflict De-escalation / 网络冲突降温](concepts/OnlineConflictDeescalation.md) — Proportional response ladder joining delay, perspective, boundaries, moderation, documentation, and legal escalation.

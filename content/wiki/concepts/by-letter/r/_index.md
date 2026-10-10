@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10296
+wiki_total_pages: 10299
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "ResponsibilityAvoidantKilling"
     title: "Responsibility-Avoidant Killing / 避责式杀害"
     url: "/wiki/concepts/responsibilityavoidantkilling/"
+  - key: "ResponsibleAIMarketing"
+    title: "Responsible AI Marketing"
+    url: "/wiki/concepts/responsibleaimarketing/"
   - key: "ResponsiveDeepBrainStimulation"
     title: "Responsive Deep Brain Stimulation"
     url: "/wiki/concepts/responsivedeepbrainstimulation/"

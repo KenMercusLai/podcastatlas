@@ -4911,6 +4911,10 @@
     "title": "AI Circular Infrastructure Financing",
     "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
   },
+  "AIClientGrowthRetentionAgent": {
+    "title": "AI Client Growth and Retention Agent",
+    "url": "/wiki/concepts/aiclientgrowthretentionagent/"
+  },
   "AIClinicalValidationInDrugDiscovery": {
     "title": "AI Clinical Validation In Drug Discovery",
     "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
@@ -5590,6 +5594,10 @@
   "AIMarketingJargon": {
     "title": "AI Marketing Jargon",
     "url": "/wiki/concepts/aimarketingjargon/"
+  },
+  "AIMarketingROIMeasurement": {
+    "title": "AI Marketing ROI Measurement",
+    "url": "/wiki/concepts/aimarketingroimeasurement/"
   },
   "AIMasteryLearningModel": {
     "title": "AI Mastery Learning Model",
@@ -44591,6 +44599,10 @@
     "title": "Interpretation And Overinterpretation",
     "url": "/wiki/concepts/interpretationandoverinterpretation/"
   },
+  "InterraInformationTechnologies": {
+    "title": "Interra Information Technologies",
+    "url": "/wiki/entities/interrainformationtechnologies/"
+  },
   "InterrogationTortureConstraint": {
     "title": "Interrogation Torture Constraint / 审讯刑具约束",
     "url": "/wiki/concepts/interrogationtortureconstraint/"
@@ -72747,6 +72759,10 @@
     "title": "Responsibility Versus Guilt / 责任与罪行区分",
     "url": "/wiki/concepts/responsibilityvsguilt/"
   },
+  "ResponsibleAIMarketing": {
+    "title": "Responsible AI Marketing",
+    "url": "/wiki/concepts/responsibleaimarketing/"
+  },
   "ResponsiveDeepBrainStimulation": {
     "title": "Responsive Deep Brain Stimulation",
     "url": "/wiki/concepts/responsivedeepbrainstimulation/"
@@ -98159,6 +98175,10 @@
     "title": "邹阳 / Zou Yang (Western Han)",
     "url": "/wiki/entities/zouyangwesternhan/"
   },
+  "ZoyaScarlatta": {
+    "title": "Zoya Scarlatta",
+    "url": "/wiki/entities/zoyascarlatta/"
+  },
   "ZuLangLateHan": {
     "title": "祖郎 / Zu Lang (late Han)",
     "url": "/wiki/entities/zulanglatehan/"
@@ -99714,6 +99734,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-23-ai-in-marketing-strategies": {
+    "title": "EP 23: AI in Marketing Strategies",
+    "url": "/wiki/sources/ep-23-ai-in-marketing-strategies/"
   },
   "ep-24-redefining-data-science-in-the-generative-ai-era": {
     "title": "EP 24: Redefining Data Science in the Generative AI Era",

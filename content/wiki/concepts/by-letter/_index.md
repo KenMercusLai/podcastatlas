@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10296
+wiki_total_pages: 10299
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "AICircularInfrastructureFinancing"
     title: "AI Circular Infrastructure Financing"
     url: "/wiki/concepts/aicircularinfrastructurefinancing/"
+  - key: "AIClientGrowthRetentionAgent"
+    title: "AI Client Growth and Retention Agent"
+    url: "/wiki/concepts/aiclientgrowthretentionagent/"
   - key: "AIClinicalValidationInDrugDiscovery"
     title: "AI Clinical Validation In Drug Discovery"
     url: "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
@@ -1259,6 +1262,9 @@ wiki_pages:
   - key: "AIMarketingJargon"
     title: "AI Marketing Jargon"
     url: "/wiki/concepts/aimarketingjargon/"
+  - key: "AIMarketingROIMeasurement"
+    title: "AI Marketing ROI Measurement"
+    url: "/wiki/concepts/aimarketingroimeasurement/"
   - key: "AIMasteryLearningModel"
     title: "AI Mastery Learning Model"
     url: "/wiki/concepts/aimasterylearningmodel/"
