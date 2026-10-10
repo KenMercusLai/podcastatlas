@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2713
+topic_total_pages: 2714
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348"
+    title: "577. The Irish War of Independence: The Violence Begins (Part 2)"
+    url: "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
   - key: "578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883"
     title: "578. The Irish War of Independence: Bloody Sunday (Part 3)"
     url: "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"

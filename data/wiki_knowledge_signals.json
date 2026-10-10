@@ -58977,6 +58977,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/daigouchannel/"
     },
+    "DailEireann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3492584348 [GLT3492584348].md",
+          "key": "577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348",
+          "show": "The Rest Is History",
+          "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
+          "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/daileireann/"
+    },
     "DailyCircadianPerformanceRoutine": {
       "episode_count": 10,
       "show_count": 1,
@@ -72598,9 +72614,9 @@
       "url": "/wiki/entities/eadweardmuybridge/"
     },
     "EamonDeValera": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3233824863 [GLT3233824863].md",
@@ -72615,6 +72631,13 @@
           "show": "The Rest Is History",
           "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
           "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        },
+        {
+          "episode_file": "GLT3492584348 [GLT3492584348].md",
+          "key": "577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348",
+          "show": "The Rest Is History",
+          "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
+          "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
         }
       ],
       "updated": "2026-10-11",
@@ -133168,9 +133191,9 @@
       "url": "/wiki/entities/irishvolunteers/"
     },
     "IrishWarOfIndependence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8552699883 [GLT8552699883].md",
@@ -133185,6 +133208,13 @@
           "show": "The Rest Is History",
           "title": "579. The Irish War of Independence: Showdown in London (Part 4)",
           "url": "/wiki/sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865/"
+        },
+        {
+          "episode_file": "GLT3492584348 [GLT3492584348].md",
+          "key": "577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348",
+          "show": "The Rest Is History",
+          "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
+          "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
         }
       ],
       "updated": "2026-10-11",
@@ -175034,9 +175064,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -175072,6 +175102,13 @@
           "show": "The Rest Is History",
           "title": "578. The Irish War of Independence: Bloody Sunday (Part 3)",
           "url": "/wiki/sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883/"
+        },
+        {
+          "episode_file": "GLT3492584348 [GLT3492584348].md",
+          "key": "577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348",
+          "show": "The Rest Is History",
+          "title": "577. The Irish War of Independence: The Violence Begins (Part 2)",
+          "url": "/wiki/sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348/"
         }
       ],
       "updated": "2026-10-11",

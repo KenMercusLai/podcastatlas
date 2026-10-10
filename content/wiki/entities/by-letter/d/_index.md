@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13170
+wiki_total_pages: 13171
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "Dyson"
     title: "Dyson / 戴森"
     url: "/wiki/entities/dyson/"
+  - key: "DailEireann"
+    title: "Dáil Éireann"
+    url: "/wiki/entities/daileireann/"
   - key: "DuongVanMinh"
     title: "Dương Văn Minh"
     url: "/wiki/entities/duongvanminh/"

@@ -4494,6 +4494,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 - [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
+- [577. The Irish War of Independence: The Violence Begins (Part 2)](sources/577-the-irish-war-of-independence-the-violence-begins-part-2-glt3492584348.md) — The Rest Is History on the First Dail, Soloheadbeg, republican counter-state building, guerrilla escalation, British reprisals, and partition legislation.
 - [578. The Irish War of Independence: Bloody Sunday (Part 3)](sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883.md) — The Rest Is History on the 1920 IRA assassinations, Croke Park massacre, Dublin Castle killings, official cover-up, military stalemate, and route to truce.
 - [579. The Irish War of Independence: Showdown in London (Part 4)](sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865.md) — The Rest Is History on the Anglo-Irish Treaty negotiations, asymmetric bargaining, dominion status, the oath, partition, and the split that led toward civil war.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
@@ -4502,7 +4503,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
 - [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》中既推动追查，也因判断失误成为药物依赖者。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
-- [Irish War of Independence](entities/IrishWarOfIndependence.md) — Intelligence, guerrilla, legitimacy, and political conflict that moved from military stalemate to truce and treaty negotiation.
+- [Irish War of Independence](entities/IrishWarOfIndependence.md) — Armed, electoral, institutional, and social struggle that escalated from counter-state formation into stalemate, truce, and treaty negotiation.
+- [Dáil Éireann](entities/DailEireann.md) — Elected republican assembly whose courts, ministries, finance, and diplomacy competed with British authority during the War of Independence.
 - [Harold McGee](entities/HaroldMcGee.md) — Food-science writer connecting experimental kitchen practice, chemistry, culinary history, and sensory culture.
 - [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
 - [Yuvika Sharma](entities/YuvikaSharma.md) — Data and AI practitioner and community co-founder connecting bias control, risk-tiered oversight, trust, and representation.
@@ -5557,7 +5559,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jack Feldman](entities/JackFeldman.md) — Respiratory neuroscientist associated with the pre-Botzinger complex, sigh circuitry, and mechanistic breath-brain research.
 - [James Joyce](entities/JamesJoyce.md) — Irish modernist whose historically specific and formally experimental Ulysses anchors the episode's literary 1922.
 - [T. S. Eliot](entities/TSEliot.md) — Modernist poet whose fragmented The Waste Land is read through postwar mourning, complexity, and later traditionalism.
-- [Michael Collins (Irish revolutionary)](entities/MichaelCollinsIrishRevolutionary.md) — Irish treaty negotiator and pro-treaty commander, disambiguated from the Apollo 11 astronaut.
+- [Michael Collins (Irish revolutionary)](entities/MichaelCollinsIrishRevolutionary.md) — Irish fundraiser, intelligence organizer, treaty negotiator, and pro-treaty commander, disambiguated from the Apollo 11 astronaut.
 - [Edward IV](entities/EdwardIV.md) — Yorkist warrior-king whose Woodville marriage, restoration, patronage, and sudden death shaped the fragile 1483 succession.
 - [Edward V](entities/EdwardV.md) — Sanctuary-born Ludlow heir whose preparation for rule ended in seizure, delegitimation, and disappearance.
 - [Richard of Shrewsbury](entities/RichardOfShrewsbury.md) — Younger dynastic reserve transferred from sanctuary to the Tower before disappearing with Edward V.
@@ -17727,7 +17729,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 - [《桃花源没事》](entities/TaohuayuanMeishi.md) — 马伯庸以妖怪社区、基层治理、逍遥丹谜案和资源不平等反转桃花源，并把理想共同体重构为持续维护的实践。
-- [Éamon de Valera](entities/EamonDeValera.md) — Anti-treaty republican leader who later entered parliament, governed through the Free State, removed the oath, and recovered the Treaty Ports.
+- [Éamon de Valera](entities/EamonDeValera.md) — Revolutionary president and diplomat, anti-treaty leader, and later constitutional head of government who revised the Free State settlement.
 - [阿紫 / A Zi](entities/Azi.md) — 星宿派环境与主动残忍并存、对萧峰的占有式依恋和对游坦之的利用最终汇入雁门关悲剧的《天龙八部》人物。
 - [萧峰 / Xiao Feng](entities/XiaoFeng.md) — 在阿紫篇中以阿朱的爱人和阿紫的保护者出现，并明确区分亲属责任与浪漫互惠。
 - [游坦之 / You Tanzhi](entities/YouTanzhi.md) — 家破人亡后把阿紫当作新目标，在持续虐待、献眼与殉情中逐步失去独立方向的《天龙八部》人物。
