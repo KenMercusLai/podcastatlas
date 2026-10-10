@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3335
+topic_total_pages: 3336
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8703,6 +8703,9 @@ topic_sources:
   - key: "08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994"
     title: "08.老妓抄：老妓不死，甚至不曾凋零"
     url: "/wiki/sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994/"
+  - key: "080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko"
+    title: "080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话"
+    url: "/wiki/sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko/"
   - key: "081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst"
     title: "081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心"
     url: "/wiki/sources/081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst/"

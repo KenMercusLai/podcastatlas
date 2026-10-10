@@ -34422,3 +34422,11 @@ Added source `610-nelson-the-battle-of-copenhagen-part-3-glt9153225543`; created
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话
+
+Added source `080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko`; and resynthesized [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] and [[PrisonersDilemma|囚徒困境]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Yellow Wind Ridge becomes a faction-sensitive recovery problem, Sha Wujing's recruitment a reversible staffing compromise, and the Four Sages' temptation test an adversarial inspection whose separated questioning creates incentives for Li Changgeng and Guanyin to betray one another; their consistent non-disclosure turns tactical coordination into demonstrated trust. No settled contradiction was adopted. Character motives, religious hierarchy, trial accounting, staffing intent, investigation strategy, and workplace analogies remain podcast interpretations of fictional institutions rather than verified authorial intention, doctrine, history, or general organizational evidence. Broad [[MaBoyong|马伯庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and deity/character pages were kept closed because the focused source, novel profile, and game-theory concept capture the durable additions without conflating fictional roles with broader profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,312 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [080 趣话马伯庸《太白金星有点烦》P2：这才是西游记黑神话](sources/080-quhua-maboyong-taibai-jinxing-youdianfan-p2-zhe-cai-shi-xiyouji-heishenhua-lol40ork2v5byoc75flyicbl88ko.md) — 纸醉金迷FM以黄风岭危机、沙僧入队和四圣试禅心拆解项目补救、派系安插、分开审查与经受背叛风险后形成的合作信任。
 - [610. Nelson: The Battle of Copenhagen (Part 3)](sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543.md) — The Rest Is History on the Baltic crisis, Copenhagen's shoals and close action, Parker's withdrawal signal, Nelson's disobedience, Riou's death, and coercive ceasefire.
 - [How to Overcome Inner Resistance | Steven Pressfield](sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458.md) — Huberman Lab interview on Resistance, turning pro, focused writing, drafts, shipping, mentorship, calling, sacrifice, and creative receptivity.
 - [名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！](sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng.md) — 罗永浩对谈叶国富，以名创优品的供应商、加盟、逛店体验与IP转型，连接永辉从货架收费向产品、供应链和自有品牌主导的改革。
