@@ -58309,9 +58309,9 @@
       "url": "/wiki/entities/danielcohnbendit/"
     },
     "DanielEk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
@@ -58319,9 +58319,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        },
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/danielek/"
     },
     "DanielEllsberg": {
@@ -60286,6 +60293,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/davidrailton/"
+    },
+    "DavidSenra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/davidsenra/"
     },
     "DavidSilver": {
       "episode_count": 2,
@@ -78654,9 +78677,9 @@
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
     "EnergyAwareWorkDesign": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoNKRmvA2ctsQRP2-zN [GKwRIDoNKRmvA2ctsQRP2-zN].md",
@@ -78664,9 +78687,16 @@
           "show": "三五环",
           "title": "No.214 低能量人的电池使用指南",
           "url": "/wiki/sources/no-214-dinengliangren-de-dianchi-shiyong-zhinan-gkwridonkrmva2ctsqrp2-zn/"
+        },
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/energyawareworkdesign/"
     },
     "EnergyBalanceAccounting": {
@@ -91635,6 +91665,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/founderagreementdocumentation/"
+    },
+    "FounderArchetypeFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/founderarchetypefit/"
     },
     "FounderBoardRelationshipMaintenance": {
       "episode_count": 1,
@@ -114833,6 +114879,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/hightemplerite/"
     },
+    "HighVarianceIdeaProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/highvarianceideaprotection/"
+    },
     "HilaryDavidson": {
       "episode_count": 1,
       "show_count": 1,
@@ -124074,6 +124136,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immunesystemastunablesensornetwork/"
+    },
+    "ImpactDrivenWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/impactdrivenwork/"
     },
     "ImperfectActionPractice": {
       "episode_count": 2,
@@ -237148,9 +237226,9 @@
       "url": "/wiki/entities/spotrobot/"
     },
     "Spotify": {
-      "episode_count": 8,
-      "show_count": 6,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 7,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
@@ -237207,9 +237285,16 @@
           "show": "无时差研究所",
           "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
           "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        },
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/spotify/"
     },
     "SpringAutumnIntentAdjudication": {
@@ -237623,6 +237708,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/stagematchedmotorskillpractice/"
+    },
+    "StageSpecificProductJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3646778859 [SCIM3646778859].md",
+          "key": "scim3646778859-scim3646778859",
+          "show": "Huberman Lab",
+          "title": "DAVID SENRA: Daniel Ek, Spotify",
+          "url": "/wiki/sources/scim3646778859-scim3646778859/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/stagespecificproductjudgment/"
     },
     "StagedVolcanicCatastrophe": {
       "episode_count": 1,

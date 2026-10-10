@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10221
+wiki_total_pages: 10225
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "StageMatchedMotorSkillPractice"
     title: "Stage-Matched Motor Skill Practice"
     url: "/wiki/concepts/stagematchedmotorskillpractice/"
+  - key: "StageSpecificProductJudgment"
+    title: "Stage-Specific Product Judgment"
+    url: "/wiki/concepts/stagespecificproductjudgment/"
   - key: "StagedVolcanicCatastrophe"
     title: "Staged Volcanic Catastrophe"
     url: "/wiki/concepts/stagedvolcaniccatastrophe/"

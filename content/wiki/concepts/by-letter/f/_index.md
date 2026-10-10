@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10221
+wiki_total_pages: 10225
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "FounderAgreementDocumentation"
     title: "Founder Agreement Documentation"
     url: "/wiki/concepts/founderagreementdocumentation/"
+  - key: "FounderArchetypeFit"
+    title: "Founder Archetype Fit"
+    url: "/wiki/concepts/founderarchetypefit/"
   - key: "FounderCashFlowConstraint"
     title: "Founder Cash Flow Constraint"
     url: "/wiki/concepts/foundercashflowconstraint/"

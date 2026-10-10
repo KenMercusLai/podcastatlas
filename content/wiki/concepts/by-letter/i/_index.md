@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10221
+wiki_total_pages: 10225
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "ImpactCareerChoice"
     title: "Impact Career Choice"
     url: "/wiki/concepts/impactcareerchoice/"
+  - key: "ImpactDrivenWork"
+    title: "Impact-Driven Work"
+    url: "/wiki/concepts/impactdrivenwork/"
   - key: "ImperfectActionPractice"
     title: "Imperfect Action Practice"
     url: "/wiki/concepts/imperfectactionpractice/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10221
+wiki_total_pages: 10225
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "HighThroughputInferenceBatching"
     title: "High-Throughput Inference Batching"
     url: "/wiki/concepts/highthroughputinferencebatching/"
+  - key: "HighVarianceIdeaProtection"
+    title: "High-Variance Idea Protection"
+    url: "/wiki/concepts/highvarianceideaprotection/"
   - key: "HighVolumeLuxuryOperator"
     title: "High-Volume Luxury Operator"
     url: "/wiki/concepts/highvolumeluxuryoperator/"

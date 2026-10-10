@@ -4407,6 +4407,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum](sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471.md) — Huberman Lab interview on technology-directed neuroplasticity, cognitive amplification, sensory inference, digital twins, hearables, adaptive environments, and voice biomarkers.
 
+- [DAVID SENRA: Daniel Ek, Spotify](sources/scim3646778859-scim3646778859.md) — David Senra launch interview with Daniel Ek on impact, founder-archetype fit, trust, stage-specific product judgment, high-variance ideas, energy, and quality.
+
 ## Entities
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.
 - [Argonautica](entities/Argonautica.md) — Hellenistic epic joining Jason's quest, Medea's aid, inherited story layers, geographical wonder, and modern cinematic adaptation.
@@ -17522,6 +17524,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Poppy Crum](entities/PoppyCrum.md) — Neuroscientist and technologist connecting perception, neuroplasticity, AI learning tools, biosensing, and adaptive environments.
 
+- [David Senra](entities/DavidSenra.md) — Podcast host using founder biographies and interviews to examine operating fit, ambition, impact, and quality.
+
 ## Concepts
 - [Myth to Mythology Transition](concepts/MythToMythologyTransition.md) — Qualified Hellenistic shift toward self-conscious literary and scholarly preservation without implying the abrupt disappearance of ritual or belief.
 - [Rivers of Blood Speech](concepts/RiversOfBloodSpeech.md) — Powell's 1968 transformation of immigration policy conflict into an existential racial prophecy and outsider-martyr politics.
@@ -27819,5 +27823,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hearable Biosensing](concepts/HearableBiosensing.md) — Ear-worn physiological sensing with validation, interoperability, privacy, and diagnostic boundaries.
 - [Adaptive Human Environments](concepts/AdaptiveHumanEnvironments.md) — Closed-loop spaces that combine human and environmental data with user-controlled modification.
 - [Voice Biomarkers](concepts/VoiceBiomarkers.md) — Voice-based health-signal hypothesis bounded by validation, consent, context, and clinical escalation.
+
+- [Founder Archetype Fit](concepts/FounderArchetypeFit.md) — Match between a founder's temperament and context and the leadership model or advice they try to adopt.
+- [Impact-Driven Work](concepts/ImpactDrivenWork.md) — Personal motivation frame connecting durable satisfaction to consequential problem-solving rather than status or consumption alone.
+- [Stage-Specific Product Judgment](concepts/StageSpecificProductJudgment.md) — Changing balance of founder intuition, evidence, metrics, and delegation across invention, scaling, and optimization.
+- [High-Variance Idea Protection](concepts/HighVarianceIdeaProtection.md) — Bounded protection for inconsistent creators and fragile ideas whose rare contributions may have outsized value.
 
 ## Syntheses

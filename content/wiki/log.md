@@ -34586,3 +34586,11 @@ Added source `604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684`; created [
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | DAVID SENRA: Daniel Ek, Spotify
+
+Added source `scim3646778859-scim3646778859`; created [[DavidSenra|David Senra]], [[FounderArchetypeFit]], [[ImpactDrivenWork]], [[StageSpecificProductJudgment]], and [[HighVarianceIdeaProtection]]; and resynthesized [[DanielEk|Daniel Ek]], [[Spotify]], and [[EnergyAwareWorkDesign|Energy-Aware Work Design]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: durable founder work joins consequential problem-solving to self-knowledge; leadership methods and schedules must fit the person and stage; founder product leverage changes from invention through scale and optimization; and mature organizations need bounded protection for fragile, high-variance ideas. No settled contradiction was adopted. Ek's happiness, acquisition, internal product-review, trust, creativity, sleep, and organizational accounts remain retrospective and source-scoped rather than general causal evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,332 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
