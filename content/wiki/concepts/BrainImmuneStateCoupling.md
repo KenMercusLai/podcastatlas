@@ -6,7 +6,8 @@ sources:
   - how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546
   - scim1807559844-scim1807559844
   - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
-last_updated: 2026-10-02
+  - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Brain-immune state coupling is the reciprocal relationship through which neural 
 The bounded sources now show coupling in both directions. [[MaxKrummel]] describes mouse work in which reactivating insular-cortex neurons linked to prior gut inflammation caused the immune system to recreate aspects of that state. [[DavidLinden]] adds immune-to-brain pathways: maternal cytokine signaling may alter fetal cortical development, inflammation may contribute to a subset of depression, and microglia may connect cytokine state to synaptic pruning and other forms of plasticity. The solo nervous-system episode adds a faster body-to-brain route through vagal signaling to the hypothalamus and a slower blood-borne cytokine route associated with sickness behavior, cognition, and malaise.
 
 The same episode adds two candidate neural-to-immune routes: voluntary sympathetic activation in a controlled endotoxin challenge and the site-specific [[SiteSpecificElectroacupunctureImmunePathway]]. These strengthen the mechanistic map while narrowing the practical conclusion: pathway evidence and short-term inflammatory markers do not establish a general treatment for infection, cancer, autoimmune disease, or inflammatory illness.
+
+The later Essentials edit preserves this reciprocal map in condensed form. Because it derives from the same full episode, it adds editorial continuity rather than a separate experiment or stronger clinical evidence.
 
 The practical implication remains cautious. Memories, sensory cues, comfort states, breathing, meditation, or emotional context may matter biologically, but the immune system responds to physiological pathways rather than words alone. Conversely, inflammatory association does not make immune activation a universal cause of psychiatric symptoms. [[BiologicalMindBodyMechanisms]] supplies the governing test: specify direction, pathway, timing, evidence level, and measurable outcome.
 
@@ -39,14 +42,16 @@ The practical implication remains cautious. Memories, sensory cues, comfort stat
 - Plasticity bridge: [[scim1807559844-scim1807559844]] identifies microglial pruning and cytokine response as candidate links between immune state and circuit change.
 - Fast and slow illness signaling: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] distinguishes vagal signaling to the hypothalamus from slower blood-borne cytokine effects on brain-associated tissues and behavior.
 - Neural-to-immune intervention routes: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] describes sympathetic activation in a human endotoxin model and an anatomy-dependent electroacupuncture pathway in mice.
+- Condensed restatement: [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] preserves the vagal, cytokine, sympathetic, and adrenal directions without adding independent evidence.
 
 ## Counterevidence & Qualifications
-The sources do not prove that people can reliably treat disease by thinking specific thoughts, breathing in a particular way, meditating, or stimulating an acupuncture site. They also do not show that inflammation universally causes depression or neurodevelopmental conditions. Animal evidence, endotoxin-challenge physiology, neural-state mechanisms, historical association, subgroup hypotheses, and human treatment outcomes remain separated by substantial translation work.
+The sources do not prove that people can reliably treat disease by thinking specific thoughts, breathing in a particular way, meditating, or stimulating an acupuncture site. They also do not show that inflammation universally causes depression or neurodevelopmental conditions. Animal evidence, endotoxin-challenge physiology, neural-state mechanisms, historical association, subgroup hypotheses, and human treatment outcomes remain separated by substantial translation work. The full and Essentials nervous-system episodes share editorial provenance and must not be counted as replication.
 
 ## What Changed
 - Added fast vagal and slower cytokine routes from illness to brain state.
 - Added sympathetic and site-specific vagal-adrenal routes from neural intervention to inflammatory response.
 - Preserved the distinction among animal mechanisms, controlled endotoxin physiology, human association, and clinical efficacy.
+- No material mechanism judgment changed; recorded the Essentials edit as overlapping provenance.
 
 ## Related Concepts
 - [[BrainBodyEmotionMapping]] - adjacent brain-body concept focused on emotion and interoception.

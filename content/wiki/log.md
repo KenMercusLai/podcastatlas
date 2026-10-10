@@ -34602,3 +34602,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Using Your Nervous System to Enhance Your Immune System
+
+Added source `essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371`; resynthesized [[FoundationalImmuneHealthFramework]], [[SleepImmuneRepair]], [[BrainImmuneStateCoupling]], [[AcuteStressImmunePriming]], [[GlymphaticClearance]], and [[SiteSpecificElectroacupunctureImmunePathway]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: skin and mucosal barriers, innate and adaptive immunity, sickness behavior, sleep, vagal and cytokine signaling, and autonomic pathways form a layered account, but foot elevation, fermented-food serving counts, spirulina, decongestants, cyclic hyperventilation, and electroacupuncture remain source-scoped or clinically bounded. No settled contradiction was adopted. This Essentials release condenses [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690|the full 2021 episode]] and therefore adds editorial continuity rather than independent replication; the endotoxin challenge does not establish infection treatment, and breath retention carries categorical water, driving, and fall-risk warnings. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the full source already represents the same material and the focused concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,334 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide link scan still reports 36 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

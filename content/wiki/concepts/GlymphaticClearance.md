@@ -4,6 +4,7 @@ type: concept
 tags: [glymphatic-system, sleep, brain, cerebrospinal-fluid, evidence-boundary]
 sources:
   - improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441
+  - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -19,6 +20,8 @@ Glymphatic clearance is a brain-fluid transport model in which cerebrospinal flu
 The practical hierarchy begins with protecting adequate, regular sleep. Alcohol that disrupts sleep can undermine that foundation, while cardiovascular exercise may support later sleep and clearance through several overlapping mechanisms. These are general health relationships, not evidence that subjective brain fog directly measures glymphatic performance.
 
 Side sleeping is described as the best-studied position, and modest head or foot elevation is proposed for drainage or facial-puffiness effects. However, the episode's position evidence is not sufficient to establish a universal human prescription, especially where comfort, pain, pregnancy, reflux, sleep apnea, breathing, or mobility changes the safest posture.
+
+The earlier material preserved in the later Essentials immune-system edit links sleep during early illness with glymphatic clearance and proposes elevating the heels by about 12 degrees. This adds chronological provenance for the position hypothesis, not evidence that elevation improves infection outcomes or a basis for overriding sleep comfort and medical constraints.
 
 The episode also links clearance with amyloid-beta and long-term cognition. That association is biologically important but bounded: a mouse exercise study and mechanistic discussion do not establish that a sleep position, exercise routine, massage, or light exposure prevents or treats Alzheimer's disease.
 
@@ -36,13 +39,15 @@ The episode also links clearance with amyloid-beta and long-term cognition. That
 - Exercise claim - [[improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441]] links cardiovascular exercise with later-night clearance and cites an aerobic-exercise mouse model involving amyloid beta.
 - Sleep-disruption boundary - [[improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441]] identifies alcohol-related sleep disruption as counterproductive to clearance.
 - Historical qualification - [[improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441]] uses pressure-disrupting experimental methods to explain why replication can depend on preparation conditions.
+- Earlier position hypothesis - [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] links sleep during early illness with clearance and repeats a roughly 12-degree foot-elevation suggestion without establishing clinical benefit.
 
 ## Counterevidence & Qualifications
-The source does not supply full human trial methods, effect sizes, replication status, or clinical outcomes for sleep position, elevation, exercise timing, aquaporin circadian activity, amyloid clearance, or cognitive benefit. Animal results, mechanistic plausibility, and observational sleep relationships cannot be combined into a prevention or treatment claim. Side sleeping can interact with pain, reflux, pregnancy, breathing disorders, pressure injury, and disability; alcohol avoidance and cardiovascular exercise have broader health rationales but are not specific tests or treatments for glymphatic dysfunction. Persistent cognitive change or neurologic symptoms require clinical assessment.
+The sources do not supply full human trial methods, effect sizes, replication status, or clinical outcomes for sleep position, elevation, exercise timing, aquaporin circadian activity, amyloid clearance, infection recovery, or cognitive benefit. Animal results, mechanistic plausibility, and observational sleep relationships cannot be combined into a prevention or treatment claim. Side sleeping or elevation can interact with pain, reflux, pregnancy, breathing disorders, pressure injury, and disability; alcohol avoidance and cardiovascular exercise have broader health rationales but are not specific tests or treatments for glymphatic dysfunction. Persistent cognitive change or neurologic symptoms require clinical assessment.
 
 ## What Changed
 - Established a sleep-first brain-clearance synthesis while separating mechanism from clinical outcome.
 - Added explicit human-position, symptom-specificity, animal-evidence, and neurodegenerative-disease boundaries.
+- Added earlier provenance for foot elevation while preserving the no-clinical-outcome boundary.
 
 ## Related Concepts
 - [[LymphaticSystemClearance]] - peripheral clearance network that provides the analogy but not identical anatomy.

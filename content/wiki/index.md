@@ -4410,6 +4410,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DAVID SENRA: Daniel Ek, Spotify](sources/scim3646778859-scim3646778859.md) — David Senra launch interview with Daniel Ek on impact, founder-archetype fit, trust, stage-specific product judgment, high-variance ideas, energy, and quality.
 
 - [EP 25: AI Revolution in Marketing: From Traditional to Transformational](sources/ep-25-ai-revolution-in-marketing-from-traditional-to-transformational.md) — Data Science With Sam interview with Iqbal Pehla on AI-enabled healthcare marketing analytics, shorter outcome-feedback loops, and problem-led adoption.
+- [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 
 ## Entities
 - [Apollonius of Rhodes](entities/ApolloniusOfRhodes.md) — Hellenistic poet whose Argonautica turns Alexandrian scholarship and inherited myth into a new adventure epic.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1523
+topic_total_pages: 1524
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4059,6 +4059,9 @@ topic_sources:
   - key: "essentials-using-light-to-optimize-health-scim8775078173"
     title: "Essentials: Using Light to Optimize Health"
     url: "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
+  - key: "essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371"
+    title: "Essentials: Using Your Nervous System to Enhance Your Immune System"
+    url: "/wiki/sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371/"
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"

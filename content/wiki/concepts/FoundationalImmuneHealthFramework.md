@@ -7,7 +7,8 @@ sources:
   - how-to-prevent-treat-colds-flu-scim6817932732
   - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
   - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
-last_updated: 2026-10-02
+  - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ VOL.47 strengthens the food-sufficiency branch and replaces “boosting” langu
 
 The nervous-system episode adds a layered-defense explanation beneath those habits: skin and mucosal barriers reduce entry, innate immunity responds quickly and broadly, and adaptive immunity develops more specific recognition and memory. Nasal breathing, avoiding contaminated hand-to-eye contact, and fermented foods are retained as adjunctive or source-scoped claims rather than substitutes for exposure reduction, adequate sleep, or medical care.
 
+Its later Essentials edit preserves the same hierarchy and makes no independent case for exact fermented-food servings, nasal breathing, or other single practices. It is useful as editorial continuity, not as replication.
+
 ## Key Claims
 - Immune resilience is shaped partly by everyday sleep, nutrition, movement, hydration, light, and air conditions, but nutrient involvement does not prove benefit from above-adequate supplementation.
 - Regular manageable exercise is distinguished from excessive endurance load or intense training during systemic illness.
@@ -44,13 +47,15 @@ The nervous-system episode adds a layered-defense explanation beneath those habi
 - Sleep, training, and early-rest boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] treats sleep as foundational, moderate exercise as supportive, and whole-body malaise as a reason to rest rather than push hard training.
 - Food and supplement hierarchy: [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] places adequate energy, protein, dietary variety, sleep, and stable routines before immune-marketed supplements and distinguishes biological nutrient roles from proven extra benefit.
 - Layered defenses and adjuncts: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] connects physical barriers, innate and adaptive responses, sleep, ordinary health behaviors, hand-to-eye caution, nasal breathing, and fermented-food hypotheses without making any one measure sufficient.
+- Editorial continuity: [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] condenses the same layered-defense and adjunctive-practice account without adding an independent evidence line.
 
 ## Counterevidence & Qualifications
-The framework bundles interventions with very different evidence bases and should not be read as a validated package or an "immune boost." The sources' nasal-breathing, microbiome, fermented-food, calorie-deficit, exercise-window, post-exercise carbohydrate, vitamin C, vitamin D, iron, zinc, protein, and other nutrient claims remain source-scoped and do not establish universal infection prevention or dosing. Severe infection, immunocompromise, dehydration, cardiopulmonary symptoms, persistent post-infection symptoms, autoimmune disease, allergy, pregnancy, lactation, malabsorption, and medication use require condition-specific evaluation. Spiritual practices and community support may be meaningful for some people and unwelcome or insufficient for others.
+The framework bundles interventions with very different evidence bases and should not be read as a validated package or an "immune boost." The sources' nasal-breathing, microbiome, fermented-food, calorie-deficit, exercise-window, post-exercise carbohydrate, vitamin C, vitamin D, iron, zinc, protein, and other nutrient claims remain source-scoped and do not establish universal infection prevention or dosing. The full and condensed nervous-system episodes share editorial provenance. Severe infection, immunocompromise, dehydration, cardiopulmonary symptoms, persistent post-infection symptoms, autoimmune disease, allergy, pregnancy, lactation, malabsorption, and medication use require condition-specific evaluation. Spiritual practices and community support may be meaningful for some people and unwelcome or insufficient for others.
 
 ## What Changed
 - Added physical barriers, innate response, and adaptive memory as the biological layers beneath the lifestyle framework.
 - Kept nasal breathing and fermented-food claims as adjunctive rather than primary prevention.
+- No material hierarchy changed; recorded the Essentials edit as overlapping provenance.
 
 ## Related Concepts
 - [[ImmuneSystemAsTunableSensorNetwork]] - broader systems model in which context changes immune behavior.
