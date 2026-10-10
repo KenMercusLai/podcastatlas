@@ -7982,9 +7982,9 @@
       "url": "/wiki/concepts/adventureasvocationalidentity/"
     },
     "AdventureGameNarrativeStructure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrb18SQZLoSL-cKn5jDq-_pfyXst [lrb18SQZLoSL-cKn5jDq-_pfyXst].md",
@@ -7992,6 +7992,13 @@
           "show": "纸醉金迷FM",
           "title": "081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心",
           "url": "/wiki/sources/081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst/"
+        },
+        {
+          "episode_file": "lmWw_Kev-kvEtbcUV-2ll9aYFQ_9 [lmWw_Kev-kvEtbcUV-2ll9aYFQ_9].md",
+          "key": "078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9",
+          "show": "纸醉金迷FM",
+          "title": "078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路",
+          "url": "/wiki/sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9/"
         }
       ],
       "updated": "2026-10-10",
@@ -115239,9 +115246,9 @@
       "url": "/wiki/concepts/historicalentertainmentethics/"
     },
     "HistoricalFantasySourceLayering": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -115263,6 +115270,13 @@
           "show": "纸醉金迷FM",
           "title": "103 趣话《鬼吹灯》之昆仑神宫：铁三角最后的冒险",
           "url": "/wiki/sources/103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz/"
+        },
+        {
+          "episode_file": "lmWw_Kev-kvEtbcUV-2ll9aYFQ_9 [lmWw_Kev-kvEtbcUV-2ll9aYFQ_9].md",
+          "key": "078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9",
+          "show": "纸醉金迷FM",
+          "title": "078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路",
+          "url": "/wiki/sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9/"
         }
       ],
       "updated": "2026-10-07",
@@ -281012,9 +281026,9 @@
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
     },
     "YunnanWormValleyGhostBlowsOutTheLight": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ltn3TN440w4AiXuq8TisAbGSDk5N [ltn3TN440w4AiXuq8TisAbGSDk5N].md",
@@ -281043,6 +281057,13 @@
           "show": "纸醉金迷FM",
           "title": "081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心",
           "url": "/wiki/sources/081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst/"
+        },
+        {
+          "episode_file": "lmWw_Kev-kvEtbcUV-2ll9aYFQ_9 [lmWw_Kev-kvEtbcUV-2ll9aYFQ_9].md",
+          "key": "078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9",
+          "show": "纸醉金迷FM",
+          "title": "078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路",
+          "url": "/wiki/sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9/"
         }
       ],
       "updated": "2026-10-10",

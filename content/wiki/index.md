@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路](sources/078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9.md) — 纸醉金迷FM以折龙山水道、树中运输机和蛇藤玉棺开启《云南虫谷》，分析层叠险境、虚实暧昧、铁三角协作与盗墓伦理。
 - [605. Greek Myths: Jason & The Quest for the Golden Fleece (Part 4)](sources/605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt3067620137.md) — The Rest Is History on Apollonius's Argonautica, Jason and Medea, Alexandrian scholarship, Hellenistic religion, and the qualified transition from myth to mythology.
 - [Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss](sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030.md) — Condensed Huberman Lab interview on long- and short-term mate choice, multidimensional mate value, deception, jealousy, stalking, and conflict-risk boundaries.
 - [606. Enoch Powell: Rivers of Blood](sources/606-enoch-powell-rivers-of-blood-glt7520958596.md) — The Rest Is History on Powell's biography, postwar Commonwealth immigration, the 1968 speech, its backlash, failed race-war prediction, and populist afterlife.

@@ -6,6 +6,7 @@ sources:
   - 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848
   - 53-game-of-thrones-glt6687512105
   - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
+  - 078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Temporal compression and modern context broaden the method. King's Landing can e
 
 At a smaller adventure-fiction scale, [[GhostBlowsOutTheLight|《鬼吹灯》]] uses a different source ecology. In the opening of [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]], preserved-body history, Xinjiang archaeology, Tibetan places, religious vocabulary, geomancy and circulating folklore sit beside invented lineages, monsters, artifacts and occupations. The hosts' discussion of a thirteen-whiskered porcelain cat and 背尸 trade makes the credibility mechanism especially visible: proximity to a real tradition such as 赶尸 can make fabricated detail feel inherited without making it historical. [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]]
 
+The opening of [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] shows the same method operating through material collision. A wartime aircraft, firearms, Morse equipment and an airman's remains are lodged beside intertwined trees, a jade coffin, a ritual register, geomantic rules and predatory vines. The modern wreck makes the scene concrete without authenticating the occult system; conversely, parts of the feng-shui discussion may have traditional or practical analogues without verifying the novel's ability to transform a water-dragon vein through sacrificial botany. [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]]
+
 The combined evidence separates source layering from accuracy. [[FantasyMedievalRealism]] shows that borrowing medieval forms does not establish medieval frequency, capacity, psychology, belief, or moral norms; the 《昆仑神宫》 case shows that adjacency to real archaeology or folklore does not authenticate a fictional custom. The interpretive task is therefore twofold: identify useful source relations while preserving the boundary between historical resonance, modern projection, cultural texture, and one-to-one or existence claims.
 
 ## Key Claims
@@ -33,7 +36,7 @@ The combined evidence separates source layering from accuracy. [[FantasyMedieval
 - Modern wars, political theories, environmental fears, and intervention debates can inhabit premodern forms.
 - A useful analogy explains texture, conflict, or plausibility without automatically identifying a prototype.
 - Source density and historical accuracy are separate: a richly layered world can still misrepresent belief, capacity, frequency, or norms.
-- A real tradition can lend plausibility to an invented neighboring detail without verifying that detail's historical existence.
+- A real tradition or materially specific historical object can lend plausibility to an invented neighboring detail without transferring evidentiary authority or proving that detail existed.
 - Internal record gaps and contested memory strengthen external source layering by making the invented past historically uncertain.
 
 ## Evidence
@@ -45,16 +48,16 @@ The combined evidence separates source layering from accuracy. [[FantasyMedieval
 - Accuracy boundary: [[53-game-of-thrones-glt6687512105]] argues that medieval objects and plots can coexist with modern assumptions about violence, sexuality, religion, trust, and state capacity.
 - Cultural-adjacency effect: [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] places likely invented 背尸 and porcelain-cat lore beside mummy history, 赶尸 traditions, Tibetan geography, religious language and geomancy.
 - Expanding fictional system: [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] reads the 摸金、发丘、搬山 and 卸岭 branches as a setting that accumulated representative figures and specialized techniques during series development.
+- Material collision: [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] places a wartime aircraft and communications hardware inside a tree-and-coffin ritual environment while keeping the signal and geomantic mechanism unresolved.
 
 ## Counterevidence & Qualifications
 
-The three sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《昆仑神宫》 discussion identifies likely invention but does not independently verify the historical, archaeological, religious or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
+The four sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《鬼吹灯》 discussions identify likely invention but do not independently verify the historical, archaeological, religious, geomantic or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
 
 ## What Changed
 
-- Extended the framework from large-scale pseudo-medieval settings to folklore-rich adventure fiction.
-- Added cultural adjacency: real traditions can make invented neighboring lore feel inherited.
-- Distinguished historical texture from both social accuracy and proof that a claimed custom existed.
+- Added material collision between modern military history and an invented occult environment.
+- Clarified that verified-looking equipment and remains do not authenticate adjacent ritual rules.
 
 ## Related Concepts
 

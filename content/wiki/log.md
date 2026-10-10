@@ -34562,3 +34562,11 @@ Added source `605-greek-myths-jason-the-quest-for-the-golden-fleece-part-4-glt30
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 078 趣话《鬼吹灯》之云南虫谷1：踏上探寻献王墓之路
+
+Added source `078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9`; and resynthesized [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]], [[AdventureGameNarrativeStructure|冒险游戏式叙事结构]], and [[HistoricalFantasySourceLayering]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the missing opening uses predator replacement, equipment gain, a ritual register and a concealed route to make progress both geographic and informational; its tree-bound aircraft gives the occult setting material specificity without verifying its ritual rules; and the apparent Morse signal remains deliberately suspended among physical and supernatural explanations. No settled contradiction was adopted. Biological, geomantic, archaeological, construction, immortality and paranormal claims remain fictional, conversational or source-scoped, while the tomb-raiding discussion remains an ethical interpretation rather than archaeological authorization. Broad [[GhostBlowsOutTheLight|《鬼吹灯》]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, novel and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,329 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

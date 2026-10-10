@@ -7,6 +7,7 @@ sources:
   - 088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2
   - 084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo
   - 081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst
+  - 078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -15,11 +16,15 @@ last_updated: 2026-10-10
 
 ## Overview
 
-《云南虫谷》 is the third book in [[GhostBlowsOutTheLight|《鬼吹灯》]], represented here by four bounded [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes extending from the valley entrance and gourd cave through the final approach, inner tomb, ending, and retrospective evaluation. 胡八一、王胖子 and Shirley 杨 cross the insect valley and enter 献王's tomb seeking the 雮尘珠, survive a sequence of biological, ritual and supernatural-seeming threats, and leave with 献王's head and sixteen jade rings.
+《云南虫谷》 is the third book in [[GhostBlowsOutTheLight|《鬼吹灯》]], represented here by five bounded [[ZhiZuiJinMiFM|纸醉金迷FM]] episodes extending from the approach through 折龙山 and the tree-bound jade coffin to the valley, inner tomb, ending, and retrospective evaluation. 胡八一、王胖子 and Shirley 杨 seek the 雮尘珠, survive a sequence of biological, ritual and supernatural-seeming threats, and leave with 献王's head and sixteen jade rings.
 
 ## Current Profile
 
 The episodes present the novel as high-density creature adventure. Vine-infected bodies, 藤女、藤婴、人俑、舌蛊、霍氏不死虫、痋婴、肉灵芝 and the “尸洞” keep changing the immediate hazard, while murals, geomancy and burial symbolism make the tomb a layered ritual environment. That abundance is simultaneously the book's appeal and its structural weakness: the vine-and-corpse motif begins as an unusually vivid invention but becomes tiring through repeated attack patterns.
+
+The approach already establishes that density before the trio reaches the valley. Human figures fall into a waterway and release corpse-fed 水彘蜂; a giant python displaces the swarm; 刀齿蝰鱼 consume the python and then pursue the raft. Threats replace and repurpose one another, so each apparent escape reveals a larger predator or a new use for the same environment. The sequence also defines the trio's complementary roles: Shirley 杨 redirects the fish and controls movement, 王胖子 supplies firepower, and 胡八一 interprets the route and the burial evidence they encounter.
+
+The forest sequence changes from biological pursuit to explanatory uncertainty. A wartime aircraft lodged inside intertwined trees supplies guns, a dead airman and Morse equipment, yet its apparent signal can also be attributed to owls, dripping blood, moving vines or a warning spirit. Beneath it, a blood-filled jade coffin and ritual register connect 献王, the 雮尘珠 and a paired-toad route into the valley. This pairing of materially specific modern wreckage with geomancy, sacrificial botany and an unresolved signal shows the novel's source-layering method while preserving the distinction between atmospheric plausibility and historical or scientific verification.
 
 The earlier gourd-cave sequence establishes the expedition's progression logic. An anomalous stone gate, vanished river, insect barrier, mountain temple and nine-toad mechanism turn landscape interpretation into access; luminous corpses, giant organisms and murals then disclose the cave's ecology in stages. The armored 霍氏不死虫 behaves like a boss encounter whose resistance, blinding, explosive defeat and copper-box “reward” make the route resemble [[AdventureGameNarrativeStructure|adventure-game progression]]. That analogy describes causal pacing, not a verified claim about authorial influence.
 
@@ -37,7 +42,7 @@ The novel also acts as a hinge. The jade rings appear to form a decoding apparat
 
 ## Key Characteristics
 
-- Concentrates grotesque creatures, bodily transformation and continuous pursuit into a high-intensity, game-like progression whose puzzles, boss encounters and chained mechanisms turn one breached defense into the next stage.
+- Concentrates grotesque creatures, bodily transformation and continuous pursuit into a high-intensity, game-like progression: insects, python and predatory fish displace one another before the valley, while later puzzles, boss encounters and chained mechanisms turn one breached defense into the next stage.
 - Organizes the inner tomb as a vertical human-world–hell–heaven puzzle whose symbolic levels direct physical exploration.
 - Uses vine sorcery as its most distinctive recurring motif, with diminishing effect when related attacks repeat too often.
 - Keeps some phenomena between supernatural and naturalistic interpretation, though overlapping unexplained rules can also create confusion.
@@ -49,6 +54,7 @@ The novel also acts as a hinge. The jade rings appear to form a decoding apparat
 
 ### Creature density and motif repetition
 
+- [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] begins with human-figure insects, python, predatory fish and blood-drinking vines before the trio reaches the valley.
 - [[081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst]] follows luminous corpses, giant cave organisms, the 霍氏不死虫 battle and the discovery of the corpse–痋胎–fungus feeding cycle.
 - [[084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo]] moves from the 霍氏不死虫's copper box through 痋婴 pursuit, a cliff escape, a deep-pool vortex and the arrival at 凌云宫.
 - [[088-quhua-gui-chuideng-zhi-yunnan-chonggu-p4-xianwang-munei-huanleduo-lq0pwqjqhjmnsuxs3vslnsdbkng2]] moves from vine infants and a tongue parasite through fire, mercury, coffins, and a mutilated substitute body.
@@ -62,11 +68,13 @@ The novel also acts as a hinge. The jade rings appear to form a decoding apparat
 
 ### Layered context and uncertain hazards
 
+- [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] combines an aircraft, firearms and Morse equipment with geomancy, a ritual register, jade burial and predatory vines while leaving the signal's cause unresolved.
 - [[081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst]] mixes feng-shui vocabulary, environmental engineering, prehistoric survival and a fictional biological cycle while leaving their historical and scientific status bounded.
 - [[084-quhua-gui-chuideng-zhi-yunnan-chonggu-p3-zhongyu-laidao-xianwang-muqian-llnngfpiphl0_w9oparywhiwwawo]] distinguishes contextual discussion of Yunnan geography, archaeology and Qin-Han architecture from the novel's mixed geomantic, radioactive and pseudo-technical explanation of the jade toad and “水龙晕.”
 
 ### Game-like progression and coerced infrastructure
 
+- [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] makes successive predators, acquired weapons, the ritual register and the toad route change both the party's capabilities and its next objective.
 - [[081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst]] links destination, mechanism, environmental discovery, boss-state change and copper-box reward while interpreting the miasma cycle as a ruler's appropriation of creatures and sacrificed bodies.
 
 ### Cultural inversion and ambiguous fear
@@ -75,6 +83,7 @@ The novel also acts as a hinge. The jade rings appear to form a decoding apparat
 
 ### Ambiguous horror and unstable rules
 
+- [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] preserves owl, blood, vine, communications-device and spirit explanations for the apparent message from the dead airman.
 - [[089-quhua-gui-chuideng-zhi-yunnan-chonggu-dajieju-ltn3tn440w4aixuq8tisabgsdk5n]] contrasts the productive uncertainty of the tree-corpse signal with confusion over invisible hands, 王妃 resentment and meat-lingzhi reactions.
 
 ### Final-threat resolution
@@ -91,13 +100,14 @@ The novel also acts as a hinge. The jade rings appear to form a decoding apparat
 
 ## Qualifications
 
-The current profile comes from four conversational episodes, not a complete independent reading of the novel or its publication history. The hosts' rankings, causal criticism, character interpretation, tomb symbolism, game analogy, and comparison with earlier books remain judgments. The program's claims about Yunnan archaeology, 山魈 worship, Qin-Han architecture, earth veins and landscape engineering are not independently established here. Mirages, 太岁, ritual objects, Tibetan traditions, geomancy, immortality practices, radiation effects, prehistoric survival, cave oxygen, corpse oil, ultrasonic effects, parasites, biological electricity, fungal feeding cycles and supernatural events are discussed as fiction, online findings, anecdote or uncertain lore rather than verified historical, archaeological, medical, or scientific knowledge.
+The current profile comes from five conversational episodes, not a complete independent reading of the novel or its publication history. The hosts' rankings, causal criticism, character interpretation, tomb symbolism, game analogy, ethical distinctions, and comparison with earlier books remain judgments. The program's claims about Yunnan archaeology, 山魈 worship, Qin-Han architecture, earth veins and landscape engineering are not independently established here. Mirages, 太岁, ritual objects, Tibetan traditions, geomancy, immortality practices, radiation effects, prehistoric survival, cave oxygen, corpse oil, ultrasonic effects, parasites, biological electricity, fungal feeding cycles and supernatural events are discussed as fiction, online findings, anecdote or uncertain lore rather than verified historical, archaeological, medical, or scientific knowledge.
 
 ## What Changed
 
-- Extended the bounded account backward to the valley entrance, mountain-temple mechanism and gourd cave.
-- Added the 霍氏不死虫 sequence as a case of game-like route, boss-state change and reward progression.
-- Added the corpse–痋胎–fungus–miasma cycle as a fictional system that converts coerced bodies into tomb infrastructure.
+- Extended the bounded account backward through 折龙山 waterway and the tree-bound aircraft to the expedition's approach.
+- Added predator replacement as the opening form of layered threat escalation.
+- Added the aircraft signal as an early case of deliberately unresolved physical and supernatural explanation.
+- Added the jade coffin, ritual register and paired-toad route as the clue chain leading into the valley.
 
 ## Relationships
 
