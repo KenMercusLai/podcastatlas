@@ -34925,3 +34925,11 @@ Added source `072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3r
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.175这医生真的有病，比患者还离谱｜医师节
+
+Added source `vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_`; resynthesized [[ClinicianVulnerabilityAndSelfCare]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: medical expertise can improve interpretation without removing pain, fear, privacy concerns, treatment resistance, poor adherence, or the need for gradual recovery; patient-side experience, analogous fear, and deliberate workflow testing can improve communication and care design without making personal suffering a prerequisite for empathy. No settled contradiction was adopted. ADHD self-interpretation, injury mechanisms, intestinal pigmentation, reflux, motility, anesthesia and catheter experiences, and recovery claims remain anecdotal or source-scoped rather than diagnosis, causation, or individualized treatment guidance. Broad [[Atang]], [[ZheBingShuoLaiHuaChang]], [[YinLaoshiZheBing]], [[DongXintong]], and other partial-name guest pages were kept closed because the focused source and concept capture the durable addition without reopening large evidence inventories or over-resolving ambiguous identities. The automatic `wiki/overview.md` was revised at the canonical ingest stage; downstream synthesis found no dirty topic and global compaction was not due. Refreshed artifacts validate 4,375 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

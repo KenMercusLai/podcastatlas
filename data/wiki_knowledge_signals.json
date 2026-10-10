@@ -47271,9 +47271,9 @@
       "url": "/wiki/concepts/clinicianpubliceducationpractice/"
     },
     "ClinicianVulnerabilityAndSelfCare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liKQsiszM7Z-evaZ5AjXeRXzdLiV [liKQsiszM7Z-evaZ5AjXeRXzdLiV].md",
@@ -47281,9 +47281,16 @@
           "show": "这病说来话长",
           "title": "VOL.107躁狂？抑郁？网红急诊科医生的精神AB面",
           "url": "/wiki/sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv/"
+        },
+        {
+          "episode_file": "lgYyLbmr0MqNjDua4CKS1CiRLsC_ [lgYyLbmr0MqNjDua4CKS1CiRLsC_].md",
+          "key": "vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_",
+          "show": "这病说来话长",
+          "title": "VOL.175这医生真的有病，比患者还离谱｜医师节",
+          "url": "/wiki/sources/vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/clinicianvulnerabilityandselfcare/"
     },
     "ClockedOut": {
