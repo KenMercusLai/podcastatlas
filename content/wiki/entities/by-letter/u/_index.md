@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13063
+wiki_total_pages: 13066
 wiki_pages:
+  - key: "UnitedStatesPresidentialElection1884"
+    title: "1884 United States Presidential Election"
+    url: "/wiki/entities/unitedstatespresidentialelection1884/"
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
     url: "/wiki/entities/unitedstatespresidentialelection1968/"

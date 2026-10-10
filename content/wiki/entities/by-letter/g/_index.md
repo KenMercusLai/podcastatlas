@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13063
+wiki_total_pages: 13066
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "GroverAndBaker"
     title: "Grover and Baker"
     url: "/wiki/entities/groverandbaker/"
+  - key: "GroverCleveland"
+    title: "Grover Cleveland"
+    url: "/wiki/entities/grovercleveland/"
   - key: "GrowNYC"
     title: "GrowNYC"
     url: "/wiki/entities/grownyc/"

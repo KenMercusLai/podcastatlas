@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2689
+topic_total_pages: 2691
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1036,6 +1036,9 @@ topic_concepts:
   - key: "PartialAbdicationPowerSplit"
     title: "Partial Abdication Power Split / 退位留权式权力分裂"
     url: "/wiki/concepts/partialabdicationpowersplit/"
+  - key: "PartisanScandalEvidence"
+    title: "Partisan Scandal Evidence"
+    url: "/wiki/concepts/partisanscandalevidence/"
   - key: "PartitionOfJin"
     title: "Partition of Jin / 三家分晋"
     url: "/wiki/concepts/partitionofjin/"
@@ -6624,6 +6627,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "601-scandal-in-the-white-house-glt1369800109"
+    title: "601. Scandal in the White House"
+    url: "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
   - key: "606-enoch-powell-rivers-of-blood-glt7520958596"
     title: "606. Enoch Powell: Rivers of Blood"
     url: "/wiki/sources/606-enoch-powell-rivers-of-blood-glt7520958596/"

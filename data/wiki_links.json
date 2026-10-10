@@ -3683,6 +3683,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "601-scandal-in-the-white-house-glt1369800109": {
+    "title": "601. Scandal in the White House",
+    "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+  },
   "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364": {
     "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
     "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
@@ -37511,6 +37515,10 @@
     "title": "Grover and Baker",
     "url": "/wiki/entities/groverandbaker/"
   },
+  "GroverCleveland": {
+    "title": "Grover Cleveland",
+    "url": "/wiki/entities/grovercleveland/"
+  },
   "GrowNYC": {
     "title": "GrowNYC",
     "url": "/wiki/entities/grownyc/"
@@ -55675,6 +55683,10 @@
     "title": "Maria Curi",
     "url": "/wiki/entities/mariacurie/"
   },
+  "MariaHalpin": {
+    "title": "Maria Halpin",
+    "url": "/wiki/entities/mariahalpin/"
+  },
   "MariaHollenhorst": {
     "title": "Maria Hollenhorst",
     "url": "/wiki/entities/mariahollenhorst/"
@@ -64683,6 +64695,10 @@
     "title": "Participatory Portrait Co-Creation / 参与式约拍共创",
     "url": "/wiki/concepts/participatoryportraitcocreation/"
   },
+  "PartisanScandalEvidence": {
+    "title": "Partisan Scandal Evidence",
+    "url": "/wiki/concepts/partisanscandalevidence/"
+  },
   "PartisanshipAsElectoralGravity": {
     "title": "Partisanship as Electoral Gravity",
     "url": "/wiki/concepts/partisanshipaselectoralgravity/"
@@ -67118,6 +67134,10 @@
   "PoliticalRoleAdaptability": {
     "title": "Political Role Adaptability",
     "url": "/wiki/concepts/politicalroleadaptability/"
+  },
+  "PoliticalScandalVoterAlignment": {
+    "title": "Political Scandal and Voter Alignment",
+    "url": "/wiki/concepts/politicalscandalvoteralignment/"
   },
   "PoliticalSemanticChange": {
     "title": "Political Semantic Change / 政治性语义变迁",
@@ -86990,6 +87010,10 @@
   "UnitedStatesPharmacopeia": {
     "title": "United States Pharmacopeia",
     "url": "/wiki/entities/unitedstatespharmacopeia/"
+  },
+  "UnitedStatesPresidentialElection1884": {
+    "title": "1884 United States Presidential Election",
+    "url": "/wiki/entities/unitedstatespresidentialelection1884/"
   },
   "UnitedStatesPresidentialElection1968": {
     "title": "1968 United States Presidential Election",

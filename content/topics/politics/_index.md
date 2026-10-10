@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3263
+topic_total_pages: 3264
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3142,6 +3142,9 @@ topic_concepts:
   - key: "PoliticalRoleAdaptability"
     title: "Political Role Adaptability"
     url: "/wiki/concepts/politicalroleadaptability/"
+  - key: "PoliticalScandalVoterAlignment"
+    title: "Political Scandal and Voter Alignment"
+    url: "/wiki/concepts/politicalscandalvoteralignment/"
   - key: "PoliticalSemanticChange"
     title: "Political Semantic Change / 政治性语义变迁"
     url: "/wiki/concepts/politicalsemanticchange/"

@@ -6284,6 +6284,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "601-scandal-in-the-white-house-glt1369800109": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364": [
     {
       "key": "culture",
@@ -65767,6 +65774,18 @@
       "url": "/topics/history/"
     }
   ],
+  "PartisanScandalEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PartisanshipAsElectoralGravity": [
     {
       "key": "politics",
@@ -68228,6 +68247,13 @@
     }
   ],
   "PoliticalRoleAdaptability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalScandalVoterAlignment": [
     {
       "key": "politics",
       "label": "Politics",

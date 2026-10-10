@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10234
+wiki_total_pages: 10236
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "ParticipatoryPortraitCoCreation"
     title: "Participatory Portrait Co-Creation / 参与式约拍共创"
     url: "/wiki/concepts/participatoryportraitcocreation/"
+  - key: "PartisanScandalEvidence"
+    title: "Partisan Scandal Evidence"
+    url: "/wiki/concepts/partisanscandalevidence/"
   - key: "PartisanshipAsElectoralGravity"
     title: "Partisanship as Electoral Gravity"
     url: "/wiki/concepts/partisanshipaselectoralgravity/"
@@ -1223,6 +1226,9 @@ wiki_pages:
   - key: "PoliticalRoleAdaptability"
     title: "Political Role Adaptability"
     url: "/wiki/concepts/politicalroleadaptability/"
+  - key: "PoliticalScandalVoterAlignment"
+    title: "Political Scandal and Voter Alignment"
+    url: "/wiki/concepts/politicalscandalvoteralignment/"
   - key: "PoliticalSemanticChange"
     title: "Political Semantic Change / 政治性语义变迁"
     url: "/wiki/concepts/politicalsemanticchange/"

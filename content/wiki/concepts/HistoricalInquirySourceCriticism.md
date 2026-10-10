@@ -7,6 +7,7 @@ sources:
   - 184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798
   - 128-rasputin-glt1290733613
   - 56-nero-glt7241559003
+  - 601-scandal-in-the-white-house-glt1369800109
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -25,12 +26,14 @@ Claim-level triangulation is more reliable than passing judgment on an entire au
 
 The method's hardest boundary is correction without reflex reversal. An embellished allegation can be rejected while adjacent misconduct remains well supported; historically causal belief can be reconstructed without literal endorsement; and source bias can qualify a negative judgment without converting the subject into an innocent victim of propaganda. Rasputin's legend and Nero's black reputation both require this separation of allegation, corroboration, causal effect, and current judgment. [[128-rasputin-glt1290733613]] [[56-nero-glt7241559003]]
 
+The Cleveland–Halpin scandal extends that boundary to competing partisan mediation and unequal voice. Republican and Democratic publications circulated incompatible accounts attributed to [[MariaHalpin]], so evaluation must trace drafting and publication routes while decomposing acquaintance, intimacy, paternity, consent, custody, confinement, settlement, and electoral effect. Uncertainty about transmission does not establish innocence, and evidence for one proposition cannot be transferred to another. [[601-scandal-in-the-white-house-glt1369800109]]
+
 ## Key Claims
 
 - Historical inquiry begins with questions and evidence routes, not with converting inherited narrative directly into fact.
 - Attribution and expressed doubt preserve the difference between recording testimony and endorsing it.
 - Genre, political interest, cultural assumptions, and performance shape evidence without automatically voiding it.
-- Claims should be decomposed into observation, transmission, inference, literary function, motive, and corroboration.
+- Claims should be decomposed into observation, transmission, inference, literary function, motive, corroboration, and the distinct propositions an account bundles together.
 - Texts should be compared with material, visual, administrative, and archaeological evidence where available.
 - Objective certainty is uneven, but bounded and revisable knowledge remains possible.
 - Correcting embellishment or bias does not require denying better-supported adjacent misconduct.
@@ -42,16 +45,18 @@ The method's hardest boundary is correction without reflex reversal. An embellis
 - Scandal-source triangulation: [[128-rasputin-glt1290733613]] compares police reporting, biography, medical evidence, conspirator memoir, propaganda, and later myth.
 - Hostile convergence: [[56-nero-glt7241559003]] identifies overlapping senatorial, Christian, and successor interests rather than treating multiple negative traditions as automatically independent confirmation.
 - Text-material comparison: [[56-nero-glt7241559003]] uses coins, statues, archaeology, and Nero's public self-presentation to assess literary claims while preserving uncertainty about vivid anecdotes.
+- Competing partisan mediation: [[601-scandal-in-the-white-house-glt1369800109]] traces incompatible campaign-routed statements while separating relationship, paternity, consent, custody, confinement, payment, and voting claims.
 
 ## Counterevidence & Qualifications
 
-Explicit attribution, skepticism, or material comparison does not prove accuracy, and modern rationalization can create new speculation. Winner-shaped or faction-produced archives are incomplete and interested, not uniformly false. Material evidence is also partial and interpretive. Exposing fabrication can become overcorrection if it erases supported harm; conversely, real misconduct can make unrelated allegations feel plausible without proving them. These sources offer public-history cases rather than a complete philosophy of historical method.
+Explicit attribution, skepticism, or material comparison does not prove accuracy, and modern rationalization can create new speculation. Winner-shaped or faction-produced archives are incomplete and interested, not uniformly false. Material evidence is also partial and interpretive. Exposing fabrication can become overcorrection if it erases supported or alleged harm; conversely, real misconduct can make unrelated allegations feel plausible without proving them. Gendered credibility attacks and missing first-person testimony can limit judgment without deciding the underlying event. These sources offer public-history cases rather than a complete philosophy of historical method.
 
 ## What Changed
 
 - Added hostile-source convergence as a problem distinct from independent corroboration.
 - Added explicit comparison between literary narrative, coins, imagery, and archaeology.
 - Strengthened the boundary between revision, uncertainty, and ungrounded rehabilitation.
+- Added proposition-level analysis for conflicting partisan accounts and made unequal access to the archive an explicit evidentiary constraint.
 
 ## Related Concepts
 

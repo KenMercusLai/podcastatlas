@@ -34657,3 +34657,10 @@ Added source `essentials-how-to-exercise-for-strength-gains-hormone-optimization
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 601. Scandal in the White House
+
+Added source `601-scandal-in-the-white-house-glt1369800109`; created [[GroverCleveland]], [[MariaHalpin]], [[UnitedStatesPresidentialElection1884|1884 United States presidential election]], [[PartisanScandalEvidence]], and [[PoliticalScandalVoterAlignment]]; and resynthesized [[HistoricalInquirySourceCriticism]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Cleveland's acquaintance and probable sexual relationship with Halpin can be distinguished from unresolved claims about paternity, rape, custody, institutional confinement, and settlement; Republican and Democratic mediation compromised the surviving public record, but partisan transmission does not prove Halpin's allegation false or Cleveland innocent. The 1884 result likewise cannot isolate the scandal's net electoral effect from Blaine's corruption liabilities, party identity, reform, tariffs, and Civil War memory. No settled contradiction was adopted. Oscar Folsom's possible paternity, Cleveland's motives, the voluntariness of custody and settlement arrangements, Halpin's mental and physical condition, and campaign effects remain disputed or source-scoped. Broad [[TheRestIsHistory]] and host profiles were kept closed because the focused source, people, election, and concepts capture the bounded addition without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,341 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

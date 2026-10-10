@@ -105269,6 +105269,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/grouppolarization/"
     },
+    "GroverCleveland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/grovercleveland/"
+    },
     "GrowthHormoneBehavioralRegulation": {
       "episode_count": 5,
       "show_count": 1,
@@ -115939,9 +115955,9 @@
       "url": "/wiki/concepts/historicalgreatness/"
     },
     "HistoricalInquirySourceCriticism": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7158094581 [GLT7158094581].md",
@@ -115970,6 +115986,13 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
         }
       ],
       "updated": "2026-10-03",
@@ -165561,6 +165584,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/mariacurie/"
     },
+    "MariaHalpin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/mariahalpin/"
+    },
     "MariaLeopoldina": {
       "episode_count": 1,
       "show_count": 1,
@@ -192997,6 +193036,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/participatoryportraitcocreation/"
     },
+    "PartisanScandalEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/partisanscandalevidence/"
+    },
     "PartisanshipAsElectoralGravity": {
       "episode_count": 1,
       "show_count": 1,
@@ -200285,6 +200340,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/politicalroleadaptability/"
+    },
+    "PoliticalScandalVoterAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/politicalscandalvoteralignment/"
     },
     "PoliticalSemanticChange": {
       "episode_count": 1,
@@ -258223,6 +258294,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/unitednationschildrenfund/"
+    },
+    "UnitedStatesPresidentialElection1884": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1369800109 [GLT1369800109].md",
+          "key": "601-scandal-in-the-white-house-glt1369800109",
+          "show": "The Rest Is History",
+          "title": "601. Scandal in the White House",
+          "url": "/wiki/sources/601-scandal-in-the-white-house-glt1369800109/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/unitedstatespresidentialelection1884/"
     },
     "UnitedStatesPresidentialElection1968": {
       "episode_count": 5,

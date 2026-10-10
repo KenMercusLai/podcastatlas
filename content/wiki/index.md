@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [601. Scandal in the White House](sources/601-scandal-in-the-white-house-glt1369800109.md) — The Rest Is History on Grover Cleveland, Maria Halpin, the 1884 election, partisan scandal evidence, and the limits of inferring voter response.
 - [Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016.md) — Condensed Huberman Lab interview on adaptation-led resistance training, recovery timing, demand-matched fuel, skill quality, and thermal exposure.
 - [602. Greek Myths: Zeus, King of the Gods (Part 1)](sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364.md) — The Rest Is History on Hesiod, Zeus's divine succession, non-scriptural Greek religion, Indo-European and Near Eastern layers, and civic hero genealogy.
 - [Build Your Ideal Physique | Dr. Bret Contreras](sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181.md) — Huberman Lab interview on recoverable resistance training, progressive overload, exercise rotation, specialization, and glute hypertrophy.
@@ -4419,6 +4420,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 
 ## Entities
+- [Grover Cleveland](entities/GroverCleveland.md) — U.S. president whose anti-corruption candidacy survived unresolved allegations involving Maria Halpin in 1884.
+- [Maria Halpin](entities/MariaHalpin.md) — Buffalo working woman whose mediated allegations and missing unfiltered voice define the Cleveland scandal's evidentiary limits.
+- [1884 United States Presidential Election](entities/UnitedStatesPresidentialElection1884.md) — Close Cleveland-Blaine contest joining corruption, reform, tariffs, Civil War memory, and private-conduct allegations.
 - [Hesiod](entities/Hesiod.md) — Early Greek poet whose Theogony organizes divine genealogy without becoming binding scripture.
 - [Theogony](entities/Theogony.md) — Hesiodic poem tracing divine generations and Zeus's rise to cosmic rule.
 - [Bret Contreras](entities/BretContreras.md) — Strength coach and sports-science PhD specializing in glute training and recoverable hypertrophy programming.
@@ -17546,6 +17550,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Partisan Scandal Evidence](concepts/PartisanScandalEvidence.md) — Claim-level method for evidence whose creation and transmission are shaped by political advantage.
+- [Political Scandal and Voter Alignment](concepts/PoliticalScandalVoterAlignment.md) — Framework separating scandal salience from unsupported claims about its net electoral effect.
 - [Divine Succession Myth](concepts/DivineSuccessionMyth.md) — Violent intergenerational transfer of cosmic sovereignty from Uranus through Cronos to Zeus.
 - [Greek Hero Civic Genealogy](concepts/GreekHeroCivicGenealogy.md) — Divine descent linking local founders and monster-slayers to panhellenic sacred prestige.
 - [Glute Hypertrophy Programming](concepts/GluteHypertrophyProgramming.md) — Recovery-aware glute specialization across squat, hinge, thrust, and abduction patterns.
