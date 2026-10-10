@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1521
+topic_total_pages: 1522
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3963,6 +3963,9 @@ topic_sources:
   - key: "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510"
     title: "Essentials: How Hearing & Balance Enhance Focus & Learning"
     url: "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+  - key: "essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030"
+    title: "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss"
+    url: "/wiki/sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030/"
   - key: "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
     title: "Essentials: How Smell, Taste & Pheromones Shape Behavior"
     url: "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"

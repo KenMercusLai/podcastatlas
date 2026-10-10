@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss](sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030.md) — Condensed Huberman Lab interview on long- and short-term mate choice, multidimensional mate value, deception, jealousy, stalking, and conflict-risk boundaries.
 - [606. Enoch Powell: Rivers of Blood](sources/606-enoch-powell-rivers-of-blood-glt7520958596.md) — The Rest Is History on Powell's biography, postwar Commonwealth immigration, the 1968 speech, its backlash, failed race-war prediction, and populist afterlife.
 - [607. Nelson’s Lover: The Scandalous Lady Hamilton](sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938.md) — The Rest Is History on Emma Hamilton’s rise from poverty and patronage to portrait celebrity, classical performance, marriage, and political influence in Naples.
 - [Essentials: Time Perception, Memory & Focus](sources/essentials-time-perception-memory-focus-scim9668683035.md) — Condensed Huberman Lab episode on biological entrainment, present and remembered duration, novelty, neuromodulator state, and flexible ultradian work blocks.

@@ -34546,3 +34546,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss
+
+Added source `essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030`; and resynthesized [[DavidBuss]], [[EvolutionaryMatingStrategies]], [[MateValueAndMutualChoice]], [[JealousyAndMateRetention]], and [[MatingConflictRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: long- and short-term mate choice weight traits and risks differently; mate value remains multidimensional, reciprocal, socially comparative, and partly person-specific; and jealousy can move from relationship-threat detection toward surveillance, stalking, coercion, or violence without evolutionary explanation excusing harm. No settled contradiction was adopted. This Essentials release substantially condenses [[how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839]] and is recorded as overlapping provenance rather than independent confirmation; preference differences, sensory cues, mate-value effects, stalking and violence rates, attachment claims, sex differences, and functional explanations remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], and attachment pages were kept closed because the source note and five focused pages capture the durable additions without duplicating an editorially shortened release across adjacent profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,327 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
