@@ -35157,3 +35157,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 582. The Body in the Woods: A Medieval Murder Mystery
+
+Added source `582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685`; created [[WilliamOfNorwich]] and [[ThomasOfMonmouth]]; and resynthesized [[MRJames|M. R. James]] and [[AntisemiticConspiracyScapegoating]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: William's unresolved 1144 death became historically consequential when family accusation, crusading hostility, debt conflict, clerical strategy, Passion imagery, weak witnesses, relic promotion, and Thomas's hagiography were assembled into a portable ritual-murder narrative; local skepticism and official protection did not prevent later diffusion and violence. No settled contradiction was adopted. William's killer, Thomas's sincerity and witnesses, exact institutional motives, alleged miracles, transmission paths, legal details, and the proposed influence on James's “Lost Hearts” remain source-scoped or qualified. Broad [[TheRestIsHistory]] and [[ConspiracyTheoryPatternSeeking]] pages were kept closed because the focused source, actor, scholar, and antisemitic-scapegoating pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,404 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -17287,9 +17287,9 @@
       "url": "/wiki/concepts/antinouscultformation/"
     },
     "AntisemiticConspiracyScapegoating": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7580472793 [GLT7580472793].md",
@@ -17297,9 +17297,16 @@
           "show": "The Rest Is History",
           "title": "12. Conspiracy Theories",
           "url": "/wiki/sources/12-conspiracy-theories-glt7580472793/"
+        },
+        {
+          "episode_file": "GLT7904466685 [GLT7904466685].md",
+          "key": "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685",
+          "show": "The Rest Is History",
+          "title": "582. The Body in the Woods: A Medieval Murder Mystery",
+          "url": "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/antisemiticconspiracyscapegoating/"
     },
     "AntisemitismIsraelCriticismBoundary": {
@@ -164550,9 +164557,9 @@
       "url": "/wiki/entities/mpwrai/"
     },
     "MRJames": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -164567,9 +164574,16 @@
           "show": "The Rest Is History",
           "title": "66. Ghosts",
           "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        },
+        {
+          "episode_file": "GLT7904466685 [GLT7904466685].md",
+          "key": "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685",
+          "show": "The Rest Is History",
+          "title": "582. The Body in the Woods: A Medieval Murder Mystery",
+          "url": "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/mrjames/"
     },
     "MTRCorporation": {
@@ -254987,6 +255001,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/thomasmuntzer/"
     },
+    "ThomasOfMonmouth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7904466685 [GLT7904466685].md",
+          "key": "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685",
+          "show": "The Rest Is History",
+          "title": "582. The Body in the Woods: A Medieval Murder Mystery",
+          "url": "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/thomasofmonmouth/"
+    },
     "ThomasPaine": {
       "episode_count": 2,
       "show_count": 2,
@@ -274075,6 +274105,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/williammurdoch/"
+    },
+    "WilliamOfNorwich": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7904466685 [GLT7904466685].md",
+          "key": "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685",
+          "show": "The Rest Is History",
+          "title": "582. The Body in the Woods: A Medieval Murder Mystery",
+          "url": "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/williamofnorwich/"
     },
     "WilliamOfOrange": {
       "episode_count": 2,

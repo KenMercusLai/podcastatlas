@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2708
+topic_total_pages: 2709
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685"
+    title: "582. The Body in the Woods: A Medieval Murder Mystery"
+    url: "/wiki/sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685/"
   - key: "583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490"
     title: "583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal"
     url: "/wiki/sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490/"

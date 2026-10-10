@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [582. The Body in the Woods: A Medieval Murder Mystery](sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685.md) — The Rest Is History on William of Norwich, Thomas of Monmouth, local skepticism, clerical incentive, and the formation and spread of the medieval blood libel.
 - [How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman](sources/scim4452883260-scim4452883260.md) — Huberman Lab interview on environmental neuroscience, attention restoration, nature exposure, rumination, health evidence, and biophilic design.
 - [583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal](sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490.md) — The Rest Is History on Harold Davidson's contested clerical scandal, defrocking, tabloid notoriety, paid humiliation, and death after a lion attack.
 - [Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging](sources/scim4003346356-scim4003346356.md) — Condensed Huberman Lab episode on appetite physiology, anorexic habit-reward dysregulation, binge-purge impulse control, flexible healthy eating, and qualified-care boundaries.
@@ -4483,6 +4484,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
 
 ## Entities
+- [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
+- [Thomas of Monmouth](entities/ThomasOfMonmouth.md) — Norwich monk whose unreliable hagiographic narrative promoted William's cult and a durable ritual-murder accusation.
 - [Marc Berman](entities/MarcBerman.md) — Environmental-neuroscience researcher studying how natural and built settings relate to attention, cognition, behavior, and health.
 - [Harold Davidson](entities/HaroldDavidson.md) — Defrocked Stiffkey rector whose disputed rescue ministry, boundary violations, tabloid scandal, fairground career, and death resist simple innocence or guilt narratives.
 - [谭东涵 / Tan Donghan](entities/TanDonghan.md) — Medically trained investment guest connecting innovative-drug development with payment, licensing, globalization, and original research capability.

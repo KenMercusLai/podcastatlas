@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13152
+wiki_total_pages: 13154
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "WilliamMurdoch"
     title: "William Murdoch"
     url: "/wiki/entities/williammurdoch/"
+  - key: "WilliamOfNorwich"
+    title: "William of Norwich"
+    url: "/wiki/entities/williamofnorwich/"
   - key: "WilliamOfOrange"
     title: "William of Orange"
     url: "/wiki/entities/williamoforange/"
