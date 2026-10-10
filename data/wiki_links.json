@@ -3675,6 +3675,10 @@
     "title": "61.自从拥有经济学的思维方式，人生都变简单了！",
     "url": "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
   },
+  "610-nelson-the-battle-of-copenhagen-part-3-glt9153225543": {
+    "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
+    "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+  },
   "611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489": {
     "title": "611. Nelson: Bonaparte Prepares to Strike (Part 4)",
     "url": "/wiki/sources/611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489/"
@@ -12351,6 +12355,10 @@
     "title": "Battle of Cannae / 坎尼会战",
     "url": "/wiki/concepts/battleofcannae/"
   },
+  "BattleOfCopenhagen1801": {
+    "title": "Battle of Copenhagen (1801)",
+    "url": "/wiki/entities/battleofcopenhagen1801/"
+  },
   "BattleOfCrecy": {
     "title": "Battle of Crécy",
     "url": "/wiki/entities/battleofcrecy/"
@@ -20655,6 +20663,10 @@
     "title": "Command Discipline Authority / 军法威严",
     "url": "/wiki/concepts/commanddisciplineauthority/"
   },
+  "CommandDisobedienceUnderBattlefieldUncertainty": {
+    "title": "Command Disobedience Under Battlefield Uncertainty",
+    "url": "/wiki/concepts/commanddisobedienceunderbattlefielduncertainty/"
+  },
   "CommandLawOverPersonalTies": {
     "title": "Command Law Over Personal Ties / 军令高于私交",
     "url": "/wiki/concepts/commandlawoverpersonalties/"
@@ -28110,6 +28122,10 @@
   "EdwardLeeHoward": {
     "title": "Edward Lee Howard / 爱德华·李·霍华德",
     "url": "/wiki/entities/edwardleehoward/"
+  },
+  "EdwardRiou": {
+    "title": "Edward Riou",
+    "url": "/wiki/entities/edwardriou/"
   },
   "EdwardSaid": {
     "title": "Edward Said",
@@ -42167,6 +42183,10 @@
     "title": "Hybrid Warfare Attribution Threshold",
     "url": "/wiki/concepts/hybridwarfareattributionthreshold/"
   },
+  "HydeParker": {
+    "title": "Hyde Parker",
+    "url": "/wiki/entities/hydeparker/"
+  },
   "HydraulicSiegeWarfare": {
     "title": "Hydraulic Siege Warfare / 水攻围城",
     "url": "/wiki/concepts/hydraulicsiegewarfare/"
@@ -49978,6 +49998,10 @@
   "LeagueFirstOperatingModel": {
     "title": "League First Operating Model",
     "url": "/wiki/concepts/leaguefirstoperatingmodel/"
+  },
+  "LeagueOfArmedNeutrality": {
+    "title": "League of Armed Neutrality",
+    "url": "/wiki/entities/leagueofarmedneutrality/"
   },
   "LeagueStakeholderAlignment": {
     "title": "League Stakeholder Alignment",

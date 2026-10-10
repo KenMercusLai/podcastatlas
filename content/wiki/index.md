@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [610. Nelson: The Battle of Copenhagen (Part 3)](sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543.md) — The Rest Is History on the Baltic crisis, Copenhagen's shoals and close action, Parker's withdrawal signal, Nelson's disobedience, Riou's death, and coercive ceasefire.
 - [How to Overcome Inner Resistance | Steven Pressfield](sources/how-to-overcome-inner-resistance-steven-pressfield-scim8607622458.md) — Huberman Lab interview on Resistance, turning pro, focused writing, drafts, shipping, mentorship, calling, sacrifice, and creative receptivity.
 - [名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！](sources/ltdplf6zr1agmhhbopqptutvr-ng-ltdplf6zr1agmhhbopqptutvr-ng.md) — 罗永浩对谈叶国富，以名创优品的供应商、加盟、逛店体验与IP转型，连接永辉从货架收费向产品、供应链和自有品牌主导的改革。
 - [VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆](sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz.md) — 这病说来话长 roundtable on unresolved symptoms, online self-diagnosis, somatization, proportionate medical assessment, and tolerance of diagnostic uncertainty.
@@ -4386,6 +4387,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 
 ## Entities
+- [Battle of Copenhagen (1801)](entities/BattleOfCopenhagen1801.md) — British attack on Danish defenses joining shallow-water planning, close action, command conflict, truce, and Baltic political change.
+- [Hyde Parker](entities/HydeParker.md) — British fleet commander whose withdrawal signal at Copenhagen exposed the limits of distant command visibility.
+- [Edward Riou](entities/EdwardRiou.md) — British frigate captain whose fatal obedience at Copenhagen qualifies the heroic memory of Nelson's disobedience.
+- [League of Armed Neutrality](entities/LeagueOfArmedNeutrality.md) — Baltic coalition whose neutral-shipping claims and threat to British supplies formed the strategic context for Copenhagen.
 - [Steven Pressfield](entities/StevenPressfield.md) — Writer whose practice joins resistance, professional conduct, finishing, mentorship, sacrifice, and spiritual receptivity.
 - [叶国富 / Ye Guofu](entities/YeGuofu.md) — 名创优品创始人及永辉改革推动者，以巡店、选品、标准化、IP试验和供应链改造为经营抓手。
 - [永辉超市 / Yonghui Superstores](entities/YonghuiSuperstores.md) — 正在尝试从货架收费转向产品、供应链、自有品牌和本地家庭适配的中国超市连锁。
@@ -17475,6 +17480,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OncoNexus](entities/OncoNexus.md) — Source-scoped oncology AI company intended to connect clinical conversations and operations through evidence-backed staff alerts.
 
 ## Concepts
+- [Command Disobedience Under Battlefield Uncertainty](concepts/CommandDisobedienceUnderBattlefieldUncertainty.md) — Framework for evaluating conflicting orders through local information, higher intent, rank, withdrawal risk, and outcome bias.
 - [Creative Professionalism](concepts/CreativeProfessionalism.md) — Behavior-based model of turning pro through regular attendance, protected attention, drafts, audience service, completion, and return.
 - [Resistance to Meaningful Work](concepts/ResistanceToMeaningfulWork.md) — Bounded framework for fear, procrastination, perfectionism, distraction, and social friction around valued work.
 - [逛店驱动的实体零售 / Browse-Led Physical Retail](concepts/BrowseLedPhysicalRetail.md) — 以发现、触摸、陈列、服务和冲动购买构成到店价值，而不把门店视为低效履约点。

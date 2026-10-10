@@ -8,6 +8,7 @@ sources:
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
   - 611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489
+  - 610-nelson-the-battle-of-copenhagen-part-3-glt9153225543
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -20,7 +21,7 @@ Sea control as state capacity is the ability to convert finance, administration,
 
 ## Current Synthesis
 
-The Trafalgar sources resist explaining British maritime power through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but the [[RoyalNavy]] rested on centuries of state formation: public credit, taxation, bureaucracy, professional training, examinations, dockyards, machine tools, provisioning, health, maintenance, practiced gunnery, delegated command, and a worldwide network made both the [[TrafalgarCampaign|campaign]] and [[NavalBreakthroughTactics|risk-heavy battle plan]] possible. The 2025 retellings bring this system onto the deck and into the blockade: food, water, fruit, maintenance, entertainment, medicine, signal work, Marines, surgeons, disciplined gun crews, workshops, factories, sailmakers, clerks, chemists, carpenters, and blacksmiths all appear behind fleet performance. Nearly two years off Toulon and the chase to the Caribbean show sea control as endurance and invasion constraint, but Villeneuve's escape and Nelson's failure to catch him show that capacity is not omniscience or automatic tactical contact. The same system controlled approaches, protected commerce and colonies, operated across oceans, and made temporary Channel control difficult. The contrast with French fiscal strain, discontinuity, dockyard weakness, and revolutionary damage, plus Spanish manpower and disease problems, shows state capacity comparatively: ships and admirals operate inside institutions that determine readiness, endurance, and confidence.
+The Trafalgar sources resist explaining British maritime power through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but the [[RoyalNavy]] rested on centuries of state formation: public credit, taxation, bureaucracy, professional training, examinations, dockyards, machine tools, provisioning, health, maintenance, practiced gunnery, delegated command, and a worldwide network made both the [[TrafalgarCampaign|campaign]] and [[NavalBreakthroughTactics|risk-heavy battle plan]] possible. The 1801 [[BattleOfCopenhagen1801|Battle of Copenhagen]] shows that capacity operating in constrained Baltic waters: shallow-draft selection, pilots, reconnaissance, shoal marking, signals, gunnery, and negotiation converted maritime power into pressure on [[Denmark]] and the [[LeagueOfArmedNeutrality]], while groundings and conflicting withdrawal judgments exposed persistent uncertainty. The later retellings bring the system into blockade and global pursuit: food, water, fruit, maintenance, medicine, signal work, disciplined gun crews, skilled trades, industry, and government appear behind fleet performance. Nearly two years off Toulon and the chase to the Caribbean show sea control as endurance and invasion constraint, but Villeneuve's escape and Nelson's failure to catch him show that capacity is not omniscience or automatic tactical contact.
 
 ## Key Claims
 
@@ -29,13 +30,14 @@ The Trafalgar sources resist explaining British maritime power through individua
 - Sea control can protect routes and constrain an opponent even when surveillance fails and no decisive interception occurs.
 - Tactical excellence becomes strategically meaningful when a state can prepare crews, sustain fleets, protect commerce, and exploit victory.
 - Maritime dominance can constrain invasion and a continental rival without immediately defeating that rival on land.
-- Coalition fleet totals can conceal unequal readiness, institutional damage, and divergent political direction.
+- Coalition fleet totals can conceal unequal readiness and political direction, while sea control can coerce neutral or smaller states whose sovereignty and casualties remain part of the analysis.
 - National hero stories make system capacity legible but can overconcentrate credit in one commander or battle.
 
 ## Evidence
 
 ### Campaign endurance and comparative capacity
 
+- [[610-nelson-the-battle-of-copenhagen-part-3-glt9153225543]] connects Baltic supply access, pilots, draft, reconnaissance, shoals, gunnery, signals, ceasefire, and temporary Danish neutrality.
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects blockade, Atlantic pursuit, Caribbean commerce, sailor care, French revolutionary naval damage, Spanish manpower loss, disease, and supply to the 1805 balance.
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] traces the longer development of finance, professionalization, administration, logistics, health, dockyards, gunnery, Channel control, and Mediterranean reach.
 - [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] grounds blockade endurance in provisioning, health, maintenance, discipline, morale, intelligence gaps, Villeneuve's escape, colonial protection, and an unsuccessful transatlantic chase.
@@ -52,20 +54,21 @@ The Trafalgar sources resist explaining British maritime power through individua
 
 ## Counterevidence & Qualifications
 
-The sources are British-centered, and the 2025 episodes substantially overlap the 2022 campaign and battle accounts rather than independently confirming them. They acknowledge that blockade did not prevent Villeneuve's escape and Trafalgar did not end French shipbuilding or continental war. Claims about invasion feasibility, spending shares, population, blockade duration, punishment totals, firing rates, crew fitness, Caribbean stakes, institutional superiority, industrial and public-health priority, empire, and later abolition enforcement are broad and source-scoped. Sea control is best treated as an enabling and constraining capacity, not omniscience or a sufficient cause of every later British success.
+The sources are British-centered, and the later episodes sometimes overlap earlier campaign and battle accounts rather than independently confirming them. They acknowledge that three ships grounded at Copenhagen, blockade did not prevent Villeneuve's escape, and Trafalgar did not end French shipbuilding or continental war. Claims about invasion feasibility, spending shares, population, blockade duration, punishment totals, firing rates, crew fitness, Caribbean and Baltic stakes, institutional superiority, industrial and public-health priority, empire, and later abolition enforcement are broad and source-scoped. Sea control is best treated as an enabling, constraining, and sometimes coercive capacity, not omniscience or a sufficient cause of every later British success.
 
 ## What Changed
 
-- Grounded blockade and pursuit in food, water, fruit, maintenance, health, morale, discipline, and information.
-- Added Villeneuve's escape and Nelson's unsuccessful chase as direct limits on what sea-control capacity guarantees.
-- Clarified that colonial protection and invasion constraint can matter even without decisive interception.
-- Retained French institutional disruption and Spanish manpower limits as comparative evidence rather than deterministic causes.
-- Connected public credit, dockyards, shipboard labor, global endurance, and battle performance in one causal chain.
+- Added Baltic access, shallow-water reconnaissance, pilots, ship draft, and shoal marking to the capacity model.
+- Added groundings and conflicting withdrawal judgments as direct limits on institutional preparation.
+- Extended sea control from blockade and invasion constraint to coercion against neutral or smaller states.
+- Preserved Villeneuve's escape and Nelson's unsuccessful chase as limits on what capacity guarantees.
+- Connected public credit, dockyards, shipboard labor, regional coercion, global endurance, and battle performance in one causal chain.
 
 ## Related Concepts
 
 - [[TrafalgarCampaign]] - campaign showing state capacity through endurance, pursuit, blockade, and failed enemy concentration.
 - [[BattleOfTrafalgar]] - battle through which institutional capability became a decisive tactical outcome.
+- [[BattleOfCopenhagen1801]] - battle showing sea control through navigation, close action, command friction, and negotiated coercion.
 - [[NavalBreakthroughTactics]] - tactical layer enabled by trained crews and sustained infrastructure.
 - [[MaritimeCoalitionCoordination]] - contrasting framework for converting nominal allied strength into usable power.
 - [[HoratioNelson]] - heroic commander whose profile both symbolizes and can obscure system capacity.

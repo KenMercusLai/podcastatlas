@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2684
+topic_total_pages: 2685
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "610-nelson-the-battle-of-copenhagen-part-3-glt9153225543"
+    title: "610. Nelson: The Battle of Copenhagen (Part 3)"
+    url: "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
   - key: "611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489"
     title: "611. Nelson: Bonaparte Prepares to Strike (Part 4)"
     url: "/wiki/sources/611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489/"

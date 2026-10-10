@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13028
+wiki_total_pages: 13032
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "LeadingTheFuture"
     title: "Leading the Future"
     url: "/wiki/entities/leadingthefuture/"
+  - key: "LeagueOfArmedNeutrality"
+    title: "League of Armed Neutrality"
+    url: "/wiki/entities/leagueofarmedneutrality/"
   - key: "LeahCrum"
     title: "Leah Crum"
     url: "/wiki/entities/leahcrum/"

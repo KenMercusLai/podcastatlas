@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13028
+wiki_total_pages: 13032
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "HyattHotels"
     title: "Hyatt Hotels"
     url: "/wiki/entities/hyatthotels/"
+  - key: "HydeParker"
+    title: "Hyde Parker"
+    url: "/wiki/entities/hydeparker/"
   - key: "HypenVice"
     title: "Hypen Vice"
     url: "/wiki/entities/hypenvice/"

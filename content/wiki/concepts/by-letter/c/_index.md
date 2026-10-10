@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10194
+wiki_total_pages: 10195
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "CommandDisciplineAuthority"
     title: "Command Discipline Authority / 军法威严"
     url: "/wiki/concepts/commanddisciplineauthority/"
+  - key: "CommandDisobedienceUnderBattlefieldUncertainty"
+    title: "Command Disobedience Under Battlefield Uncertainty"
+    url: "/wiki/concepts/commanddisobedienceunderbattlefielduncertainty/"
   - key: "CommandLawOverPersonalTies"
     title: "Command Law Over Personal Ties / 军令高于私交"
     url: "/wiki/concepts/commandlawoverpersonalties/"
