@@ -11,8 +11,9 @@ sources:
   - eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767
   - the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395
   - essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277
+  - essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 # Circadian Eating-Window Alignment
@@ -35,6 +36,8 @@ Matched-intake evidence also bears on substrate use: in a metabolic chamber comp
 
 Patrick independently favors stopping food about three hours before bed. She links late eating to reduced evening insulin sensitivity, rising melatonin, digestive sympathetic activation, and less complete overnight blood-pressure and heart-rate dipping. This strengthens the plausibility of a pre-sleep buffer while leaving the exact interval, causal pathway, and clinical outcome dependent on schedule, meal composition, medication, and individual physiology.
 
+The Hattar Essentials edit repeats the cooperative-cue account in a shorter form: habitual meal times can create anticipatory hunger, approximate regularity can reinforce daily timing, and meal number can vary across people. Its allowance for later eating on a later active schedule supports alignment and consistency rather than a universal early clock time.
+
 ## Key Claims
 - Metabolic response can vary by time of day even when food and calories are held constant.
 - Eating-window duration and timing can be investigated separately from calorie restriction, although real-world protocols may still change calorie intake.
@@ -55,12 +58,13 @@ Patrick independently favors stopping food about three hours before bed. She lin
 - Endpoint-specific timing - [[scim4349715199-scim4349715199]] reports no general breakfast-versus-evening-skipping advantage in the evidence it reviewed while separately describing earlier-day protein utilization, preserving the distinction between specific physiology and universal schedule claims.
 - Fat oxidation and meal placement - [[eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767]] reports lower fat oxidation with later matched meals, cites better weight-loss outcomes with an earlier large lunch, and presents a three-hour pre-sleep buffer as St-Onge's personal practice.
 - Evening physiology - [[the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395]] connects lower evening insulin sensitivity and rising melatonin with reduced insulin output and cites improved overnight cardiovascular dipping when food ended three hours before bed.
+- Flexible regularity - [[essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570]] treats regular meals as anticipatory timing cues while allowing different meal counts and later schedules when they align with the person's active period.
 
 ## Counterevidence & Qualifications
-The sources do not establish one optimal window or a human longevity effect. The full fasting episode and its Essentials edit are overlapping versions rather than independent studies. Mouse studies, animal light-system experiments, observational logging, short interventions, a personal weight-loss account, an occupational firefighter trial, an earlier-day protein study, metabolic-chamber comparisons, a cardiovascular-dipping study, and lunch-timing associations answer different questions. Firefighters also differ from nurses, drivers, caregivers, and other disrupted sleepers. Four- or six-hour windows, eight-hour anchors, early meals, a mid-afternoon food cutoff, twelve-hour baselines, three-hour bedtime buffers, breakfast-versus-evening comparisons, and biomarker effects remain source-scoped examples rather than universal prescriptions. Reduced fat oxidation or lower evening insulin sensitivity does not by itself establish long-term weight or disease change. Meal timing does not replace adequate energy, protein, micronutrients, food quality, sleep, or condition-specific care. Fertility, eating-disorder, hormone, liver, gut, inflammation, autophagy, sweetener, and medication claims lack enough method detail here to become general protocols.
+The sources do not establish one optimal window or a human longevity effect. The full fasting episode and its Essentials edit, and the full Hattar interview and its Essentials edit, are overlapping versions rather than independent studies. Mouse studies, animal light-system experiments, observational logging, short interventions, a personal weight-loss account, an occupational firefighter trial, an earlier-day protein study, metabolic-chamber comparisons, a cardiovascular-dipping study, and lunch-timing associations answer different questions. Firefighters also differ from nurses, drivers, caregivers, and other disrupted sleepers. Four- or six-hour windows, eight-hour anchors, early meals, a mid-afternoon food cutoff, twelve-hour baselines, three-hour bedtime buffers, breakfast-versus-evening comparisons, and biomarker effects remain source-scoped examples rather than universal prescriptions. Reduced fat oxidation or lower evening insulin sensitivity does not by itself establish long-term weight or disease change. Meal timing does not replace adequate energy, protein, micronutrients, food quality, sleep, or condition-specific care. Fertility, eating-disorder, hormone, liver, gut, inflammation, autophagy, sweetener, and medication claims lack enough method detail here to become general protocols.
 
 ## What Changed
-- No material change to the current judgment; the Essentials edit repeats the full episode's timing framework and safety boundaries.
+- Added the Hattar edit's flexible regularity emphasis without changing the judgment that no meal count or clock schedule is universal.
 
 ## Related Concepts
 - [[MorningLightCircadianAnchoring]] - neighboring light-based input into daily timing.

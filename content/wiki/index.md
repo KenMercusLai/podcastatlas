@@ -4444,6 +4444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 24: Redefining Data Science in the Generative AI Era](sources/ep-24-redefining-data-science-in-the-generative-ai-era.md) — Data Science With Sam interview with Claire Lungo on durable data-science foundations, problem-led model choice, domain-aware prompting, application auditability, and statistical evaluation.
 - [Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277.md) — Condensed Huberman Lab episode on calorie balance, circadian eating-window consistency, physiological fasting state, post-meal movement, and individualized safety boundaries.
 - [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
+- [Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar](sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570.md) — Condensed Huberman Lab interview on retinal light sensing, morning consistency, indoor clock delay, meal timing, mood pathways, and body-time-aware travel.
 
 ## Entities
 - [于莺 / Yu Ying](entities/YuYingEmergencyPhysician.md) — 前急诊医生与医学科普者，以个人减重经历解释平台期、反弹、食欲调节和专业评估边界。

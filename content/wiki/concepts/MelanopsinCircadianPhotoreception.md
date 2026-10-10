@@ -8,7 +8,8 @@ sources:
   - centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9
   - essentials-using-light-to-optimize-health-scim8775078173
   - scim6678678955-scim6678678955
-last_updated: 2026-10-10
+  - essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ The Essentials episode adds condensed provenance for the pineal and seasonal bra
 
 The Berson Essentials edit independently adds no new experiment: it condenses the earlier Berson interview's account of directly photosensitive ganglion cells, the suprachiasmatic nucleus, imperfect endogenous periods, distributed tissue clocks, and nighttime melatonin suppression. It therefore strengthens provenance for the mechanism while remaining the same underlying conversation.
 
+The Hattar Essentials edit likewise repeats the earlier Hattar interview rather than adding an independent experiment. Its clearest emphasis is functional: eyes can preserve circadian light input when image-forming vision is absent, whereas loss of the eyes or optic nerve can remove that entraining route. The individual clinical examples remain source-scoped and should not be generalized across blindness.
+
 ## Key Claims
 - Melanopsin occurs in a subset of retinal ganglion cells that can sense light directly.
 - The pathway emphasizes environmental brightness rather than detailed image construction.
@@ -48,12 +51,13 @@ The Berson Essentials edit independently adds no new experiment: it condenses th
 - Mechanism-to-sleep boundary - [[centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9]] reports mixed small-study sleep results despite accepted blue-sensitive melatonin biology and no clear benefit from blue-blocking glasses in a 2023 review.
 - Pineal and seasonal branch - [[essentials-using-light-to-optimize-health-scim8775078173]] links melanopsin signaling to pineal melatonin suppression, seasonal timing, and preserved light response when conscious vision is limited but ipRGCs remain functional.
 - Condensed Berson pathway - [[scim6678678955-scim6678678955]] restates brightness sensing, SCN synchronization, distributed clocks, and nighttime melatonin suppression from the earlier full interview.
+- Condensed Hattar pathway - [[essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570]] restates preserved non-image-forming entrainment in some image-blind people and loss of entrainment when the retinal-optic route is absent.
 
 ## Counterevidence & Qualifications
-The sources provide conceptual and experimental accounts rather than exposure thresholds, individualized treatment, or a complete human map of retinal projections. They do not establish that every blind person has the same non-image-forming light response, that blue-light filtering alone protects circadian timing or improves sleep, or that light exposure by itself treats sleep or mood disorders. The screen studies are small or heterogeneous, while perihabenular and mistimed-light mood effects should not be generalized into a human psychiatric protocol. The Essentials episode does not supply enough dosing, formulation, pregnancy, developmental, or outcome detail to turn its melatonin-supplement caution into universal medical advice.
+The sources provide conceptual and experimental accounts rather than exposure thresholds, individualized treatment, or a complete human map of retinal projections. They do not establish that every blind person has the same non-image-forming light response, that eye removal or optic-nerve damage has identical effects in every case, that blue-light filtering alone protects circadian timing or improves sleep, or that light exposure by itself treats sleep or mood disorders. The screen studies are small or heterogeneous, while perihabenular and mistimed-light mood effects should not be generalized into a human psychiatric protocol. The Essentials episodes do not supply enough dosing, formulation, pregnancy, developmental, or outcome detail to turn their clinical examples or melatonin-supplement caution into universal medical advice.
 
 ## What Changed
-- No material mechanism judgment changed; added the Berson Essentials edit as overlapping provenance rather than independent confirmation.
+- No material mechanism judgment changed; added the Hattar Essentials edit as overlapping provenance and clarified the blindness generalization boundary.
 
 ## Related Concepts
 - [[MorningLightCircadianAnchoring]] - behavioral use of early outdoor brightness to support daily timing.

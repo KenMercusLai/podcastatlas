@@ -7,7 +7,8 @@ sources:
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - scim9724505974-scim9724505974
   - scim4224560223-scim4224560223
-last_updated: 2026-10-04
+  - essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The Hattar interview sharpens the difference between local clock time and intern
 
 The January 2021 episode adds an earlier travel-specific account. It separates transit fatigue from time-zone mismatch, explains why eastward travel often demands the harder task of sleeping and waking earlier, suggests beginning a phase shift before departure, and treats destination meal timing as a supporting cue. For trips of roughly 48 hours or less, it suggests preserving the home schedule when feasible; that threshold is a source-scoped heuristic, not a universal travel rule.
 
+The Hattar Essentials edit restates the body-time boundary through a New York-to-Italy example: local 8 a.m. can still be biological 2 a.m., so immediate bright light may delay rather than advance the clock. The example sharpens the decision rule but does not supply a complete individualized phase-response plan.
+
 ## Key Claims
 - Gradual pre-travel wake-time shifts can reduce the size of the required adjustment after arrival.
 - Light timing around the estimated temperature minimum can advance or delay the circadian clock in different directions.
@@ -42,14 +45,13 @@ The January 2021 episode adds an earlier travel-specific account. It separates t
 - Full-length phase-shifting context - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] combines gradual schedule movement with destination-timed light, food, movement, caffeine, and social cues.
 - Internal-time boundary - [[scim9724505974-scim9724505974]] warns that destination-morning light can be mistimed when the body remains on the origin schedule and distinguishes early-evening delay signals from post-temperature-low advance signals.
 - Early travel model - [[scim4224560223-scim4224560223]] distinguishes transit fatigue from circadian mismatch, contrasts eastward and westward demands, coordinates pre-departure shifting with local meals, and proposes home-schedule preservation for very short trips.
+- Condensed body-time example - [[essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570]] shows why destination-morning light can still fall in the traveler's biological night and move adjustment in the wrong direction.
 
 ## Counterevidence & Qualifications
-The sources do not provide a complete phase-response curve, individualized nap protocol, trial evidence, or guidance for shift workers, children, pregnancy, medication use, serious sleep disorders, or safety-critical work. Temperature-low estimates, origin-to-destination calculations, cue timing, the one-to-three-hour daily shift claim, and the 48-hour home-schedule rule can be wrong. Hattar's two-week recovery report is personal experience rather than a standard recovery duration, and severe sleepiness should not be managed by driving or other hazardous activity.
+The sources do not provide a complete phase-response curve, individualized nap protocol, trial evidence, or guidance for shift workers, children, pregnancy, medication use, serious sleep disorders, or safety-critical work. The full Hattar interview and Essentials edit are overlapping versions. Temperature-low estimates, origin-to-destination calculations, cue timing, the one-to-three-hour daily shift claim, and the 48-hour home-schedule rule can be wrong. Hattar's recovery reports and illustrative time-zone calculation are not standard recovery durations or personalized light schedules, and severe sleepiness should not be managed by driving or other hazardous activity.
 
 ## What Changed
-- Added transit-fatigue versus circadian-mismatch and eastward-versus-westward distinctions.
-- Added the short-trip home-schedule option while keeping its threshold source-scoped.
-- Preserved phase-response estimates and claimed shift rates as planning aids rather than measured personal circadian phase.
+- Sharpened the local-clock-versus-body-time boundary while preserving phase estimates as planning aids rather than measured personal circadian phase.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - broader full-day system from which travel cues are drawn.

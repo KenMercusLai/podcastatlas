@@ -45483,9 +45483,9 @@
       "url": "/wiki/concepts/cinematicfolklorerecombination/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -45542,15 +45542,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
           "url": "/wiki/sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianHomeostaticEnvironmentalModel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9724505974 [SCIM9724505974].md",
@@ -45558,15 +45565,22 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/circadianhomeostaticenvironmentalmodel/"
     },
     "CircadianTravelAdaptation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -45595,9 +45609,16 @@
           "show": "Huberman Lab",
           "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
           "url": "/wiki/sources/scim4224560223-scim4224560223/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/circadiantraveladaptation/"
     },
     "Circe": {
@@ -61197,9 +61218,9 @@
       "url": "/wiki/concepts/daynightlightimmunesupport/"
     },
     "DayNightLightMentalHealth": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9183043757 [SCIM9183043757].md",
@@ -61228,9 +61249,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Light to Optimize Health",
           "url": "/wiki/sources/essentials-using-light-to-optimize-health-scim8775078173/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/daynightlightmentalhealth/"
     },
     "DayOfTheDead": {
@@ -170892,9 +170920,9 @@
       "url": "/wiki/concepts/melanocortinpeptidevitality/"
     },
     "MelanopsinCircadianPhotoreception": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -170930,9 +170958,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
           "url": "/wiki/sources/scim6678678955-scim6678678955/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/melanopsincircadianphotoreception/"
     },
     "MelissaIlardo": {
@@ -178077,9 +178112,9 @@
       "url": "/wiki/entities/morimina/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -178171,9 +178206,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "MorningMarketUrbanism": {
@@ -224545,9 +224587,9 @@
       "url": "/wiki/concepts/samesurnamekingenfeoffment/"
     },
     "SamerHattar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9724505974 [SCIM9724505974].md",
@@ -224555,9 +224597,16 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/samerhattar/"
     },
     "Samnites": {
@@ -236046,9 +236095,9 @@
       "url": "/wiki/concepts/socialisolationtachykinin/"
     },
     "SocialJetlag": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
@@ -236056,9 +236105,16 @@
           "show": "Talk三联",
           "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
           "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        },
+        {
+          "episode_file": "SCIM1654029570 [SCIM1654029570].md",
+          "key": "essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570",
+          "show": "Huberman Lab",
+          "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/socialjetlag/"
     },
     "SocialMediaAgeBans": {
