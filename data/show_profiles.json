@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-07",
       "latest_episode_file": "GLT1154404105 [GLT1154404105].md",
-      "source_note_count": 663,
-      "topic_matched_source_note_count": 623,
+      "source_note_count": 664,
+      "topic_matched_source_note_count": 624,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 614
+          "source_note_count": 615
         },
         {
           "key": "culture",
@@ -997,6 +997,13 @@
           "episode_count": 14
         },
         {
+          "key": "HoratioNelson",
+          "title": "Horatio Nelson",
+          "url": "/wiki/entities/horationelson/",
+          "kind": "person",
+          "episode_count": 12
+        },
+        {
           "key": "LouisXVI",
           "title": "Louis XVI",
           "url": "/wiki/entities/louisxvi/",
@@ -1009,13 +1016,6 @@
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
           "episode_count": 12
-        },
-        {
-          "key": "HoratioNelson",
-          "title": "Horatio Nelson",
-          "url": "/wiki/entities/horationelson/",
-          "kind": "person",
-          "episode_count": 11
         },
         {
           "key": "KaiserWilhelmII",

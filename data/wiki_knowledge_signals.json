@@ -25103,9 +25103,9 @@
       "url": "/wiki/concepts/battleofstiklestad/"
     },
     "BattleOfTheNile": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -25113,9 +25113,16 @@
           "show": "The Rest Is History",
           "title": "126. Napoleon in Egypt",
           "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        },
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/battleofthenile/"
     },
     "BattleOfThermopylae": {
@@ -36550,6 +36557,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/cardinalderohan/"
+    },
+    "CardinalRuffo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/cardinalruffo/"
     },
     "CardiovascularBrainHealthLink": {
       "episode_count": 3,
@@ -74707,9 +74730,9 @@
       "url": "/wiki/entities/emmagriffin/"
     },
     "EmmaHamilton": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -74752,6 +74775,13 @@
           "show": "The Rest Is History",
           "title": "609. Nelson: The Gathering Storm (Part 2)",
           "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+        },
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
         }
       ],
       "updated": "2026-10-10",
@@ -87949,6 +87979,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/ferdinandiiofaragon/"
     },
+    "FerdinandIVOfNaples": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/ferdinandivofnaples/"
+    },
     "FerdinandMaximilian": {
       "episode_count": 1,
       "show_count": 1,
@@ -92233,6 +92279,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/francesstewart/"
+    },
+    "FrancescoCaracciolo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/francescocaracciolo/"
     },
     "FrancescoDelGiocondo": {
       "episode_count": 1,
@@ -117089,9 +117151,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -117169,6 +117231,13 @@
           "show": "The Rest Is History",
           "title": "609. Nelson: The Gathering Storm (Part 2)",
           "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+        },
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
         }
       ],
       "updated": "2026-10-10",
@@ -164519,6 +164588,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/marginaldecadebackcasting/"
     },
+    "MariaCarolina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/mariacarolina/"
+    },
     "MariaCurie": {
       "episode_count": 7,
       "show_count": 1,
@@ -191627,6 +191712,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/parliamentarysystem/"
     },
+    "ParthenopeanRepublic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/parthenopeanrepublic/"
+    },
     "ParthianEmpire": {
       "episode_count": 4,
       "show_count": 2,
@@ -199554,9 +199655,9 @@
       "url": "/wiki/entities/poppaeasabina/"
     },
     "PopularCounterrevolution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9746323554 [GLT9746323554].md",
@@ -199564,9 +199665,16 @@
           "show": "The Rest Is History",
           "title": "326: The Year of Revolutions: 1848",
           "url": "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
+        },
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/popularcounterrevolution/"
     },
     "PopularCultureHistoricalMemory": {
@@ -230616,9 +230724,9 @@
       "url": "/wiki/entities/sinnfein/"
     },
     "SirWilliamHamilton": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -230626,9 +230734,16 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/sirwilliamhamilton/"
     },
     "Sirens": {
@@ -242282,6 +242397,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
+    },
+    "SurrenderGuaranteeIntegrity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8594694484 [GLT8594694484].md",
+          "key": "608-nelson-slaughter-in-naples-part-1-glt8594694484",
+          "show": "The Rest Is History",
+          "title": "608. Nelson: Slaughter in Naples (Part 1)",
+          "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/surrenderguaranteeintegrity/"
     },
     "SurrenderReceptionDomesticBurden": {
       "episode_count": 2,

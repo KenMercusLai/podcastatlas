@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13037
+wiki_total_pages: 13042
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "FerdinandIIOfAragon"
     title: "Ferdinand II of Aragon"
     url: "/wiki/entities/ferdinandiiofaragon/"
+  - key: "FerdinandIVOfNaples"
+    title: "Ferdinand IV of Naples"
+    url: "/wiki/entities/ferdinandivofnaples/"
   - key: "FerdinandMaximilian"
     title: "Ferdinand Maximilian"
     url: "/wiki/entities/ferdinandmaximilian/"
@@ -548,6 +551,9 @@ wiki_pages:
   - key: "FrancescoBaracca"
     title: "Francesco Baracca"
     url: "/wiki/entities/francescobaracca/"
+  - key: "FrancescoCaracciolo"
+    title: "Francesco Caracciolo"
+    url: "/wiki/entities/francescocaracciolo/"
   - key: "FrancescoDelGiocondo"
     title: "Francesco del Giocondo"
     url: "/wiki/entities/francescodelgiocondo/"

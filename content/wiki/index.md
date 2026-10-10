@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [608. Nelson: Slaughter in Naples (Part 1)](sources/608-nelson-slaughter-in-naples-part-1-glt8594694484.md) — The Rest Is History on Nelson's Naples entanglement, the failed Roman campaign, royal flight, popular counterrevolution, disputed capitulation, and Caracciolo's execution.
 - [VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”](sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw.md) — 这病说来话长以余博的酮症酸中毒和 ICU 经历解释糖尿病急性危象、谵妄恢复、动态血糖监测及慢病身份适应。
 - [609. Nelson: The Gathering Storm (Part 2)](sources/609-nelson-the-gathering-storm-part-2-glt8067718474.md) — The Rest Is History on Nelson's Malta command, conflict with Lord Keith, return with Emma Hamilton, abandonment of Fanny, and push toward Copenhagen.
 - [Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson](sources/scim6678678955-scim6678678955.md) — Condensed Huberman Lab interview on retinal and circadian light sensing, visual-vestibular stability, cerebellar correction, multisensory orientation, action control, and constrained cortical plasticity.
@@ -4394,6 +4395,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
 
 ## Entities
+- [Maria Carolina](entities/MariaCarolina.md) — Neapolitan queen whose anti-French policy, exile, court influence, and demand for punishment shaped the 1799 restoration.
+- [Ferdinand IV of Naples](entities/FerdinandIVOfNaples.md) — Neapolitan king whose failed Roman campaign, Palermo exile, and punitive restoration depended on British naval support.
+- [Cardinal Ruffo](entities/CardinalRuffo.md) — Royalist organizer who led the Sanfedisti and negotiated the disputed capitulation of Naples.
+- [Francesco Caracciolo](entities/FrancescoCaracciolo.md) — Neapolitan naval defector whose rapid shipboard trial and hanging became the sharpest symbol of Nelson's Naples controversy.
+- [Parthenopean Republic](entities/ParthenopeanRepublic.md) — French-backed 1799 republic defeated by popular royalist counterrevolution and a repudiated surrender settlement.
 - [余博 / Yu Bo (Comedian)](entities/YuBoComedian.md) — Stand-up comedian whose ketoacidosis, ICU recovery, glucose monitoring, and chronic-illness adaptation ground the VOL.181 patient account.
 - [Fanny Nelson](entities/FannyNelson.md) — Nelson's abandoned wife, whose public humiliation and constrained marital position qualify his heroic celebrity.
 - [Lord Keith](entities/LordKeith.md) — Mediterranean commander whose strategic priorities and authority clashed with Nelson's Malta-focused judgment.
@@ -17492,6 +17498,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
 
 ## Concepts
+- [Surrender Guarantee Integrity](concepts/SurrenderGuaranteeIntegrity.md) — Principle separating disputed negotiating authority from protections owed after defenders rely on surrender terms.
 - [Diabetes Acute Crisis Recognition / 糖尿病急性危象识别](concepts/DiabetesAcuteCrisisRecognition.md) — Distinguishes diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia from ordinary glucose-management problems.
 - [ICU Delirium and Recovery / ICU谵妄与恢复](concepts/ICUDeliriumRecovery.md) — Critical-illness frame for confusion, memory gaps, sedation, disrupted time cues, orientation, and treatment-story reconstruction.
 - [Screenplay-Centered Production / 剧作中心制](concepts/ScreenplayCenteredProduction.md) — 以人物关系、主题和叙事结构作为导演、表演、制片与资本协作的共同依据。

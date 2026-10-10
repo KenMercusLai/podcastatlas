@@ -3671,6 +3671,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "608-nelson-slaughter-in-naples-part-1-glt8594694484": {
+    "title": "608. Nelson: Slaughter in Naples (Part 1)",
+    "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+  },
   "609-nelson-the-gathering-storm-part-2-glt8067718474": {
     "title": "609. Nelson: The Gathering Storm (Part 2)",
     "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
@@ -16330,6 +16334,10 @@
   "CardinalDeRohan": {
     "title": "Cardinal de Rohan",
     "url": "/wiki/entities/cardinalderohan/"
+  },
+  "CardinalRuffo": {
+    "title": "Cardinal Ruffo",
+    "url": "/wiki/entities/cardinalruffo/"
   },
   "CardinalTetra": {
     "title": "Cardinal Tetra",
@@ -32027,6 +32035,10 @@
     "title": "Ferdinand II of Aragon",
     "url": "/wiki/entities/ferdinandiiofaragon/"
   },
+  "FerdinandIVOfNaples": {
+    "title": "Ferdinand IV of Naples",
+    "url": "/wiki/entities/ferdinandivofnaples/"
+  },
   "FerdinandMaximilian": {
     "title": "Ferdinand Maximilian",
     "url": "/wiki/entities/ferdinandmaximilian/"
@@ -33674,6 +33686,10 @@
   "FrancescoBaracca": {
     "title": "Francesco Baracca",
     "url": "/wiki/entities/francescobaracca/"
+  },
+  "FrancescoCaracciolo": {
+    "title": "Francesco Caracciolo",
+    "url": "/wiki/entities/francescocaracciolo/"
   },
   "FrancescoDelGiocondo": {
     "title": "Francesco del Giocondo",
@@ -55515,6 +55531,10 @@
     "title": "Maria Bartiromo",
     "url": "/wiki/entities/mariabartiromo/"
   },
+  "MariaCarolina": {
+    "title": "Maria Carolina",
+    "url": "/wiki/entities/mariacarolina/"
+  },
   "MariaCorinaMachado": {
     "title": "Maria Corina Machado",
     "url": "/wiki/entities/mariacorinamachado/"
@@ -64458,6 +64478,10 @@
   "PartNet": {
     "title": "PartNet / PartNet Mobility",
     "url": "/wiki/entities/partnet/"
+  },
+  "ParthenopeanRepublic": {
+    "title": "Parthenopean Republic",
+    "url": "/wiki/entities/parthenopeanrepublic/"
   },
   "ParthianEmpire": {
     "title": "安息 / Parthian Empire",
@@ -81494,6 +81518,10 @@
   "SurrenderAsCivilianProtectionTradeoff": {
     "title": "Surrender as Civilian-Protection Tradeoff / 献城保民权衡",
     "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
+  },
+  "SurrenderGuaranteeIntegrity": {
+    "title": "Surrender Guarantee Integrity",
+    "url": "/wiki/concepts/surrenderguaranteeintegrity/"
   },
   "SurrenderReceptionDomesticBurden": {
     "title": "归降接纳的内外成本冲突 / Surrender Reception Domestic Burden",

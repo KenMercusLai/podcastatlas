@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2686
+topic_total_pages: 2687
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "608-nelson-slaughter-in-naples-part-1-glt8594694484"
+    title: "608. Nelson: Slaughter in Naples (Part 1)"
+    url: "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
   - key: "609-nelson-the-gathering-storm-part-2-glt8067718474"
     title: "609. Nelson: The Gathering Storm (Part 2)"
     url: "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"

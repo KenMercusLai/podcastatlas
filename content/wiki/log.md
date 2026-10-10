@@ -34482,3 +34482,11 @@ Added source `scim4605688764-scim4605688764`; created [[KonstantinaStankovic]], 
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 608. Nelson: Slaughter in Naples (Part 1)
+
+Added source `608-nelson-slaughter-in-naples-part-1-glt8594694484`; created [[MariaCarolina]], [[FerdinandIVOfNaples]], [[CardinalRuffo]], [[FrancescoCaracciolo]], [[ParthenopeanRepublic]], and [[SurrenderGuaranteeIntegrity]]; and resynthesized [[HoratioNelson]], [[EmmaHamilton]], [[SirWilliamHamilton]], [[BattleOfTheNile]], and [[PopularCounterrevolution]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's post-Nile celebrity, exhaustion, Hamilton household, royal-protection orders, and weak land judgment converged with a socially broad but violent Neapolitan counterrevolution; repudiating Ruffo's capitulation after defenders disarmed turned disputed authority into a crisis of good faith, custody, military honor, and command responsibility. No settled contradiction was adopted. The capitulation's legal authority, Nelson's precise orders, Emma's influence, psychiatric labels, reported dialogue, casualty and punishment totals, and comparative historical judgments remain source-scoped or contested. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,319 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
