@@ -34977,3 +34977,11 @@ Added source `071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-s
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller
+
+Added source `scim9219615286-scim9219615286` and resynthesized [[CraigHeller]], [[ThermoregulationAndGlabrousHeatTransfer]], and [[ExerciseHeatManagement]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: local muscle heat and progressive whole-body heat can limit different forms of exercise, while moderately cooling glabrous skin may remove heat only when blood flow remains open; subjective coolness, ice-level contact, tight grip, and insulating equipment can mislead or reduce heat transfer. No settled contradiction was adopted. This Essentials release overlaps the full Craig Heller interview and related cooling episodes rather than independently confirming them; enzyme thresholds, twofold performance or cooling comparisons, dip progression, cardiac drift, brain cooling, retained gains, and improvised protocols remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], product, and company pages were kept closed because the focused source, guest, and two concept updates capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten because the episode adds overlapping provenance rather than a new current-state judgment. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,381 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus scan still reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

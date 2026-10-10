@@ -8,7 +8,8 @@ sources:
   - scim6467660570-scim6467660570
   - scim5512858918-scim5512858918
   - essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357
-last_updated: 2026-10-06
+  - scim9219615286-scim9219615286
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The cold-exposure episode adds exercise and hyperthermia context. It distinguish
 The Heller interview sharpens the distinction between thermal sensation and heat removal. Cooling the neck, torso, or broad skin can feel effective while cold signaling and vasoconstriction reduce flow through heat-loss pathways; local working-muscle heat can also become limiting before whole-body temperature reaches an emergency range. The same vascular portals can be used in the opposite direction for rewarming. These principles make measurement, blood flow, context, and escalation more important than maximizing cold or warmth.
 
 The original 2021 cooling episode is the full provenance underlying its later Essentials edit. It reinforces the flow-preserving account through exercise, humidity, cardiac drift, and moderate cooling examples, but the two versions are overlapping presentations rather than independent confirmation. Its enzyme thresholds and very large performance effects remain source-scoped.
+
+The condensed Heller release similarly overlaps the full interview. It emphasizes that cooling the torso or neck may change thermal sensation without proving adequate heat removal, and that the hand should remain warm enough to preserve blood flow during palm cooling. Its heat-stroke warnings strengthen the distinction between comfort and physiological safety, but its glabrous-surface comparisons, brain-cooling account, and performance figures remain source-scoped.
 
 ## Key Claims
 - Skin and core temperatures are related signals, not interchangeable measurements.
@@ -49,13 +52,14 @@ The original 2021 cooling episode is the full provenance underlying its later Es
 - Local and systemic limits - [[scim6467660570-scim6467660570]] distinguishes heat trapped in contracting muscle from gradually rising whole-body temperature and gives cognitive impairment as a warning sign of dangerous systemic heat.
 - Original-episode provenance - [[scim5512858918-scim5512858918]] links glabrous-skin heat transfer with humidity, cardiac drift, and exercise performance while warning that maximal cold can close the intended vascular pathway.
 - Condensed heat-control account - [[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357]] repeats the shell/core distinction, spinal-parabrachial-preoptic pathway, and protective agitation or escape response while retaining the neural-injury boundary for excessive heat.
+- Condensed Heller account - [[scim9219615286-scim9219615286]] links warm-flow preservation at the palm with heat removal and warns that torso or neck cooling can create misleading comfort while core temperature remains elevated.
 
 ## Counterevidence & Qualifications
 The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. The Heller episode's roughly twofold hyperthermia-cooling comparison and rapid postoperative rewarming example remain source-scoped rather than replacements for established emergency care. Reported exercise-volume gains do not establish what most people should expect. Face, hand, or foot temperature and subjective comfort are not substitutes for core assessment, and recommendations differ by equipment, exertional heat illness, cold injury, cardiovascular state, age, medication, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
 
 ## What Changed
-- Added the deliberate-heat Essentials release as overlapping provenance for the shell/core control circuit.
-- Preserved the distinction between tolerable heat discomfort and dangerous hyperthermia.
+- Added the condensed Heller interview as overlapping provenance for flow-preserving glabrous heat exchange.
+- Strengthened the distinction between subjective coolness and adequate core-temperature reduction.
 
 ## Related Concepts
 - [[HeatExposureDoseAndSafety]] - deliberate exposure framework governed by the same protective control system.

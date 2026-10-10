@@ -54933,9 +54933,9 @@
       "url": "/wiki/concepts/craftlaborbottleneck/"
     },
     "CraigHeller": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6467660570 [SCIM6467660570].md",
@@ -54943,9 +54943,16 @@
           "show": "Huberman Lab",
           "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
           "url": "/wiki/sources/scim6467660570-scim6467660570/"
+        },
+        {
+          "episode_file": "SCIM9219615286 [SCIM9219615286].md",
+          "key": "scim9219615286-scim9219615286",
+          "show": "Huberman Lab",
+          "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
+          "url": "/wiki/sources/scim9219615286-scim9219615286/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/craigheller/"
     },
     "CraigKoniver": {
@@ -83503,9 +83510,9 @@
       "url": "/wiki/concepts/exercisefatoxidationsequencing/"
     },
     "ExerciseHeatManagement": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3687301411 [SCIM3687301411].md",
@@ -83534,9 +83541,16 @@
           "show": "Huberman Lab",
           "title": "Supercharge Exercise Performance & Recovery with Cooling",
           "url": "/wiki/sources/scim5512858918-scim5512858918/"
+        },
+        {
+          "episode_file": "SCIM9219615286 [SCIM9219615286].md",
+          "key": "scim9219615286-scim9219615286",
+          "show": "Huberman Lab",
+          "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
+          "url": "/wiki/sources/scim9219615286-scim9219615286/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
@@ -253177,9 +253191,9 @@
       "url": "/wiki/entities/thermidoriancoup/"
     },
     "ThermoregulationAndGlabrousHeatTransfer": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5583107634 [SCIM5583107634].md",
@@ -253215,9 +253229,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
           "url": "/wiki/sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357/"
+        },
+        {
+          "episode_file": "SCIM9219615286 [SCIM9219615286].md",
+          "key": "scim9219615286-scim9219615286",
+          "show": "Huberman Lab",
+          "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
+          "url": "/wiki/sources/scim9219615286-scim9219615286/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/thermoregulationandglabrousheattransfer/"
     },
     "TheroigneDeMericourt": {

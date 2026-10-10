@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller](sources/scim9219615286-scim9219615286.md) — Condensed Huberman Lab interview on local and systemic exercise heat, flow-preserving glabrous-skin cooling, thermal-sensation traps, and evidence boundaries.
 - [590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)](sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954.md) — The Rest Is History on Lincoln's conciliatory final weeks, limited Black suffrage, Booth's Brutus fantasy, and the shift from kidnapping to assassination.
 - [How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard](sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004.md) — Huberman Lab interview on active adult learning, synaptic and neuromodulator timing, paired vagus stimulation, stroke rehabilitation, tinnitus retuning, and evidence limits.
 - [591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)](sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031.md) — The Rest Is History on Lincoln's murder and funeral, the multi-target conspiracy, Booth's escape and death, martyrdom, and a bounded Reconstruction counterfactual.
