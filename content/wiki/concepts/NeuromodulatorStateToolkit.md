@@ -10,7 +10,8 @@ sources:
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
   - scim2746317304-scim2746317304
   - how-your-brain-works-changes-scim1534957507
-last_updated: 2026-10-02
+  - how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,13 +31,15 @@ Subjective time is another proposed state-dependent output. In [[scim2746317304-
 
 [[how-your-brain-works-changes-scim1534957507]] supplies the show's earliest compact map: dopamine is linked to outward pursuit, serotonin to satisfaction with present resources, epinephrine to alertness, and acetylcholine to marking active circuits during attention. Later episodes make these systems more interactive and baseline-dependent, so the first-episode labels add provenance without becoming exclusive chemical definitions.
 
+Kilgard sharpens that qualification into a learning rule. Neuromodulators do not function as one-to-one memory, attention, mood, or reward chemicals; their effect depends on receptors, baseline state, the circuit active at that instant, and when the signal arrives relative to synaptic activity and feedback. [[PairedVagusNerveStimulation]] makes the distinction concrete by attempting to release acetylcholine, norepinephrine, and serotonin next to a selected therapy event rather than raising them continuously.
+
 ## Key Claims
 - Dopamine is framed as a motivation, drive, pursuit, anticipation, learning, and partial focus signal.
 - Epinephrine and norepinephrine are framed as energy, alertness, movement-readiness, and neural-excitability signals.
 - Serotonin is framed as a wellbeing, contentment, relaxation, satiety, and pain-relief signal.
 - Acetylcholine is framed as a focus, learning, and information-encoding signal that depends strongly on current activity.
 - Daily phase matters because dopamine and epinephrine are presented as higher earlier after waking while serotonin rises later.
-- For focus specifically, alertness, selective attention, and persistence are complementary rather than interchangeable; prescription drugs, potent supplements, deliberate cold exposure, and addiction-recovery claims remain clinician-bound or source-scoped.
+- For focus and learning, alertness, selective attention, persistence, active-circuit timing, and feedback are complementary rather than interchangeable; prescription drugs, potent supplements, deliberate cold exposure, addiction-recovery claims, and device interventions remain clinician-bound or source-scoped.
 - Present and remembered duration may shift with arousal, attention, and neuromodulator-associated state, but no transmitter functions as an exclusive internal clock.
 
 ## Evidence
@@ -49,13 +52,16 @@ Subjective time is another proposed state-dependent output. In [[scim2746317304-
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original phase model, four-chemical framework, behavioral-first ordering, and individualized-experiment boundary later compressed by the Essentials edit.
 - Time-perception application: [[scim2746317304-scim2746317304]] applies dopamine-, norepinephrine-, and serotonin-associated states to present, prospective, and retrospective timing through a qualified frame-rate metaphor.
 - Foundational four-system sketch: [[how-your-brain-works-changes-scim1534957507]] links dopamine, serotonin, epinephrine, and acetylcholine to pursuit, contentment, alertness, and selective attention while also noting receptor- and tissue-dependent effects.
+- Timing and circuit specificity: [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] presents a four-factor learning rule and reports that maps change for attended or paired inputs rather than every simultaneous stimulus.
+- Vagus-pairing example: [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] describes brief vagus stimulation as releasing acetylcholine, norepinephrine, and serotonin near selected rehabilitation events while not producing the same dopamine response.
 
 ## Counterevidence & Qualifications
-This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow, frame-rate, and pursuit-versus-contentment metaphors simplify interacting systems and do not show that any one transmitter maps exclusively onto one mental function or time judgment. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, trauma treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
+This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow, frame-rate, pursuit-versus-contentment, and four-factor metaphors simplify interacting systems and do not show that any one transmitter maps exclusively onto one mental function, time judgment, or learning outcome. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, trauma treatment, cold-exposure suitability, vagus-stimulation eligibility, or a guarantee that a given behavioral or device tool will move a person's state in the intended direction.
 
 ## What Changed
-- Added the show's earliest four-neuromodulator teaching map as provenance.
-- Clarified that its pursuit, contentment, alertness, and attention labels are dominant associations rather than exclusive functions.
+- Added active-circuit and millisecond-to-second timing as constraints on neuromodulator effects.
+- Added paired vagus stimulation as a concrete contrast with continuous global state manipulation.
+- Clarified that transmitter release can permit or bias learning without specifying a beneficial target.
 
 ## Related Concepts
 - [[DopamineToolTiming]] - dopamine-specific branch for motivation tools and timing.
@@ -70,3 +76,5 @@ This page summarizes practical neuroscience episodes, not a complete clinical ne
 - [[PsychiatricMedicationSupervisionBoundary]] - medical boundary for not converting mechanism talk into unsupervised drug decisions.
 - [[FocusTrainingToolkit]] - application of state regulation to focus entry, return, bounded work, and recovery.
 - [[TimePerceptionAndNeurochemicalState]] - application of the state model to experienced and remembered duration.
+- [[TemporallyGatedNeuroplasticity]] - circuit-selection and timing boundary for state chemistry.
+- [[PairedVagusNerveStimulation]] - clinical example of pairing a brief neuromodulatory signal with therapy.

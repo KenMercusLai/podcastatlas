@@ -59325,6 +59325,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MichaelKilgard": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MichaelMattioli": [
     {
       "key": "politics",
@@ -65556,6 +65563,13 @@
     }
   ],
   "PainfulMemoryRehearsalRisk": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "PairedVagusNerveStimulation": [
     {
       "key": "science",
       "label": "Science",
@@ -85007,6 +85021,13 @@
       "url": "/topics/science/"
     }
   ],
+  "TemporallyGatedNeuroplasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TemporaryFamilyHealing": [
     {
       "key": "culture",
@@ -102080,6 +102101,13 @@
     }
   ],
   "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004": [
     {
       "key": "science",
       "label": "Science",

@@ -173802,6 +173802,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/michaelgove/"
     },
+    "MichaelKilgard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/michaelkilgard/"
+    },
     "MichaelKratsios": {
       "episode_count": 3,
       "show_count": 1,
@@ -179761,9 +179777,9 @@
       "url": "/wiki/concepts/multimodalagistrategy/"
     },
     "MultimodalAdultNeuroplasticity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -179785,9 +179801,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Play to Rewire & Improve Your Brain",
           "url": "/wiki/sources/essentials-using-play-to-rewire-improve-your-brain-scim7483460058/"
+        },
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
     "MultimodalFunctionCenteredPainCare": {
@@ -183439,9 +183462,9 @@
       "url": "/wiki/concepts/neurodivergentaiaugmentation/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -183491,15 +183514,22 @@
           "show": "Huberman Lab",
           "title": "How Your Brain Works & Changes",
           "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
+        },
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 3,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -183605,15 +183635,22 @@
           "show": "Huberman Lab",
           "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
           "url": "/wiki/sources/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471/"
+        },
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3649091801 [SCIM3649091801].md",
@@ -183628,9 +183665,16 @@
           "show": "Huberman Lab",
           "title": "Control Pain & Heal Faster With Your Brain",
           "url": "/wiki/sources/control-pain-heal-faster-with-your-brain-scim8085045324/"
+        },
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/neurorestorativestrokerecovery/"
     },
     "NeurosurgicalTreatmentSelection": {
@@ -193225,6 +193269,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/paintingthrushgulong/"
+    },
+    "PairedVagusNerveStimulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/pairedvagusnervestimulation/"
     },
     "PalaceAccusationVerification": {
       "episode_count": 4,
@@ -250135,6 +250195,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
+    "TemporallyGatedNeuroplasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/temporallygatedneuroplasticity/"
+    },
     "TemporaryFamilyHealing": {
       "episode_count": 1,
       "show_count": 1,
@@ -255223,9 +255299,9 @@
       "url": "/wiki/concepts/timothysyndrometherapytranslation/"
     },
     "TinnitusSignalBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -255254,9 +255330,16 @@
           "show": "Huberman Lab",
           "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
           "url": "/wiki/sources/scim4605688764-scim4605688764/"
+        },
+        {
+          "episode_file": "SCIM4914799004 [SCIM4914799004].md",
+          "key": "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004",
+          "show": "Huberman Lab",
+          "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+          "url": "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/tinnitussignalboundary/"
     },
     "Tinybeans": {

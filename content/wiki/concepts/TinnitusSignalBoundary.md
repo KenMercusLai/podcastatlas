@@ -7,7 +7,8 @@ sources:
   - vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z
   - scim1865244910-scim1865244910
   - scim4605688764-scim4605688764
-last_updated: 2026-10-10
+  - how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,13 +24,15 @@ The two Huberman hearing episodes create a useful correction rather than a suppl
 
 Timing, laterality, pulse or movement linkage, hearing change, fullness, dizziness, pain, discharge, and persistence still matter first. A brief self-limited episode is not automatically proof of irreversible injury, while sudden tinnitus together with one-sided fullness, dizziness, abnormal sound quality, or hearing asymmetry belongs near [[SuddenHearingChangeEscalation]]. Severe hearing loss creates a separate selected pathway in which [[CochlearImplantAuditoryRestoration]] may reduce tinnitus by restoring peripheral input.
 
+Kilgard adds a maladaptive-learning branch without replacing that differential. Hearing loss or high-frequency hair-cell damage may alter auditory maps, while repeated anxious attention can reinforce the salience of the phantom sound. [[PairedVagusNerveStimulation]] with tones outside the tinnitus frequency is presented as an attempt to retune that map, but the described response is variable and incomplete, so it remains an investigational or indication-specific pathway rather than a general cure.
+
 ## Key Claims
 - Tinnitus is often an internally generated auditory perception rather than an external sound source.
 - Possible contributors span auditory-pathway activity, cochlear or nerve dysfunction, external- and middle-ear disease, structural lesions, vascular or muscular sound, fatigue, rest, and strong stimulation.
 - Tinnitus can appear in younger people and should not be dismissed solely because of age.
 - Headphone use can be relevant through volume, duration, pressure, and fatigue, but tinnitus is not reduced to headphone type alone.
 - Sudden, unilateral, asymmetric, dizzying, or sound-distorting tinnitus should be interpreted with hearing-change escalation thresholds.
-- The episode keeps tinnitus inside medical context without turning public discussion into a diagnostic checklist.
+- The sources keep tinnitus inside medical context without turning public discussion into a diagnostic checklist or treating attention-linked amplification as proof that symptoms are voluntary, purely psychological, or safe to ignore.
 - General supplement use lacks clear overall support; evaluation, hearing aids when indicated, and cognitive behavioral therapy have stronger broad support, while cochlear implantation is limited to selected severe or profound hearing-loss cases.
 
 ## Evidence
@@ -40,13 +43,16 @@ Timing, laterality, pulse or movement linkage, hearing change, fullness, dizzine
 - Differential and transient episodes: [[vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z]] distinguishes brief physiological tinnitus from neural, vascular, muscular, structural, external-ear, middle-ear, and sudden-hearing-loss contexts.
 - Limited intervention claims: [[scim1865244910-scim1865244910]] describes modest melatonin findings and limited evidence for ginkgo, zinc, and magnesium while advising physician consultation.
 - Evidence hierarchy and restoration: [[scim4605688764-scim4605688764]] reports negative overall supplement reviews, endorses amplification when indicated and cognitive behavioral therapy, and describes selected tinnitus improvement after cochlear implantation.
+- Maladaptive-plasticity model: [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] links hearing damage, auditory-map change, anxious attention, and reinforcement without reducing tinnitus to one cause.
+- Paired retuning: [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] describes vagus stimulation paired with tones outside the tinnitus frequency and reports roughly half of participants improving by roughly half.
 
 ## Counterevidence & Qualifications
-The sources do not provide a complete tinnitus classification, treatment protocol, or proven causal pathway for any individual. Their lists of possible causes are differential prompts, not prevalence estimates. Compound studies are not described with enough populations, doses, contraindications, effect sizes, or replication detail to support self-treatment. Implant-response percentages apply to selected severe or profound hearing-loss populations, not tinnitus generally. Persistent, worsening, sudden, unilateral, pulse-linked, dizzying, or hearing-linked symptoms require qualified evaluation.
+The sources do not provide a complete tinnitus classification, treatment protocol, or proven causal pathway for any individual. Their lists of possible causes are differential prompts, not prevalence estimates. Compound studies are not described with enough populations, doses, contraindications, effect sizes, or replication detail to support self-treatment. Cochlear-implant response percentages apply to selected severe or profound hearing-loss populations, while paired-vagus response figures come from a different intervention and cannot be generalized to tinnitus overall. Persistent, worsening, sudden, unilateral, pulse-linked, dizzying, or hearing-linked symptoms require qualified evaluation.
 
 ## What Changed
-- Narrowed the earlier compound discussion using the later review-level account and prioritized evaluation, indicated amplification, and cognitive behavioral therapy.
-- Added peripheral-input restoration as a selected severe-hearing-loss pathway, not a general tinnitus treatment.
+- Added anxious attention as a possible amplifier of maladaptive auditory learning without psychologizing the symptom.
+- Added paired vagus stimulation with off-frequency tones as a limited map-retuning pathway.
+- Kept clinical differential and escalation ahead of any mechanism-based self-treatment.
 
 ## Related Concepts
 - [[HeadphoneUseHearingRisk]] - exposure context that can contribute to auditory fatigue or symptoms.
@@ -57,3 +63,5 @@ The sources do not provide a complete tinnitus classification, treatment protoco
 - [[MedicalKnowledgeBoundary]] - uncertainty frame that keeps tinnitus from being overinterpreted or dismissed.
 - [[DoctorPatientCommunication]] - clinical communication route for describing timing, side, triggers, associated symptoms, and hearing change.
 - [[MiddleEarDiseaseTriage]] - middle-ear disease context that can include tinnitus without making it diagnostic.
+- [[PairedVagusNerveStimulation]] - timing-specific retuning approach with variable, incomplete benefit.
+- [[TemporallyGatedNeuroplasticity]] - mechanism relating attention and pairing to selective map change.

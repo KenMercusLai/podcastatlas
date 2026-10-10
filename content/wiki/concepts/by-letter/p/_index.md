@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10288
+wiki_total_pages: 10290
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"
+  - key: "PairedVagusNerveStimulation"
+    title: "Paired Vagus Nerve Stimulation"
+    url: "/wiki/concepts/pairedvagusnervestimulation/"
   - key: "PalaceAccessMonopoly"
     title: "Palace Access Monopoly / 宫廷接触垄断"
     url: "/wiki/concepts/palaceaccessmonopoly/"

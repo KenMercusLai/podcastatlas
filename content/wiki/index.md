@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard](sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004.md) — Huberman Lab interview on active adult learning, synaptic and neuromodulator timing, paired vagus stimulation, stroke rehabilitation, tinnitus retuning, and evidence limits.
 - [591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)](sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031.md) — The Rest Is History on Lincoln's murder and funeral, the multi-target conspiracy, Booth's escape and death, martyrdom, and a bounded Reconstruction counterfactual.
 - [VOL.175这医生真的有病，比患者还离谱｜医师节](sources/vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_.md) — 医务工作者从患者侧讨论伤病、检查与住院体验、依从性、ADHD自我理解、减重误区、康复节奏和同理心。
 - [072 《射雕英雄传》之东邪黄药师篇](sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig.md) — 纸醉金迷FM以三分钟开场并置黄药师的才情、人情、桃花岛诗意与残酷争议，并把完整人物判断保留为未决。
@@ -4456,6 +4457,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
+- [Michael Kilgard](entities/MichaelKilgard.md) — Neuroscientist connecting adult plasticity, active feedback, neuromodulator timing, and paired vagus-nerve stimulation for rehabilitation.
 - [Lincoln Assassination Conspiracy](entities/LincolnAssassinationConspiracy.md) — April 1865 multi-target plot, support network, manhunt, and unresolved boundary between Confederate sympathizers and formal command.
 - [黄药师 / Huang Yaoshi](entities/HuangYaoshi.md) — 《射雕英雄传》中兼具广博才情、诗意宗师气质、家人深情与残酷争议的桃花岛主。
 - [Sergiu Pașca](entities/SergiuPasca.md) — Stanford researcher using patient-derived neural models, organoids, assembloids, and transplantation to study neurodevelopment and therapeutic translation.
@@ -17641,6 +17643,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Temporally Gated Neuroplasticity](concepts/TemporallyGatedNeuroplasticity.md) — Learning model in which active circuits, synaptic order, feedback, and short neuromodulatory windows determine selective change.
+- [Paired Vagus Nerve Stimulation](concepts/PairedVagusNerveStimulation.md) — Implanted closed-loop strategy coupling brief vagus stimulation to selected rehabilitation or auditory events.
 - [Human Neural Organoids and Assembloids](concepts/HumanNeuralOrganoidsAndAssembloids.md) — Patient-derived, region-specific neural tissue models for development, migration, circuit formation, transplantation, and bounded preclinical inference.
 - [Timothy Syndrome Therapy Translation](concepts/TimothySyndromeTherapyTranslation.md) — Staged path from a causal calcium-channel mutation through complementary human models toward a nucleic-acid therapeutic candidate.
 - [Long-Horizon Market Iteration / 长周期市场迭代](concepts/LongHorizonMarketIteration.md) — 在长期选择的赛道中，以高频用户、市场和运营反馈持续修正产品与组织。

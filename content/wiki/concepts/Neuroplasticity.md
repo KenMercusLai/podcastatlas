@@ -18,8 +18,9 @@ sources:
   - how-your-brain-works-changes-scim1534957507
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
   - enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471
+  - how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -52,10 +53,12 @@ The Eagleman interview sharpens the allocation and goal boundary. Cortex is pres
 
 The [[PoppyCrum]] interview adds a technology-and-environment branch to that allocation model. Texting, gaming, musical training, driving, coaching feedback, and AI use are treated as repeated demands that can reorganize existing maps and integrations rather than create wholly new neural resources. Its strongest design implication is [[CognitiveAmplificationBoundary]]: technology supports plasticity when it improves feedback, attention, retrieval, and correction, but can remove the practice signal when it supplies completed cognitive work. Owl prism adaptation and Crum's secondary absolute-pitch map illustrate retention of old and new mappings, while the animal mechanisms, game-transfer dose, and cortical-allocation details remain source-scoped.
 
+The Kilgard interview sharpens the timing mechanism behind those selective changes. [[TemporallyGatedNeuroplasticity]] adds pre-post synaptic order and short neuromodulatory windows to the attention-and-feedback account: acetylcholine, norepinephrine, serotonin, dopamine, or electrical stimulation do not write the same change everywhere, because the active circuit and arrival time matter. Preparation, embodied action, feedback, reflection, and sleep therefore form a sequence, while [[PairedVagusNerveStimulation]] is a clinical attempt to attach a brief signal to a selected successful movement or auditory event.
+
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, meaningful feedback, and a state that permits continued exploration. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," a playful state does not guarantee broad transfer, psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
 ## Key Claims
-- Plasticity is capacity for change rather than proof of improvement; in adult learning, a defined target, sufficient alertness, circuit-specific attention, feedback, repetition, and later recovery are more reliable than passive exposure for determining what becomes durable.
+- Plasticity is capacity for change rather than proof of improvement; in adult learning, a defined target, sufficient alertness, circuit-specific attention, precise timing, feedback, repetition, and later recovery are more reliable than passive exposure for determining what becomes durable.
 - Active retrieval, explanation, movement, language learning, music, dance, sport, and other multimodal activities can provide stronger training loops than passive input.
 - AI can support learning when it preserves reasoning and feedback, but it can reduce plasticity opportunities when it removes effortful practice.
 - Sleep, recovery, diet, exercise, and low-stakes play shape whether practice consolidates while preserving novelty, errors, role switching, and exploration without maximal threat or outcome pressure.
@@ -86,14 +89,17 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Technology-directed maps - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] connects texting, music, games, driving, sensory environments, and feedback to reallocation and integration of existing neural resources.
 - Multiple-map and incentive examples - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] uses secondary absolute-pitch learning and prism-adapted owls to illustrate context-sensitive new mappings that need not erase prior ones.
 - Amplification boundary - [[enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum-scim3116912471]] distinguishes learning tools that preserve feedback and germane effort from automation that bypasses the target skill.
+- Timing-gated selection - [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] combines pre-post synaptic timing with neuromodulatory signals and active-circuit selection rather than treating co-activity alone as sufficient.
+- Active experience and reflection - [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] separates interactive feedback from passive exposure and places preparation, action, later reflection, and sleep inside one learning sequence.
+- Paired clinical branch - [[how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004]] applies timing specificity to vagus stimulation paired with rehabilitation or selected non-tinnitus tones.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, the Neuralink episode's interface forecasts, the Eagleman episode's rapid remapping and cortical-uniformity claims, and the Poppy Crum episode's game-transfer, homunculus-reallocation, owl, and AI-writing interpretations remain source-scoped.
+The evidence does not imply that every difficult or playful activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, brief pauses, or a weekly play dose reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The early episodes' age-25 threshold, named alertness and attention gates, plasticity timescales, focus-rest mechanism, 20-minute deep-rest result, and sleep-tone learning claim are teaching models or source-scoped study summaries, not universal measured stages. The learning episodes' replay and sleep mechanisms, the play episode's neurochemical and trauma claims, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, the Neuralink episode's interface forecasts, the Eagleman episode's rapid remapping and cortical-uniformity claims, the Poppy Crum episode's game-transfer, homunculus-reallocation, owl, and AI-writing interpretations, and the Kilgard episode's four-factor rule, release profile, trial figures, and pairing mechanisms remain source-scoped.
 
 ## What Changed
-- Added technology and sensory environments as persistent inputs that direct existing-map allocation and integration.
-- Added the boundary between feedback-rich cognitive amplification and automation that removes learning-relevant effort.
-- Added qualified examples in which a new context-specific map can coexist with an older mapping.
+- Added precise synaptic and neuromodulator timing to the existing attention, feedback, and consolidation model.
+- Added reflection before and after action as part of the learning sequence rather than an alternative to practice.
+- Added paired vagus stimulation as a clinical example of selective timing without generalizing its indication-specific evidence.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -112,3 +118,5 @@ The evidence does not imply that every difficult or playful activity transfers b
 - [[PlayAsContingencyTesting]] - low-stakes exploration branch that can supply novelty and error without making performance the immediate objective.
 - [[SensorySubstitution]] - applied branch in which structured information is learned through a different peripheral channel.
 - [[CognitiveAmplificationBoundary]] - technology-design branch separating feedback-supported practice from replacement of the target capability.
+- [[TemporallyGatedNeuroplasticity]] - timing model connecting active circuits, synaptic order, and neuromodulatory windows.
+- [[PairedVagusNerveStimulation]] - clinical pairing branch that couples a brief signal to selected therapy events.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1535
+topic_total_pages: 1539
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1663,6 +1663,9 @@ topic_concepts:
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"
+  - key: "PairedVagusNerveStimulation"
+    title: "Paired Vagus Nerve Stimulation"
+    url: "/wiki/concepts/pairedvagusnervestimulation/"
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
@@ -2353,6 +2356,9 @@ topic_concepts:
   - key: "TemperatureMinimumClockShifting"
     title: "Temperature Minimum Clock Shifting"
     url: "/wiki/concepts/temperatureminimumclockshifting/"
+  - key: "TemporallyGatedNeuroplasticity"
+    title: "Temporally Gated Neuroplasticity"
+    url: "/wiki/concepts/temporallygatedneuroplasticity/"
   - key: "TheoryOfConstructedEmotion"
     title: "Theory of Constructed Emotion"
     url: "/wiki/concepts/theoryofconstructedemotion/"
@@ -3101,6 +3107,9 @@ topic_entities:
   - key: "MichaelGrandner"
     title: "Michael Grandner"
     url: "/wiki/entities/michaelgrandner/"
+  - key: "MichaelKilgard"
+    title: "Michael Kilgard"
+    url: "/wiki/entities/michaelkilgard/"
   - key: "MichaelServetus"
     title: "Michael Servetus"
     url: "/wiki/entities/michaelservetus/"
@@ -4245,6 +4254,9 @@ topic_sources:
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  - key: "how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004"
+    title: "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard"
+    url: "/wiki/sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004/"
   - key: "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673"
     title: "How to Shape Your Identity & Goals | Dr. Maya Shankar"
     url: "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
