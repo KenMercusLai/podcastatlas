@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能](sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp.md) — 这病说来话长 interview with Zhao Chuan on long-career conditioning, performance readiness, vocal care, walking, touring, and later-life renewal.
 - [582. The Body in the Woods: A Medieval Murder Mystery](sources/582-the-body-in-the-woods-a-medieval-murder-mystery-glt7904466685.md) — The Rest Is History on William of Norwich, Thomas of Monmouth, local skepticism, clerical incentive, and the formation and spread of the medieval blood libel.
 - [How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman](sources/scim4452883260-scim4452883260.md) — Huberman Lab interview on environmental neuroscience, attention restoration, nature exposure, rumination, health evidence, and biophilic design.
 - [583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal](sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490.md) — The Rest Is History on Harold Davidson's contested clerical scandal, defrocking, tabloid notoriety, paid humiliation, and death after a lion attack.
@@ -4487,6 +4488,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 
 ## Entities
+- [赵传 / Zhao Chuan](entities/ZhaoChuan.md) — Singer connecting long-term stage work with adaptable conditioning, voice maintenance, city observation, and later-life renewal.
 - [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
 - [Thomas of Monmouth](entities/ThomasOfMonmouth.md) — Norwich monk whose unreliable hagiographic narrative promoted William's cult and a durable ritual-murder accusation.
 - [Marc Berman](entities/MarcBerman.md) — Environmental-neuroscience researcher studying how natural and built settings relate to attention, cognition, behavior, and health.
@@ -17711,6 +17713,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [游坦之 / You Tanzhi](entities/YouTanzhi.md) — 家破人亡后把阿紫当作新目标，在持续虐待、献眼与殉情中逐步失去独立方向的《天龙八部》人物。
 
 ## Concepts
+- [Performer Health as Career Infrastructure / 表演者健康作为职业基础设施](concepts/PerformerHealthAsCareerInfrastructure.md) — Treating repeatable physical maintenance and recovery as conditions of durable live-performance work rather than short pre-show fixes.
 - [Environmental Neuroscience](concepts/EnvironmentalNeuroscience.md) — Evidence-tiered field connecting features of physical settings to cognition, emotion, behavior, and health.
 - [Attention Restoration Theory](concepts/AttentionRestorationTheory.md) — Account of how reduced directed-attention demand and soft fascination may restore cognitive capacity.
 - [Commercialized Scandal Spectacle](concepts/CommercializedScandalSpectacle.md) — Conversion of public disgrace, lost status, bodily exposure, and notoriety into repeatable paid entertainment.

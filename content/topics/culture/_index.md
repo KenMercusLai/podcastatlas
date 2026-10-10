@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3380
+topic_total_pages: 3383
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2401,6 +2401,9 @@ topic_concepts:
   - key: "PerformanceFootwearMarket"
     title: "Performance Footwear Market"
     url: "/wiki/concepts/performancefootwearmarket/"
+  - key: "PerformerHealthAsCareerInfrastructure"
+    title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
+    url: "/wiki/concepts/performerhealthascareerinfrastructure/"
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"
@@ -8600,6 +8603,9 @@ topic_entities:
   - key: "JiaYucun"
     title: "贾雨村 / Jia Yucun"
     url: "/wiki/entities/jiayucun/"
+  - key: "ZhaoChuan"
+    title: "赵传 / Zhao Chuan"
+    url: "/wiki/entities/zhaochuan/"
   - key: "ZhaoTao"
     title: "赵涛 / Zhao Tao"
     url: "/wiki/entities/zhaotao/"
@@ -9861,6 +9867,9 @@ topic_sources:
   - key: "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho"
     title: "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态"
     url: "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+  - key: "vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp"
+    title: "VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能"
+    url: "/wiki/sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp/"
   - key: "vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c"
     title: "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”"
     url: "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"

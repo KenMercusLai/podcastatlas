@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1546
+topic_total_pages: 1547
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1702,6 +1702,9 @@ topic_concepts:
   - key: "PerfectionismAsAvoidance"
     title: "Perfectionism As Avoidance"
     url: "/wiki/concepts/perfectionismasavoidance/"
+  - key: "PerformerHealthAsCareerInfrastructure"
+    title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
+    url: "/wiki/concepts/performerhealthascareerinfrastructure/"
   - key: "PeriaqueductalGray"
     title: "Periaqueductal Gray"
     url: "/wiki/concepts/periaqueductalgray/"

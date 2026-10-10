@@ -35189,3 +35189,11 @@ Added source `067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能
+
+Added source `vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp`; created [[ZhaoChuan|赵传]]; and synthesized [[PerformerHealthAsCareerInfrastructure|表演者健康作为职业基础设施]] across the complete source notes for Zhao Chuan, [[XinXiaoqi|辛晓琪]], and [[SuJianxin|苏见信（信）]]. Core synthesis: live singing is bodily work, and durable performance capacity depends on repeatable, adaptable conditioning and recovery rather than one ideal body or a short pre-concert crash program. No settled contradiction was adopted. The headline's vascular warning lacks a diagnosis or clinical detail, while claims about cardiopulmonary function, metabolism, voice reflexes, dietary irritation, and weight-related vocal power remain autobiographical or source-scoped. The broad [[ZheBingShuoLaiHuaChang|这病说来话长]] show page was kept closed because the focused source, performer, and concept capture the durable addition without reopening its large unchanged evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,408 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -198645,6 +198645,36 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
+    "PerformerHealthAsCareerInfrastructure": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
+        },
+        {
+          "episode_file": "lkdXZl6wKKaQuHWmCkWxSYXYIAHO [lkdXZl6wKKaQuHWmCkWxSYXYIAHO].md",
+          "key": "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho",
+          "show": "这病说来话长",
+          "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
+          "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+        },
+        {
+          "episode_file": "lp2HZPkTVC_Ij-p9I8nPAlIBcjNp [lp2HZPkTVC_Ij-p9I8nPAlIBcjNp].md",
+          "key": "vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp",
+          "show": "这病说来话长",
+          "title": "VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能",
+          "url": "/wiki/sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/performerhealthascareerinfrastructure/"
+    },
     "PeriaqueductalGray": {
       "episode_count": 5,
       "show_count": 1,
@@ -289698,6 +289728,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhaochongguowesternhan/"
+    },
+    "ZhaoChuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp2HZPkTVC_Ij-p9I8nPAlIBcjNp [lp2HZPkTVC_Ij-p9I8nPAlIBcjNp].md",
+          "key": "vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp",
+          "show": "这病说来话长",
+          "title": "VOL.171歌手赵传：医生曾警告“血管插不进”！为演唱会储备体能保持心肺功能",
+          "url": "/wiki/sources/vol-171-geshou-zhaochuan-yisheng-ceng-jinggao-xueguan-cha-bu-jin-wei-yanchanghui-chubei-tineng-baochi-xinfei-gongneng-lp2hzpktvc_ij-p9i8npalibcjnp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/zhaochuan/"
     },
     "ZhaoDiWesternHan": {
       "episode_count": 1,

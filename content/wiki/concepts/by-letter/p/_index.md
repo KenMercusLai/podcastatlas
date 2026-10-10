@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10314
+wiki_total_pages: 10315
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
+  - key: "PerformerHealthAsCareerInfrastructure"
+    title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
+    url: "/wiki/concepts/performerhealthascareerinfrastructure/"
   - key: "PerformerAudienceStateCoupling"
     title: "Performer-Audience State Coupling"
     url: "/wiki/concepts/performeraudiencestatecoupling/"
