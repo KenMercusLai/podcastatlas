@@ -10,6 +10,7 @@ sources:
   - 126-napoleon-in-egypt-glt3691914095
   - 76-statues-trafalgar-square-glt4670878913
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
+  - 612-nelson-the-final-showdown-part-5-glt2077045869
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -22,9 +23,9 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 ## Current Profile
 
-Nelson's command joined meticulous attention to weather, provisioning, health, and fleet readiness with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. At Trafalgar he again trusted captains to execute intent once battle became chaotic and sought not a limited win but annihilation through a two-column break into the allied line. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
+Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. Before Trafalgar he kept the battle fleet beyond the horizon, relied on frigates to watch Cadiz, and used captain dinners to turn the two-column “Nelson touch” into shared intent. He sought not a limited win but annihilation and trusted captains to execute once battle became chaotic. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
 
-The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. The 2025 retelling adds the personal ritual of the final day: prayer, a codicil asking king and country to support Emma Hamilton and Horatia, conspicuous refusal of safety, continued attention to victory and anchoring after his wound, and repeated claims of fulfilled duty. His death during victory, fleet-wide grief, state funeral, and monumental commemoration fused operational success with sacrifice and national myth. [[76-statues-trafalgar-square-glt4670878913]] and [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] follow that afterlife into [[TrafalgarSquare]], where a Roman-style triumphal column commemorates victory and naval supremacy while disputes over slavery test whether selected military honor can remain separate from a wider moral record. The earlier comic source shows how Emma Hamilton and celebrity scandal form another, lighter branch of the same public afterlife.
+The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. The 2025 retelling makes his final departure from Merton a bridge between private attachment and public duty: prayer, repeated farewells to Emma, acknowledgment of Horatia in a last letter, and expectation of death precede the later codicil asking king and country to support them. His conspicuous refusal of safety, continued attention to victory and anchoring after his wound, and repeated claims of fulfilled duty culminated in a death that fused operational success with sacrifice and national myth. [[76-statues-trafalgar-square-glt4670878913]] and [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] follow that afterlife into [[TrafalgarSquare]], where a Roman-style triumphal column commemorates victory and naval supremacy while disputes over slavery test whether selected military honor can remain separate from a wider moral record. The earlier comic source shows how Emma Hamilton and celebrity scandal form another, lighter branch of the same public afterlife.
 
 ## Key Characteristics
 
@@ -42,6 +43,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects Nelson's weather logs, sailor welfare, courage, captain loyalty, patriotic mission, and emotionally charged explanation of the “Nelson touch.”
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] places his provisioning, anti-scurvy attention, aggression, and delegated command within the Navy's longer professional and logistical development.
+- [[612-nelson-the-final-showdown-part-5-glt2077045869]] connects horizon concealment, frigate surveillance, captain dinners, crew readiness, final family letters, and the communicated “Nelson touch.”
 
 ### Tactical risk, delegated intent, and death
 
@@ -59,7 +61,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 ## Qualifications
 
-The Nile and Trafalgar sources are British-centered conversational narratives, and the 2025 episode substantially retells the 2022 battle account rather than independently verifying it; the relationship source is intentional comedy. Reported prayers, codicils, dialogue, French anchoring assumptions, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain either victory. Care for British sailors does not resolve his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed. Acknowledging those politics should not collapse analysis of command into either hero worship or total dismissal.
+The Nile and Trafalgar sources are British-centered conversational narratives, and both 2025 episodes substantially retell the 2022 campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. Reported prayers, rings, farewells, codicils, dialogue, crowd reactions, French anchoring assumptions, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain either victory. Care for British sailors does not resolve his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed. Acknowledging those politics should not collapse analysis of command into either hero worship or total dismissal.
 
 ## What Changed
 
@@ -67,7 +69,7 @@ The Nile and Trafalgar sources are British-centered conversational narratives, a
 - Added anti-abolitionism and Caribbean slavery as direct moral qualifications to the heroic image.
 - Connected the pre-battle “Nelson touch” to its execution, cost, death, and memorial afterlife.
 - Extended his tactical profile backward to the Nile, where geographic risk and close engagement isolated Napoleon's army before the later Trafalgar campaign.
-- Added the final-day prayer, family codicil, command after wounding, fleet grief, and state funeral as mechanisms joining private duty to public myth.
+- Joined the Merton farewell and family codicil to horizon concealment, frigate surveillance, captain dinners, command after wounding, fleet grief, and state funeral as mechanisms connecting preparation, shared intent, fatalistic duty, and public myth.
 
 ## Relationships
 

@@ -34364,3 +34364,11 @@ Added source `improve-your-lymphatic-system-for-overall-health-appearance-scim81
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 612. Nelson: The Final Showdown (Part 5)
+
+Added source `612-nelson-the-final-showdown-part-5-glt2077045869`; resynthesized [[HoratioNelson]], [[EmmaHamilton]], [[PierreCharlesVilleneuve]], [[TrafalgarCampaign]], [[NavalBreakthroughTactics]], and [[MaritimeCoalitionCoordination]] from their complete preserved evidence inventories before appending the new source once. The episode makes Nelson's Merton farewell part of his fatalistic command profile, adds beyond-the-horizon concealment and frigate surveillance to the Cadiz operational picture, and distinguishes Villeneuve's order- and honor-driven departure from any new confidence that sailing near Nelson was strategically sound. It substantially overlaps the 2022 Trafalgar countdown and therefore adds narrative provenance rather than independent confirmation. No settled contradiction was adopted. Reported dialogue, private ritual, crowd behavior, invasion counterfactuals, numerical totals, surveillance details, replacement timing, and commanders' motives remain episode-attributed or source-scoped. Broad [[RoyalNavy]], [[BattleOfTrafalgar]], [[NapoleonBonaparte]], [[CuthbertCollingwood]], and [[FedericoGravina]] pages were kept closed because the focused source, people, campaign, and concepts capture the bounded additions. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,303 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

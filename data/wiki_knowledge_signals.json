@@ -74369,9 +74369,9 @@
       "url": "/wiki/entities/emmagriffin/"
     },
     "EmmaHamilton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -74386,6 +74386,13 @@
           "show": "The Rest Is History",
           "title": "97. Top Ten Mistresses",
           "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-10-03",
@@ -116647,9 +116654,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -116699,6 +116706,13 @@
           "show": "The Rest Is History",
           "title": "613. Nelson: Glory at Trafalgar (Part 6)",
           "url": "/wiki/sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-10-10",
@@ -164237,9 +164251,9 @@
       "url": "/wiki/entities/marinusvanderlubbe/"
     },
     "MaritimeCoalitionCoordination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5489746159 [GLT5489746159].md",
@@ -164247,6 +164261,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-09-30",
@@ -178913,9 +178934,9 @@
       "url": "/wiki/concepts/naturewritingobjectthickness/"
     },
     "NavalBreakthroughTactics": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -178944,6 +178965,13 @@
           "show": "The Rest Is History",
           "title": "613. Nelson: Glory at Trafalgar (Part 6)",
           "url": "/wiki/sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-10-10",
@@ -196056,9 +196084,9 @@
       "url": "/wiki/entities/pierrecauchon/"
     },
     "PierreCharlesVilleneuve": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -196080,6 +196108,13 @@
           "show": "The Rest Is History",
           "title": "613. Nelson: Glory at Trafalgar (Part 6)",
           "url": "/wiki/sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-10-10",
@@ -251868,9 +251903,9 @@
       "url": "/wiki/entities/trae/"
     },
     "TrafalgarCampaign": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5489746159 [GLT5489746159].md",
@@ -251885,6 +251920,13 @@
           "show": "The Rest Is History",
           "title": "243. Trafalgar: A World at War (Part 1)",
           "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        },
+        {
+          "episode_file": "GLT2077045869 [GLT2077045869].md",
+          "key": "612-nelson-the-final-showdown-part-5-glt2077045869",
+          "show": "The Rest Is History",
+          "title": "612. Nelson: The Final Showdown (Part 5)",
+          "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
         }
       ],
       "updated": "2026-09-30",

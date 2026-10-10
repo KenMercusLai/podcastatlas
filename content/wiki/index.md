@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [612. Nelson: The Final Showdown (Part 5)](sources/612-nelson-the-final-showdown-part-5-glt2077045869.md) — The Rest Is History on Nelson's final farewell, Cadiz surveillance and concealment, the two-column “Nelson touch,” Villeneuve's pressure, and the eve of Trafalgar.
 - [VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘](sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s.md) — 这病说来话长由创伤外科医生张悦连接急诊现场、保命优先的损伤控制、截肢与愈合不确定性、知情同意及保守院前处置。
 - [贾樟柯×罗永浩！成为贾樟柯（上）](sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir.md) — 罗永浩与贾樟柯从汾阳成长、文学与流行文化谈到电影教育、低成本起步、作者边界、时代音乐及现实优先的导演方法。
 - [082 「纸醉金迷」两岁了|你心目中的金庸宇宙top1](sources/082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd.md) — 纸醉金迷FM两周年圆桌以金庸小说、人物、武功和域外武侠之最，区分批评判断与私人偏爱，并讨论生命阶段如何改变人物同情与阅读重点。

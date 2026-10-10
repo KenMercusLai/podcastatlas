@@ -4,6 +4,7 @@ type: concept
 tags: [naval-warfare, coalitions, command, logistics, strategy]
 sources:
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
+  - 612-nelson-the-final-showdown-part-5-glt2077045869
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -16,7 +17,7 @@ Maritime coalition coordination is the problem of aligning fleets that operate a
 
 ## Current Synthesis
 
-The [[TrafalgarCampaign|Trafalgar campaign]] shows why numerical strength and a grand plan do not guarantee concentration at sea. Napoleon's scheme required French and Spanish squadrons to escape blockades, meet at specified points, cross the Atlantic twice, and arrive in the Channel within a useful window. Storms and British action mattered, but so did political divergence: Spanish commanders resisted Channel operations, [[PierreCharlesVilleneuve|Villeneuve]] doubted parity with the Royal Navy, and Cadiz imposed disease and supply pressure. Coordination therefore depended simultaneously on communications, timing, logistics, trust, compatible objectives, and the ability to adapt without shared real-time control.
+The [[TrafalgarCampaign|Trafalgar campaign]] shows why numerical strength and a grand plan do not guarantee concentration at sea. Napoleon's scheme required French and Spanish squadrons to escape blockades, meet at specified points, cross the Atlantic twice, and arrive in the Channel within a useful window. Storms and British action mattered, but so did political divergence: Spanish commanders resisted Channel operations, [[PierreCharlesVilleneuve|Villeneuve]] doubted parity with the Royal Navy, and Cadiz imposed disease and supply pressure. Napoleon's order to sail and threat to replace Villeneuve created action without resolving those readiness problems; honor and career pressure could therefore accelerate a coalition into battle while its strategic assessment remained adverse. Coordination depended simultaneously on communications, timing, logistics, trust, compatible objectives, and the ability to adapt without shared real-time control.
 
 ## Key Claims
 
@@ -36,6 +37,7 @@ The [[TrafalgarCampaign|Trafalgar campaign]] shows why numerical strength and a 
 ### Political and institutional divergence
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] contrasts Napoleon's orders, Villeneuve's caution, Spanish reluctance, French revolutionary naval damage, and Spain's manpower constraints.
+- [[612-nelson-the-final-showdown-part-5-glt2077045869]] connects Cadiz shortage, disease, uneven crews, French orders, replacement pressure, Spanish participation, and Villeneuve's honor to the final decision to sail.
 
 ### Adversarial exploitation
 
@@ -43,12 +45,13 @@ The [[TrafalgarCampaign|Trafalgar campaign]] shows why numerical strength and a 
 
 ## Counterevidence & Qualifications
 
-Coalition friction did not make defeat inevitable: the combined fleet assembled substantial numerical strength at Cadiz and eventually sailed. The episode is British-centered, and its judgments about Villeneuve, Spanish intentions, Napoleon's naval understanding, and counterfactual invasion prospects need corroboration from French and Spanish evidence.
+Coalition friction did not make defeat inevitable: the combined fleet assembled substantial numerical strength at Cadiz and eventually sailed. Both overlapping episodes are British-centered, and their judgments about Villeneuve, Spanish intentions, Napoleon's naval understanding, replacement pressure, honor, and counterfactual invasion prospects need corroboration from French and Spanish evidence.
 
 ## What Changed
 
 - Established a coordination model that separates nominal fleet totals from usable combined capability.
 - Connected operational failure to political incentives and information limits as well as weather and seamanship.
+- Added the distinction between an order that produces movement and coordination that produces readiness or shared strategic confidence.
 
 ## Related Concepts
 

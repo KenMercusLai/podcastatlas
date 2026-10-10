@@ -5,6 +5,7 @@ tags: [campaign, naval-warfare, napoleonic-wars, britain, france, spain]
 sources:
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
+  - 612-nelson-the-final-showdown-part-5-glt2077045869
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -17,13 +18,14 @@ The Trafalgar campaign was the 1805 sequence of blockade escapes, Atlantic cross
 
 ## Current Profile
 
-The campaign is presented as a failure of an ambitious distributed naval plan rather than a simple prelude to one battle. [[NapoleonBonaparte|Napoleon]] sought temporary Channel control by sending [[PierreCharlesVilleneuve|Villeneuve]] from Toulon to the Caribbean and back while other squadrons joined him. The background source frames that immediate plan inside an older strategic problem: France's land commitments competed with fleet investment, while Britain used public finance and the [[RoyalNavy]] to make Channel control, Mediterranean reach, blockade, and distant pursuit repeatable. Storms, imperfect intelligence, missed combinations, British pursuit, Spanish reluctance, Calder's interception, and [[CuthbertCollingwood|Collingwood]]'s blockade pressure prevented concentration. Once Villeneuve entered Cadiz, supply limits, yellow fever, replacement orders, French operational demands, Spanish honor, and [[HoratioNelson|Nelson]]'s concealed strength helped turn strategic frustration into a decision to sail.
+The campaign is presented as a failure of an ambitious distributed naval plan rather than a simple prelude to one battle. [[NapoleonBonaparte|Napoleon]] sought temporary Channel control by sending [[PierreCharlesVilleneuve|Villeneuve]] from Toulon to the Caribbean and back while other squadrons joined him. The background source frames that immediate plan inside an older strategic problem: France's land commitments competed with fleet investment, while Britain used public finance and the [[RoyalNavy]] to make Channel control, Mediterranean reach, blockade, and distant pursuit repeatable. Storms, imperfect intelligence, missed combinations, British pursuit, Spanish reluctance, Calder's interception, and [[CuthbertCollingwood|Collingwood]]'s blockade pressure prevented concentration. Once Villeneuve entered Cadiz, Nelson kept his battle fleet beyond the horizon and used frigates as an observation-and-signal chain. Supply limits, yellow fever, temporarily detached British ships, replacement orders, French operational demands, and Spanish honor then helped turn strategic frustration into a decision to sail.
 
 ## Key Characteristics
 
 - Atlantic-scale French attempt to create temporary control of the English Channel.
 - Distributed plan dependent on blockade escapes, long-distance rendezvous, and rapid concentration.
 - British response combining pursuit, interception, blockade, deception, and delegated squadron command.
+- Cadiz containment combining beyond-the-horizon concealment with persistent frigate surveillance and signal relay.
 - French-Spanish coalition strained by different orders, incentives, readiness, and risk assessments.
 - Weather, disease, supply, information delays, and geography acting as operational forces.
 - Transition from failed invasion design to a fleet engagement off Cape Trafalgar.
@@ -38,6 +40,7 @@ The campaign is presented as a failure of an ambitious distributed naval plan ra
 ### Cadiz pressure and coalition decision
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects blockade, supply, disease, replacement fears, French orders, Spanish honor, and Nelson's concealment of strength to the decision to leave port.
+- [[612-nelson-the-final-showdown-part-5-glt2077045869]] describes the frigate relay, Nelson's position beyond the horizon, detached British ships, Villeneuve's replacement pressure, and the signals that turned waiting into a general chase.
 
 ### Eve of battle
 
@@ -45,12 +48,13 @@ The campaign is presented as a failure of an ambitious distributed naval plan ra
 
 ## Qualifications
 
-This profile derives from British podcast reconstructions that center Nelson and Villeneuve. Exact ship and manpower totals, the feasibility and intended scope of invasion, commanders' private motives, and the relative causal weight of institutions, geography, weather, coalition friction, and individual choice remain source-scoped.
+This profile derives from British podcast reconstructions that center Nelson and Villeneuve, and the two campaign narratives substantially overlap. Exact ship and manpower totals, frigate positions and signal timing, the feasibility and intended scope of invasion, commanders' private motives, and the relative causal weight of institutions, geography, weather, coalition friction, and individual choice remain source-scoped.
 
 ## What Changed
 
 - Established the campaign as an operational system joining geography, information, logistics, coalition politics, and command psychology before the battle itself.
 - Added the longer fiscal and institutional imbalance that made blockade, pursuit, and naval-infrastructure destruction central to both sides' strategy.
+- Added the Cadiz surveillance architecture that let Nelson conceal the battle fleet without surrendering timely information.
 
 ## Relationships
 
