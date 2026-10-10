@@ -505,14 +505,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "SCIM5466682268 [SCIM5466682268].md",
-      "source_note_count": 377,
-      "topic_matched_source_note_count": 186,
+      "source_note_count": 378,
+      "topic_matched_source_note_count": 187,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 175
+          "source_note_count": 176
         },
         {
           "key": "culture",
@@ -584,9 +584,9 @@
           "episode_count": 5
         },
         {
-          "key": "KyleGillett",
-          "title": "Kyle Gillett",
-          "url": "/wiki/entities/kylegillett/",
+          "key": "AliCrum",
+          "title": "Alia Crum",
+          "url": "/wiki/entities/alicrum/",
           "kind": "person",
           "episode_count": 4
         }

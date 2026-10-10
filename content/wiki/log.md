@@ -34750,3 +34750,11 @@ Added source `075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum
+
+Added source `essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808`; resynthesized [[AliCrum]], [[MindsetPhysiologyEffects]], and [[ThreatChallengeStressReappraisal]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: domain-specific assumptions can organize expectation, attention, motivation, behavior, and some measured responses to food, occupational activity, symptoms, and stress; the practical stress sequence is to acknowledge arousal, welcome its connection to something valued, and use it toward a viable goal. No settled contradiction was adopted. This Essentials release condenses the already-ingested full Crum interview and is overlapping editorial provenance rather than independent replication; the milkshake, housekeeper, UBS, psychogenic-fever, hormone, and stress findings remain source-scoped because complete methods, effect sizes, replication evidence, and long-term outcomes were not supplied. Broad [[AndrewHuberman]], [[HubermanLab]], [[GrowthMindset]], [[PlaceboNoceboExpectationEffects]], and [[AppetiteHormoneRegulation]] pages were kept closed because the focused pages capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 801 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

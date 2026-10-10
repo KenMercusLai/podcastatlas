@@ -11651,9 +11651,9 @@
       "url": "/wiki/entities/aliansari/"
     },
     "AliCrum": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1082295503 [SCIM1082295503].md",
@@ -11675,9 +11675,16 @@
           "show": "Huberman Lab",
           "title": "How Foods & Nutrients Control Our Moods",
           "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
+        },
+        {
+          "episode_file": "SCIM9243624808 [SCIM9243624808].md",
+          "key": "essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+          "url": "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/alicrum/"
     },
     "AliIbnAbiTalib": {
@@ -174567,9 +174574,9 @@
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
     "MindsetPhysiologyEffects": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -174591,9 +174598,16 @@
           "show": "Huberman Lab",
           "title": "How Foods & Nutrients Control Our Moods",
           "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
+        },
+        {
+          "episode_file": "SCIM9243624808 [SCIM9243624808].md",
+          "key": "essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+          "url": "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/mindsetphysiologyeffects/"
     },
     "MingDingling": {
@@ -252111,9 +252125,9 @@
       "url": "/wiki/entities/thomasvenner/"
     },
     "ThreatChallengeStressReappraisal": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -252149,9 +252163,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
           "url": "/wiki/sources/essentials-manage-stress-build-resilience-dr-elissa-epel-scim5466682268/"
+        },
+        {
+          "episode_file": "SCIM9243624808 [SCIM9243624808].md",
+          "key": "essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808",
+          "show": "Huberman Lab",
+          "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+          "url": "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
     },
     "ThreatDrivenAllianceReversal": {

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1526
+topic_total_pages: 1527
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4002,6 +4002,9 @@ topic_sources:
   - key: "essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095"
     title: "Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners"
     url: "/wiki/sources/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners-scim8528625095/"
+  - key: "essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808"
+    title: "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum"
+    url: "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
   - key: "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468"
     title: "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing"
     url: "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
