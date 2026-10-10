@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10302
+wiki_total_pages: 10304
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "SexWorkEconomicSpectrum"
     title: "Sex Work as an Economic Spectrum"
     url: "/wiki/concepts/sexworkeconomicspectrum/"
+  - key: "SexDifferentiatedHypothalamicCircuits"
+    title: "Sex-Differentiated Hypothalamic Circuits"
+    url: "/wiki/concepts/sexdifferentiatedhypothalamiccircuits/"
   - key: "SexSpecificExerciseProgrammingBoundary"
     title: "Sex-Specific Exercise Programming Evidence Boundary"
     url: "/wiki/concepts/sexspecificexerciseprogrammingboundary/"

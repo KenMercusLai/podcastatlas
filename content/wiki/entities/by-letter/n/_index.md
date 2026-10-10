@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13136
+wiki_total_pages: 13137
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "NioCorp"
     title: "NioCorp"
     url: "/wiki/entities/niocorp/"
+  - key: "NiraoShah"
+    title: "Nirao Shah"
+    url: "/wiki/entities/niraoshah/"
   - key: "NirmalPurja"
     title: "Nirmal Purja"
     url: "/wiki/entities/nirmalpurja/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10302
+wiki_total_pages: 10304
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "ReproductiveBodyOmenPolitics"
     title: "Reproductive Body Omen Politics / 生殖身体祥瑞政治"
     url: "/wiki/concepts/reproductivebodyomenpolitics/"
+  - key: "ReproductiveStateDependentBrainPlasticity"
+    title: "Reproductive-State-Dependent Brain Plasticity"
+    url: "/wiki/concepts/reproductivestatedependentbrainplasticity/"
   - key: "RepublicanChinaBankingSystem"
     title: "Republican China Banking System"
     url: "/wiki/concepts/republicanchinabankingsystem/"

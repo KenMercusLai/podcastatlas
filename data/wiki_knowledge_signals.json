@@ -143994,9 +143994,9 @@
       "url": "/wiki/entities/kisoyoshinaka/"
     },
     "KisspeptinReproductiveSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1922606198 [SCIM1922606198].md",
@@ -144004,9 +144004,16 @@
           "show": "Huberman Lab",
           "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
           "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
+        },
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/kisspeptinreproductivesignaling/"
     },
     "KitcheeSC": {
@@ -185720,6 +185727,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/ningbozhoushanport/"
     },
+    "NiraoShah": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/niraoshah/"
+    },
     "NittanWuyu": {
       "episode_count": 5,
       "show_count": 1,
@@ -217385,6 +217408,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/reproductivebodyomenpolitics/"
     },
+    "ReproductiveStateDependentBrainPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/reproductivestatedependentbrainplasticity/"
+    },
     "RepublicOfTheRif": {
       "episode_count": 1,
       "show_count": 1,
@@ -230046,6 +230085,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/sexcounselingnonjudgmentalboundary/"
     },
+    "SexDifferentiatedHypothalamicCircuits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/sexdifferentiatedhypothalamiccircuits/"
+    },
     "SexPistols": {
       "episode_count": 2,
       "show_count": 1,
@@ -230176,9 +230231,9 @@
       "url": "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
     },
     "SexualDifferentiationPathway": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -230200,9 +230255,16 @@
           "show": "Huberman Lab",
           "title": "How Hormones Shape Sexual Development",
           "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
+        },
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sexualdifferentiationpathway/"
     },
     "SexualExplorationAsSelfKnowledge": {
@@ -237605,9 +237667,9 @@
       "url": "/wiki/concepts/socialrankflexibility/"
     },
     "SocialRewardNeuromodulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2531622462 [SCIM2531622462].md",
@@ -237622,9 +237684,16 @@
           "show": "Huberman Lab",
           "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
           "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        },
+        {
+          "episode_file": "SCIM8238911431 [SCIM8238911431].md",
+          "key": "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431",
+          "show": "Huberman Lab",
+          "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+          "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/socialrewardneuromodulation/"
     },
     "SocialRoboticsElderCare": {

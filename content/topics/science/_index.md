@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1540
+topic_total_pages: 1543
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1900,6 +1900,9 @@ topic_concepts:
   - key: "ReplicationCrisis"
     title: "Replication Crisis"
     url: "/wiki/concepts/replicationcrisis/"
+  - key: "ReproductiveStateDependentBrainPlasticity"
+    title: "Reproductive-State-Dependent Brain Plasticity"
+    url: "/wiki/concepts/reproductivestatedependentbrainplasticity/"
   - key: "RescuerMindsetInIntimacy"
     title: "Rescuer Mindset In Intimacy / 亲密关系拯救者心态"
     url: "/wiki/concepts/rescuermindsetinintimacy/"
@@ -2095,6 +2098,9 @@ topic_concepts:
   - key: "SerotoninSocialWellbeingTools"
     title: "Serotonin Social Wellbeing Tools"
     url: "/wiki/concepts/serotoninsocialwellbeingtools/"
+  - key: "SexDifferentiatedHypothalamicCircuits"
+    title: "Sex-Differentiated Hypothalamic Circuits"
+    url: "/wiki/concepts/sexdifferentiatedhypothalamiccircuits/"
   - key: "SexualBehaviorPartnerPreferenceDistinction"
     title: "Sexual Behavior–Partner Preference Distinction"
     url: "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
@@ -4308,6 +4314,9 @@ topic_sources:
   - key: "live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964"
     title: "LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle"
     url: "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964/"
+  - key: "male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431"
+    title: "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah"
+    url: "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
   - key: "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751"
     title: "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita"
     url: "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"

@@ -35065,3 +35065,11 @@ Added source `070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3p
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah
+
+Added source `male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431`; created [[NiraoShah]], [[SexDifferentiatedHypothalamicCircuits]], and [[ReproductiveStateDependentBrainPlasticity]]; and resynthesized [[SexualDifferentiationPathway]], [[SocialRewardNeuromodulation]], and [[KisspeptinReproductiveSignaling]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: genes and early hormones organize selected cells and connections, later hormones and context activate or inhibit behavioral programs, adult reproductive circuits can remodel with state, and neither oxytocin nor dopamine functions as a single universal bonding or libido switch. No settled contradiction was adopted. Mouse and prairie-vole mechanisms do not directly determine human gender, orientation, behavior, environmental-exposure effects, or treatment decisions; exact circuit, hormone, stimulation, and translational claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], aggression, menopause, and clinical-hormone pages were kept closed because the focused source, expert, and mechanism pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,392 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
