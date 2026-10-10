@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13042
+wiki_total_pages: 13045
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1736,6 +1736,9 @@ wiki_pages:
   - key: "MrGameShowFlorida"
     title: "Mr. Game Show Florida"
     url: "/wiki/entities/mrgameshowflorida/"
+  - key: "MrBeast"
+    title: "MrBeast"
+    url: "/wiki/entities/mrbeast/"
   - key: "MsMagazine"
     title: "Ms. Magazine"
     url: "/wiki/entities/msmagazine/"
@@ -1991,6 +1994,9 @@ wiki_pages:
   - key: "MiTangQiangLeader"
     title: "弥唐 / Mi Tang (Qiang leader)"
     url: "/wiki/entities/mitangqiangleader/"
+  - key: "MediaStorm"
+    title: "影视飓风 / MediaStorm"
+    url: "/wiki/entities/mediastorm/"
   - key: "Mofang"
     title: "摩方 / Mofang"
     url: "/wiki/entities/mofang/"

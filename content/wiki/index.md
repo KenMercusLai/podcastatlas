@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [影视飓风TIM×罗永浩！用影像打开世界的梦想家](sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h.md) — 罗永浩对谈影视飓风 Tim，讨论评测独立、商业收入、创作者公司规模化、内容数据、极限企划、全球化与 AI 影像劳动压力。
 - [608. Nelson: Slaughter in Naples (Part 1)](sources/608-nelson-slaughter-in-naples-part-1-glt8594694484.md) — The Rest Is History on Nelson's Naples entanglement, the failed Roman campaign, royal flight, popular counterrevolution, disputed capitulation, and Caracciolo's execution.
 - [VOL.181脱口秀演员于渤：从ICU醒来我浑身插满管子像是个“充电宝”](sources/vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw.md) — 这病说来话长以余博的酮症酸中毒和 ICU 经历解释糖尿病急性危象、谵妄恢复、动态血糖监测及慢病身份适应。
 - [609. Nelson: The Gathering Storm (Part 2)](sources/609-nelson-the-gathering-storm-part-2-glt8067718474.md) — The Rest Is History on Nelson's Malta command, conflict with Lord Keith, return with Emma Hamilton, abandonment of Fanny, and push toward Copenhagen.
@@ -4395,6 +4396,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
 
 ## Entities
+- [影视飓风 Tim](entities/TimMediaStorm.md) — 影视飓风的创始人型创作者，以影像技艺、选题判断、商业边界、数据方法、极限企划和全球化目标组织公司成长。
+- [影视飓风 / MediaStorm](entities/MediaStorm.md) — 以专业与大众、长视频与短视频组合运营，并以样片、广告、电商和技术型企划支撑的创作者视频公司。
+- [MrBeast](entities/MrBeast.md) — 在本次来源中作为高预算、强企划、全球本地化创作者公司的比较基准。
 - [Maria Carolina](entities/MariaCarolina.md) — Neapolitan queen whose anti-French policy, exile, court influence, and demand for punishment shaped the 1799 restoration.
 - [Ferdinand IV of Naples](entities/FerdinandIVOfNaples.md) — Neapolitan king whose failed Roman campaign, Palermo exile, and punitive restoration depended on British naval support.
 - [Cardinal Ruffo](entities/CardinalRuffo.md) — Royalist organizer who led the Sanfedisti and negotiated the disputed capitulation of Naples.

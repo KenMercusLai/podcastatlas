@@ -18,7 +18,8 @@ sources:
   - yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo
   - bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot
   - yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov
-last_updated: 2026-10-08
+  - lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,6 +36,8 @@ As an interviewer, Luo is persistent, category-driven, and willing to embody the
 The “折腾” conversation makes continued experimentation an explicit life theme. Luo separates intense creative desire from demonstrated talent, revisits the capital and operational cost of smartphone entrepreneurship, and describes another technology company and a future stand-up tour as preferable to passive retirement. His account of hospital-diagnosed ADHD, medication limits, and severe launch-event preparation failure adds functional detail while preserving the existing professional-assessment boundary.
 
 The [[ZhangWeiweiMusician|张玮玮]] interview adds oral-history depth to the music branch. Luo follows one artist from factory-compound childhood through survival work, independent-scene apprenticeship, authorship, bereavement, electronic reinvention, audience reconciliation, and AI pressure. He supports Zhang's new direction while warning that an over-neat decade-by-decade album concept could constrain the work, extending his interviewer role from audience advocate into a critic of premature formal closure.
+
+The [[TimMediaStorm|影视飓风 Tim]] interview adds creator-company operating analysis. Luo uses his own product, advertising, and media experience to press the structural conflict between independent reviews and manufacturer money, then follows Tim into account portfolios, founder dependence, performance metrics, extreme content, global localization, and AI displacement. His role here is less autobiographical than comparative: he keeps translating creator practice into questions about incentive design, execution, and scale.
 
 ## Key Characteristics
 - Founder and presenter whose Smartisan history shows both the force and execution limits of taste-led consumer technology.
@@ -53,6 +56,7 @@ The [[ZhangWeiweiMusician|张玮玮]] interview adds oral-history depth to the m
 - AI, aging, and mortality: [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] show his AI fear, cross-model verification advice, companionship ambivalence, and mortality-facing self-reflection.
 - Continued experimentation and functional ADHD detail: [[bukaixiaowan-luoyonghao-de-x-zilukou-zheteng-weibi-hui-ying-dan-bu-zheteng-yiding-hui-houhui-lga0l5q48bht8ms9aotmbz-wh7ot]] connects technology ambition, abandoned music and film paths, future stand-up plans, moving, hospital diagnosis, medication history, and launch-event preparation failure.
 - Music oral history and creative renewal: [[yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov]] has Luo connect Zhang's biography to 1990s social change, independent-scene infrastructure, popular reception, electronic reinvention, and AI pressure while questioning an overly rigid future-album concept.
+- Creator-company analysis: [[lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h]] has Luo test review independence, commercial revenue, founder-led scale, content metrics, technical spectacle, global ambition, and AI labor forecasts.
 
 ## Qualifications
 The evidence mixes one secondary smartphone history with self-presented interviews and comedy panels. Debt and business-loss figures, medical and treatment comments, genetic-test interpretations, relationship choices, conflict stories, AI forecasts, retirement beliefs, concert preferences, music-history recollections, and personal memories remain source-scoped. The sources illuminate recurring public roles but do not establish a complete or neutral biography.
@@ -61,6 +65,7 @@ The evidence mixes one secondary smartphone history with self-presented intervie
 - Made continued experimentation explicit as a profile through technology ambition, failed creative routes, and a planned stand-up tour.
 - Added functional detail to Luo's diagnosed-ADHD account without expanding it into medical guidance.
 - Added music oral history as a mode that joins biography, social change, creative method, reception, and technological pressure.
+- Added creator-company incentive and operating design as an interview mode spanning editorial trust, revenue, metrics, scale, and AI.
 
 ## Relationships
 - [[Smartisan]] - company through which Luo's founder taste and execution limits enter the evidence set.
@@ -68,6 +73,8 @@ The evidence mixes one secondary smartphone history with self-presented intervie
 - [[CuiJian|崔健]] - guest whose present-tense artistic practice Luo tests from the perspective of a longtime listener.
 - [[YangLiStandup|杨笠]] - guest whose public controversy Luo reframes through stage craft, biography, grief, and continuing creation.
 - [[ZhangWeiweiMusician|张玮玮]] - guest whose music life Luo frames through 1990s change, scene apprenticeship, reinvention, and audience communication.
+- [[TimMediaStorm|影视飓风 Tim]] - guest whose company-building method Luo tests through commercial, product, and media experience.
+- [[MediaStorm|影视飓风]] - creator-company case extending Luo's interviews into portfolio and organizational design.
 - [[ShougongGeng|手工耿]] - guest whose objects Luo frames through utility, comedy, craft, and art.
 - [[CaiKangyong|蔡康永]] - guest whose calm around aging and death contrasts with Luo's anxious self-disclosure.
 - [[ArtisticContinuityAgainstNostalgia]] - concept sharpened by Luo's demand for familiar arrangements and Cui's refusal to be frozen by them.

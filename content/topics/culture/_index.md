@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3343
+topic_total_pages: 3344
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8006,6 +8006,9 @@ topic_entities:
   - key: "Dangdang"
     title: "当当 / Dangdang"
     url: "/wiki/entities/dangdang/"
+  - key: "MediaStorm"
+    title: "影视飓风 / MediaStorm"
+    url: "/wiki/entities/mediastorm/"
   - key: "XuBeihong"
     title: "徐悲鸿 / Xu Beihong"
     url: "/wiki/entities/xubeihong/"

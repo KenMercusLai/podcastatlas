@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3426
+topic_total_pages: 3427
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10170,6 +10170,9 @@ topic_sources:
   - key: "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352"
     title: "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头"
     url: "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+  - key: "lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h"
+    title: "影视飓风TIM×罗永浩！用影像打开世界的梦想家"
+    url: "/wiki/sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h/"
   - key: "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13"
     title: "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频"
     url: "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
