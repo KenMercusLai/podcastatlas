@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10269
+wiki_total_pages: 10270
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1844,6 +1844,9 @@ wiki_pages:
   - key: "ManichaeismInChina"
     title: "明教 / 摩尼教在中国"
     url: "/wiki/concepts/manichaeisminchina/"
+  - key: "MaternalSurvivalSacrificeEthics"
+    title: "母职求生与牺牲伦理 / Maternal Survival and Sacrifice Ethics"
+    url: "/wiki/concepts/maternalsurvivalsacrificeethics/"
   - key: "MilitaryJustificationTypology"
     title: "用兵名义分型 / Military Justification Typology"
     url: "/wiki/concepts/militaryjustificationtypology/"
