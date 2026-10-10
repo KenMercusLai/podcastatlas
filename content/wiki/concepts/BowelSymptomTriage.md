@@ -8,7 +8,8 @@ sources:
   - vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz
   - vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do
   - vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy
-last_updated: 2026-09-28
+  - vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,10 +25,12 @@ The IBD episode adds a disease-specific contrast without turning it into a home 
 
 Self-care also differs by direction of change. Delaying defecation can permit further water absorption and harder stool, while substantial or repeated diarrhea can deplete water and electrolytes. Hydration, clinically appropriate oral rehydration, movement, and regular toileting may support ordinary cases, but failure to improve or the appearance of warning signs shifts the task from self-care to assessment.
 
+VOL.179 adds a stool-form and color layer. Bristol-style form categories can make observation more concrete, but they still require context: hard pellets can align with constipation and slow transit, while mushy or watery stool can align with diarrhea and reduced water reabsorption. Black tarry stool, fresh blood, or pale clay-colored stool are treated as escalation clues for possible bleeding or impaired bile flow, not as home diagnoses. The same source links infectious diarrhea to mucosal injury and possible electrolyte disturbance while keeping fast transit, stress, irritable-bowel patterns, and lactose intolerance as non-exclusive possibilities.
+
 ## Key Claims
 - Bowel symptoms are often indirect, so pattern, persistence, and change from one's own baseline matter more than a single episode or universal frequency rule.
 - Stress-related diarrhea, cold-drink sensitivity, constipation, and alternating diarrhea or constipation can be functional, but should not be diagnosed casually.
-- Bowel-habit change, mucus, dark-red blood, black stool, or unexplained anemia deserves more concern than isolated mild discomfort.
+- Bowel-habit change, mucus, dark-red blood, black tarry stool, pale clay-colored stool, or unexplained anemia deserves more concern than isolated mild discomfort.
 - Fresh dripping blood can fit hemorrhoids, but repeated bleeding or blood mixed with stool still requires evaluation.
 - Delaying defecation can worsen stool hardness, while repeated diarrhea can require attention to dehydration and electrolyte loss.
 - Stool observation and appropriate testing help route inflammation, bleeding, or structural-disease concerns without making appearance alone diagnostic.
@@ -44,15 +47,15 @@ Self-care also differs by direction of change. Delaying defecation can permit fu
 - Baseline and bleeding: [[vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do]] emphasizes longitudinal change in frequency, form, color, blood mixing, and pain rather than one frequency cutoff or automatic hemorrhoid attribution.
 - Constipation and diarrhea self-care: [[vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do]] links delayed defecation to drier stool and repeated diarrhea to water and electrolyte loss, while placing substantial cases inside clinical assessment.
 - Hemorrhoid boundary: [[vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy]] contrasts fresh blood after stool with darker blood mixed through stool but uses both as clues, not exclusions, and warns against leaving persistent bleeding unevaluated.
+- Stool form, color, and hydration: [[vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n]] uses Bristol-style form, black tarry stool, fresh blood, pale stool, and watery diarrhea to route constipation, bleeding, bile-flow, and dehydration concerns without treating appearance as diagnosis.
 
 ## Counterevidence & Qualifications
-The episodes are public education, not symptom checkers. Blood color, timing, or mixing pattern cannot safely rule a cause in or out, and known hemorrhoids or absent blood do not exclude colorectal disease or Crohn's disease. Frequency definitions and probiotic, temperature, hydration, or motility explanations do not establish a home diagnosis. Oral rehydration needs and urgency vary with severity and health context. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
+The episodes are public education, not symptom checkers. Blood or stool color, timing, shape, smell, or mixing pattern cannot safely rule a cause in or out, and known hemorrhoids or absent blood do not exclude colorectal disease or Crohn's disease. Frequency definitions and probiotic, temperature, hydration, cold-stimulus, or motility explanations do not establish a home diagnosis. Oral rehydration needs and urgency vary with severity and health context. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
 
 ## What Changed
-- Added longitudinal comparison with a person's own bowel baseline rather than relying on one universal frequency rule.
-- Added the opposing hydration problems of delayed defecation and repeated diarrhea, including electrolyte-loss qualification.
-- Strengthened the boundary around mixed or darker blood, narrowing stool, persistent change, and symptom-triggered evaluation.
-- Added direct qualification that a hemorrhoid history does not close the diagnostic pathway for persistent rectal bleeding.
+- Added Bristol-style stool-form observation without turning categories into diagnoses.
+- Strengthened escalation around black tarry, fresh bloody, and pale clay-colored stool.
+- Added infection, fast transit, water reabsorption, and electrolyte-loss context for watery diarrhea.
 
 ## Related Concepts
 - [[IrritableBowelSyndromeDiagnosticBoundary]] - functional-diagnosis boundary that depends on excluding organic disease.
@@ -61,3 +64,5 @@ The episodes are public education, not symptom checkers. Blood color, timing, or
 - [[PreventiveHealthScreening]] - broader prevention and early-detection framework.
 - [[InflammatoryBowelDiseaseManagement]] - chronic inflammatory-disease pathway that may follow specialist evaluation.
 - [[FlatulenceAsHealthSignal]] - gas, motility, food, and microbiome context adjacent to bowel triage.
+- [[AnorectalSensationAndCoordination]] - discrimination and control mechanism that can change with diarrhea, infection, aging, or pelvic-floor dysfunction.
+- [[ProbioticUseBoundary]] - context-dependent product boundary adjacent to infection- and antibiotic-related bowel disruption.

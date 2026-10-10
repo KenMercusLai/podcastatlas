@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10236
+wiki_total_pages: 10241
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2060,6 +2060,9 @@ wiki_pages:
   - key: "ConsciousnessMeasurement"
     title: "Consciousness Measurement"
     url: "/wiki/concepts/consciousnessmeasurement/"
+  - key: "ConsciousnessBehaviorDissociation"
+    title: "Consciousness-Behavior Dissociation"
+    url: "/wiki/concepts/consciousnessbehaviordissociation/"
   - key: "ConsensusTrainedArtBoundary"
     title: "Consensus-Trained Art Boundary"
     url: "/wiki/concepts/consensustrainedartboundary/"
@@ -2564,6 +2567,9 @@ wiki_pages:
   - key: "CovertActionBlowback"
     title: "Covert Action Blowback"
     url: "/wiki/concepts/covertactionblowback/"
+  - key: "CovertConsciousness"
+    title: "Covert Consciousness"
+    url: "/wiki/concepts/covertconsciousness/"
   - key: "CovertPoliticalTechnology"
     title: "Covert Political Technology / 阴谋式政治技术"
     url: "/wiki/concepts/covertpoliticaltechnology/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1524
+topic_total_pages: 1526
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -499,6 +499,9 @@ topic_concepts:
   - key: "ConsciousnessMeasurement"
     title: "Consciousness Measurement"
     url: "/wiki/concepts/consciousnessmeasurement/"
+  - key: "ConsciousnessBehaviorDissociation"
+    title: "Consciousness-Behavior Dissociation"
+    url: "/wiki/concepts/consciousnessbehaviordissociation/"
   - key: "ConsiderTheOppositeBiasCorrection"
     title: "Consider-The-Opposite Bias Correction / 反向设想偏见校正"
     url: "/wiki/concepts/considertheoppositebiascorrection/"
@@ -4167,6 +4170,9 @@ topic_sources:
   - key: "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503"
     title: "How to Enhance Performance & Learning by Applying a Growth Mindset"
     url: "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
+  - key: "scim8616450810-scim8616450810"
+    title: "How to Expand Your Consciousness | Dr. Christof Koch"
+    url: "/wiki/sources/scim8616450810-scim8616450810/"
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"

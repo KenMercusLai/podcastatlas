@@ -124,9 +124,9 @@
       "url": "/wiki/entities/42zhangjing/"
     },
     "5MeODMT": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
@@ -141,6 +141,13 @@
           "show": "Huberman Lab",
           "title": "How to Make Yourself Unbreakable | DJ Shipley",
           "url": "/wiki/sources/how-to-make-yourself-unbreakable-dj-shipley-scim4854936060/"
+        },
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
         }
       ],
       "updated": "2026-10-10",
@@ -16197,6 +16204,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
+    "AnorectalSensationAndCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
+          "key": "vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n",
+          "show": "这病说来话长",
+          "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
+          "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/anorectalsensationandcoordination/"
+    },
     "AnorexiaHabitRewardDysregulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -29959,9 +29982,9 @@
       "url": "/wiki/entities/bowangslopebattlelatehan/"
     },
     "BowelSymptomTriage": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -29997,9 +30020,16 @@
           "show": "这病说来话长",
           "title": "VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？",
           "url": "/wiki/sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy/"
+        },
+        {
+          "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
+          "key": "vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n",
+          "show": "这病说来话长",
+          "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
+          "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/bowelsymptomtriage/"
     },
     "BowuzhiPodcast": {
@@ -44513,6 +44543,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/christmastruce1914/"
     },
+    "ChristofKoch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/christofkoch/"
+    },
     "ChristopherClark": {
       "episode_count": 1,
       "show_count": 1,
@@ -51300,6 +51346,87 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/consciencethroughduty/"
     },
+    "ConsciousnessBehaviorDissociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/consciousnessbehaviordissociation/"
+    },
+    "ConsciousnessMeasurement": {
+      "episode_count": 8,
+      "show_count": 6,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4） [lml7lPd3u9l7ESRYKNMHOAmPGx6v].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3） [ll74kQ2hg2vP-zX_cqXKaDxAhamD].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1） [lhKQRhbRejNhuxoOUEM8X8-1Aujj].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj/"
+        },
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
+          "key": "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk",
+          "show": "Long Now",
+          "title": "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness",
+          "url": "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+        },
+        {
+          "episode_file": "104.你一生的故事：终点已经注定，还要出发吗？ [739384680].md",
+          "key": "104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680",
+          "show": "蜜獾吃书",
+          "title": "104.你一生的故事：终点已经注定，还要出发吗？",
+          "url": "/wiki/sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680/"
+        },
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/consciousnessmeasurement/"
+    },
     "ConsentAndBodyBoundaryEducation": {
       "episode_count": 2,
       "show_count": 2,
@@ -54236,6 +54363,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/covertactionblowback/"
+    },
+    "CovertConsciousness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/covertconsciousness/"
     },
     "CowherdAndWeaverGirl": {
       "episode_count": 3,
@@ -90263,9 +90406,9 @@
       "url": "/wiki/entities/flashmanonthemarch/"
     },
     "FlatulenceAsHealthSignal": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "162.屁书：闲聊“人间之气”！一天几次最健康？ [938004270].md",
@@ -90280,9 +90423,16 @@
           "show": "这病说来话长",
           "title": "VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇",
           "url": "/wiki/sources/vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz/"
+        },
+        {
+          "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
+          "key": "vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n",
+          "show": "这病说来话长",
+          "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
+          "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/flatulenceashealthsignal/"
     },
     "FlavioBolsonaro": {
@@ -135645,9 +135795,9 @@
       "url": "/wiki/entities/jiangyongliang/"
     },
     "JiangYuliangDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -135669,9 +135819,16 @@
           "show": "这病说来话长",
           "title": "VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇",
           "url": "/wiki/sources/vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz/"
+        },
+        {
+          "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
+          "key": "vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n",
+          "show": "这病说来话长",
+          "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
+          "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/jiangyuliangdoctor/"
     },
     "JianghuScamCraft": {
@@ -195342,6 +195499,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/perceptionasbiologicalinference/"
     },
+    "PerceptionBox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8616450810 [SCIM8616450810].md",
+          "key": "scim8616450810-scim8616450810",
+          "show": "Huberman Lab",
+          "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+          "url": "/wiki/sources/scim8616450810-scim8616450810/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/perceptionbox/"
+    },
     "PerceptionConsciousnessBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -205513,6 +205686,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/proactiveagents/"
+    },
+    "ProbioticUseBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
+          "key": "vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n",
+          "show": "这病说来话长",
+          "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
+          "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/probioticuseboundary/"
     },
     "ProblemLedInterdisciplinarity": {
       "episode_count": 2,

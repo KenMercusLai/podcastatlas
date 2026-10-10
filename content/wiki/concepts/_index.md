@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10236
+wiki_total_pages: 10241
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2228,6 +2228,9 @@ wiki_pages:
   - key: "AnonymousVisitorIdentification"
     title: "Anonymous Visitor Identification"
     url: "/wiki/concepts/anonymousvisitoridentification/"
+  - key: "AnorectalSensationAndCoordination"
+    title: "Anorectal Sensation and Coordination"
+    url: "/wiki/concepts/anorectalsensationandcoordination/"
   - key: "AnorexiaHabitRewardDysregulation"
     title: "Anorexia Habit-Reward Dysregulation"
     url: "/wiki/concepts/anorexiahabitrewarddysregulation/"

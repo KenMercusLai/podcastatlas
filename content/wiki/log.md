@@ -34664,3 +34664,19 @@ Added source `601-scandal-in-the-white-house-glt1369800109`; created [[GroverCle
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？
+
+Added source `vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n`; created [[AnorectalSensationAndCoordination]] and [[ProbioticUseBoundary]]; and resynthesized [[JiangYuliangDoctor|蒋宇亮]], [[FlatulenceAsHealthSignal]], and [[BowelSymptomTriage]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: distinguishing gas from stool depends on rectal sensation, neural interpretation, transit, and coordinated propulsion and sphincter control; gas frequency, sound, odor, and stool form or color are contextual signals rather than diagnoses; and probiotic value depends on the person, condition, organism, product, and outcome rather than a universal healthy-person need. No settled contradiction was adopted. Daily flatulence counts, intestinal-gas reabsorption and exhalation, odor-disease associations, cold-stimulus mechanisms, stool-color causes, and probiotic effects remain uncertain, non-diagnostic, or source-scoped public education. Broad host and show profiles, pelvic-floor rehabilitation, IBS, and gut sensory-neural pages were kept closed because the focused source, guest, and concepts capture the bounded addition without reopening larger or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,342 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | How to Expand Your Consciousness | Dr. Christof Koch
+
+Added source `scim8616450810-scim8616450810`; created [[ChristofKoch|Christof Koch]], [[ConsciousnessBehaviorDissociation]], [[PerceptionBox]], and [[CovertConsciousness]]; and resynthesized [[ConsciousnessMeasurement]] and [[5MeODMT|5-MeO-DMT]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: subjective experience is not identical to behavior, intelligence, communication, or self-consciousness; perturbational complexity and covert command following can improve clinical inference without becoming infallible consciousness tests; and priors, memory, culture, embodiment, and bodily state constrain experienced reality while leaving some room for revision through direct experience, therapy, community, and practice. No settled contradiction was adopted. Koch's idealism, death interpretation, cosmic-purpose claims, psychedelic phenomenology, reported complexity threshold, individual clinical cases, youth-mental-health causes, placebo mechanisms, concept-cell examples, and broad social claims remain autobiographical, episode-attributed, exploratory, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,343 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -25457,6 +25457,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ConsciousnessBehaviorDissociation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ConsciousnessMeasurement": [
     {
       "key": "technology",
@@ -103066,6 +103073,13 @@
     }
   ],
   "scim8083153125-scim8083153125": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim8616450810-scim8616450810": [
     {
       "key": "science",
       "label": "Science",

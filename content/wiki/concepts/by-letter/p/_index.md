@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10236
+wiki_total_pages: 10241
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "PerceptionAsBiologicalInference"
     title: "Perception as Biological Inference"
     url: "/wiki/concepts/perceptionasbiologicalinference/"
+  - key: "PerceptionBox"
+    title: "Perception Box"
+    url: "/wiki/concepts/perceptionbox/"
   - key: "PerceptionConsciousnessBoundary"
     title: "Perception-Consciousness Boundary"
     url: "/wiki/concepts/perceptionconsciousnessboundary/"
@@ -2006,6 +2009,9 @@ wiki_pages:
   - key: "ProbabilisticSoftware"
     title: "Probabilistic Software"
     url: "/wiki/concepts/probabilisticsoftware/"
+  - key: "ProbioticUseBoundary"
+    title: "Probiotic Use Boundary"
+    url: "/wiki/concepts/probioticuseboundary/"
   - key: "ProblemDefinitionInResearch"
     title: "Problem Definition In Research"
     url: "/wiki/concepts/problemdefinitioninresearch/"

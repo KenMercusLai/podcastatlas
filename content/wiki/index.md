@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Expand Your Consciousness | Dr. Christof Koch](sources/scim8616450810-scim8616450810.md) — Huberman Lab interview on consciousness versus behavior and selfhood, perturbational complexity, covert consciousness, perception boxes, and source-scoped psychedelic metaphysics.
+- [VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？](sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n.md) — 这病说来话长以直肠感觉和括约肌协调解释屁便辨别，并讨论排气、便形便色、腹泻便秘及益生菌使用边界。
 - [601. Scandal in the White House](sources/601-scandal-in-the-white-house-glt1369800109.md) — The Rest Is History on Grover Cleveland, Maria Halpin, the 1884 election, partisan scandal evidence, and the limits of inferring voter response.
 - [Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016.md) — Condensed Huberman Lab interview on adaptation-led resistance training, recovery timing, demand-matched fuel, skill quality, and thermal exposure.
 - [602. Greek Myths: Zeus, King of the Gods (Part 1)](sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364.md) — The Rest Is History on Hesiod, Zeus's divine succession, non-scriptural Greek religion, Indo-European and Near Eastern layers, and civic hero genealogy.
@@ -4420,6 +4422,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 
 ## Entities
+- [Christof Koch](entities/ChristofKoch.md) — Neuroscientist connecting consciousness distinctions and clinical measurement with first-person altered states and qualified philosophical interpretation.
 - [Grover Cleveland](entities/GroverCleveland.md) — U.S. president whose anti-corruption candidacy survived unresolved allegations involving Maria Halpin in 1884.
 - [Maria Halpin](entities/MariaHalpin.md) — Buffalo working woman whose mediated allegations and missing unfiltered voice define the Cleveland scandal's evidentiary limits.
 - [1884 United States Presidential Election](entities/UnitedStatesPresidentialElection1884.md) — Close Cleveland-Blaine contest joining corruption, reform, tariffs, Civil War memory, and private-conduct allegations.
@@ -8601,7 +8604,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — Neurology and sleep-medicine guest explaining prefrontal-cortex vocabulary, chronic insomnia, behavioral treatment, sleep apnea, and clinical escalation.
 - [小龙 / Xiaolong (Weight-Management Guest)](entities/XiaolongWeightManagementGuest.md) — 大物是也 member and 这病说来话长 guest connecting practical nutrition and weight management with scar-care expectation and adherence questions.
 - [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, insect-bite reactions, diagnostic treatment, short follow-up windows, medication boundaries, and return conditions.
-- [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology guest explaining first-visit triage, silent liver injury, fatty-liver causes, exposure risk, and clinician-guided follow-up.
+- [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology guest explaining first-visit triage, liver health, anorectal coordination, bowel warning signs, and context-dependent probiotic use.
 - [银欣 / Yin Xin](entities/YinXinDoctor.md) — Imaging-side guest explaining test limits, clinical-question quality on imaging requests, and report interpretation boundaries.
 - [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
 - [Miles Williams](entities/MilesWilliams.md) — Alex Theatre artistic director explaining 70mm projection, retrofit constraints, and analog moviegoing appeal.
@@ -17550,6 +17553,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Covert Consciousness](concepts/CovertConsciousness.md) — Retained awareness or intentional response hidden by an inability to move, speak, or respond behaviorally.
+- [Perception Box](concepts/PerceptionBox.md) — Model of experienced reality as constrained by priors, memory, culture, embodiment, receptors, and bodily state.
+- [Consciousness-Behavior Dissociation](concepts/ConsciousnessBehaviorDissociation.md) — Distinction between subjective experience, outward behavior, intelligence, communication, and self-consciousness.
 - [Partisan Scandal Evidence](concepts/PartisanScandalEvidence.md) — Claim-level method for evidence whose creation and transmission are shaped by political advantage.
 - [Political Scandal and Voter Alignment](concepts/PoliticalScandalVoterAlignment.md) — Framework separating scandal salience from unsupported claims about its net electoral effect.
 - [Divine Succession Myth](concepts/DivineSuccessionMyth.md) — Violent intergenerational transfer of cosmic sovereignty from Uranus through Cronos to Zeus.
@@ -19967,6 +19973,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [知足知止式退场 / Timely Retirement Risk Avoidance](concepts/TimelyRetirementRiskAvoidance.md) — Hanji 431's Shu Guang and Shu Shou pattern of leaving office when rank, money, and reputation have reached sufficiency.
 - [传财有度 / Wealth Transmission Restraint](concepts/WealthTransmissionRestraint.md) — Hanji 431's warning that excessive inheritance can weaken worthy descendants, empower foolish ones, and attract resentment.
 - [Bowel Symptom Triage](concepts/BowelSymptomTriage.md) — Boundary for interpreting diarrhea, constipation, bleeding, mucus, stool color, and bowel-habit changes without panic or dismissal.
+- [Anorectal Sensation and Coordination](concepts/AnorectalSensationAndCoordination.md) — Framework for rectal content discrimination, neural interpretation, propulsion, sphincter coordination, constipation, and continence.
 - [Irritable Bowel Syndrome Diagnostic Boundary](concepts/IrritableBowelSyndromeDiagnosticBoundary.md) — Caution that IBS-style functional labels should follow exclusion of organic disease.
 - [Coffee Laxative Myth](concepts/CoffeeLaxativeMyth.md) — Boundary around treating iced Americano or coffee as a reliable constipation solution.
 - [Colorectal Cancer Screening](concepts/ColorectalCancerScreening.md) — Stool-test, colonoscopy, tumor-marker, age-risk, and polyp-removal framework for colorectal cancer prevention.
@@ -23981,6 +23988,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wild Release Human Avoidance / 野放前人类回避训练](concepts/WildReleaseHumanAvoidance.md) — Release-preparation frame where caretakers preserve a rescued wild animal's distance from humans so it can survive outside captivity.
 - [Conservation Story Mobilization / 保护故事动员](concepts/ConservationStoryMobilization.md) — Public-science pattern where a concrete animal story routes emotion into conservation knowledge, support, and action.
 - [Flatulence As Health Signal / 排气作为健康信号](concepts/FlatulenceAsHealthSignal.md) — Frame for treating fart frequency, smell, diet, gut fermentation, and persistent symptoms as bodily clues rather than instant diagnoses.
+- [Probiotic Use Boundary](concepts/ProbioticUseBoundary.md) — Context-dependent distinction between selected clinical probiotic use and routine healthy-person supplementation.
 - [Bodily Taboo Humor / 身体禁忌幽默](concepts/BodilyTabooHumor.md) — Comic pattern where universal body functions become funny because etiquette and shame mark them as improper.
 - [Civilized Body Discipline / 文明身体规训](concepts/CivilizedBodyDiscipline.md) — Hygiene, etiquette, religion, law, and status process that manages normal body functions and can turn them into shame.
 - [Flatulence Performance History / 放屁表演史](concepts/FlatulencePerformanceHistory.md) — Entertainment branch where farting becomes staged skill, spectacle, contest, sound material, or novelty performance.
