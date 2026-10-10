@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10311
+wiki_total_pages: 10313
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "EnvironmentalExposureSignalDetection"
     title: "Environmental Exposure Signal Detection"
     url: "/wiki/concepts/environmentalexposuresignaldetection/"
+  - key: "EnvironmentalNeuroscience"
+    title: "Environmental Neuroscience"
+    url: "/wiki/concepts/environmentalneuroscience/"
   - key: "EnvironmentalProxyHistoricalEvidence"
     title: "Environmental Proxy Evidence in History"
     url: "/wiki/concepts/environmentalproxyhistoricalevidence/"

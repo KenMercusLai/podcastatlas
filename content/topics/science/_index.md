@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1543
+topic_total_pages: 1546
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -763,6 +763,9 @@ topic_concepts:
   - key: "EnvironmentalExposureSignalDetection"
     title: "Environmental Exposure Signal Detection"
     url: "/wiki/concepts/environmentalexposuresignaldetection/"
+  - key: "EnvironmentalNeuroscience"
+    title: "Environmental Neuroscience"
+    url: "/wiki/concepts/environmentalneuroscience/"
   - key: "EnvironmentalProxyHistoricalEvidence"
     title: "Environmental Proxy Evidence in History"
     url: "/wiki/concepts/environmentalproxyhistoricalevidence/"
@@ -3059,6 +3062,9 @@ topic_entities:
   - key: "ManhattanProject"
     title: "Manhattan Project"
     url: "/wiki/entities/manhattanproject/"
+  - key: "MarcBerman"
+    title: "Marc Berman"
+    url: "/wiki/entities/marcberman/"
   - key: "MarcBrackett"
     title: "Marc Brackett"
     url: "/wiki/entities/marcbrackett/"
@@ -4176,6 +4182,9 @@ topic_sources:
   - key: "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839"
     title: "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss"
     url: "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+  - key: "scim4452883260-scim4452883260"
+    title: "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman"
+    url: "/wiki/sources/scim4452883260-scim4452883260/"
   - key: "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274"
     title: "How Placebo Effects Work to Change Our Biology & Psychology"
     url: "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"

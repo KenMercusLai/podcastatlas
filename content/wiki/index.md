@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman](sources/scim4452883260-scim4452883260.md) — Huberman Lab interview on environmental neuroscience, attention restoration, nature exposure, rumination, health evidence, and biophilic design.
 - [583. The Lion, the Priest and the Parlourmaids: A 1930s Sex Scandal](sources/583-the-lion-the-priest-and-the-parlourmaids-a-1930s-sex-scandal-glt8788233490.md) — The Rest Is History on Harold Davidson's contested clerical scandal, defrocking, tabloid notoriety, paid humiliation, and death after a lion attack.
 - [Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging](sources/scim4003346356-scim4003346356.md) — Condensed Huberman Lab episode on appetite physiology, anorexic habit-reward dysregulation, binge-purge impulse control, flexible healthy eating, and qualified-care boundaries.
 - [Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy](sources/scim3176341770-scim3176341770.md) — Huberman Lab interview on kratom product forms, dependence, 7-hydroxymitragynine, respiratory and interaction risks, natural-product pharmacology, and regulatory uncertainty.
@@ -4482,6 +4483,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
 
 ## Entities
+- [Marc Berman](entities/MarcBerman.md) — Environmental-neuroscience researcher studying how natural and built settings relate to attention, cognition, behavior, and health.
 - [Harold Davidson](entities/HaroldDavidson.md) — Defrocked Stiffkey rector whose disputed rescue ministry, boundary violations, tabloid scandal, fairground career, and death resist simple innocence or guilt narratives.
 - [谭东涵 / Tan Donghan](entities/TanDonghan.md) — Medically trained investment guest connecting innovative-drug development with payment, licensing, globalization, and original research capability.
 - [Mary of Guise](entities/MaryOfGuise.md) — French-born Scottish regent whose dynastic government was defeated by Protestant revolt and English intervention.
@@ -17699,6 +17701,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《桃花源没事》](entities/TaohuayuanMeishi.md) — 马伯庸以妖怪社区、基层治理、逍遥丹谜案和资源不平等反转桃花源，并把理想共同体重构为持续维护的实践。
 
 ## Concepts
+- [Environmental Neuroscience](concepts/EnvironmentalNeuroscience.md) — Evidence-tiered field connecting features of physical settings to cognition, emotion, behavior, and health.
+- [Attention Restoration Theory](concepts/AttentionRestorationTheory.md) — Account of how reduced directed-attention demand and soft fascination may restore cognitive capacity.
 - [Commercialized Scandal Spectacle](concepts/CommercializedScandalSpectacle.md) — Conversion of public disgrace, lost status, bodily exposure, and notoriety into repeatable paid entertainment.
 - [China Research Visibility at ASCO](concepts/ASCOChinaResearchVisibility.md) — Rising Chinese oncology conference presence as a qualified capability signal rather than proof of global leadership.
 - [Innovative Drug Clinical Benefit Threshold](concepts/InnovativeDrugClinicalBenefitThreshold.md) — Requirement that efficacy and surrogate endpoints translate into meaningful survival, safety, and quality-of-life benefit.

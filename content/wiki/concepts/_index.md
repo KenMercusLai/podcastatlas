@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10311
+wiki_total_pages: 10313
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2759,6 +2759,9 @@ wiki_pages:
   - key: "AttentionResidues"
     title: "Attention Residues"
     url: "/wiki/concepts/attentionresidues/"
+  - key: "AttentionRestorationTheory"
+    title: "Attention Restoration Theory"
+    url: "/wiki/concepts/attentionrestorationtheory/"
   - key: "AttentionPresenceAndHappiness"
     title: "Attention, Presence, and Happiness"
     url: "/wiki/concepts/attentionpresenceandhappiness/"

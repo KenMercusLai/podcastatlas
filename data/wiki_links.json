@@ -11203,6 +11203,10 @@
     "title": "Attention Residues",
     "url": "/wiki/concepts/attentionresidues/"
   },
+  "AttentionRestorationTheory": {
+    "title": "Attention Restoration Theory",
+    "url": "/wiki/concepts/attentionrestorationtheory/"
+  },
   "AttentionalBlinkTraining": {
     "title": "Attentional Blink Training",
     "url": "/wiki/concepts/attentionalblinktraining/"
@@ -29986,6 +29990,10 @@
   "EnvironmentalExposureSignalDetection": {
     "title": "Environmental Exposure Signal Detection",
     "url": "/wiki/concepts/environmentalexposuresignaldetection/"
+  },
+  "EnvironmentalNeuroscience": {
+    "title": "Environmental Neuroscience",
+    "url": "/wiki/concepts/environmentalneuroscience/"
   },
   "EnvironmentalProtectionAgency": {
     "title": "Environmental Protection Agency",
@@ -56002,6 +56010,10 @@
   "MarauderSaronic": {
     "title": "Marauder (Saronic)",
     "url": "/wiki/entities/maraudersaronic/"
+  },
+  "MarcBerman": {
+    "title": "Marc Berman",
+    "url": "/wiki/entities/marcberman/"
   },
   "MarcBrackett": {
     "title": "Marc Brackett",
@@ -102586,6 +102598,10 @@
   "scim4448895120-scim4448895120": {
     "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
     "url": "/wiki/sources/scim4448895120-scim4448895120/"
+  },
+  "scim4452883260-scim4452883260": {
+    "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+    "url": "/wiki/sources/scim4452883260-scim4452883260/"
   },
   "scim4605688764-scim4605688764": {
     "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",

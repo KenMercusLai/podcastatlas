@@ -20953,6 +20953,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/attentionpresenceandhappiness/"
     },
+    "AttentionRestorationTheory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4452883260 [SCIM4452883260].md",
+          "key": "scim4452883260-scim4452883260",
+          "show": "Huberman Lab",
+          "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+          "url": "/wiki/sources/scim4452883260-scim4452883260/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/attentionrestorationtheory/"
+    },
     "AttentionalBlinkTraining": {
       "episode_count": 2,
       "show_count": 1,
@@ -28468,6 +28484,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/biomedicalresearchtoolinfrastructure/"
+    },
+    "BiophilicDesign": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
+          "key": "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Building a home with future fires in mind",
+          "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "SCIM4452883260 [SCIM4452883260].md",
+          "key": "scim4452883260-scim4452883260",
+          "show": "Huberman Lab",
+          "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+          "url": "/wiki/sources/scim4452883260-scim4452883260/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/biophilicdesign/"
     },
     "BioregulatorPeptides": {
       "episode_count": 2,
@@ -81353,6 +81392,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/environmentalexposuresignaldetection/"
+    },
+    "EnvironmentalNeuroscience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4452883260 [SCIM4452883260].md",
+          "key": "scim4452883260-scim4452883260",
+          "show": "Huberman Lab",
+          "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+          "url": "/wiki/sources/scim4452883260-scim4452883260/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/environmentalneuroscience/"
     },
     "EnvironmentalProtectionAgency": {
       "episode_count": 1,
@@ -167280,6 +167335,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/maracanazo/"
     },
+    "MarcBerman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4452883260 [SCIM4452883260].md",
+          "key": "scim4452883260-scim4452883260",
+          "show": "Huberman Lab",
+          "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+          "url": "/wiki/sources/scim4452883260-scim4452883260/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/marcberman/"
+    },
     "MarcBrackett": {
       "episode_count": 2,
       "show_count": 1,
@@ -183301,9 +183372,9 @@
       "url": "/wiki/concepts/natureasnonmoralconstraint/"
     },
     "NatureExposureHealthEvidence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2378383211 [SCIM2378383211].md",
@@ -183311,9 +183382,16 @@
           "show": "Huberman Lab",
           "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",
           "url": "/wiki/sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211/"
+        },
+        {
+          "episode_file": "SCIM4452883260 [SCIM4452883260].md",
+          "key": "scim4452883260-scim4452883260",
+          "show": "Huberman Lab",
+          "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+          "url": "/wiki/sources/scim4452883260-scim4452883260/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/natureexposurehealthevidence/"
     },
     "NatureLawLegalJustice": {
