@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-10
-as_of_overview_commit: 8172b1538711e3d268cd85d8645355bdc5e4ffdb
+as_of_overview_commit: 0b8664be80ebab2757b8fd60f3e2e1806fd25819
 summary: "Across domains, durable value depends on evidence, institutional function, implementation, accountability, context, and explicit limits."
-episode_count: 4229
-source_count: 4229
-paragraph_count: 800
+episode_count: 4337
+source_count: 4337
+paragraph_count: 801
 topic_count: 9
 ---
 
@@ -61,7 +61,7 @@ Formal rules become usable governance only through legitimacy, information, capa
 
 ### History and Geopolitics
 
-Historical power depends on legitimacy, logistics, finance, coalitions, command, information, coercion, and memory; even sovereign titles require institutional rather than lexical comparison.
+Historical power depends on legitimacy, logistics, finance, coalitions, command, information, coercion, and memory; comparison requires institutional rather than lexical equivalence.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
@@ -82,7 +82,7 @@ Public literacy requires mechanisms, measurement, qualified care, escalation bou
 
 ### Work, Education, and Society
 
-Public life depends on practical routines, role boundaries, protected access, trust, incentives, active learning, and work designs that preserve health, agency, and judgment.
+Public life depends on routines, role boundaries, protected access, trust, incentives, active learning, and work or training designs that preserve health, agency, and judgment.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

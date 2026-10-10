@@ -800,12 +800,13 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61",
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
-      "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
+      "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
+      "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579"
     ],
-    "paragraph_count": 800
+    "paragraph_count": 801
   },
-  "overview_commit": "45d60b31fc937542b987e1a6fe6e38362148a1cb",
-  "overview_digest": "e74d30d3fec235e308426eee341ff18fb495035fd70e7ff737200154bd222dcf",
+  "overview_commit": "0b8664be80ebab2757b8fd60f3e2e1806fd25819",
+  "overview_digest": "552e3336dc4450553a0a67dbbb7956d0106aedc8c14faad7e0ebc5f14da30b43",
   "paragraphs": [
     {
       "id": "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
@@ -23355,6 +23356,23 @@
         "HanYu",
         "RuiqiJiangtouZizhiTongjian",
         "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk"
+      ]
+    },
+    {
+      "id": "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[build-your-ideal-physique-dr-bret-contreras-scim9379909181|Build Your Ideal Physique | Dr. Bret Contreras]], a [[HubermanLab]] interview with strength coach [[BretContreras]] on progressive overload, recoverability, exercise rotation, muscle specialization, and glute development. It extends [[StrengthHypertrophyProgramming]] by treating useful volume as the work a person can repeatedly recover from without persistent soreness, pain, performance decline, lost motivation, or impaired daily function, and it adds [[GluteHypertrophyProgramming]] across squat or lunge, hinge or pull, thrust or bridge, and abduction patterns. Long-run progress can include temporary resets when exercises rotate, while specialization raises priority-muscle work and keeps other areas near maintenance. No settled contradiction is adopted. The exact frequency, repetition, movement-ranking, calf, pregnancy, recomposition, one-set-to-failure, and \"rule of thirds\" claims remain source-scoped public education rather than universal or clinical prescriptions.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BretContreras",
+        "GluteHypertrophyProgramming",
+        "HubermanLab",
+        "StrengthHypertrophyProgramming",
+        "build-your-ideal-physique-dr-bret-contreras-scim9379909181"
       ]
     }
   ],

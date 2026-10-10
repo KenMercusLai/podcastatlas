@@ -13,7 +13,8 @@ sources:
   - scim1817217176-scim1817217176
   - essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937
   - build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219
-last_updated: 2026-10-09
+  - build-your-ideal-physique-dr-bret-contreras-scim9379909181
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,14 +46,16 @@ The newer Essentials condensation makes several practical tradeoffs explicit. Lo
 
 Yates supplies a deliberately lower-volume countermodel. His logged experience couples true muscular failure with very few working sets, lower direct frequency, measurable overload, and planned recovery, arguing that more volume can halt progress when set quality and fatigue cost are high. This does not overturn the broader volume evidence: it sharpens the individualization rule. A set count cannot be interpreted apart from training age, recruitment skill, proximity to failure, exercise risk, pharmacology, and recovery, and beginners should learn mechanics before pursuing maximal effort.
 
+Contreras adds a practical autoregulation and specialization layer. Progressive overload should trend upward across training blocks, not require a record every week on unchanged exercises; rotating movements within stable squat, hinge, press, pull, and thrust patterns can create temporary resets while preserving long-term progress. Useful volume is capped by what the trainee can recover from without persistent soreness, pain, falling performance, lost motivation, or impaired daily function. Short specialization phases can raise work for a lagging muscle while other areas remain near maintenance, with [[GluteHypertrophyProgramming]] providing a concrete example of matching movement vectors and soreness cost to that priority.
+
 ## Key Claims
 - Strength and muscle size overlap but are not identical because neural recruitment can increase force without proportional hypertrophy.
 - Motor-unit recruitment and forceful intent allow moderate or lighter loads to stimulate adaptation; maximal loading is not the only route.
-- Weekly set volume and rest should be individualized by training history, exercise execution, force output, metabolic-stress goals, recovery, and willingness to train.
+- Weekly set volume, frequency, and rest should be individualized by training history, exercise execution, force output, metabolic-stress goals, soreness, pain, recovery, life demands, and willingness to train.
 - Muscular failure is optional rather than universally required: it can support a low-volume hypertrophy model when execution and recovery are controlled, while most work need not reach failure, muscle damage is not required, and explosive sets should end before repetition speed deteriorates.
 - Older-adult programming should favor tolerable, repeatable movements and progressive overload over compulsory novelty.
 - Exercise selection alone does not specify adaptation; execution variables and intent must match the goal.
-- Weekly split and cadence are flexible for hypertrophy, while strength and power are more sensitive to freshness, force, movement intent, rest, and low-repetition practice; supersets trade a little maximal optimization for time, and repetition bands still do not determine adaptation by themselves.
+- Weekly split and cadence are flexible for hypertrophy, while strength and power are more sensitive to freshness, force, movement intent, rest, and low-repetition practice; specialization can raise one area's volume while maintaining others, and repetition bands still do not determine adaptation by themselves.
 
 ## Evidence
 - Neural basis: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] explains deliberate and rhythmic movement through upper motor neurons, lower motor neurons, acetylcholine, central pattern generators, and ordered motor-unit recruitment.
@@ -72,16 +75,15 @@ Yates supplies a deliberately lower-volume countermodel. His logged experience c
 - Full-episode provenance and goal distinction: [[scim1817217176-scim1817217176]] links local isolation and between-set contraction to hypertrophy while linking coordinated recruitment and preserved movement speed to strength and explosiveness.
 - Time, intent, and activation tradeoffs: [[essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937]] contrasts heavy low-repetition strength work with lighter velocity-led power work, accepts supersets for recreational time efficiency, and uses tactile or eccentric practice to improve target-muscle execution.
 - Low-volume failure countermodel: [[build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219]] presents Yates's logged response to cutting volume and frequency, one true working set on selected exercises, small measurable overload, and planned backoff after hard blocks.
+- Recoverability and specialization: [[build-your-ideal-physique-dr-bret-contreras-scim9379909181]] treats maximum recoverable volume as individual, presents long-run overload as compatible with exercise rotation, and reduces nonpriority muscles toward maintenance during short specialization phases.
 
 ## Counterevidence & Qualifications
-The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range, Galpin's roughly ten-set minimum with higher advanced ranges, French's six-by-ten research protocol, and Yates's one-set-to-failure practice are different source-scoped models, not one settled dose. Yates's elite retrospective experience is confounded by training age, genetics, anabolic-drug exposure, nutrition, and exceptional ability to generate effort per set. AMA #14's repetition bands, the full episode's workout-duration suggestion, and the newer Essentials load and rest ranges are likewise useful biases rather than clean biological boundaries. The full episodes and their Essentials edits are editorially related evidence, not independent replication. The reported small superset penalty and mind-muscle growth finding lack enough study detail here to establish a general effect size. Acute testosterone or catecholamine changes do not by themselves establish long-term strength or hypertrophy outcomes. The sources do not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, or clinical context. "Close to failure" and soreness are not precise universal prescriptions, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
+The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range, Galpin's roughly ten-set minimum with higher advanced ranges, French's six-by-ten research protocol, Yates's one-set-to-failure practice, and Contreras's two-session beginner minimum or time-efficient one-set option are different source-scoped models, not one settled dose. Yates's elite retrospective experience is confounded by training age, genetics, anabolic-drug exposure, nutrition, and exceptional ability to generate effort per set. Contreras's exercise rankings, "rule of thirds," broad repetition range, and maximum-recoverable-volume framing are useful coaching interpretations without enough study detail here to establish universal thresholds. AMA #14's repetition bands, the full episode's workout-duration suggestion, and the newer Essentials load and rest ranges are likewise useful biases rather than clean biological boundaries. The full episodes and their Essentials edits are editorially related evidence, not independent replication. The reported small superset penalty and mind-muscle growth finding lack enough study detail here to establish a general effect size. Acute testosterone or catecholamine changes do not by themselves establish long-term strength or hypertrophy outcomes. The sources do not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, pregnancy, or clinical context. "Close to failure," soreness, and recoverability are not precise universal prescriptions, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
 
 ## What Changed
-- Added Yates's low-volume, true-failure countermodel without treating elite autobiography as a universal optimum.
-- Reframed volume and failure as a coupled dose shaped by execution, training age, fatigue cost, and recovery.
-- Preserved French's six-by-ten example as a demanding research protocol rather than a universal hypertrophy prescription.
-- Added the full episode as underlying provenance and clarified the isolation-versus-coordination tradeoff by training goal.
-- Added the recreational superset tradeoff and separated intent to move rapidly from actual bar speed.
+- Added recoverability, motivation, daily function, and exercise-specific soreness as constraints on useful volume.
+- Reframed progressive overload as a long-term trend compatible with movement rotation and temporary performance resets.
+- Added short specialization phases that raise priority-muscle work while keeping other areas near maintenance.
 
 ## Related Concepts
 - [[NinePhysiologicalAdaptations]] - assessment taxonomy separating strength, power, hypertrophy, and muscular endurance.
@@ -96,3 +98,4 @@ The sources are public education, not a complete review or individualized progra
 - [[UnilateralStrengthRebalancing]] - one-sided programming branch for meaningful limb differences.
 - [[AdaptationLedProgramming]] - broader goal-first framework that coordinates training stress with phase-specific recovery and nutrition.
 - [[HighIntensityResistanceTraining]] - source-scoped low-volume branch built around technical failure, measurable overload, and recovery.
+- [[GluteHypertrophyProgramming]] - specialization example linking movement vectors, target-muscle execution, and recovery cost.

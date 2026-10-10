@@ -30881,6 +30881,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/brendanglavin/"
     },
+    "BretContreras": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9379909181 [SCIM9379909181].md",
+          "key": "build-your-ideal-physique-dr-bret-contreras-scim9379909181",
+          "show": "Huberman Lab",
+          "title": "Build Your Ideal Physique | Dr. Bret Contreras",
+          "url": "/wiki/sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/bretcontreras/"
+    },
     "Brexit": {
       "episode_count": 5,
       "show_count": 3,
@@ -101677,6 +101693,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/gloriasteinem/"
+    },
+    "GluteHypertrophyProgramming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9379909181 [SCIM9379909181].md",
+          "key": "build-your-ideal-physique-dr-bret-contreras-scim9379909181",
+          "show": "Huberman Lab",
+          "title": "Build Your Ideal Physique | Dr. Bret Contreras",
+          "url": "/wiki/sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/glutehypertrophyprogramming/"
     },
     "GluteMediusPelvicControl": {
       "episode_count": 3,
@@ -240435,9 +240467,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -240508,9 +240540,16 @@
           "show": "Huberman Lab",
           "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
           "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
+        },
+        {
+          "episode_file": "SCIM9379909181 [SCIM9379909181].md",
+          "key": "build-your-ideal-physique-dr-bret-contreras-scim9379909181",
+          "show": "Huberman Lab",
+          "title": "Build Your Ideal Physique | Dr. Bret Contreras",
+          "url": "/wiki/sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {

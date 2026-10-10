@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Build Your Ideal Physique | Dr. Bret Contreras](sources/build-your-ideal-physique-dr-bret-contreras-scim9379909181.md) — Huberman Lab interview on recoverable resistance training, progressive overload, exercise rotation, specialization, and glute hypertrophy.
 - [周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出](sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks.md) — 罗永浩与周鸿祎谈企业家公共传播、智能体组织、人在回路、360 的应用层 AI、商业化与网络安全。
 - [603. Greek Myths: The Riddle of the Sphinx (Part 2)](sources/603-greek-myths-the-riddle-of-the-sphinx-part-2-glt9108845593.md) — The Rest Is History on Oedipus, Sophoclean recognition, Freud, Theban myth, Athenian political context, and divine versus civic law.
 - [604. Greek Myths: Sex, Drugs & Tragedy (Part 3)](sources/604-greek-myths-sex-drugs-tragedy-part-3-glt7123647684.md) — The Rest Is History on Dionysus, The Bacchae, Athenian festival and wartime civic crisis, Nietzsche, and the qualified tension between myth and philosophy.
@@ -4415,6 +4416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Your Nervous System to Enhance Your Immune System](sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371.md) — Condensed Huberman Lab episode on layered immunity, sickness signaling, sleep-linked clearance, acute sympathetic activation, and neuroimmune evidence boundaries.
 
 ## Entities
+- [Bret Contreras](entities/BretContreras.md) — Strength coach and sports-science PhD specializing in glute training and recoverable hypertrophy programming.
 - [Nano AI / 纳米 AI](entities/NanoAI360.md) — 360 的 AI 搜索、浏览器、模型路由与智能体构建产品。
 - [Oedipus Tyrannos / Oedipus Rex](entities/OedipusTyrannos.md) — Sophocles' compressed tragedy of investigation, unwitting guilt, civic pollution, recognition, and self-blinding.
 - [Sophocles](entities/Sophocles.md) — Athenian tragedian who reshapes Theban myth into public drama about knowledge, law, divine necessity, and civic crisis.
@@ -17538,6 +17540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InsightRx](entities/InsightRx.md) — Source-scoped healthcare and pharmaceutical marketing analytics company using AI to accelerate reporting and campaign optimization.
 
 ## Concepts
+- [Glute Hypertrophy Programming](concepts/GluteHypertrophyProgramming.md) — Recovery-aware glute specialization across squat, hinge, thrust, and abduction patterns.
 - [Entrepreneur Public Communication / 企业家公共传播](concepts/EntrepreneurPublicCommunication.md) — Founder visibility used for product explanation, trust defense, and stakeholder reach under reputational and key-person risk.
 - [Human-in-the-Loop Agent Governance](concepts/HumanInLoopAgentGovernance.md) — Traceable agent execution with timely intervention, consequential-action approval, and retained human accountability.
 - [Theban Mythic Political Mirror](concepts/ThebanMythicPoliticalMirror.md) — Framework for Theban dynastic catastrophe as both inherited story cycle and an Athenian mirror for rivalry, law, leadership, plague, and civic ruin.

@@ -34626,3 +34626,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | Build Your Ideal Physique | Dr. Bret Contreras
+
+Added the Huberman Lab interview on recoverable resistance training, progressive overload, exercise rotation, specialization, and glute hypertrophy. Created [[BretContreras]] and [[GluteHypertrophyProgramming]], and updated [[StrengthHypertrophyProgramming]] without adopting source-scoped exercise rankings or dosing heuristics as universal prescriptions.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
