@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1539
+topic_total_pages: 1540
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1612,6 +1612,9 @@ topic_concepts:
   - key: "OmnipotentSelfBlame"
     title: "Omnipotent Self-Blame / 全能自恋式归因"
     url: "/wiki/concepts/omnipotentselfblame/"
+  - key: "OnlineAggressionPsychology"
+    title: "Online Aggression Psychology / 网络攻击心理机制"
+    url: "/wiki/concepts/onlineaggressionpsychology/"
   - key: "OpenScientificCriticism"
     title: "Open Scientific Criticism"
     url: "/wiki/concepts/openscientificcriticism/"

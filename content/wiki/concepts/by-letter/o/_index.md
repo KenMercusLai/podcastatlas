@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10293
+wiki_total_pages: 10295
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "OnlineAgeVerification"
     title: "Online Age Verification"
     url: "/wiki/concepts/onlineageverification/"
+  - key: "OnlineAggressionPsychology"
+    title: "Online Aggression Psychology / 网络攻击心理机制"
+    url: "/wiki/concepts/onlineaggressionpsychology/"
   - key: "OnlineAppointmentRegistration"
     title: "Online Appointment Registration"
     url: "/wiki/concepts/onlineappointmentregistration/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "OnlineCommunityCommercializationFriction"
     title: "Online Community Commercialization Friction / 社区商业化摩擦"
     url: "/wiki/concepts/onlinecommunitycommercializationfriction/"
+  - key: "OnlineConflictDeescalation"
+    title: "Online Conflict De-escalation / 网络冲突降温"
+    url: "/wiki/concepts/onlineconflictdeescalation/"
   - key: "OnlineGameIPRightsDisputes"
     title: "Online Game IP Rights Disputes"
     url: "/wiki/concepts/onlinegameiprightsdisputes/"

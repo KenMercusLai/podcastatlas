@@ -34872,7 +34872,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-10-11] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint without saving a report. Deterministic and graph-aware checks completed; semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix.
 
 ## [2026-10-11] ingest | How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard
 
@@ -34989,6 +34989,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] ingest | 589. Mary, Queen of Scots: Downfall (Part 6)
 
 Added source `589-mary-queen-of-scots-downfall-part-6-glt8999516788`; created [[JamesHepburnEarlOfBothwell|James Hepburn / Earl of Bothwell]], [[JamesStewartEarlOfMoray|James Stewart / Earl of Moray]], [[CasketLetters]], and [[MonarchicalDepositionLegitimacy]]; and resynthesized [[MaryQueenOfScots|Mary, Queen of Scots]] and [[RoyalExecutionLegitimacy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Mary may have been innocent of Darnley's murder and coerced by Bothwell, yet reliance on the chief suspect, collapsing credibility, forced abdication, failed restoration, and flight to England converted scandal into captivity; disputed evidence then let English policy block restoration without conviction or acquittal. No settled contradiction was adopted. Sexual coercion, pregnancy, letter authenticity, private motives, threats, tribunal management, and Bothwell's final treatment remain source-scoped. Broad Elizabeth, Cecil, Scotland, and show pages were kept closed because the focused source, two principal actors, evidence object, legitimacy concept, and two bounded resyntheses capture the durable addition without reopening larger unchanged evidence inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,382 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对
+
+Added source `vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi`; created [[OnlineAggressionPsychology|Online Aggression Psychology / 网络攻击心理机制]] and [[OnlineConflictDeescalation|Online Conflict De-escalation / 网络冲突降温]]; and resynthesized [[Deindividuation|Deindividuation / 去个体化]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: anonymity and account-level abstraction can weaken restraint, but online hostility may also involve displaced frustration, insecurity, recognition needs, rigid certainty, rationalization, loneliness, or weak perspective-taking; these possibilities neither excuse harm nor diagnose a stranger. Recipient response should remain proportional, ranging from delay and selective non-engagement to documentation, moderation, and legal escalation. No settled contradiction was adopted. Personality-style language, upbringing claims, the informal “网络孤独症” label, health effects, and inferred motives remain source-scoped public psychoeducation. Broad show, host, empathy, and emotion-regulation pages were kept closed because the focused source, two new concepts, and one bounded resynthesis capture the durable addition without reopening large unchanged evidence inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,383 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-11] lint | Wiki health check
 

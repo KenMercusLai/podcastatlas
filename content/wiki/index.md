@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对](sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi.md) — 这病说来话长 episode on anonymity, displaced aggression, insecurity, recognition needs, empathy limits, diagnostic caution, and proportionate online-conflict de-escalation.
 - [589. Mary, Queen of Scots: Downfall (Part 6)](sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788.md) — The Rest Is History on Bothwell's coercive rise, Mary's deposition and failed restoration, the casket letters, English detention, and the distinction between uncertain murder guilt and failed rule.
 - [Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller](sources/scim9219615286-scim9219615286.md) — Condensed Huberman Lab interview on local and systemic exercise heat, flow-preserving glabrous-skin cooling, thermal-sensation traps, and evidence boundaries.
 - [590. The Assassination of Abraham Lincoln: Death at the Theatre (Part 1)](sources/590-the-assassination-of-abraham-lincoln-death-at-the-theatre-part-1-glt2286421954.md) — The Rest Is History on Lincoln's conciliatory final weeks, limited Black suffrage, Booth's Brutus fantasy, and the shift from kidnapping to assassination.
@@ -17653,6 +17654,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [Online Aggression Psychology / 网络攻击心理机制](concepts/OnlineAggressionPsychology.md) — Multi-mechanism account of online hostility that preserves behavioral accountability and diagnostic boundaries.
+- [Online Conflict De-escalation / 网络冲突降温](concepts/OnlineConflictDeescalation.md) — Proportional response ladder joining delay, perspective, boundaries, moderation, documentation, and legal escalation.
 - [Monarchical Deposition Legitimacy](concepts/MonarchicalDepositionLegitimacy.md) — The gap between practical removal, coerced abdication, and accepted transfer of sovereignty.
 - [Temporally Gated Neuroplasticity](concepts/TemporallyGatedNeuroplasticity.md) — Learning model in which active circuits, synaptic order, feedback, and short neuromodulatory windows determine selective change.
 - [Paired Vagus Nerve Stimulation](concepts/PairedVagusNerveStimulation.md) — Implanted closed-loop strategy coupling brief vagus stimulation to selected rehabilitation or auditory events.

@@ -62889,9 +62889,9 @@
       "url": "/wiki/concepts/deidentifiedemployerhealthanalytics/"
     },
     "Deindividuation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
@@ -62913,9 +62913,16 @@
           "show": "这病说来话长",
           "title": "VOL.189路怒症真相：你忍住了生活的情绪，却在开车时失控",
           "url": "/wiki/sources/vol-189-lunuzheng-zhenxiang-ni-renzhule-shenghuo-de-qingxu-que-zai-kaiche-shi-shikong-lrhaufg_zvbv4wn86-vjh3q3n4ws/"
+        },
+        {
+          "episode_file": "lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi [lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi].md",
+          "key": "vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi",
+          "show": "这病说来话长",
+          "title": "VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对",
+          "url": "/wiki/sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/deindividuation/"
     },
     "DelamuDocumentary": {
@@ -190153,6 +190160,38 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/onlineageverification/"
+    },
+    "OnlineAggressionPsychology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi [lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi].md",
+          "key": "vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi",
+          "show": "这病说来话长",
+          "title": "VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对",
+          "url": "/wiki/sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/onlineaggressionpsychology/"
+    },
+    "OnlineConflictDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi [lpt3Ebh5Z2BN-FkZtfiE3KOXWJbi].md",
+          "key": "vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi",
+          "show": "这病说来话长",
+          "title": "VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对",
+          "url": "/wiki/sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/onlineconflictdeescalation/"
     },
     "OnlineSymptomSearchAnxiety": {
       "episode_count": 4,
