@@ -35309,3 +35309,11 @@ Added source `576-the-irish-war-of-independence-rise-of-the-ira-part-1-glt907210
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | EP 21: AI Transformation: Beyond the Hype
+
+Added source `ep-21-ai-transformation-beyond-the-hype`; created [[NanLi]], [[AdoptionCenteredAITransformation]], [[RoleTieredAILiteracy]], and [[EnvironmentTieredAIGovernance]]. Core synthesis: AI transformation should begin with a valuable business problem and the people who perform the work, improve contextual data around a bounded use case, develop different kinds of competence for frontline workers, managers, and executives, and strengthen controls as experiments move into production. No settled contradiction was adopted. The unattributed claim that almost three quarters of AI projects fail, the claim that governance accelerates innovation, the fourth-industrial-revolution framing, future data-quality claims, and transformation outcomes remain source-scoped. Broad host, show, business-led transformation, data-readiness, worker-literacy, and governance pages were kept closed because the focused source, guest, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,423 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

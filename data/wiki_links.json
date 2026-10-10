@@ -7151,6 +7151,10 @@
     "title": "Adopted London Identity",
     "url": "/wiki/concepts/adoptedlondonidentity/"
   },
+  "AdoptionCenteredAITransformation": {
+    "title": "Adoption-Centered AI Transformation",
+    "url": "/wiki/concepts/adoptioncenteredaitransformation/"
+  },
   "AdoptiveLineageRitualPolitics": {
     "title": "过继宗法礼制政治 / Adoptive Lineage Ritual Politics",
     "url": "/wiki/concepts/adoptivelineageritualpolitics/"
@@ -30066,6 +30070,10 @@
   "EnvironmentOverWillpower": {
     "title": "Environment Over Willpower",
     "url": "/wiki/concepts/environmentoverwillpower/"
+  },
+  "EnvironmentTieredAIGovernance": {
+    "title": "Environment-Tiered AI Governance",
+    "url": "/wiki/concepts/environmenttieredaigovernance/"
   },
   "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
     "title": "Environmental Endocrine Disruption Evidence Boundary",
@@ -60915,6 +60923,10 @@
     "title": "南基贺 / Nan Jihe",
     "url": "/wiki/entities/nanjihe/"
   },
+  "NanLi": {
+    "title": "Nan Li",
+    "url": "/wiki/entities/nanli/"
+  },
   "NancyPelosi": {
     "title": "Nancy Pelosi",
     "url": "/wiki/entities/nancypelosi/"
@@ -74422,6 +74434,10 @@
   "RoleLifeCollapse": {
     "title": "Role-Life Collapse",
     "url": "/wiki/concepts/rolelifecollapse/"
+  },
+  "RoleTieredAILiteracy": {
+    "title": "Role-Tiered AI Literacy",
+    "url": "/wiki/concepts/roletieredailiteracy/"
   },
   "Rolex": {
     "title": "Rolex",
@@ -100082,6 +100098,10 @@
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+  },
+  "ep-21-ai-transformation-beyond-the-hype": {
+    "title": "EP 21: AI Transformation: Beyond the Hype",
+    "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
   },
   "ep-22-governing-ai-with-purpose-and-inclusion": {
     "title": "EP 22: Governing AI with Purpose and Inclusion",

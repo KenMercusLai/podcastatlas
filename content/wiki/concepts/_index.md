@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10327
+wiki_total_pages: 10330
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "AdoptedLondonIdentity"
     title: "Adopted London Identity"
     url: "/wiki/concepts/adoptedlondonidentity/"
+  - key: "AdoptionCenteredAITransformation"
+    title: "Adoption-Centered AI Transformation"
+    url: "/wiki/concepts/adoptioncenteredaitransformation/"
   - key: "AdultFairyTaleReading"
     title: "Adult Fairy-Tale Reading"
     url: "/wiki/concepts/adultfairytalereading/"

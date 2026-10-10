@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13175
+wiki_total_pages: 13176
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "NakagawaMasashichiShoten"
     title: "Nakagawa Masashichi Shoten / 中川政七商店"
     url: "/wiki/entities/nakagawamasashichishoten/"
+  - key: "NanLi"
+    title: "Nan Li"
+    url: "/wiki/entities/nanli/"
   - key: "NancyPelosi"
     title: "Nancy Pelosi"
     url: "/wiki/entities/nancypelosi/"

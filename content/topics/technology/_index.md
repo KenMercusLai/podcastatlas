@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3459
+topic_total_pages: 3463
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -37,6 +37,9 @@ topic_concepts:
   - key: "AdministrativeSubpoenaDataAccess"
     title: "Administrative Subpoena Data Access"
     url: "/wiki/concepts/administrativesubpoenadataaccess/"
+  - key: "AdoptionCenteredAITransformation"
+    title: "Adoption-Centered AI Transformation"
+    url: "/wiki/concepts/adoptioncenteredaitransformation/"
   - key: "AdvancedAIDevelopmentPause"
     title: "Advanced AI Development Pause"
     url: "/wiki/concepts/advancedaidevelopmentpause/"
@@ -2197,6 +2200,9 @@ topic_concepts:
   - key: "EnvironmentBasedAgentBenchmarks"
     title: "Environment-Based Agent Benchmarks"
     url: "/wiki/concepts/environmentbasedagentbenchmarks/"
+  - key: "EnvironmentTieredAIGovernance"
+    title: "Environment-Tiered AI Governance"
+    url: "/wiki/concepts/environmenttieredaigovernance/"
   - key: "EnvironmentalExposureSignalDetection"
     title: "Environmental Exposure Signal Detection"
     url: "/wiki/concepts/environmentalexposuresignaldetection/"
@@ -4012,6 +4018,9 @@ topic_concepts:
   - key: "RoboticsSimulationEvaluation"
     title: "Robotics Simulation Evaluation"
     url: "/wiki/concepts/roboticssimulationevaluation/"
+  - key: "RoleTieredAILiteracy"
+    title: "Role-Tiered AI Literacy"
+    url: "/wiki/concepts/roletieredailiteracy/"
   - key: "RomanProvincialConsolidation"
     title: "Roman Provincial Consolidation"
     url: "/wiki/concepts/romanprovincialconsolidation/"
@@ -6941,6 +6950,9 @@ topic_entities:
   - key: "NStudent"
     title: "N 同学 / N Student"
     url: "/wiki/entities/nstudent/"
+  - key: "NanLi"
+    title: "Nan Li"
+    url: "/wiki/entities/nanli/"
   - key: "NandanNilekani"
     title: "Nandan Nilekani"
     url: "/wiki/entities/nandannilekani/"

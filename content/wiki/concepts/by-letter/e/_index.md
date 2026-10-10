@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10327
+wiki_total_pages: 10330
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "EnvironmentBasedAgentBenchmarks"
     title: "Environment-Based Agent Benchmarks"
     url: "/wiki/concepts/environmentbasedagentbenchmarks/"
+  - key: "EnvironmentTieredAIGovernance"
+    title: "Environment-Tiered AI Governance"
+    url: "/wiki/concepts/environmenttieredaigovernance/"
   - key: "EnvironmentalEndocrineDisruptionEvidenceBoundary"
     title: "Environmental Endocrine Disruption Evidence Boundary"
     url: "/wiki/concepts/environmentalendocrinedisruptionevidenceboundary/"

@@ -12312,6 +12312,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdoptionCenteredAITransformation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AdoraCheung": [
     {
       "key": "science",
@@ -33925,6 +33932,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "EnvironmentTieredAIGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EnvironmentalExposureSignalDetection": [
@@ -61907,6 +61926,13 @@
       "url": "/topics/science/"
     }
   ],
+  "NanLi": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NancyPelosi": [
     {
       "key": "politics",
@@ -75225,6 +75251,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RoleTieredAILiteracy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RollingAI": [

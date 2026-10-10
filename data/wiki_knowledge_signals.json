@@ -7873,6 +7873,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/adoptedlondonidentity/"
     },
+    "AdoptionCenteredAITransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128 [D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838d17].md",
+          "key": "ep-21-ai-transformation-beyond-the-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 21: AI Transformation: Beyond the Hype",
+          "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/adoptioncenteredaitransformation/"
+    },
     "AdoptiveLineageRitualPolitics": {
       "episode_count": 3,
       "show_count": 1,
@@ -81680,6 +81696,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/environmentoverwillpower/"
+    },
+    "EnvironmentTieredAIGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128 [D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838d17].md",
+          "key": "ep-21-ai-transformation-beyond-the-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 21: AI Transformation: Beyond the Hype",
+          "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/environmenttieredaigovernance/"
     },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
       "episode_count": 4,
@@ -182768,6 +182800,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/nanjihe/"
     },
+    "NanLi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128 [D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838d17].md",
+          "key": "ep-21-ai-transformation-beyond-the-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 21: AI Transformation: Beyond the Hype",
+          "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/nanli/"
+    },
     "NandanNilekani": {
       "episode_count": 1,
       "show_count": 1,
@@ -223622,6 +223670,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/roleattachmentpowerexit/"
+    },
+    "RoleTieredAILiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128 [D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838d17].md",
+          "key": "ep-21-ai-transformation-beyond-the-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 21: AI Transformation: Beyond the Hype",
+          "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/roletieredailiteracy/"
     },
     "Rollo": {
       "episode_count": 1,
