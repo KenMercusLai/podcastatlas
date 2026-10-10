@@ -34821,3 +34821,11 @@ Added source `074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxion
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health
+
+Added source `essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277`; resynthesized [[CircadianEatingWindowAlignment]] and [[FedFastedStateContinuum]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: weight change remains governed by energy balance, while a consistent daytime eating window and an overnight calorie-free interval may influence circadian and metabolic context; the last calorie is not the same moment as a physiological fast because digestion, glucose, insulin, activity, and meal context change on different timescales. No settled contradiction was adopted. This Essentials release condenses the already-ingested full 2021 episode and is overlapping provenance rather than independent confirmation; exact timing, gene, blood-pressure, protein, microbiome, signaling, and autophagy claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[EnergyBalanceAccounting]], [[LifestyleWeightManagement]], [[MuscleContractionGlucoseDisposal]], [[GlycemicResponseToolBoundary]], and [[ProteinBodyCompositionLever]] pages were kept closed because the focused source and two concepts capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,362 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

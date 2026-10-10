@@ -4438,6 +4438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 - [EP 24: Redefining Data Science in the Generative AI Era](sources/ep-24-redefining-data-science-in-the-generative-ai-era.md) — Data Science With Sam interview with Claire Lungo on durable data-science foundations, problem-led model choice, domain-aware prompting, application auditability, and statistical evaluation.
+- [Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277.md) — Condensed Huberman Lab episode on calorie balance, circadian eating-window consistency, physiological fasting state, post-meal movement, and individualized safety boundaries.
 
 ## Entities
 - [包惜弱 / Bao Xiruo](entities/BaoXiruo.md) — 《射雕英雄传》中以慈悲、依赖、身份隐瞒与分裂归属构成复杂母职困境的人物。

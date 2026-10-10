@@ -45364,9 +45364,9 @@
       "url": "/wiki/concepts/cinematicfolklorerecombination/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -45416,9 +45416,16 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "SCIM6622063277 [SCIM6622063277].md",
+          "key": "essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277",
+          "show": "Huberman Lab",
+          "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+          "url": "/wiki/sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianHomeostaticEnvironmentalModel": {
@@ -87286,9 +87293,9 @@
       "url": "/wiki/entities/fedex/"
     },
     "FedFastedStateContinuum": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6513533538 [SCIM6513533538].md",
@@ -87303,6 +87310,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
+        },
+        {
+          "episode_file": "SCIM6622063277 [SCIM6622063277].md",
+          "key": "essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277",
+          "show": "Huberman Lab",
+          "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+          "url": "/wiki/sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277/"
         }
       ],
       "updated": "2026-10-10",
