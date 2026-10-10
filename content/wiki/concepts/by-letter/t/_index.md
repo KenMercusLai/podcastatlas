@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10171
+wiki_total_pages: 10173
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "ThemeParkAsMediaPlatform"
     title: "Theme Park As Media Platform"
     url: "/wiki/concepts/themeparkasmediaplatform/"
+  - key: "ThemeParkGenealogy"
+    title: "Theme Park Genealogy"
+    url: "/wiki/concepts/themeparkgenealogy/"
   - key: "ThemeParkResortEconomics"
     title: "Theme Park Resort Economics"
     url: "/wiki/concepts/themeparkresorteconomics/"

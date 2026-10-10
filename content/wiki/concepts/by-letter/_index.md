@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10171
+wiki_total_pages: 10173
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2426,6 +2426,9 @@ wiki_pages:
   - key: "ArchitectureAsHistoricalEvidence"
     title: "Architecture as Historical Evidence"
     url: "/wiki/concepts/architectureashistoricalevidence/"
+  - key: "ArchitectureOfReassurance"
+    title: "Architecture of Reassurance"
+    url: "/wiki/concepts/architectureofreassurance/"
   - key: "ArchiveAccessTradeoff"
     title: "Archive Access Tradeoff"
     url: "/wiki/concepts/archiveaccesstradeoff/"

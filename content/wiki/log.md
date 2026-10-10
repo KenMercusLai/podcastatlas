@@ -34285,3 +34285,11 @@ Added source `essentials-erasing-fears-traumas-using-modern-neuroscience-scim670
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 615. Disneyland: The Modern American Utopia
+
+Added source `615-disneyland-the-modern-american-utopia-glt8516268220`; created [[ThemeParkGenealogy]] and [[ArchitectureOfReassurance]]; migrated and resynthesized [[WaltDisney]] from its complete preserved evidence inventory; and resynthesized [[Disneyland]] and [[ThemeParkAsMediaPlatform]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Disneyland recombined pleasure gardens, fairground machinery, railways, scenic staging, film-set design, television finance, personal memory, and Disney IP into a whole environment whose human scale, cleanliness, pedestrian movement, staff performance, nostalgia, futurism, and managed predictability offer family reassurance while remaining commercial, labor-dependent, selective, and ideologically curated. No settled contradiction was adopted. Opening-broadcast reach, invention priority, attendance, cost conversion, planning influence, race and labor history, visitor response, passivity, simulation, and private motive remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,293 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

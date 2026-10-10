@@ -18068,6 +18068,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/architectureashistoricalevidence/"
     },
+    "ArchitectureOfReassurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8516268220 [GLT8516268220].md",
+          "key": "615-disneyland-the-modern-american-utopia-glt8516268220",
+          "show": "The Rest Is History",
+          "title": "615. Disneyland: The Modern American Utopia",
+          "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/architectureofreassurance/"
+    },
     "ArchivePreservationBias": {
       "episode_count": 2,
       "show_count": 2,
@@ -65430,9 +65446,9 @@
       "url": "/wiki/entities/discoveryloop/"
     },
     "Disneyland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
@@ -65454,6 +65470,13 @@
           "show": "The Rest Is History",
           "title": "RIHC: Disney's Legacy, with Bob Iger",
           "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        },
+        {
+          "episode_file": "GLT8516268220 [GLT8516268220].md",
+          "key": "615-disneyland-the-modern-american-utopia-glt8516268220",
+          "show": "The Rest Is History",
+          "title": "615. Disneyland: The Modern American Utopia",
+          "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
         }
       ],
       "updated": "2026-10-10",
@@ -246920,9 +246943,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemeParkAsMediaPlatform": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
@@ -246958,10 +246981,33 @@
           "show": "The Rest Is History",
           "title": "RIHC: Disney's Legacy, with Bob Iger",
           "url": "/wiki/sources/rihc-disneys-legacy-with-bob-iger-glt6989183827/"
+        },
+        {
+          "episode_file": "GLT8516268220 [GLT8516268220].md",
+          "key": "615-disneyland-the-modern-american-utopia-glt8516268220",
+          "show": "The Rest Is History",
+          "title": "615. Disneyland: The Modern American Utopia",
+          "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
         }
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/themeparkasmediaplatform/"
+    },
+    "ThemeParkGenealogy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8516268220 [GLT8516268220].md",
+          "key": "615-disneyland-the-modern-american-utopia-glt8516268220",
+          "show": "The Rest Is History",
+          "title": "615. Disneyland: The Modern American Utopia",
+          "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/themeparkgenealogy/"
     },
     "ThemePlotCoherence": {
       "episode_count": 6,
@@ -259375,6 +259421,36 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/wallstreetprivatemortgagecapital/"
+    },
+    "WaltDisney": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "107.闲聊伟大导演们的八卦（第一弹） [744150818].md",
+          "key": "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818",
+          "show": "蜜獾吃书",
+          "title": "107.闲聊伟大导演们的八卦（第一弹）",
+          "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
+        },
+        {
+          "episode_file": "GLT8516268220 [GLT8516268220].md",
+          "key": "615-disneyland-the-modern-american-utopia-glt8516268220",
+          "show": "The Rest Is History",
+          "title": "615. Disneyland: The Modern American Utopia",
+          "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/waltdisney/"
     },
     "WalterHess": {
       "episode_count": 2,

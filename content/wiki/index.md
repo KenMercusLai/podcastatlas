@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [615. Disneyland: The Modern American Utopia](sources/615-disneyland-the-modern-american-utopia-glt8516268220.md) — The Rest Is History on Disneyland's pleasure-garden and ride genealogy, Walt Disney's trains and miniatures, Cold War symbolism, immersive design, opening-day chaos, and architecture of reassurance.
 - [Essentials: Erasing Fears & Traumas Using Modern Neuroscience](sources/essentials-erasing-fears-traumas-using-modern-neuroscience-scim6701176683.md) — Condensed Huberman Lab episode on learned threat responses, exposure and narrative work, adaptive relearning, supervised assisted psychotherapy, and deliberate-arousal safety boundaries.
 - [083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1](sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz.md) — 纸醉金迷FM以金庸情感排行、跨作品配对、百花错问答、大战与影视改编，讨论关系适配、反事实角色实验、叙事误导、群像汇流和代际观看记忆。
 - [616. Elizabeth I: The Fall of the Axe (Part 1)](sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740.md) — The Rest Is History on Elizabeth's birth, Tudor male-heir pressure, Anne Boleyn's rise and execution, Mary's demotion, and Elizabeth's resulting illegitimacy.
@@ -16542,14 +16543,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Netflix](entities/Netflix.md) — Streaming company used for Drive to Survive audience growth, earnings-expectation investing lessons, and Harlan Coben thriller-brand packaging.
 - [Drive to Survive](entities/DriveToSurvive.md) — Netflix series that reframed Formula One through people, politics, and behind-the-scenes team drama.
 - [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, parks, rereleases, and later Toy Story family-technology relevance.
-- [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
+- [Walt Disney](entities/WaltDisney.md) — Media founder and creative-system integrator whose animation, television, park design, and planned-community ambitions remain qualified by labor, credit, and founder-myth concerns.
 - [Roy Disney](entities/RoyDisney.md) — Walt's finance and operating partner who preserved the company and completed Walt Disney World.
 - [Ub Iwerks](entities/UbIwerks.md) — Early Disney animation partner and technical/artistic contributor to Mickey Mouse.
 - [Oswald the Lucky Rabbit](entities/OswaldTheLuckyRabbit.md) — Early character whose loss taught Disney the importance of owning IP and customer leverage.
 - [Mickey Mouse](entities/MickeyMouse.md) — Disney character that became a branded animation, merchandise, club, comics, and licensing flywheel.
 - [Kay Kamen](entities/KayKamen.md) — Merchandising operator who professionalized Disney consumer products in the 1930s.
 - [Snow White and the Seven Dwarfs](entities/SnowWhiteAndTheSevenDwarfs.md) — Bet-the-company animated feature that proved premium animation and later rerelease economics.
-- [Disneyland](entities/Disneyland.md) — Anaheim theme park that joins Disney's physical media platform to California's designed nostalgia and futurism.
+- [Disneyland](entities/Disneyland.md) — Anaheim theme park integrating inherited leisure forms, Disney media, designed nostalgia and futurism, immersive storytelling, and an architecture of reassurance.
 - [Walt Disney World](entities/WaltDisneyWorld.md) — Florida project completed by Roy Disney after Walt's death.
 - [ABC](entities/ABC.md) — Television partner that financed and promoted Disneyland while gaining breakout programming.
 - [WED Enterprises](entities/WEDEnterprises.md) — Walt Disney's personal company that designed Disneyland and retained valuable park rights before buyouts.
@@ -17441,6 +17442,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Architecture of Reassurance](concepts/ArchitectureOfReassurance.md) — Design model in which human scale, cleanliness, legibility, operational order, and curated time make a bounded environment feel safe and predictable.
+- [Theme Park Genealogy](concepts/ThemeParkGenealogy.md) — Historical lineage connecting pleasure gardens, fairs, mechanical rides, railways, and scenic staging to modern themed environments.
 - [Institutional Legacy Reinvention](concepts/InstitutionalLegacyReinvention.md) — Stewardship model that preserves generative values and audience trust without freezing inherited products, rules, or methods.
 - [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — evaluates fictional pairs through recognition, reciprocity, timing, agency, mutual flourishing, and bounded counterfactual substitution.
 - [Ensemble Battle Convergence / 群像大战汇流](concepts/EnsembleBattleConvergence.md) — explains battle climaxes that resolve multiple character arcs, identities, relationships, abilities, and moral choices at once.

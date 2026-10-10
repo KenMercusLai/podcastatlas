@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3416
+topic_total_pages: 3417
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4426,6 +4426,9 @@ topic_concepts:
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"
+  - key: "ThemeParkGenealogy"
+    title: "Theme Park Genealogy"
+    url: "/wiki/concepts/themeparkgenealogy/"
   - key: "ThirdFrontConstruction"
     title: "Third Front Construction / 三线建设"
     url: "/wiki/concepts/thirdfrontconstruction/"

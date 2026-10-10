@@ -85479,6 +85479,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThemeParkGenealogy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ThemeParkResortEconomics": [
     {
       "key": "culture",
