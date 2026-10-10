@@ -34356,3 +34356,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Improve Your Lymphatic System for Overall Health & Appearance
+
+Added source `improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441`; created [[LymphaticSystemClearance]], [[LymphaticFlowSupport]], and [[GlymphaticClearance]]. Core synthesis: peripheral lymphatics complement blood circulation by recovering interstitial fluid, routing it through immune-surveillance nodes, and returning it to venous blood; ordinary movement, pressure changes, diaphragmatic breathing, hydration, water-based activity, and light manual techniques may support this pump-less network, while unexplained swelling and lymphedema remain clinical problems; and sleep is the foundation of the brain-clearance model, with side sleeping, elevation, exercise, aquaporin-4 mechanisms, and amyloid findings retained as bounded rather than universal or disease-treating claims. No settled contradiction was adopted. Step counts, fluid volumes, massage order, facial changes, sleep position, elevation, lymphoneogenesis, light effects, animal amyloid results, and neurodegenerative implications remain source-scoped, preliminary, or clinically bounded. Recurring [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the episode adds no durable identity revision. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,302 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

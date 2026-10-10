@@ -100812,6 +100812,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
     },
+    "GlymphaticClearance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8178118441 [SCIM8178118441].md",
+          "key": "improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441",
+          "show": "Huberman Lab",
+          "title": "Improve Your Lymphatic System for Overall Health & Appearance",
+          "url": "/wiki/sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/glymphaticclearance/"
+    },
     "GnaeusJuliusAgricola": {
       "episode_count": 1,
       "show_count": 1,
@@ -160057,6 +160073,38 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/lythuongkiet/"
+    },
+    "LymphaticFlowSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8178118441 [SCIM8178118441].md",
+          "key": "improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441",
+          "show": "Huberman Lab",
+          "title": "Improve Your Lymphatic System for Overall Health & Appearance",
+          "url": "/wiki/sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/lymphaticflowsupport/"
+    },
+    "LymphaticSystemClearance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8178118441 [SCIM8178118441].md",
+          "key": "improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441",
+          "show": "Huberman Lab",
+          "title": "Improve Your Lymphatic System for Overall Health & Appearance",
+          "url": "/wiki/sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/lymphaticsystemclearance/"
     },
     "LyndonBJohnson": {
       "episode_count": 6,

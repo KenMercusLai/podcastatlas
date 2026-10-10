@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10182
+wiki_total_pages: 10185
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -1031,6 +1031,12 @@ wiki_pages:
   - key: "LuxuryScarcityDiscipline"
     title: "Luxury Scarcity Discipline"
     url: "/wiki/concepts/luxuryscarcitydiscipline/"
+  - key: "LymphaticFlowSupport"
+    title: "Lymphatic Flow Support"
+    url: "/wiki/concepts/lymphaticflowsupport/"
+  - key: "LymphaticSystemClearance"
+    title: "Lymphatic System Clearance"
+    url: "/wiki/concepts/lymphaticsystemclearance/"
   - key: "LyuBuFactionalBalance"
     title: "Lü Bu Factional Balance / 吕布集团派系平衡"
     url: "/wiki/concepts/lyubufactionalbalance/"

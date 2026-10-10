@@ -4374,6 +4374,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 - [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
+- [Improve Your Lymphatic System for Overall Health & Appearance](sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441.md) — Huberman Lab solo episode on lymphatic fluid recovery, immune surveillance, movement- and pressure-supported flow, sleep-linked glymphatic clearance, and clinical boundaries.
 
 ## Entities
 - [Art Babbitt](entities/ArtBabbitt.md) — Disney animator and labor figure connecting character craft, collaborator credit, and the 1941 strike.
@@ -27712,5 +27713,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Consumer Tariff Refund Allocation](concepts/ConsumerTariffRefundAllocation.md) — How importer refunds can—or cannot—be connected back to customers who bore itemized or embedded tariff costs.
 - [Trauma Damage-Control Prioritization / 创伤损伤控制优先级](concepts/TraumaDamageControlPrioritization.md) — Staged emergency hierarchy placing physiological survival before limb salvage, reconstruction, function, and longer-term recovery.
+- [Lymphatic System Clearance](concepts/LymphaticSystemClearance.md) — Whole-body fluid-recovery and immune-surveillance network returning interstitial fluid to venous circulation.
+- [Lymphatic Flow Support](concepts/LymphaticFlowSupport.md) — Movement, breathing, water pressure, hydration, and gentle-touch support with symptom and lymphedema safety boundaries.
+- [Glymphatic Clearance](concepts/GlymphaticClearance.md) — Sleep-linked brain-fluid clearance model with explicit position, animal-evidence, and neurodegenerative-disease limits.
 
 ## Syntheses
