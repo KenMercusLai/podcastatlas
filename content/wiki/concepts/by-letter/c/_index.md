@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10174
+wiki_total_pages: 10176
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "CastleBasedPrivateLordship"
     title: "Castle-Based Private Lordship"
     url: "/wiki/concepts/castlebasedprivatelordship/"
+  - key: "CastlemanDisease"
+    title: "Castleman Disease"
+    url: "/wiki/concepts/castlemandisease/"
   - key: "Castrati"
     title: "Castrati"
     url: "/wiki/concepts/castrati/"

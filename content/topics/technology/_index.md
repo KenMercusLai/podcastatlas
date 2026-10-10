@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3417
+topic_total_pages: 3419
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5756,6 +5756,9 @@ topic_entities:
   - key: "EVE"
     title: "EVE"
     url: "/wiki/entities/eve/"
+  - key: "EveryCure"
+    title: "Every Cure"
+    url: "/wiki/entities/everycure/"
   - key: "EVO2"
     title: "EVO2"
     url: "/wiki/entities/evo2/"
@@ -9849,6 +9852,9 @@ topic_sources:
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+  - key: "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056"
+    title: "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum"
+    url: "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
   - key: "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1"
     title: "Vol. 160 一年多以后，再聊AI写代码Vibe Coding"
     url: "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"

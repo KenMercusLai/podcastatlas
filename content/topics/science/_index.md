@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1509
+topic_total_pages: 1514
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -346,6 +346,9 @@ topic_concepts:
   - key: "CardiovascularExerciseRiskBoundary"
     title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
     url: "/wiki/concepts/cardiovascularexerciseriskboundary/"
+  - key: "CastlemanDisease"
+    title: "Castleman Disease"
+    url: "/wiki/concepts/castlemandisease/"
   - key: "CausalDeterminism"
     title: "Causal Determinism / 因果决定论"
     url: "/wiki/concepts/causaldeterminism/"
@@ -640,6 +643,9 @@ topic_concepts:
   - key: "DrawdownPsychology"
     title: "Drawdown Psychology"
     url: "/wiki/concepts/drawdownpsychology/"
+  - key: "DrugRepurposing"
+    title: "Drug Repurposing"
+    url: "/wiki/concepts/drugrepurposing/"
   - key: "DualProcessBereavementOscillation"
     title: "Dual-Process Bereavement Oscillation"
     url: "/wiki/concepts/dualprocessbereavementoscillation/"
@@ -2741,6 +2747,9 @@ topic_entities:
   - key: "DavidBuss"
     title: "David Buss"
     url: "/wiki/entities/davidbuss/"
+  - key: "DavidFajgenbaum"
+    title: "David Fajgenbaum"
+    url: "/wiki/entities/davidfajgenbaum/"
   - key: "DavidLinden"
     title: "David Linden"
     url: "/wiki/entities/davidlinden/"
@@ -2792,6 +2801,9 @@ topic_entities:
   - key: "ErichJarvis"
     title: "Erich Jarvis"
     url: "/wiki/entities/erichjarvis/"
+  - key: "EveryCure"
+    title: "Every Cure"
+    url: "/wiki/entities/everycure/"
   - key: "EVO2"
     title: "EVO2"
     url: "/wiki/entities/evo2/"
@@ -4434,6 +4446,9 @@ topic_sources:
   - key: "using-caffeine-to-optimize-mental-physical-performance-scim1210768101"
     title: "Using Caffeine to Optimize Mental & Physical Performance"
     url: "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
+  - key: "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056"
+    title: "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum"
+    url: "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
   - key: "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690"
     title: "Using Your Nervous System to Enhance Your Immune System"
     url: "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"

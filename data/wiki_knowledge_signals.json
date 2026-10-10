@@ -37067,6 +37067,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/castlebasedprivatelordship/"
     },
+    "CastlemanDisease": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1618700056 [SCIM1618700056].md",
+          "key": "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056",
+          "show": "Huberman Lab",
+          "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+          "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/castlemandisease/"
+    },
     "Castrati": {
       "episode_count": 1,
       "show_count": 1,
@@ -59460,6 +59476,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/davideagleman/"
     },
+    "DavidFajgenbaum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1618700056 [SCIM1618700056].md",
+          "key": "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056",
+          "show": "Huberman Lab",
+          "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+          "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/davidfajgenbaum/"
+    },
     "DavidFishman": {
       "episode_count": 1,
       "show_count": 1,
@@ -68266,6 +68298,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/drownproof/"
+    },
+    "DrugRepurposing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1618700056 [SCIM1618700056].md",
+          "key": "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056",
+          "show": "Huberman Lab",
+          "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+          "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/drugrepurposing/"
     },
     "DruidicKnowledge": {
       "episode_count": 2,
@@ -80837,6 +80885,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/evergrandewealth/"
+    },
+    "EveryCure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1618700056 [SCIM1618700056].md",
+          "key": "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056",
+          "show": "Huberman Lab",
+          "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+          "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/everycure/"
     },
     "EverydayCreativeAgency": {
       "episode_count": 1,
@@ -191104,9 +191168,9 @@
       "url": "/wiki/concepts/patientcontrolledhealthdatainteroperability/"
     },
     "PatientLedRareDiseaseInfrastructure": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvwYJQGzHx3sFIFxeO0EXaVh-CDq [lvwYJQGzHx3sFIFxeO0EXaVh-CDq].md",
@@ -191114,9 +191178,16 @@
           "show": "这病说来话长",
           "title": "VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病",
           "url": "/wiki/sources/vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq/"
+        },
+        {
+          "episode_file": "SCIM1618700056 [SCIM1618700056].md",
+          "key": "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056",
+          "show": "Huberman Lab",
+          "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+          "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/patientledrarediseaseinfrastructure/"
     },
     "PatientSM": {

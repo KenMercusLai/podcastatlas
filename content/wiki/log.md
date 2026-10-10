@@ -34301,3 +34301,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum
+
+Added source `using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056`; created [[DavidFajgenbaum]], [[EveryCure]], [[DrugRepurposing]], and [[CastlemanDisease]]; and resynthesized [[PatientLedRareDiseaseInfrastructure]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: existing medicines can provide valuable starting knowledge but approval for one indication does not prove another; generic economics, rare-disease scale, fragmented literature, and slow diffusion can strand promising matches; and patient networks plus computational ranking can generate and prioritize hypotheses only when laboratory, observational, clinical, safety, expert, and physician-patient validation remain intact. No settled contradiction was adopted. The summary's DATA2 form is recorded as a likely DADA2 transcription error, the Fagenbaum spelling is normalized to Fajgenbaum, and numerical outcomes, individual rescues, funding, mechanisms, and prevention associations remain episode-attributed rather than prescribing guidance. Broad [[HubermanLab]], [[AndrewHuberman]], and general AI pages were kept closed because focused pages capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,295 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 36 pre-existing broken wikilinks outside this ingest.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

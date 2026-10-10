@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10174
+wiki_total_pages: 10176
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "DrugDevelopmentOutsourcing"
     title: "Drug Development Outsourcing / CXO"
     url: "/wiki/concepts/drugdevelopmentoutsourcing/"
+  - key: "DrugRepurposing"
+    title: "Drug Repurposing"
+    url: "/wiki/concepts/drugrepurposing/"
   - key: "DruidicKnowledge"
     title: "Druidic Knowledge"
     url: "/wiki/concepts/druidicknowledge/"

@@ -21069,6 +21069,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CastlemanDisease": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Castrati": [
     {
       "key": "culture",
@@ -28294,6 +28301,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DavidFajgenbaum": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DavidGarrick": [
     {
       "key": "culture",
@@ -30813,6 +30827,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DrugRepurposing": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DuBaoTeleread": [
@@ -33976,6 +33997,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EveryCure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "EverydayBehavioralEconomics": [
@@ -105113,6 +105146,18 @@
     }
   ],
   "using-caffeine-to-optimize-mental-physical-performance-scim1210768101": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "science",
       "label": "Science",

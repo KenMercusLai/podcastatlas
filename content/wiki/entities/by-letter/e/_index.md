@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13015
+wiki_total_pages: 13017
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "Everloop"
     title: "Everloop"
     url: "/wiki/entities/everloop/"
+  - key: "EveryCure"
+    title: "Every Cure"
+    url: "/wiki/entities/everycure/"
   - key: "EVO2"
     title: "EVO2"
     url: "/wiki/entities/evo2/"
