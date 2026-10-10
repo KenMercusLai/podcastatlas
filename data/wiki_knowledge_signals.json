@@ -179456,9 +179456,9 @@
       "url": "/wiki/concepts/multimodalfunctioncenteredpaincare/"
     },
     "MultimodalObesityTreatment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7025523715 [SCIM7025523715].md",
@@ -179466,9 +179466,16 @@
           "show": "Huberman Lab",
           "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
           "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        },
+        {
+          "episode_file": "lhTWcUEQ99I_Iercay_LQVohzdg7 [lhTWcUEQ99I_Iercay_LQVohzdg7].md",
+          "key": "vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7",
+          "show": "这病说来话长",
+          "title": "VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天",
+          "url": "/wiki/sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/multimodalobesitytreatment/"
     },
     "MultiracialMalaysiaPoliticalVision": {
@@ -242581,9 +242588,9 @@
       "url": "/wiki/concepts/stressbiologicalaging/"
     },
     "StressEatingRewardLoop": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -242598,9 +242605,16 @@
           "show": "Huberman Lab",
           "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/scim5718648905-scim5718648905/"
+        },
+        {
+          "episode_file": "lhTWcUEQ99I_Iercay_LQVohzdg7 [lhTWcUEQ99I_Iercay_LQVohzdg7].md",
+          "key": "vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7",
+          "show": "这病说来话长",
+          "title": "VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天",
+          "url": "/wiki/sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
@@ -283193,6 +283207,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuyaneasternhan/"
+    },
+    "YuYingEmergencyPhysician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhTWcUEQ99I_Iercay_LQVohzdg7 [lhTWcUEQ99I_Iercay_LQVohzdg7].md",
+          "key": "vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7",
+          "show": "这病说来话长",
+          "title": "VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天",
+          "url": "/wiki/sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/yuyingemergencyphysician/"
     },
     "YuYongWesternHan": {
       "episode_count": 1,

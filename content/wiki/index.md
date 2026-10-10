@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天](sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7.md) — 于莺以个人经历和医学解释连接减重平台、复胖、食欲与情绪、肌肉保留、正规评估和违规减肥产品风险。
 - [594. The First World War: The Invasion of Belgium (Part 1)](sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129.md) — The Rest Is History on the Schlieffen Plan, Belgian neutrality, Liège, civilian reprisals, Louvain, Brussels, and the boundary between documented atrocity and propaganda.
 - [Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno](sources/science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257.md) — Huberman Lab interview on scientific limits around God, religious practice as spiritual technology, prayer breathing, ritual synchrony, gratitude and cheating, grief, mortality, loneliness, and misuse.
 - [595. The First World War: The Battle of the Frontiers (Part 2)](sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909.md) — The Rest Is History on France's failed opening offensives, the BEF at Mons and Le Cateau, the Great Retreat, coalition friction, and industrial firepower.
@@ -4445,6 +4446,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事](sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak.md) — 罗永浩对谈何小鹏，从UCWeb产品发现到小鹏汽车的组织重整、软硬件迭代差异、AI投入、自动驾驶、芯片、飞行汽车与人形机器人。
 
 ## Entities
+- [于莺 / Yu Ying](entities/YuYingEmergencyPhysician.md) — 前急诊医生与医学科普者，以个人减重经历解释平台期、反弹、食欲调节和专业评估边界。
 - [German Invasion of Belgium (1914)](entities/GermanInvasionOfBelgium1914.md) — Opening campaign joining the Schlieffen timetable, violated neutrality, Belgian resistance, occupation violence, and reputational collapse.
 - [Battle of Liège (1914)](entities/BattleOfLiege1914.md) — Opening Belgian defense where forts, modern firepower, timetable delay, and civilian reprisals converged.
 - [David DeSteno](entities/DavidDeSteno.md) — Northeastern psychologist separating metaphysical claims from empirical study of religious practice, morality, ritual, gratitude, health, and flourishing.

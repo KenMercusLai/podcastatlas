@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13106
+wiki_total_pages: 13107
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "YuHong"
     title: "于红 / Yu Hong"
     url: "/wiki/entities/yuhong/"
+  - key: "YuYingEmergencyPhysician"
+    title: "于莺 / Yu Ying"
+    url: "/wiki/entities/yuyingemergencyphysician/"
   - key: "YuQianMing"
     title: "于谦 / Yu Qian (Ming)"
     url: "/wiki/entities/yuqianming/"
