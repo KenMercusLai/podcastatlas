@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13023
+wiki_total_pages: 13024
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "DabaNiuTeacher"
     title: "大白牛老师 / Daba Niu Teacher"
     url: "/wiki/entities/dabaniuteacher/"
+  - key: "DapenPodcastGuest"
+    title: "大盆 / Dapen (Podcast Guest)"
+    url: "/wiki/entities/dapenpodcastguest/"
   - key: "DaQin"
     title: "大秦 / Da Qin"
     url: "/wiki/entities/daqin/"

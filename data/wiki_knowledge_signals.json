@@ -34785,9 +34785,9 @@
       "url": "/wiki/entities/caobaoeasternhan/"
     },
     "CaoBuGuiPodcastGuest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpQFt6DbVU0YYO90Rc0c-1WYrGY2 [lpQFt6DbVU0YYO90Rc0c-1WYrGY2].md",
@@ -34795,9 +34795,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
+          "key": "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz",
+          "show": "这病说来话长",
+          "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
+          "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/caobuguipodcastguest/"
     },
     "CaoCao": {
@@ -58278,6 +58285,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/daoistwatervirtue/"
+    },
+    "DapenPodcastGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
+          "key": "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz",
+          "show": "这病说来话长",
+          "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
+          "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/dapenpodcastguest/"
     },
     "DapengDebade": {
       "episode_count": 1,
@@ -96732,9 +96755,9 @@
       "url": "/wiki/entities/gaohanstandup/"
     },
     "GaoJiachengPodcastGuest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
@@ -96749,9 +96772,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
+          "key": "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz",
+          "show": "这病说来话长",
+          "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
+          "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/gaojiachengpodcastguest/"
     },
     "GaoJunEasternHan": {
@@ -186432,9 +186462,9 @@
       "url": "/wiki/concepts/onlineageverification/"
     },
     "OnlineSymptomSearchAnxiety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
@@ -186456,9 +186486,16 @@
           "show": "这病说来话长",
           "title": "VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地",
           "url": "/wiki/sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6/"
+        },
+        {
+          "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
+          "key": "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz",
+          "show": "这病说来话长",
+          "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
+          "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/onlinesymptomsearchanxiety/"
     },
     "OnnaMusha": {
@@ -232901,9 +232938,9 @@
       "url": "/wiki/entities/solon/"
     },
     "SomatizationAsBodyAlarm": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -232918,9 +232955,16 @@
           "show": "这病说来话长",
           "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
           "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
+        },
+        {
+          "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
+          "key": "vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz",
+          "show": "这病说来话长",
+          "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
+          "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/somatizationasbodyalarm/"
     },
     "SomertonManCase": {

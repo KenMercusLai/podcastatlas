@@ -34391,3 +34391,11 @@ Added source `611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489`; and
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆
+
+Added source `vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz`; created [[DapenPodcastGuest|大盆]]; and resynthesized [[GaoJiachengPodcastGuest|高嘉诚]], [[CaoBuGuiPodcastGuest|曹不贵]], [[OnlineSymptomSearchAnxiety]], and [[SomatizationAsBodyAlarm]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: persistent symptoms deserve proportionate assessment and safety-netted follow-up, while online possibility lists, consumer metrics, and the demand for one definitive disease name can compound distress when tests are reassuring or a cause remains unresolved. No settled contradiction was adopted. The supplied 高阿诚/高嘉诚 and 曹福贵/曹不贵 differences remain explicit source-level name variations; diagnoses, medication effects, traditional-medicine responses, imaging choices, emergency findings, and individual outcomes remain source-scoped personal accounts. Broad [[Atang|阿汤]], [[ZheBingShuoLaiHuaChang|这病说来话长]], emergency-response, wearable-data, pulmonary-nodule, and statin pages were kept closed because the focused source, people, and two concept pages capture the bounded additions without promoting anecdotes into general clinical guidance. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,308 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

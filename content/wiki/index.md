@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆](sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz.md) — 这病说来话长 roundtable on unresolved symptoms, online self-diagnosis, somatization, proportionate medical assessment, and tolerance of diagnostic uncertainty.
 - [611. Nelson: Bonaparte Prepares to Strike (Part 4)](sources/611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489.md) — The Rest Is History on Britain's invasion scare, Nelson and Emma at Merton, the Toulon blockade, Villeneuve's escape, and the Atlantic-Caribbean chase.
 - [Essentials: The Science of Gratitude & How to Build a Gratitude Practice](sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137.md) — Condensed Huberman Lab episode on sincere received or narratively witnessed gratitude, reusable story cues, brain-body mechanisms, and evidence boundaries.
 - [612. Nelson: The Final Showdown (Part 5)](sources/612-nelson-the-final-showdown-part-5-glt2077045869.md) — The Rest Is History on Nelson's final farewell, Cadiz surveillance and concealment, the two-column “Nelson touch,” Villeneuve's pressure, and the eve of Trafalgar.
@@ -6246,7 +6247,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lior Raz](entities/LiorRaz.md) — Fauda co-creator and lead actor whose military background parallels the show's undercover-unit setting.
 - [Black Hand](entities/BlackHand.md) — Secret Serbian nationalist organization whose linked intermediaries supplied weapons, training, and border assistance while its exact command role remains contested.
 - [Aurel Popovici](entities/AurelPopovici.md) — Political theorist whose sixteen-state United States of Greater Austria supplied one federal model considered around Franz Ferdinand.
-- [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
+- [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose musculoskeletal questions and later acute-symptom emergency-call account ground public medical-literacy discussions.
 - [Sophie Chotek](entities/SophieChotek.md) — Franz Ferdinand's wife, stabilizing family partner, target of morganatic court hierarchy, active Sarajevo companion, and fellow assassination victim.
 - [Gavrilo Princip](entities/GavriloPrincip.md) — Nineteen-year-old nationalist conspirator whose network support, martyr ideal, and accidental second opportunity culminated in the Sarajevo murders.
 - [Stuart McGill](entities/StuartMcGill.md) — Spine-biomechanics researcher emphasizing individualized pain mechanisms, anatomical fit, recoverable loading, and spine-sparing training.
@@ -6485,7 +6486,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Magnus the Good](entities/MagnusTheGood.md) — Norwegian and Danish king whose wealth-backed accommodation with Harald Hardrada briefly creates shared rule before Harald's sole succession.
 - [吴浩天 / Wu Haotian (Anesthesiologist)](entities/WuHaotianAnesthesiologist.md) — Anesthesiologist and Luffy医学频道 founder explaining continuous monitoring, airway safety, and recovery during painless gastrointestinal endoscopy.
 - [蒋永亮 / Jiang Yongliang](entities/JiangYongliang.md) — Gastroenterologist explaining digestive symptoms, cancer warning signs, endoscopy, pathology, imaging context, and follow-up.
-- [高嘉诚 / Gao Jiacheng (Podcast Guest)](entities/GaoJiachengPodcastGuest.md) — Patient-experience guest whose painless gastroscopy and colonoscopy anchor the episode, with a source-level name-spelling qualification.
+- [高嘉诚 / Gao Jiacheng (Podcast Guest)](entities/GaoJiachengPodcastGuest.md) — Patient-experience guest discussing endoscopy, musculoskeletal symptoms, somatization, and diagnostic certainty, with source-level name variations.
+- [大盆 / Dapen (Podcast Guest)](entities/DapenPodcastGuest.md) — Patient-experience guest whose unresolved hand numbness, multi-specialty workup, and online self-diagnosis ground the VOL.182 discussion.
 - [Luffy医学频道 / Luffy Medical Channel](entities/LuffyMedicalChannel.md) — Source-scoped medical-education channel associated with anesthesiologist 吴浩天.
 - [Harald Hardrada](entities/HaraldHardrada.md) — Stiklestad survivor who converts Rus and Byzantine service into wealth, Norwegian kingship, coercive centralization, and a failed English conquest bid.
 - [Tostig Godwinson](entities/TostigGodwinson.md) — Exiled English earl who recruits Hardrada for a regime-change invasion and dies beside him at Stamford Bridge.
