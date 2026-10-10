@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Time Perception, Memory & Focus](sources/essentials-time-perception-memory-focus-scim9668683035.md) — Condensed Huberman Lab episode on biological entrainment, present and remembered duration, novelty, neuromodulator state, and flexible ultradian work blocks.
 - [079 趣话马伯庸《太白金星有点烦》：天庭神仙皆社畜，西游路上打工人](sources/079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie-shechu-xiyou-lushang-dagongren-lolvba7ovt0fgmiqdk4zjtjp3ouy.md) — 纸醉金迷FM以取经项目开局拆解模糊授权、安全劫难、监督留痕、能力惩罚与通过既成事实完成的人事安插。
 - [影视飓风TIM×罗永浩！用影像打开世界的梦想家](sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h.md) — 罗永浩对谈影视飓风 Tim，讨论评测独立、商业收入、创作者公司规模化、内容数据、极限企划、全球化与 AI 影像劳动压力。
 - [608. Nelson: Slaughter in Naples (Part 1)](sources/608-nelson-slaughter-in-naples-part-1-glt8594694484.md) — The Rest Is History on Nelson's Naples entanglement, the failed Roman campaign, royal flight, popular counterrevolution, disputed capitulation, and Caracciolo's execution.

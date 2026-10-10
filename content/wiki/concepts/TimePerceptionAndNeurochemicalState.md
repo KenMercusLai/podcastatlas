@@ -5,7 +5,8 @@ tags: [time-perception, neuroscience, memory, attention, neuromodulators]
 sources:
   - scim2746317304-scim2746317304
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
-last_updated: 2026-10-09
+  - essentials-time-perception-memory-focus-scim9668683035
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Novelty and surprise connect immediate experience to retrospective duration by c
 
 The freefall experiment sharpens the distinction between online and retrospective timing. Participants later judged their own frightening fall as longer, but a wrist display did not show that they could perceive faster during the fall. The current synthesis therefore treats fear-related “slow motion” primarily as a dense-memory explanation in this paradigm, while retaining the broader point that arousal and attention can alter duration judgments in other contexts.
 
+The [[essentials-time-perception-memory-focus-scim9668683035|Essentials edit]] preserves the full episode's three timing modes, novelty paradox, entrainment frame, and neuromodulator metaphor while omitting several mechanisms and examples. Its agreement with [[scim2746317304-scim2746317304]] establishes editorial continuity rather than independent confirmation and does not overturn the later freefall qualification.
+
 ## Key Claims
 - Present interval timing, prospective timing, and retrospective timing are related but distinct judgments.
 - High-arousal or aversive states can make a short interval feel longer while it is occurring.
@@ -39,14 +42,16 @@ The freefall experiment sharpens the distinction between online and retrospectiv
 - Routine segmentation - [[scim2746317304-scim2746317304]] presents habits as dopamine-associated markers that can divide a day into functional units.
 - Fear and retrospective duration - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] reports a freefall experiment in which later duration expanded without evidence of faster online visual perception.
 - Lifespan memory density - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] connects novel childhood experience and routinized adulthood to denser or sparser retrospective landmarks.
+- Condensed provenance - [[essentials-time-perception-memory-focus-scim9668683035]] repeats the three timing modes, novelty-memory paradox, circadian context, and routine segmentation without changing the qualified state-dependent judgment.
 
 ## Counterevidence & Qualifications
-The concept rests on two structured public-neuroscience sources, not a systematic review. The frame-rate analogy simplifies interacting neural, attentional, pharmacological, and memory processes; spontaneous blink rate is not a direct readout of subjective time; and dopamine release during sports viewing does not prove that dopamine alone creates temporal boundaries. One freefall task narrows rather than eliminates all online arousal effects. Exact claims about serotonin, cannabis, cold exposure, trauma-memory replay, EMDR, ketamine, amygdala detail encoding, and time-of-day task matching require stronger study-level context and, where clinical, professional supervision.
+The concept rests on structured public-neuroscience sources, not a systematic review, and the full and Essentials time-perception releases overlap substantially. The frame-rate analogy simplifies interacting neural, attentional, pharmacological, and memory processes; spontaneous blink rate is not a direct readout of subjective time; and dopamine release during sports viewing does not prove that dopamine alone creates temporal boundaries. One freefall task narrows rather than eliminates all online arousal effects. Exact claims about serotonin, cannabis, cold exposure, trauma-memory replay, EMDR, ketamine, amygdala detail encoding, and time-of-day task matching require stronger study-level context and, where clinical, professional supervision.
 
 ## What Changed
 - Added experimental separation between fear's remembered slow motion and faster online perception.
 - Strengthened memory density and novelty as retrospective-duration mechanisms.
 - Narrowed simple arousal “frame-rate” explanations without rejecting broader state dependence.
+- No current judgment changed; the Essentials edit adds overlapping provenance for the three timing modes, novelty-memory paradox, and entrainment frame.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - broader model of dopamine, norepinephrine, serotonin, and acetylcholine as interacting state signals.

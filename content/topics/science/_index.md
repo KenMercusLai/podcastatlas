@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1519
+topic_total_pages: 1520
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4026,6 +4026,9 @@ topic_sources:
   - key: "essentials-the-science-of-making-breaking-habits-scim6067841582"
     title: "Essentials: The Science of Making & Breaking Habits"
     url: "/wiki/sources/essentials-the-science-of-making-breaking-habits-scim6067841582/"
+  - key: "essentials-time-perception-memory-focus-scim9668683035"
+    title: "Essentials: Time Perception, Memory & Focus"
+    url: "/wiki/sources/essentials-time-perception-memory-focus-scim9668683035/"
   - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
     title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"

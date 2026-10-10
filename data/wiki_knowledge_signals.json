@@ -57558,9 +57558,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -57624,6 +57624,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Making & Breaking Habits",
           "url": "/wiki/sources/essentials-the-science-of-making-breaking-habits-scim6067841582/"
+        },
+        {
+          "episode_file": "SCIM9668683035 [SCIM9668683035].md",
+          "key": "essentials-time-perception-memory-focus-scim9668683035",
+          "show": "Huberman Lab",
+          "title": "Essentials: Time Perception, Memory & Focus",
+          "url": "/wiki/sources/essentials-time-perception-memory-focus-scim9668683035/"
         }
       ],
       "updated": "2026-10-10",
@@ -251315,9 +251322,9 @@
       "url": "/wiki/concepts/timeandpaydayloantrap/"
     },
     "TimePerceptionAndNeurochemicalState": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2746317304 [SCIM2746317304].md",
@@ -251332,9 +251339,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "SCIM9668683035 [SCIM9668683035].md",
+          "key": "essentials-time-perception-memory-focus-scim9668683035",
+          "show": "Huberman Lab",
+          "title": "Essentials: Time Perception, Memory & Focus",
+          "url": "/wiki/sources/essentials-time-perception-memory-focus-scim9668683035/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/timeperceptionandneurochemicalstate/"
     },
     "TimelyRetirementRiskAvoidance": {
@@ -256222,9 +256236,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -256288,9 +256302,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
           "url": "/wiki/sources/essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522/"
+        },
+        {
+          "episode_file": "SCIM9668683035 [SCIM9668683035].md",
+          "key": "essentials-time-perception-memory-focus-scim9668683035",
+          "show": "Huberman Lab",
+          "title": "Essentials: Time Perception, Memory & Focus",
+          "url": "/wiki/sources/essentials-time-perception-memory-focus-scim9668683035/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
     "UltrasoundExamPreparationAndSafety": {

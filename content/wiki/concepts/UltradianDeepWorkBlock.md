@@ -12,7 +12,8 @@ sources:
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - how-your-brain-works-changes-scim1534957507
   - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
-last_updated: 2026-10-09
+  - essentials-time-perception-memory-focus-scim9668683035
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,8 @@ The proposed 90-minute blocks are periods for expanding mental capacity, not the
 
 The first [[how-your-brain-works-changes-scim1534957507]] episode supplies the earliest show-level version of this heuristic: waking focus is organized around roughly 90-minute ultradian cycles, and the first five to ten minutes of a learning bout may feel difficult before attention deepens. Later sources add the stronger environmental, recovery, and personal-fit boundaries, so the new source extends chronology rather than proving a fixed cognitive cycle.
 
+The [[essentials-time-perception-memory-focus-scim9668683035|condensed time-perception edit]] repeats the proposal to space demanding bouts by two to four hours and limit them to one or two per day for many people. Because it derives from [[scim2746317304-scim2746317304]], it adds editorial continuity rather than a new evidence line and leaves the flexible-duration judgment unchanged.
+
 ## Key Claims
 - One protected daily block can be reserved for the hardest or most important cognitive task.
 - A 90-minute timer bounds the effort while allowing focus to rise and fall within the session.
@@ -60,12 +63,13 @@ The first [[how-your-brain-works-changes-scim1534957507]] episode supplies the e
 - Capacity-expansion scope - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] distinguishes one or two demanding learning blocks from ordinary work across the rest of the day.
 - Earliest focus-cycle framing - [[how-your-brain-works-changes-scim1534957507]] presents a roughly 90-minute learning cycle with an effortful five- to ten-minute entry period.
 - Condensed workspace provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats elevated target placement, panoramic recovery, and physical interruption control without changing the flexible-duration judgment.
+- Condensed time-perception provenance - [[essentials-time-perception-memory-focus-scim9668683035]] repeats the proposed bout spacing and daily ceiling without independently validating an exact 90-minute depletion cycle.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace releases. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace releases and the full and Essentials time-perception releases. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- No current judgment changed; the workspace Essentials edit adds overlapping environmental provenance while preserving flexible duration and placement.
+- No current judgment changed; the time-perception Essentials edit adds overlapping provenance for bout spacing and daily limits while preserving flexible duration and placement.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.

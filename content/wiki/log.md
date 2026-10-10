@@ -34506,3 +34506,11 @@ Added source `079-quhua-maboyong-taibai-jinxing-youdianfan-tianting-shenxian-jie
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: Time Perception, Memory & Focus
+
+Added source `essentials-time-perception-memory-focus-scim9668683035`; and resynthesized [[TimePerceptionAndNeurochemicalState]], [[UltradianDeepWorkBlock]], and [[DailyCircadianPerformanceRoutine]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: present, prospective, and retrospective timing can diverge; novelty and event density can make enjoyable time feel brief now but expansive in memory; daily light, sleep, activity, and routines shape temporal context; and roughly 90-minute work blocks remain flexible heuristics rather than universal biological requirements. No settled contradiction was adopted. The release substantially condenses [[scim2746317304-scim2746317304]] and is recorded as overlapping provenance rather than independent confirmation; exact neuromodulator, seasonal-hormone, isolation-study, trauma-memory, circadian-risk, task-window, and work-cycle claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], morning-light, habit, and trauma pages were kept closed because the source note and three focused concepts capture the durable additions without duplicating an editorially shortened release across adjacent profiles. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,322 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
