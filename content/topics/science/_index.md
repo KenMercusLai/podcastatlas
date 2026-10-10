@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1548
+topic_total_pages: 1549
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -556,6 +556,9 @@ topic_concepts:
   - key: "CrossModalSpatialRemapping"
     title: "Cross-Modal Spatial Remapping"
     url: "/wiki/concepts/crossmodalspatialremapping/"
+  - key: "CulinaryFlavorTransformation"
+    title: "Culinary Flavor Transformation"
+    url: "/wiki/concepts/culinaryflavortransformation/"
   - key: "CynicismAndHopefulSkepticism"
     title: "Cynicism and Hopeful Skepticism"
     url: "/wiki/concepts/cynicismandhopefulskepticism/"

@@ -26118,6 +26118,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ContextualFlavorPerception": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ContinuousBatching": [
     {
       "key": "technology",
@@ -27468,6 +27475,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CulinaryFlavorTransformation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CulinaryGrammar": [

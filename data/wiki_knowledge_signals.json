@@ -53411,6 +53411,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
+    "ContextualFlavorPerception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2717533873 [SCIM2717533873].md",
+          "key": "the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873",
+          "show": "Huberman Lab",
+          "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
+          "url": "/wiki/sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/contextualflavorperception/"
+    },
     "ContextualLanguageLearning": {
       "episode_count": 1,
       "show_count": 1,
@@ -57502,6 +57518,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/cuitlahuac/"
+    },
+    "CulinaryFlavorTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2717533873 [SCIM2717533873].md",
+          "key": "the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873",
+          "show": "Huberman Lab",
+          "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
+          "url": "/wiki/sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/culinaryflavortransformation/"
     },
     "CulinaryNationalism": {
       "episode_count": 2,
@@ -112907,6 +112939,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/haroldmacmillan/"
+    },
+    "HaroldMcGee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2717533873 [SCIM2717533873].md",
+          "key": "the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873",
+          "show": "Huberman Lab",
+          "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
+          "url": "/wiki/sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/haroldmcgee/"
     },
     "HaroldWilson": {
       "episode_count": 7,
@@ -230616,6 +230664,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/sensorymotorthoughtsimulation/"
+    },
+    "SensoryPreferencePlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2717533873 [SCIM2717533873].md",
+          "key": "the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873",
+          "show": "Huberman Lab",
+          "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
+          "url": "/wiki/sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/sensorypreferenceplasticity/"
     },
     "SensorySubstitution": {
       "episode_count": 1,

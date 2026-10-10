@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Chemistry of Food & Taste | Dr. Harold McGee](sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873.md) — Huberman Lab conversation on culinary chemistry, flavor transformation, trainable preference, and biological and cultural variation in taste.
 - [EP 22: Governing AI with Purpose and Inclusion](sources/ep-22-governing-ai-with-purpose-and-inclusion.md) — Data Science With Sam interview with Padmini Soni and Yuvika Sharma on lifecycle governance, proportional oversight, bias, inclusive design, and Asian women in AI.
 - [Essentials: Understanding & Conquering Depression](sources/scim3842843942-scim3842843942.md) — Condensed Huberman Lab episode on major depression as a multisystem disorder, assessment boundaries, inflammation, treatment evidence, and behavioral-tool feasibility.
 - [How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon](sources/scim8552663956-scim8552663956.md) — Huberman Lab interview on protein hierarchy, body recomposition, fed-versus-fasted outcomes, diet flexibility, seed-oil evidence, supplements, and adherence.
@@ -4495,6 +4496,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [Harold McGee](entities/HaroldMcGee.md) — Food-science writer connecting experimental kitchen practice, chemistry, culinary history, and sensory culture.
 - [Padmini Soni](entities/PadminiSoni.md) — AI governance practitioner and Asian Women Advancing AI co-founder emphasizing early, inclusive, lifecycle governance.
 - [Yuvika Sharma](entities/YuvikaSharma.md) — Data and AI practitioner and community co-founder connecting bias control, risk-tiered oversight, trust, and representation.
 - [Asian Women Advancing AI](entities/AsianWomenAdvancingAI.md) — Professional community for mentorship, learning, visibility, and leadership representation among Asian women in AI.
@@ -17727,6 +17729,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
+- [Culinary Flavor Transformation](concepts/CulinaryFlavorTransformation.md) — Framework for how heat, browning, fermentation, extraction, aging, and oral processing create or release flavor.
+- [Sensory Preference Plasticity](concepts/SensoryPreferencePlasticity.md) — Bounded capacity for exposure, comparison, and attention to alter taste thresholds, discrimination, tolerance, and liking.
+- [Contextual Flavor Perception](concepts/ContextualFlavorPerception.md) — Interaction model joining food chemistry to sensory biology, serving conditions, expectation, memory, and culture.
 - [Lifecycle AI Governance](concepts/LifecycleAIGovernance.md) — Integrating accountability, testing, monitoring, and remediation across AI design, deployment, operation, and retirement.
 - [Risk-Tiered AI Oversight](concepts/RiskTieredAIOversight.md) — Scaling AI scrutiny and safeguards with plausible harm, reversibility, and decision stakes.
 - [Inclusive AI Design](concepts/InclusiveAIDesign.md) — Involving affected people and diverse expertise in requirements, testing, cultural interpretation, and remediation.
