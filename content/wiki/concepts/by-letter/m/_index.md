@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10323
+wiki_total_pages: 10326
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1733,6 +1733,12 @@ wiki_pages:
   - key: "MVPInvestmentFramework"
     title: "MVP Investment Framework / 宏观-估值-政策框架"
     url: "/wiki/concepts/mvpinvestmentframework/"
+  - key: "MyastheniaGravis"
+    title: "Myasthenia Gravis / 重症肌无力"
+    url: "/wiki/concepts/myastheniagravis/"
+  - key: "MyastheniaGravisDoubleTargetManagement"
+    title: "Myasthenia Gravis Double-Target Management / 重症肌无力“双达标”管理"
+    url: "/wiki/concepts/myastheniagravisdoubletargetmanagement/"
   - key: "MyceliumInsulation"
     title: "Mycelium Insulation"
     url: "/wiki/concepts/myceliuminsulation/"

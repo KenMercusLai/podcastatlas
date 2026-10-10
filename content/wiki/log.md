@@ -35281,3 +35281,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力
+
+Added source `vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp`; created [[TanYingNeurologist|谭颖]], [[WeiYuzhenNeurologist|魏宇珍]], [[BeijingTiantanHospital|北京天坛医院]], [[MyastheniaGravis|重症肌无力]], [[MyastheniaGravisDoubleTargetManagement|重症肌无力“双达标”管理]], and [[ClinicalVisitSymptomTracking|就诊症状记录]]; and resynthesized [[BanmaJiangMedicalGuest|斑马酱]], [[PekingUnionMedicalCollegeHospital|北京协和医院]], and [[DoctorPatientCommunication]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: myasthenia gravis is presented as fluctuating autoimmune neuromuscular transmission failure whose treatment must pursue disease control and acceptable safety together across acute control, maintenance, monitoring, and possible de-escalation. Diaries, videos, functional comparisons, organized records, family support, and priority questions can preserve what a short visit misses without shifting diagnosis or escalation responsibility onto patients. No settled contradiction was adopted. The source's “Mask/MuSK” form is standardized to MuSK; the crisis-mortality wording is retained only as an internally imprecise source claim; and antibody, epidemiology, pregnancy, drug, biologic-access, clinical-trial, and individual-outcome claims remain source-scoped public education. Broad [[ZheBingShuoLaiHuaChang]], chronic-disease, quality-of-life, and immune-subtyping pages were kept closed where focused pages captured the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,420 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

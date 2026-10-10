@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力](sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp.md) — 这病说来话长 episode on fluctuating autoimmune weakness, crisis warning signs, efficacy-and-safety “double-target” management, individualized treatment, and structured visit preparation.
 - [Essentials: Understanding & Treating Addiction | Dr. Anna Lembke](sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387.md) — Condensed Huberman Lab interview on dopamine adaptation, pleasure-pain balance, relapse triggers, truth-telling, psychedelic-treatment caution, and intentional social-media boundaries.
 - [066 大话卫斯理之《不死药》：永生是福还是祸？](sources/ltte46cfjwcjc-gwcbkqb7zo7qh1.md) — 纸醉金迷FM以越狱、身份互换和南太平洋药源重述《不死药》，并把永生拆解为持续供给、认知退化、同意、垄断与不平等问题。
 - [The Chemistry of Food & Taste | Dr. Harold McGee](sources/the-chemistry-of-food-taste-dr-harold-mcgee-scim2717533873.md) — Huberman Lab conversation on culinary chemistry, flavor transformation, trainable preference, and biological and cultural variation in taste.
@@ -4500,6 +4501,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 
 ## Entities
+- [谭颖 / Tan Ying](entities/TanYingNeurologist.md) — Peking Union neurologist explaining myasthenia-gravis mechanism, treatment horizons, pregnancy planning, and efficacy-safety management.
+- [魏宇珍 / Wei Yuzhen](entities/WeiYuzhenNeurologist.md) — Beijing Tiantan neuroimmunology physician connecting pretreatment screening, individualized therapy, monitoring, and escalation.
+- [北京天坛医院 / Beijing Tiantan Hospital](entities/BeijingTiantanHospital.md) — Episode-stated affiliation for Wei Yuzhen's myasthenia-gravis public education.
 - [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
 - [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》中既推动追查，也因判断失误成为药物依赖者。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
@@ -17738,6 +17742,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 
 ## Concepts
+- [Myasthenia Gravis / 重症肌无力](concepts/MyastheniaGravis.md) — Autoimmune neuromuscular-junction disorder producing fluctuating functional weakness and potential bulbar or respiratory escalation.
+- [Myasthenia Gravis Double-Target Management / 重症肌无力“双达标”管理](concepts/MyastheniaGravisDoubleTargetManagement.md) — Framework joining disease control to treatment safety, durability, individual fit, and practical feasibility.
+- [Clinical Visit Symptom Tracking / 就诊症状记录](concepts/ClinicalVisitSymptomTracking.md) — Method for compressing fluctuating symptoms, timelines, function, treatment response, and priorities into clinically useful longitudinal evidence.
 - [Immortality Dependency and Scarcity / 永生依赖与稀缺](concepts/ImmortalityDependencyAndScarcity.md) — 当延寿依赖持续且可中断的稀缺供给时，供应控制会转化为退出伤害、垄断和累积不平等。
 - [Culinary Flavor Transformation](concepts/CulinaryFlavorTransformation.md) — Framework for how heat, browning, fermentation, extraction, aging, and oral processing create or release flavor.
 - [Sensory Preference Plasticity](concepts/SensoryPreferencePlasticity.md) — Bounded capacity for exposure, comparison, and attention to alter taste thresholds, discrimination, tolerance, and liking.

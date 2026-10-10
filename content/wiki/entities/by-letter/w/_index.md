@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13171
+wiki_total_pages: 13174
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1856,6 +1856,9 @@ wiki_pages:
   - key: "WeiYuLateHan"
     title: "魏宇 / Wei Yu (late Han)"
     url: "/wiki/entities/weiyulatehan/"
+  - key: "WeiYuzhenNeurologist"
+    title: "魏宇珍 / Wei Yuzhen"
+    url: "/wiki/entities/weiyuzhenneurologist/"
   - key: "WeiAnxiWang"
     title: "魏安釐王 / King Anxi of Wei"
     url: "/wiki/entities/weianxiwang/"

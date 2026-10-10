@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10323
+wiki_total_pages: 10326
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1346,6 +1346,9 @@ wiki_pages:
   - key: "ClinicalTrustBuilding"
     title: "Clinical Trust Building / 临床信任建立"
     url: "/wiki/concepts/clinicaltrustbuilding/"
+  - key: "ClinicalVisitSymptomTracking"
+    title: "Clinical Visit Symptom Tracking / 就诊症状记录"
+    url: "/wiki/concepts/clinicalvisitsymptomtracking/"
   - key: "ClinicianPublicEducationPractice"
     title: "Clinician Public Education Practice / 临床医生科普实践"
     url: "/wiki/concepts/clinicianpubliceducationpractice/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13171
+wiki_total_pages: 13174
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"
+  - key: "BeijingTiantanHospital"
+    title: "北京天坛医院 / Beijing Tiantan Hospital"
+    url: "/wiki/entities/beijingtiantanhospital/"
   - key: "BeijingAndingHospital"
     title: "北京市安定医院 / Beijing Anding Hospital"
     url: "/wiki/entities/beijingandinghospital/"

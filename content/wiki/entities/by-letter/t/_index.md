@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13171
+wiki_total_pages: 13174
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1967,6 +1967,9 @@ wiki_pages:
   - key: "TanSitong"
     title: "谭嗣同 / Tan Sitong"
     url: "/wiki/entities/tansitong/"
+  - key: "TanYingNeurologist"
+    title: "谭颖 / Tan Ying"
+    url: "/wiki/entities/tanyingneurologist/"
   - key: "TanizakiJunichiro"
     title: "谷崎润一郎 / Tanizaki Junichiro"
     url: "/wiki/entities/tanizakijunichiro/"

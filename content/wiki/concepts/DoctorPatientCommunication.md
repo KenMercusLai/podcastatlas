@@ -13,7 +13,8 @@ sources:
   - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
   - vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6
   - vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md
-last_updated: 2026-10-10
+  - vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,8 +30,10 @@ Communication also has to survive the encounter. Written instructions, repetitio
 
 VOL.185 adds an operational layer: patients need to know not only what the clinician thinks, but also what is happening when the clinician is absent or delayed. Advance cancellation, same-team handoff, prescription or test planning, real-time status updates, and a visible coordination route can prevent a scheduling disruption from becoming abandonment or unexplained loss of control.
 
+The myasthenia-gravis episode adds longitudinal compression for fluctuating disease. Diaries, short videos, personal best-and-worst comparisons, functional scores, medication timelines, prior records, and a small number of priority questions can show what a brief clinic snapshot misses. These tools improve the evidence available to both sides without making patients responsible for diagnosis or making excessive self-measurement inherently useful.
+
 ## Key Claims
-- Useful communication identifies the main symptom, timing, change, relevant history, treatment response, goals, and constraints.
+- Useful communication identifies the main symptom, timing, functional change, relevant history, treatment response, goals, and constraints, using longitudinal records when fluctuation matters.
 - Patients should be able to ask what is suspected, what remains unexcluded, what requires return, and how pending information will reach them.
 - Clinicians should combine uncertainty and risk disclosure with a reasoned recommendation rather than treating information transfer as the whole decision.
 - Written, repeated, family-supported, and system-routed communication can make plans more durable across handoffs.
@@ -45,14 +48,17 @@ VOL.185 adds an operational layer: patients need to know not only what the clini
 - Remote and public boundaries - [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] and [[vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi]] connect missing examination context with cautious routing, second opinions, record preservation, and preference-sensitive plans.
 - Emergency communication - [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c]] combines risk disclosure with a professional recommendation, while [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6]] adds paced bad news, formal reports, direct critical-value calls, and explanations of capacity constraints.
 - Absence and delay - [[vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md|VOL.185]] adds advance notice, same-team handoff, online follow-up, direct calls, and triage or outpatient-office escalation when a clinician is unavailable.
+- Fluctuating symptoms and visit preparation - [[vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp|VOL.169]] adds diaries, videos, comparative function, organized records, family support, and priority questions while retaining urgent-escalation and clinician-interpretation boundaries.
 
 ## Counterevidence & Qualifications
-Good communication cannot eliminate scarce appointments, beds, imaging slots, clinician overload, emergencies, disease uncertainty, traumatic memory, or handoff failure. It should not shift all safety responsibility onto patients and families. Pacing difficult information should improve comprehension, not conceal material facts; a professional recommendation is not coercion or a guarantee. VOL.185 reflects one clinician and hospital context, so its notification tools and escalation route are examples rather than universal policy.
+Good communication cannot eliminate scarce appointments, beds, imaging slots, clinician overload, emergencies, disease uncertainty, traumatic memory, or handoff failure. It should not shift all safety responsibility onto patients and families. Pacing difficult information should improve comprehension, not conceal material facts; a professional recommendation is not coercion or a guarantee. VOL.185 reflects one clinician and hospital context, so its notification tools and escalation route are examples rather than universal policy. VOL.169's MG-ADL, video, and diary examples are disease-specific tools, not universal instruments, and excessive tracking can increase anxiety or false precision.
 
 ## What Changed
 - Added clinician absence and delay as communication problems with distinct planned and urgent pathways.
 - Added same-team handoff, status displays, and outpatient coordination as institutional communication tools.
 - Clarified that explanation of competing emergency duties does not by itself justify every delay.
+- Added longitudinal symptom evidence for conditions that fluctuate outside the clinic.
+- Clarified that structured tracking supports but does not transfer diagnostic responsibility.
 
 ## Related Concepts
 - [[OutpatientCareContinuityAndHandoff]] - operational continuation when a familiar clinician is unavailable.
@@ -62,3 +68,4 @@ Good communication cannot eliminate scarce appointments, beds, imaging slots, cl
 - [[OnlineMedicalConsultation]] - remote channel whose usefulness depends on scope and escalation boundaries.
 - [[SecondOpinionStrategy]] - qualified route for another interpretation under uncertainty.
 - [[NarrativeMedicine]] - lived-experience layer that ordinary clinical metrics may not preserve.
+- [[ClinicalVisitSymptomTracking]] - diary, video, timeline, function, and priority-question method for short visits.

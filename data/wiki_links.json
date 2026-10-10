@@ -13067,6 +13067,10 @@
     "title": "北京东方新天地 / Beijing Oriental Plaza",
     "url": "/wiki/entities/beijingorientalplaza/"
   },
+  "BeijingTiantanHospital": {
+    "title": "北京天坛医院 / Beijing Tiantan Hospital",
+    "url": "/wiki/entities/beijingtiantanhospital/"
+  },
   "Beike": {
     "title": "Beike / 贝壳",
     "url": "/wiki/entities/beike/"
@@ -20334,6 +20338,10 @@
   "ClinicalTrustBuilding": {
     "title": "Clinical Trust Building / 临床信任建立",
     "url": "/wiki/concepts/clinicaltrustbuilding/"
+  },
+  "ClinicalVisitSymptomTracking": {
+    "title": "Clinical Visit Symptom Tracking / 就诊症状记录",
+    "url": "/wiki/concepts/clinicalvisitsymptomtracking/"
   },
   "ClinicianPublicEducationPractice": {
     "title": "Clinician Public Education Practice / 临床医生科普实践",
@@ -60651,6 +60659,14 @@
     "title": "Myanmar Military Junta",
     "url": "/wiki/entities/myanmarmilitaryjunta/"
   },
+  "MyastheniaGravis": {
+    "title": "Myasthenia Gravis / 重症肌无力",
+    "url": "/wiki/concepts/myastheniagravis/"
+  },
+  "MyastheniaGravisDoubleTargetManagement": {
+    "title": "Myasthenia Gravis Double-Target Management / 重症肌无力“双达标”管理",
+    "url": "/wiki/concepts/myastheniagravisdoubletargetmanagement/"
+  },
   "MyceliumInsulation": {
     "title": "Mycelium Insulation",
     "url": "/wiki/concepts/myceliuminsulation/"
@@ -83339,6 +83355,10 @@
     "title": "谭嗣同 / Tan Sitong",
     "url": "/wiki/entities/tansitong/"
   },
+  "TanYingNeurologist": {
+    "title": "谭颖 / Tan Ying",
+    "url": "/wiki/entities/tanyingneurologist/"
+  },
   "TanZi": {
     "title": "檀子 / Tan Zi",
     "url": "/wiki/entities/tanzi/"
@@ -90842,6 +90862,10 @@
   "WeiYuanQingThinker": {
     "title": "魏源 / Wei Yuan (Qing thinker)",
     "url": "/wiki/entities/weiyuanqingthinker/"
+  },
+  "WeiYuzhenNeurologist": {
+    "title": "魏宇珍 / Wei Yuzhen",
+    "url": "/wiki/entities/weiyuzhenneurologist/"
   },
   "WeiZexiIncident": {
     "title": "魏则西事件",
@@ -104910,6 +104934,10 @@
   "vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1": {
     "title": "Vol. 169 高考只是个开始，Don’t Waste Your Life",
     "url": "/wiki/sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1/"
+  },
+  "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp": {
+    "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+    "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
   },
   "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx": {
     "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",

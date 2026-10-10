@@ -24323,9 +24323,9 @@
       "url": "/wiki/entities/bankofengland/"
     },
     "BanmaJiangMedicalGuest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrKQHLcwHXomw_aegpD_RzCO8vIO [lrKQHLcwHXomw_aegpD_RzCO8vIO].md",
@@ -24333,9 +24333,16 @@
           "show": "这病说来话长",
           "title": "VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱",
           "url": "/wiki/sources/vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio/"
+        },
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/banmajiangmedicalguest/"
     },
     "BanquetSeatingStatusPolitics": {
@@ -26829,6 +26836,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/beijingchildrenshospital/"
+    },
+    "BeijingTiantanHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/beijingtiantanhospital/"
     },
     "Belfast": {
       "episode_count": 4,
@@ -47673,6 +47696,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/clinicaltrustbuilding/"
     },
+    "ClinicalVisitSymptomTracking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/clinicalvisitsymptomtracking/"
+    },
     "ClinicianPublicEducationPractice": {
       "episode_count": 2,
       "show_count": 1,
@@ -67984,9 +68023,9 @@
       "url": "/wiki/concepts/donotresuscitatedecision/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -68057,9 +68096,16 @@
           "show": "这病说来话长",
           "title": "VOL.185突然挂不上号？脊柱外科麻昊宁告诉你，大夫都去哪儿了",
           "url": "/wiki/sources/vol-185-turan-guabushanghao-jizhuwai-ke-mahaoning-gaosu-ni-daifu-dou-qunarle-lvpdt_miz6qh-jkl6wrb0xw_w1md/"
+        },
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DoctoralStudentIsolationMentalHealth": {
@@ -182017,6 +182063,38 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/myanmar/"
     },
+    "MyastheniaGravis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/myastheniagravis/"
+    },
+    "MyastheniaGravisDoubleTargetManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/myastheniagravisdoubletargetmanagement/"
+    },
     "Mycenae": {
       "episode_count": 1,
       "show_count": 1,
@@ -198128,9 +198206,9 @@
       "url": "/wiki/entities/peisistratus/"
     },
     "PekingUnionMedicalCollegeHospital": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
@@ -198145,9 +198223,16 @@
           "show": "这病说来话长",
           "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
           "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
+        },
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/pekingunionmedicalcollegehospital/"
     },
     "PekingUniversityThirdHospital": {
@@ -250556,6 +250641,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
     },
+    "TanYingNeurologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tanyingneurologist/"
+    },
     "TangGaozong": {
       "episode_count": 1,
       "show_count": 1,
@@ -272668,6 +272769,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/weiyuanqingthinker/"
+    },
+    "WeiYuzhenNeurologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqSECrz-ED4ZnR42nYNskUXWt7Sp [lqSECrz-ED4ZnR42nYNskUXWt7Sp].md",
+          "key": "vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp",
+          "show": "这病说来话长",
+          "title": "VOL.169身体24小时都在耗电！这病让你连拿筷子都成负担 ft.大物是也·斑马酱&协和/天坛专家｜重症肌无力",
+          "url": "/wiki/sources/vol-169-shenti-24-xiaoshi-dou-zai-haodian-zhe-bing-rang-ni-lian-na-kuaizi-dou-cheng-fudan-ft-dawushiye-banmajiang-xiehe-tiantan-zhuanjia-zhongzheng-jiwuli-lqsecrz-ed4znr42nynskuxwt7sp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/weiyuzhenneurologist/"
     },
     "WeiZhangPrincessWesternHan": {
       "episode_count": 1,
