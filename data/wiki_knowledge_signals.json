@@ -21423,9 +21423,9 @@
       "url": "/wiki/entities/austria/"
     },
     "AustriaHungary": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -21489,9 +21489,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
           "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+        },
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/austriahungary/"
     },
     "AustrianFirstVictimNarrative": {
@@ -71907,6 +71914,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/easterrising/"
     },
+    "EasternFrontFirstWorldWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/easternfrontfirstworldwar/"
+    },
     "EatingDisorderMultisystemModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -89925,9 +89948,9 @@
       "url": "/wiki/entities/firsttriumvirate/"
     },
     "FirstWorldWar": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -90012,9 +90035,16 @@
           "show": "The Rest Is History",
           "title": "9. Causes of the First World War",
           "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
+        },
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FirstWorldWarGasWarfare": {
@@ -93593,9 +93623,9 @@
       "url": "/wiki/entities/frantzfanon/"
     },
     "FranzConradVonHotzendorf": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3669608632 [GLT3669608632].md",
@@ -93610,9 +93640,16 @@
           "show": "The Rest Is History",
           "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
           "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        },
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/franzconradvonhotzendorf/"
     },
     "FranzFerdinand": {
@@ -97300,6 +97337,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/galerius/"
+    },
+    "Galicia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/galicia/"
     },
     "GalileanJudeanCulturalBoundary": {
       "episode_count": 2,
@@ -206975,6 +207028,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/prussia/"
+    },
+    "Przemysl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3258664296 [GLT3258664296].md",
+          "key": "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296",
+          "show": "The Rest Is History",
+          "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+          "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/przemysl/"
     },
     "PseudoConsensusTeamFailure": {
       "episode_count": 1,

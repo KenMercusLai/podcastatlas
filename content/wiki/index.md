@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [599. The First World War: Downfall of the Habsburgs (Part 6)](sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296.md) — The Rest Is History on Przemyśl, Habsburg military collapse in Galicia, the Carpathian relief disaster, Russian occupation, Russification, pogroms, deportation, and German dependence.
 - [600. Chatham High Street](sources/600-chatham-high-street-glt2782191075.md) — The Rest Is History walk through Rochester and Chatham, connecting Medway geography, Roman roads, cathedral and castle power, naval industry, empire, migration, and dockyard closure.
 - [How to Expand Your Consciousness | Dr. Christof Koch](sources/scim8616450810-scim8616450810.md) — Huberman Lab interview on consciousness versus behavior and selfhood, perturbational complexity, covert consciousness, perception boxes, and source-scoped psychedelic metaphysics.
 - [VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？](sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n.md) — 这病说来话长以直肠感觉和括约肌协调解释屁便辨别，并讨论排气、便形便色、腹泻便秘及益生菌使用边界。
@@ -4424,6 +4425,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [Przemyśl](entities/Przemysl.md) — Galician fortress city whose two sieges, surrender, occupation, Jewish deportation, and German-led recapture exposed Habsburg fragility.
+- [Galicia](entities/Galicia.md) — Multiethnic Habsburg borderland where battlefield collapse, Russian occupation, Russification, pogroms, and forced population movement converged.
 - [Rochester](entities/Rochester.md) — Medway crossing town whose Roman route, cathedral, castle, Restoration associations, and Dickensian memory anchor the older side of the corridor.
 - [Chatham](entities/Chatham.md) — Estuarine town shaped by royal dockyard production, maritime society, migration, and post-industrial heritage.
 - [Rochester Cathedral](entities/RochesterCathedral.md) — Anglo-Saxon cathedral foundation and Norman reconstruction anchoring Rochester's religious history.
@@ -17560,6 +17563,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Eastern Front of the First World War](concepts/EasternFrontFirstWorldWar.md) — Eastern theater synthesis joining logistics, fortress warfare, imperial cohesion, occupation, population violence, captivity, and German dependence.
 - [Urban Historical Corridor](concepts/UrbanHistoricalCorridor.md) — Route-based framework for reading successive systems of movement, belief, defense, production, migration, and memory in one landscape.
 - [Covert Consciousness](concepts/CovertConsciousness.md) — Retained awareness or intentional response hidden by an inability to move, speak, or respond behaviorally.
 - [Perception Box](concepts/PerceptionBox.md) — Model of experienced reality as constrained by priors, memory, culture, embodiment, receptors, and bodily state.

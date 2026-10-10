@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2691
+topic_total_pages: 2692
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6618,6 +6618,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296"
+    title: "599. The First World War: Downfall of the Habsburgs (Part 6)"
+    url: "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
   - key: "6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd"
     title: "6 喝得越少越文明？东西方的酒 & 酒文化"
     url: "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"

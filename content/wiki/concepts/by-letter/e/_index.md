@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10242
+wiki_total_pages: 10243
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"
+  - key: "EasternFrontFirstWorldWar"
+    title: "Eastern Front of the First World War"
+    url: "/wiki/concepts/easternfrontfirstworldwar/"
   - key: "EasternWesternZhouSplit"
     title: "Eastern-Western Zhou Split / 东周西周分裂"
     url: "/wiki/concepts/easternwesternzhousplit/"

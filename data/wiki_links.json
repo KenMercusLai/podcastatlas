@@ -3663,6 +3663,10 @@
     "title": "59. The World Cup of Gods - Part 2",
     "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
   },
+  "599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296": {
+    "title": "599. The First World War: Downfall of the Habsburgs (Part 6)",
+    "url": "/wiki/sources/599-the-first-world-war-downfall-of-the-habsburgs-part-6-glt3258664296/"
+  },
   "5MeODMT": {
     "title": "5-MeO-DMT",
     "url": "/wiki/entities/5meodmt/"
@@ -27923,6 +27927,10 @@
     "title": "Easter Rising",
     "url": "/wiki/entities/easterrising/"
   },
+  "EasternFrontFirstWorldWar": {
+    "title": "Eastern Front of the First World War",
+    "url": "/wiki/concepts/easternfrontfirstworldwar/"
+  },
   "EasternWesternZhouSplit": {
     "title": "Eastern-Western Zhou Split / 东周西周分裂",
     "url": "/wiki/concepts/easternwesternzhousplit/"
@@ -35018,6 +35026,10 @@
   "Galerius": {
     "title": "Galerius",
     "url": "/wiki/entities/galerius/"
+  },
+  "Galicia": {
+    "title": "Galicia",
+    "url": "/wiki/entities/galicia/"
   },
   "GalileanJudeanCulturalBoundary": {
     "title": "Galilean-Judean Cultural Boundary",
@@ -69122,6 +69134,10 @@
   "Prussia": {
     "title": "Prussia",
     "url": "/wiki/entities/prussia/"
+  },
+  "Przemysl": {
+    "title": "Przemyśl",
+    "url": "/wiki/entities/przemysl/"
   },
   "PseudoConsensusTeamFailure": {
     "title": "Pseudo-Consensus Team Failure / 团队伪共识",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13072
+wiki_total_pages: 13074
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "Prussia"
     title: "Prussia"
     url: "/wiki/entities/prussia/"
+  - key: "Przemysl"
+    title: "Przemyśl"
+    url: "/wiki/entities/przemysl/"
   - key: "PsilocybinMushrooms"
     title: "Psilocybin Mushrooms"
     url: "/wiki/entities/psilocybinmushrooms/"

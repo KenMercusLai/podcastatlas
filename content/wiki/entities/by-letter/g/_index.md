@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13072
+wiki_total_pages: 13074
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "Galerius"
     title: "Galerius"
     url: "/wiki/entities/galerius/"
+  - key: "Galicia"
+    title: "Galicia"
+    url: "/wiki/entities/galicia/"
   - key: "Galileo"
     title: "Galileo"
     url: "/wiki/entities/galileo/"
