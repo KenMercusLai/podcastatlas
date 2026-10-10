@@ -6,8 +6,9 @@ sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-10
 ---
 
 # Naval Breakthrough Tactics
@@ -18,7 +19,7 @@ Naval breakthrough tactics accept concentrated danger while closing with an enem
 
 ## Current Synthesis
 
-At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a designed command system and a battlefield gamble. Before sailing, [[HoratioNelson]] explained that two columns would cut the allied line in two places and force a “pell-mell” action; captains then had to carry the intent forward without expecting detailed control. The approach drew on an older [[RoyalNavy]] culture: Jervis paired discipline with captain-level autonomy, Hood emphasized offensive strategic reach, and institutional investment in gunnery, maintenance, and crew readiness made aggressive close action plausible. The columns were vulnerable during their approach, but penetration converted exposure into raking fire and confused ship-to-ship fighting where British preparation and crew confidence were expected to dominate. [[CuthbertCollingwood]]'s early isolated engagement shows that success depended on initiative and rapid exploitation of an already strained formation, not geometry alone.
+At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a designed command system and a battlefield gamble. Before sailing, [[HoratioNelson]] explained that two columns would cut the allied line in two places and force a “pell-mell” action; captains then had to carry the intent forward without expecting detailed control. The approach drew on an older [[RoyalNavy]] culture: Jervis paired discipline with captain-level autonomy, Hood emphasized offensive strategic reach, and institutional investment in gunnery, maintenance, and crew readiness made aggressive close action plausible. The columns were vulnerable during their slow approach, although the western swell reportedly aided British advance and disrupted allied aim. Penetration then converted exposure into raking fire and confused ship-to-ship fighting: Royal Sovereign's isolated first contact and Victory's broadside into Bucentaure show the destructive payoff, while Redoutable's boarding pressure and Nelson's mortal wound show that the breakthrough did not remove danger. Nelson's pre-contact anchoring signal also shows that tactical design included an anticipated post-battle weather contingency that was not ultimately executed.
 
 ## Key Claims
 
@@ -39,6 +40,7 @@ At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a design
 ### Accepted exposure and positional payoff
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] describes the slow British approach under fire, followed by Royal Sovereign and Victory penetrating and raking the allied line.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] adds the western swell, final signals, Bucentaure broadside, Redoutable counterpressure, Nelson's wound, and unexecuted anchoring contingency.
 
 ### Delegated execution, capability, and cost
 
@@ -47,13 +49,14 @@ At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a design
 
 ## Counterevidence & Qualifications
 
-One victory does not establish a universally superior method. The British-centered sources may understate weather, coalition constraints, allied skill, chance, coercive discipline, and survivorship in judging the plan. Nelson's confidence and captains' reported enthusiasm do not remove the approach's genuine risk, while numerical, casualty, firing-rate, and technical comparisons remain source-scoped.
+One victory does not establish a universally superior method. The British-centered sources may understate coalition constraints, allied skill, chance, coercive discipline, and survivorship in judging the plan; the newest retelling overlaps the earlier battle narrative. Nelson's confidence and captains' reported enthusiasm do not remove the approach's genuine risk, while weather effects, numerical, casualty, firing-rate, timing, and technical comparisons remain source-scoped. The post-battle storm also shows that tactical victory did not eliminate recovery and command risk.
 
 ## What Changed
 
 - Added the pre-battle design and communication that made delegated close action possible.
 - Connected tactical geometry to psychological shaping before battle and institutional capability during it.
 - Extended delegated aggression backward to Hood, Jervis, professional training, and the Navy's accumulated gunnery system.
+- Added weather, final signaling, ship-level payoff and counterpressure, and the missed anchoring contingency to the tactical model.
 
 ## Related Concepts
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [613. Nelson: Glory at Trafalgar (Part 6)](sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251.md) — The Rest Is History on Trafalgar's two-column attack, Nelson's death, Royal Navy state capacity, storm aftermath, state funeral, and monumental memory.
 - [Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460.md) — Condensed Huberman Lab interview on epigenetic aging, fasting and nutrient signaling, NAD and NMN, biological-age markers, and animal-to-human evidence boundaries.
 - [614. Walt Disney: The Great American Storyteller](sources/614-walt-disney-the-great-american-storyteller-glt5465018421.md) — The Rest Is History on Disney's animation breakthroughs, ownership discipline, merchandising, collective studio craft, labor conflict, wartime debt, television recovery, and cultural power.
 - [Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum](sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056.md) — Huberman Lab interview on drug repurposing, Castleman disease, patient-led research, Every Cure's AI prioritization, and the boundary between promising matches and validated care.

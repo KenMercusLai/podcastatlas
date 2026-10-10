@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2681
+topic_total_pages: 2682
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6624,6 +6624,9 @@ topic_sources:
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"
+  - key: "613-nelson-glory-at-trafalgar-part-6-glt7193792251"
+    title: "613. Nelson: Glory at Trafalgar (Part 6)"
+    url: "/wiki/sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251/"
   - key: "616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740"
     title: "616. Elizabeth I: The Fall of the Axe (Part 1)"
     url: "/wiki/sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740/"

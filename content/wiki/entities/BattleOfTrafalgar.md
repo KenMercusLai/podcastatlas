@@ -6,8 +6,9 @@ sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-10
 ---
 
 # Battle of Trafalgar
@@ -18,7 +19,7 @@ The Battle of Trafalgar was the 21 October 1805 naval victory in which a British
 
 ## Current Profile
 
-The battle emerged from a failed [[TrafalgarCampaign|Atlantic campaign]] to gain temporary Channel control and from a much longer contest between French continental power and British maritime capacity. After the combined fleet left Cadiz under pressure from French orders, supply, disease, replacement fears, honor, and Nelson's concealed strength, Nelson used a plan already shared with his captains: two British columns would accept fire while closing, penetrate the allied line, and create a close “pell-mell” action where British gunnery and local initiative were expected to dominate. Villeneuve's reversal further disordered the allied formation. The result destroyed or captured much of the opposing fleet, but victory coincided with Nelson's death, mass casualties, prisoner rescue, and a storm that sank many prizes. Its meaning therefore joins tactical concentration, long-built [[RoyalNavy]] capacity, coalition failure, human catastrophe, and heroic national memory; its immediate decisiveness within the Napoleonic Wars remains debated.
+The battle emerged from a failed [[TrafalgarCampaign|Atlantic campaign]] to gain temporary Channel control and from a much longer contest between French continental power and British maritime capacity. After the combined fleet left Cadiz under pressure from French orders, supply, disease, replacement fears, honor, and Nelson's concealed strength, Nelson used a plan already shared with his captains: two British columns would accept fire while closing, penetrate the allied line, and create a close “pell-mell” action where British gunnery and local initiative were expected to dominate. The slow approach, helpful western swell, “England expects” signal, Royal Sovereign's first penetration, Victory's raking broadside into Bucentaure, and the close struggle with Redoutable show both the plan's payoff and its exposure. Villeneuve's reversal further disordered the allied formation. The result destroyed or captured much of the opposing fleet, but victory coincided with Nelson's death, mass casualties, prisoner rescue, and a storm in which Collingwood did not execute Nelson's anchoring instruction and many prizes were lost. Its meaning therefore joins tactical concentration, long-built [[RoyalNavy]] capacity, coalition failure, human catastrophe, and heroic national memory; its immediate decisiveness within the Napoleonic Wars remains debated.
 
 ## Key Characteristics
 
@@ -39,14 +40,16 @@ The battle emerged from a failed [[TrafalgarCampaign|Atlantic campaign]] to gain
 ### Tactical execution
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] describes the slow exposed approach, Villeneuve's turn, line penetration, raking fire, and close engagements around Royal Sovereign and Victory.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] adds the swell, signals, Bucentaure broadside, Redoutable boarding pressure, Nelson's wound, and anchoring order to the same tactical sequence.
 
 ### Cost, aftermath, and meaning
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] records severe casualties, captured ships and prisoners, the storm, rescue efforts, Nelson's funeral, and the link from sea control to blockade and commerce.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] connects fleet grief, prize losses after the unexecuted anchoring instruction, the state funeral, and Nelson's monumental afterlife.
 
 ## Qualifications
 
-All three sources are British-centered conversational reconstructions. French and Spanish courage and constraints are acknowledged but receive less sustained treatment. Exact fleet, manpower, casualty, prisoner, firing-rate, and timing figures; reported dialogue; the feasibility of Napoleon's invasion design; and the scale of Trafalgar's independent strategic effect require corroboration.
+All four sources are British-centered conversational reconstructions, and the 2025 episode substantially overlaps the 2022 victory episode. French and Spanish courage and constraints are acknowledged but receive less sustained treatment. Exact fleet, gun, manpower, casualty, prisoner, capture, firing-rate, visitor, and timing figures; reported dialogue and last words; the identity of Nelson's shooter; the feasibility of Napoleon's invasion design; and the scale of Trafalgar's independent strategic effect require corroboration.
 
 ## What Changed
 
@@ -54,6 +57,7 @@ All three sources are British-centered conversational reconstructions. French an
 - Connected the “Nelson touch” as explained before battle to the exposed approach and close-action outcome.
 - Recast allied disorder as a product of campaign and coalition conditions as well as Villeneuve's final maneuver.
 - Extended the explanation backward to the fiscal, administrative, logistical, industrial, and command systems that made British tactical performance possible.
+- Added the weather, signals, ship-level action, anchoring dispute, funeral, and monumental afterlife while marking the new episode as overlapping provenance.
 
 ## Relationships
 

@@ -5,8 +5,9 @@ tags: [institution, britain, naval-warfare, state-capacity]
 sources:
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
   - 43-1940-glt2702093158
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-10
 ---
 
 # Royal Navy
@@ -20,6 +21,8 @@ The Royal Navy is presented as Britain's principal maritime fighting institution
 The Trafalgar background source rejects the idea that British naval dominance was natural or ancient. Competition with the Dutch and French, Cromwellian spending, Restoration administration, officer examinations, Samuel Pepys's bureaucracy, parliamentary finance, public credit, nationwide recruitment, provisioning, sailor health, dockyard mechanization, and incremental gunnery improvement accumulated into reliable fleet readiness. By 1805 the Navy could control approaches, sustain blockade, operate across oceans, and support a close-action doctrine that trusted captains to execute a shared objective. [[HoratioNelson]] embodied this system, but did not create it alone.
 
 The 1940 source shows the long strategic afterlife of that capacity. After France fell and the army escaped through Dunkirk, Britain still possessed the world's largest navy, a merchant fleet, imperial connections, and global supply access. The Navy made German air superiority insufficient for a successful [[OperationSeaLion|cross-Channel invasion]] because improvised landing forces would still have to cross, land, reinforce, and resupply under naval attack. The episode also treats the fleet as a bargaining asset Britain risked losing through a negotiated settlement.
+
+The 2025 Trafalgar retelling makes the institutional account concrete at battle scale: fit and practiced crews, gun teams, Marines, signal officers, surgeons, maintenance routines, shipyards, workshops, factories, finance, and government converged on 21 October 1805. Nelson's visible leadership mattered inside that system, while the fleet's grief, the state funeral, monuments, imperial expansion, and later anti-slave-trade activity show how operational power became national memory and contested public purpose.
 
 ## Key Characteristics
 
@@ -44,6 +47,7 @@ The 1940 source shows the long strategic afterlife of that capacity. After Franc
 ### Strategy and command culture
 
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] links Channel control, Mediterranean reach, Hood's offensive strategy, Jervis's discipline and delegated captaincy, aggressive incentives, and Nelson's annihilation-seeking command.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] connects crew preparation, signals, gunnery, shipboard medicine, industrial labor, and delegated action to Trafalgar's battlefield result and commemorative afterlife.
 
 ### 1940 invasion constraint
 
@@ -52,12 +56,13 @@ The 1940 source shows the long strategic afterlife of that capacity. After Franc
 
 ## Qualifications
 
-This profile derives from two British-centered popular-history episodes separated by more than a century. Comparative claims about French abstraction, British firing speed, technological leadership, state spending, public health, industrialization, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, imperial commerce, extreme shipboard violence, or the politics of whose liberty naval power protected.
+This profile derives from three British-centered popular-history episodes, two of which narrate the same Trafalgar system at different scales. Comparative claims about French abstraction, British firing speed, fitness, technological leadership, state spending, public health, industrialization, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, imperial commerce, extreme shipboard violence, or the politics of whose liberty naval power protected. Later action against the slave trade does not erase earlier complicity with empire and slave-derived wealth.
 
 ## What Changed
 
 - Extended the cumulative-institution account from Trafalgar to Britain's retained strategic capacity after Dunkirk.
 - Added the distinction between German air superiority and the joint naval-logistical capacity needed to invade.
+- Made Trafalgar's national mobilization, shipboard practice, mourning, and contested imperial afterlife explicit manifestations of the institution.
 
 ## Relationships
 

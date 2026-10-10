@@ -4,7 +4,8 @@ type: entity
 tags: [place, london, statues, public-memory, civic-space]
 sources:
   - 76-statues-trafalgar-square-glt4670878913
-last_updated: 2026-10-03
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,12 +19,12 @@ Trafalgar Square is a London civic space whose royal statues, Nelson's Column, m
 
 [[76-statues-trafalgar-square-glt4670878913]] presents the square less as a coherent hall of heroes than as an accumulated public argument. Charles I and James II preserve Restoration and classical-monarchical claims; [[HoratioNelson|Nelson's]] column turns naval victory into monumental national memory; [[GeorgeIV]], Napier, and Havelock expose the uneven moral and political criteria behind Victorian commemoration; and the fourth plinth keeps replacement and new creation visible.
 
-The square's meaning also depends on later audiences. Some passersby treat old statues as unnoticed urban furniture, while imperial subjects and their descendants may read military figures through conquest and inherited harm. [[GeorgeWashington]] adds a diplomatic gift whose reconciliation message coexists with slavery and rebellion against Britain. The resulting landscape supports neither automatic retention nor automatic removal: placement, use, omission, reinterpretation, and plausible replacements all matter.
+The 2025 Nelson episode adds an architectural and biographical layer: the square and column date to the 1840s, the column is connected to a Roman model associated with Mars Ultor, and its four battle reliefs turn Nelson's career into a monumental sequence whose Trafalgar scene includes a Black sailor, probably George Ryan. The square's meaning also depends on later audiences. Some passersby treat old statues as unnoticed urban furniture, while imperial subjects and their descendants may read military figures through conquest and inherited harm. [[GeorgeWashington]] adds a diplomatic gift whose reconciliation message coexists with slavery and rebellion against Britain. The resulting landscape supports neither automatic retention nor automatic removal: placement, use, omission, reinterpretation, and plausible replacements all matter.
 
 ## Key Characteristics
 
 - Layered civic landscape rather than a monument collection built from one plan or moral standard.
-- National-military center organized symbolically around Trafalgar and [[HoratioNelson|Nelson]].
+- National-military center whose classical column and battle reliefs organize the square symbolically around Trafalgar and [[HoratioNelson|Nelson]].
 - Royal commemorative site preserving Charles I, James II, and [[GeorgeIV]] despite very different reigns and reputations.
 - Imperial memory site where Napier and Havelock can be read through both Victorian honor and later post-imperial criticism.
 - Adaptive display space whose removals and fourth-plinth commissions make change part of its history.
@@ -43,15 +44,17 @@ The square's meaning also depends on later audiences. Some passersby treat old s
 ### International and moral ambiguity
 
 - [[76-statues-trafalgar-square-glt4670878913]] presents Washington's 1921 gift as Anglo-American reconciliation complicated by slaveholding, while nearby [[EdithCavell|Cavell]] memorial language holds patriotism and moral restraint together.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] connects the 1840s square and column, Roman design precedent, battle reliefs, Black-sailor representation, empire, and later anti-slave-trade claims to Nelson's national afterlife.
 
 ## Qualifications
 
-The source is an informal walking tour rather than a comprehensive architectural, planning, or policy history of the square. Claims about dates, original motives, public attention, artistic quality, inscriptions, disputed documents, and community response remain episode-attributed. The page does not assume that contextualization, addition, relocation, retention, or removal is the correct answer for every monument.
+Both sources are British popular-history discussions rather than comprehensive architectural, planning, or policy histories of the square. Claims about dates, cleared buildings, Roman proportions, relief identities, Hitler's intentions, original motives, public attention, artistic quality, inscriptions, disputed documents, and community response remain episode-attributed. The page does not assume that contextualization, addition, relocation, retention, or removal is the correct answer for every monument.
 
 ## What Changed
 
 - Created the square as a layered civic landscape joining royal, naval, imperial, diplomatic, and adaptive commemoration.
 - Identified public indifference and the fourth plinth as distinct mechanisms through which intended meaning can fade or be revised.
+- Added the 1840s design chronology, classical model, battle-relief sequence, and Black-sailor representation to the square's Nelson-centered memory.
 
 ## Relationships
 

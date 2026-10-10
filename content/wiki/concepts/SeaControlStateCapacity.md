@@ -6,8 +6,9 @@ sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-10
 ---
 
 # Sea Control as State Capacity
@@ -18,7 +19,7 @@ Sea control as state capacity is the ability to convert finance, administration,
 
 ## Current Synthesis
 
-The Trafalgar sources resist explaining British maritime power through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but the [[RoyalNavy]] rested on centuries of state formation: public credit, taxation, bureaucracy, professional training, examinations, dockyards, machine tools, provisioning, health, maintenance, practiced gunnery, delegated command, and a worldwide network made both the [[TrafalgarCampaign|campaign]] and [[NavalBreakthroughTactics|risk-heavy battle plan]] possible. The same capacity controlled approaches, protected commerce, pursued fleets across the Atlantic, operated in the Mediterranean, and made temporary Channel control difficult. The contrast with French fiscal strain, discontinuity, dockyard weakness, and revolutionary damage, plus Spanish manpower and disease problems, shows state capacity comparatively: ships and admirals operate inside institutions that determine readiness, endurance, and confidence.
+The Trafalgar sources resist explaining British maritime power through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but the [[RoyalNavy]] rested on centuries of state formation: public credit, taxation, bureaucracy, professional training, examinations, dockyards, machine tools, provisioning, health, maintenance, practiced gunnery, delegated command, and a worldwide network made both the [[TrafalgarCampaign|campaign]] and [[NavalBreakthroughTactics|risk-heavy battle plan]] possible. The later retelling brings this system onto the deck: signal work, Marines, surgeons, disciplined gun crews, ship preparation, workshops, factories, sailmakers, clerks, chemists, carpenters, and blacksmiths all appear behind the fleet's performance. The same capacity controlled approaches, protected commerce, pursued fleets across the Atlantic, operated in the Mediterranean, and made temporary Channel control difficult. The contrast with French fiscal strain, discontinuity, dockyard weakness, and revolutionary damage, plus Spanish manpower and disease problems, shows state capacity comparatively: ships and admirals operate inside institutions that determine readiness, endurance, and confidence.
 
 ## Key Claims
 
@@ -39,6 +40,7 @@ The Trafalgar sources resist explaining British maritime power through individua
 ### Institutional foundations of combat power
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] links British gunnery and crew performance to preparation, bureaucracy, finance, taxation, borrowing, and industrializing society.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] makes the same capacity visible through prepared ships, gun crews, signaling, medicine, skilled trades, industry, and government mobilization.
 
 ### Strategic conversion after battle
 
@@ -47,7 +49,7 @@ The Trafalgar sources resist explaining British maritime power through individua
 
 ## Counterevidence & Qualifications
 
-The sources are British-centered and acknowledge that Trafalgar did not end French shipbuilding or continental war. Claims about invasion feasibility, spending shares, population, firing rates, Caribbean stakes, institutional superiority, industrial and public-health priority, empire, and later abolition enforcement are broad and source-scoped. Sea control is best treated as an enabling and constraining capacity, not a sufficient cause of every later British success.
+The sources are British-centered, and the 2025 episode substantially overlaps the 2022 battle account rather than independently confirming it. They acknowledge that Trafalgar did not end French shipbuilding or continental war. Claims about invasion feasibility, spending shares, population, firing rates, crew fitness, Caribbean stakes, institutional superiority, industrial and public-health priority, empire, and later abolition enforcement are broad and source-scoped. Sea control is best treated as an enabling and constraining capacity, not a sufficient cause of every later British success.
 
 ## What Changed
 
@@ -55,6 +57,7 @@ The sources are British-centered and acknowledge that Trafalgar did not end Fren
 - Made French institutional disruption and Spanish manpower constraints part of the comparative explanation.
 - Clarified that sea control constrained invasion and coalition concentration before it produced post-battle leverage.
 - Extended the causal chain backward through public credit, professional training, dockyard industry, logistics, sailor health, and aggressive delegated command.
+- Added the shipboard occupations and wider national labor mobilization through which accumulated capacity became battle performance.
 
 ## Related Concepts
 

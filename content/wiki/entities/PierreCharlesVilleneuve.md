@@ -5,8 +5,9 @@ tags: [person, french-navy, naval-warfare, napoleonic-wars]
 sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
+  - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-10
 ---
 
 # Pierre-Charles Villeneuve
@@ -17,7 +18,7 @@ Pierre-Charles Villeneuve is presented as the French admiral who led Napoleon's 
 
 ## Current Profile
 
-Villeneuve appears as a capable but anxious commander operating under structural and psychological constraints. The Revolution had damaged the French Navy's aristocratic command system, he had survived Nelson's destruction of the fleet at the Nile, and he believed the British could win even against superior numbers. In 1805 he escaped Toulon, crossed to the Caribbean, abandoned the feint when Nelson approached, fought Calder, and entered Cadiz rather than complete Napoleon's concentration plan. Disease, supply shortages, coalition reluctance, new orders, and fear of dismissal then narrowed his choices. At Trafalgar, his turn toward Cadiz disordered the allied line and dissolved the reserve before Nelson's columns struck; he remained until Bucentaure was overwhelmed and surrendered.
+Villeneuve appears as a capable but anxious commander operating under structural and psychological constraints. The Revolution had damaged the French Navy's aristocratic command system, he had survived Nelson's destruction of the fleet at the Nile, and he believed the British could win even against superior numbers. In 1805 he escaped Toulon, crossed to the Caribbean, abandoned the feint when Nelson approached, fought Calder, and entered Cadiz rather than complete Napoleon's concentration plan. Disease, supply shortages, coalition reluctance, new orders, and fear of dismissal then narrowed his choices. At Trafalgar, his turn toward Cadiz disordered the allied line and dissolved the reserve before Nelson's columns struck; he nevertheless stood conspicuously at his post until Bucentaure was devastated and surrendered. He later attended Nelson's funeral as a prisoner and died in Rennes in 1806, but the episode leaves suicide and murder accounts unresolved.
 
 ## Key Characteristics
 
@@ -27,6 +28,7 @@ Villeneuve appears as a capable but anxious commander operating under structural
 - Subject to Napoleon's pressure, replacement threat, Cadiz shortages, disease, and allied divergence.
 - Ordered a reversal before Trafalgar that increased formation disorder and reduced reserve flexibility.
 - Remained in the battle until his flagship was battered into surrender.
+- Post-battle prisoner whose attendance at Nelson's funeral and disputed death complicate a simple defeated-coward narrative.
 
 ## Evidence
 
@@ -41,16 +43,18 @@ Villeneuve appears as a capable but anxious commander operating under structural
 ### Formation disorder and surrender
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] attributes the turn northward to Villeneuve, connects its execution to gaps and reserve disorganization, and describes Bucentaure's defeat and surrender.
+- [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] emphasizes his conspicuous courage aboard Bucentaure, its devastation and surrender, his attendance at Nelson's funeral, and uncertainty over his death.
 
 ## Qualifications
 
-Both sources center Nelson and British experience. Villeneuve's own documents, French institutional recovery, Spanish perspectives, and the full logic of his decisions are only selectively represented. His fear, panic, motives, reported statements, the alternatives available at each stage, and the relative importance of coalition versus personal command failure remain source-scoped.
+All three sources center Nelson and British experience, and the newest substantially retells the earlier battle account. Villeneuve's own documents, French institutional recovery, Spanish perspectives, and the full logic of his decisions are only selectively represented. His fear, panic, motives, reported statements, the alternatives available at each stage, the cause of his death, and the relative importance of coalition versus personal command failure remain source-scoped.
 
 ## What Changed
 
 - Replaced a battle-only defeated-commander profile with one grounded in the full Atlantic campaign.
 - Reframed caution through prior defeat, French institutional damage, British capability, and coalition constraints.
 - Kept Villeneuve responsible for consequential choices without reducing campaign failure to cowardice.
+- Added conspicuous battlefield conduct and the unresolved postwar death as qualifications to the defeated-commander image.
 
 ## Relationships
 

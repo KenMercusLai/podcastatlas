@@ -34325,3 +34325,11 @@ Added source `essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclai
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 613. Nelson: Glory at Trafalgar (Part 6)
+
+Added source `613-nelson-glory-at-trafalgar-part-6-glt7193792251`; resynthesized [[HoratioNelson]], [[BattleOfTrafalgar]], [[CuthbertCollingwood]], [[PierreCharlesVilleneuve]], [[FedericoGravina]], [[RoyalNavy]], [[TrafalgarSquare]], [[SeaControlStateCapacity]], [[FiscalMilitaryNavalState]], and [[NavalBreakthroughTactics]] from their complete preserved evidence inventories before appending the new source once. The episode strengthens the two-column tactical account, makes the Royal Navy's shipboard and shore-side mobilization concrete, adds Collingwood's unexecuted anchoring instruction as a post-battle qualification, and carries Nelson's death through fleet grief, state funeral, and monumental memory. It substantially overlaps the 2022 Trafalgar series and therefore adds narrative provenance rather than independent confirmation. No settled contradiction was adopted; reported dialogue and final words, numerical totals, Nelson's shooter, Villeneuve's death, Gravina's last words, monument claims, and broad empire and abolition judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,298 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
