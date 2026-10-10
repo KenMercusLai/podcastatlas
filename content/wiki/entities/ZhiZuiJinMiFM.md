@@ -30,6 +30,7 @@ sources:
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
+  - 075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -38,7 +39,7 @@ last_updated: 2026-10-10
 
 ## Overview
 
-纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]]. Its complete Tianlong discussions now include both the four villains and [[MurongFu|慕容复]].
+纸醉金迷FM is a conversational cultural-discussion podcast represented here by literary episodes on [[JinYong|金庸]], [[GuLong|古龙]], [[HongLouMeng|《红楼梦》]], [[MaBoyong|马伯庸]]'s historical and mythic institutional fiction, [[GhostBlowsOutTheLight|《鬼吹灯》]], [[TianLongBaBu|《天龙八部》]], and [[HarryPotterAndThePhilosophersStone|《哈利·波特与魔法石》]], adaptation comparisons of [[LegendOfTheCondorHeroes|《射雕英雄传》]] and [[BiaoRenComic|《镖人》]], nostalgic or supernatural screen discussions of [[TaiChiMaster1993|《太极张三丰》]], [[DoubleVision2002|《双瞳》]], [[MrVampire1985|《僵尸先生》]], and [[MyDateWithAVampire|《我和僵尸有个约会》]], three sitcom readings of [[WulinWaizhuan|《武林外传》]], a two-part Jin Yong MBTI comparison, and a critique of viral [[MourningMingReading|悼明读法]]. Its complete Tianlong discussions now include both the four villains and [[MurongFu|慕容复]].
 
 ## Current Profile
 
@@ -67,6 +68,8 @@ The earlier 悼明 discussion supplies the show's clearest meta-interpretive cas
 The [[TaiChiMaster1993|《太极张三丰》]] rewatch joins the show's action criticism to autobiographical media history. VHS, VCD, television repetition, incomplete copies, music, and childhood imitation become evidence about how a film is remembered, while adult viewing separates durable craft from remembered fragments. The episode also applies the show's accountability-preserving character method to [[DongTianbao|董天宝]]: deprivation, humiliation, ambition, and attachment explain his trajectory without acquitting betrayal or killing, and [[ChinSiuHo|钱小豪]]'s performance is distinguished from the screenplay's accelerated late villainy.
 
 The [[MyDateWithAVampire|《我和僵尸有个约会》]] episode extends the same method into serial supernatural television. Detailed plot reconstruction keeps living corpses, ghosts, ritual rules, apartment geography, and family relationships legible, but the interpretive center remains [[ParentalProjectionControl|parental control]]: [[PingMaMyDateWithAVampire|平妈]] genuinely loves [[APingMyDateWithAVampire|阿平]] while denying him adult subjectivity, and his early gentleness does not prevent later complicity. The hosts use [[PPMyDateWithAVampire|P.P.]] and 小倩 to develop a [[MoralPrincipleEmpathyGap|gap between abstract moral labels and concrete empathy]], then treat acknowledgment and apology as the emotional solution without erasing murder or coercion. Their praise of [[UrbanizedSupernaturalWorldbuilding|urbanized supernatural worldbuilding]] remains joined to criticism of folklore sourcing, power scaling, secrecy, and tactical inconsistency.
+
+The [[MrVampire1985|《僵尸先生》]] episode pushes this supernatural criticism backward into 1980s Hong Kong cinema. The hosts reconstruct its action, comedy, romance, ritual props, and jiangshi rules while distinguishing [[CinematicFolkloreRecombination|cinematic recombination]] from faithful folk practice. They praise the economical opening, [[LamChingYing|林正英]]'s authority, bodily breath-holding suspense, music, and rule clarity, but retain objections to negligence-driven plotting and the weak connection between 董小玉's ghost story and the main corpse plot. Production and influence claims remain bounded rather than converted into verified genre history.
 
 ## Key Characteristics
 
@@ -195,15 +198,20 @@ The [[MyDateWithAVampire|《我和僵尸有个约会》]] episode extends the sa
 - [[086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible]] distinguishes Ping Ma's love from her control, A Ping's early empathy from his later complicity, and P.P.'s stigmatized occupation from her moral clarity.
 - [[086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible]] praises portable ritual tools, reincarnation elevators, office-like underworld figures, and apartment haunting while preserving objections to folklore and rule consistency.
 
+### Jiangshi cinema, folklore recombination, and bodily suspense
+
+- [[075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq]] separates memorable genre craft from weak causal links and treats ritual objects, corpse lore, costume, and breath-holding as transformed screen conventions rather than a single authentic folk system.
+
 ## Qualifications
 
-This profile rests on twenty-seven episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the four-villain and Murong Fu episodes are complete discussions but do not supply textual editions or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, Xianbei and restoration history, martial ranking, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
+This profile rests on twenty-eight episode notes and may not represent every format produced by the show. The 《双瞳》 input and the Shaoshi Mountain 《天龙八部》 input are only three-minute openings; the four-villain and Murong Fu episodes are complete discussions but do not supply textual editions or settle disputed motives. Qin and Sui history, Chinese reclusion history, Redology and Qing literary history, Dali succession, Xianbei and restoration history, martial ranking, 《鬼吹灯》 publishing and rights history, geomancy, ritual, biological and virtual-space explanations, 三破日 folklore, supernatural categories, legal thresholds, addiction medicine, animal research, actor technique, sitcom production history, screen-version counts, dates and credits, Hong Kong film and television history, jiangshi convention origins, music attribution, Harry Potter sales, translation, currency, ancestry, adaptation intent and continuity, censorship, deleted footage, MBTI validity, audience motives, platform effects, and authorial intent come through cultural conversation rather than specialist, legal, clinical, scientific, historical, psychometric, audience-research, or production verification. The 《太白金星有点烦》 discussion concerns fictional institutions and interpretive motives, not real law or verified authorial intention. Conversational repetition, humor, tangents, personal experience, and source familiarity sometimes substitute for systematic demonstration; historical comparison, literary interpretation, ethical analogy, philosophical synthesis, reception hierarchy, score boundaries, canon claims, behavioral generalizations, personality assignments, performance judgments, and inferred setup therefore remain source-scoped rather than settled conclusions. The “100期” title versus episode-170 body is an unresolved metadata inconsistency in the supplied source.
 
 ## What Changed
 
-- Extended the show's accountability-preserving character method from explicit villains to a prestigious failed restoration claimant.
-- Added historical feasibility and organizational capacity as checks on character ambition.
-- Added release from identity-bound desire as a comparative axis across Murong Fu, Murong Bo, and Duan Yanqing.
+- Added 1980s jiangshi cinema to the show's bounded screen-criticism range.
+- Distinguished cinematic folklore recombination from verified ritual history.
+- Added bodily audience participation and reusable supernatural rules to the show's craft analysis.
+- Preserved criticism of negligence-driven plotting and weakly joined story branches alongside genre admiration.
 
 ## Relationships
 
@@ -272,3 +280,7 @@ This profile rests on twenty-seven episode notes and may not represent every for
 - [[ParentalProjectionControl]] - framework extended through Ping Ma and A Ping's adult mother-son relationship.
 - [[MoralPrincipleEmpathyGap]] - distinction between categorical moral certainty and attention to concrete people.
 - [[UrbanizedSupernaturalWorldbuilding]] - craft framework for portable ritual tools, modern infrastructure, and bureaucratic afterlife imagery.
+- [[MrVampire1985|《僵尸先生》]] - jiangshi-film case joining action, comedy, horror, ghost romance, ritual props, and causal criticism.
+- [[LamChingYing|林正英]] - performer whose authoritative 九叔 persona anchors the episode's genre account.
+- [[HongKongJiangshiCinema]] - genre field traced from a risky film production into later screen reuse.
+- [[CinematicFolkloreRecombination]] - evidence boundary separating transformed screen rules from a single authentic folk system.

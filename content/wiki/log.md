@@ -34742,3 +34742,11 @@ Added source `598-the-first-world-war-the-eastern-front-explodes-part-5-glt22567
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | 075 中元节特辑｜趣话僵尸片真正开山之作：林正英《僵尸先生》
+
+Added source `075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq`; created [[MrVampire1985|《僵尸先生》]], [[LamChingYing|林正英]], [[HongKongJiangshiCinema]], and [[CinematicFolkloreRecombination]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the film's durable genre grammar joins an authoritative master, fallible comic apprentices, bodily breath-holding suspense, and visually legible ritual props, while its apparent folklore is a screen-ready recombination rather than one authenticated religious system. No settled contradiction was adopted. Budget, box office, production, origin, ritual, literary-precedent, and influence claims remain source-scoped, as do readings of 董小玉 and 秋生; the automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,352 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 38 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

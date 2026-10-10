@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3365
+topic_total_pages: 3369
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -688,6 +688,9 @@ topic_concepts:
   - key: "CinemaAsNationalMemory"
     title: "Cinema as National Memory"
     url: "/wiki/concepts/cinemaasnationalmemory/"
+  - key: "CinematicFolkloreRecombination"
+    title: "Cinematic Folklore Recombination / 电影民俗再组合"
+    url: "/wiki/concepts/cinematicfolklorerecombination/"
   - key: "CitizenJournalismAccountability"
     title: "Citizen Journalism Accountability"
     url: "/wiki/concepts/citizenjournalismaccountability/"
@@ -1627,6 +1630,9 @@ topic_concepts:
   - key: "HongKongHandoverTeleology"
     title: "Hong Kong Handover Teleology / 香港九七目的论"
     url: "/wiki/concepts/hongkonghandoverteleology/"
+  - key: "HongKongJiangshiCinema"
+    title: "Hong Kong Jiangshi Cinema / 香港僵尸片"
+    url: "/wiki/concepts/hongkongjiangshicinema/"
   - key: "HonoursPatronageExchange"
     title: "Honours Patronage Exchange"
     url: "/wiki/concepts/honourspatronageexchange/"
@@ -6686,6 +6692,9 @@ topic_entities:
   - key: "PostTruthFilm"
     title: "《保你平安》 / Post Truth"
     url: "/wiki/entities/posttruthfilm/"
+  - key: "MrVampire1985"
+    title: "《僵尸先生》 / Mr. Vampire (1985)"
+    url: "/wiki/entities/mrvampire1985/"
   - key: "RulinWaishi"
     title: "《儒林外史》"
     url: "/wiki/entities/rulinwaishi/"
@@ -8763,6 +8772,9 @@ topic_sources:
   - key: "07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165"
     title: "07.用荣格理论分析《小王子》 永恒少年及其他"
     url: "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"
+  - key: "075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq"
+    title: "075 中元节特辑｜趣话僵尸片真正开山之作：林正英《僵尸先生》"
+    url: "/wiki/sources/075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq/"
   - key: "076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0"
     title: "076 【教师节特辑】金庸宇宙师父大盘点"
     url: "/wiki/sources/076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0/"

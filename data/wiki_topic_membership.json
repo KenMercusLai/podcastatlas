@@ -53,6 +53,13 @@
       "url": "/topics/science/"
     }
   ],
+  "075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0": [
     {
       "key": "culture",
@@ -23525,6 +23532,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CinematicFolkloreRecombination": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CircadianRhythmExperimentation": [
     {
       "key": "science",
@@ -44419,6 +44433,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HongKongJiangshiCinema": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HongKongLiquidityExitRisk": [
     {
       "key": "economics",
@@ -60890,6 +60911,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MrVampire1985": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MsMagazine": [

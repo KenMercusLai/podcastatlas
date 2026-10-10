@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10256
+wiki_total_pages: 10258
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "HongKongIPOLiquidityPath"
     title: "Hong Kong IPO Liquidity Path"
     url: "/wiki/concepts/hongkongipoliquiditypath/"
+  - key: "HongKongJiangshiCinema"
+    title: "Hong Kong Jiangshi Cinema / 香港僵尸片"
+    url: "/wiki/concepts/hongkongjiangshicinema/"
   - key: "HongKongLiquidityExitRisk"
     title: "Hong Kong Liquidity Exit Risk"
     url: "/wiki/concepts/hongkongliquidityexitrisk/"

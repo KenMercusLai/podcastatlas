@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13083
+wiki_total_pages: 13085
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1868,6 +1868,9 @@ wiki_pages:
   - key: "MerchantAndAlchemistsGate"
     title: "The Merchant and the Alchemist's Gate"
     url: "/wiki/entities/merchantandalchemistsgate/"
+  - key: "MrVampire1985"
+    title: "《僵尸先生》 / Mr. Vampire (1985)"
+    url: "/wiki/entities/mrvampire1985/"
   - key: "MidnightInChernobyl"
     title: "《切尔诺贝利的午夜》 / Midnight in Chernobyl"
     url: "/wiki/entities/midnightinchernobyl/"

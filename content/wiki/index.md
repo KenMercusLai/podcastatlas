@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [075 中元节特辑｜趣话僵尸片真正开山之作：林正英《僵尸先生》](sources/075-zhongyuanjie-teji-quhua-jiangshipian-zhenzheng-kaishan-zhizuo-linzhengying-jiangshixiansheng-lpcd2firlixh1qr-tnfkp0np0-jq.md) — 纸醉金迷FM复盘《僵尸先生》，并讨论其恐怖喜剧结构、民俗再组合、叙事漏洞、制作风险与香港僵尸片遗产。
 - [598. The First World War: The Eastern Front Explodes (Part 5)](sources/598-the-first-world-war-the-eastern-front-explodes-part-5-glt2256735701.md) — The Rest Is History on Serbia's 1914 defense, Austro-Hungarian failure and reprisals, Tannenberg, civilian violence in East Prussia, and the Hindenburg-Ludendorff command legend.
 - [Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder](sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357.md) — Huberman Lab interview on individual metabolic response, diabetes subtypes, longitudinal baselines, ageotypes, environmental exposure, and AI-assisted personalized medicine.
 - [076 【教师节特辑】金庸宇宙师父大盘点](sources/076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0.md) — 纸醉金迷FM以金庸师徒比较能力、教学、性格、关爱、声望与人脉，并延伸到多师成才、师生权力边界和以关怀赢得的母校归属。
@@ -4430,6 +4431,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Food & Supplements for Brain Health & Cognitive Performance](sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363.md) — Condensed Huberman Lab episode on candidate brain-supporting nutrients, taste and gut reinforcement, learned food preference, expectation, and sweetener-pairing boundaries.
 
 ## Entities
+- [《僵尸先生》 / Mr. Vampire (1985)](entities/MrVampire1985.md) — 1985 Hong Kong horror-comedy whose master-apprentice trio, ritual props, bodily suspense, and mixed genre grammar became highly reusable.
+- [林正英 / Lam Ching-ying](entities/LamChingYing.md) — Hong Kong performer whose authoritative 九叔 persona anchors the bounded jiangshi-film and television legacy.
 - [Michael Snyder](entities/MichaelSnyder.md) — Stanford genetics professor connecting longitudinal multi-omics, metabolic individuality, ageotypes, environmental sensing, and AI-assisted health interpretation.
 - [张三丰（金庸小说） / Zhang Sanfeng (Jin Yong)](entities/ZhangSanfengJinYong.md) — 纸醉金迷FM以武功、因材施教、情绪稳定、爱护和不囿门户评价的全能型良师。
 - [仁科 / Renke](entities/RenkeMusician.md) — 以海丰经验、广州街头网络、五条人创作与破圈后的公众生活连接地方性和艺术自主的音乐人。
@@ -17578,6 +17581,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ober Ost](entities/OberOst.md) — German eastern military occupation regime created under the Hindenburg-Ludendorff command partnership.
 
 ## Concepts
+- [Hong Kong Jiangshi Cinema / 香港僵尸片](concepts/HongKongJiangshiCinema.md) — Screen tradition joining jiangshi, ritual specialists, horror, comedy, martial action, romance, and repeatable supernatural rules.
+- [Cinematic Folklore Recombination / 电影民俗再组合](concepts/CinematicFolkloreRecombination.md) — Framework separating cultural antecedents from the selected, transformed, and invented rules used to build a coherent screen world.
 - [Metabolic Response Individuality](concepts/MetabolicResponseIndividuality.md) — Framework for measuring person-specific responses to foods, fibers, medicines, sleep, exercise, and timing.
 - [Diabetes Mechanistic Subtyping](concepts/DiabetesMechanisticSubtyping.md) — Pathway-based division of broad glucose dysregulation into beta-cell, muscle, liver, adipose, and incretin-related patterns.
 - [Longitudinal Personal Health Baselines](concepts/LongitudinalPersonalHealthBaselines.md) — Repeated multimodal measurement used to interpret change against a person's own prior trajectory.
