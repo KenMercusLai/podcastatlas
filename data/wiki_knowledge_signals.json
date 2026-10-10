@@ -27619,9 +27619,9 @@
       "url": "/wiki/concepts/biodegradableingestiblebatteries/"
     },
     "BiologicalAgeMeasurementBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1831113627 [SCIM1831113627].md",
@@ -27629,9 +27629,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/biologicalagemeasurementboundary/"
     },
     "BiologicalHarnessEngineering": {
@@ -59761,9 +59768,9 @@
       "url": "/wiki/entities/davidsilver/"
     },
     "DavidSinclair": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1831113627 [SCIM1831113627].md",
@@ -59778,9 +59785,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-10",
       "url": "/wiki/entities/davidsinclair/"
     },
     "DavidSpiegel": {
@@ -79534,9 +79548,9 @@
       "url": "/wiki/concepts/epicherohumanlimits/"
     },
     "EpigeneticAgingInformationTheory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1831113627 [SCIM1831113627].md",
@@ -79544,9 +79558,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/epigeneticaginginformationtheory/"
     },
     "EpigeneticReprogrammingBoundary": {
@@ -85750,9 +85771,9 @@
       "url": "/wiki/entities/fedex/"
     },
     "FedFastedStateContinuum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6513533538 [SCIM6513533538].md",
@@ -85760,9 +85781,16 @@
           "show": "Huberman Lab",
           "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
           "url": "/wiki/sources/scim6513533538-scim6513533538/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/fedfastedstatecontinuum/"
     },
     "FederalBureauOfInvestigation": {
@@ -127139,9 +127167,9 @@
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
     "IntermittentChallengeHormesis": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -127170,9 +127198,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
@@ -176977,9 +177012,9 @@
       "url": "/wiki/concepts/mythologyforengland/"
     },
     "NADTherapyEvidenceBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6125190274 [SCIM6125190274].md",
@@ -177008,9 +177043,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        },
+        {
+          "episode_file": "SCIM4508633460 [SCIM4508633460].md",
+          "key": "essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/nadtherapyevidenceboundary/"
     },
     "NASA": {

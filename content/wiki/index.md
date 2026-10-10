@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460.md) — Condensed Huberman Lab interview on epigenetic aging, fasting and nutrient signaling, NAD and NMN, biological-age markers, and animal-to-human evidence boundaries.
 - [614. Walt Disney: The Great American Storyteller](sources/614-walt-disney-the-great-american-storyteller-glt5465018421.md) — The Rest Is History on Disney's animation breakthroughs, ownership discipline, merchandising, collective studio craft, labor conflict, wartime debt, television recovery, and cultural power.
 - [Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum](sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056.md) — Huberman Lab interview on drug repurposing, Castleman disease, patient-led research, Every Cure's AI prioritization, and the boundary between promising matches and validated care.
 - [VOL.184解决晕车你得先找到真相：当大脑收到这三个矛盾信号｜耳鼻喉科](sources/vol-184-jiejue-yunche-ni-de-xian-zhaodao-zhenxiang-dang-danao-shoudao-zhe-sange-maodun-xinhao-erbihouke-lqasxyp6lysn8f3gszysfipivw1f.md) — 这病说来话长由吕颜璐解释视觉、前庭与本体感觉冲突，连接交通工具、座位姿态、环境触发、习服训练与用药边界。

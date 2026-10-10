@@ -7,7 +7,8 @@ sources:
   - supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668
   - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
   - the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627
-last_updated: 2026-10-02
+  - essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ Koniver and Huberman describe striking personal and patient experiences involvin
 
 The Attia episode strengthens the skeptical side of the synthesis. NAD decline varies across tissues; changing blood or liver NAD does not prove a useful skeletal-muscle or whole-person effect; and a blood pattern of falling NAD with rising NADH makes redox balance more specific than a simple deficiency narrative. The episode reports that NR did not improve lifespan or healthspan in the [[InterventionsTestingProgram]], while the discussed human NR and NMN studies produced null primary outcomes, subgroup-sensitive findings, or clinically small biomarker changes.
 
-The earlier AMA makes the boundary explicit before the later study-focused discussion: Huberman distinguishes perceived energy or vigor from an expectation of longer life and places sleep, exercise, nutrition, light, stress control, and social connection ahead of NAD-targeting tools. Read chronologically, the sources show why mechanistic enthusiasm must remain revisable when stronger outcome testing arrives. The current judgment is therefore not that NAD-targeting interventions cannot work, but that route, dose, tissue, endpoint, duration, comparator, tolerability, indication, and follow-up determine what has actually been shown. A reported skin-cancer reduction remains a replication-worthy signal, not evidence for melanoma prevention, general cancer prevention, or longer life.
+The earlier AMA makes the boundary explicit before the later study-focused discussion: Huberman distinguishes perceived energy or vigor from an expectation of longer life and places sleep, exercise, nutrition, light, stress control, and social connection ahead of NAD-targeting tools. The Sinclair Essentials edit repeats the earlier favorable mechanism, personal-use, and blood-NAD account, so it expands provenance without independently resolving tissue delivery or outcomes. Read chronologically, the sources show why mechanistic enthusiasm must remain revisable when stronger outcome testing arrives. The current judgment is therefore not that NAD-targeting interventions cannot work, but that route, dose, tissue, endpoint, duration, comparator, tolerability, indication, and follow-up determine what has actually been shown. A reported skin-cancer reduction remains a replication-worthy signal, not evidence for melanoma prevention, general cancer prevention, or longer life.
 
 ## Key Claims
 - NAD's role in cellular metabolism makes it a plausible intervention target but does not establish a clinical indication.
@@ -42,14 +43,13 @@ The earlier AMA makes the boundary explicit before the later study-focused discu
 - Qualified benefit signal: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] describes a possible reduction in basal- and squamous-cell carcinomas without a melanoma reduction.
 - Mechanistic and protocol origin: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] describes NAD as a sirtuin substrate, reports Sinclair's NMN preference, dose, timing, and subjective response, and explicitly leaves placebo and clinical validation open.
 - Longitudinal qualification: the favorable framing in [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] is materially narrowed by negative or weak outcome evidence summarized in [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]].
+- Condensed provenance: [[essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460]] repeats Sinclair's NMN use, roughly twofold blood-NAD observation, subjective response, placebo qualification, and pending-trial boundary without independent confirmation.
 
 ## Counterevidence & Qualifications
-Temporal associations do not prove that NAD caused reported improvements, and a negative COVID test after an infusion does not establish antiviral efficacy. Subjective energy or post-illness vigor can coexist with no demonstrated lifespan effect. A rise in blood NAD does not establish delivery to a target tissue, functional benefit, healthspan, or lifespan. Negative NR mouse-longevity evidence does not prove that every NAD-targeting intervention is ineffective for every indication, but it directly weakens a broad precursor-to-longevity claim. The skin-cancer signal, tissue data, subgroup findings, doses, timing, product quality, and pharmacology need direct review and replication before clinical use. This page does not establish that any route treats addiction, infection, fatigue, depression, cognitive symptoms, sleep problems, cancer, or aging.
+Temporal associations do not prove that NAD caused reported improvements, and a negative COVID test after an infusion does not establish antiviral efficacy. Subjective energy or post-illness vigor can coexist with no demonstrated lifespan effect. A rise in blood NAD does not establish delivery to a target tissue, functional benefit, healthspan, or lifespan, and the full Sinclair interview and Essentials edit are overlapping evidence. Negative NR mouse-longevity evidence does not prove that every NAD-targeting intervention is ineffective for every indication, but it directly weakens a broad precursor-to-longevity claim. The skin-cancer signal, tissue data, subgroup findings, doses, timing, product quality, and pharmacology need direct review and replication before clinical use. This page does not establish that any route treats addiction, infection, fatigue, depression, cognitive symptoms, sleep problems, cancer, or aging.
 
 ## What Changed
-- Added Sinclair's earlier mechanistic rationale, NMN preference, personal dose, circadian timing, and unpublished blood-NAD observation.
-- Made the chronological evidence update explicit: later outcome evidence materially narrows earlier mechanistic enthusiasm.
-- Added blood-versus-target-tissue change as an explicit translation boundary.
+- Added the Sinclair Essentials edit as overlapping provenance without changing the skeptical outcome-level judgment.
 
 ## Related Concepts
 - [[MitochondrialLifestylePillars]] - broader framework connecting mitochondrial function to sleep, nutrition, exercise, stress, and other inputs.

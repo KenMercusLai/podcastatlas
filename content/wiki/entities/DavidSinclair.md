@@ -5,7 +5,8 @@ tags: [scientist, genetics, aging, longevity]
 sources:
   - the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627
   - all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645
-last_updated: 2026-10-07
+  - essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 David Sinclair is presented in the source as a Harvard genetics professor researching why aging occurs and whether aspects of it can be slowed or reversed.
 
 ## Current Profile
-In the bounded sources, Sinclair is both a mechanistic aging researcher and a public interpreter of longevity interventions. He advances [[EpigeneticAgingInformationTheory]], describes experimental work on aging clocks and retinal-neuron reprogramming, and links fasting, exercise, sirtuins, mTOR, NAD, and cellular stress responses. His work is also connected to a reported Phase 1 retinal gene-therapy route using Yamanaka factors, AAV delivery, and doxycycline-controlled expression. He discloses personal use of fasting, NMN, resveratrol, metformin, and a statin, while the record keeps animal findings, trial plans, unpublished observations, epidemiology, and personal response below established human outcomes.
+In the bounded sources, Sinclair is both a mechanistic aging researcher and a public interpreter of longevity interventions. He advances [[EpigeneticAgingInformationTheory]], describes experimental work on aging clocks and retinal-neuron reprogramming, and links fasting, exercise, sirtuins, mTOR, NAD, and cellular stress responses. His work is also connected to a reported Phase 1 retinal gene-therapy route using Yamanaka factors, AAV delivery, and doxycycline-controlled expression. He discloses personal use of fasting, NMN, resveratrol, metformin, and a statin, while the record keeps animal findings, trial plans, unpublished observations, epidemiology, and personal response below established human outcomes. The later Essentials edit repeats a subset of the original interview and adds provenance, not independent confirmation.
 
 ## Key Characteristics
 - Frames aging as an upstream biological driver of multiple age-related diseases.
@@ -33,13 +34,13 @@ In the bounded sources, Sinclair is both a mechanistic aging researcher and a pu
 - Experimental reversal: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] describes gene-therapy reprogramming that restored youthful function in mouse retinal neurons.
 - Clinical translation: [[all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645]] reports an eye-focused Phase 1 plan using AAV delivery and controllable Yamanaka-factor expression.
 - Personal protocol: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] records his own meal timing, supplement, metformin, statin, biomarker, and wearable practices.
+- Condensed restatement: [[essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460]] repeats his epigenetic-aging, fasting, mTOR, NMN, biomarker, and animal-fertility account without independently validating it.
 
 ## Qualifications
-This profile is bounded to two public podcast discussions and does not independently verify Sinclair's institutional role, company relationship, regulator agreement, trial protocol, disease indications, study details, supplement formulations, clinical timelines, or personal outcomes. His practices are anecdotes rather than prescriptions. [[CellularReprogrammingControlProblem]], [[NADTherapyEvidenceBoundary]], and [[MechanismOutcomeEvidenceHierarchy]] materially limit translation from pathway, mouse, biomarker, trial authorization, or self-report evidence to human healthspan or lifespan.
+This profile is bounded to three public podcast releases, two of which substantially overlap, and does not independently verify Sinclair's institutional role, company relationship, regulator agreement, trial protocol, disease indications, study details, supplement formulations, clinical timelines, or personal outcomes. His practices are anecdotes rather than prescriptions. [[CellularReprogrammingControlProblem]], [[NADTherapyEvidenceBoundary]], and [[MechanismOutcomeEvidenceHierarchy]] materially limit translation from pathway, mouse, biomarker, trial authorization, or self-report evidence to human healthspan or lifespan.
 
 ## What Changed
-- Added the reported retinal Phase 1 route and its localized, inducible delivery design.
-- Tightened the boundary between trial authorization and demonstrated human rejuvenation.
+- Added the Essentials release as overlapping provenance rather than independent confirmation.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who asks Sinclair to connect mechanisms with practical protocols and uncertainty.

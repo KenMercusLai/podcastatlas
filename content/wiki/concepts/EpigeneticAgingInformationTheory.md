@@ -4,7 +4,8 @@ type: concept
 tags: [aging, epigenetics, information, cell-identity]
 sources:
   - the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627
-last_updated: 2026-10-02
+  - essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460
+last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Epigenetic aging information theory is [[DavidSinclair]]'s source-scoped proposa
 ## Current Synthesis
 The episode distinguishes the DNA sequence from the epigenome that packages DNA and regulates access to genes. Sinclair compares the first with stored music and the second with the reader that selects what plays. In this model, DNA breaks, radiation, sun exposure, and severe cellular stress can disrupt methylation and related regulatory patterns, causing genes to activate or fall silent in inappropriate contexts and making cells behave less like their younger specialized states.
 
-The model matters because it makes some aging changes measurable and, in principle, reversible without rewriting the genome. Methylation clocks are presented as estimates of biological age, and mouse retinal-neuron experiments are presented as evidence that transcription-factor reprogramming can restore some youthful function. These findings support a research program, not a settled claim that epigenetic information loss is the single dominant cause of aging or that whole-body human aging can currently be reversed.
+The model matters because it makes some aging changes measurable and, in principle, reversible without rewriting the genome. Methylation clocks are presented as estimates of biological age, and mouse retinal-neuron experiments are presented as evidence that transcription-factor reprogramming can restore some youthful function. The Essentials release restates the information-loss mechanism and measurement claim but does not include the retinal-reprogramming branch. Together these overlapping accounts support a research program, not a settled claim that epigenetic information loss is the single dominant cause of aging or that whole-body human aging can currently be reversed.
 
 ## Key Claims
 - DNA sequence and epigenetic regulation carry different kinds of biological information.
@@ -32,12 +33,13 @@ The model matters because it makes some aging changes measurable and, in princip
 - Stress hypothesis: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] links DNA breaks, radiation, sun exposure, and severe cellular stress to accelerated epigenetic disorder.
 - Measurement: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] says epigenetic changes can be used to estimate biological age.
 - Reversal experiment: [[the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627]] describes transcription-factor gene therapy restoring youthful function in mouse retinal neurons.
+- Condensed provenance: [[essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460]] repeats the information-loss, cell-identity, DNA-damage, and methylation-clock account without independently confirming it.
 
 ## Counterevidence & Qualifications
-The supplied source is a structured public-education summary, not a full review of competing aging theories or the underlying studies. It reports Sinclair's judgment that the epigenome is the largest component among aging hallmarks but does not establish comparative causal weights. A clock can correlate with age without measuring every clinically meaningful dimension, and movement in a clock does not prove improved healthspan or lifespan. Mouse eye results do not establish systemic efficacy, durability, cancer safety, delivery feasibility, or human benefit.
+The supplied sources are structured public-education summaries of substantially overlapping material, not a full review of competing aging theories or the underlying studies. They report Sinclair's judgment that the epigenome is the largest component among aging hallmarks but do not establish comparative causal weights. A clock can correlate with age without measuring every clinically meaningful dimension, and movement in a clock does not prove improved healthspan or lifespan. Mouse eye results do not establish systemic efficacy, durability, cancer safety, delivery feasibility, or human benefit.
 
 ## What Changed
-- Created the concept from Sinclair's information-loss, cell-identity, aging-clock, and retinal-reprogramming account.
+- Added the Essentials edit as overlapping provenance and clarified that it does not independently confirm the model.
 
 ## Related Concepts
 - [[BiologicalAgeMeasurementBoundary]] - separates aging-clock signals from diagnosis and demonstrated clinical benefit.

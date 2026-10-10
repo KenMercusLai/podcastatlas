@@ -34317,3 +34317,11 @@ Added source `614-walt-disney-the-great-american-storyteller-glt5465018421`; cre
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair
+
+Added source `essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim4508633460`; resynthesized [[DavidSinclair]], [[EpigeneticAgingInformationTheory]], [[FedFastedStateContinuum]], [[IntermittentChallengeHormesis]], [[BiologicalAgeMeasurementBoundary]], and [[NADTherapyEvidenceBoundary]] from their complete preserved evidence inventories before appending the new source once. The episode reinforces cell-identity loss, fasting and nutrient signaling, longitudinal biomarker interpretation, and NMN mechanisms, but it condenses the full 2021 Sinclair interview and therefore adds overlapping provenance rather than independent confirmation. The later NAD outcome evidence remains a material qualification; disease-attribution percentages, fasting durations, blood-NAD changes, iron and senescence claims, and animal reproductive findings remain source-scoped rather than personal medical guidance. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,297 sources across 800 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
