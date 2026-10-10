@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10305
+wiki_total_pages: 10309
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "ChinaInnovationTransparencyGap"
     title: "China Innovation Transparency Gap / 中国创新透明度缺口"
     url: "/wiki/concepts/chinainnovationtransparencygap/"
+  - key: "ChinaInnovativeDrugExecutionOriginalityGap"
+    title: "China Innovative Drug Execution–Originality Gap"
+    url: "/wiki/concepts/chinainnovativedrugexecutionoriginalitygap/"
   - key: "ChinaInsuranceFundsEquityAllocation"
     title: "China Insurance Funds Equity Allocation / 中国险资入市"
     url: "/wiki/concepts/chinainsurancefundsequityallocation/"

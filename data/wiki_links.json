@@ -6255,6 +6255,10 @@
     "title": "AS Beauty",
     "url": "/wiki/entities/asbeauty/"
   },
+  "ASCOChinaResearchVisibility": {
+    "title": "China Research Visibility at ASCO",
+    "url": "/wiki/concepts/ascochinaresearchvisibility/"
+  },
   "ASEAN": {
     "title": "ASEAN",
     "url": "/wiki/entities/asean/"
@@ -18714,6 +18718,10 @@
   "ChinaInnovationTransparencyGap": {
     "title": "China Innovation Transparency Gap / 中国创新透明度缺口",
     "url": "/wiki/concepts/chinainnovationtransparencygap/"
+  },
+  "ChinaInnovativeDrugExecutionOriginalityGap": {
+    "title": "China Innovative Drug Execution–Originality Gap",
+    "url": "/wiki/concepts/chinainnovativedrugexecutionoriginalitygap/"
   },
   "ChinaInsuranceFundsEquityAllocation": {
     "title": "China Insurance Funds Equity Allocation / 中国险资入市",
@@ -44035,9 +44043,17 @@
     "title": "Innovations for Poverty Action",
     "url": "/wiki/entities/innovationsforpovertyaction/"
   },
+  "InnovativeDrugClinicalBenefitThreshold": {
+    "title": "Innovative Drug Clinical Benefit Threshold",
+    "url": "/wiki/concepts/innovativedrugclinicalbenefitthreshold/"
+  },
   "InnovativeDrugCommercialInsuranceCatalog": {
     "title": "Innovative Drug Commercial Insurance Catalog",
     "url": "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  },
+  "InnovativeDrugPaymentSustainability": {
+    "title": "Innovative Drug Payment Sustainability",
+    "url": "/wiki/concepts/innovativedrugpaymentsustainability/"
   },
   "InnovatorTraitConfiguration": {
     "title": "Innovator Trait Configuration",
@@ -83135,6 +83151,10 @@
     "title": "谭丁 / Tan Ding",
     "url": "/wiki/entities/tanding/"
   },
+  "TanDonghan": {
+    "title": "谭东涵 / Tan Donghan",
+    "url": "/wiki/entities/tandonghan/"
+  },
   "TanSitong": {
     "title": "谭嗣同 / Tan Sitong",
     "url": "/wiki/entities/tansitong/"
@@ -104650,6 +104670,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev": {
+    "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+    "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
   },
   "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1": {
     "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",

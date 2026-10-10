@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13141
+wiki_total_pages: 13142
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "TanDing"
     title: "谭丁 / Tan Ding"
     url: "/wiki/entities/tanding/"
+  - key: "TanDonghan"
+    title: "谭东涵 / Tan Donghan"
+    url: "/wiki/entities/tandonghan/"
   - key: "TanSitong"
     title: "谭嗣同 / Tan Sitong"
     url: "/wiki/entities/tansitong/"

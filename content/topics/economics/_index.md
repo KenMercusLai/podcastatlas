@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2240
+topic_total_pages: 2241
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5732,6 +5732,9 @@ topic_entities:
   - key: "XieZhiyu"
     title: "谢治宇 / Xie Zhiyu"
     url: "/wiki/entities/xiezhiyu/"
+  - key: "TanDonghan"
+    title: "谭东涵 / Tan Donghan"
+    url: "/wiki/entities/tandonghan/"
   - key: "CaixinMedia"
     title: "财新传媒 / Caixin Media"
     url: "/wiki/entities/caixinmedia/"

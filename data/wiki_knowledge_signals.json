@@ -5509,6 +5509,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/apingmydatewithavampire/"
     },
+    "ASCOChinaResearchVisibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/ascochinaresearchvisibility/"
+    },
     "AShareAuctionPricing": {
       "episode_count": 1,
       "show_count": 1,
@@ -43454,6 +43470,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
     },
+    "ChinaInnovativeDrugExecutionOriginalityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/chinainnovativedrugexecutionoriginalitygap/"
+    },
     "ChinaJapanFriendshipHospital": {
       "episode_count": 1,
       "show_count": 1,
@@ -58415,9 +58447,9 @@
       "url": "/wiki/entities/dayiculturelimited/"
     },
     "DabaNiuTeacher": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工 [lnau0sacX1jm1t_2LOCDc5NSZAKH].md",
@@ -58446,9 +58478,16 @@
           "show": "这病说来话长",
           "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
           "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
+        },
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/dabaniuteacher/"
     },
     "DacherKeltner": {
@@ -129040,6 +129079,38 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/innocentiii/"
+    },
+    "InnovativeDrugClinicalBenefitThreshold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/innovativedrugclinicalbenefitthreshold/"
+    },
+    "InnovativeDrugPaymentSustainability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/innovativedrugpaymentsustainability/"
     },
     "InnovatorTraitConfiguration": {
       "episode_count": 1,
@@ -249371,6 +249442,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/tanding/"
     },
+    "TanDonghan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tandonghan/"
+    },
     "TanSitong": {
       "episode_count": 1,
       "show_count": 1,
@@ -278188,9 +278275,9 @@
       "url": "/wiki/entities/xiaolangoncologysurgeon/"
     },
     "XiaolongWeightManagementGuest": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -278219,9 +278306,16 @@
           "show": "这病说来话长",
           "title": "VOL.187睡觉时身体在忙什么？带你“看”见夜间身体维修现场 ft.「大物是也」小龙/大白牛",
           "url": "/wiki/sources/vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0/"
+        },
+        {
+          "episode_file": "lmYpzc0K_W1lxFKn5q25rYStwueV [lmYpzc0K_W1lxFKn5q25rYStwueV].md",
+          "key": "vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev",
+          "show": "这病说来话长",
+          "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
+          "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/xiaolongweightmanagementguest/"
     },
     "Xiaomi": {

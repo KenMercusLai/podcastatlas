@@ -35097,3 +35097,11 @@ Added source `585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391`; cr
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击
+
+Added source `vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev`; created [[TanDonghan|谭东涵]], [[ASCOChinaResearchVisibility]], [[InnovativeDrugClinicalBenefitThreshold]], [[InnovativeDrugPaymentSustainability]], and [[ChinaInnovativeDrugExecutionOriginalityGap]]; and resynthesized [[DabaNiuTeacher|大白牛]] and [[XiaolongWeightManagementGuest|小龙]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chinese innovative-drug momentum has credible roots in researchers, patients, trials, rapid execution, and increasingly competitive assets, but conference visibility and fast follow-on work do not by themselves prove global leadership, meaningful patient benefit, sustainable payment, original discovery, or worldwide commercialization. No settled contradiction was adopted. ASCO shares, attendance, pricing, market-share, payer-spending, recruitment-speed, development-cost, review-speed, unnamed trial, and longevity claims remain source-scoped. Broad show, host, and legacy biotech pages were kept closed because the focused source, guests, and concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,396 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

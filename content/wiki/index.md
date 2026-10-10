@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击](sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev.md) — 这病说来话长 episode on Chinese oncology visibility, clinical benefit, payment capacity, biotech partnerships, execution speed, and the remaining original-innovation gap.
 - [585. Mary, Queen of Scots: The Royal Rivals (Part 2)](sources/585-mary-queen-of-scots-the-royal-rivals-part-2-glt5612344391.md) — The Rest Is History on Mary's French formation, Guise dynastic ambition, the Scottish Protestant revolt, the Treaty of Edinburgh, and her constrained return.
 - [586. Mary, Queen of Scots: The Battle for Scotland (Part 3)](sources/586-mary-queen-of-scots-the-battle-for-scotland-part-3-glt1545905247.md) — The Rest Is History on Mary's return, Knox's resistance theory, succession-driven Protestant accommodation, and the dynastic and constitutional risks of Darnley.
 - [Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah](sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431.md) — Huberman Lab interview on gene and hormone organization of sex-linked neural circuits, adult reproductive-state plasticity, social behavior, pair bonding, and mouse-to-human evidence boundaries.
@@ -4474,6 +4475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/essentials-psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim4594602060.md) — Condensed Huberman Lab interview on psychedelic categories, self-model change, clinical preparation and monitoring, microdosing evidence, bad-trip risk, and neurological-translation limits.
 
 ## Entities
+- [谭东涵 / Tan Donghan](entities/TanDonghan.md) — Medically trained investment guest connecting innovative-drug development with payment, licensing, globalization, and original research capability.
 - [Mary of Guise](entities/MaryOfGuise.md) — French-born Scottish regent whose dynastic government was defeated by Protestant revolt and English intervention.
 - [Francis II](entities/FrancisII.md) — Mary's first husband and brief French king whose death ended her French royal future.
 - [Treaty of Edinburgh](entities/TreatyOfEdinburgh.md) — 1560 settlement ending the French military position in Scotland and recognizing Elizabeth against Mary's claim.
@@ -17680,6 +17682,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UCWeb / UC浏览器](entities/UCWeb.md) — 由UCMail内嵌浏览器的用户行为信号演化而来，并成为何小鹏从移动软件走向汽车创业的前一阶段。
 
 ## Concepts
+- [China Research Visibility at ASCO](concepts/ASCOChinaResearchVisibility.md) — Rising Chinese oncology conference presence as a qualified capability signal rather than proof of global leadership.
+- [Innovative Drug Clinical Benefit Threshold](concepts/InnovativeDrugClinicalBenefitThreshold.md) — Requirement that efficacy and surrogate endpoints translate into meaningful survival, safety, and quality-of-life benefit.
+- [Innovative Drug Payment Sustainability](concepts/InnovativeDrugPaymentSustainability.md) — Joint affordability and R&D-funding problem spanning public insurance, commercial coverage, pricing, and overseas revenue.
+- [China Innovative Drug Execution–Originality Gap](concepts/ChinaInnovativeDrugExecutionOriginalityGap.md) — Difference between rapid development in known modalities and discovering new mechanisms under uncertainty.
 - [Scottish Reformation Royal Resistance](concepts/ScottishReformationRoyalResistance.md) — Claim that obedience to God could justify restraining a monarch who violated the reformed religious order.
 - [Sex-Differentiated Hypothalamic Circuits](concepts/SexDifferentiatedHypothalamicCircuits.md) — Animal-model framework for sex-biased hypothalamic wiring, hormone response, inhibition, and context-dependent social behavior.
 - [Reproductive-State-Dependent Brain Plasticity](concepts/ReproductiveStateDependentBrainPlasticity.md) — Source-scoped account of adult circuit remodeling across cycle and reproductive states, bounded against direct human treatment inference.

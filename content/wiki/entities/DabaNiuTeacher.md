@@ -7,7 +7,8 @@ sources:
   - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
   - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
   - vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0
-last_updated: 2026-10-10
+  - vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,13 +26,15 @@ In [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao
 
 In [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]], he applies the same translation style to sleep. He explains nighttime maintenance across brain, endocrine, immune, cardiovascular, digestive, skin, and emotional function; distinguishes sleep onset from continuous restorative sleep; and keeps alcohol, caffeine, tracker scores, suspected apnea, persistent insomnia, and clinical escalation inside explicit boundaries.
 
+In [[vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev]], he brings that patient-benefit discipline back to the innovation-drug industry. He uses ASCO as a visibility signal while refusing to equate presentation share with overall leadership, and he emphasizes safety, survival, quality of life, surrogate-endpoint limits, affordability, licensing tradeoffs, and the gap between rapid execution and original discovery.
+
 ## Key Characteristics
 - Bridges biotech industry analysis and bedside clinical reasoning.
 - Treats drug innovation as a role system involving discovery, development, regulation, reimbursement, hospitals, and patients.
 - Explains new oncology modalities through indication fit rather than headline novelty.
 - Explains metabolic tools and drugs through indication fit rather than consumer-health hype.
 - Explains sleep through continuity, next-day function, whole-body recovery, and clinical escalation rather than duration or device scores alone.
-- Keeps patient burden, quality of life, and medical risk visible when discussing advanced therapies.
+- Keeps patient burden, quality of life, medical risk, and the difference between high-profile data and demonstrated outcomes visible.
 - Uses accessible metaphors without removing clinical limits or validation requirements.
 
 ## Evidence
@@ -40,13 +43,14 @@ In [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-we
 - Risk and burden framing: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] repeatedly weighs survival benefit against adverse reactions, life quality, treatment timing, and household financial pressure.
 - Metabolic-drug and device boundary: [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] has him explain CGM clinical value, healthy-person overmonitoring risk, GLP-1 indications, side effects, muscle loss, and rebound.
 - Sleep maintenance and escalation: [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]] has him connect sleep continuity and stable rhythm with systemic recovery while separating ordinary routine changes from suspected apnea, persistent insomnia, and other symptoms needing qualified care.
+- ASCO and patient-benefit boundary: [[vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev]] has him distinguish rising Chinese oncology visibility from global leadership and connect drug quality with safety, survival, quality of life, and careful endpoint interpretation.
 
 ## Qualifications
-The wiki only has podcast-source evidence for this persona, not an independent biography. The Under alias is inferred from the VOL.220 title's "大白牛/Under" wording and should remain tied to that source unless later material clarifies the naming. The metabolic-health and sleep discussions are public education, not individualized diabetes, obesity, medication, device-use, insomnia, apnea, cardiac, or neurological advice.
+The wiki only has podcast-source evidence for this persona, not an independent biography. The Under alias is inferred from the VOL.220 title's "大白牛/Under" wording and should remain tied to that source unless later material clarifies the naming. The metabolic-health, sleep, oncology, and industry discussions are public education, not individualized diabetes, obesity, medication, device-use, insomnia, apnea, cardiac, neurological, cancer-treatment, investment, or drug-development advice. ASCO shares, treatment examples, price comparisons, and payer statistics in VOL.172 remain source-scoped.
 
 ## What Changed
-- Added VOL.187's systemic sleep-maintenance, continuity, tracker-anxiety, and clinical-escalation discussion.
-- Expanded his public-literacy profile into sleep without inferring a specialist sleep credential.
+- Added VOL.172's ASCO visibility, oncology endpoint, payment, globalization, and original-innovation boundaries.
+- Clarified that he treats conference prominence as a signal rather than proof of global leadership or patient benefit.
 
 ## Relationships
 - [[ClinicalDevelopmentCapability]] - core capability lens he brings to biotech discussion.
@@ -64,3 +68,8 @@ The wiki only has podcast-source evidence for this persona, not an independent b
 - [[SleepHealthQQRT]] - multidimensional sleep-quality frame he makes accessible in VOL.187.
 - [[SystemicSleepLossEffects]] - cross-system maintenance and impairment frame he develops in VOL.187.
 - [[XiaolongWeightManagementGuest]] - co-guest in the sleep-maintenance discussion.
+- [[TanDonghan]] - fellow guest connecting medical training with investment and industry structure.
+- [[ASCOChinaResearchVisibility]] - conference-visibility signal he explicitly qualifies.
+- [[InnovativeDrugClinicalBenefitThreshold]] - efficacy, safety, survival, quality-of-life, and endpoint boundary he explains.
+- [[InnovativeDrugPaymentSustainability]] - affordability and R&D-recovery tradeoff discussed in VOL.172.
+- [[ChinaInnovativeDrugExecutionOriginalityGap]] - distinction he draws between fast execution and discovery of unknown directions.

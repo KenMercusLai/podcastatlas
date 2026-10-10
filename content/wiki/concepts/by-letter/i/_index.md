@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10305
+wiki_total_pages: 10309
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -614,9 +614,15 @@ wiki_pages:
   - key: "InjuryRecoveryAdherence"
     title: "Injury Recovery Adherence"
     url: "/wiki/concepts/injuryrecoveryadherence/"
+  - key: "InnovativeDrugClinicalBenefitThreshold"
+    title: "Innovative Drug Clinical Benefit Threshold"
+    url: "/wiki/concepts/innovativedrugclinicalbenefitthreshold/"
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  - key: "InnovativeDrugPaymentSustainability"
+    title: "Innovative Drug Payment Sustainability"
+    url: "/wiki/concepts/innovativedrugpaymentsustainability/"
   - key: "InnovatorTraitConfiguration"
     title: "Innovator Trait Configuration"
     url: "/wiki/concepts/innovatortraitconfiguration/"

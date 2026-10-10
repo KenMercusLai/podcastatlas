@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10305
+wiki_total_pages: 10309
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3044,6 +3044,9 @@ wiki_pages:
   - key: "AzoospermiaClinicalPathway"
     title: "Azoospermia Clinical Pathway / 无精子症临床路径"
     url: "/wiki/concepts/azoospermiaclinicalpathway/"
+  - key: "ASCOChinaResearchVisibility"
+    title: "China Research Visibility at ASCO"
+    url: "/wiki/concepts/ascochinaresearchvisibility/"
   - key: "AncientPastIdeologicalProjection"
     title: "Ideological Projection onto the Ancient Past"
     url: "/wiki/concepts/ancientpastideologicalprojection/"
