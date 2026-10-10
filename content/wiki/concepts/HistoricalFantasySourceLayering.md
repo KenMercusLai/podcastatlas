@@ -7,6 +7,7 @@ sources:
   - 53-game-of-thrones-glt6687512105
   - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
   - 078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9
+  - 069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar
 last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
@@ -26,6 +27,8 @@ Temporal compression and modern context broaden the method. King's Landing can e
 At a smaller adventure-fiction scale, [[GhostBlowsOutTheLight|《鬼吹灯》]] uses a different source ecology. In the opening of [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]], preserved-body history, Xinjiang archaeology, Tibetan places, religious vocabulary, geomancy and circulating folklore sit beside invented lineages, monsters, artifacts and occupations. The hosts' discussion of a thirteen-whiskered porcelain cat and 背尸 trade makes the credibility mechanism especially visible: proximity to a real tradition such as 赶尸 can make fabricated detail feel inherited without making it historical. [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]]
 
 The opening of [[YunnanWormValleyGhostBlowsOutTheLight|《云南虫谷》]] shows the same method operating through material collision. A wartime aircraft, firearms, Morse equipment and an airman's remains are lodged beside intertwined trees, a jade coffin, a ritual register, geomantic rules and predatory vines. The modern wreck makes the scene concrete without authenticating the occult system; conversely, parts of the feng-shui discussion may have traditional or practical analogues without verifying the novel's ability to transform a water-dragon vein through sacrificial botany. [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]]
+
+The opening of [[LonglingMazeGhostBlowsOutTheLight|《龙岭迷窟》]] makes the same boundary explicit through folklore and material culture. Changing 旱魃 traditions, drought-driven grave destruction, foot-binding shoes, fish-bone temples, geomantic vocabulary, overlapping burials and tomb-raiding labels sit beside likely invented “内藏眢,” four-branch lore and a ghost tomb. Researchable fragments create cultural density, but neither adjacency nor an antiquarian tone proves that the synthesized system is traditional. [[069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar]]
 
 The combined evidence separates source layering from accuracy. [[FantasyMedievalRealism]] shows that borrowing medieval forms does not establish medieval frequency, capacity, psychology, belief, or moral norms; the 《昆仑神宫》 case shows that adjacency to real archaeology or folklore does not authenticate a fictional custom. The interpretive task is therefore twofold: identify useful source relations while preserving the boundary between historical resonance, modern projection, cultural texture, and one-to-one or existence claims.
 
@@ -49,15 +52,15 @@ The combined evidence separates source layering from accuracy. [[FantasyMedieval
 - Cultural-adjacency effect: [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] places likely invented 背尸 and porcelain-cat lore beside mummy history, 赶尸 traditions, Tibetan geography, religious language and geomancy.
 - Expanding fictional system: [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] reads the 摸金、发丘、搬山 and 卸岭 branches as a setting that accumulated representative figures and specialized techniques during series development.
 - Material collision: [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] places a wartime aircraft and communications hardware inside a tree-and-coffin ritual environment while keeping the signal and geomantic mechanism unresolved.
+- Folklore-material adjacency: [[069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar]] places drought lore, embroidered shoes, fish-bone temples and burial history beside likely invented geomancy and tomb-raiding systems.
 
 ## Counterevidence & Qualifications
 
-The four sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《鬼吹灯》 discussions identify likely invention but do not independently verify the historical, archaeological, religious, geomantic or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
+The five sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《鬼吹灯》 discussions identify likely invention but do not independently verify the historical, archaeological, religious, geomantic, material-cultural or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
 
 ## What Changed
 
-- Added material collision between modern military history and an invented occult environment.
-- Clarified that verified-looking equipment and remains do not authenticate adjacent ritual rules.
+- Added folklore and material culture as authority-bearing neighbors to invented geomancy and occupational lore.
 
 ## Related Concepts
 
