@@ -4507,6 +4507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [578. The Irish War of Independence: Bloody Sunday (Part 3)](sources/578-the-irish-war-of-independence-bloody-sunday-part-3-glt8552699883.md) — The Rest Is History on the 1920 IRA assassinations, Croke Park massacre, Dublin Castle killings, official cover-up, military stalemate, and route to truce.
 - [579. The Irish War of Independence: Showdown in London (Part 4)](sources/579-the-irish-war-of-independence-showdown-in-london-part-4-glt9064307865.md) — The Rest Is History on the Anglo-Irish Treaty negotiations, asymmetric bargaining, dominion status, the oath, partition, and the split that led toward civil war.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
+- [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
 - [Piero de' Medici](entities/PieroDeMedici.md) — Lorenzo's successor whose unauthorized concessions to Charles VIII precipitated the 1494 Medici expulsion.
@@ -17756,6 +17757,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henry Wilson](entities/HenryWilson.md) — Irish-born British field marshal and Ulster Unionist MP whose assassination intensified the Four Courts crisis before the Irish Civil War.
 
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
+- [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
 - [Apocalyptic Prophecy and Crisis Legitimation](concepts/ApocalypticProphecyCrisisLegitimation.md) — Mechanism by which apparent fulfillment turns warning into authority and unmet extension or failed proof reverses it.
@@ -28169,5 +28171,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [喜恶同因 / Same-Cause Attraction and Aversion](concepts/SameCauseAttractionAversion.md) — Causal ambivalence in which a valued benefit and disliked cost arise from the same trait, boundary, or arrangement.
 - [Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除](concepts/PossessiveAttachmentAndSelfErasure.md) — 区分试图控制不可得对象与为维持靠近而放弃自身判断、身体和生活方向的两种破坏性文学关系模式。
 - [Household Refrigerator Food Safety / 家庭冰箱食品安全](concepts/HouseholdRefrigeratorFoodSafety.md) — Layered household prevention through time, temperature, separation, containment, thawing, cleaning, disposal, and sensory-limit awareness.
+- [Useful Discomfort](concepts/UsefulDiscomfort.md) — Purposeful, proportionate friction that builds capability or perspective while remaining bounded by safety, consent, recovery, and ruin avoidance.
 
 ## Syntheses

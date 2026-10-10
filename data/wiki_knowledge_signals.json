@@ -66526,9 +66526,9 @@
       "url": "/wiki/concepts/digitalmemorydefault/"
     },
     "DigitalMinimalism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -66543,6 +66543,13 @@
           "show": "Huberman Lab",
           "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
+        },
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
         }
       ],
       "updated": "2026-09-29",
@@ -74589,9 +74596,9 @@
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
     },
     "EffortAsReward": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -74620,6 +74627,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim9807260634-scim9807260634/"
+        },
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
         }
       ],
       "updated": "2026-10-11",
@@ -166311,6 +166325,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/macbethplay/"
     },
+    "MachineGamblingAddiction": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "44.运气的诱饵：赌博成瘾，因为我们害怕自由 [619995308].md",
+          "key": "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308",
+          "show": "蜜獾吃书",
+          "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
+          "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+        },
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/machinegamblingaddiction/"
+    },
     "MachineIntelligenceResearchInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -175421,6 +175458,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/michaeldell/"
+    },
+    "MichaelEaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/michaeleaster/"
     },
     "MichaelEisenberg": {
       "episode_count": 1,
@@ -246469,9 +246522,9 @@
       "url": "/wiki/concepts/subagentworkflow/"
     },
     "SubconsciousCreativeIncubation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -246500,6 +246553,13 @@
           "show": "Huberman Lab",
           "title": "How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/how-to-access-your-creativity-rick-rubin-scim6664103159/"
+        },
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
         }
       ],
       "updated": "2026-09-29",
@@ -264698,6 +264758,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/usagebasedverticalsaaspricing/"
+    },
+    "UsefulDiscomfort": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4938586138 [SCIM4938586138].md",
+          "key": "scim4938586138-scim4938586138",
+          "show": "Huberman Lab",
+          "title": "How to Grow From Doing Hard Things | Michael Easter",
+          "url": "/wiki/sources/scim4938586138-scim4938586138/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/usefuldiscomfort/"
     },
     "UselessInventionValue": {
       "episode_count": 1,

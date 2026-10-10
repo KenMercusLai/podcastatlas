@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10333
+wiki_total_pages: 10334
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "UsedEVAffordability"
     title: "Used EV Affordability"
     url: "/wiki/concepts/usedevaffordability/"
+  - key: "UsefulDiscomfort"
+    title: "Useful Discomfort"
+    url: "/wiki/concepts/usefuldiscomfort/"
   - key: "UsefulWorkCareerCompounding"
     title: "Useful Work Career Compounding"
     url: "/wiki/concepts/usefulworkcareercompounding/"

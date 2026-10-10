@@ -35357,3 +35357,13 @@ Added source `vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-r
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | How to Grow From Doing Hard Things | Michael Easter
+
+Added source `scim4938586138-scim4938586138`; created [[MichaelEaster]] and [[UsefulDiscomfort]]; resynthesized [[EffortAsReward]], [[DigitalMinimalism]], [[SubconsciousCreativeIncubation]], and [[MachineGamblingAddiction]] from their complete preserved evidence inventories before appending the new source once; and migrated Machine Gambling Addiction to `synthesis-v1`. Core synthesis: useful discomfort is purposeful, proportionate friction whose value depends on capability, perspective, reflection, safety, recovery, and transfer rather than suffering or public impressiveness; effort-first sequencing can coexist with chosen leisure, device friction can restore a decision point, low-stimulation creativity still needs capture and evaluation, and rapid variable-reward systems can narrow reflection without requiring operator fraud. No settled contradiction was adopted. The dopamine spending-versus-investing metaphor is retained as a heuristic rather than a literal finite account, while evolutionary mismatch, named-study, optic-flow, camping-reset, rucking-dose, gambling-mechanism, and personal-transformation claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], nature, general dopamine, and outdoor-risk pages were kept closed where focused pages captured the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 4,429 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
