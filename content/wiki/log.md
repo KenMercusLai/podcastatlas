@@ -34384,3 +34384,10 @@ Added source `081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-10] ingest | 611. Nelson: Bonaparte Prepares to Strike (Part 4)
+
+Added source `611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489`; and resynthesized [[HoratioNelson]], [[EmmaHamilton]], [[PierreCharlesVilleneuve]], [[RoyalNavy]], [[TrafalgarCampaign]], and [[SeaControlStateCapacity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Britain's invasion defense and the pursuit of Villeneuve depended on blockade endurance, provisioning, health, discipline, intelligence, global reach, and coalition coordination as well as battle, while Nelson's operational skill coexisted with failed action, chronic illness, vanity, financial excess, adultery, harsh discipline, and cruelty toward Fanny. No settled contradiction was adopted. Fleet, casualty, financial, medical, logistical, quotation, motive, and invasion-counterfactual claims remain episode-attributed or source-scoped. Broad [[NapoleonBonaparte]] and [[TheRestIsHistory]] profiles were kept closed because the focused source, campaign, institution, people, and concept capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,307 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -11,6 +11,7 @@ sources:
   - 76-statues-trafalgar-square-glt4670878913
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
   - 612-nelson-the-final-showdown-part-5-glt2077045869
+  - 611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -25,11 +26,13 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. Before Trafalgar he kept the battle fleet beyond the horizon, relied on frigates to watch Cadiz, and used captain dinners to turn the two-column “Nelson touch” into shared intent. He sought not a limited win but annihilation and trusted captains to execute once battle became chaotic. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
 
-The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. The 2025 retelling makes his final departure from Merton a bridge between private attachment and public duty: prayer, repeated farewells to Emma, acknowledgment of Horatia in a last letter, and expectation of death precede the later codicil asking king and country to support them. His conspicuous refusal of safety, continued attention to victory and anchoring after his wound, and repeated claims of fulfilled duty culminated in a death that fused operational success with sacrifice and national myth. [[76-statues-trafalgar-square-glt4670878913]] and [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] follow that afterlife into [[TrafalgarSquare]], where a Roman-style triumphal column commemorates victory and naval supremacy while disputes over slavery test whether selected military honor can remain separate from a wider moral record. The earlier comic source shows how Emma Hamilton and celebrity scandal form another, lighter branch of the same public afterlife.
+The 1801-1805 bridge makes endurance and failure part of that profile. Nelson's first Boulogne raid reinforced his judgment that France lacked the sea power for invasion, but the second attack caused heavy British casualties and the death of Edward Parker. At Toulon he spent nearly two years at sea while managing supplies, health, morale, and a blockade he found frustrating; when [[PierreCharlesVilleneuve|Villeneuve]] escaped, Nelson searched the Mediterranean, crossed the Atlantic, protected the Caribbean colonies, and returned without catching him. Eye trouble, fever, sweating, palpitations, seasickness, exhaustion, and harsh self-judgment persisted alongside operational competence.
+
+The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. Merton was both an attempted refuge with [[EmmaHamilton|Emma Hamilton]] and Horatia and a costly shrine to celebrity, while his abandonment of Fanny, absence from his father's funeral, appetite for praise, and self-pity make private cruelty part of the record. The later 2025 retelling makes his final departure from Merton a bridge between private attachment and public duty: prayer, repeated farewells to Emma, acknowledgment of Horatia in a last letter, and expectation of death precede the codicil asking king and country to support them. His conspicuous refusal of safety, continued attention to victory and anchoring after his wound, and repeated claims of fulfilled duty culminated in a death that fused operational success with sacrifice and national myth. [[76-statues-trafalgar-square-glt4670878913]] and [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] follow that afterlife into [[TrafalgarSquare]], where a Roman-style triumphal column commemorates victory and naval supremacy while disputes over slavery test whether selected military honor can remain separate from a wider moral record. The earlier comic source shows how celebrity scandal forms another, lighter branch of the same public afterlife.
 
 ## Key Characteristics
 
-- Meticulous commander who treated weather, food, maintenance, health, and preparation as combat inputs.
+- Meticulous but physically vulnerable commander who treated weather, food, maintenance, health, and preparation as combat inputs while recognizing that blockade and pursuit could not guarantee interception.
 - Charismatic leader who created shared mission through affection, patriotic language, and heroic self-presentation.
 - Risk-accepting tactician who exploited geography, trusted captains, and converted close-range chaos into British advantage at the Nile and Trafalgar.
 - Institutional inheritor who adapted Hood's offensive reach and Jervis's disciplined delegation.
@@ -44,6 +47,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects Nelson's weather logs, sailor welfare, courage, captain loyalty, patriotic mission, and emotionally charged explanation of the “Nelson touch.”
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] places his provisioning, anti-scurvy attention, aggression, and delegated command within the Navy's longer professional and logistical development.
 - [[612-nelson-the-final-showdown-part-5-glt2077045869]] connects horizon concealment, frigate surveillance, captain dinners, crew readiness, final family letters, and the communicated “Nelson touch.”
+- [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] connects the Toulon blockade, supply and health management, crew morale, Mediterranean search, Atlantic pursuit, and Caribbean protection while preserving the failure to catch Villeneuve.
 
 ### Tactical risk, delegated intent, and death
 
@@ -58,18 +62,19 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 - [[357-historical-love-island-the-sequel-glt7719682575]] reduces that celebrity to a comic reality-show “bombshell” defined chiefly by charisma and romantic disruption.
 - [[76-statues-trafalgar-square-glt4670878913]] presents Nelson's Column as durable victory memory whose triumphal form and public prominence also make slavery and abolition disputes unavoidable.
 - [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] connects the funeral and nineteenth-century monument program to patriotic endurance while acknowledging empire and anti-abolition controversy.
+- [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] adds the failed Boulogne raid, illness, Merton's conspicuous spending, dependence on praise, treatment of Fanny, and absence from Edmund Nelson's funeral.
 
 ## Qualifications
 
-The Nile and Trafalgar sources are British-centered conversational narratives, and both 2025 episodes substantially retell the 2022 campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. Reported prayers, rings, farewells, codicils, dialogue, crowd reactions, French anchoring assumptions, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain either victory. Care for British sailors does not resolve his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed. Acknowledging those politics should not collapse analysis of command into either hero worship or total dismissal.
+The Nile and Trafalgar sources are British-centered conversational narratives, and the 2025 episodes substantially retell the 2022 campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. Reported prayers, rings, farewells, dialogue, medical symptoms, domestic motives, converted finances, fleet and casualty totals, French anchoring assumptions, the captains' reactions, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain victory or pursuit. Care for British sailors does not resolve harsh discipline, his treatment of Fanny, or his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed. Acknowledging those politics should not collapse analysis of command into either hero worship or total dismissal.
 
 ## What Changed
 
-- Made annihilation-seeking ambition and public self-fashioning part of the profile rather than treating courage as uncomplicated.
-- Added anti-abolitionism and Caribbean slavery as direct moral qualifications to the heroic image.
-- Connected the pre-battle “Nelson touch” to its execution, cost, death, and memorial afterlife.
-- Extended his tactical profile backward to the Nile, where geographic risk and close engagement isolated Napoleon's army before the later Trafalgar campaign.
-- Joined the Merton farewell and family codicil to horizon concealment, frigate surveillance, captain dinners, command after wounding, fleet grief, and state funeral as mechanisms connecting preparation, shared intent, fatalistic duty, and public myth.
+- Extended the profile from decisive battles into Boulogne failure, long blockade, Mediterranean uncertainty, and transatlantic pursuit.
+- Made chronic illness, exhaustion, and inability to catch Villeneuve compatible with operational skill rather than exceptions erased by later victory.
+- Recast Merton as both family refuge and financially unstable celebrity shrine, adding Nelson's treatment of Fanny and need for praise to the moral qualification.
+- Connected logistics, health, morale, intelligence, and delegated execution across the Nile, Toulon, Cadiz, and Trafalgar.
+- Retained anti-abolitionism, empire, death in victory, and monumental memory as limits on uncomplicated heroism.
 
 ## Relationships
 

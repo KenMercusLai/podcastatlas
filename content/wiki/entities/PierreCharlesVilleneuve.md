@@ -7,6 +7,7 @@ sources:
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
   - 612-nelson-the-final-showdown-part-5-glt2077045869
+  - 611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -19,7 +20,7 @@ Pierre-Charles Villeneuve is presented as the French admiral who led Napoleon's 
 
 ## Current Profile
 
-Villeneuve appears as a capable but anxious commander operating under structural and psychological constraints. The Revolution had damaged the French Navy's aristocratic command system, he had survived Nelson's destruction of the fleet at the Nile, and he believed the British could win even against superior numbers. In 1805 he escaped Toulon, crossed to the Caribbean, abandoned the feint when Nelson approached, fought Calder, and entered Cadiz rather than complete Napoleon's concentration plan. Disease, supply shortages, coalition reluctance, new orders, Nelson's partially concealed force, and news that Napoleon intended to replace him narrowed his choices. The later retelling presents his decision to sail as an attempt to obey orders and recover honor, not evidence that he suddenly judged the operation sound. At Trafalgar, his turn toward Cadiz disordered the allied line and dissolved the reserve before Nelson's columns struck; he nevertheless stood conspicuously at his post until Bucentaure was devastated and surrendered. He later attended Nelson's funeral as a prisoner and died in Rennes in 1806, but the episode leaves suicide and murder accounts unresolved.
+Villeneuve appears as a capable but anxious commander operating under structural and psychological constraints. The Revolution had damaged the French Navy's aristocratic command system, he had survived Nelson's destruction of the fleet at the Nile, and he believed the British could win even against superior numbers. In 1805 he escaped Toulon while Nelson provisioned near Sardinia, combined with [[FedericoGravina|Gravina]] at Cadiz, crossed to the Caribbean, and turned east without mounting the major operation Napoleon expected. The route depended on drawing British ships west, returning rapidly, joining other French forces, and creating temporary Channel control; Villeneuve and naval minister Decrès doubted that sequence was practical. After fighting Calder he entered Cadiz rather than complete the concentration plan. Disease, supply shortages, coalition reluctance, new orders, Nelson's partially concealed force, and news that Napoleon intended to replace him narrowed his choices. The later retelling presents his decision to sail as an attempt to obey orders and recover honor, not evidence that he suddenly judged the operation sound. At Trafalgar, his turn toward Cadiz disordered the allied line and dissolved the reserve before Nelson's columns struck; he nevertheless stood conspicuously at his post until Bucentaure was devastated and surrendered. He later attended Nelson's funeral as a prisoner and died in Rennes in 1806, but the episode leaves suicide and murder accounts unresolved.
 
 ## Key Characteristics
 
@@ -41,6 +42,7 @@ Villeneuve appears as a capable but anxious commander operating under structural
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] traces the Toulon escape, Caribbean retreat, Calder encounter, move to Cadiz, coalition friction, shortage, disease, new orders, and threat of replacement.
 - [[612-nelson-the-final-showdown-part-5-glt2077045869]] reinforces the shortage, disease, detached British ships, replacement threat, infantry-heavy close-action proposal, and honor-conscious decision to sail.
+- [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] adds the timing of the Toulon escape, combination with Gravina, Caribbean feint, early return, and Villeneuve's and Decrès's doubts about Napoleon's multi-fleet plan.
 
 ### Formation disorder and surrender
 
@@ -49,15 +51,15 @@ Villeneuve appears as a capable but anxious commander operating under structural
 
 ## Qualifications
 
-All four sources center Nelson and British experience, and the 2025 episodes substantially retell the earlier campaign and battle accounts. Villeneuve's own documents, French institutional recovery, Spanish perspectives, and the full logic of his decisions are only selectively represented. His fear, honor, motives, reported statements, replacement timing, the alternatives available at each stage, the cause of his death, and the relative importance of coalition versus personal command failure remain source-scoped.
+All five sources center Nelson and British experience, and the 2025 episodes substantially retell the earlier campaign and battle accounts. Villeneuve's own documents, Decrès's position, French institutional recovery, Spanish perspectives, and the full logic of his decisions are only selectively represented. His fear, honor, motives, reported statements, replacement timing, Caribbean intentions, the alternatives available at each stage, the cause of his death, and the relative importance of coalition versus personal command failure remain source-scoped.
 
 ## What Changed
 
-- Replaced a battle-only defeated-commander profile with one grounded in the full Atlantic campaign.
-- Reframed caution through prior defeat, French institutional damage, British capability, and coalition constraints.
-- Kept Villeneuve responsible for consequential choices without reducing campaign failure to cowardice.
-- Added conspicuous battlefield conduct and the unresolved postwar death as qualifications to the defeated-commander image.
-- Clarified that replacement pressure and honor could trigger departure without reversing Villeneuve's judgment that sailing near Nelson was dangerously unsound.
+- Extended the Atlantic campaign backward to the Toulon escape and combination with Gravina.
+- Made Villeneuve's and Decrès's doubts about Napoleon's multi-stage plan part of the explanation for caution.
+- Kept the early Caribbean return, Calder encounter, move to Cadiz, and final reversal as consequential command decisions without reducing failure to cowardice.
+- Clarified that replacement pressure and honor could trigger departure without reversing Villeneuve's pessimistic assessment.
+- Retained conspicuous battlefield conduct and unresolved postwar death as qualifications to the defeated-commander image.
 
 ## Relationships
 
