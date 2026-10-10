@@ -40360,6 +40360,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/charlesvoffrance/"
     },
+    "CharlesWAlcock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/charleswalcock/"
+    },
     "CharlesWarren": {
       "episode_count": 2,
       "show_count": 1,
@@ -177192,6 +177208,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/modernromanceslump/"
     },
+    "ModernSportInstitutionalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/modernsportinstitutionalization/"
+    },
     "Moderna": {
       "episode_count": 5,
       "show_count": 5,
@@ -195981,6 +196013,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/peasantsrevolt1381/"
+    },
+    "Pedestrianism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/pedestrianism/"
     },
     "PediatricAirwayForeignBodyEscalation": {
       "episode_count": 1,
@@ -219127,6 +219175,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/richardjdaley/"
     },
+    "RichardManks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/richardmanks/"
+    },
     "RichardNevilleEarlOfWarwick": {
       "episode_count": 1,
       "show_count": 1,
@@ -220206,6 +220270,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/robbieross/"
     },
+    "RobertBarclayAllardice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/robertbarclayallardice/"
+    },
     "RobertBlum": {
       "episode_count": 1,
       "show_count": 1,
@@ -220278,9 +220358,9 @@
       "url": "/wiki/entities/robertclive/"
     },
     "RobertColls": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5823999588 [GLT5823999588].md",
@@ -220295,6 +220375,13 @@
           "show": "The Rest Is History",
           "title": "593. The Fight of the Century",
           "url": "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
+        },
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
         }
       ],
       "updated": "2026-10-11",
@@ -251530,6 +251617,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/theoresteia/"
+    },
+    "TheOval": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6102181144 [GLT6102181144].md",
+          "key": "592-mad-victorian-sport-glt6102181144",
+          "show": "The Rest Is History",
+          "title": "592. Mad Victorian Sport",
+          "url": "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/theoval/"
     },
     "ThePillowBook": {
       "episode_count": 1,

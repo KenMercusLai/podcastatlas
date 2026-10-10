@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路](sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228.md) — 罗永浩对谈李想，从青少年互联网创业、汽车之家和理想汽车创立谈到增程家庭车、组织争论、危机透明、MEGA修正、长期迭代与AI司机评价。
 - [073 《倪匡传奇》第二弹：倪匡奇异往事大公布](sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv.md) — 纸醉金迷FM以倪匡的大兴安岭、治淮与苏北经历连接创作素材、时代生活和怪谈，并区分叙事价值与历史、科学及超自然验证。
+- [592. Mad Victorian Sport](sources/592-mad-victorian-sport-glt6102181144.md) — The Rest Is History on Richard Manks, pedestrianism, the Oval, and the venues, rules, clubs, cups, media, and international fixtures that institutionalized modern sport.
 - [593. The Fight of the Century](sources/593-the-fight-of-the-century-glt1334632459.md) — The Rest Is History on Sayers and Heenan, Victorian prizefighting, illegality, betting, nationalism, “bottom,” and boxing's codification tradeoffs.
 - [VOL.176脂肪比流量更难‘脱粉’！女超人于莺自曝从十年前初代网红医生到今天](sources/vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao-cong-shinian-qian-chudai-wanghong-yisheng-dao-jintian-lhtwcueq99i_iercay_lqvohzdg7.md) — 于莺以个人经历和医学解释连接减重平台、复胖、食欲与情绪、肌肉保留、正规评估和违规减肥产品风险。
 - [594. The First World War: The Invasion of Belgium (Part 1)](sources/594-the-first-world-war-the-invasion-of-belgium-part-1-glt4855256129.md) — The Rest Is History on the Schlieffen Plan, Belgian neutrality, Liège, civilian reprisals, Louvain, Brussels, and the boundary between documented atrocity and propaganda.
@@ -4456,6 +4457,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Auto ONE / 理想 ONE](entities/LiAutoONE.md) — 以六座家庭场景与增程补能为核心、同时经历早期质量修正的理想汽车首款量产车。
 - [Li Auto MEGA / 理想 MEGA](entities/LiAutoMEGA.md) — 用于讨论纯电补能、私人空间、上市舆论危机与产品补救的理想汽车MPV。
 - [倪匡 / Ni Kuang](entities/NiKuang.md) — 将森林、工程、荒地生活与奇异见闻转化为冒险、科幻和灵异创作素材的作家。
+- [Richard Manks](entities/RichardManks.md) — Solihull bricklayer and professional pedestrian whose 1851 thousand-mile Oval walk became a major quantified endurance spectacle.
+- [Robert Barclay Allardice](entities/RobertBarclayAllardice.md) — Captain Barclay, whose thousand-miles-in-a-thousand-hours format made scheduling and recovery central to pedestrianism.
+- [The Oval](entities/TheOval.md) — Kennington multi-sport ground linking older common-land spectacle to permanent, ticketed, recurring, and international competition.
+- [Charles W. Alcock](entities/CharlesWAlcock.md) — Cross-sport administrator who connected football and cricket organizations, the Oval, the FA Cup, and early international fixtures.
 - [Tom Sayers](entities/TomSayers.md) — Experienced English prizefighting champion whose disputed 1860 draw made him a symbol of skill, endurance, and national popular celebrity.
 - [John C. Heenan](entities/JohnCHeenan.md) — Irish-American challenger whose physical threat and international fame greatly exceeded his winless professional record.
 - [于莺 / Yu Ying](entities/YuYingEmergencyPhysician.md) — 前急诊医生与医学科普者，以个人减重经历解释平台期、反弹、食欲调节和专业评估边界。
@@ -17634,6 +17639,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timothy Syndrome Therapy Translation](concepts/TimothySyndromeTherapyTranslation.md) — Staged path from a causal calcium-channel mutation through complementary human models toward a nucleic-acid therapeutic candidate.
 - [Long-Horizon Market Iteration / 长周期市场迭代](concepts/LongHorizonMarketIteration.md) — 在长期选择的赛道中，以高频用户、市场和运营反馈持续修正产品与组织。
 - [AI Driver Evaluation / AI 司机评价](concepts/AIDriverEvaluation.md) — 以选路、速度、舒适、安全和沟通评价车辆智能，同时区分体验改进与L4责任转移。
+- [Pedestrianism](concepts/Pedestrianism.md) — Wager-driven endurance sport organized through precise distance, time, recovery, statistics, media attention, and crowd spectacle.
+- [Modern Sport Institutionalization](concepts/ModernSportInstitutionalization.md) — Convergence of venues, codified rules, clubs, governing bodies, recurring competitions, media, revenue, and international rivalry.
 - [Victorian Prizefighting](concepts/VictorianPrizefighting.md) — Bare-knuckle sport as a coupled system of rules, gambling, legal tolerance, class culture, nationalism, media, and changing injury tradeoffs.
 - [Schlieffen Plan](concepts/SchlieffenPlan.md) — German attempt to solve a two-front war through rapid western concentration via Belgium before shifting forces east.
 - [Belgian Atrocity and Propaganda Problem (1914)](concepts/BelgianAtrocityPropaganda1914.md) — Framework preserving documented German violence, disputed stories, reciprocal propaganda, and Louvain's symbolic force.

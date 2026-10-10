@@ -6270,6 +6270,13 @@
       "url": "/topics/history/"
     }
   ],
+  "592-mad-victorian-sport-glt6102181144": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "593-the-fight-of-the-century-glt1334632459": [
     {
       "key": "history",
@@ -60425,6 +60432,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ModernSportInstitutionalization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ModernTreasury": [
     {
       "key": "technology",
@@ -66491,6 +66505,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Pedestrianism": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PedroAra": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10286
+wiki_total_pages: 10288
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "ModernRomanceSlump"
     title: "Modern Romance Slump / 现代浪漫衰退"
     url: "/wiki/concepts/modernromanceslump/"
+  - key: "ModernSportInstitutionalization"
+    title: "Modern Sport Institutionalization"
+    url: "/wiki/concepts/modernsportinstitutionalization/"
   - key: "ModernTimeDiscipline"
     title: "Modern Time Discipline"
     url: "/wiki/concepts/moderntimediscipline/"

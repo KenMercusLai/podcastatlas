@@ -34909,3 +34909,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 592. Mad Victorian Sport
+
+Added source `592-mad-victorian-sport-glt6102181144`; created [[RichardManks]], [[RobertBarclayAllardice]], [[TheOval]], [[CharlesWAlcock]], [[Pedestrianism]], and [[ModernSportInstitutionalization]]; and resynthesized [[RobertColls]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: pedestrianism already joined wagers, quantified performance, press statistics, bodily ordeal, and mass spectatorship, while the Oval and Charles W. Alcock show how permanent venues, codified rules, clubs, cups, recurring fixtures, administration, and international rivalry made modern sport institutionally durable. No settled contradiction was adopted. The raw episode note's “Richard Manx” spelling was normalized to Richard Manks; first-event labels, dates and recognition of early internationals, crowd and betting figures, remembered dialogue, exact mileage, royal motives, and causal claims about pedestrianism's decline remain source-scoped. Broad [[TheRestIsHistory]], [[WGGrace]], and general cricket and football pages were kept closed because the focused source, people, venue, concepts, and Colls update capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,373 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

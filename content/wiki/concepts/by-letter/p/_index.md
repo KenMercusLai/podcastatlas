@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10286
+wiki_total_pages: 10288
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
+  - key: "Pedestrianism"
+    title: "Pedestrianism"
+    url: "/wiki/concepts/pedestrianism/"
   - key: "PediatricAirwayForeignBodyEscalation"
     title: "Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置"
     url: "/wiki/concepts/pediatricairwayforeignbodyescalation/"

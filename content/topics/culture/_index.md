@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3370
+topic_total_pages: 3372
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2107,6 +2107,9 @@ topic_concepts:
   - key: "ModernPrometheusReading"
     title: "Modern Prometheus Reading / 现代普罗米修斯读法"
     url: "/wiki/concepts/modernprometheusreading/"
+  - key: "ModernSportInstitutionalization"
+    title: "Modern Sport Institutionalization"
+    url: "/wiki/concepts/modernsportinstitutionalization/"
   - key: "MonaLisaFameFormation"
     title: "Mona Lisa Fame Formation"
     url: "/wiki/concepts/monalisafameformation/"
@@ -2377,6 +2380,9 @@ topic_concepts:
   - key: "PassionTrapCareerAdvice"
     title: "Passion Trap Career Advice"
     url: "/wiki/concepts/passiontrapcareeradvice/"
+  - key: "Pedestrianism"
+    title: "Pedestrianism"
+    url: "/wiki/concepts/pedestrianism/"
   - key: "PenaltyShootoutPressure"
     title: "Penalty Shootout Pressure"
     url: "/wiki/concepts/penaltyshootoutpressure/"

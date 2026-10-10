@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2698
+topic_total_pages: 2699
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6618,6 +6618,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "592-mad-victorian-sport-glt6102181144"
+    title: "592. Mad Victorian Sport"
+    url: "/wiki/sources/592-mad-victorian-sport-glt6102181144/"
   - key: "593-the-fight-of-the-century-glt1334632459"
     title: "593. The Fight of the Century"
     url: "/wiki/sources/593-the-fight-of-the-century-glt1334632459/"
